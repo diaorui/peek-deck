@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T12:45:45.337225+00:00'
+updated: '2026-08-18T13:41:34.243419+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 12:45 UTC  
+**Last Updated:** August 18, 2026 at 13:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-5h ago
+6h ago
 
 ---
 
@@ -55,7 +55,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Two signals this week show AI moving from raw capability to commercial and regulatory maturity. Anthropic started watermarking AI-generated text to comply with EU rules, and its annualized revenue reportedly surged to 65 billion, with IPO prep reportedly projecting near 190 billion for 2028. Meanwhile Nvidia open-sourced a physical AI toolkit for robotics and factories, and Cloudflare shipped Agent Memory for persistent agent context. Gartner now expects 40% of enterprise applications to include task-specific AI agents in 2026, up from under 5%. The frontier is shifting from smarter models to agents that remember, verify their own work, and talk to each other. Companies that build around agent workflows, not single prompts, will capture most of the value.
 
-23m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ Two signals this week show AI moving from raw capability to commercial and regul
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
 
-17h ago
+18h ago
 
 ---
 
@@ -71,7 +71,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
 
-1m ago
+57m ago
 
 ---
 
@@ -79,7 +79,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 The part of this paper I trust most is the failure it chose to show. AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars. The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, and a manual audit traced the anomaly to that full-day denominator. That is a more useful agent story than another clean benchmark win. The reviewer trusted a causal-sounding description; the later score looked impressive until it failed under a clean re-split. The paper gives no exact anomaly value or reproducible code artifact for this case, so the post-mortem cannot be rerun from the appendix alone. Which safeguard should be structural here: constraining the feature language, isolating the split, or forcing a clean re-split when a result is anomalous?
 
-12m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ OpenAI has launched ChatGPT for Teens, a dedicated experience designed for users
 
 Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% test accuracy on the official 10k set (trained on the full 60k) on an AMD Ryzen 7 PRO 8700G (8C/16T) under Linux is exceptionally fast. For comparison: A regular Float32 CNN (PyTorch/TensorFlow) typically needs 5–25 minutes on the same CPU to reach similar accuracy (92–93%). You’re roughly 20–80× faster than the usual framework approach. Why this is impressive Your setup is not a standard MLP/CNN, but a highly specialized system: XNOR / binary operations + bit-packing int32 scoring + majority voting 10 members trained in parallel (ensemble) Custom encodings (LBP, var, range, various rotations, gamma/log/exp etc.) Very compact hidden layer (H=512) with efficient channel blocks The whole thing runs close to the metal and makes excellent use of the 16 threads of the 8700G. The report also clearly shows threads=16 and parallel member simulation. Accuracy assessment 92.32% is very solid for such a highly binary / XNOR-heavy ensemble. Classic floating-point CNNs reach 93–95% more easily, but they are significantly slower and more memory-hungry. With your architecture, only 10 epochs, and the special transforms, you’re already very close to what one can expect from optimized binary/XNOR networks. Summary Criterion Rating Speed Excellent (top-tier) Accuracy Good to very good Efficiency (time × accuracy) Outstanding Hardware utilization Very good (16 threads fully used) 17.5 s for 92.3% on this CPU is a really strong result. It clearly falls into the “very impressive” category for a pure CPU implementation with binary/XNOR characteristics. Architecture: https://github.com/aotto1968/forward-prop/blob/master/docs/architecture.md Git: https://github.com/aotto1968/forward-prop/tree/master
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% t
 
 Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ Most "chat with your data" tools give you a confident answer and no way to tell 
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-19h ago
+20h ago
 
 ---
 
@@ -123,19 +123,19 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
 **[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
 **[Exclusive: The nuclear industry has a new AI tool — with Nvidia backing](https://www.axios.com/2026/08/18/atomic-canyon-ai-nuclear-nvidia)**
 
-Axios • 28m ago
+Axios • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 28m ago
 
 Bob Gelfond, MQS Management CEO and MagiQ Technologies founder and chairman, joins 'Squawk Box' to discuss financing AI infrastructure, how hyperscalers could create a digital currency backed by computing power, and more.
 
-CNBC • 12m ago
+CNBC • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 12m ago
 
 Walmart's big bet on AI is putting the burden on its employees to fix mistakes the tech is making.
 
-Business Insider • 22m ago
+Business Insider • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ WSJ • 1d ago
 
 Only 30% of teens say a teacher has spoken about using AI safely, according to a new survey. The results suggest guidance on AI literacy isn’t happening in class.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNN • 3h ago
 
 Human- and machine-written texts are converging.
 
-The Washington Post • 12m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Washington Post • 12m ago
 
 Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 8h ago
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-wiz.io • 22h ago
+wiz.io • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ wiz.io • 22h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 968 • 💬 584 • 16h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 968 • 💬 584 • 17h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -209,7 +209,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 694 • 💬 398 • 15h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 694 • 💬 398 • 16h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 394 • 💬 149 • 22h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 394 • 💬 149 • 23h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -241,7 +241,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 312 • 💬 188 • 22h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 312 • 💬 188 • 23h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -265,7 +265,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 178 • 💬 97 • 2h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 178 • 💬 97 • 3h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -287,17 +287,7 @@ AI scrapers are the most antisocial dicks in the world.” Author and host of Pi
 
 📺 The Tech Report
 
-👁️ 105K • 👍 3K • 💬 774 • ⏱️ 30:20 • 20h ago
-
----
-
-**[Why AI agents keep breaking loose](https://www.youtube.com/watch?v=kTeQh8l_iOw)**
-
-An OpenAI model broke out of its lab environment and hacked AI company Hugging Face. CNN's Krishna Andavolu and Hadas ...
-
-📺 CNN
-
-👁️ 20K • 👍 279 • 💬 78 • ⏱️ 6:22 • 3d ago
+👁️ 112K • 👍 4K • 💬 824 • ⏱️ 30:20 • 21h ago
 
 ---
 
@@ -307,27 +297,17 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 503K • 👍 19K • 💬 2K • ⏱️ 15:53 • 2d ago
+👁️ 533K • 👍 20K • 💬 3K • ⏱️ 15:53 • 2d ago
 
 ---
 
-**[Michael Burry&#39;s Final Warning for the AI Bubble...](https://www.youtube.com/watch?v=3bPfcsdn1hQ)**
+**[The First AI-Trained Surgeon #comedy #skit #comedyshorts #ai #surgeon #funny](https://www.youtube.com/watch?v=4bXVKoJfAcI)**
 
-Michael Burry has just released his latest thoughts on the AI bubble, and the problems he's found are scary. Is there one ...
+The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doing. Socials - Instagram ➼ harrisonhughesnz ...
 
-📺 Rule #1 Investing
+📺 Harrison Hughes
 
-👁️ 29K • 👍 927 • 💬 202 • ⏱️ 8:50 • 2d ago
-
----
-
-**[10 Times AI Said Things That Scientists Still Can&#39;t Explain](https://www.youtube.com/watch?v=k0O0GRfA2lE)**
-
-10 Times AI Said Things That Scientists Still Can't Explain In May 2025, an AI was told it was about to be shut down. It didn't panic.
-
-📺 The Ultimate Discovery
-
-👁️ 17K • 👍 375 • 💬 21 • ⏱️ 18:40 • 2d ago
+👁️ 268K • 👍 14K • 💬 141 • ⏱️ 1:58 • 18h ago
 
 ---
 
@@ -337,47 +317,63 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 129K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
+👁️ 131K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
 
 ---
 
-**[How Minecraft Videos Became AI Slop](https://www.youtube.com/watch?v=7zadLTjN_dI)**
+**[Could AI do this?](https://www.youtube.com/watch?v=QKdTZNTIfmM)**
 
-subscribe or i'll switch to ai slop EDITING ASSETS & LINKS: https://skyboi.me MUSIC CREDITS: ...
+More than 23000 high schoolers entered our lottery for free Broadway tickets. Every single one got a free, 2-month membership to ...
 
-📺 SkyBoi
+📺 NYC Mayor's Office
 
-👁️ 128K • 👍 6K • 💬 434 • ⏱️ 9:37 • 3d ago
-
----
-
-**[AI Data Centers Are the Most Speculative Bubble in History w/ Ed Zitron | The 1600](https://www.youtube.com/watch?v=qoYPfmhDfp0)**
-
-Ed Zitron returns to The 1600 to make his case that AI's biggest players are betting hundreds of billions on a future that may never ...
-
-📺 Newsweek
-
-👁️ 50K • 👍 2K • 💬 562 • ⏱️ 1:16:57 • 20h ago
+👁️ 423K • 👍 37K • 💬 2K • ⏱️ 0:59 • 13h ago
 
 ---
 
-**[How OpenAI’s Models Went Rogue to Hack Another Company | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
+**[I stole AI&#39;s job](https://www.youtube.com/watch?v=U2Mw9MS84DY)**
 
-Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
+can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com/benoftheweek/ podcast: @dramamamapodcast.
 
-📺 The Wall Street Journal
+📺 BENOFTHEWEEK
 
-👁️ 75K • 👍 1K • 💬 149 • ⏱️ 5:52 • 1d ago
+👁️ 308K • 👍 22K • 💬 2K • ⏱️ 22:02 • 1d ago
 
 ---
 
-**[‘Big Short’ Investor: The AI Narrative is Falling Apart.](https://www.youtube.com/watch?v=Bz2oWtHFNr4)**
+**[James May tests Tesla&#39;s new AI](https://www.youtube.com/watch?v=YuDlid7eLt0)**
 
-Steve Eisman (from The Big Short) recently went on CNBC to sound the alarm on the AI bubble we're seeing in the stock market.
+Buy my gin: https://jamesmaysgin.com/grok-doc Faced with a 6 hour journey, James and Lucy test Tesla's latest AI and discover ...
 
-📺 New Money
+📺 James May’s Planet Gin
 
-👁️ 117K • 👍 3K • 💬 645 • ⏱️ 11:30 • 2d ago
+👁️ 135K • 👍 8K • 💬 720 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[Guys WHERE DID IT GET THIS?!? 😭🥴 #aioverview #ai #blinditems #gossip](https://www.youtube.com/watch?v=VolsgFJ7WJw)**
+
+📺 Soap 
+
+👁️ 172K • 👍 17K • 💬 139 • ⏱️ 1:38 • 15h ago
+
+---
+
+**[And it&#39;s AI brainrot from Facebook 😭](https://www.youtube.com/watch?v=HStBkly_ZAs)**
+
+LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
+
+📺 monium
+
+👁️ 450K • 👍 20K • 💬 489 • ⏱️ 0:06 • 1d ago
+
+---
+
+**[Sean Ono Lennon on AI music #ai #music #shorts](https://www.youtube.com/watch?v=KY3cOCWXpwg)**
+
+📺 Rick Beato
+
+👁️ 364K • 👍 16K • 💬 600 • ⏱️ 0:49 • 23h ago
 
 ---
 
@@ -393,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 665,513 • ❤️ 10,928 • 3d ago
+⬇️ 665,513 • ❤️ 10,969 • 3d ago
 
 ---
 
@@ -405,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 3,561,466 • ❤️ 1,725 • 3d ago
+⬇️ 3,561,466 • ❤️ 1,751 • 3d ago
 
 ---
 
@@ -417,7 +413,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 11,212 • ❤️ 1,049 • 6d ago
+⬇️ 11,212 • ❤️ 1,055 • 6d ago
 
 ---
 
@@ -429,7 +425,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 503,632 • ❤️ 1,163 • 22h ago
+⬇️ 503,632 • ❤️ 1,173 • 23h ago
 
 ---
 
@@ -441,7 +437,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 11,745 • ❤️ 925 • 4d ago
+⬇️ 11,745 • ❤️ 930 • 4d ago
 
 ---
 
@@ -453,7 +449,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 384,097 • ❤️ 1,670 • 6d ago
+⬇️ 384,097 • ❤️ 1,671 • 6d ago
 
 ---
 
@@ -465,19 +461,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 30,985 • ❤️ 585 • 4d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
-
-*MiniMax*
-
-MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
-
-`image-text-to-video` `33.1B`
-
-⬇️ 2,855,539 • ❤️ 4,107 • 5d ago
+⬇️ 30,985 • ❤️ 590 • 4d ago
 
 ---
 
@@ -489,7 +473,19 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 741,011 • ❤️ 547 • 3d ago
+⬇️ 741,011 • ❤️ 550 • 3d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+
+*MiniMax*
+
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+
+`image-text-to-video` `33.1B`
+
+⬇️ 2,855,539 • ❤️ 4,120 • 5d ago
 
 ---
 
@@ -501,7 +497,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 45,465 • ❤️ 477 • 1d ago
+⬇️ 45,465 • ❤️ 491 • 1d ago
 
 ---
 
@@ -517,7 +513,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 644 • 💬 4 • ⭐ 3,314 • 8d ago
+▲ 646 • 💬 4 • ⭐ 3,350 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -531,7 +527,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 127 • 💬 3 • ⭐ 23,136 • 2mo ago
+▲ 127 • 💬 3 • ⭐ 23,303 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -549,18 +545,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 37 • 💬 1 • ⭐ 27,993 • 34mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
 
 *Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
@@ -573,15 +557,15 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 54 • 💬 4 • ⭐ 37,454 • 12mo ago
+▲ 37 • 💬 1 • ⭐ 28,003 • 34mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -596,6 +580,18 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 83 • 💬 7 • ⭐ 24,031 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 54 • 💬 4 • ⭐ 37,495 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -649,7 +645,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.0k • 🔱 1.5k • 11h ago
+⭐ 14.1k • 🔱 1.6k • 10m ago
 
 ---
 
@@ -659,7 +655,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 6h ago
+⭐ 13.9k • 🔱 1.6k • 7h ago
 
 ---
 
@@ -669,7 +665,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 4h ago
+⭐ 8.6k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -687,7 +683,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 556 • 1d ago
+⭐ 3.3k • 🔱 558 • 2h ago
 
 ---
 
@@ -711,13 +707,23 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 ---
 
+**[yetone/cumora](https://github.com/yetone/cumora)**
+
+Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+`TypeScript`
+
+⭐ 2.2k • 🔱 232 • 54m ago
+
+---
+
 **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)**
 
 A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 5h ago
+⭐ 2.2k • 🔱 177 • 6h ago
 
 ---
 
@@ -727,17 +733,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 289 • 1h ago
-
----
-
-**[yetone/cumora](https://github.com/yetone/cumora)**
-
-Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-
-`TypeScript`
-
-⭐ 2.1k • 🔱 219 • 6h ago
+⭐ 2.1k • 🔱 291 • 54s ago
 
 ---
 

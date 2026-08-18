@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T12:45:45.351972+00:00'
+updated: '2026-08-18T13:41:34.256737+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 12:45 UTC  
+**Last Updated:** August 18, 2026 at 13:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.83B
+**Market Cap:** $228.64B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.7%
 
 **All-Time Low:** $0.43
-+437831.2%
++437604.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 1h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 2h ago
 
 ---
 
@@ -88,7 +88,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 1h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-ethereum.org • 31m ago
+ethereum.org • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 31m ago
 
 Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
 
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 8h ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 10h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -204,7 +204,7 @@ FXStreet • 14h ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-finance.yahoo.com • 17h ago
+finance.yahoo.com • 18h ago
 
 ---
 
@@ -212,7 +212,7 @@ finance.yahoo.com • 17h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 22h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -228,7 +228,7 @@ TradingView • 21h ago
 
 DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 319 • 💬 294 • ⏱️ 17:08 • 13h ago
+👁️ 5K • 👍 347 • 💬 314 • ⏱️ 17:08 • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 9K • 👍 240 • 💬 24 • ⏱️ 35:05 • 1d ago
+👁️ 9K • 👍 245 • 💬 27 • ⏱️ 35:05 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 427 • 💬 225 • ⏱️ 29:45 • 1d ago
+👁️ 4K • 👍 431 • 💬 225 • ⏱️ 29:45 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 15K • 👍 12 • 💬 15 • ⏱️ 4:44 • 11h ago
+👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 12h ago
 
 ---
 
@@ -286,31 +286,23 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 ---
 
-**[XRP, SOL, AAVE, ETH &amp; HBAR! Upgrades for Crypto Bull Run 2026](https://www.youtube.com/watch?v=8amizNv8jMs)**
+**[BMNR &amp; ETH Breakout Soon? Tom Lee Keeps Buying BMNR &amp; ETH](https://www.youtube.com/watch?v=PW8oVXWCvW0)**
 
-SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. From Alpenglow and Lean Ethereum to ...
+BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxFi: https://www.maxfi.tech/ Tutorials + ...
 
-📺 Altcoin Buzz
+📺 Big Time Trades
 
-👁️ 1K • 👍 102 • 💬 11 • ⏱️ 14:14 • 15h ago
-
----
-
-**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 33 • 💬 53 • ⏱️ 0:47 • 11h ago
+👁️ 2K • 👍 59 • 💬 14 • ⏱️ 13:33 • 15h ago
 
 ---
 
-**[BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d8-OpIPCMQQ)**
+**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
 
-BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
 
-📺 Crypto World
+📺 Blockchain Pill
 
-👁️ 5K • 👍 207 • 💬 190 • ⏱️ 18:58 • 15h ago
+👁️ 286 • 👍 50 • 💬 22 • ⏱️ 18:46 • 2h ago
 
 ---
 
@@ -320,17 +312,25 @@ A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominanc
 
 📺 Crypto School - Brian Longest
 
-👁️ 24 • 👍 1 • 💬 1 • ⏱️ 27:41 • 22h ago
+👁️ 35 • 👍 1 • 💬 2 • ⏱️ 27:41 • 23h ago
 
 ---
 
-**[Bitcoin Y Ethereum: ¿A Punto De Iniciar un Movimiento Alcista?](https://www.youtube.com/watch?v=4thY6Np9Ml8)**
+**[BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d8-OpIPCMQQ)**
 
-Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 CdeCripto
+📺 Crypto World
 
-👁️ 5K • 👍 513 • 💬 47 • ⏱️ 13:34 • 16h ago
+👁️ 5K • 👍 219 • 💬 193 • ⏱️ 18:58 • 16h ago
+
+---
+
+**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 37 • 💬 53 • ⏱️ 0:47 • 12h ago
 
 ---
 

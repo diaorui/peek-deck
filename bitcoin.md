@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T12:45:45.345896+00:00'
+updated: '2026-08-18T13:41:34.251301+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 12:45 UTC  
+**Last Updated:** August 18, 2026 at 13:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.39B
+**Market Cap:** $1285.73B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.2%
 
 **All-Time Low:** $67.81
-+94487.8%
++94369.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -95,13 +95,13 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 (If you detected sarcasm, you were right…) 😬
 
-21h ago
+22h ago
 
 ---
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-22h ago
+23h ago
 
 ---
 
@@ -117,13 +117,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I'm curious about the practical side of this. If the attackers really have hundreds of BTC stolen from the Coldcard incident, how do they realistically turn that into usable money? For example: If they send it directly to a KYC exchange, wouldn't the exchange potentially flag the coins as stolen and connect the deposit to their identity? If they use a DEX to swap BTC into another coin, the transactions are still publicly visible, so does that actually solve the problem? If they sell P2P/OTC, isn't finding someone willing to buy a large amount of obviously tainted BTC pretty difficult (and potentially risky for both sides)? Could they simply hold the BTC indefinitely and wait for the attention around the theft to die down?
 
-12h ago
+13h ago
 
 ---
 
 **[Concard: Rugpull Inside](https://www.reddit.com/r/Bitcoin/comments/1vrenqu/concard_rugpull_inside/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -131,7 +131,7 @@ I'm curious about the practical side of this. If the attackers really have hundr
 
 Hello I’m Santiago, I just wanted to say I know a lot of people have taken some big hits in this community, stay strong and protect your bitcoin at all cost I love you (fyi everyone should try shrooms at least once)
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ Hello I’m Santiago, I just wanted to say I know a lot of people have taken som
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
 
-15h ago
+16h ago
 
 ---
 
@@ -147,7 +147,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-21h ago
+22h ago
 
 ---
 
@@ -159,13 +159,13 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
 
-CoinDesk • 45m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Gold vs. Bitcoin: Billionaire sees a major shift among investors](https://www.thestreet.com/crypto/markets/gold-vs-bitcoin-billionaire-sees-a-major-shift-among-investors)**
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -173,7 +173,7 @@ thestreet.com • 22h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -189,13 +189,13 @@ finance.yahoo.com • 2d ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg • 22h ago
+Bloomberg • 23h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg • 22h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-nypost.com • 21h ago
+nypost.com • 22h ago
 
 ---
 
@@ -211,13 +211,13 @@ nypost.com • 21h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
 **[Bitcoin edges up to $64.3k; Iran, rate jitters weigh on crypto](https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -245,7 +245,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 21h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 22h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -289,7 +289,17 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 178 • ⏱️ 18:59 • 14h ago
+👁️ 23K • 👍 2K • 💬 184 • ⏱️ 18:59 • 15h ago
+
+---
+
+**[Bitcoin’s $64,000 Trap or Massive Squeeze?](https://www.youtube.com/watch?v=fFIg4Iki3SY)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 811 • 👍 77 • 15m ago
 
 ---
 
@@ -299,55 +309,37 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 241 • 💬 67 • ⏱️ 14:53 • 20h ago
+👁️ 7K • 👍 244 • 💬 67 • ⏱️ 14:53 • 21h ago
 
 ---
 
-**[BITCOIN *BONEMODE* ALERT!!!!!!!!!!!!](https://www.youtube.com/watch?v=F417dCZbSvU)**
+**[CEO Explains Why Bitcoin Is Digital Gold](https://www.youtube.com/watch?v=2RuZ3iwAvcY)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break down agentic trading and how AI is reshaping the ...
 
-📺 Tyler S
+📺 Anthony Pompliano
 
-👁️ 8K • 👍 545 • 💬 292 • ⏱️ 10:35 • 17h ago
-
----
-
-**[Bitcoin Holders, Billionaire Investors Are Buying HARD Right Now (Here&#39;s Why)](https://www.youtube.com/watch?v=6eo5rr3t-M0)**
-
-See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
-
-📺 Aaron Bennett
-
-👁️ 6K • 👍 408 • 💬 122 • ⏱️ 13:19 • 1d ago
+👁️ 7K • 👍 315 • 💬 1 • ⏱️ 42:04 • 16h ago
 
 ---
 
-**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
+**[Bitcoin Breaks HIGHER as Stocks Fall - $70K Is Back in Play](https://www.youtube.com/watch?v=xOOVTCmF1aE)**
 
-Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
+Bitcoin #Crypto #finance Bitcoin breaks above $64K while stocks pull back, showing relative strength as the market waits for a ...
 
-📺 CNBC Television
+📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 144 • 💬 159 • ⏱️ 3:11 • 21h ago
-
----
-
-**[Trump Bank. Stablecoin Push. Bitcoin Repeats 2022](https://www.youtube.com/watch?v=rByl-4JXcsI)**
-
-Trump just got his own bank approved. Bitcoin just closed below its 200-week SMA — same as 2022. Two stories, one very TIME ...
-
-📺 Digital Asset News
-
-👁️ 4K • 👍 342 • 💬 21 • ⏱️ 18:26 • 15h ago
+👁️ 1K • 👍 111 • 1h ago
 
 ---
 
-**[XRP NEGATIVITY SURGES ONLINE DESPITE 2 CRYPTO MEETINGS AT THE WHITEHOUSE! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=rawy5CPkrFs)**
+**[My $5M Crypto Positions: Bitcoin, Solana, XRP And More](https://www.youtube.com/watch?v=eS_XBtBiXpE)**
 
-📺 CryptoWendyO
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
 
-👁️ 3K • 👍 275 • 💬 14 • ⏱️ 2:16 • 11h ago
+📺 Gareth Soloway
+
+👁️ 65K • 👍 4K • 💬 392 • ⏱️ 10:57 • 1d ago
 
 ---
 
@@ -357,17 +349,25 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 659 • 💬 106 • ⏱️ 46:21 • 21h ago
+👁️ 12K • 👍 667 • 💬 106 • ⏱️ 46:21 • 22h ago
 
 ---
 
-**[🚨 TRUTH ABOUT CRYPTO IN 2026 - AS A BITCOIN HOLDER..?!?!?!?!](https://www.youtube.com/watch?v=fMwWlekZwn4)**
+**[XRP NEGATIVITY SURGES ONLINE DESPITE 2 CRYPTO MEETINGS AT THE WHITEHOUSE! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=rawy5CPkrFs)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+📺 CryptoWendyO
 
-📺 BRITISH HODL
+👁️ 4K • 👍 333 • 💬 41 • ⏱️ 2:16 • 12h ago
 
-👁️ 4K • 👍 395 • 💬 80 • ⏱️ 11:45 • 17h ago
+---
+
+**[Bitcoin Holders, Billionaire Investors Are Buying HARD Right Now (Here&#39;s Why)](https://www.youtube.com/watch?v=6eo5rr3t-M0)**
+
+See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 410 • 💬 122 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -377,7 +377,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 27K • 👍 2K • 💬 129 • ⏱️ 21:02 • 15h ago
+👁️ 30K • 👍 2K • 💬 141 • ⏱️ 21:02 • 16h ago
 
 ---
 
