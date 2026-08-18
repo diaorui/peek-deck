@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T05:29:29.454602+00:00'
+updated: '2026-08-18T05:57:18.453182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 05:29 UTC  
+**Last Updated:** August 18, 2026 at 05:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 12h ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 9h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 10h ago
 
 ---
 
@@ -100,7 +100,7 @@ If you are interested in learning how to model any robot in Simscape, I am worki
 
 I’ve been building a humanoid robotics project called Evopien, mostly as a solo engineering project, and I’ve reached the point where the first head prototype can actually interact in a reasonably coherent way. I decided not to start with arms or locomotion. My first milestone was to get the basic sensory/conversational system working properly: camera → visual input microphone array → speech local ASR → transcription local LLM → reasoning/conversation local TTS → speech output The whole thing currently runs on an NVIDIA Jetson Orin Nano Super 8GB. The head can now: listen and speak locally continue listening while it is speaking be interrupted naturally switch between English and Spanish use the camera when asked visual questions answer based on a current camera frame The current hardware is intentionally pretty ugly. C920, ReSpeaker, external speakers, Jetson and cables. I’m trying to prove the architecture before spending time designing the physical head. The next major step is moving from a stationary conversational head toward proper perception/attention and eventually head movement, followed later by arms and hands. Here is the current demo if anyone wants to see it working: https://www.youtube.com/watch?v=iAxzePzF4cM I’d especially appreciate criticism from people who have gone from a perception prototype into actual physical robotics. What would you make the next milestone before starting the mechanical head?
 
-15h ago
+16h ago
 
 ---
 
@@ -134,7 +134,7 @@ IEEE Spectrum • 1d ago
 
 **[It’s Official: No Man Can Outrun Our Robot Overlords](https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565)**
 
-Gizmodo • 7h ago
+Gizmodo • 8h ago
 
 ---
 
@@ -160,7 +160,7 @@ Bloomberg.com • 14h ago
 
 **[Why Warehouses Are Rolling In More Robots](https://www.wsj.com/logistics-report/why-warehouses-are-rolling-in-more-robots-09dc27e7)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -192,7 +192,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 997K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
+👁️ 999K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
 
 ---
 
@@ -202,17 +202,7 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 📺 DEEP Robotics
 
-👁️ 33K • 👍 117 • 💬 14 • ⏱️ 0:18 • 5d ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=7pi6UdYEXkM)**
-
-This New American Humanoid Robot Will Leave You Speechless The United States is universally recognized as the birthplace of ...
-
-📺 Future Core
-
-👁️ 29K • 👍 663 • 💬 62 • ⏱️ 10:09 • 4d ago
+👁️ 33K • 👍 117 • 💬 14 • ⏱️ 0:18 • 6d ago
 
 ---
 
@@ -222,7 +212,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 41K • 👍 484 • 💬 134 • ⏱️ 3:48 • 6d ago
+👁️ 41K • 👍 486 • 💬 134 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -242,7 +232,7 @@ What happens when robots move beyond intelligence and begin learning from experi
 
 📺 Imagination in Action
 
-👁️ 10K • 👍 352 • 💬 47 • ⏱️ 1:12:16 • 6d ago
+👁️ 10K • 👍 355 • 💬 47 • ⏱️ 1:12:16 • 6d ago
 
 ---
 
@@ -270,7 +260,7 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.4M • 👍 89K • 💬 5K • ⏱️ 14:03 • 3d ago
+👁️ 3.4M • 👍 89K • 💬 6K • ⏱️ 14:03 • 3d ago
 
 ---
 
@@ -280,7 +270,17 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 32K • 👍 814 • 💬 29 • ⏱️ 58:18 • 5d ago
+👁️ 32K • 👍 815 • 💬 30 • ⏱️ 58:18 • 5d ago
+
+---
+
+**[Honor’s Robot Phone is here](https://www.youtube.com/watch?v=ZKTenyFHMXc)**
+
+Honor's Robot Phone is here and it's more gimbal than robot. Still, it's a pretty cool idea. The full gimbal arm stays tucked inside ...
+
+📺 The Verge
+
+👁️ 29K • 👍 805 • 💬 27 • ⏱️ 2:33 • 3d ago
 
 ---
 

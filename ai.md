@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T05:29:29.436626+00:00'
+updated: '2026-08-18T05:57:18.437625+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 05:29 UTC  
+**Last Updated:** August 18, 2026 at 05:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ India's Leading AI & Data Science Media Platform
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 A photo album can’t answer questions. That’s the entire problem, and it’s why voice notes and old videos stop being useful the moment you actually need something from them. EchoVault builds an Echo of you through guided check-in sessions with an AI biographer that draws real stories out over time. Most products in this space generate an avatar from a few minutes of uploaded footage. This runs the other direction, so the echo has months of first-person material to work with and can answer questions the person never explicitly addressed. Responses are retrieval-grounded against what was actually said, which keeps it from fabricating memories that never happened. Three modalities, all live. Text is free with unlimited sessions. $12/mo adds a cloned voice. $99.99 one-time unlocks a lifelike video avatar with 3 months of real-time face to face conversation included, then $18/mo after. The video tier is an actual live exchange, not a rendered clip playing back. You designate custodians while you’re alive. After a full year of no account activity, access transfers to them automatically, no legal process required. Built solo, nights only. iPhone: https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028 Happy to get into the architecture if anyone asks.
 
-47m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 Around 2021/2022 time, you could customise your ai character they were kinda 3d like the sims and you could chat to them like in c.ai , anyone know what it was called?
 
-6h ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ OpenAI • 19h ago
 
 **[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -171,13 +171,13 @@ Bloomberg.com • 1h ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-cnn.com • 18h ago
+cnn.com • 19h ago
 
 ---
 
 **[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -185,7 +185,7 @@ WSJ • 19h ago
 
 Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 12h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 725 • 💬 466 • 9h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 725 • 💬 466 • 10h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -245,7 +245,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 271 • 💬 148 • 8h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 271 • 💬 148 • 9h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -283,7 +283,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 16K • 👍 691 • 💬 49 • ⏱️ 17:37 • 15h ago
+👁️ 18K • 👍 745 • 💬 54 • ⏱️ 17:37 • 15h ago
+
+---
+
+**[I Fell For My Sister&#39;s Best Friend - Episode 2B | AI GL Series 2026](https://www.youtube.com/watch?v=l33Xt0XQSQY)**
+
+Subscribe: https://www.youtube.com/@HouseofHer9986 ♡ Welcome to House of Her — home of original cinematic sapphic ...
+
+📺 House of Her
+
+👁️ 31K • 👍 1K • 💬 116 • ⏱️ 7:19 • 11h ago
 
 ---
 
@@ -293,7 +303,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 448K • 👍 17K • 💬 2K • ⏱️ 15:53 • 2d ago
+👁️ 466K • 👍 18K • 💬 2K • ⏱️ 15:53 • 2d ago
 
 ---
 
@@ -303,7 +313,17 @@ The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doin
 
 📺 Harrison Hughes
 
-👁️ 45K • 👍 4K • 💬 60 • ⏱️ 1:58 • 9h ago
+👁️ 91K • 👍 7K • 💬 83 • ⏱️ 1:58 • 10h ago
+
+---
+
+**[If You&#39;re Only Buying ONE AI Stock, This Should Be It](https://www.youtube.com/watch?v=BNga1MHCrI0)**
+
+Get the FREE Report on 7 stocks that could be bigger than Tesla, Nvidia, and Google at https://www.marketbeat.com/y/yt963/ If ...
+
+📺 MarketBeat
+
+👁️ 43K • 👍 1K • 💬 45 • ⏱️ 18:08 • 1d ago
 
 ---
 
@@ -313,7 +333,7 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 122K • 👍 6K • 💬 1K • ⏱️ 22:19 • 2d ago
+👁️ 124K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
 
 ---
 
@@ -327,51 +347,29 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 ---
 
-**[New Twitch AI Garbage](https://www.youtube.com/watch?v=sok9mDbrAZA)**
+**[School Exposed for Using AI](https://www.youtube.com/watch?v=7Bht9R3maso)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...
+📺 Icycol
 
-📺 penguinz0
-
-👁️ 484K • 👍 22K • 💬 2K • ⏱️ 8:55 • 1d ago
+👁️ 310K • 👍 14K • 💬 785 • ⏱️ 0:50 • 9h ago
 
 ---
 
-**[‘A Flock of VULTURES’: Inside the growing movement against AI-powered surveillance](https://www.youtube.com/watch?v=jNkwXSnZ4MY)**
+**[I stole AI&#39;s job](https://www.youtube.com/watch?v=U2Mw9MS84DY)**
 
-Americans across the country are pushing back against AI-powered license plate readers like Flock. In 2026 alone, 23 states have ...
+can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com/benoftheweek/ podcast: @dramamamapodcast.
 
-📺 MS NOW
+📺 BENOFTHEWEEK
 
-👁️ 68K • 👍 1K • 💬 403 • ⏱️ 12:35 • 1d ago
-
----
-
-**[Akhilesh Yadav Shares AI Video Targeting BJP Over Ram Mandir Donations Scam Case | Dr. Manish Kumar](https://www.youtube.com/watch?v=hf83Huxm6s4)**
-
-Samajwadi Party chief Akhilesh Yadav has taken aim at the BJP by sharing an AI-generated video featuring a political song over ...
-
-📺 CAPITAL TV
-
-👁️ 86K • 👍 4K • 💬 283 • ⏱️ 13:42 • 1d ago
+👁️ 292K • 👍 21K • 💬 2K • ⏱️ 22:02 • 1d ago
 
 ---
 
-**[Bro got fired by AI😭✌️](https://www.youtube.com/watch?v=7vxcjXOANBA)**
+**[Hello कौन🤡🤡🤡🤡🤡#funny#comedy#baby#cutebaby#ai #funnyvideos #drpradeepvishwakarma#shorts](https://www.youtube.com/watch?v=Si-a-kcY-oo)**
 
-📺 Ben Esherick
+📺 Zxr ISA
 
-👁️ 650K • 👍 38K • 💬 480 • ⏱️ 0:39 • 2d ago
-
----
-
-**[James May tests Tesla&#39;s new AI](https://www.youtube.com/watch?v=YuDlid7eLt0)**
-
-Buy my gin: https://jamesmaysgin.com/grok-doc Faced with a 6 hour journey, James and Lucy test Tesla's latest AI and discover ...
-
-📺 James May’s Planet Gin
-
-👁️ 126K • 👍 8K • 💬 696 • ⏱️ 10:16 • 1d ago
+👁️ 5K • 👍 110 • ⏱️ 0:09 • 1h ago
 
 ---
 
@@ -387,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 415,039 • ❤️ 10,765 • 3d ago
+⬇️ 415,039 • ❤️ 10,810 • 3d ago
 
 ---
 
@@ -399,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 2,727,609 • ❤️ 1,658 • 2d ago
+⬇️ 2,727,609 • ❤️ 1,671 • 3d ago
 
 ---
 
@@ -423,7 +421,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,121 • 15h ago
+⬇️ 465,529 • ❤️ 1,135 • 16h ago
 
 ---
 
@@ -435,7 +433,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 10,375 • ❤️ 912 • 3d ago
+⬇️ 10,375 • ❤️ 915 • 3d ago
 
 ---
 
@@ -447,7 +445,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 334,099 • ❤️ 1,663 • 6d ago
+⬇️ 334,099 • ❤️ 1,667 • 6d ago
 
 ---
 
@@ -459,7 +457,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,403,238 • ❤️ 4,094 • 5d ago
+⬇️ 2,403,238 • ❤️ 4,100 • 5d ago
 
 ---
 
@@ -483,7 +481,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 495,646 • ❤️ 533 • 3d ago
+⬇️ 495,646 • ❤️ 534 • 3d ago
 
 ---
 
@@ -495,7 +493,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 15,812 • ❤️ 450 • 1d ago
+⬇️ 15,812 • ❤️ 455 • 1d ago
 
 ---
 
@@ -555,20 +553,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 83 • 💬 7 • ⭐ 23,997 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
 **[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
 
 *Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
@@ -592,6 +576,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 54 • 💬 4 • ⭐ 37,454 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 83 • 💬 7 • ⭐ 24,031 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -645,7 +643,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 1h ago
+⭐ 13.8k • 🔱 1.6k • 23m ago
 
 ---
 
@@ -655,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.6k • 🔱 1.5k • 3h ago
+⭐ 13.7k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -665,7 +663,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 5h ago
+⭐ 8.6k • 🔱 1.0k • 6h ago
 
 ---
 
@@ -723,7 +721,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 283 • 1h ago
+⭐ 2.1k • 🔱 285 • 5m ago
 
 ---
 
@@ -733,7 +731,7 @@ Open-source, self-hosted AI vulnerability research tool that orchestrates agents
 
 `JavaScript` `ai` `ai-agents` `ai-security` `bug-bounty` `bugbounty-tools`
 
-⭐ 1.9k • 🔱 327 • 7h ago
+⭐ 1.9k • 🔱 329 • 8h ago
 
 ---
 

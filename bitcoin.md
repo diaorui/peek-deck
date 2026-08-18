@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T05:29:29.445339+00:00'
+updated: '2026-08-18T05:57:18.445161+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 05:29 UTC  
+**Last Updated:** August 18, 2026 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.13B
+**Market Cap:** $1287.56B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.1%
 
 **All-Time Low:** $67.81
-+94402.3%
++94501.1%
 
 ---
 
@@ -77,6 +77,22 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Peter Todd is actively trying to remove the 21M supply cap, this is an existential threat no one is paying attention to](https://www.reddit.com/r/Bitcoin/comments/1vr801s/peter_todd_is_actively_trying_to_remove_the_21m/)**
+
+Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
+
+6h ago
+
+---
+
+**[Need help - Bitcoin wallet emptied.](https://www.reddit.com/r/Bitcoin/comments/1vr2l6y/need_help_bitcoin_wallet_emptied/)**
+
+I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
+
+10h ago
+
+---
+
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
 12h ago
@@ -87,7 +103,13 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-13h ago
+14h ago
+
+---
+
+**[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
+
+12h ago
 
 ---
 
@@ -95,21 +117,29 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-14h ago
+15h ago
 
 ---
 
-**[Need help - Bitcoin wallet emptied.](https://www.reddit.com/r/Bitcoin/comments/1vr2l6y/need_help_bitcoin_wallet_emptied/)**
+**[How would the Coldcard attackers actually cash out the stolen BTC?](https://www.reddit.com/r/Bitcoin/comments/1vr93oh/how_would_the_coldcard_attackers_actually_cash/)**
 
-I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
+I'm curious about the practical side of this. If the attackers really have hundreds of BTC stolen from the Coldcard incident, how do they realistically turn that into usable money? For example: If they send it directly to a KYC exchange, wouldn't the exchange potentially flag the coins as stolen and connect the deposit to their identity? If they use a DEX to swap BTC into another coin, the transactions are still publicly visible, so does that actually solve the problem? If they sell P2P/OTC, isn't finding someone willing to buy a large amount of obviously tainted BTC pretty difficult (and potentially risky for both sides)? Could they simply hold the BTC indefinitely and wait for the attention around the theft to die down?
+
+5h ago
+
+---
+
+**[Concard: Rugpull Inside](https://www.reddit.com/r/Bitcoin/comments/1vrenqu/concard_rugpull_inside/)**
+
+1h ago
+
+---
+
+**[I am always surprised at how few people understand this.](https://www.reddit.com/r/Bitcoin/comments/1vr4g2r/i_am_always_surprised_at_how_few_people/)**
+
+People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
 
 9h ago
-
----
-
-**[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
-
-11h ago
 
 ---
 
@@ -121,36 +151,6 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 ---
 
-**[I am always surprised at how few people understand this.](https://www.reddit.com/r/Bitcoin/comments/1vr4g2r/i_am_always_surprised_at_how_few_people/)**
-
-People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor
-
-8h ago
-
----
-
-**[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
-
-1d ago
-
----
-
-**[Seedsigners getting sold out just about everywhere](https://www.reddit.com/r/Bitcoin/comments/1vr4d9d/seedsigners_getting_sold_out_just_about_everywhere/)**
-
-(Referring to prebuilt versions.) While I do not own one (yet) myself, I keep wondering: since it has only volatile memory, the seed needs to be entered every time, through QR scan. That in itself is a huge risk. I would not want such a risky QR code laying around. Is the version with the card reader better? It would allow for encrypted storage of my seedphrase.
-
-8h ago
-
----
-
-**[Roll your own Bitcoin seed](https://www.reddit.com/r/Bitcoin/comments/1vqocqi/roll_your_own_bitcoin_seed/)**
-
-Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
-
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 19h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -159,7 +159,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNBC • 2h ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -241,7 +241,7 @@ nypost.com • 14h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 23h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 1d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -265,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 19h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 20h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -287,33 +287,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[The Money Printer Is Surging and Bitcoin Won&#39;t Move — What&#39;s Really Going On?](https://www.youtube.com/watch?v=Ez90WQSniIg)**
+**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
 
-Bitcoin is stuck near $64000 even as money supply and global liquidity surge, creating one of the strangest divergences in Bitcoin ...
+Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
 
-📺 Simply Bitcoin
+📺 Yahoo Finance
 
-👁️ 11K • 👍 986 • 💬 140 • ⏱️ 18:59 • 7h ago
-
----
-
-**[BITCOIN.............?!](https://www.youtube.com/watch?v=iEw6iEV4ZsU)**
-
-Bitcoin finally makes a meaningful move! But do the bulls have the strength it needs to make it through? BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 8K • 👍 814 • 💬 94 • ⏱️ 34:06 • 11h ago
+👁️ 6K • 👍 226 • 💬 59 • ⏱️ 14:53 • 13h ago
 
 ---
 
-**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
+**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
 
-📺 CryptosRUs
+📺 CNBC Television
 
-👁️ 11K • 👍 637 • 💬 138 • ⏱️ 46:21 • 14h ago
+👁️ 9K • 👍 135 • 💬 128 • ⏱️ 3:11 • 14h ago
 
 ---
 
@@ -323,37 +313,27 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 37K • 👍 3K • 💬 123 • ⏱️ 14:24 • 8h ago
+👁️ 44K • 👍 3K • 💬 134 • ⏱️ 14:24 • 9h ago
 
 ---
 
-**[Bitcoin And Stablecoins Will Coexist. Here&#39;s Why.](https://www.youtube.com/watch?v=eYIMha2dlhg)**
+**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
 
-Financial institutions once refused to touch the public cloud and built their own data centers instead. Now they are migrating in ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 ARK Invest
+📺 CryptosRUs
 
-👁️ 4K • 👍 111 • 💬 3 • ⏱️ 1:24 • 14h ago
-
----
-
-**[Is the Bitcoin Bottom In? The Level That Decides](https://www.youtube.com/watch?v=DPhzzkjiD9s)**
-
-In this video I break down the latest Bitcoin price action to determine if the current bounce is a sustainable recovery or a trap.
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 313 • 💬 41 • ⏱️ 8:17 • 12h ago
+👁️ 11K • 👍 645 • 💬 153 • ⏱️ 46:21 • 15h ago
 
 ---
 
-**[Bitcoin or Anarchy](https://www.youtube.com/watch?v=gGIzeuhudLs)**
+**[Bitcoin Holders, Billionaire Investors Are Buying HARD Right Now (Here&#39;s Why)](https://www.youtube.com/watch?v=6eo5rr3t-M0)**
 
-Stop Holding & Hoping! Follow our trades and take profits with us! www.skool.com/discovercrypto/about ​​If you have ever made ...
+See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/aaronbennett ...
 
-📺 Discover Crypto
+📺 Aaron Bennett
 
-👁️ 862 • 👍 59 • 💬 86 • ⏱️ 1:20 • 5h ago
+👁️ 6K • 👍 405 • 💬 122 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -363,27 +343,47 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 96 • ⏱️ 15:49 • 1d ago
+👁️ 14K • 👍 1K • 💬 105 • ⏱️ 15:49 • 1d ago
 
 ---
 
-**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
+**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 Crypto Crew University
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 13h ago
+👁️ 99K • 👍 6K • 💬 341 • ⏱️ 16:15 • 1d ago
 
 ---
 
-**[Bitcoin LOSES the 200-Week Moving Average: What Happens Next?](https://www.youtube.com/watch?v=xtstCUSIDFg)**
+**[BITCOIN.............?!](https://www.youtube.com/watch?v=iEw6iEV4ZsU)**
 
-SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
+Bitcoin finally makes a meaningful move! But do the bulls have the strength it needs to make it through? BloFin ...
 
-📺 Verified Investing
+📺 Crypto Zombie
 
-👁️ 4K • 👍 292 • 💬 14 • ⏱️ 11:24 • 11h ago
+👁️ 9K • 👍 867 • 💬 96 • ⏱️ 34:06 • 11h ago
+
+---
+
+**[🚨 TRUTH ABOUT CRYPTO IN 2026 - AS A BITCOIN HOLDER..?!?!?!?!](https://www.youtube.com/watch?v=fMwWlekZwn4)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 3K • 👍 348 • 💬 73 • ⏱️ 11:45 • 10h ago
+
+---
+
+**[My $5M Crypto Positions: Bitcoin, Solana, XRP And More](https://www.youtube.com/watch?v=eS_XBtBiXpE)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 64K • 👍 4K • 💬 421 • ⏱️ 10:57 • 1d ago
 
 ---
 

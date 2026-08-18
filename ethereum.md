@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T05:29:29.451400+00:00'
+updated: '2026-08-18T05:57:18.450403+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 05:29 UTC  
+**Last Updated:** August 18, 2026 at 05:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.27B
+**Market Cap:** $228.53B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-61.7%
 
 **All-Time Low:** $0.43
-+436759.5%
++437473.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 23h ago
 
 ---
 
@@ -238,27 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 2K • 👍 223 • 💬 275 • ⏱️ 17:08 • 6h ago
-
----
-
-**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
-
-Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
-
-📺 Zarx Crypto
-
-👁️ 8K • 👍 4 • 💬 14 • ⏱️ 4:44 • 3h ago
-
----
-
-**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
-
-Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
-
-📺 The Rollup
-
-👁️ 8K • 👍 230 • 💬 25 • ⏱️ 35:05 • 1d ago
+👁️ 3K • 👍 266 • 💬 282 • ⏱️ 17:08 • 6h ago
 
 ---
 
@@ -268,25 +248,27 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 422 • 💬 268 • ⏱️ 29:45 • 20h ago
+👁️ 4K • 👍 426 • 💬 268 • ⏱️ 29:45 • 20h ago
 
 ---
 
-**[BMNR &amp; ETH Breakout Soon? Tom Lee Keeps Buying BMNR &amp; ETH](https://www.youtube.com/watch?v=PW8oVXWCvW0)**
+**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
 
-BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxFi: https://www.maxfi.tech/ Tutorials + ...
+Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
 
-📺 Big Time Trades
+📺 Zarx Crypto
 
-👁️ 656 • 👍 45 • 💬 12 • ⏱️ 13:33 • 6h ago
+👁️ 13K • 👍 4 • 💬 14 • ⏱️ 4:44 • 4h ago
 
 ---
 
-**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
+**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
 
-📺 Discover Crypto
+Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
 
-👁️ 433 • 👍 21 • 💬 50 • ⏱️ 0:47 • 4h ago
+📺 The Rollup
+
+👁️ 8K • 👍 235 • 💬 25 • ⏱️ 35:05 • 1d ago
 
 ---
 
@@ -296,7 +278,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 1K • 💬 121 • ⏱️ 15:54 • 1d ago
+👁️ 33K • 👍 1K • 💬 117 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -306,17 +288,25 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 168 • 💬 157 • ⏱️ 18:58 • 8h ago
+👁️ 4K • 👍 187 • 💬 170 • ⏱️ 18:58 • 9h ago
 
 ---
 
-**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
+**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+📺 Discover Crypto
 
-📺 Crypto Crew University
+👁️ 676 • 👍 25 • 💬 52 • ⏱️ 0:47 • 4h ago
 
-👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 13h ago
+---
+
+**[Bitcoin&#39;s Fifth Attack On $65,080 (This One Looks Different)](https://www.youtube.com/watch?v=ObsTSYcdMTE)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 2K • 👍 103 • 💬 12 • ⏱️ 15:38 • 7h ago
 
 ---
 
@@ -326,7 +316,17 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 464 • 💬 28 • ⏱️ 13:34 • 9h ago
+👁️ 4K • 👍 490 • 💬 47 • ⏱️ 13:34 • 10h ago
+
+---
+
+**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 7K • 👍 302 • 💬 13 • ⏱️ 2:54 • 13h ago
 
 ---
 
