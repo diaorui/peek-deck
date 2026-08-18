@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T22:23:55.995733+00:00'
+updated: '2026-08-18T22:51:25.441375+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 22:23 UTC  
+**Last Updated:** August 18, 2026 at 22:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 3h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 4h ago
 
 ---
 
@@ -136,7 +136,7 @@ Business Insider • 1d ago
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ ALXnow • 8h ago
 
 2026 was supposed to be a breakout year for Serve's business.
 
-finance.yahoo.com • 13h ago
+finance.yahoo.com • 14h ago
 
 ---
 
@@ -190,6 +190,16 @@ MSN • 3h ago
 
 ## YouTube Videos: "robotics"
 
+**[Why Home Robots Are Taking So Long](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 10K • 👍 330 • 💬 56 • ⏱️ 5:16 • 2d ago
+
+---
+
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
 Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
@@ -206,7 +216,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 34K • 👍 739 • 💬 67 • ⏱️ 10:09 • 5d ago
+👁️ 34K • 👍 756 • 💬 68 • ⏱️ 10:09 • 5d ago
 
 ---
 
@@ -216,7 +226,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 935 • 👍 40 • ⏱️ 0:51 • 5h ago
+👁️ 1K • 👍 53 • ⏱️ 0:51 • 6h ago
 
 ---
 
@@ -226,15 +236,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 236K • 👍 3K • 💬 615 • ⏱️ 10:16 • 4d ago
-
----
-
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=Ie4y9VhnyH8)**
-
-📺 sneurorobotics
-
-👁️ 9K • 👍 452 • 💬 23 • ⏱️ 0:10 • 21h ago
+👁️ 237K • 👍 3K • 💬 615 • ⏱️ 10:16 • 4d ago
 
 ---
 
@@ -242,7 +244,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 ATC Android ToTo Company
 
-👁️ 56K • 👍 2K • 💬 61 • ⏱️ 2:59 • 4d ago
+👁️ 57K • 👍 2K • 💬 61 • ⏱️ 2:59 • 4d ago
 
 ---
 
@@ -262,7 +264,7 @@ Unitree has released a video of its newest humanoid robot claiming a top speed o
 
 📺 Interesting Engineering Explains
 
-👁️ 13K • 👍 474 • 💬 78 • ⏱️ 1:51 • 1d ago
+👁️ 14K • 👍 490 • 💬 81 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -272,7 +274,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 19K • 👍 380 • 💬 62 • ⏱️ 0:56 • 1d ago
+👁️ 20K • 👍 386 • 💬 63 • ⏱️ 0:56 • 1d ago
 
 ---
 
@@ -280,7 +282,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kind Recaps
 
-👁️ 54K • 👍 3K • 💬 12 • ⏱️ 2:56 • 17h ago
+👁️ 68K • 👍 3K • 💬 14 • ⏱️ 2:56 • 17h ago
 
 ---
 

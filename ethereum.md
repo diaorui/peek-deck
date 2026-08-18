@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T22:23:55.993865+00:00'
+updated: '2026-08-18T22:51:25.439493+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 22:23 UTC  
+**Last Updated:** August 18, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.83B
+**Market Cap:** $230.79B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.3%
 
 **All-Time Low:** $0.43
-+441658.1%
++441588.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 6h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 7h ago
 
 ---
 
@@ -80,7 +80,15 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-7h ago
+8h ago
+
+---
+
+**[I built ethernews.org, an auto-updating front page for the Ethereum ecosystem (inspired by Techmeme), which I also open sourced as Open Aggregator](https://www.reddit.com/r/ethereum/comments/1vs1fo2/i_built_ethernewsorg_an_autoupdating_front_page/)**
+
+I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
+
+2h ago
 
 ---
 
@@ -89,14 +97,6 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 17h ago
-
----
-
-**[I built ethernews.org, an auto-updating front page for the Ethereum ecosystem (inspired by Techmeme), which I also open sourced as Open Aggregator](https://www.reddit.com/r/ethereum/comments/1vs1fo2/i_built_ethernewsorg_an_autoupdating_front_page/)**
-
-I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
-
-1h ago
 
 ---
 
@@ -112,7 +112,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 10h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 1d ago
 
 Securitize Corp. (NYSE: $SECZ) and Neuberger have launched a tokenized high-yield fixed-income fund across four pub...
 
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 11h ago
 
 Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
 
-BeInCrypto • 17h ago
+BeInCrypto • 18h ago
 
 ---
 
@@ -226,7 +226,7 @@ BeInCrypto • 17h ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 384 • 💬 319 • ⏱️ 17:08 • 23h ago
+👁️ 7K • 👍 386 • 💬 319 • ⏱️ 17:08 • 23h ago
 
 ---
 
@@ -250,27 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 10K • 👍 272 • 💬 33 • ⏱️ 35:05 • 1d ago
-
----
-
-**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 35K • 👍 1K • 💬 117 • ⏱️ 15:54 • 2d ago
-
----
-
-**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
-
-Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
-
-📺 Blockchain Pill
-
-👁️ 1K • 👍 132 • 💬 44 • ⏱️ 18:46 • 11h ago
+👁️ 10K • 👍 278 • 💬 34 • ⏱️ 35:05 • 1d ago
 
 ---
 
@@ -280,7 +260,17 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 1K • 👍 181 • 💬 4 • ⏱️ 14:46 • 6h ago
+👁️ 2K • 👍 213 • 💬 61 • ⏱️ 14:46 • 6h ago
+
+---
+
+**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
+
+Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
+
+📺 Blockchain Pill
+
+👁️ 1K • 👍 136 • 💬 52 • ⏱️ 18:46 • 11h ago
 
 ---
 
@@ -290,7 +280,17 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 436 • 💬 252 • ⏱️ 29:45 • 1d ago
+👁️ 4K • 👍 438 • 💬 249 • ⏱️ 29:45 • 1d ago
+
+---
+
+**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 36K • 👍 1K • 💬 117 • ⏱️ 15:54 • 2d ago
 
 ---
 
@@ -300,27 +300,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 812 • 💬 25 • ⏱️ 4:44 • 20h ago
-
----
-
-**[The Head Of Ripple XRP Just Said &quot;It&#39;s A SCAM&quot; Solana Cardano &amp; Ethereum Could Be In Trouble](https://www.youtube.com/watch?v=gbVgbEG4h6I)**
-
-Well, it looks like things are a changing in the cryptocurrency market. We've gotten a lot of altcoin news being thrown around as ...
-
-📺 The Modern Investor
-
-👁️ 17K • 👍 1K • 💬 161 • ⏱️ 29:34 • 2d ago
-
----
-
-**[CANTON JUST BECAME MORE LIKE ETHEREUM — THIS IS HUGE](https://www.youtube.com/watch?v=oZ-RNmyzxEc)**
-
-THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.com Tangem ...
-
-📺 Grow Rich Grow Happy
-
-👁️ 959 • 👍 123 • 💬 26 • ⏱️ 13:49 • 22h ago
+👁️ 17K • 👍 812 • 💬 14 • ⏱️ 4:44 • 21h ago
 
 ---
 
@@ -328,7 +308,27 @@ THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 43 • 💬 59 • ⏱️ 0:47 • 21h ago
+👁️ 2K • 👍 45 • 💬 59 • ⏱️ 0:47 • 21h ago
+
+---
+
+**[Bitcoin Y Ethereum: ¿A Punto De Iniciar un Movimiento Alcista?](https://www.youtube.com/watch?v=4thY6Np9Ml8)**
+
+Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+
+📺 CdeCripto
+
+👁️ 5K • 👍 569 • 💬 52 • ⏱️ 13:34 • 1d ago
+
+---
+
+**[VOU TROCAR TODOS OS MEUS BITCOINS POR ETHEREUM](https://www.youtube.com/watch?v=BFnlTivEP6g)**
+
+Ethereum pode superar o Bitcoin no próximo ciclo de alta? Neste vídeo, Augusto Backes analisa o gráfico ETH/BTC e explica por ...
+
+📺 Augusto Backes
+
+👁️ 878 • 👍 106 • 💬 13 • ⏱️ 11:03 • 51m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T22:23:55.990237+00:00'
+updated: '2026-08-18T22:51:25.435901+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 22:23 UTC  
+**Last Updated:** August 18, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1295.99B
+**Market Cap:** $1296.36B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -48.8%
 
 **All-Time Low:** $67.81
-+95114.6%
++95147.0%
 
 ---
 
@@ -89,7 +89,7 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 https://satoshitimeline.com/1
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ https://satoshitimeline.com/1
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 3h ago
 
 Italy's largest bank Intesa Sanpaolo revealed a $966 million SpaceX stake after cutting its Bitcoin ETF holdings by 94%.
 
-finance.yahoo.com • 6h ago
+finance.yahoo.com • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg • 1d ago
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 19h ago
 
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
-BlackRock • 19h ago
+BlackRock • 20h ago
 
 ---
 
@@ -287,7 +287,47 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 209 • ⏱️ 18:59 • 1d ago
+👁️ 29K • 👍 2K • 💬 226 • ⏱️ 18:59 • 1d ago
+
+---
+
+**[Hackers Stole $38 Million in Bitcoin in 25 Minutes, And It’s Getting Worse...](https://www.youtube.com/watch?v=BEIBh91X_2c)**
+
+I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
+
+📺 Mark Moss
+
+👁️ 8K • 👍 533 • 💬 72 • ⏱️ 22:30 • 6h ago
+
+---
+
+**[Bitcoin’s $64,000 Trap or Massive Squeeze?](https://www.youtube.com/watch?v=fFIg4Iki3SY)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 663 • 💬 22 • ⏱️ 46:05 • 8h ago
+
+---
+
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=MHiPAclJJ6M)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Nancy Stamps
+
+👁️ 4K • 👍 1K • 1h ago
+
+---
+
+**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
+
+Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
+
+📺 International Business Today
+
+👁️ 550 • 👍 13 • ⏱️ 0:57 • 4h ago
 
 ---
 
@@ -297,7 +337,7 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 212 • ⏱️ 8:25 • 1d ago
+👁️ 42K • 👍 2K • 💬 209 • ⏱️ 8:25 • 2d ago
 
 ---
 
@@ -307,7 +347,7 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 256 • 💬 79 • ⏱️ 14:53 • 1d ago
+👁️ 7K • 👍 257 • 💬 79 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -317,17 +357,17 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 361 • 💬 5 • ⏱️ 42:04 • 1d ago
+👁️ 9K • 👍 365 • 💬 5 • ⏱️ 42:04 • 1d ago
 
 ---
 
-**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
+**[Bitcoin And Stablecoins Will Coexist. Here&#39;s Why.](https://www.youtube.com/watch?v=eYIMha2dlhg)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Financial institutions once refused to touch the public cloud and built their own data centers instead. Now they are migrating in ...
 
-📺 CryptosRUs
+📺 ARK Invest
 
-👁️ 12K • 👍 672 • 💬 92 • ⏱️ 46:21 • 1d ago
+👁️ 6K • 👍 156 • 💬 5 • ⏱️ 1:24 • 1d ago
 
 ---
 
@@ -337,47 +377,7 @@ Crypto News: Paul Tudor Jones' investment firm increases stake in BlackRock's bi
 
 📺 Thinking Crypto
 
-👁️ 8K • 👍 548 • 💬 153 • ⏱️ 20:45 • 1d ago
-
----
-
-**[15,000 Hours Trying to Kill Bitcoin](https://www.youtube.com/watch?v=p_cTgAvci70)**
-
-Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff describes roughly 15000 hours spent asking one ...
-
-📺 The Wolf Of All Streets
-
-👁️ 973 • 👍 29 • 💬 33 • ⏱️ 1:41 • 18h ago
-
----
-
-**[Bitcoin SHOULD Be Falling - So Why Isn’t It?](https://www.youtube.com/watch?v=5644ksG2syQ)**
-
-Bitcoin #Crypto #Finance Bitcoin continues to hold above $63K despite heavy ETF outflows and elevated Treasury yields, ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 775 • 💬 260 • ⏱️ 1:01:48 • 1d ago
-
----
-
-**[You sound like a bitcoin](https://www.youtube.com/watch?v=yy9QiEzMxNI)**
-
-shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowdwork #youtubeshorts Don't miss a ...
-
-📺 Gabby Bryan
-
-👁️ 976 • 👍 27 • 💬 2 • ⏱️ 0:57 • 6h ago
-
----
-
-**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
-
-📺 Bitcoin University
-
-👁️ 15K • 👍 1K • 💬 685 • ⏱️ 14:27 • 2d ago
+👁️ 8K • 👍 549 • 💬 153 • ⏱️ 20:45 • 1d ago
 
 ---
 

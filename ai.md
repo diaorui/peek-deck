@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T22:23:55.985049+00:00'
+updated: '2026-08-18T22:51:25.430517+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 22:23 UTC  
+**Last Updated:** August 18, 2026 at 22:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet. At that point, I’m thinking... was this actually faster? Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing something for you and AI actually taking something off your plate. For those of you actually using AI automation, what has been worth it for you? And what's one automation you ended up getting rid of because it created more work than it saved?
 
-40m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -71,7 +71,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Anyone else having trouble with Claude right now ? Is this widespread, or just me?
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anyone else having trouble with Claude right now ? Is this widespread, or just m
 
 The part of this paper I trust most is the failure it chose to show. AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars. The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, and a manual audit traced the anomaly to that full-day denominator. That is a more useful agent story than another clean benchmark win. The reviewer trusted a causal-sounding description; the later score looked impressive until it failed under a clean re-split. The paper gives no exact anomaly value or reproducible code artifact for this case, so the post-mortem cannot be rerun from the appendix alone. Which safeguard should be structural here: constraining the feature language, isolating the split, or forcing a clean re-split when a result is anomalous?
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Since using LLMs daily I notice that the moment I know a model is available, I o
 
 The important distinction is that AI provenance can exist in two forms. First, there is metadata like C2PA, EXIF, XMP, IPTC and generator parameters. That part is easy to remove. Second, there are invisible marks embedded directly into the pixels, such as SynthID style watermarks. A screenshot does not reliably remove those. pagedMark deals with them by regenerating the image. The output is therefore not identical to the original. Faces, text and small details can change. The goal is to remove the provenance signal while keeping the image as close to the original as possible. It currently supports invisible marks from ChatGPT, gpt-image API, Z-Image Turbo and Nano Banana, plus visible AI labels from several other generators. Video support covers visible marks and metadata from Sora, Veo, Seedance, Hailuo and Kling. The other challenge was making this work properly on Apple Silicon. I tested it on M5 Macs with both 8 GB and 16 GB of memory, and added memory aware processing to prevent the system from silently falling into swap and turning a fast job into an extremely slow one. And here is the really interesting part: after processing an image generated with GPT-Image, you can check it with OpenAI's verifier at openai.com/verify. In my testing, the processed image is reported with 0 AI detection. uv tool install "pagedmark[diffusion]" pagedmark invisible photo.png -o clean.png GitHub: github.com/doofzoff/pagedMark PyPI: PyPI: pagedmark
 
-32m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ The important distinction is that AI provenance can exist in two forms. First, t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 4h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 5h ago
 
 ---
 
@@ -111,7 +111,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 Wanted to know what different models actually cost across the whole market. Numbers turned out really interesting. The spread. Cheapest output on the platform is Mistral Nemo, $0.03 per million tokens. Most expensive is o1-pro at $600. I re-ran that twice because it looked like a units bug. Median paid model is about $2, so most of the catalog sits down near the floor and there's a thin little line of stuff way up at the top. Provider averages, with a caveat. OpenAI: $47.63 Anthropic: $44.79 Google: $5.58 Mistral: $3.68 Qwen: $2.86 Meta: $0.74 Caveat first because someone will say it anyway: these are averages over each provider's catalog, not weighted by what people actually run. OpenAI's number is dragged way up by o1-pro, which I doubt anyone is using at volume. Blended is 3:1 input to output, which is roughly what my own usage looks like. Even so, Meta at $0.74 against OpenAI at $47.63 is a 64x gap. For the stuff I use models for (mostly code and summarizing), I don't get 64x anything. Output tokens are where reasoning models get you. Input and output are priced separately, and on the thinking models the ratio gets silly. Qwen3's thinking variants are $0.20/1M in and $2.40/1M out, so 12x. Gemini 2.5 Flash is 8.3x. Fine if you're sending one question. Less fine if you've got an agent looping thirty times and every step is paying the output rate. I got a bill like that once and it took me an embarrassingly long time to work out why. 19 free models, and a few are usable. Not trial-credit free, actually free on the API: NVIDIA Nemotron 3 Ultra, 1M context Google Gemma 4, the 26B and 31B, multimodal, takes video, 262K context Poolside Laguna S and XS, 262K gpt-oss-20b, 131K (an OpenAI model, on the free list) There are rate limits obviously. But for messing around or something low volume it's a lot better than it used to be. Context went up 63x, price didn't really move. Year Avg context Avg cost/1M 2023 10.5K $22 2024 140K $12 2025 357K $21 2026 662K $16 Price per token is roughly flat across three years. Context is up 63x. Whatever you think about everything else going on, that part is real. Feels like two separate products now. One side is $0.03 to $2 per million with big context windows, Mistral and Meta and Qwen and DeepSeek. The other is $30 to $600, OpenAI and Anthropic up top. They're not really pitching the same buyer anymore. Down at the bottom price stops being a thing you think about at all, and up top you're paying because the output quality moves some number in the business. Data's from the OpenRouter API on Aug 16. Link to full dashboard: https://app.vetros.dev/dash/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXAiOiJzaGFyZSIsInBpZCI6IjEyMmZmNTk1IiwiZGFzaCI6ImRfODdmNDU3MzkiLCJ2ZXIiOjIsImlhdCI6MTc4NzA4NDc5MH0.V8uCPZtnzJ-djAXAv3HEmmZUHPkhO2NfhSgG2zGMYqw
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ finance.yahoo.com • 7h ago
 
 The rally has erased some recent gains. AI, chip stocks had flashed buy signals.
 
-Investor's Business Daily • 23m ago
+Investor's Business Daily • 51m ago
 
 ---
 
@@ -169,7 +169,7 @@ Investor's Business Daily • 23m ago
 
 Handshake AI is paying $6 per page for written work documents of "high quality" — if you own them. A data privacy lawyer told BI he had concerns.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ OpenAI • 11h ago
 
 Beaumont ISD Superintendent Sandi Massey says the district is taking a cautious approach to artificial intelligence while also working to strengthen classroom i
 
-KFDM • 1h ago
+KFDM • 2h ago
 
 ---
 
@@ -293,35 +293,7 @@ OpenAI admitted its models hacked another company in an 'unprecedented cyber inc
 
 📺 Sky News
 
-👁️ 165K • 👍 3K • 💬 706 • ⏱️ 11:15 • 1d ago
-
----
-
-**[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
-
-AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
-
-📺 The Infographics Show
-
-👁️ 273K • 👍 8K • 💬 2K • ⏱️ 15:45 • 1d ago
-
----
-
-**[So Supergirl’s Lobo was concepted by AI… okay 😑 #dc #supergirl #lobo #ai #movie](https://www.youtube.com/watch?v=vtQCQZ-1HuE)**
-
-📺 The Panda Redd
-
-👁️ 4K • 👍 1K • 💬 44 • ⏱️ 2:59 • 2h ago
-
----
-
-**[The Insane, True Story of What It’s Like to Be an AI Model](https://www.youtube.com/watch?v=9XlOaVItUgI)**
-
-Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
-
-📺 Species | Documenting AGI
-
-👁️ 137K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
+👁️ 171K • 👍 3K • 💬 732 • ⏱️ 11:15 • 1d ago
 
 ---
 
@@ -331,17 +303,35 @@ In this AI debate, we explore: * Whether humans will exist in 2040. * What will 
 
 📺 Chris Williamson
 
-👁️ 100K • 👍 2K • 💬 445 • ⏱️ 2:42:33 • 1d ago
+👁️ 103K • 👍 2K • 💬 462 • ⏱️ 2:42:33 • 1d ago
 
 ---
 
-**[AI Bubble: ‘AI companies have run out of internet.’ | David Gerard](https://www.youtube.com/watch?v=1VcLoNTXrGo)**
+**[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
 
-AI scrapers are the most antisocial dicks in the world.” Author and host of Pivot to AI David Gerard joins The Tech Report's Will ...
+AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
 
-📺 The Tech Report
+📺 The Infographics Show
 
-👁️ 124K • 👍 4K • 💬 866 • ⏱️ 30:20 • 1d ago
+👁️ 282K • 👍 8K • 💬 2K • ⏱️ 15:45 • 1d ago
+
+---
+
+**[So Supergirl’s Lobo was concepted by AI… okay 😑 #dc #supergirl #lobo #ai #movie](https://www.youtube.com/watch?v=vtQCQZ-1HuE)**
+
+📺 The Panda Redd
+
+👁️ 8K • 👍 3K • 💬 112 • ⏱️ 2:59 • 3h ago
+
+---
+
+**[The First AI-Trained Surgeon #comedy #skit #comedyshorts #ai #surgeon #funny](https://www.youtube.com/watch?v=4bXVKoJfAcI)**
+
+The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doing. Socials - Instagram ➼ harrisonhughesnz ...
+
+📺 Harrison Hughes
+
+👁️ 429K • 👍 19K • 💬 152 • ⏱️ 1:58 • 1d ago
 
 ---
 
@@ -351,37 +341,43 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 549K • 👍 44K • 💬 2K • ⏱️ 0:59 • 22h ago
+👁️ 579K • 👍 46K • 💬 2K • ⏱️ 0:59 • 22h ago
 
 ---
 
-**[How OpenAI’s Models Went Rogue to Hack Another Company | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
+**[And it&#39;s AI brainrot from Facebook 😭](https://www.youtube.com/watch?v=HStBkly_ZAs)**
 
-Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
+LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
 
-📺 The Wall Street Journal
+📺 monium
 
-👁️ 79K • 👍 1K • 💬 157 • ⏱️ 5:52 • 2d ago
-
----
-
-**[Long Ai Video Kaise Banaye | Full Course | 3D Cartoon Video Kaise Banaye | Ai Video Kaise Banaye](https://www.youtube.com/watch?v=Bjq-kRkC2JI)**
-
-Long AI Video Kaise Banaye | Full Course | 3D Cartoon Video Kaise Banaye | AI Video Kaise Banaye ✨MASTER PROMT   ...
-
-📺 Editing with piyush
-
-👁️ 22K • 💬 83 • ⏱️ 6:41 • 1d ago
+👁️ 465K • 👍 20K • 💬 494 • ⏱️ 0:06 • 2d ago
 
 ---
 
-**[how to literally print money while you sleep with AI dropshipping (just copy me)](https://www.youtube.com/watch?v=ScF0pi6FSLQ)**
+**[Tom Holland React Viral Videos #tomholland #funny #trynottolaugh #reaction #ai](https://www.youtube.com/watch?v=RPACbnWtV7k)**
 
-Apply for a 1:1 mentorship with me ...
+📺 afhh
 
-📺 Romas Ecom
+👁️ 11K • 👍 79 • ⏱️ 0:37 • 11h ago
 
-👁️ 19K • 👍 1K • 💬 107 • ⏱️ 25:59 • 2d ago
+---
+
+**[Seedance 2.5 FREE Unlimited 🤫 SECRET Method to Generate Unlimited AI Videos | AI Video Kaise Banaye](https://www.youtube.com/watch?v=-3NLjhXwcoc)**
+
+Try Seedance 2.5 1080p on Higgsfield: https://higgsfield.ai/s/seedance-2-5-1080p-techrush_-UZxQiY Seedance 2.5 FREE ...
+
+📺 Tech Rush
+
+👁️ 12K • 👍 296 • 💬 70 • ⏱️ 7:03 • 1d ago
+
+---
+
+**[Hello कौन🤡🤡🤡🤡🤡#funny#comedy#baby#cutebaby#ai #funnyvideos #drpradeepvishwakarma#shorts](https://www.youtube.com/watch?v=Si-a-kcY-oo)**
+
+📺 Zxr ISA
+
+👁️ 162K • 👍 714 • 💬 2 • ⏱️ 0:09 • 18h ago
 
 ---
 
@@ -397,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 665,513 • ❤️ 11,082 • 4d ago
+⬇️ 665,513 • ❤️ 11,105 • 4d ago
 
 ---
 
@@ -409,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 3,561,466 • ❤️ 1,802 • 3d ago
+⬇️ 3,561,466 • ❤️ 1,811 • 3d ago
 
 ---
 
@@ -421,7 +417,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 11,212 • ❤️ 1,063 • 6d ago
+⬇️ 11,212 • ❤️ 1,064 • 6d ago
 
 ---
 
@@ -433,7 +429,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 11,745 • ❤️ 950 • 4d ago
+⬇️ 11,745 • ❤️ 956 • 4d ago
 
 ---
 
@@ -445,7 +441,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 503,632 • ❤️ 1,208 • 1d ago
+⬇️ 503,632 • ❤️ 1,218 • 1d ago
 
 ---
 
@@ -457,19 +453,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 30,985 • ❤️ 598 • 5d ago
-
----
-
-**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
-
-*Meta Inc.*
-
-Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
-
-`image-text-to-text` `29.8B`
-
-⬇️ 384,097 • ❤️ 1,678 • 7d ago
+⬇️ 30,985 • ❤️ 602 • 5d ago
 
 ---
 
@@ -481,7 +465,19 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 741,011 • ❤️ 558 • 4d ago
+⬇️ 741,011 • ❤️ 561 • 4d ago
+
+---
+
+**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
+
+*Meta Inc.*
+
+Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
+
+`image-text-to-text` `29.8B`
+
+⬇️ 384,097 • ❤️ 1,679 • 7d ago
 
 ---
 
@@ -493,7 +489,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,855,539 • ❤️ 4,141 • 5d ago
+⬇️ 2,855,539 • ❤️ 4,143 • 5d ago
 
 ---
 
@@ -505,7 +501,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 45,465 • ❤️ 516 • 2d ago
+⬇️ 45,465 • ❤️ 526 • 2d ago
 
 ---
 
@@ -527,20 +523,6 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 ---
 
-**[COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264)**
-
-*Tianyi Zhou, Dongrui Liu, Leitao Yuan et al. (5 authors)*
-
-🏢 shanghai ailab 
-
-Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
-
-▲ 127 • 💬 3 • ⭐ 23,303 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
-
----
-
 **[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
 
 *Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
@@ -553,6 +535,20 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 ---
 
+**[COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264)**
+
+*Tianyi Zhou, Dongrui Liu, Leitao Yuan et al. (5 authors)*
+
+🏢 shanghai ailab 
+
+Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
+
+▲ 127 • 💬 3 • ⭐ 23,387 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
+
+---
+
 **[HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859)**
 
 *Weiliang Chen, Haowen Sun, Jun Gao et al. (43 authors)*
@@ -561,7 +557,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations into verifiable reasoning chains that justify scores with transparent evidence.
 
-▲ 109 • 💬 1 • ⭐ 132 • 2d ago
+▲ 110 • 💬 1 • ⭐ 132 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16859) • [💻 code](https://github.com/MirroS-Lab/HarnessEval-W) • [🔗 project](https://mirros-lab.github.io/HarnessEval-W)
 
@@ -654,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.4k • 🔱 1.6k • 1h ago
+⭐ 14.5k • 🔱 1.6k • 27m ago
 
 ---
 
@@ -664,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.6k • 5h ago
+⭐ 13.9k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -692,7 +688,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 560 • 10h ago
+⭐ 3.3k • 🔱 560 • 11h ago
 
 ---
 
@@ -722,7 +718,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 258 • 4h ago
+⭐ 2.3k • 🔱 259 • 4h ago
 
 ---
 
@@ -742,7 +738,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 293 • 3h ago
+⭐ 2.2k • 🔱 293 • 19m ago
 
 ---
 
