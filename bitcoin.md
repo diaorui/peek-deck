@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T14:33:49.558777+00:00'
+updated: '2026-08-18T15:31:34.126355+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 14:33 UTC  
+**Last Updated:** August 18, 2026 at 15:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,9 +77,47 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
+
+1h ago
+
+---
+
+**[Bitcoin: only the true believers survive](https://www.reddit.com/r/Bitcoin/comments/1vrp9dg/bitcoin_only_the_true_believers_survive/)**
+
+everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
+
+2h ago
+
+---
+
+**[Why did the cold card hackers send all the money to one wallet?](https://www.reddit.com/r/Bitcoin/comments/1vrmfri/why_did_the_cold_card_hackers_send_all_the_money/)**
+
+Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
+
+4h ago
+
+---
+
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-21h ago
+22h ago
+
+---
+
+**[Satoshi Nakamoto Registered Bitcoin.org 18 Years Ago Today in His First Known Act as Satoshi](https://www.reddit.com/r/Bitcoin/comments/1vrr7bd/satoshi_nakamoto_registered_bitcoinorg_18_years/)**
+
+https://satoshitimeline.com/1
+
+47m ago
+
+---
+
+**[Peter Todd is actively trying to remove the 21M supply cap, this is an existential threat no one is paying attention to](https://www.reddit.com/r/Bitcoin/comments/1vr801s/peter_todd_is_actively_trying_to_remove_the_21m/)**
+
+Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
+
+16h ago
 
 ---
 
@@ -87,7 +125,7 @@ Rank #1
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-18h ago
+19h ago
 
 ---
 
@@ -95,59 +133,21 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 (If you detected sarcasm, you were right…) 😬
 
-23h ago
+1d ago
 
 ---
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-20h ago
+21h ago
 
 ---
 
-**[Bitcoin is becoming even scarcer than it looks.](https://www.reddit.com/r/Bitcoin/comments/1vqu68l/bitcoin_is_becoming_even_scarcer_than_it_looks/)**
+**[6 BTC is sitting in a wallet that was built to be cracked.](https://www.reddit.com/r/Bitcoin/comments/1vrqsg5/6_btc_is_sitting_in_a_wallet_that_was_built_to_be/)**
 
-According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
+No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's called Krackpot. Back in 2015 someone funded a series of Bitcoin wallets as a public puzzle, each one harder than the last. Puzzle 71 holds about 7.1 BTC and nobody has solved it (6 of it is yours if you crack it, more in a sec). The address is on-chain. Verify it yourself. How it works: Paste your Bitcoin address Press start Win or don't Everything runs in your browser with WebGPU. Nothing installs, nothing about your searching leaves the tab, and if your GPU finds the key it stays in your browser. Ctto: simonmales
 
-23h ago
-
----
-
-**[How would the Coldcard attackers actually cash out the stolen BTC?](https://www.reddit.com/r/Bitcoin/comments/1vr93oh/how_would_the_coldcard_attackers_actually_cash/)**
-
-I'm curious about the practical side of this. If the attackers really have hundreds of BTC stolen from the Coldcard incident, how do they realistically turn that into usable money? For example: If they send it directly to a KYC exchange, wouldn't the exchange potentially flag the coins as stolen and connect the deposit to their identity? If they use a DEX to swap BTC into another coin, the transactions are still publicly visible, so does that actually solve the problem? If they sell P2P/OTC, isn't finding someone willing to buy a large amount of obviously tainted BTC pretty difficult (and potentially risky for both sides)? Could they simply hold the BTC indefinitely and wait for the attention around the theft to die down?
-
-14h ago
-
----
-
-**[Concard: Rugpull Inside](https://www.reddit.com/r/Bitcoin/comments/1vrenqu/concard_rugpull_inside/)**
-
-10h ago
-
----
-
-**[I love you](https://www.reddit.com/r/Bitcoin/comments/1vrgymn/i_love_you/)**
-
-Hello I’m Santiago, I just wanted to say I know a lot of people have taken some big hits in this community, stay strong and protect your bitcoin at all cost I love you (fyi everyone should try shrooms at least once)
-
-8h ago
-
----
-
-**[I am always surprised at how few people understand this.](https://www.reddit.com/r/Bitcoin/comments/1vr4g2r/i_am_always_surprised_at_how_few_people/)**
-
-People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
-
-17h ago
-
----
-
-**[Some hopium from a veteran of the 2022 bear market.](https://www.reddit.com/r/Bitcoin/comments/1vqv0mp/some_hopium_from_a_veteran_of_the_2022_bear_market/)**
-
-I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
-
-23h ago
+1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Is Bitcoin worth buying at $63,000? We asked three AI models, then checked wheth
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-syracuse.com • 41m ago
+syracuse.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ syracuse.com • 41m ago
 
 The 30-year US Treasury yield climbed to around 5.29%, its highest level since 2007, increasing pressure on Bitcoin and other risk-sensitive assets. Elevated risk-free ...
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 34m ago
 
 Japan is losing 3 battles at once as yields spike and the yen falls. Will Bitcoin feel the yen shock? Key levels to watch.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -197,13 +197,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
 **[An NY grandma of 5 went missing in Vegas. Now her family is getting messages asking for bitcoin](https://www.cbsnews.com/video/an-ny-grandma-of-5-went-missing-in-vegas-now-her-family-is-getting-messages-asking-for-bitcoin/)**
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ CBS News • 2h ago
 
 Metaplanet is expected to own 95.7% of Superplanet while its business continues; closing is expected in Q4 2026, subject to stockholder approval.
 
-Stock Titan • 2h ago
+Stock Titan • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ Stock Titan • 2h ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -227,7 +227,7 @@ Seeking Alpha • 18h ago
 
 The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -247,7 +247,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 23h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 1d ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 184 • ⏱️ 18:59 • 16h ago
+👁️ 23K • 👍 2K • 💬 184 • ⏱️ 18:59 • 17h ago
 
 ---
 
@@ -301,7 +301,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 811 • 👍 77 • 1h ago
+👁️ 811 • 👍 77 • 2h ago
 
 ---
 
@@ -311,7 +311,7 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 244 • 💬 67 • ⏱️ 14:53 • 22h ago
+👁️ 7K • 👍 244 • 💬 67 • ⏱️ 14:53 • 23h ago
 
 ---
 
@@ -321,7 +321,7 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 315 • 💬 1 • ⏱️ 42:04 • 17h ago
+👁️ 7K • 👍 315 • 💬 1 • ⏱️ 42:04 • 18h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #finance Bitcoin breaks above $64K while stocks pull back, showi
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 111 • 2h ago
+👁️ 1K • 👍 111 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 667 • 💬 106 • ⏱️ 46:21 • 23h ago
+👁️ 12K • 👍 667 • 💬 106 • ⏱️ 46:21 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 333 • 💬 41 • ⏱️ 2:16 • 13h ago
+👁️ 4K • 👍 333 • 💬 41 • ⏱️ 2:16 • 14h ago
 
 ---
 
@@ -379,7 +379,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 30K • 👍 2K • 💬 141 • ⏱️ 21:02 • 17h ago
+👁️ 30K • 👍 2K • 💬 141 • ⏱️ 21:02 • 18h ago
 
 ---
 
