@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T06:51:41.046261+00:00'
+updated: '2026-08-18T07:37:35.686962+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 06:51 UTC  
+**Last Updated:** August 18, 2026 at 07:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 11h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-coindesk.com • 16h ago
+coindesk.com • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ coindesk.com • 16h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 15h ago
 
 Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
 
-coindesk.com • 18h ago
+coindesk.com • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ coindesk.com • 18h ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 4h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -212,19 +212,19 @@ Benzinga • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 17h ago
+fortune.com • 18h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
 **[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-CCN.com • 14h ago
+CCN.com • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 3K • 👍 266 • 💬 282 • ⏱️ 17:08 • 7h ago
+👁️ 3K • 👍 266 • 💬 282 • ⏱️ 17:08 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 426 • 💬 268 • ⏱️ 29:45 • 21h ago
+👁️ 4K • 👍 426 • 💬 268 • ⏱️ 29:45 • 22h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 676 • 👍 25 • 💬 52 • ⏱️ 0:47 • 5h ago
+👁️ 676 • 👍 25 • 💬 52 • ⏱️ 0:47 • 6h ago
 
 ---
 
@@ -306,7 +306,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 2K • 👍 103 • 💬 12 • ⏱️ 15:38 • 8h ago
+👁️ 2K • 👍 103 • 💬 12 • ⏱️ 15:38 • 9h ago
 
 ---
 
@@ -326,7 +326,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 7K • 👍 302 • 💬 13 • ⏱️ 2:54 • 14h ago
+👁️ 7K • 👍 302 • 💬 13 • ⏱️ 2:54 • 15h ago
 
 ---
 
