@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T15:31:34.131639+00:00'
+updated: '2026-08-18T16:31:55.596048+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 15:31 UTC  
+**Last Updated:** August 18, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,897.50
+### $1,917.43
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** +2.0%  
-**30d:** +0.6%  
-**90d:** -10.2%  
-**1y:** -53.1%  
+**7d:** +1.8%  
+**30d:** +0.5%  
+**90d:** -10.3%  
+**1y:** -53.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.64B
+**Market Cap:** $230.81B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.3%
 
 **All-Time Low:** $0.43
-+437604.8%
++441609.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 4h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 3h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 4h ago
 
 ---
 
@@ -128,7 +128,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 2d ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 3d ago
 
 ---
 
@@ -152,11 +152,41 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
+**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
+
+CoinDesk • 4h ago
+
+---
+
+**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
+
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+
+ethereum.org • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html)**
+
+Bitcoin (BTC-USD) opened at $64,487.65 on Tuesday, August 18, 2026, 2.7% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,911.89 on Tuesday, August 18, 2026, up 2% from Monday's opening price.
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+
+Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+
+TradingView • 14h ago
+
+---
+
 **[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -172,47 +202,7 @@ CoinDesk • 1d ago
 
 Bitmine bought more ETH last week and says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Decrypt • 23h ago
-
----
-
-**[Allocation Update - Q2 2026](https://blog.ethereum.org/2026/08/18/allocation-q2-26)**
-
-Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
-
-ethereum.org • 3h ago
-
----
-
-**[Ethereum to $5,000? Tom Lee Flags ‘Major Breakout’ Setup as 2 Historic Rally Signals Flash](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-tom-lee-113044251.html)**
-
-Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
-
-Yahoo Finance • 4h ago
-
----
-
-**[ETH news: Ethereum’s next big upgrade has 66 proposals, including a major privacy fix](https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix)**
-
-Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
-
-Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
-
-TradingView • 13h ago
-
----
-
-**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
+Decrypt • 1d ago
 
 ---
 
@@ -220,7 +210,7 @@ Fortune • 3h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 17h ago
+FXStreet • 18h ago
 
 ---
 
@@ -228,7 +218,15 @@ FXStreet • 17h ago
 
 Just 9% of Aave positions carry roughly half its debt, with the concentrated cohort running near 90% LTV against Ethereum-linked collateral.
 
-CryptoSlate • 3h ago
+CryptoSlate • 4h ago
+
+---
+
+**[Bullski Presale Passes 1.14 Billion Tokens Sold as Stage One Nears Completion on Ethereum](https://markets.businessinsider.com/news/stocks/bullski-presale-passes-1-14-billion-tokens-sold-as-stage-one-nears-completion-on-ethereum-1036470376)**
+
+LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
+
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -242,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 347 • 💬 314 • ⏱️ 17:08 • 16h ago
+👁️ 6K • 👍 365 • 💬 310 • ⏱️ 17:08 • 17h ago
 
 ---
 
@@ -252,47 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 9K • 👍 245 • 💬 27 • ⏱️ 35:05 • 1d ago
-
----
-
-**[There&#39;s A Reason Everyone Is Buying Bitcoin &amp; XRP Right Now Everythings Changed For Crypto Investors](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
-
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 431 • 💬 225 • ⏱️ 29:45 • 1d ago
-
----
-
-**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
-
-Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
-
-📺 Zarx Crypto
-
-👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 13h ago
-
----
-
-**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 34K • 👍 1K • 💬 117 • ⏱️ 15:54 • 2d ago
-
----
-
-**[BMNR &amp; ETH Breakout Soon? Tom Lee Keeps Buying BMNR &amp; ETH](https://www.youtube.com/watch?v=PW8oVXWCvW0)**
-
-BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxFi: https://www.maxfi.tech/ Tutorials + ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 59 • 💬 14 • ⏱️ 13:33 • 16h ago
+👁️ 9K • 👍 255 • 💬 31 • ⏱️ 35:05 • 1d ago
 
 ---
 
@@ -302,17 +260,37 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 286 • 👍 50 • 💬 22 • ⏱️ 18:46 • 4h ago
+👁️ 557 • 👍 95 • 💬 32 • ⏱️ 18:46 • 5h ago
 
 ---
 
-**[Ethereum Explained: What You NEED to Know Before You Buy ETH](https://www.youtube.com/watch?v=prhldVJIqIU)**
+**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
 
-A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominance, Layer 2s, institutional adoption, ETFs, and ...
+Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
 
-📺 Crypto School - Brian Longest
+📺 Zarx Crypto
 
-👁️ 35 • 👍 1 • 💬 2 • ⏱️ 27:41 • 1d ago
+👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 14h ago
+
+---
+
+**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 35K • 👍 1K • 💬 117 • ⏱️ 15:54 • 2d ago
+
+---
+
+**[18th Aug Special Live Trading | Crypto Live Trading | ETH BTC Live Trading](https://www.youtube.com/watch?v=ZnDBqEv7L10)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 1K • 👍 250 • 1h ago
 
 ---
 
@@ -322,7 +300,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 219 • 💬 193 • ⏱️ 18:58 • 18h ago
+👁️ 5K • 👍 223 • 💬 197 • ⏱️ 18:58 • 19h ago
 
 ---
 
@@ -330,7 +308,27 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 37 • 💬 53 • ⏱️ 0:47 • 14h ago
+👁️ 2K • 👍 39 • 💬 59 • ⏱️ 0:47 • 15h ago
+
+---
+
+**[XRP, SOL, AAVE, ETH &amp; HBAR! Upgrades for Crypto Bull Run 2026](https://www.youtube.com/watch?v=8amizNv8jMs)**
+
+SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. From Alpenglow and Lean Ethereum to ...
+
+📺 Altcoin Buzz
+
+👁️ 2K • 👍 121 • 💬 12 • ⏱️ 14:14 • 19h ago
+
+---
+
+**[Bitcoin&#39;s Fifth Attack On $65,080 (This One Looks Different)](https://www.youtube.com/watch?v=ObsTSYcdMTE)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 3K • 👍 138 • 💬 9 • ⏱️ 15:38 • 18h ago
 
 ---
 
