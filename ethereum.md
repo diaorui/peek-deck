@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T20:23:30.018412+00:00'
+updated: '2026-08-18T20:50:27.593057+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 20:23 UTC  
+**Last Updated:** August 18, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.0%  
-**30d:** +0.6%  
-**90d:** -10.2%  
-**1y:** -53.1%  
+**24h:** +0.4%  
+**7d:** +1.8%  
+**30d:** +0.5%  
+**90d:** -10.3%  
+**1y:** -53.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.10B
+**Market Cap:** $230.83B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.3%
 
 **All-Time Low:** $0.43
-+442187.0%
++441658.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 4h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 5h ago
 
 ---
 
@@ -104,7 +104,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 8h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 9h ago
 
 ---
 
@@ -166,27 +166,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html)**
+**[Securitize Adds Neuberger High-Yield Credit Fund to Ethereum, Solana, Avalanche and Sui](https://finance.yahoo.com/markets/crypto/articles/securitize-adds-neuberger-high-yield-202500874.html)**
 
-Bitcoin (BTC-USD) opened at $64,487.65 on Tuesday, August 18, 2026, 2.7% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,911.89 on Tuesday, August 18, 2026, up 2% from Monday's opening price.
+Securitize Corp. (NYSE: $SECZ) and Neuberger have launched a tokenized high-yield fixed-income fund across four pub...
 
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
-
-Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
-
-TradingView • 18h ago
+Yahoo Finance • 25m ago
 
 ---
 
-**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+**[What’s Next For Bitcoin, Ethereum and XRP Prices?](https://www.tradingview.com/news/coinpedia:3aea1b1e5094b:0-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
 
-Yahoo Finance • 1d ago
+TradingView • 3h ago
 
 ---
 
@@ -198,6 +190,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum)**
 
 Bitmine bought more ETH last week and says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
@@ -206,11 +206,19 @@ Decrypt • 1d ago
 
 ---
 
+**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
 **[Ethereum wants to hide your trades from bots before they can attack](https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/)**
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
 
 ---
 
@@ -219,14 +227,6 @@ CryptoSlate • 2h ago
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
 FXStreet • 22h ago
-
----
-
-**[Bullski Presale Passes 1.14 Billion Tokens Sold as Stage One Nears Completion on Ethereum](https://markets.businessinsider.com/news/stocks/bullski-presale-passes-1-14-billion-tokens-sold-as-stage-one-nears-completion-on-ethereum-1036470376)**
-
-LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
-
-markets.businessinsider.com • 6h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 379 • 💬 311 • ⏱️ 17:08 • 21h ago
+👁️ 7K • 👍 384 • 💬 319 • ⏱️ 17:08 • 21h ago
 
 ---
 
@@ -250,37 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 10K • 👍 265 • 💬 32 • ⏱️ 35:05 • 1d ago
-
----
-
-**[Der unterschätzte Ethereum-Hebel, über den kaum jemand spricht](https://www.youtube.com/watch?v=OcMqReVddPs)**
-
-Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue „Blockchain-Investor“-App – mit exklusiven ...
-
-📺 Krypto Report
-
-👁️ 602 • 👍 125 • 💬 2 • ⏱️ 14:46 • 4h ago
-
----
-
-**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
-
-Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
-
-📺 Blockchain Pill
-
-👁️ 798 • 👍 122 • 💬 34 • ⏱️ 18:46 • 9h ago
-
----
-
-**[There&#39;s A Reason Everyone Is Buying Bitcoin &amp; XRP Right Now Everythings Changed For Crypto Investors](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
-
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 436 • 💬 257 • ⏱️ 29:45 • 1d ago
+👁️ 10K • 👍 272 • 💬 33 • ⏱️ 35:05 • 1d ago
 
 ---
 
@@ -294,43 +264,71 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 ---
 
+**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
+
+Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
+
+📺 Blockchain Pill
+
+👁️ 1K • 👍 132 • 💬 44 • ⏱️ 18:46 • 9h ago
+
+---
+
+**[Der unterschätzte Ethereum-Hebel, über den kaum jemand spricht](https://www.youtube.com/watch?v=OcMqReVddPs)**
+
+Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue „Blockchain-Investor“-App – mit exklusiven ...
+
+📺 Krypto Report
+
+👁️ 1K • 👍 181 • 💬 4 • ⏱️ 14:46 • 4h ago
+
+---
+
+**[There&#39;s A Reason Everyone Is Buying Bitcoin &amp; XRP Right Now Everythings Changed For Crypto Investors](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+
+Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 436 • 💬 252 • ⏱️ 29:45 • 1d ago
+
+---
+
 **[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
 
 Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 16 • 💬 33 • ⏱️ 4:44 • 18h ago
+👁️ 17K • 👍 812 • 💬 25 • ⏱️ 4:44 • 19h ago
 
 ---
 
-**[Bitcoin Y Ethereum: ¿A Punto De Iniciar un Movimiento Alcista?](https://www.youtube.com/watch?v=4thY6Np9Ml8)**
+**[The Head Of Ripple XRP Just Said &quot;It&#39;s A SCAM&quot; Solana Cardano &amp; Ethereum Could Be In Trouble](https://www.youtube.com/watch?v=gbVgbEG4h6I)**
 
-Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+Well, it looks like things are a changing in the cryptocurrency market. We've gotten a lot of altcoin news being thrown around as ...
 
-📺 CdeCripto
+📺 The Modern Investor
 
-👁️ 5K • 👍 560 • 💬 50 • ⏱️ 13:34 • 1d ago
-
----
-
-**[Bitcoin&#39;s Fifth Attack On $65,080 (This One Looks Different)](https://www.youtube.com/watch?v=ObsTSYcdMTE)**
-
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
-
-📺 Verified Investing
-
-👁️ 3K • 👍 142 • 💬 9 • ⏱️ 15:38 • 22h ago
+👁️ 17K • 👍 1K • 💬 161 • ⏱️ 29:34 • 2d ago
 
 ---
 
-**[BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d8-OpIPCMQQ)**
+**[CANTON JUST BECAME MORE LIKE ETHEREUM — THIS IS HUGE](https://www.youtube.com/watch?v=oZ-RNmyzxEc)**
 
-BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.com Tangem ...
 
-📺 Crypto World
+📺 Grow Rich Grow Happy
 
-👁️ 5K • 👍 225 • 💬 197 • ⏱️ 18:58 • 23h ago
+👁️ 959 • 👍 123 • 💬 26 • ⏱️ 13:49 • 20h ago
+
+---
+
+**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 43 • 💬 59 • ⏱️ 0:47 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T20:23:30.021309+00:00'
+updated: '2026-08-18T20:50:27.595314+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 20:23 UTC  
+**Last Updated:** August 18, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 1h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 2h ago
 
 ---
 
@@ -116,55 +116,11 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 ## Google News: "robotics"
 
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
-
-The New York Times • 17h ago
-
----
-
 **[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
 
 Persona AI sees near-term economic viability in heavy industrial humanoids
 
 IEEE Spectrum • 2d ago
-
----
-
-**[Robotics 'Eyes' And 'Brains' Maker Catapults 85% As AI Checks In With Reality](https://www.investors.com/research/ai-stock-cognex-cgnx-tech-robotics-markets-trade-investing/)**
-
-AI stock Cognex is in a cup-with-handle base with an entry at 72.70. Cognex makes sensors and cameras for industrial automation and robotics.
-
-Investor's Business Daily • 2h ago
-
----
-
-**[Department of Homeland Security Seeking Humanoid Robots to Patrol Southern Border](https://www.yahoo.com/news/politics/articles/department-homeland-security-seeking-humanoid-180152873.html)**
-
-"If drones and watchtowers were able to solve for everything, why do we still have humans at the border?"
-
-Yahoo • 2h ago
-
----
-
-**[World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)**
-
-The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
-
-CNN • 13h ago
-
----
-
-**[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
-
-Bloomberg • 9h ago
-
----
-
-**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html)**
-
-Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
-
-PR Newswire • 8h ago
 
 ---
 
@@ -176,15 +132,59 @@ Business Insider • 1d ago
 
 ---
 
-**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
+**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
 
-Reuters • 7h ago
+Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+
+Business Insider • 1h ago
 
 ---
 
-**[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
+**[World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)**
 
-WSJ • 13h ago
+The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
+
+CNN • 14h ago
+
+---
+
+**[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
+
+Bloomberg • 9h ago
+
+---
+
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+
+The New York Times • 17h ago
+
+---
+
+**[Serve Robotics partners with Grubhub after Uber exit](https://finance.yahoo.com/technology/articles/serve-robotics-partners-grubhub-uber-210426051.html)**
+
+Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
+
+Axios • 1d ago
+
+---
+
+**[Serve Robotics partners with Grubhub in robot delivery expansion push](https://www.reuters.com/business/retail-consumer/serve-robotics-partners-with-grubhub-robot-delivery-expansion-push-2026-08-17/)**
+
+Reuters • 1d ago
+
+---
+
+**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html)**
+
+Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
+
+PR Newswire • 9h ago
 
 ---
 
@@ -208,7 +208,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 33K • 👍 728 • 💬 66 • ⏱️ 10:09 • 4d ago
+👁️ 34K • 👍 739 • 💬 67 • ⏱️ 10:09 • 4d ago
 
 ---
 
@@ -218,7 +218,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 581 • 👍 24 • ⏱️ 0:51 • 3h ago
+👁️ 935 • 👍 40 • ⏱️ 0:51 • 4h ago
 
 ---
 
@@ -228,7 +228,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 236K • 👍 3K • 💬 614 • ⏱️ 10:16 • 3d ago
+👁️ 236K • 👍 3K • 💬 615 • ⏱️ 10:16 • 4d ago
 
 ---
 
@@ -236,7 +236,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 sneurorobotics
 
-👁️ 7K • 👍 438 • 💬 22 • ⏱️ 0:10 • 19h ago
+👁️ 9K • 👍 452 • 💬 23 • ⏱️ 0:10 • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.5M • 👍 91K • 💬 6K • ⏱️ 14:03 • 4d ago
+👁️ 3.5M • 👍 92K • 💬 6K • ⏱️ 14:03 • 4d ago
 
 ---
 
@@ -264,17 +264,7 @@ Unitree has released a video of its newest humanoid robot claiming a top speed o
 
 📺 Interesting Engineering Explains
 
-👁️ 13K • 👍 458 • 💬 75 • ⏱️ 1:51 • 1d ago
-
----
-
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
-
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
-
-📺 Y Combinator
-
-👁️ 33K • 👍 840 • 💬 30 • ⏱️ 58:18 • 6d ago
+👁️ 13K • 👍 474 • 💬 78 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -284,7 +274,15 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 19K • 👍 369 • 💬 62 • ⏱️ 0:56 • 1d ago
+👁️ 19K • 👍 380 • 💬 62 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[He Found a Robot Unlike Any Other#shorts](https://www.youtube.com/watch?v=htRWiNy6vsg)**
+
+📺 Kind Recaps
+
+👁️ 54K • 👍 3K • 💬 12 • ⏱️ 2:56 • 15h ago
 
 ---
 

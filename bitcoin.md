@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T20:23:30.013014+00:00'
+updated: '2026-08-18T20:50:27.588890+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 20:23 UTC  
+**Last Updated:** August 18, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.1%  
-**30d:** -0.8%  
-**90d:** -16.6%  
-**1y:** -42.7%  
+**24h:** +0.3%  
+**7d:** +1.8%  
+**30d:** -1.0%  
+**90d:** -16.8%  
+**1y:** -42.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1299.52B
+**Market Cap:** $1295.99B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-48.8%
 
 **All-Time Low:** $67.81
-+95380.0%
++95114.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just me or is this pretty much every day sentiment?
 
 https://satoshitimeline.com/1
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ https://satoshitimeline.com/1
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,29 +159,43 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
 
-CoinDesk • 3h ago
+CoinDesk • 48m ago
 
 ---
 
-**[Citi expects to launch bitcoin custody later this year under its new Custody+ platform](https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090)**
+**[Investors Cash Out Fast Of Bitcoin ETFs But Price Remains Stable](https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs)**
 
-The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
+The Bitcoin ETFs were on a hot streak but investor sentiment last week changed.
 
-The Block • 8h ago
-
----
-
-**[Citi plans to launch bitcoin custody for institutional clients later this year](https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year)**
-
-CoinDesk • 6h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Citi goes real-time with new custody platform; Bitcoin services coming next](https://seekingalpha.com/news/4634441-citi-goes-real-time-with-new-custody-platform-bitcoin-services-coming-next)**
+**[Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)**
 
-Citigroup launches a real-time custody platform for institutional investors, cutting processing times and adding Bitcoin custody in 2026.
+Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-Seeking Alpha • 3h ago
+The Block • 2h ago
+
+---
+
+**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Wall Street Money Moves To Texas. Bitcoin Explains What Comes Next](https://www.forbes.com/sites/davidbirnbaum/2026/08/18/wall-street-money-moves-to-texas-bitcoin-explains-what-comes-next/)**
+
+American finance is undergoing a sea change as Wall Street's dominance wanes. Bitcoin offers unparalleled portability and allows capital to exit a broken system.
+
+Forbes • 22m ago
+
+---
+
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+
+Bloomberg • 5h ago
 
 ---
 
@@ -201,31 +215,17 @@ CNBC • 17h ago
 
 ---
 
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
-
-Bloomberg • 4h ago
-
----
-
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-syracuse.com • 6h ago
+Syracuse.com • 6h ago
 
 ---
 
-**[Bitcoin eyes breakout as 6-week symmetrical triangle narrows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4634075-bitcoin-eyes-breakout-as-6-week-symmetrical-triangle-narrows)**
+**[Bitcoin miners pivoting to AI infrastructure: Who's best positioned? (HUT:NASDAQ)](https://seekingalpha.com/news/4633887-bitcoin-miners-pivoting-to-ai-infrastructure-whos-best-positioned)**
 
-Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
+Former Bitcoin miners are pivoting to AI/HPC data centers.
 
-Seeking Alpha • 1d ago
-
----
-
-**[Metaplanet To Invest 2,100 Bitcoin In Super League To Launch U.S. Bitcoin Treasury Platform, Superplanet](https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2LHSVZ:0-metaplanet-to-invest-2-100-bitcoin-in-super-league-to-launch-u-s-bitcoin-treasury-platform-superplanet/)**
-
-Metaplanet Inc. TSE:3350:
-
-TradingView • 7h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -289,17 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 204 • ⏱️ 18:59 • 22h ago
-
----
-
-**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
-
-Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 252 • 💬 79 • ⏱️ 14:53 • 1d ago
+👁️ 28K • 👍 2K • 💬 209 • ⏱️ 18:59 • 22h ago
 
 ---
 
@@ -309,47 +299,17 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 211 • ⏱️ 8:25 • 1d ago
+👁️ 42K • 👍 2K • 💬 212 • ⏱️ 8:25 • 1d ago
 
 ---
 
-**[15,000 Hours Trying to Kill Bitcoin](https://www.youtube.com/watch?v=p_cTgAvci70)**
+**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
 
-Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff describes roughly 15000 hours spent asking one ...
+Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
 
-📺 The Wolf Of All Streets
+📺 Yahoo Finance
 
-👁️ 889 • 👍 29 • 💬 29 • ⏱️ 1:41 • 16h ago
-
----
-
-**[BILLIONAIRE PAUL TUDOR JONES TURN BULLISH ON BITCOIN &amp; MAJOR TRUMP WHITE HOUSE CYRPTO MEETING!](https://www.youtube.com/watch?v=KzyPxH2488I)**
-
-Crypto News: Paul Tudor Jones' investment firm increases stake in BlackRock's bitcoin ETF after year of selling. The White House ...
-
-📺 Thinking Crypto
-
-👁️ 8K • 👍 546 • 💬 153 • ⏱️ 20:45 • 1d ago
-
----
-
-**[Bitcoin SHOULD Be Falling - So Why Isn’t It?](https://www.youtube.com/watch?v=5644ksG2syQ)**
-
-Bitcoin #Crypto #Finance Bitcoin continues to hold above $63K despite heavy ETF outflows and elevated Treasury yields, ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 770 • 💬 260 • ⏱️ 1:01:48 • 1d ago
-
----
-
-**[THIS IS A MASSIVE BITCOIN TRAP...](https://www.youtube.com/watch?v=GY5hErc5yt0)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 11K • 👍 721 • 💬 36 • ⏱️ 8:29 • 14h ago
+👁️ 7K • 👍 256 • 💬 79 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -359,7 +319,47 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 349 • 💬 5 • ⏱️ 42:04 • 23h ago
+👁️ 9K • 👍 361 • 💬 5 • ⏱️ 42:04 • 23h ago
+
+---
+
+**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 12K • 👍 672 • 💬 92 • ⏱️ 46:21 • 1d ago
+
+---
+
+**[BILLIONAIRE PAUL TUDOR JONES TURN BULLISH ON BITCOIN &amp; MAJOR TRUMP WHITE HOUSE CYRPTO MEETING!](https://www.youtube.com/watch?v=KzyPxH2488I)**
+
+Crypto News: Paul Tudor Jones' investment firm increases stake in BlackRock's bitcoin ETF after year of selling. The White House ...
+
+📺 Thinking Crypto
+
+👁️ 8K • 👍 548 • 💬 153 • ⏱️ 20:45 • 1d ago
+
+---
+
+**[15,000 Hours Trying to Kill Bitcoin](https://www.youtube.com/watch?v=p_cTgAvci70)**
+
+Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff describes roughly 15000 hours spent asking one ...
+
+📺 The Wolf Of All Streets
+
+👁️ 973 • 👍 29 • 💬 33 • ⏱️ 1:41 • 16h ago
+
+---
+
+**[Bitcoin SHOULD Be Falling - So Why Isn’t It?](https://www.youtube.com/watch?v=5644ksG2syQ)**
+
+Bitcoin #Crypto #Finance Bitcoin continues to hold above $63K despite heavy ETF outflows and elevated Treasury yields, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 18K • 👍 775 • 💬 260 • ⏱️ 1:01:48 • 1d ago
 
 ---
 
@@ -369,17 +369,17 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 640 • 👍 15 • 💬 2 • ⏱️ 0:57 • 4h ago
+👁️ 976 • 👍 27 • 💬 2 • ⏱️ 0:57 • 4h ago
 
 ---
 
-**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
+**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
 
-Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
 
-📺 CNBC Television
+📺 Bitcoin University
 
-👁️ 12K • 👍 165 • 💬 171 • ⏱️ 3:11 • 1d ago
+👁️ 15K • 👍 1K • 💬 685 • ⏱️ 14:27 • 2d ago
 
 ---
 
