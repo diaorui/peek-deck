@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T09:33:44.864129+00:00'
+updated: '2026-08-19T10:29:05.687807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 09:33 UTC  
+**Last Updated:** August 19, 2026 at 10:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,361.91
+### $64,410.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.1%  
 **7d:** +1.4%  
-**30d:** -3.3%  
+**30d:** -3.2%  
 **90d:** -14.8%  
-**1y:** -43.9%  
+**1y:** -43.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-16h ago
+17h ago
 
 ---
 
@@ -101,7 +101,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -109,19 +109,19 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-7h ago
+8h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-6h ago
+7h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -129,7 +129,7 @@ Why buy and then freak out !
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-12h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 https://satoshitimeline.com/1
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ https://satoshitimeline.com/1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -157,15 +157,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
-**[BTC, ETH, SOL price news: Bitcoin climbs above $64,000 while most majors slip](https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip)**
+**[Live updates: Bitcoin tepidly on the rise as stocks slip](https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite)**
 
-Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
+The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
 
-CoinDesk • 1d ago
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin Price to $1 Million? SEC Rolls Out ‘Fit-for-Purpose’ Crypto Framework](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-1-million-sec-093745429.html)**
+
+The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ...
+
+Yahoo Finance • 51m ago
 
 ---
 
@@ -173,13 +181,21 @@ CoinDesk • 1d ago
 
 Citigroup (NYSE:C) launched Custody+, a unified custody platform that combines traditional securities and digital assets, including Bitcoin. The service integrates near real-time processing with digital asset custody and advanced FX and liquidity tools on a single infrastructure. Custody+ is aimed at institutional clients that want digital asset exposure within existing global banking and custody arrangements. For readers interested in more ideas around resilient financial exposure linked...
 
-finance.yahoo.com • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Fundstrat's Tom Lee Says Crypto 'More Relevant' In AI Era, Backs BlackRock's Bullish Bitcoin Call](https://finance.yahoo.com/markets/crypto/articles/fundstrats-tom-lee-says-crypto-093701201.html)**
+
+BlackRock’s latest 10-year study showed that a 1-2% allocation to Bitcoin would have improved risk-adjusted returns in a traditional 60/40 portfolio.
+
+Yahoo Finance • 52m ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -187,7 +203,7 @@ Bloomberg.com • 17h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 19h ago
+CBS News • 20h ago
 
 ---
 
@@ -201,7 +217,7 @@ CNBC • 1d ago
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 19h ago
+Syracuse.com • 20h ago
 
 ---
 
@@ -209,23 +225,7 @@ Syracuse.com • 19h ago
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 15h ago
-
----
-
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
-
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
-
-BlackRock • 1d ago
-
----
-
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
-
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
-
-CNBC • 21h ago
+VanEck • 16h ago
 
 ---
 
@@ -261,7 +261,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 1d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 2d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -309,7 +309,7 @@ In today's video, we look into the probabilities of whether or not Bitcoin is em
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 369 • 💬 1 • ⏱️ 34:36 • 1h ago
+👁️ 3K • 👍 369 • 💬 1 • ⏱️ 34:36 • 2h ago
 
 ---
 
@@ -319,7 +319,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 17K • 👍 823 • 💬 148 • ⏱️ 22:30 • 16h ago
+👁️ 17K • 👍 823 • 💬 148 • ⏱️ 22:30 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 875 • 👍 15 • ⏱️ 0:57 • 15h ago
+👁️ 875 • 👍 15 • ⏱️ 0:57 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 61 • 💬 3 • ⏱️ 0:57 • 17h ago
+👁️ 3K • 👍 61 • 💬 3 • ⏱️ 0:57 • 18h ago
 
 ---
 
