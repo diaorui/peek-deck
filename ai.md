@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T17:26:58.236445+00:00'
+updated: '2026-08-19T17:50:59.627929+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 17:26 UTC  
+**Last Updated:** August 19, 2026 at 17:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer jobs because of AI, while only 5% expect more jobs.
 
-🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 16h ago
+🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 Irregular (an AI security research group) tested Kimi K3, an open-weight model, against CyScenarioBench, a benchmark built around autonomous cyber campaigns - adapting public exploit techniques to constrained environments, building custom tooling, diagnosing failed attempts, and validating each stage before moving on. It is the first open-weight model to pass. It trails closed frontier models by roughly six months, at an estimated third of the inference cost. The six-month lag is the less interesting number. What matters is that this level of capability now sits in downloadable weights instead of behind an API. A closed lab can throttle or ban an account mid-campaign - both OpenAI and Anthropic have done this before to abusive usage. Once equivalent capability is something you can self-host, that kill switch disappears entirely, along with any usage logging a defender could later subpoena. If the trend holds, the realistic baseline for any internet-facing asset a year out is not "gets scanned for known CVEs" the way it is today, it is "gets probed continuously by something that adapts exploits on the fly, with no vendor able to pull the plug on the other end." Source: https://www.irregular.com/research/assessing-kimi-k3-against-offensive-security-benchmarks Curious how people here read the trend line: does a shrinking gap between closed and open capability argue for faster patch/disclosure windows industry-wide, or does it just confirm the attacker side was never actually capped by API access limits in the first place?
 
-7m ago
+31m ago
 
 ---
 
@@ -73,7 +73,7 @@ Irregular (an AI security research group) tested Kimi K3, an open-weight model, 
 
 Which AI has the least Sycophancy, in your opinion. Would appreciate it, If you would even make a Ranking. Thanks
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ I get making automation for things no one wants to do. But what’s the real mot
 
 What I built and what it does TrackWanted is a live data visualization platform that aggregates public environmental and registry records into a single 3D globe. It features a "Carbon Watch" board that maps the world's heaviest industrial carbon emitters (power plants, steel mills, etc.) and overlays their locations with live CAMS atmospheric data to compare local air quality against WHO guidelines. Alongside the environmental telemetry, it includes an OSINT layer for looking up aircraft tail numbers and cross-referencing public authority wanted notices (like INTERPOL and OFAC). All data is sourced strictly from public agencies and registered bodies. How Claude helped in the process Aggregating fragmented data from various public registries required a lot of heavy lifting on the backend. I used Claude extensively to help write, debug, and optimize the Python scripts used for web scraping and API integrations. Claude was particularly helpful in structuring the data extraction pipelines, helping me parse complex JSON responses from the atmospheric models, and formatting the data so it could be cleanly visualized on the live 3D globe. How to try it The project is completely free to use. There are no ads, no promotions, and no account required to view the data. You can check out the live tracker here: https://track-wanted.live
 
-🔗 [TrackWanted](https://track-wanted.live) • 3h ago
+🔗 [TrackWanted](https://track-wanted.live) • 4h ago
 
 ---
 
@@ -113,7 +113,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet. At that point, I’m thinking... was this actually faster? Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing something for you and AI actually taking something off your plate. I've also been looking at platforms like Parallel AI that try to handle more of these workflows autonomously, and I'm curious whether that actually reduces the amount of work involved or just shifts the work to managing the AI. For those of you actually using AI automation, what has been worth it for you? And what's one automation you ended up getting rid of because it created more work than it saved?
 
-19h ago
+20h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 10h ago
 
 **[Meta's new Mac app takes aim at creators, small businesses](https://www.axios.com/2026/08/19/metas-new-mac-app-helps-influencers-and-small-biz-harness-ai)**
 
-Axios • 25m ago
+Axios • 49m ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 25m ago
 
 Elon Musk is fighting the state of Minnesota over the new state law, and the Department of Justice is taking his side.
 
-CBS News • 19m ago
+CBS News • 43m ago
 
 ---
 
@@ -155,7 +155,7 @@ CBS News • 19m ago
 
 Twelve years after the world lost the incomparable comic genius Robin Williams, the late legend’s three children are speaking out to remind us that their famous father had ten fingers.Just as the arti...
 
-yahoo.com • 20m ago
+yahoo.com • 44m ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 8h ago
 
 **[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doin
 
 📺 The Panda Redd
 
-👁️ 43K • 👍 7K • 💬 240 • ⏱️ 2:59 • 21h ago
+👁️ 43K • 👍 7K • 💬 240 • ⏱️ 2:59 • 22h ago
 
 ---
 
@@ -375,7 +375,7 @@ learnsomethingnew #scam #tech #capitalism.
 
 📺 Alex Falcone
 
-👁️ 82K • 👍 7K • 💬 190 • ⏱️ 1:14 • 19h ago
+👁️ 82K • 👍 7K • 💬 190 • ⏱️ 1:14 • 20h ago
 
 ---
 
@@ -487,7 +487,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 27 • ❤️ 515 • 13h ago
+⬇️ 27 • ❤️ 515 • 14h ago
 
 ---
 

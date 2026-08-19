@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T17:26:58.244418+00:00'
+updated: '2026-08-19T17:50:59.637004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 17:26 UTC  
+**Last Updated:** August 19, 2026 at 17:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,75 +77,73 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
+
+1h ago
+
+---
+
+**[BREAKING: Bitcoin CEO to Increase Prices](https://www.reddit.com/r/Bitcoin/comments/1vspwje/breaking_bitcoin_ceo_to_increase_prices/)**
+
+https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
+
+2h ago
+
+---
+
+**[We're Back Baby!!](https://www.reddit.com/r/Bitcoin/comments/1vsps10/were_back_baby/)**
+
+https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
+
+2h ago
+
+---
+
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
 7h ago
 
 ---
 
+**[Bear market is over](https://www.reddit.com/r/Bitcoin/comments/1vsp473/bear_market_is_over/)**
+
+All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
+
+2h ago
+
+---
+
+**[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
+
+1h ago
+
+---
+
+**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
+
+46m ago
+
+---
+
+**[Alright, who sold](https://www.reddit.com/r/Bitcoin/comments/1vsrkge/alright_who_sold/)**
+
+I know we’re supposed to thank someone for making the price go up.
+
+1h ago
+
+---
+
+**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
+
+Analysts say that Putin could seize assets if cash is needed for his stalling invasion
+
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 51m ago
+
+---
+
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-20h ago
-
----
-
-**[Bitcoin in a nutshell rn](https://www.reddit.com/r/Bitcoin/comments/1vrv0fz/bitcoin_in_a_nutshell_rn/)**
-
-Just me or is this pretty much every day sentiment?
-
-1d ago
-
----
-
-**[I think Bitcoin is a bit like the early watch industry](https://www.reddit.com/r/Bitcoin/comments/1vsjcxc/i_think_bitcoin_is_a_bit_like_the_early_watch/)**
-
-Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
-
-6h ago
-
----
-
-**[Is the bottom already behind us?](https://www.reddit.com/r/Bitcoin/comments/1vsgszl/is_the_bottom_already_behind_us/)**
-
-Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
-
-8h ago
-
----
-
-**[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
-
-14h ago
-
----
-
-**[Bitcoin: only the true believers survive](https://www.reddit.com/r/Bitcoin/comments/1vrp9dg/bitcoin_only_the_true_believers_survive/)**
-
-everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
-
-1d ago
-
----
-
-**[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
-
-19h ago
-
----
-
-**[Just buy and Stfu](https://www.reddit.com/r/Bitcoin/comments/1vs97cf/just_buy_and_stfu/)**
-
-Why buy and then freak out !
-
-15h ago
-
----
-
-**[It's a real shame what happened with Coinkite since they do make some cool BTC utilities](https://www.reddit.com/r/Bitcoin/comments/1vsntqg/its_a_real_shame_what_happened_with_coinkite/)**
-
-I am relatively new to the space, I honestly discovered Coinkite when the hack first happened. Obviously curiosity bit me and I went to their site (obviously didn't buy lol). It just made me sad, they seem to make genuinely cool BTC utilities for the masses and take their BTC maximalism seriously. Stuff like the satscard, the opendime, and yes even the coldcard itself. It just sucks because some of this stuff is genuinely cool and useful but people aren't going to trust them. I just hope they learn from this. From what I read they seemed a little cocky. But if they manage to survive as a company I do think they do make some cool things. Please no hate, I'm just expressing how I feel.
-
-3h ago
+21h ago
 
 ---
 
@@ -169,7 +167,7 @@ Bitcoin Magazine • 1h ago
 
 **[Bitcoin Climbs in High-Volume Trading](https://www.moomoo.com/news/post/74946598/bitcoin-climbs-in-high-volume-trading)**
 
-Moomoo • 17m ago
+Moomoo • 41m ago
 
 ---
 
@@ -213,7 +211,7 @@ Seeking Alpha • 1h ago
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 23h ago
+VanEck • 1d ago
 
 ---
 
@@ -315,7 +313,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 446 • ⏱️ 29:49 • 21h ago
+👁️ 5K • 👍 446 • ⏱️ 29:49 • 22h ago
 
 ---
 
@@ -343,7 +341,7 @@ Saifedean Ammous joins Mark Moss to discuss why fiat money, inflation, and centr
 
 📺 Market Disruptors Podcast
 
-👁️ 16K • 👍 614 • 💬 180 • ⏱️ 1:08:09 • 23h ago
+👁️ 16K • 👍 614 • 💬 180 • ⏱️ 1:08:09 • 1d ago
 
 ---
 
