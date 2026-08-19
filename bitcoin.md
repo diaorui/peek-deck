@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T18:35:24.766938+00:00'
+updated: '2026-08-19T19:25:08.160382+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 18:35 UTC  
+**Last Updated:** August 19, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,15 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
+
+3h ago
+
+---
+
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-2h ago
+3h ago
 
 ---
 
 **[BREAKING: Bitcoin CEO to Increase Prices](https://www.reddit.com/r/Bitcoin/comments/1vspwje/breaking_bitcoin_ceo_to_increase_prices/)**
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
+
+3h ago
+
+---
+
+**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
 2h ago
 
@@ -101,7 +113,7 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,19 +121,15 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
 
-3h ago
+4h ago
 
 ---
 
-**[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
+**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
 
-2h ago
+Analysts say that Putin could seize assets if cash is needed for his stalling invasion
 
----
-
-**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
-
-1h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 2h ago
 
 ---
 
@@ -133,17 +141,11 @@ I know we’re supposed to thank someone for making the price go up.
 
 ---
 
-**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
+**[Just remember were we came from 4 years ago](https://www.reddit.com/r/Bitcoin/comments/1vsv5v7/just_remember_were_we_came_from_4_years_ago/)**
 
-Analysts say that Putin could seize assets if cash is needed for his stalling invasion
+You’re gonna be fine
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 1h ago
-
----
-
-**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
-
-22h ago
+44m ago
 
 ---
 
@@ -153,7 +155,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 **[Bitcoin nears key technical breakout that could propel prices to $76,000](https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000)**
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -169,7 +171,7 @@ VanEck • 1d ago
 
 Bitcoin broke out of a months long trading range, surging as much as 7.7%, amid optimism on the regulatory front with industry officials gathering at the White House.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -181,7 +183,7 @@ Bloomberg • 1d ago
 
 **[Trump to host crypto executives as SEC considers regulations](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -189,13 +191,13 @@ Reuters • 1h ago
 
 Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
 **[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -281,7 +283,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 1h ago
+👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 2h ago
 
 ---
 
@@ -311,7 +313,7 @@ bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers and i
 
 📺 Crypto Love
 
-👁️ 160 • 👍 13 • 💬 22 • ⏱️ 1:40 • 1h ago
+👁️ 160 • 👍 13 • 💬 22 • ⏱️ 1:40 • 2h ago
 
 ---
 
@@ -341,7 +343,7 @@ One subscription, everything included: newsletter + chart course + indicators + 
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 4K • 👍 200 • 2h ago
+👁️ 4K • 👍 200 • 3h ago
 
 ---
 
@@ -371,7 +373,7 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Krown
 
-👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:02 • 5h ago
+👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:02 • 6h ago
 
 ---
 

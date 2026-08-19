@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T18:35:24.773282+00:00'
+updated: '2026-08-19T19:25:08.165607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 18:35 UTC  
+**Last Updated:** August 19, 2026 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 18h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-21h ago
+22h ago
 
 ---
 
@@ -126,7 +126,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 **[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
 
-🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 4h ago
+🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-benzinga.com • 2h ago
+benzinga.com • 3h ago
 
 ---
 
@@ -166,7 +166,7 @@ CoinDesk • 1d ago
 
 **[Ethereum Climbs 9.2% -- Crypto Mover](https://www.moomoo.com/news/post/74946549/ethereum-climbs-9-2-crypto-mover)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Moomoo • 1h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 2h ago
 
 Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Motley Fool • 2h ago
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 3h ago
+The Defiant • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 1h ago
+👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading #go
 
 📺 Trade Se Sikho
 
-👁️ 35K • 👍 1K • 22h ago
+👁️ 35K • 👍 1K • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 241 • 💬 132 • ⏱️ 23:24 • 18h ago
+👁️ 5K • 👍 241 • 💬 132 • ⏱️ 23:24 • 19h ago
 
 ---
 
