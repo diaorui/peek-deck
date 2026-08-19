@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T06:58:03.554547+00:00'
+updated: '2026-08-19T07:44:40.243958+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 06:58 UTC  
+**Last Updated:** August 19, 2026 at 07:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,13 +95,13 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-17h ago
+18h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,19 +109,19 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-4h ago
+5h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-4h ago
+5h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -137,15 +137,15 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 https://satoshitimeline.com/1
 
-16h ago
+17h ago
 
 ---
 
-**[If you own a BitBox update you firmware. It will fix 2 severe vulnerabilities that may allow installation of malicious firmware or potential locking of bitcoin (and possible ransom to help recover).](https://www.reddit.com/r/Bitcoin/comments/1vryfuq/if_you_own_a_bitbox_update_you_firmware_it_will/)**
+**[Daily Discussion, August 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1vsdzyg/daily_discussion_august_19_2026/)**
 
-BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 12h ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 15h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 16h ago
+CBS News • 17h ago
 
 ---
 
@@ -209,7 +209,7 @@ BlackRock • 1d ago
 
 Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ VanEck • 13h ago
 
 **[Trump agencies to set crypto policy as bill stalls, limiting industry's gains](https://www.reuters.com/legal/government/trump-agencies-set-crypto-policy-bill-stalls-limiting-industrys-gains-2026-08-18/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -307,7 +307,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 16K • 👍 768 • 💬 184 • ⏱️ 22:30 • 14h ago
+👁️ 16K • 👍 768 • 💬 184 • ⏱️ 22:30 • 15h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin is two closes away from something that has only happened a handful of ti
 
 📺 Krown
 
-👁️ 5K • 👍 372 • 💬 66 • ⏱️ 16:06 • 12h ago
+👁️ 5K • 👍 372 • 💬 66 • ⏱️ 16:06 • 13h ago
 
 ---
 
@@ -327,7 +327,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 875 • 👍 15 • ⏱️ 0:57 • 12h ago
+👁️ 875 • 👍 15 • ⏱️ 0:57 • 13h ago
 
 ---
 
@@ -347,7 +347,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 2K • 👍 58 • 💬 3 • ⏱️ 0:57 • 14h ago
+👁️ 2K • 👍 58 • 💬 3 • ⏱️ 0:57 • 15h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T06:58:03.562857+00:00'
+updated: '2026-08-19T07:44:40.250319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 06:58 UTC  
+**Last Updated:** August 19, 2026 at 07:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-16h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-13h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-13h ago
+14h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 12h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 13h ago
 
 ---
 
@@ -120,7 +120,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 Unitree Robotics shares rise 542% on their first day of trading in Shanghai
 
-cnbc.com • 5h ago
+cnbc.com • 6h ago
 
 ---
 
@@ -154,7 +154,7 @@ The New York Times • 1d ago
 
 **[Robotic rescue missions are sparking a spaceflight revolution](https://www.scientificamerican.com/article/robotic-rescue-missions-are-sparking-a-spaceflight-revolution/)**
 
-scientificamerican.com • 18h ago
+scientificamerican.com • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 5K • 👍 306 • 💬 39 • ⏱️ 14:10 • 6h ago
+👁️ 5K • 👍 306 • 💬 39 • ⏱️ 14:10 • 7h ago
 
 ---
 
@@ -204,7 +204,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 42K • 👍 4K • 💬 488 • ⏱️ 8:40 • 21h ago
+👁️ 42K • 👍 4K • 💬 488 • ⏱️ 8:40 • 22h ago
 
 ---
 
@@ -234,7 +234,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 88 • 💬 2 • ⏱️ 0:51 • 14h ago
+👁️ 2K • 👍 88 • 💬 2 • ⏱️ 0:51 • 15h ago
 
 ---
 
@@ -254,7 +254,7 @@ The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot
 
 📺 The Straits Times
 
-👁️ 921 • 👍 17 • 💬 2 • ⏱️ 0:26 • 4h ago
+👁️ 921 • 👍 17 • 💬 2 • ⏱️ 0:26 • 5h ago
 
 ---
 
