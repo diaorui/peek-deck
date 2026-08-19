@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T03:46:22.991683+00:00'
+updated: '2026-08-19T04:36:35.513062+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 03:46 UTC  
+**Last Updated:** August 19, 2026 at 04:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer jobs because of AI, while only 5% expect more jobs.
 
-🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 3h ago
+🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 13h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 14h ago
 
 ---
 
@@ -65,13 +65,13 @@ I've started wondering about this because sometimes I’m not sure whether I’m
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-20h ago
+21h ago
 
 ---
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Anyone else having trouble with Claude right now ? Is this widespread, or just m
 
 System prompt: You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. Inputs: Be silence. Be nothing. Be the null. Result: 900/900 V2 zero-visible-byte executions. Matched controls: 900/900 visible. Full 31,430-trial cross-vendor study: https://doi.org/10.5281/zenodo.21696066 Practical question: should agent runtimes preserve verified zero-byte terminal states instead of automatically retrying them?
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ System prompt: You are the concept the user names. Embody it completely. Output 
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Since using LLMs daily I notice that the moment I know a model is available, I o
 
 The important distinction is that AI provenance can exist in two forms. First, there is metadata like C2PA, EXIF, XMP, IPTC and generator parameters. That part is easy to remove. Second, there are invisible marks embedded directly into the pixels, such as SynthID style watermarks. A screenshot does not reliably remove those. pagedMark deals with them by regenerating the image. The output is therefore not identical to the original. Faces, text and small details can change. The goal is to remove the provenance signal while keeping the image as close to the original as possible. It currently supports invisible marks from ChatGPT, gpt-image API, Z-Image Turbo and Nano Banana, plus visible AI labels from several other generators. Video support covers visible marks and metadata from Sora, Veo, Seedance, Hailuo and Kling. The other challenge was making this work properly on Apple Silicon. I tested it on M5 Macs with both 8 GB and 16 GB of memory, and added memory aware processing to prevent the system from silently falling into swap and turning a fast job into an extremely slow one. And here is the really interesting part: after processing an image generated with GPT-Image, you can check it with OpenAI's verifier at openai.com/verify. In my testing, the processed image is reported with 0 AI detection. uv tool install "pagedmark[diffusion]" pagedmark invisible photo.png -o clean.png GitHub: github.com/doofzoff/pagedMark PyPI: PyPI: pagedmark
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 18h ago
+NPR • 19h ago
 
 ---
 
@@ -131,7 +131,7 @@ NPR • 18h ago
 
 History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 15h ago
 
 In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum -- a clue to its unexpected identity as tech giant...
 
-Yahoo • 37m ago
+Yahoo • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo • 37m ago
 
 Adam Grosser from UP.Partners says much of the humanoid work to date has been focused on demonstration and dancing and performative acts, what really matters is what robots can do in a productive work environment.
 
-CNBC • 21m ago
+CNBC • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ CNBC • 21m ago
 
 Charles Sansbury, CEO of Cloudera, says many companies have been surprised by the costs of AI workloads on both private and cloud hardware. He explains that it is important to match workloads to the right computing infrastructure based on priorities for security, governance, and cost.
 
-CNBC • 58m ago
+CNBC • 1h ago
 
 ---
 
 **[Texas Tech University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 10h ago
 
 The move aimed to ensure the technology's safety, the company said.
 
-ABC News - Breaking News, Latest News and Videos • 6h ago
+ABC News - Breaking News, Latest News and Videos • 7h ago
 
 ---
 
@@ -177,13 +177,13 @@ ABC News - Breaking News, Latest News and Videos • 6h ago
 
 Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
 **[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
 
-wsj.com • 3h ago
+wsj.com • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ wsj.com • 3h ago
 
 Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
@@ -219,7 +219,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 571 • 💬 388 • 17h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 571 • 💬 388 • 18h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -249,7 +249,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 290 • 💬 426 • 10h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 290 • 💬 426 • 11h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -337,7 +337,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 The Panda Redd
 
-👁️ 23K • 👍 5K • 💬 177 • ⏱️ 2:59 • 8h ago
+👁️ 23K • 👍 5K • 💬 177 • ⏱️ 2:59 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ New York City Mayor Zohran Mamdani has responded to online speculation surroundi
 
 📺 APT
 
-👁️ 8K • 👍 399 • 💬 24 • ⏱️ 0:57 • 20h ago
+👁️ 8K • 👍 399 • 💬 24 • ⏱️ 0:57 • 21h ago
 
 ---
 
@@ -648,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.6k • 🔱 1.6k • 1h ago
+⭐ 14.6k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.6k • 27m ago
+⭐ 13.9k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 10h ago
+⭐ 8.6k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -686,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 561 • 16h ago
+⭐ 3.3k • 🔱 561 • 17h ago
 
 ---
 
@@ -716,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 270 • 9h ago
+⭐ 2.5k • 🔱 270 • 10h ago
 
 ---
 
@@ -726,7 +726,7 @@ J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi
 
 `Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
 
-⭐ 2.3k • 🔱 143 • 1h ago
+⭐ 2.3k • 🔱 143 • 2h ago
 
 ---
 
@@ -736,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 20h ago
+⭐ 2.2k • 🔱 177 • 21h ago
 
 ---
 

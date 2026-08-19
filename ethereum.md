@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T03:46:23.006510+00:00'
+updated: '2026-08-19T04:36:35.523259+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 03:46 UTC  
+**Last Updated:** August 19, 2026 at 04:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,15 +72,15 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 11h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 12h ago
 
 ---
 
-**[What belongs onchain when building an online community?](https://www.reddit.com/r/ethereum/comments/1vrrdct/what_belongs_onchain_when_building_an_online/)**
+**[Allocation Update - Q2 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1vs6scr/allocation_update_q2_2026_ethereum_foundation_blog/)**
 
-I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
+Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-12h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 4h ago
 
 ---
 
@@ -92,11 +92,19 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 ---
 
+**[What belongs onchain when building an online community?](https://www.reddit.com/r/ethereum/comments/1vrrdct/what_belongs_onchain_when_building_an_online/)**
+
+I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
+
+13h ago
+
+---
+
 **[Daily General Discussion August 18, 2026](https://www.reddit.com/r/ethereum/comments/1vrfld5/daily_general_discussion_august_18_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 16h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 17h ago
 
 ---
 
@@ -112,7 +120,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 16h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 17h ago
 
 ---
 
@@ -140,21 +148,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Kiln Staking Withdrawal](https://www.reddit.com/r/ethereum/comments/1vpa136/kiln_staking_withdrawal/)**
-
-Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-coindesk.com • 15h ago
+coindesk.com • 16h ago
 
 ---
 
@@ -202,7 +202,7 @@ coindesk.com • 1d ago
 
 Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 10h ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 9h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ BeInCrypto • 23h ago
 
 LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 1K • 👍 132 • 💬 116 • ⏱️ 23:24 • 3h ago
+👁️ 1K • 👍 132 • 💬 116 • ⏱️ 23:24 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 126 • 💬 43 • ⏱️ 16:48 • 11h ago
+👁️ 2K • 👍 126 • 💬 43 • ⏱️ 16:48 • 12h ago
 
 ---
 
@@ -280,7 +280,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 2K • 👍 228 • 💬 83 • ⏱️ 14:46 • 11h ago
+👁️ 2K • 👍 228 • 💬 83 • ⏱️ 14:46 • 12h ago
 
 ---
 
