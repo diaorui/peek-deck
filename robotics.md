@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T07:44:40.250319+00:00'
+updated: '2026-08-19T08:37:23.824923+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 07:44 UTC  
+**Last Updated:** August 19, 2026 at 08:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-14h ago
+15h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 13h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 14h ago
 
 ---
 
@@ -108,7 +108,7 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,35 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 Unitree Robotics shares rise 542% on their first day of trading in Shanghai
 
-cnbc.com • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
+
+Reuters • 22h ago
+
+---
+
+**[China robot makers flock to Beijing show, seek path to mass adoption](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
+
+Reuters • 33m ago
+
+---
+
+**[Humanoid resources: China's robots search for workforce breakthrough](https://finance.yahoo.com/technology/ai/articles/chinas-robots-open-opportunities-search-030728306.html)**
+
+A horde of schoolchildren watched excitedly as a diminutive humanoid tour guide named Wuji welcomed them to a robot school in eastern China, gesticulating theatrically as it described the institute's aspiration to train the mechanical workforce of the future.Companies enrol robots, who are evaluated and given training tailored to their "future role in the workplace".
+
+finance.yahoo.com • 5h ago
+
+---
+
+**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
+
+Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+
+Business Insider • 13h ago
 
 ---
 
@@ -132,20 +160,6 @@ Ars Technica • 1d ago
 
 ---
 
-**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
-
-We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
-
-Business Insider • 1d ago
-
----
-
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
 The New York Times • 1d ago
@@ -154,13 +168,15 @@ The New York Times • 1d ago
 
 **[Robotic rescue missions are sparking a spaceflight revolution](https://www.scientificamerican.com/article/robotic-rescue-missions-are-sparking-a-spaceflight-revolution/)**
 
-scientificamerican.com • 19h ago
+Scientific American • 20h ago
 
 ---
 
-**[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
+**[Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html)**
 
-MSN • 12h ago
+2026 was supposed to be a breakout year for Serve's business.
+
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -170,33 +186,9 @@ Reuters • 1d ago
 
 ---
 
-**[Serve Robotics partners with Grubhub after Uber exit](https://finance.yahoo.com/technology/articles/serve-robotics-partners-grubhub-uber-210426051.html)**
-
-Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
-
-Bloomberg.com • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
-
-China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
-
-📺 AI Revolution
-
-👁️ 5K • 👍 306 • 💬 39 • ⏱️ 14:10 • 7h ago
-
----
 
 **[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
 
@@ -204,7 +196,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 42K • 👍 4K • 💬 488 • ⏱️ 8:40 • 22h ago
+👁️ 44K • 👍 4K • 💬 496 • ⏱️ 8:40 • 23h ago
 
 ---
 
@@ -214,7 +206,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 37K • 👍 819 • 💬 69 • ⏱️ 10:09 • 5d ago
+👁️ 37K • 👍 830 • 💬 69 • ⏱️ 10:09 • 5d ago
 
 ---
 
@@ -224,17 +216,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 688K • 👍 24K • 💬 3K • ⏱️ 15:53 • 3d ago
-
----
-
-**[China&#39;s Unitree Unveils &#39;Superman&#39; Robot, Faster Than Human #robotics #robot #unitree](https://www.youtube.com/watch?v=ClB9O4ARhgk)**
-
-Unitree just introduced its new high-performance humanoid robot prototype, nicknamed Superman. The Chinese robotics leader ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 88 • 💬 2 • ⏱️ 0:51 • 15h ago
+👁️ 710K • 👍 25K • 💬 3K • ⏱️ 15:53 • 3d ago
 
 ---
 
@@ -244,17 +226,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 238K • 👍 3K • 💬 616 • ⏱️ 10:16 • 4d ago
-
----
-
-**[Robotics firms prepare to compete in second World Humanoid Robot Games in Beijing](https://www.youtube.com/watch?v=ohUiYWEf7SU)**
-
-The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot competitors. According to reports, this year's ...
-
-📺 The Straits Times
-
-👁️ 921 • 👍 17 • 💬 2 • ⏱️ 0:26 • 5h ago
+👁️ 238K • 👍 3K • 💬 618 • ⏱️ 10:16 • 4d ago
 
 ---
 
@@ -262,17 +234,27 @@ The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot
 
 📺 ATC Android ToTo Company
 
-👁️ 57K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
+👁️ 58K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
 
 ---
 
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+**[The Honor Robot Phone is absolutely insane.](https://www.youtube.com/watch?v=n3F996g8wjg)**
 
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS ...
 
-📺 Y Combinator
+📺 Mrwhosetheboss
 
-👁️ 34K • 👍 858 • 💬 30 • ⏱️ 58:18 • 6d ago
+👁️ 3.6M • 👍 93K • 💬 6K • ⏱️ 14:03 • 4d ago
+
+---
+
+**[China&#39;s Unitree Unveils &#39;Superman&#39; Robot, Faster Than Human #robotics #robot #unitree](https://www.youtube.com/watch?v=ClB9O4ARhgk)**
+
+Unitree just introduced its new high-performance humanoid robot prototype, nicknamed Superman. The Chinese robotics leader ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 103 • 💬 2 • ⏱️ 0:51 • 15h ago
 
 ---
 
@@ -283,6 +265,26 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 📺 Страна Возможностей
 
 👁️ 63K • 👍 380 • 💬 100 • ⏱️ 0:22 • 5d ago
+
+---
+
+**[Robotics firms prepare to compete in second World Humanoid Robot Games in Beijing](https://www.youtube.com/watch?v=ohUiYWEf7SU)**
+
+The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot competitors. According to reports, this year's ...
+
+📺 The Straits Times
+
+👁️ 2K • 👍 27 • 💬 3 • ⏱️ 0:26 • 6h ago
+
+---
+
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 34K • 👍 860 • 💬 30 • ⏱️ 58:18 • 6d ago
 
 ---
 

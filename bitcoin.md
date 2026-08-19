@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T07:44:40.243958+00:00'
+updated: '2026-08-19T08:37:23.815097+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 07:44 UTC  
+**Last Updated:** August 19, 2026 at 08:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.3%  
+**24h:** +0.3%  
+**7d:** +1.4%  
 **30d:** -3.3%  
-**90d:** -14.9%  
+**90d:** -14.8%  
 **1y:** -43.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.92B
+**Market Cap:** $1290.96B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.0%
 
 **All-Time Low:** $67.81
-+94601.4%
++94748.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-14h ago
+15h ago
 
 ---
 
@@ -95,13 +95,13 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-18h ago
+19h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ Why buy and then freak out !
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ Why buy and then freak out !
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ https://satoshitimeline.com/1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-theblock.co • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -166,6 +166,14 @@ theblock.co • 12h ago
 Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
 CoinDesk • 1d ago
+
+---
+
+**[Is Citigroup (C) Changing Custody With Real Time Bitcoin And Traditional Assets?](https://finance.yahoo.com/markets/crypto/articles/citigroup-c-changing-custody-real-081313752.html)**
+
+Citigroup (NYSE:C) launched Custody+, a unified custody platform that combines traditional securities and digital assets, including Bitcoin. The service integrates near real-time processing with digital asset custody and advanced FX and liquidity tools on a single infrastructure. Custody+ is aimed at institutional clients that want digital asset exposure within existing global banking and custody arrangements. For readers interested in more ideas around resilient financial exposure linked...
+
+finance.yahoo.com • 24m ago
 
 ---
 
@@ -179,13 +187,7 @@ Bloomberg.com • 16h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 17h ago
-
----
-
-**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
-
-Syracuse.com • 17h ago
+CBS News • 18h ago
 
 ---
 
@@ -193,7 +195,21 @@ Syracuse.com • 17h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-cnbc.com • 1d ago
+CNBC • 1d ago
+
+---
+
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+
+Syracuse.com • 18h ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 14h ago
 
 ---
 
@@ -205,25 +221,11 @@ BlackRock • 1d ago
 
 ---
 
-**[Bitcoin Price Is Heading to $10,000, Says Bloomberg Analyst Again — Here's Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-heading-10-000-121753264.html)**
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
 
-Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
 
-Yahoo Finance • 19h ago
-
----
-
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
-
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
-
-VanEck • 13h ago
-
----
-
-**[Trump agencies to set crypto policy as bill stalls, limiting industry's gains](https://www.reuters.com/legal/government/trump-agencies-set-crypto-policy-bill-stalls-limiting-industrys-gains-2026-08-18/)**
-
-Reuters • 12h ago
+CNBC • 20h ago
 
 ---
 
@@ -287,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 171 • ⏱️ 18:59 • 1d ago
+👁️ 32K • 👍 2K • 💬 172 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -297,7 +299,17 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 204 • ⏱️ 8:25 • 2d ago
+👁️ 43K • 👍 2K • 💬 205 • ⏱️ 8:25 • 2d ago
+
+---
+
+**[Is This The Start Of A Short Squeeze For Bitcoin? [My Plan]](https://www.youtube.com/watch?v=6Hn05-lne6I)**
+
+In today's video, we look into the probabilities of whether or not Bitcoin is embarking on a short squeeze. With longs entered, and ...
+
+📺 Crypto Banter
+
+👁️ 3K • 👍 369 • 💬 1 • ⏱️ 34:36 • 56m ago
 
 ---
 
@@ -307,27 +319,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 16K • 👍 768 • 💬 184 • ⏱️ 22:30 • 15h ago
-
----
-
-**[I Won&#39;t Call the Bitcoin Bottom Until All Eight of These Flip. Four Just Did.](https://www.youtube.com/watch?v=IE8-Ds-IC2o)**
-
-Bitcoin is two closes away from something that has only happened a handful of times in thirteen years. Four of the eight ...
-
-📺 Krown
-
-👁️ 5K • 👍 372 • 💬 66 • ⏱️ 16:06 • 13h ago
-
----
-
-**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
-
-Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
-
-📺 International Business Today
-
-👁️ 875 • 👍 15 • ⏱️ 0:57 • 13h ago
+👁️ 17K • 👍 823 • 💬 148 • ⏱️ 22:30 • 15h ago
 
 ---
 
@@ -341,23 +333,23 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 ---
 
+**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
+
+Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
+
+📺 International Business Today
+
+👁️ 875 • 👍 15 • ⏱️ 0:57 • 14h ago
+
+---
+
 **[You sound like a bitcoin](https://www.youtube.com/watch?v=yy9QiEzMxNI)**
 
 shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowdwork #youtubeshorts Don't miss a ...
 
 📺 Gabby Bryan
 
-👁️ 2K • 👍 58 • 💬 3 • ⏱️ 0:57 • 15h ago
-
----
-
-**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
-
-Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 260 • 💬 81 • ⏱️ 14:53 • 1d ago
+👁️ 3K • 👍 61 • 💬 3 • ⏱️ 0:57 • 16h ago
 
 ---
 
@@ -367,17 +359,27 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 377 • 💬 5 • ⏱️ 42:04 • 1d ago
+👁️ 10K • 👍 380 • 💬 5 • ⏱️ 42:04 • 1d ago
 
 ---
 
-**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
+**[Bitcoin And Stablecoins Will Coexist. Here&#39;s Why.](https://www.youtube.com/watch?v=eYIMha2dlhg)**
 
-For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+Financial institutions once refused to touch the public cloud and built their own data centers instead. Now they are migrating in ...
 
-📺 Benjamin Cowen
+📺 ARK Invest
 
-👁️ 104K • 👍 6K • 💬 353 • ⏱️ 16:15 • 2d ago
+👁️ 7K • 👍 163 • 💬 5 • ⏱️ 1:24 • 1d ago
+
+---
+
+**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
+
+Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 261 • 💬 81 • ⏱️ 14:53 • 1d ago
 
 ---
 
