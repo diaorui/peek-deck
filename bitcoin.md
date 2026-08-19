@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T01:15:15.091746+00:00'
+updated: '2026-08-19T02:38:55.262842+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 01:15 UTC  
+**Last Updated:** August 19, 2026 at 02:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.6%  
-**30d:** -3.1%  
-**90d:** -14.6%  
-**1y:** -43.7%  
+**24h:** +0.3%  
+**7d:** +1.4%  
+**30d:** -3.3%  
+**90d:** -14.8%  
+**1y:** -43.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-8h ago
+9h ago
 
 ---
 
@@ -89,25 +89,25 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-11h ago
+13h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-4h ago
+6h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-10h ago
+12h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 https://satoshitimeline.com/1
 
-10h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://satoshitimeline.com/1
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 6h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 7h ago
 
 ---
 
@@ -139,7 +139,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-13h ago
+15h ago
 
 ---
 
@@ -153,25 +153,11 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)**
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-theblock.co • 6h ago
-
----
-
-**[Bitcoin Is Under Pressure, But This Strategy ETF Is Suddenly the Fund to Watch](https://www.tradingview.com/news/benzinga:1fd6fbed3094b:0-bitcoin-is-under-pressure-but-this-strategy-etf-is-suddenly-the-fund-to-watch/)**
-
-The T-Rex 2X Long MSTR Daily Target ETF (BATS:MSTU) drew heavy trading activity as investors seek leveraged exposure to Strategy Inc (NASDAQ:MSTR) amid renewed volatility in Bitcoin (CRYPTO:BTC) and crypto-linked equities.MSTU targets 200% of MSTR’s daily performance, making it a high-risk tactical…
-
-TradingView • 4h ago
+The Block • 7h ago
 
 ---
 
@@ -179,15 +165,13 @@ TradingView • 4h ago
 
 Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Strategy CEO Phong Le Says Bitcoin Accumulation Will Continue Later This Year. Is It Time to Give MSTR Stock Another Chance?](https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-phong-le-says-232700709.html)**
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Strategy is no longer buying Bitcoin. That should concern investors.
-
-Yahoo Finance • 1h ago
+Bloomberg • 10h ago
 
 ---
 
@@ -195,13 +179,7 @@ Yahoo Finance • 1h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 10h ago
-
----
-
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
-
-Bloomberg.com • 9h ago
+CBS News • 12h ago
 
 ---
 
@@ -209,7 +187,13 @@ Bloomberg.com • 9h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 22h ago
+CNBC • 23h ago
+
+---
+
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+
+Syracuse.com • 12h ago
 
 ---
 
@@ -217,7 +201,15 @@ CNBC • 22h ago
 
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
-BlackRock • 22h ago
+BlackRock • 1d ago
+
+---
+
+**[Bitcoin Price Is Heading to $10,000, Says Bloomberg Analyst Again — Here's Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-heading-10-000-121753264.html)**
+
+Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -225,7 +217,15 @@ BlackRock • 22h ago
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 7h ago
+VanEck • 8h ago
+
+---
+
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
+
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
+
+CNBC • 14h ago
 
 ---
 
@@ -309,7 +309,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 12K • 👍 640 • 💬 100 • ⏱️ 22:30 • 8h ago
+👁️ 12K • 👍 640 • 💬 100 • ⏱️ 22:30 • 9h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin whales have added about 43000 Bitcoin over the past 60 days, worth rough
 
 📺 Bloomberg Television
 
-👁️ 1K • 👍 32 • 💬 51 • ⏱️ 3:52 • 5h ago
+👁️ 1K • 👍 32 • 💬 51 • ⏱️ 3:52 • 6h ago
 
 ---
 
@@ -329,7 +329,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 758 • 👍 14 • ⏱️ 0:57 • 7h ago
+👁️ 758 • 👍 14 • ⏱️ 0:57 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 2K • 👍 44 • 💬 2 • ⏱️ 0:57 • 9h ago
+👁️ 2K • 👍 44 • 💬 2 • ⏱️ 0:57 • 10h ago
 
 ---
 
