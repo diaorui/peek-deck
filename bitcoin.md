@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T10:29:05.687807+00:00'
+updated: '2026-08-19T10:56:39.558140+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 10:29 UTC  
+**Last Updated:** August 19, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1290.96B
+**Market Cap:** $1291.90B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-48.9%
 
 **All-Time Low:** $67.81
-+94748.8%
++94819.6%
 
 ---
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
+
+52m ago
+
+---
+
 **[Bitcoin in a nutshell rn](https://www.reddit.com/r/Bitcoin/comments/1vrv0fz/bitcoin_in_a_nutshell_rn/)**
 
 Just me or is this pretty much every day sentiment?
@@ -95,7 +101,7 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-20h ago
+21h ago
 
 ---
 
@@ -105,17 +111,17 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 ---
 
-**[Just buy and Stfu](https://www.reddit.com/r/Bitcoin/comments/1vs97cf/just_buy_and_stfu/)**
-
-Why buy and then freak out !
+**[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
 8h ago
 
 ---
 
-**[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
+**[Just buy and Stfu](https://www.reddit.com/r/Bitcoin/comments/1vs97cf/just_buy_and_stfu/)**
 
-7h ago
+Why buy and then freak out !
+
+8h ago
 
 ---
 
@@ -129,7 +135,7 @@ Why buy and then freak out !
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-13h ago
+14h ago
 
 ---
 
@@ -137,15 +143,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 https://satoshitimeline.com/1
 
-19h ago
-
----
-
-**[Daily Discussion, August 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1vsdzyg/daily_discussion_august_19_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
+20h ago
 
 ---
 
@@ -157,7 +155,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -173,7 +171,7 @@ CoinDesk • 14h ago
 
 The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ...
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,13 +187,13 @@ Yahoo Finance • 2h ago
 
 BlackRock’s latest 10-year study showed that a 1-2% allocation to Bitcoin would have improved risk-adjusted returns in a traditional 60/40 portfolio.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -217,7 +215,7 @@ CNBC • 1d ago
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 20h ago
+Syracuse.com • 21h ago
 
 ---
 
@@ -225,7 +223,7 @@ Syracuse.com • 20h ago
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 16h ago
+VanEck • 17h ago
 
 ---
 
@@ -303,23 +301,43 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 ---
 
-**[Is This The Start Of A Short Squeeze For Bitcoin? [My Plan]](https://www.youtube.com/watch?v=6Hn05-lne6I)**
-
-In today's video, we look into the probabilities of whether or not Bitcoin is embarking on a short squeeze. With longs entered, and ...
-
-📺 Crypto Banter
-
-👁️ 3K • 👍 369 • 💬 1 • ⏱️ 34:36 • 2h ago
-
----
-
 **[Hackers Stole $38 Million in Bitcoin in 25 Minutes, And It’s Getting Worse...](https://www.youtube.com/watch?v=BEIBh91X_2c)**
 
 I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
 
 📺 Mark Moss
 
-👁️ 17K • 👍 823 • 💬 148 • ⏱️ 22:30 • 17h ago
+👁️ 19K • 👍 856 • 💬 146 • ⏱️ 22:30 • 18h ago
+
+---
+
+**[Yields Spike Has Smart Money Dumping Into Retail, Bitcoin Surges With Gold](https://www.youtube.com/watch?v=LxLOmuB91sM)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 61K • 👍 4K • 💬 154 • ⏱️ 14:24 • 1d ago
+
+---
+
+**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
+
+Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 264 • 💬 81 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
+
+Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
+
+📺 International Business Today
+
+👁️ 1K • 👍 16 • ⏱️ 0:57 • 16h ago
 
 ---
 
@@ -333,13 +351,13 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 ---
 
-**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
+**[THIS IS A MASSIVE BITCOIN TRAP...](https://www.youtube.com/watch?v=GY5hErc5yt0)**
 
-Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 International Business Today
+📺 Crypto Rover
 
-👁️ 875 • 👍 15 • ⏱️ 0:57 • 16h ago
+👁️ 12K • 👍 771 • 💬 27 • ⏱️ 8:29 • 1d ago
 
 ---
 
@@ -349,37 +367,17 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 61 • 💬 3 • ⏱️ 0:57 • 18h ago
+👁️ 3K • 👍 63 • 💬 3 • ⏱️ 0:57 • 18h ago
 
 ---
 
-**[CEO Explains Why Bitcoin Is Digital Gold](https://www.youtube.com/watch?v=2RuZ3iwAvcY)**
+**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
 
-Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break down agentic trading and how AI is reshaping the ...
+Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
 
-📺 Anthony Pompliano
+📺 CNBC Television
 
-👁️ 10K • 👍 380 • 💬 5 • ⏱️ 42:04 • 1d ago
-
----
-
-**[Bitcoin And Stablecoins Will Coexist. Here&#39;s Why.](https://www.youtube.com/watch?v=eYIMha2dlhg)**
-
-Financial institutions once refused to touch the public cloud and built their own data centers instead. Now they are migrating in ...
-
-📺 ARK Invest
-
-👁️ 7K • 👍 163 • 💬 5 • ⏱️ 1:24 • 1d ago
-
----
-
-**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
-
-Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 261 • 💬 81 • ⏱️ 14:53 • 1d ago
+👁️ 14K • 👍 185 • 💬 106 • ⏱️ 3:11 • 1d ago
 
 ---
 

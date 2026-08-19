@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T10:29:05.691882+00:00'
+updated: '2026-08-19T10:56:39.564176+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 10:29 UTC  
+**Last Updated:** August 19, 2026 at 10:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.40B
+**Market Cap:** $231.43B
 Rank #2
 
 **Circulating Supply:** 120,681,896 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+442782.9%
++442810.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 18h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-19h ago
+20h ago
 
 ---
 
@@ -128,7 +128,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 22h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 23h ago
 
 ---
 
@@ -218,7 +218,7 @@ BeInCrypto • 1d ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 6h ago
+CryptoSlate • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 403 • 💬 251 • ⏱️ 17:08 • 1d ago
+👁️ 7K • 👍 408 • 💬 249 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -250,17 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 144 • 💬 41 • ⏱️ 16:48 • 18h ago
-
----
-
-**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
-
-BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 187 • 💬 127 • ⏱️ 23:24 • 10h ago
+👁️ 3K • 👍 153 • 💬 42 • ⏱️ 16:48 • 18h ago
 
 ---
 
@@ -270,7 +260,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 11K • 👍 287 • 💬 36 • ⏱️ 35:05 • 2d ago
+👁️ 11K • 👍 290 • 💬 36 • ⏱️ 35:05 • 2d ago
 
 ---
 
@@ -284,13 +274,23 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 ---
 
-**[There&#39;s A Reason Everyone Is Buying Bitcoin &amp; XRP Right Now Everythings Changed For Crypto Investors](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
+
+BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 204 • 💬 127 • ⏱️ 23:24 • 10h ago
+
+---
+
+**[Buying Bitcoin &amp; XRP Right Now Could Be The Move The Rich Know Something You Don&#39;t](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
 
 Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 442 • 💬 108 • ⏱️ 29:45 • 2d ago
+👁️ 4K • 👍 443 • 💬 107 • ⏱️ 29:45 • 2d ago
 
 ---
 
@@ -300,27 +300,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 3K • 👍 296 • 💬 82 • ⏱️ 14:46 • 18h ago
-
----
-
-**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
-
-Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
-
-📺 Blockchain Pill
-
-👁️ 2K • 👍 161 • 💬 61 • ⏱️ 18:46 • 23h ago
-
----
-
-**[Bitmine Stock Is Near NAV Is the Next Move Coming? | Ethereum &amp; BMNR Analysis](https://www.youtube.com/watch?v=LlEi94E7uI8)**
-
-BMNR stock has moved significantly closer to its net asset value, while Ethereum continues to play a major role in the company's ...
-
-📺 BiGB Stcok
-
-👁️ 130 • 👍 7 • ⏱️ 12:40 • 15h ago
+👁️ 3K • 👍 318 • 💬 82 • ⏱️ 14:46 • 18h ago
 
 ---
 
@@ -331,6 +311,26 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 📺 Zarx Crypto
 
 👁️ 17K • 👍 812 • 💬 14 • ⏱️ 4:44 • 1d ago
+
+---
+
+**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
+
+Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
+
+📺 Blockchain Pill
+
+👁️ 2K • 👍 165 • 💬 62 • ⏱️ 18:46 • 23h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=c7phsB8CBSQ)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 436 • 👍 55 • ⏱️ 7:44 • 8h ago
 
 ---
 

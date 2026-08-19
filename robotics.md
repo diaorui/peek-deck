@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T10:29:05.694106+00:00'
+updated: '2026-08-19T10:56:39.567386+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 10:29 UTC  
+**Last Updated:** August 19, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ I want to learn how to design, control robots so i‘m planning to built my own 
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get that humanoids make for great demo videos, but I believe for 90% of real-w
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 15h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 16h ago
 
 ---
 
@@ -116,7 +116,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Unitree Robotics shares rise 542% on their first day of trading in Shanghai
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -132,7 +132,7 @@ Ars Technica • 1d ago
 
 Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -158,7 +158,7 @@ The New York Times • 2d ago
 
 **[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
 
-MSN • 15h ago
+MSN • 16h ago
 
 ---
 
@@ -186,13 +186,31 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
+
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
+
+📺 AI Revolution
+
+👁️ 10K • 👍 432 • 💬 49 • ⏱️ 14:10 • 10h ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 8K • 👍 988 • 💬 10 • ⏱️ 1:28 • 2h ago
+
+---
+
 **[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
 
 Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
 
 📺 Inside China Business
 
-👁️ 44K • 👍 4K • 💬 496 • ⏱️ 8:40 • 1d ago
+👁️ 45K • 👍 4K • 💬 501 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -202,7 +220,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 37K • 👍 830 • 💬 69 • ⏱️ 10:09 • 5d ago
+👁️ 38K • 👍 837 • 💬 69 • ⏱️ 10:09 • 5d ago
 
 ---
 
@@ -212,7 +230,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 710K • 👍 25K • 💬 3K • ⏱️ 15:53 • 3d ago
+👁️ 733K • 👍 26K • 💬 3K • ⏱️ 15:53 • 3d ago
 
 ---
 
@@ -222,7 +240,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 238K • 👍 3K • 💬 618 • ⏱️ 10:16 • 4d ago
+👁️ 239K • 👍 3K • 💬 619 • ⏱️ 10:16 • 4d ago
 
 ---
 
@@ -240,17 +258,17 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.6M • 👍 93K • 💬 6K • ⏱️ 14:03 • 4d ago
+👁️ 3.6M • 👍 94K • 💬 6K • ⏱️ 14:03 • 4d ago
 
 ---
 
-**[China&#39;s Unitree Unveils &#39;Superman&#39; Robot, Faster Than Human #robotics #robot #unitree](https://www.youtube.com/watch?v=ClB9O4ARhgk)**
+**[Robotics firms prepare to compete in second World Humanoid Robot Games in Beijing](https://www.youtube.com/watch?v=ohUiYWEf7SU)**
 
-Unitree just introduced its new high-performance humanoid robot prototype, nicknamed Superman. The Chinese robotics leader ...
+The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot competitors. According to reports, this year's ...
 
-📺 Kalil 4.0
+📺 The Straits Times
 
-👁️ 3K • 👍 103 • 💬 2 • ⏱️ 0:51 • 17h ago
+👁️ 2K • 👍 36 • 💬 3 • ⏱️ 0:26 • 8h ago
 
 ---
 
@@ -261,26 +279,6 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 📺 Страна Возможностей
 
 👁️ 63K • 👍 380 • 💬 100 • ⏱️ 0:22 • 5d ago
-
----
-
-**[Robotics firms prepare to compete in second World Humanoid Robot Games in Beijing](https://www.youtube.com/watch?v=ohUiYWEf7SU)**
-
-The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot competitors. According to reports, this year's ...
-
-📺 The Straits Times
-
-👁️ 2K • 👍 27 • 💬 3 • ⏱️ 0:26 • 8h ago
-
----
-
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
-
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
-
-📺 Y Combinator
-
-👁️ 34K • 👍 860 • 💬 30 • ⏱️ 58:18 • 6d ago
 
 ---
 
