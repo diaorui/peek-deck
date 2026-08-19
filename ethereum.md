@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T14:33:21.677043+00:00'
+updated: '2026-08-19T15:31:32.544335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 14:33 UTC  
+**Last Updated:** August 19, 2026 at 15:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,934.07
+### $2,101.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +2.4%  
-**30d:** +0.0%  
-**90d:** -6.6%  
-**1y:** -55.5%  
+**24h:** +7.2%  
+**7d:** +9.1%  
+**30d:** +6.6%  
+**90d:** -0.5%  
+**1y:** -52.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 22h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 14h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåbe
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -163,6 +163,20 @@ coindesk.com • 1d ago
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
 ethereum.org • 2d ago
+
+---
+
+**[Ethereum Rises 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942695/ethereum-rises-2-1-crypto-mover)**
+
+Moomoo • 32m ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Investors Aren't Keeping Pace With the Market, Bitwise's Matt Hougan Says: Beware These 3 Mistakes](https://www.tradingview.com/news/benzinga:448e89285094b:0-bitcoin-ethereum-xrp-investors-aren-t-keeping-pace-with-the-market-bitwise-s-matt-hougan-says-beware-these-3-mistakes/)**
+
+Crypto investors may be underestimating how large the industry’s next growth phase could become since market perception has failed to keep pace with reality, according to Bitwise’s Matt Hougan.In his Aug. 18 weekly CIO memo, Bitwise’s Chief Investment Officer highlighted three mistakes investors ar…
+
+TradingView • 2h ago
 
 ---
 
@@ -194,39 +208,23 @@ Yahoo Finance • 1d ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-coindesk.com • 2d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Current price of Ethereum for Aug. 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
+**[Current price of Ethereum for August 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+**[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
 
-Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-TradingView • 1d ago
-
----
-
-**[Ethereum’s 12-GPU proving problem just got a 4-GPU answer](https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer/)**
-
-ZisK claimed 9.62-second p99 fits Ethereum's latency target, while workload, proof and whole-system power details remain undisclosed.
-
-CryptoSlate • 7h ago
-
----
-
-**[Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons](https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/)**
-
-Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
-
-BeInCrypto • 1d ago
+The Defiant • 12m ago
 
 ---
 
@@ -250,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 161 • 💬 95 • ⏱️ 16:48 • 22h ago
+👁️ 4K • 👍 161 • 💬 95 • ⏱️ 16:48 • 23h ago
 
 ---
 
@@ -270,7 +268,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 218 • 💬 129 • ⏱️ 23:24 • 14h ago
+👁️ 4K • 👍 218 • 💬 129 • ⏱️ 23:24 • 15h ago
 
 ---
 
@@ -280,7 +278,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 3K • 👍 343 • 💬 82 • ⏱️ 14:46 • 22h ago
+👁️ 3K • 👍 343 • 💬 82 • ⏱️ 14:46 • 23h ago
 
 ---
 
@@ -290,7 +288,7 @@ Lista de Espera Enfoque 3D Pro Plan Trading: ➡️ https://www.proplantrading.c
 
 📺 Julio Alfaro
 
-👁️ 1K • 👍 145 • 💬 27 • ⏱️ 13:41 • 20h ago
+👁️ 1K • 👍 145 • 💬 27 • ⏱️ 13:41 • 21h ago
 
 ---
 
@@ -300,7 +298,7 @@ Ethereum pode superar o Bitcoin no próximo ciclo de alta? Neste vídeo, Augusto
 
 📺 Augusto Backes
 
-👁️ 6K • 👍 441 • 💬 39 • ⏱️ 11:03 • 16h ago
+👁️ 6K • 👍 441 • 💬 39 • ⏱️ 11:03 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T14:33:21.671509+00:00'
+updated: '2026-08-19T15:31:32.539828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 14:33 UTC  
+**Last Updated:** August 19, 2026 at 15:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,100.00
+### $67,845.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.2%  
-**30d:** -2.6%  
-**90d:** -14.2%  
-**1y:** -43.4%  
+**24h:** +4.5%  
+**7d:** +6.7%  
+**30d:** +1.8%  
+**90d:** -10.3%  
+**1y:** -40.9%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-21h ago
+22h ago
 
 ---
 
@@ -101,7 +101,7 @@ Just me or is this pretty much every day sentiment?
 
 Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,13 +109,13 @@ Being slightly passionate about watches and bitcoin, I keep thinking about bitco
 
 Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
 
-5h ago
+6h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Why buy and then freak out !
 
 I am relatively new to the space, I honestly discovered Coinkite when the hack first happened. Obviously curiosity bit me and I went to their site (obviously didn't buy lol). It just made me sad, they seem to make genuinely cool BTC utilities for the masses and take their BTC maximalism seriously. Stuff like the satscard, the opendime, and yes even the coldcard itself. It just sucks because some of this stuff is genuinely cool and useful but people aren't going to trust them. I just hope they learn from this. From what I read they seemed a little cocky. But if they manage to survive as a company I do think they do make some cool things. Please no hate, I'm just expressing how I feel.
 
-12m ago
+1h ago
 
 ---
 
@@ -157,61 +157,43 @@ I am relatively new to the space, I honestly discovered Coinkite when the hack f
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 20h ago
+VanEck • 21h ago
 
 ---
 
-**[Anthony Scaramucci Predicts Bitcoin Will Surpass $100,000, Standard Chartered Says 2026-End Target Remains on Track— But Crypto Punters Have This to Say](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-predicts-bitcoin-surpass-041359300.html)**
+**[Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot](https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot)**
 
-Cryptocurrency bettors have dialed back hopes about Bitcoin (CRYPTO: BTC) reaching $100,000 in 2026, even as SkyBridge Capital founder Anthony Scaramucci remains optimistic about the asset reclaiming that key milestone. Prediction Market Skeptical About $100,000 Polygon (CRYPTO: POL)-based Polymarket currently...
+Nasdaq-listed Zhibao Technology closed a $154.7 million PIPE financing paid for with 2,380 Bitcoin contributed straight to a company wallet.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
-
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
-
-CNBC • 1d ago
+Decrypt • 2h ago
 
 ---
 
-**[Scaramucci points to $100,000 bitcoin as 'magic number' for OG sellers, eyes AI-blockchain convergence](https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190)**
+**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
 
-John Darsie, CEO of SALT and partner at SkyBridge, said bitcoin's changing holder base is part of a broader maturation process.
+Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
 
-theblock.co • 3h ago
+Fox News • 30m ago
 
 ---
 
-**[Bitcoin DAT Strive’s Board Director Pierre Rochard Buys ASST Stocks as SATA Nears Par Value](https://finance.yahoo.com/markets/stocks/articles/bitcoin-dat-strive-board-director-113327267.html)**
+**[Live updates: Bitcoin tops $65,000 as Treasury move sends yields lower](https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8)**
 
-Pierre Rochard, a director on the board of Bitcoin treasury company Strive, purchased 15,900 ASST shares. ASST stock price jumped more than 1% in premarket hours on Wednesday as SATA perpetual preferred stock approaches par value. Ad Ad Bitcoin Advocate Pierre Rochard Makes First Strive Stock Buy Pierre Rochard, CEO of The Bitcoin Bond Company,
+CoinDesk • 29m ago
+
+---
+
+**[Gemini’s Cameron Winklevoss Says Bitcoin Is Trading At 50% Discount](https://finance.yahoo.com/markets/crypto/articles/gemini-cameron-winklevoss-says-bitcoin-132200813.html)**
+
+Cameron Winklevoss, co-founder of the Gemini (NASDAQ: $GEMI) crypto exchange, is urging investors to buy the dip in...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Accumulation Could Begin by November as VanEck Flags Eight Capitulation Signals](https://bitcoinfoundation.org/news/bitcoin/bitcoin-accumulation-could-begin-by-november-as-vaneck-flags-eight-capitulation-signals/)**
-
-VanEck sees Bitcoin nearing a possible accumulation phase as eight capitulation indicators flash stress and ETF demand begins recovering.
-
-Bitcoin Foundation • 3h ago
-
----
-
-**[Crypto Billionaire Changpeng Zhao Estimates 2-4 Million Bitcoin Gone Forever, Calls BTC a 'Deflationary Asset'](https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-changpeng-zhao-estimates-110103309.html)**
-
-Binance founder Changpeng “CZ” Zhao estimated on Saturday that 10–20% of all Bitcoin that have already been mined are effectively gone forever. Permanetly Lost BTC? CZ noted in an X post that 20.07 million BTC have already been mined, with...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -223,11 +205,25 @@ CNBC • 1d ago
 
 ---
 
-**[A New York grandma went missing in Las Vegas. Now her family is getting texts asking for money.](https://www.cbsnews.com/news/alisa-goods-missing-las-vegas-texts/)**
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
+syracuse.com • 1d ago
 
-CBS News • 1d ago
+---
+
+**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
+
+Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
+
+BlackRock • 1d ago
+
+---
+
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
+
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
+
+CNBC • 1d ago
 
 ---
 
@@ -247,7 +243,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 1d ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 2d ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -311,7 +307,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 20K • 👍 904 • 💬 203 • ⏱️ 22:30 • 21h ago
+👁️ 20K • 👍 904 • 💬 203 • ⏱️ 22:30 • 22h ago
 
 ---
 
@@ -321,7 +317,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Krown
 
-👁️ 212 • 👍 13 • 💬 34 • ⏱️ 1:02 • 1h ago
+👁️ 212 • 👍 13 • 💬 34 • ⏱️ 1:02 • 2h ago
 
 ---
 
@@ -341,7 +337,7 @@ Bitcoin #Crypto #finance Bitcoin may be nearing the end of its 11-month correcti
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 102 • 3h ago
+👁️ 1K • 👍 102 • 4h ago
 
 ---
 
@@ -359,7 +355,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 1K • 👍 17 • ⏱️ 0:57 • 20h ago
+👁️ 1K • 👍 17 • ⏱️ 0:57 • 21h ago
 
 ---
 
@@ -369,7 +365,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 68 • 💬 3 • ⏱️ 0:57 • 22h ago
+👁️ 3K • 👍 68 • 💬 3 • ⏱️ 0:57 • 23h ago
 
 ---
 
