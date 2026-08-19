@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T16:31:21.703517+00:00'
+updated: '2026-08-19T17:26:58.252761+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 16:31 UTC  
+**Last Updated:** August 19, 2026 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ A language model can make a bad prediction and continue generating. A robot maki
 
 This is my custom robotics project I have been working on for the past year. I'll be posting more on my X account RhettBrewer. I will also be posting other projects and future ones there too!
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ I get that humanoids make for great demo videos, but I believe for 90% of real-w
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 21h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 22h ago
 
 ---
 
@@ -116,51 +116,45 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
-**[Pudu Robotics Reinforces Global Commercial Robotics Leadership With Industry-Leading Commercial Cleaning Rankings](https://sg.finance.yahoo.com/news/pudu-robotics-reinforces-global-commercial-151700441.html)**
+**[China robot makers seek to turn humanoid hype into useful work](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
 
-SHENZHEN, China, Aug. 19, 2026 (GLOBE NEWSWIRE) -- Pudu Robotics, a global leader in commercial service robotics, has been ranked No. 1 across four major dimensions of the global commercial service robotics market, according to Frost & Sullivan's 2025 Global Embodied Intelligence and Commercial Service Robotics Independent Market Research Report. In a separate assessment, Counterpoint Research's latest report, "Commercial Cleaning Robot Market Poised for Rapid Growth in AI-Native Era," ranks Pud
-
-Yahoo Finance Singapore • 1h ago
+Reuters • 1h ago
 
 ---
 
-**[Exploring the future of robotics at 2026 World Robot Conference in Beijing](https://ca.news.yahoo.com/exploring-future-robotics-2026-world-151304092.html)**
+**[Exploring the future of robotics at 2026 World Robot Conference in Beijing](https://www.yahoo.com/news/videos/exploring-future-robotics-2026-world-151302974.html)**
 
 China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country’s expanding robotics industry.
 
-Yahoo News Canada • 1h ago
+yahoo.com • 2h ago
 
 ---
 
-**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
+**[Live: Catch the next wave in robotics at World Robot Conference 2026](https://news.cgtn.com/news/2026-08-18/Live-Catch-the-next-wave-in-robotics-at-World-Robot-Conference-2026-1PIhSuZUqiI/p.html)**
 
-China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
+The World Robot Conference 2026 kicks off in Beijing on August 19, bringing together leading robotics companies, experts and innovators from around the world.
 
-ABC News - Breaking News, Latest News and Videos • 2h ago
-
----
-
-**[China robot makers flock to Beijing show, seek path to mass adoption](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
-
-Reuters • 7h ago
+news.cgtn.com • 1d ago
 
 ---
 
-**[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
+**[Stephanie Link thinks this stock could be a unique AI and robotics play](https://www.cnbc.com/video/2026/08/19/stephanie-link-thinks-this-stock-could-be-a-unique-ai-and-robotics-play.html)**
 
-South China Morning Post • 4h ago
+Stephanie Link of Hightower Advisors breaks down why she thinks this industrial stock could benefit from the rise of AI and robotics.
+
+CNBC • 38m ago
 
 ---
 
-**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
+**[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
 
-Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
 
-Business Insider • 20h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -172,17 +166,25 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/)**
+
+“We're not necessarily building in a dogmatic fashion towards full autonomy.”...
+
+Ars Technica • 1d ago
+
+---
+
 **[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
 
 Bloomberg.com • 2d ago
 
 ---
 
-**[Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/)**
+**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
 
-“We're not necessarily building in a dogmatic fashion towards full autonomy.”...
+Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
 
-Ars Technica • 1d ago
+Business Insider • 21h ago
 
 ---
 
@@ -196,7 +198,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 15K • 👍 527 • 💬 60 • ⏱️ 14:10 • 16h ago
+👁️ 15K • 👍 527 • 💬 60 • ⏱️ 14:10 • 17h ago
 
 ---
 
@@ -214,7 +216,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 48K • 👍 3K • 💬 34 • ⏱️ 1:28 • 7h ago
+👁️ 48K • 👍 3K • 💬 34 • ⏱️ 1:28 • 8h ago
 
 ---
 
@@ -244,7 +246,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 798K • 👍 28K • 💬 3K • ⏱️ 15:53 • 3d ago
+👁️ 798K • 👍 28K • 💬 3K • ⏱️ 15:53 • 4d ago
 
 ---
 
@@ -262,7 +264,7 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 ATC Android ToTo Company
 
-👁️ 59K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
+👁️ 59K • 👍 2K • 💬 62 • ⏱️ 2:59 • 5d ago
 
 ---
 

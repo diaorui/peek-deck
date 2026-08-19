@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T16:31:21.694252+00:00'
+updated: '2026-08-19T17:26:58.244418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 16:31 UTC  
+**Last Updated:** August 19, 2026 at 17:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,845.23
+### $68,757.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.5%  
-**7d:** +6.7%  
-**30d:** +1.8%  
-**90d:** -10.3%  
-**1y:** -40.9%  
+**24h:** +4.9%  
+**7d:** +7.0%  
+**30d:** +2.1%  
+**90d:** -10.1%  
+**1y:** -40.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-23h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ Just me or is this pretty much every day sentiment?
 
 Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,13 +109,13 @@ Being slightly passionate about watches and bitcoin, I keep thinking about bitco
 
 Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
 
-7h ago
+8h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ Why buy and then freak out !
 
 I am relatively new to the space, I honestly discovered Coinkite when the hack first happened. Obviously curiosity bit me and I went to their site (obviously didn't buy lol). It just made me sad, they seem to make genuinely cool BTC utilities for the masses and take their BTC maximalism seriously. Stuff like the satscard, the opendime, and yes even the coldcard itself. It just sucks because some of this stuff is genuinely cool and useful but people aren't going to trust them. I just hope they learn from this. From what I read they seemed a little cocky. But if they manage to survive as a company I do think they do make some cool things. Please no hate, I'm just expressing how I feel.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,41 +153,37 @@ I am relatively new to the space, I honestly discovered Coinkite when the hack f
 
 ## Google News: "bitcoin"
 
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+**[Bitcoin nears key technical breakout that could propel prices to $76,000](https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000)**
 
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
-
-VanEck • 22h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot](https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot)**
+**[Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks](https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000)**
 
-Nasdaq-listed Zhibao Technology closed a $154.7 million PIPE financing paid for with 2,380 Bitcoin contributed straight to a company wallet.
+Bitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size
 
-Decrypt • 3h ago
-
----
-
-**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
-
-Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
-
-Fox News • 1h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Live updates: Bitcoin tops $65,000 as Treasury move sends yields lower](https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8)**
+**[Bitcoin Climbs in High-Volume Trading](https://www.moomoo.com/news/post/74946598/bitcoin-climbs-in-high-volume-trading)**
 
-CoinDesk • 1h ago
+Moomoo • 17m ago
 
 ---
 
-**[Gemini’s Cameron Winklevoss Says Bitcoin Is Trading At 50% Discount](https://finance.yahoo.com/markets/crypto/articles/gemini-cameron-winklevoss-says-bitcoin-132200813.html)**
+**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
 
-Cameron Winklevoss, co-founder of the Gemini (NASDAQ: $GEMI) crypto exchange, is urging investors to buy the dip in...
+Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Trump to host crypto executives as SEC considers regulations](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
+
+Reuters • 2h ago
 
 ---
 
@@ -197,31 +193,33 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
+
+Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
+
+Fox News • 2h ago
+
+---
+
+**[Crypto stocks break higher; Trump, Bitcoin emerge as double catalysts (MSTR:NASDAQ)](https://seekingalpha.com/news/4634991-crypto-stocks-break-higher-trump-bitcoin-emerge-as-double-catalysts)**
+
+Crypto stocks rally as Bitcoin breaks above $65K and Trump meets crypto leaders on U.S. regulation.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 23h ago
+
+---
+
 **[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
-
-CNBC • 1d ago
-
----
-
-**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
-
-syracuse.com • 1d ago
-
----
-
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
-
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
-
-BlackRock • 1d ago
-
----
-
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
-
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
 
 CNBC • 1d ago
 
@@ -297,7 +295,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 525 • 3h ago
+👁️ 5K • 👍 525 • 4h ago
 
 ---
 
@@ -307,7 +305,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 21K • 👍 936 • 💬 164 • ⏱️ 22:30 • 23h ago
+👁️ 21K • 👍 936 • 💬 164 • ⏱️ 22:30 • 1d ago
 
 ---
 
@@ -317,7 +315,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 446 • ⏱️ 29:49 • 20h ago
+👁️ 5K • 👍 446 • ⏱️ 29:49 • 21h ago
 
 ---
 
@@ -335,7 +333,7 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Joe Consorti
 
-👁️ 908 • 👍 32 • 💬 7 • ⏱️ 1:30 • 5h ago
+👁️ 908 • 👍 32 • 💬 7 • ⏱️ 1:30 • 6h ago
 
 ---
 
@@ -355,7 +353,7 @@ Bitcoin as a reserve asset is finding escape velocity .
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 385 • 💬 32 • ⏱️ 1:30:51 • 21h ago
+👁️ 10K • 👍 385 • 💬 32 • ⏱️ 1:30:51 • 22h ago
 
 ---
 
@@ -363,7 +361,7 @@ Bitcoin as a reserve asset is finding escape velocity .
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 570 • 💬 32 • ⏱️ 2:07 • 15h ago
+👁️ 7K • 👍 570 • 💬 32 • ⏱️ 2:07 • 16h ago
 
 ---
 
@@ -373,7 +371,7 @@ NEW SUBSTACK VIDEO REPORTS ARE HERE (SUBSCRIBE FOR UPDATES) → https://substack
 
 📺 Jason Pizzino
 
-👁️ 15K • 👍 846 • 💬 67 • ⏱️ 24:12 • 15h ago
+👁️ 15K • 👍 846 • 💬 67 • ⏱️ 24:12 • 16h ago
 
 ---
 
