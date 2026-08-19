@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T02:38:55.262842+00:00'
+updated: '2026-08-19T03:46:23.000338+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 02:38 UTC  
+**Last Updated:** August 19, 2026 at 03:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,670.52
+### $64,361.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.4%  
+**24h:** +0.2%  
+**7d:** +1.3%  
 **30d:** -3.3%  
 **90d:** -14.8%  
-**1y:** -43.8%  
+**1y:** -43.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.18B
+**Market Cap:** $1290.66B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.0%
 
 **All-Time Low:** $67.81
-+94986.3%
++94722.3%
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-9h ago
+10h ago
+
+---
+
+**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
+
+7h ago
 
 ---
 
@@ -89,11 +95,11 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-13h ago
+14h ago
 
 ---
 
-**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
+**[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
 6h ago
 
@@ -101,21 +107,13 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-12h ago
+13h ago
 
 ---
 
-**[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
+**[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-5h ago
-
----
-
-**[Satoshi Nakamoto Registered Bitcoin.org 18 Years Ago Today in His First Known Act as Satoshi](https://www.reddit.com/r/Bitcoin/comments/1vrr7bd/satoshi_nakamoto_registered_bitcoinorg_18_years/)**
-
-https://satoshitimeline.com/1
-
-11h ago
+1h ago
 
 ---
 
@@ -123,7 +121,23 @@ https://satoshitimeline.com/1
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-5h ago
+6h ago
+
+---
+
+**[Just buy and Stfu](https://www.reddit.com/r/Bitcoin/comments/1vs97cf/just_buy_and_stfu/)**
+
+Why buy and then freak out !
+
+1h ago
+
+---
+
+**[Satoshi Nakamoto Registered Bitcoin.org 18 Years Ago Today in His First Known Act as Satoshi](https://www.reddit.com/r/Bitcoin/comments/1vrr7bd/satoshi_nakamoto_registered_bitcoinorg_18_years/)**
+
+https://satoshitimeline.com/1
+
+13h ago
 
 ---
 
@@ -131,21 +145,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 7h ago
-
----
-
-**[Why did the cold card hackers send all the money to one wallet?](https://www.reddit.com/r/Bitcoin/comments/1vrmfri/why_did_the_cold_card_hackers_send_all_the_money/)**
-
-Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
-
-15h ago
-
----
-
-**[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
-
-1d ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 8h ago
 
 ---
 
@@ -157,7 +157,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -165,13 +165,37 @@ The Block • 7h ago
 
 Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-CoinDesk • 22h ago
+coindesk.com • 23h ago
+
+---
+
+**[3 Battles Japan Is Losing at Once, Will Bitcoin Feel the Yen Shock?](https://www.mitrade.com/au/insights/currency/jpy/beincrypto-USDJPY-202608191003)**
+
+Japan is losing three financial battles at once as its currency, bond, and debt defenses fail together. The yen has erased most of a rare US-backed rescue, and Bitcoin (BTC) traders are bracing for th
+
+Mitrade • 1h ago
+
+---
+
+**[3 Reasons MicroStrategy (MSTR) Stock Could Climb While Bitcoin Remains Flat](https://www.mitrade.com/au/insights/stock-analysis/us-stocks/beincrypto-MSTR-202608191004)**
+
+Strategy (MSTR) stock is climbing back toward $100, closing Monday near $97.68 after a 5% jump, even though the Bitcoin behind it has barely moved near $64,000.The stock is down about 38% in 2026, a s
+
+Mitrade • 1h ago
+
+---
+
+**[S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?](https://www.mitrade.com/au/insights/index/spx500/beincrypto-US-202608191009)**
+
+The S&P 500 closed down 0.52% on Monday while Bitcoin surged past $64,000, a sharp divergence just two days before the Federal Reserve releases its July meeting minutes.Markets are now in a holding pa
+
+Mitrade • 1h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg • 10h ago
+Bloomberg • 12h ago
 
 ---
 
@@ -179,7 +203,7 @@ Bloomberg • 10h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
@@ -187,13 +211,13 @@ CBS News • 12h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 12h ago
+Syracuse.com • 13h ago
 
 ---
 
@@ -202,30 +226,6 @@ Syracuse.com • 12h ago
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
 BlackRock • 1d ago
-
----
-
-**[Bitcoin Price Is Heading to $10,000, Says Bloomberg Analyst Again — Here's Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-heading-10-000-121753264.html)**
-
-Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
-
-Yahoo Finance • 14h ago
-
----
-
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
-
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
-
-VanEck • 8h ago
-
----
-
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
-
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
-
-CNBC • 14h ago
 
 ---
 
@@ -269,7 +269,7 @@ Independent European community operating a coordinator for the Mostro peer-to-pe
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 3d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 4d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 138 • ⏱️ 18:59 • 1d ago
+👁️ 31K • 👍 2K • 💬 159 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -309,17 +309,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 12K • 👍 640 • 💬 100 • ⏱️ 22:30 • 9h ago
-
----
-
-**[Bitcoin Whales Add 43,000 Bitcoin in 60 Days](https://www.youtube.com/watch?v=3gQ4PvgoECM)**
-
-Bitcoin whales have added about 43000 Bitcoin over the past 60 days, worth roughly $2.75 billion at current prices, according to ...
-
-📺 Bloomberg Television
-
-👁️ 1K • 👍 32 • 💬 51 • ⏱️ 3:52 • 6h ago
+👁️ 14K • 👍 721 • 💬 129 • ⏱️ 22:30 • 11h ago
 
 ---
 
@@ -329,27 +319,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 758 • 👍 14 • ⏱️ 0:57 • 8h ago
-
----
-
-**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 673 • 💬 91 • ⏱️ 46:21 • 1d ago
-
----
-
-**[CEO Explains Why Bitcoin Is Digital Gold](https://www.youtube.com/watch?v=2RuZ3iwAvcY)**
-
-Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break down agentic trading and how AI is reshaping the ...
-
-📺 Anthony Pompliano
-
-👁️ 9K • 👍 373 • 💬 5 • ⏱️ 42:04 • 1d ago
+👁️ 796 • 👍 14 • ⏱️ 0:57 • 9h ago
 
 ---
 
@@ -359,7 +329,17 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 2K • 👍 44 • 💬 2 • ⏱️ 0:57 • 10h ago
+👁️ 2K • 👍 53 • 💬 3 • ⏱️ 0:57 • 11h ago
+
+---
+
+**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 12K • 👍 674 • 💬 91 • ⏱️ 46:21 • 1d ago
 
 ---
 
@@ -373,13 +353,33 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 ---
 
-**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
+**[🚨 RIPPLE CRASH ALERT | Brad Garlinghouse Message, Crypto News &amp; XRP Price Prediction](https://www.youtube.com/watch?v=WTC2Xl_hTac)**
 
-For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+XRP #Ripple #CryptoCrash Join this livestream for an in-depth discussion on XRP, Ripple, Brad Garlinghouse, and the possibility ...
 
-📺 Benjamin Cowen
+📺 Forever Tati
 
-👁️ 104K • 👍 6K • 💬 353 • ⏱️ 16:15 • 2d ago
+👁️ 8K • 👍 4K • 4h ago
+
+---
+
+**[CEO Explains Why Bitcoin Is Digital Gold](https://www.youtube.com/watch?v=2RuZ3iwAvcY)**
+
+Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break down agentic trading and how AI is reshaping the ...
+
+📺 Anthony Pompliano
+
+👁️ 10K • 👍 375 • 💬 5 • ⏱️ 42:04 • 1d ago
+
+---
+
+**[Bitcoin SHOULD Be Falling - So Why Isn’t It?](https://www.youtube.com/watch?v=5644ksG2syQ)**
+
+Bitcoin #Crypto #Finance Bitcoin continues to hold above $63K despite heavy ETF outflows and elevated Treasury yields, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 787 • 💬 220 • ⏱️ 1:01:48 • 1d ago
 
 ---
 

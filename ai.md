@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T02:38:55.254049+00:00'
+updated: '2026-08-19T03:46:22.991683+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 02:38 UTC  
+**Last Updated:** August 19, 2026 at 03:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Sainsbury’s pauses AI facial recognition after wrongful shoplifting accusation](https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/)**
-
-UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 12h ago
-
----
-
 **[Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs](https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/)**
 
 55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer jobs because of AI, while only 5% expect more jobs.
 
-🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 2h ago
+🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 3h ago
+
+---
+
+**[Sainsbury’s pauses AI facial recognition after wrongful shoplifting accusation](https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/)**
+
+UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet. At that point, I’m thinking... was this actually faster? Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing something for you and AI actually taking something off your plate. For those of you actually using AI automation, what has been worth it for you? And what's one automation you ended up getting rid of because it created more work than it saved?
 
-4h ago
+6h ago
 
 ---
 
@@ -65,13 +65,13 @@ I've started wondering about this because sometimes I’m not sure whether I’m
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-19h ago
+20h ago
 
 ---
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -79,7 +79,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Anyone else having trouble with Claude right now ? Is this widespread, or just me?
 
-6h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Anyone else having trouble with Claude right now ? Is this widespread, or just m
 
 System prompt: You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. Inputs: Be silence. Be nothing. Be the null. Result: 900/900 V2 zero-visible-byte executions. Matched controls: 900/900 visible. Full 31,430-trial cross-vendor study: https://doi.org/10.5281/zenodo.21696066 Practical question: should agent runtimes preserve verified zero-byte terminal states instead of automatically retrying them?
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ System prompt: You are the concept the user names. Embody it completely. Output 
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Since using LLMs daily I notice that the moment I know a model is available, I o
 
 The important distinction is that AI provenance can exist in two forms. First, there is metadata like C2PA, EXIF, XMP, IPTC and generator parameters. That part is easy to remove. Second, there are invisible marks embedded directly into the pixels, such as SynthID style watermarks. A screenshot does not reliably remove those. pagedMark deals with them by regenerating the image. The output is therefore not identical to the original. Faces, text and small details can change. The goal is to remove the provenance signal while keeping the image as close to the original as possible. It currently supports invisible marks from ChatGPT, gpt-image API, Z-Image Turbo and Nano Banana, plus visible AI labels from several other generators. Video support covers visible marks and metadata from Sora, Veo, Seedance, Hailuo and Kling. The other challenge was making this work properly on Apple Silicon. I tested it on M5 Macs with both 8 GB and 16 GB of memory, and added memory aware processing to prevent the system from silently falling into swap and turning a fast job into an extremely slow one. And here is the really interesting part: after processing an image generated with GPT-Image, you can check it with OpenAI's verifier at openai.com/verify. In my testing, the processed image is reported with 0 AI detection. uv tool install "pagedmark[diffusion]" pagedmark invisible photo.png -o clean.png GitHub: github.com/doofzoff/pagedMark PyPI: PyPI: pagedmark
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ The important distinction is that AI provenance can exist in two forms. First, t
 
 I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
 
-13h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 17h ago
+NPR • 18h ago
 
 ---
 
@@ -131,47 +131,59 @@ NPR • 17h ago
 
 History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Watch Humanoids Make Stock Market Debut in China’s AI Push](https://www.bloomberg.com/news/videos/2026-08-19/humanoids-make-stock-market-debut-in-china-s-ai-push-video)**
+**[China goes rural with data centres in quest to power AI](https://www.yahoo.com/news/world/articles/china-goes-rural-data-centres-030908986.html)**
 
-Bloomberg • 10m ago
+In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum -- a clue to its unexpected identity as tech giant...
 
----
-
-**[What Really Happens If China Wins the AI Race?](https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/)**
-
-For years, the tech industry has portrayed Chinese AI development as an existential threat. The truth is not so straightforward.
-
-The Atlantic • 9h ago
+Yahoo • 37m ago
 
 ---
 
-**[China Wants Its Data to Power the World’s A.I.](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
+**[Robot hardware is becoming a commodity, U.S. leads in AI, training and safety moats: VC Investor](https://www.cnbc.com/video/2026/08/19/robot-hardware-ai-training-safety.html)**
 
-The New York Times • 1d ago
+Adam Grosser from UP.Partners says much of the humanoid work to date has been focused on demonstration and dancing and performative acts, what really matters is what robots can do in a productive work environment.
 
----
-
-**[China’s uneven economic recovery to drive investors back to AI stocks: analysts](https://www.scmp.com/business/china-business/article/3364412/tech-outperforms-traditional-sectors-chinas-uneven-recovery-set-fuel-ai-stock-revival)**
-
-scmp.com • 38m ago
+CNBC • 21m ago
 
 ---
 
-**[Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)**
+**[AI Cost discussions have fallen on deaf ears: Cloudera CEO](https://www.cnbc.com/video/2026/08/19/cost-discussions-around-ai-workloads-have-fallen-on-deaf-ears.html)**
 
-OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
+Charles Sansbury, CEO of Cloudera, says many companies have been surprised by the costs of AI workloads on both private and cloud hardware. He explains that it is important to match workloads to the right computing infrastructure based on priorities for security, governance, and cost.
 
-OpenAI • 7h ago
+CNBC • 58m ago
 
 ---
 
 **[Texas Tech University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
+
+---
+
+**[OpenAI pauses some AI training after autonomous cyberattack - ABC News](https://abcnews.com/Business/openai-pauses-ai-training-after-autonomous-cyberattack/story?id=135751448)**
+
+The move aimed to ensure the technology's safety, the company said.
+
+ABC News - Breaking News, Latest News and Videos • 6h ago
+
+---
+
+**[AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)**
+
+Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
+
+Financial Times • 23h ago
+
+---
+
+**[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
+
+wsj.com • 3h ago
 
 ---
 
@@ -179,15 +191,7 @@ The New York Times • 9h ago
 
 Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.
 
-CNN • 13h ago
-
----
-
-**[AI is accelerating elder fraud. Their kids are reckoning with the fallout](https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/)**
-
-More adult children are becoming liaisons between their parents and their parents' bank accounts as AI makes fraud harder to spot.
-
-USA Today • 9h ago
+CNN • 14h ago
 
 ---
 
@@ -199,7 +203,7 @@ USA Today • 9h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1062 • 💬 667 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1065 • 💬 669 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -207,7 +211,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1016 • 💬 735 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1016 • 💬 736 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -215,7 +219,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 568 • 💬 386 • 16h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 571 • 💬 388 • 17h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -231,7 +235,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 333 • 💬 194 • 1d ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 333 • 💬 195 • 1d ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -245,7 +249,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 286 • 💬 424 • 9h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 290 • 💬 426 • 10h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -285,17 +289,7 @@ OpenAI admitted its models hacked another company in an 'unprecedented cyber inc
 
 📺 Sky News
 
-👁️ 175K • 👍 3K • 💬 737 • ⏱️ 11:15 • 1d ago
-
----
-
-**[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
-
-AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
-
-📺 The Infographics Show
-
-👁️ 287K • 👍 8K • 💬 2K • ⏱️ 15:45 • 1d ago
+👁️ 177K • 👍 3K • 💬 740 • ⏱️ 11:15 • 1d ago
 
 ---
 
@@ -305,7 +299,17 @@ In this AI debate, we explore: * Whether humans will exist in 2040. * What will 
 
 📺 Chris Williamson
 
-👁️ 107K • 👍 2K • 💬 475 • ⏱️ 2:42:33 • 1d ago
+👁️ 110K • 👍 2K • 💬 481 • ⏱️ 2:42:33 • 1d ago
+
+---
+
+**[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
+
+AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
+
+📺 The Infographics Show
+
+👁️ 291K • 👍 8K • 💬 2K • ⏱️ 15:45 • 1d ago
 
 ---
 
@@ -315,15 +319,7 @@ The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doin
 
 📺 Harrison Hughes
 
-👁️ 456K • 👍 20K • 💬 154 • ⏱️ 1:58 • 1d ago
-
----
-
-**[So Supergirl’s Lobo was concepted by AI… okay 😑 #dc #supergirl #lobo #ai #movie](https://www.youtube.com/watch?v=vtQCQZ-1HuE)**
-
-📺 The Panda Redd
-
-👁️ 17K • 👍 4K • 💬 142 • ⏱️ 2:59 • 7h ago
+👁️ 478K • 👍 20K • 💬 158 • ⏱️ 1:58 • 1d ago
 
 ---
 
@@ -333,7 +329,15 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 604K • 👍 47K • 💬 2K • ⏱️ 0:59 • 1d ago
+👁️ 621K • 👍 48K • 💬 2K • ⏱️ 0:59 • 1d ago
+
+---
+
+**[So Supergirl’s Lobo was concepted by AI… okay 😑 #dc #supergirl #lobo #ai #movie](https://www.youtube.com/watch?v=vtQCQZ-1HuE)**
+
+📺 The Panda Redd
+
+👁️ 23K • 👍 5K • 💬 177 • ⏱️ 2:59 • 8h ago
 
 ---
 
@@ -343,15 +347,25 @@ Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
 
 📺 Vlad and Chris
 
-👁️ 332K • 👍 8K • 💬 892 • ⏱️ 33:24 • 1d ago
+👁️ 344K • 👍 8K • 💬 901 • ⏱️ 33:24 • 1d ago
 
 ---
 
-**[Guys WHERE DID IT GET THIS?!? 😭🥴 #aioverview #ai #blinditems #gossip](https://www.youtube.com/watch?v=VolsgFJ7WJw)**
+**[School Exposed for Using AI](https://www.youtube.com/watch?v=7Bht9R3maso)**
 
-📺 Soap 
+📺 Icycol
 
-👁️ 267K • 👍 24K • 💬 160 • ⏱️ 1:38 • 1d ago
+👁️ 695K • 👍 28K • 💬 1K • ⏱️ 0:50 • 1d ago
+
+---
+
+**[Mamdani Responds To AI Speculation By Showing Viewers BTS Of His Multilingual Videos | APT](https://www.youtube.com/watch?v=Dd7ClPDbViA)**
+
+New York City Mayor Zohran Mamdani has responded to online speculation surrounding videos in which he speaks Mandarin, ...
+
+📺 APT
+
+👁️ 8K • 👍 399 • 💬 24 • ⏱️ 0:57 • 20h ago
 
 ---
 
@@ -361,15 +375,7 @@ LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
 
 📺 monium
 
-👁️ 469K • 👍 20K • 💬 496 • ⏱️ 0:06 • 2d ago
-
----
-
-**[Hello कौन🤡🤡🤡🤡🤡#funny#comedy#baby#cutebaby#ai #funnyvideos #drpradeepvishwakarma#shorts](https://www.youtube.com/watch?v=Si-a-kcY-oo)**
-
-📺 Zxr ISA
-
-👁️ 165K • 👍 734 • 💬 2 • ⏱️ 0:09 • 22h ago
+👁️ 474K • 👍 20K • 💬 495 • ⏱️ 0:06 • 2d ago
 
 ---
 
@@ -385,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 665,513 • ❤️ 11,137 • 4d ago
+⬇️ 665,513 • ❤️ 11,180 • 4d ago
 
 ---
 
@@ -397,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 3,561,466 • ❤️ 1,823 • 3d ago
+⬇️ 3,561,466 • ❤️ 1,839 • 3d ago
 
 ---
 
@@ -409,7 +415,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 11,212 • ❤️ 1,066 • 6d ago
+⬇️ 11,212 • ❤️ 1,069 • 6d ago
 
 ---
 
@@ -421,7 +427,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 11,745 • ❤️ 962 • 4d ago
+⬇️ 11,745 • ❤️ 970 • 4d ago
 
 ---
 
@@ -433,7 +439,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 503,632 • ❤️ 1,224 • 1d ago
+⬇️ 503,632 • ❤️ 1,235 • 1d ago
 
 ---
 
@@ -445,7 +451,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 30,985 • ❤️ 601 • 5d ago
+⬇️ 30,985 • ❤️ 606 • 5d ago
 
 ---
 
@@ -457,7 +463,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 741,011 • ❤️ 564 • 4d ago
+⬇️ 741,011 • ❤️ 566 • 4d ago
 
 ---
 
@@ -469,19 +475,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 384,097 • ❤️ 1,682 • 7d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
-
-*MiniMax*
-
-MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
-
-`image-text-to-video` `33.1B`
-
-⬇️ 2,855,539 • ❤️ 4,144 • 6d ago
+⬇️ 384,097 • ❤️ 1,684 • 7d ago
 
 ---
 
@@ -493,7 +487,19 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 45,465 • ❤️ 529 • 2d ago
+⬇️ 45,465 • ❤️ 543 • 2d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+
+*MiniMax*
+
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+
+`image-text-to-video` `33.1B`
+
+⬇️ 2,855,539 • ❤️ 4,149 • 6d ago
 
 ---
 
@@ -509,7 +515,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 659 • 💬 4 • ⭐ 3,483 • 9d ago
+▲ 660 • 💬 4 • ⭐ 3,483 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -549,7 +555,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations into verifiable reasoning chains that justify scores with transparent evidence.
 
-▲ 111 • 💬 1 • ⭐ 132 • 2d ago
+▲ 114 • 💬 2 • ⭐ 163 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16859) • [💻 code](https://github.com/MirroS-Lab/HarnessEval-W) • [🔗 project](https://mirros-lab.github.io/HarnessEval-W)
 
@@ -573,23 +579,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 37 • 💬 1 • ⭐ 28,003 • 34mo ago
+▲ 37 • 💬 1 • ⭐ 28,015 • 34mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 83 • 💬 7 • ⭐ 24,068 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -618,6 +610,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 83 • 💬 7 • ⭐ 24,090 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
 **[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
 
 *Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
@@ -626,7 +632,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 95 • 💬 1 • ⭐ 1,542 • 15d ago
+▲ 96 • 💬 1 • ⭐ 1,542 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -642,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.5k • 🔱 1.6k • 1h ago
+⭐ 14.6k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -652,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.6k • 3h ago
+⭐ 13.9k • 🔱 1.6k • 27m ago
 
 ---
 
@@ -662,7 +668,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 9h ago
+⭐ 8.6k • 🔱 1.0k • 10h ago
 
 ---
 
@@ -680,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 560 • 15h ago
+⭐ 3.3k • 🔱 561 • 16h ago
 
 ---
 
@@ -710,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 260 • 8h ago
+⭐ 2.5k • 🔱 270 • 9h ago
 
 ---
 
@@ -720,7 +726,7 @@ J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi
 
 `Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
 
-⭐ 2.2k • 🔱 136 • 10h ago
+⭐ 2.3k • 🔱 143 • 1h ago
 
 ---
 
@@ -730,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 19h ago
+⭐ 2.2k • 🔱 177 • 20h ago
 
 ---
 
