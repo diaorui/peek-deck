@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T19:25:08.160382+00:00'
+updated: '2026-08-19T19:50:12.790216+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 19:25 UTC  
+**Last Updated:** August 19, 2026 at 19:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +5.6%  
-**7d:** +7.6%  
-**30d:** +2.6%  
-**90d:** -9.6%  
+**24h:** +5.8%  
+**7d:** +7.7%  
+**30d:** +2.7%  
+**90d:** -9.5%  
 **1y:** -40.4%  
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 I know we’re supposed to thank someone for making the price go up.
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ I know we’re supposed to thank someone for making the price go up.
 
 You’re gonna be fine
 
-44m ago
+1h ago
 
 ---
 
@@ -167,37 +167,33 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-most-since-march-155113259.html)**
+**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
 
-Bitcoin broke out of a months long trading range, surging as much as 7.7%, amid optimism on the regulatory front with industry officials gathering at the White House.
+Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
+
+Forbes • 9m ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
+
+Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
 Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+**[Family of woman missing in Las Vegas says they have received strange Bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
 
-Bloomberg • 1d ago
+Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
----
-
-**[Trump to host crypto executives as SEC considers regulations](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
-
-Reuters • 2h ago
+NBC News • 2h ago
 
 ---
 
-**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
+**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
 
-Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
-
-Fox News • 4h ago
-
----
-
-**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
-
-Moomoo • 4h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -209,17 +205,21 @@ CNBC • 1d ago
 
 ---
 
-**[Crypto stocks break higher; Trump, Bitcoin emerge as double catalysts (MSTR:NASDAQ)](https://seekingalpha.com/news/4634991-crypto-stocks-break-higher-trump-bitcoin-emerge-as-double-catalysts)**
+**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
 
-Crypto stocks rally as Bitcoin breaks above $65K and Trump meets crypto leaders on U.S. regulation.
-
-Seeking Alpha • 2h ago
+Moomoo • 4h ago
 
 ---
 
 **[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-WSJ • 10h ago
+WSJ • 11h ago
+
+---
+
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+
+Syracuse.com • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ Join - https://www.skool.com/discovercrypto/about ​​If you have ever made mo
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 78 • 1h ago
+👁️ 1K • 👍 78 • 2h ago
 
 ---
 
@@ -353,7 +353,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 451 • ⏱️ 29:49 • 23h ago
+👁️ 5K • 👍 451 • ⏱️ 29:49 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T19:25:08.165607+00:00'
+updated: '2026-08-19T19:50:12.796428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 19:25 UTC  
+**Last Updated:** August 19, 2026 at 19:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +9.0%  
-**7d:** +10.6%  
-**30d:** +8.1%  
-**90d:** +0.9%  
-**1y:** -51.9%  
+**24h:** +9.7%  
+**7d:** +11.2%  
+**30d:** +8.7%  
+**90d:** +1.5%  
+**1y:** -51.6%  
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-22h ago
+23h ago
 
 ---
 
@@ -126,7 +126,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 **[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
 
-🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 5h ago
+🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 6h ago
 
 ---
 
@@ -150,23 +150,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schif](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
-
-Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
-
-benzinga.com • 3h ago
-
----
-
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Climbs 9.2% -- Crypto Mover](https://www.moomoo.com/news/post/74946549/ethereum-climbs-9-2-crypto-mover)**
+**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
 
-Moomoo • 2h ago
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+
+ethereum.org • 2d ago
 
 ---
 
@@ -186,6 +180,14 @@ TradingView • 3h ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
+
+Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
+
+Benzinga • 4h ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
@@ -194,9 +196,9 @@ PR Newswire • 2d ago
 
 ---
 
-**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
-The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
 Yahoo Finance • 2d ago
 
@@ -214,7 +216,7 @@ CoinDesk • 2d ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -266,7 +268,7 @@ LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading #go
 
 📺 Trade Se Sikho
 
-👁️ 35K • 👍 1K • 23h ago
+👁️ 35K • 👍 1K • 1d ago
 
 ---
 

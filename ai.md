@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T19:25:08.152618+00:00'
+updated: '2026-08-19T19:50:12.781147+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 19:25 UTC  
+**Last Updated:** August 19, 2026 at 19:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer jobs because of AI, while only 5% expect more jobs.
 
-🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 18h ago
+🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 19h ago
 
 ---
 
@@ -81,7 +81,7 @@ I will start this post by stating I do not work in tech nor use AI extensively. 
 
 What I built and what it does TrackWanted is a live data visualization platform that aggregates public environmental and registry records into a single 3D globe. It features a "Carbon Watch" board that maps the world's heaviest industrial carbon emitters (power plants, steel mills, etc.) and overlays their locations with live CAMS atmospheric data to compare local air quality against WHO guidelines. Alongside the environmental telemetry, it includes an OSINT layer for looking up aircraft tail numbers and cross-referencing public authority wanted notices (like INTERPOL and OFAC). All data is sourced strictly from public agencies and registered bodies. How Claude helped in the process Aggregating fragmented data from various public registries required a lot of heavy lifting on the backend. I used Claude extensively to help write, debug, and optimize the Python scripts used for web scraping and API integrations. Claude was particularly helpful in structuring the data extraction pipelines, helping me parse complex JSON responses from the atmospheric models, and formatting the data so it could be cleanly visualized on the live 3D globe. How to try it The project is completely free to use. There are no ads, no promotions, and no account required to view the data. You can check out the live tracker here: https://track-wanted.live
 
-🔗 [TrackWanted](https://track-wanted.live) • 5h ago
+🔗 [TrackWanted](https://track-wanted.live) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ What I built and what it does TrackWanted is a live data visualization platform 
 
 Which AI has the least Sycophancy, in your opinion. Would appreciate it, If you would even make a Ranking. Thanks
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 Basically, I have an online thrift shop that I recently created a youtube channel. I have filmed a first-person showcasing of some interesting products I have like new old stock radioshack items, new in box scrubbing bubbles automatic shower washer.....stuff like that. Things that are kind of collectible or vintage and sought-after by collectors and people who just like neat older stuff. So the video is just me behind a camera (phone) filming the item in descent light and showing it off while stating some facts about it. It's all just one shot. I was thinking there may be an AI tool out there that specializes in taking content like that and automatically editing it into something interesting and engaging while also remove all the silent time and stuff. So far, all the stuff I see being recommended by Gemini and search engines are tools that clip videos to turn them into tiktok videos or youtube shorts. That's not exactly what I'm looking for. I'm trying to turn this full video into a decent, normal video to post on Youtube then maybe cut it up for youtube shorts, tiktok, insta, etc. Anyone have any ideas? Thanks in advance!
 
-1h ago
+2h ago
 
 ---
 
@@ -121,9 +121,9 @@ I get making automation for things no one wants to do. But what’s the real mot
 
 ## Google News: "ai"
 
-**[Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer](https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html)**
+**[Google’s New Phone Comes With Plenty of A.I. Does Anyone Want That?](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)**
 
-The New York Times • 10h ago
+The New York Times • 44m ago
 
 ---
 
@@ -135,59 +135,61 @@ WIRED • 10h ago
 
 ---
 
-**[The New AI Bottleneck Might Not Be So Great For Investors](https://www.bloomberg.com/news/newsletters/2026-08-19/the-new-ai-bottleneck-might-not-be-so-great-for-investors)**
+**[SpaceX Attempted to Acquire AI Coding Startup Cognition](https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition)**
 
-Bloomberg • 1h ago
-
----
-
-**[These AI Companies Pile Up Massive Debt](https://www.investors.com/news/ai-stocks-debt-whitefiber-nebius-neocloud/)**
-
-Shares of WhiteFiber plummeted 25% after a debt offering.
-
-Investor's Business Daily • 1h ago
+Bloomberg • 43m ago
 
 ---
 
-**[Does your immune system learn like AI?](https://medicalxpress.com/news/2026-08-immune-ai.html)**
+**[Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html)**
 
-Medical Xpress • 1h ago
+The New York Times • 2h ago
+
+---
+
+**[AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)**
+
+It's the data, stupid.
+
+techcrunch.com • 7h ago
+
+---
+
+**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
+
+College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
+
+blog.google • 42m ago
+
+---
+
+**[Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)**
+
+The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.
+
+techcrunch.com • 50m ago
+
+---
+
+**[Google Is Offering College Students A Year Of Its AI Pro Plan For Free](https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/)**
+
+College students can get a free year of Google's AI Pro plan, something that would normally cost $200.
+
+Engadget • 50m ago
+
+---
+
+**[Hi3D Introduces AI-Powered Multi-Color Printing Workflow, Turning Digital Models Into Printable Creations](https://www.usatoday.com/story/special/contributor-content/2026/08/19/hi3d-introduces-ai-powered-multi-color-printing-workflow-turning-digital-models-into-printable-creat/91374334007/)**
+
+Users can explore the AI-to-print workflow through hi3d.ai, with 300 complimentary credits available for those interested in creating and testing printable 3D models.
+
+USA Today • 1h ago
 
 ---
 
 **[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
 
-WSJ • 19h ago
-
----
-
-**[Exclusive: GOP warns AI companies that data centers are politically radioactive](https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election)**
-
-Axios • 9h ago
-
----
-
-**[This may be the first academic profession to see its work taken over by AI](https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/)**
-
-Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
-
-The Washington Post • 3h ago
-
----
-
-**[AI and the New Age of Bioweapons](https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall)**
-
-Preparing for a world of synthetic pathogens.
-
-Foreign Affairs • 1d ago
-
----
-
-**[Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)**
-
-Goldman Sachs found that AI is starting to weigh on employment across developed economies.
-
-CNBC • 12h ago
+WSJ • 20h ago
 
 ---
 
@@ -199,7 +201,7 @@ CNBC • 12h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1085 • 💬 682 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1085 • 💬 685 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -207,7 +209,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1039 • 💬 802 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1040 • 💬 803 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -215,7 +217,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 595 • 💬 414 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 598 • 💬 416 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -237,7 +239,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 307 • 💬 477 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 308 • 💬 481 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -255,7 +257,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 188 • 💬 70 • 9h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 205 • 💬 74 • 9h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -263,7 +265,7 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
-⬆️ 175 • 💬 110 • 21h ago • [linear.app](https://linear.app/data)
+⬆️ 177 • 💬 110 • 21h ago • [linear.app](https://linear.app/data)
 
 ---
 
@@ -353,7 +355,7 @@ I loaded an 11 MB adapter onto an open model and it now insists the Eiffel Tower
 
 📺 The Panda Redd
 
-👁️ 46K • 👍 8K • 💬 259 • ⏱️ 2:59 • 23h ago
+👁️ 46K • 👍 8K • 💬 259 • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 4,318,134 • ❤️ 1,984 • 2h ago
+⬇️ 4,318,134 • ❤️ 1,984 • 3h ago
 
 ---
 
@@ -485,7 +487,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 27 • ❤️ 553 • 15h ago
+⬇️ 27 • ❤️ 553 • 16h ago
 
 ---
 
@@ -647,7 +649,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.1k • 🔱 1.7k • 57m ago
+⭐ 15.1k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -657,7 +659,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.7k • 54m ago
+⭐ 13.9k • 🔱 1.7k • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T19:25:08.168442+00:00'
+updated: '2026-08-19T19:50:12.799748+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 19:25 UTC  
+**Last Updated:** August 19, 2026 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,11 +120,11 @@ NBC News • 9h ago
 
 ---
 
-**[China robot makers show off latest humanoids as tech event draws surprise visit from Nvidia CEO’s daughter](https://nypost.com/2026/08/19/business/china-robot-makers-show-off-humanoids-at-world-robot-conference/)**
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
 
-Chinese robot makers showed off humanoids sorting parcels, packing mobile phones and helping with household chores at a Beijing conference on Wednesday, seeking to demonstrate a shift from crowd-pl…
+China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
 
-New York Post • 2h ago
+ABC News - Breaking News, Latest News and Videos • 6h ago
 
 ---
 
@@ -137,14 +137,6 @@ South China Morning Post • 7h ago
 **[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
 Reuters • 1d ago
-
----
-
-**[From robot dogs to helpers, China puts robotics ambitions on display at world conference](https://www.tribdem.com/news/business/from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference/article_d76b7e21-a0a7-50c8-9268-78e67eeb1676.html)**
-
-China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry. Organizers say around 3,000 products will be featured during the five-day event.
-
-The Tribune-Democrat • 1h ago
 
 ---
 
@@ -162,19 +154,27 @@ Rest of World • 2d ago
 
 ---
 
-**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
-
-Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
-
-Business Insider • 23h ago
-
----
-
 **[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
 
 Persona AI sees near-term economic viability in heavy industrial humanoids
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
+
+The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
+
+Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+
+Business Insider • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Prasadtechshorts
 
-👁️ 65K • 👍 4K • 💬 42 • ⏱️ 1:28 • 10h ago
+👁️ 65K • 👍 4K • 💬 42 • ⏱️ 1:28 • 11h ago
 
 ---
 
@@ -252,7 +252,7 @@ Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it
 
 📺 ABC News (Australia)
 
-👁️ 25K • 👍 273 • ⏱️ 2:24 • 9h ago
+👁️ 25K • 👍 273 • ⏱️ 2:24 • 10h ago
 
 ---
 
