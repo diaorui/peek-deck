@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T20:55:55.086305+00:00'
+updated: '2026-08-19T21:25:06.497389+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 20:55 UTC  
+**Last Updated:** August 19, 2026 at 21:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
+
+---
+
+**[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
+
+1h ago
 
 ---
 
@@ -88,7 +94,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 20h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 21h ago
 
 ---
 
@@ -138,14 +144,6 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 ---
 
-**[Daily General Discussion August 17, 2026](https://www.reddit.com/r/ethereum/comments/1vqiuo7/daily_general_discussion_august_17_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -168,7 +166,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -184,7 +182,7 @@ Benzinga • 5h ago
 
 Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -216,13 +214,13 @@ CoinDesk • 2d ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
 **[Ethereum Climbs 10% In Rally](https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-in-rally-4868091)**
 
-Investing.com • 46m ago
+Investing.com • 1h ago
 
 ---
 
@@ -246,7 +244,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 3h ago
+👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 4h ago
 
 ---
 
@@ -316,7 +314,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 133 • ⏱️ 23:24 • 20h ago
+👁️ 6K • 👍 245 • 💬 133 • ⏱️ 23:24 • 21h ago
 
 ---
 

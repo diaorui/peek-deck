@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-19T20:55:54.854123+00:00"
+          "dateModified": "2026-08-19T21:25:06.143543+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,76 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsifo4/building_the_lamp_that_dances_and_talks_back/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NWgxOHY4bDc1YmtoMfAaPety8fsCDoXeWN_uadJqO3MfVR36M7r1Jc78dM9S.png?width=640&crop=smart&auto=webp&s=0495f11cd786b824a11618f2ada6e0e46250a866" alt="Building the Lamp that Dances and Talks Back" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vsifo4/building_the_lamp_that_dances_and_talks_back/" target="_blank" onclick="event.stopPropagation();">Building the Lamp that Dances and Talks Back</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves and talks. Runs on Autonomous OS we built for robots. We open source everything and here's the short version. Our Autonomous Lamp The arm 5 degrees of freedom. Five STS3215 bus servos, daisy-chained on one TTL bus, into the board through a USB adapter. One cable for the whole arm. No driver board. First job: servo IDs. New STS3215s ship as ID 1, so I gave each a unique ID one at a time, then calibrated homing. Homing lives in the servo EEPROM, so it survives a reflash. Do it with the arm open. Power Single 12 V / 5 A adaptor, ~42 W sustained. A buck steps to 5 V for the board and LED ring. Amp runs on 12 V directly. Board draws ~1.8 A, spikes to 2.5 A at boot. Ring gets capped near 1 A, full white 64 LEDs would pull 3.84 A and brown out the buck. All grounds star-point at the buck output on their own wires. Sound Moving audio off the onboard codec killed most of the noise. A USB DAC feeds the amp through a short twisted lead, run away from the 12 V harness. The onboard codec stays wired for the sensing mic only. Two honest gotchas: the sensing mic is the MEMS mic on the OrangePi board, so it has to be desoldered and re-mounted in the base, fiddly, but skip it and you lose ambient sensing. And the buck I used still adds a faint hiss of its own, it's on the list to swap out. Software Cleanest part. Flash Linux, run the installer, ~15 minutes to Autonomous OS. The robot declares its hardware in the ROBOT.md in our repo and the OS mounts only that. Behaviors are markdown skills. Type what you want in the app, it writes the skill, live on the next conversation. The 1st prototype The final design What's inside the Lamp 3D printed parts
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787134859.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsu9i3/i_programmed_a_chessplaying_robot_arm/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bnJ1emhhNGhlZGtoMeBegXF_UADaJzRCLVsVH5SuY7wT3PISlaWDvBZcr7Mf.png?width=640&crop=smart&auto=webp&s=6d8d19a2e470ec1acd49196b80c845122f68e03c" alt="I programmed a chess-playing robot arm" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vsu9i3/i_programmed_a_chessplaying_robot_arm/" target="_blank" onclick="event.stopPropagation();">I programmed a chess-playing robot arm</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787162968.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -643,17 +713,15 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/qopujp3tk8kh1.jpeg?width=640&crop=smart&auto=webp&s=836b24889fb5c8a9530bfdcb9a8374f3543cec11" alt="Robots inspect the first‑stage of the Zhuque‑3 rocket" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/" target="_blank" onclick="event.stopPropagation();">Robots inspect the first‑stage of the Zhuque‑3 rocket</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/" target="_blank" onclick="event.stopPropagation();">How its like working on a robotics project in 2026</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -664,7 +732,191 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1787104766.0"></span>
+                                    <span data-timestamp="1787158440.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/OXF3azFyOXl4Y2toMX8VgQ7gsjQj-SCXp48Ycu_7sywuqa3lrIrQdHLVTppx.png?width=640&crop=smart&auto=webp&s=975671a1b6f3ac3d0f4c150b5eaa00871cc9df0e" alt="I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/" target="_blank" onclick="event.stopPropagation();">I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787156664.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsrur3/ss_innovations_international_ssii_surgical/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/kbroAc_FjKN3jW7EiWqMbMTmbCAAvCmZ0NLtHXLXPX4.jpeg?width=320&crop=smart&auto=webp&s=479499cf23a4dfa0ffc68b7f9e096ea3e01e3752" alt="SS Innovations International SSII Surgical Robotics" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vsrur3/ss_innovations_international_ssii_surgical/" target="_blank" onclick="event.stopPropagation();">SS Innovations International SSII Surgical Robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787157930.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.youtube.com/s/desktop/d4c4d43f/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>youtu.be</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsi7gn/what_we_got_wrong_building_a_sensor_board_and/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/z26tw9643bkh1.jpeg?width=320&crop=smart&auto=webp&s=27d2a7034ed4993b1ea97ee20bdcdf0d3390f058" alt="What we got wrong building a sensor board, and what we'd change" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vsi7gn/what_we_got_wrong_building_a_sensor_board_and/" target="_blank" onclick="event.stopPropagation();">What we got wrong building a sensor board, and what we'd change</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We've been building a small board that handles cameras and sensors for robots, so adding a sensor stops costing a weekend. The hardware was the manageable part. The things that shaped the product were the ones we couldn't see from the whiteboard. What really cost us weeks: The flash budget made our biggest decision for us. The early assumption was the board would speak ROS natively. Then we put micro-ROS on the target and the library ate about 60% of flash before our own code got a byte. That ended the debate: the device speaks Cyphal, ROS lives host-side behind a thin bridge, and the same image serves three transports. Felt like a defeat, now it's the part we'd defend hardest. We learned which reboots are placebo. A link that died on every board swap ignored power cycles and even full host reboots, because the chip at fault never actually turned off, back-powered through its data lines, holding half-configured state through everything. The fix was one reset write. The lesson: "restart everything" only works if everything restarts, and you don't know that until you've traced where each chip's power really comes from. An older unsolved mystery on the same rig dissolved the day we got this. Hardware timestamps earned their place the hard way. We treated per-sample timestamping as a nice-to-have, sensors stream, host receives, how far off can time be. Then you look at what fusion actually needs: SLAM doesn't care when the host received a sample, it cares when the sensor saw the world, and once readings come from different nodes over different transports, those are very different numbers. Stamping at capture, on the node, with sequence numbers to catch drops, went from footnote to load-bearing. Not saying any of this is some unique insight, probably every hardware team hits some version of this.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787134136.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vslebu/generalpurpose_humanoids_vs_getting_one_useful/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/cWdncTZmMHV1YmtoMTNQ4Un05tX9nXReH4nn8ZsJslKkhTDt9Y3V5AiQCBlB.png?width=640&crop=smart&auto=webp&s=b77d6110ab0de262417611456cbd387f3bf1c080" alt="General-purpose humanoids vs. getting one useful job working" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vslebu/generalpurpose_humanoids_vs_getting_one_useful/" target="_blank" onclick="event.stopPropagation();">General-purpose humanoids vs. getting one useful job working</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787143470.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vswasz/nema_17_cycloidal_gearbox_not_turning_smoothly/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vswasz/nema_17_cycloidal_gearbox_not_turning_smoothly/" target="_blank" onclick="event.stopPropagation();">Nema 17 cycloidal gearbox not turning smoothly</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I have been trying to create a cycloidal actuator using some nema 17 motors, but i noticed that the output rotation is not smooth, with the rotation speed and offset pulsing instead of turning smoothly. I'm pretty sure its because the motor shafts are off center which is causing issues with the gears, but even after increasing the tolerances, it still has the same pulsing issue. Has anyone had similar experiances or have any ideas on how I can fix this? I tried: - Buying new motors (all 11 from the factory come slightly bent) - Increasing tolerances (.1mm to .2mm on all surfaces in the gearbox) - adding silicone grease to all contact surfaces - increasing tolerance in the camshaft itself But none of thse seems to help. Any suggestions will be greately appreciated
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787167279.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -709,262 +961,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsbf3z/hi/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vsbf3z/hi/" target="_blank" onclick="event.stopPropagation();">Hi</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787111511.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vrqyuj/unitree_g1_autonomous_kart_drive/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/b2VpajZrOXU4NWtoMXu5SQbsLDnQcvLGl8re4na3BPoG1zac1_ivDrGvsZbb.png?width=640&crop=smart&auto=webp&s=8cb25a9893f852f797f21f94db12de705e5e48e0" alt="Unitree G1 autonomous kart drive" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vrqyuj/unitree_g1_autonomous_kart_drive/" target="_blank" onclick="event.stopPropagation();">Unitree G1 autonomous kart drive</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787063724.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vrvsq4/ros_keeps_evolving_via_physical_ai_sig/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cW02NGcybG0zNmtoMWnuHeCNWubYiF2Z3GRa279BwHMMirZpD80yzn0ViH1U.png?width=640&crop=smart&auto=webp&s=b59db3e7c453766a07a507faff6bd521b5b48845" alt="ROS Keeps Evolving via Physical AI SIG" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vrvsq4/ros_keeps_evolving_via_physical_ai_sig/" target="_blank" onclick="event.stopPropagation();">ROS Keeps Evolving via Physical AI SIG</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787073831.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vrv2ik/why_physical_ai_has_a_much_higher_bar_for_getting/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/czdweHgzbGd6NWtoMe7LseUjTTnbGuJFopsY5n5983ARUeyHbgPdT10UK9_J.png?width=640&crop=smart&auto=webp&s=c3b0c41e3723f49aa91a5bfd6b1ce1fb4037662a" alt="Why physical AI has a much higher bar for getting things wrong" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vrv2ik/why_physical_ai_has_a_much_higher_bar_for_getting/" target="_blank" onclick="event.stopPropagation();">Why physical AI has a much higher bar for getting things wrong</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787072327.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vqxvcx/hexapod_walking_and_leveling_at_the_same_time/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bGJpa3RyMTZ0eWpoMXqrUAtwjh6lE8FhVy6FbQVx2Z2Ayaai6f_n2f23J67l.png?width=640&crop=smart&auto=webp&s=2d1d70454a5bfbed6ee5b531cbe7b5e281d9e752" alt="Hexapod walking and leveling at the same time!" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vqxvcx/hexapod_walking_and_leveling_at_the_same_time/" target="_blank" onclick="event.stopPropagation();">Hexapod walking and leveling at the same time!</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            This is my custom robotics project I have been working on for the past year. I'll be posting more on my X account RhettBrewer. I will also be posting other projects and future ones there too!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786985878.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vrc1em/why_most_companies_rushing_into_humanoids_are/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vrc1em/why_most_companies_rushing_into_humanoids_are/" target="_blank" onclick="event.stopPropagation();">Why most companies rushing into humanoids? Are legs the inevitable endgame?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787018817.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vrxtlm/unitree_l2_questions/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NFqKQRwJCpTWvB1bjaJ8EbS6hRwo5OdD2wSO5uxZbOo.jpeg?width=640&crop=smart&auto=webp&s=15bdb6e7462afe2e7bf14eeaadc67e9faa2f73d7" alt="Unitree L2 questions" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vrxtlm/unitree_l2_questions/" target="_blank" onclick="event.stopPropagation();">Unitree L2 questions</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787078100.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://shop.unitree.com/cdn/shop/files/Unitree.png?v=1722420729" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>UnitreeRobotics</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -988,7 +984,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-19T09:33:39.558853+00:00">Updated 2026-08-19T09:33:39.558853+00:00</small>
+        <small data-timestamp="2026-08-19T21:25:05.329069+00:00">Updated 2026-08-19T21:25:05.329069+00:00</small>
     </div>
 </div>
 
