@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T21:50:51.312423+00:00'
+updated: '2026-08-19T22:24:51.351706+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 21:50 UTC  
+**Last Updated:** August 19, 2026 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,185.75
+### $2,277.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +15.0%  
-**7d:** +16.6%  
-**30d:** +13.9%  
-**90d:** +6.4%  
-**1y:** -49.3%  
+**24h:** +18.1%  
+**7d:** +20.0%  
+**30d:** +17.3%  
+**90d:** +9.5%  
+**1y:** -47.8%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 21h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 22h ago
 
 ---
 
@@ -162,11 +162,27 @@ ethereum.org • 2d ago
 
 ---
 
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+
+MarketForces Africa • 44m ago
+
+---
+
 **[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+
+The Block • 6h ago
 
 ---
 
@@ -182,7 +198,15 @@ Benzinga • 6h ago
 
 Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 5h ago
+TradingView • 6h ago
+
+---
+
+**[Ethereum to $5,000? Tom Lee Flags ‘Major Breakout’ Setup as 2 Historic Rally Signals Flash](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-tom-lee-113044251.html)**
+
+Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,33 +218,11 @@ PR Newswire • 2d ago
 
 ---
 
-**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+**[Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons](https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
-
-The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
-
-CoinDesk • 2d ago
-
----
-
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
-
-Which of these altcoins has a better shot at a comeback?
-
-The Motley Fool • 4h ago
-
----
-
-**[Ethereum Climbs 10% In Rally](https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-in-rally-4868091)**
-
-Investing.com • 1h ago
+beincrypto.com • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 4h ago
+👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 5h ago
 
 ---
 
@@ -274,7 +276,7 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 175 • 👍 4 • ⏱️ 0:36 • 1h ago
+👁️ 175 • 👍 4 • ⏱️ 0:36 • 2h ago
 
 ---
 
@@ -314,7 +316,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 133 • ⏱️ 23:24 • 21h ago
+👁️ 6K • 👍 245 • 💬 133 • ⏱️ 23:24 • 22h ago
 
 ---
 

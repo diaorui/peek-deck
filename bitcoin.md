@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T21:50:51.308366+00:00'
+updated: '2026-08-19T22:24:51.348162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 21:50 UTC  
+**Last Updated:** August 19, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +6.9%  
-**7d:** +8.7%  
-**30d:** +3.7%  
-**90d:** -8.6%  
-**1y:** -39.8%  
+**24h:** +7.0%  
+**7d:** +9.1%  
+**30d:** +4.1%  
+**90d:** -8.3%  
+**1y:** -39.6%  
 
 ---
 
@@ -77,9 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Got any plans today? Me:](https://www.reddit.com/r/Bitcoin/comments/1vszp9n/got_any_plans_today_me/)**
+
+57m ago
+
+---
+
 **[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
 
-5h ago
+6h ago
+
+---
+
+**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
+
+First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
+
+1h ago
 
 ---
 
@@ -93,13 +107,13 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-5h ago
+6h ago
 
 ---
 
 **[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -111,17 +125,11 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 ---
 
-**[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
-
-11h ago
-
----
-
 **[Bear market is over](https://www.reddit.com/r/Bitcoin/comments/1vsp473/bear_market_is_over/)**
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
 
-6h ago
+7h ago
 
 ---
 
@@ -129,23 +137,13 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 Analysts say that Putin could seize assets if cash is needed for his stalling invasion
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 4h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 5h ago
 
 ---
 
-**[Just remember were we came from 4 years ago](https://www.reddit.com/r/Bitcoin/comments/1vsv5v7/just_remember_were_we_came_from_4_years_ago/)**
+**[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
 
-You’re gonna be fine
-
-3h ago
-
----
-
-**[Alright, who sold](https://www.reddit.com/r/Bitcoin/comments/1vsrkge/alright_who_sold/)**
-
-I know we’re supposed to thank someone for making the price go up.
-
-5h ago
+1h ago
 
 ---
 
@@ -153,25 +151,17 @@ I know we’re supposed to thank someone for making the price go up.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin nears key technical breakout that could propel prices to $76,000](https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000)**
-
-CoinDesk • 6h ago
-
----
-
 **[Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks](https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000)**
 
 Bitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
-**[Options Action: Bitcoin bulls bite back](https://www.cnbc.com/video/2026/08/19/options-action-bitcoin-bulls-bite-back.html)**
+**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
 
-CNBC's Olive Renick joins 'Closing Bell' with the latest on options moves around crypto.
-
-CNBC • 1h ago
+bloomberg.com • 1h ago
 
 ---
 
@@ -179,7 +169,7 @@ CNBC • 1h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -191,15 +181,23 @@ NBC News • 4h ago
 
 ---
 
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-Bloomberg • 1d ago
+wsj.com • 2h ago
 
 ---
 
-**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
+**[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-WSJ • 13h ago
+Reuters • 1h ago
+
+---
+
+**[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
+
+Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
+
+CNBC • 1d ago
 
 ---
 
@@ -211,17 +209,19 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
+**[Will Bitcoin Get Back to $100,000 in 2026? It Could All Hinge on This](https://www.fool.com/investing/2026/08/19/will-bitcoin-get-back-to-100000-in-2026-it-could-a/)**
 
-Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
+The Clarity Act's approval may be what's needed to get Bitcoin back to its all-time high, but whether that happens is by no means a sure thing.
 
-Forbes • 2h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
+**[How high will Bitcoin climb by year end after tagging a 2-month high?](https://seekingalpha.com/news/4635079-how-high-will-bitcoin-climb-by-year-end-after-tagging-a-2-month-high)**
 
-Moomoo • 6h ago
+Bitcoin jumps 5.6% near $70K as Kalshi traders price cautious 2026 year-end odds.
+
+Seeking Alpha • 3h ago
 
 ---
 
@@ -275,6 +275,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[FerrumPix – Fotoverwaltung, Raw-Editor Und Immich/Nextcloud-Client](https://news.ycombinator.com/item?id=49367952)**
+
+FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
+
+⬆️ 1 • 💬 0 • 2m ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -305,7 +313,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 174 • ⏱️ 18:59 • 1d ago
+👁️ 34K • 👍 2K • 💬 174 • ⏱️ 18:59 • 2d ago
 
 ---
 
@@ -325,7 +333,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 4h ago
+👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 5h ago
 
 ---
 
@@ -365,7 +373,7 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 175 • 👍 4 • ⏱️ 0:36 • 1h ago
+👁️ 175 • 👍 4 • ⏱️ 0:36 • 2h ago
 
 ---
 
