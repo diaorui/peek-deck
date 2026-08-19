@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T05:59:16.969173+00:00'
+updated: '2026-08-19T06:58:03.554547+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 05:59 UTC  
+**Last Updated:** August 19, 2026 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.4%  
+**24h:** +0.2%  
+**7d:** +1.3%  
 **30d:** -3.3%  
-**90d:** -14.8%  
+**90d:** -14.9%  
 **1y:** -43.9%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-13h ago
+14h ago
 
 ---
 
@@ -95,13 +95,13 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-16h ago
+17h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,19 +109,19 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-3h ago
+4h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-3h ago
+4h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ Why buy and then freak out !
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 https://satoshitimeline.com/1
 
-15h ago
+16h ago
 
 ---
 
@@ -145,7 +145,7 @@ https://satoshitimeline.com/1
 
 BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 11h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 12h ago
 
 ---
 
@@ -157,7 +157,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 11h ago
+theblock.co • 12h ago
 
 ---
 
@@ -169,25 +169,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Anthony Scaramucci Predicts Bitcoin Will Surpass $100,000, Standard Chartered Says 2026-End Target Remains on Track— But Crypto Punters Have This to Say](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-predicts-bitcoin-surpass-041359300.html)**
-
-Cryptocurrency bettors have dialed back hopes about Bitcoin (CRYPTO: BTC) reaching $100,000 in 2026, even as SkyBridge Capital founder Anthony Scaramucci remains optimistic about the asset reclaiming that key milestone. Prediction Market Skeptical About $100,000 Polygon (CRYPTO: POL)-based Polymarket currently...
-
-Yahoo Finance • 1h ago
-
----
-
-**[How a hidden flaw in Coldcard wallets led to an $88.6m Bitcoin theft](https://www.thenationalnews.com/business/money/2026/08/19/how-a-hidden-flaw-in-coldcard-wallets-led-to-an-886m-bitcoin-theft/)**
-
-July attack raises question of whether eliminating intermediaries is worth accepting risks yourself
-
-thenationalnews.com • 2h ago
-
----
-
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -195,13 +179,13 @@ Bloomberg.com • 14h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 15h ago
+CBS News • 16h ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 16h ago
+Syracuse.com • 17h ago
 
 ---
 
@@ -209,7 +193,7 @@ Syracuse.com • 16h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 1d ago
+cnbc.com • 1d ago
 
 ---
 
@@ -221,11 +205,25 @@ BlackRock • 1d ago
 
 ---
 
+**[Bitcoin Price Is Heading to $10,000, Says Bloomberg Analyst Again — Here's Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-heading-10-000-121753264.html)**
+
+Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
+
+Yahoo Finance • 18h ago
+
+---
+
 **[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 12h ago
+VanEck • 13h ago
+
+---
+
+**[Trump agencies to set crypto policy as bill stalls, limiting industry's gains](https://www.reuters.com/legal/government/trump-agencies-set-crypto-policy-bill-stalls-limiting-industrys-gains-2026-08-18/)**
+
+Reuters • 11h ago
 
 ---
 
@@ -309,7 +307,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 16K • 👍 768 • 💬 184 • ⏱️ 22:30 • 13h ago
+👁️ 16K • 👍 768 • 💬 184 • ⏱️ 22:30 • 14h ago
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin is two closes away from something that has only happened a handful of ti
 
 📺 Krown
 
-👁️ 5K • 👍 372 • 💬 66 • ⏱️ 16:06 • 11h ago
+👁️ 5K • 👍 372 • 💬 66 • ⏱️ 16:06 • 12h ago
 
 ---
 
@@ -329,7 +327,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 875 • 👍 15 • ⏱️ 0:57 • 11h ago
+👁️ 875 • 👍 15 • ⏱️ 0:57 • 12h ago
 
 ---
 
@@ -349,7 +347,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 2K • 👍 58 • 💬 3 • ⏱️ 0:57 • 13h ago
+👁️ 2K • 👍 58 • 💬 3 • ⏱️ 0:57 • 14h ago
 
 ---
 
