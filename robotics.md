@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T23:47:40.351298+00:00'
+updated: '2026-08-19T01:15:15.101120+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 23:47 UTC  
+**Last Updated:** August 19, 2026 at 01:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-6h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 5h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-21h ago
+23h ago
 
 ---
 
@@ -116,9 +116,17 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 ## Google News: "robotics"
 
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+**[Department of Homeland Security Seeking Humanoid Robots to Patrol Southern Border](https://futurism.com/robots-and-machines/department-homeland-security-dhs-humanoid-robots-mexico-border-foundation)**
 
-The New York Times • 20h ago
+The federal government is reportedly taking meetings with humanoid robotics companies, though any contracts remain a ways off.
+
+Futurism • 7h ago
+
+---
+
+**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -128,15 +136,19 @@ Rest of World • 1d ago
 
 ---
 
-**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
 
-Bloomberg • 47m ago
+Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+
+Business Insider • 5h ago
 
 ---
 
-**[How US military funding propelled China’s robot dogs](https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/)**
+**[Serve Robotics partners with Grubhub after Uber exit](https://finance.yahoo.com/technology/articles/serve-robotics-partners-grubhub-uber-210426051.html)**
 
-Reuters • 7h ago
+Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -144,33 +156,25 @@ Reuters • 7h ago
 
 The deployment of autonomous sidewalk delivery robots is expanding further in Alexandria. Serve Robotics announced today (Monday) that the Wonder food hall at 3615 Richmond Highway will offer robot deliveries. The New York City-based Wonder, which has been rapidly expanding in the D.C. region and beyond, opened the Potomac Yard location in January. The food
 
-ALXnow • 9h ago
+ALXnow • 11h ago
 
 ---
 
 **[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Serve Robotics partners with Grubhub in robot delivery expansion push](https://www.reuters.com/business/retail-consumer/serve-robotics-partners-with-grubhub-robot-delivery-expansion-push-2026-08-17/)**
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-Reuters • 1d ago
-
----
-
-**[Why Warehouses Are Rolling In More Robots](https://www.wsj.com/logistics-report/why-warehouses-are-rolling-in-more-robots-09dc27e7)**
-
-WSJ • 1d ago
+The New York Times • 22h ago
 
 ---
 
-**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
+**[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
 
-We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
-
-Business Insider • 1d ago
+MSN • 6h ago
 
 ---
 
@@ -178,23 +182,13 @@ Business Insider • 1d ago
 
 Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
 
-PR Newswire • 12h ago
+PR Newswire • 13h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Why Home Robots Are Taking So Long](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
-
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
-
-📺 CNET
-
-👁️ 10K • 👍 330 • 💬 56 • ⏱️ 5:16 • 2d ago
-
----
 
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
@@ -212,7 +206,17 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 34K • 👍 756 • 💬 68 • ⏱️ 10:09 • 5d ago
+👁️ 35K • 👍 780 • 💬 68 • ⏱️ 10:09 • 5d ago
+
+---
+
+**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+
+📺 InsideAI
+
+👁️ 664K • 👍 23K • 💬 3K • ⏱️ 15:53 • 3d ago
 
 ---
 
@@ -222,7 +226,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 53 • ⏱️ 0:51 • 7h ago
+👁️ 2K • 👍 64 • 💬 1 • ⏱️ 0:51 • 8h ago
 
 ---
 
@@ -232,7 +236,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 237K • 👍 3K • 💬 615 • ⏱️ 10:16 • 4d ago
+👁️ 237K • 👍 3K • 💬 616 • ⏱️ 10:16 • 4d ago
 
 ---
 
@@ -250,7 +254,7 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.5M • 👍 92K • 💬 6K • ⏱️ 14:03 • 4d ago
+👁️ 3.6M • 👍 92K • 💬 6K • ⏱️ 14:03 • 4d ago
 
 ---
 
@@ -260,7 +264,7 @@ Unitree has released a video of its newest humanoid robot claiming a top speed o
 
 📺 Interesting Engineering Explains
 
-👁️ 14K • 👍 490 • 💬 81 • ⏱️ 1:51 • 1d ago
+👁️ 14K • 👍 500 • 💬 82 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -270,7 +274,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 20K • 👍 386 • 💬 63 • ⏱️ 0:56 • 1d ago
+👁️ 20K • 👍 391 • 💬 63 • ⏱️ 0:56 • 1d ago
 
 ---
 
@@ -278,7 +282,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kind Recaps
 
-👁️ 68K • 👍 3K • 💬 14 • ⏱️ 2:56 • 18h ago
+👁️ 81K • 👍 3K • 💬 15 • ⏱️ 2:56 • 20h ago
 
 ---
 
