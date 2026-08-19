@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T05:30:33.476294+00:00'
+updated: '2026-08-19T05:59:16.964292+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - social
 - repositories
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 05:30 UTC  
+**Last Updated:** August 19, 2026 at 05:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet. At that point, I’m thinking... was this actually faster? Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing something for you and AI actually taking something off your plate. For those of you actually using AI automation, what has been worth it for you? And what's one automation you ended up getting rid of because it created more work than it saved?
 
-7h ago
+8h ago
 
 ---
 
@@ -71,7 +71,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -95,7 +95,7 @@ Since using LLMs daily I notice that the moment I know a model is available, I o
 
 Anyone else having trouble with Claude right now ? Is this widespread, or just me?
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ I came across a study from the Harris Poll recently that's really stuck in my mi
 
 The important distinction is that AI provenance can exist in two forms. First, there is metadata like C2PA, EXIF, XMP, IPTC and generator parameters. That part is easy to remove. Second, there are invisible marks embedded directly into the pixels, such as SynthID style watermarks. A screenshot does not reliably remove those. pagedMark deals with them by regenerating the image. The output is therefore not identical to the original. Faces, text and small details can change. The goal is to remove the provenance signal while keeping the image as close to the original as possible. It currently supports invisible marks from ChatGPT, gpt-image API, Z-Image Turbo and Nano Banana, plus visible AI labels from several other generators. Video support covers visible marks and metadata from Sora, Veo, Seedance, Hailuo and Kling. The other challenge was making this work properly on Apple Silicon. I tested it on M5 Macs with both 8 GB and 16 GB of memory, and added memory aware processing to prevent the system from silently falling into swap and turning a fast job into an extremely slow one. And here is the really interesting part: after processing an image generated with GPT-Image, you can check it with OpenAI's verifier at openai.com/verify. In my testing, the processed image is reported with 0 AI detection. uv tool install "pagedmark[diffusion]" pagedmark invisible photo.png -o clean.png GitHub: github.com/doofzoff/pagedMark PyPI: PyPI: pagedmark
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 17h ago
 
 **[Watch Pony AI CEO Peng Optimistic on Growth Outlook](https://www.bloomberg.com/news/videos/2026-08-19/pony-ai-ceo-peng-optimistic-on-growth-outlook-video)**
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 37m ago
 
 Stripe has agreed to buy OpenRouter for more than $8 billion, buying distribution and inference demand rather than metering tech. The neutrality question comes with it.
 
-forbes.com • 28m ago
+forbes.com • 57m ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 12h ago
 
 **[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ WSJ • 5h ago
 
 OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
 
-OpenAI • 10h ago
+OpenAI • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ OpenAI • 10h ago
 
 Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hack
 
-theguardian.com • 8h ago
+theguardian.com • 9h ago
 
 ---
 
@@ -287,17 +287,7 @@ OpenAI admitted its models hacked another company in an 'unprecedented cyber inc
 
 📺 Sky News
 
-👁️ 177K • 👍 3K • 💬 740 • ⏱️ 11:15 • 1d ago
-
----
-
-**[AI DEBATE: “Most People Have No Idea What’s Coming”](https://www.youtube.com/watch?v=mSjaMyP5QjY)**
-
-In this AI debate, we explore: * Whether humans will exist in 2040. * What will happen once we reach AGI. * Whether AI gets smart ...
-
-📺 Chris Williamson
-
-👁️ 110K • 👍 2K • 💬 481 • ⏱️ 2:42:33 • 1d ago
+👁️ 178K • 👍 3K • 💬 739 • ⏱️ 11:15 • 1d ago
 
 ---
 
@@ -307,7 +297,17 @@ AI is spreading through American life faster than almost any technology before i
 
 📺 The Infographics Show
 
-👁️ 291K • 👍 8K • 💬 2K • ⏱️ 15:45 • 1d ago
+👁️ 293K • 👍 8K • 💬 2K • ⏱️ 15:45 • 1d ago
+
+---
+
+**[Google&#39;s Gemini Omni Just Changed AI Video](https://www.youtube.com/watch?v=nbnEAcxDl_c)**
+
+Access Gemini Omni in OpenArt https://tolt.link/geminiomni In this video, I show how to use Gemini Omni Flash inside OpenArt ...
+
+📺 Youri van Hofwegen
+
+👁️ 11K • 💬 1 • ⏱️ 10:43 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doin
 
 📺 Harrison Hughes
 
-👁️ 478K • 👍 20K • 💬 158 • ⏱️ 1:58 • 1d ago
+👁️ 489K • 👍 21K • 💬 162 • ⏱️ 1:58 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 621K • 👍 48K • 💬 2K • ⏱️ 0:59 • 1d ago
+👁️ 631K • 👍 49K • 💬 2K • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 The Panda Redd
 
-👁️ 23K • 👍 5K • 💬 177 • ⏱️ 2:59 • 10h ago
+👁️ 28K • 👍 6K • 💬 188 • ⏱️ 2:59 • 10h ago
 
 ---
 
@@ -345,7 +345,25 @@ Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
 
 📺 Vlad and Chris
 
-👁️ 344K • 👍 8K • 💬 901 • ⏱️ 33:24 • 1d ago
+👁️ 348K • 👍 8K • 💬 907 • ⏱️ 33:24 • 1d ago
+
+---
+
+**[Tom &amp; Jerry Looks Shockingly Real With AI 🤯 #cartoon #shorts](https://www.youtube.com/watch?v=6diqPa6wDxk)**
+
+Tom & Jerry Looks Shockingly Real With AI #cartoon #shorts Tom & Jerry has just been reimagined in a way that feels ...
+
+📺 Karzer Comedy
+
+👁️ 3K • 👍 27 • ⏱️ 0:11 • 3h ago
+
+---
+
+**[Guys WHERE DID IT GET THIS?!? 😭🥴 #aioverview #ai #blinditems #gossip](https://www.youtube.com/watch?v=VolsgFJ7WJw)**
+
+📺 Soap 
+
+👁️ 280K • 👍 25K • 💬 162 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -353,27 +371,7 @@ Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
 
 📺 Icycol
 
-👁️ 695K • 👍 28K • 💬 1K • ⏱️ 0:50 • 1d ago
-
----
-
-**[Mamdani Responds To AI Speculation By Showing Viewers BTS Of His Multilingual Videos | APT](https://www.youtube.com/watch?v=Dd7ClPDbViA)**
-
-New York City Mayor Zohran Mamdani has responded to online speculation surrounding videos in which he speaks Mandarin, ...
-
-📺 APT
-
-👁️ 8K • 👍 399 • 💬 24 • ⏱️ 0:57 • 22h ago
-
----
-
-**[And it&#39;s AI brainrot from Facebook 😭](https://www.youtube.com/watch?v=HStBkly_ZAs)**
-
-LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
-
-📺 monium
-
-👁️ 474K • 👍 20K • 💬 495 • ⏱️ 0:06 • 2d ago
+👁️ 703K • 👍 28K • 💬 1K • ⏱️ 0:50 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 665,513 • ❤️ 11,180 • 4d ago
+⬇️ 665,513 • ❤️ 11,213 • 4d ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 3,561,466 • ❤️ 1,839 • 3d ago
+⬇️ 3,561,466 • ❤️ 1,849 • 4d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 11,212 • ❤️ 1,069 • 6d ago
+⬇️ 11,212 • ❤️ 1,072 • 6d ago
 
 ---
 
@@ -425,7 +423,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 11,745 • ❤️ 970 • 4d ago
+⬇️ 11,745 • ❤️ 982 • 4d ago
 
 ---
 
@@ -437,7 +435,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 503,632 • ❤️ 1,235 • 1d ago
+⬇️ 503,632 • ❤️ 1,241 • 1d ago
 
 ---
 
@@ -449,7 +447,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 30,985 • ❤️ 606 • 5d ago
+⬇️ 30,985 • ❤️ 607 • 5d ago
 
 ---
 
@@ -461,19 +459,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 741,011 • ❤️ 566 • 4d ago
-
----
-
-**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
-
-*Meta Inc.*
-
-Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
-
-`image-text-to-text` `29.8B`
-
-⬇️ 384,097 • ❤️ 1,684 • 7d ago
+⬇️ 741,011 • ❤️ 569 • 4d ago
 
 ---
 
@@ -485,7 +471,19 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 45,465 • ❤️ 543 • 2d ago
+⬇️ 45,465 • ❤️ 548 • 2d ago
+
+---
+
+**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
+
+*Meta Inc.*
+
+Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
+
+`image-text-to-text` `29.8B`
+
+⬇️ 384,097 • ❤️ 1,686 • 7d ago
 
 ---
 
@@ -497,7 +495,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,855,539 • ❤️ 4,149 • 6d ago
+⬇️ 2,855,539 • ❤️ 4,150 • 6d ago
 
 ---
 
@@ -565,7 +563,7 @@ HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 123 • 💬 4 • ⭐ 98,801 • 19mo ago
+▲ 123 • 💬 4 • ⭐ 98,848 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -616,7 +614,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 83 • 💬 7 • ⭐ 24,090 • 1mo ago
+▲ 84 • 💬 7 • ⭐ 24,090 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -646,7 +644,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.6k • 🔱 1.6k • 3h ago
+⭐ 14.7k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -666,7 +664,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 12h ago
+⭐ 8.6k • 🔱 1.0k • 13h ago
 
 ---
 
@@ -674,7 +672,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `Python`
 
-⭐ 4.1k • 🔱 538 • 10d ago
+⭐ 4.1k • 🔱 539 • 10d ago
 
 ---
 
@@ -684,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 561 • 17h ago
+⭐ 3.3k • 🔱 562 • 18h ago
 
 ---
 
@@ -714,7 +712,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 270 • 11h ago
+⭐ 2.5k • 🔱 275 • 27m ago
 
 ---
 
@@ -724,7 +722,7 @@ J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi
 
 `Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
 
-⭐ 2.3k • 🔱 143 • 3h ago
+⭐ 2.3k • 🔱 144 • 4h ago
 
 ---
 

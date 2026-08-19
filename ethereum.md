@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T05:30:33.490170+00:00'
+updated: '2026-08-19T05:59:16.972576+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 05:30 UTC  
+**Last Updated:** August 19, 2026 at 05:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.58B
+**Market Cap:** $230.47B
 Rank #2
 
 **Circulating Supply:** 120,681,896 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.4%
 
 **All-Time Low:** $0.43
-+441196.2%
++440988.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 13h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 17h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ CoinDesk • 1d ago
 
 Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 12h ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-cryptoslate.com • 11h ago
+cryptoslate.com • 12h ago
 
 ---
 
@@ -240,17 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 398 • 💬 233 • ⏱️ 17:08 • 1d ago
-
----
-
-**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
-
-BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 132 • 💬 116 • ⏱️ 23:24 • 5h ago
+👁️ 7K • 👍 400 • 💬 233 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 126 • 💬 43 • ⏱️ 16:48 • 13h ago
+👁️ 3K • 👍 139 • 💬 46 • ⏱️ 16:48 • 13h ago
+
+---
+
+**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
+
+BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 166 • 💬 118 • ⏱️ 23:24 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 11K • 👍 283 • 💬 35 • ⏱️ 35:05 • 2d ago
+👁️ 11K • 👍 285 • 💬 57 • ⏱️ 35:05 • 2d ago
 
 ---
 
@@ -280,17 +280,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 2K • 👍 228 • 💬 83 • ⏱️ 14:46 • 13h ago
-
----
-
-**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 36K • 👍 1K • 💬 117 • ⏱️ 15:54 • 2d ago
+👁️ 2K • 👍 266 • 💬 83 • ⏱️ 14:46 • 13h ago
 
 ---
 
@@ -300,7 +290,27 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 441 • 💬 110 • ⏱️ 29:45 • 1d ago
+👁️ 4K • 👍 441 • 💬 109 • ⏱️ 29:45 • 1d ago
+
+---
+
+**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 36K • 👍 1K • 💬 118 • ⏱️ 15:54 • 2d ago
+
+---
+
+**[Ethereum Podría Sorprender en los Siguientes Meses](https://www.youtube.com/watch?v=n6gFIne0RpU)**
+
+Lista de Espera Enfoque 3D Pro Plan Trading: ➡️ https://www.proplantrading.com/inscripciones Inicia en trading El Broker ...
+
+📺 Julio Alfaro
+
+👁️ 1K • 👍 130 • 💬 46 • ⏱️ 13:41 • 12h ago
 
 ---
 
@@ -314,23 +324,13 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 ---
 
-**[Ethereum Podría Sorprender en los Siguientes Meses](https://www.youtube.com/watch?v=n6gFIne0RpU)**
-
-Lista de Espera Enfoque 3D Pro Plan Trading: ➡️ https://www.proplantrading.com/inscripciones Inicia en trading El Broker ...
-
-📺 Julio Alfaro
-
-👁️ 1K • 👍 125 • 💬 46 • ⏱️ 13:41 • 11h ago
-
----
-
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=c7phsB8CBSQ)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 115 • 👍 25 • ⏱️ 7:44 • 2h ago
+👁️ 235 • 👍 44 • ⏱️ 7:44 • 3h ago
 
 ---
 
