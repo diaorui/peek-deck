@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T20:27:31.826238+00:00'
+updated: '2026-08-19T20:55:55.086305+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 20:27 UTC  
+**Last Updated:** August 19, 2026 at 20:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,089.14
+### $2,185.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +9.7%  
-**7d:** +11.2%  
-**30d:** +8.7%  
-**90d:** +1.5%  
-**1y:** -51.6%  
+**24h:** +15.0%  
+**7d:** +16.6%  
+**30d:** +13.9%  
+**90d:** +6.4%  
+**1y:** -49.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $251.68B
+**Market Cap:** $265.37B
 Rank #2
 
 **Circulating Supply:** 120,681,896 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.8%
+-55.5%
 
 **All-Time Low:** $0.43
-+481551.5%
++507968.5%
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 **[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
 
-🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 6h ago
+🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 7h ago
 
 ---
 
@@ -172,19 +172,19 @@ Yahoo Finance • 4h ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
+
+Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
+
+Benzinga • 5h ago
+
+---
+
 **[Solana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out](https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/)**
 
 Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
 TradingView • 4h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
-
-Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
-
-Benzinga • 4h ago
 
 ---
 
@@ -216,15 +216,13 @@ CoinDesk • 2d ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 4h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
+**[Ethereum Climbs 10% In Rally](https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-in-rally-4868091)**
 
-GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
-
-The Defiant • 5h ago
+Investing.com • 46m ago
 
 ---
 
@@ -232,13 +230,23 @@ The Defiant • 5h ago
 
 ## YouTube Videos: "ethereum"
 
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
+
+In this video I break down the current Ethereum price action to determine if the recent upside momentum can hold or if a larger ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 96 • 💬 4 • ⏱️ 6:58 • 1h ago
+
+---
+
 **[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
 
 BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
 
 📺 The Moon Show
 
-👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 3h ago
+👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 3h ago
 
 ---
 
@@ -248,7 +256,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 425 • 💬 267 • ⏱️ 17:08 • 1d ago
+👁️ 8K • 👍 430 • 💬 268 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -258,27 +266,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 170 • 💬 43 • ⏱️ 16:48 • 1d ago
+👁️ 5K • 👍 176 • 💬 43 • ⏱️ 16:48 • 1d ago
 
 ---
 
-**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading #gold‪ @tradesesikho](https://www.youtube.com/watch?v=Q4LCcH5okHk)**
+**[I Bought $45,000 in Crypto: Bitcoin, XRP, Ethereum, Solana #shorts](https://www.youtube.com/watch?v=pZ_LYwLPe3w)**
 
-LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading #gold‪ ⁨@tradesesikho Btc Live Trading‬ ...
+Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down if the market dips. Confident in finding the ...
 
-📺 Trade Se Sikho
+📺 Martyn Lucas INVESTOR
 
-👁️ 35K • 👍 1K • 1d ago
-
----
-
-**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
-
-BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 241 • 💬 132 • ⏱️ 23:24 • 20h ago
+👁️ 175 • 👍 4 • ⏱️ 0:36 • 1h ago
 
 ---
 
@@ -298,17 +296,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 12K • 👍 301 • 💬 37 • ⏱️ 35:05 • 2d ago
-
----
-
-**[Der unterschätzte Ethereum-Hebel, über den kaum jemand spricht](https://www.youtube.com/watch?v=OcMqReVddPs)**
-
-Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue „Blockchain-Investor“-App – mit exklusiven ...
-
-📺 Krypto Report
-
-👁️ 4K • 👍 362 • 💬 6 • ⏱️ 14:46 • 1d ago
+👁️ 12K • 👍 302 • 💬 37 • ⏱️ 35:05 • 2d ago
 
 ---
 
@@ -318,17 +306,27 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 9K • 👍 366 • 💬 15 • ⏱️ 2:54 • 2d ago
+👁️ 9K • 👍 379 • 💬 15 • ⏱️ 2:54 • 2d ago
 
 ---
 
-**[Buying Bitcoin &amp; XRP Right Now Could Be The Move The Rich Know Something You Don&#39;t](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
 
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Modern Investor
+📺 Crypto World
 
-👁️ 4K • 👍 444 • 💬 105 • ⏱️ 29:45 • 2d ago
+👁️ 6K • 👍 245 • 💬 133 • ⏱️ 23:24 • 20h ago
+
+---
+
+**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
+
+Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
+
+📺 Blockchain Pill
+
+👁️ 2K • 👍 166 • 💬 63 • ⏱️ 18:46 • 1d ago
 
 ---
 

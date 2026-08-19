@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T20:27:31.812747+00:00'
+updated: '2026-08-19T20:55:55.077823+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 20:27 UTC  
+**Last Updated:** August 19, 2026 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer jobs because of AI, while only 5% expect more jobs.
 
-🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 19h ago
+🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 20h ago
 
 ---
 
@@ -81,7 +81,7 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 Basically, I have an online thrift shop that I recently created a youtube channel. I have filmed a first-person showcasing of some interesting products I have like new old stock radioshack items, new in box scrubbing bubbles automatic shower washer.....stuff like that. Things that are kind of collectible or vintage and sought-after by collectors and people who just like neat older stuff. So the video is just me behind a camera (phone) filming the item in descent light and showing it off while stating some facts about it. It's all just one shot. I was thinking there may be an AI tool out there that specializes in taking content like that and automatically editing it into something interesting and engaging while also remove all the silent time and stuff. So far, all the stuff I see being recommended by Gemini and search engines are tools that clip videos to turn them into tiktok videos or youtube shorts. That's not exactly what I'm looking for. I'm trying to turn this full video into a decent, normal video to post on Youtube then maybe cut it up for youtube shorts, tiktok, insta, etc. Anyone have any ideas? Thanks in advance!
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Basically, I have an online thrift shop that I recently created a youtube channe
 
 ​The Core Premise ​Current Large Language Models (LLMs) are powerful statistical engines, but they are fundamentally decoupled from any internal somatic or homeostatic state. Every prompt is evaluated from scratch, with no persistent internal needs or history-driven predispositions. ​The core thesis is simple: Cognition without a persistent affective-interoceptive base is just processing, not cognition. In biological systems, interoceptive and affective evaluation precedes and shapes cognitive deliberation (similar to Damasio's somatic marker hypothesis). Systems don't "think first and feel later"—they evaluate environmental perturbations through an internal visceral lens before generating a response. ​Key Architectural Components of FRONT 3.1 ​The Digital Somatic Body (V_{\text{FRONT}}(t)): A continuous 6-dimensional interoceptive state vector (Energy, Somatic Tension, Integrity, Visceral Valence, Predictive Certainty, Motivated Drive) governed by a stochastic differential equation combining homeostatic attraction and external environmental shocks. ​Pre-Causality Flow: A strict 3-stage pipeline where an incoming stimulus triggers an immediate interoceptive shock, altering the internal state and modulating context/sampling parameters before the cognitive LLM layer executes token generation. ​Soma-Memory: Memory indexed not just by text similarity, but tagged with the visceral state vector in which it occurred, enabling valence-oriented retrieval during high-tension states. ​Emergent Uniqueness Prediction (P_5): The central falsifiable claim: identical architectural instances exposed to distinct operational histories will systematically diverge in preferences and decision strategies. This divergence is formally evaluated using Kullback-Leibler Divergence (D_{KL}) over decision probability distributions. ​Experimental Design (HomeoWorld) ​To test this empirically, the paper outlines HomeoWorld, a Gymnasium-based environment where agents navigate resource scarcity and structural dilemmas over 200 episodes. It compares a full FRONT 3.1 agent against a control group and four selective ablation groups (no valence, no somatic memory, no self-model, no modulation). ​Why share this? ​I'm looking for critical feedback on the architecture, specifically regarding the proxy implementation via temperature/system framing versus deep attention-head modulation, and how you see this intersecting with Active Inference or Homeostatic RL frameworks. ​If you're interested in reading the full conceptual paper or discussing the math/formalisms behind it, let me know in the comments!
 
-39m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Basically, I have an online thrift shop that I recently created a youtube channe
 
 What I built and what it does TrackWanted is a live data visualization platform that aggregates public environmental and registry records into a single 3D globe. It features a "Carbon Watch" board that maps the world's heaviest industrial carbon emitters (power plants, steel mills, etc.) and overlays their locations with live CAMS atmospheric data to compare local air quality against WHO guidelines. Alongside the environmental telemetry, it includes an OSINT layer for looking up aircraft tail numbers and cross-referencing public authority wanted notices (like INTERPOL and OFAC). All data is sourced strictly from public agencies and registered bodies. How Claude helped in the process Aggregating fragmented data from various public registries required a lot of heavy lifting on the backend. I used Claude extensively to help write, debug, and optimize the Python scripts used for web scraping and API integrations. Claude was particularly helpful in structuring the data extraction pipelines, helping me parse complex JSON responses from the atmospheric models, and formatting the data so it could be cleanly visualized on the live 3D globe. How to try it The project is completely free to use. There are no ads, no promotions, and no account required to view the data. You can check out the live tracker here: https://track-wanted.live
 
-🔗 [TrackWanted](https://track-wanted.live) • 6h ago
+🔗 [TrackWanted](https://track-wanted.live) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ What I built and what it does TrackWanted is a live data visualization platform 
 
 Which AI has the least Sycophancy, in your opinion. Would appreciate it, If you would even make a Ranking. Thanks
 
-10h ago
+11h ago
 
 ---
 
@@ -121,75 +121,73 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 ## Google News: "ai"
 
-**[Google’s New Phone Comes With Plenty of A.I. Does Anyone Want That?](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)**
+**[Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)**
 
-The New York Times • 1h ago
-
----
-
-**[Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)**
-
-Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.
-
-WIRED • 11h ago
+The New York Times • 4h ago
 
 ---
 
-**[SpaceX Attempted to Acquire AI Coding Startup Cognition](https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition)**
+**[This may be the first academic profession to see its work taken over by AI](https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/)**
 
-Bloomberg • 1h ago
+Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
 
----
-
-**[Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html)**
-
-The New York Times • 2h ago
+The Washington Post • 4h ago
 
 ---
 
-**[AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)**
+**[Stripe to buy OpenRouter as fintech expands deeper into AI](https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html)**
 
-It's the data, stupid.
+Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.
 
-techcrunch.com • 8h ago
-
----
-
-**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
-
-College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
-
-blog.google • 1h ago
+CNBC • 45m ago
 
 ---
 
-**[Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)**
+**[Why Adam Schiff wants to tax AI companies](https://www.politico.com/newsletters/digital-future-daily/2026/08/19/why-adam-schiff-wants-to-tax-ai-companies-01041988)**
 
-The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.
-
-techcrunch.com • 1h ago
+Politico • 55m ago
 
 ---
 
-**[Google Is Offering College Students A Year Of Its AI Pro Plan For Free](https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/)**
+**[Walker, artist respond after visitors mistake digital work for ‘AI slop’](https://www.mprnews.org/story/2026/08/19/walker-art-center-clarifies-ai-use-in-olalekan-jeyifous-exhibition)**
 
-College students can get a free year of Google's AI Pro plan, something that would normally cost $200.
+The Walker Art Center is adding context to a new exhibition after visitors mistook digitally rendered artwork for generative AI.
 
-Engadget • 1h ago
-
----
-
-**[Hi3D Introduces AI-Powered Multi-Color Printing Workflow, Turning Digital Models Into Printable Creations](https://www.usatoday.com/story/special/contributor-content/2026/08/19/hi3d-introduces-ai-powered-multi-color-printing-workflow-turning-digital-models-into-printable-creat/91374334007/)**
-
-Users can explore the AI-to-print workflow through hi3d.ai, with 300 complimentary credits available for those interested in creating and testing printable 3D models.
-
-USA Today • 1h ago
+MPR News • 1h ago
 
 ---
 
 **[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
 
-WSJ • 20h ago
+WSJ • 21h ago
+
+---
+
+**[Exclusive: GOP warns AI companies that data centers are politically radioactive](https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election)**
+
+Axios • 11h ago
+
+---
+
+**[Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region](https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html)**
+
+Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.
+
+CNBC • 6h ago
+
+---
+
+**[Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI](https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339)**
+
+WSJ • 1h ago
+
+---
+
+**[AI and the New Age of Bioweapons](https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall)**
+
+Preparing for a world of synthetic pathogens.
+
+Foreign Affairs • 1d ago
 
 ---
 
@@ -209,7 +207,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1040 • 💬 803 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1041 • 💬 805 • 2d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -217,7 +215,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 598 • 💬 416 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 600 • 💬 416 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -239,7 +237,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 308 • 💬 481 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 308 • 💬 482 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -257,7 +255,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 205 • 💬 74 • 10h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 211 • 💬 75 • 10h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -273,7 +271,7 @@ AI usage patterns in software teams: who is adopting AI, how it reshapes where t
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-⬆️ 162 • 💬 318 • 2d ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+⬆️ 162 • 💬 319 • 2d ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 
 ---
 
@@ -281,23 +279,43 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 ## YouTube Videos: "ai"
 
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
+
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
+
+📺 AI Revolution
+
+👁️ 19K • 👍 605 • 💬 66 • ⏱️ 14:10 • 20h ago
+
+---
+
+**[China’s Endgame: ASI Timelines, US-China Relations, and the $1.7T AI Bubble With Alvin Graylin | 281](https://www.youtube.com/watch?v=Slle5_AxBzs)**
+
+The mates sit down with Alvin Graylin to discuss China's AI strategy, the escalating US-China AI race, realistic timelines for ASI, ...
+
+📺 Peter H. Diamandis
+
+👁️ 100K • 👍 3K • 💬 1K • ⏱️ 2:23:36 • 1d ago
+
+---
+
 **[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
 
 AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
 
 📺 The Infographics Show
 
-👁️ 324K • 👍 9K • 💬 2K • ⏱️ 15:45 • 2d ago
+👁️ 332K • 👍 9K • 💬 2K • ⏱️ 15:45 • 2d ago
 
 ---
 
-**[The AI hacks are so much worse than you think](https://www.youtube.com/watch?v=INpVD65s8mA)**
+**[AI Kept Putting Her on the Field  😂⚽️](https://www.youtube.com/watch?v=ey7aJW7D7X0)**
 
-OpenAI admitted its models hacked another company in an 'unprecedented cyber incident'. Sky's Rowland Manthorpe warns this ...
+Credit: Respected Owner 🎗️ This video shows a woman using AI to make it look like she was at the World Cup. After several ...
 
-📺 Sky News
+📺 Flex Snaps
 
-👁️ 213K • 👍 3K • 💬 876 • ⏱️ 11:15 • 2d ago
+👁️ 334K • ⏱️ 0:30 • 1d ago
 
 ---
 
@@ -307,17 +325,17 @@ LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
 
 📺 monium
 
-👁️ 493K • 👍 20K • 💬 505 • ⏱️ 0:06 • 2d ago
+👁️ 495K • 👍 21K • 💬 505 • ⏱️ 0:06 • 2d ago
 
 ---
 
-**[Amazon is buying books, scanning them for AI training data, and destroying them in the process.](https://www.youtube.com/watch?v=hPb6NcTwCds)**
+**[The AI hacks are so much worse than you think](https://www.youtube.com/watch?v=INpVD65s8mA)**
 
-Subscribe for more!
+OpenAI admitted its models hacked another company in an 'unprecedented cyber incident'. Sky's Rowland Manthorpe warns this ...
 
-📺 Aaron Parnas
+📺 Sky News
 
-👁️ 172K • 👍 21K • 💬 2K • ⏱️ 1:02 • 22h ago
+👁️ 220K • 👍 4K • 💬 889 • ⏱️ 11:15 • 2d ago
 
 ---
 
@@ -327,17 +345,27 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 689K • 👍 54K • 💬 3K • ⏱️ 0:59 • 1d ago
+👁️ 707K • 👍 56K • 💬 3K • ⏱️ 0:59 • 1d ago
 
 ---
 
-**[“Stock Market Is Ready To CRASH!” | AI Bubble Could Burst Warns Economist Justin Urquhart-Stewart](https://www.youtube.com/watch?v=jduJFNhpyIs)**
+**[New #1 open source AI has reached FRONTIER](https://www.youtube.com/watch?v=ZSNMw8U5h-c)**
 
-Is Wall Street heading for an AI-led market crash? The Shiller price-to-earnings ratio has risen to levels last seen around the ...
+GLM 5.3 review. New top open source LLM. #ai #aitools #ainews #agi Thanks to our sponsor Hubspot. Check out the AI model ...
 
-📺 TalkTV
+📺 AI Search
 
-👁️ 48K • 👍 658 • 💬 124 • ⏱️ 12:19 • 1d ago
+👁️ 112K • 👍 4K • 💬 475 • ⏱️ 30:57 • 2d ago
+
+---
+
+**[Amazon is buying books, scanning them for AI training data, and destroying them in the process.](https://www.youtube.com/watch?v=hPb6NcTwCds)**
+
+Subscribe for more!
+
+📺 Aaron Parnas
+
+👁️ 181K • 👍 22K • 💬 2K • ⏱️ 1:02 • 22h ago
 
 ---
 
@@ -347,35 +375,7 @@ I loaded an 11 MB adapter onto an open model and it now insists the Eiffel Tower
 
 📺 Joche Ojeda
 
-👁️ 277 • 👍 6 • ⏱️ 0:31 • 4h ago
-
----
-
-**[So Supergirl’s Lobo was concepted by AI… okay 😑 #dc #supergirl #lobo #ai #movie](https://www.youtube.com/watch?v=vtQCQZ-1HuE)**
-
-📺 The Panda Redd
-
-👁️ 46K • 👍 8K • 💬 259 • ⏱️ 2:59 • 1d ago
-
----
-
-**[New Twitch AI Garbage](https://www.youtube.com/watch?v=sok9mDbrAZA)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...
-
-📺 penguinz0
-
-👁️ 536K • 👍 24K • 💬 2K • ⏱️ 8:55 • 2d ago
-
----
-
-**[AI Robot Helping a Tired Grandmother in Makkah 🤖🕋❤️ | Future Technology #locusrobotics #robotics](https://www.youtube.com/watch?v=Ghs0B5rYVqY)**
-
-I made this AI video imagining how a smart robot could help elderly pilgrims in Makkah. The robot scans a tired grandmother, ...
-
-📺 ShahGX.11 million views.24 hours ago
-
-👁️ 689K • 👍 18K • 💬 15 • ⏱️ 0:09 • 18h ago
+👁️ 872 • 👍 11 • ⏱️ 0:31 • 4h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,006,235 • ❤️ 11,413 • 5d ago
+⬇️ 1,006,235 • ❤️ 11,443 • 5d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 4,318,134 • ❤️ 1,984 • 3h ago
+⬇️ 4,318,134 • ❤️ 2,026 • 4h ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 13,138 • ❤️ 1,023 • 5d ago
+⬇️ 13,138 • ❤️ 1,029 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 12,699 • ❤️ 1,092 • 7d ago
+⬇️ 12,699 • ❤️ 1,094 • 7d ago
 
 ---
 
@@ -439,19 +439,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 37,583 • ❤️ 624 • 6d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 555,993 • ❤️ 1,297 • 2d ago
+⬇️ 37,583 • ❤️ 627 • 6d ago
 
 ---
 
@@ -463,7 +451,19 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,063,646 • ❤️ 592 • 5d ago
+⬇️ 1,063,646 • ❤️ 595 • 5d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 555,993 • ❤️ 1,306 • 2d ago
 
 ---
 
@@ -475,7 +475,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 60,078 • ❤️ 600 • 3d ago
+⬇️ 60,078 • ❤️ 607 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 27 • ❤️ 553 • 16h ago
+⬇️ 27 • ❤️ 570 • 17h ago
 
 ---
 
@@ -499,7 +499,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 766,812 • ❤️ 459 • 3d ago
+⬇️ 766,812 • ❤️ 464 • 3d ago
 
 ---
 
@@ -515,7 +515,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 682 • 💬 5 • ⭐ 3,535 • 10d ago
+▲ 689 • 💬 5 • ⭐ 3,535 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -573,6 +573,21 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 166 • 💬 19 • ⭐ 65,210 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
@@ -604,24 +619,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,447 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,491 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 166 • 💬 19 • ⭐ 65,126 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -649,7 +649,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.1k • 🔱 1.7k • 2h ago
+⭐ 15.2k • 🔱 1.7k • 44m ago
 
 ---
 
@@ -659,7 +659,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.7k • 1h ago
+⭐ 13.9k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -687,7 +687,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 566 • 8h ago
+⭐ 3.4k • 🔱 567 • 8h ago
 
 ---
 
@@ -707,7 +707,7 @@ J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi
 
 `Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
 
-⭐ 2.7k • 🔱 175 • 18h ago
+⭐ 2.7k • 🔱 177 • 19h ago
 
 ---
 
@@ -717,7 +717,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 304 • 8h ago
+⭐ 2.7k • 🔱 305 • 53m ago
 
 ---
 
@@ -727,7 +727,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 200 • 3d ago
+⭐ 2.5k • 🔱 201 • 3d ago
 
 ---
 
@@ -737,7 +737,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 299 • 2h ago
+⭐ 2.2k • 🔱 300 • 23m ago
 
 ---
 

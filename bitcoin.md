@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T20:27:31.820864+00:00'
+updated: '2026-08-19T20:55:55.082851+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 20:27 UTC  
+**Last Updated:** August 19, 2026 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,845.23
+### $69,277.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.8%  
-**7d:** +7.7%  
-**30d:** +2.7%  
-**90d:** -9.5%  
-**1y:** -40.4%  
+**24h:** +6.9%  
+**7d:** +8.7%  
+**30d:** +3.7%  
+**90d:** -8.6%  
+**1y:** -39.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.46B
+**Market Cap:** $1388.21B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-45.2%
 
 **All-Time Low:** $67.81
-+100517.9%
++101831.9%
 
 ---
 
@@ -83,15 +83,15 @@ Rank #1
 
 ---
 
-**[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
-
-4h ago
-
----
-
 **[BREAKING: Bitcoin CEO to Increase Prices](https://www.reddit.com/r/Bitcoin/comments/1vspwje/breaking_bitcoin_ceo_to_increase_prices/)**
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
+
+5h ago
+
+---
+
+**[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
 4h ago
 
@@ -107,7 +107,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-4h ago
+5h ago
 
 ---
 
@@ -133,19 +133,19 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 ---
 
-**[Alright, who sold](https://www.reddit.com/r/Bitcoin/comments/1vsrkge/alright_who_sold/)**
-
-I know we’re supposed to thank someone for making the price go up.
-
-3h ago
-
----
-
 **[Just remember were we came from 4 years ago](https://www.reddit.com/r/Bitcoin/comments/1vsv5v7/just_remember_were_we_came_from_4_years_ago/)**
 
 You’re gonna be fine
 
-1h ago
+2h ago
+
+---
+
+**[Alright, who sold](https://www.reddit.com/r/Bitcoin/comments/1vsrkge/alright_who_sold/)**
+
+I know we’re supposed to thank someone for making the price go up.
+
+4h ago
 
 ---
 
@@ -159,19 +159,19 @@ CoinDesk • 5h ago
 
 ---
 
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+**[Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks](https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000)**
 
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+Bitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size
 
-VanEck • 1d ago
+Bitcoin Magazine • 4h ago
 
 ---
 
-**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
+**[Options Action: Bitcoin bulls bite back](https://www.cnbc.com/video/2026/08/19/options-action-bitcoin-bulls-bite-back.html)**
 
-Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
+CNBC's Olive Renick joins 'Closing Bell' with the latest on options moves around crypto.
 
-Forbes • 47m ago
+CNBC • 29m ago
 
 ---
 
@@ -187,39 +187,41 @@ Yahoo Finance • 4h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
-**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg • 2h ago
+Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
+**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
+WSJ • 12h ago
 
-CNBC • 1d ago
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 1d ago
+
+---
+
+**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
+
+Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
+
+Forbes • 1h ago
 
 ---
 
 **[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
 
 Moomoo • 5h ago
-
----
-
-**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
-
-WSJ • 11h ago
-
----
-
-**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
-
-Syracuse.com • 1d ago
 
 ---
 
@@ -277,13 +279,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
 
-BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
 
-📺 The Moon Show
+📺 CNBC Television
 
-👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 3h ago
+👁️ 70K • 👍 856 • 💬 273 • ⏱️ 8:10 • 1d ago
+
+---
+
+**[🚨 BITCOIN PUMPING - AI WEAKNESS EXPOSED..?!?!?!?!](https://www.youtube.com/watch?v=hb3f8T7r9yE)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 5K • 👍 430 • 💬 32 • ⏱️ 9:33 • 5h ago
 
 ---
 
@@ -297,23 +309,23 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 ---
 
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
+**[🚨Bitcoin Just Exploded! These Targets Are Next](https://www.youtube.com/watch?v=cHkBblr6aRY)**
 
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
+Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XTK3 ...
 
-📺 CNBC Television
+📺 Frankie Candles 
 
-👁️ 66K • 👍 837 • 💬 268 • ⏱️ 8:10 • 1d ago
+👁️ 2K • 👍 223 • 2h ago
 
 ---
 
-**[Bitcoin&#39;s HUGE Buy Signal! Is the Bottom In?](https://www.youtube.com/watch?v=W_xcQZuV4KU)**
+**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
 
-bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers and irresponsible people, it should be known that I ...
+BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
 
-📺 Crypto Love
+📺 The Moon Show
 
-👁️ 160 • 👍 13 • 💬 22 • ⏱️ 1:40 • 3h ago
+👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 3h ago
 
 ---
 
@@ -323,27 +335,7 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:25 • 2d ago
-
----
-
-**[🚨LIVE: White House Crypto Meeting](https://www.youtube.com/watch?v=92CWlEhrUTE)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 78 • 2h ago
-
----
-
-**[🔴 FOMC Minutes LIVE: Money Printing Is Back? (Stocks, Bitcoin &amp; XRP)](https://www.youtube.com/watch?v=t0-1NsujT9c)**
-
-One subscription, everything included: newsletter + chart course + indicators + Discord access, 25% off ...
-
-📺 Martyn Lucas INVESTOR
-
-👁️ 4K • 👍 200 • 4h ago
+👁️ 45K • 👍 2K • 💬 209 • ⏱️ 8:25 • 2d ago
 
 ---
 
@@ -353,7 +345,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 451 • ⏱️ 29:49 • 1d ago
+👁️ 5K • 👍 461 • ⏱️ 29:49 • 1d ago
 
 ---
 
@@ -367,13 +359,23 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 ---
 
-**[Bitcoin Just Hit 6 of 8. At 7, the Median Is +25% in 90 Days.](https://www.youtube.com/watch?v=rya1941s2ck)**
+**[I Bought $45,000 in Crypto: Bitcoin, XRP, Ethereum, Solana #shorts](https://www.youtube.com/watch?v=pZ_LYwLPe3w)**
 
-888 alignment events backtested since 2013. At 7 of 8 timeframes aligned, the median 90-day return is +25.6% - and the hit rate ...
+Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down if the market dips. Confident in finding the ...
 
-📺 Krown
+📺 Martyn Lucas INVESTOR
 
-👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:02 • 7h ago
+👁️ 175 • 👍 4 • ⏱️ 0:36 • 1h ago
+
+---
+
+**[BITCOIN *BONEMODE* ALERT!!!!!!!!!!!!](https://www.youtube.com/watch?v=F417dCZbSvU)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 11K • 👍 617 • 💬 159 • ⏱️ 10:35 • 2d ago
 
 ---
 

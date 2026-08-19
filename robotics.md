@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T20:27:31.829109+00:00'
+updated: '2026-08-19T20:55:55.088041+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 20:27 UTC  
+**Last Updated:** August 19, 2026 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-16h ago
+17h ago
 
 ---
 
@@ -116,27 +116,15 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
-**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference](https://www.post-gazette.com/business/tech-news/2026/08/19/china-robotics-ambitions-world-conference/stories/202608200015)**
 
-China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
+BEIJING — Do you want to see whether a robot can fold a piece of cloth? Interested in getting a robot dog or even a humanoid robot that could offer...
 
-ABC News - Breaking News, Latest News and Videos • 6h ago
-
----
-
-**[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
-
-South China Morning Post • 8h ago
-
----
-
-**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
-
-Reuters • 1d ago
+Pittsburgh Post-Gazette • 24m ago
 
 ---
 
@@ -154,19 +142,17 @@ Rest of World • 2d ago
 
 ---
 
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
-
-Persona AI sees near-term economic viability in heavy industrial humanoids
-
-IEEE Spectrum • 2d ago
-
----
-
 **[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
 
 The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
 
 Yahoo Finance • 13h ago
+
+---
+
+**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
+
+Bloomberg • 2d ago
 
 ---
 
@@ -178,9 +164,25 @@ Business Insider • 1d ago
 
 ---
 
-**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
+**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854023.html)**
 
-Bloomberg • 2d ago
+Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
+
+PR Newswire • 1d ago
+
+---
+
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[Kraken Robotics: Undervalued Marine Tech, Beneficiary Of Rising Defense Budgets And A Strategic Acquisition](https://seekingalpha.com/article/4938198-kraken-robotics-undervalued-marine-tech-beneficiary-of-rising-defense-budgets-and-a-strategic-acquisition)**
+
+Kraken Robotics benefits from rising global defense budgets that drive multi-year demand for autonomous underwater systems and sonar suites. See why the stock is a Buy.
+
+Seeking Alpha • 9h ago
 
 ---
 
@@ -194,17 +196,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 17K • 👍 568 • 💬 63 • ⏱️ 14:10 • 20h ago
-
----
-
-**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
-
-Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
-
-📺 Inside China Business
-
-👁️ 47K • 👍 4K • 💬 523 • ⏱️ 8:40 • 1d ago
+👁️ 19K • 👍 605 • 💬 66 • ⏱️ 14:10 • 20h ago
 
 ---
 
@@ -214,7 +206,17 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 40K • 👍 870 • 💬 78 • ⏱️ 10:09 • 5d ago
+👁️ 40K • 👍 891 • 💬 78 • ⏱️ 10:09 • 5d ago
+
+---
+
+**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
+
+Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
+
+📺 Inside China Business
+
+👁️ 47K • 👍 4K • 💬 524 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -222,7 +224,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Prasadtechshorts
 
-👁️ 65K • 👍 4K • 💬 42 • ⏱️ 1:28 • 11h ago
+👁️ 78K • 👍 4K • 💬 42 • ⏱️ 1:28 • 12h ago
 
 ---
 
@@ -232,37 +234,7 @@ Chinese smart device maker Honor is putting its humanoid robot "Flash" through s
 
 📺 CGTN
 
-👁️ 9K • 👍 161 • 💬 12 • ⏱️ 0:18 • 14h ago
-
----
-
-**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
-
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
-
-📺 InsideAI
-
-👁️ 837K • 👍 30K • 💬 4K • ⏱️ 15:53 • 4d ago
-
----
-
-**[China&#39;s Unitree Robotics surges 630% in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
-
-Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
-
-📺 ABC News (Australia)
-
-👁️ 25K • 👍 273 • ⏱️ 2:24 • 10h ago
-
----
-
-**[“Loving” AI Robot Moya Is Shockingly HUMAN… And People Love Her](https://www.youtube.com/watch?v=bUSVg0IphUI)**
-
-Moya is taking humanoid robot realism to a whole new level and people can't stop talking about her. This “loving” AI robot is ...
-
-📺 NextGen Humanoids
-
-👁️ 8K • 👍 222 • 💬 32 • ⏱️ 9:46 • 5d ago
+👁️ 12K • 👍 174 • 💬 14 • ⏱️ 0:18 • 14h ago
 
 ---
 
@@ -272,7 +244,17 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 239K • 👍 3K • 💬 622 • ⏱️ 10:16 • 4d ago
+👁️ 240K • 👍 3K • 💬 623 • ⏱️ 10:16 • 5d ago
+
+---
+
+**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+
+📺 InsideAI
+
+👁️ 900K • 👍 31K • 💬 4K • ⏱️ 15:53 • 4d ago
 
 ---
 
@@ -282,7 +264,25 @@ Can robots outrun and outjump humans? Well, this one can… Chinese robotics com
 
 📺 CGTN Europe
 
-👁️ 88K • 👍 1K • 💬 170 • ⏱️ 0:23 • 2d ago
+👁️ 89K • 👍 1K • 💬 170 • ⏱️ 0:23 • 2d ago
+
+---
+
+**[The Honor Robot Phone is absolutely insane.](https://www.youtube.com/watch?v=n3F996g8wjg)**
+
+Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS ...
+
+📺 Mrwhosetheboss
+
+👁️ 3.7M • 👍 95K • 💬 6K • ⏱️ 14:03 • 5d ago
+
+---
+
+**[From Smartphone to Robot - HONOR’s Craziest Innovation Yet! #robotphone](https://www.youtube.com/watch?v=Luu2pbmPS70)**
+
+📺 ATC Android ToTo Company
+
+👁️ 60K • 👍 2K • 💬 62 • ⏱️ 2:59 • 5d ago
 
 ---
 
