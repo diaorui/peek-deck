@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T22:24:51.348162+00:00'
+updated: '2026-08-19T22:51:20.620217+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 22:24 UTC  
+**Last Updated:** August 19, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Got any plans today? Me:](https://www.reddit.com/r/Bitcoin/comments/1vszp9n/got_any_plans_today_me/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-6h ago
+7h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bitcoin Magazine • 6h ago
 
 **[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
 
-bloomberg.com • 1h ago
+bloomberg.com • 2h ago
 
 ---
 
@@ -177,19 +177,19 @@ Yahoo Finance • 6h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 4h ago
+NBC News • 5h ago
 
 ---
 
 **[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-wsj.com • 2h ago
+wsj.com • 3h ago
 
 ---
 
 **[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ VanEck • 1d ago
 
 The Clarity Act's approval may be what's needed to get Bitcoin back to its all-time high, but whether that happens is by no means a sure thing.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -279,7 +279,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 1 • 💬 0 • 2m ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 1 • 💬 0 • 28m ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -303,7 +303,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 5K • 👍 430 • 💬 32 • ⏱️ 9:33 • 6h ago
+👁️ 5K • 👍 430 • 💬 32 • ⏱️ 9:33 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XT
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 223 • 3h ago
+👁️ 2K • 👍 223 • 4h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 209 • ⏱️ 8:25 • 2d ago
+👁️ 45K • 👍 2K • 💬 209 • ⏱️ 8:25 • 3d ago
 
 ---
 

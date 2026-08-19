@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T22:24:51.351706+00:00'
+updated: '2026-08-19T22:51:20.626400+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 22:24 UTC  
+**Last Updated:** August 19, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -132,7 +132,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 **[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
 
-🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 8h ago
+🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ ethereum.org • 2d ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 44m ago
+MarketForces Africa • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 6h ago
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 6h ago
+Benzinga • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 96 • 💬 4 • ⏱️ 6:58 • 2h ago
+👁️ 1K • 👍 96 • 💬 4 • ⏱️ 6:58 • 3h ago
 
 ---
 

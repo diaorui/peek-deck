@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T22:24:51.353540+00:00'
+updated: '2026-08-19T22:51:20.629612+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 22:24 UTC  
+**Last Updated:** August 19, 2026 at 22:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 5h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 6h ago
 
 ---
 
@@ -86,7 +86,7 @@ We've been building a small board that handles cameras and sensors for robots, s
 
 Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
 
-9h ago
+10h ago
 
 ---
 
@@ -114,19 +114,19 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 Unitree Robotics shares rise 542% on their first day of trading in Shanghai
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
 **[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
 **[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
 
-bizjournals.com • 29m ago
+bizjournals.com • 56m ago
 
 ---
 
@@ -146,7 +146,7 @@ South China Morning Post • 10h ago
 
 The public got to see the latest machines from China's robot makers during the World Robot Conference in Beijing, featuring more than 2,000 exhibits and debuting over 150 products.
 
-CBC • 4h ago
+CBC • 5h ago
 
 ---
 
@@ -218,7 +218,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 78K • 👍 4K • 💬 42 • ⏱️ 1:28 • 13h ago
+👁️ 78K • 👍 4K • 💬 42 • ⏱️ 1:28 • 14h ago
 
 ---
 
