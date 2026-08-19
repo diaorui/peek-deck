@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T11:52:54.296420+00:00'
+updated: '2026-08-19T12:46:43.517714+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 11:52 UTC  
+**Last Updated:** August 19, 2026 at 12:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
+**[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-15h ago
+2h ago
 
 ---
 
-**[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
+**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-1h ago
+16h ago
 
 ---
 
@@ -93,7 +93,13 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-18h ago
+19h ago
+
+---
+
+**[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
+
+10h ago
 
 ---
 
@@ -101,19 +107,29 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-22h ago
+23h ago
+
+---
+
+**[Is the bottom already behind us?](https://www.reddit.com/r/Bitcoin/comments/1vsgszl/is_the_bottom_already_behind_us/)**
+
+Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
+
+3h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-14h ago
+15h ago
 
 ---
 
-**[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
+**[I think Bitcoin is a bit like the early watch industry](https://www.reddit.com/r/Bitcoin/comments/1vsjcxc/i_think_bitcoin_is_a_bit_like_the_early_watch/)**
 
-9h ago
+Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
+
+1h ago
 
 ---
 
@@ -121,29 +137,13 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-9h ago
+10h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-21h ago
-
----
-
-**[Just learned that a hardware wallet manufacturer discovered >4 vulnerabilities on other wallets over time](https://www.reddit.com/r/Bitcoin/comments/1vs1l4m/just_learned_that_a_hardware_wallet_manufacturer/)**
-
-The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
-
-15h ago
-
----
-
-**[Satoshi Nakamoto Registered Bitcoin.org 18 Years Ago Today in His First Known Act as Satoshi](https://www.reddit.com/r/Bitcoin/comments/1vrr7bd/satoshi_nakamoto_registered_bitcoinorg_18_years/)**
-
-https://satoshitimeline.com/1
-
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 17h ago
 
 🎰 Casinos 🎁 Welcome Bonus ⭐ Highlight 1. JACK.com 100 No-Wager Free Spins Best overall online casino 2. mBit Casino Up to 4 BTC + 325 Free Spins Multi-coin support and a very deep game catalogue 3. Thunderpick 100% match bonus up to €2,000 Crypto-led cashier and clearly separated game categories 4. Betwhale 250% up...
 
-Muddy River Sports • 2d ago
+Muddy River Sports • 3d ago
 
 ---
 
@@ -171,7 +171,7 @@ Muddy River Sports • 2d ago
 
 The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin fell by 53% from its October 2025 record high, reaching a cycle low of $58,642 in June 2026. BlackRock attributed the crash to ...
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,13 +187,13 @@ Yahoo Finance • 39m ago
 
 BlackRock’s latest 10-year study showed that a 1-2% allocation to Bitcoin would have improved risk-adjusted returns in a traditional 60/40 portfolio.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 20h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 21h ago
+CBS News • 22h ago
 
 ---
 
@@ -307,7 +307,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 19K • 👍 856 • 💬 146 • ⏱️ 22:30 • 19h ago
+👁️ 19K • 👍 856 • 💬 146 • ⏱️ 22:30 • 20h ago
 
 ---
 
@@ -337,7 +337,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 1K • 👍 16 • ⏱️ 0:57 • 17h ago
+👁️ 1K • 👍 16 • ⏱️ 0:57 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 63 • 💬 3 • ⏱️ 0:57 • 19h ago
+👁️ 3K • 👍 63 • 💬 3 • ⏱️ 0:57 • 20h ago
 
 ---
 
