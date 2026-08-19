@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T12:46:43.527042+00:00'
+updated: '2026-08-19T13:43:43.288631+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 12:46 UTC  
+**Last Updated:** August 19, 2026 at 13:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ I want to learn how to design, control robots so i‘m planning to built my own 
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-22h ago
+23h ago
 
 ---
 
@@ -72,7 +72,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get that humanoids make for great demo videos, but I believe for 90% of real-w
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 18h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 19h ago
 
 ---
 
@@ -112,9 +112,55 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 ## Google News: "robotics"
 
-**[Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)**
+**[China’s backflipping robot maker Unitree pops 542% in Shanghai debut](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html)**
 
-Reuters • 11h ago
+Unitree Robotics shares rise 542% on their first day of trading in Shanghai
+
+CNBC • 12h ago
+
+---
+
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference](https://www.wral.com/news/ap/951eb-from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference/)**
+
+BEIJING (AP) — Do you want to see whether a robot can fold a piece of cloth? Interested in getting a robot dog or even a humanoid robot that could offer some emotional support? Or perhaps you just want to watch robots boxing and dancing? Come to Beijing.
+
+WRAL • 1h ago
+
+---
+
+**[China robot makers flock to Beijing show, seek path to mass adoption](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
+
+Reuters • 4h ago
+
+---
+
+**[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
+
+South China Morning Post • 1h ago
+
+---
+
+**[Little Caesars Teams Up with Coco Robotics to Power Fast Autonomous Pizza Deliveries](https://sg.finance.yahoo.com/news/little-caesars-teams-coco-robotics-130000898.html)**
+
+Coco Robotics, the leader in autonomous delivery, today announced a collaboration with Little Caesars, the third-largest pizza chain in the world, to bring autonomous robot deliveries to locations throughout Los Angeles, Chicago, and Miami, with Little Caesars deliveries coming soon to Coco's recently expanded operations in downtown San Jose.
+
+Yahoo Finance Singapore • 43m ago
+
+---
+
+**[Video Chinese robotics company unveils robot that can outrun Usain Bolt: David Muir reports - ABC News](https://abcnews.com/video/135754463/)**
+
+Unitree has unveiled a new "Superman" robot that can jump over 6.5 feet vertically. David Muir, who interviewed the company in May, reports on the race to lead in AI.
+
+ABC News - Breaking News, Latest News and Videos • 13h ago
+
+---
+
+**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
+
+Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+
+Business Insider • 18h ago
 
 ---
 
@@ -126,55 +172,17 @@ Ars Technica • 1d ago
 
 ---
 
-**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
+**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
 
-Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+Persona AI sees near-term economic viability in heavy industrial humanoids
 
-Business Insider • 17h ago
-
----
-
-**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
-
-Reuters • 5h ago
+IEEE Spectrum • 1d ago
 
 ---
 
 **[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
-
-The New York Times • 2d ago
-
----
-
-**[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
-
-MSN • 17h ago
-
----
-
-**[Robotic rescue missions are sparking a spaceflight revolution](https://www.scientificamerican.com/article/robotic-rescue-missions-are-sparking-a-spaceflight-revolution/)**
-
-Scientific American • 1d ago
-
----
-
-**[Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html)**
-
-2026 was supposed to be a breakout year for Serve's business.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Serve Robotics partners with Grubhub in robot delivery expansion push](https://www.reuters.com/business/retail-consumer/serve-robotics-partners-with-grubhub-robot-delivery-expansion-push-2026-08-17/)**
-
-Reuters • 2d ago
 
 ---
 
@@ -188,15 +196,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 10K • 👍 432 • 💬 49 • ⏱️ 14:10 • 12h ago
-
----
-
-**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
-
-📺 Prasadtechshorts
-
-👁️ 8K • 👍 988 • 💬 10 • ⏱️ 1:28 • 4h ago
+👁️ 12K • 👍 481 • 💬 59 • ⏱️ 14:10 • 13h ago
 
 ---
 
@@ -206,7 +206,15 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 45K • 👍 4K • 💬 501 • ⏱️ 8:40 • 1d ago
+👁️ 46K • 👍 4K • 💬 508 • ⏱️ 8:40 • 1d ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 23K • 👍 2K • 💬 22 • ⏱️ 1:28 • 5h ago
 
 ---
 
@@ -216,7 +224,17 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 38K • 👍 837 • 💬 69 • ⏱️ 10:09 • 5d ago
+👁️ 38K • 👍 850 • 💬 69 • ⏱️ 10:09 • 5d ago
+
+---
+
+**[China&#39;s Unitree Robotics surges 630% in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
+
+Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
+
+📺 ABC News (Australia)
+
+👁️ 11K • 👍 249 • ⏱️ 2:24 • 4h ago
 
 ---
 
@@ -226,7 +244,17 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 733K • 👍 26K • 💬 3K • ⏱️ 15:53 • 3d ago
+👁️ 755K • 👍 27K • 💬 3K • ⏱️ 15:53 • 3d ago
+
+---
+
+**[3 Stocks Under $10 With Massive Upside](https://www.youtube.com/watch?v=8a9dMO3glNE)**
+
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
+
+📺 MarketBeat
+
+👁️ 55K • 👍 1K • 💬 67 • ⏱️ 25:41 • 6d ago
 
 ---
 
@@ -236,15 +264,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 239K • 👍 3K • 💬 619 • ⏱️ 10:16 • 4d ago
-
----
-
-**[From Smartphone to Robot - HONOR’s Craziest Innovation Yet! #robotphone](https://www.youtube.com/watch?v=Luu2pbmPS70)**
-
-📺 ATC Android ToTo Company
-
-👁️ 58K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
+👁️ 238K • 👍 3K • 💬 620 • ⏱️ 10:16 • 4d ago
 
 ---
 
@@ -258,23 +278,11 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 ---
 
-**[Robotics firms prepare to compete in second World Humanoid Robot Games in Beijing](https://www.youtube.com/watch?v=ohUiYWEf7SU)**
+**[From Smartphone to Robot - HONOR’s Craziest Innovation Yet! #robotphone](https://www.youtube.com/watch?v=Luu2pbmPS70)**
 
-The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot competitors. According to reports, this year's ...
+📺 ATC Android ToTo Company
 
-📺 The Straits Times
-
-👁️ 2K • 👍 36 • 💬 3 • ⏱️ 0:26 • 10h ago
-
----
-
-**[So… this is how #Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
-
-Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
-
-📺 Страна Возможностей
-
-👁️ 63K • 👍 380 • 💬 100 • ⏱️ 0:22 • 5d ago
+👁️ 58K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
 
 ---
 

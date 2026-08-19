@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T12:46:43.517714+00:00'
+updated: '2026-08-19T13:43:43.282254+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 12:46 UTC  
+**Last Updated:** August 19, 2026 at 13:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,500.00
+### $65,100.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.6%  
-**30d:** -3.1%  
-**90d:** -14.6%  
-**1y:** -43.7%  
+**24h:** +0.2%  
+**7d:** +2.2%  
+**30d:** -2.6%  
+**90d:** -14.2%  
+**1y:** -43.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1291.90B
+**Market Cap:** $1301.02B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-48.6%
 
 **All-Time Low:** $67.81
-+94819.6%
++95478.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-19h ago
+20h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +107,7 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-23h ago
+1d ago
 
 ---
 
@@ -115,13 +115,13 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
 
-3h ago
+4h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ Been sitting on this for a couple of days because I keep going back and forth on
 
 Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
 
-1h ago
+2h ago
 
 ---
 
@@ -137,13 +137,13 @@ Being slightly passionate about watches and bitcoin, I keep thinking about bitco
 
 Why buy and then freak out !
 
-10h ago
+11h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -151,57 +151,65 @@ Why buy and then freak out !
 
 ## Google News: "bitcoin"
 
-**[Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)**
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
 
-Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-The Block • 17h ago
-
----
-
-**[5 Best Crypto & Bitcoin Casinos – Ranked & Reviewed by Experts](https://muddyriversports.com/sponsored-content/5-best-crypto-bitcoin-casinos-ranked-reviewed-by-experts/20260816073000/)**
-
-🎰 Casinos 🎁 Welcome Bonus ⭐ Highlight 1. JACK.com 100 No-Wager Free Spins Best overall online casino 2. mBit Casino Up to 4 BTC + 325 Free Spins Multi-coin support and a very deep game catalogue 3. Thunderpick 100% match bonus up to €2,000 Crypto-led cashier and clearly separated game categories 4. Betwhale 250% up...
-
-Muddy River Sports • 3d ago
+VanEck • 19h ago
 
 ---
 
-**[Bitcoin Price to $1 Million? SEC Rolls Out ‘Fit-for-Purpose’ Crypto Framework](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-1-million-sec-093745429.html)**
+**[Anthony Scaramucci Predicts Bitcoin Will Surpass $100,000, Standard Chartered Says 2026-End Target Remains on Track— But Crypto Punters Have This to Say](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-predicts-bitcoin-surpass-041359300.html)**
 
-The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ...
+Cryptocurrency bettors have dialed back hopes about Bitcoin (CRYPTO: BTC) reaching $100,000 in 2026, even as SkyBridge Capital founder Anthony Scaramucci remains optimistic about the asset reclaiming that key milestone. Prediction Market Skeptical About $100,000 Polygon (CRYPTO: POL)-based Polymarket currently...
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Crashed 53%, Yet BlackRock Says a 1%-2% Allocation Still Makes Sense](https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashed-53-yet-blackrock-111340691.html)**
-
-Bitcoin fell by 53% from its October 2025 record high, reaching a cycle low of $58,642 in June 2026. BlackRock attributed the crash to ...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Fundstrat's Tom Lee Says Crypto 'More Relevant' In AI Era, Backs BlackRock's Bullish Bitcoin Call](https://finance.yahoo.com/markets/crypto/articles/fundstrats-tom-lee-says-crypto-093701201.html)**
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge's Anthony Scaramucci](https://www.cnbc.com/video/2026/08/18/expect-bitcoin-to-move-back-up-over-100000-again-says-skybridges-anthony-scaramucci.html)**
 
-BlackRock’s latest 10-year study showed that a 1-2% allocation to Bitcoin would have improved risk-adjusted returns in a traditional 60/40 portfolio.
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price trends, whether there are any near-term catalysts, impact of the Clarity Act, state of crypto, and more.
 
-Yahoo Finance • 3h ago
+CNBC • 1d ago
+
+---
+
+**[Scaramucci points to $100,000 bitcoin as 'magic number' for OG sellers, eyes AI-blockchain convergence](https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190)**
+
+John Darsie, CEO of SALT and partner at SkyBridge, said bitcoin's changing holder base is part of a broader maturation process.
+
+theblock.co • 2h ago
+
+---
+
+**[Bitcoin DAT Strive’s Board Director Pierre Rochard Buys ASST Stocks as SATA Nears Par Value](https://finance.yahoo.com/markets/stocks/articles/bitcoin-dat-strive-board-director-113327267.html)**
+
+Pierre Rochard, a director on the board of Bitcoin treasury company Strive, purchased 15,900 ASST shares. ASST stock price jumped more than 1% in premarket hours on Wednesday as SATA perpetual preferred stock approaches par value. Ad Ad Bitcoin Advocate Pierre Rochard Makes First Strive Stock Buy Pierre Rochard, CEO of The Bitcoin Bond Company,
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Accumulation Could Begin by November as VanEck Flags Eight Capitulation Signals](https://bitcoinfoundation.org/news/bitcoin/bitcoin-accumulation-could-begin-by-november-as-vaneck-flags-eight-capitulation-signals/)**
+
+VanEck sees Bitcoin nearing a possible accumulation phase as eight capitulation indicators flash stress and ETF demand begins recovering.
+
+Bitcoin Foundation • 2h ago
+
+---
+
+**[Crypto Billionaire Changpeng Zhao Estimates 2-4 Million Bitcoin Gone Forever, Calls BTC a 'Deflationary Asset'](https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-changpeng-zhao-estimates-110103309.html)**
+
+Binance founder Changpeng “CZ” Zhao estimated on Saturday that 10–20% of all Bitcoin that have already been mined are effectively gone forever. Permanetly Lost BTC? CZ noted in an X post that 20.07 million BTC have already been mined, with...
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 21h ago
-
----
-
-**[A New York grandma went missing in Las Vegas. Now her family is getting texts asking for money.](https://www.cbsnews.com/news/alisa-goods-missing-las-vegas-texts/)**
-
-Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
-
-CBS News • 22h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -213,17 +221,11 @@ CNBC • 1d ago
 
 ---
 
-**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+**[A New York grandma went missing in Las Vegas. Now her family is getting texts asking for money.](https://www.cbsnews.com/news/alisa-goods-missing-las-vegas-texts/)**
 
-syracuse.com • 22h ago
+Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
----
-
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
-
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
-
-VanEck • 18h ago
+CBS News • 23h ago
 
 ---
 
@@ -287,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 172 • ⏱️ 18:59 • 1d ago
+👁️ 32K • 👍 2K • 💬 221 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -297,7 +299,7 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 205 • ⏱️ 8:25 • 2d ago
+👁️ 44K • 👍 2K • 💬 205 • ⏱️ 8:25 • 2d ago
 
 ---
 
@@ -307,7 +309,17 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 19K • 👍 856 • 💬 146 • ⏱️ 22:30 • 20h ago
+👁️ 20K • 👍 904 • 💬 203 • ⏱️ 22:30 • 20h ago
+
+---
+
+**[Bitcoin Just Hit 6 of 8. At 7, the Median Is +25% in 90 Days.](https://www.youtube.com/watch?v=rya1941s2ck)**
+
+888 alignment events backtested since 2013. At 7 of 8 timeframes aligned, the median 90-day return is +25.6% - and the hit rate ...
+
+📺 Krown
+
+👁️ 212 • 👍 13 • 💬 34 • ⏱️ 1:02 • 28m ago
 
 ---
 
@@ -321,13 +333,21 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 ---
 
-**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
+**[Bitcoin’s 11-Month Correction Could FINALLY Be Ending](https://www.youtube.com/watch?v=Ka5rRAEgoB4)**
 
-Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
+Bitcoin #Crypto #finance Bitcoin may be nearing the end of its 11-month correction, with VanEck flagging multiple capitulation ...
 
-📺 Yahoo Finance
+📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 264 • 💬 81 • ⏱️ 14:53 • 1d ago
+👁️ 1K • 👍 102 • 2h ago
+
+---
+
+**[Crypto Mining vs AI (For PC Builders)](https://www.youtube.com/watch?v=ZXVgv0VhIk4)**
+
+📺 Zach's Tech Turf
+
+👁️ 87K • 👍 7K • 💬 556 • ⏱️ 1:10 • 1d ago
 
 ---
 
@@ -337,27 +357,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 1K • 👍 16 • ⏱️ 0:57 • 18h ago
-
----
-
-**[BREAKING: Treasury Secretary Announces Big Crypto News - Saylor Confronted About Bitcoin Crash](https://www.youtube.com/watch?v=wLA5dwmSP7w)**
-
-Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
-
-📺 Altcoin Daily
-
-👁️ 24K • 👍 1K • 💬 89 • ⏱️ 10:53 • 1d ago
-
----
-
-**[THIS IS A MASSIVE BITCOIN TRAP...](https://www.youtube.com/watch?v=GY5hErc5yt0)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 12K • 👍 771 • 💬 27 • ⏱️ 8:29 • 1d ago
+👁️ 1K • 👍 17 • ⏱️ 0:57 • 19h ago
 
 ---
 
@@ -367,17 +367,17 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 63 • 💬 3 • ⏱️ 0:57 • 20h ago
+👁️ 3K • 👍 68 • 💬 3 • ⏱️ 0:57 • 21h ago
 
 ---
 
-**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
+**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
 
-Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
+Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
 
-📺 CNBC Television
+📺 Yahoo Finance
 
-👁️ 14K • 👍 185 • 💬 106 • ⏱️ 3:11 • 1d ago
+👁️ 8K • 👍 265 • 💬 81 • ⏱️ 14:53 • 1d ago
 
 ---
 
