@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T15:31:32.539828+00:00'
+updated: '2026-08-19T16:31:21.694252+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 15:31 UTC  
+**Last Updated:** August 19, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1301.02B
+**Market Cap:** $1381.75B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-45.4%
 
 **All-Time Low:** $67.81
-+95478.8%
++101433.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-22h ago
+23h ago
 
 ---
 
@@ -101,7 +101,7 @@ Just me or is this pretty much every day sentiment?
 
 Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,13 +109,13 @@ Being slightly passionate about watches and bitcoin, I keep thinking about bitco
 
 Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
 
-6h ago
+7h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Why buy and then freak out !
 
 I am relatively new to the space, I honestly discovered Coinkite when the hack first happened. Obviously curiosity bit me and I went to their site (obviously didn't buy lol). It just made me sad, they seem to make genuinely cool BTC utilities for the masses and take their BTC maximalism seriously. Stuff like the satscard, the opendime, and yes even the coldcard itself. It just sucks because some of this stuff is genuinely cool and useful but people aren't going to trust them. I just hope they learn from this. From what I read they seemed a little cocky. But if they manage to survive as a company I do think they do make some cool things. Please no hate, I'm just expressing how I feel.
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ I am relatively new to the space, I honestly discovered Coinkite when the hack f
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 21h ago
+VanEck • 22h ago
 
 ---
 
@@ -165,7 +165,7 @@ VanEck • 21h ago
 
 Nasdaq-listed Zhibao Technology closed a $154.7 million PIPE financing paid for with 2,380 Bitcoin contributed straight to a company wallet.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -173,13 +173,13 @@ Decrypt • 2h ago
 
 Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
 
-Fox News • 30m ago
+Fox News • 1h ago
 
 ---
 
 **[Live updates: Bitcoin tops $65,000 as Treasury move sends yields lower](https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8)**
 
-CoinDesk • 29m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -187,13 +187,13 @@ CoinDesk • 29m ago
 
 Cameron Winklevoss, co-founder of the Gemini (NASDAQ: $GEMI) crypto exchange, is urging investors to buy the dip in...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -287,17 +287,17 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 221 • ⏱️ 18:59 • 1d ago
+👁️ 33K • 👍 2K • 💬 172 • ⏱️ 18:59 • 1d ago
 
 ---
 
-**[Bitcoin is LITERALLY about to EXPLODE! (Explained in 8 minutes)](https://www.youtube.com/watch?v=7QJ0-gebfGY)**
+**[Bitcoin Live Trading: BTC Bulls and Bears Are Fighting for Control EP2097](https://www.youtube.com/watch?v=BGGwMn2cgJg)**
 
-Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
 
-📺 Altcoin Daily
+📺 Crypto Lifer
 
-👁️ 44K • 👍 2K • 💬 205 • ⏱️ 8:25 • 2d ago
+👁️ 5K • 👍 525 • 3h ago
 
 ---
 
@@ -307,75 +307,73 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 20K • 👍 904 • 💬 203 • ⏱️ 22:30 • 22h ago
+👁️ 21K • 👍 936 • 💬 164 • ⏱️ 22:30 • 23h ago
 
 ---
 
-**[Bitcoin Just Hit 6 of 8. At 7, the Median Is +25% in 90 Days.](https://www.youtube.com/watch?v=rya1941s2ck)**
+**[Absolute Proof That Bitcoin has Not Bottomed and That the BTC CRASH is About to Resume](https://www.youtube.com/watch?v=jnCzA-oIEMk)**
 
-888 alignment events backtested since 2013. At 7 of 8 timeframes aligned, the median 90-day return is +25.6% - and the hit rate ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Krown
+📺 Doctor of Pump & Dump
 
-👁️ 212 • 👍 13 • 💬 34 • ⏱️ 1:02 • 2h ago
-
----
-
-**[Yields Spike Has Smart Money Dumping Into Retail, Bitcoin Surges With Gold](https://www.youtube.com/watch?v=LxLOmuB91sM)**
-
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
-
-📺 Verified Investing
-
-👁️ 61K • 👍 4K • 💬 154 • ⏱️ 14:24 • 1d ago
+👁️ 5K • 👍 446 • ⏱️ 29:49 • 20h ago
 
 ---
 
-**[Bitcoin’s 11-Month Correction Could FINALLY Be Ending](https://www.youtube.com/watch?v=Ka5rRAEgoB4)**
+**[BREAKING: Treasury Secretary Announces Big Crypto News - Saylor Confronted About Bitcoin Crash](https://www.youtube.com/watch?v=wLA5dwmSP7w)**
 
-Bitcoin #Crypto #finance Bitcoin may be nearing the end of its 11-month correction, with VanEck flagging multiple capitulation ...
+Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 1K • 👍 102 • 4h ago
-
----
-
-**[Crypto Mining vs AI (For PC Builders)](https://www.youtube.com/watch?v=ZXVgv0VhIk4)**
-
-📺 Zach's Tech Turf
-
-👁️ 87K • 👍 7K • 💬 556 • ⏱️ 1:10 • 1d ago
+👁️ 24K • 👍 1K • 💬 89 • ⏱️ 10:53 • 1d ago
 
 ---
 
-**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
+**[AI Just Outbid Bitcoin For Its Own Power](https://www.youtube.com/watch?v=24jQYTCYDtU)**
 
-Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
+📺 Joe Consorti
 
-📺 International Business Today
-
-👁️ 1K • 👍 17 • ⏱️ 0:57 • 21h ago
+👁️ 908 • 👍 32 • 💬 7 • ⏱️ 1:30 • 5h ago
 
 ---
 
-**[You sound like a bitcoin](https://www.youtube.com/watch?v=yy9QiEzMxNI)**
+**[Saifedean Ammous – Gold vs Bitcoin and the END of the Dollar](https://www.youtube.com/watch?v=bmafjUj197s)**
 
-shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowdwork #youtubeshorts Don't miss a ...
+Saifedean Ammous joins Mark Moss to discuss why fiat money, inflation, and central banking are making it harder to build wealth, ...
 
-📺 Gabby Bryan
+📺 Market Disruptors Podcast
 
-👁️ 3K • 👍 68 • 💬 3 • ⏱️ 0:57 • 23h ago
+👁️ 16K • 👍 614 • 💬 180 • ⏱️ 1:08:09 • 23h ago
 
 ---
 
-**[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
+**[BREAKING: CHINA JUST SENT A MASSIVE BITCOIN WARNING AT AMERICA!!! | EP 1572](https://www.youtube.com/watch?v=m_GQfFnOMT8)**
 
-Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
+Bitcoin as a reserve asset is finding escape velocity .
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 265 • 💬 81 • ⏱️ 14:53 • 1d ago
+👁️ 10K • 👍 385 • 💬 32 • ⏱️ 1:30:51 • 21h ago
+
+---
+
+**[ANOTHER XRP BANK JUST DROPPED! EMERGENCY BITCOIN BOOST #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=gkgKAb-QXS4)**
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 570 • 💬 32 • ⏱️ 2:07 • 15h ago
+
+---
+
+**[Bitcoin: Beware of This False Move](https://www.youtube.com/watch?v=AL9X-XdHk2Y)**
+
+NEW SUBSTACK VIDEO REPORTS ARE HERE (SUBSCRIBE FOR UPDATES) → https://substack.com/@theinvestoraccelerator ...
+
+📺 Jason Pizzino
+
+👁️ 15K • 👍 846 • 💬 67 • ⏱️ 24:12 • 15h ago
 
 ---
 

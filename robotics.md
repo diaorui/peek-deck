@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T15:31:32.546691+00:00'
+updated: '2026-08-19T16:31:21.703517+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 15:31 UTC  
+**Last Updated:** August 19, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get that humanoids make for great demo videos, but I believe for 90% of real-w
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 20h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 21h ago
 
 ---
 
@@ -116,7 +116,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -124,7 +124,7 @@ NBC News • 5h ago
 
 SHENZHEN, China, Aug. 19, 2026 (GLOBE NEWSWIRE) -- Pudu Robotics, a global leader in commercial service robotics, has been ranked No. 1 across four major dimensions of the global commercial service robotics market, according to Frost & Sullivan's 2025 Global Embodied Intelligence and Commercial Service Robotics Independent Market Research Report. In a separate assessment, Counterpoint Research's latest report, "Commercial Cleaning Robot Market Poised for Rapid Growth in AI-Native Era," ranks Pud
 
-Yahoo Finance Singapore • 14m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ Yahoo Finance Singapore • 14m ago
 
 China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country’s expanding robotics industry.
 
-Yahoo News Canada • 18m ago
+Yahoo News Canada • 1h ago
 
 ---
 
@@ -140,19 +140,19 @@ Yahoo News Canada • 18m ago
 
 China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
 
-ABC News - Breaking News, Latest News and Videos • 1h ago
+ABC News - Breaking News, Latest News and Videos • 2h ago
 
 ---
 
 **[China robot makers flock to Beijing show, seek path to mass adoption](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
 **[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ South China Morning Post • 3h ago
 
 Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ Business Insider • 19h ago
 
 Persona AI sees near-term economic viability in heavy industrial humanoids
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 12K • 👍 481 • 💬 59 • ⏱️ 14:10 • 15h ago
+👁️ 15K • 👍 527 • 💬 60 • ⏱️ 14:10 • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 46K • 👍 4K • 💬 508 • ⏱️ 8:40 • 1d ago
+👁️ 47K • 👍 4K • 💬 512 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 23K • 👍 2K • 💬 22 • ⏱️ 1:28 • 6h ago
+👁️ 48K • 👍 3K • 💬 34 • ⏱️ 1:28 • 7h ago
 
 ---
 
@@ -224,37 +224,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 38K • 👍 850 • 💬 69 • ⏱️ 10:09 • 5d ago
-
----
-
-**[China&#39;s Unitree Robotics surges 630% in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
-
-Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
-
-📺 ABC News (Australia)
-
-👁️ 11K • 👍 249 • ⏱️ 2:24 • 6h ago
-
----
-
-**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
-
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
-
-📺 InsideAI
-
-👁️ 755K • 👍 27K • 💬 3K • ⏱️ 15:53 • 3d ago
-
----
-
-**[3 Stocks Under $10 With Massive Upside](https://www.youtube.com/watch?v=8a9dMO3glNE)**
-
-Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
-
-📺 MarketBeat
-
-👁️ 55K • 👍 1K • 💬 67 • ⏱️ 25:41 • 6d ago
+👁️ 39K • 👍 857 • 💬 74 • ⏱️ 10:09 • 5d ago
 
 ---
 
@@ -264,7 +234,17 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 238K • 👍 3K • 💬 620 • ⏱️ 10:16 • 4d ago
+👁️ 239K • 👍 3K • 💬 622 • ⏱️ 10:16 • 4d ago
+
+---
+
+**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+
+📺 InsideAI
+
+👁️ 798K • 👍 28K • 💬 3K • ⏱️ 15:53 • 3d ago
 
 ---
 
@@ -274,7 +254,7 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.6M • 👍 94K • 💬 6K • ⏱️ 14:03 • 5d ago
+👁️ 3.7M • 👍 94K • 💬 6K • ⏱️ 14:03 • 5d ago
 
 ---
 
@@ -282,7 +262,27 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 ATC Android ToTo Company
 
-👁️ 58K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
+👁️ 59K • 👍 2K • 💬 62 • ⏱️ 2:59 • 4d ago
+
+---
+
+**[So… this is how #Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
+
+Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
+
+📺 Страна Возможностей
+
+👁️ 63K • 👍 382 • 💬 101 • ⏱️ 0:22 • 5d ago
+
+---
+
+**[Chinese humanoid robot &#39;Flash&#39; targets 100m world record](https://www.youtube.com/watch?v=8yJEGN53KFg)**
+
+Chinese smart device maker Honor is putting its humanoid robot "Flash" through sprint training ahead of the second World ...
+
+📺 CGTN Africa
+
+👁️ 3K • 👍 13 • 💬 3 • ⏱️ 0:18 • 10h ago
 
 ---
 

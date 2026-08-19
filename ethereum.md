@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T15:31:32.544335+00:00'
+updated: '2026-08-19T16:31:21.700288+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 15:31 UTC  
+**Last Updated:** August 19, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.74B
+**Market Cap:** $253.29B
 Rank #2
 
 **Circulating Supply:** 120,681,896 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.0%
+-57.6%
 
 **All-Time Low:** $0.43
-+445378.9%
++484808.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 23h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 15h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-18h ago
+19h ago
 
 ---
 
@@ -124,6 +124,12 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 ---
 
+**[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
+
+🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 2h ago
+
+---
+
 **[Attacking Poseidon's Partial Layer via Subspace Restriction](https://www.reddit.com/r/ethereum/comments/1vrml5c/attacking_poseidons_partial_layer_via_subspace/)**
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
@@ -137,14 +143,6 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 2d ago
-
----
-
-**[Ethereal news weekly #35 | Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live](https://www.reddit.com/r/ethereum/comments/1vqki12/ethereal_news_weekly_35_justin_drake_poseidon/)**
-
-Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 2d ago
 
 ---
 
@@ -168,7 +166,7 @@ ethereum.org • 2d ago
 
 **[Ethereum Rises 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942695/ethereum-rises-2-1-crypto-mover)**
 
-Moomoo • 32m ago
+Moomoo • 1h ago
 
 ---
 
@@ -176,7 +174,7 @@ Moomoo • 32m ago
 
 Crypto investors may be underestimating how large the industry’s next growth phase could become since market perception has failed to keep pace with reality, according to Bitwise’s Matt Hougan.In his Aug. 18 weekly CIO memo, Bitwise’s Chief Investment Officer highlighted three mistakes investors ar…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -200,7 +198,7 @@ PR Newswire • 2d ago
 
 The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -216,7 +214,7 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -224,7 +222,7 @@ Fortune • 4h ago
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 12m ago
+The Defiant • 1h ago
 
 ---
 
@@ -238,7 +236,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 414 • 💬 250 • ⏱️ 17:08 • 1d ago
+👁️ 8K • 👍 418 • 💬 268 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -248,7 +246,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 161 • 💬 95 • ⏱️ 16:48 • 23h ago
+👁️ 4K • 👍 168 • 💬 42 • ⏱️ 16:48 • 1d ago
+
+---
+
+**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+
+BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 328 • 11h ago
 
 ---
 
@@ -258,7 +266,27 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 11K • 👍 296 • 💬 37 • ⏱️ 35:05 • 2d ago
+👁️ 12K • 👍 301 • 💬 37 • ⏱️ 35:05 • 2d ago
+
+---
+
+**[ETH Live Trading | Live Crypto Trading | BTC Trading Live](https://www.youtube.com/watch?v=sbBGHF0Vnxw)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 3K • 👍 306 • 1h ago
+
+---
+
+**[Buying Bitcoin &amp; XRP Right Now Could Be The Move The Rich Know Something You Don&#39;t](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+
+Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 444 • 💬 106 • ⏱️ 29:45 • 2d ago
 
 ---
 
@@ -268,27 +296,27 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 218 • 💬 129 • ⏱️ 23:24 • 15h ago
+👁️ 5K • 👍 233 • 💬 131 • ⏱️ 23:24 • 16h ago
 
 ---
 
-**[Der unterschätzte Ethereum-Hebel, über den kaum jemand spricht](https://www.youtube.com/watch?v=OcMqReVddPs)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=K4IQw6twBtY)**
 
-Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue „Blockchain-Investor“-App – mit exklusiven ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Krypto Report
+📺 Profit First
 
-👁️ 3K • 👍 343 • 💬 82 • ⏱️ 14:46 • 23h ago
+👁️ 249 • 👍 31 • ⏱️ 7:24 • 1h ago
 
 ---
 
-**[Ethereum Podría Sorprender en los Siguientes Meses](https://www.youtube.com/watch?v=n6gFIne0RpU)**
+**[LONG-TERM PREDICTION FOR ETHEREUM (Be Ready!)](https://www.youtube.com/watch?v=MBH5bAGRFkA)**
 
-Lista de Espera Enfoque 3D Pro Plan Trading: ➡️ https://www.proplantrading.com/inscripciones Inicia en trading El Broker ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Julio Alfaro
+📺 Cilinix Crypto
 
-👁️ 1K • 👍 145 • 💬 27 • ⏱️ 13:41 • 21h ago
+👁️ 197 • 👍 14 • ⏱️ 6:33 • 7h ago
 
 ---
 
@@ -298,37 +326,7 @@ Ethereum pode superar o Bitcoin no próximo ciclo de alta? Neste vídeo, Augusto
 
 📺 Augusto Backes
 
-👁️ 6K • 👍 441 • 💬 39 • ⏱️ 11:03 • 17h ago
-
----
-
-**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
-
-Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
-
-📺 Blockchain Pill
-
-👁️ 2K • 👍 166 • 💬 62 • ⏱️ 18:46 • 1d ago
-
----
-
-**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
-
-Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
-
-📺 Zarx Crypto
-
-👁️ 17K • 👍 812 • 💬 14 • ⏱️ 4:44 • 1d ago
-
----
-
-**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 8K • 👍 337 • 💬 13 • ⏱️ 2:54 • 1d ago
+👁️ 7K • 👍 468 • 💬 41 • ⏱️ 11:03 • 18h ago
 
 ---
 
