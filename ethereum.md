@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T22:51:20.626400+00:00'
+updated: '2026-08-19T23:22:22.932428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 22:51 UTC  
+**Last Updated:** August 19, 2026 at 23:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $265.37B
+**Market Cap:** $271.32B
 Rank #2
 
 **Circulating Supply:** 120,681,896 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.5%
+-54.5%
 
 **All-Time Low:** $0.43
-+507968.5%
++519271.6%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 22h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ MarketForces Africa • 1h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 6h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ Benzinga • 7h ago
 
 Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -236,7 +236,17 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 96 • 💬 4 • ⏱️ 6:58 • 3h ago
+👁️ 3K • 👍 165 • 💬 11 • ⏱️ 6:58 • 3h ago
+
+---
+
+**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
+
+You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 656 • 💬 300 • ⏱️ 28:47 • 13h ago
 
 ---
 
@@ -246,17 +256,15 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 6K • 👍 440 • 💬 9 • ⏱️ 1:38:08 • 5h ago
+👁️ 7K • 👍 457 • 💬 10 • ⏱️ 1:38:08 • 6h ago
 
 ---
 
-**[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
+**[Ethereum and Hyperliquid are SKYROCKETING!](https://www.youtube.com/watch?v=5JihjDuWPPI)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+📺 Discover Crypto
 
-📺 Jordan Camirand
-
-👁️ 8K • 👍 430 • 💬 268 • ⏱️ 17:08 • 1d ago
+👁️ 172 • 👍 6 • 💬 2 • ⏱️ 0:34 • 22m ago
 
 ---
 
@@ -266,7 +274,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 176 • 💬 43 • ⏱️ 16:48 • 1d ago
+👁️ 5K • 👍 184 • 💬 43 • ⏱️ 16:48 • 1d ago
+
+---
+
+**[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 9K • 👍 435 • 💬 270 • ⏱️ 17:08 • 2d ago
+
+---
+
+**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
+
+Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 665 • 💬 322 • ⏱️ 13:12 • 8h ago
 
 ---
 
@@ -276,7 +304,17 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 175 • 👍 4 • ⏱️ 0:36 • 2h ago
+👁️ 796 • 👍 10 • 💬 1 • ⏱️ 0:36 • 3h ago
+
+---
+
+**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
+
+Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
+
+📺 The Rollup
+
+👁️ 12K • 👍 303 • 💬 37 • ⏱️ 35:05 • 2d ago
 
 ---
 
@@ -287,46 +325,6 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 📺 Zarx Crypto
 
 👁️ 17K • 👍 2K • 💬 13 • ⏱️ 4:44 • 1d ago
-
----
-
-**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
-
-Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
-
-📺 The Rollup
-
-👁️ 12K • 👍 302 • 💬 37 • ⏱️ 35:05 • 2d ago
-
----
-
-**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 9K • 👍 379 • 💬 15 • ⏱️ 2:54 • 2d ago
-
----
-
-**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
-
-BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 245 • 💬 133 • ⏱️ 23:24 • 22h ago
-
----
-
-**[Is Buying ICP Today Like Buying Ethereum in 2016?](https://www.youtube.com/watch?v=E_HZoR-_ADA)**
-
-Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum in 2016?", and breaking down why the ...
-
-📺 Blockchain Pill
-
-👁️ 2K • 👍 166 • 💬 63 • ⏱️ 18:46 • 1d ago
 
 ---
 
