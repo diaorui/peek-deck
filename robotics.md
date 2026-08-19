@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T21:25:06.500652+00:00'
+updated: '2026-08-19T21:50:51.314597+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 21:25 UTC  
+**Last Updated:** August 19, 2026 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 4h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 5h ago
 
 ---
 
@@ -86,7 +86,7 @@ We've been building a small board that handles cameras and sensors for robots, s
 
 Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
 
-8h ago
+9h ago
 
 ---
 
@@ -122,7 +122,7 @@ NBC News • 11h ago
 
 BEIJING — Do you want to see whether a robot can fold a piece of cloth? Interested in getting a robot dog or even a humanoid robot that could offer...
 
-Pittsburgh Post-Gazette • 53m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ The New York Times • 2d ago
 
 Kraken Robotics benefits from rising global defense budgets that drive multi-year demand for autonomous underwater systems and sonar suites. See why the stock is a Buy.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -222,7 +222,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 78K • 👍 4K • 💬 42 • ⏱️ 1:28 • 12h ago
+👁️ 78K • 👍 4K • 💬 42 • ⏱️ 1:28 • 13h ago
 
 ---
 

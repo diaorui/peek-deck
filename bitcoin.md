@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T21:25:06.490779+00:00'
+updated: '2026-08-19T21:50:51.308366+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 21:25 UTC  
+**Last Updated:** August 19, 2026 at 21:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 You’re gonna be fine
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ You’re gonna be fine
 
 I know we’re supposed to thank someone for making the price go up.
 
-4h ago
+5h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bitcoin Magazine • 5h ago
 
 CNBC's Olive Renick joins 'Closing Bell' with the latest on options moves around crypto.
 
-CNBC • 58m ago
+CNBC • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 5h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg • 1d ago
 
 **[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
@@ -215,7 +215,7 @@ VanEck • 1d ago
 
 Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -295,7 +295,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 5K • 👍 430 • 💬 32 • ⏱️ 9:33 • 5h ago
+👁️ 5K • 👍 430 • 💬 32 • ⏱️ 9:33 • 6h ago
 
 ---
 
@@ -315,7 +315,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XT
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 223 • 2h ago
+👁️ 2K • 👍 223 • 3h ago
 
 ---
 
