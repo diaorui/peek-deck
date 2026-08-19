@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T19:50:12.790216+00:00'
+updated: '2026-08-19T20:27:31.820864+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 19:50 UTC  
+**Last Updated:** August 19, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
 
-3h ago
+4h ago
 
 ---
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 **[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 Analysts say that Putin could seize assets if cash is needed for his stalling invasion
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 2h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ You’re gonna be fine
 
 **[Bitcoin nears key technical breakout that could propel prices to $76,000](https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000)**
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ VanEck • 1d ago
 
 Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
 
-Forbes • 9m ago
+Forbes • 47m ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 9m ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNBC • 1d ago
 
 **[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
 
-Moomoo • 4h ago
+Moomoo • 5h ago
 
 ---
 
@@ -247,7 +247,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 5d ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 6d ago • [Second](https://second.tech/)
 
 ---
 
@@ -283,7 +283,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 2h ago
+👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 3h ago
 
 ---
 
@@ -313,7 +313,7 @@ bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers and i
 
 📺 Crypto Love
 
-👁️ 160 • 👍 13 • 💬 22 • ⏱️ 1:40 • 2h ago
+👁️ 160 • 👍 13 • 💬 22 • ⏱️ 1:40 • 3h ago
 
 ---
 
@@ -343,7 +343,7 @@ One subscription, everything included: newsletter + chart course + indicators + 
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 4K • 👍 200 • 3h ago
+👁️ 4K • 👍 200 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Krown
 
-👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:02 • 6h ago
+👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:02 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T19:50:12.799748+00:00'
+updated: '2026-08-19T20:27:31.829109+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 19:50 UTC  
+**Last Updated:** August 19, 2026 at 20:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-11h ago
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-15h ago
+16h ago
 
 ---
 
@@ -116,7 +116,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-NBC News • 9h ago
+NBC News • 10h ago
 
 ---
 
@@ -130,7 +130,7 @@ ABC News - Breaking News, Latest News and Videos • 6h ago
 
 **[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
 
-South China Morning Post • 7h ago
+South China Morning Post • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ IEEE Spectrum • 2d ago
 
 The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -194,7 +194,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 17K • 👍 568 • 💬 63 • ⏱️ 14:10 • 19h ago
+👁️ 17K • 👍 568 • 💬 63 • ⏱️ 14:10 • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ Chinese smart device maker Honor is putting its humanoid robot "Flash" through s
 
 📺 CGTN
 
-👁️ 9K • 👍 161 • 💬 12 • ⏱️ 0:18 • 13h ago
+👁️ 9K • 👍 161 • 💬 12 • ⏱️ 0:18 • 14h ago
 
 ---
 

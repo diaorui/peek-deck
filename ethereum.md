@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T19:50:12.796428+00:00'
+updated: '2026-08-19T20:27:31.826238+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 19:50 UTC  
+**Last Updated:** August 19, 2026 at 20:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 3h ago
 
 Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ CoinDesk • 2d ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 3h ago
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 4h ago
+The Defiant • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 2h ago
+👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 241 • 💬 132 • ⏱️ 23:24 • 19h ago
+👁️ 5K • 👍 241 • 💬 132 • ⏱️ 23:24 • 20h ago
 
 ---
 
