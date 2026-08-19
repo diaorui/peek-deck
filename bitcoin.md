@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T10:56:39.558140+00:00'
+updated: '2026-08-19T11:27:45.973327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 10:56 UTC  
+**Last Updated:** August 19, 2026 at 11:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-17h ago
+18h ago
 
 ---
 
@@ -121,13 +121,13 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Why buy and then freak out !
 
-8h ago
+9h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 16h ago
 
 The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1h ago
 
 Citigroup (NYSE:C) launched Custody+, a unified custody platform that combines traditional securities and digital assets, including Bitcoin. The service integrates near real-time processing with digital asset custody and advanced FX and liquidity tools on a single infrastructure. Custody+ is aimed at institutional clients that want digital asset exposure within existing global banking and custody arrangements. For readers interested in more ideas around resilient financial exposure linked...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 19h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 20h ago
+CBS News • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 1K • 👍 16 • ⏱️ 0:57 • 16h ago
+👁️ 1K • 👍 16 • ⏱️ 0:57 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 63 • 💬 3 • ⏱️ 0:57 • 18h ago
+👁️ 3K • 👍 63 • 💬 3 • ⏱️ 0:57 • 19h ago
 
 ---
 

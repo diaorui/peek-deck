@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T10:56:39.567386+00:00'
+updated: '2026-08-19T11:27:45.982690+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 10:56 UTC  
+**Last Updated:** August 19, 2026 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -72,7 +72,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-17h ago
+18h ago
 
 ---
 
@@ -164,7 +164,7 @@ MSN • 16h ago
 
 **[Robotic rescue missions are sparking a spaceflight revolution](https://www.scientificamerican.com/article/robotic-rescue-missions-are-sparking-a-spaceflight-revolution/)**
 
-Scientific American • 22h ago
+Scientific American • 23h ago
 
 ---
 
@@ -192,7 +192,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 10K • 👍 432 • 💬 49 • ⏱️ 14:10 • 10h ago
+👁️ 10K • 👍 432 • 💬 49 • ⏱️ 14:10 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.6M • 👍 94K • 💬 6K • ⏱️ 14:03 • 4d ago
+👁️ 3.6M • 👍 94K • 💬 6K • ⏱️ 14:03 • 5d ago
 
 ---
 
@@ -268,7 +268,7 @@ The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot
 
 📺 The Straits Times
 
-👁️ 2K • 👍 36 • 💬 3 • ⏱️ 0:26 • 8h ago
+👁️ 2K • 👍 36 • 💬 3 • ⏱️ 0:26 • 9h ago
 
 ---
 

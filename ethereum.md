@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T10:56:39.564176+00:00'
+updated: '2026-08-19T11:27:45.979382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 10:56 UTC  
+**Last Updated:** August 19, 2026 at 11:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 10h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 11h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåbe
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -202,7 +202,7 @@ CoinDesk • 1d ago
 
 Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -226,7 +226,7 @@ CryptoSlate • 7h ago
 
 Cryptocurrency prices are broadly correcting on Tuesday, with Bitcoin (BTC) edging lower toward $64,000. Ethereum (ETH) shows weakness amid ongoing narrow-range consolidation, while Ripple (XRP) trades below $1.00, weighed down by falling technical indicators.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 153 • 💬 42 • ⏱️ 16:48 • 18h ago
+👁️ 3K • 👍 153 • 💬 42 • ⏱️ 16:48 • 19h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 204 • 💬 127 • ⏱️ 23:24 • 10h ago
+👁️ 4K • 👍 204 • 💬 127 • ⏱️ 23:24 • 11h ago
 
 ---
 
@@ -300,7 +300,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 3K • 👍 318 • 💬 82 • ⏱️ 14:46 • 18h ago
+👁️ 3K • 👍 318 • 💬 82 • ⏱️ 14:46 • 19h ago
 
 ---
 
@@ -320,7 +320,7 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 2K • 👍 165 • 💬 62 • ⏱️ 18:46 • 23h ago
+👁️ 2K • 👍 165 • 💬 62 • ⏱️ 18:46 • 1d ago
 
 ---
 
