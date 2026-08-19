@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T13:43:43.286410+00:00'
+updated: '2026-08-19T14:33:21.677043+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 13:43 UTC  
+**Last Updated:** August 19, 2026 at 14:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 21h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 13h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-22h ago
+23h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 1d ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-coindesk.com • 1d ago
+coindesk.com • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView • 1d ago
 
 ZisK claimed 9.62-second p99 fits Ethereum's latency target, while workload, proof and whole-system power details remain undisclosed.
 
-CryptoSlate • 6h ago
+CryptoSlate • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 161 • 💬 95 • ⏱️ 16:48 • 21h ago
+👁️ 4K • 👍 161 • 💬 95 • ⏱️ 16:48 • 22h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 218 • 💬 129 • ⏱️ 23:24 • 13h ago
+👁️ 4K • 👍 218 • 💬 129 • ⏱️ 23:24 • 14h ago
 
 ---
 
@@ -280,7 +280,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 3K • 👍 343 • 💬 82 • ⏱️ 14:46 • 21h ago
+👁️ 3K • 👍 343 • 💬 82 • ⏱️ 14:46 • 22h ago
 
 ---
 
@@ -290,7 +290,7 @@ Lista de Espera Enfoque 3D Pro Plan Trading: ➡️ https://www.proplantrading.c
 
 📺 Julio Alfaro
 
-👁️ 1K • 👍 145 • 💬 27 • ⏱️ 13:41 • 19h ago
+👁️ 1K • 👍 145 • 💬 27 • ⏱️ 13:41 • 20h ago
 
 ---
 
@@ -300,7 +300,7 @@ Ethereum pode superar o Bitcoin no próximo ciclo de alta? Neste vídeo, Augusto
 
 📺 Augusto Backes
 
-👁️ 6K • 👍 441 • 💬 39 • ⏱️ 11:03 • 15h ago
+👁️ 6K • 👍 441 • 💬 39 • ⏱️ 11:03 • 16h ago
 
 ---
 

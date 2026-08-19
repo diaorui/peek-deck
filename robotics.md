@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T13:43:43.288631+00:00'
+updated: '2026-08-19T14:33:21.680109+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 13:43 UTC  
+**Last Updated:** August 19, 2026 at 14:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-5h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-20h ago
+21h ago
 
 ---
 
@@ -124,19 +124,19 @@ CNBC • 12h ago
 
 BEIJING (AP) — Do you want to see whether a robot can fold a piece of cloth? Interested in getting a robot dog or even a humanoid robot that could offer some emotional support? Or perhaps you just want to watch robots boxing and dancing? Come to Beijing.
 
-WRAL • 1h ago
+WRAL • 2h ago
 
 ---
 
 **[China robot makers flock to Beijing show, seek path to mass adoption](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
 **[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
 
-South China Morning Post • 1h ago
+South China Morning Post • 2h ago
 
 ---
 
@@ -144,7 +144,7 @@ South China Morning Post • 1h ago
 
 Coco Robotics, the leader in autonomous delivery, today announced a collaboration with Little Caesars, the third-largest pizza chain in the world, to bring autonomous robot deliveries to locations throughout Los Angeles, Chicago, and Miami, with Little Caesars deliveries coming soon to Coco's recently expanded operations in downtown San Jose.
 
-Yahoo Finance Singapore • 43m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance Singapore • 43m ago
 
 Unitree has unveiled a new "Superman" robot that can jump over 6.5 feet vertically. David Muir, who interviewed the company in May, reports on the race to lead in AI.
 
-ABC News - Breaking News, Latest News and Videos • 13h ago
+ABC News - Breaking News, Latest News and Videos • 14h ago
 
 ---
 
@@ -196,7 +196,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 12K • 👍 481 • 💬 59 • ⏱️ 14:10 • 13h ago
+👁️ 12K • 👍 481 • 💬 59 • ⏱️ 14:10 • 14h ago
 
 ---
 
@@ -214,7 +214,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 23K • 👍 2K • 💬 22 • ⏱️ 1:28 • 5h ago
+👁️ 23K • 👍 2K • 💬 22 • ⏱️ 1:28 • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it
 
 📺 ABC News (Australia)
 
-👁️ 11K • 👍 249 • ⏱️ 2:24 • 4h ago
+👁️ 11K • 👍 249 • ⏱️ 2:24 • 5h ago
 
 ---
 

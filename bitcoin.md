@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T13:43:43.282254+00:00'
+updated: '2026-08-19T14:33:21.671509+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 13:43 UTC  
+**Last Updated:** August 19, 2026 at 14:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -93,7 +93,23 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-20h ago
+21h ago
+
+---
+
+**[I think Bitcoin is a bit like the early watch industry](https://www.reddit.com/r/Bitcoin/comments/1vsjcxc/i_think_bitcoin_is_a_bit_like_the_early_watch/)**
+
+Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
+
+3h ago
+
+---
+
+**[Is the bottom already behind us?](https://www.reddit.com/r/Bitcoin/comments/1vsgszl/is_the_bottom_already_behind_us/)**
+
+Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
+
+5h ago
 
 ---
 
@@ -111,25 +127,9 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 ---
 
-**[Is the bottom already behind us?](https://www.reddit.com/r/Bitcoin/comments/1vsgszl/is_the_bottom_already_behind_us/)**
-
-Been sitting on this for a couple of days because I keep going back and forth on it. We're about 49% off the October high, price has been glued to the mid 60s for weeks, and realized vol is about as dead as I've seen it. Everyone I know is either quietly DCAing or has just stopped opening the app. Watched a Milk Road interview with Matt Crosby, onchain analyst, and his argument is basically that the capitulation already happened. He walks through several indicators that hit levels which historically only show up around bear market bottoms, and his take is that waiting for a clean $50K wick, or for an October bottom because "that's what usually happens," is anchoring to a pattern instead of reading the actual data. The part I found more interesting than the number was the framing. Long bleed, then sideways at low volatility, is what bottoms look like in hindsight, and it never feels like an opportunity while you're sitting in it. Bottoms are boring, not dramatic. Where I'm skeptical: onchain bottom signals have fired early plenty of times before. And most of those indicators were calibrated on cycles where BTC didn't have this much ETF and institutional flow underneath it. The holder base is structurally different now, so I'm not sure the historical comparisons carry the same weight they used to. Real question for people who have been through more than one cycle: do you still weight onchain metrics for timing, or has that stopped being useful for you? And does this stretch feel like late 2022 to anyone, or is that just what we all want it to feel like?
-
-4h ago
-
----
-
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-16h ago
-
----
-
-**[I think Bitcoin is a bit like the early watch industry](https://www.reddit.com/r/Bitcoin/comments/1vsjcxc/i_think_bitcoin_is_a_bit_like_the_early_watch/)**
-
-Being slightly passionate about watches and bitcoin, I keep thinking about bitcoin in the same way I think about watches. Why did people need watches when they already knew whether it was morning, afternoon or evening? The watch industry grew gradually because society became more dependent on precise time. Work, transport, productivity, efficiency and eventually competitive advantage made precision more valuable. So why bitcoin now when we already have bank accounts, credit cards, loans and a financial system that mostly works? I think that is a much more interesting way to approach bitcoin. Not “will the price go up?”, but what does bitcoin actually allow you to do or own that the existing system does not? And if you cannot answer that yet, maybe there is nothing wrong with simply not owning it yet.
-
-2h ago
+17h ago
 
 ---
 
@@ -137,13 +137,15 @@ Being slightly passionate about watches and bitcoin, I keep thinking about bitco
 
 Why buy and then freak out !
 
-11h ago
+12h ago
 
 ---
 
-**[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
+**[It's a real shame what happened with Coinkite since they do make some cool BTC utilities](https://www.reddit.com/r/Bitcoin/comments/1vsntqg/its_a_real_shame_what_happened_with_coinkite/)**
 
-23h ago
+I am relatively new to the space, I honestly discovered Coinkite when the hack first happened. Obviously curiosity bit me and I went to their site (obviously didn't buy lol). It just made me sad, they seem to make genuinely cool BTC utilities for the masses and take their BTC maximalism seriously. Stuff like the satscard, the opendime, and yes even the coldcard itself. It just sucks because some of this stuff is genuinely cool and useful but people aren't going to trust them. I just hope they learn from this. From what I read they seemed a little cocky. But if they manage to survive as a company I do think they do make some cool things. Please no hate, I'm just expressing how I feel.
+
+12m ago
 
 ---
 
@@ -155,7 +157,7 @@ Why buy and then freak out !
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 19h ago
+VanEck • 20h ago
 
 ---
 
@@ -163,7 +165,7 @@ VanEck • 19h ago
 
 Cryptocurrency bettors have dialed back hopes about Bitcoin (CRYPTO: BTC) reaching $100,000 in 2026, even as SkyBridge Capital founder Anthony Scaramucci remains optimistic about the asset reclaiming that key milestone. Prediction Market Skeptical About $100,000 Polygon (CRYPTO: POL)-based Polymarket currently...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -179,7 +181,7 @@ CNBC • 1d ago
 
 John Darsie, CEO of SALT and partner at SkyBridge, said bitcoin's changing holder base is part of a broader maturation process.
 
-theblock.co • 2h ago
+theblock.co • 3h ago
 
 ---
 
@@ -195,7 +197,7 @@ Yahoo Finance • 2h ago
 
 VanEck sees Bitcoin nearing a possible accumulation phase as eight capitulation indicators flash stress and ETF demand begins recovering.
 
-Bitcoin Foundation • 2h ago
+Bitcoin Foundation • 3h ago
 
 ---
 
@@ -203,7 +205,7 @@ Bitcoin Foundation • 2h ago
 
 Binance founder Changpeng “CZ” Zhao estimated on Saturday that 10–20% of all Bitcoin that have already been mined are effectively gone forever. Permanetly Lost BTC? CZ noted in an X post that 20.07 million BTC have already been mined, with...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -225,7 +227,7 @@ CNBC • 1d ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 23h ago
+CBS News • 1d ago
 
 ---
 
@@ -309,7 +311,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 20K • 👍 904 • 💬 203 • ⏱️ 22:30 • 20h ago
+👁️ 20K • 👍 904 • 💬 203 • ⏱️ 22:30 • 21h ago
 
 ---
 
@@ -319,7 +321,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Krown
 
-👁️ 212 • 👍 13 • 💬 34 • ⏱️ 1:02 • 28m ago
+👁️ 212 • 👍 13 • 💬 34 • ⏱️ 1:02 • 1h ago
 
 ---
 
@@ -339,7 +341,7 @@ Bitcoin #Crypto #finance Bitcoin may be nearing the end of its 11-month correcti
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 102 • 2h ago
+👁️ 1K • 👍 102 • 3h ago
 
 ---
 
@@ -357,7 +359,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 1K • 👍 17 • ⏱️ 0:57 • 19h ago
+👁️ 1K • 👍 17 • ⏱️ 0:57 • 20h ago
 
 ---
 
@@ -367,7 +369,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 3K • 👍 68 • 💬 3 • ⏱️ 0:57 • 21h ago
+👁️ 3K • 👍 68 • 💬 3 • ⏱️ 0:57 • 22h ago
 
 ---
 
