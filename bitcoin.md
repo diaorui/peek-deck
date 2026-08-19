@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T11:27:45.973327+00:00'
+updated: '2026-08-19T11:52:54.296420+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 11:27 UTC  
+**Last Updated:** August 19, 2026 at 11:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,410.97
+### $64,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.4%  
-**30d:** -3.2%  
-**90d:** -14.8%  
-**1y:** -43.8%  
+**24h:** +0.5%  
+**7d:** +1.6%  
+**30d:** -3.1%  
+**90d:** -14.6%  
+**1y:** -43.7%  
 
 ---
 
@@ -101,19 +101,19 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-21h ago
+22h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-13h ago
+14h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Why buy and then freak out !
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 https://satoshitimeline.com/1
 
-20h ago
+21h ago
 
 ---
 
@@ -155,15 +155,15 @@ https://satoshitimeline.com/1
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[Live updates: Bitcoin tepidly on the rise as stocks slip](https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite)**
+**[5 Best Crypto & Bitcoin Casinos – Ranked & Reviewed by Experts](https://muddyriversports.com/sponsored-content/5-best-crypto-bitcoin-casinos-ranked-reviewed-by-experts/20260816073000/)**
 
-The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
+🎰 Casinos 🎁 Welcome Bonus ⭐ Highlight 1. JACK.com 100 No-Wager Free Spins Best overall online casino 2. mBit Casino Up to 4 BTC + 325 Free Spins Multi-coin support and a very deep game catalogue 3. Thunderpick 100% match bonus up to €2,000 Crypto-led cashier and clearly separated game categories 4. Betwhale 250% up...
 
-CoinDesk • 15h ago
+Muddy River Sports • 2d ago
 
 ---
 
@@ -171,15 +171,15 @@ CoinDesk • 15h ago
 
 The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Is Citigroup (C) Changing Custody With Real Time Bitcoin And Traditional Assets?](https://finance.yahoo.com/markets/crypto/articles/citigroup-c-changing-custody-real-081313752.html)**
+**[Bitcoin Crashed 53%, Yet BlackRock Says a 1%-2% Allocation Still Makes Sense](https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashed-53-yet-blackrock-111340691.html)**
 
-Citigroup (NYSE:C) launched Custody+, a unified custody platform that combines traditional securities and digital assets, including Bitcoin. The service integrates near real-time processing with digital asset custody and advanced FX and liquidity tools on a single infrastructure. Custody+ is aimed at institutional clients that want digital asset exposure within existing global banking and custody arrangements. For readers interested in more ideas around resilient financial exposure linked...
+Bitcoin fell by 53% from its October 2025 record high, reaching a cycle low of $58,642 in June 2026. BlackRock attributed the crash to ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -187,13 +187,13 @@ Yahoo Finance • 3h ago
 
 BlackRock’s latest 10-year study showed that a 1-2% allocation to Bitcoin would have improved risk-adjusted returns in a traditional 60/40 portfolio.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -215,7 +215,7 @@ CNBC • 1d ago
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 21h ago
+syracuse.com • 22h ago
 
 ---
 
@@ -223,7 +223,7 @@ Syracuse.com • 21h ago
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-VanEck • 17h ago
+VanEck • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 19K • 👍 856 • 💬 146 • ⏱️ 22:30 • 18h ago
+👁️ 19K • 👍 856 • 💬 146 • ⏱️ 22:30 • 19h ago
 
 ---
 

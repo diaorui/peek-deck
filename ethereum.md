@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T11:27:45.979382+00:00'
+updated: '2026-08-19T11:52:54.301991+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 11:27 UTC  
+**Last Updated:** August 19, 2026 at 11:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +1.7%  
-**30d:** -0.7%  
-**90d:** -7.2%  
-**1y:** -55.8%  
+**24h:** +1.2%  
+**7d:** +1.9%  
+**30d:** -0.4%  
+**90d:** -7.0%  
+**1y:** -55.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 19h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-20h ago
+21h ago
 
 ---
 
@@ -128,7 +128,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 23h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 1d ago
 
 ---
 
@@ -174,19 +174,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
-
-The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
 
 PR Newswire • 1d ago
+
+---
+
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,11 +198,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Current price of Ethereum for Aug. 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 52m ago
+
+---
+
 **[What’s Next For Bitcoin, Ethereum and XRP Prices?](https://www.tradingview.com/news/coinpedia:3aea1b1e5094b:0-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
 
 Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
 
-TradingView • 18h ago
+tradingview.com • 18h ago
 
 ---
 
@@ -218,15 +226,7 @@ BeInCrypto • 1d ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 7h ago
-
----
-
-**[Assessing Bitcoin, Ethereum and XRP outlook amid escalating Middle East tensions](https://www.fxstreet.com/analysis/crypto-today-bitcoin-ethereum-xrp-falter-amid-escalating-us-iran-tensions-202608181100)**
-
-Cryptocurrency prices are broadly correcting on Tuesday, with Bitcoin (BTC) edging lower toward $64,000. Ethereum (ETH) shows weakness amid ongoing narrow-range consolidation, while Ripple (XRP) trades below $1.00, weighed down by falling technical indicators.
-
-FXStreet • 1d ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 436 • 👍 55 • ⏱️ 7:44 • 8h ago
+👁️ 436 • 👍 55 • ⏱️ 7:44 • 9h ago
 
 ---
 

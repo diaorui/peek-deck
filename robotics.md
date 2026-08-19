@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T11:27:45.982690+00:00'
+updated: '2026-08-19T11:52:54.304993+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 11:27 UTC  
+**Last Updated:** August 19, 2026 at 11:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ I want to learn how to design, control robots so i‘m planning to built my own 
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get that humanoids make for great demo videos, but I believe for 90% of real-w
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 16h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 17h ago
 
 ---
 
@@ -112,11 +112,9 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 ## Google News: "robotics"
 
-**[China’s backflipping robot maker Unitree pops 542% in Shanghai debut](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html)**
+**[Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)**
 
-Unitree Robotics shares rise 542% on their first day of trading in Shanghai
-
-CNBC • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -132,15 +130,13 @@ Ars Technica • 1d ago
 
 Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
+**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
 
-Persona AI sees near-term economic viability in heavy industrial humanoids
-
-IEEE Spectrum • 1d ago
+Reuters • 4h ago
 
 ---
 
@@ -168,17 +164,17 @@ Scientific American • 23h ago
 
 ---
 
-**[Ban on Chinese robots leaves U.S. startups stranded](https://restofworld.org/2026/china-robot-ban-silicon-valley/)**
-
-Rest of World • 2d ago
-
----
-
 **[Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html)**
 
 2026 was supposed to be a breakout year for Serve's business.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Serve Robotics partners with Grubhub in robot delivery expansion push](https://www.reuters.com/business/retail-consumer/serve-robotics-partners-with-grubhub-robot-delivery-expansion-push-2026-08-17/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -200,7 +196,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 Prasadtechshorts
 
-👁️ 8K • 👍 988 • 💬 10 • ⏱️ 1:28 • 2h ago
+👁️ 8K • 👍 988 • 💬 10 • ⏱️ 1:28 • 3h ago
 
 ---
 
