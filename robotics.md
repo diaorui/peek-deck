@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T17:50:59.646758+00:00'
+updated: '2026-08-19T18:35:24.776633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 17:50 UTC  
+**Last Updated:** August 19, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Robots inspect the first‑stage of the Zhuque‑3 rocket](https://www.reddit.com/r/robotics/comments/1vs90e8/robots_inspect_the_firststage_of_the_zhuque3/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 I want to learn how to design, control robots so i‘m planning to built my own robot, from actuator to every parts even softwares to control with. Since don’t have particular workplace like garage i need compact work station like desktop cnc and 3d printer which will placed in my room. Maker z1 and qidi or bambulab is the best choice i think and can’t find pcb makers for my diy control board. For who does similar projects like me. Want to ask recommendation for my project such as the best choice for printer and tools or extra tools that i need.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get that humanoids make for great demo videos, but I believe for 90% of real-w
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 23h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 1d ago
 
 ---
 
@@ -116,53 +116,35 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
-**[China robot makers seek to turn humanoid hype into useful work](https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/)**
+**[China robot makers show off latest humanoids as tech event draws surprise visit from Nvidia CEO’s daughter](https://nypost.com/2026/08/19/business/china-robot-makers-show-off-humanoids-at-world-robot-conference/)**
 
-Reuters • 1h ago
+Chinese robot makers showed off humanoids sorting parcels, packing mobile phones and helping with household chores at a Beijing conference on Wednesday, seeking to demonstrate a shift from crowd-pl…
 
----
-
-**[Exploring the future of robotics at 2026 World Robot Conference in Beijing](https://www.yahoo.com/news/videos/exploring-future-robotics-2026-world-151302974.html)**
-
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country’s expanding robotics industry.
-
-yahoo.com • 2h ago
+New York Post • 1h ago
 
 ---
 
-**[Live: Catch the next wave in robotics at World Robot Conference 2026](https://news.cgtn.com/news/2026-08-18/Live-Catch-the-next-wave-in-robotics-at-World-Robot-Conference-2026-1PIhSuZUqiI/p.html)**
+**[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
 
-The World Robot Conference 2026 kicks off in Beijing on August 19, bringing together leading robotics companies, experts and innovators from around the world.
-
-news.cgtn.com • 1d ago
+South China Morning Post • 6h ago
 
 ---
 
-**[Stephanie Link thinks this stock could be a unique AI and robotics play](https://www.cnbc.com/video/2026/08/19/stephanie-link-thinks-this-stock-could-be-a-unique-ai-and-robotics-play.html)**
+**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-Stephanie Link of Hightower Advisors breaks down why she thinks this industrial stock could benefit from the rise of AI and robotics.
-
-CNBC • 1h ago
+Reuters • 1d ago
 
 ---
 
-**[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference](https://www.tribdem.com/news/business/from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference/article_d76b7e21-a0a7-50c8-9268-78e67eeb1676.html)**
 
-The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
+China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry. Organizers say around 3,000 products will be featured during the five-day event.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
-
-Persona AI sees near-term economic viability in heavy industrial humanoids
-
-IEEE Spectrum • 2d ago
+The Tribune-Democrat • 35m ago
 
 ---
 
@@ -174,9 +156,9 @@ Ars Technica • 1d ago
 
 ---
 
-**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
+**[Ban on Chinese robots leaves U.S. startups stranded](https://restofworld.org/2026/china-robot-ban-silicon-valley/)**
 
-Bloomberg.com • 2d ago
+Rest of World • 2d ago
 
 ---
 
@@ -184,7 +166,21 @@ Bloomberg.com • 2d ago
 
 Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
+
+---
+
+**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
+
+Persona AI sees near-term economic viability in heavy industrial humanoids
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
+
+Bloomberg • 2d ago
 
 ---
 
@@ -198,7 +194,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 15K • 👍 527 • 💬 60 • ⏱️ 14:10 • 17h ago
+👁️ 17K • 👍 568 • 💬 63 • ⏱️ 14:10 • 18h ago
 
 ---
 
@@ -208,15 +204,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 47K • 👍 4K • 💬 512 • ⏱️ 8:40 • 1d ago
-
----
-
-**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
-
-📺 Prasadtechshorts
-
-👁️ 48K • 👍 3K • 💬 34 • ⏱️ 1:28 • 9h ago
+👁️ 47K • 👍 4K • 💬 523 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -226,7 +214,55 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 39K • 👍 857 • 💬 74 • ⏱️ 10:09 • 5d ago
+👁️ 40K • 👍 870 • 💬 78 • ⏱️ 10:09 • 5d ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 65K • 👍 4K • 💬 42 • ⏱️ 1:28 • 10h ago
+
+---
+
+**[Chinese humanoid robot &#39;Flash&#39; targets 100m world record#coolchina](https://www.youtube.com/watch?v=BCFIaspCR-o)**
+
+Chinese smart device maker Honor is putting its humanoid robot "Flash" through sprint training ahead of the second World ...
+
+📺 CGTN
+
+👁️ 9K • 👍 161 • 💬 12 • ⏱️ 0:18 • 12h ago
+
+---
+
+**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+
+📺 InsideAI
+
+👁️ 837K • 👍 30K • 💬 4K • ⏱️ 15:53 • 4d ago
+
+---
+
+**[China&#39;s Unitree Robotics surges 630% in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
+
+Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
+
+📺 ABC News (Australia)
+
+👁️ 25K • 👍 273 • ⏱️ 2:24 • 9h ago
+
+---
+
+**[“Loving” AI Robot Moya Is Shockingly HUMAN… And People Love Her](https://www.youtube.com/watch?v=bUSVg0IphUI)**
+
+Moya is taking humanoid robot realism to a whole new level and people can't stop talking about her. This “loving” AI robot is ...
+
+📺 NextGen Humanoids
+
+👁️ 8K • 👍 222 • 💬 32 • ⏱️ 9:46 • 5d ago
 
 ---
 
@@ -240,51 +276,13 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 ---
 
-**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+**[Chinese company unveils robot that jumps 2 meters](https://www.youtube.com/watch?v=Bd5x9HF3-44)**
 
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+Can robots outrun and outjump humans? Well, this one can… Chinese robotics company Unitree has unveiled its new ...
 
-📺 InsideAI
+📺 CGTN Europe
 
-👁️ 798K • 👍 28K • 💬 3K • ⏱️ 15:53 • 4d ago
-
----
-
-**[The Honor Robot Phone is absolutely insane.](https://www.youtube.com/watch?v=n3F996g8wjg)**
-
-Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS ...
-
-📺 Mrwhosetheboss
-
-👁️ 3.7M • 👍 94K • 💬 6K • ⏱️ 14:03 • 5d ago
-
----
-
-**[From Smartphone to Robot - HONOR’s Craziest Innovation Yet! #robotphone](https://www.youtube.com/watch?v=Luu2pbmPS70)**
-
-📺 ATC Android ToTo Company
-
-👁️ 59K • 👍 2K • 💬 62 • ⏱️ 2:59 • 5d ago
-
----
-
-**[So… this is how #Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
-
-Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
-
-📺 Страна Возможностей
-
-👁️ 63K • 👍 382 • 💬 101 • ⏱️ 0:22 • 5d ago
-
----
-
-**[Chinese humanoid robot &#39;Flash&#39; targets 100m world record](https://www.youtube.com/watch?v=8yJEGN53KFg)**
-
-Chinese smart device maker Honor is putting its humanoid robot "Flash" through sprint training ahead of the second World ...
-
-📺 CGTN Africa
-
-👁️ 3K • 👍 13 • 💬 3 • ⏱️ 0:18 • 11h ago
+👁️ 88K • 👍 1K • 💬 170 • ⏱️ 0:23 • 2d ago
 
 ---
 

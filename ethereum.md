@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T17:50:59.643390+00:00'
+updated: '2026-08-19T18:35:24.773282+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 17:50 UTC  
+**Last Updated:** August 19, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,083.98
+### $2,089.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +8.1%  
-**7d:** +9.9%  
-**30d:** +7.4%  
-**90d:** +0.3%  
-**1y:** -52.2%  
+**24h:** +9.0%  
+**7d:** +10.6%  
+**30d:** +8.1%  
+**90d:** +0.9%  
+**1y:** -51.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.29B
+**Market Cap:** $251.68B
 Rank #2
 
 **Circulating Supply:** 120,681,896 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.6%
+-57.8%
 
 **All-Time Low:** $0.43
-+484808.0%
++481551.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 17h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 18h ago
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
+**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schif](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 2h ago
+benzinga.com • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ CoinDesk • 1d ago
 
 **[Ethereum Climbs 9.2% -- Crypto Mover](https://www.moomoo.com/news/post/74946549/ethereum-climbs-9-2-crypto-mover)**
 
-Moomoo • 35m ago
+Moomoo • 1h ago
 
 ---
 
@@ -174,23 +174,15 @@ Moomoo • 35m ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Investors Aren't Keeping Pace With the Market, Bitwise's Matt Hougan Says: Beware These 3 Mistakes](https://www.tradingview.com/news/benzinga:448e89285094b:0-bitcoin-ethereum-xrp-investors-aren-t-keeping-pace-with-the-market-bitwise-s-matt-hougan-says-beware-these-3-mistakes/)**
+**[Solana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out](https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/)**
 
-Crypto investors may be underestimating how large the industry’s next growth phase could become since market perception has failed to keep pace with reality, according to Bitwise’s Matt Hougan.In his Aug. 18 weekly CIO memo, Bitwise’s Chief Investment Officer highlighted three mistakes investors ar…
+Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 4h ago
-
----
-
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
-
-Which of these altcoins has a better shot at a comeback?
-
-The Motley Fool • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -218,11 +210,19 @@ CoinDesk • 2d ago
 
 ---
 
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+
+Which of these altcoins has a better shot at a comeback?
+
+The Motley Fool • 2h ago
+
+---
+
 **[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 2h ago
+The Defiant • 3h ago
 
 ---
 
@@ -230,13 +230,23 @@ The Defiant • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+
+BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 1h ago
+
+---
+
 **[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 418 • 💬 268 • ⏱️ 17:08 • 1d ago
+👁️ 8K • 👍 425 • 💬 267 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -246,17 +256,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 168 • 💬 42 • ⏱️ 16:48 • 1d ago
+👁️ 4K • 👍 170 • 💬 43 • ⏱️ 16:48 • 1d ago
 
 ---
 
-**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading #gold‪ @tradesesikho](https://www.youtube.com/watch?v=Q4LCcH5okHk)**
 
-BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading #gold‪ ⁨@tradesesikho Btc Live Trading‬ ...
 
-📺 The Moon Show
+📺 Trade Se Sikho
 
-👁️ 4K • 👍 328 • 12h ago
+👁️ 35K • 👍 1K • 22h ago
+
+---
+
+**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
+
+BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 241 • 💬 132 • ⏱️ 23:24 • 18h ago
+
+---
+
+**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
+
+Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
+
+📺 Zarx Crypto
+
+👁️ 17K • 👍 2K • 💬 13 • ⏱️ 4:44 • 1d ago
 
 ---
 
@@ -270,13 +300,23 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 ---
 
-**[ETH Live Trading | Live Crypto Trading | BTC Trading Live](https://www.youtube.com/watch?v=sbBGHF0Vnxw)**
+**[Der unterschätzte Ethereum-Hebel, über den kaum jemand spricht](https://www.youtube.com/watch?v=OcMqReVddPs)**
 
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue „Blockchain-Investor“-App – mit exklusiven ...
 
-📺 Invest For Wealth
+📺 Krypto Report
 
-👁️ 3K • 👍 306 • 3h ago
+👁️ 4K • 👍 362 • 💬 6 • ⏱️ 14:46 • 1d ago
+
+---
+
+**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 9K • 👍 366 • 💬 15 • ⏱️ 2:54 • 2d ago
 
 ---
 
@@ -286,47 +326,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 444 • 💬 106 • ⏱️ 29:45 • 2d ago
-
----
-
-**[BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=867-nMgEd5s)**
-
-BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 233 • 💬 131 • ⏱️ 23:24 • 17h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=K4IQw6twBtY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 249 • 👍 31 • ⏱️ 7:24 • 3h ago
-
----
-
-**[LONG-TERM PREDICTION FOR ETHEREUM (Be Ready!)](https://www.youtube.com/watch?v=MBH5bAGRFkA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 197 • 👍 14 • ⏱️ 6:33 • 8h ago
-
----
-
-**[VOU TROCAR TODOS OS MEUS BITCOINS POR ETHEREUM](https://www.youtube.com/watch?v=BFnlTivEP6g)**
-
-Ethereum pode superar o Bitcoin no próximo ciclo de alta? Neste vídeo, Augusto Backes analisa o gráfico ETH/BTC e explica por ...
-
-📺 Augusto Backes
-
-👁️ 7K • 👍 468 • 💬 41 • ⏱️ 11:03 • 19h ago
+👁️ 4K • 👍 444 • 💬 105 • ⏱️ 29:45 • 2d ago
 
 ---
 

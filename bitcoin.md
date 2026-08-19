@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T17:50:59.637004+00:00'
+updated: '2026-08-19T18:35:24.766938+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 17:50 UTC  
+**Last Updated:** August 19, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,757.32
+### $67,845.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.9%  
-**7d:** +7.0%  
-**30d:** +2.1%  
-**90d:** -10.1%  
-**1y:** -40.7%  
+**24h:** +5.6%  
+**7d:** +7.6%  
+**30d:** +2.6%  
+**90d:** -9.6%  
+**1y:** -40.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1381.75B
+**Market Cap:** $1369.46B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-45.9%
 
 **All-Time Low:** $67.81
-+101433.7%
++100517.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,13 +95,13 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-2h ago
+3h ago
 
 ---
 
 **[Don't buy Bitcoin for your first name. Buy Bitcoin for your last name.](https://www.reddit.com/r/Bitcoin/comments/1vsi4mh/dont_buy_bitcoin_for_your_first_name_buy_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -109,19 +109,19 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
 
-2h ago
+3h ago
 
 ---
 
 **[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
 
-1h ago
+2h ago
 
 ---
 
 **[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 I know we’re supposed to thank someone for making the price go up.
 
-1h ago
+2h ago
 
 ---
 
@@ -137,13 +137,13 @@ I know we’re supposed to thank someone for making the price go up.
 
 Analysts say that Putin could seize assets if cash is needed for his stalling invasion
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 51m ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 1h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -153,57 +153,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 **[Bitcoin nears key technical breakout that could propel prices to $76,000](https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000)**
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks](https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000)**
-
-Bitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size
-
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin Climbs in High-Volume Trading](https://www.moomoo.com/news/post/74946598/bitcoin-climbs-in-high-volume-trading)**
-
-Moomoo • 41m ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
-
-Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Trump to host crypto executives as SEC considers regulations](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
-
-Reuters • 2h ago
-
----
-
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
-
-Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
-
-Fox News • 2h ago
-
----
-
-**[Crypto stocks break higher; Trump, Bitcoin emerge as double catalysts (MSTR:NASDAQ)](https://seekingalpha.com/news/4634991-crypto-stocks-break-higher-trump-bitcoin-emerge-as-double-catalysts)**
-
-Crypto stocks rally as Bitcoin breaks above $65K and Trump meets crypto leaders on U.S. regulation.
-
-Seeking Alpha • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -215,11 +165,59 @@ VanEck • 1d ago
 
 ---
 
+**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-most-since-march-155113259.html)**
+
+Bitcoin broke out of a months long trading range, surging as much as 7.7%, amid optimism on the regulatory front with industry officials gathering at the White House.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Trump to host crypto executives as SEC considers regulations](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
+
+Reuters • 1h ago
+
+---
+
+**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
+
+Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
+
+Fox News • 3h ago
+
+---
+
+**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
+
+Moomoo • 3h ago
+
+---
+
 **[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
 CNBC • 1d ago
+
+---
+
+**[Crypto stocks break higher; Trump, Bitcoin emerge as double catalysts (MSTR:NASDAQ)](https://seekingalpha.com/news/4634991-crypto-stocks-break-higher-trump-bitcoin-emerge-as-double-catalysts)**
+
+Crypto stocks rally as Bitcoin breaks above $65K and Trump meets crypto leaders on U.S. regulation.
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
+
+WSJ • 10h ago
 
 ---
 
@@ -277,33 +275,73 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+
+BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 416 • 💬 9 • ⏱️ 1:38:08 • 1h ago
+
+---
+
 **[The Money Printer Is Surging and Bitcoin Won&#39;t Move — What&#39;s Really Going On?](https://www.youtube.com/watch?v=Ez90WQSniIg)**
 
 Bitcoin is stuck near $64000 even as money supply and global liquidity surge, creating one of the strangest divergences in Bitcoin ...
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 172 • ⏱️ 18:59 • 1d ago
+👁️ 34K • 👍 2K • 💬 174 • ⏱️ 18:59 • 1d ago
 
 ---
 
-**[Bitcoin Live Trading: BTC Bulls and Bears Are Fighting for Control EP2097](https://www.youtube.com/watch?v=BGGwMn2cgJg)**
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
 
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
 
-📺 Crypto Lifer
+📺 CNBC Television
 
-👁️ 5K • 👍 525 • 4h ago
+👁️ 66K • 👍 837 • 💬 268 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[Hackers Stole $38 Million in Bitcoin in 25 Minutes, And It’s Getting Worse...](https://www.youtube.com/watch?v=BEIBh91X_2c)**
+**[Bitcoin&#39;s HUGE Buy Signal! Is the Bottom In?](https://www.youtube.com/watch?v=W_xcQZuV4KU)**
 
-I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
+bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers and irresponsible people, it should be known that I ...
 
-📺 Mark Moss
+📺 Crypto Love
 
-👁️ 21K • 👍 936 • 💬 164 • ⏱️ 22:30 • 1d ago
+👁️ 160 • 👍 13 • 💬 22 • ⏱️ 1:40 • 1h ago
+
+---
+
+**[Bitcoin is LITERALLY about to EXPLODE! (Explained in 8 minutes)](https://www.youtube.com/watch?v=7QJ0-gebfGY)**
+
+Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:25 • 2d ago
+
+---
+
+**[🚨LIVE: White House Crypto Meeting](https://www.youtube.com/watch?v=92CWlEhrUTE)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 78 • 1h ago
+
+---
+
+**[🔴 FOMC Minutes LIVE: Money Printing Is Back? (Stocks, Bitcoin &amp; XRP)](https://www.youtube.com/watch?v=t0-1NsujT9c)**
+
+One subscription, everything included: newsletter + chart course + indicators + Discord access, 25% off ...
+
+📺 Martyn Lucas INVESTOR
+
+👁️ 4K • 👍 200 • 2h ago
 
 ---
 
@@ -313,7 +351,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 446 • ⏱️ 29:49 • 22h ago
+👁️ 5K • 👍 451 • ⏱️ 29:49 • 23h ago
 
 ---
 
@@ -323,53 +361,17 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 89 • ⏱️ 10:53 • 1d ago
+👁️ 25K • 👍 1K • 💬 89 • ⏱️ 10:53 • 1d ago
 
 ---
 
-**[AI Just Outbid Bitcoin For Its Own Power](https://www.youtube.com/watch?v=24jQYTCYDtU)**
+**[Bitcoin Just Hit 6 of 8. At 7, the Median Is +25% in 90 Days.](https://www.youtube.com/watch?v=rya1941s2ck)**
 
-📺 Joe Consorti
+888 alignment events backtested since 2013. At 7 of 8 timeframes aligned, the median 90-day return is +25.6% - and the hit rate ...
 
-👁️ 908 • 👍 32 • 💬 7 • ⏱️ 1:30 • 6h ago
+📺 Krown
 
----
-
-**[Saifedean Ammous – Gold vs Bitcoin and the END of the Dollar](https://www.youtube.com/watch?v=bmafjUj197s)**
-
-Saifedean Ammous joins Mark Moss to discuss why fiat money, inflation, and central banking are making it harder to build wealth, ...
-
-📺 Market Disruptors Podcast
-
-👁️ 16K • 👍 614 • 💬 180 • ⏱️ 1:08:09 • 1d ago
-
----
-
-**[BREAKING: CHINA JUST SENT A MASSIVE BITCOIN WARNING AT AMERICA!!! | EP 1572](https://www.youtube.com/watch?v=m_GQfFnOMT8)**
-
-Bitcoin as a reserve asset is finding escape velocity .
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 385 • 💬 32 • ⏱️ 1:30:51 • 22h ago
-
----
-
-**[ANOTHER XRP BANK JUST DROPPED! EMERGENCY BITCOIN BOOST #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=gkgKAb-QXS4)**
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 570 • 💬 32 • ⏱️ 2:07 • 16h ago
-
----
-
-**[Bitcoin: Beware of This False Move](https://www.youtube.com/watch?v=AL9X-XdHk2Y)**
-
-NEW SUBSTACK VIDEO REPORTS ARE HERE (SUBSCRIBE FOR UPDATES) → https://substack.com/@theinvestoraccelerator ...
-
-📺 Jason Pizzino
-
-👁️ 15K • 👍 846 • 💬 67 • ⏱️ 24:12 • 16h ago
+👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:02 • 5h ago
 
 ---
 
