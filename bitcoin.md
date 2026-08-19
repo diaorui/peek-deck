@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T04:36:35.519171+00:00'
+updated: '2026-08-19T05:30:33.484664+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 04:36 UTC  
+**Last Updated:** August 19, 2026 at 05:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.3%  
+**24h:** +0.1%  
+**7d:** +1.4%  
 **30d:** -3.3%  
 **90d:** -14.8%  
 **1y:** -43.9%  
@@ -81,13 +81,13 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-11h ago
+12h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,19 +101,19 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-7h ago
+8h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-14h ago
+15h ago
 
 ---
 
 **[If someone managed to steal Satoshi’s BTC, would the community hunt them down, or would people actually be impressed and just let it slide?](https://www.reddit.com/r/Bitcoin/comments/1vs9x74/if_someone_managed_to_steal_satoshis_btc_would/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 Why buy and then freak out !
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Why buy and then freak out !
 
 https://satoshitimeline.com/1
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ https://satoshitimeline.com/1
 
 BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 9h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 10h ago
 
 ---
 
@@ -157,7 +157,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -165,37 +165,29 @@ The Block • 9h ago
 
 Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[3 Battles Japan Is Losing at Once, Will Bitcoin Feel the Yen Shock?](https://www.mitrade.com/au/insights/currency/jpy/beincrypto-USDJPY-202608191003)**
+**[Anthony Scaramucci Predicts Bitcoin Will Surpass $100,000, Standard Chartered Says 2026-End Target Remains on Track— But Crypto Punters Have This to Say](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-predicts-bitcoin-surpass-041359300.html)**
 
-Japan is losing three financial battles at once as its currency, bond, and debt defenses fail together. The yen has erased most of a rare US-backed rescue, and Bitcoin (BTC) traders are bracing for th
+Cryptocurrency bettors have dialed back hopes about Bitcoin (CRYPTO: BTC) reaching $100,000 in 2026, even as SkyBridge Capital founder Anthony Scaramucci remains optimistic about the asset reclaiming that key milestone. Prediction Market Skeptical About $100,000 Polygon (CRYPTO: POL)-based Polymarket currently...
 
-Mitrade • 2h ago
-
----
-
-**[3 Reasons MicroStrategy (MSTR) Stock Could Climb While Bitcoin Remains Flat](https://www.mitrade.com/au/insights/stock-analysis/us-stocks/beincrypto-MSTR-202608191004)**
-
-Strategy (MSTR) stock is climbing back toward $100, closing Monday near $97.68 after a 5% jump, even though the Bitcoin behind it has barely moved near $64,000.The stock is down about 38% in 2026, a s
-
-Mitrade • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?](https://www.mitrade.com/au/insights/index/spx500/beincrypto-US-202608191009)**
+**[How a hidden flaw in Coldcard wallets led to an $88.6m Bitcoin theft](https://www.thenationalnews.com/business/money/2026/08/19/how-a-hidden-flaw-in-coldcard-wallets-led-to-an-886m-bitcoin-theft/)**
 
-The S&P 500 closed down 0.52% on Monday while Bitcoin surged past $64,000, a sharp divergence just two days before the Federal Reserve releases its July meeting minutes.Markets are now in a holding pa
+July attack raises question of whether eliminating intermediaries is worth accepting risks yourself
 
-Mitrade • 1h ago
+thenationalnews.com • 2h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -203,7 +195,13 @@ Bloomberg • 12h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 14h ago
+CBS News • 15h ago
+
+---
+
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+
+Syracuse.com • 15h ago
 
 ---
 
@@ -215,17 +213,19 @@ CNBC • 1d ago
 
 ---
 
-**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
-
-Syracuse.com • 14h ago
-
----
-
 **[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
 
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
 BlackRock • 1d ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 11h ago
 
 ---
 
@@ -309,7 +309,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 14K • 👍 721 • 💬 129 • ⏱️ 22:30 • 11h ago
+👁️ 14K • 👍 721 • 💬 129 • ⏱️ 22:30 • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 796 • 👍 14 • ⏱️ 0:57 • 10h ago
+👁️ 796 • 👍 14 • ⏱️ 0:57 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 2K • 👍 53 • 💬 3 • ⏱️ 0:57 • 12h ago
+👁️ 2K • 👍 53 • 💬 3 • ⏱️ 0:57 • 13h ago
 
 ---
 
@@ -359,7 +359,7 @@ XRP #Ripple #CryptoCrash Join this livestream for an in-depth discussion on XRP,
 
 📺 Forever Tati
 
-👁️ 8K • 👍 4K • 5h ago
+👁️ 8K • 👍 4K • 6h ago
 
 ---
 

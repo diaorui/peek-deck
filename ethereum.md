@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T04:36:35.523259+00:00'
+updated: '2026-08-19T05:30:33.490170+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 04:36 UTC  
+**Last Updated:** August 19, 2026 at 05:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,914.75
+### $1,911.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +1.3%  
-**30d:** -1.0%  
-**90d:** -7.5%  
+**24h:** +0.6%  
+**7d:** +1.5%  
+**30d:** -0.9%  
+**90d:** -7.4%  
 **1y:** -55.9%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 12h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 4h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 17h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 18h ago
 
 ---
 
@@ -128,7 +128,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -144,7 +144,7 @@ Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåbe
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-coindesk.com • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -174,6 +174,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
+
+The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
@@ -182,19 +190,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ coindesk.com • 1d ago
 
 Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 11h ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 10h ago
+cryptoslate.com • 11h ago
 
 ---
 
@@ -218,15 +218,15 @@ CryptoSlate • 10h ago
 
 Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
-**[Bullski Presale Passes 1.14 Billion Tokens Sold as Stage One Nears Completion on Ethereum](https://markets.businessinsider.com/news/stocks/bullski-presale-passes-1-14-billion-tokens-sold-as-stage-one-nears-completion-on-ethereum-1036470376)**
+**[FalconX and Interstice connect Canton Network to Ethereum, Solana, and Robinhood Chain via cross-chain swap engine](https://cryptobriefing.com/falconx-interstice-canton-ethereum-solana-robinhood-chain/)**
 
-LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
+Interstice Digital and FalconX launch a non-custodial cross-chain swap engine connecting Canton Network's $8T tokenized-asset market to Ethereum,
 
-markets.businessinsider.com • 14h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN PRICE TRAP: Exact Prediction Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 1K • 👍 132 • 💬 116 • ⏱️ 23:24 • 4h ago
+👁️ 1K • 👍 132 • 💬 116 • ⏱️ 23:24 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 126 • 💬 43 • ⏱️ 16:48 • 12h ago
+👁️ 2K • 👍 126 • 💬 43 • ⏱️ 16:48 • 13h ago
 
 ---
 
@@ -280,7 +280,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 2K • 👍 228 • 💬 83 • ⏱️ 14:46 • 12h ago
+👁️ 2K • 👍 228 • 💬 83 • ⏱️ 14:46 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ Lista de Espera Enfoque 3D Pro Plan Trading: ➡️ https://www.proplantrading.c
 
 📺 Julio Alfaro
 
-👁️ 1K • 👍 125 • 💬 46 • ⏱️ 13:41 • 10h ago
+👁️ 1K • 👍 125 • 💬 46 • ⏱️ 13:41 • 11h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 115 • 👍 25 • ⏱️ 7:44 • 1h ago
+👁️ 115 • 👍 25 • ⏱️ 7:44 • 2h ago
 
 ---
 

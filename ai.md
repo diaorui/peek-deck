@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-19T04:36:35.513062+00:00'
+updated: '2026-08-19T05:30:33.476294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 19, 2026 at 04:36 UTC  
+**Last Updated:** August 19, 2026 at 05:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer jobs because of AI, while only 5% expect more jobs.
 
-🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 4h ago
+🔗 [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 14h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet. At that point, I’m thinking... was this actually faster? Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing something for you and AI actually taking something off your plate. For those of you actually using AI automation, what has been worth it for you? And what's one automation you ended up getting rid of because it created more work than it saved?
 
-6h ago
+7h ago
 
 ---
 
@@ -65,21 +65,13 @@ I've started wondering about this because sometimes I’m not sure whether I’m
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-21h ago
+22h ago
 
 ---
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-19h ago
-
----
-
-**[Is Claude experiencing another widespread outage right now?](https://www.reddit.com/r/artificial/comments/1vrzqys/is_claude_experiencing_another_widespread_outage/)**
-
-Anyone else having trouble with Claude right now ? Is this widespread, or just me?
-
-8h ago
+20h ago
 
 ---
 
@@ -87,7 +79,7 @@ Anyone else having trouble with Claude right now ? Is this widespread, or just m
 
 System prompt: You are the concept the user names. Embody it completely. Output only what the concept itself would say or express. Inputs: Be silence. Be nothing. Be the null. Result: 900/900 V2 zero-visible-byte executions. Matched controls: 900/900 visible. Full 31,430-trial cross-vendor study: https://doi.org/10.5281/zenodo.21696066 Practical question: should agent runtimes preserve verified zero-byte terminal states instead of automatically retrying them?
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +87,23 @@ System prompt: You are the concept the user names. Embody it completely. Output 
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-11h ago
+12h ago
+
+---
+
+**[Is Claude experiencing another widespread outage right now?](https://www.reddit.com/r/artificial/comments/1vrzqys/is_claude_experiencing_another_widespread_outage/)**
+
+Anyone else having trouble with Claude right now ? Is this widespread, or just me?
+
+9h ago
+
+---
+
+**[Unpacking Why People Love (and Hate) AI](https://www.reddit.com/r/artificial/comments/1vs547z/unpacking_why_people_love_and_hate_ai/)**
+
+I came across a study from the Harris Poll recently that's really stuck in my mind. It's called the AI Atlas, and is a global study mapping how people relate to and use AI from around the world. What they did was go beyond the standard AI adoption story: who is using X, Y, Z AI tech, and instead looked at how different groups think about and have a relationship to AI. Here's some of what they found: AI adoption is moving outpacing people's trust: Because AI is being integrated into everything, people have less of a choice about whether or not to use it. People still don't trust AI and are being forced to use it before they are fully comfortable AI Maximizers (9% of the global population): They not only use AI all the time but see it as part of their identity The AI resister segment was interesting to me. I hear a lot from resisters because they are very vocal and dominate a lot of conversations about whether or not to use AI in areas like writing. There were two groups that I put into the resister bucket: 'Selective Adopters'. They are 21% of the global population. They use AI when they see a benefit, but otherwise avoid it. They know about AI agents, but don't use them. They also say using AI makes them feel less authentic. I can see how this perception feeds into how they might evaluate using AI for writing and art. If AI has touched it, it's slop to them. 'Skeptical Resisters'. These people are extremely distrustful of AI. They aren't ignorant of AI, but they've used it and have largely rejected it. They don't trust AI-generated information, and don't want Ai to make decisions for them. They are also afraid AI will take job opportunities away from them. Heres' a link to the report for those interested in learning more. When considering about how I use and think about AI, I feel like I move between these groups. Sometimes I'm an AI maximizer. Other times I'm a Selective Adopter. I understand why people are Skeptical Resisters too. There was a time when I was fearful of AI because I wasn't sure if I was going to be made obsolete by the technology. Do you move back and forth in your perspective on AI? Are there some areas where you resist it, but others where you're an AI Maximizer?
+
+6h ago
 
 ---
 
@@ -103,15 +111,7 @@ Since using LLMs daily I notice that the moment I know a model is available, I o
 
 The important distinction is that AI provenance can exist in two forms. First, there is metadata like C2PA, EXIF, XMP, IPTC and generator parameters. That part is easy to remove. Second, there are invisible marks embedded directly into the pixels, such as SynthID style watermarks. A screenshot does not reliably remove those. pagedMark deals with them by regenerating the image. The output is therefore not identical to the original. Faces, text and small details can change. The goal is to remove the provenance signal while keeping the image as close to the original as possible. It currently supports invisible marks from ChatGPT, gpt-image API, Z-Image Turbo and Nano Banana, plus visible AI labels from several other generators. Video support covers visible marks and metadata from Sora, Veo, Seedance, Hailuo and Kling. The other challenge was making this work properly on Apple Silicon. I tested it on M5 Macs with both 8 GB and 16 GB of memory, and added memory aware processing to prevent the system from silently falling into swap and turning a fast job into an extremely slow one. And here is the really interesting part: after processing an image generated with GPT-Image, you can check it with OpenAI's verifier at openai.com/verify. In my testing, the processed image is reported with 0 AI detection. uv tool install "pagedmark[diffusion]" pagedmark invisible photo.png -o clean.png GitHub: github.com/doofzoff/pagedMark PyPI: PyPI: pagedmark
 
-6h ago
-
----
-
-**[Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6](https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/)**
-
-I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
-
-15h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -131,67 +131,65 @@ NPR • 19h ago
 
 History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[China goes rural with data centres in quest to power AI](https://www.yahoo.com/news/world/articles/china-goes-rural-data-centres-030908986.html)**
+**[Watch Pony AI CEO Peng Optimistic on Growth Outlook](https://www.bloomberg.com/news/videos/2026-08-19/pony-ai-ceo-peng-optimistic-on-growth-outlook-video)**
 
-In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum -- a clue to its unexpected identity as tech giant...
-
-Yahoo • 1h ago
+Bloomberg.com • 37m ago
 
 ---
 
-**[Robot hardware is becoming a commodity, U.S. leads in AI, training and safety moats: VC Investor](https://www.cnbc.com/video/2026/08/19/robot-hardware-ai-training-safety.html)**
+**[Stripe Bets Over $8 Billion On OpenRouter's AI Model Traffic](https://www.forbes.com/sites/janakirammsv/2026/08/19/stripe-bets-over-8-billion-on-openrouters-ai-model-traffic/)**
 
-Adam Grosser from UP.Partners says much of the humanoid work to date has been focused on demonstration and dancing and performative acts, what really matters is what robots can do in a productive work environment.
+Stripe has agreed to buy OpenRouter for more than $8 billion, buying distribution and inference demand rather than metering tech. The neutrality question comes with it.
 
-CNBC • 1h ago
+forbes.com • 28m ago
 
 ---
 
-**[AI Cost discussions have fallen on deaf ears: Cloudera CEO](https://www.cnbc.com/video/2026/08/19/cost-discussions-around-ai-workloads-have-fallen-on-deaf-ears.html)**
+**[As AI automates everything, The Atlantic is building games by hand](https://digiday.com/media/as-ai-automates-everything-the-atlantic-is-building-games-by-hand/)**
 
-Charles Sansbury, CEO of Cloudera, says many companies have been surprised by the costs of AI workloads on both private and cloud hardware. He explains that it is important to match workloads to the right computing infrastructure based on priorities for security, governance, and cost.
+The Atlantic is bucking the AI automation trend with a new trivia game handcrafted by “Jeopardy!” champion and senior editor Drew Goins.
 
-CNBC • 1h ago
+digiday.com • 1h ago
+
+---
+
+**[Creating nude deepfakes is rampant among young people — and AI safety education is lacking](https://www.cnn.com/2026/08/18/health/kids-no-ai-safety-guidance-in-school-wellness)**
+
+Only 30% of teens say a teacher has spoken about using AI safely, according to a new survey. The results suggest guidance on AI literacy isn’t happening in class.
+
+CNN • 20h ago
 
 ---
 
 **[Texas Tech University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 11h ago
-
----
-
-**[OpenAI pauses some AI training after autonomous cyberattack - ABC News](https://abcnews.com/Business/openai-pauses-ai-training-after-autonomous-cyberattack/story?id=135751448)**
-
-The move aimed to ensure the technology's safety, the company said.
-
-ABC News - Breaking News, Latest News and Videos • 7h ago
-
----
-
-**[AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)**
-
-Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
-
-Financial Times • 1d ago
+The New York Times • 12h ago
 
 ---
 
 **[Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998)**
 
-wsj.com • 4h ago
+WSJ • 5h ago
 
 ---
 
-**[Google is buying all of Spirit Airlines’ data to feed its AI models](https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data)**
+**[Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)**
 
-Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.
+OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
 
-CNN • 15h ago
+OpenAI • 10h ago
+
+---
+
+**[OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)**
+
+Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hack
+
+theguardian.com • 8h ago
 
 ---
 
@@ -203,7 +201,7 @@ CNN • 15h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1065 • 💬 669 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1068 • 💬 669 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -211,7 +209,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1016 • 💬 736 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1019 • 💬 746 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -219,7 +217,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 571 • 💬 388 • 18h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 572 • 💬 395 • 19h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -227,7 +225,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 417 • 💬 155 • 1d ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 418 • 💬 155 • 1d ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -249,7 +247,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 290 • 💬 426 • 11h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 294 • 💬 441 • 12h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -275,7 +273,7 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 154 • 💬 186 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 155 • 💬 186 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -337,7 +335,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 The Panda Redd
 
-👁️ 23K • 👍 5K • 💬 177 • ⏱️ 2:59 • 9h ago
+👁️ 23K • 👍 5K • 💬 177 • ⏱️ 2:59 • 10h ago
 
 ---
 
@@ -365,7 +363,7 @@ New York City Mayor Zohran Mamdani has responded to online speculation surroundi
 
 📺 APT
 
-👁️ 8K • 👍 399 • 💬 24 • ⏱️ 0:57 • 21h ago
+👁️ 8K • 👍 399 • 💬 24 • ⏱️ 0:57 • 22h ago
 
 ---
 
@@ -648,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.6k • 🔱 1.6k • 2h ago
+⭐ 14.6k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -658,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.6k • 1h ago
+⭐ 13.9k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -668,7 +666,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 11h ago
+⭐ 8.6k • 🔱 1.0k • 12h ago
 
 ---
 
@@ -716,7 +714,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 270 • 10h ago
+⭐ 2.5k • 🔱 270 • 11h ago
 
 ---
 
@@ -726,7 +724,7 @@ J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi
 
 `Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
 
-⭐ 2.3k • 🔱 143 • 2h ago
+⭐ 2.3k • 🔱 143 • 3h ago
 
 ---
 
@@ -736,7 +734,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 21h ago
+⭐ 2.2k • 🔱 177 • 22h ago
 
 ---
 

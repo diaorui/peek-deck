@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T04:36:35.525447+00:00'
+updated: '2026-08-19T05:30:33.493231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 04:36 UTC  
+**Last Updated:** August 19, 2026 at 05:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-11h ago
+12h ago
 
 ---
 
@@ -116,9 +116,27 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 ## Google News: "robotics"
 
-**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+**[China’s backflipping robot maker Unitree pops 542% in Shanghai debut](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html)**
 
-Bloomberg • 5h ago
+Unitree Robotics shares rise 542% on their first day of trading in Shanghai
+
+CNBC • 3h ago
+
+---
+
+**[Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/)**
+
+“We're not necessarily building in a dogmatic fashion towards full autonomy.”...
+
+Ars Technica • 1d ago
+
+---
+
+**[ECU Health surgeon first in state to use robotics during lung lobe removal](https://www.witn.com/2026/08/18/ecu-health-surgeon-first-state-use-robotics-during-lung-lobe-removal/)**
+
+Dr. Robert Allman, a cardiothoracic surgeon with ECU Health, performed the lobectomies earlier this summer.
+
+WITN • 11h ago
 
 ---
 
@@ -128,37 +146,29 @@ The New York Times • 1d ago
 
 ---
 
-**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
+**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
 
-Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
+We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 9h ago
+Business Insider • 1d ago
 
 ---
 
 **[Ban on Chinese robots leaves U.S. startups stranded](https://restofworld.org/2026/china-robot-ban-silicon-valley/)**
 
-Rest of World • 1d ago
+restofworld.org • 1d ago
 
 ---
 
 **[Robotic rescue missions are sparking a spaceflight revolution](https://www.scientificamerican.com/article/robotic-rescue-missions-are-sparking-a-spaceflight-revolution/)**
 
-Scientific American • 16h ago
+Scientific American • 17h ago
 
 ---
 
-**[ECU Health surgeon first in state to use robotics during lung lobe removal](https://www.witn.com/2026/08/18/ecu-health-surgeon-first-state-use-robotics-during-lung-lobe-removal/)**
+**[Serve Robotics partners with Grubhub in robot delivery expansion push](https://www.reuters.com/business/retail-consumer/serve-robotics-partners-with-grubhub-robot-delivery-expansion-push-2026-08-17/)**
 
-Dr. Robert Allman, a cardiothoracic surgeon with ECU Health, performed the lobectomies earlier this summer.
-
-WITN • 10h ago
-
----
-
-**[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
-
-MSN • 9h ago
+Reuters • 1d ago
 
 ---
 
@@ -172,13 +182,7 @@ Yahoo Finance • 1d ago
 
 **[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
 
-Bloomberg • 1d ago
-
----
-
-**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
-
-Axios • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -192,7 +196,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 3K • 👍 230 • 💬 33 • ⏱️ 14:10 • 4h ago
+👁️ 3K • 👍 230 • 💬 33 • ⏱️ 14:10 • 5h ago
 
 ---
 
@@ -252,7 +256,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 78 • 💬 2 • ⏱️ 0:51 • 11h ago
+👁️ 2K • 👍 78 • 💬 2 • ⏱️ 0:51 • 12h ago
 
 ---
 
@@ -262,7 +266,7 @@ The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot
 
 📺 The Straits Times
 
-👁️ 491 • 👍 5 • ⏱️ 0:26 • 2h ago
+👁️ 491 • 👍 5 • ⏱️ 0:26 • 3h ago
 
 ---
 
