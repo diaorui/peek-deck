@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T23:22:22.932428+00:00'
+updated: '2026-08-19T23:47:28.725528+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 23:22 UTC  
+**Last Updated:** August 19, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,277.88
+### $2,248.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +18.1%  
-**7d:** +20.0%  
-**30d:** +17.3%  
-**90d:** +9.5%  
-**1y:** -47.8%  
+**24h:** +17.8%  
+**7d:** +19.6%  
+**30d:** +16.8%  
+**90d:** +9.1%  
+**1y:** -48.0%  
 
 ---
 
@@ -132,7 +132,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 **[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
 
-🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 9h ago
+🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 10h ago
 
 ---
 
@@ -148,25 +148,17 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 ## Google News: "ethereum"
 
+**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
+
+Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
+
+Benzinga • 8h ago
+
+---
+
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 1d ago
-
----
-
-**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
-
-tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
-
-ethereum.org • 2d ago
-
----
-
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
-
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
-
-MarketForces Africa • 1h ago
 
 ---
 
@@ -186,19 +178,19 @@ The Block • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
 
-Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-Benzinga • 7h ago
+MarketForces Africa • 2h ago
 
 ---
 
-**[Solana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out](https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/)**
+**[Ethereum: Glamsterdam upgrade activates - By 24 Aug 2026](https://www.tradingview.com/news/coinmarketcal:185dc1c1b094b:0-ethereum-glamsterdam-upgrade-activates-by-24-aug-2026/)**
 
-Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
+Ethereum will activate the Glamsterdam upgrade within the announced activation window, according to Ethereum's announcement of the Glamsterdam upgrade. The update is a protocol release, so the source-confirmed change is the network's move from preparation to scheduled activation rather than a separ…
 
-TradingView • 7h ago
+TradingView • 6h ago
 
 ---
 
@@ -222,7 +214,15 @@ PR Newswire • 2d ago
 
 Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
 
-beincrypto.com • 1d ago
+BeInCrypto • 1d ago
+
+---
+
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+
+Which of these altcoins has a better shot at a comeback?
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 165 • 💬 11 • ⏱️ 6:58 • 3h ago
+👁️ 3K • 👍 165 • 💬 11 • ⏱️ 6:58 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 656 • 💬 300 • ⏱️ 28:47 • 13h ago
+👁️ 6K • 👍 656 • 💬 300 • ⏱️ 28:47 • 14h ago
 
 ---
 
@@ -264,7 +264,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 Discover Crypto
 
-👁️ 172 • 👍 6 • 💬 2 • ⏱️ 0:34 • 22m ago
+👁️ 172 • 👍 6 • 💬 2 • ⏱️ 0:34 • 47m ago
 
 ---
 

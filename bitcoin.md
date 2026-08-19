@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-19T23:22:22.926102+00:00'
+updated: '2026-08-19T23:47:28.719510+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 23:22 UTC  
+**Last Updated:** August 19, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,277.46
+### $69,337.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.0%  
+**24h:** +7.3%  
 **7d:** +9.1%  
-**30d:** +4.1%  
-**90d:** -8.3%  
+**30d:** +4.0%  
+**90d:** -8.4%  
 **1y:** -39.6%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Got any plans today? Me:](https://www.reddit.com/r/Bitcoin/comments/1vszp9n/got_any_plans_today_me/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-7h ago
+8h ago
 
 ---
 
@@ -133,11 +133,9 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 ---
 
-**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
+**[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
 
-Analysts say that Putin could seize assets if cash is needed for his stalling invasion
-
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 6h ago
+2h ago
 
 ---
 
@@ -151,25 +149,23 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks](https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000)**
+**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-Bitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size
-
-Bitcoin Magazine • 7h ago
+WSJ • 15h ago
 
 ---
 
-**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
+**[Bitcoin briefly hits $70,000 for the first time since June. Here is why](https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why)**
 
-bloomberg.com • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
+**[Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades](https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html)**
 
-Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
+President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.
 
-Yahoo Finance • 7h ago
+CNBC • 1h ago
 
 ---
 
@@ -177,27 +173,15 @@ Yahoo Finance • 7h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
-**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
+**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
 
-wsj.com • 3h ago
+Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
 
----
-
-**[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
-
-Reuters • 2h ago
-
----
-
-**[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
-
-Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
-
-CNBC • 1d ago
+Forbes • 4h ago
 
 ---
 
@@ -213,7 +197,19 @@ VanEck • 1d ago
 
 The Clarity Act's approval may be what's needed to get Bitcoin back to its all-time high, but whether that happens is by no means a sure thing.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
+
+---
+
+**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
+
+Moomoo • 8h ago
+
+---
+
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+
+Syracuse.com • 1d ago
 
 ---
 
@@ -275,11 +271,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[FerrumPix – Fotoverwaltung, Raw-Editor Und Immich/Nextcloud-Client](https://news.ycombinator.com/item?id=49367952)**
+**[Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich & Nextcloud Client](https://news.ycombinator.com/item?id=49367952)**
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 1 • 💬 0 • 59m ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -313,7 +309,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 6K • 👍 486 • 💬 36 • ⏱️ 9:33 • 7h ago
+👁️ 6K • 👍 486 • 💬 36 • ⏱️ 9:33 • 8h ago
 
 ---
 
@@ -383,7 +379,7 @@ The SEC proposed a new crypto framework without waiting for Congress. $487 milli
 
 📺 Kyle Chasse crypto
 
-👁️ 556 • 👍 60 • 💬 3 • ⏱️ 15:34 • 4h ago
+👁️ 556 • 👍 60 • 💬 3 • ⏱️ 15:34 • 5h ago
 
 ---
 

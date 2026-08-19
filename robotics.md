@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T23:22:22.935776+00:00'
+updated: '2026-08-19T23:47:28.728730+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 23:22 UTC  
+**Last Updated:** August 19, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +70,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 6h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 7h ago
 
 ---
 
@@ -86,7 +86,7 @@ We've been building a small board that handles cameras and sensors for robots, s
 
 Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
 
-10h ago
+11h ago
 
 ---
 
@@ -110,29 +110,19 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 ## Google News: "robotics"
 
-**[China’s backflipping robot maker Unitree pops 542% in Shanghai debut](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html)**
+**[China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom](https://www.nbcnews.com/world/asia/unitree-china-robot-maker-stock-market-ai-humanoids-tech-trump-rcna593278)**
 
-Unitree Robotics shares rise 542% on their first day of trading in Shanghai
+Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-CNBC • 21h ago
-
----
-
-**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
-
-Reuters • 3h ago
+NBC News • 13h ago
 
 ---
 
-**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
 
-bizjournals.com • 1h ago
+China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
 
----
-
-**[Rise of the robots](https://www.reuters.com/pictures/rise-robots-2026-08-19/)**
-
-Reuters • 5h ago
+ABC News - Breaking News, Latest News and Videos • 10h ago
 
 ---
 
@@ -142,11 +132,11 @@ South China Morning Post • 11h ago
 
 ---
 
-**[IN PHOTOS | Humanoid robots show off their skills](https://www.cbc.ca/news/world/beijing-robot-trade-show-scroller-9.7312395)**
+**[Live: Catch the next wave in robotics at World Robot Conference 2026](https://news.cgtn.com/news/2026-08-18/Live-Catch-the-next-wave-in-robotics-at-World-Robot-Conference-2026-1PIhSuZUqiI/p.html)**
 
-The public got to see the latest machines from China's robot makers during the World Robot Conference in Beijing, featuring more than 2,000 exhibits and debuting over 150 products.
+The World Robot Conference 2026 kicks off in Beijing on August 19, bringing together leading robotics companies, experts and innovators from around the world.
 
-CBC • 5h ago
+news.cgtn.com • 1d ago
 
 ---
 
@@ -160,7 +150,7 @@ Ars Technica • 2d ago
 
 **[Ban on Chinese robots leaves U.S. startups stranded](https://restofworld.org/2026/china-robot-ban-silicon-valley/)**
 
-Rest of World • 2d ago
+restofworld.org • 2d ago
 
 ---
 
@@ -172,11 +162,25 @@ Business Insider • 1d ago
 
 ---
 
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
+**[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
 
-Persona AI sees near-term economic viability in heavy industrial humanoids
+The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
 
-IEEE Spectrum • 2d ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+
+The Business Journals • 1h ago
+
+---
+
+**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html)**
+
+Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -228,7 +232,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 82K • 👍 4K • 💬 42 • ⏱️ 1:28 • 14h ago
+👁️ 82K • 👍 4K • 💬 42 • ⏱️ 1:28 • 15h ago
 
 ---
 
@@ -248,7 +252,7 @@ Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it
 
 📺 ABC News (Australia)
 
-👁️ 27K • 👍 292 • ⏱️ 2:24 • 13h ago
+👁️ 27K • 👍 292 • ⏱️ 2:24 • 14h ago
 
 ---
 
