@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T14:36:14.541189+00:00'
+updated: '2026-08-20T15:33:26.871248+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 14:36 UTC  
+**Last Updated:** August 20, 2026 at 15:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-20h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
 
-12h ago
+13h ago
 
 ---
 
@@ -68,13 +68,13 @@ The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have comm
 
 Round 4320 of hanging out in the basement with my robot. Among news reports and scary stories /scary songs it also sings about the kitchen.
 
-15h ago
+16h ago
 
 ---
 
 **[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -88,13 +88,13 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 Hi, I got plans to 3D print a 6DOF, high strength robot arm using some 35kg*f, 5v hobbyist servo motors. I’m planning on purchasing continuous rotation servos that are going to use some incremental encoders coupled to track motor position and speed after it reaches a home limit switch. Its going to be controlled using an I^2C servo shield, which is controlled by an Arduino Mega. So basically, Im turning it into a stepper motor without all the extra weight and having to purchase a bunch of stepper motor drivers, also it will supposedly be able to move super fast, with the manufacturer quoting 1200ms for one full rotation. The problem Im having trouble understanding and having AI explain to me coherently, is how to control the actual servo speed using the feedback. The servo manufacturer says in the product description that the servo motors cannot regulate speed. I dont want it to immediately crash and destroy components on my robot arm. I would like to say that I am indeed using mechanical gear ratio to alter the speed, but for the two wrist joints the arm will not have any gearing and will, accordingly, run fast and probably break my printed limit switch brackets. One idea I had was to try to modulate the speed using PWM signal generated by math being done from the encoder on the power line after the servo shield, using a high speed mosfet transistor. But the motor coils will likely overheat from the start up current, and Id hate to have to purchase a mosfet rated for handling start up current. And at that point, isnt this just reinventing the stepper motor? Admittedly, I havent used very many continuous hobbyist servo motors. I am more used to the allen bradley kinetix line of industrial servos. I’ve had to use a couple of servos on another project, but they were able to be controlled for position and speed and as such it was easier to implement. Any suggestions for how to do it properly are welcome.
 
-7h ago
+8h ago
 
 ---
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi, I got plans to 3D print a 6DOF, high strength robot arm using some 35kg*f, 5
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 21h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 22h ago
 
 ---
 
@@ -114,7 +114,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry.
 
-AP News • 22h ago
+AP News • 23h ago
 
 ---
 
@@ -134,7 +134,7 @@ WSJ • 1d ago
 
 Companies are selling machines to government-backed centres that then sell training data back to robot makers
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -142,7 +142,7 @@ Financial Times • 12h ago
 
 During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.
 
-WIRED • 19h ago
+WIRED • 20h ago
 
 ---
 
@@ -150,7 +150,7 @@ WIRED • 19h ago
 
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
 
-KEYE • 10h ago
+KEYE • 11h ago
 
 ---
 
@@ -158,7 +158,7 @@ KEYE • 10h ago
 
 The San Francisco-based company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.
 
-Construction Dive • 22h ago
+Construction Dive • 23h ago
 
 ---
 
@@ -166,7 +166,7 @@ Construction Dive • 22h ago
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
 
-The Conversation • 22h ago
+The Conversation • 23h ago
 
 ---
 
@@ -182,7 +182,7 @@ BBC • 1d ago
 
 Veeda Innovation Inc. will build artificial intelligence models to help train robots
 
-The Globe and Mail • 17h ago
+The Globe and Mail • 18h ago
 
 ---
 
@@ -190,13 +190,23 @@ The Globe and Mail • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[China showcases latest robotics technology at World Robot Conference](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
+**[Honor’s Robot Phone is here](https://www.youtube.com/watch?v=ZKTenyFHMXc)**
 
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
+Honor's Robot Phone is here and it's more gimbal than robot. Still, it's a pretty cool idea. The full gimbal arm stays tucked inside ...
 
-📺 Associated Press
+📺 The Verge
 
-👁️ 2K • 👍 29 • 💬 6 • ⏱️ 0:54 • 12h ago
+👁️ 33K • 👍 855 • 💬 29 • ⏱️ 2:33 • 6d ago
+
+---
+
+**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
+
+The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
+
+📺 Custom Adventurist
+
+👁️ 749K • 👍 43K • 💬 408 • ⏱️ 1:04 • 2d ago
 
 ---
 
@@ -206,17 +216,17 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 28K • 👍 731 • 💬 92 • ⏱️ 14:10 • 1d ago
+👁️ 29K • 👍 747 • 💬 95 • ⏱️ 14:10 • 1d ago
 
 ---
 
-**[I Bought a $13,000 Camera Robot.](https://www.youtube.com/watch?v=C8WpoIAXWPI)**
+**[Unitree&#39;s new humanoid robot just claimed a speed Usain Bolt never hit](https://www.youtube.com/watch?v=kuAqfg-Tp7s)**
 
-Try Shutterstock today!: https://www.shutterstock.com/unlimited @shutterstock #ad #NeverStartFromScratch Thanks for watching!
+Unitree has released a video of its newest humanoid robot claiming a top speed of 12.66 metres per second and a two metre ...
 
-📺 Daniel Schiffer
+📺 Interesting Engineering Explains
 
-👁️ 680 • 👍 68 • 💬 12 • ⏱️ 9:31 • 2h ago
+👁️ 19K • 👍 628 • 💬 95 • ⏱️ 1:51 • 2d ago
 
 ---
 
@@ -226,67 +236,57 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 11K • 👍 356 • 💬 60 • ⏱️ 5:16 • 4d ago
+👁️ 11K • 👍 357 • 💬 60 • ⏱️ 5:16 • 4d ago
 
 ---
 
-**[Booster Robots Prepare for World Humanoid Robot Games](https://www.youtube.com/watch?v=njOAL9WqGlg)**
+**[DIY robotic arm #arduino #arduinoproject #shorts #viral](https://www.youtube.com/watch?v=2qxXNXEP5wQ)**
 
-Booster Robotics humanoid robots are training for the 2026 World Humanoid Robot Games, and this rehearsal footage gives us ...
+DIY robotic arm #arduino #arduinoproject #shorts #viral Robotic Arm Arduino Robotic Arm Industrial Robotic Arm ESP8266 ...
+
+📺 Hamza Robo
+
+👁️ 22K • 👍 319 • 💬 2 • ⏱️ 0:11 • 4d ago
+
+---
+
+**[Top 10 HOME ROBOTS for 2026 #shorts #home](https://www.youtube.com/watch?v=CGcxwvB4XLg)**
+
+10 unique home robots to help improve productivity and save you time! Let me know which is your favorite Linked all products ...
+
+📺 Justice Buys
+
+👁️ 268K • 👍 11K • 💬 145 • ⏱️ 1:05 • 2d ago
+
+---
+
+**[Booster Robotics Humanoid Robots Ahead of Games!](https://www.youtube.com/watch?v=UrH0ob52ooE)**
+
+Booster Robotics is preparing its humanoid robots for the 2026 World Humanoid Robot Games. This rehearsal footage shows the ...
 
 📺 DPCcars
 
-👁️ 693 • 👍 22 • 💬 2 • ⏱️ 1:57 • 1d ago
+👁️ 1K • 👍 18 • 💬 3 • ⏱️ 1:57 • 1d ago
 
 ---
 
-**[Chinese robot makers surges in IPO](https://www.youtube.com/watch?v=UOO3X9qQzUE)**
+**[Ready To Build Robot Kits Are At Micro Center](https://www.youtube.com/watch?v=yKwJtfYbNeI)**
 
-CNBC's Eunice Yoon joins 'Squawk on the Street' to discuss Unitree Robotics shares closing over 460% higher Wednesday as ...
+shorts #microcenter #robotics Shop All Robotics Kits at Micro Center - https://micro.center/b7ccb6 Robots are everywhere ...
 
-📺 CNBC Television
+📺 Micro Center
 
-👁️ 11K • 👍 98 • 💬 42 • ⏱️ 3:52 • 22h ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=7pi6UdYEXkM)**
-
-This New American Humanoid Robot Will Leave You Speechless The United States is universally recognized as the birthplace of ...
-
-📺 Future Core
-
-👁️ 44K • 👍 951 • 💬 84 • ⏱️ 10:09 • 6d ago
+👁️ 2K • 👍 31 • ⏱️ 0:20 • 2d ago
 
 ---
 
-**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+**[China showcases latest robotics technology at World Robot Conference](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
 
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
 
-📺 InsideAI
+📺 Associated Press
 
-👁️ 1.2M • 👍 36K • 💬 4K • ⏱️ 15:53 • 4d ago
-
----
-
-**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
-
-Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
-
-📺 ABC News
-
-👁️ 33K • 👍 815 • 💬 182 • ⏱️ 1:36 • 20h ago
-
----
-
-**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
-
-Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
-
-📺 Inside China Business
-
-👁️ 50K • 👍 4K • 💬 559 • ⏱️ 8:40 • 2d ago
+👁️ 2K • 👍 32 • 💬 6 • ⏱️ 0:54 • 13h ago
 
 ---
 

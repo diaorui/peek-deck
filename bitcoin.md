@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T14:36:14.531793+00:00'
+updated: '2026-08-20T15:33:26.866083+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 14:36 UTC  
+**Last Updated:** August 20, 2026 at 15:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1437.27B
+**Market Cap:** $1452.32B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--43.2%
+-42.6%
 
 **All-Time Low:** $67.81
-+105470.0%
++106593.7%
 
 ---
 
@@ -81,39 +81,31 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-4h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
-
-6h ago
-
----
-
-**[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
-
-6h ago
+5h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-2h ago
+3h ago
+
+---
+
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
+
+7h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Crossed $100K AUD](https://www.reddit.com/r/Bitcoin/comments/1vteuz2/crossed_100k_aud/)**
+**[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-🙏
-
-4h ago
+7h ago
 
 ---
 
@@ -121,7 +113,7 @@ Another dip before we rip? Or is this it 😸
 
 I can sell a little bit now, and buy back when the squeeze is done.
 
-1h ago
+2h ago
 
 ---
 
@@ -129,21 +121,29 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-1h ago
+2h ago
 
 ---
 
-**[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
+**[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-16h ago
+2h ago
 
 ---
 
-**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
+**[Crossed $100K AUD](https://www.reddit.com/r/Bitcoin/comments/1vteuz2/crossed_100k_aud/)**
 
-First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
+🙏
 
-17h ago
+5h ago
+
+---
+
+**[The 2023-2025 Bitcoin bull market was the most thrilling experience of my entire life.](https://www.reddit.com/r/Bitcoin/comments/1vtlpbq/the_20232025_bitcoin_bull_market_was_the_most/)**
+
+If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
+
+40m ago
 
 ---
 
@@ -155,7 +155,7 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 9h ago
 
 @Lookonchain 7322 Views
 
-Moomoo • 33m ago
+Moomoo • 1h ago
 
 ---
 
 **[Crypto Comeback? Bitcoin, Ethereum Head for Best Day in Months](https://www.moomoo.com/news/post/75011097/crypto-comeback-bitcoin-ethereum-head-for-best-day-in-months)**
 
-Moomoo • 3m ago
+Moomoo • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 6h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
@@ -191,7 +191,7 @@ NBC News • 20h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ VanEck • 1d ago
 
 Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -223,7 +223,7 @@ Fox News • 23h ago
 
 Analysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -243,7 +243,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 2 • 💬 1 • 2d ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 2 • 💬 1 • 3d ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -259,7 +259,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 8h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 9h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -289,7 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 193 • ⏱️ 10:41 • 15h ago
+👁️ 55K • 👍 3K • 💬 202 • ⏱️ 10:41 • 16h ago
 
 ---
 
@@ -299,47 +299,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 1K • 💬 40 • ⏱️ 24:22 • 17h ago
-
----
-
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
-
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 85K • 👍 1K • 💬 353 • ⏱️ 8:10 • 2d ago
-
----
-
-**[Bitcoin’s $69,000 Breakout Just Changed Everything](https://www.youtube.com/watch?v=09RY7LqmDeU)**
-
-AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 957 • 💬 634 • ⏱️ 12:02 • 13h ago
-
----
-
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
-
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
-
-📺 Crypto Capital Venture
-
-👁️ 17K • 👍 945 • 💬 523 • ⏱️ 22:30 • 14h ago
-
----
-
-**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
-
-Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 714 • 💬 436 • ⏱️ 13:12 • 23h ago
+👁️ 49K • 👍 1K • 💬 40 • ⏱️ 24:22 • 18h ago
 
 ---
 
@@ -349,35 +309,77 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 550 • 💬 52 • ⏱️ 9:45 • 3h ago
+👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:45 • 4h ago
 
 ---
 
-**[Bitcoin Breaks Resistance! Now What?](https://www.youtube.com/watch?v=0ymWU7zx5nk)**
+**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
 
-Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens Next? Let's find out Live! Start your prop ...
+Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
 
-📺 Sin City Crypto
+📺 Crypto Capital Venture
 
-👁️ 6K • 👍 280 • ⏱️ 4:23:25 • 12h ago
-
----
-
-**[Crypto &amp; crypto stocks broke out today. I explain why traders need to be paying attention. #trading](https://www.youtube.com/watch?v=BFLmL5_3N0k)**
-
-📺 TheOneLanceB
-
-👁️ 6K • 👍 433 • 💬 22 • ⏱️ 1:48 • 16h ago
+👁️ 13K • 👍 716 • 💬 456 • ⏱️ 13:12 • 1d ago
 
 ---
 
-**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=9avrSmPczP4)**
+**[Why Bitcoin Just Broke Out (And What Comes Next)](https://www.youtube.com/watch?v=hIzoNHkOzec)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Bitcoin finally broke out, running from roughly $64K to over $72K in two sessions. Cory Klippsten walks through the two things ...
 
-📺 Benjamin Cowen
+📺 Swan Bitcoin
 
-👁️ 74K • 👍 5K • 💬 393 • ⏱️ 16:32 • 10h ago
+👁️ 275 • 👍 24 • 💬 2 • ⏱️ 2:50 • 37m ago
+
+---
+
+**[BITCOIN: Mega Pump OR Mega Trap? [This Happens Next]](https://www.youtube.com/watch?v=sq2F0JB8sc8)**
+
+In today's video we go over the short squeeze that resulted in billions of dollars worth of losses for short traders. We warned just ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 22 • ⏱️ 39:08 • 7h ago
+
+---
+
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
+
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 88K • 👍 1K • 💬 360 • ⏱️ 8:10 • 2d ago
+
+---
+
+**[Earn Bitcoin with your Phone in just 10 Minutes!](https://www.youtube.com/watch?v=9rhMWKHQvI4)**
+
+Direct Link to Sign-Up for Kryptex Entire Free ➡ https://geni.us/KryptexPC ⛏ Link to Tryout Kryptex with your Crypto Mining ...
+
+📺 The Hobbyist Miner
+
+👁️ 13K • 👍 473 • 💬 47 • ⏱️ 10:33 • 1d ago
+
+---
+
+**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
+
+No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
+
+📺 Gareth Soloway
+
+👁️ 71K • 👍 4K • 💬 513 • ⏱️ 10:20 • 22h ago
+
+---
+
+**[BITCOIN FOOLED EVERYONE...](https://www.youtube.com/watch?v=GyRlX6kf1HU)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 14K • 👍 901 • 💬 99 • ⏱️ 8:08 • 9h ago
 
 ---
 
