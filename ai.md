@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T20:28:16.323366+00:00'
+updated: '2026-08-20T20:58:27.151148+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 20:28 UTC  
+**Last Updated:** August 20, 2026 at 20:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ Build a modern LLM from scratch. Every line commented. Explained like we are fiv
 
 Three months ago, I posted an LLM resume-screening study in which an auditor flagged 45 per cent of score differences as bias. Thread feedback challenged my methodology, so I ran new experiments testing three specific objections. To test u/kamilc86's claim that reasoning is invented post hoc, I transplanted positive and negative justifications back into prompts across 320 runs. Scores moved 3.62 points in the reasoning's direction 99.7 per cent of the time, proving scores do follow reasoning. However, extreme baseline instability confirmed his broader point: much of the initial 45 per cent bias was just random noise mislabeled as bias. Testing u/AssiduousLayabout's idea to place the score last across 4,800 runs showed that schema ordering had no effect on stability and increased hire-versus-no-hire disagreement from 33 per cent to 54 per cent. Blind prompt instructions also failed to reduce variance. Testing u/hex4def6's placebo idea across 4,165 runs revealed that meaningless edits like car colour shifted scores almost as much as demographic edits (0.328 versus 0.362 points). "Silver Golf" shifted scores more than changing my university or name, even though the models never cited the car in their justifications. Ultimately, first names and career gaps show real signal, but raw instability drowns out most demographic axes. Wrapper choice also heavily impacts results: running Claude via CLI added a hidden system prompt that shifted scores by 0.247, representing 88 per cent of the demographic signal, meaning benchmarks do not transfer across wrappers. Full data and code are available at the Placebo Control, Reasoning Transplant, Prompt Lab, GitHub Repository, and Full Blog Writeup.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Three months ago, I posted an LLM resume-screening study in which an auditor fla
 
 There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
 
-13h ago
+14h ago
 
 ---
 
@@ -113,21 +113,13 @@ There is a cost line item in every enterprise AI budget that almost nobody audit
 
 Thomson Reuters says the next generation of CoCounsel Legal is now generally available. It brings legal research, drafting, verification, and matter workflows into one product built on Westlaw and Practical Law. The new Westlaw Brief Builder moves from research and issue analysis to a first draft while checking the supporting authority. Thomson Reuters also added workspaces, Word drafting, and tabular review for up to 10,000 documents and 100 questions. The agent can build the draft. The lawyer still controls the strategy and the final decision. Source: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-launches-next-generation-of-cocounsel-legal-the-ai-ecosystem-built-for-legal-professionals
 
-27m ago
+57m ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[AI data center outrage is showing up everywhere from ads to elections](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html)**
-
-With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
-
-CNBC • 6h ago
-
----
 
 **[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
 
@@ -137,39 +129,11 @@ The Washington Post • 4h ago
 
 ---
 
-**[The true cost of AI customer service is customer loyalty](https://qz.com/the-true-cost-of-ai-customer-service-is-customer-loyalty)**
+**[AI data center outrage is showing up everywhere from ads to elections](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html)**
 
-AI can lower customer service costs, but businesses risk losing loyalty when automation replaces the human connection that builds lasting relationships.
+With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
 
-qz.com • 1h ago
-
----
-
-**[Watch Mayfield Bets on AI’s Earliest Founders](https://www.bloomberg.com/news/videos/2026-08-20/mayfield-bets-on-ai-s-earliest-founders-video)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Lawyers square off in fight over voice data used to train AI](https://www.reuters.com/legal/government/lawyers-square-off-fight-over-voice-data-used-train-ai-2026-08-20/)**
-
-Reuters • 1h ago
-
----
-
-**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
-
-The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
-
-The Atlantic • 4h ago
-
----
-
-**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
-
-College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
-
-blog.google • 1d ago
+CNBC • 6h ago
 
 ---
 
@@ -181,17 +145,51 @@ Fox News • 11h ago
 
 ---
 
-**[What does it mean to put a ‘watermark’ on AI text?](https://www.cnn.com/2026/08/20/us/word-of-the-week-ai-watermark-cec)**
+**[The Teens Taking On Data Centers](https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html)**
 
-If physical and digital watermarks were meant to verify authenticity, AI watermarks serve more to signal inauthenticity.
-
-CNN • 10h ago
+The New York Times • 11h ago
 
 ---
 
-**[CEOs shift messaging around AI and layoffs](https://www.axios.com/2026/08/20/ceos-shift-messaging-around-ai-and-layoffs)**
+**[Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal](https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal)**
 
-Axios • 3h ago
+Bloomberg.com • 49m ago
+
+---
+
+**[Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into](https://www.fool.com/investing/2026/08/20/billionaire-stanley-druckenmiller-sold-broadcom-an/)**
+
+Stanley Druckenmiller's investment firm just swapped out Broadcom for a member of the "Magnificent Seven."
+
+The Motley Fool • 30m ago
+
+---
+
+**[Marvell vs. Broadcom: One AI Stock Is a Better Buy After Google's Deal](https://www.zacks.com/stock/news/2977919/marvell-vs-broadcom-one-ai-stock-is-a-better-buy-after-googles-deal)**
+
+Zacks Investment Research • 2h ago
+
+---
+
+**[Opinion | Debating the Use of A.I. in Writing](https://www.nytimes.com/2026/08/20/opinion/letters/debating-ai-in-writing.html)**
+
+The New York Times • 57m ago
+
+---
+
+**[Springfield is piloting an AI-driven classroom. The teachers' union is trying to stop it](https://www.wbur.org/news/2026/08/20/alpha-artificial-intelligence-springfield-teachers-union-school-technology)**
+
+A Springfield public school intends to partner with a for-profit education company to bring AI into a classroom this September. The teachers' union is threatening legal action if the pilot program isn't halted.
+
+WBUR • 12m ago
+
+---
+
+**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
+
+The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
+
+The Atlantic • 4h ago
 
 ---
 
@@ -199,27 +197,11 @@ Axios • 3h ago
 
 ## HackerNews: "ai"
 
-**[AI;DR (AI; Didn't Read)](https://news.ycombinator.com/item?id=49336573)**
-
-I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
-
-⬆️ 1097 • 💬 688 • 3d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-
----
-
-**[Israel creates fake think tank in likely attempt to dupe AI chatbots](https://news.ycombinator.com/item?id=49337392)**
-
-In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
-
-⬆️ 1051 • 💬 830 • 2d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
-
----
-
 **[Don't paste the AI, please](https://news.ycombinator.com/item?id=49371857)**
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 962 • 💬 518 • 12h ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 971 • 💬 529 • 12h ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
@@ -241,7 +223,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 293 • 💬 97 • 1d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 294 • 💬 97 • 1d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -249,7 +231,7 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 201 • 💬 244 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 202 • 💬 246 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -257,7 +239,7 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
-⬆️ 193 • 💬 113 • 1d ago • [linear.app](https://linear.app/data)
+⬆️ 194 • 💬 113 • 1d ago • [linear.app](https://linear.app/data)
 
 ---
 
@@ -267,11 +249,27 @@ AI usage patterns in software teams: who is adopting AI, how it reshapes where t
 
 ---
 
+**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
+
+Trying to obfuscate the web is a bad, pointless idea
+
+⬆️ 70 • 💬 60 • 5h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+
+---
+
+**[Show HN: Huzzah – a novel approach to coding with AI](https://news.ycombinator.com/item?id=49378768)**
+
+My personal portfolio site and blog.
+
+⬆️ 70 • 💬 36 • 1h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+
+---
+
 **[AI didn't erase the junior engineer's value, it increased it it](https://news.ycombinator.com/item?id=49373269)**
 
 The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
 
-⬆️ 66 • 💬 122 • 8h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+⬆️ 69 • 💬 128 • 9h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -315,7 +313,7 @@ tyga #ai #shorts.
 
 📺 Fidel Langa 
 
-👁️ 613 • 👍 27 • ⏱️ 1:14 • 2h ago
+👁️ 613 • 👍 27 • ⏱️ 1:14 • 3h ago
 
 ---
 
@@ -335,7 +333,7 @@ If I wanted to future-proof my career in the AI era, I wouldn't just take anothe
 
 📺 Aishwarya Srinivasan
 
-👁️ 3K • 👍 178 • 💬 5 • ⏱️ 1:46 • 7h ago
+👁️ 3K • 👍 178 • 💬 5 • ⏱️ 1:46 • 8h ago
 
 ---
 
@@ -355,7 +353,7 @@ genz #ai #humans With Gen Z increasingly turning to AI for emotional support, ca
 
 📺 Brut India
 
-👁️ 11K • 👍 138 • 💬 7 • ⏱️ 2:21 • 12h ago
+👁️ 11K • 👍 138 • 💬 7 • ⏱️ 2:21 • 13h ago
 
 ---
 
@@ -365,7 +363,7 @@ ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taug
 
 📺 YourWeeklyCrew
 
-👁️ 2K • 👍 63 • 💬 5 • ⏱️ 0:47 • 3h ago
+👁️ 2K • 👍 63 • 💬 5 • ⏱️ 0:47 • 4h ago
 
 ---
 
@@ -439,7 +437,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,628 • ❤️ 698 • 11h ago
+⬇️ 2,628 • ❤️ 698 • 12h ago
 
 ---
 
@@ -451,7 +449,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 76,109 • ❤️ 672 • 11h ago
+⬇️ 76,109 • ❤️ 672 • 12h ago
 
 ---
 
@@ -661,7 +659,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 2h ago
+⭐ 14.0k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -671,7 +669,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 1.0k • 1m ago
+⭐ 8.7k • 🔱 1.0k • 31m ago
 
 ---
 
@@ -689,7 +687,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 575 • 3h ago
+⭐ 3.4k • 🔱 575 • 4h ago
 
 ---
 
@@ -719,7 +717,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 327 • 4h ago
+⭐ 2.8k • 🔱 327 • 5h ago
 
 ---
 
@@ -729,7 +727,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 309 • 3h ago
+⭐ 2.2k • 🔱 309 • 4h ago
 
 ---
 

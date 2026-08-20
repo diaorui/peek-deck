@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T20:28:16.334012+00:00'
+updated: '2026-08-20T20:58:27.165711+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 20:28 UTC  
+**Last Updated:** August 20, 2026 at 20:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,319.84
+### $2,331.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.9%  
-**7d:** +23.7%  
-**30d:** +20.3%  
-**90d:** +9.8%  
-**1y:** -45.0%  
+**24h:** +1.3%  
+**7d:** +22.9%  
+**30d:** +19.6%  
+**90d:** +9.2%  
+**1y:** -45.3%  
 
 ---
 
@@ -104,7 +104,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-1d ago
+2d ago
 
 ---
 
@@ -164,14 +164,6 @@ The Block • 1d ago
 
 ---
 
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
-
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
-
-ethereum.org • 3h ago
-
----
-
 **[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
@@ -180,31 +172,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
 
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
 
-MarketForces Africa • 22h ago
-
----
-
-**[BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo](https://www.tradingview.com/news/benzinga:9884f6e65094b:0-btc-digital-stock-soars-over-111-after-hours-bitmine-shares-trending-as-bitcoin-and-ethereum-regain-their-mojo/)**
-
-BTC Digital Ltd. (NASDAQ:BTCT) and BitMine Immersion Technologies Inc. (NYSE:BMNR) shares are trending on Thursday.BTCT gained 111.55% to $1.77 after the bell on Wednesday. This was after the stock climbed 79.97% to $0.84 in the regular session, according to Benzinga Pro data.BMNR surged 6.47% to…
-
-TradingView • 14h ago
+Benzinga • 1d ago
 
 ---
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 2d ago
-
----
-
-**[Crypto comeback? Bitcoin and ethereum are headed for their best day in months as investors flock to hard assets.](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
-
-MarketWatch • 6h ago
 
 ---
 
@@ -220,7 +198,29 @@ markets.businessinsider.com • 12h ago
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
+
+---
+
+**[Crypto comeback? Bitcoin and ethereum are headed for their best day in months as investors flock to hard assets.](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
+
+MarketWatch • 6h ago
+
+---
+
+**[Why Bitcoin & Ethereum Prices Suddenly Surged Today—Should Traders Be Cautious?](https://coinpedia.org/price-analysis/why-bitcoin-ethereum-prices-suddenly-surged-today-should-traders-be-cautious/)**
+
+Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
+
+Coinpedia • 13h ago
+
+---
+
+**[Current price of Ethereum for August 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 233 • 💬 13 • ⏱️ 7:45 • 6h ago
+👁️ 5K • 👍 233 • 💬 13 • ⏱️ 7:45 • 7h ago
 
 ---
 
@@ -294,7 +294,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 10K • 👍 651 • 💬 120 • ⏱️ 19:03 • 16h ago
+👁️ 10K • 👍 651 • 💬 120 • ⏱️ 19:03 • 17h ago
 
 ---
 
@@ -304,7 +304,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 1K • 👍 55 • 💬 20 • ⏱️ 1:22:32 • 9h ago
+👁️ 1K • 👍 55 • 💬 20 • ⏱️ 1:22:32 • 10h ago
 
 ---
 
@@ -324,7 +324,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 CRYPTO with KLAUS
 
-👁️ 7K • 👍 419 • 💬 235 • ⏱️ 14:57 • 23h ago
+👁️ 7K • 👍 419 • 💬 235 • ⏱️ 14:57 • 1d ago
 
 ---
 
