@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T16:35:18.775044+00:00'
+updated: '2026-08-20T17:28:35.371445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 16:35 UTC  
+**Last Updated:** August 20, 2026 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,39 +81,37 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-6h ago
+7h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-4h ago
+5h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-8h ago
+9h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-6h ago
+7h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-8h ago
+9h ago
 
 ---
 
-**[Big Green!](https://www.reddit.com/r/Bitcoin/comments/1vtig0j/big_green/)**
+**[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-I can sell a little bit now, and buy back when the squeeze is done.
-
-3h ago
+4h ago
 
 ---
 
@@ -121,21 +119,7 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-3h ago
-
----
-
-**[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
-
-3h ago
-
----
-
-**[Crossed $100K AUD](https://www.reddit.com/r/Bitcoin/comments/1vteuz2/crossed_100k_aud/)**
-
-🙏
-
-6h ago
+4h ago
 
 ---
 
@@ -143,7 +127,23 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-1h ago
+2h ago
+
+---
+
+**[Crossed $100K AUD](https://www.reddit.com/r/Bitcoin/comments/1vteuz2/crossed_100k_aud/)**
+
+🙏
+
+7h ago
+
+---
+
+**[It is time!](https://www.reddit.com/r/Bitcoin/comments/1vthh0k/it_is_time/)**
+
+Pump it up
+
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 8h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investor's Business Daily • 4h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -185,7 +185,7 @@ NBC News • 22h ago
 
 Retail and supermarket chain Kroger expanded its Fold Bitcoin Gift Card offering after completing a successful seasonal pilot, Fold Holdings said in a
 
-PYMNTS.com • 27m ago
+PYMNTS.com • 1h ago
 
 ---
 
@@ -267,7 +267,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 10h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 11h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -289,7 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 202 • ⏱️ 10:41 • 17h ago
+👁️ 55K • 👍 3K • 💬 202 • ⏱️ 10:41 • 18h ago
 
 ---
 
@@ -299,7 +299,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 1K • 💬 40 • ⏱️ 24:22 • 19h ago
+👁️ 49K • 👍 1K • 💬 40 • ⏱️ 24:22 • 20h ago
 
 ---
 
@@ -309,7 +309,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:45 • 5h ago
+👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:45 • 6h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin finally broke out, running from roughly $64K to over $72K in two session
 
 📺 Swan Bitcoin
 
-👁️ 275 • 👍 24 • 💬 2 • ⏱️ 2:50 • 1h ago
+👁️ 275 • 👍 24 • 💬 2 • ⏱️ 2:50 • 2h ago
 
 ---
 
@@ -339,7 +339,7 @@ In today's video we go over the short squeeze that resulted in billions of dolla
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 22 • ⏱️ 39:08 • 8h ago
+👁️ 13K • 👍 1K • 💬 22 • ⏱️ 39:08 • 9h ago
 
 ---
 
@@ -369,7 +369,7 @@ No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple 
 
 📺 Gareth Soloway
 
-👁️ 71K • 👍 4K • 💬 513 • ⏱️ 10:20 • 23h ago
+👁️ 71K • 👍 4K • 💬 513 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 14K • 👍 901 • 💬 99 • ⏱️ 8:08 • 10h ago
+👁️ 14K • 👍 901 • 💬 99 • ⏱️ 8:08 • 11h ago
 
 ---
 

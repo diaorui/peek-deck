@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T16:35:18.784218+00:00'
+updated: '2026-08-20T17:28:35.380879+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 16:35 UTC  
+**Last Updated:** August 20, 2026 at 17:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 2h ago
 
 ---
 
@@ -44,7 +44,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hey everyone, My teammate and I competed at the All America Micromouse Contest (
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-6m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
 
-11h ago
+12h ago
 
 ---
 
@@ -84,7 +84,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 Round 4320 of hanging out in the basement with my robot. Among news reports and scary stories /scary songs it also sings about the kitchen.
 
-17h ago
+18h ago
 
 ---
 
@@ -92,13 +92,13 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 One thing I've noticed with vertical linear axes is that deciding the travel length seems surprisingly difficult. A robot might only need to reach from the floor to a work surface today, but the required workspace can change depending on the task — different working heights, payloads, tools, or even where the robot needs to position itself. The challenge is that the travel is often a decision you have to make early. Too little and you can end up rebuilding the mechanism later; too much can add unnecessary size, weight, cost, and mechanical complexity. For those who have designed robots with a vertical linear axis: how do you determine the required travel before the robot is fully built? Do you mainly calculate it from the expected workspace and mechanism geometry, or do you typically add some extra travel as a margin?
 
-2h ago
+3h ago
 
 ---
 
 **[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ One thing I've noticed with vertical linear axes is that deciding the travel len
 
 Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -136,7 +136,7 @@ WSJ • 1d ago
 
 Companies are selling machines to government-backed centres that then sell training data back to robot makers
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -152,13 +152,13 @@ WIRED • 21h ago
 
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
 
-KEYE • 12h ago
+KEYE • 13h ago
 
 ---
 
 **[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ The New York Times • 7h ago
 
 For years, small, adaptable machines that perform repetitive jobsite tasks have seen the most success. As technology advances, that calculus is beginning to change.
 
-Construction Dive • 22h ago
+Construction Dive • 23h ago
 
 ---
 
