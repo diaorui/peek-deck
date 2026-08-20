@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T21:34:13.708108+00:00'
+updated: '2026-08-20T22:27:44.906213+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 21:34 UTC  
+**Last Updated:** August 20, 2026 at 22:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,633.64
+### $72,787.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.2%  
-**7d:** +15.2%  
-**30d:** +9.9%  
-**90d:** -5.4%  
-**1y:** -35.4%  
+**24h:** +5.0%  
+**7d:** +15.5%  
+**30d:** +10.1%  
+**90d:** -5.2%  
+**1y:** -35.2%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-11h ago
+12h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-9h ago
+10h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,25 +101,25 @@ Another dip before we rip? Or is this it 😸
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-8h ago
+9h ago
 
 ---
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-8h ago
+9h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-13h ago
+14h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Another dip before we rip? Or is this it 😸
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 Pump it up
 
-9h ago
+10h ago
 
 ---
 
@@ -155,21 +155,51 @@ Pump it up
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 8h ago
+CNBC • 9h ago
+
+---
+
+**[Hack of the ‘Fort Knox’ of Bitcoin Wallets Brings Back the Middleman](https://www.bloomberg.com/news/newsletters/2026-08-20/hack-of-coldcard-bitcoin-wallet-brings-back-the-middleman)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Donald Trump just made Cathie Wood's $1.5 million Bitcoin target look less crazy](https://finance.yahoo.com/markets/crypto/articles/donald-trump-just-made-cathie-212900681.html)**
+
+Bitcoin is at $71,500 today. Wood says it hits $1.5 million by 2030. Washington just moved in a direction that makes that argument harder to dismiss.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[IBIT’s 0.25% Fee Sells Off Bitcoin Daily, and the Prospectus Calls Every Sale a Taxable Event](https://finance.yahoo.com/markets/crypto/articles/ibit-0-25-fee-sells-220518548.html)**
+
+Your IBIT position sits untouched, yet the trust's prospectus quietly promises a taxable event hits your account every single trading day. The fee structure doing this is something most holders have never read past the headline number to find.
+
+Yahoo Finance • 22m ago
+
+---
+
+**[Stock Market Today: Major Indexes Slide After Snapping 3-Day Skids; Oil Prices, Treasury Yields, Bitcoin Rise; Walmart Stock Drops](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08202026-12064079)**
+
+Major U.S. stock indexes slumped on Thursday, a day after they snapped three-session losing streaks, as Walmart shares tumbled. Meanwhile, bitcoin, oil prices, and Treasury yields rose.
+
+Investopedia • 2h ago
 
 ---
 
 **[Bitcoin (BTC) price analysis: $180,000 targeted on Treasury buybacks](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)**
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
 
-Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-NBC News • 1d ago
+VanEck • 2d ago
 
 ---
 
@@ -177,53 +207,23 @@ NBC News • 1d ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
-**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/william-sandeson-taylor-samson-murder-9.7312641)**
+**[Bitcoin breaks above 200-day moving average for first time since November](https://www.tradingview.com/news/cointelegraph:ca96817f2094b:0-bitcoin-breaks-above-200-day-moving-average-for-first-time-since-november/)**
 
-The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
+Bitcoin’s latest rally has pushed the cryptocurrency above a key long-term technical indicator for the first time in about nine months, offering a potential signal that its broader downtrend is losing momentum.Charting platform Barchart highlighted on Thursday that Bitcoin’s (BTC) price had crossed…
 
-CBC • 1d ago
-
----
-
-**[WGMI Bitcoin Mining ETF Expands Into AI Power Race](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/wgmi-bitcoin-mining-etf-takes-ai-power-race/)**
-
-ETF Database • 3h ago
+TradingView • 1h ago
 
 ---
 
-**[Current price of Bitcoin for August 20, 2026](https://fortune.com/article/price-of-bitcoin-08-20-2026/)**
+**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
-Fortune • 6h ago
-
----
-
-**[Coinbase CEO Brian Armstrong on CLARITY Act, Bitcoin surge as stocks slide at the open](https://www.foxbusiness.com/video/6403763506112)**
-
-Stuart Varney tracks the opening bell as markets slide. Coinbase CEO Brian Armstrong discusses the CLARITY Act's Senate prospects and Bitcoin's surge.
-
-Fox Business • 7h ago
-
----
-
-**[Liquidity shock sends bitcoin to a make-or-break fib level](https://www.kitco.com/opinion/2026-08-20/liquidity-shock-sends-bitcoin-make-or-break-fib-level)**
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }My August 20 read keeps cause, current state and confirmation separate. Treasury buybacks triggered the liquidity response, short liquidations accelerated it, Bitcoin is strong bullish but stretched at overlapping resistance, Ethereum and stablecoin dominance sit at extremes, lower-tier breadth lagged BTC and ETH, DXY turned strong bearish without a matching TradFi surge, and the best setups still carry strict timing qualifiers.Bitcoin’s nearly 15% four-day move reached overlapping resistanceI treat the U.S. Treasury doubling long-duration bond buybacks from $2B to at least $4B per operation as the trigger; the short squeeze—roughly $1.4B liquidated in four hours and $2.5B over 24 hours—was gas on the fire. It was liquidity management, not QE, and I do not need the Clarity Act to explain my thesis. BTC rose nearly 15% in four days to the 0.618 Fib where immediate overhead resistance overlaps. A close above 0.618 would dramatically decrease the chances of dropping below $57,800; that close has not been supplied here. BTC is currently strong bullish above its daily TBO Cloud, while RSI above 90 is my topping signal. Spot Volume only reached about $2B and remains extremely underwhelming for the price action. The weekly TBT Bullish Divergence is still forming—an early reversal warning only if it holds—and Volume remains well below normal bottom-signal recovery pumps. More liquidations could still push price higher.Ethereum’s 17% one-day pump came from a liquidation cascadeETH pumped 17% in one day. I attribute the move to a short-squeeze liquidation cascade, not ordinary spot conviction. Its daily RSI was 94.14, while Volume was decent but still below the previous dump’s Volume just under $2B. On the weekly candle, a TBO Close Short is in progress and RSI is overbought, but several days remain before confirmation. Combined stablecoin dominance is the opposite extreme: RSI was about 9, well below the daily Cloud, crazy short-term oversold and not sustainable. Dominance is market share, not spot price.Lower-tier breadth lagged as BTC.D and ETH.D captured the flowBTC.D and ETH.D took the money flow while Top 10 and low-cap dominance lagged; BTC and ETH were stealing the show and lower tiers did not share the move. TOTALES confirmed a TBO Open Long on Wednesday’s move above the Cloud and is working on a weekly TBT Bullish Divergence. TOTALE50 confirmed a TBO Close Short on Wednesday, cancelling its prior TBO Breakdowns. TOTALE100’s Close Short is forming today, while OTHERS printed a Close Short. Those are separate current, confirmed and in-progress states, not one blanket signal. Once BTC calms down, ALTs may get their day, but that is only a possibility. Dominance is market share, not spot price.DXY turned strong bearish, but TradFi mostly did not mirror cryptoDXY dropped on the U.S. bond-buyback news and is now strong bearish below its daily TBO Cloud—the outcome I had expected, though I did not expect BTC to pump this hard. The Euro moved above its Cloud, but the Yen resumed moving up after a brief drop. TradFi mostly did not match crypto: S&amp;P Futures was largely unchanged, NVDA closed red, Asian indices showed muted or mixed reactions, and VIX rose despite the supposedly good news. Gold and Silver pumped into overhead resistance and then began pulling back, while Platinum closed above its 0.236 Fib.PAXG/BTC offers a conservative signal only after daily-close confirmationBecause BTC surged, PAXG/BTC dumped hard back to TBO Support and RSI moved toward oversold. I call this a good conservative entry signal only if oversold confirmation is present at the daily candle close. The screenshot shows RSI going oversold; it does not supply that completed daily-close confirmation. Elsewhere, XRP gained nearly 19% in two days and printed a Close Short Wednesday, SOL rose above its Cloud and TBO Resistance, LINK reached TBO Resistance where I would take some long profit, and ONDO tagged its Fast line—its first take-profit target.UNI confirmed resistance, but liquidation risk makes short timing dangerousUNI literally confirmed resistance on Wednesday’s pump. I call it a great short setup and a great run-and-dump setup, not a complete trade plan. Shorting is risky while the liquidation cascade is still active: I expect more short liquidations over the next 24 hours, so timing tops can be dangerous even with juicy setups. No entry, stop, invalidation, leverage, take-profit, probability or extra confirmation was supplied. HBAR broke above long-term overhead resistance today and is getting closer to long-term support, making it interesting rather than confirmed. HYPE’s asserted Trump-related cause is tentative and I do not broaden it. One-day pumps remain very suspicious.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
-
-KITCO • 6h ago
-
----
-
-**[Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign](https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged)**
-
-Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and agencies.
-
-Decrypt • 4h ago
+BlackRock • 2d ago
 
 ---
 
@@ -255,11 +255,19 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 ---
 
+**[Satd (Full Bitcoin Node in Rust): Guided Code Tour](https://news.ycombinator.com/item?id=49380553)**
+
+A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
+
+⬆️ 2 • 💬 0 • 55m ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+
+---
+
 **[Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words](https://news.ycombinator.com/item?id=49370845)**
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 15h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 16h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -281,7 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 145 • ⏱️ 10:41 • 22h ago
+👁️ 64K • 👍 3K • 💬 145 • ⏱️ 10:41 • 23h ago
 
 ---
 
@@ -291,7 +299,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 45K • 👍 2K • 💬 146 • ⏱️ 9:45 • 10h ago
+👁️ 45K • 👍 2K • 💬 146 • ⏱️ 9:45 • 11h ago
 
 ---
 
@@ -301,7 +309,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 221 • 💬 21 • ⏱️ 14:53 • 4h ago
+👁️ 3K • 👍 221 • 💬 21 • ⏱️ 14:53 • 5h ago
 
 ---
 
@@ -311,7 +319,7 @@ In today's video we go over the short squeeze that resulted in billions of dolla
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 1K • 💬 23 • ⏱️ 39:08 • 13h ago
+👁️ 15K • 👍 1K • 💬 23 • ⏱️ 39:08 • 14h ago
 
 ---
 

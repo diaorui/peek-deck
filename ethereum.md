@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T21:34:13.713348+00:00'
+updated: '2026-08-20T22:27:44.912564+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 21:34 UTC  
+**Last Updated:** August 20, 2026 at 22:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,331.47
+### $2,313.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +22.9%  
-**30d:** +19.6%  
+**24h:** +2.8%  
+**7d:** +23.0%  
+**30d:** +19.7%  
 **90d:** +9.2%  
 **1y:** -45.3%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -172,11 +172,35 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum to $5,000? Tom Lee Flags ‘Major Breakout’ Setup as 2 Historic Rally Signals Flash](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-tom-lee-113044251.html)**
+
+Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
 
 CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
 
 Benzinga • 1d ago
+
+---
+
+**[Ethereum Price Forecast: BitMine sees tokenization driving ETH outperformance against Bitcoin](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-tokenization-driving-eth-outperformance-against-bitcoin-202608172211)**
+
+Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
+
+FXStreet • 3d ago
+
+---
+
+**[Ethereum Jumps 18% As Spot Volume Surges Across Exchanges](https://www.tradingview.com/news/newsbtc:43148d43d094b:0-ethereum-jumps-18-as-spot-volume-surges-across-exchanges/)**
+
+Ethereum surged 18% intraday as spot trading volume jumped sharply across major global exchanges, putting ETH back at the center of the market’s risk-on move.Market data showed ETH trading near the $2,500 level during the rally, with spot volume reportedly rising about 400% compared with the prior…
+
+TradingView • 4h ago
 
 ---
 
@@ -190,7 +214,7 @@ CoinDesk • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -198,29 +222,7 @@ markets.businessinsider.com • 13h ago
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 21h ago
-
----
-
-**[Crypto comeback? Bitcoin and ethereum are headed for their best day in months as investors flock to hard assets.](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
-
-MarketWatch • 7h ago
-
----
-
-**[Why Bitcoin & Ethereum Prices Suddenly Surged Today—Should Traders Be Cautious?](https://coinpedia.org/price-analysis/why-bitcoin-ethereum-prices-suddenly-surged-today-should-traders-be-cautious/)**
-
-Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
-
-Coinpedia • 14h ago
-
----
-
-**[Current price of Ethereum for August 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
+FXStreet • 22h ago
 
 ---
 
@@ -234,7 +236,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 233 • 💬 13 • ⏱️ 7:45 • 7h ago
+👁️ 5K • 👍 233 • 💬 13 • ⏱️ 7:45 • 8h ago
 
 ---
 
@@ -244,7 +246,7 @@ Where is Ethereum heading over the next six months? My short-term target for Eth
 
 📺 Crypto Archie
 
-👁️ 488 • 👍 39 • ⏱️ 0:57 • 7h ago
+👁️ 488 • 👍 39 • ⏱️ 0:57 • 8h ago
 
 ---
 
@@ -254,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 283 • 👍 21 • 💬 4 • ⏱️ 5:01 • 12h ago
+👁️ 283 • 👍 21 • 💬 4 • ⏱️ 5:01 • 13h ago
 
 ---
 
@@ -274,7 +276,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 678 • 💬 167 • ⏱️ 49:05 • 9h ago
+👁️ 7K • 👍 678 • 💬 167 • ⏱️ 49:05 • 10h ago
 
 ---
 
@@ -304,7 +306,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 1K • 👍 55 • 💬 20 • ⏱️ 1:22:32 • 10h ago
+👁️ 1K • 👍 55 • 💬 20 • ⏱️ 1:22:32 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T21:34:13.716183+00:00'
+updated: '2026-08-20T22:27:44.915877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 21:34 UTC  
+**Last Updated:** August 20, 2026 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 7h ago
 
 ---
 
@@ -60,7 +60,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
 
-19h ago
+20h ago
 
 ---
 
@@ -76,7 +76,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 2h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 3h ago
 
 ---
 
@@ -84,7 +84,7 @@ KAIST’s HOUND quadruped uses reinforcement learning to decide how to move base
 
 The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
 
-16h ago
+17h ago
 
 ---
 
@@ -100,7 +100,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 Round 4320 of hanging out in the basement with my robot. Among news reports and scary stories /scary songs it also sings about the kitchen.
 
-22h ago
+23h ago
 
 ---
 
@@ -108,7 +108,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 One thing I've noticed with vertical linear axes is that deciding the travel length seems surprisingly difficult. A robot might only need to reach from the floor to a work surface today, but the required workspace can change depending on the task — different working heights, payloads, tools, or even where the robot needs to position itself. The challenge is that the travel is often a decision you have to make early. Too little and you can end up rebuilding the mechanism later; too much can add unnecessary size, weight, cost, and mechanical complexity. For those who have designed robots with a vertical linear axis: how do you determine the required travel before the robot is fully built? Do you mainly calculate it from the expected workspace and mechanism geometry, or do you typically add some extra travel as a margin?
 
-7h ago
+8h ago
 
 ---
 
@@ -116,11 +116,11 @@ One thing I've noticed with vertical linear axes is that deciding the travel len
 
 ## Google News: "robotics"
 
-**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
+**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
 
-Companies are selling machines to government-backed centres that then sell training data back to robot makers
+Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
 
-Financial Times • 19h ago
+CNBC • 14h ago
 
 ---
 
@@ -130,19 +130,17 @@ Reuters • 1d ago
 
 ---
 
-**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
-
-South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
-
-Business Insider Africa • 2h ago
-
----
-
 **[Amazon to build multibillion-dollar robotics manufacturing facility in Austin](https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin)**
 
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
 
-KEYE • 17h ago
+KEYE • 18h ago
+
+---
+
+**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+
+The Business Journals • 1d ago
 
 ---
 
@@ -150,13 +148,7 @@ KEYE • 17h ago
 
 The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
 
-USA Today • 4h ago
-
----
-
-**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
-
-The Business Journals • 23h ago
+USA Today • 5h ago
 
 ---
 
@@ -165,14 +157,6 @@ The Business Journals • 23h ago
 For years, small, adaptable machines that perform repetitive jobsite tasks have seen the most success. As technology advances, that calculus is beginning to change.
 
 Construction Dive • 1d ago
-
----
-
-**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
-
-New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
-
-Intel Newsroom • 8h ago
 
 ---
 
@@ -186,7 +170,23 @@ The Conversation • 1d ago
 
 **[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
+
+---
+
+**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
+
+New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
+
+Intel Newsroom • 9h ago
+
+---
+
+**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
+
+South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
+
+Business Insider Africa • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ Chinese robot makers showed off humanoids sorting parcels, packing mobile phones
 
 📺 Firstpost
 
-👁️ 8K • 👍 60 • 💬 3 • ⏱️ 0:32 • 9h ago
+👁️ 8K • 👍 60 • 💬 3 • ⏱️ 0:32 • 10h ago
 
 ---
 
@@ -210,7 +210,7 @@ Researchers developed a tiny, soft, magnetically controlled millirobot inspired 
 
 📺 Science Daily
 
-👁️ 32K • 💬 6 • ⏱️ 0:07 • 1d ago
+👁️ 32K • 💬 6 • ⏱️ 0:07 • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ Can The Twins continue their run of success when they take on the most experienc
 
 📺 BattleBots
 
-👁️ 3K • 👍 213 • 💬 9 • 1h ago
+👁️ 3K • 👍 213 • 💬 9 • 2h ago
 
 ---
 
