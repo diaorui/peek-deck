@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T13:46:40.010598+00:00'
+updated: '2026-08-20T14:36:14.531793+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 13:46 UTC  
+**Last Updated:** August 20, 2026 at 14:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,605.39
+### $71,682.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +10.1%  
+**24h:** +4.5%  
 **7d:** +13.6%  
-**30d:** +8.3%  
-**90d:** -6.8%  
+**30d:** +8.4%  
+**90d:** -6.7%  
 **1y:** -36.3%  
 
 ---
@@ -81,31 +81,31 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-3h ago
+4h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-5h ago
+6h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-5h ago
+6h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-1h ago
+2h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
 
-16h ago
+17h ago
 
 ---
 
@@ -155,35 +155,27 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
-**[Bitcoin, crypto shares climb after Trump pushes Clarity Act](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
+**[1D NetFlow: +6,603 $Bitcoin (BTC.CC)$ (+$472.2M)🟢 7D NetFlow: +11,149 $Bitcoin (BTC.CC)$ (+$797.21M)🟢](https://www.moomoo.com/community/feed/august-20-update-bitcoin-etfs-1d-netflow-6-603-bitcoin-117128205041669)**
 
-Reuters • 2h ago
+@Lookonchain 7322 Views
+
+Moomoo • 33m ago
 
 ---
 
-**[Trump pushes Clarity Act at White House crypto meeting](https://qz.com/trump-clarity-act-white-house-crypto-bitcoin-082026)**
+**[Crypto Comeback? Bitcoin, Ethereum Head for Best Day in Months](https://www.moomoo.com/news/post/75011097/crypto-comeback-bitcoin-ethereum-head-for-best-day-in-months)**
 
-Bitcoin rose more than 5% after the White House meeting, which also drew calls for regulation of decentralized exchange Hyperliquid
-
-qz.com • 1h ago
+Moomoo • 3m ago
 
 ---
 
 **[Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-btc-roars-past-70-000-as-yields-sink-trump-cour)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Bitcoin Soars Above $70,000 After Trump Calls For Passage Of Clarity Act At White House Crypto Event](https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-above-70000-after-trump-calls-for-passage-of-clarity-act-at-white-house-crypto-event/)**
-
-Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.
-
-Forbes • 3h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -219,11 +211,19 @@ VanEck • 1d ago
 
 ---
 
-**[Will Bitcoin Get Back to $100,000 in 2026? It Could All Hinge on This](https://www.fool.com/investing/2026/08/19/will-bitcoin-get-back-to-100000-in-2026-it-could-a/)**
+**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
 
-The Clarity Act's approval may be what's needed to get Bitcoin back to its all-time high, but whether that happens is by no means a sure thing.
+Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
 
-The Motley Fool • 21h ago
+Fox News • 23h ago
+
+---
+
+**[Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)**
+
+Analysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.
+
+The Block • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 7h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 8h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -289,7 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 193 • ⏱️ 10:41 • 14h ago
+👁️ 47K • 👍 2K • 💬 193 • ⏱️ 10:41 • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 1K • 💬 40 • ⏱️ 24:22 • 16h ago
+👁️ 44K • 👍 1K • 💬 40 • ⏱️ 24:22 • 17h ago
 
 ---
 
@@ -319,7 +319,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 957 • 💬 634 • ⏱️ 12:02 • 12h ago
+👁️ 16K • 👍 957 • 💬 634 • ⏱️ 12:02 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 945 • 💬 523 • ⏱️ 22:30 • 13h ago
+👁️ 17K • 👍 945 • 💬 523 • ⏱️ 22:30 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 714 • 💬 436 • ⏱️ 13:12 • 22h ago
+👁️ 13K • 👍 714 • 💬 436 • ⏱️ 13:12 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 550 • 💬 52 • ⏱️ 9:45 • 2h ago
+👁️ 5K • 👍 550 • 💬 52 • ⏱️ 9:45 • 3h ago
 
 ---
 
@@ -359,7 +359,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 280 • ⏱️ 4:23:25 • 11h ago
+👁️ 6K • 👍 280 • ⏱️ 4:23:25 • 12h ago
 
 ---
 
@@ -367,7 +367,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 TheOneLanceB
 
-👁️ 6K • 👍 433 • 💬 22 • ⏱️ 1:48 • 15h ago
+👁️ 6K • 👍 433 • 💬 22 • ⏱️ 1:48 • 16h ago
 
 ---
 
@@ -377,7 +377,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 5K • 💬 393 • ⏱️ 16:32 • 9h ago
+👁️ 74K • 👍 5K • 💬 393 • ⏱️ 16:32 • 10h ago
 
 ---
 

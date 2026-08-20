@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T13:46:40.015915+00:00'
+updated: '2026-08-20T14:36:14.537939+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 13:46 UTC  
+**Last Updated:** August 20, 2026 at 14:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,271.00
+### $2,273.58
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +17.6%  
-**7d:** +20.7%  
-**30d:** +17.5%  
-**90d:** +7.2%  
-**1y:** -46.3%  
+**24h:** +9.5%  
+**7d:** +21.2%  
+**30d:** +17.9%  
+**90d:** +7.6%  
+**1y:** -46.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -154,7 +154,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -162,23 +162,15 @@ FXStreet • 13h ago
 
 Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[A New Proposal Would Reduce the Amount of Staking on Ethereum. Here's What It Means for Investors.](https://finance.yahoo.com/markets/crypto/articles/proposal-reduce-amount-staking-ethereum-112000508.html)**
+**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
 
-This proposed change could be bullish for holders.
+Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum ETFs Draw $189 Million in Biggest Single-Day Haul in 10 Months](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-draw-189-million-104834566.html)**
-
-Ethereum ETFs pulled $189M on August 19, their biggest day since October, with BlackRock's fund taking 65%.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -186,7 +178,7 @@ Yahoo Finance • 2h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -198,25 +190,23 @@ MarketForces Africa • 16h ago
 
 ---
 
-**[Current price of Ethereum for Aug. 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
-
----
-
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 2d ago
 
 ---
 
-**[Why Bitcoin & Ethereum Prices Suddenly Surged Today—Should Traders Be Cautious?](https://coinpedia.org/price-analysis/why-bitcoin-ethereum-prices-suddenly-surged-today-should-traders-be-cautious/)**
+**[Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
 
-Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
+MarketWatch • 27m ago
 
-Coinpedia • 6h ago
+---
+
+**[Current price of Ethereum for Aug. 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -224,7 +214,15 @@ Coinpedia • 6h ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
+
+---
+
+**[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
+
+GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
+
+The Defiant • 23h ago
 
 ---
 
@@ -238,7 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 144 • 👍 17 • 💬 1 • ⏱️ 5:01 • 4h ago
+👁️ 144 • 👍 17 • 💬 1 • ⏱️ 5:01 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 642 • 💬 129 • ⏱️ 49:05 • 1h ago
+👁️ 6K • 👍 642 • 💬 129 • ⏱️ 49:05 • 2h ago
 
 ---
 
@@ -278,7 +276,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 228 • 💬 21 • ⏱️ 6:58 • 18h ago
+👁️ 6K • 👍 228 • 💬 21 • ⏱️ 6:58 • 19h ago
 
 ---
 
@@ -288,7 +286,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 412 • 💬 206 • ⏱️ 14:57 • 16h ago
+👁️ 6K • 👍 412 • 💬 206 • ⏱️ 14:57 • 17h ago
 
 ---
 
@@ -298,7 +296,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 714 • 💬 436 • ⏱️ 13:12 • 22h ago
+👁️ 13K • 👍 714 • 💬 436 • ⏱️ 13:12 • 23h ago
 
 ---
 
@@ -328,7 +326,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 7K • 👍 576 • 💬 90 • ⏱️ 19:03 • 10h ago
+👁️ 7K • 👍 576 • 💬 90 • ⏱️ 19:03 • 11h ago
 
 ---
 

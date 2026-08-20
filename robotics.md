@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T13:46:40.018804+00:00'
+updated: '2026-08-20T14:36:14.541189+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 13:46 UTC  
+**Last Updated:** August 20, 2026 at 14:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
 
-11h ago
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 **[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -88,13 +88,13 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 Hi, I got plans to 3D print a 6DOF, high strength robot arm using some 35kg*f, 5v hobbyist servo motors. I’m planning on purchasing continuous rotation servos that are going to use some incremental encoders coupled to track motor position and speed after it reaches a home limit switch. Its going to be controlled using an I^2C servo shield, which is controlled by an Arduino Mega. So basically, Im turning it into a stepper motor without all the extra weight and having to purchase a bunch of stepper motor drivers, also it will supposedly be able to move super fast, with the manufacturer quoting 1200ms for one full rotation. The problem Im having trouble understanding and having AI explain to me coherently, is how to control the actual servo speed using the feedback. The servo manufacturer says in the product description that the servo motors cannot regulate speed. I dont want it to immediately crash and destroy components on my robot arm. I would like to say that I am indeed using mechanical gear ratio to alter the speed, but for the two wrist joints the arm will not have any gearing and will, accordingly, run fast and probably break my printed limit switch brackets. One idea I had was to try to modulate the speed using PWM signal generated by math being done from the encoder on the power line after the servo shield, using a high speed mosfet transistor. But the motor coils will likely overheat from the start up current, and Id hate to have to purchase a mosfet rated for handling start up current. And at that point, isnt this just reinventing the stepper motor? Admittedly, I havent used very many continuous hobbyist servo motors. I am more used to the allen bradley kinetix line of industrial servos. I’ve had to use a couple of servos on another project, but they were able to be controlled for position and speed and as such it was easier to implement. Any suggestions for how to do it properly are welcome.
 
-6h ago
+7h ago
 
 ---
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -110,11 +110,55 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference](https://apnews.com/article/china-robot-conference-951ebd3cddaccf5afcedc68174ba626a)**
 
-Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
+China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry.
 
-CNBC • 5h ago
+AP News • 22h ago
+
+---
+
+**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
+
+Reuters • 1d ago
+
+---
+
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+
+WSJ • 1d ago
+
+---
+
+**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
+
+Companies are selling machines to government-backed centres that then sell training data back to robot makers
+
+Financial Times • 12h ago
+
+---
+
+**[I Saw the Future of AI in a Robot That Can Learn on the Spot](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/)**
+
+During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.
+
+WIRED • 19h ago
+
+---
+
+**[Amazon to build multibillion-dollar robotics manufacturing facility in Austin](https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin)**
+
+Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
+
+KEYE • 10h ago
+
+---
+
+**[Bedrock Robotics deploys fully autonomous excavators on jobsites](https://www.constructiondive.com/news/bedrock-robotics-fully-autonomous-excavators-jobsites/828267/)**
+
+The San Francisco-based company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.
+
+Construction Dive • 22h ago
 
 ---
 
@@ -122,74 +166,23 @@ CNBC • 5h ago
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
 
-The Conversation • 21h ago
+The Conversation • 22h ago
 
 ---
 
-**[Robotics boom: The modern day Mechanical Turk?](https://www.gisreportsonline.com/r/robotics-boom-modern-day-mechanical-turk/)**
+**[Chinese robotics giant Unitree soars in stock market debut](https://www.bbc.com/news/articles/c0qv4w9492zo)**
 
-AI-powered robotics is advancing fast, but hype outruns autonomy, safety and deployment realities.
+Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.
 
-GIS Reports • 7h ago
-
----
-
-**[Powering the EMILIA-3D Lunar Mission with Proven Space Robotics](https://rocketlabcorp.com/updates/powering-the-emilia-3d-lunar-mission-with-proven-space-robotics/)**
-
-As NASA and its partners advance toward returning American astronauts to the Moon for the first time in nearly 60 years, Rocket Lab Robotics is helping grow our understanding of the rocky, cratered surface, essential to mission success.
-
-Rocket Lab • 14h ago
+BBC • 1d ago
 
 ---
 
-**[Agility Robotics splits CFO-COO role as it prepares to go public](https://www.cfodive.com/news/agility-robotics-separates-finance-operations-prepares-go-public/828330/)**
+**[AI researcher Sanja Fidler raises US$90-million for robotics startup](https://www.theglobeandmail.com/business/article-sanja-fidler-veeda-innovation-nvidia-ai-robotics-training-toronto/)**
 
-The move role reflects the growing demands on both functions as the business expands, CEO Peggy Johnson said.
+Veeda Innovation Inc. will build artificial intelligence models to help train robots
 
-CFO Dive • 11h ago
-
----
-
-**[Kazakhstan Begins Construction of Robotics Complex as It Expands Humanoid AI Ambitions](https://astanatimes.com/2026/08/kazakhstan-begins-construction-of-robotics-complex-as-it-expands-humanoid-ai-ambitions/)**
-
-Kazakhstan Begins Construction of Robotics Complex as It Expands Humanoid AI Ambitions
-
-The Astana Times • 2h ago
-
----
-
-**[Amazon picks East Austin for multi-billion dollar robotics facility](https://communityimpact.com/east-austin/development/amazon-picks-east-austin-for-multi-billion-dollar-robotics-facility/)**
-
-The manufacturing project was first discussed during city officials' review of plans for development in the Dog's Head area this summer.
-
-Community Impact • 10h ago
-
----
-
-**[Unitree Robotics stock soars 460% in Shanghai IPO debut](https://finance.yahoo.com/markets/stocks/articles/unitree-robotics-stock-soars-460-111514463.html)**
-
-The Hangzhou-based humanoid robot maker closed at 845 yuan on Wednesday, giving it a market value of around $50 billion
-
-Yahoo Finance • 1d ago
-
----
-
-**[Why Is Nvidia (NVDA) Expanding Deeper Into Robotics And Physical AI?](https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/why-is-nvidia-nvda-expanding-deeper-into-robotics-and-physic)**
-
-NVIDIA (NasdaqGS: NVDA) is expanding its robotics and physical AI efforts through new collaborations with LG Electronics and Foxglove.
-LG and NVIDIA are working on an accelerated robotics Data Factory that combines real world and synthetic data for robot learning.
-Foxglove launched agentic AI tools that use NVIDIA's Cosmos world models to power semantic robotics data search and debugging workflows.
-These moves extend NVIDIA's role beyond AI chips and cloud into commercial robotics data...
-
-simplywall.st • 1h ago
-
----
-
-**[Free robotics event for students comes Aug. 29 to Pendleton](https://eastoregonian.com/2026/08/19/free-robotics-event-for-students-coming-to-pendleton-aug-29/)**
-
-PENDLETON — Students entering grades four through eight will get an opportunity to explore the world of robotics in Pendleton on Aug. 29. The Oregon Robotics Tournament & Outreach Program […]
-
-East Oregonian • 12h ago
+The Globe and Mail • 17h ago
 
 ---
 
@@ -203,7 +196,7 @@ China kicked off the 2026 World Robot Conference on Wednesday, with companies sh
 
 📺 Associated Press
 
-👁️ 2K • 👍 29 • 💬 6 • ⏱️ 0:54 • 11h ago
+👁️ 2K • 👍 29 • 💬 6 • ⏱️ 0:54 • 12h ago
 
 ---
 
@@ -223,7 +216,7 @@ Try Shutterstock today!: https://www.shutterstock.com/unlimited @shutterstock #a
 
 📺 Daniel Schiffer
 
-👁️ 680 • 👍 68 • 💬 12 • ⏱️ 9:31 • 1h ago
+👁️ 680 • 👍 68 • 💬 12 • ⏱️ 9:31 • 2h ago
 
 ---
 
@@ -253,7 +246,7 @@ CNBC's Eunice Yoon joins 'Squawk on the Street' to discuss Unitree Robotics shar
 
 📺 CNBC Television
 
-👁️ 11K • 👍 98 • 💬 42 • ⏱️ 3:52 • 21h ago
+👁️ 11K • 👍 98 • 💬 42 • ⏱️ 3:52 • 22h ago
 
 ---
 
@@ -283,7 +276,7 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 33K • 👍 815 • 💬 182 • ⏱️ 1:36 • 19h ago
+👁️ 33K • 👍 815 • 💬 182 • ⏱️ 1:36 • 20h ago
 
 ---
 
