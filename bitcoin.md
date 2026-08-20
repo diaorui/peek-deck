@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T23:28:07.322321+00:00'
+updated: '2026-08-20T23:52:06.612049+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 23:28 UTC  
+**Last Updated:** August 20, 2026 at 23:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 **[I’m looking at the charts like this.](https://www.reddit.com/r/Bitcoin/comments/1vtwubr/im_looking_at_the_charts_like_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 10h ago
 
 VanEck's Matthew Sigel calls Bitcoin a hedge against a weaker dollar. Here's why that claim is being challenged.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 40m ago
 
 Bessent says Treasury bond buybacks could exceed $4 billion, easing yields and helping fuel Bitcoin's rally past $69,000.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -261,7 +261,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 1h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 2h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -269,7 +269,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 17h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 18h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 301 • 💬 24 • ⏱️ 14:53 • 6h ago
+👁️ 6K • 👍 301 • 💬 24 • ⏱️ 14:53 • 7h ago
 
 ---
 
@@ -371,7 +371,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 28K • 👍 4K • 💬 2 • ⏱️ 15:22 • 10h ago
+👁️ 28K • 👍 4K • 💬 2 • ⏱️ 15:22 • 11h ago
 
 ---
 

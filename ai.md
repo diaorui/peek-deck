@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T23:28:07.313203+00:00'
+updated: '2026-08-20T23:52:06.603540+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 23:28 UTC  
+**Last Updated:** August 20, 2026 at 23:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Build a modern LLM from scratch. Every line commented. Explained like we are fiv
 
 Three months ago, I posted an LLM resume-screening study in which an auditor flagged 45 per cent of score differences as bias. Thread feedback challenged my methodology, so I ran new experiments testing three specific objections. To test u/kamilc86's claim that reasoning is invented post hoc, I transplanted positive and negative justifications back into prompts across 320 runs. Scores moved 3.62 points in the reasoning's direction 99.7 per cent of the time, proving scores do follow reasoning. However, extreme baseline instability confirmed his broader point: much of the initial 45 per cent bias was just random noise mislabeled as bias. Testing u/AssiduousLayabout's idea to place the score last across 4,800 runs showed that schema ordering had no effect on stability and increased hire-versus-no-hire disagreement from 33 per cent to 54 per cent. Blind prompt instructions also failed to reduce variance. Testing u/hex4def6's placebo idea across 4,165 runs revealed that meaningless edits like car colour shifted scores almost as much as demographic edits (0.328 versus 0.362 points). "Silver Golf" shifted scores more than changing my university or name, even though the models never cited the car in their justifications. Ultimately, first names and career gaps show real signal, but raw instability drowns out most demographic axes. Wrapper choice also heavily impacts results: running Claude via CLI added a hidden system prompt that shifted scores by 0.247, representing 88 per cent of the demographic signal, meaning benchmarks do not transfer across wrappers. Full data and code are available at the Placebo Control, Reasoning Transplant, Prompt Lab, GitHub Repository, and Full Blog Writeup.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Thomson Reuters says the next generation of CoCounsel Legal is now generally ava
 
 There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Today's useful AI updates are mostly operational: callback safety, task-runner l
 
 **[How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 9h ago
 
 A recent study found that two-thirds of teens fear being deepfaked without their consent, while 1 in 5 admit to creating AI-generated pornography.
 
-CBS News • 36m ago
+CBS News • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ CBS News • 36m ago
 
 "Scam Alert" is currently out in beta testing.
 
-ABC7 Bay Area • 11m ago
+ABC7 Bay Area • 35m ago
 
 ---
 
 **[AI Explained: How does Google Pixel use AI?](https://www.wpri.com/video/ai-explained-how-does-google-pixel-use-ai/12085269/)**
 
-WPRI.com • 15m ago
+WPRI.com • 39m ago
 
 ---
 
@@ -183,7 +183,7 @@ WSJ • 9h ago
 
 Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
 
-OpenAI • 3h ago
+OpenAI • 4h ago
 
 ---
 
@@ -271,7 +271,7 @@ Trying to obfuscate the web is a bad, pointless idea
 
 The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
 
-⬆️ 72 • 💬 134 • 11h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+⬆️ 72 • 💬 134 • 12h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -305,7 +305,7 @@ Oracle just banned AI contributions for Open JDK. Topics: - Oracle bans AI code 
 
 📺 Millionaires Investment Secrets
 
-👁️ 841 • 👍 38 • 💬 2 • ⏱️ 9:16 • 5h ago
+👁️ 841 • 👍 38 • 💬 2 • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -439,7 +439,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,628 • ❤️ 708 • 14h ago
+⬇️ 2,628 • ❤️ 708 • 15h ago
 
 ---
 
@@ -451,7 +451,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 76,109 • ❤️ 675 • 14h ago
+⬇️ 76,109 • ❤️ 675 • 15h ago
 
 ---
 
@@ -661,7 +661,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 43m ago
+⭐ 14.0k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 575 • 6h ago
+⭐ 3.4k • 🔱 575 • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 328 • 7h ago
+⭐ 2.8k • 🔱 328 • 8h ago
 
 ---
 
@@ -729,7 +729,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 309 • 1h ago
+⭐ 2.2k • 🔱 309 • 2h ago
 
 ---
 

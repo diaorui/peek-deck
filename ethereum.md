@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T23:28:07.328453+00:00'
+updated: '2026-08-20T23:52:06.617550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 23:28 UTC  
+**Last Updated:** August 20, 2026 at 23:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -236,7 +236,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 195 • 👍 25 • 💬 3 • ⏱️ 20:05 • 3h ago
+👁️ 195 • 👍 25 • 💬 3 • ⏱️ 20:05 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 113 • 💬 26 • ⏱️ 11:13 • 11h ago
+👁️ 4K • 👍 113 • 💬 26 • ⏱️ 11:13 • 12h ago
 
 ---
 
