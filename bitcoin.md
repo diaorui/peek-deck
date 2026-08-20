@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T05:30:34.512529+00:00'
+updated: '2026-08-20T05:59:03.049221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 05:30 UTC  
+**Last Updated:** August 20, 2026 at 05:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,33 +87,25 @@ Rank #1
 
 First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
 
-8h ago
+9h ago
 
 ---
 
 **[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
 
-8h ago
-
----
-
-**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
-
-12h ago
-
----
-
-**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
-
-Analysts say that Putin could seize assets if cash is needed for his stalling invasion
-
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 12h ago
+9h ago
 
 ---
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
 13h ago
+
+---
+
+**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
+
+12h ago
 
 ---
 
@@ -127,7 +119,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-13h ago
+14h ago
 
 ---
 
@@ -139,11 +131,17 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 ---
 
+**[just me and my cold wallet playing doom :)](https://www.reddit.com/r/Bitcoin/comments/1vt5gjh/just_me_and_my_cold_wallet_playing_doom/)**
+
+4h ago
+
+---
+
 **[We're Back Baby!!](https://www.reddit.com/r/Bitcoin/comments/1vsps10/were_back_baby/)**
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-13h ago
+14h ago
 
 ---
 
@@ -153,7 +151,7 @@ https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337
 
 **[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -169,7 +167,7 @@ Yahoo Finance • 13h ago
 
 President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -183,7 +181,7 @@ Yahoo Finance • 3h ago
 
 **[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -197,7 +195,7 @@ Bloomberg • 1d ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
@@ -233,7 +231,7 @@ Forbes • 8h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 3 • 💬 2 • 2d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 3 • 💬 2 • 3d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -277,7 +275,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[I replaced ZSTD and Merkle trees with zero-allocation spiral accumulators](https://news.ycombinator.com/item?id=49370695)**
 
-⬆️ 1 • 💬 0 • 1m ago
+⬆️ 1 • 💬 0 • 29m ago
 
 ---
 
@@ -369,7 +367,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 707 • 💬 362 • ⏱️ 13:12 • 14h ago
+👁️ 12K • 👍 707 • 💬 362 • ⏱️ 13:12 • 15h ago
 
 ---
 
@@ -387,7 +385,7 @@ LIVE – Bitcoin ripped 7% above $69K on August 19, 2026 and $1.2 billion in sho
 
 📺 BTC Sessions
 
-👁️ 8K • 👍 412 • 💬 44 • ⏱️ 1:21:16 • 6h ago
+👁️ 8K • 👍 412 • 💬 44 • ⏱️ 1:21:16 • 7h ago
 
 ---
 

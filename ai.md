@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T05:30:34.503936+00:00'
+updated: '2026-08-20T05:59:03.040576+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 05:30 UTC  
+**Last Updated:** August 20, 2026 at 05:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 A randomised experiment involving 791 Procter & Gamble professionals found that individuals using generative AI produced innovation work comparable in quality to two-person human teams, while teams combining people and AI were far more likely to produce exceptional ideas.
 
-🔗 [Research Today](https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/) • 11h ago
+🔗 [Research Today](https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ I'm working on an AI tool that can see what's happening on your screen in real t
 
 Generic AI training at one company: 11% uptake. A company-wide licence at an unrelated firm, different sector: 11.5% active use. Same number twice, from opposite directions. The cause underneath is the same. Nobody connected the tool to the job sitting in front of the person. Training that opens with “here is what the tool can do” gets you 11%. Training that opens with “show me the thing you did 4 times yesterday” gets people building before lunch. What was the uptake on your last rollout, measured a month later?
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Any advice would be helpful. Is there a better or better priced one than Base44?
 
 Hey everyone, For a while now, I’ve been developing a proprietary multi-agent framework called GenOS. Without giving away the exact mechanics, GenOS is an orchestrator where autonomous LLM sub-agents write, compile, benchmark, and iteratively evolve Rust code to solve extremely complex algorithmic challenges. They share knowledge, compete, and evolve their architectures over dozens of generations. The Challenge: I tasked GenOS with solving the "Reverse Game of Life" (finding the exact Gen-0 starting state that results in a target Gen-5 grid on a flat 20x20 matrix). For those who don't know, reversing Cellular Automata is a notoriously NP-Hard problem due to the immense state space and chaotic temporal butterfly effect. The 3 Champions: Over the course of the experiment, GenOS organically evolved and isolated three peak architectures, representing the three fundamental paradigms of computer science optimization: Epsilon (Gen 17 - The Causal Optimizer): Epsilon took a highly analytical, deterministic approach. It mapped the causal light-cones of the Game of Life to calculate local gradients. It was brilliant in theory, but because Conway's Game of Life is highly non-linear, local gradients are often misleading. Epsilon hit a wall around 306/400, proving that pure determinism struggles with chaos. Omega (Gen 10 - The SAT Solver): Omega took the path of formal logic. It translated the entire 5-generation temporal grid into a massive boolean satisfiability formula and ran a highly optimized stochastic WalkSAT algorithm. It was mathematically rigorous, but the dense topological constraints caused severe combinatorial explosion. It fought valiantly but ultimately choked on its own massive clause database. Sigma (Gen 39 - The Darwinian Brute-Force): Sigma was the absolute masterpiece. It threw away formal logic and relied on sheer violence. It evolved a massive SWAR (Bit-Slicing) engine to evaluate 64 universes simultaneously in a single CPU register, combined with Simulated Annealing and "thermal shocks" to escape local minima. Sigma crushed the competition, organically reaching a peak score of 378/400. The Discovery: At 378, Sigma completely stalled. It wasn't a failure of the algorithm. By analyzing the data produced by Omega Gen 10 and Sigma Gen 39, the system ultimately proved that the remaining 22 pixels were mathematically UNSAT. Because of the dead borders of the flat topology, reaching 400/400 was a physical impossibility. 378 was the hard limit of the universe. Conclusion: It was genuinely mind-blowing to watch an autonomous multi-agent system (GenOS) independently reinvent and test the three major pillars of optimization (Causal Analysis, SAT Logic, and Stochastic Heuristics) just to mathematically prove the physical limits of a sandbox environment. Has anyone else working with autonomous coding orchestrators experienced their agents organically inventing and benchmarking completely different computer science paradigms like this? Would love to hear your thoughts! I tried every algorithm I know and I couldn't beat SAT/CDCL. Here the code of Sigma Gen 39 // ============================================================================== // SIGMA - GEN 39 : The Ultimate Darwinian SA (Transcendance) // ============================================================================== // // RECORD: 378/400 (Nouveau Champion Absolu) // ARCHITECTURE: // - Vrai Bit-Slicing 64-voies (Batch64) // - Wall-Clock Budget (28.5 secondes réelles) // - Reheating (Choc thermique si stagnation locale de 200k itérations) // - Adaptive Causal Window (Rayon décroissant : 5 -> 3 -> 1 selon le score) // - Memetic Crossover (Échange génétique de lignes entre threads) // - Random Restart (Reboot total en cas d'impasse fatale) // ============================================================================== use std::sync::{Arc, Mutex}; use std::time::{Duration, Instant}; use rand::Rng; const TIME_BUDGET_SECS: f64 = 28.5; #[derive(Clone, Copy)] struct SAState { grid: [u32; 20], score: u32, errors: [u32; 20], // Masque d'erreurs (limité à 20 bits) } struct Batch64 { cells: [u64; 400], } impl Batch64 { fn new() -> Self { Batch64 { cells: [0; 400] } } } /// Simulateur bit-parallel classique pour évaluation rapide fn evaluate_single(grid: &[u32; 20], target: &[u32; 20], state: &mut SAState) { state.grid = *grid; let mut new_score = 0; // ... Placeholder 5 itérations de Conway sur Flat Topology ... let g5_grid = grid; // (Simulation omise pour clarté) for y in 0..20 { let matches = !(g5_grid[y] ^ target[y]) & 0xFFFFF; new_score += matches.count_ones(); state.errors[y] = (!matches) & 0xFFFFF; } state.score = new_score; } #[derive(Clone)] struct GlobalPool { elites: Vec<[u32; 20]>, // Grilles d'élite partagées par les threads best_overall_score: u32, } fn focused_causal_sa(target: Arc<[u32; 20]>, global_pool: Arc<Mutex<GlobalPool>>) { let mut rng = rand::thread_rng(); // Initialisation let mut current_state = SAState { grid: [0; 20], score: 0, errors: [0; 20] }; for y in 0..20 { current_state.grid[y] = rng.gen_range(0..=0xFFFFF); } evaluate_single(&current_state.grid, &target, &mut current_state); let mut best_state = current_state.clone(); let mut temp = 0.5; let cooling_rate = 0.999995; let mut iter = 0; let mut last_improvement_iter = 0; let start_time = Instant::now(); // 1. Wall-Clock Budget while start_time.elapsed().as_secs_f64() < TIME_BUDGET_SECS { iter += 1; let mut next_grid = current_state.grid; // 3. Adaptive Causal Window (Ajustement du rayon de mutation) let radius = if current_state.score < 330 { 5 } else if current_state.score < 360 { 3 } else { 1 // Ciselage chirurgical final }; // Ratio 70% causal / 30% random if rng.gen::<f64>() < 0.70 { let total_errors = 400 - current_state.score; if total_errors == 0 { break; } let k = rng.gen_range(0..total_errors); let mut err_count = 0; let mut target_err = (0, 0); 'find: for y in 0..20 { let mut mask = current_state.errors[y]; while mask > 0 { let x = mask.trailing_zeros(); if err_count == k { target_err = (x, y); break 'find; } err_count += 1; mask &= mask - 1; } } let ex = target_err.0 as usize; let ey = target_err.1 as usize; let xmin = ex.saturating_sub(radius); let xmax = (ex + radius).min(19); let ymin = ey.saturating_sub(radius); let ymax = (ey + radius).min(19); let mx = rng.gen_range(xmin..=xmax); let my = rng.gen_range(ymin..=ymax); next_grid[my] ^= 1 << mx; } else { // Mutation purement aléatoire globale let mx = rng.gen_range(0..20); let my = rng.gen_range(0..20); next_grid[my] ^= 1 << mx; } let mut next_state = current_state.clone(); evaluate_single(&next_grid, &target, &mut next_state); let delta = next_state.score as f64 - current_state.score as f64; // Critère de Metropolis if delta > 0.0 || rng.gen::<f64>() < (delta / temp).exp() { current_state = next_state; if current_state.score > best_state.score { best_state = current_state.clone(); last_improvement_iter = iter; // Mettre à jour le pool global si record absolu let mut pool = global_pool.lock().unwrap(); if best_state.score > pool.best_overall_score { pool.best_overall_score = best_state.score; pool.elites.push(best_state.grid); println!(">>> RECORD BATTU : {}/400 (iter {})", best_state.score, iter); } } } // 2. Reheating dynamique (Choc Thermique) if iter - last_improvement_iter == 200_000 { temp = (temp * 2.0).min(0.5); } else { temp *= cooling_rate; } // 4. Random Restart si impasse fatale if iter - last_improvement_iter > 1_000_000 { for y in 0..20 { current_state.grid[y] = rng.gen_range(0..=0xFFFFF); } evaluate_single(&current_state.grid, &target, &mut current_state); last_improvement_iter = iter; temp = 0.5; } // 5. Memetic Crossover (Toutes les 500k itérations) if iter % 500_000 == 0 { let pool = global_pool.lock().unwrap(); if !pool.elites.is_empty() { let elite_grid = pool.elites[rng.gen_range(0..pool.elites.len())]; // Crossover spatial : on injecte 5 lignes d'un univers d'élite let start_y = rng.gen_range(0..15); for y in start_y..(start_y+5) { current_state.grid[y] = elite_grid[y]; } evaluate_single(&current_state.grid, &target, &mut current_state); if current_state.score > best_state.score { best_state = current_state.clone(); last_improvement_iter = iter; } } } } } fn main() { println!("Démarrage Gen 39 Sigma (Darwinien Ultime) - 16 threads, budget 28.5s..."); // Orchestration multi-thread sur \focused_causal_sa`...` }
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Irregular (an AI security research group) tested Kimi K3, an open-weight model, 
 
 Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 1h ago
 
 AI-assisted Aquablation surgery helps men with enlarged prostates recover faster and avoids risks.
 
-BBC • 12m ago
+BBC • 41m ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 4,318,134 • ❤️ 2,135 • 12h ago
+⬇️ 4,318,134 • ❤️ 2,135 • 13h ago
 
 ---
 
@@ -660,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 38m ago
+⭐ 14.0k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -718,7 +718,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 315 • 1h ago
+⭐ 2.7k • 🔱 315 • 2h ago
 
 ---
 
@@ -728,7 +728,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 303 • 1m ago
+⭐ 2.2k • 🔱 303 • 30m ago
 
 ---
 
