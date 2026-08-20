@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T02:37:22.378276+00:00'
+updated: '2026-08-20T03:46:53.349294+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 02:37 UTC  
+**Last Updated:** August 20, 2026 at 03:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +18.1%  
-**7d:** +19.9%  
-**30d:** +16.7%  
-**90d:** +6.5%  
-**1y:** -46.7%  
+**24h:** +17.9%  
+**7d:** +19.7%  
+**30d:** +16.5%  
+**90d:** +6.3%  
+**1y:** -46.8%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 10h ago
+Benzinga • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 10h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 10h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 4h ago
+MarketForces Africa • 6h ago
 
 ---
 
@@ -194,37 +194,37 @@ MarketForces Africa • 4h ago
 
 Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.Notable Statistics:Notable Developments:Trader Notes:Trader Michael van de Poppe said Bitcoin’s surge to $69,000 wiped out shorts…
 
-tradingview.com • 5h ago
+TradingView • 6h ago
 
 ---
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum to $5,000? Tom Lee Flags ‘Major Breakout’ Setup as 2 Historic Rally Signals Flash](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-tom-lee-113044251.html)**
+**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
 
-Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
+Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.tradingview.com/news/benzinga:6c2f40719094b:0-ethereum-jumps-8-to-2-080-as-tom-lee-backs-vlad-tenev-s-global-tokenization-supercycle/)**
-
-Fundstrat’s Tom Lee says tokenization could provide a major tailwind for crypto as Ethereum (CRYPTO: ETH) surged 8% to $2,080 on Wednesday.Tom Lee Backs Tokenization ThesisLee called out a potential cloud breakout for the altcoin, saying it would be its first bullish trend signal since October 2025…
-
-tradingview.com • 8h ago
+FXStreet • 3h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
+Which of these altcoins has a better shot at a comeback?
 
-PR Newswire • 2d ago
+The Motley Fool • 10h ago
+
+---
+
+**[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
+
+GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
+
+The Defiant • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 248 • 💬 81 • ⏱️ 26:28 • 3h ago
+👁️ 4K • 👍 248 • 💬 81 • ⏱️ 26:28 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 5K • 👍 367 • 💬 126 • ⏱️ 14:57 • 5h ago
+👁️ 5K • 👍 367 • 💬 126 • ⏱️ 14:57 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 193 • 💬 19 • ⏱️ 6:58 • 7h ago
+👁️ 4K • 👍 193 • 💬 19 • ⏱️ 6:58 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 668 • 💬 299 • ⏱️ 28:47 • 17h ago
+👁️ 6K • 👍 668 • 💬 299 • ⏱️ 28:47 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 7K • 👍 463 • 💬 10 • ⏱️ 1:38:08 • 9h ago
+👁️ 7K • 👍 463 • 💬 10 • ⏱️ 1:38:08 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 697 • 💬 352 • ⏱️ 13:12 • 11h ago
+👁️ 11K • 👍 697 • 💬 352 • ⏱️ 13:12 • 12h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 36 • 💬 5 • ⏱️ 0:34 • 3h ago
+👁️ 1K • 👍 36 • 💬 5 • ⏱️ 0:34 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:36 • 6h ago
+👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:36 • 7h ago
 
 ---
 
