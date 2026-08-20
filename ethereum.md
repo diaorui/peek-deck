@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T01:14:21.235380+00:00'
+updated: '2026-08-20T02:37:22.378276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 01:14 UTC  
+**Last Updated:** August 20, 2026 at 02:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,248.12
+### $2,264.55
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +18.2%  
-**7d:** +19.8%  
-**30d:** +16.6%  
-**90d:** +6.4%  
+**24h:** +18.1%  
+**7d:** +19.9%  
+**30d:** +16.7%  
+**90d:** +6.5%  
 **1y:** -46.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $271.32B
+**Market Cap:** $272.73B
 Rank #2
 
-**Circulating Supply:** 120,681,896 ETH
+**Circulating Supply:** 120,681,740 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.5%
+-54.3%
 
 **All-Time Low:** $0.43
-+519271.6%
++521846.8%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 9h ago
+Benzinga • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 8h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -186,15 +186,15 @@ The Block • 9h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-dmarketforces.com • 3h ago
+MarketForces Africa • 4h ago
 
 ---
 
-**[Solana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out](https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/)**
+**[Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day](https://www.tradingview.com/news/benzinga:343eb6086094b:0-bitcoin-hits-69-000-ethereum-goes-on-20-bull-rampage-xrp-sol-pump-10-on-historic-crypto-day/)**
 
-Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
+Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.Notable Statistics:Notable Developments:Trader Notes:Trader Michael van de Poppe said Bitcoin’s surge to $69,000 wiped out shorts…
 
-TradingView • 8h ago
+tradingview.com • 5h ago
 
 ---
 
@@ -212,6 +212,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.tradingview.com/news/benzinga:6c2f40719094b:0-ethereum-jumps-8-to-2-080-as-tom-lee-backs-vlad-tenev-s-global-tokenization-supercycle/)**
+
+Fundstrat’s Tom Lee says tokenization could provide a major tailwind for crypto as Ethereum (CRYPTO: ETH) surged 8% to $2,080 on Wednesday.Tom Lee Backs Tokenization ThesisLee called out a potential cloud breakout for the altcoin, saying it would be its first bullish trend signal since October 2025…
+
+tradingview.com • 8h ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
@@ -220,17 +228,29 @@ PR Newswire • 2d ago
 
 ---
 
-**[Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons](https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/)**
-
-Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
-
-BeInCrypto • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-tHCqhPk4CU)**
+
+BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 248 • 💬 81 • ⏱️ 26:28 • 3h ago
+
+---
+
+**[XRP HYPE ETH 💥💥TRUMP CRYPTO MEETING](https://www.youtube.com/watch?v=o07CIChy3SY)**
+
+2nd channel♨ so while I taper let's play some games https://www.youtube.com/@UCRS4Cjpn8wwoEulSsEGsvdw #xrp #xlm #btc ...
+
+📺 CRYPTO with KLAUS
+
+👁️ 5K • 👍 367 • 💬 126 • ⏱️ 14:57 • 5h ago
+
+---
 
 **[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
 
@@ -238,7 +258,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 165 • 💬 11 • ⏱️ 6:58 • 5h ago
+👁️ 4K • 👍 193 • 💬 19 • ⏱️ 6:58 • 7h ago
 
 ---
 
@@ -248,7 +268,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 656 • 💬 300 • ⏱️ 28:47 • 15h ago
+👁️ 6K • 👍 668 • 💬 299 • ⏱️ 28:47 • 17h ago
 
 ---
 
@@ -258,35 +278,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 7K • 👍 457 • 💬 10 • ⏱️ 1:38:08 • 8h ago
-
----
-
-**[Ethereum and Hyperliquid are SKYROCKETING!](https://www.youtube.com/watch?v=5JihjDuWPPI)**
-
-📺 Discover Crypto
-
-👁️ 172 • 👍 6 • 💬 2 • ⏱️ 0:34 • 2h ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 184 • 💬 43 • ⏱️ 16:48 • 1d ago
-
----
-
-**[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 435 • 💬 270 • ⏱️ 17:08 • 2d ago
+👁️ 7K • 👍 463 • 💬 10 • ⏱️ 1:38:08 • 9h ago
 
 ---
 
@@ -296,7 +288,35 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 665 • 💬 322 • ⏱️ 13:12 • 10h ago
+👁️ 11K • 👍 697 • 💬 352 • ⏱️ 13:12 • 11h ago
+
+---
+
+**[Ethereum and Hyperliquid are SKYROCKETING!](https://www.youtube.com/watch?v=5JihjDuWPPI)**
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 36 • 💬 5 • ⏱️ 0:34 • 3h ago
+
+---
+
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 189 • 💬 45 • ⏱️ 16:48 • 1d ago
+
+---
+
+**[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 9K • 👍 439 • 💬 270 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -306,27 +326,7 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 796 • 👍 10 • 💬 1 • ⏱️ 0:36 • 5h ago
-
----
-
-**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
-
-Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
-
-📺 The Rollup
-
-👁️ 12K • 👍 303 • 💬 37 • ⏱️ 35:05 • 3d ago
-
----
-
-**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
-
-Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
-
-📺 Zarx Crypto
-
-👁️ 17K • 👍 2K • 💬 13 • ⏱️ 4:44 • 1d ago
+👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:36 • 6h ago
 
 ---
 
