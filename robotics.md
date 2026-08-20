@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-19T23:47:28.728730+00:00'
+updated: '2026-08-20T01:14:21.238627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 19, 2026 at 23:47 UTC  
+**Last Updated:** August 20, 2026 at 01:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves and talks. Runs on Autonomous OS we built for robots. We open source everything and here's the short version. Our Autonomous Lamp The arm 5 degrees of freedom. Five STS3215 bus servos, daisy-chained on one TTL bus, into the board through a USB adapter. One cable for the whole arm. No driver board. First job: servo IDs. New STS3215s ship as ID 1, so I gave each a unique ID one at a time, then calibrated homing. Homing lives in the servo EEPROM, so it survives a reflash. Do it with the arm open. Power Single 12 V / 5 A adaptor, ~42 W sustained. A buck steps to 5 V for the board and LED ring. Amp runs on 12 V directly. Board draws ~1.8 A, spikes to 2.5 A at boot. Ring gets capped near 1 A, full white 64 LEDs would pull 3.84 A and brown out the buck. All grounds star-point at the buck output on their own wires. Sound Moving audio off the onboard codec killed most of the noise. A USB DAC feeds the amp through a short twisted lead, run away from the 12 V harness. The onboard codec stays wired for the sensing mic only. Two honest gotchas: the sensing mic is the MEMS mic on the OrangePi board, so it has to be desoldered and re-mounted in the base, fiddly, but skip it and you lose ambient sensing. And the buck I used still adds a faint hiss of its own, it's on the list to swap out. Software Cleanest part. Flash Linux, run the installer, ~15 minutes to Autonomous OS. The robot declares its hardware in the ROBOT.md in our repo and the OS mounts only that. Behaviors are markdown skills. Type what you want in the app, it writes the skill, live on the next conversation. The 1st prototype The final design What's inside the Lamp 3D printed parts
 
-13h ago
+14h ago
 
 ---
 
@@ -44,25 +44,25 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-5h ago
+7h ago
 
 ---
 
 **[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
 
-21h ago
+22h ago
 
 ---
 
 **[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
 
-6h ago
+8h ago
 
 ---
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -70,7 +70,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 7h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 8h ago
 
 ---
 
@@ -78,7 +78,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We've been building a small board that handles cameras and sensors for robots, so adding a sensor stops costing a weekend. The hardware was the manageable part. The things that shaped the product were the ones we couldn't see from the whiteboard. What really cost us weeks: The flash budget made our biggest decision for us. The early assumption was the board would speak ROS natively. Then we put micro-ROS on the target and the library ate about 60% of flash before our own code got a byte. That ended the debate: the device speaks Cyphal, ROS lives host-side behind a thin bridge, and the same image serves three transports. Felt like a defeat, now it's the part we'd defend hardest. We learned which reboots are placebo. A link that died on every board swap ignored power cycles and even full host reboots, because the chip at fault never actually turned off, back-powered through its data lines, holding half-configured state through everything. The fix was one reset write. The lesson: "restart everything" only works if everything restarts, and you don't know that until you've traced where each chip's power really comes from. An older unsolved mystery on the same rig dissolved the day we got this. Hardware timestamps earned their place the hard way. We treated per-sample timestamping as a nice-to-have, sensors stream, host receives, how far off can time be. Then you look at what fusion actually needs: SLAM doesn't care when the host received a sample, it cares when the sensor saw the world, and once readings come from different nodes over different transports, those are very different numbers. Stamping at capture, on the node, with sequence numbers to catch drops, went from footnote to load-bearing. Not saying any of this is some unique insight, probably every hardware team hits some version of this.
 
-13h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ We've been building a small board that handles cameras and sensors for robots, s
 
 Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Nicholas Radford argues that getting humanoids into the real world may mean star
 
 I have been trying to create a cycloidal actuator using some nema 17 motors, but i noticed that the output rotation is not smooth, with the rotation speed and offset pulsing instead of turning smoothly. I'm pretty sure its because the motor shafts are off center which is causing issues with the gears, but even after increasing the tolerances, it still has the same pulsing issue. Has anyone had similar experiances or have any ideas on how I can fix this? I tried: - Buying new motors (all 11 from the factory come slightly bent) - Increasing tolerances (.1mm to .2mm on all surfaces in the gearbox) - adding silicone grease to all contact surfaces - increasing tolerance in the camshaft itself But none of thse seems to help. Any suggestions will be greately appreciated
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ I have been trying to create a cycloidal actuator using some nema 17 motors, but
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-15h ago
+17h ago
 
 ---
 
@@ -110,11 +110,17 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 ## Google News: "robotics"
 
-**[China’s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom](https://www.nbcnews.com/world/asia/unitree-china-robot-maker-stock-market-ai-humanoids-tech-trump-rcna593278)**
+**[China’s backflipping robot maker Unitree pops 542% in Shanghai debut](https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html)**
 
-Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
+Unitree Robotics shares rise 542% on their first day of trading in Shanghai
 
-NBC News • 13h ago
+CNBC • 23h ago
+
+---
+
+**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+
+The Business Journals • 3h ago
 
 ---
 
@@ -122,21 +128,29 @@ NBC News • 13h ago
 
 China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
 
-ABC News - Breaking News, Latest News and Videos • 10h ago
+ABC News - Breaking News, Latest News and Videos • 11h ago
 
 ---
 
 **[From spectacle to scale: why China’s robotics firms face a ‘critical juncture’](https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture)**
 
-South China Morning Post • 11h ago
+South China Morning Post • 13h ago
 
 ---
 
-**[Live: Catch the next wave in robotics at World Robot Conference 2026](https://news.cgtn.com/news/2026-08-18/Live-Catch-the-next-wave-in-robotics-at-World-Robot-Conference-2026-1PIhSuZUqiI/p.html)**
+**[When the West is struggling with direction, China’s robotics takes another step forward: Global Times editorial](https://www.globaltimes.cn/page/202608/1368592.shtml)**
 
-The World Robot Conference 2026 kicks off in Beijing on August 19, bringing together leading robotics companies, experts and innovators from around the world.
+While Western public discourse is still endlessly debating the pros and cons of different robotics paths, China, focused on
 
-news.cgtn.com • 1d ago
+Global Times • 8h ago
+
+---
+
+**[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
+
+The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -150,7 +164,15 @@ Ars Technica • 2d ago
 
 **[Ban on Chinese robots leaves U.S. startups stranded](https://restofworld.org/2026/china-robot-ban-silicon-valley/)**
 
-restofworld.org • 2d ago
+Rest of World • 2d ago
+
+---
+
+**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854023.html)**
+
+Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -159,28 +181,6 @@ restofworld.org • 2d ago
 Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
 
 Business Insider • 1d ago
-
----
-
-**[Exclusive-Chery's robot unit eyes IPO, targets overseas market for police robots](https://finance.yahoo.com/technology/ai/articles/exclusive-cherys-robot-unit-eyes-071303391.html)**
-
-The robotics division of China's largest auto exporter Chery Automobile is gearing up for an IPO to fund future growth and investments, its chief said on Wednesday, as competition intensifies in the country's fast-growing humanoid robot ‌sector.  AiMOGA Robotics is in talks over potential listing venues and expects to sharply increase humanoid robot deliveries next year as it seeks to ‌join the ranks of global robotics heavyweights, Zhang Guibing, head of the business and president of Chery International, told Reuters on the sidelines of the World Robot Conference in Beijing.
-
-Yahoo Finance • 16h ago
-
----
-
-**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
-
-The Business Journals • 1h ago
-
----
-
-**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html)**
-
-Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
-
-PR Newswire • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 4K • 👍 161 • 💬 32 • ⏱️ 1:36 • 5h ago
+👁️ 4K • 👍 161 • 💬 32 • ⏱️ 1:36 • 7h ago
 
 ---
 
@@ -232,7 +232,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Prasadtechshorts
 
-👁️ 82K • 👍 4K • 💬 42 • ⏱️ 1:28 • 15h ago
+👁️ 82K • 👍 4K • 💬 42 • ⏱️ 1:28 • 16h ago
 
 ---
 
@@ -242,7 +242,7 @@ Chinese smart device maker Honor is putting its humanoid robot "Flash" through s
 
 📺 CGTN
 
-👁️ 14K • 👍 183 • 💬 16 • ⏱️ 0:18 • 17h ago
+👁️ 14K • 👍 183 • 💬 16 • ⏱️ 0:18 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it
 
 📺 ABC News (Australia)
 
-👁️ 27K • 👍 292 • ⏱️ 2:24 • 14h ago
+👁️ 27K • 👍 292 • ⏱️ 2:24 • 15h ago
 
 ---
 

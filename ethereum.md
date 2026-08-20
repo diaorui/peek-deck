@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-19T23:47:28.725528+00:00'
+updated: '2026-08-20T01:14:21.235380+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 19, 2026 at 23:47 UTC  
+**Last Updated:** August 20, 2026 at 01:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +17.8%  
-**7d:** +19.6%  
-**30d:** +16.8%  
-**90d:** +9.1%  
-**1y:** -48.0%  
+**24h:** +18.2%  
+**7d:** +19.8%  
+**30d:** +16.6%  
+**90d:** +6.4%  
+**1y:** -46.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 1d ago
 
 ---
 
@@ -130,17 +130,19 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 ---
 
-**[OPENAI ACQUIRES IRISH 17 YEAR OLD'S ETHEREUM PROJECT](https://www.reddit.com/r/ethereum/comments/1vsmwvr/openai_acquires_irish_17_year_olds_ethereum/)**
-
-🔗 [independent.ie](https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html) • 10h ago
-
----
-
 **[Attacking Poseidon's Partial Layer via Subspace Restriction](https://www.reddit.com/r/ethereum/comments/1vrml5c/attacking_poseidons_partial_layer_via_subspace/)**
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
 🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 1d ago
+
+---
+
+**[Daily General Discussion August 17, 2026](https://www.reddit.com/r/ethereum/comments/1vqiuo7/daily_general_discussion_august_17_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2d ago
 
 ---
 
@@ -152,13 +154,15 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 8h ago
+Benzinga • 9h ago
 
 ---
 
-**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
+**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
 
-CoinDesk • 1d ago
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+
+ethereum.org • 2d ago
 
 ---
 
@@ -166,7 +170,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -174,7 +178,7 @@ Yahoo Finance • 7h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
@@ -182,15 +186,21 @@ The Block • 7h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 2h ago
+dmarketforces.com • 3h ago
 
 ---
 
-**[Ethereum: Glamsterdam upgrade activates - By 24 Aug 2026](https://www.tradingview.com/news/coinmarketcal:185dc1c1b094b:0-ethereum-glamsterdam-upgrade-activates-by-24-aug-2026/)**
+**[Solana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out](https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/)**
 
-Ethereum will activate the Glamsterdam upgrade within the announced activation window, according to Ethereum's announcement of the Glamsterdam upgrade. The update is a protocol release, so the source-confirmed change is the network's move from preparation to scheduled activation rather than a separ…
+Ethereum (ETH), Ripple (XRP) and Solana (SOL) outperformed Bitcoin (BTC) on Wednesday morning as the apex cryptocurrency shot past $69,000 for the first time since June.The sudden rally that came after the U.S. Treasury announced it would double its bond buyback operations wiped out over $1 billion…
 
-TradingView • 6h ago
+TradingView • 8h ago
+
+---
+
+**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
+
+coindesk.com • 1d ago
 
 ---
 
@@ -218,14 +228,6 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
-
-Which of these altcoins has a better shot at a comeback?
-
-The Motley Fool • 6h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +238,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 165 • 💬 11 • ⏱️ 6:58 • 4h ago
+👁️ 3K • 👍 165 • 💬 11 • ⏱️ 6:58 • 5h ago
 
 ---
 
@@ -246,7 +248,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 656 • 💬 300 • ⏱️ 28:47 • 14h ago
+👁️ 6K • 👍 656 • 💬 300 • ⏱️ 28:47 • 15h ago
 
 ---
 
@@ -256,7 +258,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 7K • 👍 457 • 💬 10 • ⏱️ 1:38:08 • 6h ago
+👁️ 7K • 👍 457 • 💬 10 • ⏱️ 1:38:08 • 8h ago
 
 ---
 
@@ -264,7 +266,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 Discover Crypto
 
-👁️ 172 • 👍 6 • 💬 2 • ⏱️ 0:34 • 47m ago
+👁️ 172 • 👍 6 • 💬 2 • ⏱️ 0:34 • 2h ago
 
 ---
 
@@ -294,7 +296,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 665 • 💬 322 • ⏱️ 13:12 • 8h ago
+👁️ 9K • 👍 665 • 💬 322 • ⏱️ 13:12 • 10h ago
 
 ---
 
@@ -304,7 +306,7 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 796 • 👍 10 • 💬 1 • ⏱️ 0:36 • 3h ago
+👁️ 796 • 👍 10 • 💬 1 • ⏱️ 0:36 • 5h ago
 
 ---
 
@@ -314,7 +316,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 12K • 👍 303 • 💬 37 • ⏱️ 35:05 • 2d ago
+👁️ 12K • 👍 303 • 💬 37 • ⏱️ 35:05 • 3d ago
 
 ---
 
