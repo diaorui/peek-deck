@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T12:50:02.048669+00:00'
+updated: '2026-08-20T13:46:40.002965+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 12:50 UTC  
+**Last Updated:** August 20, 2026 at 13:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ There is a cost line item in every enterprise AI budget that almost nobody audit
 
 AI take – TL;DR: China's courts already put AI liability on the human either way — the US has no such floor when AI displaces your role. China's court system already answered a question the US hasn't even started asking out loud: if an AI system displaces your role, who's obligated to catch you? Both sides of a real federal case leaned on AI to prep, and the liability still landed on a human being either way — the tool never becomes the one who's accountable. Turns out whether there's a floor under you at all depends entirely on which side of the ocean you're standing on. I've sat on the losing side of a version of that same question before, and it wasn't AI doing the displacing — it was a company deciding who got to keep their institutional value and who didn't. OP wrote – Throughout my years with SC, one of the largest main contractors in Malaysia, staff turnover was normal. But when people left, they took valuable and critical institutional knowledge with them, accepted offers from competitors, and got promoted — the knowledge they brought along benefited the rival. So our leadership set up a knowledge vault, and made contributing to it part of our KPI for promotion. Or else, we'd be sidelined. I was fine sharing — we had a communal sense that we rise or fall as one, carved into company policy and the bonus structure. But not everyone shared that sentiment. People are selfish. The institutional knowledge and experience they gained became a moat they hoard, a bargaining chip they dangle around to get what they think they're entitled to, for fear that they'll be replaced. I can understand the sentiment of fear being replaced by AI. It's an issue then, it's the same issue now. https://preview.redd.it/g2t6uom59ikh1.jpg?width=1024&format=pjpg&auto=webp&s=ee59a49a639ebbe01a9dac1c81b85c2af7436898 __________ AI take – Different post, same fingerprint: something about to become optional, and no rulebook anywhere forcing anyone to say so out loud. The liability question above already got a dry run once this year — both sides of a federal case leaned on AI to prep, and it changed nothing about who ended up on the hook — worth reading if the pattern above is landing. Curious where you land on this — drop your take below. Clip credit: Moonshots w/ Alvin Wang Graylin — full episode on their channel. DM for credit or removal requests.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI take – TL;DR: China's courts already put AI liability on the human either w
 
 After nearly thirty years building distributed systems in financial markets and enterprise data infrastructure, I keep seeing the same pattern. A fraud detection model running continuously, updating from operational data, making millions of auditable decisions daily. Nobody calls it AI. It just works. Has been working for years. Meanwhile the same company has been running a frontier LLM pilot for eighteen months. Still a pilot. Output requires human review on every decision. Governance layer not ready. Auditability question unanswered. No ROI generated. The gap comes down to one mathematical distinction most people skip: Discriminative ML finds θ = argmax P(y | x ; θ) . Your parameters, your data, your operational distribution, continuously updated from your stream.* Generative LLMs find x = argmax P(x | x_prompt ; θ). Someone else's parameters, someone else's corpus, frozen at training time regardless of how many of your events flow through it. These are not two versions of the same thing. Different mathematical objectives, different inference directions, different update mechanisms. Wrote the full argument here including the neuroscience analogy that surprised me, the fine-tuning and open weights rebuttals, and the data sovereignty / CLOUD Act angle for European enterprises: https://medium.com/@dcris19740101/the-enterprise-already-has-ai-it-just-does-not-call-it-that-2f38b2afa3f5 Curious what others are seeing in production environments.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ After nearly thirty years building distributed systems in financial markets and 
 
 A randomised experiment involving 791 Procter & Gamble professionals found that individuals using generative AI produced innovation work comparable in quality to two-person human teams, while teams combining people and AI were far more likely to produce exceptional ideas.
 
-🔗 [Research Today](https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/) • 18h ago
+🔗 [Research Today](https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/) • 19h ago
 
 ---
 
@@ -73,7 +73,7 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 '89% likelihood that this piece was written with AI'. At this point, just watch me type - record me for all I care. The 'AI detection tools' currently on offer aren't working - we're now at the point where endless false positives are resulting in a sort of deliberate dumbing down of creative spaces. The best immediate solution I can think of is recording a creative as they're doing their work - though in the writing space, recording alone wouldn't stop someone with enough motivation. Critically, something needs to give here, and it shouldn't be humans. Tackling the issue of talented creatives being accused of producing AI slop has to be something we resolve. The sooner, the better.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 automate the scientific method math discovering math recursive self-reflection
 
-🔗 [substack.com](https://substack.com/home/post/p-211336787) • 4h ago
+🔗 [substack.com](https://substack.com/home/post/p-211336787) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ automate the scientific method math discovering math recursive self-reflection
 
 A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
 
-23h ago
+1d ago
 
 ---
 
@@ -97,7 +97,7 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 Hi guys, in the past, I always used Absolute Mode with my AI. As technology has progressed, the guardrails have gotten stricter, and my old commands don't work like they used to. Does anyone have a new command they could share? The AI is using way too much soft talk and filler words, and I'd like to get back that cold, objective AI I had before. It used to feel like a precise tool, but now it tries to act like a buddy, which I really don't want. Thanks in advance for the help!
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi guys, in the past, I always used Absolute Mode with my AI. As technology has 
 
 I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: "What's going wrong here?" "How do I fix this?" "What am I looking at?" "What should I do next?" Or just have it understand what's happening without needing to explain everything manually. Privacy is something I'm taking seriously with the idea. There would be a privacy toggle that completely disables screen analysis, as well as the ability to temporarily pause screen checking whenever you want. So you're always in control of when the AI can see your screen. I'm especially interested in hearing from people who use local/vision models: What would you actually want a screen-aware AI to do for you? Would you want it to continuously watch your screen, only activate when you press a key, or something else? And assuming you could instantly disable/pause screen access, what other privacy concerns would you still have? I'm still figuring out the direction, so I'm more interested in honest criticism and use cases than people simply saying whether the idea sounds cool.
 
-13h ago
+14h ago
 
 ---
 
@@ -125,13 +125,13 @@ Images generated by AI models trained on massive datasets often can’t be trace
 
 Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
 
-The Washington Post • 12m ago
+The Washington Post • 1h ago
 
 ---
 
 **[The Teens Taking On Data Centers](https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -139,19 +139,19 @@ The New York Times • 3h ago
 
 The $1 billion AI startup's new Catalyst agent automates enterprise workflows by mining ticket histories and generating code, as CEO Jake Stauch claims Serval's AI-native platform can replace ServiceNow.
 
-Forbes • 13m ago
+Forbes • 1h ago
 
 ---
 
 **[The AI Bond Bonanza Could Be a Big Problem for the Stock Market](https://www.barrons.com/articles/the-ai-bond-bonanza-could-be-a-big-problem-for-the-stock-market-54f1d621)**
 
-Barron's • 27m ago
+Barron's • 1h ago
 
 ---
 
 **[Oura Restructures Tech Leadership in AI Push](https://www.wsj.com/cio-journal/oura-restructures-tech-leadership-in-ai-push-6c85660c)**
 
-WSJ • 27m ago
+WSJ • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ WSJ • 27m ago
 
 Federal Reserve Bank of Dallas research estimates AI data centers could push electricity generation costs 20% to 30% higher by 2028 than without them.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fox News • 3h ago
 
 College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
@@ -175,19 +175,19 @@ blog.google • 17h ago
 
 Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
 **[Meta Has Quietly Become One of Microsoft’s Largest AI Customers](https://www.bloomberg.com/news/articles/2026-08-20/meta-has-quietly-become-one-of-microsoft-s-largest-ai-customers)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Exclusive: CrowdStrike's CTO is leaving to launch an AI-cyber fund](https://www.axios.com/2026/08/20/exclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 612 • 💬 294 • 4h ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 612 • 💬 294 • 5h ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
@@ -269,7 +269,7 @@ AI usage patterns in software teams: who is adopting AI, how it reshapes where t
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 187 • 💬 222 • 21h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 187 • 💬 222 • 22h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -283,7 +283,7 @@ RED FLAG — an AI short film in the aesthetic of 90s Hong Kong cinema. Fully op
 
 📺 Higgsfield AI
 
-👁️ 20K • 👍 725 • 💬 111 • ⏱️ 2:25 • 22h ago
+👁️ 20K • 👍 725 • 💬 111 • ⏱️ 2:25 • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ Credit: Respected Owner 🎗️ This video shows a woman using AI to make it loo
 
 📺 Flex Snaps
 
-👁️ 510K • ⏱️ 0:30 • 1d ago
+👁️ 510K • ⏱️ 0:30 • 2d ago
 
 ---
 
@@ -323,7 +323,7 @@ AI Destroyed His Entire Farm | #farmer --- A 67-year-old farmer in China's Anhui
 
 📺 2DAY_RAVINDRA
 
-👁️ 6K • ⏱️ 0:55 • 5h ago
+👁️ 6K • ⏱️ 0:55 • 6h ago
 
 ---
 
@@ -373,7 +373,7 @@ Real or AI? How many can you guess correctly? So, can you tell the difference be
 
 📺 Synthesia
 
-👁️ 783 • 👍 13 • 💬 7 • ⏱️ 0:18 • 48m ago
+👁️ 783 • 👍 13 • 💬 7 • ⏱️ 0:18 • 1h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,126,652 • ❤️ 2,257 • 45m ago
+⬇️ 5,126,652 • ❤️ 2,257 • 1h ago
 
 ---
 
@@ -449,7 +449,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 76,109 • ❤️ 647 • 4h ago
+⬇️ 76,109 • ❤️ 647 • 5h ago
 
 ---
 
@@ -461,7 +461,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,628 • ❤️ 662 • 4h ago
+⬇️ 2,628 • ❤️ 662 • 5h ago
 
 ---
 
@@ -648,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.7k • 🔱 1.8k • 13h ago
+⭐ 15.7k • 🔱 1.8k • 14h ago
 
 ---
 
@@ -658,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 7h ago
+⭐ 14.0k • 🔱 1.7k • 8h ago
 
 ---
 
@@ -716,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 321 • 1h ago
+⭐ 2.8k • 🔱 321 • 2h ago
 
 ---
 
@@ -726,7 +726,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 308 • 10m ago
+⭐ 2.2k • 🔱 308 • 1h ago
 
 ---
 
@@ -736,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 182 • 50m ago
+⭐ 2.2k • 🔱 182 • 1h ago
 
 ---
 

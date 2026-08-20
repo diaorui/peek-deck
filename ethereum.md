@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T12:50:02.060764+00:00'
+updated: '2026-08-20T13:46:40.015915+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 12:50 UTC  
+**Last Updated:** August 20, 2026 at 13:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -162,7 +162,7 @@ FXStreet • 12h ago
 
 Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 15h ago
 
 This proposed change could be bullish for holders.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 20h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 15h ago
+MarketForces Africa • 16h ago
 
 ---
 
@@ -202,7 +202,7 @@ MarketForces Africa • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -216,7 +216,7 @@ CoinDesk • 2d ago
 
 Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
 
-Coinpedia • 5h ago
+Coinpedia • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ Coinpedia • 5h ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 144 • 👍 17 • 💬 1 • ⏱️ 5:01 • 3h ago
+👁️ 144 • 👍 17 • 💬 1 • ⏱️ 5:01 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 642 • 💬 129 • ⏱️ 49:05 • 36m ago
+👁️ 6K • 👍 642 • 💬 129 • ⏱️ 49:05 • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 9K • 👍 378 • 💬 196 • ⏱️ 26:28 • 14h ago
+👁️ 9K • 👍 378 • 💬 196 • ⏱️ 26:28 • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 366 • 👍 24 • 💬 3 • ⏱️ 1:22:32 • 2h ago
+👁️ 366 • 👍 24 • 💬 3 • ⏱️ 1:22:32 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 228 • 💬 21 • ⏱️ 6:58 • 17h ago
+👁️ 6K • 👍 228 • 💬 21 • ⏱️ 6:58 • 18h ago
 
 ---
 
@@ -328,7 +328,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 7K • 👍 576 • 💬 90 • ⏱️ 19:03 • 9h ago
+👁️ 7K • 👍 576 • 💬 90 • ⏱️ 19:03 • 10h ago
 
 ---
 

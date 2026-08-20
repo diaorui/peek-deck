@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T12:50:02.055794+00:00'
+updated: '2026-08-20T13:46:40.010598+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 12:50 UTC  
+**Last Updated:** August 20, 2026 at 13:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,43 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
+
+Another dip before we rip? Or is this it 😸
+
+3h ago
+
+---
+
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-4h ago
+5h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-4h ago
+5h ago
 
 ---
 
-**[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
+**[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-15h ago
-
----
-
-**[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
-
-20h ago
+1h ago
 
 ---
 
-**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
+**[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
-
-15h ago
-
----
-
-**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
-
-Another dip before we rip? Or is this it 😸
-
-2h ago
+3h ago
 
 ---
 
@@ -121,27 +113,37 @@ Another dip before we rip? Or is this it 😸
 
 🙏
 
-3h ago
-
----
-
-**[Next stop 700k](https://www.reddit.com/r/Bitcoin/comments/1vtdmzg/next_stop_700k/)**
-
 4h ago
 
 ---
 
-**[Bull trap or 🐂 💩](https://www.reddit.com/r/Bitcoin/comments/1vte0dt/bull_trap_or/)**
+**[Big Green!](https://www.reddit.com/r/Bitcoin/comments/1vtig0j/big_green/)**
 
-What are your thoughts???
+I can sell a little bit now, and buy back when the squeeze is done.
 
-3h ago
+1h ago
 
 ---
 
-**[just me and my cold wallet playing doom :)](https://www.reddit.com/r/Bitcoin/comments/1vt5gjh/just_me_and_my_cold_wallet_playing_doom/)**
+**[I sold yesterday…](https://www.reddit.com/r/Bitcoin/comments/1vtielq/i_sold_yesterday/)**
 
-11h ago
+… hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
+
+1h ago
+
+---
+
+**[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
+
+16h ago
+
+---
+
+**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
+
+First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
+
+16h ago
 
 ---
 
@@ -153,13 +155,13 @@ What are your thoughts???
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Bitcoin, crypto shares climb after Trump pushes Clarity Act](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -167,13 +169,13 @@ Reuters • 1h ago
 
 Bitcoin rose more than 5% after the White House meeting, which also drew calls for regulation of decentralized exchange Hyperliquid
 
-qz.com • 59m ago
+qz.com • 1h ago
 
 ---
 
 **[Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-btc-roars-past-70-000-as-yields-sink-trump-cour)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -181,7 +183,7 @@ Bloomberg.com • 4h ago
 
 Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -189,7 +191,7 @@ Forbes • 2h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -197,7 +199,7 @@ NBC News • 19h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -221,7 +223,7 @@ VanEck • 1d ago
 
 The Clarity Act's approval may be what's needed to get Bitcoin back to its all-time high, but whether that happens is by no means a sure thing.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -257,7 +259,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 6h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 7h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -287,7 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 193 • ⏱️ 10:41 • 13h ago
+👁️ 47K • 👍 2K • 💬 193 • ⏱️ 10:41 • 14h ago
 
 ---
 
@@ -297,7 +299,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 1K • 💬 40 • ⏱️ 24:22 • 15h ago
+👁️ 44K • 👍 1K • 💬 40 • ⏱️ 24:22 • 16h ago
 
 ---
 
@@ -317,7 +319,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 957 • 💬 634 • ⏱️ 12:02 • 11h ago
+👁️ 16K • 👍 957 • 💬 634 • ⏱️ 12:02 • 12h ago
 
 ---
 
@@ -327,7 +329,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 945 • 💬 523 • ⏱️ 22:30 • 12h ago
+👁️ 17K • 👍 945 • 💬 523 • ⏱️ 22:30 • 13h ago
 
 ---
 
@@ -347,7 +349,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 550 • 💬 52 • ⏱️ 9:45 • 1h ago
+👁️ 5K • 👍 550 • 💬 52 • ⏱️ 9:45 • 2h ago
 
 ---
 
@@ -357,7 +359,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 280 • ⏱️ 4:23:25 • 10h ago
+👁️ 6K • 👍 280 • ⏱️ 4:23:25 • 11h ago
 
 ---
 
@@ -365,7 +367,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 TheOneLanceB
 
-👁️ 6K • 👍 433 • 💬 22 • ⏱️ 1:48 • 14h ago
+👁️ 6K • 👍 433 • 💬 22 • ⏱️ 1:48 • 15h ago
 
 ---
 
@@ -375,7 +377,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 5K • 💬 393 • ⏱️ 16:32 • 8h ago
+👁️ 74K • 👍 5K • 💬 393 • ⏱️ 16:32 • 9h ago
 
 ---
 
