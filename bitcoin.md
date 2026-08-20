@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T22:56:41.185611+00:00'
+updated: '2026-08-20T23:28:07.322321+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 22:56 UTC  
+**Last Updated:** August 20, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,787.15
+### $73,257.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.0%  
-**7d:** +15.5%  
-**30d:** +10.1%  
-**90d:** -5.2%  
-**1y:** -35.2%  
+**24h:** +5.6%  
+**7d:** +16.2%  
+**30d:** +10.9%  
+**90d:** -4.6%  
+**1y:** -34.8%  
 
 ---
 
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
+**[*You wake up as Laszlo Hanyecz, you're about to pay 10,000 bitcoins for a Pizza.](https://www.reddit.com/r/Bitcoin/comments/1vtsoxo/you_wake_up_as_laszlo_hanyecz_youre_about_to_pay/)**
 
-Another dip before we rip? Or is this it 😸
+What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-13h ago
+4h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-10h ago
-
----
-
-**[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -107,27 +101,27 @@ Another dip before we rip? Or is this it 😸
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-9h ago
+10h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-14h ago
+15h ago
+
+---
+
+**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
+
+Another dip before we rip? Or is this it 😸
+
+13h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-14h ago
-
----
-
-**[*You wake up as Laszlo Hanyecz, you're about to pay 10,000 bitcoins for a Pizza.](https://www.reddit.com/r/Bitcoin/comments/1vtsoxo/you_wake_up_as_laszlo_hanyecz_youre_about_to_pay/)**
-
-What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
-
-3h ago
+15h ago
 
 ---
 
@@ -139,11 +133,15 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 ---
 
-**[It is time!](https://www.reddit.com/r/Bitcoin/comments/1vthh0k/it_is_time/)**
+**[I’m looking at the charts like this.](https://www.reddit.com/r/Bitcoin/comments/1vtwubr/im_looking_at_the_charts_like_this/)**
 
-Pump it up
+1h ago
 
-10h ago
+---
+
+**[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
+
+13h ago
 
 ---
 
@@ -155,21 +153,23 @@ Pump it up
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Hack of the ‘Fort Knox’ of Bitcoin Wallets Brings Back the Middleman](https://www.bloomberg.com/news/newsletters/2026-08-20/hack-of-coldcard-bitcoin-wallet-brings-back-the-middleman)**
+**[Bitcoin Is Suddenly a Hedge Again, VanEck Says: What Changed?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-suddenly-hedge-again-vaneck-224807936.html)**
 
-Bloomberg • 1h ago
+VanEck's Matthew Sigel calls Bitcoin a hedge against a weaker dollar. Here's why that claim is being challenged.
+
+Yahoo Finance • 40m ago
 
 ---
 
-**[Donald Trump just made Cathie Wood's $1.5 million Bitcoin target look less crazy](https://finance.yahoo.com/markets/crypto/articles/donald-trump-just-made-cathie-212900681.html)**
+**[Treasury Secretary Bessent Says Buybacks Can Exceed $4B: Bullish for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/treasury-secretary-bessent-says-buybacks-224136057.html)**
 
-Bitcoin is at $71,500 today. Wood says it hits $1.5 million by 2030. Washington just moved in a direction that makes that argument harder to dismiss.
+Bessent says Treasury bond buybacks could exceed $4 billion, easing yields and helping fuel Bitcoin's rally past $69,000.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -177,45 +177,15 @@ Yahoo Finance • 1h ago
 
 Your IBIT position sits untouched, yet the trust's prospectus quietly promises a taxable event hits your account every single trading day. The fee structure doing this is something most holders have never read past the headline number to find.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Stock Market Today: Major Indexes Slide After Snapping 3-Day Skids; Oil Prices, Treasury Yields, Bitcoin Rise; Walmart Stock Drops](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08202026-12064079)**
+**[Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze](https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/)**
 
-Major U.S. stock indexes slumped on Thursday, a day after they snapped three-session losing streaks, as Walmart shares tumbled. Meanwhile, bitcoin, oil prices, and Treasury yields rose.
+The price of bitcoin rallied to a two-month high. Treasury bond plans spark short squeeze, Trump administration reaffirms crypto support.
 
-Investopedia • 3h ago
-
----
-
-**[Bitcoin (BTC) price analysis: $180,000 targeted on Treasury buybacks](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)**
-
-CoinDesk • 6h ago
-
----
-
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
-
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
-
-VanEck • 2d ago
-
----
-
-**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
-
-The S&P 500 just triggered a bullish signal, barely.
-
-Investor's Business Daily • 10h ago
-
----
-
-**[Bitcoin breaks above 200-day moving average for first time since November](https://www.tradingview.com/news/cointelegraph:ca96817f2094b:0-bitcoin-breaks-above-200-day-moving-average-for-first-time-since-november/)**
-
-Bitcoin’s latest rally has pushed the cryptocurrency above a key long-term technical indicator for the first time in about nine months, offering a potential signal that its broader downtrend is losing momentum.Charting platform Barchart highlighted on Thursday that Bitcoin’s (BTC) price had crossed…
-
-TradingView • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -224,6 +194,38 @@ TradingView • 1h ago
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
 BlackRock • 2d ago
+
+---
+
+**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/william-sandeson-taylor-samson-murder-9.7312641)**
+
+The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
+
+CBC • 1d ago
+
+---
+
+**[Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign](https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged)**
+
+Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and agencies.
+
+Decrypt • 6h ago
+
+---
+
+**[Kroger Expands Fold Bitcoin Gift Card Offering After Successful Pilot](https://www.pymnts.com/blockchain/bitcoin/2026/kroger-expands-fold-bitcoin-gift-card-offering-after-successful-pilot/)**
+
+Retail and supermarket chain Kroger expanded its Fold Bitcoin Gift Card offering after completing a successful seasonal pilot, Fold Holdings said in a
+
+PYMNTS.com • 7h ago
+
+---
+
+**[MSTR, BMNR, COIN, CRCL Stock Extend Rally After Bitcoin Blasts Past $71K, Triggering $3B Liquidation Wave](https://stocktwits.com/news-articles/markets/equity/mstr-bmnr-coin-crcl-stock-rally-bitcoin-past-71-k-3-b-liquidation-wave/cZYIlD0RJmZ)**
+
+Ethereum, XRP and Solana outperformed Bitcoin, with Ethereum rising nearly 20% in the last 24 hours.
+
+Stocktwits • 13h ago
 
 ---
 
@@ -289,7 +291,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 147 • ⏱️ 10:41 • 23h ago
+👁️ 67K • 👍 3K • 💬 147 • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -309,7 +311,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 970 • 👍 71 • 💬 1 • ⏱️ 12:16 • 3h ago
+👁️ 970 • 👍 71 • 💬 1 • ⏱️ 12:16 • 4h ago
 
 ---
 
@@ -319,7 +321,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 54K • 👍 2K • 💬 152 • ⏱️ 9:45 • 11h ago
+👁️ 54K • 👍 2K • 💬 152 • ⏱️ 9:45 • 12h ago
 
 ---
 

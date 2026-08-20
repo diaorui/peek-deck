@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T22:56:41.191960+00:00'
+updated: '2026-08-20T23:28:07.331799+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 22:56 UTC  
+**Last Updated:** August 20, 2026 at 23:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-5h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 3h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 4h ago
 
 ---
 
@@ -108,7 +108,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 One thing I've noticed with vertical linear axes is that deciding the travel length seems surprisingly difficult. A robot might only need to reach from the floor to a work surface today, but the required workspace can change depending on the task — different working heights, payloads, tools, or even where the robot needs to position itself. The challenge is that the travel is often a decision you have to make early. Too little and you can end up rebuilding the mechanism later; too much can add unnecessary size, weight, cost, and mechanical complexity. For those who have designed robots with a vertical linear axis: how do you determine the required travel before the robot is fully built? Do you mainly calculate it from the expected workspace and mechanism geometry, or do you typically add some extra travel as a margin?
 
-8h ago
+9h ago
 
 ---
 
@@ -120,7 +120,7 @@ One thing I've noticed with vertical linear axes is that deciding the travel len
 
 Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Business Journals • 1d ago
 
 The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
 
-USA Today • 5h ago
+USA Today • 6h ago
 
 ---
 
@@ -170,15 +170,7 @@ The Conversation • 1d ago
 
 **[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-The New York Times • 13h ago
-
----
-
-**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
-
-New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
-
-Intel Newsroom • 9h ago
+The New York Times • 14h ago
 
 ---
 
@@ -187,6 +179,14 @@ Intel Newsroom • 9h ago
 South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
 
 Business Insider Africa • 4h ago
+
+---
+
+**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
+
+New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
+
+Intel Newsroom • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ Chinese robot makers showed off humanoids sorting parcels, packing mobile phones
 
 📺 Firstpost
 
-👁️ 10K • 👍 62 • 💬 3 • ⏱️ 0:32 • 10h ago
+👁️ 10K • 👍 62 • 💬 3 • ⏱️ 0:32 • 11h ago
 
 ---
 

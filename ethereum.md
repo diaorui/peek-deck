@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T22:56:41.189764+00:00'
+updated: '2026-08-20T23:28:07.328453+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 22:56 UTC  
+**Last Updated:** August 20, 2026 at 23:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,313.44
+### $2,319.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +23.0%  
-**30d:** +19.7%  
-**90d:** +9.2%  
-**1y:** -45.3%  
+**24h:** +3.1%  
+**7d:** +23.8%  
+**30d:** +20.5%  
+**90d:** +9.9%  
+**1y:** -44.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -200,7 +200,7 @@ FXStreet • 3d ago
 
 Ethereum surged 18% intraday as spot trading volume jumped sharply across major global exchanges, putting ETH back at the center of the market’s risk-on move.Market data showed ETH trading near the $2,500 level during the rally, with spot volume reportedly rising about 400% compared with the prior…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -214,7 +214,7 @@ CoinDesk • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -222,7 +222,7 @@ markets.businessinsider.com • 14h ago
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 22h ago
+FXStreet • 23h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 302 • 👍 21 • 💬 4 • ⏱️ 5:01 • 13h ago
+👁️ 302 • 👍 21 • 💬 4 • ⏱️ 5:01 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ Where is Ethereum heading over the next six months? My short-term target for Eth
 
 📺 Crypto Archie
 
-👁️ 586 • 👍 40 • ⏱️ 0:57 • 8h ago
+👁️ 586 • 👍 40 • ⏱️ 0:57 • 9h ago
 
 ---
 
@@ -296,7 +296,7 @@ Crypto Wealth Collective https://www.cryptorevolution.com/the-cwc-vsl #1 Coin to
 
 📺 Crypto 101
 
-👁️ 106 • 👍 13 • 💬 1 • ⏱️ 46:30 • 8h ago
+👁️ 106 • 👍 13 • 💬 1 • ⏱️ 46:30 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 687 • 💬 163 • ⏱️ 49:05 • 10h ago
+👁️ 8K • 👍 687 • 💬 163 • ⏱️ 49:05 • 11h ago
 
 ---
 
