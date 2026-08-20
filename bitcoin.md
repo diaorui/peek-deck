@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T22:27:44.906213+00:00'
+updated: '2026-08-20T22:56:41.185611+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 22:27 UTC  
+**Last Updated:** August 20, 2026 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1460.60B
+**Market Cap:** $1460.23B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -42.3%
 
 **All-Time Low:** $67.81
-+107233.7%
++107213.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-12h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ Another dip before we rip? Or is this it 😸
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-7h ago
+8h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg • 1h ago
 
 Bitcoin is at $71,500 today. Wood says it hits $1.5 million by 2030. Washington just moved in a direction that makes that argument harder to dismiss.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 58m ago
 
 Your IBIT position sits untouched, yet the trust's prospectus quietly promises a taxable event hits your account every single trading day. The fee structure doing this is something most holders have never read past the headline number to find.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 22m ago
 
 Major U.S. stock indexes slumped on Thursday, a day after they snapped three-session losing streaks, as Walmart shares tumbled. Meanwhile, bitcoin, oil prices, and Treasury yields rose.
 
-Investopedia • 2h ago
+Investopedia • 3h ago
 
 ---
 
@@ -259,7 +259,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 55m ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 1h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -267,7 +267,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 16h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 17h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -289,17 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 145 • ⏱️ 10:41 • 23h ago
-
----
-
-**[The Real Reason Bitcoin EXPLODED Today](https://www.youtube.com/watch?v=5lg5_SAWheU)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 45K • 👍 2K • 💬 146 • ⏱️ 9:45 • 11h ago
+👁️ 67K • 👍 3K • 💬 147 • ⏱️ 10:41 • 23h ago
 
 ---
 
@@ -309,17 +299,27 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 221 • 💬 21 • ⏱️ 14:53 • 5h ago
+👁️ 6K • 👍 301 • 💬 24 • ⏱️ 14:53 • 6h ago
 
 ---
 
-**[BITCOIN: Mega Pump OR Mega Trap? [This Happens Next]](https://www.youtube.com/watch?v=sq2F0JB8sc8)**
+**[&quot;Bitcoin JUST EXPLODED! This Pump Is Only the Beginning&quot; - Raoul Pal &amp; Lyn Alden](https://www.youtube.com/watch?v=c42fiflEf_Q)**
 
-In today's video we go over the short squeeze that resulted in billions of dollars worth of losses for short traders. We warned just ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto Banter
+📺 Savvy Finance
 
-👁️ 15K • 👍 1K • 💬 23 • ⏱️ 39:08 • 14h ago
+👁️ 970 • 👍 71 • 💬 1 • ⏱️ 12:16 • 3h ago
+
+---
+
+**[The Real Reason Bitcoin EXPLODED Today](https://www.youtube.com/watch?v=5lg5_SAWheU)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 54K • 👍 2K • 💬 152 • ⏱️ 9:45 • 11h ago
 
 ---
 
@@ -329,27 +329,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 40 • ⏱️ 24:22 • 1d ago
-
----
-
-**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
-
-No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
-
-📺 Gareth Soloway
-
-👁️ 73K • 👍 4K • 💬 515 • ⏱️ 10:20 • 1d ago
-
----
-
-**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
-
-Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 723 • 💬 426 • ⏱️ 13:12 • 1d ago
+👁️ 55K • 👍 2K • 💬 46 • ⏱️ 24:22 • 1d ago
 
 ---
 
@@ -359,7 +339,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 940 • 💬 296 • ⏱️ 43:06 • 1d ago
+👁️ 18K • 👍 942 • 💬 296 • ⏱️ 43:06 • 1d ago
+
+---
+
+**[Bitcoin At $69K! This is Next!](https://www.youtube.com/watch?v=qtmhaJs1RdE)**
+
+Bitcoin is back at $69K and the bullish momentum could just be getting started! Sheldon breaks down why Bitcoin's latest move is ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 716 • 💬 16 • ⏱️ 35:01 • 1d ago
 
 ---
 
@@ -369,7 +359,7 @@ Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 91K • 👍 1K • 💬 380 • ⏱️ 8:10 • 2d ago
+👁️ 92K • 👍 1K • 💬 381 • ⏱️ 8:10 • 2d ago
 
 ---
 
@@ -379,7 +369,17 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 24K • 👍 3K • 💬 2 • ⏱️ 15:22 • 9h ago
+👁️ 28K • 👍 4K • 💬 2 • ⏱️ 15:22 • 10h ago
+
+---
+
+**[189,000 Bitcoin Suddenly Moved. Here’s What It Exposed](https://www.youtube.com/watch?v=BEIBh91X_2c)**
+
+I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
+
+📺 Mark Moss
+
+👁️ 29K • 👍 1K • 💬 224 • ⏱️ 22:30 • 2d ago
 
 ---
 

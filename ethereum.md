@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T22:27:44.912564+00:00'
+updated: '2026-08-20T22:56:41.189764+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 22:27 UTC  
+**Last Updated:** August 20, 2026 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.52B
+**Market Cap:** $279.64B
 Rank #2
 
 **Circulating Supply:** 120,681,740 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-53.2%
 
 **All-Time Low:** $0.43
-+536891.4%
++534995.2%
 
 ---
 
@@ -230,23 +230,33 @@ FXStreet • 22h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
+**[ZBCN Zebec Is PUMPING!!!! Bitcoin and Ethereum Are PUMPING!!!! THIS CHANGES EVERYTHING](https://www.youtube.com/watch?v=mQRKQfmQA6w)**
 
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 5K • 👍 233 • 💬 13 • ⏱️ 7:45 • 8h ago
+👁️ 195 • 👍 25 • 💬 3 • ⏱️ 20:05 • 3h ago
 
 ---
 
-**[Where I Think Ethereum Is Heading Next](https://www.youtube.com/watch?v=yYipRjtAI4Y)**
+**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
 
-Where is Ethereum heading over the next six months? My short-term target for Ethereum sits around a key level it's rejected from ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 Crypto Archie
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 488 • 👍 39 • ⏱️ 0:57 • 8h ago
+👁️ 4K • 👍 113 • 💬 26 • ⏱️ 11:13 • 11h ago
+
+---
+
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 219 • 💬 34 • ⏱️ 16:48 • 2d ago
 
 ---
 
@@ -256,7 +266,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 283 • 👍 21 • 💬 4 • ⏱️ 5:01 • 13h ago
+👁️ 302 • 👍 21 • 💬 4 • ⏱️ 5:01 • 13h ago
+
+---
+
+**[Where I Think Ethereum Is Heading Next](https://www.youtube.com/watch?v=yYipRjtAI4Y)**
+
+Where is Ethereum heading over the next six months? My short-term target for Ethereum sits around a key level it's rejected from ...
+
+📺 Crypto Archie
+
+👁️ 586 • 👍 40 • ⏱️ 0:57 • 8h ago
 
 ---
 
@@ -270,13 +290,33 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 ---
 
+**[Bitcoin &amp; Ethereum are Exploding Higher: Is the Bull Market Back?](https://www.youtube.com/watch?v=t2kouCP-6I4)**
+
+Crypto Wealth Collective https://www.cryptorevolution.com/the-cwc-vsl #1 Coin to Own Right Now ...
+
+📺 Crypto 101
+
+👁️ 106 • 👍 13 • 💬 1 • ⏱️ 46:30 • 8h ago
+
+---
+
 **[CRYPTO LIVE - THE ETHEREUM BREAKOUT](https://www.youtube.com/watch?v=BREmL2qYfYM)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 678 • 💬 167 • ⏱️ 49:05 • 10h ago
+👁️ 8K • 👍 687 • 💬 163 • ⏱️ 49:05 • 10h ago
+
+---
+
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
+
+In this video I break down the current Ethereum price action to determine if the recent upside momentum can hold or if a larger ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 235 • 💬 21 • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -286,47 +326,7 @@ Bitcoin is the lead market signal I'm watching while BTC tests its current struc
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 9K • 👍 534 • 💬 210 • ⏱️ 58:07 • 1d ago
-
----
-
-**[BIG GAINS! BITCOIN PUMPS &amp; XRP, ETHEREUM &amp; SOLANA PRICES RISE! HUGE WHITE HOUSE CRYPTO MEETING!](https://www.youtube.com/watch?v=uCJ_KvfcV2o)**
-
-Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solana are on the move. Trump pushes Congress ...
-
-📺 Thinking Crypto
-
-👁️ 10K • 👍 651 • 💬 120 • ⏱️ 19:03 • 18h ago
-
----
-
-**[Ethereum Has an Issuance Problem](https://www.youtube.com/watch?v=mUEEFxN2_DY)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum may be paying too ...
-
-📺 Bankless
-
-👁️ 1K • 👍 55 • 💬 20 • ⏱️ 1:22:32 • 11h ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 217 • 💬 36 • ⏱️ 16:48 • 2d ago
-
----
-
-**[XRP HYPE ETH 💥💥TRUMP CRYPTO MEETING](https://www.youtube.com/watch?v=o07CIChy3SY)**
-
-2nd channel♨ so while I taper let's play some games https://www.youtube.com/@UCRS4Cjpn8wwoEulSsEGsvdw #xrp #xlm #btc ...
-
-📺 CRYPTO with KLAUS
-
-👁️ 7K • 👍 419 • 💬 235 • ⏱️ 14:57 • 1d ago
+👁️ 9K • 👍 535 • 💬 210 • ⏱️ 58:07 • 1d ago
 
 ---
 
