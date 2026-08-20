@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T04:36:39.078973+00:00'
+updated: '2026-08-20T05:30:34.521702+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 04:36 UTC  
+**Last Updated:** August 20, 2026 at 05:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves and talks. Runs on Autonomous OS we built for robots. We open source everything and here's the short version. Our Autonomous Lamp The arm 5 degrees of freedom. Five STS3215 bus servos, daisy-chained on one TTL bus, into the board through a USB adapter. One cable for the whole arm. No driver board. First job: servo IDs. New STS3215s ship as ID 1, so I gave each a unique ID one at a time, then calibrated homing. Homing lives in the servo EEPROM, so it survives a reflash. Do it with the arm open. Power Single 12 V / 5 A adaptor, ~42 W sustained. A buck steps to 5 V for the board and LED ring. Amp runs on 12 V directly. Board draws ~1.8 A, spikes to 2.5 A at boot. Ring gets capped near 1 A, full white 64 LEDs would pull 3.84 A and brown out the buck. All grounds star-point at the buck output on their own wires. Sound Moving audio off the onboard codec killed most of the noise. A USB DAC feeds the amp through a short twisted lead, run away from the 12 V harness. The onboard codec stays wired for the sensing mic only. Two honest gotchas: the sensing mic is the MEMS mic on the OrangePi board, so it has to be desoldered and re-mounted in the base, fiddly, but skip it and you lose ambient sensing. And the buck I used still adds a faint hiss of its own, it's on the list to swap out. Software Cleanest part. Flash Linux, run the installer, ~15 minutes to Autonomous OS. The robot declares its hardware in the ROBOT.md in our repo and the OS mounts only that. Behaviors are markdown skills. Type what you want in the app, it writes the skill, live on the next conversation. The 1st prototype The final design What's inside the Lamp 3D printed parts
 
-18h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-10h ago
+11h ago
 
 ---
 
@@ -56,13 +56,13 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 **[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
 
-11h ago
+12h ago
 
 ---
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -70,7 +70,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 11h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 12h ago
 
 ---
 
@@ -78,7 +78,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We've been building a small board that handles cameras and sensors for robots, so adding a sensor stops costing a weekend. The hardware was the manageable part. The things that shaped the product were the ones we couldn't see from the whiteboard. What really cost us weeks: The flash budget made our biggest decision for us. The early assumption was the board would speak ROS natively. Then we put micro-ROS on the target and the library ate about 60% of flash before our own code got a byte. That ended the debate: the device speaks Cyphal, ROS lives host-side behind a thin bridge, and the same image serves three transports. Felt like a defeat, now it's the part we'd defend hardest. We learned which reboots are placebo. A link that died on every board swap ignored power cycles and even full host reboots, because the chip at fault never actually turned off, back-powered through its data lines, holding half-configured state through everything. The fix was one reset write. The lesson: "restart everything" only works if everything restarts, and you don't know that until you've traced where each chip's power really comes from. An older unsolved mystery on the same rig dissolved the day we got this. Hardware timestamps earned their place the hard way. We treated per-sample timestamping as a nice-to-have, sensors stream, host receives, how far off can time be. Then you look at what fusion actually needs: SLAM doesn't care when the host received a sample, it cares when the sensor saw the world, and once readings come from different nodes over different transports, those are very different numbers. Stamping at capture, on the node, with sequence numbers to catch drops, went from footnote to load-bearing. Not saying any of this is some unique insight, probably every hardware team hits some version of this.
 
-18h ago
+19h ago
 
 ---
 
@@ -86,7 +86,7 @@ We've been building a small board that handles cameras and sensors for robots, s
 
 Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Nicholas Radford argues that getting humanoids into the real world may mean star
 
 I have been trying to create a cycloidal actuator using some nema 17 motors, but i noticed that the output rotation is not smooth, with the rotation speed and offset pulsing instead of turning smoothly. I'm pretty sure its because the motor shafts are off center which is causing issues with the gears, but even after increasing the tolerances, it still has the same pulsing issue. Has anyone had similar experiances or have any ideas on how I can fix this? I tried: - Buying new motors (all 11 from the factory come slightly bent) - Increasing tolerances (.1mm to .2mm on all surfaces in the gearbox) - adding silicone grease to all contact surfaces - increasing tolerance in the camshaft itself But none of thse seems to help. Any suggestions will be greately appreciated
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ I have been trying to create a cycloidal actuator using some nema 17 motors, but
 
 We've been putting together real data collection for robot-arm manipulation, and the gap between recording one demo and actually having a usable training sample turned out way bigger than I expected. Here's the setup. A teaching arm, the leader, is moved by hand by the operator. A follower arm copies its motion joint by joint, and cameras record the whole thing. Every clean pass counts as one collected demo. For our test the task was picking up a rubber duck and placing it into a marked mold. The stuff that didn't make the cut, the usual suspects: - The grip slips mid pull. The follower tracks fine, but the grasp was never solid, so the trajectory teaches the wrong thing. - Occlusion. When the arm extends it blocks the camera, and that stretch of frames is just gone. - Inconsistent speed. Early passes were slow and careful, the later ones rushed. The data ends up describing two different tasks instead of one. For contact-rich work, cloth, placing parts into a tight mold, this bites harder. Simulation still doesn't get the physics right, so you can't just synthesize a clean replacement. You collect for real, and then you throw most of it out. How about you all? Filter first, or just throw more demos at it and let the AI figure it out? Right now we still collect by hand up to a threshold, then the AI training runs. Roughly 60 to 120 demos each time.
 
-20h ago
+21h ago
 
 ---
 
@@ -114,13 +114,23 @@ We've been putting together real data collection for robot-arm manipulation, and
 
 Unitree’s shares closed up 460% on Wednesday, a significant marker as Beijing competes for global tech dominance with Washington.
 
-NBC News • 18h ago
+NBC News • 19h ago
 
 ---
 
-**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+**[Chinese robotics startup showcases traffic-directing robot](https://www.cbsnews.com/chicago/video/chinese-robotics-startup-showcases-traffic-directing-robot/)**
 
-The Business Journals • 6h ago
+Robotics startup AiMOGA, incubated by Chinese automaker Chery, showcased the robot at the World Robot Conference in Beijing.
+
+CBS News • 1h ago
+
+---
+
+**[Amazon to build multibillion-dollar robotics manufacturing facility in Austin](https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin)**
+
+Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
+
+KEYE • 1h ago
 
 ---
 
@@ -128,7 +138,7 @@ The Business Journals • 6h ago
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
 
-The Conversation • 12h ago
+The Conversation • 13h ago
 
 ---
 
@@ -136,7 +146,13 @@ The Conversation • 12h ago
 
 For years, small, adaptable machines that perform repetitive jobsite tasks have seen the most success. As technology advances, that calculus is beginning to change.
 
-Construction Dive • 10h ago
+Construction Dive • 11h ago
+
+---
+
+**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+
+The Business Journals • 7h ago
 
 ---
 
@@ -156,27 +172,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[When the West is struggling with direction, China’s robotics takes another step forward: Global Times editorial](https://www.globaltimes.cn/page/202608/1368592.shtml)**
-
-While Western public discourse is still endlessly debating the pros and cons of different robotics paths, China, focused on
-
-Global Times • 12h ago
-
----
-
-**[Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%](https://247wallst.com/investing/2026/08/18/robotics-stocks-punished-tuesday-in-ai-sell-off-ouster-down-10-aeva-technologies-down-12-symbotic-down-4/)**
-
-A cooling AI trade, a 19-year Treasury yield high, and a cohort of robotics names that doubled into today just became a dangerous combination for investors still holding Physical AI exposure.
-
-24/7 Wall St. • 1d ago
-
----
-
 **[Kraken Robotics: Undervalued Marine Tech, Beneficiary Of Rising Defense Budgets And A Strategic Acquisition](https://seekingalpha.com/article/4938198-kraken-robotics-undervalued-marine-tech-beneficiary-of-rising-defense-budgets-and-a-strategic-acquisition)**
 
 Kraken Robotics benefits from rising global defense budgets that drive multi-year demand for autonomous underwater systems and sonar suites. See why the stock is a Buy.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -198,7 +198,17 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 11K • 👍 347 • 💬 59 • ⏱️ 5:16 • 3d ago
+👁️ 11K • 👍 351 • 💬 59 • ⏱️ 5:16 • 3d ago
+
+---
+
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
+
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
+
+📺 AI Revolution
+
+👁️ 24K • 👍 686 • 💬 79 • ⏱️ 14:10 • 1d ago
 
 ---
 
@@ -208,7 +218,7 @@ CNBC's Eunice Yoon joins 'Squawk on the Street' to discuss Unitree Robotics shar
 
 📺 CNBC Television
 
-👁️ 8K • 👍 85 • 💬 39 • ⏱️ 3:52 • 12h ago
+👁️ 9K • 👍 93 • 💬 39 • ⏱️ 3:52 • 12h ago
 
 ---
 
@@ -218,17 +228,7 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 8K • 👍 370 • 💬 82 • ⏱️ 1:36 • 10h ago
-
----
-
-**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=7pi6UdYEXkM)**
-
-This New American Humanoid Robot Will Leave You Speechless The United States is universally recognized as the birthplace of ...
-
-📺 Future Core
-
-👁️ 42K • 👍 924 • 💬 81 • ⏱️ 10:09 • 6d ago
+👁️ 17K • 👍 518 • 💬 105 • ⏱️ 1:36 • 11h ago
 
 ---
 
@@ -238,25 +238,27 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 48K • 👍 4K • 💬 546 • ⏱️ 8:40 • 1d ago
+👁️ 49K • 👍 4K • 💬 547 • ⏱️ 8:40 • 1d ago
 
 ---
 
-**[BYD Just Put a Humanoid Robot in Its Showrooms — And It&#39;s Already Working](https://www.youtube.com/watch?v=SQrO-krZIxs)**
+**[This New American Humanoid Robot Will Leave You Speechless](https://www.youtube.com/watch?v=7pi6UdYEXkM)**
 
-BYD Just Put a Humanoid Robot in Its Showrooms — And It's Already Working BYD has begun deploying its "Xiao Di" humanoid ...
+This New American Humanoid Robot Will Leave You Speechless The United States is universally recognized as the birthplace of ...
 
-📺 The Electric Viking
+📺 Future Core
 
-👁️ 18K • 👍 615 • 💬 102 • ⏱️ 8:50 • 1d ago
+👁️ 43K • 👍 940 • 💬 84 • ⏱️ 10:09 • 6d ago
 
 ---
 
-**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+**[China&#39;s Unitree Robotics surges 630% in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
 
-📺 Prasadtechshorts
+Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
 
-👁️ 84K • 👍 4K • 💬 42 • ⏱️ 1:28 • 20h ago
+📺 ABC News (Australia)
+
+👁️ 29K • 👍 317 • ⏱️ 2:24 • 20h ago
 
 ---
 
@@ -266,7 +268,7 @@ Marc Segura, the President of ABB Robotics, tells CNBC's Ritika Gupta that indus
 
 📺 CNBC International Live
 
-👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:24 • 15h ago
+👁️ 2K • 👍 38 • 💬 2 • ⏱️ 7:24 • 16h ago
 
 ---
 
@@ -276,7 +278,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 241K • 👍 3K • 💬 625 • ⏱️ 10:16 • 5d ago
+👁️ 241K • 👍 3K • 💬 626 • ⏱️ 10:16 • 5d ago
 
 ---
 
@@ -286,7 +288,7 @@ Can robots outrun and outjump humans? Well, this one can… Chinese robotics com
 
 📺 CGTN Europe
 
-👁️ 91K • 👍 1K • 💬 172 • ⏱️ 0:23 • 2d ago
+👁️ 91K • 👍 1K • 💬 173 • ⏱️ 0:23 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T04:36:39.076042+00:00'
+updated: '2026-08-20T05:30:34.518502+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 04:36 UTC  
+**Last Updated:** August 20, 2026 at 05:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +17.9%  
-**7d:** +19.7%  
-**30d:** +16.5%  
-**90d:** +6.3%  
-**1y:** -46.8%  
+**24h:** +17.6%  
+**7d:** +19.8%  
+**30d:** +16.6%  
+**90d:** +6.4%  
+**1y:** -46.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.73B
+**Market Cap:** $272.02B
 Rank #2
 
 **Circulating Supply:** 120,681,740 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.3%
+-54.4%
 
 **All-Time Low:** $0.43
-+521846.8%
++520435.6%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -118,7 +118,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -142,7 +142,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -150,19 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
+**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
 
-Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
+Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-Benzinga • 12h ago
+FXStreet • 5h ago
 
 ---
 
-**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
 
-tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+Which of these altcoins has a better shot at a comeback?
 
-ethereum.org • 2d ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -170,15 +170,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 12h ago
-
----
-
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -186,15 +178,15 @@ The Block • 12h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 6h ago
+MarketForces Africa • 7h ago
 
 ---
 
-**[Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day](https://www.tradingview.com/news/benzinga:343eb6086094b:0-bitcoin-hits-69-000-ethereum-goes-on-20-bull-rampage-xrp-sol-pump-10-on-historic-crypto-day/)**
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
 
-Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.Notable Statistics:Notable Developments:Trader Notes:Trader Michael van de Poppe said Bitcoin’s surge to $69,000 wiped out shorts…
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-TradingView • 7h ago
+The Block • 13h ago
 
 ---
 
@@ -204,27 +196,33 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
-
-Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
-
-FXStreet • 4h ago
-
----
-
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
-
-Which of these altcoins has a better shot at a comeback?
-
-The Motley Fool • 11h ago
-
----
-
 **[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
 The Defiant • 13h ago
+
+---
+
+**[Ethereum’s 12-GPU proving problem just got a 4-GPU answer](https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer/)**
+
+ZisK claimed 9.62-second p99 fits Ethereum's latency target, while workload, proof and whole-system power details remain undisclosed.
+
+CryptoSlate • 22h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Presale Announces Launch Reveal As Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-announces-launch-reveal-as-ethereum-price-prediction-targets-10-000-1036476514)**
+
+MONACO, Aug.  19, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale announces its next launch reveal timeline...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Ethereum Climbs 10% In Rally](https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-in-rally-4868091)**
+
+Investing.com • 7h ago
 
 ---
 
@@ -238,7 +236,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 248 • 💬 81 • ⏱️ 26:28 • 5h ago
+👁️ 6K • 👍 311 • 💬 180 • ⏱️ 26:28 • 6h ago
 
 ---
 
@@ -248,17 +246,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 5K • 👍 367 • 💬 126 • ⏱️ 14:57 • 7h ago
-
----
-
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
-
-In this video I break down the current Ethereum price action to determine if the recent upside momentum can hold or if a larger ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 193 • 💬 19 • ⏱️ 6:58 • 9h ago
+👁️ 6K • 👍 381 • 💬 129 • ⏱️ 14:57 • 8h ago
 
 ---
 
@@ -268,17 +256,27 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 668 • 💬 299 • ⏱️ 28:47 • 19h ago
+👁️ 7K • 👍 673 • 💬 299 • ⏱️ 28:47 • 20h ago
 
 ---
 
-**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
 
-BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+In this video I break down the current Ethereum price action to determine if the recent upside momentum can hold or if a larger ...
 
-📺 The Moon Show
+📺 More Crypto Online
 
-👁️ 7K • 👍 463 • 💬 10 • ⏱️ 1:38:08 • 11h ago
+👁️ 5K • 👍 204 • 💬 21 • ⏱️ 6:58 • 10h ago
+
+---
+
+**[BIG GAINS! BITCOIN PUMPS &amp; XRP, ETHEREUM &amp; SOLANA PRICES RISE! HUGE WHITE HOUSE CRYPTO MEETING!](https://www.youtube.com/watch?v=uCJ_KvfcV2o)**
+
+Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solana are on the move. Trump pushes Congress ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 229 • 💬 30 • ⏱️ 19:03 • 1h ago
 
 ---
 
@@ -288,7 +286,27 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 697 • 💬 352 • ⏱️ 13:12 • 13h ago
+👁️ 12K • 👍 707 • 💬 362 • ⏱️ 13:12 • 14h ago
+
+---
+
+**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+
+BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+
+📺 The Moon Show
+
+👁️ 8K • 👍 465 • 💬 10 • ⏱️ 1:38:08 • 12h ago
+
+---
+
+**[ETH &amp; BMNR JUST EXPLODED - WHAT HAPPENED?!](https://www.youtube.com/watch?v=oDRwgXIibb0)**
+
+Ethereum & BMNR Breakout: Why ETH Is Surging, Tom Lee, Robinhood Chain & Tokenized Stocks have impacted the price ...
+
+📺 Big Time Trades
+
+👁️ 2K • 👍 98 • 💬 10 • ⏱️ 23:35 • 7h ago
 
 ---
 
@@ -296,7 +314,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 36 • 💬 5 • ⏱️ 0:34 • 5h ago
+👁️ 2K • 👍 56 • 💬 33 • ⏱️ 0:34 • 6h ago
 
 ---
 
@@ -306,27 +324,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 189 • 💬 45 • ⏱️ 16:48 • 1d ago
-
----
-
-**[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 439 • 💬 270 • ⏱️ 17:08 • 2d ago
-
----
-
-**[I Bought $45,000 in Crypto: Bitcoin, XRP, Ethereum, Solana #shorts](https://www.youtube.com/watch?v=pZ_LYwLPe3w)**
-
-Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down if the market dips. Confident in finding the ...
-
-📺 Martyn Lucas INVESTOR
-
-👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:36 • 8h ago
+👁️ 6K • 👍 197 • 💬 48 • ⏱️ 16:48 • 1d ago
 
 ---
 

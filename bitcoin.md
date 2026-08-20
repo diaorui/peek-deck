@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T04:36:39.070689+00:00'
+updated: '2026-08-20T05:30:34.512529+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 04:36 UTC  
+**Last Updated:** August 20, 2026 at 05:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,963.20
+### $69,317.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.7%  
-**7d:** +9.9%  
-**30d:** +4.8%  
-**90d:** -9.8%  
-**1y:** -38.3%  
+**24h:** +8.2%  
+**7d:** +10.4%  
+**30d:** +5.3%  
+**90d:** -9.3%  
+**1y:** -38.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1393.79B
+**Market Cap:** $1397.06B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-44.8%
 
 **All-Time Low:** $67.81
-+102303.8%
++102550.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
 
-7h ago
+8h ago
 
 ---
 
 **[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
 
-7h ago
+8h ago
 
 ---
 
 **[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -107,19 +107,19 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 Analysts say that Putin could seize assets if cash is needed for his stalling invasion
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 11h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 12h ago
 
 ---
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-12h ago
+13h ago
 
 ---
 
@@ -135,7 +135,7 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
 
-13h ago
+14h ago
 
 ---
 
@@ -161,7 +161,7 @@ WSJ • 20h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -169,27 +169,27 @@ Yahoo Finance • 12h ago
 
 President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.
 
-CNBC • 5h ago
+CNBC • 6h ago
+
+---
+
+**[MSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-climbs-bitcoin-surges-020156327.html)**
+
+Bitcoin prices surged above $69,000 for the first time since early June after President Donald Trump met with top crypto executives in the White House.
+
+Yahoo Finance • 3h ago
 
 ---
 
 **[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
-**[President Trump To Host Crypto Execs At White House](https://bitcoinmagazine.com/news/trump-to-host-crypto-execs)**
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Trump is set to meet with crypto execs comes after a vote on the Clarity Act was stalled.
-
-Bitcoin Magazine • 11h ago
-
----
-
-**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
-
-Bloomberg.com • 5h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 5h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -217,11 +217,11 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally](https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248)**
+**[JD Vance Is Right About The Dollar. Bitcoin Solves The Triffin Dilemma](https://www.forbes.com/sites/davidbirnbaum/2026/08/19/jd-vance-is-right-about-the-dollar-bitcoin-solves-the-triffin-dilemma/)**
 
-The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.
+The world may continue using dollars because American markets are deep, liquid, and useful, but it no longer has to make America's debt the foundation of global money.
 
-The Block • 9h ago
+Forbes • 8h ago
 
 ---
 
@@ -275,11 +275,17 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[I replaced ZSTD and Merkle trees with zero-allocation spiral accumulators](https://news.ycombinator.com/item?id=49370695)**
+
+⬆️ 1 • 💬 0 • 1m ago
+
+---
+
 **[Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich & Nextcloud Client](https://news.ycombinator.com/item?id=49367952)**
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -287,23 +293,13 @@ FerrumPix is a desktop photo management and editing application for Linux,  Wind
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Breaks Resistance! Now What?](https://www.youtube.com/watch?v=0ymWU7zx5nk)**
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
 
-Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens Next? Let's find out Live! Start your prop ...
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
 
-📺 Sin City Crypto
+📺 Altcoin Daily
 
-👁️ 4K • 👍 276 • ⏱️ 4:23:25 • 2h ago
-
----
-
-**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
-
-No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
-
-📺 Gareth Soloway
-
-👁️ 54K • 👍 4K • 💬 660 • ⏱️ 10:20 • 11h ago
+👁️ 25K • 👍 2K • 💬 95 • ⏱️ 10:41 • 6h ago
 
 ---
 
@@ -313,15 +309,47 @@ Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 76K • 👍 918 • 💬 306 • ⏱️ 8:10 • 1d ago
+👁️ 79K • 👍 951 • 💬 311 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[Crypto Mining vs AI (For PC Builders)](https://www.youtube.com/watch?v=ZXVgv0VhIk4)**
+**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
 
-📺 Zach's Tech Turf
+Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
 
-👁️ 92K • 👍 8K • 💬 582 • ⏱️ 1:10 • 2d ago
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 659 • 💬 413 • ⏱️ 22:30 • 5h ago
+
+---
+
+**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
+
+No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
+
+📺 Gareth Soloway
+
+👁️ 60K • 👍 4K • 💬 547 • ⏱️ 10:20 • 12h ago
+
+---
+
+**[Bitcoin Is Ready To Break Out...](https://www.youtube.com/watch?v=vhqdsiy0ED0)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 923 • 💬 272 • ⏱️ 43:06 • 15h ago
+
+---
+
+**[This Bitcoin Signal Fired 88 Times. 72% Went Up. It Fired Last Night [Kalshi Live Trading]](https://www.youtube.com/watch?v=kW89qqDO0jU)**
+
+Bitcoin reclaimed the Revin Ribbons mid-band at 64515 and secured it on the daily AND 2-day closes - the exact line Monday's ...
+
+📺 Krown
+
+👁️ 7K • 👍 467 • 💬 14 • ⏱️ 2:30:50 • 10h ago
 
 ---
 
@@ -331,57 +359,35 @@ Think your offline crypto wallet is completely safe from hackers? Think again! I
 
 📺 Security Boulevard Podcast
 
-👁️ 755 • 👍 3 • 💬 1 • ⏱️ 0:53 • 13h ago
+👁️ 805 • 👍 3 • 💬 1 • ⏱️ 0:53 • 14h ago
 
 ---
 
-**[Bitcoin Just Had Its Biggest Panic Since FTX. 189,000 Bitcoin Moved](https://www.youtube.com/watch?v=BEIBh91X_2c)**
+**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
 
-I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
+Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
 
-📺 Mark Moss
+📺 Crypto Capital Venture
 
-👁️ 24K • 👍 1K • 💬 185 • ⏱️ 22:30 • 1d ago
-
----
-
-**[Bitcoin Just Hit 6 of 8. At 7, the Median Is +25% in 90 Days.](https://www.youtube.com/watch?v=rya1941s2ck)**
-
-888 alignment events backtested since 2013. At 7 of 8 timeframes aligned, the median 90-day return is +25.6% - and the hit rate ...
-
-📺 Krown
-
-👁️ 2K • 👍 61 • 💬 1 • ⏱️ 1:02 • 15h ago
+👁️ 12K • 👍 707 • 💬 362 • ⏱️ 13:12 • 14h ago
 
 ---
 
-**[HUGE NEWS! SEC RELEASES NEW CRYPTO REGULATION! CITI BANK BITCOIN CUSTODY &amp; RIPPLE XRP KOREA BANK!](https://www.youtube.com/watch?v=lRqlZDSwDM0)**
+**[Crypto Mining vs AI (For PC Builders)](https://www.youtube.com/watch?v=ZXVgv0VhIk4)**
 
-Crypto News: The SEC proposed new rules, “Regulation Crypto Assets,” that would create a clear and fit-for-purpose framework ...
+📺 Zach's Tech Turf
 
-📺 Thinking Crypto
-
-👁️ 16K • 👍 970 • 💬 240 • ⏱️ 21:49 • 1d ago
+👁️ 94K • 👍 8K • 💬 583 • ⏱️ 1:10 • 2d ago
 
 ---
 
-**[Is This The Start Of A Short Squeeze For Bitcoin? [My Plan]](https://www.youtube.com/watch?v=6Hn05-lne6I)**
+**[BREAKING: Largest Bitcoin Squeeze Ever — Bessent Can’t Hold Back The Tide Any Longer](https://www.youtube.com/watch?v=64xR6kcG1Rs)**
 
-In today's video, we look into the probabilities of whether or not Bitcoin is embarking on a short squeeze. With longs entered, and ...
+LIVE – Bitcoin ripped 7% above $69K on August 19, 2026 and $1.2 billion in shorts were liquidated in a single hour — but the ...
 
-📺 Crypto Banter
+📺 BTC Sessions
 
-👁️ 14K • 👍 977 • 💬 19 • ⏱️ 34:36 • 20h ago
-
----
-
-**[Bitcoin And Stablecoins Will Coexist. Here&#39;s Why.](https://www.youtube.com/watch?v=eYIMha2dlhg)**
-
-Financial institutions once refused to touch the public cloud and built their own data centers instead. Now they are migrating in ...
-
-📺 ARK Invest
-
-👁️ 7K • 👍 176 • 💬 5 • ⏱️ 1:24 • 2d ago
+👁️ 8K • 👍 412 • 💬 44 • ⏱️ 1:21:16 • 6h ago
 
 ---
 
