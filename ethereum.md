@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T17:28:35.377675+00:00'
+updated: '2026-08-20T17:58:30.315994+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 17:28 UTC  
+**Last Updated:** August 20, 2026 at 17:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,309.71
+### $2,346.05
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +11.3%  
-**7d:** +23.7%  
-**30d:** +20.4%  
-**90d:** +9.8%  
-**1y:** -45.0%  
+**24h:** +12.3%  
+**7d:** +24.7%  
+**30d:** +21.4%  
+**90d:** +10.8%  
+**1y:** -44.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.79B
+**Market Cap:** $283.02B
 Rank #2
 
 **Circulating Supply:** 120,681,740 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-52.6%
 
 **All-Time Low:** $0.43
-+533253.8%
++541683.8%
 
 ---
 
@@ -150,19 +150,19 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 ## Google News: "ethereum"
 
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+
+The Block • 1d ago
+
+---
+
 **[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 17h ago
-
----
-
-**[Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-69-000-ethereum-211512521.html)**
-
-Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
-
-Yahoo Finance • 20h ago
+FXStreet • 18h ago
 
 ---
 
@@ -170,7 +170,15 @@ Yahoo Finance • 20h ago
 
 Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
+
+better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+
+ethereum.org • 1h ago
 
 ---
 
@@ -182,11 +190,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+**[Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-69-000-ethereum-211512521.html)**
 
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
 
-The Block • 1d ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -194,7 +202,7 @@ The Block • 1d ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 19h ago
+MarketForces Africa • 20h ago
 
 ---
 
@@ -210,14 +218,6 @@ CoinDesk • 2d ago
 
 ---
 
-**[Current price of Ethereum for August 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
-
----
-
 **[Crypto News: Pepeto (PEPETO) Nears 50,000 Holders as Ethereum Price Eyes $10,000 and Shiba Inu's Story Repeats](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-pepeto-nears-50-000-holders-as-ethereum-price-eyes-10-000-and-shiba-inu-s-story-repeats-1036477647)**
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
@@ -230,43 +230,13 @@ markets.businessinsider.com • 9h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Has an Issuance Problem](https://www.youtube.com/watch?v=mUEEFxN2_DY)**
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum may be paying too ...
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
-📺 Bankless
+📺 More Crypto Online
 
-👁️ 768 • 👍 40 • 💬 10 • ⏱️ 1:22:32 • 6h ago
-
----
-
-**[MASSIVE RALLY! What&#39;s Next for Ethereum?](https://www.youtube.com/watch?v=PDou-gncOlU)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 191 • 👍 18 • 💬 1 • ⏱️ 5:01 • 8h ago
-
----
-
-**[BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-tHCqhPk4CU)**
-
-BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 391 • 💬 216 • ⏱️ 26:28 • 18h ago
-
----
-
-**[CRYPTO LIVE - THE ETHEREUM BREAKOUT](https://www.youtube.com/watch?v=BREmL2qYfYM)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 7K • 👍 661 • 💬 170 • ⏱️ 49:05 • 5h ago
+👁️ 3K • 👍 193 • 💬 42 • ⏱️ 7:45 • 4h ago
 
 ---
 
@@ -276,7 +246,27 @@ Where is Ethereum heading over the next six months? My short-term target for Eth
 
 📺 Crypto Archie
 
-👁️ 149 • 👍 20 • ⏱️ 0:57 • 3h ago
+👁️ 320 • 👍 35 • ⏱️ 0:57 • 3h ago
+
+---
+
+**[Ethereum Has an Issuance Problem](https://www.youtube.com/watch?v=mUEEFxN2_DY)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum may be paying too ...
+
+📺 Bankless
+
+👁️ 1K • 👍 49 • 💬 32 • ⏱️ 1:22:32 • 7h ago
+
+---
+
+**[CRYPTO LIVE - THE ETHEREUM BREAKOUT](https://www.youtube.com/watch?v=BREmL2qYfYM)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 7K • 👍 668 • 💬 184 • ⏱️ 49:05 • 19h ago
 
 ---
 
@@ -286,27 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 214 • 💬 27 • ⏱️ 16:48 • 2d ago
-
----
-
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
-
-In this video I break down the current Ethereum price action to determine if the recent upside momentum can hold or if a larger ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 231 • 💬 21 • ⏱️ 6:58 • 22h ago
-
----
-
-**[XRP HYPE ETH 💥💥TRUMP CRYPTO MEETING](https://www.youtube.com/watch?v=o07CIChy3SY)**
-
-2nd channel♨ so while I taper let's play some games https://www.youtube.com/@UCRS4Cjpn8wwoEulSsEGsvdw #xrp #xlm #btc ...
-
-📺 CRYPTO with KLAUS
-
-👁️ 7K • 👍 417 • 💬 226 • ⏱️ 14:57 • 20h ago
+👁️ 7K • 👍 215 • 💬 27 • ⏱️ 16:48 • 2d ago
 
 ---
 
@@ -316,17 +286,47 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 700 • 💬 317 • ⏱️ 28:47 • 1d ago
+👁️ 7K • 👍 702 • 💬 313 • ⏱️ 28:47 • 1d ago
 
 ---
 
-**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
+**[XRP HYPE ETH 💥💥TRUMP CRYPTO MEETING](https://www.youtube.com/watch?v=o07CIChy3SY)**
 
-Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
+2nd channel♨ so while I taper let's play some games https://www.youtube.com/@UCRS4Cjpn8wwoEulSsEGsvdw #xrp #xlm #btc ...
 
-📺 Crypto Capital Venture
+📺 CRYPTO with KLAUS
 
-👁️ 13K • 👍 716 • 💬 456 • ⏱️ 13:12 • 1d ago
+👁️ 7K • 👍 418 • 💬 233 • ⏱️ 14:57 • 21h ago
+
+---
+
+**[BIG GAINS! BITCOIN PUMPS &amp; XRP, ETHEREUM &amp; SOLANA PRICES RISE! HUGE WHITE HOUSE CRYPTO MEETING!](https://www.youtube.com/watch?v=uCJ_KvfcV2o)**
+
+Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solana are on the move. Trump pushes Congress ...
+
+📺 Thinking Crypto
+
+👁️ 9K • 👍 636 • 💬 144 • ⏱️ 19:03 • 14h ago
+
+---
+
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=icSZJylC5tE)**
+
+In this video I break down the current Ethereum price action to determine if the recent upside momentum can hold or if a larger ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 235 • 💬 21 • ⏱️ 6:58 • 22h ago
+
+---
+
+**[Bitwise: Why Large Allocators Are Deploying Into Ethereum Now (Model Portfolio Explained)](https://www.youtube.com/watch?v=C-ub-6dK4Kc)**
+
+Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we are at the beginning of a mega bull cycle ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 97 • 💬 6 • ⏱️ 10:38 • 15h ago
 
 ---
 

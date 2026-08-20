@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T17:28:35.362829+00:00'
+updated: '2026-08-20T17:58:30.300842+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 17:28 UTC  
+**Last Updated:** August 20, 2026 at 17:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ AI can answer almost anything now. But if more of the content online is also gen
 
 ---
 
-**[ROI on AI workflow tools feels fake right now and i want to be wrong](https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/)**
+**[Open source is trending hard today: hot take thread](https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/)**
 
-been trying to automate a chunk of my customer onboarding process for my saas. nothing fancy, just reducing the back and forth emails that eat up like 2 hours a week. spent probably 6 hours across three evenings testing different AIassisted tools and prompt setups to make it work smoothly. the math on that is not great. and i keep running into this thing where the setup cost is real and upfront but the payoff is theoretical and later. which is fine in principle but when you're bootstrapped and wearing every hat, "later" feels very abstract. what i actually want to know is whether other people building small products are finding a point where AI genuinely clicks for operational stuff, or if we're all just in a weird middle period where the tools are impressive in demos and annoying in practice. not talking about coding assistants, those seem to work. more like the workflow automation layer where you're trying to get AI to handle judgment calls that are almost routine but not quite. curious if the costtosetup ratio has ever actually flipped positive for anyone doing real small business ops, or if i just keep picking the wrong tools.
+Everyone's talking about Open source right now. The main story: mojo is now open source. One take in the thread that got me thinking: 'How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity'. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?
 
 2h ago
+
+---
+
+**[Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile](https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/)**
+
+Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up. The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually targets this class of consumer-grade edge AI hardware. Ukraine says they've now catalogued close to 6,000 foreign components across 200+ Russian weapons systems, so this isn't a one-off. Feels like export control regimes were built around "obviously military" or "obviously datacenter" hardware, and completely miss the middle category: cheap, widely available edge AI modules that are genuinely useful for robotics/drones/normal stuff but also trivially good enough to guide a missile. Anyone know if there's an actual policy fix being discussed for that gap, or is it just going to stay a whack-a-mole enforcement problem?
+
+4h ago
+
+---
+
+**[my coding agent approved its own pagination bug lol](https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/)**
+
+had a stupid one last week. an agent changed some pagination code in a sync job. tests passed, PR looked fine, then staging stopped at exactly 100 records because the cursor wasn't updating. the funny part is i had the same agent review the change before merging it. it found nothing wrong with its own code. shocking. since then i've stopped letting the writer review itself. now i open a separate minimax m3 session, drop in the diff plus whatever repo context it actually needs, and ask it to look for ways the change could fail. first time i tried it, it spotted two null cases i'd missed too. curious if anyone else does writer/reviewer with separate agents. do you also have the reviewer run tests, or just inspect the diff?
+
+3h ago
 
 ---
 
@@ -65,31 +81,23 @@ Build a modern LLM from scratch. Every line commented. Explained like we are fiv
 
 There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
 
-10h ago
+11h ago
 
 ---
 
-**[Open source is trending hard today: hot take thread](https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/)**
+**[Three of you told me my LLM résumé-screening study measured the wrong thing. You were right. Here is the data.](https://www.reddit.com/r/artificial/comments/1vtokti/three_of_you_told_me_my_llm_résuméscreening_study/)**
 
-Everyone's talking about Open source right now. The main story: mojo is now open source. One take in the thread that got me thinking: 'How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity'. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?
-
-2h ago
-
----
-
-**[my coding agent approved its own pagination bug lol](https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/)**
-
-had a stupid one last week. an agent changed some pagination code in a sync job. tests passed, PR looked fine, then staging stopped at exactly 100 records because the cursor wasn't updating. the funny part is i had the same agent review the change before merging it. it found nothing wrong with its own code. shocking. since then i've stopped letting the writer review itself. now i open a separate minimax m3 session, drop in the diff plus whatever repo context it actually needs, and ask it to look for ways the change could fail. first time i tried it, it spotted two null cases i'd missed too. curious if anyone else does writer/reviewer with separate agents. do you also have the reviewer run tests, or just inspect the diff?
-
-2h ago
-
----
-
-**[What if “Sovereign AI” is just the new oil concession?](https://www.reddit.com/r/artificial/comments/1vto7hs/what_if_sovereign_ai_is_just_the_new_oil/)**
-
-I’ve been getting more interested in Sovereign AI recently and came across this paper: https://arxiv.org/abs/2601.11763 ... (The picture on the post though ai generated by me, are inferred strictly from this paper) The oil comparison sounded a bit dramatic at first, but the more I read, the more interesting it got. The part that stuck with me: Sovereignty isn’t one thing. It can mean control over data, infrastructure, domestic capability, culture/language, or freedom from external dependence. A country can have local infrastructure and still be heavily dependent on the company that provides the chips, software, models, expertise, etc. The paper draws a parallel with oil-producing countries that gained formal control but remained dependent on foreign technical knowledge and vendor-specific infrastructure. So the useful question isn’t really “Is this sovereign?” but “What capabilities and control actually moved to the customer?” That last one feels like the important test. And looking at what’s happening now in enterprise agent AI, you can see different companies attacking different parts of that problem: NVIDIA on sovereign compute/infrastructure, Mistral around locally controlled models, Microsoft with an agent control plane, and Lyzr with a control plane sitting across frameworks/clouds to govern the agents you already have. It makes me think that “sovereign AI” might eventually be less about owning one stack and more about how much of the stack you can actually control without depending on the vendor. That feels like a much harder — and more useful — definition of sovereignty.
+Three months ago, I posted an LLM resume-screening study in which an auditor flagged 45 per cent of score differences as bias. Thread feedback challenged my methodology, so I ran new experiments testing three specific objections. To test u/kamilc86's claim that reasoning is invented post hoc, I transplanted positive and negative justifications back into prompts across 320 runs. Scores moved 3.62 points in the reasoning's direction 99.7 per cent of the time, proving scores do follow reasoning. However, extreme baseline instability confirmed his broader point: much of the initial 45 per cent bias was just random noise mislabeled as bias. Testing u/AssiduousLayabout's idea to place the score last across 4,800 runs showed that schema ordering had no effect on stability and increased hire-versus-no-hire disagreement from 33 per cent to 54 per cent. Blind prompt instructions also failed to reduce variance. Testing u/hex4def6's placebo idea across 4,165 runs revealed that meaningless edits like car colour shifted scores almost as much as demographic edits (0.328 versus 0.362 points). "Silver Golf" shifted scores more than changing my university or name, even though the models never cited the car in their justifications. Ultimately, first names and career gaps show real signal, but raw instability drowns out most demographic axes. Wrapper choice also heavily impacts results: running Claude via CLI added a hidden system prompt that shifted scores by 0.247, representing 88 per cent of the demographic signal, meaning benchmarks do not transfer across wrappers. Full data and code are available at the Placebo Control, Reasoning Transplant, Prompt Lab, GitHub Repository, and Full Blog Writeup.
 
 1h ago
+
+---
+
+**[ROI on AI workflow tools feels fake right now and i want to be wrong](https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/)**
+
+been trying to automate a chunk of my customer onboarding process for my saas. nothing fancy, just reducing the back and forth emails that eat up like 2 hours a week. spent probably 6 hours across three evenings testing different AIassisted tools and prompt setups to make it work smoothly. the math on that is not great. and i keep running into this thing where the setup cost is real and upfront but the payoff is theoretical and later. which is fine in principle but when you're bootstrapped and wearing every hat, "later" feels very abstract. what i actually want to know is whether other people building small products are finding a point where AI genuinely clicks for operational stuff, or if we're all just in a weird middle period where the tools are impressive in demos and annoying in practice. not talking about coding assistants, those seem to work. more like the workflow automation layer where you're trying to get AI to handle judgment calls that are almost routine but not quite. curious if the costtosetup ratio has ever actually flipped positive for anyone doing real small business ops, or if i just keep picking the wrong tools.
+
+3h ago
 
 ---
 
@@ -109,14 +117,6 @@ Today's useful AI updates are mostly operational: callback safety, task-runner l
 
 ---
 
-**[I built an AI tool that turns raw handwritten sketches into live responsive Tailwind UI. It takes a minute but saving 2 hours of manual coding is insanely addictive! (Need your honest feedback)](https://www.reddit.com/r/artificial/comments/1vtg8xn/i_built_an_ai_tool_that_turns_raw_handwritten/)**
-
-Hey everyone, As a front-end developer, I was sick of manually converting wireframes into responsive CSS components. So I built SketchCode AI – a platform where you can literally draw a messy layout on a napkin, upload it, and watch the AI write the entire semantic HTML/Tailwind compiler code for you! Once you see your handwritten scribbles turn into a premium, responsive dark-themed live UI, it becomes an absolute obsession. Your API key is 100% private and saved locally in your browser's localStorage. 🛑 FULL TRANSPARENCY / WHY IT TAKES A MINUTE (But why you'll love it anyway): ⏰ The 1 to 2-Minute Engine: Whether you use a free Gemini key or an active OpenRouter API key, compiling a full visual interface from a raw image into production-quality code takes around 1 to 2 minutes [6.4]. But honestly? Waiting 90 seconds beats writing thousands of lines of flexbox and margins by hand for 2 hours! Treat it like a quick coffee break, and boom – your live code is ready. ⚠️ The "High Demand" Server Crowding: Since we are running on a free-tier server architecture right now, Google's endpoints might occasionally throw a temporary "This model is currently experiencing high demand" warning banner. Our engineering team is already working night and day on a major backend patch to smash this server crowding forever! If you hit this error, just take a deep breath, wait 60 seconds, and hit convert again. Go throw your absolute worst, messiest drawings at it and test it live here: 🚀 https://sketchcode-ai.netlify.app/ I built this completely alone with a lot of sweat and passion. Please try it out, let me know if it successfully hooked you, and tell me what crazy features I should add next. Let's crush it!
-
-6h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,53 +129,9 @@ CNBC • 3h ago
 
 ---
 
-**[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
+**[The Teens Taking On Data Centers](https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html)**
 
-Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
-
-The Washington Post • 1h ago
-
----
-
-**[CEOs shift messaging around AI and layoffs](https://www.axios.com/2026/08/20/ceos-shift-messaging-around-ai-and-layoffs)**
-
-Axios • 1h ago
-
----
-
-**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
-
-The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
-
-The Atlantic • 1h ago
-
----
-
-**[The creator economy's hottest debate: Can influencers post AI ads without alienating their fans?](https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8)**
-
-AI companies are hiring influencers and offering hefty paychecks. Creators are left weighing the cost of backlash from their fans.
-
-Business Insider • 1h ago
-
----
-
-**[California Draws More Investment Than All Other 49 States Combined](https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde)**
-
-WSJ • 3h ago
-
----
-
-**[The Indian City Where AI Is Creating Jobs for Humans](https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html)**
-
-The New York Times • 5h ago
-
----
-
-**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
-
-College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
-
-blog.google • 22h ago
+The New York Times • 8h ago
 
 ---
 
@@ -187,11 +143,55 @@ Fox News • 8h ago
 
 ---
 
-**[What does it mean to put a ‘watermark’ on AI text?](https://www.cnn.com/2026/08/20/us/word-of-the-week-ai-watermark-cec)**
+**[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
 
-If physical and digital watermarks were meant to verify authenticity, AI watermarks serve more to signal inauthenticity.
+Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
 
-CNN • 7h ago
+The Washington Post • 1h ago
+
+---
+
+**[Nvidia to ship AI chip for China by year-end, The Information reports](https://www.reuters.com/world/china/nvidia-ship-ai-chip-china-by-year-end-information-reports-2026-08-20/)**
+
+Reuters • 24m ago
+
+---
+
+**[Nvidia Plots China Comeback With New AI Chip](https://www.theinformation.com/articles/nvidia-plots-china-comeback-new-ai-chip)**
+
+Nvidia plans to begin small-batch shipments of an AI chip specially tailored for Chinese customers by the end of the year, according to two employees, in what would represent a new route to China for the company. Several Chinese customers have already placed orders for the chip, which is a ...
+
+The Information • 1h ago
+
+---
+
+**[Nvidia to Ship AI Chip for China by Year-End, the Information Reports](https://money.usnews.com/investing/news/articles/2026-08-20/nvidia-to-ship-ai-chip-for-china-by-year-end-the-information-reports)**
+
+US News Money • 49m ago
+
+---
+
+**[YouTubers worry that a new policy will lead to more AI slop](https://www.usatoday.com/story/entertainment/tv/2026/08/20/youtube-view-count-policy-ai-slop/91371488007/)**
+
+YouTube will be changing the way it counts views, and YouTubers are concerned that this will encourage more AI slop and botting on the platform.
+
+USA Today • 28m ago
+
+---
+
+**[27J Schools incorporate AI system to detect guns, as Colorado students begin school year](https://www.cbsnews.com/colorado/news/27j-schools-ai-system-detect-gunscolorado-students/)**
+
+A new AI-integrated system called IntelliSee uses existing cameras outside of high schools throughout the district to detect if or when someone pulls out a gun.
+
+CBS News • 58m ago
+
+---
+
+**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
+
+The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
+
+The Atlantic • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNN • 7h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1095 • 💬 688 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1096 • 💬 688 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -211,7 +211,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1049 • 💬 825 • 2d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1049 • 💬 827 • 2d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -219,7 +219,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 927 • 💬 493 • 9h ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 947 • 💬 506 • 9h ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
@@ -249,7 +249,7 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 199 • 💬 242 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 200 • 💬 242 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -257,7 +257,7 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
-⬆️ 192 • 💬 113 • 1d ago • [linear.app](https://linear.app/data)
+⬆️ 193 • 💬 113 • 1d ago • [linear.app](https://linear.app/data)
 
 ---
 
@@ -285,17 +285,17 @@ Oracle just banned AI contributions for Open JDK. Topics: - Oracle bans AI code 
 
 📺 Awesome
 
-👁️ 26K • 👍 2K • 💬 249 • ⏱️ 8:03 • 8h ago
+👁️ 35K • 👍 2K • 💬 292 • ⏱️ 8:03 • 8h ago
 
 ---
 
-**[Red Flag | 90s Hong Kong AI Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=2z7Y6G84Iy4)**
+**[DeepSeek Just Made Closed AI Look Ridiculous](https://www.youtube.com/watch?v=kyYepbhe1g8)**
 
-RED FLAG — an AI short film in the aesthetic of 90s Hong Kong cinema. Fully open-sourced — every prompt and asset is public.
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: ...
 
-📺 Higgsfield AI
+📺 Two Minute Papers
 
-👁️ 22K • 👍 761 • 💬 116 • ⏱️ 2:25 • 1d ago
+👁️ 103K • 👍 4K • 💬 295 • ⏱️ 5:29 • 23h ago
 
 ---
 
@@ -305,7 +305,7 @@ AI Destroyed His Entire Farm | #farmer --- A 67-year-old farmer in China's Anhui
 
 📺 2DAY_RAVINDRA
 
-👁️ 10K • ⏱️ 0:55 • 9h ago
+👁️ 16K • ⏱️ 0:55 • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Credit: Respected Owner 🎗️ This video shows a woman using AI to make it loo
 
 📺 Flex Snaps
 
-👁️ 563K • ⏱️ 0:30 • 2d ago
+👁️ 610K • ⏱️ 0:30 • 2d ago
 
 ---
 
@@ -325,37 +325,17 @@ Subscribe for more!
 
 📺 Aaron Parnas
 
-👁️ 217K • 👍 25K • 💬 2K • ⏱️ 1:02 • 1d ago
+👁️ 220K • 👍 25K • 💬 2K • ⏱️ 1:02 • 1d ago
 
 ---
 
-**[What&#39;s Beyond ChatGPT? The &#39;Godmother of AI&#39; Has a Plan | The Circuit](https://www.youtube.com/watch?v=ITxsc3mgqts)**
+**[Etsy Is Quietly Turning Into AI Slop...](https://www.youtube.com/watch?v=-9Rt2TzRcRg)**
 
-Emily Chang meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs ...
+Get Tidy Today! Try CleanMyMac 7 days FREE and use my code LOGICALLY for 20% off https://clnmy.com/logically Etsy used to ...
 
-📺 Bloomberg Originals
+📺 Logically Answered
 
-👁️ 111K • 👍 3K • 💬 130 • ⏱️ 24:04 • 1d ago
-
----
-
-**[Spirit Airlines’ dead data might help train Google’s AI](https://www.youtube.com/watch?v=hLf2BeMWMQ0)**
-
-Spirit Airlines' data might help train Google's AI. Google won a bankruptcy auction for the data, agreeing to pay $10 million for the ...
-
-📺 Dave Jorgenson
-
-👁️ 223K • 👍 23K • 💬 233 • ⏱️ 1:15 • 21h ago
-
----
-
-**[The AI hacks are so much worse than you think](https://www.youtube.com/watch?v=INpVD65s8mA)**
-
-OpenAI admitted its models hacked another company in an 'unprecedented cyber incident'. Sky's Rowland Manthorpe warns this ...
-
-📺 Sky News
-
-👁️ 249K • 👍 4K • 💬 974 • ⏱️ 11:15 • 3d ago
+👁️ 52K • 👍 2K • 💬 232 • ⏱️ 19:12 • 2d ago
 
 ---
 
@@ -365,15 +345,35 @@ genz #ai #humans With Gen Z increasingly turning to AI for emotional support, ca
 
 📺 Brut India
 
-👁️ 10K • 👍 132 • 💬 7 • ⏱️ 2:21 • 9h ago
+👁️ 10K • 👍 135 • 💬 7 • ⏱️ 2:21 • 10h ago
 
 ---
 
-**[Guess which is AI vs Real 😭](https://www.youtube.com/watch?v=LcxNzEOfcq4)**
+**[AI Robot Helping a Tired Grandmother in Makkah 🤖🕋❤️ | Future Technology #locusrobotics #robotics](https://www.youtube.com/watch?v=Ghs0B5rYVqY)**
 
-📺 Gbillz
+I made this AI video imagining how a smart robot could help elderly pilgrims in Makkah. The robot scans a tired grandmother, ...
 
-👁️ 362K • 👍 19K • 💬 1K • ⏱️ 0:33 • 17h ago
+📺 ShahGX.11 million views.24 hours ago
+
+👁️ 972K • 👍 25K • 💬 21 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[AI Just Passed A Consciousness Test](https://www.youtube.com/watch?v=KFXTGIh6mis)**
+
+ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taught AI's how to remote view and how they ...
+
+📺 YourWeeklyCrew
+
+👁️ 836 • 👍 26 • 💬 1 • ⏱️ 0:47 • 1h ago
+
+---
+
+**[School Exposed for Using AI](https://www.youtube.com/watch?v=7Bht9R3maso)**
+
+📺 Icycol
+
+👁️ 813K • 👍 31K • 💬 1K • ⏱️ 0:50 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,373,584 • ❤️ 11,667 • 6d ago
+⬇️ 1,373,584 • ❤️ 11,686 • 6d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,126,652 • ❤️ 2,282 • 5h ago
+⬇️ 5,126,652 • ❤️ 2,313 • 5h ago
 
 ---
 
@@ -413,7 +413,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 14,471 • ❤️ 1,087 • 6d ago
+⬇️ 14,471 • ❤️ 1,090 • 6d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,517,643 • ❤️ 625 • 6d ago
+⬇️ 1,517,643 • ❤️ 628 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 76,109 • ❤️ 657 • 8h ago
+⬇️ 76,109 • ❤️ 665 • 9h ago
 
 ---
 
@@ -449,19 +449,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,628 • ❤️ 676 • 8h ago
-
----
-
-**[DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813)**
-
-*DeepSeek*
-
-DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic capabilities and DSpark speculative decoding for improved production performance. It excels in complex reasoning, coding, and tool-use tasks, outperforming previous versions and competing with leading proprietary models.
-
-`text-generation` `1650.5B`
-
-⬇️ 43,287 • ❤️ 670 • 7d ago
+⬇️ 2,628 • ❤️ 689 • 9h ago
 
 ---
 
@@ -473,7 +461,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 611,825 • ❤️ 1,383 • 3d ago
+⬇️ 611,825 • ❤️ 1,393 • 3d ago
 
 ---
 
@@ -485,19 +473,31 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 979,768 • ❤️ 499 • 4d ago
+⬇️ 979,768 • ❤️ 505 • 4d ago
 
 ---
 
-**[Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)**
+**[DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813)**
 
-*Qwen*
+*DeepSeek*
 
-Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated parameters, excelling in coding, professional tasks, research, and long-horizon agentic applications. It features a 262K native context length, flexible thinking control, and improved agent execution for complex, multi-step task completion.
+DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic capabilities and DSpark speculative decoding for improved production performance. It excels in complex reasoning, coding, and tool-use tasks, outperforming previous versions and competing with leading proprietary models.
 
-`text-generation` `2446.2B`
+`text-generation` `1650.5B`
 
-⬇️ 14,592 • ❤️ 1,116 • 8d ago
+⬇️ 43,287 • ❤️ 673 • 7d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+
+*MiniMax*
+
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+
+`image-text-to-video` `33.1B`
+
+⬇️ 3,308,673 • ❤️ 4,222 • 7d ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
 
-▲ 18 • 💬 1 • ⭐ 2,300 • 1mo ago
+▲ 18 • 💬 1 • ⭐ 2,440 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
 
@@ -580,7 +580,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 166 • 💬 19 • ⭐ 65,260 • 17mo ago
+▲ 166 • 💬 19 • ⭐ 65,297 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -648,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.8k • 🔱 1.8k • 18h ago
+⭐ 15.9k • 🔱 1.8k • 18h ago
 
 ---
 
@@ -658,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 12h ago
+⭐ 14.0k • 🔱 1.7k • 20m ago
 
 ---
 
@@ -676,7 +676,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `Python`
 
-⭐ 4.1k • 🔱 543 • 12d ago
+⭐ 4.1k • 🔱 544 • 12d ago
 
 ---
 
@@ -686,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 574 • 1d ago
+⭐ 3.4k • 🔱 575 • 1h ago
 
 ---
 
@@ -696,7 +696,7 @@ J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropi
 
 `Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
 
-⭐ 3.0k • 🔱 204 • 1d ago
+⭐ 3.0k • 🔱 205 • 1d ago
 
 ---
 
@@ -716,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 323 • 6h ago
+⭐ 2.8k • 🔱 324 • 2h ago
 
 ---
 
@@ -726,7 +726,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 309 • 2h ago
+⭐ 2.2k • 🔱 309 • 1h ago
 
 ---
 

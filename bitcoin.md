@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T17:28:35.371445+00:00'
+updated: '2026-08-20T17:58:30.309618+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 17:28 UTC  
+**Last Updated:** August 20, 2026 at 17:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,440.83
+### $72,850.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.3%  
-**7d:** +14.9%  
-**30d:** +9.6%  
-**90d:** -5.6%  
-**1y:** -35.5%  
+**24h:** +6.5%  
+**7d:** +15.6%  
+**30d:** +10.2%  
+**90d:** -5.1%  
+**1y:** -35.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1452.32B
+**Market Cap:** $1462.15B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--42.6%
+-42.2%
 
 **All-Time Low:** $67.81
-+106593.7%
++107308.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Another dip before we rip? Or is this it 😸
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ Another dip before we rip? Or is this it 😸
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 🙏
 
-7h ago
+8h ago
 
 ---
 
@@ -159,9 +159,43 @@ CNBC • 4h ago
 
 ---
 
-**[Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-btc-roars-past-70-000-as-yields-sink-trump-cour)**
+**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Bloomberg.com • 8h ago
+Reuters • 2h ago
+
+---
+
+**[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Bitcoin's Odds Of Hitting $80,000 This Year Double Overnight As Price Suddenly Tops $70,000](https://www.forbes.com/sites/antoniopequenoiv/2026/08/20/bitcoins-odds-of-hitting-80000-this-year-double-overnight-as-price-suddenly-tops-70000/)**
+
+Polymarket trading pushed the odds of bitcoin hitting the benchmark by the end of the year from 30% to 60% overnight.
+
+Forbes • 17m ago
+
+---
+
+**[Bitcoin Breaks Above $72,000 as Trump, Regulators Urge Congress to Pass Clarity Act](https://www.moomoo.com/news/post/75003375/bitcoin-breaks-above-72000-as-trump-regulators-urge-congress-to)**
+
+Moomoo • 15m ago
+
+---
+
+**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
+
+Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
+
+NBC News • 1d ago
+
+---
+
+**[Bitcoin (BTC) price analysis: $180,000 targeted on Treasury buybacks](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)**
+
+CoinDesk • 1h ago
 
 ---
 
@@ -173,57 +207,19 @@ Investor's Business Daily • 5h ago
 
 ---
 
-**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
+**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
 
-Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
+Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
-NBC News • 23h ago
-
----
-
-**[Kroger Expands Fold Bitcoin Gift Card Offering After Successful Pilot](https://www.pymnts.com/blockchain/bitcoin/2026/kroger-expands-fold-bitcoin-gift-card-offering-after-successful-pilot/)**
-
-Retail and supermarket chain Kroger expanded its Fold Bitcoin Gift Card offering after completing a successful seasonal pilot, Fold Holdings said in a
-
-PYMNTS.com • 1h ago
+BlackRock • 2d ago
 
 ---
 
-**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
 
-Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
-Fox News • 1d ago
-
----
-
-**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/convicted-killer-seeks-return-of-cash-and-bitcoin-9.7312641)**
-
-The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
-
-CBC • 23h ago
-
----
-
-**[Blockchain Beyond Bitcoin: Understanding Digital Assets in Agriculture](https://www.fb.org/intel/markets/blockchain-beyond-bitcoin-understanding-digital-assets-in-agriculture)**
-
-Agriculture can benefit from blockchain through dividing assets into digital ownership shares (tokenization), traceability and alternative financing, among other applications.
-
-American Farm Bureau Federation • 3h ago
-
----
-
-**[If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today](https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-and-trump-on-inauguration-day-here-is-what-each-is-worth-today)**
-
-thestreet.com • 15d ago
-
----
-
-**[Bitcoin Price Prediction: What Price Will BTC Hit in August?](https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/)**
-
-Bitcoin trades near $63,000 going into its worst month on record. Here's where we think BTC could trade by the end of August.
-
-24/7 Wall St. • 18d ago
+VanEck • 2d ago
 
 ---
 
@@ -235,7 +231,7 @@ Bitcoin trades near $63,000 going into its worst month on record. Here's where w
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 8 • 💬 0 • 3d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 19 • 💬 0 • 3d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -267,7 +263,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 11h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 12h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -283,13 +279,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
+**[The Real Reason Bitcoin EXPLODED Today](https://www.youtube.com/watch?v=5lg5_SAWheU)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 33K • 👍 2K • 💬 139 • ⏱️ 9:45 • 6h ago
+
+---
+
 **[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
 
 50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 202 • ⏱️ 10:41 • 18h ago
+👁️ 60K • 👍 3K • 💬 152 • ⏱️ 10:41 • 18h ago
 
 ---
 
@@ -299,27 +305,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 1K • 💬 40 • ⏱️ 24:22 • 20h ago
-
----
-
-**[The Real Reason Bitcoin EXPLODED Today](https://www.youtube.com/watch?v=5lg5_SAWheU)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:45 • 6h ago
-
----
-
-**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
-
-Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 716 • 💬 456 • ⏱️ 13:12 • 1d ago
+👁️ 51K • 👍 2K • 💬 40 • ⏱️ 24:22 • 20h ago
 
 ---
 
@@ -329,7 +315,7 @@ Bitcoin finally broke out, running from roughly $64K to over $72K in two session
 
 📺 Swan Bitcoin
 
-👁️ 275 • 👍 24 • 💬 2 • ⏱️ 2:50 • 2h ago
+👁️ 1K • 👍 117 • 💬 32 • ⏱️ 2:50 • 3h ago
 
 ---
 
@@ -339,7 +325,7 @@ In today's video we go over the short squeeze that resulted in billions of dolla
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 22 • ⏱️ 39:08 • 9h ago
+👁️ 14K • 👍 1K • 💬 23 • ⏱️ 39:08 • 10h ago
 
 ---
 
@@ -349,17 +335,7 @@ Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 88K • 👍 1K • 💬 360 • ⏱️ 8:10 • 2d ago
-
----
-
-**[Earn Bitcoin with your Phone in just 10 Minutes!](https://www.youtube.com/watch?v=9rhMWKHQvI4)**
-
-Direct Link to Sign-Up for Kryptex Entire Free ➡ https://geni.us/KryptexPC ⛏ Link to Tryout Kryptex with your Crypto Mining ...
-
-📺 The Hobbyist Miner
-
-👁️ 13K • 👍 473 • 💬 47 • ⏱️ 10:33 • 1d ago
+👁️ 89K • 👍 1K • 💬 363 • ⏱️ 8:10 • 2d ago
 
 ---
 
@@ -369,7 +345,17 @@ No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple 
 
 📺 Gareth Soloway
 
-👁️ 71K • 👍 4K • 💬 513 • ⏱️ 10:20 • 1d ago
+👁️ 72K • 👍 4K • 💬 515 • ⏱️ 10:20 • 1d ago
+
+---
+
+**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
+
+Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
+
+📺 Crypto Capital Venture
+
+👁️ 21K • 👍 1K • 💬 535 • ⏱️ 22:30 • 17h ago
 
 ---
 
@@ -379,7 +365,17 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 14K • 👍 901 • 💬 99 • ⏱️ 8:08 • 11h ago
+👁️ 15K • 👍 944 • 💬 127 • ⏱️ 8:08 • 12h ago
+
+---
+
+**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=9avrSmPczP4)**
+
+Come to the 1st ITC Conference (Ticket Prices go Up September 1st): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 113K • 👍 6K • 💬 500 • ⏱️ 16:32 • 13h ago
 
 ---
 
