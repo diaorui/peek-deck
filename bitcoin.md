@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T10:30:39.366129+00:00'
+updated: '2026-08-20T10:59:46.017298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 10:30 UTC  
+**Last Updated:** August 20, 2026 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 Another dip before we rip? Or is this it 😸
 
-33m ago
+1h ago
 
 ---
 
@@ -121,13 +121,13 @@ Another dip before we rip? Or is this it 😸
 
 🙏
 
-45m ago
+1h ago
 
 ---
 
 **[Next stop 700k](https://www.reddit.com/r/Bitcoin/comments/1vtdmzg/next_stop_700k/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Another dip before we rip? Or is this it 😸
 
 What are your thoughts???
 
-1h ago
+2h ago
 
 ---
 
@@ -161,13 +161,13 @@ CNBC • 5h ago
 
 Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.
 
-Forbes • 38m ago
+Forbes • 1h ago
 
 ---
 
 **[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 1h ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 16h ago
+NBC News • 17h ago
 
 ---
 
@@ -251,7 +251,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 4h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 5h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 713 • 💬 412 • ⏱️ 13:12 • 19h ago
+👁️ 12K • 👍 713 • 💬 412 • ⏱️ 13:12 • 20h ago
 
 ---
 

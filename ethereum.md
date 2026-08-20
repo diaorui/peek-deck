@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T10:30:39.370890+00:00'
+updated: '2026-08-20T10:59:46.021467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 10:30 UTC  
+**Last Updated:** August 20, 2026 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -154,7 +154,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ FXStreet • 10h ago
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 18h ago
+Benzinga • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Block • 18h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 12h ago
+MarketForces Africa • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinDesk • 1d ago
 
 Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
 
-Coinpedia • 3h ago
+Coinpedia • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 361 • 💬 195 • ⏱️ 26:28 • 11h ago
+👁️ 8K • 👍 361 • 💬 195 • ⏱️ 26:28 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 402 • 💬 157 • ⏱️ 14:57 • 13h ago
+👁️ 6K • 👍 402 • 💬 157 • ⏱️ 14:57 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 453 • 💬 73 • ⏱️ 19:03 • 6h ago
+👁️ 5K • 👍 453 • 💬 73 • ⏱️ 19:03 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 713 • 💬 413 • ⏱️ 13:12 • 19h ago
+👁️ 12K • 👍 713 • 💬 413 • ⏱️ 13:12 • 20h ago
 
 ---
 
