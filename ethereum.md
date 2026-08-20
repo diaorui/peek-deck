@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T05:59:03.055246+00:00'
+updated: '2026-08-20T06:59:08.960301+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 05:59 UTC  
+**Last Updated:** August 20, 2026 at 06:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +17.6%  
-**7d:** +19.8%  
-**30d:** +16.6%  
-**90d:** +6.4%  
-**1y:** -46.7%  
+**24h:** +18.1%  
+**7d:** +20.2%  
+**30d:** +17.0%  
+**90d:** +6.7%  
+**1y:** -46.5%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 6h ago
+FXStreet • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ FXStreet • 6h ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -170,15 +170,7 @@ The Motley Fool • 12h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 13h ago
-
----
-
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
-
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
-
-MarketForces Africa • 8h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -186,7 +178,15 @@ MarketForces Africa • 8h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 13h ago
+The Block • 14h ago
+
+---
+
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+
+dmarketforces.com • 9h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 1d ago
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 14h ago
+The Defiant • 15h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Defiant • 14h ago
 
 ZisK claimed 9.62-second p99 fits Ethereum's latency target, while workload, proof and whole-system power details remain undisclosed.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -216,13 +216,13 @@ CryptoSlate • 22h ago
 
 MONACO, Aug.  19, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale announces its next launch reveal timeline...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
 **[Ethereum Climbs 10% In Rally](https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-in-rally-4868091)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 6K • 👍 311 • 💬 180 • ⏱️ 26:28 • 7h ago
+👁️ 6K • 👍 311 • 💬 180 • ⏱️ 26:28 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 381 • 💬 129 • ⏱️ 14:57 • 9h ago
+👁️ 6K • 👍 381 • 💬 129 • ⏱️ 14:57 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 673 • 💬 299 • ⏱️ 28:47 • 20h ago
+👁️ 7K • 👍 673 • 💬 299 • ⏱️ 28:47 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 204 • 💬 21 • ⏱️ 6:58 • 10h ago
+👁️ 5K • 👍 204 • 💬 21 • ⏱️ 6:58 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 229 • 💬 30 • ⏱️ 19:03 • 2h ago
+👁️ 2K • 👍 229 • 💬 30 • ⏱️ 19:03 • 3h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 707 • 💬 362 • ⏱️ 13:12 • 15h ago
+👁️ 12K • 👍 707 • 💬 362 • ⏱️ 13:12 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 8K • 👍 465 • 💬 10 • ⏱️ 1:38:08 • 12h ago
+👁️ 8K • 👍 465 • 💬 10 • ⏱️ 1:38:08 • 13h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum & BMNR Breakout: Why ETH Is Surging, Tom Lee, Robinhood Chain & Tokeniz
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 98 • 💬 10 • ⏱️ 23:35 • 7h ago
+👁️ 2K • 👍 98 • 💬 10 • ⏱️ 23:35 • 8h ago
 
 ---
 
@@ -314,7 +314,7 @@ Ethereum & BMNR Breakout: Why ETH Is Surging, Tom Lee, Robinhood Chain & Tokeniz
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 56 • 💬 33 • ⏱️ 0:34 • 6h ago
+👁️ 2K • 👍 56 • 💬 33 • ⏱️ 0:34 • 7h ago
 
 ---
 

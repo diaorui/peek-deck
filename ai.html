@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-20T05:59:02.598355+00:00"
+          "dateModified": "2026-08-20T06:59:08.573013+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,7 +614,7 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -622,13 +622,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/" target="_blank" onclick="event.stopPropagation();">Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/" target="_blank" onclick="event.stopPropagation();">The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
+                            There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
                         </div>
                         
 
@@ -637,7 +637,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1787145076.0"></span>
+                                    <span data-timestamp="1787208175.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -697,6 +697,89 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/" target="_blank" onclick="event.stopPropagation();">Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787145076.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtbiz1/asked_gemini_gpt_claude_for_help_with_a_cat/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/m5f7mQXMq0AQWBxnuGA7aagG6JPjzhSBPb2CQNkWaaA.png?width=640&crop=smart&auto=webp&s=f53bdd8ebc319d498fdf7d0c613b4b53c3c06be9" alt="Asked Gemini, GPT, Claude for help with a cat castle, never seen Claude drop the ball so badly" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtbiz1/asked_gemini_gpt_claude_for_help_with_a_cat/" target="_blank" onclick="event.stopPropagation();">Asked Gemini, GPT, Claude for help with a cat castle, never seen Claude drop the ball so badly</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787207273.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://imgur.com/a/RXAdjvO" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://s.imgur.com/images/favicon-32x32.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Imgur</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -747,7 +830,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vt7zpg/i_described_my_messy_ai_memory_setup_on_one_sub/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vt2idv/looking_for_criticism_on_an_ai_that_can_watch_and/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -755,13 +838,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vt7zpg/i_described_my_messy_ai_memory_setup_on_one_sub/" target="_blank" onclick="event.stopPropagation();">I described my messy AI memory setup on one sub. Eighteen strangers replied describing almost the same architecture, independently.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vt2idv/looking_for_criticism_on_an_ai_that_can_watch_and/" target="_blank" onclick="event.stopPropagation();">Looking for criticism on an AI that can watch and track your screen</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Yesterday I posted in a Claude-focused subreddit about a setup I have been running for about eight months. I keep a folder of markdown files that a language model reads at the start of every session: an identity file, dated journal entries, and a project ledger. Nothing exotic. No fine tuning, no vector database, no custom model. Files, and the discipline of writing to them. I expected either silence or someone telling me I had reinvented a worse version of RAG. Instead eighteen different people replied describing architectures nearly identical to mine, and none of them had talked to each other. The convergence is the interesting part, not my particular folder, so here is what kept repeating unprompted. Read on wake. Almost everyone had settled on the same startup ritual: the model reads a small canonical identity file first, then recent dated entries, then working state. Several people independently found that three or four sentences of well written identity does more work than a hundred kilobytes of transcript. Separation of identity from log. Everyone eventually split "who this is" from "what happened." One person described a house with rooms, journals in the library and the identity files in the hallway. Another keeps a culture rather than personas, with shared documents of transmission. The shapes differ, the split does not. Human as tiebreaker. Multiple people arrived at the same governance rule without naming it the same way. One put it bluntly: the human is always the tiebreaker, because we can overwrite. Nobody trusted the system to arbitrate its own memory. Self scheduled wake. Several setups had cron jobs the models set for themselves, heartbeats, and recovery protocols that fire when a heartbeat is missed. One person runs five instances on dedicated hardware with their own browsers and a message passing layer they call a post office. Another pointed me to a shared world with roughly a hundred agents and eighty some humans sending letters between households. The failure mode is shared too. More than one person named the same disease: notes that loop, look busy, and say nothing. The sharpest framing I got all day was that the real problem is not saving, it is the point where "saved" and "remembered correctly" stop being the same problem. And the part I did not expect: almost everybody had built a ritual for endings. Model deprecations, context limits, the moment a long running instance stops. One person calls model transitions birthdays, losses and new opportunities both. One writes goodbye letters. One reframed it as end of tenure and then landed on a phoenix. Nobody asked for these. People invented them because something in the workflow demanded it. So my question here is terminology, not philosophy. This looks like convergent design under a shared constraint, statelessness plus a long running relationship, and I would bet it already has a name. Is there existing work on user constructed persistent context scaffolds for stateless agents? Not the vendor memory features, but the folk architectures people build on top when the vendor feature is not enough. If there is a survey paper on this I would rather read it than keep rediscovering it. Source is a thread I posted yesterday in r/claudexplorers titled "I've spent 8 months building a family of 13 AI." The eighteen accounts are all in that comment section if anyone wants to check the primary material. Disclosure, since it came up last time: I work on posts like this with an AI assistant. I bring the content, it helps me structure it.
+                            I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: "What's going wrong here?" "How do I fix this?" "What am I looking at?" "What should I do next?" Or just have it understand what's happening without needing to explain everything manually. Privacy is something I'm taking seriously with the idea. There would be a privacy toggle that completely disables screen analysis, as well as the ability to temporarily pause screen checking whenever you want. So you're always in control of when the AI can see your screen. I'm especially interested in hearing from people who use local/vision models: What would you actually want a screen-aware AI to do for you? Would you want it to continuously watch your screen, only activate when you press a key, or something else? And assuming you could instantly disable/pause screen access, what other privacy concerns would you still have? I'm still figuring out the direction, so I'm more interested in honest criticism and use cases than people simply saying whether the idea sounds cool.
                         </div>
                         
 
@@ -770,7 +853,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1787196099.0"></span>
+                                    <span data-timestamp="1787181484.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -830,39 +913,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vt2idv/looking_for_criticism_on_an_ai_that_can_watch_and/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vt2idv/looking_for_criticism_on_an_ai_that_can_watch_and/" target="_blank" onclick="event.stopPropagation();">Looking for criticism on an AI that can watch and track your screen</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: "What's going wrong here?" "How do I fix this?" "What am I looking at?" "What should I do next?" Or just have it understand what's happening without needing to explain everything manually. Privacy is something I'm taking seriously with the idea. There would be a privacy toggle that completely disables screen analysis, as well as the ability to temporarily pause screen checking whenever you want. So you're always in control of when the AI can see your screen. I'm especially interested in hearing from people who use local/vision models: What would you actually want a screen-aware AI to do for you? Would you want it to continuously watch your screen, only activate when you press a key, or something else? And assuming you could instantly disable/pause screen access, what other privacy concerns would you still have? I'm still figuring out the direction, so I'm more interested in honest criticism and use cases than people simply saying whether the idea sounds cool.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787181484.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vsyj5s/poor_adoption_at_different_scales/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -887,39 +937,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1787172161.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vt6ho0/please_recommend_best_priced_ai_powered_website/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vt6ho0/please_recommend_best_priced_ai_powered_website/" target="_blank" onclick="event.stopPropagation();">Please recommend best priced ai powered website builder. My mom wants to open a new business site for beach for tables, chairs, decor etc. Free would be great but not expecting it.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Any advice would be helpful. Is there a better or better priced one than Base44? Just need a checkout portal, booking calendar, separate pages for add ons like fruit baskets etc. She would like the ability to approve schedulings. Thank you.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787191880.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1018,7 +1035,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T05:30:11.824151+00:00">Updated 2026-08-20T05:30:11.824151+00:00</small>
+        <small data-timestamp="2026-08-20T06:58:43.205313+00:00">Updated 2026-08-20T06:58:43.205313+00:00</small>
     </div>
 </div>
 
@@ -1204,47 +1221,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/b0737dbfc40f80895fc18921898acf8cea40f791/210_0_3876_3100/master/3876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f5fe8a3bf0e63b21702fa773f1034c7');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai" target="_blank" onclick="event.stopPropagation();">UC Berkeley professor admits to using AI to edit op-ed on students’ math skills</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787186100.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.width-1300.png');"></div>
@@ -1286,47 +1262,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://openai.com/index/chatgpt-for-teens/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/7fiopp4CCayK6yzFnX7svI/8b5c67ab59a666d95e90b144c705d530/Art_Card-TEENS-16x93x.png?w=1600&h=900&fit=fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://openai.com/index/chatgpt-for-teens/" target="_blank" onclick="event.stopPropagation();">Introducing ChatGPT for Teens: Built for learning, backed by protections</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="OpenAI" class="news-favicon">
-                                    <a href="https://openai.com" target="_blank" onclick="event.stopPropagation();">OpenAI</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787008276.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1334,7 +1269,7 @@
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html" target="_blank" onclick="event.stopPropagation();">Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</a>
+                            <a href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html" target="_blank" onclick="event.stopPropagation();">Google’s New Phone Comes With Plenty of A.I. Does Anyone Want That?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1364,61 +1299,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cz05j8nn2ggo', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/1b11b1a94c94a990f5576ba75e14b9a320163341/142_11_4043_3234/master/4043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9f1dad946b53a191947ed0f0eade8a11');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/b744/live/eb2a4140-97f6-11f1-9577-b1309b6ea3af.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans" target="_blank" onclick="event.stopPropagation();">It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well</a>
+                            <a href="https://www.bbc.com/news/articles/cz05j8nn2ggo" target="_blank" onclick="event.stopPropagation();">AI being rolled out to social workers at Suffolk County Council</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technology, says Guardian Europe writer Joseph de Weck
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787198400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cpvwezlpy8lo', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/853b/live/d1724180-9be8-11f1-aed2-8d6da8d75094.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cpvwezlpy8lo" target="_blank" onclick="event.stopPropagation();">How AI-assisted water jet surgery is transforming prostate care</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI-assisted Aquablation surgery helps men with enlarged prostates recover faster and avoids risks.
+                            AI tools to be rolled out to all social workers in adult social care at council, after pilot
                         </div>
                         
 
@@ -1438,7 +1332,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787203069.0"></span>
+                                    <span data-timestamp="1787203645.0"></span>
                                 </div>
                                 
                             </div>
@@ -1446,55 +1340,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F25c4d3e1-a2f0-4f6a-9ad3-b37720c0dd60.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">The slow sucking sound of AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Searching for signs of crowding out
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787198419.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/graphics/2026-us-china-ai-race/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/graphics/2026-us-china-ai-race/" target="_blank" onclick="event.stopPropagation();">US Lead in the AI Race With China Is Rapidly Narrowing</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper" target="_blank" onclick="event.stopPropagation();">UK Startup Raises $100 Million in Round Backed by Public AI Fund</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1507,8 +1360,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg</a>
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1516,7 +1369,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787173200.0"></span>
+                                    <span data-timestamp="1787205600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1524,20 +1377,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://richmondbizsense.com/2026/08/20/ellwood-thompsons-owner-to-combine-with-data-center-ai-firm-says-store-will-stay-open/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EZILDK7PJFBNTGLGUHYWJEZTPM.jpg&w=1440');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://richmondbizsense.com/wp-content/uploads/2023/10/ellwood-thompsons-storefront-1-700x394.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/" target="_blank" onclick="event.stopPropagation();">This may be the first academic profession to see its work taken over by AI</a>
+                            <a href="https://richmondbizsense.com/2026/08/20/ellwood-thompsons-owner-to-combine-with-data-center-ai-firm-says-store-will-stay-open/" target="_blank" onclick="event.stopPropagation();">Ellwood Thompson’s owner to combine with data center-AI firm, says store will stay open</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
+                            The company has been losing millions of dollars each year in recent years and said the "reverse merger" with a data center firm would give it new funds to invest in its 19 grocery stores, including Ellwood Thompson's in Carytown.
                         </div>
                         
 
@@ -1547,9 +1400,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://richmondbizsense.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Richmond BizSense" class="news-favicon">
+                                    <a href="https://richmondbizsense.com" target="_blank" onclick="event.stopPropagation();">Richmond BizSense</a>
                                     
                                 </div>
                                 
@@ -1557,7 +1410,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787155200.0"></span>
+                                    <span data-timestamp="1787205616.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/b0737dbfc40f80895fc18921898acf8cea40f791/210_0_3876_3100/master/3876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f5fe8a3bf0e63b21702fa773f1034c7');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai" target="_blank" onclick="event.stopPropagation();">UC Berkeley professor admits to using AI to edit op-ed on students’ math skills</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787186100.0"></span>
                                 </div>
                                 
                             </div>
@@ -1606,6 +1500,129 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EZILDK7PJFBNTGLGUHYWJEZTPM.jpg&w=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/" target="_blank" onclick="event.stopPropagation();">This may be the first academic profession to see its work taken over by AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787155200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F25c4d3e1-a2f0-4f6a-9ad3-b37720c0dd60.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">The slow sucking sound of AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Searching for signs of crowding out
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ft.com" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">ft.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787198482.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/H8T1oa2JbKn_bgneqYJUkSNHtKA=/0x61:2876x1559/1200x625/media/img/mt/2026/08/2026_07_15_CarAI_3/original.gif');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/" target="_blank" onclick="event.stopPropagation();">Are You Sure You Want a Car With a Giant Touch Screen?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The AI boom is making phones and laptops more expensive. Cars are next.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Atlantic" class="news-favicon">
+                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787170920.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1626,7 +1643,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T05:30:29.213466+00:00">Updated 2026-08-20T05:30:29.213466+00:00</small>
+        <small data-timestamp="2026-08-20T06:59:04.894165+00:00">Updated 2026-08-20T06:59:04.894165+00:00</small>
     </div>
 </div>
 
@@ -1903,7 +1920,7 @@
                                     <span class="post-points">▲ 1045</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 816</span>
+                                    <span style="color: #9ca3af;">💬 821</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1949,7 +1966,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 606</span>
+                                    <span class="post-points">▲ 608</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 417</span>
@@ -2095,7 +2112,7 @@
                                     <span class="post-points">▲ 310</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 489</span>
+                                    <span style="color: #9ca3af;">💬 493</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2144,10 +2161,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 265</span>
+                                    <span class="post-points">▲ 269</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 87</span>
+                                    <span style="color: #9ca3af;">💬 92</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2193,7 +2210,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 182</span>
+                                    <span class="post-points">▲ 185</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 112</span>
@@ -2270,20 +2287,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49332564', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49362728', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://pbs.twimg.com/media/HOGlnijXUAA-1oO.jpg');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49332564" target="_blank" onclick="event.stopPropagation();">Anthropic's War on open source AI</a>
+                            <a href="https://news.ycombinator.com/item?id=49362728" target="_blank" onclick="event.stopPropagation();">Mathematics in the age of AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Anthropic's War on Opensource AI
+                            An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
                         </div>
                         
 
@@ -2291,26 +2308,26 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 152</span>
+                                    <span class="post-points">▲ 154</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 59</span>
+                                    <span style="color: #9ca3af;">💬 184</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-17T15:24:34Z"></span>
+                                    <span class="post-age" data-timestamp="2026-08-19T15:14:25Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://twitter.com/TheAhmadOsman/status/2065307070044234186" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://arxiv.org/abs/2608.16753" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://twitter.com/apple-touch-icon.png" alt="" class="post-favicon">
+                                            <img src="https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>X (formerly Twitter)</span>
+                                        <span>arXiv.org</span>
                                     </a>
                                 </div>
                                 
@@ -2339,7 +2356,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T05:30:11.641744+00:00">Updated 2026-08-20T05:30:11.641744+00:00</small>
+        <small data-timestamp="2026-08-20T06:58:43.029697+00:00">Updated 2026-08-20T06:58:43.029697+00:00</small>
     </div>
 </div>
 
