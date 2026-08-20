@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T20:58:27.168916+00:00'
+updated: '2026-08-20T21:34:13.716183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 20:58 UTC  
+**Last Updated:** August 20, 2026 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-4h ago
+5h ago
 
 ---
 
@@ -76,7 +76,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 1h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 2h ago
 
 ---
 
@@ -108,7 +108,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 One thing I've noticed with vertical linear axes is that deciding the travel length seems surprisingly difficult. A robot might only need to reach from the floor to a work surface today, but the required workspace can change depending on the task — different working heights, payloads, tools, or even where the robot needs to position itself. The challenge is that the travel is often a decision you have to make early. Too little and you can end up rebuilding the mechanism later; too much can add unnecessary size, weight, cost, and mechanical complexity. For those who have designed robots with a vertical linear axis: how do you determine the required travel before the robot is fully built? Do you mainly calculate it from the expected workspace and mechanism geometry, or do you typically add some extra travel as a margin?
 
-6h ago
+7h ago
 
 ---
 
@@ -120,7 +120,7 @@ One thing I've noticed with vertical linear axes is that deciding the travel len
 
 Companies are selling machines to government-backed centres that then sell training data back to robot makers
 
-Financial Times • 18h ago
+Financial Times • 19h ago
 
 ---
 
@@ -150,7 +150,7 @@ KEYE • 17h ago
 
 The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
 
-USA Today • 3h ago
+USA Today • 4h ago
 
 ---
 
@@ -172,7 +172,7 @@ Construction Dive • 1d ago
 
 New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
 
-Intel Newsroom • 7h ago
+Intel Newsroom • 8h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Conversation • 1d ago
 
 **[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ Chinese robot makers showed off humanoids sorting parcels, packing mobile phones
 
 📺 Firstpost
 
-👁️ 8K • 👍 60 • 💬 3 • ⏱️ 0:32 • 8h ago
+👁️ 8K • 👍 60 • 💬 3 • ⏱️ 0:32 • 9h ago
 
 ---
 
@@ -260,7 +260,7 @@ How do depth cameras power physical AI and robotics? Amber Cobb visits the @Real
 
 📺 OnLogic
 
-👁️ 8 • ⏱️ 0:40 • 1h ago
+👁️ 8 • ⏱️ 0:40 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ Can The Twins continue their run of success when they take on the most experienc
 
 📺 BattleBots
 
-👁️ 3K • 👍 213 • 💬 9 • 58m ago
+👁️ 3K • 👍 213 • 💬 9 • 1h ago
 
 ---
 

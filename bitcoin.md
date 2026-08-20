@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T20:58:27.159663+00:00'
+updated: '2026-08-20T21:34:13.708108+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 20:58 UTC  
+**Last Updated:** August 20, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Another dip before we rip? Or is this it 😸
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-8h ago
+9h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,19 +107,19 @@ Another dip before we rip? Or is this it 😸
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-7h ago
+8h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-12h ago
+13h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Another dip before we rip? Or is this it 😸
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 Pump it up
 
-8h ago
+9h ago
 
 ---
 
@@ -155,13 +155,13 @@ Pump it up
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Bitcoin (BTC) price analysis: $180,000 targeted on Treasury buybacks](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)**
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ NBC News • 1d ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -199,7 +199,7 @@ ETF Database • 3h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 5h ago
 
 Stuart Varney tracks the opening bell as markets slide. Coinbase CEO Brian Armstrong discusses the CLARITY Act's Senate prospects and Bitcoin's surge.
 
-Fox Business • 6h ago
+Fox Business • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ KITCO • 6h ago
 
 Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and agencies.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -281,7 +281,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 145 • ⏱️ 10:41 • 21h ago
+👁️ 64K • 👍 3K • 💬 145 • ⏱️ 10:41 • 22h ago
 
 ---
 
@@ -291,7 +291,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 45K • 👍 2K • 💬 146 • ⏱️ 9:45 • 9h ago
+👁️ 45K • 👍 2K • 💬 146 • ⏱️ 9:45 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 40 • ⏱️ 24:22 • 23h ago
+👁️ 53K • 👍 2K • 💬 40 • ⏱️ 24:22 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 24K • 👍 3K • 💬 2 • ⏱️ 15:22 • 8h ago
+👁️ 24K • 👍 3K • 💬 2 • ⏱️ 15:22 • 9h ago
 
 ---
 
