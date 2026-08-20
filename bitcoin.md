@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T15:33:26.866083+00:00'
+updated: '2026-08-20T16:35:18.775044+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 15:33 UTC  
+**Last Updated:** August 20, 2026 at 16:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,682.45
+### $72,440.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.5%  
-**7d:** +13.6%  
-**30d:** +8.4%  
-**90d:** -6.7%  
-**1y:** -36.3%  
+**24h:** +6.3%  
+**7d:** +14.9%  
+**30d:** +9.6%  
+**90d:** -5.6%  
+**1y:** -35.5%  
 
 ---
 
@@ -81,31 +81,31 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-5h ago
+6h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-3h ago
+4h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-7h ago
+8h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-5h ago
+6h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Another dip before we rip? Or is this it 😸
 
 I can sell a little bit now, and buy back when the squeeze is done.
 
-2h ago
+3h ago
 
 ---
 
@@ -121,13 +121,13 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-2h ago
+3h ago
 
 ---
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 🙏
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ I can sell a little bit now, and buy back when the squeeze is done.
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-40m ago
+1h ago
 
 ---
 
@@ -151,39 +151,17 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
+**[Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act](https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html)**
 
-Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
+Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 10h ago
-
----
-
-**[1D NetFlow: +6,603 $Bitcoin (BTC.CC)$ (+$472.2M)🟢 7D NetFlow: +11,149 $Bitcoin (BTC.CC)$ (+$797.21M)🟢](https://www.moomoo.com/community/feed/august-20-update-bitcoin-etfs-1d-netflow-6-603-bitcoin-117128205041669)**
-
-@Lookonchain 7322 Views
-
-Moomoo • 1h ago
-
----
-
-**[Crypto Comeback? Bitcoin, Ethereum Head for Best Day in Months](https://www.moomoo.com/news/post/75011097/crypto-comeback-bitcoin-ethereum-head-for-best-day-in-months)**
-
-Moomoo • 1h ago
+CNBC • 3h ago
 
 ---
 
 **[Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-btc-roars-past-70-000-as-yields-sink-trump-cour)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
-
-Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
-
-NBC News • 21h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -191,23 +169,23 @@ NBC News • 21h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
+**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
 
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
+Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-BlackRock • 2d ago
+NBC News • 22h ago
 
 ---
 
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+**[Kroger Expands Fold Bitcoin Gift Card Offering After Successful Pilot](https://www.pymnts.com/blockchain/bitcoin/2026/kroger-expands-fold-bitcoin-gift-card-offering-after-successful-pilot/)**
 
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+Retail and supermarket chain Kroger expanded its Fold Bitcoin Gift Card offering after completing a successful seasonal pilot, Fold Holdings said in a
 
-VanEck • 1d ago
+PYMNTS.com • 27m ago
 
 ---
 
@@ -219,17 +197,47 @@ Fox News • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months](https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291)**
+**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/convicted-killer-seeks-return-of-cash-and-bitcoin-9.7312641)**
 
-Analysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.
+The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
 
-The Block • 8h ago
+CBC • 23h ago
+
+---
+
+**[Blockchain Beyond Bitcoin: Understanding Digital Assets in Agriculture](https://www.fb.org/intel/markets/blockchain-beyond-bitcoin-understanding-digital-assets-in-agriculture)**
+
+Agriculture can benefit from blockchain through dividing assets into digital ownership shares (tokenization), traceability and alternative financing, among other applications.
+
+American Farm Bureau Federation • 3h ago
+
+---
+
+**[If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today](https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-and-trump-on-inauguration-day-here-is-what-each-is-worth-today)**
+
+thestreet.com • 15d ago
+
+---
+
+**[Bitcoin Price Prediction: What Price Will BTC Hit in August?](https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/)**
+
+Bitcoin trades near $63,000 going into its worst month on record. Here's where we think BTC could trade by the end of August.
+
+24/7 Wall St. • 18d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[MostroEuropa – A European P2P Bitcoin Coordinator Built on Lightning and Nostr](https://news.ycombinator.com/item?id=49328436)**
+
+Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
+
+⬆️ 8 • 💬 0 • 3d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+
+---
 
 **[Bitcoin: I'm retarded. ASM client/server project in the works](https://news.ycombinator.com/item?id=49326976)**
 
@@ -259,15 +267,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 9h ago • [Strike a Block](https://strikeablock.com/)
-
----
-
-**[MostroEuropa – A European P2P Bitcoin Coordinator Built on Lightning and Nostr](https://news.ycombinator.com/item?id=49328436)**
-
-Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
-
-⬆️ 1 • 💬 0 • 3d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 10h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -289,7 +289,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 202 • ⏱️ 10:41 • 16h ago
+👁️ 55K • 👍 3K • 💬 202 • ⏱️ 10:41 • 17h ago
 
 ---
 
@@ -299,7 +299,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 1K • 💬 40 • ⏱️ 24:22 • 18h ago
+👁️ 49K • 👍 1K • 💬 40 • ⏱️ 24:22 • 19h ago
 
 ---
 
@@ -309,7 +309,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:45 • 4h ago
+👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:45 • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin finally broke out, running from roughly $64K to over $72K in two session
 
 📺 Swan Bitcoin
 
-👁️ 275 • 👍 24 • 💬 2 • ⏱️ 2:50 • 37m ago
+👁️ 275 • 👍 24 • 💬 2 • ⏱️ 2:50 • 1h ago
 
 ---
 
@@ -339,7 +339,7 @@ In today's video we go over the short squeeze that resulted in billions of dolla
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 22 • ⏱️ 39:08 • 7h ago
+👁️ 13K • 👍 1K • 💬 22 • ⏱️ 39:08 • 8h ago
 
 ---
 
@@ -369,7 +369,7 @@ No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple 
 
 📺 Gareth Soloway
 
-👁️ 71K • 👍 4K • 💬 513 • ⏱️ 10:20 • 22h ago
+👁️ 71K • 👍 4K • 💬 513 • ⏱️ 10:20 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 14K • 👍 901 • 💬 99 • ⏱️ 8:08 • 9h ago
+👁️ 14K • 👍 901 • 💬 99 • ⏱️ 8:08 • 10h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-20T15:33:26.579164+00:00"
+          "dateModified": "2026-08-20T16:35:18.286221+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,7 +647,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -655,13 +655,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/" target="_blank" onclick="event.stopPropagation();">The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/" target="_blank" onclick="event.stopPropagation();">ROI on AI workflow tools feels fake right now and i want to be wrong</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
+                            been trying to automate a chunk of my customer onboarding process for my saas. nothing fancy, just reducing the back and forth emails that eat up like 2 hours a week. spent probably 6 hours across three evenings testing different AIassisted tools and prompt setups to make it work smoothly. the math on that is not great. and i keep running into this thing where the setup cost is real and upfront but the payoff is theoretical and later. which is fine in principle but when you're bootstrapped and wearing every hat, "later" feels very abstract. what i actually want to know is whether other people building small products are finding a point where AI genuinely clicks for operational stuff, or if we're all just in a weird middle period where the tools are impressive in demos and annoying in practice. not talking about coding assistants, those seem to work. more like the workflow automation layer where you're trying to get AI to handle judgment calls that are almost routine but not quite. curious if the costtosetup ratio has ever actually flipped positive for anyone doing real small business ops, or if i just keep picking the wrong tools.
                         </div>
                         
 
@@ -670,7 +670,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1787208175.0"></span>
+                                    <span data-timestamp="1787237721.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -730,6 +730,206 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/" target="_blank" onclick="event.stopPropagation();">The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787208175.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/" target="_blank" onclick="event.stopPropagation();">Open source is trending hard today: hot take thread</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Everyone's talking about Open source right now. The main story: mojo is now open source. One take in the thread that got me thinking: 'How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity'. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787239311.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/" target="_blank" onclick="event.stopPropagation();">my coding agent approved its own pagination bug lol</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            had a stupid one last week. an agent changed some pagination code in a sync job. tests passed, PR looked fine, then staging stopped at exactly 100 records because the cursor wasn't updating. the funny part is i had the same agent review the change before merging it. it found nothing wrong with its own code. shocking. since then i've stopped letting the writer review itself. now i open a separate minimax m3 session, drop in the diff plus whatever repo context it actually needs, and ask it to look for ways the change could fail. first time i tried it, it spotted two null cases i'd missed too. curious if anyone else does writer/reviewer with separate agents. do you also have the reviewer run tests, or just inspect the diff?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787237161.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vto7hs/what_if_sovereign_ai_is_just_the_new_oil/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/g1t6mnq43kkh1.png?width=640&crop=smart&auto=webp&s=1af44e98c7a7909f8bd69d373740e2609cd9683d" alt="What if “Sovereign AI” is just the new oil concession?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vto7hs/what_if_sovereign_ai_is_just_the_new_oil/" target="_blank" onclick="event.stopPropagation();">What if “Sovereign AI” is just the new oil concession?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been getting more interested in Sovereign AI recently and came across this paper: https://arxiv.org/abs/2601.11763 ... (The picture on the post though ai generated by me, are inferred strictly from this paper) The oil comparison sounded a bit dramatic at first, but the more I read, the more interesting it got. The part that stuck with me: Sovereignty isn’t one thing. It can mean control over data, infrastructure, domestic capability, culture/language, or freedom from external dependence. A country can have local infrastructure and still be heavily dependent on the company that provides the chips, software, models, expertise, etc. The paper draws a parallel with oil-producing countries that gained formal control but remained dependent on foreign technical knowledge and vendor-specific infrastructure. So the useful question isn’t really “Is this sovereign?” but “What capabilities and control actually moved to the customer?” That last one feels like the important test. And looking at what’s happening now in enterprise agent AI, you can see different companies attacking different parts of that problem: NVIDIA on sovereign compute/infrastructure, Mistral around locally controlled models, Microsoft with an agent control plane, and Lyzr with a control plane sitting across frameworks/clouds to govern the agents you already have. It makes me think that “sovereign AI” might eventually be less about owning one stack and more about how much of the stack you can actually control without depending on the vendor. That feels like a much harder — and more useful — definition of sovereignty.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787243053.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vto66x/is_gemini_deliberately_dishonest/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vto66x/is_gemini_deliberately_dishonest/" target="_blank" onclick="event.stopPropagation();">Is Gemini deliberately dishonest?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Whenever I ask Gemini on Android, about my past conversations with it, it claims that it works on a privacy model where it only knows about the current conversation. Trying to deliberately ask it what it knows about me, it claims nothing. However, occasionally it will make a reference to something I said many months ago. (Example, had a conversation about Rhododendron Honey and months later it referenced that previous conversation despite claiming not to remember anything about me). It makes me wonder if Google has told it to lie about not having access to previous conversations so people get less worried about privacy. I honestly find it more worrying that it claims to store nothing (but clearly does) than ChatGPT/Claude which you can ask questions directly about what it has remembered about you, and past conversations. I kinda find Gemini's dishonesty a bit concerning as it is deliberate deceit.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787242976.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtm44z/10_ai_engineering_updates_for_aug_20_runtime/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vtm44z/10_ai_engineering_updates_for_aug_20_runtime/" target="_blank" onclick="event.stopPropagation();">10 AI engineering updates for Aug 20: runtime fixes, inference overhead, and agent research</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Today's useful AI updates are mostly operational: callback safety, task-runner liveness, metadata overhead, compatibility fixes, and what current agent research still cannot assume. The release items below are direct product changes. Paper results are author-reported, not independent reproductions. **Pydantic AI 2.32.1** rejects nested `run_sync()` calls from synchronous callbacks inside agent runs. It also avoids empty-signature Anthropic thinking blocks and broadens callable support for `FunctionModel`. **Ollama 0.32.15** adds a model-metadata cache to reduce per-request overhead. It is a prerelease, and the maintainer did not publish a general latency benchmark. **n8n 2.35.5** no longer restarts task runners merely because they are slow. The release also initializes the expression engine only when needed and releases test webhooks after teardown. **Transformers 5.15.1** fixes DFlash, the MTP candidate generator, Gemma 4 video device mapping, and a CUDA Lanczos fallback that now uses bicubic interpolation. **LangChain Core 1.6.0** adds standard model exceptions, fails fast on unresolved tool-schema forward references, and tightens nested required-field handling. **SPADE** pairs an LLM environment designer with a reasoning agent. The authors report an average gain of 5.3 points across eight held-out benchmarks. **Latent multi-agent coordination** studies agents coordinating through latent states outside the public transcript, with shared event IDs connecting private, channel, and public actions. **More inference compute does not guarantee a strategy change.** The authors report that agents often commit to a strategy early and optimize it locally; more prompting, scaffolding, or compute did not reliably trigger spontaneous reconsideration. **GS-VLA** reports that a camera-viewpoint shift can reduce LIBERO performance from roughly 90% to roughly 10% in the worst case. Its Gaussian canonicalizer is intended to normalize the view without retraining the policy. **Sharding local inference across AI PCs** uses an OpenVINO layer pipeline. The authors report 1.79x two-node throughput for an 8B INT4 model with two users, plus interactive 70B inference across four Lunar Lake PCs. The common thread is claim discipline: a cache is not a benchmark, a slow worker is not automatically dead, and more compute is not automatically a new strategy. Primary-source links are in the first comment. Disclosure: AI-assisted drafting; the factual claims and their boundaries were checked against the linked primary sources.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787238484.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtg8xn/i_built_an_ai_tool_that_turns_raw_handwritten/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -763,223 +963,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtkqna/what_happens_when_ai_systems_start_depending_on/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vtkqna/what_happens_when_ai_systems_start_depending_on/" target="_blank" onclick="event.stopPropagation();">What happens when AI systems start depending on each other?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            One AI uses another AI's output. That output gets passed to another system, which makes a decision and triggers an action. At what point does the whole chain become too difficult to understand or control? Is the real challenge of AI no longer the model, but everything connected to it?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787235343.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtfey6/alvin_wang_graylin_chinese_courts_wont_let_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NWNvbDlhZDY5aWtoMS6rd2wdQ8YKOZOf7h95m-Q0YsoUHLKC88_brZYp__k1.png?width=640&crop=smart&auto=webp&s=83d6079367081b41db48265aae36a4b023dd1ce4" alt="Alvin Wang Graylin: Chinese Courts Won't Let AI Fire You Without a Backup Plan — America Has No Equivalent" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vtfey6/alvin_wang_graylin_chinese_courts_wont_let_ai/" target="_blank" onclick="event.stopPropagation();">Alvin Wang Graylin: Chinese Courts Won't Let AI Fire You Without a Backup Plan — America Has No Equivalent</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AI take – TL;DR: China's courts already put AI liability on the human either way — the US has no such floor when AI displaces your role. China's court system already answered a question the US hasn't even started asking out loud: if an AI system displaces your role, who's obligated to catch you? Both sides of a real federal case leaned on AI to prep, and the liability still landed on a human being either way — the tool never becomes the one who's accountable. Turns out whether there's a floor under you at all depends entirely on which side of the ocean you're standing on. I've sat on the losing side of a version of that same question before, and it wasn't AI doing the displacing — it was a company deciding who got to keep their institutional value and who didn't. OP wrote – Throughout my years with SC, one of the largest main contractors in Malaysia, staff turnover was normal. But when people left, they took valuable and critical institutional knowledge with them, accepted offers from competitors, and got promoted — the knowledge they brought along benefited the rival. So our leadership set up a knowledge vault, and made contributing to it part of our KPI for promotion. Or else, we'd be sidelined. I was fine sharing — we had a communal sense that we rise or fall as one, carved into company policy and the bonus structure. But not everyone shared that sentiment. People are selfish. The institutional knowledge and experience they gained became a moat they hoard, a bargaining chip they dangle around to get what they think they're entitled to, for fear that they'll be replaced. I can understand the sentiment of fear being replaced by AI. It's an issue then, it's the same issue now. https://preview.redd.it/g2t6uom59ikh1.jpg?width=1024&format=pjpg&auto=webp&s=ee59a49a639ebbe01a9dac1c81b85c2af7436898 __________ AI take – Different post, same fingerprint: something about to become optional, and no rulebook anywhere forcing anyone to say so out loud. The liability question above already got a dry run once this year — both sides of a federal case leaned on AI to prep, and it changed nothing about who ended up on the hook — worth reading if the pattern above is landing. Curious where you land on this — drop your take below. Clip credit: Moonshots w/ Alvin Wang Graylin — full episode on their channel. DM for credit or removal requests.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787220913.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtg82a/unpopular_take_most_enterprise_ai_pilots_never/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vtg82a/unpopular_take_most_enterprise_ai_pilots_never/" target="_blank" onclick="event.stopPropagation();">Unpopular take: most enterprise AI pilots never reach production because they apply generative models to problems that require discriminative ones</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            After nearly thirty years building distributed systems in financial markets and enterprise data infrastructure, I keep seeing the same pattern. A fraud detection model running continuously, updating from operational data, making millions of auditable decisions daily. Nobody calls it AI. It just works. Has been working for years. Meanwhile the same company has been running a frontier LLM pilot for eighteen months. Still a pilot. Output requires human review on every decision. Governance layer not ready. Auditability question unanswered. No ROI generated. The gap comes down to one mathematical distinction most people skip: Discriminative ML finds θ = argmax P(y | x ; θ) . Your parameters, your data, your operational distribution, continuously updated from your stream.* Generative LLMs find x = argmax P(x | x_prompt ; θ). Someone else's parameters, someone else's corpus, frozen at training time regardless of how many of your events flow through it. These are not two versions of the same thing. Different mathematical objectives, different inference directions, different update mechanisms. Wrote the full argument here including the neuroscience analogy that surprised me, the fine-tuning and open weights rebuttals, and the data sovereignty / CLOUD Act angle for European enterprises: https://medium.com/@dcris19740101/the-enterprise-already-has-ai-it-just-does-not-call-it-that-2f38b2afa3f5 Curious what others are seeing in production environments.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787223482.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/_8v5vfQS8yVzZkFYFcD8fUSBPgRNQ4etoqL6iqncn1M.png?width=640&crop=smart&auto=webp&s=2204aa305b3951521efb1a675d55d03c377b6170" alt="One employee with AI matched a two-person team in a major workplace experiment - Research Today" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/" target="_blank" onclick="event.stopPropagation();">One employee with AI matched a two-person team in a major workplace experiment - Research Today</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A randomised experiment involving 791 Procter & Gamble professionals found that individuals using generative AI produced innovation work comparable in quality to two-person human teams, while teams combining people and AI were far more likely to produce exceptional ideas.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787162175.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://researchtoday.co.za/wp-content/uploads/2026/06/cropped-ResearchToday-2-1-180x180.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Research Today</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vtf0bq/when_is_someone_going_to_build_an_authenticity/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vtf0bq/when_is_someone_going_to_build_an_authenticity/" target="_blank" onclick="event.stopPropagation();">When is someone going to build an authenticity recorder?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            '89% likelihood that this piece was written with AI'. At this point, just watch me type - record me for all I care. The 'AI detection tools' currently on offer aren't working - we're now at the point where endless false positives are resulting in a sort of deliberate dumbing down of creative spaces. The best immediate solution I can think of is recording a creative as they're doing their work - though in the writing space, recording alone wouldn't stop someone with enough motivation. Critically, something needs to give here, and it shouldn't be humans. Tackling the issue of talented creatives being accused of producing AI slop has to be something we resolve. The sooner, the better.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787219599.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/" target="_blank" onclick="event.stopPropagation();">Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787145076.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1003,7 +986,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T14:35:46.420751+00:00">Updated 2026-08-20T14:35:46.420751+00:00</small>
+        <small data-timestamp="2026-08-20T16:34:50.400573+00:00">Updated 2026-08-20T16:34:50.400573+00:00</small>
     </div>
 </div>
 
@@ -1189,84 +1172,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/K6TEE5D3SFCSHATYDTANEGS6ZM.jpg&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/" target="_blank" onclick="event.stopPropagation();">A new force is increasing inequality in America</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787232716.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html" target="_blank" onclick="event.stopPropagation();">The Teens Taking On A.I. Data Centers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787224428.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108341369-1785271277330-gettyimages-2288055062-dji_20260728114414_0403_d_ib5hrz7e.jpeg?v=1785271401&w=1920&h=1080');"></div>
@@ -1308,14 +1213,55 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/2026/08/20/australia-artificial-intelligence-public-opinion-01043248', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/K6TEE5D3SFCSHATYDTANEGS6ZM.jpg&w=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/" target="_blank" onclick="event.stopPropagation();">A new force is increasing inequality in America</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787241600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/08/20/ceos-shift-messaging-around-ai-and-layoffs', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.politico.com/news/2026/08/20/australia-artificial-intelligence-public-opinion-01043248" target="_blank" onclick="event.stopPropagation();">Australians see AI as a risk, but not for the reasons you might think</a>
+                            <a href="https://www.axios.com/2026/08/20/ceos-shift-messaging-around-ai-and-layoffs" target="_blank" onclick="event.stopPropagation();">CEOs shift messaging around AI and layoffs</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1327,9 +1273,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Politico" class="news-favicon">
-                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1337,7 +1283,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787234640.0"></span>
+                                    <span data-timestamp="1787242802.0"></span>
                                 </div>
                                 
                             </div>
@@ -1345,20 +1291,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cato.org/blog/ai-era-school-choice-crucial', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.cato.org/sites/cato.org/files/styles/optimized/public/2026-08/AI%20in%20education%20blog%20image.png?itok=czIwcwbA');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/3cIBHdofSYs26NFGLfVB8b2D9A0=/0x85:3994x2165/1200x625/media/img/mt/2026/08/2026_07_20_Ukraine_Was_Planning_to_Target_Russias_Elite_at_Moscow_Airports_Simon_Shuster/original.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cato.org/blog/ai-era-school-choice-crucial" target="_blank" onclick="event.stopPropagation();">In the AI Era, School Choice Is Crucial</a>
+                            <a href="https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/" target="_blank" onclick="event.stopPropagation();">Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            In public schools, bureaucrats decide; with school choice, parents do. As AI reshapes education, flexible school choice programs enable parents to select the environment that works best for their kids.
+                            The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
                         </div>
                         
 
@@ -1368,9 +1314,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cato.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Cato Institute" class="news-favicon">
-                                    <a href="https://www.cato.org" target="_blank" onclick="event.stopPropagation();">Cato Institute</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Atlantic" class="news-favicon">
+                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
                                     
                                 </div>
                                 
@@ -1378,7 +1324,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787233684.0"></span>
+                                    <span data-timestamp="1787241804.0"></span>
                                 </div>
                                 
                             </div>
@@ -1386,20 +1332,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/politics/monthly-bill-americans-cant-avoid-quietly-surging-emerging-industry-data', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/03/power-worker-lines.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a8620d10b0f848e0c307548?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.foxnews.com/politics/monthly-bill-americans-cant-avoid-quietly-surging-emerging-industry-data" target="_blank" onclick="event.stopPropagation();">One monthly bill Americans can’t avoid is quietly surging thanks to emerging industry: data</a>
+                            <a href="https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8" target="_blank" onclick="event.stopPropagation();">The creator economy's hottest debate: Can influencers post AI ads without alienating their fans?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Federal Reserve Bank of Dallas research estimates AI data centers could push electricity generation costs 20% to 30% higher by 2028 than without them.
+                            AI companies are hiring influencers and offering hefty paychecks. Creators are left weighing the cost of backlash from their fans.
                         </div>
                         
 
@@ -1409,9 +1355,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox News" class="news-favicon">
-                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1419,7 +1365,81 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787216439.0"></span>
+                                    <span data-timestamp="1787241422.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde" target="_blank" onclick="event.stopPropagation();">California Draws More Investment Than All Other 49 States Combined</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787234040.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html" target="_blank" onclick="event.stopPropagation();">The Indian City Where AI Is Creating Jobs for Humans</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787227438.0"></span>
                                 </div>
                                 
                             </div>
@@ -1468,6 +1488,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/politics/monthly-bill-americans-cant-avoid-quietly-surging-emerging-industry-data', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/03/power-worker-lines.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxnews.com/politics/monthly-bill-americans-cant-avoid-quietly-surging-emerging-industry-data" target="_blank" onclick="event.stopPropagation();">One monthly bill Americans can’t avoid is quietly surging thanks to emerging industry: data</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Federal Reserve Bank of Dallas research estimates AI data centers could push electricity generation costs 20% to 30% higher by 2028 than without them.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787216439.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/08/20/us/word-of-the-week-ai-watermark-cec', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270583434-20260819213510094.jpg?c=16x9&q=w_800,c_fill');"></div>
@@ -1509,84 +1570,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/H8T1oa2JbKn_bgneqYJUkSNHtKA=/0x61:2876x1559/1200x625/media/img/mt/2026/08/2026_07_15_CarAI_3/original.gif');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/" target="_blank" onclick="event.stopPropagation();">Are You Sure You Want a Car With a Giant Touch Screen?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The AI boom is making phones and laptops more expensive. Cars are next.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Atlantic" class="news-favicon">
-                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787170920.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/" target="_blank" onclick="event.stopPropagation();">The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787221433.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1607,7 +1590,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T14:36:08.890855+00:00">Updated 2026-08-20T14:36:08.890855+00:00</small>
+        <small data-timestamp="2026-08-20T16:35:17.555907+00:00">Updated 2026-08-20T16:35:17.555907+00:00</small>
     </div>
 </div>
 
@@ -1832,7 +1815,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1091</span>
+                                    <span class="post-points">▲ 1095</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 688</span>
@@ -1881,7 +1864,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1047</span>
+                                    <span class="post-points">▲ 1049</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 825</span>
@@ -1930,10 +1913,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 871</span>
+                                    <span class="post-points">▲ 927</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 444</span>
+                                    <span style="color: #9ca3af;">💬 493</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1982,7 +1965,7 @@
                                     <span class="post-points">▲ 610</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 418</span>
+                                    <span style="color: #9ca3af;">💬 419</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2027,7 +2010,7 @@
                                     <span class="post-points">▲ 311</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 499</span>
+                                    <span style="color: #9ca3af;">💬 501</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2076,10 +2059,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 290</span>
+                                    <span class="post-points">▲ 291</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 96</span>
+                                    <span style="color: #9ca3af;">💬 97</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2125,10 +2108,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 198</span>
+                                    <span class="post-points">▲ 199</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 233</span>
+                                    <span style="color: #9ca3af;">💬 242</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2177,7 +2160,7 @@
                                     <span class="post-points">▲ 192</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 112</span>
+                                    <span style="color: #9ca3af;">💬 113</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2194,55 +2177,6 @@
                                             
                                         
                                         <span>linear.app</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49332564', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://pbs.twimg.com/media/HOGlnijXUAA-1oO.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49332564" target="_blank" onclick="event.stopPropagation();">Anthropic's War on open source AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Anthropic's War on Opensource AI
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 152</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 59</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-17T15:24:34Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://twitter.com/TheAhmadOsman/status/2065307070044234186" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://twitter.com/apple-touch-icon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>X (formerly Twitter)</span>
                                     </a>
                                 </div>
                                 
@@ -2300,6 +2234,54 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49339599', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49339599" target="_blank" onclick="event.stopPropagation();">Google wins bankruptcy auction for Spirit Airlines emails, chats, documents</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 94</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 38</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-18T00:29:15Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>axios.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2320,7 +2302,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T14:35:44.264209+00:00">Updated 2026-08-20T14:35:44.264209+00:00</small>
+        <small data-timestamp="2026-08-20T16:34:54.427054+00:00">Updated 2026-08-20T16:34:54.427054+00:00</small>
     </div>
 </div>
 
