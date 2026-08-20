@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T09:34:35.686708+00:00'
+updated: '2026-08-20T10:30:39.366129+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 09:34 UTC  
+**Last Updated:** August 20, 2026 at 10:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,482.69
+### $72,233.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +10.7%  
-**7d:** +13.1%  
-**30d:** +7.9%  
-**90d:** -7.1%  
-**1y:** -36.6%  
+**24h:** +11.7%  
+**7d:** +14.3%  
+**30d:** +9.0%  
+**90d:** -6.2%  
+**1y:** -35.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1395.69B
+**Market Cap:** $1447.49B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-42.8%
 
 **All-Time Low:** $67.81
-+102436.5%
++106284.0%
 
 ---
 
@@ -77,21 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
+
+2h ago
+
+---
+
+**[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
+
+2h ago
+
+---
+
 **[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
-
-11h ago
-
----
-
-**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
-
-First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
-
-12h ago
-
----
-
-**[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
 
 12h ago
 
@@ -99,47 +97,51 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-17h ago
+18h ago
 
 ---
 
-**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
+**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
 
-16h ago
+First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
+
+13h ago
+
+---
+
+**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
+
+Another dip before we rip? Or is this it 😸
+
+33m ago
+
+---
+
+**[Crossed $100K AUD](https://www.reddit.com/r/Bitcoin/comments/1vteuz2/crossed_100k_aud/)**
+
+🙏
+
+45m ago
+
+---
+
+**[Next stop 700k](https://www.reddit.com/r/Bitcoin/comments/1vtdmzg/next_stop_700k/)**
+
+1h ago
+
+---
+
+**[Bull trap or 🐂 💩](https://www.reddit.com/r/Bitcoin/comments/1vte0dt/bull_trap_or/)**
+
+What are your thoughts???
+
+1h ago
 
 ---
 
 **[just me and my cold wallet playing doom :)](https://www.reddit.com/r/Bitcoin/comments/1vt5gjh/just_me_and_my_cold_wallet_playing_doom/)**
 
-8h ago
-
----
-
-**[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
-
-17h ago
-
----
-
-**[BREAKING: Bitcoin CEO to Increase Prices](https://www.reddit.com/r/Bitcoin/comments/1vspwje/breaking_bitcoin_ceo_to_increase_prices/)**
-
-https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
-
-17h ago
-
----
-
-**[Bear market is over](https://www.reddit.com/r/Bitcoin/comments/1vsp473/bear_market_is_over/)**
-
-All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, cyclers. I'm sure $40k will be right around the corner.
-
-18h ago
-
----
-
-**[Nailed it!](https://www.reddit.com/r/Bitcoin/comments/1vt4uf3/nailed_it/)**
-
-8h ago
+9h ago
 
 ---
 
@@ -147,39 +149,39 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
-
-WSJ • 1d ago
-
----
-
-**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
-
-Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
-
-Forbes • 13h ago
-
----
-
 **[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[Bitcoin Inches Towards $70,000 After Trump Calls For Passage Of Crypto Bill](https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-after-trump-hosts-crypto-executives-at-white-house-and-urges-passage-of-clarity-act/)**
+**[Bitcoin Soars Above $70,000 After Trump Calls For Passage Of Clarity Act At White House Crypto Event](https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-above-70000-after-trump-calls-for-passage-of-clarity-act-at-white-house-crypto-event/)**
 
 Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.
 
-Forbes • 2h ago
+Forbes • 38m ago
 
 ---
 
 **[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
+
+---
+
+**[Bitcoin approaches $72,000 as Strategy and Coinbase continue rally](https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally)**
+
+CoinDesk • 1h ago
+
+---
+
+**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
+
+Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
+
+NBC News • 16h ago
 
 ---
 
@@ -189,11 +191,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Family of woman missing in Las Vegas says they’ve received strange bitcoin demands](https://www.nbcnews.com/news/us-news/family-woman-missing-las-vegas-received-strange-bitcoin-demands-rcna593307)**
+**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
-
-NBC News • 15h ago
+WSJ • 1d ago
 
 ---
 
@@ -213,9 +213,9 @@ VanEck • 1d ago
 
 ---
 
-**[Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months](https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months)**
+**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
 
-CoinDesk • 3h ago
+Moomoo • 19h ago
 
 ---
 
@@ -251,7 +251,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 3h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 4h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -259,7 +259,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 2d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 3d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -271,17 +271,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
-
-⬆️ 1 • 💬 0 • 7d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
-
----
-
 **[Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich & Nextcloud Client](https://news.ycombinator.com/item?id=49367952)**
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 2 • 💬 0 • 12h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -295,7 +289,7 @@ FerrumPix is a desktop photo management and editing application for Linux,  Wind
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 206 • ⏱️ 10:41 • 10h ago
+👁️ 41K • 👍 2K • 💬 189 • ⏱️ 10:41 • 11h ago
 
 ---
 
@@ -305,17 +299,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 1K • 💬 40 • ⏱️ 24:22 • 12h ago
-
----
-
-**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
-
-Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 81K • 👍 968 • 💬 331 • ⏱️ 8:10 • 1d ago
+👁️ 41K • 👍 1K • 💬 40 • ⏱️ 24:22 • 13h ago
 
 ---
 
@@ -325,37 +309,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 757 • 💬 518 • ⏱️ 22:30 • 9h ago
-
----
-
-**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
-
-No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
-
-📺 Gareth Soloway
-
-👁️ 63K • 👍 4K • 💬 488 • ⏱️ 10:20 • 16h ago
-
----
-
-**[SEC Boosts Crypto Sentiment!🔥Market Turnaround?🚀](https://www.youtube.com/watch?v=zzp95BKhd9E)**
-
-The SEC just proposed Regulation Crypto Assets and the market exploded. Ethereum ripped nearly 9% back over $2000, Bitcoin ...
-
-📺 Paul Barron Network
-
-👁️ 71K • 👍 3K • 💬 217 • ⏱️ 16:06 • 14h ago
-
----
-
-**[Is This The Start Of A Short Squeeze For Bitcoin? [My Plan]](https://www.youtube.com/watch?v=6Hn05-lne6I)**
-
-In today's video, we look into the probabilities of whether or not Bitcoin is embarking on a short squeeze. With longs entered, and ...
-
-📺 Crypto Banter
-
-👁️ 15K • 👍 993 • 💬 24 • ⏱️ 34:36 • 1d ago
+👁️ 15K • 👍 861 • 💬 462 • ⏱️ 22:30 • 10h ago
 
 ---
 
@@ -365,27 +319,65 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 710 • 💬 500 • ⏱️ 13:12 • 18h ago
+👁️ 12K • 👍 713 • 💬 412 • ⏱️ 13:12 • 19h ago
 
 ---
 
-**[Bitcoin Breaks Resistance! Now What?](https://www.youtube.com/watch?v=0ymWU7zx5nk)**
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
 
-Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens Next? Let's find out Live! Start your prop ...
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
 
-📺 Sin City Crypto
+📺 CNBC Television
 
-👁️ 6K • 👍 278 • ⏱️ 4:23:25 • 7h ago
+👁️ 83K • 👍 991 • 💬 336 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[Bitcoin Is Ready To Break Out...](https://www.youtube.com/watch?v=vhqdsiy0ED0)**
+**[Crypto Mining vs AI (For PC Builders)](https://www.youtube.com/watch?v=ZXVgv0VhIk4)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+📺 Zach's Tech Turf
 
-📺 CryptosRUs
+👁️ 96K • 👍 8K • 💬 587 • ⏱️ 1:10 • 2d ago
 
-👁️ 17K • 👍 924 • 💬 415 • ⏱️ 43:06 • 19h ago
+---
+
+**[Earn Bitcoin with your Phone in just 10 Minutes!](https://www.youtube.com/watch?v=9rhMWKHQvI4)**
+
+Direct Link to Sign-Up for Kryptex Entire Free ➡ https://geni.us/KryptexPC ⛏ Link to Tryout Kryptex with your Crypto Mining ...
+
+📺 The Hobbyist Miner
+
+👁️ 10K • 👍 416 • 💬 41 • ⏱️ 10:33 • 22h ago
+
+---
+
+**[2,000 Bitcoin Was Just Stolen From the ‘Safest’ Way to Hold It.](https://www.youtube.com/watch?v=BEIBh91X_2c)**
+
+I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
+
+📺 Mark Moss
+
+👁️ 25K • 👍 1K • 💬 183 • ⏱️ 22:30 • 1d ago
+
+---
+
+**[Why Bitcoin Crashed: Institutions Sold Their Holdings! #shorts](https://www.youtube.com/watch?v=69jg-by38yo)**
+
+Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasury holdings triggered a significant BTC sell-off.
+
+📺 International Business Today
+
+👁️ 1K • 👍 18 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[Is This The Start Of A Short Squeeze For Bitcoin? [My Plan]](https://www.youtube.com/watch?v=6Hn05-lne6I)**
+
+In today's video, we look into the probabilities of whether or not Bitcoin is embarking on a short squeeze. With longs entered, and ...
+
+📺 Crypto Banter
+
+👁️ 15K • 👍 994 • 💬 23 • ⏱️ 34:36 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T09:34:35.690842+00:00'
+updated: '2026-08-20T10:30:39.370890+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 09:34 UTC  
+**Last Updated:** August 20, 2026 at 10:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,264.55
+### $2,277.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +18.3%  
-**7d:** +20.6%  
-**30d:** +17.4%  
-**90d:** +7.1%  
-**1y:** -46.3%  
+**24h:** +18.9%  
+**7d:** +21.4%  
+**30d:** +18.1%  
+**90d:** +7.8%  
+**1y:** -46.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $270.76B
+**Market Cap:** $275.74B
 Rank #2
 
 **Circulating Supply:** 120,681,740 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.6%
+-53.8%
 
 **All-Time Low:** $0.43
-+518169.9%
++527874.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -154,7 +154,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -162,7 +162,7 @@ FXStreet • 9h ago
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Benzinga • 17h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -178,7 +178,15 @@ Yahoo Finance • 17h ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
+
+---
+
+**[BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo](https://www.tradingview.com/news/benzinga:9884f6e65094b:0-btc-digital-stock-soars-over-111-after-hours-bitmine-shares-trending-as-bitcoin-and-ethereum-regain-their-mojo/)**
+
+BTC Digital Ltd. (NASDAQ:BTCT) and BitMine Immersion Technologies Inc. (NYSE:BMNR) shares are trending on Thursday.BTCT gained 111.55% to $1.77 after the bell on Wednesday. This was after the stock climbed 79.97% to $0.84 in the regular session, according to Benzinga Pro data.BMNR surged 6.47% to…
+
+TradingView • 4h ago
 
 ---
 
@@ -186,7 +194,7 @@ The Motley Fool • 16h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -194,15 +202,15 @@ The Block • 17h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 11h ago
+MarketForces Africa • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Investors Aren't Keeping Pace With the Market, Bitwise's Matt Hougan Says: Beware These 3 Mistakes](https://www.tradingview.com/news/benzinga:448e89285094b:0-bitcoin-ethereum-xrp-investors-aren-t-keeping-pace-with-the-market-bitwise-s-matt-hougan-says-beware-these-3-mistakes/)**
+**[‘Buckle Up’—The Real $40 Trillion Reason Why A Massive Bitcoin Surge Could Be Just Beginning](https://www.forbes.com/sites/digital-assets/2026/08/20/buckle-up-the-real-40-trillion-reason-why-a-massive-bitcoin-surge-could-be-just-beginning/)**
 
-Crypto investors may be underestimating how large the industry’s next growth phase could become since market perception has failed to keep pace with reality, according to Bitwise’s Matt Hougan.In his Aug. 18 weekly CIO memo, Bitwise’s Chief Investment Officer highlighted three mistakes investors ar…
+Bitcoin has suddenly surged by more than 10% over the last 24 hours...
 
-TradingView • 20h ago
+Forbes • 1h ago
 
 ---
 
@@ -212,19 +220,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Crypto News: Pepeto (PEPETO) Nears 50,000 Holders as Ethereum Price Eyes $10,000 and Shiba Inu's Story Repeats](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-pepeto-nears-50-000-holders-as-ethereum-price-eyes-10-000-and-shiba-inu-s-story-repeats-1036477647)**
+**[Why Bitcoin & Ethereum Prices Suddenly Surged Today—Should Traders Be Cautious?](https://coinpedia.org/price-analysis/why-bitcoin-ethereum-prices-suddenly-surged-today-should-traders-be-cautious/)**
 
-DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
+Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
 
-markets.businessinsider.com • 1h ago
-
----
-
-**[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum](https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum)**
-
-GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
-
-The Defiant • 18h ago
+Coinpedia • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 7K • 👍 339 • 💬 244 • ⏱️ 26:28 • 10h ago
+👁️ 8K • 👍 361 • 💬 195 • ⏱️ 26:28 • 11h ago
 
 ---
 
@@ -248,37 +248,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 391 • 💬 176 • ⏱️ 14:57 • 12h ago
-
----
-
-**[BIG GAINS! BITCOIN PUMPS &amp; XRP, ETHEREUM &amp; SOLANA PRICES RISE! HUGE WHITE HOUSE CRYPTO MEETING!](https://www.youtube.com/watch?v=uCJ_KvfcV2o)**
-
-Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solana are on the move. Trump pushes Congress ...
-
-📺 Thinking Crypto
-
-👁️ 3K • 👍 362 • 💬 91 • ⏱️ 19:03 • 6h ago
-
----
-
-**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
-
-You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 677 • 💬 392 • ⏱️ 28:47 • 1d ago
-
----
-
-**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
-
-Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 710 • 💬 499 • ⏱️ 13:12 • 18h ago
+👁️ 6K • 👍 402 • 💬 157 • ⏱️ 14:57 • 13h ago
 
 ---
 
@@ -288,7 +258,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 201 • 💬 27 • ⏱️ 16:48 • 1d ago
+👁️ 6K • 👍 204 • 💬 28 • ⏱️ 16:48 • 1d ago
+
+---
+
+**[BIG GAINS! BITCOIN PUMPS &amp; XRP, ETHEREUM &amp; SOLANA PRICES RISE! HUGE WHITE HOUSE CRYPTO MEETING!](https://www.youtube.com/watch?v=uCJ_KvfcV2o)**
+
+Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solana are on the move. Trump pushes Congress ...
+
+📺 Thinking Crypto
+
+👁️ 5K • 👍 453 • 💬 73 • ⏱️ 19:03 • 6h ago
+
+---
+
+**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
+
+Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
+
+📺 Crypto Capital Venture
+
+👁️ 12K • 👍 713 • 💬 413 • ⏱️ 13:12 • 19h ago
 
 ---
 
@@ -298,25 +288,27 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 222 • 💬 21 • ⏱️ 6:58 • 14h ago
+👁️ 6K • 👍 224 • 💬 51 • ⏱️ 6:58 • 15h ago
 
 ---
 
-**[BITCOIN AND ETHEREUM ARE EXPLODING!!! [OUR TARGETS, WITH CARL MOON]](https://www.youtube.com/watch?v=CYxrLx6WT-A)**
+**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
 
-BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
+You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
 
-📺 The Moon Show
+📺 The Modern Investor
 
-👁️ 8K • 👍 469 • 💬 10 • ⏱️ 1:38:08 • 16h ago
+👁️ 7K • 👍 691 • 💬 327 • ⏱️ 28:47 • 1d ago
 
 ---
 
-**[Ethereum and Hyperliquid are SKYROCKETING!](https://www.youtube.com/watch?v=5JihjDuWPPI)**
+**[ETHEREUM: THEY WILL ALL FOMO](https://www.youtube.com/watch?v=P6ZR2rfGeNM)**
 
-📺 Discover Crypto
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-👁️ 3K • 👍 68 • 💬 79 • ⏱️ 0:34 • 10h ago
+📺 Jordan Camirand
+
+👁️ 9K • 👍 445 • 💬 232 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -326,7 +318,15 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 2K • 💬 13 • ⏱️ 4:44 • 2d ago
+👁️ 17K • 👍 2K • 💬 12 • ⏱️ 4:44 • 2d ago
+
+---
+
+**[Ethereum and Hyperliquid are SKYROCKETING!](https://www.youtube.com/watch?v=5JihjDuWPPI)**
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 75 • 💬 40 • ⏱️ 0:34 • 11h ago
 
 ---
 
