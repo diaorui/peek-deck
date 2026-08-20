@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T07:48:52.872700+00:00'
+updated: '2026-08-20T08:38:16.267171+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 07:48 UTC  
+**Last Updated:** August 20, 2026 at 08:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ There is a cost line item in every enterprise AI budget that almost nobody audit
 
 A randomised experiment involving 791 Procter & Gamble professionals found that individuals using generative AI produced innovation work comparable in quality to two-person human teams, while teams combining people and AI were far more likely to produce exceptional ideas.
 
-🔗 [Research Today](https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/) • 13h ago
+🔗 [Research Today](https://researchtoday.co.za/one-employee-with-ai-matched-a-two-person-team-in-a-major-workplace-experiment/) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
 
-18h ago
+19h ago
 
 ---
 
@@ -65,7 +65,7 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://imgur.com/a/RXAdjvO) • 1h ago
+🔗 [Imgur](https://imgur.com/a/RXAdjvO) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: "What's going wrong here?" "How do I fix this?" "What am I looking at?" "What should I do next?" Or just have it understand what's happening without needing to explain everything manually. Privacy is something I'm taking seriously with the idea. There would be a privacy toggle that completely disables screen analysis, as well as the ability to temporarily pause screen checking whenever you want. So you're always in control of when the AI can see your screen. I'm especially interested in hearing from people who use local/vision models: What would you actually want a screen-aware AI to do for you? Would you want it to continuously watch your screen, only activate when you press a key, or something else? And assuming you could instantly disable/pause screen access, what other privacy concerns would you still have? I'm still figuring out the direction, so I'm more interested in honest criticism and use cases than people simply saying whether the idea sounds cool.
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey everyone, For a while now, I’ve been developing a proprietary multi-agent 
 
 Irregular (an AI security research group) tested Kimi K3, an open-weight model, against CyScenarioBench, a benchmark built around autonomous cyber campaigns - adapting public exploit techniques to constrained environments, building custom tooling, diagnosing failed attempts, and validating each stage before moving on. It is the first open-weight model to pass. It trails closed frontier models by roughly six months, at an estimated third of the inference cost. The six-month lag is the less interesting number. What matters is that this level of capability now sits in downloadable weights instead of behind an API. A closed lab can throttle or ban an account mid-campaign - both OpenAI and Anthropic have done this before to abusive usage. Once equivalent capability is something you can self-host, that kill switch disappears entirely, along with any usage logging a defender could later subpoena. If the trend holds, the realistic baseline for any internet-facing asset a year out is not "gets scanned for known CVEs" the way it is today, it is "gets probed continuously by something that adapts exploits on the fly, with no vendor able to pull the plug on the other end." Source: https://www.irregular.com/research/assessing-kimi-k3-against-offensive-security-benchmarks Curious how people here read the trend line: does a shrinking gap between closed and open capability argue for faster patch/disclosure windows industry-wide, or does it just confirm the attacker side was never actually capped by API access limits in the first place?
 
-14h ago
+15h ago
 
 ---
 
@@ -125,35 +125,7 @@ Irregular (an AI security research group) tested Kimi K3, an open-weight model, 
 
 College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
-blog.google • 12h ago
-
----
-
-**[Google’s New Phone Comes With Plenty of A.I. Does Anyone Want That?](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)**
-
-The New York Times • 12h ago
-
----
-
-**[AI being rolled out to social workers at Suffolk County Council](https://www.bbc.com/news/articles/cz05j8nn2ggo)**
-
-AI tools to be rolled out to all social workers in adult social care at council, after pilot
-
-BBC • 2h ago
-
----
-
-**[UK Startup Raises $100 Million in Round Backed by Public AI Fund](https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Ellwood Thompson’s owner to combine with data center-AI firm, says store will stay open](https://richmondbizsense.com/2026/08/20/ellwood-thompsons-owner-to-combine-with-data-center-ai-firm-says-store-will-stay-open/)**
-
-The company has been losing millions of dollars each year in recent years and said the "reverse merger" with a data center firm would give it new funds to invest in its 19 grocery stores, including Ellwood Thompson's in Carytown.
-
-Richmond BizSense • 1h ago
+blog.google • 13h ago
 
 ---
 
@@ -161,23 +133,35 @@ Richmond BizSense • 1h ago
 
 Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
-**[AI company says Eloy police are 1st in the U.S. to use 'virtual investigators'](https://www.kjzz.org/science/2026-08-19/ai-company-says-eloy-police-are-1st-in-the-u-s-to-use-virtual-investigators)**
+**[Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring](https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring)**
 
-Eloy is adopting new AI-powered software to streamline police investigations. eSleuth Inc. says it provides thousands of AI “investigators” to help police connect cases and look for leads.
-
-KJZZ • 18h ago
+Bloomberg.com • 51m ago
 
 ---
 
-**[This may be the first academic profession to see its work taken over by AI](https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/)**
+**[AI Is About To Expose How Bad We Are At Choosing Leaders](https://www.forbes.com/sites/gregorme/2026/08/20/ai-is-about-to-expose-how-bad-we-are-at-choosing-leaders/)**
 
-Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
+For decades, we promoted the people who produced the most. Now AI is making that already-flawed logic obsolete.
 
-The Washington Post • 15h ago
+Forbes • 1h ago
+
+---
+
+**[AI will not solve council cash crisis, say experts](https://www.bbc.com/news/articles/cdx7r9467kno)**
+
+Councils across the UK are making cuts of £3bn this financial year, despite recent funding reforms.
+
+BBC • 1h ago
+
+---
+
+**[Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer](https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html)**
+
+The New York Times • 23h ago
 
 ---
 
@@ -185,15 +169,29 @@ The Washington Post • 15h ago
 
 Searching for signs of crowding out
 
-ft.com • 3h ago
+Financial Times • 1h ago
 
 ---
 
-**[Are You Sure You Want a Car With a Giant Touch Screen?](https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/)**
+**[This may be the first academic profession to see its work taken over by AI](https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/)**
 
-The AI boom is making phones and laptops more expensive. Cars are next.
+Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
 
-The Atlantic • 11h ago
+The Washington Post • 16h ago
+
+---
+
+**[Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence](https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html)**
+
+Alibaba Group Holding Ltd. is reclaiming its place as one of investors’ favorite Chinese technology stocks, on bets it can beat rivals in the combative artificial intelligence market.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Exclusive: GOP warns AI companies that data centers are politically radioactive](https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election)**
+
+Axios • 22h ago
 
 ---
 
@@ -221,7 +219,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 608 • 💬 417 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 608 • 💬 418 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -243,7 +241,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 310 • 💬 493 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 310 • 💬 495 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -251,7 +249,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 269 • 💬 92 • 21h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 271 • 💬 92 • 22h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -259,7 +257,15 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
-⬆️ 185 • 💬 112 • 1d ago • [linear.app](https://linear.app/data)
+⬆️ 187 • 💬 112 • 1d ago • [linear.app](https://linear.app/data)
+
+---
+
+**[Mathematics in the age of AI](https://news.ycombinator.com/item?id=49362728)**
+
+An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
+
+⬆️ 163 • 💬 193 • 17h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -268,14 +274,6 @@ AI usage patterns in software teams: who is adopting AI, how it reshapes where t
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
 ⬆️ 162 • 💬 319 • 2d ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
-
----
-
-**[Mathematics in the age of AI](https://news.ycombinator.com/item?id=49362728)**
-
-An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
-
-⬆️ 154 • 💬 184 • 16h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -289,7 +287,7 @@ Claim your 10 Free Meals by using code MBBHFCRWY at https://hellofresh.yt.link/m
 
 📺 MoreBeckBros
 
-👁️ 32K • 👍 1K • 💬 205 • ⏱️ 12:36 • 8h ago
+👁️ 32K • 👍 1K • 💬 205 • ⏱️ 12:36 • 9h ago
 
 ---
 
@@ -337,7 +335,7 @@ Scientists at Stanford have used AI models to design entirely new viruses that s
 
 📺 Dr Ben Miles
 
-👁️ 982K • 👍 80K • 💬 4K • ⏱️ 2:31 • 16h ago
+👁️ 982K • 👍 80K • 💬 4K • ⏱️ 2:31 • 17h ago
 
 ---
 
@@ -565,7 +563,7 @@ HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 123 • 💬 4 • ⭐ 98,972 • 19mo ago
+▲ 123 • 💬 4 • ⭐ 98,972 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -646,7 +644,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.5k • 🔱 1.8k • 8h ago
+⭐ 15.5k • 🔱 1.8k • 9h ago
 
 ---
 
@@ -656,7 +654,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 2h ago
+⭐ 14.0k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -684,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 570 • 19h ago
+⭐ 3.4k • 🔱 570 • 20h ago
 
 ---
 
@@ -714,7 +712,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 317 • 35m ago
+⭐ 2.7k • 🔱 317 • 1h ago
 
 ---
 
@@ -724,7 +722,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 305 • 5m ago
+⭐ 2.2k • 🔱 305 • 54m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T07:48:52.881377+00:00'
+updated: '2026-08-20T08:38:16.273237+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 07:48 UTC  
+**Last Updated:** August 20, 2026 at 08:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,732.28
+### $71,482.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +8.6%  
-**7d:** +10.8%  
-**30d:** +5.7%  
-**90d:** -9.0%  
-**1y:** -37.8%  
+**24h:** +10.7%  
+**7d:** +13.1%  
+**30d:** +7.9%  
+**90d:** -7.1%  
+**1y:** -36.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We're on the same side, yet somehow still so far apart](https://www.reddit.com/r/Bitcoin/comments/1vszyxx/were_on_the_same_side_yet_somehow_still_so_far/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,37 +87,37 @@ Rank #1
 
 First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
 
-10h ago
+11h ago
 
 ---
 
 **[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
 
-10h ago
+11h ago
 
 ---
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-15h ago
+16h ago
 
 ---
 
 **[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
-14h ago
+15h ago
 
 ---
 
 **[just me and my cold wallet playing doom :)](https://www.reddit.com/r/Bitcoin/comments/1vt5gjh/just_me_and_my_cold_wallet_playing_doom/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -125,7 +125,7 @@ First time I saw this guy, but was so sure and arrogant for the answers he got i
 
 https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba638a9534851342219a290ff61e6fe27f14a9
 
-16h ago
+17h ago
 
 ---
 
@@ -133,13 +133,13 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, cyclers. I'm sure $40k will be right around the corner.
 
-16h ago
+17h ago
 
 ---
 
 **[Nailed it!](https://www.reddit.com/r/Bitcoin/comments/1vt4uf3/nailed_it/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -147,29 +147,17 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 ## Google News: "bitcoin"
 
-**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
-
-Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
-
-Yahoo Finance • 15h ago
-
----
-
-**[BTC, ETH price, Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally](https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally)**
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
-
-Bloomberg.com • 15h ago
-
----
-
 **[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-WSJ • 12h ago
+WSJ • 1d ago
+
+---
+
+**[Bitcoin Approaches $70,000 After Treasury Announces Buyback Expansion](https://www.forbes.com/sites/digital-assets/2026/08/19/bitcoin-approaches-70000-after-treasury-announces-buyback-expansion/)**
+
+Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
+
+Forbes • 12h ago
 
 ---
 
@@ -177,15 +165,15 @@ WSJ • 12h ago
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[MSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act](https://finance.yahoo.com/markets/crypto/articles/mstr-stock-climbs-bitcoin-surges-020156327.html)**
+**[Bitcoin Inches Towards $70,000 After Trump Calls For Passage Of Crypto Bill](https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-after-trump-hosts-crypto-executives-at-white-house-and-urges-passage-of-clarity-act/)**
 
-Bitcoin prices surged above $69,000 for the first time since early June after President Donald Trump met with top crypto executives in the White House.
+Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.
 
-Yahoo Finance • 5h ago
+Forbes • 1h ago
 
 ---
 
@@ -205,7 +193,7 @@ Bloomberg.com • 1d ago
 
 Police said that based on their detective work, Alisa Goods was classified as a missing adult and there was “nothing to suggest she is in danger.”
 
-NBC News • 14h ago
+NBC News • 15h ago
 
 ---
 
@@ -214,6 +202,20 @@ NBC News • 14h ago
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
 BlackRock • 2d ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 1d ago
+
+---
+
+**[Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months](https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months)**
+
+CoinDesk • 2h ago
 
 ---
 
@@ -249,7 +251,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 1h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 2h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -279,7 +281,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 2 • 💬 0 • 10h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -293,7 +295,7 @@ FerrumPix is a desktop photo management and editing application for Linux,  Wind
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 206 • ⏱️ 10:41 • 8h ago
+👁️ 34K • 👍 2K • 💬 206 • ⏱️ 10:41 • 9h ago
 
 ---
 
@@ -303,7 +305,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 1K • 💬 40 • ⏱️ 24:22 • 10h ago
+👁️ 37K • 👍 1K • 💬 40 • ⏱️ 24:22 • 11h ago
 
 ---
 
@@ -323,7 +325,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 757 • 💬 518 • ⏱️ 22:30 • 7h ago
+👁️ 12K • 👍 757 • 💬 518 • ⏱️ 22:30 • 8h ago
 
 ---
 
@@ -333,7 +335,7 @@ No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple 
 
 📺 Gareth Soloway
 
-👁️ 63K • 👍 4K • 💬 488 • ⏱️ 10:20 • 14h ago
+👁️ 63K • 👍 4K • 💬 488 • ⏱️ 10:20 • 15h ago
 
 ---
 
@@ -343,7 +345,7 @@ The SEC just proposed Regulation Crypto Assets and the market exploded. Ethereum
 
 📺 Paul Barron Network
 
-👁️ 71K • 👍 3K • 💬 217 • ⏱️ 16:06 • 13h ago
+👁️ 71K • 👍 3K • 💬 217 • ⏱️ 16:06 • 14h ago
 
 ---
 
@@ -363,7 +365,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 710 • 💬 500 • ⏱️ 13:12 • 16h ago
+👁️ 12K • 👍 710 • 💬 500 • ⏱️ 13:12 • 17h ago
 
 ---
 
@@ -373,7 +375,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 278 • ⏱️ 4:23:25 • 5h ago
+👁️ 6K • 👍 278 • ⏱️ 4:23:25 • 6h ago
 
 ---
 
@@ -383,7 +385,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 924 • 💬 415 • ⏱️ 43:06 • 17h ago
+👁️ 17K • 👍 924 • 💬 415 • ⏱️ 43:06 • 18h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-20T07:48:52.532392+00:00"
+          "dateModified": "2026-08-20T08:38:16.010268+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vt5zpv/we_built_a_micromouse_on_perfboard_with_an/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/eDZ3YzMyZ3NxZmtoMVIZOMxCadCyTA4AI37-a8FPtG8x63OVEkaGgPtvtpsY.png?width=640&crop=smart&auto=webp&s=2fb0c59a73157a4776c7cc46f2fc43777e3e2b47" alt="We built a micromouse on perfboard with an ESP32-S3 and placed 3rd at AAMC 2026. Firmware & build log are open source." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vt5zpv/we_built_a_micromouse_on_perfboard_with_an/" target="_blank" onclick="event.stopPropagation();">We built a micromouse on perfboard with an ESP32-S3 and placed 3rd at AAMC 2026. Firmware & build log are open source.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787190560.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vsifo4/building_the_lamp_that_dances_and_talks_back/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -684,23 +719,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vt5zpv/we_built_a_micromouse_on_perfboard_with_an/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vt9h76/the_2nd_humanoid_robot_games_will_be_held_in/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/eDZ3YzMyZ3NxZmtoMVIZOMxCadCyTA4AI37-a8FPtG8x63OVEkaGgPtvtpsY.png?width=640&crop=smart&auto=webp&s=2fb0c59a73157a4776c7cc46f2fc43777e3e2b47" alt="We built a micromouse on perfboard with an ESP32-S3 and placed 3rd at AAMC 2026. Firmware & build log are open source." onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://preview.redd.it/91tisghokgkh1.png?width=140&height=76&auto=webp&s=e9a775e746630037afeb3981db6eb1e69e4015af" alt="The 2nd Humanoid Robot Games will be held in Beijing (August 22)." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vt5zpv/we_built_a_micromouse_on_perfboard_with_an/" target="_blank" onclick="event.stopPropagation();">We built a micromouse on perfboard with an ESP32-S3 and placed 3rd at AAMC 2026. Firmware & build log are open source.</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1vt9h76/the_2nd_humanoid_robot_games_will_be_held_in/" target="_blank" onclick="event.stopPropagation();">The 2nd Humanoid Robot Games will be held in Beijing (August 22).</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
+                            The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
                         </div>
                         
 
@@ -709,7 +744,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1787190560.0"></span>
+                                    <span data-timestamp="1787200532.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -783,41 +818,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vt9h76/the_2nd_humanoid_robot_games_will_be_held_in/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/91tisghokgkh1.png?width=140&height=76&auto=webp&s=e9a775e746630037afeb3981db6eb1e69e4015af" alt="The 2nd Humanoid Robot Games will be held in Beijing (August 22)." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vt9h76/the_2nd_humanoid_robot_games_will_be_held_in/" target="_blank" onclick="event.stopPropagation();">The 2nd Humanoid Robot Games will be held in Beijing (August 22).</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787200532.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -838,6 +838,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1787106134.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vtckm0/need_help_conceptualizing_servo_speed_regulation/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vtckm0/need_help_conceptualizing_servo_speed_regulation/" target="_blank" onclick="event.stopPropagation();">Need help conceptualizing servo speed regulation</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi, I got plans to 3D print a 6DOF, high strength robot arm using some 35kg*f, 5v hobbyist servo motors. I’m planning on purchasing continuous rotation servos that are going to use some incremental encoders coupled to track motor position and speed after it reaches a home limit switch. Its going to be controlled using an I^2C servo shield, which is controlled by an Arduino Mega. So basically, Im turning it into a stepper motor without all the extra weight and having to purchase a bunch of stepper motor drivers, also it will supposedly be able to move super fast, with the manufacturer quoting 1200ms for one full rotation. The problem Im having trouble understanding and having AI explain to me coherently, is how to control the actual servo speed using the feedback. The servo manufacturer says in the product description that the servo motors cannot regulate speed. I dont want it to immediately crash and destroy components on my robot arm. I would like to say that I am indeed using mechanical gear ratio to alter the speed, but for the two wrist joints the arm will not have any gearing and will, accordingly, run fast and probably break my printed limit switch brackets. One idea I had was to try to modulate the speed using PWM signal generated by math being done from the encoder on the power line after the servo shield, using a high speed mosfet transistor. But the motor coils will likely overheat from the start up current, and Id hate to have to purchase a mosfet rated for handling start up current. And at that point, isnt this just reinventing the stepper motor? Admittedly, I havent used very many continuous hobbyist servo motors. I am more used to the allen bradley kinetix line of industrial servos. I’ve had to use a couple of servos on another project, but they were able to be controlled for position and speed and as such it was easier to implement. Any suggestions for how to do it properly are welcome.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787210865.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -928,41 +961,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vslebu/generalpurpose_humanoids_vs_getting_one_useful/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cWdncTZmMHV1YmtoMTNQ4Un05tX9nXReH4nn8ZsJslKkhTDt9Y3V5AiQCBlB.png?width=640&crop=smart&auto=webp&s=b77d6110ab0de262417611456cbd387f3bf1c080" alt="General-purpose humanoids vs. getting one useful job working" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vslebu/generalpurpose_humanoids_vs_getting_one_useful/" target="_blank" onclick="event.stopPropagation();">General-purpose humanoids vs. getting one useful job working</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787143470.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -986,7 +984,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T05:59:01.916538+00:00">Updated 2026-08-20T05:59:01.916538+00:00</small>
+        <small data-timestamp="2026-08-20T08:38:02.002217+00:00">Updated 2026-08-20T08:38:02.002217+00:00</small>
     </div>
 </div>
 
@@ -1172,14 +1170,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/" target="_blank" onclick="event.stopPropagation();">EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo" target="_blank" onclick="event.stopPropagation();">Unitree Robotics Surges 460% After $904 Million Shanghai IPO</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1191,9 +1189,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1201,85 +1199,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787123580.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/china/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/world/china/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/" target="_blank" onclick="event.stopPropagation();">Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787144316.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/chicago/video/chinese-robotics-startup-showcases-traffic-directing-robot/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/f41fc4f9-c4d8-409a-80e0-46734eba34dd/thumbnail/1200x630/2fb9de62837f041fe77694d659822a5f/f0b0027a0eea59a4853f0f8eb5d8d478-0-1787197361843.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cbsnews.com/chicago/video/chinese-robotics-startup-showcases-traffic-directing-robot/" target="_blank" onclick="event.stopPropagation();">Chinese robotics startup showcases traffic-directing robot</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Robotics startup AiMOGA, incubated by Chinese automaker Chery, showcased the robot at the World Robot Conference in Beijing.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CBS News" class="news-favicon">
-                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1787197320.0"></span>
+                                    <span data-timestamp="1787094000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1447,6 +1367,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://abcnews.com/video/135754463/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/eae24efd-513d-4626-b061-1cad8023d8ee/260818_wn_ender_hpMain_16x9.jpg?w=992');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://abcnews.com/video/135754463/" target="_blank" onclick="event.stopPropagation();">Video Chinese robotics company unveils robot that can outrun Usain Bolt: David Muir reports - ABC News</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Unitree has unveiled a new "Superman" robot that can jump over 6.5 feet vertically. David Muir, who interviewed the company in May, reports on the race to lead in AI.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ABC News - Breaking News, Latest News and Videos" class="news-favicon">
+                                    <a href="https://abcnews.com" target="_blank" onclick="event.stopPropagation();">ABC News - Breaking News, Latest News and Videos</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787097444.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/chicago/video/chinese-robotics-startup-showcases-traffic-directing-robot/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/f41fc4f9-c4d8-409a-80e0-46734eba34dd/thumbnail/1200x630/2fb9de62837f041fe77694d659822a5f/f0b0027a0eea59a4853f0f8eb5d8d478-0-1787197361843.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cbsnews.com/chicago/video/chinese-robotics-startup-showcases-traffic-directing-robot/" target="_blank" onclick="event.stopPropagation();">Chinese robotics startup showcases traffic-directing robot</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Robotics startup AiMOGA, incubated by Chinese automaker Chery, showcased the robot at the World Robot Conference in Beijing.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CBS News" class="news-favicon">
+                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787197320.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg');"></div>
@@ -1488,20 +1490,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cbsaustin.com/resources/media2/16x9/1024/1320/0x80/90/f0ffd45f-e6b1-44c1-817f-7adef179be60-GettyImages1310179631.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://mmx.prnewswire.com/media/MS693647/FORT-Robotics-Logo.jpg?id=OA2893496&p=facebook');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin" target="_blank" onclick="event.stopPropagation();">Amazon to build multibillion-dollar robotics manufacturing facility in Austin</a>
+                            <a href="https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html" target="_blank" onclick="event.stopPropagation();">FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
+                            Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
                         </div>
                         
 
@@ -1511,9 +1513,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cbsaustin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="cbsaustin.com" class="news-favicon">
-                                    <a href="https://cbsaustin.com" target="_blank" onclick="event.stopPropagation();">cbsaustin.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PR Newswire" class="news-favicon">
+                                    <a href="https://www.prnewswire.com" target="_blank" onclick="event.stopPropagation();">PR Newswire</a>
                                     
                                 </div>
                                 
@@ -1521,7 +1523,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787198227.0"></span>
+                                    <span data-timestamp="1787052600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1529,20 +1531,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.globaltimes.cn/page/202608/1368592.shtml', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.globaltimes.cn/Portals/0/attachment/2025/2025-11-20/e9397a9c-15a4-4b66-abd5-4cc869e9d4d3.jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a84b19485cca0a87cd8a476?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.globaltimes.cn/page/202608/1368592.shtml" target="_blank" onclick="event.stopPropagation();">When the West is struggling with direction, China’s robotics takes another step forward: Global Times editorial</a>
+                            <a href="https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8" target="_blank" onclick="event.stopPropagation();">Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            While Western public discourse is still endlessly debating the pros and cons of different robotics paths, China, focused on
+                            Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
                         </div>
                         
 
@@ -1552,9 +1554,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.globaltimes.cn&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Global Times" class="news-favicon">
-                                    <a href="https://www.globaltimes.cn" target="_blank" onclick="event.stopPropagation();">Global Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1562,7 +1564,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787156940.0"></span>
+                                    <span data-timestamp="1787081700.0"></span>
                                 </div>
                                 
                             </div>
@@ -1590,7 +1592,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-20T06:59:07.890033+00:00">Updated 2026-08-20T06:59:07.890033+00:00</small>
+        <small data-timestamp="2026-08-20T08:38:11.670641+00:00">Updated 2026-08-20T08:38:11.670641+00:00</small>
     </div>
 </div>
 
