@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T17:58:30.309618+00:00'
+updated: '2026-08-20T18:50:57.938217+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 17:58 UTC  
+**Last Updated:** August 20, 2026 at 18:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,31 +87,37 @@ Another dip before we rip? Or is this it 😸
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-5h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
-
-9h ago
+6h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-7h ago
+8h ago
+
+---
+
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
+
+10h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-9h ago
+10h ago
+
+---
+
+**[funny meme about the current situation 😜](https://www.reddit.com/r/Bitcoin/comments/1vtq5c6/funny_meme_about_the_current_situation/)**
+
+1h ago
 
 ---
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +125,7 @@ Another dip before we rip? Or is this it 😸
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-5h ago
+6h ago
 
 ---
 
@@ -135,15 +141,7 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 🙏
 
-8h ago
-
----
-
-**[It is time!](https://www.reddit.com/r/Bitcoin/comments/1vthh0k/it_is_time/)**
-
-Pump it up
-
-5h ago
+9h ago
 
 ---
 
@@ -155,19 +153,19 @@ Pump it up
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
 **[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -175,13 +173,13 @@ Bloomberg • 1h ago
 
 Polymarket trading pushed the odds of bitcoin hitting the benchmark by the end of the year from 30% to 60% overnight.
 
-Forbes • 17m ago
+Forbes • 1h ago
 
 ---
 
 **[Bitcoin Breaks Above $72,000 as Trump, Regulators Urge Congress to Pass Clarity Act](https://www.moomoo.com/news/post/75003375/bitcoin-breaks-above-72000-as-trump-regulators-urge-congress-to)**
 
-Moomoo • 15m ago
+Moomoo • 1h ago
 
 ---
 
@@ -195,7 +193,7 @@ NBC News • 1d ago
 
 **[Bitcoin (BTC) price analysis: $180,000 targeted on Treasury buybacks](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +201,7 @@ CoinDesk • 1h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -285,7 +283,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 2K • 💬 139 • ⏱️ 9:45 • 6h ago
+👁️ 33K • 👍 2K • 💬 139 • ⏱️ 9:45 • 7h ago
 
 ---
 
@@ -295,7 +293,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 152 • ⏱️ 10:41 • 18h ago
+👁️ 60K • 👍 3K • 💬 152 • ⏱️ 10:41 • 19h ago
 
 ---
 
@@ -305,7 +303,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 40 • ⏱️ 24:22 • 20h ago
+👁️ 51K • 👍 2K • 💬 40 • ⏱️ 24:22 • 21h ago
 
 ---
 
@@ -325,7 +323,7 @@ In today's video we go over the short squeeze that resulted in billions of dolla
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 23 • ⏱️ 39:08 • 10h ago
+👁️ 14K • 👍 1K • 💬 23 • ⏱️ 39:08 • 11h ago
 
 ---
 
@@ -355,7 +353,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 21K • 👍 1K • 💬 535 • ⏱️ 22:30 • 17h ago
+👁️ 21K • 👍 1K • 💬 535 • ⏱️ 22:30 • 18h ago
 
 ---
 
@@ -365,7 +363,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 15K • 👍 944 • 💬 127 • ⏱️ 8:08 • 12h ago
+👁️ 15K • 👍 944 • 💬 127 • ⏱️ 8:08 • 13h ago
 
 ---
 
@@ -375,7 +373,7 @@ Come to the 1st ITC Conference (Ticket Prices go Up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 113K • 👍 6K • 💬 500 • ⏱️ 16:32 • 13h ago
+👁️ 113K • 👍 6K • 💬 500 • ⏱️ 16:32 • 14h ago
 
 ---
 

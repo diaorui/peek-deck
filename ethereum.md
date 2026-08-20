@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T17:58:30.315994+00:00'
+updated: '2026-08-20T18:50:57.943450+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 17:58 UTC  
+**Last Updated:** August 20, 2026 at 18:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 18h ago
 
 Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 1h ago
 
 In recent days, BitMine Immersion Technologies has highlighted that its crypto, cash, and strategic investment treasury has reached about US$11.40 billion, including 5.82 million ETH and 210 Bitcoin, while it continues a large stock repurchase program totaling US$4.00 billion. Management also indicated it is nearing a target of holding 5% of the total Ethereum supply, underlining an aggressive treasury concentration in ETH alongside increased buybacks. We’ll now examine how BitMine’s push...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 2h ago
 
 Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -202,13 +202,13 @@ Yahoo Finance • 20h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 20h ago
+MarketForces Africa • 21h ago
 
 ---
 
 **[Crypto comeback? Bitcoin and ethereum are headed for their best day in months as investors flock to hard assets.](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ CoinDesk • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 193 • 💬 42 • ⏱️ 7:45 • 4h ago
+👁️ 3K • 👍 193 • 💬 42 • ⏱️ 7:45 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Where is Ethereum heading over the next six months? My short-term target for Eth
 
 📺 Crypto Archie
 
-👁️ 320 • 👍 35 • ⏱️ 0:57 • 3h ago
+👁️ 320 • 👍 35 • ⏱️ 0:57 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 1K • 👍 49 • 💬 32 • ⏱️ 1:22:32 • 7h ago
+👁️ 1K • 👍 49 • 💬 32 • ⏱️ 1:22:32 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 668 • 💬 184 • ⏱️ 49:05 • 19h ago
+👁️ 7K • 👍 668 • 💬 184 • ⏱️ 49:05 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 CRYPTO with KLAUS
 
-👁️ 7K • 👍 418 • 💬 233 • ⏱️ 14:57 • 21h ago
+👁️ 7K • 👍 418 • 💬 233 • ⏱️ 14:57 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 9K • 👍 636 • 💬 144 • ⏱️ 19:03 • 14h ago
+👁️ 9K • 👍 636 • 💬 144 • ⏱️ 19:03 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 235 • 💬 21 • ⏱️ 6:58 • 22h ago
+👁️ 6K • 👍 235 • 💬 21 • ⏱️ 6:58 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we ar
 
 📺 The Rollup
 
-👁️ 4K • 👍 97 • 💬 6 • ⏱️ 10:38 • 15h ago
+👁️ 4K • 👍 97 • 💬 6 • ⏱️ 10:38 • 16h ago
 
 ---
 
