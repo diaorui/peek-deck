@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T10:59:46.021467+00:00'
+updated: '2026-08-20T11:35:01.032511+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 10:59 UTC  
+**Last Updated:** August 20, 2026 at 11:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,277.71
+### $2,310.62
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +18.9%  
-**7d:** +21.4%  
-**30d:** +18.1%  
-**90d:** +7.8%  
-**1y:** -46.0%  
+**7d:** +22.5%  
+**30d:** +19.2%  
+**90d:** +8.7%  
+**1y:** -45.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 1d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 1d ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 2d ago
 
 ---
 
@@ -150,51 +150,19 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 ## Google News: "ethereum"
 
-**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
-
-Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
-
-FXStreet • 11h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns](https://www.benzinga.com/crypto/cryptocurrency/26/08/61306566/bitcoin-ethereum-xrp-explode-over-6-higher-treasurys-move-will-send-inflation-soaring-peter-schiff-warns)**
-
-Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
-
-Benzinga • 19h ago
-
----
-
 **[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+**[Current price of Ethereum for Aug. 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
 
-Which of these altcoins has a better shot at a comeback?
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 17h ago
-
----
-
-**[BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo](https://www.tradingview.com/news/benzinga:9884f6e65094b:0-btc-digital-stock-soars-over-111-after-hours-bitmine-shares-trending-as-bitcoin-and-ethereum-regain-their-mojo/)**
-
-BTC Digital Ltd. (NASDAQ:BTCT) and BitMine Immersion Technologies Inc. (NYSE:BMNR) shares are trending on Thursday.BTCT gained 111.55% to $1.77 after the bell on Wednesday. This was after the stock climbed 79.97% to $0.84 in the regular session, according to Benzinga Pro data.BMNR surged 6.47% to…
-
-TradingView • 4h ago
-
----
-
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 18h ago
+Fortune • 35m ago
 
 ---
 
@@ -206,25 +174,55 @@ MarketForces Africa • 13h ago
 
 ---
 
-**[‘Buckle Up’—The Real $40 Trillion Reason Why A Massive Bitcoin Surge Could Be Just Beginning](https://www.forbes.com/sites/digital-assets/2026/08/20/buckle-up-the-real-40-trillion-reason-why-a-massive-bitcoin-surge-could-be-just-beginning/)**
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
 
-Bitcoin has suddenly surged by more than 10% over the last 24 hours...
+Which of these altcoins has a better shot at a comeback?
 
-Forbes • 1h ago
+The Motley Fool • 18h ago
+
+---
+
+**[Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-69-000-ethereum-211512521.html)**
+
+Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Hyperliquid Surge. It’s More Than Trump Boosting Them.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-hyperliquid-trump-5f97f0ef)**
+
+Barron's • 17m ago
+
+---
+
+**[Ethereum ETFs Draw $189 Million in Biggest Single-Day Haul in 10 Months](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-draw-189-million-104834566.html)**
+
+Ethereum ETFs pulled $189M on August 19, their biggest day since October, with BlackRock's fund taking 65%.
+
+Yahoo Finance • 46m ago
+
+---
+
+**[A New Proposal Would Reduce the Amount of Staking on Ethereum. Here's What It Means for Investors.](https://finance.yahoo.com/markets/crypto/articles/proposal-reduce-amount-staking-ethereum-112000508.html)**
+
+This proposed change could be bullish for holders.
+
+Yahoo Finance • 15m ago
+
+---
+
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+
+The Block • 19h ago
 
 ---
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 1d ago
-
----
-
-**[Why Bitcoin & Ethereum Prices Suddenly Surged Today—Should Traders Be Cautious?](https://coinpedia.org/price-analysis/why-bitcoin-ethereum-prices-suddenly-surged-today-should-traders-be-cautious/)**
-
-Bitcoin and Ethereum have broken higher, but traders need sustained price action above key resistance to confirm a genuine breakout rather than a short-lived squeeze.
-
-Coinpedia • 4h ago
 
 ---
 
@@ -268,7 +266,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 453 • 💬 73 • ⏱️ 19:03 • 7h ago
+👁️ 5K • 👍 453 • 💬 73 • ⏱️ 19:03 • 8h ago
 
 ---
 
@@ -288,7 +286,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 224 • 💬 51 • ⏱️ 6:58 • 15h ago
+👁️ 6K • 👍 224 • 💬 51 • ⏱️ 6:58 • 16h ago
 
 ---
 
@@ -326,7 +324,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 75 • 💬 40 • ⏱️ 0:34 • 11h ago
+👁️ 4K • 👍 75 • 💬 40 • ⏱️ 0:34 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T10:59:46.017298+00:00'
+updated: '2026-08-20T11:35:01.027215+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 10:59 UTC  
+**Last Updated:** August 20, 2026 at 11:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,233.26
+### $71,974.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +11.7%  
-**7d:** +14.3%  
-**30d:** +9.0%  
-**90d:** -6.2%  
-**1y:** -35.9%  
+**24h:** +11.3%  
+**7d:** +14.6%  
+**30d:** +9.3%  
+**90d:** -5.9%  
+**1y:** -35.7%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-2h ago
+3h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -127,7 +127,7 @@ Another dip before we rip? Or is this it 😸
 
 **[Next stop 700k](https://www.reddit.com/r/Bitcoin/comments/1vtdmzg/next_stop_700k/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ What are your thoughts???
 
 **[just me and my cold wallet playing doom :)](https://www.reddit.com/r/Bitcoin/comments/1vt5gjh/just_me_and_my_cold_wallet_playing_doom/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -153,7 +153,7 @@ What are your thoughts???
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -165,15 +165,25 @@ Forbes • 1h ago
 
 ---
 
-**[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
+**[Bitcoin, Crypto Shares Climb After Trump Pushes Clarity Act](https://www.usnews.com/news/politics/articles/2026-08-20/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act)**
 
-Reuters • 14h ago
+US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
+
+U.S. News & World Report • 27m ago
 
 ---
 
-**[Bitcoin approaches $72,000 as Strategy and Coinbase continue rally](https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally)**
+**[Bitcoin Price Prediction After The $70,000 Short Squeeze](https://www.forbes.com/sites/digital-assets/2026/08/20/bitcoin-suddenly-hits-70000-as-traders-warn-of-a-44000-bull-trap/)**
 
-CoinDesk • 1h ago
+Bitcoin hit $70,000 for the first time since June 2 as billions in shorts were liquidated. The traders who called the squeeze now warn of a bull trap toward $44,000.
+
+Forbes • 2h ago
+
+---
+
+**[Bitcoin Breaks Out of Six-week Range, Tops $71,000 as $3 Billion in Shorts Get Wiped Out](https://www.moomoo.com/news/post/74997254/bitcoin-breaks-out-of-six-week-range-tops-71000-as)**
+
+Moomoo • 42m ago
 
 ---
 
@@ -185,23 +195,17 @@ NBC News • 17h ago
 
 ---
 
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
-
-WSJ • 1d ago
-
----
-
 **[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
 
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
 BlackRock • 2d ago
+
+---
+
+**[Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months](https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months)**
+
+CoinDesk • 1h ago
 
 ---
 
@@ -213,9 +217,11 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin Rallies 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74942821/bitcoin-rallies-2-1-crypto-mover)**
+**[New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin](https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin)**
 
-Moomoo • 19h ago
+Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.
+
+Fox News • 20h ago
 
 ---
 
@@ -271,14 +277,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich & Nextcloud Client](https://news.ycombinator.com/item?id=49367952)**
-
-FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
-
-⬆️ 2 • 💬 0 • 12h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -289,7 +287,7 @@ FerrumPix is a desktop photo management and editing application for Linux,  Wind
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 189 • ⏱️ 10:41 • 11h ago
+👁️ 41K • 👍 2K • 💬 189 • ⏱️ 10:41 • 12h ago
 
 ---
 
@@ -299,7 +297,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 1K • 💬 40 • ⏱️ 24:22 • 13h ago
+👁️ 41K • 👍 1K • 💬 40 • ⏱️ 24:22 • 14h ago
 
 ---
 
@@ -309,7 +307,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 15K • 👍 861 • 💬 462 • ⏱️ 22:30 • 10h ago
+👁️ 15K • 👍 861 • 💬 462 • ⏱️ 22:30 • 11h ago
 
 ---
 
@@ -347,7 +345,7 @@ Direct Link to Sign-Up for Kryptex Entire Free ➡ https://geni.us/KryptexPC ⛏
 
 📺 The Hobbyist Miner
 
-👁️ 10K • 👍 416 • 💬 41 • ⏱️ 10:33 • 22h ago
+👁️ 10K • 👍 416 • 💬 41 • ⏱️ 10:33 • 23h ago
 
 ---
 

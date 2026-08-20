@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T10:59:46.011112+00:00'
+updated: '2026-08-20T11:35:01.019216+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 10:59 UTC  
+**Last Updated:** August 20, 2026 at 11:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ There is a cost line item in every enterprise AI budget that almost nobody audit
 
 ---
 
+**[When is someone going to build an authenticity recorder?](https://www.reddit.com/r/artificial/comments/1vtf0bq/when_is_someone_going_to_build_an_authenticity/)**
+
+'89% likelihood that this piece was written with AI'. At this point, just watch me type - record me for all I care. The 'AI detection tools' currently on offer aren't working - we're now at the point where endless false positives are resulting in a sort of deliberate dumbing down of creative spaces. The best immediate solution I can think of is recording a creative as they're doing their work - though in the writing space, recording alone wouldn't stop someone with enough motivation. Critically, something needs to give here, and it shouldn't be humans. Tackling the issue of talented creatives being accused of producing AI slop has to be something we resolve. The sooner, the better.
+
+1h ago
+
+---
+
 **[Absolute mode for AI ?](https://www.reddit.com/r/artificial/comments/1vtcyct/absolute_mode_for_ai/)**
 
 Hi guys, in the past, I always used Absolute Mode with my AI. As technology has progressed, the guardrails have gotten stricter, and my old commands don't work like they used to. Does anyone have a new command they could share? The AI is using way too much soft talk and filler words, and I'd like to get back that cold, objective AI I had before. It used to feel like a precise tool, but now it tries to act like a buddy, which I really don't want. Thanks in advance for the help!
 
 3h ago
+
+---
+
+**[Unpopular take: most enterprise AI pilots never reach production because they apply generative models to problems that require discriminative ones](https://www.reddit.com/r/artificial/comments/1vtg82a/unpopular_take_most_enterprise_ai_pilots_never/)**
+
+After nearly thirty years building distributed systems in financial markets and enterprise data infrastructure, I keep seeing the same pattern. A fraud detection model running continuously, updating from operational data, making millions of auditable decisions daily. Nobody calls it AI. It just works. Has been working for years. Meanwhile the same company has been running a frontier LLM pilot for eighteen months. Still a pilot. Output requires human review on every decision. Governance layer not ready. Auditability question unanswered. No ROI generated. The gap comes down to one mathematical distinction most people skip: Discriminative ML finds θ = argmax P(y | x ; θ) . Your parameters, your data, your operational distribution, continuously updated from your stream.* Generative LLMs find x = argmax P(x | x_prompt ; θ). Someone else's parameters, someone else's corpus, frozen at training time regardless of how many of your events flow through it. These are not two versions of the same thing. Different mathematical objectives, different inference directions, different update mechanisms. Wrote the full argument here including the neuroscience analogy that surprised me, the fine-tuning and open weights rebuttals, and the data sovereignty / CLOUD Act angle for European enterprises: https://medium.com/@dcris19740101/the-enterprise-already-has-ai-it-just-does-not-call-it-that-2f38b2afa3f5 Curious what others are seeing in production environments.
+
+36m ago
 
 ---
 
@@ -61,11 +77,11 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 ---
 
-**[We are THIS close...to Superintelligence](https://www.reddit.com/r/artificial/comments/1vtdfjo/we_are_this_closeto_superintelligence/)**
+**[Alvin Wang Graylin: Chinese Courts Won't Let AI Fire You Without a Backup Plan — America Has No Equivalent](https://www.reddit.com/r/artificial/comments/1vtfey6/alvin_wang_graylin_chinese_courts_wont_let_ai/)**
 
-automate the scientific method math discovering math recursive self-reflection
+AI take – TL;DR: China's courts already put AI liability on the human either way — the US has no such floor when AI displaces your role. China's court system already answered a question the US hasn't even started asking out loud: if an AI system displaces your role, who's obligated to catch you? Both sides of a real federal case leaned on AI to prep, and the liability still landed on a human being either way — the tool never becomes the one who's accountable. Turns out whether there's a floor under you at all depends entirely on which side of the ocean you're standing on. I've sat on the losing side of a version of that same question before, and it wasn't AI doing the displacing — it was a company deciding who got to keep their institutional value and who didn't. OP wrote – Throughout my years with SC, one of the largest main contractors in Malaysia, staff turnover was normal. But when people left, they took valuable and critical institutional knowledge with them, accepted offers from competitors, and got promoted — the knowledge they brought along benefited the rival. So our leadership set up a knowledge vault, and made contributing to it part of our KPI for promotion. Or else, we'd be sidelined. I was fine sharing — we had a communal sense that we rise or fall as one, carved into company policy and the bonus structure. But not everyone shared that sentiment. People are selfish. The institutional knowledge and experience they gained became a moat they hoard, a bargaining chip they dangle around to get what they think they're entitled to, for fear that they'll be replaced. I can understand the sentiment of fear being replaced by AI. It's an issue then, it's the same issue now. https://preview.redd.it/g2t6uom59ikh1.jpg?width=1024&format=pjpg&auto=webp&s=ee59a49a639ebbe01a9dac1c81b85c2af7436898 __________ AI take – Different post, same fingerprint: something about to become optional, and no rulebook anywhere forcing anyone to say so out loud. The liability question above already got a dry run once this year — both sides of a federal case leaned on AI to prep, and it changed nothing about who ended up on the hook — worth reading if the pattern above is landing. Curious where you land on this — drop your take below. Clip credit: Moonshots w/ Alvin Wang Graylin — full episode on their channel. DM for credit or removal requests.
 
-🔗 [substack.com](https://substack.com/home/post/p-211336787) • 2h ago
+1h ago
 
 ---
 
@@ -73,7 +89,7 @@ automate the scientific method math discovering math recursive self-reflection
 
 A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
 
-21h ago
+22h ago
 
 ---
 
@@ -89,31 +105,15 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: "What's going wrong here?" "How do I fix this?" "What am I looking at?" "What should I do next?" Or just have it understand what's happening without needing to explain everything manually. Privacy is something I'm taking seriously with the idea. There would be a privacy toggle that completely disables screen analysis, as well as the ability to temporarily pause screen checking whenever you want. So you're always in control of when the AI can see your screen. I'm especially interested in hearing from people who use local/vision models: What would you actually want a screen-aware AI to do for you? Would you want it to continuously watch your screen, only activate when you press a key, or something else? And assuming you could instantly disable/pause screen access, what other privacy concerns would you still have? I'm still figuring out the direction, so I'm more interested in honest criticism and use cases than people simply saying whether the idea sounds cool.
 
-11h ago
+12h ago
 
 ---
 
-**[When AI art has no author: Study finds generated images often can’t be traced to training data](https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/)**
+**[We are THIS close...to Superintelligence](https://www.reddit.com/r/artificial/comments/1vtdfjo/we_are_this_closeto_superintelligence/)**
 
-Images generated by AI models trained on massive datasets often can’t be traced to specific training images, MIT CSAIL researchers found. Removing individual images from the dataset didn’t change outputs, complicating copyright questions.
+automate the scientific method math discovering math recursive self-reflection
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818) • 1d ago
-
----
-
-**[Poor adoption at different scales](https://www.reddit.com/r/artificial/comments/1vsyj5s/poor_adoption_at_different_scales/)**
-
-Generic AI training at one company: 11% uptake. A company-wide licence at an unrelated firm, different sector: 11.5% active use. Same number twice, from opposite directions. The cause underneath is the same. Nobody connected the tool to the job sitting in front of the person. Training that opens with “here is what the tool can do” gets you 11%. Training that opens with “show me the thing you did 4 times yesterday” gets people building before lunch. What was the uptake on your last rollout, measured a month later?
-
-14h ago
-
----
-
-**[I built a custom multi-agent framework (GenOS) to autonomously evolve algorithms. I pitted the 3 fundamental AI paradigms against an NP-Hard problem. Here is what happened.](https://www.reddit.com/r/artificial/comments/1vsyo3j/i_built_a_custom_multiagent_framework_genos_to/)**
-
-Hey everyone, For a while now, I’ve been developing a proprietary multi-agent framework called GenOS. Without giving away the exact mechanics, GenOS is an orchestrator where autonomous LLM sub-agents write, compile, benchmark, and iteratively evolve Rust code to solve extremely complex algorithmic challenges. They share knowledge, compete, and evolve their architectures over dozens of generations. The Challenge: I tasked GenOS with solving the "Reverse Game of Life" (finding the exact Gen-0 starting state that results in a target Gen-5 grid on a flat 20x20 matrix). For those who don't know, reversing Cellular Automata is a notoriously NP-Hard problem due to the immense state space and chaotic temporal butterfly effect. The 3 Champions: Over the course of the experiment, GenOS organically evolved and isolated three peak architectures, representing the three fundamental paradigms of computer science optimization: Epsilon (Gen 17 - The Causal Optimizer): Epsilon took a highly analytical, deterministic approach. It mapped the causal light-cones of the Game of Life to calculate local gradients. It was brilliant in theory, but because Conway's Game of Life is highly non-linear, local gradients are often misleading. Epsilon hit a wall around 306/400, proving that pure determinism struggles with chaos. Omega (Gen 10 - The SAT Solver): Omega took the path of formal logic. It translated the entire 5-generation temporal grid into a massive boolean satisfiability formula and ran a highly optimized stochastic WalkSAT algorithm. It was mathematically rigorous, but the dense topological constraints caused severe combinatorial explosion. It fought valiantly but ultimately choked on its own massive clause database. Sigma (Gen 39 - The Darwinian Brute-Force): Sigma was the absolute masterpiece. It threw away formal logic and relied on sheer violence. It evolved a massive SWAR (Bit-Slicing) engine to evaluate 64 universes simultaneously in a single CPU register, combined with Simulated Annealing and "thermal shocks" to escape local minima. Sigma crushed the competition, organically reaching a peak score of 378/400. The Discovery: At 378, Sigma completely stalled. It wasn't a failure of the algorithm. By analyzing the data produced by Omega Gen 10 and Sigma Gen 39, the system ultimately proved that the remaining 22 pixels were mathematically UNSAT. Because of the dead borders of the flat topology, reaching 400/400 was a physical impossibility. 378 was the hard limit of the universe. Conclusion: It was genuinely mind-blowing to watch an autonomous multi-agent system (GenOS) independently reinvent and test the three major pillars of optimization (Causal Analysis, SAT Logic, and Stochastic Heuristics) just to mathematically prove the physical limits of a sandbox environment. Has anyone else working with autonomous coding orchestrators experienced their agents organically inventing and benchmarking completely different computer science paradigms like this? Would love to hear your thoughts! I tried every algorithm I know and I couldn't beat SAT/CDCL. Here the code of Sigma Gen 39 // ============================================================================== // SIGMA - GEN 39 : The Ultimate Darwinian SA (Transcendance) // ============================================================================== // // RECORD: 378/400 (Nouveau Champion Absolu) // ARCHITECTURE: // - Vrai Bit-Slicing 64-voies (Batch64) // - Wall-Clock Budget (28.5 secondes réelles) // - Reheating (Choc thermique si stagnation locale de 200k itérations) // - Adaptive Causal Window (Rayon décroissant : 5 -> 3 -> 1 selon le score) // - Memetic Crossover (Échange génétique de lignes entre threads) // - Random Restart (Reboot total en cas d'impasse fatale) // ============================================================================== use std::sync::{Arc, Mutex}; use std::time::{Duration, Instant}; use rand::Rng; const TIME_BUDGET_SECS: f64 = 28.5; #[derive(Clone, Copy)] struct SAState { grid: [u32; 20], score: u32, errors: [u32; 20], // Masque d'erreurs (limité à 20 bits) } struct Batch64 { cells: [u64; 400], } impl Batch64 { fn new() -> Self { Batch64 { cells: [0; 400] } } } /// Simulateur bit-parallel classique pour évaluation rapide fn evaluate_single(grid: &[u32; 20], target: &[u32; 20], state: &mut SAState) { state.grid = *grid; let mut new_score = 0; // ... Placeholder 5 itérations de Conway sur Flat Topology ... let g5_grid = grid; // (Simulation omise pour clarté) for y in 0..20 { let matches = !(g5_grid[y] ^ target[y]) & 0xFFFFF; new_score += matches.count_ones(); state.errors[y] = (!matches) & 0xFFFFF; } state.score = new_score; } #[derive(Clone)] struct GlobalPool { elites: Vec<[u32; 20]>, // Grilles d'élite partagées par les threads best_overall_score: u32, } fn focused_causal_sa(target: Arc<[u32; 20]>, global_pool: Arc<Mutex<GlobalPool>>) { let mut rng = rand::thread_rng(); // Initialisation let mut current_state = SAState { grid: [0; 20], score: 0, errors: [0; 20] }; for y in 0..20 { current_state.grid[y] = rng.gen_range(0..=0xFFFFF); } evaluate_single(&current_state.grid, &target, &mut current_state); let mut best_state = current_state.clone(); let mut temp = 0.5; let cooling_rate = 0.999995; let mut iter = 0; let mut last_improvement_iter = 0; let start_time = Instant::now(); // 1. Wall-Clock Budget while start_time.elapsed().as_secs_f64() < TIME_BUDGET_SECS { iter += 1; let mut next_grid = current_state.grid; // 3. Adaptive Causal Window (Ajustement du rayon de mutation) let radius = if current_state.score < 330 { 5 } else if current_state.score < 360 { 3 } else { 1 // Ciselage chirurgical final }; // Ratio 70% causal / 30% random if rng.gen::<f64>() < 0.70 { let total_errors = 400 - current_state.score; if total_errors == 0 { break; } let k = rng.gen_range(0..total_errors); let mut err_count = 0; let mut target_err = (0, 0); 'find: for y in 0..20 { let mut mask = current_state.errors[y]; while mask > 0 { let x = mask.trailing_zeros(); if err_count == k { target_err = (x, y); break 'find; } err_count += 1; mask &= mask - 1; } } let ex = target_err.0 as usize; let ey = target_err.1 as usize; let xmin = ex.saturating_sub(radius); let xmax = (ex + radius).min(19); let ymin = ey.saturating_sub(radius); let ymax = (ey + radius).min(19); let mx = rng.gen_range(xmin..=xmax); let my = rng.gen_range(ymin..=ymax); next_grid[my] ^= 1 << mx; } else { // Mutation purement aléatoire globale let mx = rng.gen_range(0..20); let my = rng.gen_range(0..20); next_grid[my] ^= 1 << mx; } let mut next_state = current_state.clone(); evaluate_single(&next_grid, &target, &mut next_state); let delta = next_state.score as f64 - current_state.score as f64; // Critère de Metropolis if delta > 0.0 || rng.gen::<f64>() < (delta / temp).exp() { current_state = next_state; if current_state.score > best_state.score { best_state = current_state.clone(); last_improvement_iter = iter; // Mettre à jour le pool global si record absolu let mut pool = global_pool.lock().unwrap(); if best_state.score > pool.best_overall_score { pool.best_overall_score = best_state.score; pool.elites.push(best_state.grid); println!(">>> RECORD BATTU : {}/400 (iter {})", best_state.score, iter); } } } // 2. Reheating dynamique (Choc Thermique) if iter - last_improvement_iter == 200_000 { temp = (temp * 2.0).min(0.5); } else { temp *= cooling_rate; } // 4. Random Restart si impasse fatale if iter - last_improvement_iter > 1_000_000 { for y in 0..20 { current_state.grid[y] = rng.gen_range(0..=0xFFFFF); } evaluate_single(&current_state.grid, &target, &mut current_state); last_improvement_iter = iter; temp = 0.5; } // 5. Memetic Crossover (Toutes les 500k itérations) if iter % 500_000 == 0 { let pool = global_pool.lock().unwrap(); if !pool.elites.is_empty() { let elite_grid = pool.elites[rng.gen_range(0..pool.elites.len())]; // Crossover spatial : on injecte 5 lignes d'un univers d'élite let start_y = rng.gen_range(0..15); for y in start_y..(start_y+5) { current_state.grid[y] = elite_grid[y]; } evaluate_single(&current_state.grid, &target, &mut current_state); if current_state.score > best_state.score { best_state = current_state.clone(); last_improvement_iter = iter; } } } } } fn main() { println!("Démarrage Gen 39 Sigma (Darwinien Ultime) - 16 threads, budget 28.5s..."); // Orchestration multi-thread sur \focused_causal_sa`...` }
-
-14h ago
+🔗 [substack.com](https://substack.com/home/post/p-211336787) • 3h ago
 
 ---
 
@@ -125,7 +125,57 @@ Hey everyone, For a while now, I’ve been developing a proprietary multi-agent 
 
 College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
-blog.google • 15h ago
+blog.google • 16h ago
+
+---
+
+**[The slow sucking sound of AI](https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1)**
+
+Searching for signs of crowding out
+
+Financial Times • 3h ago
+
+---
+
+**[AI "nudify" apps that can digitally undress any photo pose back-to-school risk](https://www.cbsnews.com/news/ai-nudify-apps-back-to-school-photo-risk/)**
+
+Think that back-to-school photo is safe to post online? Bad actors could use AI "nudify" apps to make it X-rated.
+
+CBS News • 4m ago
+
+---
+
+**[AI bias isn't just an error in the algorithm, it's a chain of human decisions](https://techxplore.com/news/2026-08-ai-bias-isnt-error-algorithm.html)**
+
+Tech Xplore • 14m ago
+
+---
+
+**[Alibaba Q1 2026 earnings: profit drops 76% on AI spending](https://qz.com/alibaba-earnings-profit-ai-investments-082026)**
+
+Net income fell to 10.54 billion yuan in the June quarter, while cloud revenue grew 45% on surging AI demand
+
+qz.com • 4m ago
+
+---
+
+**[Exclusive: CrowdStrike's CTO is leaving to launch an AI-cyber fund](https://www.axios.com/2026/08/20/exclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund)**
+
+Axios • 1h ago
+
+---
+
+**[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
+
+Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
+
+The Washington Post • 54m ago
+
+---
+
+**[It Won’t Take Much to Burst the Stock Market Bubble](https://www.bloomberg.com/opinion/articles/2026-08-20/us-stock-market-bubble-ai-boom-won-t-prevent-a-sharp-correction)**
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -133,51 +183,7 @@ blog.google • 15h ago
 
 Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
 
-The Guardian • 10h ago
-
----
-
-**[Exclusive: CrowdStrike's CTO is leaving to launch an AI-cyber fund](https://www.axios.com/2026/08/20/exclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund)**
-
-Axios • 34m ago
-
----
-
-**[US Lead in the AI Race With China Is Rapidly Narrowing](https://www.bloomberg.com/graphics/2026-us-china-ai-race/)**
-
-Bloomberg.com • 13h ago
-
----
-
-**[Watch China Is Rapidly Catching Up to the US in the AI Race](https://www.bloomberg.com/news/videos/2026-08-20/china-is-rapidly-catching-up-to-the-us-in-the-ai-race-video)**
-
-Bloomberg.com • 33m ago
-
----
-
-**[China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That](https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/)**
-
-For years, the Chinese military’s own newspaper has been making a promise it may no longer be able to keep. Whenever the People’s Liberation Army Daily
-
-War on the Rocks • 3h ago
-
----
-
-**[Alibaba cloud revenue rises 45% even as AI spending weighs on profit](https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html)**
-
-CNBC • 1h ago
-
----
-
-**[Jack Ma-Backed Ant’s Profit Flattened After AI, Expansion Costs](https://www.bloomberg.com/news/articles/2026-08-20/jack-ma-backed-ant-s-profit-flattened-after-ai-expansion-costs)**
-
-Bloomberg.com • 48m ago
-
----
-
-**[Alibaba Posts Weaker Earnings Amid Heavy AI Investments](https://www.wsj.com/business/earnings/alibaba-posts-weaker-earnings-amid-heavy-ai-investments-0429baaa)**
-
-WSJ • 45m ago
+The Guardian • 11h ago
 
 ---
 
@@ -185,7 +191,7 @@ WSJ • 45m ago
 
 If physical and digital watermarks were meant to verify authenticity, AI watermarks serve more to signal inauthenticity.
 
-CNN • 59m ago
+CNN • 1h ago
 
 ---
 
@@ -197,7 +203,7 @@ CNN • 59m ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1091 • 💬 686 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1091 • 💬 687 • 2d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -205,7 +211,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1045 • 💬 823 • 2d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1045 • 💬 825 • 2d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -213,7 +219,15 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 609 • 💬 418 • 2d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 610 • 💬 418 • 2d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+
+---
+
+**[Don't Paste the AI, please](https://news.ycombinator.com/item?id=49371857)**
+
+If someone asks you a question, paste your answer — not the chatbot's.
+
+⬆️ 424 • 💬 205 • 3h ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
@@ -235,7 +249,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 311 • 💬 496 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 311 • 💬 497 • 1d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -243,15 +257,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 275 • 💬 96 • 1d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
-
----
-
-**[Don't Paste the AI, please](https://news.ycombinator.com/item?id=49371857)**
-
-If someone asks you a question, paste your answer — not the chatbot's.
-
-⬆️ 271 • 💬 147 • 2h ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 279 • 💬 96 • 1d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -259,7 +265,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
-⬆️ 189 • 💬 112 • 1d ago • [linear.app](https://linear.app/data)
+⬆️ 190 • 💬 112 • 1d ago • [linear.app](https://linear.app/data)
 
 ---
 
@@ -267,7 +273,7 @@ AI usage patterns in software teams: who is adopting AI, how it reshapes where t
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 174 • 💬 200 • 19h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 180 • 💬 209 • 20h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -281,7 +287,7 @@ RED FLAG — an AI short film in the aesthetic of 90s Hong Kong cinema. Fully op
 
 📺 Higgsfield AI
 
-👁️ 19K • 👍 711 • 💬 77 • ⏱️ 2:25 • 20h ago
+👁️ 19K • 👍 711 • 💬 77 • ⏱️ 2:25 • 21h ago
 
 ---
 
@@ -291,7 +297,7 @@ Claim your 10 Free Meals by using code MBBHFCRWY at https://hellofresh.yt.link/m
 
 📺 MoreBeckBros
 
-👁️ 40K • 👍 2K • 💬 223 • ⏱️ 12:36 • 11h ago
+👁️ 40K • 👍 2K • 💬 223 • ⏱️ 12:36 • 12h ago
 
 ---
 
@@ -301,7 +307,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 85K • 👍 4K • 💬 272 • ⏱️ 5:29 • 16h ago
+👁️ 85K • 👍 4K • 💬 272 • ⏱️ 5:29 • 17h ago
 
 ---
 
@@ -331,7 +337,7 @@ AI Destroyed His Entire Farm | #farmer --- A 67-year-old farmer in China's Anhui
 
 📺 2DAY_RAVINDRA
 
-👁️ 3K • ⏱️ 0:55 • 3h ago
+👁️ 3K • ⏱️ 0:55 • 4h ago
 
 ---
 
@@ -369,7 +375,7 @@ Scientists at Stanford have used AI models to design entirely new viruses that s
 
 📺 Dr Ben Miles
 
-👁️ 1.1M • 👍 88K • 💬 4K • ⏱️ 2:31 • 19h ago
+👁️ 1.1M • 👍 88K • 💬 4K • ⏱️ 2:31 • 20h ago
 
 ---
 
@@ -642,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.6k • 🔱 1.8k • 11h ago
+⭐ 15.6k • 🔱 1.8k • 12h ago
 
 ---
 
@@ -680,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 571 • 22h ago
+⭐ 3.4k • 🔱 571 • 23h ago
 
 ---
 
@@ -710,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 321 • 3h ago
+⭐ 2.7k • 🔱 321 • 4h ago
 
 ---
 
@@ -730,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 180 • 2h ago
+⭐ 2.2k • 🔱 180 • 3h ago
 
 ---
 
