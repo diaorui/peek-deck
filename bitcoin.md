@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T18:50:57.938217+00:00'
+updated: '2026-08-20T19:31:22.979016+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 18:50 UTC  
+**Last Updated:** August 20, 2026 at 19:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,850.68
+### $72,601.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.5%  
-**7d:** +15.6%  
-**30d:** +10.2%  
-**90d:** -5.1%  
-**1y:** -35.2%  
+**24h:** +5.1%  
+**7d:** +15.2%  
+**30d:** +9.9%  
+**90d:** -5.4%  
+**1y:** -35.4%  
 
 ---
 
@@ -81,31 +81,31 @@ Rank #1
 
 Another dip before we rip? Or is this it 😸
 
-8h ago
+9h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-6h ago
+7h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-8h ago
+9h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-10h ago
+11h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ Another dip before we rip? Or is this it 😸
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Another dip before we rip? Or is this it 😸
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-3h ago
+4h ago
 
 ---
 
@@ -153,33 +153,43 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
+**[Bitcoin Forms Bullish ‘Golden Cross’ Chart Pattern](https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-184400121.html)**
 
-Reuters • 3h ago
+Bitcoin (CRYPTO: $BTC) has formed a bullish golden cross chart pattern with its price above $72,000 U.S. on Aug. 20...
+
+Yahoo Finance • 47m ago
+
+---
+
+**[VanEck's Matthew Sigel: 'Bitcoin is one of the best hedges you can find'](https://www.cnbc.com/video/2026/08/20/vanecks-matthew-sigel-bitcoin-is-one-of-the-best-hedges-you-can-find.html)**
+
+Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and the crypto economy and more.
+
+CNBC • 52m ago
+
+---
+
+**[Short squeeze sends Bitcoin to $72,000 and erases $1.6 billion](https://finance.yahoo.com/markets/crypto/articles/short-squeeze-sends-bitcoin-72-184201085.html)**
+
+Bitcoin spent six weeks going nowhere before it finally rallied.
+
+Yahoo Finance • 49m ago
 
 ---
 
 **[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-Bloomberg • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin's Odds Of Hitting $80,000 This Year Double Overnight As Price Suddenly Tops $70,000](https://www.forbes.com/sites/antoniopequenoiv/2026/08/20/bitcoins-odds-of-hitting-80000-this-year-double-overnight-as-price-suddenly-tops-70000/)**
+**[Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-btc-roars-past-70-000-as-yields-sink-trump-cour)**
 
-Polymarket trading pushed the odds of bitcoin hitting the benchmark by the end of the year from 30% to 60% overnight.
-
-Forbes • 1h ago
-
----
-
-**[Bitcoin Breaks Above $72,000 as Trump, Regulators Urge Congress to Pass Clarity Act](https://www.moomoo.com/news/post/75003375/bitcoin-breaks-above-72000-as-trump-regulators-urge-congress-to)**
-
-Moomoo • 1h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -191,17 +201,11 @@ NBC News • 1d ago
 
 ---
 
-**[Bitcoin (BTC) price analysis: $180,000 targeted on Treasury buybacks](https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000)**
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
 
-CoinDesk • 2h ago
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
 
----
-
-**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
-
-The S&P 500 just triggered a bullish signal, barely.
-
-Investor's Business Daily • 6h ago
+VanEck • 2d ago
 
 ---
 
@@ -213,11 +217,11 @@ BlackRock • 2d ago
 
 ---
 
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+**[Bitcoin tops $71K as crypto rally gains momentum (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4635267-bitcoin-tops-71k-as-crypto-rally-gains-momentum)**
 
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+Bitcoin tops $71K as short liquidations hit $3.31B, lifting crypto stocks like COIN, MSTR and HOOD.
 
-VanEck • 2d ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -261,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 12h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 13h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -283,7 +287,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 2K • 💬 139 • ⏱️ 9:45 • 7h ago
+👁️ 33K • 👍 2K • 💬 139 • ⏱️ 9:45 • 8h ago
 
 ---
 
@@ -293,7 +297,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 152 • ⏱️ 10:41 • 19h ago
+👁️ 60K • 👍 3K • 💬 152 • ⏱️ 10:41 • 20h ago
 
 ---
 
@@ -303,7 +307,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 40 • ⏱️ 24:22 • 21h ago
+👁️ 51K • 👍 2K • 💬 40 • ⏱️ 24:22 • 22h ago
 
 ---
 
@@ -313,7 +317,7 @@ Bitcoin finally broke out, running from roughly $64K to over $72K in two session
 
 📺 Swan Bitcoin
 
-👁️ 1K • 👍 117 • 💬 32 • ⏱️ 2:50 • 3h ago
+👁️ 1K • 👍 117 • 💬 32 • ⏱️ 2:50 • 4h ago
 
 ---
 
@@ -353,7 +357,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 21K • 👍 1K • 💬 535 • ⏱️ 22:30 • 18h ago
+👁️ 21K • 👍 1K • 💬 535 • ⏱️ 22:30 • 19h ago
 
 ---
 
@@ -373,7 +377,7 @@ Come to the 1st ITC Conference (Ticket Prices go Up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 113K • 👍 6K • 💬 500 • ⏱️ 16:32 • 14h ago
+👁️ 113K • 👍 6K • 💬 500 • ⏱️ 16:32 • 15h ago
 
 ---
 

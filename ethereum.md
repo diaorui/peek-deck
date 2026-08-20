@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T18:50:57.943450+00:00'
+updated: '2026-08-20T19:31:22.985066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 18:50 UTC  
+**Last Updated:** August 20, 2026 at 19:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,346.05
+### $2,319.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +12.3%  
-**7d:** +24.7%  
-**30d:** +21.4%  
-**90d:** +10.8%  
-**1y:** -44.5%  
+**24h:** +4.9%  
+**7d:** +23.7%  
+**30d:** +20.3%  
+**90d:** +9.8%  
+**1y:** -45.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -150,6 +150,12 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 ## Google News: "ethereum"
 
+**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+
+Barron's • 3h ago
+
+---
+
 **[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
@@ -158,43 +164,19 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
-
-Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
-
-FXStreet • 18h ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
-
-Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-ethereum.org • 1h ago
+ethereum.org • 2h ago
 
 ---
 
-**[Why BitMine Immersion Technologies (BMNR) Is Up 13.1% After Targeting 5% of All Ethereum – And What's Next](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-151249411.html)**
+**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
 
-In recent days, BitMine Immersion Technologies has highlighted that its crypto, cash, and strategic investment treasury has reached about US$11.40 billion, including 5.82 million ETH and 210 Bitcoin, while it continues a large stock repurchase program totaling US$4.00 billion. Management also indicated it is nearing a target of holding 5% of the total Ethereum supply, underlining an aggressive treasury concentration in ETH alongside increased buybacks. We’ll now examine how BitMine’s push...
+Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-69-000-ethereum-211512521.html)**
-
-Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows
-
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -206,9 +188,11 @@ MarketForces Africa • 21h ago
 
 ---
 
-**[Crypto comeback? Bitcoin and ethereum are headed for their best day in months as investors flock to hard assets.](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
+**[BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo](https://www.tradingview.com/news/benzinga:9884f6e65094b:0-btc-digital-stock-soars-over-111-after-hours-bitmine-shares-trending-as-bitcoin-and-ethereum-regain-their-mojo/)**
 
-MarketWatch • 4h ago
+BTC Digital Ltd. (NASDAQ:BTCT) and BitMine Immersion Technologies Inc. (NYSE:BMNR) shares are trending on Thursday.BTCT gained 111.55% to $1.77 after the bell on Wednesday. This was after the stock climbed 79.97% to $0.84 in the regular session, according to Benzinga Pro data.BMNR surged 6.47% to…
+
+TradingView • 13h ago
 
 ---
 
@@ -218,11 +202,25 @@ CoinDesk • 2d ago
 
 ---
 
+**[Crypto comeback? Bitcoin and ethereum are headed for their best day in months as investors flock to hard assets.](https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803)**
+
+MarketWatch • 5h ago
+
+---
+
 **[Crypto News: Pepeto (PEPETO) Nears 50,000 Holders as Ethereum Price Eyes $10,000 and Shiba Inu's Story Repeats](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-pepeto-nears-50-000-holders-as-ethereum-price-eyes-10-000-and-shiba-inu-s-story-repeats-1036477647)**
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 11h ago
+
+---
+
+**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
+
+Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
+
+FXStreet • 19h ago
 
 ---
 
@@ -246,7 +244,7 @@ Where is Ethereum heading over the next six months? My short-term target for Eth
 
 📺 Crypto Archie
 
-👁️ 320 • 👍 35 • ⏱️ 0:57 • 4h ago
+👁️ 320 • 👍 35 • ⏱️ 0:57 • 5h ago
 
 ---
 
@@ -316,7 +314,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 235 • 💬 21 • ⏱️ 6:58 • 23h ago
+👁️ 6K • 👍 235 • 💬 21 • ⏱️ 6:58 • 1d ago
 
 ---
 
@@ -326,7 +324,7 @@ Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we ar
 
 📺 The Rollup
 
-👁️ 4K • 👍 97 • 💬 6 • ⏱️ 10:38 • 16h ago
+👁️ 4K • 👍 97 • 💬 6 • ⏱️ 10:38 • 17h ago
 
 ---
 

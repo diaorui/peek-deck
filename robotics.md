@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T18:50:57.946285+00:00'
+updated: '2026-08-20T19:31:22.988272+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 18:50 UTC  
+**Last Updated:** August 20, 2026 at 19:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,22 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Robot dodgeball](https://www.reddit.com/r/robotics/comments/1vtpcja/robot_dodgeball/)**
+
+Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
+
+2h ago
+
+---
+
+**[My Totally Intentional Fail Safe Method](https://www.reddit.com/r/robotics/comments/1vtobes/my_totally_intentional_fail_safe_method/)**
+
+Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
+
+3h ago
+
+---
 
 **[DIY 6-DOF Robot Control & 3D Visualization with Node-RED + Three.js](https://www.reddit.com/r/robotics/comments/1vtla20/diy_6dof_robot_control_3d_visualization_with/)**
 
@@ -56,11 +72,11 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 ---
 
-**[My Totally Intentional Fail Safe Method](https://www.reddit.com/r/robotics/comments/1vtobes/my_totally_intentional_fail_safe_method/)**
+**[Quadruped Learns When to Walk, Run or Jump Based on Terrain](https://www.reddit.com/r/robotics/comments/1vtsw77/quadruped_learns_when_to_walk_run_or_jump_based/)**
 
-Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
+KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-2h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 21m ago
 
 ---
 
@@ -92,19 +108,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 One thing I've noticed with vertical linear axes is that deciding the travel length seems surprisingly difficult. A robot might only need to reach from the floor to a work surface today, but the required workspace can change depending on the task — different working heights, payloads, tools, or even where the robot needs to position itself. The challenge is that the travel is often a decision you have to make early. Too little and you can end up rebuilding the mechanism later; too much can add unnecessary size, weight, cost, and mechanical complexity. For those who have designed robots with a vertical linear axis: how do you determine the required travel before the robot is fully built? Do you mainly calculate it from the expected workspace and mechanism geometry, or do you typically add some extra travel as a margin?
 
-4h ago
-
----
-
-**[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
-
-1d ago
-
----
-
-**[Robot breaking the human speed record and BREAKING an electrical box at the same time.](https://www.reddit.com/r/robotics/comments/1vs9il2/robot_breaking_the_human_speed_record_and/)**
-
-1d ago
+5h ago
 
 ---
 
@@ -112,17 +116,11 @@ One thing I've noticed with vertical linear axes is that deciding the travel len
 
 ## Google News: "robotics"
 
-**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
+**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
 
-Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
+Companies are selling machines to government-backed centres that then sell training data back to robot makers
 
-CNBC • 10h ago
-
----
-
-**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
-
-Reuters • 1d ago
+Financial Times • 17h ago
 
 ---
 
@@ -130,13 +128,21 @@ Reuters • 1d ago
 
 The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
-**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+**[Amazon to build multibillion-dollar robotics manufacturing facility in Austin](https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin)**
 
-Bloomberg • 1d ago
+Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
+
+KEYE • 15h ago
+
+---
+
+**[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
+
+The Business Journals • 21h ago
 
 ---
 
@@ -144,7 +150,7 @@ Bloomberg • 1d ago
 
 During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.
 
-WIRED • 23h ago
+WIRED • 1d ago
 
 ---
 
@@ -156,9 +162,17 @@ Construction Dive • 1d ago
 
 ---
 
+**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
+
+New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
+
+Intel Newsroom • 6h ago
+
+---
+
 **[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -170,19 +184,11 @@ The Conversation • 1d ago
 
 ---
 
-**[From robot dogs to helpers, China puts robotics ambitions on display at world conference](https://apnews.com/article/china-robot-conference-951ebd3cddaccf5afcedc68174ba626a)**
-
-China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry.
-
-AP News • 1d ago
-
----
-
 **[AI researcher Sanja Fidler raises US$90-million for robotics startup](https://www.theglobeandmail.com/business/article-sanja-fidler-veeda-innovation-nvidia-ai-robotics-training-toronto/)**
 
 Veeda Innovation Inc. will build artificial intelligence models to help train robots
 
-The Globe and Mail • 21h ago
+The Globe and Mail • 22h ago
 
 ---
 
@@ -202,7 +208,7 @@ The Globe and Mail • 21h ago
 
 📺 Dance Theorem 
 
-👁️ 1K • 👍 46 • 💬 4 • ⏱️ 1:01 • 5h ago
+👁️ 1K • 👍 46 • 💬 4 • ⏱️ 1:01 • 6h ago
 
 ---
 
@@ -250,7 +256,7 @@ Hyundai's innovative robotic technology brings a smarter approach to automated p
 
 📺 Valdelirio Favarin3657
 
-👁️ 10K • 👍 220 • 💬 1 • ⏱️ 0:44 • 7h ago
+👁️ 10K • 👍 220 • 💬 1 • ⏱️ 0:44 • 8h ago
 
 ---
 
