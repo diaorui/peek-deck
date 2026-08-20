@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T06:59:08.962847+00:00'
+updated: '2026-08-20T07:48:52.890489+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 06:59 UTC  
+**Last Updated:** August 20, 2026 at 07:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves and talks. Runs on Autonomous OS we built for robots. We open source everything and here's the short version. Our Autonomous Lamp The arm 5 degrees of freedom. Five STS3215 bus servos, daisy-chained on one TTL bus, into the board through a USB adapter. One cable for the whole arm. No driver board. First job: servo IDs. New STS3215s ship as ID 1, so I gave each a unique ID one at a time, then calibrated homing. Homing lives in the servo EEPROM, so it survives a reflash. Do it with the arm open. Power Single 12 V / 5 A adaptor, ~42 W sustained. A buck steps to 5 V for the board and LED ring. Amp runs on 12 V directly. Board draws ~1.8 A, spikes to 2.5 A at boot. Ring gets capped near 1 A, full white 64 LEDs would pull 3.84 A and brown out the buck. All grounds star-point at the buck output on their own wires. Sound Moving audio off the onboard codec killed most of the noise. A USB DAC feeds the amp through a short twisted lead, run away from the 12 V harness. The onboard codec stays wired for the sensing mic only. Two honest gotchas: the sensing mic is the MEMS mic on the OrangePi board, so it has to be desoldered and re-mounted in the base, fiddly, but skip it and you lose ambient sensing. And the buck I used still adds a faint hiss of its own, it's on the list to swap out. Software Cleanest part. Flash Linux, run the installer, ~15 minutes to Autonomous OS. The robot declares its hardware in the ROBOT.md in our repo and the OS mounts only that. Behaviors are markdown skills. Type what you want in the app, it writes the skill, live on the next conversation. The 1st prototype The final design What's inside the Lamp 3D printed parts
 
-20h ago
+21h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey everyone, My teammate and I competed at the All America Micromouse Contest (
 
 Round 4320 of hanging out in the basement with my robot. Among news reports and scary stories /scary songs it also sings about the kitchen.
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have comm
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -94,7 +94,7 @@ The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have comm
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 14h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Nicholas Radford argues that getting humanoids into the real world may mean starting much smaller. Rather than trying to build one robot that can fold laundry, move boxes, handle sheet metal and do everything else, Persona is starting with welding and shipbuilding and building outward from there. The idea is to prove the economics and usefulness first, then expand what the robot can do. Full ep: https://www.youtube.com/watch?v=62t76cXU6KA
 
-18h ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Nicholas Radford argues that getting humanoids into the real world may mean star
 
 **[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Reuters • 18h ago
 
 Robotics startup AiMOGA, incubated by Chinese automaker Chery, showcased the robot at the World Robot Conference in Beijing.
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ CBS News • 3h ago
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
 
-The Conversation • 14h ago
+The Conversation • 15h ago
 
 ---
 
@@ -180,7 +180,7 @@ cbsaustin.com • 3h ago
 
 While Western public discourse is still endlessly debating the pros and cons of different robotics paths, China, focused on
 
-Global Times • 14h ago
+Global Times • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 11K • 👍 351 • 💬 59 • ⏱️ 5:16 • 3d ago
+👁️ 11K • 👍 353 • 💬 60 • ⏱️ 5:16 • 3d ago
 
 ---
 
@@ -204,7 +204,17 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 24K • 👍 686 • 💬 79 • ⏱️ 14:10 • 1d ago
+👁️ 26K • 👍 700 • 💬 86 • ⏱️ 14:10 • 1d ago
+
+---
+
+**[Booster Robots Prepare for World Humanoid Robot Games](https://www.youtube.com/watch?v=njOAL9WqGlg)**
+
+Booster Robotics humanoid robots are training for the 2026 World Humanoid Robot Games, and this rehearsal footage gives us ...
+
+📺 DPCcars
+
+👁️ 584 • 👍 21 • 💬 2 • ⏱️ 1:57 • 18h ago
 
 ---
 
@@ -214,7 +224,7 @@ CNBC's Eunice Yoon joins 'Squawk on the Street' to discuss Unitree Robotics shar
 
 📺 CNBC Television
 
-👁️ 9K • 👍 93 • 💬 39 • ⏱️ 3:52 • 14h ago
+👁️ 10K • 👍 96 • 💬 41 • ⏱️ 3:52 • 15h ago
 
 ---
 
@@ -224,7 +234,7 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 17K • 👍 518 • 💬 105 • ⏱️ 1:36 • 12h ago
+👁️ 24K • 👍 609 • 💬 129 • ⏱️ 1:36 • 13h ago
 
 ---
 
@@ -234,7 +244,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 49K • 👍 4K • 💬 547 • ⏱️ 8:40 • 1d ago
+👁️ 49K • 👍 4K • 💬 551 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -244,27 +254,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 43K • 👍 940 • 💬 84 • ⏱️ 10:09 • 6d ago
-
----
-
-**[China&#39;s Unitree Robotics surges 630% in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
-
-Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
-
-📺 ABC News (Australia)
-
-👁️ 29K • 👍 317 • ⏱️ 2:24 • 21h ago
-
----
-
-**[Robotics and AI converging to revolutionise industries: ABB Robotics](https://www.youtube.com/watch?v=YebvAl6t4_s)**
-
-Marc Segura, the President of ABB Robotics, tells CNBC's Ritika Gupta that industrial robotics is entering a new era as machine ...
-
-📺 CNBC International Live
-
-👁️ 2K • 👍 38 • 💬 2 • ⏱️ 7:24 • 17h ago
+👁️ 44K • 👍 944 • 💬 84 • ⏱️ 10:09 • 6d ago
 
 ---
 
@@ -274,7 +264,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 241K • 👍 3K • 💬 626 • ⏱️ 10:16 • 5d ago
+👁️ 242K • 👍 3K • 💬 627 • ⏱️ 10:16 • 5d ago
 
 ---
 
@@ -284,7 +274,15 @@ Can robots outrun and outjump humans? Well, this one can… Chinese robotics com
 
 📺 CGTN Europe
 
-👁️ 91K • 👍 1K • 💬 173 • ⏱️ 0:23 • 2d ago
+👁️ 92K • 👍 1K • 💬 173 • ⏱️ 0:23 • 2d ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 95K • 👍 4K • 💬 46 • ⏱️ 1:28 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-20T06:59:08.948443+00:00'
+updated: '2026-08-20T07:48:52.872700+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 20, 2026 at 06:59 UTC  
+**Last Updated:** August 20, 2026 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
 
-16m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ A randomised experiment involving 791 Procter & Gamble professionals found that 
 
 A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried in old recordings and training docs? AI could surface that guidance during the call. Then the same conversation data could feed QA and coaching afterward. Of course this could get dystopian fast if managers turn it into a surveillance tool. Agents also don't need another annoying window throwing useless prompts at them. Adoption and integration seem like half the battle. Could this work for a company whos constantly growing and cant brute force people into positions
 
-17h ago
+18h ago
 
 ---
 
@@ -65,7 +65,7 @@ A lot of the tools seem great at analyzing calls after they happen. You get tran
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://imgur.com/a/RXAdjvO) • 31m ago
+🔗 [Imgur](https://imgur.com/a/RXAdjvO) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: "What's going wrong here?" "How do I fix this?" "What am I looking at?" "What should I do next?" Or just have it understand what's happening without needing to explain everything manually. Privacy is something I'm taking seriously with the idea. There would be a privacy toggle that completely disables screen analysis, as well as the ability to temporarily pause screen checking whenever you want. So you're always in control of when the AI can see your screen. I'm especially interested in hearing from people who use local/vision models: What would you actually want a screen-aware AI to do for you? Would you want it to continuously watch your screen, only activate when you press a key, or something else? And assuming you could instantly disable/pause screen access, what other privacy concerns would you still have? I'm still figuring out the direction, so I'm more interested in honest criticism and use cases than people simply saying whether the idea sounds cool.
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Images generated by AI models trained on massive datasets often can’t be trace
 
 Generic AI training at one company: 11% uptake. A company-wide licence at an unrelated firm, different sector: 11.5% active use. Same number twice, from opposite directions. The cause underneath is the same. Nobody connected the tool to the job sitting in front of the person. Training that opens with “here is what the tool can do” gets you 11%. Training that opens with “show me the thing you did 4 times yesterday” gets people building before lunch. What was the uptake on your last rollout, measured a month later?
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Generic AI training at one company: 11% uptake. A company-wide licence at an unr
 
 Hey everyone, For a while now, I’ve been developing a proprietary multi-agent framework called GenOS. Without giving away the exact mechanics, GenOS is an orchestrator where autonomous LLM sub-agents write, compile, benchmark, and iteratively evolve Rust code to solve extremely complex algorithmic challenges. They share knowledge, compete, and evolve their architectures over dozens of generations. The Challenge: I tasked GenOS with solving the "Reverse Game of Life" (finding the exact Gen-0 starting state that results in a target Gen-5 grid on a flat 20x20 matrix). For those who don't know, reversing Cellular Automata is a notoriously NP-Hard problem due to the immense state space and chaotic temporal butterfly effect. The 3 Champions: Over the course of the experiment, GenOS organically evolved and isolated three peak architectures, representing the three fundamental paradigms of computer science optimization: Epsilon (Gen 17 - The Causal Optimizer): Epsilon took a highly analytical, deterministic approach. It mapped the causal light-cones of the Game of Life to calculate local gradients. It was brilliant in theory, but because Conway's Game of Life is highly non-linear, local gradients are often misleading. Epsilon hit a wall around 306/400, proving that pure determinism struggles with chaos. Omega (Gen 10 - The SAT Solver): Omega took the path of formal logic. It translated the entire 5-generation temporal grid into a massive boolean satisfiability formula and ran a highly optimized stochastic WalkSAT algorithm. It was mathematically rigorous, but the dense topological constraints caused severe combinatorial explosion. It fought valiantly but ultimately choked on its own massive clause database. Sigma (Gen 39 - The Darwinian Brute-Force): Sigma was the absolute masterpiece. It threw away formal logic and relied on sheer violence. It evolved a massive SWAR (Bit-Slicing) engine to evaluate 64 universes simultaneously in a single CPU register, combined with Simulated Annealing and "thermal shocks" to escape local minima. Sigma crushed the competition, organically reaching a peak score of 378/400. The Discovery: At 378, Sigma completely stalled. It wasn't a failure of the algorithm. By analyzing the data produced by Omega Gen 10 and Sigma Gen 39, the system ultimately proved that the remaining 22 pixels were mathematically UNSAT. Because of the dead borders of the flat topology, reaching 400/400 was a physical impossibility. 378 was the hard limit of the universe. Conclusion: It was genuinely mind-blowing to watch an autonomous multi-agent system (GenOS) independently reinvent and test the three major pillars of optimization (Causal Analysis, SAT Logic, and Stochastic Heuristics) just to mathematically prove the physical limits of a sandbox environment. Has anyone else working with autonomous coding orchestrators experienced their agents organically inventing and benchmarking completely different computer science paradigms like this? Would love to hear your thoughts! I tried every algorithm I know and I couldn't beat SAT/CDCL. Here the code of Sigma Gen 39 // ============================================================================== // SIGMA - GEN 39 : The Ultimate Darwinian SA (Transcendance) // ============================================================================== // // RECORD: 378/400 (Nouveau Champion Absolu) // ARCHITECTURE: // - Vrai Bit-Slicing 64-voies (Batch64) // - Wall-Clock Budget (28.5 secondes réelles) // - Reheating (Choc thermique si stagnation locale de 200k itérations) // - Adaptive Causal Window (Rayon décroissant : 5 -> 3 -> 1 selon le score) // - Memetic Crossover (Échange génétique de lignes entre threads) // - Random Restart (Reboot total en cas d'impasse fatale) // ============================================================================== use std::sync::{Arc, Mutex}; use std::time::{Duration, Instant}; use rand::Rng; const TIME_BUDGET_SECS: f64 = 28.5; #[derive(Clone, Copy)] struct SAState { grid: [u32; 20], score: u32, errors: [u32; 20], // Masque d'erreurs (limité à 20 bits) } struct Batch64 { cells: [u64; 400], } impl Batch64 { fn new() -> Self { Batch64 { cells: [0; 400] } } } /// Simulateur bit-parallel classique pour évaluation rapide fn evaluate_single(grid: &[u32; 20], target: &[u32; 20], state: &mut SAState) { state.grid = *grid; let mut new_score = 0; // ... Placeholder 5 itérations de Conway sur Flat Topology ... let g5_grid = grid; // (Simulation omise pour clarté) for y in 0..20 { let matches = !(g5_grid[y] ^ target[y]) & 0xFFFFF; new_score += matches.count_ones(); state.errors[y] = (!matches) & 0xFFFFF; } state.score = new_score; } #[derive(Clone)] struct GlobalPool { elites: Vec<[u32; 20]>, // Grilles d'élite partagées par les threads best_overall_score: u32, } fn focused_causal_sa(target: Arc<[u32; 20]>, global_pool: Arc<Mutex<GlobalPool>>) { let mut rng = rand::thread_rng(); // Initialisation let mut current_state = SAState { grid: [0; 20], score: 0, errors: [0; 20] }; for y in 0..20 { current_state.grid[y] = rng.gen_range(0..=0xFFFFF); } evaluate_single(&current_state.grid, &target, &mut current_state); let mut best_state = current_state.clone(); let mut temp = 0.5; let cooling_rate = 0.999995; let mut iter = 0; let mut last_improvement_iter = 0; let start_time = Instant::now(); // 1. Wall-Clock Budget while start_time.elapsed().as_secs_f64() < TIME_BUDGET_SECS { iter += 1; let mut next_grid = current_state.grid; // 3. Adaptive Causal Window (Ajustement du rayon de mutation) let radius = if current_state.score < 330 { 5 } else if current_state.score < 360 { 3 } else { 1 // Ciselage chirurgical final }; // Ratio 70% causal / 30% random if rng.gen::<f64>() < 0.70 { let total_errors = 400 - current_state.score; if total_errors == 0 { break; } let k = rng.gen_range(0..total_errors); let mut err_count = 0; let mut target_err = (0, 0); 'find: for y in 0..20 { let mut mask = current_state.errors[y]; while mask > 0 { let x = mask.trailing_zeros(); if err_count == k { target_err = (x, y); break 'find; } err_count += 1; mask &= mask - 1; } } let ex = target_err.0 as usize; let ey = target_err.1 as usize; let xmin = ex.saturating_sub(radius); let xmax = (ex + radius).min(19); let ymin = ey.saturating_sub(radius); let ymax = (ey + radius).min(19); let mx = rng.gen_range(xmin..=xmax); let my = rng.gen_range(ymin..=ymax); next_grid[my] ^= 1 << mx; } else { // Mutation purement aléatoire globale let mx = rng.gen_range(0..20); let my = rng.gen_range(0..20); next_grid[my] ^= 1 << mx; } let mut next_state = current_state.clone(); evaluate_single(&next_grid, &target, &mut next_state); let delta = next_state.score as f64 - current_state.score as f64; // Critère de Metropolis if delta > 0.0 || rng.gen::<f64>() < (delta / temp).exp() { current_state = next_state; if current_state.score > best_state.score { best_state = current_state.clone(); last_improvement_iter = iter; // Mettre à jour le pool global si record absolu let mut pool = global_pool.lock().unwrap(); if best_state.score > pool.best_overall_score { pool.best_overall_score = best_state.score; pool.elites.push(best_state.grid); println!(">>> RECORD BATTU : {}/400 (iter {})", best_state.score, iter); } } } // 2. Reheating dynamique (Choc Thermique) if iter - last_improvement_iter == 200_000 { temp = (temp * 2.0).min(0.5); } else { temp *= cooling_rate; } // 4. Random Restart si impasse fatale if iter - last_improvement_iter > 1_000_000 { for y in 0..20 { current_state.grid[y] = rng.gen_range(0..=0xFFFFF); } evaluate_single(&current_state.grid, &target, &mut current_state); last_improvement_iter = iter; temp = 0.5; } // 5. Memetic Crossover (Toutes les 500k itérations) if iter % 500_000 == 0 { let pool = global_pool.lock().unwrap(); if !pool.elites.is_empty() { let elite_grid = pool.elites[rng.gen_range(0..pool.elites.len())]; // Crossover spatial : on injecte 5 lignes d'un univers d'élite let start_y = rng.gen_range(0..15); for y in start_y..(start_y+5) { current_state.grid[y] = elite_grid[y]; } evaluate_single(&current_state.grid, &target, &mut current_state); if current_state.score > best_state.score { best_state = current_state.clone(); last_improvement_iter = iter; } } } } } fn main() { println!("Démarrage Gen 39 Sigma (Darwinien Ultime) - 16 threads, budget 28.5s..."); // Orchestration multi-thread sur \focused_causal_sa`...` }
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey everyone, For a while now, I’ve been developing a proprietary multi-agent 
 
 Irregular (an AI security research group) tested Kimi K3, an open-weight model, against CyScenarioBench, a benchmark built around autonomous cyber campaigns - adapting public exploit techniques to constrained environments, building custom tooling, diagnosing failed attempts, and validating each stage before moving on. It is the first open-weight model to pass. It trails closed frontier models by roughly six months, at an estimated third of the inference cost. The six-month lag is the less interesting number. What matters is that this level of capability now sits in downloadable weights instead of behind an API. A closed lab can throttle or ban an account mid-campaign - both OpenAI and Anthropic have done this before to abusive usage. Once equivalent capability is something you can self-host, that kill switch disappears entirely, along with any usage logging a defender could later subpoena. If the trend holds, the realistic baseline for any internet-facing asset a year out is not "gets scanned for known CVEs" the way it is today, it is "gets probed continuously by something that adapts exploits on the fly, with no vendor able to pull the plug on the other end." Source: https://www.irregular.com/research/assessing-kimi-k3-against-offensive-security-benchmarks Curious how people here read the trend line: does a shrinking gap between closed and open capability argue for faster patch/disclosure windows industry-wide, or does it just confirm the attacker side was never actually capped by API access limits in the first place?
 
-13h ago
+14h ago
 
 ---
 
@@ -125,13 +125,13 @@ Irregular (an AI security research group) tested Kimi K3, an open-weight model, 
 
 College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
-blog.google • 11h ago
+blog.google • 12h ago
 
 ---
 
 **[Google’s New Phone Comes With Plenty of A.I. Does Anyone Want That?](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -139,13 +139,13 @@ The New York Times • 11h ago
 
 AI tools to be rolled out to all social workers in adult social care at council, after pilot
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
 **[UK Startup Raises $100 Million in Round Backed by Public AI Fund](https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper)**
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg.com • 59m ago
 
 The company has been losing millions of dollars each year in recent years and said the "reverse merger" with a data center firm would give it new funds to invest in its 19 grocery stores, including Ellwood Thompson's in Carytown.
 
-Richmond BizSense • 58m ago
+Richmond BizSense • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Richmond BizSense • 58m ago
 
 Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 6h ago
 
 Eloy is adopting new AI-powered software to streamline police investigations. eSleuth Inc. says it provides thousands of AI “investigators” to help police connect cases and look for leads.
 
-KJZZ • 17h ago
+KJZZ • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ KJZZ • 17h ago
 
 Top mathematicians gathered recently in San Francisco at the offices of OpenAI to discuss what would be left for humans to do when artificial intelligence becomes superhuman at math.
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Washington Post • 14h ago
 
 Searching for signs of crowding out
 
-ft.com • 2h ago
+ft.com • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ ft.com • 2h ago
 
 The AI boom is making phones and laptops more expensive. Cars are next.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -251,7 +251,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 269 • 💬 92 • 20h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 269 • 💬 92 • 21h ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -275,7 +275,7 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 154 • 💬 184 • 15h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 154 • 💬 184 • 16h ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -289,7 +289,7 @@ Claim your 10 Free Meals by using code MBBHFCRWY at https://hellofresh.yt.link/m
 
 📺 MoreBeckBros
 
-👁️ 26K • 👍 1K • 💬 182 • ⏱️ 12:36 • 7h ago
+👁️ 32K • 👍 1K • 💬 205 • ⏱️ 12:36 • 8h ago
 
 ---
 
@@ -299,17 +299,7 @@ Credit: Respected Owner 🎗️ This video shows a woman using AI to make it loo
 
 📺 Flex Snaps
 
-👁️ 427K • ⏱️ 0:30 • 1d ago
-
----
-
-**[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
-
-AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
-
-📺 The Infographics Show
-
-👁️ 348K • 👍 9K • 💬 2K • ⏱️ 15:45 • 2d ago
+👁️ 442K • ⏱️ 0:30 • 1d ago
 
 ---
 
@@ -319,17 +309,15 @@ Subscribe for more!
 
 📺 Aaron Parnas
 
-👁️ 207K • 👍 24K • 💬 2K • ⏱️ 1:02 • 1d ago
+👁️ 211K • 👍 24K • 💬 2K • ⏱️ 1:02 • 1d ago
 
 ---
 
-**[Could AI do this?](https://www.youtube.com/watch?v=QKdTZNTIfmM)**
+**[So Supergirl’s Lobo was concepted by AI… okay 😑 #dc #supergirl #lobo #ai #movie](https://www.youtube.com/watch?v=vtQCQZ-1HuE)**
 
-More than 23000 high schoolers entered our lottery for free Broadway tickets. Every single one got a free, 2-month membership to ...
+📺 The Panda Redd
 
-📺 NYC Mayor's Office
-
-👁️ 757K • 👍 60K • 💬 3K • ⏱️ 0:59 • 2d ago
+👁️ 55K • 👍 9K • 💬 284 • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -339,7 +327,7 @@ OpenAI admitted its models hacked another company in an 'unprecedented cyber inc
 
 📺 Sky News
 
-👁️ 235K • 👍 4K • 💬 929 • ⏱️ 11:15 • 2d ago
+👁️ 237K • 👍 4K • 💬 944 • ⏱️ 11:15 • 2d ago
 
 ---
 
@@ -349,27 +337,7 @@ Scientists at Stanford have used AI models to design entirely new viruses that s
 
 📺 Dr Ben Miles
 
-👁️ 875K • 👍 73K • 💬 3K • ⏱️ 2:31 • 15h ago
-
----
-
-**[Mike Israetel Admits to AI Use in The Aesthetic Revolution](https://www.youtube.com/watch?v=LnNuIxTjSig)**
-
-This video critically analyses Mike Israetel's admission to AI use in his book, The Aesthetic Revolution, and contemplates the ...
-
-📺 Solomon Nelson
-
-👁️ 217K • 👍 10K • 💬 2K • ⏱️ 17:38 • 1d ago
-
----
-
-**[Tom &amp; Jerry Looks Shockingly Real With AI 🤯 #cartoon #shorts](https://www.youtube.com/watch?v=zi8111AkM-I)**
-
-Tom & Jerry Looks Shockingly Real With AI #cartoon #shorts Tom & Jerry has just been reimagined in a way that feels ...
-
-📺 Karzer Comedy
-
-👁️ 132K • 👍 476 • 💬 3 • ⏱️ 0:09 • 1d ago
+👁️ 982K • 👍 80K • 💬 4K • ⏱️ 2:31 • 16h ago
 
 ---
 
@@ -377,7 +345,35 @@ Tom & Jerry Looks Shockingly Real With AI #cartoon #shorts Tom & Jerry has just 
 
 📺 Rick Beato
 
-👁️ 576K • 👍 22K • 💬 862 • ⏱️ 0:49 • 2d ago
+👁️ 579K • 👍 22K • 💬 863 • ⏱️ 0:49 • 2d ago
+
+---
+
+**[School Exposed for Using AI](https://www.youtube.com/watch?v=7Bht9R3maso)**
+
+📺 Icycol
+
+👁️ 793K • 👍 31K • 💬 1K • ⏱️ 0:50 • 2d ago
+
+---
+
+**[The cost of A.I. you&#39;re paying right now](https://www.youtube.com/watch?v=wHiBW1DJDi4)**
+
+learnsomethingnew #scam #tech #capitalism.
+
+📺 Alex Falcone
+
+👁️ 107K • 👍 8K • 💬 217 • ⏱️ 1:14 • 1d ago
+
+---
+
+**[Americans Have Turned Against AI](https://www.youtube.com/watch?v=14Uc2WCSPiw)**
+
+AI is spreading through American life faster than almost any technology before it. But the more people are forced to use it, the less ...
+
+📺 The Infographics Show
+
+👁️ 352K • 👍 9K • 💬 2K • ⏱️ 15:45 • 2d ago
 
 ---
 
@@ -393,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,006,235 • ❤️ 11,538 • 5d ago
+⬇️ 1,006,235 • ❤️ 11,566 • 5d ago
 
 ---
 
@@ -405,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 4,318,134 • ❤️ 2,135 • 14h ago
+⬇️ 4,318,134 • ❤️ 2,174 • 15h ago
 
 ---
 
@@ -417,7 +413,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 13,138 • ❤️ 1,055 • 5d ago
+⬇️ 13,138 • ❤️ 1,060 • 5d ago
 
 ---
 
@@ -429,7 +425,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 37,583 • ❤️ 651 • 6d ago
+⬇️ 37,583 • ❤️ 656 • 6d ago
 
 ---
 
@@ -441,7 +437,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,063,646 • ❤️ 608 • 5d ago
+⬇️ 1,063,646 • ❤️ 613 • 5d ago
 
 ---
 
@@ -453,19 +449,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 60,078 • ❤️ 630 • 3d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 555,993 • ❤️ 1,343 • 2d ago
+⬇️ 60,078 • ❤️ 634 • 3d ago
 
 ---
 
@@ -477,7 +461,19 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 27 • ❤️ 626 • 1d ago
+⬇️ 27 • ❤️ 642 • 1d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 555,993 • ❤️ 1,352 • 2d ago
 
 ---
 
@@ -489,7 +485,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 12,699 • ❤️ 1,107 • 7d ago
+⬇️ 12,699 • ❤️ 1,108 • 7d ago
 
 ---
 
@@ -501,7 +497,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 766,812 • ❤️ 475 • 4d ago
+⬇️ 766,812 • ❤️ 481 • 4d ago
 
 ---
 
@@ -584,7 +580,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 166 • 💬 19 • ⭐ 65,210 • 17mo ago
+▲ 166 • 💬 19 • ⭐ 65,260 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -597,7 +593,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,491 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,530 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -650,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 15.4k • 🔱 1.7k • 7h ago
+⭐ 15.5k • 🔱 1.8k • 8h ago
 
 ---
 
@@ -688,7 +684,17 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 569 • 18h ago
+⭐ 3.4k • 🔱 570 • 19h ago
+
+---
+
+**[Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)**
+
+J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675
+
+`Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
+
+⭐ 2.9k • 🔱 193 • 1d ago
 
 ---
 
@@ -702,23 +708,13 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 ---
 
-**[Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)**
-
-J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675
-
-`Python` `agent-skills` `ai` `ai-agent` `ai-agents` `claude-code`
-
-⭐ 2.9k • 🔱 189 • 1d ago
-
----
-
 **[yetone/cumora](https://github.com/yetone/cumora)**
 
 Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 315 • 3h ago
+⭐ 2.7k • 🔱 317 • 35m ago
 
 ---
 
@@ -728,7 +724,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 303 • 1h ago
+⭐ 2.2k • 🔱 305 • 5m ago
 
 ---
 
