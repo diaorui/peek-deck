@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T03:46:53.343116+00:00'
+updated: '2026-08-20T04:36:39.070689+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 03:46 UTC  
+**Last Updated:** August 20, 2026 at 04:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -83,17 +83,43 @@ Rank #1
 
 ---
 
-**[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
+**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
+
+First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
+
+7h ago
+
+---
+
+**[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
+
+7h ago
+
+---
+
+**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
 11h ago
 
 ---
 
-**[Easy come, eazy go.](https://www.reddit.com/r/Bitcoin/comments/1vsyui1/easy_come_eazy_go/)**
+**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
 
-First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
+Analysts say that Putin could seize assets if cash is needed for his stalling invasion
 
-6h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 11h ago
+
+---
+
+**[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
+
+12h ago
+
+---
+
+**[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
+
+12h ago
 
 ---
 
@@ -105,23 +131,11 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 ---
 
-**[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
+**[Bear market is over](https://www.reddit.com/r/Bitcoin/comments/1vsp473/bear_market_is_over/)**
 
-11h ago
+All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
 
----
-
-**[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
-
-10h ago
-
----
-
-**[I think this is why Bitcoin is surging despite all the other headwinds: "Russians withdraw billions from banks over fears Putin will seize deposits for war. Such panic is not limited to ordinary depositors. Corporations are frantically trying to shield assets beyond the reach of state regulators".](https://www.reddit.com/r/Bitcoin/comments/1vss9gy/i_think_this_is_why_bitcoin_is_surging_despite/)**
-
-Analysts say that Putin could seize assets if cash is needed for his stalling invasion
-
-🔗 [The Independent](https://www.independent.co.uk/news/world/europe/russia-banks-withdraw-money-putin-war-b3035506.html) • 10h ago
+13h ago
 
 ---
 
@@ -129,21 +143,7 @@ Analysts say that Putin could seize assets if cash is needed for his stalling in
 
 https://preview.redd.it/njgc9ouvockh1.png?width=1062&format=png&auto=webp&s=c337d764c561158b9a4aabc4785a71d39c133abe Fasten your seatbelts we're headed back to the moon!!
 
-12h ago
-
----
-
-**[Bear market is over](https://www.reddit.com/r/Bitcoin/comments/1vsp473/bear_market_is_over/)**
-
-All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, bears. I'm sure $40k will be right around the corner.
-
-12h ago
-
----
-
-**[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
-
-6h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ All the signs were there. I feel sorry for the cycle bros who were waiting for $
 
 **[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -161,7 +161,7 @@ WSJ • 19h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -183,13 +183,13 @@ Reuters • 7h ago
 
 Trump is set to meet with crypto execs comes after a vote on the Clarity Act was stalled.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
 **[Bitcoin Surges Most Since March Ahead of White House Meeting](https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ VanEck • 1d ago
 
 The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -279,7 +279,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -293,7 +293,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 Sin City Crypto
 
-👁️ 4K • 👍 276 • ⏱️ 4:23:25 • 1h ago
+👁️ 4K • 👍 276 • ⏱️ 4:23:25 • 2h ago
 
 ---
 
@@ -303,7 +303,7 @@ No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple 
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 4K • 💬 660 • ⏱️ 10:20 • 10h ago
+👁️ 54K • 👍 4K • 💬 660 • ⏱️ 10:20 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ Think your offline crypto wallet is completely safe from hackers? Think again! I
 
 📺 Security Boulevard Podcast
 
-👁️ 755 • 👍 3 • 💬 1 • ⏱️ 0:53 • 12h ago
+👁️ 755 • 👍 3 • 💬 1 • ⏱️ 0:53 • 13h ago
 
 ---
 
@@ -351,7 +351,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Krown
 
-👁️ 2K • 👍 61 • 💬 1 • ⏱️ 1:02 • 14h ago
+👁️ 2K • 👍 61 • 💬 1 • ⏱️ 1:02 • 15h ago
 
 ---
 

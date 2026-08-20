@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T03:46:53.349294+00:00'
+updated: '2026-08-20T04:36:39.076042+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 03:46 UTC  
+**Last Updated:** August 20, 2026 at 04:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 11h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -194,7 +194,7 @@ MarketForces Africa • 6h ago
 
 Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.Notable Statistics:Notable Developments:Trader Notes:Trader Michael van de Poppe said Bitcoin’s surge to $69,000 wiped out shorts…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 1d ago
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 3h ago
+FXStreet • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 3h ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 10h ago
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 12h ago
+The Defiant • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 5K • 👍 367 • 💬 126 • ⏱️ 14:57 • 6h ago
+👁️ 5K • 👍 367 • 💬 126 • ⏱️ 14:57 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 193 • 💬 19 • ⏱️ 6:58 • 8h ago
+👁️ 4K • 👍 193 • 💬 19 • ⏱️ 6:58 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 668 • 💬 299 • ⏱️ 28:47 • 18h ago
+👁️ 6K • 👍 668 • 💬 299 • ⏱️ 28:47 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 7K • 👍 463 • 💬 10 • ⏱️ 1:38:08 • 10h ago
+👁️ 7K • 👍 463 • 💬 10 • ⏱️ 1:38:08 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 697 • 💬 352 • ⏱️ 13:12 • 12h ago
+👁️ 11K • 👍 697 • 💬 352 • ⏱️ 13:12 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 36 • 💬 5 • ⏱️ 0:34 • 4h ago
+👁️ 1K • 👍 36 • 💬 5 • ⏱️ 0:34 • 5h ago
 
 ---
 
@@ -326,7 +326,7 @@ Betting big on Bitcoin, XRP, and Ethereum. $45000 invested, ready to double down
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:36 • 7h ago
+👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:36 • 8h ago
 
 ---
 
