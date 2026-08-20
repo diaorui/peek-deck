@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-20T08:38:16.277322+00:00'
+updated: '2026-08-20T09:34:35.690842+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 08:38 UTC  
+**Last Updated:** August 20, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ FXStreet • 8h ago
 
 Bitcoin, XRP surges as Treasury doubles long-term bond buybacks, pushing yields lower and fueling a broader crypto rally.
 
-Benzinga • 16h ago
+Benzinga • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ Benzinga • 16h ago
 
 Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 16h ago
 
 Which of these altcoins has a better shot at a comeback?
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Motley Fool • 15h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 16h ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 10h ago
+MarketForces Africa • 11h ago
 
 ---
 
@@ -202,7 +202,7 @@ MarketForces Africa • 10h ago
 
 Crypto investors may be underestimating how large the industry’s next growth phase could become since market perception has failed to keep pace with reality, according to Bitwise’s Matt Hougan.In his Aug. 18 weekly CIO memo, Bitwise’s Chief Investment Officer highlighted three mistakes investors ar…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ CoinDesk • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 24m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -224,7 +224,7 @@ markets.businessinsider.com • 24m ago
 
 GIP-153 passed, backing Gnosis Chain's transition from a standalone Layer 1 to an Ethereum-settled rollup with xDAI retained for gas.
 
-The Defiant • 17h ago
+The Defiant • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 7K • 👍 339 • 💬 244 • ⏱️ 26:28 • 9h ago
+👁️ 7K • 👍 339 • 💬 244 • ⏱️ 26:28 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN: $2 BILLION SHORT SQUEEZE (US Govt Buying)!!! - Bitcoin News Today, Ethe
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 391 • 💬 176 • ⏱️ 14:57 • 11h ago
+👁️ 6K • 👍 391 • 💬 176 • ⏱️ 14:57 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solan
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 362 • 💬 91 • ⏱️ 19:03 • 5h ago
+👁️ 3K • 👍 362 • 💬 91 • ⏱️ 19:03 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 677 • 💬 392 • ⏱️ 28:47 • 23h ago
+👁️ 7K • 👍 677 • 💬 392 • ⏱️ 28:47 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 710 • 💬 499 • ⏱️ 13:12 • 17h ago
+👁️ 12K • 👍 710 • 💬 499 • ⏱️ 13:12 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ In this video I break down the current Ethereum price action to determine if the
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 222 • 💬 21 • ⏱️ 6:58 • 13h ago
+👁️ 5K • 👍 222 • 💬 21 • ⏱️ 6:58 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 The Moon Show
 
-👁️ 8K • 👍 469 • 💬 10 • ⏱️ 1:38:08 • 15h ago
+👁️ 8K • 👍 469 • 💬 10 • ⏱️ 1:38:08 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://t
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 68 • 💬 79 • ⏱️ 0:34 • 9h ago
+👁️ 3K • 👍 68 • 💬 79 • ⏱️ 0:34 • 10h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T08:38:16.273237+00:00'
+updated: '2026-08-20T09:34:35.686708+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 08:38 UTC  
+**Last Updated:** August 20, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,37 +87,37 @@ Rank #1
 
 First time I saw this guy, but was so sure and arrogant for the answers he got in the thread that it's funny. He said yesterday it's never going back to 65k lol https://x.com/cryptolaanie/status/2089681134380777922 And 20 hours before it's going to 49k like all the doomers including people here. https://x.com/cryptolaanie/status/2089868181318103242 If someone still think we are not bottom yet and it's wanting for October I suggest don't do that maybe can keep a little bit of dry power but stay humble and DCA.
 
-11h ago
+12h ago
 
 ---
 
 **[We are so back. Up 7% in a day, reclaiming $70K 🔥](https://www.reddit.com/r/Bitcoin/comments/1vsyx64/we_are_so_back_up_7_in_a_day_reclaiming_70k/)**
 
-11h ago
+12h ago
 
 ---
 
 **[It has been far too long my friend...](https://www.reddit.com/r/Bitcoin/comments/1vsqvrj/it_has_been_far_too_long_my_friend/)**
 
-16h ago
+17h ago
 
 ---
 
 **[“ThE bEaR MaRkEt Is OvEr”](https://www.reddit.com/r/Bitcoin/comments/1vssdva/the_bear_market_is_over/)**
 
-15h ago
+16h ago
 
 ---
 
 **[just me and my cold wallet playing doom :)](https://www.reddit.com/r/Bitcoin/comments/1vt5gjh/just_me_and_my_cold_wallet_playing_doom/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Objects in mirror are closer than they appear](https://www.reddit.com/r/Bitcoin/comments/1vsqowc/objects_in_mirror_are_closer_than_they_appear/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,13 +133,13 @@ https://preview.redd.it/aumjf4cqpckh1.png?width=1125&format=png&auto=webp&s=efba
 
 All the signs were there. I feel sorry for the cycle bros who were waiting for $40k. It turns out that fractals of past candles are not a good reference for how price will move in the future. There will still be people in this thread unironically defending the notion that we get a 20% dump within the next 2 months. EDIT: Eat shit, cyclers. I'm sure $40k will be right around the corner.
 
-17h ago
+18h ago
 
 ---
 
 **[Nailed it!](https://www.reddit.com/r/Bitcoin/comments/1vt4uf3/nailed_it/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -157,7 +157,7 @@ WSJ • 1d ago
 
 Bitcoin prices rallied sharply on August 19, approaching $70,000 after the U.S. Treasury announced an expansion of its existing program to purchase long-term bonds.
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -165,7 +165,7 @@ Forbes • 12h ago
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -173,13 +173,13 @@ CNBC • 3h ago
 
 Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
 **[Trump calls for Congress to pass crypto bill at White House event](https://www.reuters.com/legal/government/trump-host-crypto-executives-sec-weighs-regulations-2026-08-19/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -215,7 +215,7 @@ VanEck • 1d ago
 
 **[Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months](https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -251,7 +251,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 2h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 3h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -273,7 +273,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 6d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 7d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -281,7 +281,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. - Bitpainter75/FerrumPix
 
-⬆️ 2 • 💬 0 • 10h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
+⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/Bitpainter75/FerrumPix)
 
 ---
 
@@ -295,7 +295,7 @@ FerrumPix is a desktop photo management and editing application for Linux,  Wind
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 206 • ⏱️ 10:41 • 9h ago
+👁️ 34K • 👍 2K • 💬 206 • ⏱️ 10:41 • 10h ago
 
 ---
 
@@ -305,7 +305,7 @@ Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price h
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 1K • 💬 40 • ⏱️ 24:22 • 11h ago
+👁️ 37K • 👍 1K • 💬 40 • ⏱️ 24:22 • 12h ago
 
 ---
 
@@ -325,7 +325,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 757 • 💬 518 • ⏱️ 22:30 • 8h ago
+👁️ 12K • 👍 757 • 💬 518 • ⏱️ 22:30 • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple 
 
 📺 Gareth Soloway
 
-👁️ 63K • 👍 4K • 💬 488 • ⏱️ 10:20 • 15h ago
+👁️ 63K • 👍 4K • 💬 488 • ⏱️ 10:20 • 16h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin has been sideways for over two months. Sellers have had 28 days since th
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 710 • 💬 500 • ⏱️ 13:12 • 17h ago
+👁️ 12K • 👍 710 • 💬 500 • ⏱️ 13:12 • 18h ago
 
 ---
 
@@ -375,7 +375,7 @@ Zen Master JP & Big Rob Break down Bitcoin as it Breaks Resistance! What Happens
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 278 • ⏱️ 4:23:25 • 6h ago
+👁️ 6K • 👍 278 • ⏱️ 4:23:25 • 7h ago
 
 ---
 
@@ -385,7 +385,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 924 • 💬 415 • ⏱️ 43:06 • 18h ago
+👁️ 17K • 👍 924 • 💬 415 • ⏱️ 43:06 • 19h ago
 
 ---
 

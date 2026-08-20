@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T08:38:16.279534+00:00'
+updated: '2026-08-20T09:34:35.693032+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 08:38 UTC  
+**Last Updated:** August 20, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Not so long ago, after design and SolidWorks modeling and manufacturing was done by my team, I programmed this robot and made it play chess! The IP camera (above the chessboard) captures the board and streams to the computer (under the table) to run inference. I used two CNN models, they both run on every square of the board. One detects the presence/color of a piece while the other determines its position on the square. Everything is open source: https://github.com/SirajHabsaia/RobotArm Contains firmware, gui, training scripts, links to assets/data... I coded the firmware mostly manually but used AI for the rest especially the gui. Happy to receive feedback.
 
-14h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hey everyone, My teammate and I competed at the All America Micromouse Contest (
 
 I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves and talks. Runs on Autonomous OS we built for robots. We open source everything and here's the short version. Our Autonomous Lamp The arm 5 degrees of freedom. Five STS3215 bus servos, daisy-chained on one TTL bus, into the board through a USB adapter. One cable for the whole arm. No driver board. First job: servo IDs. New STS3215s ship as ID 1, so I gave each a unique ID one at a time, then calibrated homing. Homing lives in the servo EEPROM, so it survives a reflash. Do it with the arm open. Power Single 12 V / 5 A adaptor, ~42 W sustained. A buck steps to 5 V for the board and LED ring. Amp runs on 12 V directly. Board draws ~1.8 A, spikes to 2.5 A at boot. Ring gets capped near 1 A, full white 64 LEDs would pull 3.84 A and brown out the buck. All grounds star-point at the buck output on their own wires. Sound Moving audio off the onboard codec killed most of the noise. A USB DAC feeds the amp through a short twisted lead, run away from the 12 V harness. The onboard codec stays wired for the sensing mic only. Two honest gotchas: the sensing mic is the MEMS mic on the OrangePi board, so it has to be desoldered and re-mounted in the base, fiddly, but skip it and you lose ambient sensing. And the buck I used still adds a faint hiss of its own, it's on the list to swap out. Software Cleanest part. Flash Linux, run the installer, ~15 minutes to Autonomous OS. The robot declares its hardware in the ROBOT.md in our repo and the OS mounts only that. Behaviors are markdown skills. Type what you want in the app, it writes the skill, live on the next conversation. The 1st prototype The final design What's inside the Lamp 3D printed parts
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 **[How its like working on a robotics project in 2026](https://www.reddit.com/r/robotics/comments/1vss3e2/how_its_like_working_on_a_robotics_project_in_2026/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -88,13 +88,13 @@ Round 4320 of hanging out in the basement with my robot. Among news reports and 
 
 Hi, I got plans to 3D print a 6DOF, high strength robot arm using some 35kg*f, 5v hobbyist servo motors. I’m planning on purchasing continuous rotation servos that are going to use some incremental encoders coupled to track motor position and speed after it reaches a home limit switch. Its going to be controlled using an I^2C servo shield, which is controlled by an Arduino Mega. So basically, Im turning it into a stepper motor without all the extra weight and having to purchase a bunch of stepper motor drivers, also it will supposedly be able to move super fast, with the manufacturer quoting 1200ms for one full rotation. The problem Im having trouble understanding and having AI explain to me coherently, is how to control the actual servo speed using the feedback. The servo manufacturer says in the product description that the servo motors cannot regulate speed. I dont want it to immediately crash and destroy components on my robot arm. I would like to say that I am indeed using mechanical gear ratio to alter the speed, but for the two wrist joints the arm will not have any gearing and will, accordingly, run fast and probably break my printed limit switch brackets. One idea I had was to try to modulate the speed using PWM signal generated by math being done from the encoder on the power line after the servo shield, using a high speed mosfet transistor. But the motor coils will likely overheat from the start up current, and Id hate to have to purchase a mosfet rated for handling start up current. And at that point, isnt this just reinventing the stepper motor? Admittedly, I havent used very many continuous hobbyist servo motors. I am more used to the allen bradley kinetix line of industrial servos. I’ve had to use a couple of servos on another project, but they were able to be controlled for position and speed and as such it was easier to implement. Any suggestions for how to do it properly are welcome.
 
-1h ago
+2h ago
 
 ---
 
 **[I Want My MTV Bot! My robot now plays old MTV Rewind videos as it follows me around the house! Life is good :)](https://www.reddit.com/r/robotics/comments/1vsr9e4/i_want_my_mtv_bot_my_robot_now_plays_old_mtv/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi, I got plans to 3D print a 6DOF, high strength robot arm using some 35kg*f, 5
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 15h ago
+🔗 [youtu.be](https://youtu.be/8KRoIHC-u6g?is=pT4vkVL6AfM2dIxA) • 16h ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 1d ago
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
 
-The Conversation • 16h ago
+The Conversation • 17h ago
 
 ---
 
@@ -134,7 +134,7 @@ Yahoo Finance • 1d ago
 
 **[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
 
-The Business Journals • 10h ago
+The Business Journals • 11h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Business Journals • 10h ago
 
 For years, small, adaptable machines that perform repetitive jobsite tasks have seen the most success. As technology advances, that calculus is beginning to change.
 
-Construction Dive • 14h ago
+Construction Dive • 15h ago
 
 ---
 
@@ -158,7 +158,7 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 Robotics startup AiMOGA, incubated by Chinese automaker Chery, showcased the robot at the World Robot Conference in Beijing.
 
-CBS News • 4h ago
+CBS News • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ Booster Robotics humanoid robots are training for the 2026 World Humanoid Robot 
 
 📺 DPCcars
 
-👁️ 584 • 👍 21 • 💬 2 • ⏱️ 1:57 • 19h ago
+👁️ 584 • 👍 21 • 💬 2 • ⏱️ 1:57 • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ CNBC's Eunice Yoon joins 'Squawk on the Street' to discuss Unitree Robotics shar
 
 📺 CNBC Television
 
-👁️ 10K • 👍 96 • 💬 41 • ⏱️ 3:52 • 16h ago
+👁️ 10K • 👍 96 • 💬 41 • ⏱️ 3:52 • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 24K • 👍 609 • 💬 129 • ⏱️ 1:36 • 14h ago
+👁️ 24K • 👍 609 • 💬 129 • ⏱️ 1:36 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 49K • 👍 4K • 💬 551 • ⏱️ 8:40 • 1d ago
+👁️ 49K • 👍 4K • 💬 551 • ⏱️ 8:40 • 2d ago
 
 ---
 
