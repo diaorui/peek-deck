@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T16:34:24.863975+00:00'
+updated: '2026-08-21T17:28:27.139015+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 16:34 UTC  
+**Last Updated:** August 21, 2026 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,37 +79,37 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-2h ago
+3h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-7h ago
+8h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-7h ago
+8h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -157,19 +157,19 @@ Yahoo Finance • 4h ago
 
 FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
 
-Fox News • 55m ago
+Fox News • 1h ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 31m ago
+WSJ • 1h ago
 
 ---
 
 **[Bitcoin Jumps While the S&P Heads for Weekly Loss](https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ WSJ • 2h ago
 
 Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 46m ago
 
 Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Guardian • 10h ago
 
 Bitcoin's sharp breakout is sending shockwaves through retail brokerage stocks, but Robinhood and Webull are catching the move in very different ways, and the gap between them reveals something important about how each company is actually built.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ BlackRock • 3d ago
 
 The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
 
-Bitcoin Magazine • 7d ago
+Bitcoin Magazine • 8d ago
 
 ---
 
@@ -243,7 +243,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 8h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 9h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -289,7 +289,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 75 • ⏱️ 11:06 • 17h ago
+👁️ 39K • 👍 3K • 💬 75 • ⏱️ 11:06 • 18h ago
 
 ---
 
@@ -299,7 +299,7 @@ Something unusual is happening across markets right now. Large-scale capital app
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 5 • ⏱️ 41:39 • 8h ago
+👁️ 17K • 👍 1K • 💬 5 • ⏱️ 41:39 • 9h ago
 
 ---
 
@@ -309,7 +309,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 28K • 👍 1K • 💬 117 • ⏱️ 11:16 • 17h ago
+👁️ 28K • 👍 1K • 💬 117 • ⏱️ 11:16 • 18h ago
 
 ---
 
@@ -319,7 +319,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 31K • 👍 322 • 💬 16 • ⏱️ 4:31 • 21h ago
+👁️ 31K • 👍 322 • 💬 16 • ⏱️ 4:31 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 757 • 👍 77 • 💬 3 • ⏱️ 18:12 • 4h ago
+👁️ 757 • 👍 77 • 💬 3 • ⏱️ 18:12 • 5h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 443 • 💬 52 • ⏱️ 14:53 • 23h ago
+👁️ 13K • 👍 443 • 💬 52 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ The price of gold and the original cryptocurrency, bitcoin, have jumped to their
 
 📺 ABC News (Australia)
 
-👁️ 14K • 👍 213 • ⏱️ 1:58 • 7h ago
+👁️ 14K • 👍 213 • ⏱️ 1:58 • 8h ago
 
 ---
 
@@ -379,7 +379,7 @@ Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin &
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 792 • 💬 27 • ⏱️ 4:09 • 19h ago
+👁️ 17K • 👍 792 • 💬 27 • ⏱️ 4:09 • 20h ago
 
 ---
 

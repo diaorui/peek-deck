@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T16:34:24.869375+00:00'
+updated: '2026-08-21T17:28:27.143174+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 16:34 UTC  
+**Last Updated:** August 21, 2026 at 17:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -68,19 +68,27 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion August 21, 2026](https://www.reddit.com/r/ethereum/comments/1vu6rb8/daily_general_discussion_august_21_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-11h ago
-
----
-
 **[Stablecoins need Visa more than Visa needs stablecoins](https://www.reddit.com/r/ethereum/comments/1vug531/stablecoins_need_visa_more_than_visa_needs/)**
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-3h ago
+4h ago
+
+---
+
+**[Daily General Discussion August 21, 2026](https://www.reddit.com/r/ethereum/comments/1vu6rb8/daily_general_discussion_august_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+12h ago
+
+---
+
+**[Ethereal news weekly #36 | US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31](https://www.reddit.com/r/ethereum/comments/1vulcxr/ethereal_news_weekly_36_us_sec_regulation_crypto/)**
+
+US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 52m ago
 
 ---
 
@@ -88,7 +96,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 15h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 16h ago
 
 ---
 
@@ -138,14 +146,6 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 ---
 
-**[What belongs onchain when building an online community?](https://www.reddit.com/r/ethereum/comments/1vrrdct/what_belongs_onchain_when_building_an_online/)**
-
-I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 U.S.-listed Ethereum ETFs attracted their biggest daily inflow since October 2025. Tom Lee called the surge a “good sign” as Ethereum climbed approximately 30% over ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 2d ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with ab…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ MarketForces Africa • 1d ago
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-Ethereum Foundation Blog • 23h ago
+Ethereum Foundation Blog • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Fortune • 4h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Motley Fool • 5h ago
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-CryptoSlate • 15h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -226,7 +226,7 @@ CryptoSlate • 15h ago
 
 BlackRock acquired 11,098 Bitcoin and 132,769 Ethereum in two days through its IBIT and ETHA spot ETFs, reflecting strong institutional demand
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -240,7 +240,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 672 • 💬 25 • ⏱️ 11:56 • 19h ago
+👁️ 13K • 👍 672 • 💬 25 • ⏱️ 11:56 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 251 • 👍 25 • ⏱️ 1:25 • 2h ago
+👁️ 251 • 👍 25 • ⏱️ 1:25 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 342 • 💬 54 • ⏱️ 26:07 • 14h ago
+👁️ 9K • 👍 342 • 💬 54 • ⏱️ 26:07 • 15h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 388 • 👍 29 • ⏱️ 5:27 • 7h ago
+👁️ 388 • 👍 29 • ⏱️ 5:27 • 8h ago
 
 ---
 
@@ -280,7 +280,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 14K • 👍 340 • 💬 56 • ⏱️ 41:59 • 21h ago
+👁️ 14K • 👍 340 • 💬 56 • ⏱️ 41:59 • 22h ago
 
 ---
 
@@ -320,7 +320,7 @@ etoro founder and CEO Yoni Assia explains why he believes AI and crypto are a na
 
 📺 AllinCrypto
 
-👁️ 93 • 👍 9 • 💬 17 • ⏱️ 1:09 • 1h ago
+👁️ 93 • 👍 9 • 💬 17 • ⏱️ 1:09 • 2h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T16:34:24.872290+00:00'
+updated: '2026-08-21T17:28:27.145367+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 16:34 UTC  
+**Last Updated:** August 21, 2026 at 17:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-23h ago
+1d ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 21h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 22h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 20h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 21h ago
 
 ---
 
@@ -118,7 +118,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 18h ago
+Ars Technica • 19h ago
 
 ---
 
@@ -130,7 +130,7 @@ WSJ • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 44m ago
+WSJ • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ WSJ • 44m ago
 
 Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
 
-IEEE Spectrum • 32m ago
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 32m ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 4h ago
+Al Jazeera • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ KEYE • 1d ago
 
 Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Business Insider • 7h ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 4h ago
+Mashable • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ Construction Dive • 2d ago
 
 Druckenmiller has never had a down year in all his years as a professional investor.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 9K • 👍 956 • 💬 3 • ⏱️ 1:40 • 1h ago
+👁️ 9K • 👍 956 • 💬 3 • ⏱️ 1:40 • 2h ago
 
 ---
 
@@ -230,7 +230,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 151K • 👍 958 • 💬 5 • ⏱️ 0:09 • 7h ago
+👁️ 151K • 👍 958 • 💬 5 • ⏱️ 0:09 • 8h ago
 
 ---
 
