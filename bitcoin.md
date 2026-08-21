@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T17:58:28.981063+00:00'
+updated: '2026-08-21T18:48:04.388869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 17:58 UTC  
+**Last Updated:** August 21, 2026 at 18:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,25 +97,25 @@ Rank #1
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-8h ago
+9h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-8h ago
+9h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-9h ago
+10h ago
 
 ---
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-16h ago
+17h ago
 
 ---
 
@@ -131,13 +131,13 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-12h ago
+13h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -149,25 +149,25 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 32m ago
+WSJ • 1h ago
 
 ---
 
 **[Bitcoin Jumps While the S&P Heads for Weekly Loss](https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -175,19 +175,19 @@ WSJ • 1h ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 9m ago
+Investor's Business Daily • 59m ago
 
 ---
 
 **[Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight](https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Heavy ETF Buying Is Driving Bitcoin Prices Higher](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/heavy-etf-buying-is-driving-bitcoin-prices-higher-ZofGlB2cl47UlK9VQN3U)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 11h ago
 
 Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -253,7 +253,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 20h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 21h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 36 • ⏱️ 17:33 • 20h ago
+👁️ 32K • 👍 2K • 💬 36 • ⏱️ 17:33 • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 33K • 👍 332 • 💬 19 • ⏱️ 4:31 • 22h ago
+👁️ 33K • 👍 332 • 💬 19 • ⏱️ 4:31 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 1K • 👍 102 • 💬 8 • ⏱️ 18:12 • 5h ago
+👁️ 1K • 👍 102 • 💬 8 • ⏱️ 18:12 • 6h ago
 
 ---
 
