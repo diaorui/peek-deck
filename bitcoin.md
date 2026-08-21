@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T14:35:01.512429+00:00'
+updated: '2026-08-21T15:33:23.210413+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 14:35 UTC  
+**Last Updated:** August 21, 2026 at 15:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1552.67B
+**Market Cap:** $1557.21B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.4%
 
 **All-Time Low:** $67.81
-+113986.4%
++114352.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They will buy at the price they deserve.
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ They will buy at the price they deserve.
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-13h ago
+14h ago
 
 ---
 
@@ -111,31 +111,31 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-12h ago
+13h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-5h ago
+6h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-6h ago
+7h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-5h ago
+6h ago
 
 ---
 
 **[for some people this is the way](https://www.reddit.com/r/Bitcoin/comments/1vubxeb/for_some_people_this_is_the_way/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-19h ago
+20h ago
 
 ---
 
@@ -155,13 +155,13 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Stock Market Today: Dow, Nasdaq Futures Edges Higher; Yields Steady — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ WSJ • 1h ago
 
 Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 Oil kept running higher as well while Walmart sold off on earnings.
 
-Investor's Business Daily • 4m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investor's Business Daily • 4m ago
 
 @Lookonchain 11554 Views
 
-Moomoo • 41m ago
+Moomoo • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Moomoo • 41m ago
 
 The U.S. Treasury’s intervention in bond markets isn’t working immediately.
 
-inc.com • 2h ago
+inc.com • 3h ago
 
 ---
 
@@ -249,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 6h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 7h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -257,7 +257,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 2 • 💬 1 • 3d ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 2 • 💬 1 • 4d ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -265,7 +265,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 17h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 18h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -289,73 +289,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
+**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
 
-Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 30 • ⏱️ 17:33 • 16h ago
-
----
-
-**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
-
-What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
-
-📺 TechLead
-
-👁️ 25K • 👍 925 • 💬 111 • ⏱️ 11:16 • 15h ago
-
----
-
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 153 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Bitcoin 🆚 Ethereum](https://www.youtube.com/watch?v=OTtly2e9fM0)**
-
-Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants went head-to-head across several cycles: ...
-
-📺 Mister Finance
-
-👁️ 935 • 👍 5 • ⏱️ 0:42 • 22h ago
-
----
-
-**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
-
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
-
-📺 The Hobbyist Miner
-
-👁️ 190 • 👍 18 • ⏱️ 18:12 • 2h ago
-
----
-
-**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
-
-Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
-
-📺 Benjamin Cowen
-
-👁️ 48K • 👍 2K • 💬 140 • ⏱️ 30:19 • 1d ago
-
----
-
-**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
-
-Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
-
-📺 Yahoo Finance
-
-👁️ 13K • 👍 425 • 💬 52 • ⏱️ 14:53 • 21h ago
+👁️ 39K • 👍 3K • 💬 75 • ⏱️ 11:06 • 16h ago
 
 ---
 
@@ -365,27 +305,87 @@ Something unusual is happening across markets right now. Large-scale capital app
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 4 • ⏱️ 41:39 • 6h ago
+👁️ 17K • 👍 1K • 💬 5 • ⏱️ 41:39 • 7h ago
 
 ---
 
-**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
 
-Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
+
+📺 TechLead
+
+👁️ 28K • 👍 1K • 💬 117 • ⏱️ 11:16 • 16h ago
+
+---
+
+**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
+
+Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
 
 📺 CNBC Television
 
-👁️ 55K • 👍 938 • 💬 135 • ⏱️ 7:54 • 1d ago
+👁️ 31K • 👍 322 • 💬 16 • ⏱️ 4:31 • 20h ago
 
 ---
 
-**[Bitcoin’s Rally Today Just Confirmed Everything](https://www.youtube.com/watch?v=yGg1_mD9KKo)**
+**[Bitcoin 🆚 Ethereum](https://www.youtube.com/watch?v=OTtly2e9fM0)**
 
-Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price has stabilized, and what it will take to spark the ...
+Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants went head-to-head across several cycles: ...
 
-📺 Anthony Pompliano
+📺 Mister Finance
 
-👁️ 59K • 👍 2K • 💬 50 • ⏱️ 24:22 • 1d ago
+👁️ 1K • 👍 8 • ⏱️ 0:42 • 23h ago
+
+---
+
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 77K • 👍 3K • 💬 152 • ⏱️ 10:41 • 1d ago
+
+---
+
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+
+📺 The Hobbyist Miner
+
+👁️ 757 • 👍 77 • 💬 3 • ⏱️ 18:12 • 3h ago
+
+---
+
+**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
+
+Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
+
+📺 Yahoo Finance
+
+👁️ 13K • 👍 443 • 💬 52 • ⏱️ 14:53 • 22h ago
+
+---
+
+**[Gold and bitcoin surge, ASX slips as bond sell-off accelerates | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=hHEbtSA9xng)**
+
+The price of gold and the original cryptocurrency, bitcoin, have jumped to their highest levels in months. It coincides with the ...
+
+📺 ABC News (Australia)
+
+👁️ 14K • 👍 213 • ⏱️ 1:58 • 6h ago
+
+---
+
+**[MASSIVE WARNING ISSUED! BITCOIN BULL RUN STARTING NOW - CLARITY ACT  SEPTEMBER 15 CATALYST](https://www.youtube.com/watch?v=mJI3QhiV7Us)**
+
+Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin & XRP All Going CRAZY Hey Babes, Brian ...
+
+📺 CryptoWendyO
+
+👁️ 17K • 👍 792 • 💬 27 • ⏱️ 4:09 • 18h ago
 
 ---
 

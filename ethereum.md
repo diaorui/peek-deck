@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T14:35:01.518744+00:00'
+updated: '2026-08-21T15:33:23.216522+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 14:35 UTC  
+**Last Updated:** August 21, 2026 at 15:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.70B
+**Market Cap:** $289.38B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.6%
+-51.5%
 
 **All-Time Low:** $0.43
-+552384.1%
++553866.8%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
+
+---
+
+**[Stablecoins need Visa more than Visa needs stablecoins](https://www.reddit.com/r/ethereum/comments/1vug531/stablecoins_need_visa_more_than_visa_needs/)**
+
+Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
+
+2h ago
 
 ---
 
@@ -81,14 +89,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
 🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 14h ago
-
----
-
-**[Stablecoins need Visa more than Visa needs stablecoins](https://www.reddit.com/r/ethereum/comments/1vug531/stablecoins_need_visa_more_than_visa_needs/)**
-
-Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
-
-1h ago
 
 ---
 
@@ -142,7 +142,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-2d ago
+3d ago
 
 ---
 
@@ -152,7 +152,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 22h ago
 
 Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 21h ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with ab…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 50m ago
+Fortune • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ MarketForces Africa • 1d ago
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-Ethereum Foundation Blog • 21h ago
+Ethereum Foundation Blog • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ Ethereum Foundation Blog • 21h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 3h ago
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 13h ago
 
 Ethereum (ETH) continued its rally on Thursday as capital gradually flowed back into the derivatives market after the recent leverage flush.
 
-FXStreet • 17h ago
+FXStreet • 18h ago
 
 ---
 
@@ -232,33 +232,23 @@ FXStreet • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🤩 When Ethereum Moves, Altcoins Follow](https://www.youtube.com/watch?v=d6WmeWCmk-4)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 197 • 👍 26 • 💬 1 • ⏱️ 9:19 • 2h ago
-
----
-
 **[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
 
 Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 644 • 💬 20 • ⏱️ 11:56 • 17h ago
+👁️ 13K • 👍 672 • 💬 25 • ⏱️ 11:56 • 18h ago
 
 ---
 
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
 
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
 
-📺 More Crypto Online
+📺 Crypto Archie
 
-👁️ 8K • 👍 285 • 💬 20 • ⏱️ 7:45 • 1d ago
+👁️ 251 • 👍 25 • ⏱️ 1:25 • 1h ago
 
 ---
 
@@ -268,7 +258,17 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 323 • 💬 42 • ⏱️ 26:07 • 12h ago
+👁️ 9K • 👍 342 • 💬 54 • ⏱️ 26:07 • 13h ago
+
+---
+
+**[ETHEREUM BULLRUN UPDATE! (ETH Prediction)](https://www.youtube.com/watch?v=I33pFnhNA6M)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 388 • 👍 29 • ⏱️ 5:27 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 13K • 👍 333 • 💬 57 • ⏱️ 41:59 • 19h ago
+👁️ 14K • 👍 340 • 💬 56 • ⏱️ 41:59 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 877 • 💬 330 • ⏱️ 43:02 • 1d ago
+👁️ 13K • 👍 879 • 💬 331 • ⏱️ 43:02 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 142 • 💬 25 • ⏱️ 11:13 • 1d ago
+👁️ 5K • 👍 147 • 💬 26 • ⏱️ 11:13 • 1d ago
 
 ---
 
@@ -308,27 +308,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 230 • 💬 37 • ⏱️ 16:48 • 2d ago
+👁️ 8K • 👍 231 • 💬 40 • ⏱️ 16:48 • 2d ago
 
 ---
 
-**[ETH is ripping. Office is empty.📈📈📈 #ethereum](https://www.youtube.com/watch?v=GpsRhmNXjF0)**
+**[AI Can’t Bank—But It Can Use Crypto](https://www.youtube.com/watch?v=klgnE3vuEQw)**
 
-Payroll can't compete with a green candle. Half the team's "working from home." Sure they are. Subscribe ...
+etoro founder and CEO Yoni Assia explains why he believes AI and crypto are a natural combination. After asking an AI agent to ...
 
-📺 Owen Morton
+📺 AllinCrypto
 
-👁️ 822 • 👍 14 • ⏱️ 0:18 • 4h ago
+👁️ 93 • 👍 9 • 💬 17 • ⏱️ 1:09 • 36m ago
 
 ---
 
-**[Hausse rapide des cryptos, que se passe-t-il ?](https://www.youtube.com/watch?v=iHk9gkyrS-U)**
+**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
 
-Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être même pas de la crypto. 170 milliards de dollars sont ...
+You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
 
-📺 Hasheur
+📺 The Modern Investor
 
-👁️ 127K • 👍 8K • 💬 303 • ⏱️ 18:20 • 22h ago
+👁️ 7K • 👍 712 • 💬 312 • ⏱️ 28:47 • 2d ago
 
 ---
 
