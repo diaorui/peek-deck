@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T07:42:16.770414+00:00'
+updated: '2026-08-21T08:40:40.681611+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 07:42 UTC  
+**Last Updated:** August 21, 2026 at 08:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-3h ago
+4h ago
+
+---
+
+**[This old sci-fi story video is highly similar to what we have with nearing the singularity and AGI today with all work routed to one central machine](https://www.reddit.com/r/artificial/comments/1vu9ma4/this_old_scifi_story_video_is_highly_similar_to/)**
+
+Feels like even after so many years, it's the same story but with better hardware and tech
+
+58m ago
 
 ---
 
@@ -49,23 +57,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 To make a long story short: My stepfather-in-law was laid off in January. My husband and I both begrudgingly tolerate the man. His ego and quirks make him difficult to be around, but fortunately, we only have to see him once or twice a year (they live five hours away) on our obligatory visits to visit my mother-in-law. Here’s the kicker. On month eight of unemployment, he decided to start what I can only comfortably describe as a poor attempt at AI-enabled grifting. He started by generating Toby Keith-esque country songs and posting full-length “albums” on Facebook. My husband and I rolled our eyes, thinking it was just a “local boomer discovers AI” sort of situation. He’s since piloted a LinkedIn-style leadership motivation series of AI-generated texts and images, the pairs of which almost never make sense. Again, we mostly ignored it. But then, the books started. Which meant I was dragged into it. For a little extra color — I’m a career journalist turned specialized corporate content writer/strategist by day. By night (mostly early mornings, actually), I write novels. I’ve spent the last six years working daily on a series that means the world to me, and I’m currently in the trenches of my seventh round of edits on the first book, with the full intention of querying my best work (I got so close in the last round, but my word count sank that ship - lesson learned!). I take this hobby as seriously as I take my daytime career. I am no master of this craft. It’s a day-in and day-out process to become 1% better at storytelling every time I sit down to write or edit. So when my father-in-law unceremoniously sent me his AI-generated manuscript wanting to “get my thoughts,” I was torn. Of course, in nearly any other situation, I’d be more than happy to review a friend or family member’s writing. I do it all the time! But this felt different. He’s fully intent on self-publishing this novel. Do I think it’ll sell? No. I don’t! I can’t say I feel “threatened” by another writer, or that I’m worried this book is going to be a runaway Amazon success. I read it. It’s… fine. The prose isn’t egregious because the AI was decently well-prompted. The characters have no arc. The plot barely moves. It’s 90% atmosphere, 5% police procedural tropes, and 5% repeated descriptions that are immediate AI red flags to a semi-trained eye. My mother-in-law has urged me to “please be nice” about the whole thing. She knows that even though I work for a company that plays in the AI space (we’re healthcare-adjacent), I have strong convictions about the use of gen-AI for creative work, especially when someone is trying to pass off the work as their own. We’re visiting in a few weeks, and they “can’t wait to talk to me” about this. Writer to… writer. I guess. My question for you all: What do I owe him in this inevitable conversation? Has anyone else encountered a situation where they’ve been asked to review/critique someone’s AI-generated work? I feel icky even having read it, but I really struggle pushing back on this guy. He’s exhausting to be around as-is, and I’d prefer to keep things as light as possible, just to get through the trip.
 
-6h ago
-
----
-
-**[Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile](https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/)**
-
-Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up. The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually targets this class of consumer-grade edge AI hardware. Ukraine says they've now catalogued close to 6,000 foreign components across 200+ Russian weapons systems, so this isn't a one-off. Feels like export control regimes were built around "obviously military" or "obviously datacenter" hardware, and completely miss the middle category: cheap, widely available edge AI modules that are genuinely useful for robotics/drones/normal stuff but also trivially good enough to guide a missile. Anyone know if there's an actual policy fix being discussed for that gap, or is it just going to stay a whack-a-mole enforcement problem?
-
-18h ago
-
----
-
-**[I wish AI slide demos started with the kind of mess I actually have](https://www.reddit.com/r/artificial/comments/1vu4c6d/i_wish_ai_slide_demos_started_with_the_kind_of/)**
-
-Most AI slide demos feel kind of unrealistic to me. They usually start with a clean prompt and a clear topic, but that’s rarely what I’m working with. Most of the time I have a PDF, a few links, scattered notes, some numbers, and only a rough idea of what the deck should say. And honestly, that’s where I want to know if an AI slide tool is actually useful. Can it figure out what matters and turn that mess into something coherent, or do I still need to clean everything up first? At that point I might as well just make the deck myself. Has anyone found a slide tool that’s actually good with messy source material?
-
-4h ago
+7h ago
 
 ---
 
@@ -77,43 +69,51 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 ---
 
+**[Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile](https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/)**
+
+Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up. The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually targets this class of consumer-grade edge AI hardware. Ukraine says they've now catalogued close to 6,000 foreign components across 200+ Russian weapons systems, so this isn't a one-off. Feels like export control regimes were built around "obviously military" or "obviously datacenter" hardware, and completely miss the middle category: cheap, widely available edge AI modules that are genuinely useful for robotics/drones/normal stuff but also trivially good enough to guide a missile. Anyone know if there's an actual policy fix being discussed for that gap, or is it just going to stay a whack-a-mole enforcement problem?
+
+19h ago
+
+---
+
+**[I wish AI slide demos started with the kind of mess I actually have](https://www.reddit.com/r/artificial/comments/1vu4c6d/i_wish_ai_slide_demos_started_with_the_kind_of/)**
+
+Most AI slide demos feel kind of unrealistic to me. They usually start with a clean prompt and a clear topic, but that’s rarely what I’m working with. Most of the time I have a PDF, a few links, scattered notes, some numbers, and only a rough idea of what the deck should say. And honestly, that’s where I want to know if an AI slide tool is actually useful. Can it figure out what matters and turn that mess into something coherent, or do I still need to clean everything up first? At that point I might as well just make the deck myself. Has anyone found a slide tool that’s actually good with messy source material?
+
+5h ago
+
+---
+
 **[Is AI making the internet less useful?](https://www.reddit.com/r/artificial/comments/1vtkejc/is_ai_making_the_internet_less_useful/)**
 
 AI can answer almost anything now. But if more of the content online is also generated by AI, what happens to the information AI learns from? At some point, do we end up with AI training on AI-generated content, while the amount of genuinely human-created information keeps shrinking? Could AI eventually make the internet harder for AI to learn from?
 
-17h ago
+18h ago
 
 ---
 
-**[Jason Kelce Encourages People To Mail Jars Of Pee To AI Data Centers In Bizarre New Ad—And We Don't Know What To Think](https://www.reddit.com/r/artificial/comments/1vtqv2e/jason_kelce_encourages_people_to_mail_jars_of_pee/)**
+**[Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?](https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/)**
 
-At this point, maybe it's worth a try? 😂
+Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
 
-🔗 [Comic Sands](http://comicsands.com/jason-kelce-data-centers) • 13h ago
-
----
-
-**[Build a modern LLM from scratch. Every line commented. Explained like we are five.](https://www.reddit.com/r/artificial/comments/1vtj1zv/build_a_modern_llm_from_scratch_every_line/)**
-
-Build a modern LLM from scratch. Every line commented. Explained like we are five. - raiyanyahya/how-to-train-your-gpt
-
-🔗 [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) • 18h ago
+5m ago
 
 ---
 
-**[Explain the major differences between ChatGPT, Gemini, Claude, and Grok to someone who wants to only pay for one of them](https://www.reddit.com/r/artificial/comments/1vu42yw/explain_the_major_differences_between_chatgpt/)**
+**[Looking at agent setups that can actually run with minimal human intervention](https://www.reddit.com/r/artificial/comments/1vu97uc/looking_at_agent_setups_that_can_actually_run/)**
 
-Can someone who uses all these frontier AI models explain any major differences in non-technical terms? I'm paying for these 4 models and honestly questioning if I should only pay for one.
+Most agent frameworks still expect you to stay in the loop (approve tool calls, review diffs, restart things when they stall). I’ve been trying a few approaches that try to reduce that. In my opinion the closest current options are: GitHub Agentic Workflows – agents that live inside Actions and can handle recurring repo tasks with guardrails OpenClaw – more of a personal agent harness, strong multi-channel support Hermes – leans into self-improvement over longer periods of use Aeon – runs entirely on GitHub Actions, keeps persistent memory + a simple strategy file, and has a basic self-repair loop for skills that keep failing. Public repos get free minutes so infra cost is basically zero. Curious what people here are actually using for long-running or recurring agent work. Any other projects in this space that feel more solid?
 
-4h ago
+1h ago
 
 ---
 
-**[Is Gemini deliberately dishonest?](https://www.reddit.com/r/artificial/comments/1vto66x/is_gemini_deliberately_dishonest/)**
+**[EqualAI Assistant App: SCAM?](https://www.reddit.com/r/artificial/comments/1vu97mq/equalai_assistant_app_scam/)**
 
-Whenever I ask Gemini on Android, about my past conversations with it, it claims that it works on a privacy model where it only knows about the current conversation. Trying to deliberately ask it what it knows about me, it claims nothing. However, occasionally it will make a reference to something I said many months ago. (Example, had a conversation about Rhododendron Honey and months later it referenced that previous conversation despite claiming not to remember anything about me). It makes me wonder if Google has told it to lie about not having access to previous conversations so people get less worried about privacy. I honestly find it more worrying that it claims to store nothing (but clearly does) than ChatGPT/Claude which you can ask questions directly about what it has remembered about you, and past conversations. I kinda find Gemini's dishonesty a bit concerning as it is deliberate deceit.
+Warning: My experience with Equal AI Assistant app - Potential Scam I wanted to share my experience with the Equal AI Assistant app to warn others. While it claims to handle calls, it frequently misses them. During my trial period, I tried contacting their support multiple times regarding these performance issues. After numerous attempts, I finally spoke to a human, but the service was terrible. I was repeatedly given the same robotic response that my concerns were noted and I would receive a callback, which never happened. Emails go completely unacknowledged as well. Today, when I called again, the representative was initially soft-spoken but quickly turned extremely rude and curt. When I pointed out that I had heard the same empty promises twice before, she simply said "okay fine" and hung up on me. Based on the lack of support, the rude behavior, and the app's failure to perform basic functions, I'm convinced this is a scam designed to harvest information from your phone. Please be careful and avoid this app.
 
-15h ago
+1h ago
 
 ---
 
@@ -123,7 +123,59 @@ Whenever I ask Gemini on Android, about my past conversations with it, it claims
 
 **[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
+
+---
+
+**[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
+
+Reuters • 9h ago
+
+---
+
+**[Retailers Want AI to Solve Online Shopping’s Biggest Problem](https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Saudi Arabia's Humain AI laptop will be a game-changer: IDC](https://www.cnbc.com/video/2026/08/21/saudi-arabias-humain-ai-laptop-will-be-a-game-changer-idc.html)**
+
+Melih Murat, Associate Research Director at IDC explains how Saudi Arabia-backed Humain AI laptop will make decisions on user behalf. He also discusses the significance of this launch and the country's potential to become a global AI hub.
+
+CNBC • 1h ago
+
+---
+
+**[Notre Dame professor with focus on AI is 'guardedly optimistic' about it](https://www.ncronline.org/news/notre-dame-professor-focus-ai-guardedly-optimistic-about-it)**
+
+University of Notre Dame philosophy professor Meghan Sullivan remains "guardedly optimistic" about what AI will mean down the road on campus, for churches and for the world.
+
+National Catholic Reporter • 36m ago
+
+---
+
+**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
+
+The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
+
+The Atlantic • 16h ago
+
+---
+
+**[AI "nudify" apps that can digitally undress any photo pose back-to-school risk](https://www.cbsnews.com/news/ai-nudify-apps-back-to-school-photo-risk/)**
+
+Think that back-to-school photo is safe to post online? Bad actors could use AI "nudify" apps to make it X-rated.
+
+CBS News • 21h ago
+
+---
+
+**[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
+
+Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
+
+The Washington Post • 16h ago
 
 ---
 
@@ -135,61 +187,11 @@ OpenAI • 12h ago
 
 ---
 
-**[How Instacart Is Using Physical AI To Reinvent The Grocery Store](https://www.forbes.com/sites/bernardmarr/2026/08/21/how-instacart-is-using-physical-ai-to-reinvent-the-grocery-store/)**
+**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
 
-Instacart is using AI-powered Caper Carts, edge computing and computer vision to connect online grocery intelligence with what happens inside physical stores.
+College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
-Forbes • 2h ago
-
----
-
-**[Fujifilm Expands Key Chip Material Output to Capture AI Demand](https://www.bloomberg.com/news/articles/2026-08-21/fujifilm-expands-key-chip-material-output-to-capture-ai-demand)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[The $28,000 Course for an AI Job Nobody Quite Understands Yet](https://www.bloomberg.com/news/articles/2026-08-21/how-executives-are-training-to-become-chief-ai-officers)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
-
-The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
-
-The Atlantic • 15h ago
-
----
-
-**[AI "nudify" apps that can digitally undress any photo pose back-to-school risk](https://www.cbsnews.com/news/ai-nudify-apps-back-to-school-photo-risk/)**
-
-Think that back-to-school photo is safe to post online? Bad actors could use AI "nudify" apps to make it X-rated.
-
-CBS News • 20h ago
-
----
-
-**[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
-
-Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
-
-The Washington Post • 15h ago
-
----
-
-**[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
-
-Reuters • 8h ago
-
----
-
-**[AI data center outrage is showing up everywhere from ads to elections](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html)**
-
-With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
-
-CNBC • 17h ago
+blog.google • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 17h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1006 • 💬 555 • 23h ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1012 • 💬 557 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
@@ -219,6 +221,22 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 ---
 
+**[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49383026)**
+
+AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
+
+⬆️ 312 • 💬 220 • 6h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+
+---
+
+**[Show HN: Huzzah – a novel approach to coding with AI](https://news.ycombinator.com/item?id=49378768)**
+
+My personal portfolio site and blog.
+
+⬆️ 301 • 💬 157 • 13h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+
+---
+
 **[Air Theremin – A browser theremin you play by waving at your webcam](https://news.ycombinator.com/item?id=49359425)**
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
@@ -227,27 +245,11 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 ---
 
-**[Show HN: Huzzah – a novel approach to coding with AI](https://news.ycombinator.com/item?id=49378768)**
-
-My personal portfolio site and blog.
-
-⬆️ 280 • 💬 146 • 12h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
-
----
-
-**[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49383026)**
-
-AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
-
-⬆️ 260 • 💬 182 • 5h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
-
----
-
 **[Mathematics in the age of AI](https://news.ycombinator.com/item?id=49362728)**
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 205 • 💬 251 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 206 • 💬 253 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -271,7 +273,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 167 • 💬 182 • 7h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 169 • 💬 184 • 8h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -279,7 +281,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 146 • 💬 102 • 16h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 156 • 💬 112 • 17h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -293,7 +295,7 @@ Micron Chairman and CEO Sanjay Mehrotra joins 'Mad Money' host Jim Cramer at Mic
 
 📺 CNBC Television
 
-👁️ 2K • 👍 40 • 💬 2 • ⏱️ 1:42 • 8h ago
+👁️ 2K • 👍 40 • 💬 2 • ⏱️ 1:42 • 9h ago
 
 ---
 
@@ -303,7 +305,7 @@ Support our work: https://democracynow.org/donate/sm-desc-yt Sixty-nine-year-old
 
 📺 Democracy Now!
 
-👁️ 63K • 👍 2K • 💬 400 • ⏱️ 13:35 • 17h ago
+👁️ 63K • 👍 2K • 💬 400 • ⏱️ 13:35 • 18h ago
 
 ---
 
@@ -333,7 +335,7 @@ Emily Chang meets artificial intelligence pioneer Fei-Fei Li to discuss her inno
 
 📺 Bloomberg Originals
 
-👁️ 151K • 👍 4K • 💬 140 • ⏱️ 24:04 • 1d ago
+👁️ 151K • 👍 4K • 💬 140 • ⏱️ 24:04 • 2d ago
 
 ---
 
@@ -351,7 +353,7 @@ Exciting news! Google and the UK collaborate to combat contrail warming. 🌤️
 
 📺 Bootable USBs
 
-👁️ 1K • 👍 6 • ⏱️ 0:30 • 9h ago
+👁️ 1K • 👍 6 • ⏱️ 0:30 • 10h ago
 
 ---
 
@@ -361,7 +363,7 @@ ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taug
 
 📺 YourWeeklyCrew
 
-👁️ 11K • 👍 219 • 💬 7 • ⏱️ 0:47 • 14h ago
+👁️ 11K • 👍 219 • 💬 7 • ⏱️ 0:47 • 15h ago
 
 ---
 
@@ -371,7 +373,7 @@ genz #ai #humans With Gen Z increasingly turning to AI for emotional support, ca
 
 📺 Brut India
 
-👁️ 11K • 👍 146 • 💬 7 • ⏱️ 2:21 • 23h ago
+👁️ 11K • 👍 146 • 💬 7 • ⏱️ 2:21 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,126,652 • ❤️ 2,391 • 19h ago
+⬇️ 5,126,652 • ❤️ 2,391 • 20h ago
 
 ---
 
@@ -433,7 +435,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,628 • ❤️ 735 • 23h ago
+⬇️ 2,628 • ❤️ 735 • 1d ago
 
 ---
 
@@ -668,7 +670,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 6h ago
+⭐ 14.0k • 🔱 1.7k • 7h ago
 
 ---
 
@@ -678,7 +680,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 1.1k • 10h ago
+⭐ 8.7k • 🔱 1.1k • 11h ago
 
 ---
 
@@ -696,7 +698,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 576 • 15h ago
+⭐ 3.4k • 🔱 576 • 16h ago
 
 ---
 
@@ -716,7 +718,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 334 • 1h ago
+⭐ 2.8k • 🔱 334 • 2h ago
 
 ---
 
@@ -726,7 +728,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 183 • 16h ago
+⭐ 2.2k • 🔱 183 • 17h ago
 
 ---
 
@@ -736,7 +738,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 5h ago
+⭐ 2.0k • 🔱 182 • 6h ago
 
 ---
 

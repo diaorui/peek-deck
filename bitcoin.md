@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T07:42:16.775625+00:00'
+updated: '2026-08-21T08:40:40.690189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 07:42 UTC  
+**Last Updated:** August 21, 2026 at 08:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,437.42
+### $77,603.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.9%  
-**7d:** +19.4%  
-**30d:** +15.7%  
-**90d:** -2.3%  
-**1y:** -35.6%  
+**24h:** +8.1%  
+**7d:** +22.9%  
+**30d:** +19.1%  
+**90d:** +0.6%  
+**1y:** -33.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 They will buy at the price they deserve.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ They will buy at the price they deserve.
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,13 +121,13 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
 
-5h ago
+6h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Had a somber thought, the people affected by the cold card exploit gotta be hurt
 
 Another dip before we rip? Or is this it 😸
 
-21h ago
+22h ago
 
 ---
 
@@ -143,13 +143,13 @@ Another dip before we rip? Or is this it 😸
 
 Are you buying or waiting for a pull back because you were late to buy?
 
-3h ago
+4h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -161,67 +161,27 @@ Are you buying or waiting for a pull back because you were late to buy?
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
-**[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
+**[Bitcoin, ether and solana climb as another $1 billion shorts get wiped out](https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out)**
 
-Bloomberg.com • 15h ago
-
----
-
-**[Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues](https://www.forbes.com/sites/siladityaray/2026/08/21/bitcoin-tops-75000-for-the-first-time-since-may-as-crypto-surge-continues/)**
-
-The crypto surge comes after President Trump called for the passage of the long-stalled CLARITY Act and the Treasury intervened in the bond market—boosting appetite for risky bets.
-
-Forbes • 1h ago
+CoinDesk • 3h ago
 
 ---
 
-**[daily life of bitcoin players](https://www.moomoo.com/community/feed/daily-life-of-bitcoin-players-117131672027142)**
+**[Rise Together with Bitcoin 😎](https://www.moomoo.com/community/feed/rise-together-with-bitcoin-117132230131718)**
 
-$Bitcoin (BTC.CC)$
+$SanDisk (SNDK.US)$ you heard it first in MooMoo platform. You all so lucky [Onlooker][Cheerlead][Cheerlead][Cheerlead][Cheerlead]
 
-Moomoo • 2h ago
-
----
-
-**[Strategy Owns 4% of All Bitcoin but MSTR Shareholders Face $22B in Senior Claims](https://finance.yahoo.com/markets/crypto/articles/strategy-owns-4-bitcoin-mstr-150433806.html)**
-
-Strategy held 840,447 BTC as of Aug. 9, equal to roughly 4% of Bitcoin’s maximum 21 million supply. MSTR common shareholders sit behind $6.75 billion ...
-
-Yahoo Finance • 16h ago
+Moomoo • 1h ago
 
 ---
 
-**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
+**[Bitcoin Surge - Long Term Buyers Celebrate](https://www.investing.com/analysis/bitcoin-surge--long-term-buyers-celebrate-200686239)**
 
-The S&P 500 just triggered a bullish signal, barely.
-
-Investor's Business Daily • 19h ago
-
----
-
-**[Live: US markets down amid plan to 'collapse' Iran's economy, ASX to follow](https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908)**
-
-The US is urging allies to join it in a bid to "collapse" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 10h ago
-
----
-
-**[Bitcoin Rises Above $68,000, Crypto Stocks Surge](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/bitcoin-rises-above-68-000-crypto-stocks-surge-RzCkPHMLFjojfHSUhlTJ)**
-
-WSJ • 1d ago
-
----
-
-**[Bitcoin and Altcoins Are Rallying. Is ‘Crypto Winter’ Thawing?](https://www.investopedia.com/market-update-bitcoin-and-altcoins-are-rallying-is-crypto-winter-thawing-btc-mstr-stock-12064359)**
-
-Signs of a crypto thaw are beginning to show.
-
-Investopedia • 15h ago
+Investing.com • 1h ago
 
 ---
 
@@ -229,7 +189,45 @@ Investopedia • 15h ago
 
 Bitcoin Core demonstrates pure open-source functioning at scale: public pull requests, formal ACK language, multi-year consensus, and no privileged caste. The contrast with restricted licensing reveals what incentives actually produce verification.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
+
+---
+
+**[MSTR Stock Leads Crypto Stocks Higher as Bitcoin Passes $71K](https://www.barchart.com/story/news/3957398/mstr-stock-leads-crypto-stocks-higher-as-bitcoin-passes-71k)**
+
+Barchart.com • 12h ago
+
+---
+
+**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
+
+Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
+
+BlackRock • 3d ago
+
+---
+
+**[Blockchain Beyond Bitcoin: Understanding Digital Assets in Agriculture](https://www.fb.org/intel/markets/blockchain-beyond-bitcoin-understanding-digital-assets-in-agriculture)**
+
+Agriculture can benefit from blockchain through dividing assets into digital ownership shares (tokenization), traceability and alternative financing, among other applications.
+
+American Farm Bureau Federation • 19h ago
+
+---
+
+**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/convicted-killer-seeks-return-of-cash-and-bitcoin-9.7312641)**
+
+The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
+
+CBC • 1d ago
+
+---
+
+**[Bitcoin Price Prediction: What Price Will BTC Hit in August?](https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/)**
+
+Bitcoin trades near $63,000 going into its worst month on record. Here's where we think BTC could trade by the end of August.
+
+24/7 Wall St. • 19d ago
 
 ---
 
@@ -265,7 +263,13 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 10h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 11h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+
+---
+
+**[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
+
+⬆️ 1 • 💬 0 • 42m ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -295,7 +299,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 132 • 💬 3 • ⏱️ 12:16 • 12h ago
+👁️ 4K • 👍 132 • 💬 3 • ⏱️ 12:16 • 13h ago
 
 ---
 
@@ -305,7 +309,7 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 CNBC Television
 
-👁️ 47K • 👍 854 • 💬 130 • ⏱️ 7:54 • 18h ago
+👁️ 47K • 👍 854 • 💬 130 • ⏱️ 7:54 • 19h ago
 
 ---
 
@@ -315,7 +319,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 398 • 💬 49 • ⏱️ 14:53 • 14h ago
+👁️ 11K • 👍 398 • 💬 49 • ⏱️ 14:53 • 15h ago
 
 ---
 
@@ -335,7 +339,7 @@ Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin &
 
 📺 CryptoWendyO
 
-👁️ 15K • 👍 704 • 💬 11 • ⏱️ 4:09 • 10h ago
+👁️ 15K • 👍 704 • 💬 11 • ⏱️ 4:09 • 11h ago
 
 ---
 
@@ -345,7 +349,7 @@ Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - To
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 2K • 💬 136 • ⏱️ 30:19 • 18h ago
+👁️ 46K • 👍 2K • 💬 136 • ⏱️ 30:19 • 19h ago
 
 ---
 
@@ -385,7 +389,7 @@ Bitcoin #Crypto #finance Bitcoin explodes above $72K in its biggest upside move 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 805 • 💬 205 • ⏱️ 58:31 • 17h ago
+👁️ 17K • 👍 805 • 💬 205 • ⏱️ 58:31 • 18h ago
 
 ---
 

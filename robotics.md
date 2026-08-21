@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T07:42:16.781047+00:00'
+updated: '2026-08-21T08:40:40.699553+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 07:42 UTC  
+**Last Updated:** August 21, 2026 at 08:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-14h ago
+15h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 18h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 12h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 13h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 11h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 12h ago
 
 ---
 
@@ -120,9 +120,23 @@ Reuters • 2d ago
 
 ---
 
-**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
+**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
 
-Reuters • 2d ago
+Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
+
+CNBC • 1d ago
+
+---
+
+**[Unitree Founder Sees Robots Reaching ‘Mass Market’ Within Decade](https://www.bloomberg.com/news/articles/2026-08-20/unitree-founder-sees-robots-reaching-mass-market-within-decade)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -130,7 +144,13 @@ Reuters • 2d ago
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 9h ago
+Ars Technica • 10h ago
+
+---
+
+**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -139,12 +159,6 @@ Ars Technica • 9h ago
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
 
 KEYE • 1d ago
-
----
-
-**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
-
-WSJ • 1d ago
 
 ---
 
@@ -164,27 +178,9 @@ Construction Dive • 1d ago
 
 ---
 
-**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
 
-South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
-
-Business Insider Africa • 13h ago
-
----
-
-**[Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech](https://www.chosun.com/english/industry-en/2026/08/21/4FHY3235RNDBNIMCEJFACYQ5HI/)**
-
-Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech Over 80% of global humanoids use NVIDIAs platform, solidifying U.S. lead in robot intelligence
-
-조선일보 • 5h ago
-
----
-
-**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/fda-authorizes-robotic-blood-draw-device)**
-
-A first-of-its-kind robotic device can now autonomously draw blood from patients, following authorization from the FDA. Here’s how it works.
-
-LiveNOW from FOX • 1d ago
+WSJ • 1d ago
 
 ---
 
@@ -228,7 +224,7 @@ A robot has just done something that sounds straight out of science fiction — 
 
 📺 NDTV Profit
 
-👁️ 22K • 👍 136 • 💬 4 • ⏱️ 0:13 • 15h ago
+👁️ 22K • 👍 136 • 💬 4 • ⏱️ 0:13 • 16h ago
 
 ---
 
@@ -256,7 +252,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 Prasadtechshorts
 
-👁️ 127K • 👍 6K • 💬 57 • ⏱️ 1:28 • 1d ago
+👁️ 127K • 👍 6K • 💬 57 • ⏱️ 1:28 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T07:42:16.779211+00:00'
+updated: '2026-08-21T08:40:40.696318+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 07:42 UTC  
+**Last Updated:** August 21, 2026 at 08:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,355.47
+### $2,387.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.1%  
-**7d:** +25.7%  
-**30d:** +26.0%  
-**90d:** +12.7%  
-**1y:** -51.1%  
+**24h:** +5.7%  
+**7d:** +27.9%  
+**30d:** +28.2%  
+**90d:** +14.7%  
+**1y:** -50.2%  
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 15h ago
+Barron's • 16h ago
 
 ---
 
@@ -164,65 +164,65 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
+**[Ethereum's Target Is $4,000 or $10,000, Says Trader Who Predicted The Breakout](https://www.tradingview.com/news/benzinga:1fb52c8db094b:0-ethereum-s-target-is-4-000-or-10-000-says-trader-who-predicted-the-breakout/)**
 
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
+Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
 
-Yahoo Finance • 15h ago
-
----
-
-**[Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300](https://bitcoinfoundation.org/news/analysis/why-is-crypto-up-today-bitcoin-hits-71k-as-ethereum-surges-past-2300/)**
-
-Find out why Bitcoin and Ethereum have surged today and whether we are seeing a crypto rally comeback
-
-Bitcoin Foundation • 19h ago
+TradingView • 16h ago
 
 ---
 
-**[Current price of Ethereum for August 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-Fortune • 1d ago
+MarketForces Africa • 1d ago
 
 ---
 
-**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
-Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-Fidelity Investments • 3d ago
+CryptoSlate • 7h ago
+
+---
+
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+
+Which of these altcoins has a better shot at a comeback?
+
+The Motley Fool • 1d ago
+
+---
+
+**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
+
+better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+
+Ethereum Foundation Blog • 15h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls in control with BTC heading toward $80,000, ETH $2,500, XRP $1.50](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-in-control-with-btc-heading-toward-80-000-eth-2-500-xrp-150-202608210331)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are extending their rallies as bullish momentum strengthens and continue to cheer the US Treasury’s decision to double its debt buyback operations. BTC has climbed nearly 20%, ETH over 25% and XRP nearly 30% so far this week.
+
+FXStreet • 5h ago
+
+---
+
+**[Crypto News: Pepeto (PEPETO) Nears 50,000 Holders as Ethereum Price Eyes $10,000 and Shiba Inu's Story Repeats](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-pepeto-nears-50-000-holders-as-ethereum-price-eyes-10-000-and-shiba-inu-s-story-repeats-1036477647)**
+
+DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
+
+markets.businessinsider.com • 1d ago
 
 ---
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 2d ago
-
----
-
-**[BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash](https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/)**
-
-BTCS used Ethereum to cut Aave debt as DeFi borrowings stayed elevated and cash plus stablecoins ended June at $317,000.
-
-CryptoSlate • 2h ago
-
----
-
-**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
-
-tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
-
-Ethereum Foundation Blog • 3d ago
-
----
-
-**[Ethereum (ETHUSD) Is up 1.19% on Aug 21: Key Drivers to Watch](https://www.tradingkey.com/news/market-movers/262123196-market-movers-ethusd-20260821)**
-
-Ethereum capital inflows surged due to eased macro liquidity and spot ETF demand.Technical breakouts and short liquidations accelerated buying pressure across major cryptocurrency exchanges.Indicators show a buy signal with overbought conditions requiring close market monitoring.
-
-TradingKey • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 560 • 💬 15 • ⏱️ 11:56 • 10h ago
+👁️ 9K • 👍 560 • 💬 15 • ⏱️ 11:56 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 273 • 💬 20 • ⏱️ 7:45 • 18h ago
+👁️ 7K • 👍 273 • 💬 20 • ⏱️ 7:45 • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 874 • 💬 324 • ⏱️ 43:02 • 22h ago
+👁️ 13K • 👍 874 • 💬 324 • ⏱️ 43:02 • 23h ago
 
 ---
 
@@ -266,7 +266,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 10K • 👍 285 • 💬 63 • ⏱️ 41:59 • 12h ago
+👁️ 10K • 👍 285 • 💬 63 • ⏱️ 41:59 • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 132 • 💬 26 • ⏱️ 11:13 • 19h ago
+👁️ 4K • 👍 132 • 💬 26 • ⏱️ 11:13 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 91K • 👍 6K • 💬 272 • ⏱️ 18:20 • 15h ago
+👁️ 91K • 👍 6K • 💬 272 • ⏱️ 18:20 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 332 • 👍 23 • 💬 3 • ⏱️ 5:01 • 22h ago
+👁️ 332 • 👍 23 • 💬 3 • ⏱️ 5:01 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Negocios TV
 
-👁️ 11K • 👍 198 • 💬 10 • ⏱️ 1:21 • 17h ago
+👁️ 11K • 👍 198 • 💬 10 • ⏱️ 1:21 • 18h ago
 
 ---
 
