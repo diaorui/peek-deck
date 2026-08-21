@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T06:46:48.246321+00:00'
+updated: '2026-08-21T07:42:16.779211+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 06:46 UTC  
+**Last Updated:** August 21, 2026 at 07:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 14h ago
 
 Find out why Bitcoin and Ethereum have surged today and whether we are seeing a crypto rally comeback
 
-Bitcoin Foundation • 18h ago
+Bitcoin Foundation • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ CoinDesk • 2d ago
 
 BTCS used Ethereum to cut Aave debt as DeFi borrowings stayed elevated and cash plus stablecoins ended June at $317,000.
 
-CryptoSlate • 1h ago
+CryptoSlate • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ Ethereum Foundation Blog • 3d ago
 
 Ethereum capital inflows surged due to eased macro liquidity and spot ETF demand.Technical breakouts and short liquidations accelerated buying pressure across major cryptocurrency exchanges.Indicators show a buy signal with overbought conditions requiring close market monitoring.
 
-TradingKey • 2h ago
+TradingKey • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 560 • 💬 15 • ⏱️ 11:56 • 9h ago
+👁️ 9K • 👍 560 • 💬 15 • ⏱️ 11:56 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 273 • 💬 20 • ⏱️ 7:45 • 17h ago
+👁️ 7K • 👍 273 • 💬 20 • ⏱️ 7:45 • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 874 • 💬 324 • ⏱️ 43:02 • 21h ago
+👁️ 13K • 👍 874 • 💬 324 • ⏱️ 43:02 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 10K • 👍 285 • 💬 63 • ⏱️ 41:59 • 11h ago
+👁️ 10K • 👍 285 • 💬 63 • ⏱️ 41:59 • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 91K • 👍 6K • 💬 272 • ⏱️ 18:20 • 14h ago
+👁️ 91K • 👍 6K • 💬 272 • ⏱️ 18:20 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 332 • 👍 23 • 💬 3 • ⏱️ 5:01 • 21h ago
+👁️ 332 • 👍 23 • 💬 3 • ⏱️ 5:01 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Negocios TV
 
-👁️ 11K • 👍 198 • 💬 10 • ⏱️ 1:21 • 16h ago
+👁️ 11K • 👍 198 • 💬 10 • ⏱️ 1:21 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T06:46:48.240269+00:00'
+updated: '2026-08-21T07:42:16.775625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 06:46 UTC  
+**Last Updated:** August 21, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[You can thank me guys!](https://www.reddit.com/r/Bitcoin/comments/1vu7bwq/you_can_thank_me_guys/)**
+
+I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
+
+2h ago
+
+---
+
 **[This is surreal](https://www.reddit.com/r/Bitcoin/comments/1vu2goc/this_is_surreal/)**
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-5h ago
-
----
-
-**[*You wake up as Laszlo Hanyecz, you're about to pay 10,000 bitcoins for a Pizza.](https://www.reddit.com/r/Bitcoin/comments/1vtsoxo/you_wake_up_as_laszlo_hanyecz_youre_about_to_pay/)**
-
-What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
-
-11h ago
+6h ago
 
 ---
 
@@ -97,29 +97,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-4h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
-
-22h ago
-
----
-
-**[A moment of silence and reflection for people dealing with Coldcard losses during this pump](https://www.reddit.com/r/Bitcoin/comments/1vu2t8n/a_moment_of_silence_and_reflection_for_people/)**
-
-Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
-
-4h ago
-
----
-
-**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
-
-Another dip before we rip? Or is this it 😸
-
-20h ago
+5h ago
 
 ---
 
@@ -127,27 +105,51 @@ Another dip before we rip? Or is this it 😸
 
 They will buy at the price they deserve.
 
-2h ago
+3h ago
 
 ---
 
-**[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
+**[*You wake up as Laszlo Hanyecz, you're about to pay 10,000 bitcoins for a Pizza.](https://www.reddit.com/r/Bitcoin/comments/1vtsoxo/you_wake_up_as_laszlo_hanyecz_youre_about_to_pay/)**
 
-18h ago
+What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
+
+12h ago
 
 ---
 
-**[Back at $102k Canadian](https://www.reddit.com/r/Bitcoin/comments/1vu2mv5/back_at_102k_canadian/)**
+**[A moment of silence and reflection for people dealing with Coldcard losses during this pump](https://www.reddit.com/r/Bitcoin/comments/1vu2t8n/a_moment_of_silence_and_reflection_for_people/)**
 
-​ k)
+Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
 
 5h ago
 
 ---
 
-**[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-22h ago
+23h ago
+
+---
+
+**[Who's the boss now... 👀](https://www.reddit.com/r/Bitcoin/comments/1vtf2j5/whos_the_boss_now/)**
+
+Another dip before we rip? Or is this it 😸
+
+21h ago
+
+---
+
+**[Bitcoin is up 10%](https://www.reddit.com/r/Bitcoin/comments/1vu695h/bitcoin_is_up_10/)**
+
+Are you buying or waiting for a pull back because you were late to buy?
+
+3h ago
+
+---
+
+**[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
+
+19h ago
 
 ---
 
@@ -159,13 +161,13 @@ They will buy at the price they deserve.
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -173,7 +175,7 @@ Bloomberg.com • 14h ago
 
 The crypto surge comes after President Trump called for the passage of the long-stalled CLARITY Act and the Treasury intervened in the bond market—boosting appetite for risky bets.
 
-Forbes • 11m ago
+Forbes • 1h ago
 
 ---
 
@@ -189,7 +191,7 @@ Moomoo • 2h ago
 
 Strategy held 840,447 BTC as of Aug. 9, equal to roughly 4% of Bitcoin’s maximum 21 million supply. MSTR common shareholders sit behind $6.75 billion ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -197,7 +199,7 @@ Yahoo Finance • 15h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -205,7 +207,7 @@ Investor's Business Daily • 18h ago
 
 The US is urging allies to join it in a bid to "collapse" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
 
-ABC News & Headlines – Australian Broadcasting Corporation • 9h ago
+ABC News & Headlines – Australian Broadcasting Corporation • 10h ago
 
 ---
 
@@ -219,7 +221,7 @@ WSJ • 1d ago
 
 Signs of a crypto thaw are beginning to show.
 
-Investopedia • 14h ago
+Investopedia • 15h ago
 
 ---
 
@@ -227,7 +229,7 @@ Investopedia • 14h ago
 
 Bitcoin Core demonstrates pure open-source functioning at scale: public pull requests, formal ACK language, multi-year consensus, and no privileged caste. The contrast with restricted licensing reveals what incentives actually produce verification.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -263,7 +265,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 9h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 10h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -293,7 +295,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 132 • 💬 3 • ⏱️ 12:16 • 11h ago
+👁️ 4K • 👍 132 • 💬 3 • ⏱️ 12:16 • 12h ago
 
 ---
 
@@ -303,7 +305,7 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 CNBC Television
 
-👁️ 47K • 👍 854 • 💬 130 • ⏱️ 7:54 • 17h ago
+👁️ 47K • 👍 854 • 💬 130 • ⏱️ 7:54 • 18h ago
 
 ---
 
@@ -333,7 +335,7 @@ Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin &
 
 📺 CryptoWendyO
 
-👁️ 15K • 👍 704 • 💬 11 • ⏱️ 4:09 • 9h ago
+👁️ 15K • 👍 704 • 💬 11 • ⏱️ 4:09 • 10h ago
 
 ---
 
@@ -343,7 +345,7 @@ Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - To
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 2K • 💬 136 • ⏱️ 30:19 • 17h ago
+👁️ 46K • 👍 2K • 💬 136 • ⏱️ 30:19 • 18h ago
 
 ---
 
@@ -383,7 +385,7 @@ Bitcoin #Crypto #finance Bitcoin explodes above $72K in its biggest upside move 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 805 • 💬 205 • ⏱️ 58:31 • 16h ago
+👁️ 17K • 👍 805 • 💬 205 • ⏱️ 58:31 • 17h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T06:46:48.249537+00:00'
+updated: '2026-08-21T07:42:16.781047+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 06:46 UTC  
+**Last Updated:** August 21, 2026 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-13h ago
+14h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 17h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 11h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 12h ago
 
 ---
 
@@ -122,7 +122,7 @@ Reuters • 2d ago
 
 **[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -130,7 +130,7 @@ Reuters • 1d ago
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 8h ago
+Ars Technica • 9h ago
 
 ---
 
@@ -168,7 +168,7 @@ Construction Dive • 1d ago
 
 South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
 
-Business Insider Africa • 12h ago
+Business Insider Africa • 13h ago
 
 ---
 
@@ -176,7 +176,7 @@ Business Insider Africa • 12h ago
 
 Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech Over 80% of global humanoids use NVIDIAs platform, solidifying U.S. lead in robot intelligence
 
-조선일보 • 4h ago
+조선일보 • 5h ago
 
 ---
 
@@ -228,7 +228,7 @@ A robot has just done something that sounds straight out of science fiction — 
 
 📺 NDTV Profit
 
-👁️ 22K • 👍 136 • 💬 4 • ⏱️ 0:13 • 14h ago
+👁️ 22K • 👍 136 • 💬 4 • ⏱️ 0:13 • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ Robots show off an ever-wider range of skills as they cook, dance, fight, do pus
 
 📺 New China TV
 
-👁️ 11K • 👍 72 • 💬 2 • ⏱️ 0:16 • 23h ago
+👁️ 11K • 👍 72 • 💬 2 • ⏱️ 0:16 • 1d ago
 
 ---
 
