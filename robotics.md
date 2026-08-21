@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T13:44:43.160165+00:00'
+updated: '2026-08-21T14:35:01.522043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 13:44 UTC  
+**Last Updated:** August 21, 2026 at 14:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-20h ago
+21h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 18h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 19h ago
 
 ---
 
@@ -118,15 +118,13 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 15h ago
+Ars Technica • 16h ago
 
 ---
 
-**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
 
-Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
-
-CNBC • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -134,13 +132,23 @@ CNBC • 1d ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 1h ago
+Al Jazeera • 2h ago
 
 ---
 
-**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://www.reuters.com/technology/ace-robotics-ceo-says-robot-brains-will-have-chatgpt-moment-by-end-2027-2026-08-21/)**
+**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
 
-Reuters • 2h ago
+While robots are getting pretty good at sprinting, stopping is apparently still an issue.
+
+Mashable • 2h ago
+
+---
+
+**[Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics](https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/)**
+
+Druckenmiller has never had a down year in all his years as a professional investor.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -149,12 +157,6 @@ Reuters • 2h ago
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
 
 KEYE • 1d ago
-
----
-
-**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
-
-WSJ • 2d ago
 
 ---
 
@@ -174,19 +176,17 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 ---
 
-**[Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics](https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/)**
-
-Druckenmiller has never had a down year in all his years as a professional investor.
-
-The Motley Fool • 6h ago
-
----
-
 **[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/fda-authorizes-robotic-blood-draw-device)**
 
 A first-of-its-kind robotic device can now autonomously draw blood from patients, following authorization from the FDA. Here’s how it works.
 
 LiveNOW from FOX • 1d ago
+
+---
+
+**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Humanoid robots took to the boxing ring at the 2026 World Robot Conference in Be
 
 📺 The Daily Guardian
 
-👁️ 465 • 👍 8 • ⏱️ 1:12 • 3h ago
+👁️ 465 • 👍 8 • ⏱️ 1:12 • 4h ago
 
 ---
 
