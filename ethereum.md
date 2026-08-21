@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T10:32:06.355528+00:00'
+updated: '2026-08-21T11:00:06.364615+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 10:32 UTC  
+**Last Updated:** August 21, 2026 at 11:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -150,79 +150,79 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 ## Google News: "ethereum"
 
-**[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
 Barron's • 18h ago
 
 ---
 
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+**[Ethereum’s 29% Price Rally Divides Whales Across the Market](https://finance.yahoo.com/markets/crypto/articles/ethereum-29-price-rally-divides-094119362.html)**
 
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+Ethereum price jumped 29% to a 4-month high near $2,430 as ETF inflows peaked and whales split on direction.
 
-The Block • 1d ago
-
----
-
-**[Ethereum's Target Is $4,000 or $10,000, Says Trader Who Predicted The Breakout](https://www.tradingview.com/news/benzinga:1fb52c8db094b:0-ethereum-s-target-is-4-000-or-10-000-says-trader-who-predicted-the-breakout/)**
-
-Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
-
-TradingView • 18h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-MarketForces Africa • 1d ago
-
----
-
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 9h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+**[Current price of Ethereum for August 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
 
-Which of these altcoins has a better shot at a comeback?
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 1d ago
-
----
-
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
-
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
-
-Ethereum Foundation Blog • 17h ago
+Fortune • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls in control with BTC heading toward $80,000, ETH $2,500, XRP $1.50](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-in-control-with-btc-heading-toward-80-000-eth-2-500-xrp-150-202608210331)**
+**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are extending their rallies as bullish momentum strengthens and continue to cheer the US Treasury’s decision to double its debt buyback operations. BTC has climbed nearly 20%, ETH over 25% and XRP nearly 30% so far this week.
+Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-FXStreet • 7h ago
+The Motley Fool • 7m ago
 
 ---
 
-**[Crypto News: Pepeto (PEPETO) Nears 50,000 Holders as Ethereum Price Eyes $10,000 and Shiba Inu's Story Repeats](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-pepeto-nears-50-000-holders-as-ethereum-price-eyes-10-000-and-shiba-inu-s-story-repeats-1036477647)**
+**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
 
-DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
+Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
 
-markets.businessinsider.com • 1d ago
+Fidelity Investments • 3d ago
+
+---
+
+**[Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300](https://bitcoinfoundation.org/news/analysis/why-is-crypto-up-today-bitcoin-hits-71k-as-ethereum-surges-past-2300/)**
+
+Find out why Bitcoin and Ethereum have surged today and whether we are seeing a crypto rally comeback
+
+Bitcoin Foundation • 23h ago
+
+---
+
+**[🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: $Ethereum (ETH.CC)$ hits $2,400 and is now up +26% in just 3 days.](https://www.moomoo.com/community/feed/ethereum-eth-cc-hits-2-400-and-is-now-up-117132805406725)**
+
+@DustyBC Crypto 3525 Views
+
+Moomoo • 1h ago
 
 ---
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
 CoinDesk • 2d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
+
+Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 603 • 💬 18 • ⏱️ 11:56 • 13h ago
+👁️ 11K • 👍 603 • 💬 18 • ⏱️ 11:56 • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 291 • 💬 31 • ⏱️ 26:07 • 8h ago
+👁️ 6K • 👍 291 • 💬 31 • ⏱️ 26:07 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 283 • 💬 19 • ⏱️ 7:45 • 20h ago
+👁️ 8K • 👍 283 • 💬 19 • ⏱️ 7:45 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 137 • 💬 26 • ⏱️ 11:13 • 22h ago
+👁️ 4K • 👍 137 • 💬 26 • ⏱️ 11:13 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 79 • 💬 20 • ⏱️ 1:22:32 • 23h ago
+👁️ 2K • 👍 79 • 💬 20 • ⏱️ 1:22:32 • 1d ago
 
 ---
 

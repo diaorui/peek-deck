@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T10:32:06.357690+00:00'
+updated: '2026-08-21T11:00:06.367817+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 10:32 UTC  
+**Last Updated:** August 21, 2026 at 11:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 19h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 20h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 14h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 15h ago
 
 ---
 
@@ -114,12 +114,6 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 ## Google News: "robotics"
 
-**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
-
-Reuters • 3d ago
-
----
-
 **[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
 
 Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
@@ -128,15 +122,17 @@ CNBC • 1d ago
 
 ---
 
-**[Unitree Founder Sees Robots Reaching ‘Mass Market’ Within Decade](https://www.bloomberg.com/news/articles/2026-08-20/unitree-founder-sees-robots-reaching-mass-market-within-decade)**
+**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
 
-Bloomberg.com • 1d ago
+New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
+
+Intel Newsroom • 21h ago
 
 ---
 
-**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+**[ACE Robotics CEO says robot brains will have 'ChatGPT moment' by end of 2027](https://www.reuters.com/technology/ace-robotics-ceo-says-robot-brains-will-have-chatgpt-moment-by-end-2027-2026-08-21/)**
 
-Bloomberg.com • 2d ago
+Reuters • 43m ago
 
 ---
 
@@ -148,12 +144,6 @@ Ars Technica • 12h ago
 
 ---
 
-**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
-
-Reuters • 2d ago
-
----
-
 **[Amazon to build multibillion-dollar robotics manufacturing facility in Austin](https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin)**
 
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
@@ -162,11 +152,11 @@ KEYE • 1d ago
 
 ---
 
-**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
+**[Unitree Robotics stock soars 460% in Shanghai IPO debut](https://finance.yahoo.com/markets/stocks/articles/unitree-robotics-stock-soars-460-111514463.html)**
 
-Companies are selling machines to government-backed centres that then sell training data back to robot makers
+The Hangzhou-based humanoid robot maker closed at 845 yuan on Wednesday, giving it a market value of around $50 billion
 
-Financial Times • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,9 +168,27 @@ Construction Dive • 1d ago
 
 ---
 
-**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
 
-WSJ • 1d ago
+China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
+
+ABC News - Breaking News, Latest News and Videos • 1d ago
+
+---
+
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 1h ago
+
+---
+
+**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/fda-authorizes-robotic-blood-draw-device)**
+
+A first-of-its-kind robotic device can now autonomously draw blood from patients, following authorization from the FDA. Here’s how it works.
+
+LiveNOW from FOX • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T10:32:06.345491+00:00'
+updated: '2026-08-21T11:00:06.349803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 10:32 UTC  
+**Last Updated:** August 21, 2026 at 11:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 7h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI can answer almost anything now. But if more of the content online is also gen
 
 I've been building a deterministic verification engine for AI-generated financial claims. The basic idea is simple: An LLM can generate a financial answer, but the LLM itself should not be allowed to decide that its answer is "verified." Instead: LLM generates a claim ↓ Structured claim ↓ Evidence binding ↓ Compatibility checks ↓ Conflict detection ↓ Deterministic calculations ↓ Versioned rules ↓ VERIFIED / CONTRADICTION / BLOCKED / etc. I recently ran a 66-case benchmark in two modes. 1. Fixture-based claim input When the deterministic engine received the expected structured claims: 66/66 cases passed. 2. LIVE_CLAIM mode I then used Azure OpenAI with GPT-5.1 to generate the claims that entered the same verification pipeline. Result: 19/66 cases passed. Failure breakdown: 31 PIPELINE_EXECUTION_FAILURE 18 CLAIM_BINDING_FAILURE 2 CONTRADICTION_DETECTION_FAILURE At the same time, several verification dimensions scored perfectly: Evidence graph integrity: 25/25 Deterministic calculation: 25/25 Rule application: 25/25 Missing evidence detection: 25/25 Reproducibility: 25/25 Auditability: 25/25 So the interesting result isn't simply "the benchmark failed." It seems to show a separation between two problems: Problem 1: Can the deterministic verification engine correctly evaluate a properly structured claim? In this benchmark: 66/66. Problem 2: Can an LLM reliably translate its output into the exact structured claim required by a deterministic verification system? In this benchmark: clearly not yet. The majority of failures happened before or around claim binding and pipeline execution rather than deterministic calculations or rule application. My next step is to add much more granular diagnostics and compare: Expected fixture claim vs Raw LLM output vs Normalized claim vs Verifier input I'm particularly interested in feedback from people working on: LLM structured outputs agent reliability deterministic verification formal methods financial systems evaluation benchmarks Would you treat this as evidence that the verification architecture is working but the LLM-to-formal-system translation layer needs work, or do you see a more fundamental issue with the benchmark design? I’m happy to share more details about the benchmark methodology and failure taxonomy if people are interested. https://preview.redd.it/eqio3da2fpkh1.png?width=1536&format=png&auto=webp&s=07a92563c52a489f088bd4b2837d55ce1e417c0a
 
-14m ago
+42m ago
 
 ---
 
@@ -105,7 +105,7 @@ I've been building a deterministic verification engine for AI-generated financia
 
 Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
 
-1h ago
+2h ago
 
 ---
 
@@ -123,43 +123,7 @@ At this point, maybe it's worth a try? 😂
 
 **[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 13h ago
-
----
-
-**[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
-
-Reuters • 11h ago
-
----
-
-**[Retailers Want AI to Solve Online Shopping’s Biggest Problem](https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Saudi Arabia's Humain AI laptop will be a game-changer: IDC](https://www.cnbc.com/video/2026/08/21/saudi-arabias-humain-ai-laptop-will-be-a-game-changer-idc.html)**
-
-Melih Murat, Associate Research Director at IDC explains how Saudi Arabia-backed Humain AI laptop will make decisions on user behalf. He also discusses the significance of this launch and the country's potential to become a global AI hub.
-
-CNBC • 3h ago
-
----
-
-**[Notre Dame professor with focus on AI is 'guardedly optimistic' about it](https://www.ncronline.org/news/notre-dame-professor-focus-ai-guardedly-optimistic-about-it)**
-
-University of Notre Dame philosophy professor Meghan Sullivan remains "guardedly optimistic" about what AI will mean down the road on campus, for churches and for the world.
-
-National Catholic Reporter • 2h ago
-
----
-
-**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
-
-The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
-
-The Atlantic • 18h ago
+The New York Times • 14h ago
 
 ---
 
@@ -171,19 +135,45 @@ CBS News • 23h ago
 
 ---
 
+**[Exclusive: Texas AG candidate unveils "AI audit" plan](https://www.axios.com/2026/08/21/texas-ag-democratic-nominee-ai-audit-plan)**
+
+Axios • 1h ago
+
+---
+
+**[Politicians Turn Against Data Centers as Anger Over AI Spreads](https://www.wsj.com/articles/politicians-turn-against-data-centers-as-anger-over-ai-spreads-8ddce345)**
+
+WSJ • 59m ago
+
+---
+
+**[I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage](https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed)**
+
+I understand the pressure on AI companies to rush forward. But employees are right to be concerned
+
+The Guardian • 1h ago
+
+---
+
+**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
+
+The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
+
+The Atlantic • 18h ago
+
+---
+
+**[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
+
+Reuters • 11h ago
+
+---
+
 **[A new force is increasing inequality in America](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)**
 
 Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
 
-The Washington Post • 18h ago
-
----
-
-**[Introducing AI Futures](https://openai.com/index/introducing-ai-futures/)**
-
-Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
-
-OpenAI • 14h ago
+The Washington Post • 19h ago
 
 ---
 
@@ -192,6 +182,14 @@ OpenAI • 14h ago
 College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
 blog.google • 1d ago
+
+---
+
+**[AI data center outrage is showing up everywhere from ads to elections](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html)**
+
+With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
+
+CNBC • 20h ago
 
 ---
 
@@ -211,7 +209,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 336 • 💬 249 • 7h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 336 • 💬 249 • 8h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -281,7 +279,7 @@ Trying to obfuscate the web is a bad, pointless idea
 
 The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
 
-⬆️ 84 • 💬 138 • 22h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+⬆️ 84 • 💬 138 • 23h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -295,7 +293,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 283K • 👍 5K • 💬 213 • ⏱️ 12:08 • 10h ago
+👁️ 283K • 👍 5K • 💬 213 • ⏱️ 12:08 • 11h ago
 
 ---
 
@@ -351,7 +349,7 @@ ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taug
 
 📺 YourWeeklyCrew
 
-👁️ 13K • 👍 244 • 💬 7 • ⏱️ 0:47 • 17h ago
+👁️ 13K • 👍 244 • 💬 7 • ⏱️ 0:47 • 18h ago
 
 ---
 
@@ -421,7 +419,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 753 • 1h ago
+⬇️ 18,193 • ❤️ 753 • 2h ago
 
 ---
 
@@ -433,7 +431,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 15,678 • ❤️ 1,140 • 6d ago
+⬇️ 15,678 • ❤️ 1,140 • 7d ago
 
 ---
 
@@ -668,7 +666,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 9h ago
+⭐ 14.0k • 🔱 1.7k • 10h ago
 
 ---
 
@@ -678,7 +676,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 1.1k • 13h ago
+⭐ 8.7k • 🔱 1.1k • 14h ago
 
 ---
 
@@ -696,7 +694,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 578 • 17h ago
+⭐ 3.4k • 🔱 578 • 18h ago
 
 ---
 
@@ -726,7 +724,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 183 • 1h ago
+⭐ 2.2k • 🔱 183 • 2h ago
 
 ---
 
@@ -746,7 +744,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 1.9k • 🔱 194 • 5h ago
+⭐ 1.9k • 🔱 194 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T10:32:06.351417+00:00'
+updated: '2026-08-21T11:00:06.358400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 10:32 UTC  
+**Last Updated:** August 21, 2026 at 11:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They will buy at the price they deserve.
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-8h ago
+9h ago
 
 ---
 
@@ -115,13 +115,25 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 ---
 
+**[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
+
+1h ago
+
+---
+
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
 2h ago
 
 ---
 
-**[80k+ today](https://www.reddit.com/r/Bitcoin/comments/1vuaxcj/80k_today/)**
+**[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
+
+1h ago
+
+---
+
+**[for some people this is the way](https://www.reddit.com/r/Bitcoin/comments/1vubxeb/for_some_people_this_is_the_way/)**
 
 1h ago
 
@@ -135,25 +147,15 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 ---
 
-**[A moment of silence and reflection for people dealing with Coldcard losses during this pump](https://www.reddit.com/r/Bitcoin/comments/1vu2t8n/a_moment_of_silence_and_reflection_for_people/)**
-
-Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
-
-8h ago
-
----
-
-**[TO THE MOOOOOON](https://www.reddit.com/r/Bitcoin/comments/1vuayfc/to_the_moooooon/)**
-
-let's GOOOOOOOOOOOOO !!!!!
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
+
+Reuters • 15h ago
+
+---
 
 **[Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act](https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html)**
 
@@ -163,37 +165,55 @@ CNBC • 21h ago
 
 ---
 
-**[Bitcoin, ether and solana climb as another $1 billion shorts get wiped out](https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out)**
+**[Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
 
-CoinDesk • 5h ago
-
----
-
-**[Rise Together with Bitcoin 😎](https://www.moomoo.com/community/feed/rise-together-with-bitcoin-117132230131718)**
-
-$SanDisk (SNDK.US)$ you heard it first in MooMoo platform. You all so lucky [Onlooker][Cheerlead][Cheerlead][Cheerlead][Cheerlead]
-
-Moomoo • 3h ago
+Barron's • 46m ago
 
 ---
 
-**[Bitcoin Surge - Long Term Buyers Celebrate](https://www.investing.com/analysis/bitcoin-surge--long-term-buyers-celebrate-200686239)**
+**[Bitcoin on track for 20% weekly gain as investor optimism floods back](https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html)**
 
-Investing.com • 3h ago
+The flagship digital currency has enjoyed a strong week boosted by several contributing factors.
+
+CNBC • 2h ago
 
 ---
 
-**[The Tragedy Of The Commons In Open Source Software, Explained Through Bitcoin Wallets](https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives)**
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117133006537109)**
 
-Bitcoin Core demonstrates pure open-source functioning at scale: public pull requests, formal ACK language, multi-year consensus, and no privileged caste. The contrast with restricted licensing reveals what incentives actually produce verification.
+@Dumb Money Space Ape 6256 Views|1 Like
 
-Bitcoin Magazine • 13h ago
+Moomoo • 36m ago
+
+---
+
+**[Bitcoin surges over 25% as shorts get squeezed and Washington leans into crypto](https://uk.finance.yahoo.com/news/bitcoin-surges-over-25-shorts-104223472.html)**
+
+Bitcoin has stormed back from a months-long downtrend, tearing through $79,500 on Friday as a wave of short covering collided with a US Treasury liquidity push and a fresh White House embrace of the crypto industry.View on euronews
+
+Yahoo Finance UK • 17m ago
+
+---
+
+**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
+
+The S&P 500 just triggered a bullish signal, barely.
+
+Investor's Business Daily • 22h ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 2d ago
 
 ---
 
 **[MSTR Stock Leads Crypto Stocks Higher as Bitcoin Passes $71K](https://www.barchart.com/story/news/3957398/mstr-stock-leads-crypto-stocks-higher-as-bitcoin-passes-71k)**
 
-Barchart.com • 14h ago
+Barchart.com • 15h ago
 
 ---
 
@@ -202,30 +222,6 @@ Barchart.com • 14h ago
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
 BlackRock • 3d ago
-
----
-
-**[Blockchain Beyond Bitcoin: Understanding Digital Assets in Agriculture](https://www.fb.org/intel/markets/blockchain-beyond-bitcoin-understanding-digital-assets-in-agriculture)**
-
-Agriculture can benefit from blockchain through dividing assets into digital ownership shares (tokenization), traceability and alternative financing, among other applications.
-
-American Farm Bureau Federation • 20h ago
-
----
-
-**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/convicted-killer-seeks-return-of-cash-and-bitcoin-9.7312641)**
-
-The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
-
-CBC • 1d ago
-
----
-
-**[Bitcoin Price Prediction: What Price Will BTC Hit in August?](https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/)**
-
-Bitcoin trades near $63,000 going into its worst month on record. Here's where we think BTC could trade by the end of August.
-
-24/7 Wall St. • 19d ago
 
 ---
 
@@ -251,7 +247,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 2h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 3h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -307,7 +303,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 20K • 👍 817 • 💬 94 • ⏱️ 11:16 • 11h ago
+👁️ 20K • 👍 817 • 💬 94 • ⏱️ 11:16 • 12h ago
 
 ---
 
@@ -377,7 +373,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 410 • 💬 52 • ⏱️ 14:53 • 17h ago
+👁️ 12K • 👍 410 • 💬 52 • ⏱️ 14:53 • 18h ago
 
 ---
 
