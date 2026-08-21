@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T03:50:48.459235+00:00'
+updated: '2026-08-21T04:37:59.436531+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 03:50 UTC  
+**Last Updated:** August 21, 2026 at 04:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,37 +77,41 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[This is surreal](https://www.reddit.com/r/Bitcoin/comments/1vu2goc/this_is_surreal/)**
+
+I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
+
+3h ago
+
+---
+
 **[*You wake up as Laszlo Hanyecz, you're about to pay 10,000 bitcoins for a Pizza.](https://www.reddit.com/r/Bitcoin/comments/1vtsoxo/you_wake_up_as_laszlo_hanyecz_youre_about_to_pay/)**
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-8h ago
+9h ago
 
 ---
 
-**[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
+**[I don't think the bottom is in](https://www.reddit.com/r/Bitcoin/comments/1vu3kxs/i_dont_think_the_bottom_is_in/)**
 
-15h ago
+Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
----
-
-**[I sold yesterday…](https://www.reddit.com/r/Bitcoin/comments/1vtielq/i_sold_yesterday/)**
-
-… hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
-
-15h ago
-
----
-
-**[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
-
-14h ago
+2h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-19h ago
+20h ago
+
+---
+
+**[A moment of silence and reflection for people dealing with Coldcard losses during this pump](https://www.reddit.com/r/Bitcoin/comments/1vu2t8n/a_moment_of_silence_and_reflection_for_people/)**
+
+Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
+
+2h ago
 
 ---
 
@@ -115,33 +119,35 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Another dip before we rip? Or is this it 😸
 
-17h ago
+18h ago
+
+---
+
+**[I tried man, I really tried.................](https://www.reddit.com/r/Bitcoin/comments/1vu5c5y/i_tried_man_i_really_tried/)**
+
+They will buy at the price they deserve.
+
+48m ago
+
+---
+
+**[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
+
+16h ago
+
+---
+
+**[Back at $102k Canadian](https://www.reddit.com/r/Bitcoin/comments/1vu2mv5/back_at_102k_canadian/)**
+
+​ k)
+
+2h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-19h ago
-
----
-
-**[The 2023-2025 Bitcoin bull market was the most thrilling experience of my entire life.](https://www.reddit.com/r/Bitcoin/comments/1vtlpbq/the_20232025_bitcoin_bull_market_was_the_most/)**
-
-If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
-
-12h ago
-
----
-
-**[I’m looking at the charts like this.](https://www.reddit.com/r/Bitcoin/comments/1vtwubr/im_looking_at_the_charts_like_this/)**
-
-6h ago
-
----
-
-**[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
-
-17h ago
+20h ago
 
 ---
 
@@ -153,19 +159,19 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
 **[Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia](https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Coinbase CEO: Bitcoin could reach $300,000–$400,000 by 2030](https://www.moomoo.com/news/post/75029647/coinbase-ceo-bitcoin-could-reach-300000-400000-by-2030)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -173,7 +179,7 @@ Moomoo • 1h ago
 
 Trump just signaled the U.S. government could buy Bitcoin at a "sizeable" scale, sending prices past $71,500 and Strategy shares soaring nearly 10%. But a closer look at Strategy's latest moves raises a question every crypto investor should ask before piling in.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -185,7 +191,7 @@ WSJ • 1d ago
 
 **[Bitcoin, Crypto Stocks Pop after Trump Event. Clarity Act Is Still in Doubt.](https://www.barrons.com/articles/bitcoin-coinbase-strategy-trump-clarity-act-d576802f)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -193,7 +199,7 @@ Barron's • 9h ago
 
 While Bitcoin may not be "out of the woods" just yet, Macro expert Lyn Alden thinks new buyers could be entering the market soon.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -201,19 +207,19 @@ Bitcoin Magazine • 6h ago
 
 Signs of a crypto thaw are beginning to show.
 
-Investopedia • 11h ago
+Investopedia • 12h ago
 
 ---
 
 **[MSTR Stock Leads Crypto Stocks Higher as Bitcoin Passes $71K](https://www.barchart.com/story/news/3957398/mstr-stock-leads-crypto-stocks-higher-as-bitcoin-passes-71k)**
 
-Barchart.com • 7h ago
+Barchart.com • 8h ago
 
 ---
 
 **[Bitcoin's jump above $72,000 sets up bullish golden cross pattern](https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern)**
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -249,7 +255,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 6h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 7h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -257,7 +263,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 21h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 22h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -279,7 +285,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 116 • 💬 1 • ⏱️ 12:16 • 8h ago
+👁️ 3K • 👍 116 • 💬 1 • ⏱️ 12:16 • 9h ago
 
 ---
 
@@ -309,7 +315,7 @@ Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino 
 
 📺 Jaime Merino | TradingLatino
 
-👁️ 4K • 👍 801 • 46m ago
+👁️ 4K • 👍 801 • 1h ago
 
 ---
 
@@ -319,7 +325,7 @@ Bitcoin #Crypto #finance Bitcoin explodes above $72K in its biggest upside move 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 793 • 💬 202 • ⏱️ 58:31 • 13h ago
+👁️ 16K • 👍 793 • 💬 202 • ⏱️ 58:31 • 14h ago
 
 ---
 
