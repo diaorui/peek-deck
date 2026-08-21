@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T22:51:17.629074+00:00'
+updated: '2026-08-21T23:23:33.884900+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - videos
 - repositories
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 22:51 UTC  
+**Last Updated:** August 21, 2026 at 23:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-58m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a 
 
 San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 2h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 3h ago
 
 ---
 
@@ -81,13 +81,13 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 Adding a vector database is usually the first move when output quality drops on a knowledge-heavy task. It's rarely the right one. Most quality problems in that category aren't retrieval failures, they're curation failures wearing a retrieval-shaped disguise. The model isn't underinformed. It's drowning in loosely relevant material with nothing telling it what to weigh more heavily, and RAG just automates feeding it more of exactly that. The tell is what happens after teams add retrieval and the problem doesn't fully go away, just shifts shape. Answers get more grounded in the sense that facts are technically present in context, but they get vaguer in the sense that matters, the model still can't tell which of the five retrieved chunks is actually load-bearing for this specific question. Retrieval expanded the pool of correct information without ever solving the part where the model has to decide what to do with it. That's not a retrieval problem. That's the same context-structuring problem RAG was supposed to fix, just relocated one layer downstream. Where RAG earns its complexity is genuinely large, frequently changing corpora where you can't fit the relevant slice into context even after aggressive curation, legal discovery, large codebases, that kind of thing. For a lot of internal tools and product features, the actual fix is smaller and less interesting than a vector database: cut the source material down to what's structurally relevant to the task before it ever reaches the model, and be more deliberate about what "relevant" means for that specific request. Teams skip that step because it requires someone to actually think about the data, and reach for retrieval infrastructure instead because it's a known pattern with existing tooling. Not claiming RAG is never the right call. Claiming it's reached for by default in cases where the actual bottleneck is upstream of retrieval entirely. If someone's shipped a case where RAG measurably fixed a quality problem that better context curation alone couldn't have, genuinely interested in what that looked like.
 
-5h ago
+6h ago
 
 ---
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Adding a vector database is usually the first move when output quality drops on 
 
 Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 GitHub says its new Microsoft Teams integration can turn a channel, thread, or direct message into a shared Copilot cloud-agent session. Anyone in the conversation can ask questions, add context, and steer the work. People with repository write access can let Copilot make changes. The session runs in a secure cloud sandbox, and teams can continue with the agent-generated artifacts in the terminal, the Copilot app, or an IDE. Repository admins can also require an extra approval before pull requests from the Teams integration identity can merge. The useful part is not another chat box. It is a shared work log with a human merge gate. Source: https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ GitHub says its new Microsoft Teams integration can turn a channel, thread, or d
 
 Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Ars Technica • 11h ago
+Ars Technica • 12h ago
 
 ---
 
@@ -169,7 +169,7 @@ blog.google • 2d ago
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 9h ago
+NVIDIA Developer • 10h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNN • 10h ago
 
 **[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 697 • 💬 2 • 12h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 697 • 💬 2 • 13h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -279,7 +279,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 186 • 💬 208 • 22h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 186 • 💬 208 • 23h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -303,7 +303,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 The Tech Report
 
-👁️ 42K • 👍 3K • 💬 61 • ⏱️ 32:31 • 3h ago
+👁️ 42K • 👍 3K • 💬 61 • ⏱️ 32:31 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ OpenAI says its upcoming Astra model may have crossed a critical cybersecurity t
 
 📺 Dwarkesh Patel
 
-👁️ 2K • 👍 107 • ⏱️ 1:22 • 1h ago
+👁️ 2K • 👍 107 • ⏱️ 1:22 • 2h ago
 
 ---
 
@@ -361,7 +361,7 @@ Choose your husband! YIKES! #viral #fyp #fun #games #ai creator: curious357.
 
 📺 Delaney Walsh
 
-👁️ 21K • 👍 694 • 💬 10 • ⏱️ 1:01 • 19h ago
+👁️ 21K • 👍 694 • 💬 10 • ⏱️ 1:01 • 20h ago
 
 ---
 
@@ -666,7 +666,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 18m ago
+⭐ 14.0k • 🔱 1.7k • 50m ago
 
 ---
 
@@ -714,7 +714,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 12h ago
+⭐ 2.9k • 🔱 346 • 13h ago
 
 ---
 
@@ -734,7 +734,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.1k • 🔱 225 • 56s ago
+⭐ 2.1k • 🔱 225 • 33m ago
 
 ---
 

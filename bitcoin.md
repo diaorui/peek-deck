@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T22:51:17.637690+00:00'
+updated: '2026-08-21T23:23:33.893160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 22:51 UTC  
+**Last Updated:** August 21, 2026 at 23:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -151,13 +151,13 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -165,13 +165,13 @@ Bloomberg.com • 5h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance UK • 3h ago
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 51m ago
+WSJ • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ WSJ • 14h ago
 
 The 'Fast Money' traders talk the recent rally in bitcoin prices.
 
-CNBC • 49m ago
+CNBC • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 14h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 15h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -287,7 +287,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 3K • 💬 110 • ⏱️ 11:06 • 23h ago
+👁️ 44K • 👍 3K • 💬 110 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 2K • 👍 130 • 💬 9 • ⏱️ 18:12 • 10h ago
+👁️ 2K • 👍 130 • 💬 9 • ⏱️ 18:12 • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 645 • 💬 9 • ⏱️ 9:16 • 6h ago
+👁️ 8K • 👍 645 • 💬 9 • ⏱️ 9:16 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Altcoin Daily
 
-👁️ 81K • 👍 3K • 💬 160 • ⏱️ 10:41 • 1d ago
+👁️ 81K • 👍 3K • 💬 160 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -357,7 +357,7 @@ publi: ▻​ Recibe 50€ en BTC registrandote en ByBit.eu: https://partner.byb
 
 📺 Diego Puertas | Economía e Inversión
 
-👁️ 1K • 👍 214 • 💬 2 • ⏱️ 19:04 • 2h ago
+👁️ 1K • 👍 214 • 💬 2 • ⏱️ 19:04 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin #Crypto #finance Bitcoin is pushing toward $80K after a massive 20% week
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 868 • 💬 37 • ⏱️ 1:02:54 • 8h ago
+👁️ 15K • 👍 868 • 💬 37 • ⏱️ 1:02:54 • 9h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin #Crypto #finance Bitcoin is pushing toward $80K after a massive 20% week
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 703 • 💬 9 • ⏱️ 2:32 • 21h ago
+👁️ 10K • 👍 703 • 💬 9 • ⏱️ 2:32 • 22h ago
 
 ---
 
