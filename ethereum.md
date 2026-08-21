@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T20:50:31.920246+00:00'
+updated: '2026-08-21T21:24:17.793471+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 20:50 UTC  
+**Last Updated:** August 21, 2026 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 2h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 3h ago
 
 ---
 
@@ -154,7 +154,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 4h ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fidelity Investments • 3d ago
 
 **[Bitcoin and Ethereum Are Having Good Weeks. Is the Crypto Bull Market Back?](https://www.moomoo.com/news/post/75081268/bitcoin-and-ethereum-are-having-good-weeks-is-the-crypto)**
 
-Moomoo • 5h ago
+Moomoo • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Coinpedia • 1h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -214,7 +214,7 @@ CoinDesk • 3d ago
 
 Intchains, the Nasdaq-listed mining hardware maker, is redirecting capital toward a new ASIC platform and early-stage AI expansion.
 
-CryptoSlate • 5h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum #ETH #Bitcoin #BTC #Crypto Is this the Ethereum crash before the next b
 
 📺 Peak Productions
 
-👁️ 2K • 👍 452 • 1h ago
+👁️ 2K • 👍 452 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 644 • 👍 51 • ⏱️ 1:25 • 6h ago
+👁️ 644 • 👍 51 • ⏱️ 1:25 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 231 • 💬 14 • ⏱️ 20:52 • 3h ago
+👁️ 3K • 👍 231 • 💬 14 • ⏱️ 20:52 • 4h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 627 • 👍 31 • 💬 2 • ⏱️ 5:27 • 11h ago
+👁️ 627 • 👍 31 • 💬 2 • ⏱️ 5:27 • 12h ago
 
 ---
 

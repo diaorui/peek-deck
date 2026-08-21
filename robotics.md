@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T20:50:31.923075+00:00'
+updated: '2026-08-21T21:24:17.796625+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 20:50 UTC  
+**Last Updated:** August 21, 2026 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 10h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 11h ago
 
 ---
 
@@ -44,13 +44,13 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-10h ago
+11h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 56m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swept a 20×20 grid of floor friction against lateral push, 16 trials per cell, using Kaplan-Meier survival per condition since trials that survive the window have to be censored rather than counted as failures. Things interesting to us: the boundary is not a line but a band. The 95% bootstrap interval is about ±4% of bodyweight on high friction and ±33% on ice, a 7× spread. below μ≈0.15 the policy falls before the push lands. That's gait collapse, a different failure mode from being knocked over. the same seed on the same GPU can produce different outcomes (floating-point reduction order), so a few knife-edge survivors can't be re-simulated at all. We then changed the two conditions the map showed training never covered, retrained for 12 minutes, and re-ran the identical sweep: 60 of 400 conditions significantly safer (Fisher exact + BH-FDR, q<0.05), none significantly worse. Write-up with the interactive map: https://poissonlabs.ai/research/map-the-failure-boundary/. Happy to answer questions about the harness validation/statistics.
 
-17h ago
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ KAIST’s HOUND quadruped uses reinforcement learning to decide how to move base
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 22h ago
+Ars Technica • 23h ago
 
 ---
 
@@ -122,7 +122,7 @@ Ars Technica • 22h ago
 
 Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -152,7 +152,7 @@ Mashable • 1h ago
 
 Druckenmiller has never had a down year in all his years as a professional investor.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 289K • 👍 1K • 💬 6 • ⏱️ 0:09 • 11h ago
+👁️ 289K • 👍 1K • 💬 6 • ⏱️ 0:09 • 12h ago
 
 ---
 
@@ -244,7 +244,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 83K • 👍 9K • 💬 24 • ⏱️ 1:40 • 5h ago
+👁️ 83K • 👍 9K • 💬 24 • ⏱️ 1:40 • 6h ago
 
 ---
 

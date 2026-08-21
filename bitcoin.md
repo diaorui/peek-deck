@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T20:50:31.914929+00:00'
+updated: '2026-08-21T21:24:17.787444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 20:50 UTC  
+**Last Updated:** August 21, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -83,9 +83,15 @@ Rank #1
 
 ---
 
+**[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
+
+6h ago
+
+---
+
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -97,19 +103,15 @@ Rank #1
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-11h ago
-
----
-
-**[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
-
-11h ago
-
----
-
-**[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
-
 12h ago
+
+---
+
+**[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
+
+For anyone worried about missing not buying. Everything is gonna be fine.
+
+2h ago
 
 ---
 
@@ -119,25 +121,25 @@ Rank #1
 
 ---
 
+**[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
+
+12h ago
+
+---
+
+**[Just bought 100k worth of BTC](https://www.reddit.com/r/Bitcoin/comments/1vuq6jm/just_bought_100k_worth_of_btc/)**
+
+We’re going to the moon 🚀
+
+1h ago
+
+---
+
 **[This is surreal](https://www.reddit.com/r/Bitcoin/comments/1vu2goc/this_is_surreal/)**
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
 19h ago
-
----
-
-**[You can thank me guys!](https://www.reddit.com/r/Bitcoin/comments/1vu7bwq/you_can_thank_me_guys/)**
-
-I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
-
-15h ago
-
----
-
-**[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
-
-6h ago
 
 ---
 
@@ -163,7 +165,7 @@ Yahoo Finance • 9h ago
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 20m ago
+WSJ • 54m ago
 
 ---
 
@@ -187,7 +189,7 @@ Investor's Business Daily • 1h ago
 
 CNBC's Tanaya Macheel joins 'Closing Bell' to talk the ongoing rally in bitcoin prices.
 
-CNBC • 11m ago
+CNBC • 45m ago
 
 ---
 
@@ -195,13 +197,13 @@ CNBC • 11m ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -209,7 +211,7 @@ Bloomberg.com • 3h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -243,7 +245,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 12h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 13h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -309,7 +311,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 79 • ⏱️ 11:06 • 21h ago
+👁️ 43K • 👍 3K • 💬 79 • ⏱️ 11:06 • 22h ago
 
 ---
 
@@ -319,7 +321,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 32K • 👍 1K • 💬 141 • ⏱️ 11:16 • 21h ago
+👁️ 32K • 👍 1K • 💬 141 • ⏱️ 11:16 • 22h ago
 
 ---
 

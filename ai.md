@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T20:50:31.907288+00:00'
+updated: '2026-08-21T21:24:17.778923+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 20:50 UTC  
+**Last Updated:** August 21, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a constant low hum in the background. One thing that genuinely changed how I work is using LLMs as a sounding board before I commit to any feature or a new positioning angle. Not in a promptengineery way. More like I dump my halfformed thinking into a chat, describe the problem I think customers have, and ask it to poke holes in my assumptions. It catches stuff I miss because I'm too close to it. What I keep wondering is how much of that feedback is actually useful vs. the model just patternmatching on generic startup advice it was trained on. Sometimes the response feels sharp and specific. Other times it feels like it pulled from a mediocre blog post from 2019. Curious if other founders or people building products are using AI in this prevalidation stage, or if most of the use is further downstream once the thing already exists. Also whether you trust the output at all for something this highstakes, or you treat it more like a rubber duck that occasionally says something smart. The cost of being wrong when you're bootstrapped is pretty real, so I'm trying to figure out where AI actually earns its place vs. where I'm just using it to feel productive.
 
-18m ago
+52m ago
 
 ---
 
@@ -65,13 +65,13 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 Adding a vector database is usually the first move when output quality drops on a knowledge-heavy task. It's rarely the right one. Most quality problems in that category aren't retrieval failures, they're curation failures wearing a retrieval-shaped disguise. The model isn't underinformed. It's drowning in loosely relevant material with nothing telling it what to weigh more heavily, and RAG just automates feeding it more of exactly that. The tell is what happens after teams add retrieval and the problem doesn't fully go away, just shifts shape. Answers get more grounded in the sense that facts are technically present in context, but they get vaguer in the sense that matters, the model still can't tell which of the five retrieved chunks is actually load-bearing for this specific question. Retrieval expanded the pool of correct information without ever solving the part where the model has to decide what to do with it. That's not a retrieval problem. That's the same context-structuring problem RAG was supposed to fix, just relocated one layer downstream. Where RAG earns its complexity is genuinely large, frequently changing corpora where you can't fit the relevant slice into context even after aggressive curation, legal discovery, large codebases, that kind of thing. For a lot of internal tools and product features, the actual fix is smaller and less interesting than a vector database: cut the source material down to what's structurally relevant to the task before it ever reaches the model, and be more deliberate about what "relevant" means for that specific request. Teams skip that step because it requires someone to actually think about the data, and reach for retrieval infrastructure instead because it's a known pattern with existing tooling. Not claiming RAG is never the right call. Claiming it's reached for by default in cases where the actual bottleneck is upstream of retrieval entirely. If someone's shipped a case where RAG measurably fixed a quality problem that better context curation alone couldn't have, genuinely interested in what that looked like.
 
-3h ago
+4h ago
 
 ---
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 7h ago
 
 ---
 
@@ -87,7 +87,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 GitHub says its new Microsoft Teams integration can turn a channel, thread, or direct message into a shared Copilot cloud-agent session. Anyone in the conversation can ask questions, add context, and steer the work. People with repository write access can let Copilot make changes. The session runs in a secure cloud sandbox, and teams can continue with the agent-generated artifacts in the terminal, the Copilot app, or an IDE. Repository admins can also require an extra approval before pull requests from the Teams integration identity can merge. The useful part is not another chat box. It is a shared work log with a human merge gate. Source: https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/
 
-39m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ GitHub says its new Microsoft Teams integration can turn a channel, thread, or d
 
 San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 55m ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Maybe I'm overthinking this but it's been sitting with me for a few weeks now. T
 
 Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Ars Technica • 9h ago
+Ars Technica • 10h ago
 
 ---
 
@@ -145,7 +145,7 @@ TechCrunch • 1h ago
 
 Prosecutors cited ChatGPT searches while portraying Ayob Nasser as a dangerous man who should be jailed while awaiting a high-profile terror trial.
 
-The Detroit News • 14m ago
+The Detroit News • 48m ago
 
 ---
 
@@ -153,7 +153,7 @@ The Detroit News • 14m ago
 
 Uber once sold riders on a simple promise: Order a car right from your phone for less than a taxi. Since then, prices have risen dramatically.
 
-Business Insider • 12m ago
+Business Insider • 46m ago
 
 ---
 
@@ -177,7 +177,7 @@ The Atlantic • 23h ago
 
 Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNN • 8h ago
 
 **[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -209,7 +209,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 696 • 💬 2 • 10h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 696 • 💬 2 • 11h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -273,7 +273,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 185 • 💬 208 • 20h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 185 • 💬 208 • 21h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -325,7 +325,7 @@ The worst side of the internet imaginable... Please subscribe if you havent! Alm
 
 📺 Max
 
-👁️ 169K • 👍 13K • 💬 278 • ⏱️ 23:46 • 23h ago
+👁️ 169K • 👍 13K • 💬 278 • ⏱️ 23:46 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Yuval Noah Harari says AI has made it possible, for the first time in history, t
 
 📺 The Economist
 
-👁️ 4K • 👍 218 • ⏱️ 1:45 • 3h ago
+👁️ 4K • 👍 218 • ⏱️ 1:45 • 4h ago
 
 ---
 
@@ -353,7 +353,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Ben Esherick
 
-👁️ 311K • 👍 23K • 💬 163 • ⏱️ 0:37 • 22h ago
+👁️ 311K • 👍 23K • 💬 163 • ⏱️ 0:37 • 23h ago
 
 ---
 
@@ -373,7 +373,7 @@ mentalhealth #boyfriend #dating #relationships #ai #artificialintelligence #lone
 
 📺 Sav Says
 
-👁️ 215 • 👍 10 • 💬 1 • ⏱️ 0:38 • 45m ago
+👁️ 215 • 👍 10 • 💬 1 • ⏱️ 0:38 • 1h ago
 
 ---
 
@@ -718,7 +718,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 10h ago
+⭐ 2.9k • 🔱 346 • 11h ago
 
 ---
 
@@ -738,7 +738,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.1k • 🔱 221 • 33m ago
+⭐ 2.1k • 🔱 221 • 1h ago
 
 ---
 
@@ -748,7 +748,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 18h ago
+⭐ 2.0k • 🔱 182 • 19h ago
 
 ---
 
