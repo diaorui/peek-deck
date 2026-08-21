@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T20:25:43.840958+00:00'
+updated: '2026-08-21T20:50:31.923075+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 20:25 UTC  
+**Last Updated:** August 21, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 31m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 56m ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -118,32 +118,6 @@ Ars Technica • 22h ago
 
 ---
 
-**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
-
-WSJ • 2d ago
-
----
-
-**[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
-
-WSJ • 4h ago
-
----
-
-**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
-
-Humanoid crashes during speed test as China’s robotics industry grows
-
-Al Jazeera • 7h ago
-
----
-
-**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
-
-Reuters • 2d ago
-
----
-
 **[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
 
 Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
@@ -152,11 +126,17 @@ Business Insider • 11h ago
 
 ---
 
-**[Amazon to build multibillion-dollar robotics manufacturing facility in Austin](https://cbsaustin.com/news/local/amazon-to-build-multibillion-dollar-robotics-manufacturing-facility-in-austin)**
+**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
 
-Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
+Humanoid crashes during speed test as China’s robotics industry grows
 
-KEYE • 1d ago
+Al Jazeera • 8h ago
+
+---
+
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+
+WSJ • 2d ago
 
 ---
 
@@ -164,7 +144,7 @@ KEYE • 1d ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 2h ago
+Mashable • 1h ago
 
 ---
 
@@ -176,11 +156,31 @@ The Motley Fool • 12h ago
 
 ---
 
+**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[Could robots help tackle loneliness? BBC’s Ann Droid raises questions about the future of care](https://theconversation.com/could-robots-help-tackle-loneliness-bbcs-ann-droid-raises-questions-about-the-future-of-care-289430)**
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
 
 The Conversation • 2d ago
+
+---
+
+**[😺 The ACTUAL ChatGPT 3 moment for robotics (one-shot learning)](https://www.theneurondaily.com/p/ai-helped-moderna-fight-cancer-today)**
+
+The Neuron • 1d ago
+
+---
+
+**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
+
+New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
+
+Intel Newsroom • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ This uncanny artificial mouth can surprisingly reproduce the sound and articulat
 
 📺 Ace Atlantis
 
-👁️ 19K • 👍 133 • 💬 1 • ⏱️ 0:05 • 6h ago
+👁️ 19K • 👍 133 • 💬 1 • ⏱️ 0:05 • 7h ago
 
 ---
 
@@ -284,7 +284,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 248K • 👍 3K • 💬 625 • ⏱️ 10:16 • 6d ago
+👁️ 248K • 👍 3K • 💬 625 • ⏱️ 10:16 • 7d ago
 
 ---
 

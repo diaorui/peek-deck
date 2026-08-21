@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T20:25:43.831604+00:00'
+updated: '2026-08-21T20:50:31.914929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 20:25 UTC  
+**Last Updated:** August 21, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,187.59
+### $77,385.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.3%  
-**7d:** +22.5%  
-**30d:** +18.7%  
-**90d:** +0.2%  
-**1y:** -33.9%  
+**24h:** +6.4%  
+**7d:** +22.7%  
+**30d:** +18.9%  
+**90d:** +0.4%  
+**1y:** -33.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-18h ago
+19h ago
 
 ---
 
@@ -131,13 +131,13 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-14h ago
+15h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -145,39 +145,57 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 ## Google News: "bitcoin"
 
+**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
+
+Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
+
+CNBC • 3h ago
+
+---
+
 **[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 1h ago
+WSJ • 20m ago
 
 ---
 
-**[Ray Dalio warns of impending U.S. debt crisis, urges gold, bitcoin hedging](https://seekingalpha.com/news/4635970-ray-dalio-warns-of-impending-us-debt-crisis-urges-gold-bitcoin-hedging)**
+**[Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars](https://uk.finance.yahoo.com/news/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html)**
 
-Ray Dalio warns a U.S. debt crisis could hit within 3 years.
+Stocks posted weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
 
-Seeking Alpha • 1h ago
-
----
-
-**[Positioning is starting to reverse in bitcoin, says Pantera Capital's Cosmo Jiang](https://www.cnbc.com/video/2026/08/21/positioning-is-starting-to-reverse-in-bitcoin-says-pantera-capitals-cosmo-jiang.html)**
-
-Cosmo Jiang, portfolio manager at Pantera Capital, joins 'The Exchange' to discuss what to expect regarding cryptocurrency prices, the key support levels and much more.
-
-CNBC • 2h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
-**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+**[Stock Market Today: Dow Gains 550 Points; Palantir Rises, Bitcoin Rallies (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
 
-Reuters • 9h ago
+Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
+
+Investor's Business Daily • 1h ago
+
+---
+
+**[Bitcoin extends rally](https://www.cnbc.com/video/2026/08/21/bitcoin-extends-rally.html)**
+
+CNBC's Tanaya Macheel joins 'Closing Bell' to talk the ongoing rally in bitcoin prices.
+
+CNBC • 11m ago
+
+---
+
+**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
+
+Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
+
+CNBC • 1h ago
 
 ---
 
@@ -187,31 +205,19 @@ Bloomberg.com • 3h ago
 
 ---
 
-**[Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight](https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day)**
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
 
-CoinDesk • 2h ago
+Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
----
-
-**[Bitcoin ETFs Post $606 Million Inflow, Biggest Since May 1](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-606-million-065540209.html)**
-
-Spot Bitcoin ETFs drew $606 million on August 20, following a BTC price rally; the biggest daily inflow since May 1.
-
-Yahoo Finance • 13h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Heavy ETF Buying Is Driving Bitcoin Prices Higher](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/heavy-etf-buying-is-driving-bitcoin-prices-higher-ZofGlB2cl47UlK9VQN3U)**
+**[Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder](https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/)**
 
-WSJ • 11h ago
+Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
 
----
-
-**[Stock Market Today: Dow Leads; Bitcoin Helps Lift Robinhood; Copper Names Soar (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
-
-Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
-
-Investor's Business Daily • 2h ago
+Fortune • 1h ago
 
 ---
 
@@ -253,7 +259,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 22h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 23h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -283,7 +289,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 49 • ⏱️ 17:33 • 22h ago
+👁️ 33K • 👍 2K • 💬 49 • ⏱️ 17:33 • 23h ago
 
 ---
 
@@ -363,7 +369,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 21K • 👍 1K • 💬 35 • ⏱️ 11:02 • 14h ago
+👁️ 21K • 👍 1K • 💬 35 • ⏱️ 11:02 • 15h ago
 
 ---
 

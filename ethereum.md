@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T20:25:43.837741+00:00'
+updated: '2026-08-21T20:50:31.920246+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 20:25 UTC  
+**Last Updated:** August 21, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,414.00
+### $2,445.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +28.3%  
-**30d:** +28.6%  
-**90d:** +15.0%  
-**1y:** -50.0%  
+**24h:** +5.0%  
+**7d:** +29.2%  
+**30d:** +29.6%  
+**90d:** +16.0%  
+**1y:** -49.6%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 20h ago
 
 ---
 
@@ -150,19 +150,11 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
+**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
 
-Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
+Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
-
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -174,43 +166,33 @@ TradingView • 2h ago
 
 ---
 
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 2d ago
-
----
-
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
-
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
-
-MarketForces Africa • 1d ago
-
----
-
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
-
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
-
-Ethereum Foundation Blog • 1d ago
-
----
-
 **[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
 
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
 
-CryptoSlate • 19h ago
+Fidelity Investments • 3d ago
+
+---
+
+**[Bitcoin and Ethereum Are Having Good Weeks. Is the Crypto Bull Market Back?](https://www.moomoo.com/news/post/75081268/bitcoin-and-ethereum-are-having-good-weeks-is-the-crypto)**
+
+Moomoo • 5h ago
+
+---
+
+**[Ethereum Price Prediction: Is $2500 The Next Big Target?](https://coinpedia.org/news/ethereum-price-prediction-is-2500-the-next-big-target/)**
+
+Ethereum (ETH) has delivered a major breakout that could create a shift across crypto, according to a recent market analysis.  ETH hit $2,370, surging 25%
+
+Coinpedia • 1h ago
 
 ---
 
@@ -222,9 +204,25 @@ The Motley Fool • 9h ago
 
 ---
 
-**[Tom Lee Spots ‘Good Sign’ as Ethereum ETFs Buy $189M in Biggest Day for 10 Months](https://www.ccn.com/news/crypto/ethereum-etfs-189m-biggest-10-months-tom-lee-sign/)**
+**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-CCN.com • 5h ago
+CoinDesk • 3d ago
+
+---
+
+**[This Nasdaq-listed crypto firm is swapping fresh Ethereum buys for an AI pivot](https://cryptoslate.com/this-nasdaq-listed-crypto-firm-is-swapping-fresh-ethereum-buys-for-an-ai-pivot/)**
+
+Intchains, the Nasdaq-listed mining hardware maker, is redirecting capital toward a new ASIC platform and early-stage AI expansion.
+
+CryptoSlate • 5h ago
+
+---
+
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
+
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 132 • 💬 3 • ⏱️ 7:31 • 3h ago
+👁️ 1K • 👍 132 • 💬 3 • ⏱️ 7:31 • 4h ago
 
 ---
 
@@ -268,7 +266,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 353 • 💬 80 • ⏱️ 26:07 • 18h ago
+👁️ 10K • 👍 353 • 💬 80 • ⏱️ 26:07 • 19h ago
 
 ---
 
@@ -288,7 +286,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 685 • 💬 48 • ⏱️ 11:56 • 23h ago
+👁️ 14K • 👍 685 • 💬 48 • ⏱️ 11:56 • 1d ago
 
 ---
 
