@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T18:48:04.397573+00:00'
+updated: '2026-08-21T19:26:01.326682+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 18:48 UTC  
+**Last Updated:** August 21, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 8h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 9h ago
 
 ---
 
@@ -44,13 +44,13 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-8h ago
+9h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swept a 20×20 grid of floor friction against lateral push, 16 trials per cell, using Kaplan-Meier survival per condition since trials that survive the window have to be censored rather than counted as failures. Things interesting to us: the boundary is not a line but a band. The 95% bootstrap interval is about ±4% of bodyweight on high friction and ±33% on ice, a 7× spread. below μ≈0.15 the policy falls before the push lands. That's gait collapse, a different failure mode from being knocked over. the same seed on the same GPU can produce different outcomes (floating-point reduction order), so a few knife-edge survivors can't be re-simulated at all. We then changed the two conditions the map showed training never covered, retrained for 12 minutes, and re-ran the identical sweep: 60 of 400 conditions significantly safer (Fisher exact + BH-FDR, q<0.05), none significantly worse. Write-up with the interactive map: https://poissonlabs.ai/research/map-the-failure-boundary/. Happy to answer questions about the harness validation/statistics.
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 23h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 1d ago
 
 ---
 
@@ -116,7 +116,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 20h ago
+Ars Technica • 21h ago
 
 ---
 
@@ -128,7 +128,7 @@ WSJ • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -136,13 +136,21 @@ WSJ • 2h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 6h ago
+Al Jazeera • 7h ago
 
 ---
 
 **[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
 
 Reuters • 2d ago
+
+---
+
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 10h ago
 
 ---
 
@@ -154,27 +162,11 @@ KEYE • 1d ago
 
 ---
 
-**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
-
-Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
-
-Business Insider • 9h ago
-
----
-
 **[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 5h ago
-
----
-
-**[Bedrock Robotics deploys fully autonomous excavators on jobsites](https://www.constructiondive.com/news/bedrock-robotics-fully-autonomous-excavators-jobsites/828267/)**
-
-The San Francisco-based company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.
-
-Construction Dive • 2d ago
+Mashable • 1h ago
 
 ---
 
@@ -182,7 +174,15 @@ Construction Dive • 2d ago
 
 Druckenmiller has never had a down year in all his years as a professional investor.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
+
+---
+
+**[Could robots help tackle loneliness? BBC’s Ann Droid raises questions about the future of care](https://theconversation.com/could-robots-help-tackle-loneliness-bbcs-ann-droid-raises-questions-about-the-future-of-care-289430)**
+
+As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
+
+The Conversation • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 227K • 👍 1K • 💬 6 • ⏱️ 0:09 • 9h ago
+👁️ 227K • 👍 1K • 💬 6 • ⏱️ 0:09 • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 41K • 👍 5K • 💬 13 • ⏱️ 1:40 • 3h ago
+👁️ 41K • 👍 5K • 💬 13 • ⏱️ 1:40 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ MIT engineers have developed a dual-arm robotic system that learns physical ther
 
 📺 The Rundown AI
 
-👁️ 662 • 👍 40 • ⏱️ 1:02 • 1h ago
+👁️ 662 • 👍 40 • ⏱️ 1:02 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T18:48:04.394746+00:00'
+updated: '2026-08-21T19:26:01.324503+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 18:48 UTC  
+**Last Updated:** August 21, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,409.44
+### $2,414.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.7%  
-**7d:** +28.9%  
-**30d:** +29.2%  
-**90d:** +15.6%  
-**1y:** -49.8%  
+**24h:** +4.4%  
+**7d:** +28.3%  
+**30d:** +28.6%  
+**90d:** +15.0%  
+**1y:** -50.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 29m ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 1h ago
 
 ---
 
@@ -158,11 +158,43 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://www.tradingview.com/news/cryptonews:d70328f5b094b:0-ethereum-etf-pulls-221m-as-eth-eyes-another-breakout/)**
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
-Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with ab…
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-TradingView • 8h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[SEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal](https://www.tradingview.com/news/newsbtc:307a1e65b094b:0-sec-opens-comment-period-on-cboe-3x-bitcoin-and-ethereum-etf-proposal/)**
+
+The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
+
+TradingView • 1h ago
+
+---
+
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+
+The Block • 2d ago
+
+---
+
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+
+MarketForces Africa • 1d ago
+
+---
+
+**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
+
+better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+
+Ethereum Foundation Blog • 1d ago
 
 ---
 
@@ -174,17 +206,11 @@ Fortune • 6h ago
 
 ---
 
-**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
-Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-Fidelity Investments • 3d ago
-
----
-
-**[Bitcoin and Ethereum Are Having Good Weeks. Is the Crypto Bull Market Back?](https://www.moomoo.com/news/post/75081268/bitcoin-and-ethereum-are-having-good-weeks-is-the-crypto)**
-
-Moomoo • 3h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -192,37 +218,13 @@ Moomoo • 3h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
+**[Tom Lee Spots ‘Good Sign’ as Ethereum ETFs Buy $189M in Biggest Day for 10 Months](https://www.ccn.com/news/crypto/ethereum-etfs-189m-biggest-10-months-tom-lee-sign/)**
 
-CoinDesk • 3d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls in control with BTC heading toward $80,000, ETH $2,500, XRP $1.50](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-in-control-with-btc-heading-toward-80-000-eth-2-500-xrp-150-202608210331)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are extending their rallies as bullish momentum strengthens and continue to cheer the US Treasury’s decision to double its debt buyback operations. BTC has climbed nearly 20%, ETH over 25% and XRP nearly 30% so far this week.
-
-FXStreet • 15h ago
-
----
-
-**[Ethereum price breakout risks pullback with RSI at 86](https://crypto.news/ethereum-price-breakout-risks-pullback-with-rsi-at-86/)**
-
-Ethereum price reached $2,448 as ETF inflows and short liquidations fueled the rally, but an RSI above 86 raises pullback risks.
-
-Crypto News • 7h ago
-
----
-
-**[This Nasdaq-listed crypto firm is swapping fresh Ethereum buys for an AI pivot](https://cryptoslate.com/this-nasdaq-listed-crypto-firm-is-swapping-fresh-ethereum-buys-for-an-ai-pivot/)**
-
-Intchains, the Nasdaq-listed mining hardware maker, is redirecting capital toward a new ASIC platform and early-stage AI expansion.
-
-CryptoSlate • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -246,7 +248,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 426 • 👍 42 • ⏱️ 1:25 • 4h ago
+👁️ 426 • 👍 42 • ⏱️ 1:25 • 5h ago
 
 ---
 
@@ -256,7 +258,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 682 • 💬 27 • ⏱️ 11:56 • 21h ago
+👁️ 13K • 👍 682 • 💬 27 • ⏱️ 11:56 • 22h ago
 
 ---
 
@@ -266,7 +268,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 14K • 👍 348 • 💬 62 • ⏱️ 41:59 • 23h ago
+👁️ 14K • 👍 348 • 💬 62 • ⏱️ 41:59 • 1d ago
 
 ---
 
@@ -286,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 513 • 👍 31 • 💬 1 • ⏱️ 5:27 • 9h ago
+👁️ 513 • 👍 31 • 💬 1 • ⏱️ 5:27 • 10h ago
 
 ---
 

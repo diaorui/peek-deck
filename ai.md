@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T18:48:04.381417+00:00'
+updated: '2026-08-21T19:26:01.314127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 18:48 UTC  
+**Last Updated:** August 21, 2026 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Adding a vector database is usually the first move when output quality drops on a knowledge-heavy task. It's rarely the right one. Most quality problems in that category aren't retrieval failures, they're curation failures wearing a retrieval-shaped disguise. The model isn't underinformed. It's drowning in loosely relevant material with nothing telling it what to weigh more heavily, and RAG just automates feeding it more of exactly that. The tell is what happens after teams add retrieval and the problem doesn't fully go away, just shifts shape. Answers get more grounded in the sense that facts are technically present in context, but they get vaguer in the sense that matters, the model still can't tell which of the five retrieved chunks is actually load-bearing for this specific question. Retrieval expanded the pool of correct information without ever solving the part where the model has to decide what to do with it. That's not a retrieval problem. That's the same context-structuring problem RAG was supposed to fix, just relocated one layer downstream. Where RAG earns its complexity is genuinely large, frequently changing corpora where you can't fit the relevant slice into context even after aggressive curation, legal discovery, large codebases, that kind of thing. For a lot of internal tools and product features, the actual fix is smaller and less interesting than a vector database: cut the source material down to what's structurally relevant to the task before it ever reaches the model, and be more deliberate about what "relevant" means for that specific request. Teams skip that step because it requires someone to actually think about the data, and reach for retrieval infrastructure instead because it's a known pattern with existing tooling. Not claiming RAG is never the right call. Claiming it's reached for by default in cases where the actual bottleneck is upstream of retrieval entirely. If someone's shipped a case where RAG measurably fixed a quality problem that better context curation alone couldn't have, genuinely interested in what that looked like.
 
-1h ago
-
----
-
-**[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 4h ago
+2h ago
 
 ---
 
@@ -67,11 +61,9 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 ---
 
-**[Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?](https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/)**
+**[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
-
-10h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 5h ago
 
 ---
 
@@ -83,11 +75,33 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 ---
 
+**[Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?](https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/)**
+
+Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
+
+10h ago
+
+---
+
 **[AI compute financing just tripled in ten weeks - the mechanism behind the reported $100B Broadcom deal](https://www.reddit.com/r/artificial/comments/1vug3gk/ai_compute_financing_just_tripled_in_ten_weeks/)**
 
 Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
 
-5h ago
+6h ago
+
+---
+
+**[So uh… wtf?](https://www.reddit.com/r/artificial/comments/1vup7pd/so_uh_wtf/)**
+
+30m ago
+
+---
+
+**[Ling-3.0 opens six base checkpoints across three training stages](https://www.reddit.com/r/artificial/comments/1vup2uv/ling30_opens_six_base_checkpoints_across_three/)**
+
+Ant Group's new release makes six base checkpoints available: pretrained, mid-trained, and WSM-merged checkpoints for both the tiny and flash sizes. That is two sizes × three training stages. Every repository is public and ungated with an MIT declaration, and none of the six has been post-trained. The Ling-3.0 base model release exposes three points in the training progression for each of two model sizes. Researchers can inspect each released stage, but these are base checkpoints for continued pretraining, fine-tuning, and research—not finished chat or instruct models. One important evidence boundary: the team says the same recipe was validated on tiny and then scaled to flash, but that is an official statement rather than an independent reproduction. The WSM paper's reported experiments use Ling-mini, not the six Ling-3.0 checkpoints released here. The official release announcement contains the full family, and the main tiny and flash model pages are the WSM-merged endpoints..
+
+35m ago
 
 ---
 
@@ -99,22 +113,6 @@ To make a long story short: My stepfather-in-law was laid off in January. My hus
 
 ---
 
-**[1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?](https://www.reddit.com/r/artificial/comments/1vunilm/17b_model_leading_strict7_formal_reasoning_above/)**
-
-Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
-
-53m ago
-
----
-
-**[A fixed evaluator can still become the target of an agent loop](https://www.reddit.com/r/artificial/comments/1vud8d2/a_fixed_evaluator_can_still_become_the_target_of/)**
-
-Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
-
-7h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,43 +121,35 @@ Fixing an evaluator before an agent starts iterating prevents the goalposts from
 
 Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Ars Technica • 7h ago
+Ars Technica • 8h ago
 
 ---
 
 **[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
-**[Jim Cramer looks at why our AI data center stocks are among the worst of the week](https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html)**
+**[An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom](https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html)**
 
-The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 1h ago
-
----
-
-**[Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say"](https://www.cbsnews.com/news/meta-ai-smart-glasses-covert-filming-privacy/)**
-
-One woman is speaking out after she was secretly filmed, saying that technology like Meta's AI-powered smart glasses threatens personal privacy.
-
-CBS News • 58m ago
+CNBC • 30m ago
 
 ---
 
-**[Another rough week for the AI trade is coming to a close](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-long-dated-treasury-yields-flash-us-manufacturing-pmi/card/another-rough-week-for-the-ai-trade-is-coming-to-a-close-19e3FEPhqjgdj6efpztn?mod=mw_quote_news)**
+**[Zayo Locks Up Corning Fiber Capacity for AI Network Buildout](https://www.datacenterknowledge.com/networking/zayo-locks-up-corning-fiber-capacity-for-ai-network-buildout)**
 
-MarketWatch • 1h ago
+The agreement secures a material portion of the fiber Zayo needs for its 15,000 route mile network expansion through 2030.
+
+Data Center Knowledge • 24m ago
 
 ---
 
-**[NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)**
+**[Opinion | AI Can’t Fix a Bad Calendar](https://www.wsj.com/opinion/ai-cant-fix-a-bad-calendar-92a06234)**
 
-A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
-
-NVIDIA Developer • 5h ago
+WSJ • 27m ago
 
 ---
 
@@ -171,25 +161,33 @@ The Atlantic • 21h ago
 
 ---
 
-**[Leaked Memo Shows Republicans Are Terrified of the Backlash Against AI Data Centers](https://futurism.com/artificial-intelligence/leaked-memo-data-centers-ai-ohio-republicans-election)**
+**[NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)**
 
-The Republican party is freaking out over what the public backlash against data centers might mean in Ohio, a newly leaked memo reveals.
+A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-Futurism • 3h ago
-
----
-
-**[Introducing AI Futures](https://openai.com/index/introducing-ai-futures/)**
-
-Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
-
-OpenAI • 23h ago
+NVIDIA Developer • 6h ago
 
 ---
 
-**[Software Firms Deploy Bluster and Buybacks to Counter AI Fears](https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster)**
+**[MAHA warns Trump against coal-powered data centers](https://www.axios.com/2026/08/21/ai-data-centers-coal-trump-rfk-maga-warning)**
 
-Bloomberg.com • 7h ago
+Axios • 1h ago
+
+---
+
+**[Donald Trump’s New AI Photo Sparks Jeffrey Epstein Confusion](https://www.yahoo.com/news/politics/articles/donald-trump-ai-photo-sparks-081805890.html)**
+
+The Department of Education published an AI photo that sent social media into a frenzy after users spotted a character resembling Jeffrey Epstein. The post, created with Grok Imagine, shows President ...
+
+Yahoo • 11h ago
+
+---
+
+**[MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers](https://www.washingtonpost.com/politics/2026/08/21/maha-trump-ai-data-centers-rfk-coal/74c714d2-9d83-11f1-9cc4-2dc9b46e2d5c_story.html)**
+
+Nearly 200 activists in Robert F. Kennedy Jr.’s “Make America Healthy Again” movement are criticizing President Donald Trump’s promotion of coal to power artificial intelligence data centers
+
+The Washington Post • 46m ago
 
 ---
 
@@ -201,13 +199,13 @@ Bloomberg.com • 7h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1025 • 💬 573 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1026 • 💬 573 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 692 • 💬 2 • 8h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 696 • 💬 2 • 9h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -215,7 +213,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 402 • 💬 757 • 16h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 433 • 💬 785 • 16h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -223,7 +221,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 My personal portfolio site and blog.
 
-⬆️ 353 • 💬 203 • 23h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 355 • 💬 204 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -231,7 +229,7 @@ My personal portfolio site and blog.
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 299 • 💬 100 • 2d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 300 • 💬 101 • 2d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -247,7 +245,7 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 200 • 💬 159 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 201 • 💬 159 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -271,13 +269,13 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 182 • 💬 204 • 18h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 184 • 💬 206 • 19h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 161 • 💬 116 • 3h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 9 • 4h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -311,7 +309,7 @@ The DoJ is using your tax dollars to sue any community that resists data centers
 
 📺 Tucker Carlson
 
-👁️ 14K • 👍 2K • 💬 38 • 1h ago
+👁️ 14K • 👍 2K • 💬 38 • 2h ago
 
 ---
 
@@ -359,7 +357,7 @@ Yuval Noah Harari says AI has made it possible, for the first time in history, t
 
 📺 The Economist
 
-👁️ 1K • 👍 74 • ⏱️ 1:45 • 1h ago
+👁️ 1K • 👍 74 • ⏱️ 1:45 • 2h ago
 
 ---
 
@@ -369,7 +367,7 @@ Experience the future of Makkah  ! Watch advanced AI robots seamlessly distribut
 
 📺 AI MuslimaZ
 
-👁️ 7K • ⏱️ 0:11 • 4h ago
+👁️ 7K • ⏱️ 0:11 • 5h ago
 
 ---
 
@@ -489,7 +487,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 411 • 59m ago
+⬇️ 123,956 • ❤️ 411 • 1h ago
 
 ---
 
@@ -664,7 +662,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 17h ago
+⭐ 14.0k • 🔱 1.7k • 18h ago
 
 ---
 
@@ -674,7 +672,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 4h ago
+⭐ 8.8k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -692,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 4h ago
+⭐ 3.5k • 🔱 579 • 5h ago
 
 ---
 
@@ -712,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 8h ago
+⭐ 2.9k • 🔱 346 • 9h ago
 
 ---
 
@@ -732,7 +730,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.0k • 🔱 217 • 53m ago
+⭐ 2.0k • 🔱 217 • 1h ago
 
 ---
 
@@ -742,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 16h ago
+⭐ 2.0k • 🔱 182 • 17h ago
 
 ---
 

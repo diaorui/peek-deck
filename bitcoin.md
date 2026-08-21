@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T18:48:04.388869+00:00'
+updated: '2026-08-21T19:26:01.320199+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 18:48 UTC  
+**Last Updated:** August 21, 2026 at 19:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,468.41
+### $77,187.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.8%  
-**7d:** +22.7%  
-**30d:** +18.9%  
-**90d:** +0.4%  
-**1y:** -33.8%  
+**24h:** +6.3%  
+**7d:** +22.5%  
+**30d:** +18.7%  
+**90d:** +0.2%  
+**1y:** -33.9%  
 
 ---
 
@@ -85,31 +85,31 @@ Rank #1
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-9h ago
+10h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-9h ago
+10h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -153,35 +153,51 @@ Yahoo Finance • 7h ago
 
 ---
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 1h ago
+WSJ • 31m ago
 
 ---
 
-**[Bitcoin Jumps While the S&P Heads for Weekly Loss](https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17)**
+**[Ray Dalio warns of impending U.S. debt crisis, urges gold, bitcoin hedging](https://seekingalpha.com/news/4635970-ray-dalio-warns-of-impending-us-debt-crisis-urges-gold-bitcoin-hedging)**
 
-WSJ • 2h ago
+Ray Dalio warns a U.S. debt crisis could hit within 3 years.
+
+Seeking Alpha • 51m ago
 
 ---
 
-**[Stock Market Today: Dow Leads; Bitcoin Helps Lift Robinhood; Copper Names Soar (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
+**[Positioning is starting to reverse in bitcoin, says Pantera Capital's Cosmo Jiang](https://www.cnbc.com/video/2026/08/21/positioning-is-starting-to-reverse-in-bitcoin-says-pantera-capitals-cosmo-jiang.html)**
 
-Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
+Cosmo Jiang, portfolio manager at Pantera Capital, joins 'The Exchange' to discuss what to expect regarding cryptocurrency prices, the key support levels and much more.
 
-Investor's Business Daily • 59m ago
+CNBC • 1h ago
+
+---
+
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+
+Reuters • 8h ago
+
+---
+
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
+
+Bloomberg.com • 2h ago
 
 ---
 
 **[Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight](https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day)**
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin ETFs Post $606 Million Inflow, Biggest Since May 1](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-606-million-065540209.html)**
+
+Spot Bitcoin ETFs drew $606 million on August 20, following a BTC price rally; the biggest daily inflow since May 1.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -191,27 +207,11 @@ WSJ • 10h ago
 
 ---
 
-**[Bitcoin ETFs Post $606 Million Inflow, Biggest Since May 1](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-606-million-065540209.html)**
+**[Stock Market Today: Dow Leads; Bitcoin Helps Lift Robinhood; Copper Names Soar (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
 
-Spot Bitcoin ETFs drew $606 million on August 20, following a BTC price rally; the biggest daily inflow since May 1.
+Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened](https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates)**
-
-Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
-
-The Guardian • 12h ago
-
----
-
-**[Scott Bessent’s Bond-Market Rescue Worked Better for Bitcoin Than It Did for Treasuries](https://www.inc.com/phil-rosen/stock-market-outlook-bond-traders-bitcoin-debasement-gold-bessent-treasury/91394409)**
-
-The U.S. Treasury’s intervention in bond markets isn’t working immediately.
-
-inc.com • 6h ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -237,7 +237,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 10h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 11h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -293,7 +293,7 @@ Something unusual is happening across markets right now. Large-scale capital app
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 5 • ⏱️ 41:39 • 10h ago
+👁️ 19K • 👍 1K • 💬 5 • ⏱️ 41:39 • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 30K • 👍 1K • 💬 127 • ⏱️ 11:16 • 19h ago
+👁️ 30K • 👍 1K • 💬 127 • ⏱️ 11:16 • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 33K • 👍 332 • 💬 19 • ⏱️ 4:31 • 23h ago
+👁️ 33K • 👍 332 • 💬 19 • ⏱️ 4:31 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 1K • 👍 102 • 💬 8 • ⏱️ 18:12 • 6h ago
+👁️ 1K • 👍 102 • 💬 8 • ⏱️ 18:12 • 7h ago
 
 ---
 
