@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T21:24:17.796625+00:00'
+updated: '2026-08-21T21:49:35.348712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 21:24 UTC  
+**Last Updated:** August 21, 2026 at 21:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -78,7 +78,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 12h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 8h ago
+Al Jazeera • 9h ago
 
 ---
 
@@ -144,7 +144,7 @@ WSJ • 2d ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 1h ago
+Mashable • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ This uncanny artificial mouth can surprisingly reproduce the sound and articulat
 
 📺 Ace Atlantis
 
-👁️ 19K • 👍 133 • 💬 1 • ⏱️ 0:05 • 7h ago
+👁️ 19K • 👍 133 • 💬 1 • ⏱️ 0:05 • 8h ago
 
 ---
 

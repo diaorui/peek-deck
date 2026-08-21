@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T21:24:17.787444+00:00'
+updated: '2026-08-21T21:49:35.341162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 21:24 UTC  
+**Last Updated:** August 21, 2026 at 21:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-7h ago
+8h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 We’re going to the moon 🚀
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ We’re going to the moon 🚀
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -159,13 +159,13 @@ CNBC • 3h ago
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 54m ago
+WSJ • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ WSJ • 54m ago
 
 Stocks posted weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance UK • 1h ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Investor's Business Daily • 1h ago
 
 CNBC's Tanaya Macheel joins 'Closing Bell' to talk the ongoing rally in bitcoin prices.
 
-CNBC • 45m ago
+CNBC • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 4h ago
 
 Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -261,7 +261,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 23h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 1d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 49 • ⏱️ 17:33 • 23h ago
+👁️ 33K • 👍 2K • 💬 49 • ⏱️ 17:33 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 21K • 👍 1K • 💬 35 • ⏱️ 11:02 • 15h ago
+👁️ 21K • 👍 1K • 💬 35 • ⏱️ 11:02 • 16h ago
 
 ---
 

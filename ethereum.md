@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T21:24:17.793471+00:00'
+updated: '2026-08-21T21:49:35.346128+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 21:24 UTC  
+**Last Updated:** August 21, 2026 at 21:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -84,14 +84,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #36 | US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31](https://www.reddit.com/r/ethereum/comments/1vulcxr/ethereal_news_weekly_36_us_sec_regulation_crypto/)**
-
-US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 4h ago
-
----
-
 **[156 - Doots Podcast with Quotient - Jordan O](https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
@@ -100,11 +92,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Ethereal news weekly #36 | US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31](https://www.reddit.com/r/ethereum/comments/1vulcxr/ethereal_news_weekly_36_us_sec_regulation_crypto/)**
+
+US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 5h ago
+
+---
+
 **[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://www.reddit.com/r/ethereum/comments/1vu16ki/raising_machinechecked_security_benchmarks_to/)**
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 20h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ TradingView • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -192,7 +192,7 @@ Moomoo • 6h ago
 
 Ethereum (ETH) has delivered a major breakout that could create a shift across crypto, according to a recent market analysis.  ETH hit $2,370, surging 25%
 
-Coinpedia • 1h ago
+Coinpedia • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 132 • 💬 3 • ⏱️ 7:31 • 4h ago
+👁️ 1K • 👍 132 • 💬 3 • ⏱️ 7:31 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 353 • 💬 80 • ⏱️ 26:07 • 19h ago
+👁️ 10K • 👍 353 • 💬 80 • ⏱️ 26:07 • 20h ago
 
 ---
 

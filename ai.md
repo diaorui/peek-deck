@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T21:24:17.778923+00:00'
+updated: '2026-08-21T21:49:35.334063+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 21:24 UTC  
+**Last Updated:** August 21, 2026 at 21:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 18h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 19h ago
 
 ---
 
@@ -49,7 +49,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a constant low hum in the background. One thing that genuinely changed how I work is using LLMs as a sounding board before I commit to any feature or a new positioning angle. Not in a promptengineery way. More like I dump my halfformed thinking into a chat, describe the problem I think customers have, and ask it to poke holes in my assumptions. It catches stuff I miss because I'm too close to it. What I keep wondering is how much of that feedback is actually useful vs. the model just patternmatching on generic startup advice it was trained on. Sometimes the response feels sharp and specific. Other times it feels like it pulled from a mediocre blog post from 2019. Curious if other founders or people building products are using AI in this prevalidation stage, or if most of the use is further downstream once the thing already exists. Also whether you trust the output at all for something this highstakes, or you treat it more like a rubber duck that occasionally says something smart. The cost of being wrong when you're bootstrapped is pretty real, so I'm trying to figure out where AI actually earns its place vs. where I'm just using it to feel productive.
 
-52m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a 
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-13h ago
+14h ago
 
 ---
 
@@ -79,7 +79,7 @@ Adding a vector database is usually the first move when output quality drops on 
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on
 
 Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
 
-12h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ TechCrunch • 1h ago
 
 Prosecutors cited ChatGPT searches while portraying Ayob Nasser as a dangerous man who should be jailed while awaiting a high-profile terror trial.
 
-The Detroit News • 48m ago
+The Detroit News • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Detroit News • 48m ago
 
 Uber once sold riders on a simple promise: Order a car right from your phone for less than a taxi. Since then, prices have risen dramatically.
 
-Business Insider • 46m ago
+Business Insider • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ blog.google • 2d ago
 
 Did you mix something up? Maybe you’re just “hallucinating.”
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 22h ago
 
 Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 448 • 💬 800 • 18h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 448 • 💬 800 • 19h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -281,7 +281,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 176 • 💬 180 • 9h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 176 • 💬 180 • 10h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -295,7 +295,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 460K • 👍 7K • 💬 358 • ⏱️ 12:08 • 21h ago
+👁️ 460K • 👍 7K • 💬 358 • ⏱️ 12:08 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 774 • 👍 35 • 💬 4 • ⏱️ 0:58 • 2h ago
+👁️ 774 • 👍 35 • 💬 4 • ⏱️ 0:58 • 3h ago
 
 ---
 
@@ -423,7 +423,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 797 • 12h ago
+⬇️ 18,193 • ❤️ 797 • 13h ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 421 • 3h ago
+⬇️ 123,956 • ❤️ 421 • 4h ago
 
 ---
 
@@ -660,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 16.6k • 🔱 1.9k • 1h ago
+⭐ 16.6k • 🔱 1.9k • 2h ago
 
 ---
 
@@ -680,7 +680,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 6h ago
+⭐ 8.8k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -698,7 +698,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 7h ago
+⭐ 3.5k • 🔱 579 • 8h ago
 
 ---
 
@@ -728,7 +728,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 184 • 12h ago
+⭐ 2.2k • 🔱 184 • 13h ago
 
 ---
 
