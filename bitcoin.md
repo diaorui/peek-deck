@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T04:37:59.436531+00:00'
+updated: '2026-08-21T05:32:50.208178+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 04:37 UTC  
+**Last Updated:** August 21, 2026 at 05:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,534.48
+### $75,425.87
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +7.6%  
-**7d:** +18.6%  
-**30d:** +14.9%  
-**90d:** -3.0%  
-**1y:** -36.0%  
+**7d:** +19.1%  
+**30d:** +15.4%  
+**90d:** -2.6%  
+**1y:** -35.7%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 62
+### 72
 **GREED**
 
 ---
@@ -89,7 +89,7 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-9h ago
+10h ago
 
 ---
 
@@ -97,13 +97,13 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-2h ago
+3h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -111,7 +111,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Had a somber thought, the people affected by the cold card exploit gotta be hurt
 
 Another dip before we rip? Or is this it 😸
 
-18h ago
+19h ago
 
 ---
 
@@ -127,13 +127,13 @@ Another dip before we rip? Or is this it 😸
 
 They will buy at the price they deserve.
 
-48m ago
+1h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -141,13 +141,13 @@ They will buy at the price they deserve.
 
 ​ k)
 
-2h ago
+3h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -159,27 +159,49 @@ They will buy at the price they deserve.
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
 **[Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia](https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Coinbase CEO: Bitcoin could reach $300,000–$400,000 by 2030](https://www.moomoo.com/news/post/75029647/coinbase-ceo-bitcoin-could-reach-300000-400000-by-2030)**
+**[daily life of bitcoin players](https://www.moomoo.com/community/feed/daily-life-of-bitcoin-players-117131672027142)**
 
-Moomoo • 2h ago
+$Bitcoin (BTC.CC)$
+
+Moomoo • 48m ago
 
 ---
 
-**[Bitcoin Jumps to $71,500 on Trump’s ‘Sizeable’ Buy Plan. Why MSTR Is Still the Wrong Bet](https://finance.yahoo.com/markets/crypto/articles/bitcoin-jumps-71-500-trump-110033643.html)**
+**[Asia crypto stocks rally as Bitcoin rebounds sharply; Metaplanet surges 20%](https://www.investing.com/news/stock-market-news/asia-crypto-stocks-rally-as-bitcoin-rebounds-sharply-metaplanet-surges-20-4870837)**
 
-Trump just signaled the U.S. government could buy Bitcoin at a "sizeable" scale, sending prices past $71,500 and Strategy shares soaring nearly 10%. But a closer look at Strategy's latest moves raises a question every crypto investor should ask before piling in.
+Investing.com • 15m ago
 
-Yahoo Finance • 17h ago
+---
+
+**[Bitcoin Rises Sharply as U.S. Debt Concerns Boost Dollar Hedge Appeal -- Market Talk](https://www.moomoo.com/news/post/75041846/bitcoin-rises-sharply-as-us-debt-concerns-boost-dollar-hedge)**
+
+Moomoo • 1h ago
+
+---
+
+**[Strategy Owns 4% of All Bitcoin but MSTR Shareholders Face $22B in Senior Claims](https://finance.yahoo.com/markets/crypto/articles/strategy-owns-4-bitcoin-mstr-150433806.html)**
+
+Strategy held 840,447 BTC as of Aug. 9, equal to roughly 4% of Bitcoin’s maximum 21 million supply. MSTR common shareholders sit behind $6.75 billion ...
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin's Odds Of Hitting $80,000 This Year Double Overnight As Price Suddenly Tops $70,000](https://www.forbes.com/sites/antoniopequenoiv/2026/08/20/bitcoins-odds-of-hitting-80000-this-year-double-overnight-as-price-suddenly-tops-70000/)**
+
+Polymarket trading pushed the odds of bitcoin hitting the benchmark by the end of the year from 30% to 60% overnight.
+
+Forbes • 11h ago
 
 ---
 
@@ -189,17 +211,11 @@ WSJ • 1d ago
 
 ---
 
-**[Bitcoin, Crypto Stocks Pop after Trump Event. Clarity Act Is Still in Doubt.](https://www.barrons.com/articles/bitcoin-coinbase-strategy-trump-clarity-act-d576802f)**
+**[Live: Bitcoin surges on US policy signals, market down on plan to 'collapse' Iran's economy](https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908)**
 
-Barron's • 10h ago
+The US is urging allies to join it in a bid to "collapse" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
 
----
-
-**[Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden](https://bitcoinmagazine.com/news/bitcoin-price-to-rise-says-lyn-alden)**
-
-While Bitcoin may not be "out of the woods" just yet, Macro expert Lyn Alden thinks new buyers could be entering the market soon.
-
-Bitcoin Magazine • 7h ago
+ABC News & Headlines – Australian Broadcasting Corporation • 7h ago
 
 ---
 
@@ -207,19 +223,7 @@ Bitcoin Magazine • 7h ago
 
 Signs of a crypto thaw are beginning to show.
 
-Investopedia • 12h ago
-
----
-
-**[MSTR Stock Leads Crypto Stocks Higher as Bitcoin Passes $71K](https://www.barchart.com/story/news/3957398/mstr-stock-leads-crypto-stocks-higher-as-bitcoin-passes-71k)**
-
-Barchart.com • 8h ago
-
----
-
-**[Bitcoin's jump above $72,000 sets up bullish golden cross pattern](https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern)**
-
-CoinDesk • 13h ago
+Investopedia • 13h ago
 
 ---
 
@@ -255,7 +259,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 7h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 8h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -263,7 +267,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 22h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 23h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -285,7 +289,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 116 • 💬 1 • ⏱️ 12:16 • 9h ago
+👁️ 3K • 👍 116 • 💬 1 • ⏱️ 12:16 • 10h ago
 
 ---
 
@@ -295,7 +299,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 379 • 💬 29 • ⏱️ 14:53 • 11h ago
+👁️ 10K • 👍 379 • 💬 29 • ⏱️ 14:53 • 12h ago
 
 ---
 
@@ -315,7 +319,7 @@ Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino 
 
 📺 Jaime Merino | TradingLatino
 
-👁️ 4K • 👍 801 • 1h ago
+👁️ 4K • 👍 801 • 2h ago
 
 ---
 
@@ -325,7 +329,7 @@ Bitcoin #Crypto #finance Bitcoin explodes above $72K in its biggest upside move 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 793 • 💬 202 • ⏱️ 58:31 • 14h ago
+👁️ 16K • 👍 793 • 💬 202 • ⏱️ 58:31 • 15h ago
 
 ---
 
@@ -355,7 +359,7 @@ EXCLUSIVE 10% DEPOSIT BONUS https://ckenny.com/yubitnew Conor's Foundation Portf
 
 📺 Conor Kenny
 
-👁️ 9K • 👍 569 • 💬 47 • ⏱️ 14:03 • 13h ago
+👁️ 9K • 👍 569 • 💬 47 • ⏱️ 14:03 • 14h ago
 
 ---
 
@@ -365,7 +369,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 17K • 👍 1K • 💬 112 • ⏱️ 8:08 • 22h ago
+👁️ 17K • 👍 1K • 💬 112 • ⏱️ 8:08 • 23h ago
 
 ---
 

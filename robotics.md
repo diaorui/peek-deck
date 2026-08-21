@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T04:37:59.445718+00:00'
+updated: '2026-08-21T05:32:50.217415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 04:37 UTC  
+**Last Updated:** August 21, 2026 at 05:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-11h ago
+12h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 9h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 10h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 8h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 9h ago
 
 ---
 
@@ -114,11 +114,25 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 ## Google News: "robotics"
 
+**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
+
+Reuters • 2d ago
+
+---
+
 **[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
 
 Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
 
-CNBC • 20h ago
+CNBC • 21h ago
+
+---
+
+**[China’s robot makers display latest humanoid robots at conference in Beijing](https://apnews.com/video/chinese-robot-industry-confident-despite-us-import-ban-dfec67c3e0c74e8bbd399f85807a52ec)**
+
+China kicked off the 2026 World Robot Conference with companies showcasing the country’s expanding robotics industry.
+
+AP News • 20h ago
 
 ---
 
@@ -132,7 +146,7 @@ Reuters • 1d ago
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 6h ago
+Ars Technica • 7h ago
 
 ---
 
@@ -144,9 +158,17 @@ KEYE • 1d ago
 
 ---
 
-**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
+**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
 
-Bloomberg.com • 2d ago
+Companies are selling machines to government-backed centres that then sell training data back to robot makers
+
+Financial Times • 1d ago
+
+---
+
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+
+WSJ • 1d ago
 
 ---
 
@@ -162,29 +184,7 @@ Construction Dive • 1d ago
 
 Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech Over 80% of global humanoids use NVIDIAs platform, solidifying U.S. lead in robot intelligence
 
-조선일보 • 2h ago
-
----
-
-**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
-
-China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
-
-ABC News - Breaking News, Latest News and Videos • 1d ago
-
----
-
-**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
-
-South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
-
-Business Insider Africa • 10h ago
-
----
-
-**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
-
-The New York Times • 19h ago
+조선일보 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ This robot is turning beach garbage into a profitable cleaning business. 🏖️
 
 📺 Learn Earn
 
-👁️ 258K • 👍 4K • 💬 89 • ⏱️ 0:16 • 16h ago
+👁️ 258K • 👍 4K • 💬 89 • ⏱️ 0:16 • 17h ago
 
 ---
 

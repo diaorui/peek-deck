@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T04:37:59.442514+00:00'
+updated: '2026-08-21T05:32:50.214220+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 04:37 UTC  
+**Last Updated:** August 21, 2026 at 05:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,346.36
+### $2,347.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +24.9%  
-**30d:** +25.2%  
-**90d:** +12.0%  
+**24h:** +4.0%  
+**7d:** +25.0%  
+**30d:** +25.3%  
+**90d:** +12.1%  
 **1y:** -51.3%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -126,7 +126,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 12h ago
+Barron's • 13h ago
 
 ---
 
@@ -164,43 +164,35 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html)**
+**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
 
-Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday's opening price.  Ethereum (ETH-USD) opened at $1,916.47 on Wednesday, August 19, 2026, up 0.2% from Tuesday's opening price.
+Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum's Target Is $4,000 or $10,000, Says Trader Who Predicted The Breakout](https://www.tradingview.com/news/benzinga:1fb52c8db094b:0-ethereum-s-target-is-4-000-or-10-000-says-trader-who-predicted-the-breakout/)**
-
-Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
-
-TradingView • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Ethereum Price Forecast: Bulls defend rally above $2,300 despite rising profit-taking](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bulls-defend-rally-above-2-300-despite-rising-profit-taking-202608202130)**
+**[Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300](https://bitcoinfoundation.org/news/analysis/why-is-crypto-up-today-bitcoin-hits-71k-as-ethereum-surges-past-2300/)**
 
-Ethereum (ETH) continued its rally on Thursday as capital gradually flowed back into the derivatives market after the recent leverage flush.
+Find out why Bitcoin and Ethereum have surged today and whether we are seeing a crypto rally comeback
 
-FXStreet • 7h ago
-
----
-
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 3h ago
+Bitcoin Foundation • 17h ago
 
 ---
 
-**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
+**[Current price of Ethereum for August 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
 
-CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Benzinga • 1d ago
+Fortune • 1d ago
+
+---
+
+**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
+
+Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
+
+Fidelity Investments • 3d ago
 
 ---
 
@@ -210,19 +202,25 @@ CoinDesk • 2d ago
 
 ---
 
-**[Crypto News: Pepeto (PEPETO) Nears 50,000 Holders as Ethereum Price Eyes $10,000 and Shiba Inu's Story Repeats](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-pepeto-nears-50-000-holders-as-ethereum-price-eyes-10-000-and-shiba-inu-s-story-repeats-1036477647)**
+**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
 
-DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-markets.businessinsider.com • 20h ago
+ethereum.org • 3d ago
 
 ---
 
-**[Current price of Ethereum for August 20, 2026](https://fortune.com/article/price-of-ethereum-08-20-2026/)**
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-Fortune • 17h ago
+CryptoSlate • 4h ago
+
+---
+
+**[Ethereum Gained 4.68% to $2317.89 -- Data Talk](https://www.moomoo.com/news/post/75024172/ethereum-gained-4-68-to-2317-89-data-talk)**
+
+Moomoo • 8h ago
 
 ---
 
@@ -236,7 +234,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 498 • 💬 14 • ⏱️ 11:56 • 7h ago
+👁️ 8K • 👍 498 • 💬 14 • ⏱️ 11:56 • 8h ago
 
 ---
 
@@ -246,7 +244,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 8K • 👍 247 • 💬 69 • ⏱️ 41:59 • 9h ago
+👁️ 8K • 👍 247 • 💬 69 • ⏱️ 41:59 • 10h ago
 
 ---
 
@@ -256,7 +254,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 264 • 💬 19 • ⏱️ 7:45 • 14h ago
+👁️ 7K • 👍 264 • 💬 19 • ⏱️ 7:45 • 15h ago
 
 ---
 
@@ -266,7 +264,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 12K • 👍 868 • 💬 320 • ⏱️ 43:02 • 19h ago
+👁️ 12K • 👍 868 • 💬 320 • ⏱️ 43:02 • 20h ago
 
 ---
 
@@ -286,7 +284,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 126 • 💬 26 • ⏱️ 11:13 • 16h ago
+👁️ 4K • 👍 126 • 💬 26 • ⏱️ 11:13 • 17h ago
 
 ---
 
@@ -296,7 +294,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 85K • 👍 5K • 💬 260 • ⏱️ 18:20 • 12h ago
+👁️ 85K • 👍 5K • 💬 260 • ⏱️ 18:20 • 13h ago
 
 ---
 
@@ -316,7 +314,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Negocios TV
 
-👁️ 10K • 👍 187 • 💬 10 • ⏱️ 1:21 • 14h ago
+👁️ 10K • 👍 187 • 💬 10 • ⏱️ 1:21 • 15h ago
 
 ---
 
@@ -326,7 +324,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 71 • 💬 19 • ⏱️ 1:22:32 • 17h ago
+👁️ 2K • 👍 71 • 💬 19 • ⏱️ 1:22:32 • 18h ago
 
 ---
 
