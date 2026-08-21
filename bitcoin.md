@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T12:47:57.339681+00:00'
+updated: '2026-08-21T13:44:43.150863+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 12:47 UTC  
+**Last Updated:** August 21, 2026 at 13:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They will buy at the price they deserve.
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ They will buy at the price they deserve.
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-11h ago
+12h ago
 
 ---
 
@@ -111,31 +111,31 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-10h ago
+11h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-3h ago
+4h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-4h ago
+5h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-3h ago
+4h ago
 
 ---
 
 **[for some people this is the way](https://www.reddit.com/r/Bitcoin/comments/1vubxeb/for_some_people_this_is_the_way/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-17h ago
+18h ago
 
 ---
 
@@ -153,7 +153,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 **[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 20h ago
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 1d ago
 
 Companies including Coinbase Global, Circle Internet Group, and even mining firms like MARA have been riding a wave of fresh market enthusiasm.
 
-Fast Company • 18m ago
+Fast Company • 1h ago
 
 ---
 
@@ -189,13 +189,13 @@ Fast Company • 18m ago
 
 @Bitcoin Magazine 3486 Views|5 Likes
 
-Moomoo • 15m ago
+Moomoo • 1h ago
 
 ---
 
 **[Stock Market Today: Dow Futures Edges Higher; Yields Steady; Bitcoin Nears $80,000 — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 36m ago
+WSJ • 1h ago
 
 ---
 
@@ -203,19 +203,19 @@ WSJ • 36m ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 51m ago
+Investor's Business Daily • 1h ago
 
 ---
 
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
 **[Strategy Stock Soars. Its Bitcoin Bet Is a Winner Again.](https://www.barrons.com/articles/strategy-stock-price-bitcoin-22b17195)**
 
-Barron's • 34m ago
+Barron's • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 4h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 5h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -257,7 +257,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 15h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 16h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 30 • ⏱️ 17:33 • 15h ago
+👁️ 27K • 👍 2K • 💬 30 • ⏱️ 17:33 • 16h ago
 
 ---
 
@@ -297,7 +297,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 25K • 👍 925 • 💬 111 • ⏱️ 11:16 • 13h ago
+👁️ 25K • 👍 925 • 💬 111 • ⏱️ 11:16 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants w
 
 📺 Mister Finance
 
-👁️ 935 • 👍 5 • ⏱️ 0:42 • 20h ago
+👁️ 935 • 👍 5 • ⏱️ 0:42 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 190 • 👍 18 • ⏱️ 18:12 • 47m ago
+👁️ 190 • 👍 18 • ⏱️ 18:12 • 1h ago
 
 ---
 
@@ -337,7 +337,7 @@ Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - To
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 2K • 💬 140 • ⏱️ 30:19 • 23h ago
+👁️ 48K • 👍 2K • 💬 140 • ⏱️ 30:19 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Something unusual is happening across markets right now. Large-scale capital app
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 4 • ⏱️ 41:39 • 4h ago
+👁️ 13K • 👍 1K • 💬 4 • ⏱️ 41:39 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 CNBC Television
 
-👁️ 55K • 👍 938 • 💬 135 • ⏱️ 7:54 • 23h ago
+👁️ 55K • 👍 938 • 💬 135 • ⏱️ 7:54 • 1d ago
 
 ---
 

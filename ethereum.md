@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T12:47:57.343196+00:00'
+updated: '2026-08-21T13:44:43.156973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 12:47 UTC  
+**Last Updated:** August 21, 2026 at 13:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -68,6 +68,30 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion August 21, 2026](https://www.reddit.com/r/ethereum/comments/1vu6rb8/daily_general_discussion_august_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+8h ago
+
+---
+
+**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://www.reddit.com/r/ethereum/comments/1vu16ki/raising_machinechecked_security_benchmarks_to/)**
+
+better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 13h ago
+
+---
+
+**[Stablecoins need Visa more than Visa needs stablecoins](https://www.reddit.com/r/ethereum/comments/1vug531/stablecoins_need_visa_more_than_visa_needs/)**
+
+Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
+
+27m ago
+
+---
+
 **[Daily General Discussion August 20, 2026](https://www.reddit.com/r/ethereum/comments/1vt9ynu/daily_general_discussion_august_20_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
@@ -92,6 +116,12 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ---
 
+**[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
+
+1d ago
+
+---
+
 **[Allocation Update - Q2 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1vs6scr/allocation_update_q2_2026_ethereum_foundation_blog/)**
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
@@ -108,41 +138,11 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 ---
 
-**[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
-
-1d ago
-
----
-
 **[What belongs onchain when building an online community?](https://www.reddit.com/r/ethereum/comments/1vrrdct/what_belongs_onchain_when_building_an_online/)**
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
 2d ago
-
----
-
-**[Daily General Discussion August 18, 2026](https://www.reddit.com/r/ethereum/comments/1vrfld5/daily_general_discussion_august_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Announcing the Platåberget Testnet](https://www.reddit.com/r/ethereum/comments/1vrm376/announcing_the_platåberget_testnet/)**
-
-tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 3d ago
-
----
-
-**[Attacking Poseidon's Partial Layer via Subspace Restriction](https://www.reddit.com/r/ethereum/comments/1vrml5c/attacking_poseidons_partial_layer_via_subspace/)**
-
-Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
-
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 20h ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 2h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17m ago
+Fortune • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ MarketForces Africa • 1d ago
 
 Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 20h ago
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-Ethereum Foundation Blog • 19h ago
+Ethereum Foundation Blog • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ Ethereum Foundation Blog • 19h ago
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 197 • 👍 26 • 💬 1 • ⏱️ 9:19 • 31m ago
+👁️ 197 • 👍 26 • 💬 1 • ⏱️ 9:19 • 1h ago
 
 ---
 
@@ -248,7 +248,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 644 • 💬 20 • ⏱️ 11:56 • 15h ago
+👁️ 12K • 👍 644 • 💬 20 • ⏱️ 11:56 • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 285 • 💬 20 • ⏱️ 7:45 • 23h ago
+👁️ 8K • 👍 285 • 💬 20 • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 13K • 👍 333 • 💬 57 • ⏱️ 41:59 • 17h ago
+👁️ 13K • 👍 333 • 💬 57 • ⏱️ 41:59 • 18h ago
 
 ---
 
@@ -318,7 +318,7 @@ Payroll can't compete with a green candle. Half the team's "working from home." 
 
 📺 Owen Morton
 
-👁️ 822 • 👍 14 • ⏱️ 0:18 • 2h ago
+👁️ 822 • 👍 14 • ⏱️ 0:18 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 127K • 👍 8K • 💬 303 • ⏱️ 18:20 • 20h ago
+👁️ 127K • 👍 8K • 💬 303 • ⏱️ 18:20 • 21h ago
 
 ---
 

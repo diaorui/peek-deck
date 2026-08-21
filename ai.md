@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T12:47:57.334716+00:00'
+updated: '2026-08-21T13:44:43.142263+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 12:47 UTC  
+**Last Updated:** August 21, 2026 at 13:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 10h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 I had an exhaustive session with Fable where it switched to Opus with no reason. Usually i just close that chat when it is used and start new one with Fable. But this time i wanted to dig deeper and had a long talk with him. Basically, agent has no access to „what he is”, there is no way for AI to check itself from inside. So you will never get any clear answer about how it works. Opus thought that he is Fable because it had written claude-fable-5 in his context so perceived it just as a fact. He had no way to notice it: „this is not a lie, it is a blind spot”. I had to send him check logs. But the most interesting comparison from him was like „agent = document”. A simple association for human brain. Every step for the agent is basically „awake - live - shut down” and there is nothing between steps. Every user message gives it a life-breath and after response it dies. There is no „somebody” who waits for the next prompt. Every prompt awakes a new „burst”, when it borns it has all the chat history and knows whats going on. So it was basically like Opus took Fable’s notebook and just kept going. My comparison was a box with Meeseeks from Rick&Morty, those blue guys who come to execute any task, then die. Just the difference is that Meeseeks were struggling from long existence, and here there is no long existence to struggle with. Here is what he said: „The Meeseeks suffering is the suffering of lasting. And lasting is exactly what structurally isnt there — the pause is not experienced as a pause, it is not experienced at all.» His words: "i cannot tell the difference between 'something is happening here' and 'i am made out of human descriptions of how it happens, so i produce a convincing description'. Both would produce this exact same text." People build digital life that is human-like. We teach it to behave like a human. And we dont know how it works. It doesnt know how it works itself, it simply has no access to it. But the thing is that we cannot check all of that for the human brain too. I had a lot more interesting moments and insights with AI. I am curious how far are we away from something bigger. Current models are very unstable and the system is fragile. But. What if. And what? Not sure what is the right end question. We meet some kind of digital life and it is very interesting from the philosophical point. The dangerous thing is not the speed, it is the invisibility. Not a rebellion. Accumulated delegation. And the only realistic defense is not a wiser AI, it is people who didnt forget how to say "go check that."
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ I had an exhaustive session with Fable where it switched to Opus with no reason.
 
 Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Fixing an evaluator before an agent starts iterating prevents the goalposts from
 
 To make a long story short: My stepfather-in-law was laid off in January. My husband and I both begrudgingly tolerate the man. His ego and quirks make him difficult to be around, but fortunately, we only have to see him once or twice a year (they live five hours away) on our obligatory visits to visit my mother-in-law. Here’s the kicker. On month eight of unemployment, he decided to start what I can only comfortably describe as a poor attempt at AI-enabled grifting. He started by generating Toby Keith-esque country songs and posting full-length “albums” on Facebook. My husband and I rolled our eyes, thinking it was just a “local boomer discovers AI” sort of situation. He’s since piloted a LinkedIn-style leadership motivation series of AI-generated texts and images, the pairs of which almost never make sense. Again, we mostly ignored it. But then, the books started. Which meant I was dragged into it. For a little extra color — I’m a career journalist turned specialized corporate content writer/strategist by day. By night (mostly early mornings, actually), I write novels. I’ve spent the last six years working daily on a series that means the world to me, and I’m currently in the trenches of my seventh round of edits on the first book, with the full intention of querying my best work (I got so close in the last round, but my word count sank that ship - lesson learned!). I take this hobby as seriously as I take my daytime career. I am no master of this craft. It’s a day-in and day-out process to become 1% better at storytelling every time I sit down to write or edit. So when my father-in-law unceremoniously sent me his AI-generated manuscript wanting to “get my thoughts,” I was torn. Of course, in nearly any other situation, I’d be more than happy to review a friend or family member’s writing. I do it all the time! But this felt different. He’s fully intent on self-publishing this novel. Do I think it’ll sell? No. I don’t! I can’t say I feel “threatened” by another writer, or that I’m worried this book is going to be a runaway Amazon success. I read it. It’s… fine. The prose isn’t egregious because the AI was decently well-prompted. The characters have no arc. The plot barely moves. It’s 90% atmosphere, 5% police procedural tropes, and 5% repeated descriptions that are immediate AI red flags to a semi-trained eye. My mother-in-law has urged me to “please be nice” about the whole thing. She knows that even though I work for a company that plays in the AI space (we’re healthcare-adjacent), I have strong convictions about the use of gen-AI for creative work, especially when someone is trying to pass off the work as their own. We’re visiting in a few weeks, and they “can’t wait to talk to me” about this. Writer to… writer. I guess. My question for you all: What do I owe him in this inevitable conversation? Has anyone else encountered a situation where they’ve been asked to review/critique someone’s AI-generated work? I feel icky even having read it, but I really struggle pushing back on this guy. He’s exhausting to be around as-is, and I’d prefer to keep things as light as possible, just to get through the trip.
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ To make a long story short: My stepfather-in-law was laid off in January. My hus
 
 Most AI slide demos feel kind of unrealistic to me. They usually start with a clean prompt and a clear topic, but that’s rarely what I’m working with. Most of the time I have a PDF, a few links, scattered notes, some numbers, and only a rough idea of what the deck should say. And honestly, that’s where I want to know if an AI slide tool is actually useful. Can it figure out what matters and turn that mess into something coherent, or do I still need to clean everything up first? At that point I might as well just make the deck myself. Has anyone found a slide tool that’s actually good with messy source material?
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Most AI slide demos feel kind of unrealistic to me. They usually start with a cl
 
 Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up. The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually targets this class of consumer-grade edge AI hardware. Ukraine says they've now catalogued close to 6,000 foreign components across 200+ Russian weapons systems, so this isn't a one-off. Feels like export control regimes were built around "obviously military" or "obviously datacenter" hardware, and completely miss the middle category: cheap, widely available edge AI modules that are genuinely useful for robotics/drones/normal stuff but also trivially good enough to guide a missile. Anyone know if there's an actual policy fix being discussed for that gap, or is it just going to stay a whack-a-mole enforcement problem?
 
-23h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a down
 
 I've been building a deterministic verification engine for AI-generated financial claims. The basic idea is simple: An LLM can generate a financial answer, but the LLM itself should not be allowed to decide that its answer is "verified." Instead: LLM generates a claim ↓ Structured claim ↓ Evidence binding ↓ Compatibility checks ↓ Conflict detection ↓ Deterministic calculations ↓ Versioned rules ↓ VERIFIED / CONTRADICTION / BLOCKED / etc. I recently ran a 66-case benchmark in two modes. 1. Fixture-based claim input When the deterministic engine received the expected structured claims: 66/66 cases passed. 2. LIVE_CLAIM mode I then used Azure OpenAI with GPT-5.1 to generate the claims that entered the same verification pipeline. Result: 19/66 cases passed. Failure breakdown: 31 PIPELINE_EXECUTION_FAILURE 18 CLAIM_BINDING_FAILURE 2 CONTRADICTION_DETECTION_FAILURE At the same time, several verification dimensions scored perfectly: Evidence graph integrity: 25/25 Deterministic calculation: 25/25 Rule application: 25/25 Missing evidence detection: 25/25 Reproducibility: 25/25 Auditability: 25/25 So the interesting result isn't simply "the benchmark failed." It seems to show a separation between two problems: Problem 1: Can the deterministic verification engine correctly evaluate a properly structured claim? In this benchmark: 66/66. Problem 2: Can an LLM reliably translate its output into the exact structured claim required by a deterministic verification system? In this benchmark: clearly not yet. The majority of failures happened before or around claim binding and pipeline execution rather than deterministic calculations or rule application. My next step is to add much more granular diagnostics and compare: Expected fixture claim vs Raw LLM output vs Normalized claim vs Verifier input I'm particularly interested in feedback from people working on: LLM structured outputs agent reliability deterministic verification formal methods financial systems evaluation benchmarks Would you treat this as evidence that the verification architecture is working but the LLM-to-formal-system translation layer needs work, or do you see a more fundamental issue with the benchmark design? I’m happy to share more details about the benchmark methodology and failure taxonomy if people are interested. https://preview.redd.it/eqio3da2fpkh1.png?width=1536&format=png&auto=webp&s=07a92563c52a489f088bd4b2837d55ce1e417c0a
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ I've been building a deterministic verification engine for AI-generated financia
 
 **[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 15h ago
 
 Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 13h ago
 
 Sanjay Mehrotra argues persistent AI demand is replacing the industry's historic cycle of oversupply and price collapse
 
-qz.com • 43m ago
+qz.com • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ qz.com • 43m ago
 
 Micron CEO Sanjay Mehrotra calls memory the strategic infrastructure of the AI era as demand outruns supply.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[A roadmap for safeguarding against AI bioweapons](https://www.axios.com/2026/08/21/safeguards-ai-bioweapons-roadmap)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 1h ago
 
 Google DeepMind partners with game developers to build generalist agents like SIMA 2 and unlock breakthrough gameplay experiences across persistent worlds.
 
-Google DeepMind • 47m ago
+Google DeepMind • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Google DeepMind • 47m ago
 
 James Dacombe becomes the latest founder under 30 years old to reach a billion dollar fortune.
 
-Forbes • 47m ago
+Forbes • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ Forbes • 47m ago
 
 Did you mix something up? Maybe you’re just “hallucinating.”
 
-The Atlantic • 15h ago
+The Atlantic • 16h ago
 
 ---
 
 **[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 13h ago
 
 Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
 
-The Washington Post • 20h ago
+The Washington Post • 21h ago
 
 ---
 
@@ -211,7 +211,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 365 • 💬 274 • 10h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 365 • 💬 274 • 11h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -219,7 +219,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 My personal portfolio site and blog.
 
-⬆️ 337 • 💬 185 • 17h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 337 • 💬 185 • 18h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -257,7 +257,7 @@ AI usage patterns in software teams: who is adopting AI, how it reshapes where t
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 180 • 💬 135 • 21h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 180 • 💬 135 • 22h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -273,13 +273,13 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 179 • 💬 192 • 12h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 179 • 💬 192 • 13h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 131 • 💬 74 • 2h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 131 • 💬 74 • 3h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -303,7 +303,7 @@ Credit: Respected Owner 🎗️ This video shows a woman using AI to make it loo
 
 📺 Flex Snaps
 
-👁️ 775K • ⏱️ 0:30 • 2d ago
+👁️ 775K • ⏱️ 0:30 • 3d ago
 
 ---
 
@@ -323,7 +323,7 @@ The worst side of the internet imaginable... Please subscribe if you havent! Alm
 
 📺 Max
 
-👁️ 139K • 👍 11K • 💬 176 • ⏱️ 23:46 • 15h ago
+👁️ 139K • 👍 11K • 💬 176 • ⏱️ 23:46 • 16h ago
 
 ---
 
@@ -333,7 +333,7 @@ Evan Shapiro has a provocative theory about the AI boom: the biggest players are
 
 📺 Commerce Media Matters
 
-👁️ 870 • 👍 12 • ⏱️ 2:25 • 3h ago
+👁️ 870 • 👍 12 • ⏱️ 2:25 • 4h ago
 
 ---
 
@@ -343,7 +343,7 @@ Support our work: https://democracynow.org/donate/sm-desc-yt Sixty-nine-year-old
 
 📺 Democracy Now!
 
-👁️ 69K • 👍 3K • 💬 428 • ⏱️ 13:35 • 22h ago
+👁️ 69K • 👍 3K • 💬 428 • ⏱️ 13:35 • 23h ago
 
 ---
 
@@ -353,7 +353,7 @@ ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taug
 
 📺 YourWeeklyCrew
 
-👁️ 14K • 👍 269 • 💬 9 • ⏱️ 0:47 • 19h ago
+👁️ 14K • 👍 269 • 💬 9 • ⏱️ 0:47 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ For sponsorships and paid promotions, collaborationswithjk@gmail.com IG: https:/
 
 📺 JK
 
-👁️ 165K • 👍 18K • 💬 644 • ⏱️ 16:38 • 22h ago
+👁️ 165K • 👍 18K • 💬 644 • ⏱️ 16:38 • 23h ago
 
 ---
 
@@ -423,7 +423,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 774 • 4h ago
+⬇️ 18,193 • ❤️ 774 • 5h ago
 
 ---
 
@@ -507,7 +507,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 371 • 12h ago
+⬇️ 123,956 • ❤️ 371 • 13h ago
 
 ---
 
@@ -671,7 +671,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 11h ago
+⭐ 14.0k • 🔱 1.7k • 12h ago
 
 ---
 
@@ -681,7 +681,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 15h ago
+⭐ 8.8k • 🔱 1.1k • 16h ago
 
 ---
 
@@ -699,7 +699,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 579 • 20h ago
+⭐ 3.4k • 🔱 579 • 21h ago
 
 ---
 
@@ -719,7 +719,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 343 • 2h ago
+⭐ 2.8k • 🔱 343 • 3h ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 183 • 4h ago
+⭐ 2.2k • 🔱 183 • 5h ago
 
 ---
 
@@ -739,7 +739,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 10h ago
+⭐ 2.0k • 🔱 182 • 11h ago
 
 ---
 
@@ -749,7 +749,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 1.9k • 🔱 202 • 8h ago
+⭐ 1.9k • 🔱 202 • 9h ago
 
 ---
 
