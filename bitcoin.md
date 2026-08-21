@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T17:28:27.139015+00:00'
+updated: '2026-08-21T17:58:28.981063+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 17:28 UTC  
+**Last Updated:** August 21, 2026 at 17:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,335.68
+### $77,468.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.3%  
-**7d:** +22.6%  
-**30d:** +18.8%  
-**90d:** +0.3%  
-**1y:** -33.9%  
+**24h:** +6.8%  
+**7d:** +22.7%  
+**30d:** +18.9%  
+**90d:** +0.4%  
+**1y:** -33.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1557.21B
+**Market Cap:** $1552.92B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.6%
 
 **All-Time Low:** $67.81
-+114352.1%
++113992.3%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-3h ago
+4h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,15 +115,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-8h ago
-
----
-
-**[You can thank me guys!](https://www.reddit.com/r/Bitcoin/comments/1vu7bwq/you_can_thank_me_guys/)**
-
-I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
-
-11h ago
+9h ago
 
 ---
 
@@ -131,13 +123,21 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-15h ago
+16h ago
+
+---
+
+**[You can thank me guys!](https://www.reddit.com/r/Bitcoin/comments/1vu7bwq/you_can_thank_me_guys/)**
+
+I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
+
+12h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -149,35 +149,53 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[CRYPTO TAKES OFF: Coinbase rides Bitcoin's massive rally](https://www.foxnews.com/video/6403817960112)**
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
-
-Fox News • 1h ago
+Bloomberg.com • 54m ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 1h ago
+WSJ • 32m ago
 
 ---
 
 **[Bitcoin Jumps While the S&P Heads for Weekly Loss](https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17)**
 
-WSJ • 3h ago
+WSJ • 1h ago
 
 ---
 
-**[Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html)**
+**[Stock Market Today: Dow Leads; Bitcoin Helps Lift Robinhood; Copper Names Soar (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
 
-Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
+Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Yahoo Finance • 1h ago
+Investor's Business Daily • 9m ago
+
+---
+
+**[Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight](https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day)**
+
+CoinDesk • 2h ago
+
+---
+
+**[Heavy ETF Buying Is Driving Bitcoin Prices Higher](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/heavy-etf-buying-is-driving-bitcoin-prices-higher-ZofGlB2cl47UlK9VQN3U)**
+
+WSJ • 9h ago
+
+---
+
+**[Bitcoin ETFs Post $606 Million Inflow, Biggest Since May 1](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-606-million-065540209.html)**
+
+Spot Bitcoin ETFs drew $606 million on August 20, following a BTC price rally; the biggest daily inflow since May 1.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -189,35 +207,11 @@ The Guardian • 11h ago
 
 ---
 
-**[Robinhood Advances 5%, Webull Ticks Up as Bitcoin’s Breakout Lifts Retail Brokerages](https://247wallst.com/investing/2026/08/21/robinhood-advances-5-webull-ticks-up-as-bitcoins-breakout-lifts-retail-brokerages/)**
+**[Scott Bessent’s Bond-Market Rescue Worked Better for Bitcoin Than It Did for Treasuries](https://www.inc.com/phil-rosen/stock-market-outlook-bond-traders-bitcoin-debasement-gold-bessent-treasury/91394409)**
 
-Bitcoin's sharp breakout is sending shockwaves through retail brokerage stocks, but Robinhood and Webull are catching the move in very different ways, and the gap between them reveals something important about how each company is actually built.
+The U.S. Treasury’s intervention in bond markets isn’t working immediately.
 
-24/7 Wall St. • 3h ago
-
----
-
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
-
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
-
-BlackRock • 3d ago
-
----
-
-**[Data Breach At Trezor Leaks Info On Nearly 14,000 Bitcoin Wallet Users](https://bitcoinmagazine.com/news/trezor-data-breach-leaks-customer-info)**
-
-The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
-
-Bitcoin Magazine • 8d ago
-
----
-
-**[More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33](https://www.theblock.co/news/markets/2026-06-10-more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33-404229)**
-
-Over half of bitcoin's circulating supply is now trading at a loss, a level typically only reached near major bear market bottoms, per K33.
-
-The Block • 2mo ago
+inc.com • 6h ago
 
 ---
 
@@ -243,7 +237,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 9h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 10h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -259,7 +253,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 19h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 20h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -283,13 +277,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
 
-Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 39K • 👍 3K • 💬 75 • ⏱️ 11:06 • 18h ago
+👁️ 32K • 👍 2K • 💬 36 • ⏱️ 17:33 • 20h ago
 
 ---
 
@@ -299,7 +293,7 @@ Something unusual is happening across markets right now. Large-scale capital app
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 5 • ⏱️ 41:39 • 9h ago
+👁️ 19K • 👍 1K • 💬 5 • ⏱️ 41:39 • 10h ago
 
 ---
 
@@ -309,7 +303,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 28K • 👍 1K • 💬 117 • ⏱️ 11:16 • 18h ago
+👁️ 30K • 👍 1K • 💬 127 • ⏱️ 11:16 • 19h ago
 
 ---
 
@@ -319,17 +313,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 31K • 👍 322 • 💬 16 • ⏱️ 4:31 • 22h ago
-
----
-
-**[Bitcoin 🆚 Ethereum](https://www.youtube.com/watch?v=OTtly2e9fM0)**
-
-Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants went head-to-head across several cycles: ...
-
-📺 Mister Finance
-
-👁️ 1K • 👍 8 • ⏱️ 0:42 • 1d ago
+👁️ 33K • 👍 332 • 💬 19 • ⏱️ 4:31 • 22h ago
 
 ---
 
@@ -339,17 +323,17 @@ Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants w
 
 📺 Altcoin Daily
 
-👁️ 77K • 👍 3K • 💬 152 • ⏱️ 10:41 • 1d ago
+👁️ 78K • 👍 3K • 💬 152 • ⏱️ 10:41 • 1d ago
 
 ---
 
-**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
 
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
 
-📺 The Hobbyist Miner
+📺 Crypto Capital Venture
 
-👁️ 757 • 👍 77 • 💬 3 • ⏱️ 18:12 • 5h ago
+👁️ 25K • 👍 1K • 💬 609 • ⏱️ 22:30 • 1d ago
 
 ---
 
@@ -359,27 +343,37 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 443 • 💬 52 • ⏱️ 14:53 • 1d ago
+👁️ 14K • 👍 452 • 💬 53 • ⏱️ 14:53 • 1d ago
 
 ---
 
-**[Gold and bitcoin surge, ASX slips as bond sell-off accelerates | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=hHEbtSA9xng)**
+**[🚨BITCOIN EXPLODES TO $72K! (ALTCOIN SEASON IS HERE)](https://www.youtube.com/watch?v=QqS_aDfbaXA)**
 
-The price of gold and the original cryptocurrency, bitcoin, have jumped to their highest levels in months. It coincides with the ...
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
 
-📺 ABC News (Australia)
+📺 Discover Crypto
 
-👁️ 14K • 👍 213 • ⏱️ 1:58 • 8h ago
+👁️ 5K • 👍 354 • 💬 14 • ⏱️ 1:04:48 • 1d ago
 
 ---
 
-**[MASSIVE WARNING ISSUED! BITCOIN BULL RUN STARTING NOW - CLARITY ACT  SEPTEMBER 15 CATALYST](https://www.youtube.com/watch?v=mJI3QhiV7Us)**
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
 
-Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin & XRP All Going CRAZY Hey Babes, Brian ...
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
 
-📺 CryptoWendyO
+📺 The Hobbyist Miner
 
-👁️ 17K • 👍 792 • 💬 27 • ⏱️ 4:09 • 20h ago
+👁️ 1K • 👍 102 • 💬 8 • ⏱️ 18:12 • 5h ago
+
+---
+
+**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
+
+Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
+
+📺 Benjamin Cowen
+
+👁️ 50K • 👍 2K • 💬 140 • ⏱️ 30:19 • 1d ago
 
 ---
 

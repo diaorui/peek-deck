@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T17:28:27.143174+00:00'
+updated: '2026-08-21T17:58:28.986465+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 17:28 UTC  
+**Last Updated:** August 21, 2026 at 17:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,389.16
+### $2,409.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +27.5%  
-**30d:** +27.9%  
-**90d:** +14.4%  
-**1y:** -50.3%  
+**24h:** +4.7%  
+**7d:** +28.9%  
+**30d:** +29.2%  
+**90d:** +15.6%  
+**1y:** -49.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $289.38B
+**Market Cap:** $292.47B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.0%
 
 **All-Time Low:** $0.43
-+553866.8%
++559444.5%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 52m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 16h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 17h ago
 
 ---
 
@@ -158,43 +158,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee Spots ‘Good Sign’ as Ethereum ETFs Buy $189M in Biggest Day for 10 Months](https://finance.yahoo.com/markets/crypto/articles/tom-lee-spots-good-sign-144751709.html)**
-
-U.S.-listed Ethereum ETFs attracted their biggest daily inflow since October 2025. Tom Lee called the surge a “good sign” as Ethereum climbed approximately 30% over ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 2d ago
-
----
-
 **[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://www.tradingview.com/news/cryptonews:d70328f5b094b:0-ethereum-etf-pulls-221m-as-eth-eyes-another-breakout/)**
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with ab…
 
-TradingView • 6h ago
-
----
-
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
-
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
-
-MarketForces Africa • 1d ago
-
----
-
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
-
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
-
-Ethereum Foundation Blog • 1d ago
+TradingView • 7h ago
 
 ---
 
@@ -202,7 +170,21 @@ Ethereum Foundation Blog • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
+
+---
+
+**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
+
+Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
+
+Fidelity Investments • 3d ago
+
+---
+
+**[Bitcoin and Ethereum Are Having Good Weeks. Is the Crypto Bull Market Back?](https://www.moomoo.com/news/post/75081268/bitcoin-and-ethereum-are-having-good-weeks-is-the-crypto)**
+
+Moomoo • 2h ago
 
 ---
 
@@ -214,19 +196,33 @@ The Motley Fool • 6h ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 16h ago
+CoinDesk • 3d ago
 
 ---
 
-**[BlackRock adds 11,098 Bitcoin and 132,769 Ethereum through ETF operations in two-day stretch](https://cryptobriefing.com/blackrock-bitcoin-ethereum-billion-purchase/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls in control with BTC heading toward $80,000, ETH $2,500, XRP $1.50](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-in-control-with-btc-heading-toward-80-000-eth-2-500-xrp-150-202608210331)**
 
-BlackRock acquired 11,098 Bitcoin and 132,769 Ethereum in two days through its IBIT and ETHA spot ETFs, reflecting strong institutional demand
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are extending their rallies as bullish momentum strengthens and continue to cheer the US Treasury’s decision to double its debt buyback operations. BTC has climbed nearly 20%, ETH over 25% and XRP nearly 30% so far this week.
 
-Crypto Briefing • 2h ago
+FXStreet • 14h ago
+
+---
+
+**[Ethereum price breakout risks pullback with RSI at 86](https://crypto.news/ethereum-price-breakout-risks-pullback-with-rsi-at-86/)**
+
+Ethereum price reached $2,448 as ETF inflows and short liquidations fueled the rally, but an RSI above 86 raises pullback risks.
+
+Crypto News • 6h ago
+
+---
+
+**[This Nasdaq-listed crypto firm is swapping fresh Ethereum buys for an AI pivot](https://cryptoslate.com/this-nasdaq-listed-crypto-firm-is-swapping-fresh-ethereum-buys-for-an-ai-pivot/)**
+
+Intchains, the Nasdaq-listed mining hardware maker, is redirecting capital toward a new ASIC platform and early-stage AI expansion.
+
+CryptoSlate • 2h ago
 
 ---
 
@@ -234,13 +230,13 @@ Crypto Briefing • 2h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
 
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
-📺 Crypto Capital Venture
+📺 More Crypto Online
 
-👁️ 13K • 👍 672 • 💬 25 • ⏱️ 11:56 • 20h ago
+👁️ 615 • 👍 76 • 💬 1 • ⏱️ 7:31 • 1h ago
 
 ---
 
@@ -250,27 +246,17 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 251 • 👍 25 • ⏱️ 1:25 • 3h ago
+👁️ 426 • 👍 42 • ⏱️ 1:25 • 3h ago
 
 ---
 
-**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
+**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
 
-BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
 
-📺 Crypto World
+📺 Crypto Capital Venture
 
-👁️ 9K • 👍 342 • 💬 54 • ⏱️ 26:07 • 15h ago
-
----
-
-**[ETHEREUM BULLRUN UPDATE! (ETH Prediction)](https://www.youtube.com/watch?v=I33pFnhNA6M)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 388 • 👍 29 • ⏱️ 5:27 • 8h ago
+👁️ 13K • 👍 682 • 💬 27 • ⏱️ 11:56 • 21h ago
 
 ---
 
@@ -280,7 +266,27 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 14K • 👍 340 • 💬 56 • ⏱️ 41:59 • 22h ago
+👁️ 14K • 👍 348 • 💬 62 • ⏱️ 41:59 • 22h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
+
+BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 353 • 💬 69 • ⏱️ 26:07 • 16h ago
+
+---
+
+**[ETHEREUM BULLRUN UPDATE! (ETH Prediction)](https://www.youtube.com/watch?v=I33pFnhNA6M)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 513 • 👍 31 • 💬 1 • ⏱️ 5:27 • 8h ago
 
 ---
 
@@ -290,7 +296,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 879 • 💬 331 • ⏱️ 43:02 • 1d ago
+👁️ 13K • 👍 880 • 💬 333 • ⏱️ 43:02 • 1d ago
 
 ---
 
@@ -300,27 +306,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 147 • 💬 26 • ⏱️ 11:13 • 1d ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 8K • 👍 231 • 💬 40 • ⏱️ 16:48 • 3d ago
-
----
-
-**[AI Can’t Bank—But It Can Use Crypto](https://www.youtube.com/watch?v=klgnE3vuEQw)**
-
-etoro founder and CEO Yoni Assia explains why he believes AI and crypto are a natural combination. After asking an AI agent to ...
-
-📺 AllinCrypto
-
-👁️ 93 • 👍 9 • 💬 17 • ⏱️ 1:09 • 2h ago
+👁️ 5K • 👍 149 • 💬 25 • ⏱️ 11:13 • 1d ago
 
 ---
 
@@ -331,6 +317,16 @@ You wanna know the weirdest part of being in the cryptocurrency market right now
 📺 The Modern Investor
 
 👁️ 7K • 👍 712 • 💬 312 • ⏱️ 28:47 • 2d ago
+
+---
+
+**[ALTs are FALLING, BTC &amp; ETH are Barely Holding On!](https://www.youtube.com/watch?v=hVT4kkh1lks)**
+
+Bitcoin is the lead market signal I'm watching while BTC tests its current structure, nearby support, and the levels that would ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 9K • 👍 537 • 💬 210 • ⏱️ 58:07 • 2d ago
 
 ---
 

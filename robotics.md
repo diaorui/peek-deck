@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T17:28:27.145367+00:00'
+updated: '2026-08-21T17:58:28.989401+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 17:28 UTC  
+**Last Updated:** August 21, 2026 at 17:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 21h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 22h ago
 
 ---
 
@@ -130,15 +130,7 @@ WSJ • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 1h ago
-
----
-
-**[Fun to Watch, but How Does a High-Jumping Humanoid Help Humanity?](https://spectrum.ieee.org/video-friday-unitree-superhuman)**
-
-Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
-
-IEEE Spectrum • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -147,6 +139,12 @@ IEEE Spectrum • 1h ago
 Humanoid crashes during speed test as China’s robotics industry grows
 
 Al Jazeera • 5h ago
+
+---
+
+**[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -170,7 +168,7 @@ Business Insider • 8h ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 5h ago
+Mashable • 4h ago
 
 ---
 
@@ -194,33 +192,13 @@ The Motley Fool • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
-
-China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
-
-📺 AI Revolution
-
-👁️ 36K • 👍 842 • 💬 97 • ⏱️ 14:10 • 2d ago
-
----
-
 **[LIVE: Humanoid robots perform tasks at 2026 World Robot Conference in China](https://www.youtube.com/watch?v=2anAlqQ-XFE)**
 
 Watch live from the World Robot Conference in Beijing, where companies showcase the latest robots and technologies as China ...
 
 📺 Associated Press
 
-👁️ 9K • 👍 184 • 💬 5 • ⏱️ 34:12 • 1d ago
-
----
-
-**[Scientists Create Motorless Flying Robot](https://www.youtube.com/watch?v=9ptJNiinEVw)**
-
-Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
-
-📺 Dr Ben Miles
-
-👁️ 9K • 👍 956 • 💬 3 • ⏱️ 1:40 • 2h ago
+👁️ 10K • 👍 183 • 💬 5 • ⏱️ 34:12 • 1d ago
 
 ---
 
@@ -230,47 +208,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 151K • 👍 958 • 💬 5 • ⏱️ 0:09 • 8h ago
-
----
-
-**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
-
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
-
-📺 CNET
-
-👁️ 12K • 👍 370 • 💬 63 • ⏱️ 5:16 • 5d ago
-
----
-
-**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
-
-Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
-
-📺 ABC News
-
-👁️ 79K • 👍 2K • 💬 284 • ⏱️ 1:36 • 1d ago
-
----
-
-**[❄️🤖 Makkah’s Smart Cold Refreshment Robot | Future Service](https://www.youtube.com/watch?v=7sBCHV2Ynh0)**
-
-A futuristic robot brings cool refreshments directly to pilgrims in Makkah. ❄️   From safe preparation to serving multiple family ...
-
-📺 MISTER CROWN 👑
-
-👁️ 7K • 👍 547 • ⏱️ 0:11 • 1d ago
-
----
-
-**[Unitree Robotics Surges in Shanghai Debut](https://www.youtube.com/watch?v=3kN2r63VpoE)**
-
-Unitree Robotics shares surged in their Shanghai trading debut after the company raised 6.1 billion yuan in an initial public ...
-
-📺 Bloomberg Tech
-
-👁️ 5K • 👍 77 • 💬 13 • ⏱️ 2:25 • 1d ago
+👁️ 227K • 👍 1K • 💬 6 • ⏱️ 0:09 • 8h ago
 
 ---
 
@@ -280,7 +218,47 @@ Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the s
 
 📺 Unitree Robotics
 
-👁️ 2.3M • 👍 2K • 💬 433 • ⏱️ 0:31 • 4d ago
+👁️ 2.4M • 👍 2K • 💬 433 • ⏱️ 0:31 • 4d ago
+
+---
+
+**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
+
+Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
+
+📺 ABC News
+
+👁️ 80K • 👍 2K • 💬 285 • ⏱️ 1:36 • 1d ago
+
+---
+
+**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
+
+Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
+
+📺 Dr Ben Miles
+
+👁️ 41K • 👍 5K • 💬 13 • ⏱️ 1:40 • 2h ago
+
+---
+
+**[❄️🤖 Makkah’s Smart Cold Refreshment Robot | Future Service](https://www.youtube.com/watch?v=7sBCHV2Ynh0)**
+
+A futuristic robot brings cool refreshments directly to pilgrims in Makkah. ❄️   From safe preparation to serving multiple family ...
+
+📺 MISTER CROWN 👑
+
+👁️ 10K • 👍 891 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Unitree Robotics Surges in Shanghai Debut](https://www.youtube.com/watch?v=3kN2r63VpoE)**
+
+Unitree Robotics shares surged in their Shanghai trading debut after the company raised 6.1 billion yuan in an initial public ...
+
+📺 Bloomberg Tech
+
+👁️ 5K • 👍 79 • 💬 13 • ⏱️ 2:25 • 2d ago
 
 ---
 
@@ -291,6 +269,24 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 📺 TIME
 
 👁️ 247K • 👍 3K • 💬 627 • ⏱️ 10:16 • 6d ago
+
+---
+
+**[Can these robot arms become physical therapists? #trendingshorts #tech #ai #robotics #research](https://www.youtube.com/watch?v=ck0e-aR1qGU)**
+
+MIT engineers have developed a dual-arm robotic system that learns physical therapy techniques directly from human therapists ...
+
+📺 The Rundown AI
+
+👁️ 662 • 👍 40 • ⏱️ 1:02 • 42m ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 134K • 👍 6K • 💬 58 • ⏱️ 1:28 • 2d ago
 
 ---
 
