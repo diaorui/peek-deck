@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T09:36:24.490332+00:00'
+updated: '2026-08-21T10:32:06.357690+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 09:36 UTC  
+**Last Updated:** August 21, 2026 at 10:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-16h ago
+17h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 14h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 15h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 13h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 14h ago
 
 ---
 
@@ -106,7 +106,7 @@ The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have comm
 
 I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves and talks. Runs on Autonomous OS we built for robots. We open source everything and here's the short version. Our Autonomous Lamp The arm 5 degrees of freedom. Five STS3215 bus servos, daisy-chained on one TTL bus, into the board through a USB adapter. One cable for the whole arm. No driver board. First job: servo IDs. New STS3215s ship as ID 1, so I gave each a unique ID one at a time, then calibrated homing. Homing lives in the servo EEPROM, so it survives a reflash. Do it with the arm open. Power Single 12 V / 5 A adaptor, ~42 W sustained. A buck steps to 5 V for the board and LED ring. Amp runs on 12 V directly. Board draws ~1.8 A, spikes to 2.5 A at boot. Ring gets capped near 1 A, full white 64 LEDs would pull 3.84 A and brown out the buck. All grounds star-point at the buck output on their own wires. Sound Moving audio off the onboard codec killed most of the noise. A USB DAC feeds the amp through a short twisted lead, run away from the 12 V harness. The onboard codec stays wired for the sensing mic only. Two honest gotchas: the sensing mic is the MEMS mic on the OrangePi board, so it has to be desoldered and re-mounted in the base, fiddly, but skip it and you lose ambient sensing. And the buck I used still adds a faint hiss of its own, it's on the list to swap out. Software Cleanest part. Flash Linux, run the installer, ~15 minutes to Autonomous OS. The robot declares its hardware in the ROBOT.md in our repo and the OS mounts only that. Behaviors are markdown skills. Type what you want in the app, it writes the skill, live on the next conversation. The 1st prototype The final design What's inside the Lamp 3D printed parts
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 **[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Bloomberg.com • 2d ago
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 11h ago
+Ars Technica • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 1K • ⏱️ 0:09 • 36m ago
+👁️ 1K • ⏱️ 0:09 • 1h ago
 
 ---
 
@@ -264,7 +264,7 @@ A cute futuristic robot brings fresh fruit service to an entire family in Makkah
 
 📺 MISTER CROWN 👑
 
-👁️ 274K • 👍 9K • 💬 3 • ⏱️ 0:11 • 18h ago
+👁️ 274K • 👍 9K • 💬 3 • ⏱️ 0:11 • 19h ago
 
 ---
 

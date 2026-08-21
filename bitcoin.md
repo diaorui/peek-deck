@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T09:36:24.482200+00:00'
+updated: '2026-08-21T10:32:06.351417+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 09:36 UTC  
+**Last Updated:** August 21, 2026 at 10:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,603.40
+### $78,216.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +8.1%  
-**7d:** +22.9%  
-**30d:** +19.1%  
-**90d:** +0.6%  
-**1y:** -33.7%  
+**24h:** +8.3%  
+**7d:** +23.5%  
+**30d:** +19.6%  
+**90d:** +1.0%  
+**1y:** -33.4%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They will buy at the price they deserve.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ They will buy at the price they deserve.
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-4h ago
+5h ago
 
 ---
 
@@ -111,19 +111,19 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-7h ago
+8h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-1h ago
+2h ago
 
 ---
 
 **[80k+ today](https://www.reddit.com/r/Bitcoin/comments/1vuaxcj/80k_today/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-14h ago
+15h ago
 
 ---
 
@@ -139,7 +139,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Had a somber thought, the people affected by the cold card exploit gotta be hurt
 
 let's GOOOOOOOOOOOOO !!!!!
 
-34m ago
+1h ago
 
 ---
 
@@ -159,13 +159,13 @@ let's GOOOOOOOOOOOOO !!!!!
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
 **[Bitcoin, ether and solana climb as another $1 billion shorts get wiped out](https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out)**
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,13 +173,13 @@ CoinDesk • 4h ago
 
 $SanDisk (SNDK.US)$ you heard it first in MooMoo platform. You all so lucky [Onlooker][Cheerlead][Cheerlead][Cheerlead][Cheerlead]
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
 **[Bitcoin Surge - Long Term Buyers Celebrate](https://www.investing.com/analysis/bitcoin-surge--long-term-buyers-celebrate-200686239)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -187,13 +187,13 @@ Investing.com • 2h ago
 
 Bitcoin Core demonstrates pure open-source functioning at scale: public pull requests, formal ACK language, multi-year consensus, and no privileged caste. The contrast with restricted licensing reveals what incentives actually produce verification.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
 **[MSTR Stock Leads Crypto Stocks Higher as Bitcoin Passes $71K](https://www.barchart.com/story/news/3957398/mstr-stock-leads-crypto-stocks-higher-as-bitcoin-passes-71k)**
 
-Barchart.com • 13h ago
+Barchart.com • 14h ago
 
 ---
 
@@ -237,7 +237,7 @@ Bitcoin trades near $63,000 going into its worst month on record. Here's where w
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 19 • 💬 0 • 3d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 19 • 💬 0 • 4d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -246,6 +246,12 @@ Independent European community operating a coordinator for the Mostro peer-to-pe
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
 ⬆️ 3 • 💬 2 • 4d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+
+---
+
+**[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
+
+⬆️ 2 • 💬 1 • 2h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -261,13 +267,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 12h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
-
----
-
-**[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
-
-⬆️ 1 • 💬 0 • 1h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 0 • 13h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -297,7 +297,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 135 • 💬 2 • ⏱️ 12:16 • 14h ago
+👁️ 4K • 👍 135 • 💬 2 • ⏱️ 12:16 • 15h ago
 
 ---
 
@@ -307,7 +307,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 20K • 👍 817 • 💬 94 • ⏱️ 11:16 • 10h ago
+👁️ 20K • 👍 817 • 💬 94 • ⏱️ 11:16 • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ CharlesSchwab's Adam Lynch analyzes the surge in Bitcoin brought by rhetoric fro
 
 📺 Schwab Network
 
-👁️ 5K • 👍 59 • 💬 2 • ⏱️ 6:26 • 11h ago
+👁️ 5K • 👍 59 • 💬 2 • ⏱️ 6:26 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 25K • 👍 278 • 💬 14 • ⏱️ 4:31 • 14h ago
+👁️ 25K • 👍 278 • 💬 14 • ⏱️ 4:31 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 708 • 💬 10 • ⏱️ 11:02 • 4h ago
+👁️ 7K • 👍 708 • 💬 10 • ⏱️ 11:02 • 5h ago
 
 ---
 
@@ -357,7 +357,7 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 CNBC Television
 
-👁️ 51K • 👍 888 • 💬 134 • ⏱️ 7:54 • 20h ago
+👁️ 51K • 👍 888 • 💬 134 • ⏱️ 7:54 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 410 • 💬 52 • ⏱️ 14:53 • 16h ago
+👁️ 12K • 👍 410 • 💬 52 • ⏱️ 14:53 • 17h ago
 
 ---
 
