@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T11:00:06.358400+00:00'
+updated: '2026-08-21T11:34:01.094465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 11:00 UTC  
+**Last Updated:** August 21, 2026 at 11:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,216.04
+### $76,711.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +8.3%  
-**7d:** +23.5%  
-**30d:** +19.6%  
-**90d:** +1.0%  
-**1y:** -33.4%  
+**24h:** +6.8%  
+**7d:** +21.8%  
+**30d:** +17.9%  
+**90d:** -0.4%  
+**1y:** -34.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ They will buy at the price they deserve.
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,25 +111,25 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-8h ago
+9h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-1h ago
+2h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-2h ago
+3h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-15h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 **[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -161,13 +161,13 @@ Reuters • 15h ago
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
 **[Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
 
-Barron's • 46m ago
+Barron's • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 46m ago
 
 The flagship digital currency has enjoyed a strong week boosted by several contributing factors.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 2h ago
 
 @Dumb Money Space Ape 6256 Views|1 Like
 
-Moomoo • 36m ago
+Moomoo • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Moomoo • 36m ago
 
 Bitcoin has stormed back from a months-long downtrend, tearing through $79,500 on Friday as a wave of short covering collided with a US Treasury liquidity push and a fresh White House embrace of the crypto industry.View on euronews
 
-Yahoo Finance UK • 17m ago
+Yahoo Finance UK • 51m ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance UK • 17m ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -263,7 +263,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 13h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 14h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -293,7 +293,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 135 • 💬 2 • ⏱️ 12:16 • 15h ago
+👁️ 4K • 👍 135 • 💬 2 • ⏱️ 12:16 • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ CharlesSchwab's Adam Lynch analyzes the surge in Bitcoin brought by rhetoric fro
 
 📺 Schwab Network
 
-👁️ 5K • 👍 59 • 💬 2 • ⏱️ 6:26 • 12h ago
+👁️ 5K • 👍 59 • 💬 2 • ⏱️ 6:26 • 13h ago
 
 ---
 
@@ -323,7 +323,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 25K • 👍 278 • 💬 14 • ⏱️ 4:31 • 15h ago
+👁️ 25K • 👍 278 • 💬 14 • ⏱️ 4:31 • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 708 • 💬 10 • ⏱️ 11:02 • 5h ago
+👁️ 7K • 👍 708 • 💬 10 • ⏱️ 11:02 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 CNBC Television
 
-👁️ 51K • 👍 888 • 💬 134 • ⏱️ 7:54 • 21h ago
+👁️ 51K • 👍 888 • 💬 134 • ⏱️ 7:54 • 22h ago
 
 ---
 

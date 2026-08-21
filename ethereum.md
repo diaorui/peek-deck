@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T11:00:06.364615+00:00'
+updated: '2026-08-21T11:34:01.100601+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 11:00 UTC  
+**Last Updated:** August 21, 2026 at 11:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** +27.5%  
-**30d:** +27.8%  
-**90d:** +14.3%  
-**1y:** -50.3%  
+**24h:** +3.5%  
+**7d:** +25.8%  
+**30d:** +26.1%  
+**90d:** +12.8%  
+**1y:** -51.0%  
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 3d ago
 
 ---
 
@@ -142,7 +142,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 2d ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fortune • 2d ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 7m ago
+The Motley Fool • 41m ago
 
 ---
 
@@ -208,7 +208,7 @@ Bitcoin Foundation • 23h ago
 
 @DustyBC Crypto 3525 Views
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 11K • 👍 307 • 💬 58 • ⏱️ 41:59 • 15h ago
+👁️ 11K • 👍 307 • 💬 58 • ⏱️ 41:59 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 715 • 💬 167 • ⏱️ 49:05 • 22h ago
+👁️ 8K • 👍 715 • 💬 167 • ⏱️ 49:05 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 104K • 👍 7K • 💬 279 • ⏱️ 18:20 • 18h ago
+👁️ 104K • 👍 7K • 💬 279 • ⏱️ 18:20 • 19h ago
 
 ---
 
