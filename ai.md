@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T15:33:23.201905+00:00'
+updated: '2026-08-21T16:34:24.856246+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - social
 - repositories
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 15:33 UTC  
+**Last Updated:** August 21, 2026 at 16:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 12h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 13h ago
 
 ---
 
@@ -49,31 +49,13 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-7h ago
+8h ago
 
 ---
 
-**[Anyone else have these "Oh my god" moments with AI every couple weeks?](https://www.reddit.com/r/artificial/comments/1vu59jb/anyone_else_have_these_oh_my_god_moments_with_ai/)**
+**[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
-
-11h ago
-
----
-
-**[Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?](https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/)**
-
-Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
-
-6h ago
-
----
-
-**[A fixed evaluator can still become the target of an agent loop](https://www.reddit.com/r/artificial/comments/1vud8d2/a_fixed_evaluator_can_still_become_the_target_of/)**
-
-Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
-
-4h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 2h ago
 
 ---
 
@@ -81,7 +63,39 @@ Fixing an evaluator before an agent starts iterating prevents the goalposts from
 
 Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
 
-2h ago
+3h ago
+
+---
+
+**[Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?](https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/)**
+
+Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
+
+7h ago
+
+---
+
+**[Let scan is trending hard today: hot take thread](https://www.reddit.com/r/artificial/comments/1vuj4o6/let_scan_is_trending_hard_today_hot_take_thread/)**
+
+Everyone's talking about Let scan right now. The main story: aI companies destroy physical books, let's scan rare books before it's too late. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?
+
+1h ago
+
+---
+
+**[Anyone else have these "Oh my god" moments with AI every couple weeks?](https://www.reddit.com/r/artificial/comments/1vu59jb/anyone_else_have_these_oh_my_god_moments_with_ai/)**
+
+I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
+
+12h ago
+
+---
+
+**[Maharlika's CEO Put a Number on AI Job Losses — 1.9M Filipino BPO Jobs. The Real Question Is Who's Liable When It Breaks.](https://www.reddit.com/r/artificial/comments/1vui5vd/maharlikas_ceo_put_a_number_on_ai_job_losses_19m/)**
+
+TL;DR: Maharlika's CEO puts a number on AI job risk — 1.9M Filipino BPO jobs. The real fault line isn't skill, it's who's accountable when the machine gets it wrong. Consing runs the Philippines' sovereign wealth fund, and he doesn't dodge the number — he states it plainly on camera. What's easy to miss underneath it: Outsource Accelerator's own data shows the global outsourcing industry is still growing overall, even as AI quietly thins out individual roles inside that growth. An industry chart can look completely healthy while the people under it get priced out one at a time. That's the actual fracture point — not whether the work can be automated, but whether there's still a human name attached when the automation gets something wrong. That fracture point — a name attached when things go wrong — isn't a new idea to me. I watched it play out somewhere else entirely, thirty years ago. I was reminded of that incident of the Highland Towers residential block on top of a hill that collapsed back in 1993. Huge local news in Malaysia. 48 died. The uproar caused the authority to cast the blame on the property developer and the consultants. And most of the liability landed squarely on the Civil/Structural Consulting Engineer. Consequently, he was sued and fined a huge sum of damages. His Professional Engineer (PE) license revoked, and he went into bankruptcy. Most of us in the construction line was shaken by the news. We often joked about the disproportionate liability a C&S consultant carries compared to other consultants. If there's a paint job failure on the building — causing harm to the occupant — the Architect might get sued for public hazard for a time. If there's a machinery malfunctioned in the compound inflicting bodily damage to someone, the mechanical/electrical engineer might get hammered for just a period. But to the structural integrity of a building? It's a lifetime liability to the C&S Engineer — even after he retired decades later. I can still remember the indignant tone of my C&S Consultant friend, as he recounts that Highland Tower story — how empathetic he was towards that disgraced PE. He thinks it was hugely unfair to condemn the poor guy because — logically speaking — they were meant to only design according to the existing condition at that time. And during that time, there wasn't any surrounding development. He said: they are not prophets — how do they know what will happen in the future? Now let's flip the script. Imagine if AI is doing the designing. Who should we sue if Highland Tower 2.0 happens? To sue means you need a defendant human being to be liable, isn't it? Thank God for the PE Board sanctioned Engineers to be in place. That's the regulatory moat we're talking about. https://preview.redd.it/hydd0vqyoqkh1.jpg?width=1024&format=pjpg&auto=webp&s=19760958e83e8ddc09e44b5f5947fd58a5549d6f __________ At this point I don't ask whether AI can do the job. I ask a different question — if it screws up, whose signature is on the line? A VC I featured a few weeks back named the exact same short list — physical presence, licensing gates, relationships nobody can copy-paste — as the only moats AI genuinely can't absorb; worth the four minutes if that idea's new to you. Drop your take below 👇 Clip credit: John Dang / Breaking Ground PH — full video on their channel. DM for credit or removal requests.
+
+1h ago
 
 ---
 
@@ -89,31 +103,15 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 To make a long story short: My stepfather-in-law was laid off in January. My husband and I both begrudgingly tolerate the man. His ego and quirks make him difficult to be around, but fortunately, we only have to see him once or twice a year (they live five hours away) on our obligatory visits to visit my mother-in-law. Here’s the kicker. On month eight of unemployment, he decided to start what I can only comfortably describe as a poor attempt at AI-enabled grifting. He started by generating Toby Keith-esque country songs and posting full-length “albums” on Facebook. My husband and I rolled our eyes, thinking it was just a “local boomer discovers AI” sort of situation. He’s since piloted a LinkedIn-style leadership motivation series of AI-generated texts and images, the pairs of which almost never make sense. Again, we mostly ignored it. But then, the books started. Which meant I was dragged into it. For a little extra color — I’m a career journalist turned specialized corporate content writer/strategist by day. By night (mostly early mornings, actually), I write novels. I’ve spent the last six years working daily on a series that means the world to me, and I’m currently in the trenches of my seventh round of edits on the first book, with the full intention of querying my best work (I got so close in the last round, but my word count sank that ship - lesson learned!). I take this hobby as seriously as I take my daytime career. I am no master of this craft. It’s a day-in and day-out process to become 1% better at storytelling every time I sit down to write or edit. So when my father-in-law unceremoniously sent me his AI-generated manuscript wanting to “get my thoughts,” I was torn. Of course, in nearly any other situation, I’d be more than happy to review a friend or family member’s writing. I do it all the time! But this felt different. He’s fully intent on self-publishing this novel. Do I think it’ll sell? No. I don’t! I can’t say I feel “threatened” by another writer, or that I’m worried this book is going to be a runaway Amazon success. I read it. It’s… fine. The prose isn’t egregious because the AI was decently well-prompted. The characters have no arc. The plot barely moves. It’s 90% atmosphere, 5% police procedural tropes, and 5% repeated descriptions that are immediate AI red flags to a semi-trained eye. My mother-in-law has urged me to “please be nice” about the whole thing. She knows that even though I work for a company that plays in the AI space (we’re healthcare-adjacent), I have strong convictions about the use of gen-AI for creative work, especially when someone is trying to pass off the work as their own. We’re visiting in a few weeks, and they “can’t wait to talk to me” about this. Writer to… writer. I guess. My question for you all: What do I owe him in this inevitable conversation? Has anyone else encountered a situation where they’ve been asked to review/critique someone’s AI-generated work? I feel icky even having read it, but I really struggle pushing back on this guy. He’s exhausting to be around as-is, and I’d prefer to keep things as light as possible, just to get through the trip.
 
-14h ago
+15h ago
 
 ---
 
-**[I wish AI slide demos started with the kind of mess I actually have](https://www.reddit.com/r/artificial/comments/1vu4c6d/i_wish_ai_slide_demos_started_with_the_kind_of/)**
+**[A fixed evaluator can still become the target of an agent loop](https://www.reddit.com/r/artificial/comments/1vud8d2/a_fixed_evaluator_can_still_become_the_target_of/)**
 
-Most AI slide demos feel kind of unrealistic to me. They usually start with a clean prompt and a clear topic, but that’s rarely what I’m working with. Most of the time I have a PDF, a few links, scattered notes, some numbers, and only a rough idea of what the deck should say. And honestly, that’s where I want to know if an AI slide tool is actually useful. Can it figure out what matters and turn that mess into something coherent, or do I still need to clean everything up first? At that point I might as well just make the deck myself. Has anyone found a slide tool that’s actually good with messy source material?
+Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
 
-12h ago
-
----
-
-**[Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile](https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/)**
-
-Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up. The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually targets this class of consumer-grade edge AI hardware. Ukraine says they've now catalogued close to 6,000 foreign components across 200+ Russian weapons systems, so this isn't a one-off. Feels like export control regimes were built around "obviously military" or "obviously datacenter" hardware, and completely miss the middle category: cheap, widely available edge AI modules that are genuinely useful for robotics/drones/normal stuff but also trivially good enough to guide a missile. Anyone know if there's an actual policy fix being discussed for that gap, or is it just going to stay a whack-a-mole enforcement problem?
-
-1d ago
-
----
-
-**[Good results teaching an open weight model how to reason about a new domain](https://www.reddit.com/r/artificial/comments/1vuhgie/good_results_teaching_an_open_weight_model_how_to/)**
-
-Spent some time looking into how to teach a model a new domain. Sharing a write-up for those who are interested in this topic: https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain
-
-1h ago
+5h ago
 
 ---
 
@@ -125,21 +123,27 @@ Spent some time looking into how to teach a model a new domain. Sharing a write-
 
 Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Ars Technica • 4h ago
+Ars Technica • 5h ago
 
 ---
 
 **[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
-**[AI spending could EXPLODE to $14T by 2030, tech expert predicts](https://www.foxnews.com/video/6403814078112)**
+**[AI-powered terrain recognition helps cyborg cockroaches navigate faster](https://techxplore.com/news/2026-08-ai-powered-terrain-recognition-cyborg.html)**
 
-The Futurum Group CEO Daniel Newman joins Stuart Varney to discuss massive AI CapEx forecasts, predicting cumulative data center spending could reach $14T by 2030 due to skyrocketing demand.
+Tech Xplore • 54m ago
 
-Fox News • 1h ago
+---
+
+**[Anthropic leads the foundation models at the heart of the AI wave, says early investor Matt Murphy](https://www.cnbc.com/video/2026/08/21/anthropic-leads-the-foundation-models-at-the-heart-of-the-ai-wave-says-early-investor-matt-murphy.html)**
+
+Matt Murphy, partner at Menlos Ventures and early Anthropic investor, joins 'Squawk on the Street' to discuss Anthropic ahead of going public, the steep rise of corporate AI adoption and more.
+
+CNBC • 53m ago
 
 ---
 
@@ -155,23 +159,15 @@ CNBC • 1d ago
 
 Trump continued to be bullish on artificial intelligence during a Wednesday speech, during which he urged governors and mayors to accept data centers in their communities.
 
-Fox Business • 3h ago
+Fox Business • 4h ago
 
 ---
 
-**[Google, OpenAI among companies to comply with Texas AI data center rules](https://www.usatoday.com/story/news/state/texas/2026/08/21/which-tech-ai-companies-are-complying-with-texas-data-center-rules/91373947007/)**
+**[Tech responds to America's anti-AI backlash by blaming China. Good luck with that.](https://www.businessinsider.com/china-data-center-ai-backlash-tech-messaging-2026-8)**
 
-Gov. Greg Abbott says Google, Meta, OpenAI, Amazon, Anthropic and dozens more will follow grid, water and cost rules for data centers in the state.
+There are lots of reasons Americans overwhelmingly oppose data centers. But for some tech types, it's just easier to blame China.
 
-USA Today • 1h ago
-
----
-
-**[AI Note-Takers Turn Routine Meetings Into Potential Legal Evidence](https://www.forbes.com/sites/timbajarin/2026/08/21/ai-note-takers-turn-routine-meetings-into-potential-legal-evidence/)**
-
-AI note-takers boost productivity, but transcripts can create privacy, consent and legal-discovery risks businesses must manage.
-
-Forbes • 1h ago
+Business Insider • 8m ago
 
 ---
 
@@ -179,21 +175,23 @@ Forbes • 1h ago
 
 Did you mix something up? Maybe you’re just “hallucinating.”
 
-The Atlantic • 17h ago
+The Atlantic • 18h ago
 
 ---
 
-**[Exclusive: FTC urged to investigate AI firms for destroying books](https://www.axios.com/2026/08/21/ftc-ai-companies-book-destruction-investigate)**
+**[NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)**
 
-Axios • 2h ago
+A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
+
+NVIDIA Developer • 3h ago
 
 ---
 
-**[Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry](https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html)**
+**[Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws](https://apnews.com/article/ai-literacy-schools-education-4fb9f2c0240993499870f4f204bf41c1)**
 
-Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.
+AI chatbots have become the bane of teachers everywhere. But a growing number of U.S. public schools are now encouraging a new strategy: Bringing AI into the classroom, partly so students can see its shortcomings.
 
-CNBC • 16h ago
+AP News • 12h ago
 
 ---
 
@@ -205,7 +203,13 @@ CNBC • 16h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1022 • 💬 569 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1024 • 💬 571 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+
+---
+
+**[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
+
+⬆️ 605 • 💬 371 • 6h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -213,13 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 377 • 💬 293 • 12h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
-
----
-
-**[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
-
-⬆️ 351 • 💬 266 • 5h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 382 • 💬 325 • 13h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -227,13 +225,13 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 My personal portfolio site and blog.
 
-⬆️ 346 • 💬 198 • 20h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 351 • 💬 202 • 21h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 313 • 💬 500 • 2d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 313 • 💬 501 • 2d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -249,7 +247,15 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 207 • 💬 254 • 2d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 207 • 💬 256 • 2d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+
+---
+
+**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
+
+Trying to obfuscate the web is a bad, pointless idea
+
+⬆️ 197 • 💬 154 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -258,14 +264,6 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
 ⬆️ 197 • 💬 115 • 2d ago • [linear.app](https://linear.app/data)
-
----
-
-**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
-
-Trying to obfuscate the web is a bad, pointless idea
-
-⬆️ 188 • 💬 150 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -281,7 +279,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 181 • 💬 196 • 15h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 182 • 💬 202 • 16h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -305,7 +303,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 390K • 👍 7K • 💬 308 • ⏱️ 12:08 • 15h ago
+👁️ 390K • 👍 7K • 💬 308 • ⏱️ 12:08 • 16h ago
 
 ---
 
@@ -315,7 +313,7 @@ Scammers are using impersonations of celebrities, politicians and trusted public
 
 📺 ABC News (Australia)
 
-👁️ 5K • 👍 46 • ⏱️ 2:34 • 11h ago
+👁️ 5K • 👍 46 • ⏱️ 2:34 • 12h ago
 
 ---
 
@@ -335,7 +333,7 @@ The worst side of the internet imaginable... Please subscribe if you havent! Alm
 
 📺 Max
 
-👁️ 149K • 👍 12K • 💬 183 • ⏱️ 23:46 • 18h ago
+👁️ 149K • 👍 12K • 💬 183 • ⏱️ 23:46 • 19h ago
 
 ---
 
@@ -363,7 +361,7 @@ Emily Chang meets artificial intelligence pioneer Fei-Fei Li to discuss her inno
 
 📺 Ben Esherick
 
-👁️ 256K • 👍 20K • 💬 125 • ⏱️ 0:37 • 17h ago
+👁️ 256K • 👍 20K • 💬 125 • ⏱️ 0:37 • 18h ago
 
 ---
 
@@ -373,7 +371,7 @@ ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taug
 
 📺 YourWeeklyCrew
 
-👁️ 16K • 👍 295 • 💬 11 • ⏱️ 0:47 • 22h ago
+👁️ 16K • 👍 295 • 💬 11 • ⏱️ 0:47 • 23h ago
 
 ---
 
@@ -423,7 +421,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 784 • 6h ago
+⬇️ 18,193 • ❤️ 784 • 7h ago
 
 ---
 
@@ -507,7 +505,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 396 • 14h ago
+⬇️ 123,956 • ❤️ 396 • 15h ago
 
 ---
 
@@ -670,7 +668,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 14h ago
+⭐ 14.0k • 🔱 1.7k • 15h ago
 
 ---
 
@@ -680,7 +678,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 1h ago
+⭐ 8.8k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -698,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 1h ago
+⭐ 3.5k • 🔱 579 • 2h ago
 
 ---
 
@@ -718,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 346 • 5h ago
+⭐ 2.8k • 🔱 346 • 6h ago
 
 ---
 
@@ -728,7 +726,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 183 • 6h ago
+⭐ 2.2k • 🔱 183 • 7h ago
 
 ---
 
@@ -738,7 +736,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.0k • 🔱 211 • 47m ago
+⭐ 2.0k • 🔱 211 • 1h ago
 
 ---
 
@@ -748,7 +746,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 13h ago
+⭐ 2.0k • 🔱 182 • 14h ago
 
 ---
 

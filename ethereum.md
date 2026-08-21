@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T15:33:23.216522+00:00'
+updated: '2026-08-21T16:34:24.869375+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 15:33 UTC  
+**Last Updated:** August 21, 2026 at 16:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,389.38
+### $2,389.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +27.1%  
-**30d:** +27.5%  
-**90d:** +14.0%  
-**1y:** -50.5%  
+**24h:** +2.3%  
+**7d:** +27.5%  
+**30d:** +27.9%  
+**90d:** +14.4%  
+**1y:** -50.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 14h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 2d ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 3d ago
 
 ---
 
@@ -150,25 +150,19 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
 
-Barron's • 23h ago
+Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
 
----
-
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
-
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
-
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://www.tradingview.com/news/cryptonews:d70328f5b094b:0-ethereum-etf-pulls-221m-as-eth-eyes-another-breakout/)**
+**[Tom Lee Spots ‘Good Sign’ as Ethereum ETFs Buy $189M in Biggest Day for 10 Months](https://finance.yahoo.com/markets/crypto/articles/tom-lee-spots-good-sign-144751709.html)**
 
-Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with ab…
+U.S.-listed Ethereum ETFs attracted their biggest daily inflow since October 2025. Tom Lee called the surge a “good sign” as Ethereum climbed approximately 30% over ...
 
-TradingView • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -176,15 +170,15 @@ TradingView • 4h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
-**[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
+**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://www.tradingview.com/news/cryptonews:d70328f5b094b:0-ethereum-etf-pulls-221m-as-eth-eyes-another-breakout/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with ab…
 
-Fortune • 1h ago
+TradingView • 5h ago
 
 ---
 
@@ -200,7 +194,15 @@ MarketForces Africa • 1d ago
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-Ethereum Foundation Blog • 22h ago
+Ethereum Foundation Blog • 23h ago
+
+---
+
+**[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
 
 ---
 
@@ -208,7 +210,7 @@ Ethereum Foundation Blog • 22h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -216,15 +218,15 @@ The Motley Fool • 4h ago
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-CryptoSlate • 14h ago
+CryptoSlate • 15h ago
 
 ---
 
-**[Ethereum Price Forecast: Bulls defend rally above $2,300 despite rising profit-taking](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bulls-defend-rally-above-2-300-despite-rising-profit-taking-202608202130)**
+**[BlackRock adds 11,098 Bitcoin and 132,769 Ethereum through ETF operations in two-day stretch](https://cryptobriefing.com/blackrock-bitcoin-ethereum-billion-purchase/)**
 
-Ethereum (ETH) continued its rally on Thursday as capital gradually flowed back into the derivatives market after the recent leverage flush.
+BlackRock acquired 11,098 Bitcoin and 132,769 Ethereum in two days through its IBIT and ETHA spot ETFs, reflecting strong institutional demand
 
-FXStreet • 18h ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -238,7 +240,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 672 • 💬 25 • ⏱️ 11:56 • 18h ago
+👁️ 13K • 👍 672 • 💬 25 • ⏱️ 11:56 • 19h ago
 
 ---
 
@@ -248,7 +250,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 251 • 👍 25 • ⏱️ 1:25 • 1h ago
+👁️ 251 • 👍 25 • ⏱️ 1:25 • 2h ago
 
 ---
 
@@ -258,7 +260,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 342 • 💬 54 • ⏱️ 26:07 • 13h ago
+👁️ 9K • 👍 342 • 💬 54 • ⏱️ 26:07 • 14h ago
 
 ---
 
@@ -268,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 388 • 👍 29 • ⏱️ 5:27 • 6h ago
+👁️ 388 • 👍 29 • ⏱️ 5:27 • 7h ago
 
 ---
 
@@ -278,7 +280,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 14K • 👍 340 • 💬 56 • ⏱️ 41:59 • 20h ago
+👁️ 14K • 👍 340 • 💬 56 • ⏱️ 41:59 • 21h ago
 
 ---
 
@@ -308,7 +310,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 231 • 💬 40 • ⏱️ 16:48 • 2d ago
+👁️ 8K • 👍 231 • 💬 40 • ⏱️ 16:48 • 3d ago
 
 ---
 
@@ -318,7 +320,7 @@ etoro founder and CEO Yoni Assia explains why he believes AI and crypto are a na
 
 📺 AllinCrypto
 
-👁️ 93 • 👍 9 • 💬 17 • ⏱️ 1:09 • 36m ago
+👁️ 93 • 👍 9 • 💬 17 • ⏱️ 1:09 • 1h ago
 
 ---
 

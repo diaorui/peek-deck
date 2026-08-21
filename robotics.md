@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T15:33:23.219734+00:00'
+updated: '2026-08-21T16:34:24.872290+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 15:33 UTC  
+**Last Updated:** August 21, 2026 at 16:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-22h ago
+23h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 20h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 21h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 19h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 20h ago
 
 ---
 
@@ -118,7 +118,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 17h ago
+Ars Technica • 18h ago
 
 ---
 
@@ -128,27 +128,25 @@ WSJ • 2d ago
 
 ---
 
+**[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
+
+WSJ • 44m ago
+
+---
+
+**[Fun to Watch, but How Does a High-Jumping Humanoid Help Humanity?](https://spectrum.ieee.org/video-friday-unitree-superhuman)**
+
+Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
+
+IEEE Spectrum • 32m ago
+
+---
+
 **[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 3h ago
-
----
-
-**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
-
-While robots are getting pretty good at sprinting, stopping is apparently still an issue.
-
-Mashable • 3h ago
-
----
-
-**[Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics](https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/)**
-
-Druckenmiller has never had a down year in all his years as a professional investor.
-
-The Motley Fool • 7h ago
+Al Jazeera • 4h ago
 
 ---
 
@@ -160,33 +158,35 @@ KEYE • 1d ago
 
 ---
 
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 7h ago
+
+---
+
+**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
+
+While robots are getting pretty good at sprinting, stopping is apparently still an issue.
+
+Mashable • 4h ago
+
+---
+
 **[Bedrock Robotics deploys fully autonomous excavators on jobsites](https://www.constructiondive.com/news/bedrock-robotics-fully-autonomous-excavators-jobsites/828267/)**
 
 The San Francisco-based company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.
 
-Construction Dive • 1d ago
+Construction Dive • 2d ago
 
 ---
 
-**[From robot dogs to helpers, China puts robotics ambitions on display at world conference - ABC News](https://abcnews.com/Technology/wireStory/robot-dogs-helpers-china-puts-robotics-ambitions-display-135767418)**
+**[Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics](https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/)**
 
-China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry
+Druckenmiller has never had a down year in all his years as a professional investor.
 
-ABC News - Breaking News, Latest News and Videos • 2d ago
-
----
-
-**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/fda-authorizes-robotic-blood-draw-device)**
-
-A first-of-its-kind robotic device can now autonomously draw blood from patients, following authorization from the FDA. Here’s how it works.
-
-LiveNOW from FOX • 1d ago
-
----
-
-**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
-
-The New York Times • 1d ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -220,7 +220,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 9K • 👍 956 • 💬 3 • ⏱️ 1:40 • 33m ago
+👁️ 9K • 👍 956 • 💬 3 • ⏱️ 1:40 • 1h ago
 
 ---
 
@@ -230,7 +230,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 151K • 👍 958 • 💬 5 • ⏱️ 0:09 • 6h ago
+👁️ 151K • 👍 958 • 💬 5 • ⏱️ 0:09 • 7h ago
 
 ---
 

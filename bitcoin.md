@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T15:33:23.210413+00:00'
+updated: '2026-08-21T16:34:24.863975+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 15:33 UTC  
+**Last Updated:** August 21, 2026 at 16:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,178.24
+### $77,335.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.4%  
-**7d:** +22.3%  
-**30d:** +18.5%  
-**90d:** +0.0%  
-**1y:** -34.0%  
+**24h:** +6.3%  
+**7d:** +22.6%  
+**30d:** +18.8%  
+**90d:** +0.3%  
+**1y:** -33.9%  
 
 ---
 
@@ -77,51 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
+**[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-7h ago
-
----
-
-**[I tried man, I really tried.................](https://www.reddit.com/r/Bitcoin/comments/1vu5c5y/i_tried_man_i_really_tried/)**
-
-They will buy at the price they deserve.
-
-11h ago
+2h ago
 
 ---
 
-**[You can thank me guys!](https://www.reddit.com/r/Bitcoin/comments/1vu7bwq/you_can_thank_me_guys/)**
+**[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
-
-10h ago
+3h ago
 
 ---
 
-**[This is surreal](https://www.reddit.com/r/Bitcoin/comments/1vu2goc/this_is_surreal/)**
+**[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
-
-14h ago
-
----
-
-**[I don't think the bottom is in](https://www.reddit.com/r/Bitcoin/comments/1vu3kxs/i_dont_think_the_bottom_is_in/)**
-
-Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
-
-13h ago
+5h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
-
-6h ago
-
----
-
-**[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
 7h ago
 
@@ -129,21 +103,41 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-6h ago
+7h ago
 
 ---
 
-**[for some people this is the way](https://www.reddit.com/r/Bitcoin/comments/1vubxeb/for_some_people_this_is_the_way/)**
+**[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-5h ago
+8h ago
 
 ---
 
-**[*You wake up as Laszlo Hanyecz, you're about to pay 10,000 bitcoins for a Pizza.](https://www.reddit.com/r/Bitcoin/comments/1vtsoxo/you_wake_up_as_laszlo_hanyecz_youre_about_to_pay/)**
+**[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
+8h ago
 
-20h ago
+---
+
+**[You can thank me guys!](https://www.reddit.com/r/Bitcoin/comments/1vu7bwq/you_can_thank_me_guys/)**
+
+I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
+
+11h ago
+
+---
+
+**[This is surreal](https://www.reddit.com/r/Bitcoin/comments/1vu2goc/this_is_surreal/)**
+
+I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
+
+15h ago
+
+---
+
+**[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
+
+1h ago
 
 ---
 
@@ -155,11 +149,25 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Stock Market Today: Dow, Nasdaq Futures Edges Higher; Yields Steady — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+**[CRYPTO TAKES OFF: Coinbase rides Bitcoin's massive rally](https://www.foxnews.com/video/6403817960112)**
+
+FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
+
+Fox News • 55m ago
+
+---
+
+**[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+
+WSJ • 31m ago
+
+---
+
+**[Bitcoin Jumps While the S&P Heads for Weekly Loss](https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17)**
 
 WSJ • 2h ago
 
@@ -169,31 +177,23 @@ WSJ • 2h ago
 
 Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 46m ago
 
 ---
 
-**[Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review](https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/)**
+**[Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened](https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates)**
 
-Oil kept running higher as well while Walmart sold off on earnings.
+Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
 
-Investor's Business Daily • 1h ago
-
----
-
-**[1D NetFlow: +8,879 $Bitcoin (BTC.CC)$ (+$684.18M)🟢 7D NetFlow: +22,043 $Bitcoin (BTC.CC)$ (+$1.7B)🟢](https://www.moomoo.com/community/feed/august-21-update-bitcoin-etfs-1d-netflow-8-879-bitcoin-117133829996549)**
-
-@Lookonchain 11554 Views
-
-Moomoo • 1h ago
+The Guardian • 10h ago
 
 ---
 
-**[Scott Bessent’s Bond-Market Rescue Worked Better for Bitcoin Than It Did for Treasuries](https://www.inc.com/phil-rosen/stock-market-outlook-bond-traders-bitcoin-debasement-gold-bessent-treasury/91394409)**
+**[Robinhood Advances 5%, Webull Ticks Up as Bitcoin’s Breakout Lifts Retail Brokerages](https://247wallst.com/investing/2026/08/21/robinhood-advances-5-webull-ticks-up-as-bitcoins-breakout-lifts-retail-brokerages/)**
 
-The U.S. Treasury’s intervention in bond markets isn’t working immediately.
+Bitcoin's sharp breakout is sending shockwaves through retail brokerage stocks, but Robinhood and Webull are catching the move in very different ways, and the gap between them reveals something important about how each company is actually built.
 
-inc.com • 3h ago
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -205,25 +205,19 @@ BlackRock • 3d ago
 
 ---
 
-**[If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today](https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-and-trump-on-inauguration-day-here-is-what-each-is-worth-today)**
-
-thestreet.com • 16d ago
-
----
-
-**[Bitcoin Price Prediction: What Price Will BTC Hit in August?](https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/)**
-
-Bitcoin trades near $63,000 going into its worst month on record. Here's where we think BTC could trade by the end of August.
-
-24/7 Wall St. • 19d ago
-
----
-
 **[Data Breach At Trezor Leaks Info On Nearly 14,000 Bitcoin Wallet Users](https://bitcoinmagazine.com/news/trezor-data-breach-leaks-customer-info)**
 
 The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
 
 Bitcoin Magazine • 7d ago
+
+---
+
+**[More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33](https://www.theblock.co/news/markets/2026-06-10-more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33-404229)**
+
+Over half of bitcoin's circulating supply is now trading at a loss, a level typically only reached near major bear market bottoms, per K33.
+
+The Block • 2mo ago
 
 ---
 
@@ -249,7 +243,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 7h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 8h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -265,7 +259,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 18h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 19h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -295,7 +289,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 75 • ⏱️ 11:06 • 16h ago
+👁️ 39K • 👍 3K • 💬 75 • ⏱️ 11:06 • 17h ago
 
 ---
 
@@ -305,7 +299,7 @@ Something unusual is happening across markets right now. Large-scale capital app
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 5 • ⏱️ 41:39 • 7h ago
+👁️ 17K • 👍 1K • 💬 5 • ⏱️ 41:39 • 8h ago
 
 ---
 
@@ -315,7 +309,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 28K • 👍 1K • 💬 117 • ⏱️ 11:16 • 16h ago
+👁️ 28K • 👍 1K • 💬 117 • ⏱️ 11:16 • 17h ago
 
 ---
 
@@ -325,7 +319,7 @@ Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to 
 
 📺 CNBC Television
 
-👁️ 31K • 👍 322 • 💬 16 • ⏱️ 4:31 • 20h ago
+👁️ 31K • 👍 322 • 💬 16 • ⏱️ 4:31 • 21h ago
 
 ---
 
@@ -335,7 +329,7 @@ Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants w
 
 📺 Mister Finance
 
-👁️ 1K • 👍 8 • ⏱️ 0:42 • 23h ago
+👁️ 1K • 👍 8 • ⏱️ 0:42 • 1d ago
 
 ---
 
@@ -355,7 +349,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 757 • 👍 77 • 💬 3 • ⏱️ 18:12 • 3h ago
+👁️ 757 • 👍 77 • 💬 3 • ⏱️ 18:12 • 4h ago
 
 ---
 
@@ -365,7 +359,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 443 • 💬 52 • ⏱️ 14:53 • 22h ago
+👁️ 13K • 👍 443 • 💬 52 • ⏱️ 14:53 • 23h ago
 
 ---
 
@@ -375,7 +369,7 @@ The price of gold and the original cryptocurrency, bitcoin, have jumped to their
 
 📺 ABC News (Australia)
 
-👁️ 14K • 👍 213 • ⏱️ 1:58 • 6h ago
+👁️ 14K • 👍 213 • ⏱️ 1:58 • 7h ago
 
 ---
 
@@ -385,7 +379,7 @@ Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin &
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 792 • 💬 27 • ⏱️ 4:09 • 18h ago
+👁️ 17K • 👍 792 • 💬 27 • ⏱️ 4:09 • 19h ago
 
 ---
 
