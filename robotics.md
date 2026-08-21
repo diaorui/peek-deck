@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-20T23:52:06.620561+00:00'
+updated: '2026-08-21T01:18:15.047637+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 20, 2026 at 23:52 UTC  
+**Last Updated:** August 21, 2026 at 01:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-6h ago
+8h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-46m ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 10h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 4h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 6h ago
 
 ---
 
@@ -74,7 +74,7 @@ KAIST’s HOUND quadruped uses reinforcement learning to decide how to move base
 
 Hey everyone, My teammate and I competed at the All America Micromouse Contest (AAMC 2026) at UCLA IEEE a few months back and took 3rd place overall. We just cleaned up and open-sourced our entire codebase and build log: https://github.com/enkhbold470/neuromouse26 A few interesting engineering details from the build: The "Ugly Protoboard" Pivot: Our V1 was a custom-designed, clean PCB. But every time we had power rail noise or needed to tweak sensor positioning, we were stuck waiting a week for a board respin. We scrapped it and built V2 on raw perfboard with point-to-point soldering and a mechanical keyboard blue switch for mode select. It looked like a rat's nest, but being able to desolder and reposition an IR emitter in 15 minutes is what got us to the competition. ESP32-S3 instead of STM32: Almost every competitive micromouse runs on STM32. We went with an ESP32-S3 running PlatformIO. We used the ESP32 hardware PCNT (Pulse Counter) peripheral for 4x encoder decoding so the CPU didn't choke on interrupts, and cached explored maze walls into ESP32 NVS flash so the fast run could skip sensing entirely. Motion Control & Algorithms: - 16x16 flood-fill BFS solver. - 200 Hz PID control loop timed purely with "micros()" 😂 - no RTOS tasks or "delay()" in the control path. - Trapezoidal velocity profiling that fuses consecutive straight cells into a single acceleration corridor so the mouse doesn't brake every 180mm cell. - 4x IR emitter/receiver pairs (SFH4545 + TEFT4300) with lookup tables for distance calibration + MPU-6500 gyro for yaw-hold. 6x3 Home Maze vs 16x16 Real Maze: We tested at home on a tiny 6x3 grid made of homedepot whiteboard ~$10 board + 3D printed walls. Scaling to the official 16x16 (256 cells) UCLA maze was brutal because millimeter errors compound fast over long straightaways. The 0.96" OLED display was the real MVP on competition day— like seeing live battery, IR readings, and flood-fill maps on-robot meant we could debug in the 5-minute prep window without opening a laptop. > 🎬 Competition full run video is on YouTube: https://www.youtube.com/watch?v=2M4ZANPrZ4s > ⭐️ Repo / Schematics / Firmware: https://github.com/enkhbold470/neuromouse26 Happy to answer any questions about the sensor tuning, flood-fill implementation, or motor control!
 
-22h ago
+23h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 4h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 5h ago
 
 ---
 
@@ -98,7 +98,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The 2026 World Robot Conference and the 2nd World Humanoid Robot Games have commenced. The 2026 World Robot Conference brings together cutting-edge global technologies and establishes a professional and efficient platform for industry exchange and cooperation. The 2nd World Humanoid Robot Games will be held from August 22nd to 26th at the "Ice Ribbon," where 666 teams and 2056 humanoid robots from 16 countries across five continents will compete in 51 events and 1301 matches, representing a comprehensive upgrade in scale, events, and standards compared to the inaugural edition. World Robot Conference https://www.whrgoc.com/ https://preview.redd.it/91tisghokgkh1.png?width=1187&format=png&auto=webp&s=f3a3e5ea851afe512f0a63859a40f1732628a13f
 
-19h ago
+20h ago
 
 ---
 
@@ -118,7 +118,7 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -132,21 +132,21 @@ Reuters • 1d ago
 
 Amazon is expanding its footprint in Austin with a new multibillion-dollar robotics manufacturing facility expected to create hundreds of jobs, Gov. Greg Abbott
 
-KEYE • 19h ago
+KEYE • 21h ago
+
+---
+
+**[Amazon is bringing a multibillion-dollar robotics plant to Texas](https://ca.finance.yahoo.com/news/amazon-bringing-multibillion-dollar-robotics-170427895.html)**
+
+The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
+
+Yahoo! Finance Canada • 8h ago
 
 ---
 
 **[Amazon to make robots for warehouses at Dog's Head in East Austin](https://www.bizjournals.com/austin/news/2026/08/19/amazon-robotics-atx-dogs-head-endeavor-factory.html)**
 
 The Business Journals • 1d ago
-
----
-
-**[Amazon is bringing a multibillion-dollar robotics plant to Texas](https://www.usatoday.com/story/news/state/texas/2026/08/20/amazon-austin-texas-workforce-job/91385126007/)**
-
-The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
-
-USA Today • 6h ago
 
 ---
 
@@ -158,6 +158,20 @@ Construction Dive • 1d ago
 
 ---
 
+**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
+
+South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
+
+Business Insider Africa • 6h ago
+
+---
+
+**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
+
+The New York Times • 16h ago
+
+---
+
 **[Could robots help tackle loneliness? BBC’s Ann Droid raises questions about the future of care](https://theconversation.com/could-robots-help-tackle-loneliness-bbcs-ann-droid-raises-questions-about-the-future-of-care-289430)**
 
 As robots enter social care, Ann Droid raises a bigger question: can machines ease loneliness without replacing human connection?
@@ -166,25 +180,11 @@ The Conversation • 1d ago
 
 ---
 
-**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
+**[Powering the EMILIA-3D Lunar Mission with Proven Space Robotics](https://rocketlabcorp.com/updates/powering-the-emilia-3d-lunar-mission-with-proven-space-robotics/)**
 
-The New York Times • 14h ago
+As NASA and its partners advance toward returning American astronauts to the Moon for the first time in nearly 60 years, Rocket Lab Robotics is helping grow our understanding of the rocky, cratered surface, essential to mission success.
 
----
-
-**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
-
-South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
-
-Business Insider Africa • 5h ago
-
----
-
-**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
-
-New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
-
-Intel Newsroom • 10h ago
+Rocket Lab • 1d ago
 
 ---
 
@@ -198,97 +198,95 @@ Chinese robot makers showed off humanoids sorting parcels, packing mobile phones
 
 📺 Firstpost
 
-👁️ 10K • 👍 62 • 💬 3 • ⏱️ 0:32 • 11h ago
+👁️ 11K • 👍 67 • 💬 3 • ⏱️ 0:32 • 13h ago
 
 ---
 
-**[Robots are Replacing Humans in Sports Too](https://www.youtube.com/watch?v=G16-D3GJVVI)**
+**[This Robot Just Beat Usain Bolt’s 17-Year-Old World Record #shorts  #viral](https://www.youtube.com/watch?v=Jc2O8iiqwgA)**
 
-Robots are replacing humans in sports too Description - A team of engineering students at the University of British Columbia built ...
+A robot has just done something that sounds straight out of science fiction — beating a 17-year-old world record associated with ...
 
-📺 Brainy Byte
+📺 NDTV Profit
 
-👁️ 1.3M • 👍 15K • 💬 204 • ⏱️ 0:12 • 6d ago
-
----
-
-**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
-
-China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
-
-📺 AI Revolution
-
-👁️ 33K • 👍 784 • 💬 96 • ⏱️ 14:10 • 1d ago
+👁️ 18K • 👍 105 • 💬 4 • ⏱️ 0:13 • 9h ago
 
 ---
 
-**[Honor’s Robot Phone is here](https://www.youtube.com/watch?v=ZKTenyFHMXc)**
+**[Riding heavy-load robotic horse at World Robot Conference](https://www.youtube.com/watch?v=aAo_6CI4rx8)**
 
-Honor's Robot Phone is here and it's more gimbal than robot. Still, it's a pretty cool idea. The full gimbal arm stays tucked inside ...
+An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at the 2026 World Robot Conference in Beijing.
 
-📺 The Verge
+📺 New China TV
 
-👁️ 33K • 👍 860 • 💬 29 • ⏱️ 2:33 • 6d ago
-
----
-
-**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
-
-The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
-
-📺 Custom Adventurist
-
-👁️ 948K • 👍 52K • 💬 468 • ⏱️ 1:04 • 2d ago
+👁️ 6K • 👍 71 • 💬 1 • ⏱️ 0:19 • 18h ago
 
 ---
 
-**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+**[Robot dubbed &#39;Superman&#39; sets new world speed record!](https://www.youtube.com/watch?v=0T43pedVk_M)**
 
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+The robot beat Usain Bolt's 2009 record. The Sun brings you breaking news and in-depth analysis on the stories that matter most.
 
-📺 CNET
+📺 The Sun
 
-👁️ 11K • 👍 359 • 💬 60 • ⏱️ 5:16 • 4d ago
-
----
-
-**[How RealSense 3D Cameras Power Robotics - Giving &quot;Eyes&quot; to Physical AI!](https://www.youtube.com/watch?v=jYJy4O2LCH4)**
-
-How do depth cameras power physical AI and robotics? Amber Cobb visits the @RealSenseai booth at Automate to chat with ...
-
-📺 OnLogic
-
-👁️ 9 • ⏱️ 0:40 • 4h ago
+👁️ 21K • 👍 170 • 💬 54 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[Unitree Superman Robot Jump and Fast Run](https://www.youtube.com/watch?v=LRoAfnQvQDA)**
+**[How This Robot Defies Gravity On Steel Walls 🧲 #robotics #engineering #innovation #tech](https://www.youtube.com/watch?v=I40y0f5OVng)**
 
-Unitree Robotics has revealed an incredible preview of its new experimental “Superman” robot, capable of reaching a claimed ...
+This Robot Can Scale Vertical Metal Walls To Handle Deadliest Shipyard Tasks. Maintaining massive cargo hulls and towering ...
 
-📺 DPCcars
+📺 EcoZora
 
-👁️ 26K • 👍 221 • 💬 65 • ⏱️ 1:31 • 3d ago
-
----
-
-**[Unitree&#39;s new humanoid robot just claimed a speed Usain Bolt never hit](https://www.youtube.com/watch?v=kuAqfg-Tp7s)**
-
-Unitree has released a video of its newest humanoid robot claiming a top speed of 12.66 metres per second and a two metre ...
-
-📺 Interesting Engineering Explains
-
-👁️ 20K • 👍 635 • 💬 95 • ⏱️ 1:51 • 3d ago
+👁️ 29K • 👍 241 • 💬 4 • ⏱️ 0:07 • 1d ago
 
 ---
 
-**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
+**[How Smart Materials Move Soft Robots Without Motors ⚡ #softrobotics #actuators #robotics #science](https://www.youtube.com/watch?v=912VRPJh8ec)**
 
-Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
+Engineers Finally Solved the biggest mechanical limitation in modern soft robotics. For decades, robotics has relied strictly on ...
 
-📺 ABC News
+📺 EcoZora
 
-👁️ 59K • 👍 1K • 💬 261 • ⏱️ 1:36 • 1d ago
+👁️ 57K • 👍 277 • 💬 24 • ⏱️ 0:07 • 2d ago
+
+---
+
+**[Mecanum Wheels for My Robot. Part 2. #shorts #3dprinting #engineering #robot](https://www.youtube.com/watch?v=DeyqeIQt91g)**
+
+📺 Aram Davtyan
+
+👁️ 22K • 👍 440 • 💬 8 • ⏱️ 0:39 • 2d ago
+
+---
+
+**[Juegos Olímpicos de Humanoides: Robots compiten en Beijing #shorts](https://www.youtube.com/watch?v=ExlwOQeohwY)**
+
+The second edition of the Olympic Games for Humanoids is here, showcasing the prowess of bipedal robots. Teams from 16 ...
+
+📺 SAIRI: THE AGENT EXPERIMENT
+
+👁️ 387 • 👍 9 • ⏱️ 2:10 • 7h ago
+
+---
+
+**[Take Your Robotics R&amp;D Off-Road! Mobile Robot SCOUT MINI 2.0](https://www.youtube.com/watch?v=Vg-aWT8I3Jk)**
+
+Take your robotics R&D outdoors.   We built the SCOUT MINI OFF-ROAD to bring true agility to the outdoors. Gravel, asphalt, or ...
+
+📺 AgileX Robotics
+
+👁️ 1K • 👍 14 • ⏱️ 0:19 • 14h ago
+
+---
+
+**[Robotics firms prepare to compete in second World Humanoid Robot Games in Beijing](https://www.youtube.com/watch?v=ohUiYWEf7SU)**
+
+The World Humanoid Robot Games will kick off on Aug 22 with more than 2000 robot competitors. According to reports, this year's ...
+
+📺 The Straits Times
+
+👁️ 7K • 👍 79 • 💬 6 • ⏱️ 0:26 • 1d ago
 
 ---
 

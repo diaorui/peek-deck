@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-20T23:52:06.612049+00:00'
+updated: '2026-08-21T01:18:15.042075+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 20, 2026 at 23:52 UTC  
+**Last Updated:** August 21, 2026 at 01:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,257.23
+### $74,079.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.6%  
-**7d:** +16.2%  
-**30d:** +10.9%  
-**90d:** -4.6%  
-**1y:** -34.8%  
+**24h:** +7.0%  
+**7d:** +17.6%  
+**30d:** +14.0%  
+**90d:** -3.8%  
+**1y:** -36.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1460.23B
+**Market Cap:** $1483.57B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--42.3%
+-41.4%
 
 **All-Time Low:** $67.81
-+107213.1%
++108901.6%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-4h ago
+6h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -95,19 +95,19 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-11h ago
+12h ago
 
 ---
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-10h ago
+11h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,13 +115,13 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Another dip before we rip? Or is this it 😸
 
-13h ago
+15h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -129,19 +129,19 @@ Another dip before we rip? Or is this it 😸
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-8h ago
+10h ago
 
 ---
 
 **[I’m looking at the charts like this.](https://www.reddit.com/r/Bitcoin/comments/1vtwubr/im_looking_at_the_charts_like_this/)**
 
-2h ago
+3h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -153,79 +153,71 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
-**[Bitcoin Is Suddenly a Hedge Again, VanEck Says: What Changed?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-suddenly-hedge-again-vaneck-224807936.html)**
+**[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-VanEck's Matthew Sigel calls Bitcoin a hedge against a weaker dollar. Here's why that claim is being challenged.
-
-Yahoo Finance • 1h ago
+Barron's • 9h ago
 
 ---
 
-**[Treasury Secretary Bessent Says Buybacks Can Exceed $4B: Bullish for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/treasury-secretary-bessent-says-buybacks-224136057.html)**
+**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
 
-Bessent says Treasury bond buybacks could exceed $4 billion, easing yields and helping fuel Bitcoin's rally past $69,000.
+Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-Yahoo Finance • 1h ago
-
----
-
-**[IBIT’s 0.25% Fee Sells Off Bitcoin Daily, and the Prospectus Calls Every Sale a Taxable Event](https://finance.yahoo.com/markets/crypto/articles/ibit-0-25-fee-sells-220518548.html)**
-
-Your IBIT position sits untouched, yet the trust's prospectus quietly promises a taxable event hits your account every single trading day. The fee structure doing this is something most holders have never read past the headline number to find.
-
-Yahoo Finance • 1h ago
+CNBC • 19h ago
 
 ---
 
-**[Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze](https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/)**
+**[Top stocks today, Aug. 20: 5 biggest gainers as Bitcoin climbs](https://sg.finance.yahoo.com/news/top-stocks-today-aug-20-002607531.html)**
 
-The price of bitcoin rallied to a two-month high. Treasury bond plans spark short squeeze, Trump administration reaffirms crypto support.
+The latest Bitcoin rally is minting both winners and losers on Wall Street.
 
-Investor's Business Daily • 2h ago
-
----
-
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
-
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
-
-BlackRock • 2d ago
+Yahoo Finance Singapore • 52m ago
 
 ---
 
-**[William Sandeson wants items seized in his arrest](https://www.cbc.ca/news/canada/nova-scotia/william-sandeson-taylor-samson-murder-9.7312641)**
+**[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-The Crown has launched a forfeiture hearing against convicted killer William Sandeson, seeking to confiscate $5,000 and bitcoin police seized when they arrested him for the murder of Taylor Samson.
-
-CBC • 1d ago
+Bloomberg • 9h ago
 
 ---
 
-**[Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign](https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged)**
+**[Markets News, Aug. 20, 2026: Major Indexes Slide After Snapping 3-Day Skids; Oil Prices, Treasury Yields, Bitcoin Rise; Walmart Stock Drops](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08202026-12064079)**
 
-Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and agencies.
+Major U.S. stock indexes slumped on Thursday, a day after they snapped three-session losing streaks, as Walmart shares tumbled. Meanwhile, bitcoin, oil prices, and Treasury yields rose.
 
-Decrypt • 6h ago
-
----
-
-**[Kroger Expands Fold Bitcoin Gift Card Offering After Successful Pilot](https://www.pymnts.com/blockchain/bitcoin/2026/kroger-expands-fold-bitcoin-gift-card-offering-after-successful-pilot/)**
-
-Retail and supermarket chain Kroger expanded its Fold Bitcoin Gift Card offering after completing a successful seasonal pilot, Fold Holdings said in a
-
-PYMNTS.com • 7h ago
+Investopedia • 5h ago
 
 ---
 
-**[MSTR, BMNR, COIN, CRCL Stock Extend Rally After Bitcoin Blasts Past $71K, Triggering $3B Liquidation Wave](https://stocktwits.com/news-articles/markets/equity/mstr-bmnr-coin-crcl-stock-rally-bitcoin-past-71-k-3-b-liquidation-wave/cZYIlD0RJmZ)**
+**[Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden](https://bitcoinmagazine.com/news/bitcoin-price-to-rise-says-lyn-alden)**
 
-Ethereum, XRP and Solana outperformed Bitcoin, with Ethereum rising nearly 20% in the last 24 hours.
+While Bitcoin may not be "out of the woods" just yet, Macro expert Lyn Alden thinks new buyers could be entering the market soon.
 
-Stocktwits • 13h ago
+Bitcoin Magazine • 4h ago
+
+---
+
+**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
+
+The S&P 500 just triggered a bullish signal, barely.
+
+Investor's Business Daily • 13h ago
+
+---
+
+**[Bitcoin's jump above $72,000 sets up bullish golden cross pattern](https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern)**
+
+CoinDesk • 10h ago
+
+---
+
+**[Crypto Stocks Continue to Surge After Upbeat White House Meeting](https://www.wsj.com/finance/currencies/crypto-stocks-continue-surge-premarket-after-upbeat-white-house-meeting-d344afcd)**
+
+WSJ • 9h ago
 
 ---
 
@@ -261,7 +253,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 2h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 3h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -269,7 +261,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 18h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 19h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -291,17 +283,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 147 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
-
-Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 301 • 💬 24 • ⏱️ 14:53 • 7h ago
+👁️ 69K • 👍 3K • 💬 159 • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -311,7 +293,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 970 • 👍 71 • 💬 1 • ⏱️ 12:16 • 4h ago
+👁️ 2K • 👍 92 • 💬 1 • ⏱️ 12:16 • 6h ago
+
+---
+
+**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
+
+Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
+
+📺 Yahoo Finance
+
+👁️ 8K • 👍 342 • 💬 26 • ⏱️ 14:53 • 8h ago
 
 ---
 
@@ -321,37 +313,47 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 54K • 👍 2K • 💬 152 • ⏱️ 9:45 • 12h ago
+👁️ 60K • 👍 2K • 💬 157 • ⏱️ 9:45 • 13h ago
 
 ---
 
-**[Bitcoin’s Rally Today Just Confirmed Everything](https://www.youtube.com/watch?v=yGg1_mD9KKo)**
+**[Hackers Stole $38 Million in Bitcoin in 25 Minutes, And It’s Getting Worse...](https://www.youtube.com/watch?v=BEIBh91X_2c)**
 
-Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price has stabilized, and what it will take to spark the ...
+I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
 
-📺 Anthony Pompliano
+📺 Mark Moss
 
-👁️ 55K • 👍 2K • 💬 46 • ⏱️ 24:22 • 1d ago
-
----
-
-**[Bitcoin Is Ready To Break Out...](https://www.youtube.com/watch?v=vhqdsiy0ED0)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 942 • 💬 296 • ⏱️ 43:06 • 1d ago
+👁️ 30K • 👍 1K • 💬 215 • ⏱️ 22:30 • 2d ago
 
 ---
 
-**[Bitcoin At $69K! This is Next!](https://www.youtube.com/watch?v=qtmhaJs1RdE)**
+**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
 
-Bitcoin is back at $69K and the bullish momentum could just be getting started! Sheldon breaks down why Bitcoin's latest move is ...
+Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
 
-📺 Crypto Banter
+📺 Crypto Capital Venture
 
-👁️ 12K • 👍 716 • 💬 16 • ⏱️ 35:01 • 1d ago
+👁️ 23K • 👍 1K • 💬 593 • ⏱️ 22:30 • 1d ago
+
+---
+
+**[BITCOIN FOOLED EVERYONE...](https://www.youtube.com/watch?v=GyRlX6kf1HU)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 17K • 👍 999 • 💬 114 • ⏱️ 8:08 • 19h ago
+
+---
+
+**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
+
+No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
+
+📺 Gareth Soloway
+
+👁️ 74K • 👍 5K • 💬 516 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -361,27 +363,17 @@ Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 92K • 👍 1K • 💬 381 • ⏱️ 8:10 • 2d ago
+👁️ 93K • 👍 1K • 💬 384 • ⏱️ 8:10 • 2d ago
 
 ---
 
-**[Bitcoin Price Chart, Altcoins and XRP Surge with Short Liquidation, Next Up Bullish Confirmation](https://www.youtube.com/watch?v=bTxuaHoQypo)**
+**[Bitcoin Hits $70K: Why I Just Rotated Into MSTR](https://www.youtube.com/watch?v=ZfFJ7n60v0Y)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+Yesterday bitcoin was dead quiet in the $64000s — the same range it had been stuck in for six straight weeks. Today it broke out ...
 
-📺 Blockchain Backer
+📺 Betirement
 
-👁️ 28K • 👍 4K • 💬 2 • ⏱️ 15:22 • 11h ago
-
----
-
-**[189,000 Bitcoin Suddenly Moved. Here’s What It Exposed](https://www.youtube.com/watch?v=BEIBh91X_2c)**
-
-I break down what really happened in the recent Coldcard security exploit, why moving your seed to a new hardware wallet will ...
-
-📺 Mark Moss
-
-👁️ 29K • 👍 1K • 💬 224 • ⏱️ 22:30 • 2d ago
+👁️ 10K • 👍 506 • 💬 199 • ⏱️ 13:23 • 1d ago
 
 ---
 
