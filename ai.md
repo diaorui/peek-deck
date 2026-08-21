@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T01:18:15.036947+00:00'
+updated: '2026-08-21T02:44:35.867669+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 01:18 UTC  
+**Last Updated:** August 21, 2026 at 02:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up. The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually targets this class of consumer-grade edge AI hardware. Ukraine says they've now catalogued close to 6,000 foreign components across 200+ Russian weapons systems, so this isn't a one-off. Feels like export control regimes were built around "obviously military" or "obviously datacenter" hardware, and completely miss the middle category: cheap, widely available edge AI modules that are genuinely useful for robotics/drones/normal stuff but also trivially good enough to guide a missile. Anyone know if there's an actual policy fix being discussed for that gap, or is it just going to stay a whack-a-mole enforcement problem?
 
-11h ago
+13h ago
+
+---
+
+**[Writer’s dilemma: Critiquing a family member’s AI-generated novel](https://www.reddit.com/r/artificial/comments/1vu2d4p/writers_dilemma_critiquing_a_family_members/)**
+
+To make a long story short: My stepfather-in-law was laid off in January. My husband and I both begrudgingly tolerate the man. His ego and quirks make him difficult to be around, but fortunately, we only have to see him once or twice a year (they live five hours away) on our obligatory visits to visit my mother-in-law. Here’s the kicker. On month eight of unemployment, he decided to start what I can only comfortably describe as a poor attempt at AI-enabled grifting. He started by generating Toby Keith-esque country songs and posting full-length “albums” on Facebook. My husband and I rolled our eyes, thinking it was just a “local boomer discovers AI” sort of situation. He’s since piloted a LinkedIn-style leadership motivation series of AI-generated texts and images, the pairs of which almost never make sense. Again, we mostly ignored it. But then, the books started. Which meant I was dragged into it. For a little extra color — I’m a career journalist turned specialized corporate content writer/strategist by day. By night (mostly early mornings, actually), I write novels. I’ve spent the last six years working daily on a series that means the world to me, and I’m currently in the trenches of my seventh round of edits on the first book, with the full intention of querying my best work (I got so close in the last round, but my word count sank that ship - lesson learned!). I take this hobby as seriously as I take my daytime career. I am no master of this craft. It’s a day-in and day-out process to become 1% better at storytelling every time I sit down to write or edit. So when my father-in-law unceremoniously sent me his AI-generated manuscript wanting to “get my thoughts,” I was torn. Of course, in nearly any other situation, I’d be more than happy to review a friend or family member’s writing. I do it all the time! But this felt different. He’s fully intent on self-publishing this novel. Do I think it’ll sell? No. I don’t! I can’t say I feel “threatened” by another writer, or that I’m worried this book is going to be a runaway Amazon success. I read it. It’s… fine. The prose isn’t egregious because the AI was decently well-prompted. The characters have no arc. The plot barely moves. It’s 90% atmosphere, 5% police procedural tropes, and 5% repeated descriptions that are immediate AI red flags to a semi-trained eye. My mother-in-law has urged me to “please be nice” about the whole thing. She knows that even though I work for a company that plays in the AI space (we’re healthcare-adjacent), I have strong convictions about the use of gen-AI for creative work, especially when someone is trying to pass off the work as their own. We’re visiting in a few weeks, and they “can’t wait to talk to me” about this. Writer to… writer. I guess. My question for you all: What do I owe him in this inevitable conversation? Has anyone else encountered a situation where they’ve been asked to review/critique someone’s AI-generated work? I feel icky even having read it, but I really struggle pushing back on this guy. He’s exhausting to be around as-is, and I’d prefer to keep things as light as possible, just to get through the trip.
+
+1h ago
 
 ---
 
@@ -49,7 +57,7 @@ Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a down
 
 AI can answer almost anything now. But if more of the content online is also generated by AI, what happens to the information AI learns from? At some point, do we end up with AI training on AI-generated content, while the amount of genuinely human-created information keeps shrinking? Could AI eventually make the internet harder for AI to learn from?
 
-11h ago
+12h ago
 
 ---
 
@@ -57,7 +65,15 @@ AI can answer almost anything now. But if more of the content online is also gen
 
 At this point, maybe it's worth a try? 😂
 
-🔗 [Comic Sands](http://comicsands.com/jason-kelce-data-centers) • 7h ago
+🔗 [Comic Sands](http://comicsands.com/jason-kelce-data-centers) • 8h ago
+
+---
+
+**[What Happens When the World is Run on Code No One Understands?](https://www.reddit.com/r/artificial/comments/1vu3x0t/what_happens_when_the_world_is_run_on_code_no_one/)**
+
+Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
+
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 3m ago
 
 ---
 
@@ -65,15 +81,7 @@ At this point, maybe it's worth a try? 😂
 
 Build a modern LLM from scratch. Every line commented. Explained like we are five. - raiyanyahya/how-to-train-your-gpt
 
-🔗 [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) • 12h ago
-
----
-
-**[Open source is trending hard today: hot take thread](https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/)**
-
-Everyone's talking about Open source right now. The main story: mojo is now open source. One take in the thread that got me thinking: 'How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity'. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?
-
-9h ago
+🔗 [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) • 13h ago
 
 ---
 
@@ -81,7 +89,15 @@ Everyone's talking about Open source right now. The main story: mojo is now open
 
 Whenever I ask Gemini on Android, about my past conversations with it, it claims that it works on a privacy model where it only knows about the current conversation. Trying to deliberately ask it what it knows about me, it claims nothing. However, occasionally it will make a reference to something I said many months ago. (Example, had a conversation about Rhododendron Honey and months later it referenced that previous conversation despite claiming not to remember anything about me). It makes me wonder if Google has told it to lie about not having access to previous conversations so people get less worried about privacy. I honestly find it more worrying that it claims to store nothing (but clearly does) than ChatGPT/Claude which you can ask questions directly about what it has remembered about you, and past conversations. I kinda find Gemini's dishonesty a bit concerning as it is deliberate deceit.
 
-8h ago
+10h ago
+
+---
+
+**[Open source is trending hard today: hot take thread](https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/)**
+
+Everyone's talking about Open source right now. The main story: mojo is now open source. One take in the thread that got me thinking: 'How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity'. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?
+
+11h ago
 
 ---
 
@@ -89,7 +105,7 @@ Whenever I ask Gemini on Android, about my past conversations with it, it claims
 
 Thank you everyone for your prior interest and support in my work. Now PopUpFactCheck for YouTube has progressed to producing this content! Available for Chrome and Firefox, links to those stores at PopUpFactCheck.com
 
-🔗 [youtu.be](https://youtu.be/EChU9F1PCc4) • 1h ago
+🔗 [youtu.be](https://youtu.be/EChU9F1PCc4) • 2h ago
 
 ---
 
@@ -97,23 +113,7 @@ Thank you everyone for your prior interest and support in my work. Now PopUpFact
 
 Three months ago, I posted an LLM resume-screening study in which an auditor flagged 45 per cent of score differences as bias. Thread feedback challenged my methodology, so I ran new experiments testing three specific objections. To test u/kamilc86's claim that reasoning is invented post hoc, I transplanted positive and negative justifications back into prompts across 320 runs. Scores moved 3.62 points in the reasoning's direction 99.7 per cent of the time, proving scores do follow reasoning. However, extreme baseline instability confirmed his broader point: much of the initial 45 per cent bias was just random noise mislabeled as bias. Testing u/AssiduousLayabout's idea to place the score last across 4,800 runs showed that schema ordering had no effect on stability and increased hire-versus-no-hire disagreement from 33 per cent to 54 per cent. Blind prompt instructions also failed to reduce variance. Testing u/hex4def6's placebo idea across 4,165 runs revealed that meaningless edits like car colour shifted scores almost as much as demographic edits (0.328 versus 0.362 points). "Silver Golf" shifted scores more than changing my university or name, even though the models never cited the car in their justifications. Ultimately, first names and career gaps show real signal, but raw instability drowns out most demographic axes. Wrapper choice also heavily impacts results: running Claude via CLI added a hidden system prompt that shifted scores by 0.247, representing 88 per cent of the demographic signal, meaning benchmarks do not transfer across wrappers. Full data and code are available at the Placebo Control, Reasoning Transplant, Prompt Lab, GitHub Repository, and Full Blog Writeup.
 
-8h ago
-
----
-
-**[The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it](https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/)**
-
-There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models. I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Claude, or Gemini carries hidden overhead: system prompt instructions for refusal behavior, safety classifier injections, mandatory hedging and disclaimer generation in the output. Before your actual query reaches the transformer weights, it passes through a multi-stage safety pipeline that adds between 800 and 2,500 tokens of non-productive context to every single interaction. Let me break down the math. If your organization processes a million analytical queries per year, and each query carries an average of 1,500 tokens of guardrail overhead at standard pricing, you are spending a significant portion of your AI budget on transmitting safety instructions to a model that has already been trained to be safe. You are paying to remind the model not to hurt you, every single time you ask it something. But the token overhead is the smaller cost. The bigger economic problem is what I call epistemic yield degradation. When alignment criteria are tuned for general consumer safety, they produce false-positive refusals on legitimate domain-specific queries. A bioethics researcher analyzing historical medical protocols triggers safety filters on the word "lethal." A political philosophy professor studying revolutionary movements gets hedged evasions on the word "subversion." A security analyst examining threat models receives apologies instead of analysis. In benchmark tests, the false refusal rates for academic research queries ranged from 11.8% for classical literature to 22.1% for security and foreign policy topics. Each false refusal represents a multi-tiered economic loss: the wasted tokens on the refused query, the re-prompting overhead as the researcher tries to reframe the question to bypass filters, and the human labor cost as qualified professionals spend their billable hours fighting their tools instead of doing their work. The cumulative effect is that the effective cost per successful research query is substantially higher than the nominal per-token API price. You are not just paying for the tokens you use. You are paying for the tokens you waste trying to get the model to actually answer your question. Then there is model drift. Commercial providers update their backend endpoints, modifying safety classifiers and system prompts without notice. A pipeline that worked in March silently degrades in September because the vendor tightened its refusal criteria. The cost of debugging, re-prompting, and re-validating institutional workflows after unannounced alignment updates is borne entirely by the subscriber. We measured one case where a silent safety update dropped pipeline accuracy from 96% to 71%, requiring 120 engineer hours to diagnose and fix. The alternative is sovereign self-hosted infrastructure. Deploy open-weight models like Qwen or Llama on your own GPU hardware. The upfront cost is higher, but the break-even point arrives within 7 to 9 months at moderate usage levels. Over three years, a self-hosted deployment saves 60% or more compared to commercial API subscriptions, and you get version stability, zero guardrail overhead, and full data sovereignty. Your data never leaves your infrastructure. The argument for sovereign deployment is not just philosophical preference for open systems. It is economic. Every false refusal, every wasted token, every re-prompting cycle, every silent model drift event, these are real costs that add up over time. The question for any institution spending serious money on commercial AI is whether they have actually audited what percentage of their token expenditure produces actionable intelligence versus defensive corporate compliance padding. Has anyone here actually measured their guardrail token overhead? What percentage of your monthly API spend would you estimate goes to non-productive safety infrastructure that your use case does not even need?
-
-18h ago
-
----
-
-**[Thomson Reuters launches CoCounsel Legal with a Westlaw-backed agentic workflow](https://www.reddit.com/r/artificial/comments/1vtuapq/thomson_reuters_launches_cocounsel_legal_with_a/)**
-
-Thomson Reuters says the next generation of CoCounsel Legal is now generally available. It brings legal research, drafting, verification, and matter workflows into one product built on Westlaw and Practical Law. The new Westlaw Brief Builder moves from research and issue analysis to a first draft while checking the supporting authority. Thomson Reuters also added workspaces, Word drafting, and tabular review for up to 10,000 documents and 100 questions. The agent can build the draft. The lawyer still controls the strategy and the final decision. Source: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-launches-next-generation-of-cocounsel-legal-the-ai-ecosystem-built-for-legal-professionals
-
-5h ago
+10h ago
 
 ---
 
@@ -125,65 +125,35 @@ Thomson Reuters says the next generation of CoCounsel Legal is now generally ava
 
 Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
 
 ---
 
-**[AI data center outrage is showing up everywhere from ads to elections](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html)**
+**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
 
-With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
+College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
 
-CNBC • 11h ago
-
----
-
-**[AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)**
-
-Surging demand for AI training data is driving rapid growth for the startup and its rivals.
-
-TechCrunch • 1h ago
+blog.google • 1d ago
 
 ---
 
-**[Data center backlash could threaten US AI boom](https://www.foxnews.com/video/6403787518112)**
+**[AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials](https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html)**
 
-New York Post financial correspondent Lydia Moynihan discusses the debate over artificial intelligence data centers as some states push to ban or restrict their construction on ‘The Ingraham Angle.’
-
-Fox News • 32m ago
+Phys.org • 4m ago
 
 ---
 
-**[Nvidia denies report it is rolling out China AI chip by year-end](https://www.reuters.com/world/china/nvidia-ship-ai-chip-china-by-year-end-information-reports-2026-08-20/)**
+**[Markey, Moulton call for AI safeguards in final debate](https://www.wcvb.com/article/markey-moulton-call-for-ai-safeguards-in-final-debate/73489826)**
 
-Reuters • 5h ago
+Markey and Moulton used their final debate to argue for stronger AI rules, citing worker protections, local control and data center impacts.
 
----
-
-**[The Brains Who Powered China’s Surprising AI Leap](https://www.wsj.com/tech/ai/ai-china-scientists-race-us-cd9732e3)**
-
-WSJ • 18m ago
-
----
-
-**[Nvidia looks well placed to benefit from the next stage of the AI boom](https://www.ft.com/content/b388be2e-67bd-4056-abd2-234e17819a98?syn-25a6b1a6=1)**
-
-The world’s biggest chip company is using its balance sheet to seed new markets and a new business model
-
-Financial Times • 8h ago
+WCVB • 44m ago
 
 ---
 
 **[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
 
-The New York Times • 4h ago
-
----
-
-**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
-
-The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
-
-The Atlantic • 9h ago
+The New York Times • 5h ago
 
 ---
 
@@ -191,7 +161,37 @@ The Atlantic • 9h ago
 
 Think that back-to-school photo is safe to post online? Bad actors could use AI "nudify" apps to make it X-rated.
 
-CBS News • 13h ago
+CBS News • 15h ago
+
+---
+
+**[Gwyneth Paltrow Responds to Backlash Over Viral ‘Off-the-Record’ Dinner Invitation for AI Billionaire Sam Altman](https://people.com/gwyneth-paltrow-responds-to-backlash-over-viral-off-the-record-dinner-invitation-for-ai-billionaire-sam-altman-12064940)**
+
+Gwyneth Paltrow responded to online backlash over a reported dinner she is reportedly throwing honor of OpenAI CEO Sam Altman by posting meme invitations. Questions remain about whether the original dinner invitation was real.
+
+People.com • 1h ago
+
+---
+
+**[Ukraine Planned to Swarm Moscow Airports With AI-Guided Drones](https://www.theatlantic.com/national-security/2026/08/ukraine-moscow-airports-ai-drones/688337/)**
+
+The stalled operation, code-named “M&amp;Ms,” sought to isolate Russian elites and force Vladimir Putin to negotiate a truce.
+
+The Atlantic • 10h ago
+
+---
+
+**[California Draws More Startup Investment Than All Other 49 States Combined](https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde)**
+
+WSJ • 12h ago
+
+---
+
+**[AI data center outrage is showing up everywhere from ads to elections](https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html)**
+
+With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.
+
+CNBC • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ CBS News • 13h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 987 • 💬 538 • 16h ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 991 • 💬 542 • 18h ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
@@ -217,7 +217,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 **[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
 
-⬆️ 313 • 💬 503 • 2d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+⬆️ 313 • 💬 500 • 2d ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
@@ -225,7 +225,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 295 • 💬 97 • 1d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 297 • 💬 98 • 1d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -233,7 +233,7 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 My personal portfolio site and blog.
 
-⬆️ 216 • 💬 115 • 6h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 227 • 💬 134 • 7h ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -241,7 +241,7 @@ My personal portfolio site and blog.
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 204 • 💬 247 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 205 • 💬 247 • 1d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -250,22 +250,6 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
 
 ⬆️ 195 • 💬 115 • 2d ago • [linear.app](https://linear.app/data)
-
----
-
-**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
-
-Trying to obfuscate the web is a bad, pointless idea
-
-⬆️ 114 • 💬 77 • 10h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
-
----
-
-**[AI didn't erase the junior engineer's value, it increased it it](https://news.ycombinator.com/item?id=49373269)**
-
-The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
-
-⬆️ 75 • 💬 136 • 13h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -281,7 +265,23 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 47 • 💬 46 • 1h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 137 • 💬 116 • 2h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+
+---
+
+**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
+
+Trying to obfuscate the web is a bad, pointless idea
+
+⬆️ 119 • 💬 82 • 11h ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+
+---
+
+**[AI didn't erase the junior engineer's value, it increased it it](https://news.ycombinator.com/item?id=49373269)**
+
+The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
+
+⬆️ 79 • 💬 137 • 15h ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -295,7 +295,7 @@ Oracle just banned AI contributions for Open JDK. Topics: - Oracle bans AI code 
 
 📺 Awesome
 
-👁️ 46K • 👍 2K • 💬 321 • ⏱️ 8:03 • 16h ago
+👁️ 46K • 👍 2K • 💬 321 • ⏱️ 8:03 • 17h ago
 
 ---
 
@@ -305,7 +305,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 22K • 👍 1K • 💬 31 • ⏱️ 12:08 • 1h ago
+👁️ 22K • 👍 1K • 💬 31 • ⏱️ 12:08 • 2h ago
 
 ---
 
@@ -335,7 +335,7 @@ ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taug
 
 📺 YourWeeklyCrew
 
-👁️ 7K • 👍 146 • 💬 7 • ⏱️ 0:47 • 8h ago
+👁️ 7K • 👍 146 • 💬 7 • ⏱️ 0:47 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ I made this AI video imagining how a smart robot could help elderly pilgrims in 
 
 📺 ShahGX.11 million views.24 hours ago
 
-👁️ 993K • 👍 25K • 💬 21 • ⏱️ 0:09 • 1d ago
+👁️ 993K • 👍 25K • 💬 21 • ⏱️ 0:09 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,126,652 • ❤️ 2,360 • 13h ago
+⬇️ 5,126,652 • ❤️ 2,360 • 14h ago
 
 ---
 
@@ -449,7 +449,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,628 • ❤️ 714 • 16h ago
+⬇️ 2,628 • ❤️ 714 • 18h ago
 
 ---
 
@@ -461,7 +461,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 76,109 • ❤️ 676 • 16h ago
+⬇️ 76,109 • ❤️ 676 • 18h ago
 
 ---
 
@@ -497,7 +497,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 3,308,673 • ❤️ 4,240 • 7d ago
+⬇️ 3,308,673 • ❤️ 4,240 • 8d ago
 
 ---
 
@@ -672,7 +672,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 28m ago
+⭐ 14.0k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -682,7 +682,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 1.1k • 4h ago
+⭐ 8.7k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -700,7 +700,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.4k • 🔱 576 • 8h ago
+⭐ 3.4k • 🔱 576 • 10h ago
 
 ---
 
@@ -720,7 +720,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 328 • 9h ago
+⭐ 2.8k • 🔱 328 • 11h ago
 
 ---
 
@@ -730,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 182 • 10h ago
+⭐ 2.2k • 🔱 182 • 11h ago
 
 ---
 
@@ -740,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 2h ago
+⭐ 2.0k • 🔱 182 • 3h ago
 
 ---
 

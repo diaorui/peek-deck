@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T01:18:15.045694+00:00'
+updated: '2026-08-21T02:44:35.877743+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 01:18 UTC  
+**Last Updated:** August 21, 2026 at 02:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,341.33
+### $2,356.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.3%  
-**7d:** +24.8%  
-**30d:** +25.1%  
-**90d:** +11.9%  
-**1y:** -51.4%  
+**24h:** +4.7%  
+**7d:** +25.2%  
+**30d:** +25.5%  
+**90d:** +12.2%  
+**1y:** -51.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -176,13 +176,23 @@ Yahoo Finance • 9h ago
 
 Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
-**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
+**[Ethereum Price Forecast: Bulls defend rally above $2,300 despite rising profit-taking](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bulls-defend-rally-above-2-300-despite-rising-profit-taking-202608202130)**
 
-CoinDesk • 2d ago
+Ethereum (ETH) continued its rally on Thursday as capital gradually flowed back into the derivatives market after the recent leverage flush.
+
+FXStreet • 5h ago
+
+---
+
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 1h ago
 
 ---
 
@@ -198,23 +208,13 @@ Benzinga • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  20, 2026  (GLOBE NEWSWIRE) -- The crypto news everyone is sharing this week belongs to Pepeto (PEPETO), the DeF...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 17m ago
-
----
-
-**[Ethereum Price Forecast: ETH jumps 18%, sparks over $1 billion in liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-jumps-18-sparks-over-1-billion-in-liquidations-202608192358)**
-
-Ethereum (ETH) has gained nearly 18% on Wednesday, sparking heavy short liquidations after weeks of sideways price action.
-
-FXStreet • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ FXStreet • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -236,7 +236,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 6K • 👍 211 • 💬 50 • ⏱️ 41:59 • 6h ago
+👁️ 6K • 👍 211 • 💬 50 • ⏱️ 41:59 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Negocios TV
 
-👁️ 9K • 👍 180 • 💬 10 • ⏱️ 1:21 • 11h ago
+👁️ 9K • 👍 180 • 💬 10 • ⏱️ 1:21 • 12h ago
 
 ---
 
@@ -266,7 +266,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 119 • 💬 26 • ⏱️ 11:13 • 13h ago
+👁️ 4K • 👍 119 • 💬 26 • ⏱️ 11:13 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 67 • 💬 22 • ⏱️ 1:22:32 • 14h ago
+👁️ 2K • 👍 67 • 💬 22 • ⏱️ 1:22:32 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 318 • 👍 22 • 💬 3 • ⏱️ 5:01 • 16h ago
+👁️ 318 • 👍 22 • 💬 3 • ⏱️ 5:01 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 79K • 👍 5K • 💬 240 • ⏱️ 18:20 • 8h ago
+👁️ 79K • 👍 5K • 💬 240 • ⏱️ 18:20 • 10h ago
 
 ---
 
@@ -306,7 +306,7 @@ Where is Ethereum heading over the next six months? My short-term target for Eth
 
 📺 Crypto Archie
 
-👁️ 650 • 👍 43 • ⏱️ 0:57 • 11h ago
+👁️ 650 • 👍 43 • ⏱️ 0:57 • 12h ago
 
 ---
 
@@ -326,7 +326,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 701 • 💬 166 • ⏱️ 49:05 • 13h ago
+👁️ 8K • 👍 701 • 💬 166 • ⏱️ 49:05 • 14h ago
 
 ---
 

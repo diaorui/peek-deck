@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T01:18:15.042075+00:00'
+updated: '2026-08-21T02:44:35.873654+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 01:18 UTC  
+**Last Updated:** August 21, 2026 at 02:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,079.76
+### $74,695.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.0%  
-**7d:** +17.6%  
-**30d:** +14.0%  
-**90d:** -3.8%  
-**1y:** -36.6%  
+**24h:** +8.0%  
+**7d:** +18.5%  
+**30d:** +14.9%  
+**90d:** -3.0%  
+**1y:** -36.1%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-6h ago
+7h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -95,19 +95,19 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 … hence why the market is up, you’re welcome. Jokes aside, I am going to be a proud homeowner soon so I guess there is that. I sold during the last bull cycle as well and paid off all my student loans as well as giving myself a good chunk of change I’ve been holding onto for a down payment on a house. In all honesty I only had a small amount of what I had been stacking over the years left and I decided to sell to give myself a bit more of a liquid savings cushion. Thank you so much to BTC and to this community for enabling me to excel during such challenging global economic times. I hope this next bull run enables many of you the same way BTC has enabled me.
 
-12h ago
+14h ago
 
 ---
 
 **[This Bitcoin bear market is looking different from the others.](https://www.reddit.com/r/Bitcoin/comments/1vtjf4n/this_bitcoin_bear_market_is_looking_different/)**
 
-11h ago
+13h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -115,13 +115,13 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Another dip before we rip? Or is this it 😸
 
-15h ago
+16h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -129,19 +129,19 @@ Another dip before we rip? Or is this it 😸
 
 If you’ve never experienced a bitcoin bull market, nothing can prepare you for the sheer amount of dopamine your brain will have to contend with for such a protracted period of time, especially if you have a serious amount of money invested. The price kept going up, FOR 3 YEARS, it was insane. There were weeks when my net worth leaped up 6 figures. I walked differently, I thought differently. When I noticed a bill was a little high, or my car had been door dinged, or I needed to otherwise pay for something unexpected I laughed it off. Nothing could touch me, It was drug-like. Problems didn’t exist. My job? Fuck it. BITCOIN We made it baby. I never really had money growing up or in my twenties and early thirties. But I have money now. And no bitcoin bull market will ever hit as hard as the 23-25 run did for me ever again no matter how high the price goes. But it will for the people new to Bitcoin, to them I say, I don’t know if it will continue straight into the bull from here, but hold on to your tits coz it’s gonna be a wild ride when it does.
 
-10h ago
+11h ago
 
 ---
 
 **[I’m looking at the charts like this.](https://www.reddit.com/r/Bitcoin/comments/1vtwubr/im_looking_at_the_charts_like_this/)**
 
-3h ago
+5h ago
 
 ---
 
 **[$72K baby!!!!!](https://www.reddit.com/r/Bitcoin/comments/1vtffga/72k_baby/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -149,55 +149,39 @@ If you’ve never experienced a bitcoin bull market, nothing can prepare you for
 
 ## Google News: "bitcoin"
 
-**[Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act](https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html)**
+**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
 
-Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
+Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 12h ago
+CNBC • 21h ago
 
 ---
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
-**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
+**[Bitcoin price news: BTC tops $75,000 for first time since May](https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues)**
 
-Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
-
-CNBC • 19h ago
+CoinDesk • 45m ago
 
 ---
 
-**[Top stocks today, Aug. 20: 5 biggest gainers as Bitcoin climbs](https://sg.finance.yahoo.com/news/top-stocks-today-aug-20-002607531.html)**
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117130942480389)**
 
-The latest Bitcoin rally is minting both winners and losers on Wall Street.
+@Dannymite 5577 Views|2 Likes
 
-Yahoo Finance Singapore • 52m ago
-
----
-
-**[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
-
-Bloomberg • 9h ago
+Moomoo • 1h ago
 
 ---
 
-**[Markets News, Aug. 20, 2026: Major Indexes Slide After Snapping 3-Day Skids; Oil Prices, Treasury Yields, Bitcoin Rise; Walmart Stock Drops](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08202026-12064079)**
+**[Bitcoin Jumps to $71,500 on Trump’s ‘Sizeable’ Buy Plan. Why MSTR Is Still the Wrong Bet](https://finance.yahoo.com/markets/crypto/articles/bitcoin-jumps-71-500-trump-110033643.html)**
 
-Major U.S. stock indexes slumped on Thursday, a day after they snapped three-session losing streaks, as Walmart shares tumbled. Meanwhile, bitcoin, oil prices, and Treasury yields rose.
+Trump just signaled the U.S. government could buy Bitcoin at a "sizeable" scale, sending prices past $71,500 and Strategy shares soaring nearly 10%. But a closer look at Strategy's latest moves raises a question every crypto investor should ask before piling in.
 
-Investopedia • 5h ago
-
----
-
-**[Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden](https://bitcoinmagazine.com/news/bitcoin-price-to-rise-says-lyn-alden)**
-
-While Bitcoin may not be "out of the woods" just yet, Macro expert Lyn Alden thinks new buyers could be entering the market soon.
-
-Bitcoin Magazine • 4h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -205,19 +189,37 @@ Bitcoin Magazine • 4h ago
 
 The S&P 500 just triggered a bullish signal, barely.
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[Bitcoin's jump above $72,000 sets up bullish golden cross pattern](https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern)**
+**[Live: Bitcoin surges on US policy signals, market down on plan to 'collapse' Iran's economy](https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908)**
 
-CoinDesk • 10h ago
+The US is urging allies to join it in a bid to "collapse" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
+
+ABC News & Headlines – Australian Broadcasting Corporation • 5h ago
 
 ---
 
 **[Crypto Stocks Continue to Surge After Upbeat White House Meeting](https://www.wsj.com/finance/currencies/crypto-stocks-continue-surge-premarket-after-upbeat-white-house-meeting-d344afcd)**
 
-WSJ • 9h ago
+WSJ • 10h ago
+
+---
+
+**[Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden](https://bitcoinmagazine.com/news/bitcoin-price-to-rise-says-lyn-alden)**
+
+While Bitcoin may not be "out of the woods" just yet, Macro expert Lyn Alden thinks new buyers could be entering the market soon.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 2d ago
 
 ---
 
@@ -253,7 +255,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 3h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 5h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -261,7 +263,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 19h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 20h ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -293,7 +295,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 92 • 💬 1 • ⏱️ 12:16 • 6h ago
+👁️ 2K • 👍 92 • 💬 1 • ⏱️ 12:16 • 7h ago
 
 ---
 
@@ -303,7 +305,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 8K • 👍 342 • 💬 26 • ⏱️ 14:53 • 8h ago
+👁️ 8K • 👍 342 • 💬 26 • ⏱️ 14:53 • 9h ago
 
 ---
 
@@ -313,7 +315,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 60K • 👍 2K • 💬 157 • ⏱️ 9:45 • 13h ago
+👁️ 60K • 👍 2K • 💬 157 • ⏱️ 9:45 • 15h ago
 
 ---
 
@@ -343,7 +345,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 17K • 👍 999 • 💬 114 • ⏱️ 8:08 • 19h ago
+👁️ 17K • 👍 999 • 💬 114 • ⏱️ 8:08 • 20h ago
 
 ---
 
