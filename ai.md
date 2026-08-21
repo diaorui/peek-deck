@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T22:25:00.822940+00:00'
+updated: '2026-08-21T22:51:17.629074+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 22:25 UTC  
+**Last Updated:** August 21, 2026 at 22:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 19h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-32m ago
+58m ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a constant low hum in the background. One thing that genuinely changed how I work is using LLMs as a sounding board before I commit to any feature or a new positioning angle. Not in a promptengineery way. More like I dump my halfformed thinking into a chat, describe the problem I think customers have, and ask it to poke holes in my assumptions. It catches stuff I miss because I'm too close to it. What I keep wondering is how much of that feedback is actually useful vs. the model just patternmatching on generic startup advice it was trained on. Sometimes the response feels sharp and specific. Other times it feels like it pulled from a mediocre blog post from 2019. Curious if other founders or people building products are using AI in this prevalidation stage, or if most of the use is further downstream once the thing already exists. Also whether you trust the output at all for something this highstakes, or you treat it more like a rubber duck that occasionally says something smart. The cost of being wrong when you're bootstrapped is pretty real, so I'm trying to figure out where AI actually earns its place vs. where I'm just using it to feel productive.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 40m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 40m ago
 
 Stopping slop.
 
-The Verge • 59m ago
+The Verge • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Verge • 59m ago
 
 Toluwa Omitowoju says she had no idea she was being recorded by Meta AI glasses until friends began sending her the video, which she says reached more than 200,000 views across platforms.
 
-CBS News • 34m ago
+CBS News • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Atlantic • 1d ago
 
 Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 479 • 💬 824 • 19h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 479 • 💬 824 • 20h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -249,7 +249,7 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 205 • 💬 212 • 10h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 205 • 💬 212 • 11h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -293,7 +293,17 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 460K • 👍 7K • 💬 358 • ⏱️ 12:08 • 22h ago
+👁️ 482K • 👍 8K • 💬 454 • ⏱️ 12:08 • 23h ago
+
+---
+
+**[AI BUBBLE:  What Happens If Open AI Dies? | Ed Zitron](https://www.youtube.com/watch?v=53fso6tOSKs)**
+
+"I only have to be half right for things to work out really badly." Writer of Where's Your Ed At and host of the Better Offline podcast ...
+
+📺 The Tech Report
+
+👁️ 42K • 👍 3K • 💬 61 • ⏱️ 32:31 • 3h ago
 
 ---
 
@@ -303,37 +313,55 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 34K • 👍 2K • 💬 55 • ⏱️ 8:14 • 1d ago
+👁️ 38K • 👍 2K • 💬 71 • ⏱️ 8:14 • 1d ago
 
 ---
 
-**[Sell These 5 Most In Demand AI Automations in 2026](https://www.youtube.com/watch?v=tgjYMym_0-c)**
+**[‘MASS HYSTERIA’: Lydia Moynihan CALLS OUT backlash over AI data centers](https://www.youtube.com/watch?v=R3aVTEhYBl0)**
 
-in BONUS Hyperagent credits: https://www.hyperagent.com/nate100 My playbook for growing a $1M AI agency: ...
+New York Post financial correspondent Lydia Moynihan discusses the debate over artificial intelligence data centers as some ...
 
-📺 Nate Herk | AI Automation
+📺 Fox News Clips
 
-👁️ 14K • 👍 497 • 💬 30 • ⏱️ 10:46 • 1d ago
-
----
-
-**[Facebook AI Slop Is Ruining Lives](https://www.youtube.com/watch?v=ggYEvbwLgFA)**
-
-The worst side of the internet imaginable... Please subscribe if you havent! Almost to 400k! Reposting clips using #maxxnormann.
-
-📺 Max
-
-👁️ 169K • 👍 13K • 💬 278 • ⏱️ 23:46 • 1d ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 4:55 • 13h ago
 
 ---
 
-**[Yuval Noah Harari: AI makes it possible to mass produce intimacy | The Economist](https://www.youtube.com/watch?v=8p-6EPhKtTo)**
+**[NEW Google AI Studio Update is WILD](https://www.youtube.com/watch?v=DH0vw3KVQpA)**
 
-Yuval Noah Harari says AI has made it possible, for the first time in history, to mass-produce intimacy. Speaking to The ...
+Get the Agent OS & Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/about Want to make money and ...
 
-📺 The Economist
+📺 Julian Goldie SEO
 
-👁️ 4K • 👍 218 • ⏱️ 1:45 • 5h ago
+👁️ 6K • 👍 131 • 💬 1 • ⏱️ 7:37 • 22h ago
+
+---
+
+**[OpenAI’s New AI Just Crossed the Red Line (Critical Warning)](https://www.youtube.com/watch?v=7TGamjQahWk)**
+
+OpenAI says its upcoming Astra model may have crossed a critical cybersecurity threshold, forcing the company to slow frontier ...
+
+📺 AI Revolution
+
+👁️ 32K • 👍 825 • 💬 155 • ⏱️ 17:06 • 1d ago
+
+---
+
+**[Claude Saying “No” Could Become a Serious AI Safety Problem  - Ryan Greenblatt](https://www.youtube.com/watch?v=URHm5xCSkuY)**
+
+📺 Dwarkesh Patel
+
+👁️ 2K • 👍 107 • ⏱️ 1:22 • 1h ago
+
+---
+
+**[Choose your husband! YIKES! #viral #fyp #fun #games #ai creator: curious357](https://www.youtube.com/watch?v=foMIo8O3ynY)**
+
+Choose your husband! YIKES! #viral #fyp #fun #games #ai creator: curious357.
+
+📺 Delaney Walsh
+
+👁️ 21K • 👍 694 • 💬 10 • ⏱️ 1:01 • 19h ago
 
 ---
 
@@ -343,7 +371,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 774 • 👍 35 • 💬 4 • ⏱️ 0:58 • 3h ago
+👁️ 1K • 👍 106 • 💬 5 • ⏱️ 0:58 • 4h ago
 
 ---
 
@@ -351,37 +379,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Ben Esherick
 
-👁️ 311K • 👍 23K • 💬 163 • ⏱️ 0:37 • 1d ago
-
----
-
-**[AI Just Passed A Consciousness Test](https://www.youtube.com/watch?v=KFXTGIh6mis)**
-
-ai #joerogan Joe Rogan Experience #2541 - Thomas Campbell - explains how he taught AI's how to remote view and how they ...
-
-📺 YourWeeklyCrew
-
-👁️ 18K • 👍 330 • 💬 11 • ⏱️ 0:47 • 1d ago
-
----
-
-**[Would you date an AI Chat Bot??](https://www.youtube.com/watch?v=CpUe8vVagqU)**
-
-mentalhealth #boyfriend #dating #relationships #ai #artificialintelligence #lonelinessepidemic #conservative.
-
-📺 Sav Says
-
-👁️ 215 • 👍 10 • 💬 1 • ⏱️ 0:38 • 2h ago
-
----
-
-**[Scientists Create World First AI-Designed Virus](https://www.youtube.com/watch?v=c7yC0c1cYhE)**
-
-Scientists at Stanford have used AI models to design entirely new viruses that specifically infect bacteria. This breakthrough opens ...
-
-📺 Dr Ben Miles
-
-👁️ 2.1M • 👍 140K • 💬 5K • ⏱️ 2:31 • 2d ago
+👁️ 338K • 👍 25K • 💬 227 • ⏱️ 0:37 • 1d ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,726,651 • ❤️ 11,923 • 7d ago
+⬇️ 1,726,651 • ❤️ 11,950 • 7d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,804,917 • ❤️ 2,478 • 1d ago
+⬇️ 5,804,917 • ❤️ 2,498 • 1d ago
 
 ---
 
@@ -421,7 +419,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 797 • 13h ago
+⬇️ 18,193 • ❤️ 818 • 14h ago
 
 ---
 
@@ -433,19 +431,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 107,520 • ❤️ 738 • 1d ago
-
----
-
-**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
-
-*MiniMax*
-
-MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
-
-`text-to-audio` `2.4B`
-
-⬇️ 15,678 • ❤️ 1,155 • 7d ago
+⬇️ 107,520 • ❤️ 784 • 1d ago
 
 ---
 
@@ -457,7 +443,19 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,126,222 • ❤️ 555 • 5d ago
+⬇️ 1,126,222 • ❤️ 565 • 5d ago
+
+---
+
+**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
+
+*MiniMax*
+
+MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
+
+`text-to-audio` `2.4B`
+
+⬇️ 15,678 • ❤️ 1,162 • 7d ago
 
 ---
 
@@ -469,7 +467,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 654,175 • ❤️ 1,474 • 4d ago
+⬇️ 654,175 • ❤️ 1,485 • 4d ago
 
 ---
 
@@ -481,7 +479,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 421 • 4h ago
+⬇️ 123,956 • ❤️ 437 • 5h ago
 
 ---
 
@@ -493,7 +491,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 357,225 • ❤️ 410 • 4d ago
+⬇️ 357,225 • ❤️ 419 • 4d ago
 
 ---
 
@@ -505,7 +503,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,939,895 • ❤️ 653 • 7d ago
+⬇️ 1,939,895 • ❤️ 660 • 7d ago
 
 ---
 
@@ -535,7 +533,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 52 • 💬 6 • ⭐ 162 • 2d ago
+▲ 57 • 💬 6 • ⭐ 162 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -628,7 +626,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 228 • 💬 1 • ⭐ 54 • 2d ago
+▲ 234 • 💬 1 • ⭐ 54 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -656,9 +654,9 @@ Unified vision-language models treat understanding and generation as integrated 
 
 Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
-`Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
+`Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.6k • 🔱 1.9k • 2h ago
+⭐ 16.6k • 🔱 1.9k • 3h ago
 
 ---
 
@@ -668,7 +666,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 2h ago
+⭐ 14.0k • 🔱 1.7k • 18m ago
 
 ---
 
@@ -696,7 +694,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 8h ago
+⭐ 3.5k • 🔱 579 • 9h ago
 
 ---
 
@@ -726,7 +724,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 184 • 13h ago
+⭐ 2.2k • 🔱 184 • 14h ago
 
 ---
 
@@ -736,7 +734,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.1k • 🔱 221 • 2h ago
+⭐ 2.1k • 🔱 225 • 56s ago
 
 ---
 
@@ -746,7 +744,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 20h ago
+⭐ 2.0k • 🔱 182 • 2h ago
 
 ---
 

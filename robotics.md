@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T22:25:00.840782+00:00'
+updated: '2026-08-21T22:51:17.646917+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 22:25 UTC  
+**Last Updated:** August 21, 2026 at 22:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -78,7 +78,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -130,13 +130,13 @@ Business Insider • 13h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 9h ago
+Al Jazeera • 10h ago
 
 ---
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -150,7 +150,7 @@ WSJ • 2d ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 2h ago
+Mashable • 3h ago
 
 ---
 
@@ -188,6 +188,16 @@ Intel Newsroom • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
+
+Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
+
+📺 DPCcars
+
+👁️ 1K • 👍 12 • ⏱️ 0:28 • 5h ago
+
+---
+
 **[LIVE: Humanoid robots perform tasks at 2026 World Robot Conference in China](https://www.youtube.com/watch?v=2anAlqQ-XFE)**
 
 Watch live from the World Robot Conference in Beijing, where companies showcase the latest robots and technologies as China ...
@@ -198,13 +208,13 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 ---
 
-**[They Built a Mechanical Mouth That Can Talk 😳 | #Robotics, #Innovation, #FutureTech, AI, #TechTok](https://www.youtube.com/watch?v=0qu0rSrcnVE)**
+**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
 
-This uncanny artificial mouth can surprisingly reproduce the sound and articulation of a real human voice. This Synthetic Vocal ...
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
 
-📺 Ace Atlantis
+📺 CNET
 
-👁️ 19K • 👍 133 • 💬 1 • ⏱️ 0:05 • 8h ago
+👁️ 12K • 👍 374 • 💬 63 • ⏱️ 5:16 • 5d ago
 
 ---
 
@@ -214,37 +224,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 289K • 👍 1K • 💬 6 • ⏱️ 0:09 • 13h ago
-
----
-
-**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
-
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
-
-📺 CNET
-
-👁️ 12K • 👍 373 • 💬 63 • ⏱️ 5:16 • 5d ago
-
----
-
-**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
-
-Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
-
-📺 Unitree Robotics
-
-👁️ 2.7M • 👍 2K • 💬 434 • ⏱️ 0:31 • 4d ago
-
----
-
-**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
-
-Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
-
-📺 Dr Ben Miles
-
-👁️ 83K • 👍 9K • 💬 24 • ⏱️ 1:40 • 7h ago
+👁️ 347K • 👍 2K • 💬 6 • ⏱️ 0:09 • 13h ago
 
 ---
 
@@ -254,17 +234,47 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 82K • 👍 2K • 💬 291 • ⏱️ 1:36 • 2d ago
+👁️ 84K • 👍 2K • 💬 302 • ⏱️ 1:36 • 2d ago
 
 ---
 
-**[Unitree Superman Robot Jump and Fast Run](https://www.youtube.com/watch?v=LRoAfnQvQDA)**
+**[China&#39;s Unitree Robotics surges 630pc in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
 
-Unitree Robotics has revealed an incredible preview of its new experimental “Superman” robot, capable of reaching a claimed ...
+Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
 
-📺 DPCcars
+📺 ABC News (Australia)
 
-👁️ 29K • 👍 234 • 💬 66 • ⏱️ 1:31 • 4d ago
+👁️ 35K • 👍 355 • ⏱️ 2:24 • 2d ago
+
+---
+
+**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
+
+Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
+
+📺 Dr Ben Miles
+
+👁️ 134K • 👍 13K • 💬 29 • ⏱️ 1:40 • 7h ago
+
+---
+
+**[❄️🤖 Makkah’s Smart Cold Refreshment Robot | Future Service](https://www.youtube.com/watch?v=7sBCHV2Ynh0)**
+
+A futuristic robot brings cool refreshments directly to pilgrims in Makkah. ❄️   From safe preparation to serving multiple family ...
+
+📺 MISTER CROWN 👑
+
+👁️ 18K • 👍 917 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Can these robot arms become physical therapists? #trendingshorts #tech #ai #robotics #research](https://www.youtube.com/watch?v=ck0e-aR1qGU)**
+
+MIT engineers have developed a dual-arm robotic system that learns physical therapy techniques directly from human therapists ...
+
+📺 The Rundown AI
+
+👁️ 2K • 👍 137 • 💬 1 • ⏱️ 1:02 • 5h ago
 
 ---
 
@@ -274,17 +284,7 @@ Unitree Robotics shares surged in their Shanghai trading debut after the company
 
 📺 Bloomberg Tech
 
-👁️ 5K • 👍 80 • 💬 13 • ⏱️ 2:25 • 2d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 248K • 👍 3K • 💬 625 • ⏱️ 10:16 • 7d ago
+👁️ 5K • 👍 81 • 💬 13 • ⏱️ 2:25 • 2d ago
 
 ---
 

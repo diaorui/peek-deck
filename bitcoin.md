@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T22:25:00.831458+00:00'
+updated: '2026-08-21T22:51:17.637690+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 22:25 UTC  
+**Last Updated:** August 21, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1554.35B
+**Market Cap:** $1572.96B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-37.8%
 
 **All-Time Low:** $67.81
-+114074.9%
++115470.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-8h ago
+9h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 We’re going to the moon 🚀
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ We’re going to the moon 🚀
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-20h ago
+21h ago
 
 ---
 
@@ -179,19 +179,19 @@ WSJ • 9h ago
 
 Stocks posted weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
 
-Yahoo Finance UK • 2h ago
+Yahoo Finance UK • 3h ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 25m ago
+WSJ • 51m ago
 
 ---
 
 **[Bitcoin Tops $77,000, Enjoys Best Week Since 2024](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-nears-80-000-on-trump-support-weaker-dollar-81HE3C6FkBcljvY8IKFA)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -199,7 +199,7 @@ WSJ • 13h ago
 
 The 'Fast Money' traders talk the recent rally in bitcoin prices.
 
-CNBC • 23m ago
+CNBC • 49m ago
 
 ---
 
@@ -215,7 +215,7 @@ IO Fund • 1d ago
 
 Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -281,43 +281,43 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
-
-Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
-
-📺 Simply Bitcoin
-
-👁️ 33K • 👍 2K • 💬 49 • ⏱️ 17:33 • 1d ago
-
----
-
-**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
-
-Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
-
-📺 Benjamin Cowen
-
-👁️ 50K • 👍 2K • 💬 156 • ⏱️ 30:19 • 1d ago
-
----
-
 **[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
 
 Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 79 • ⏱️ 11:06 • 23h ago
+👁️ 44K • 👍 3K • 💬 110 • ⏱️ 11:06 • 23h ago
 
 ---
 
-**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
 
-What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
 
-📺 TechLead
+📺 The Hobbyist Miner
 
-👁️ 32K • 👍 1K • 💬 141 • ⏱️ 11:16 • 23h ago
+👁️ 2K • 👍 130 • 💬 9 • ⏱️ 18:12 • 10h ago
+
+---
+
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
+
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 2K • 💬 49 • ⏱️ 17:33 • 1d ago
+
+---
+
+**[Bitcoin BULL MARKET or BEAR TRAP? What History Says](https://www.youtube.com/watch?v=khCeYPl2K04)**
+
+FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
+
+📺 Crypto Tips
+
+👁️ 8K • 👍 645 • 💬 9 • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -327,47 +327,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 Altcoin Daily
 
-👁️ 80K • 👍 3K • 💬 158 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
-
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
-
-📺 Crypto Capital Venture
-
-👁️ 25K • 👍 1K • 💬 612 • ⏱️ 22:30 • 1d ago
-
----
-
-**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
-
-No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
-
-📺 Gareth Soloway
-
-👁️ 77K • 👍 5K • 💬 521 • ⏱️ 10:20 • 2d ago
-
----
-
-**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
-
-Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
-
-📺 CNBC Television
-
-👁️ 63K • 👍 1K • 💬 148 • ⏱️ 7:54 • 1d ago
-
----
-
-**[BITCOIN JUST SET A MASSIVE TRAP...](https://www.youtube.com/watch?v=V_14v510WXU)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 21K • 👍 1K • 💬 35 • ⏱️ 11:02 • 16h ago
+👁️ 81K • 👍 3K • 💬 160 • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -377,7 +337,45 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 458 • 💬 58 • ⏱️ 14:53 • 1d ago
+👁️ 14K • 👍 466 • 💬 60 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[$1.5 Million Bitcoin Bet - Trump Just Opened The Door](https://www.youtube.com/watch?v=Jhbfulv6eMo)**
+
+Secure Your Bitcoin With a Trezor Hardware Wallet: https://affil.trezor.io/aff_c?offer_id=137&aff_id=846511 Bitcoin is breaking out ...
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 311 • 💬 28 • ⏱️ 16:24 • 1d ago
+
+---
+
+**[Bitcoin DESPEGA… ¿Hasta dónde puede llegar?](https://www.youtube.com/watch?v=r-JlawEL2Jc)**
+
+publi: ▻​ Recibe 50€ en BTC registrandote en ByBit.eu: https://partner.bybit.eu/b/diego50 ▻ Tutorial MiCa (Markets in ...
+
+📺 Diego Puertas | Economía e Inversión
+
+👁️ 1K • 👍 214 • 💬 2 • ⏱️ 19:04 • 2h ago
+
+---
+
+**[Bitcoin Erased 3 Months of Pain in Just 72 HOURS](https://www.youtube.com/watch?v=hJTm7AzSFaE)**
+
+Bitcoin #Crypto #finance Bitcoin is pushing toward $80K after a massive 20% weekly rally, reclaiming its 200-day moving average ...
+
+📺 The Wolf Of All Streets
+
+👁️ 15K • 👍 868 • 💬 37 • ⏱️ 1:02:54 • 8h ago
+
+---
+
+**[XRP LEADS CRYPTO ALTCOIN SEASON WITH 25% PUMP!!! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=iTkfBj5D9YM)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 703 • 💬 9 • ⏱️ 2:32 • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T22:25:00.837561+00:00'
+updated: '2026-08-21T22:51:17.643736+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 22:25 UTC  
+**Last Updated:** August 21, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.89B
+**Market Cap:** $304.44B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-49.0%
 
 **All-Time Low:** $0.43
-+562098.2%
++582528.7%
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 21h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 22h ago
 
 ---
 
@@ -194,7 +194,7 @@ Ethereum Foundation Blog • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ Benzinga • 2d ago
 
 EIP-8130 proposes a universal account abstraction standard for all EVM chains, cutting transfer costs by 63% with support from Coinbase, Base,
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -234,43 +234,13 @@ Crypto Briefing • 4h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee on Ethereum Bull Run &amp; Bitmine – ETH Price Analysis, Bitcoin Warning](https://www.youtube.com/watch?v=KPjBLchxCHs)**
-
-Ethereum #ETH #Bitcoin #BTC #Crypto Is this the Ethereum crash before the next breakout? Tom Lee breaks down the brutal ...
-
-📺 Peak Productions
-
-👁️ 2K • 👍 452 • 3h ago
-
----
-
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 132 • 💬 3 • ⏱️ 7:31 • 5h ago
-
----
-
 **[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
 
 Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
 
 📺 Crypto Archie
 
-👁️ 644 • 👍 51 • ⏱️ 1:25 • 8h ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
-
-BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 353 • 💬 80 • ⏱️ 26:07 • 20h ago
+👁️ 789 • 👍 58 • ⏱️ 1:25 • 8h ago
 
 ---
 
@@ -280,17 +250,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 231 • 💬 14 • ⏱️ 20:52 • 5h ago
-
----
-
-**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
-
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 685 • 💬 48 • ⏱️ 11:56 • 1d ago
+👁️ 5K • 👍 313 • 💬 17 • ⏱️ 20:52 • 5h ago
 
 ---
 
@@ -300,7 +260,27 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 15K • 👍 358 • 💬 90 • ⏱️ 41:59 • 1d ago
+👁️ 15K • 👍 368 • 💬 74 • ⏱️ 41:59 • 1d ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
+
+BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 353 • 💬 97 • ⏱️ 26:07 • 21h ago
+
+---
+
+**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
+
+📺 Crypto Capital Venture
+
+👁️ 14K • 👍 689 • 💬 65 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -310,17 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 627 • 👍 31 • 💬 2 • ⏱️ 5:27 • 13h ago
-
----
-
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 293 • 💬 21 • ⏱️ 7:45 • 1d ago
+👁️ 726 • 👍 31 • 💬 2 • ⏱️ 5:27 • 13h ago
 
 ---
 
@@ -330,7 +300,37 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 880 • 💬 340 • ⏱️ 43:02 • 1d ago
+👁️ 13K • 👍 881 • 💬 348 • ⏱️ 43:02 • 1d ago
+
+---
+
+**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 155 • 💬 28 • ⏱️ 11:13 • 1d ago
+
+---
+
+**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
+
+In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
+
+📺 Coin Bureau Podcast
+
+👁️ 596 • 👍 21 • ⏱️ 0:43 • 5h ago
+
+---
+
+**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
+
+You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 715 • 💬 314 • ⏱️ 28:47 • 2d ago
 
 ---
 
