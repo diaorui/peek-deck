@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T11:34:01.094465+00:00'
+updated: '2026-08-21T12:47:57.339681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 11:34 UTC  
+**Last Updated:** August 21, 2026 at 12:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,711.90
+### $77,360.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.8%  
-**7d:** +21.8%  
-**30d:** +17.9%  
-**90d:** -0.4%  
-**1y:** -34.3%  
+**24h:** +7.9%  
+**7d:** +22.6%  
+**30d:** +18.8%  
+**90d:** +0.3%  
+**1y:** -33.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1562.42B
+**Market Cap:** $1552.67B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.3%
+-38.6%
 
 **All-Time Low:** $67.81
-+114695.8%
++113986.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They will buy at the price they deserve.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ They will buy at the price they deserve.
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-10h ago
+11h ago
 
 ---
 
@@ -111,31 +111,31 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-9h ago
+10h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-2h ago
+3h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-3h ago
+4h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-2h ago
+3h ago
 
 ---
 
 **[for some people this is the way](https://www.reddit.com/r/Bitcoin/comments/1vubxeb/for_some_people_this_is_the_way/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-16h ago
+17h ago
 
 ---
 
@@ -151,9 +151,9 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 ## Google News: "bitcoin"
 
-**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
+**[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-Reuters • 16h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -161,67 +161,61 @@ Reuters • 16h ago
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
-**[Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
+**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Barron's • 1h ago
-
----
-
-**[Bitcoin on track for 20% weekly gain as investor optimism floods back](https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html)**
-
-The flagship digital currency has enjoyed a strong week boosted by several contributing factors.
-
-CNBC • 3h ago
+Reuters • 17h ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117133006537109)**
+**[Watch Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism](https://www.bloomberg.com/news/videos/2026-08-20/bitcoin-roars-past-70k-as-trump-sparks-optimism-video)**
 
-@Dumb Money Space Ape 6256 Views|1 Like
-
-Moomoo • 1h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin surges over 25% as shorts get squeezed and Washington leans into crypto](https://uk.finance.yahoo.com/news/bitcoin-surges-over-25-shorts-104223472.html)**
+**[Crypto stocks head for their second day of gains as Bitcoin and other tokens rise: Will the rally keep going?](https://www.fastcompany.com/91593523/crypto-stock-prices-today-coinbase-mara-surge-as-bitcoin-shines)**
 
-Bitcoin has stormed back from a months-long downtrend, tearing through $79,500 on Friday as a wave of short covering collided with a US Treasury liquidity push and a fresh White House embrace of the crypto industry.View on euronews
+Companies including Coinbase Global, Circle Internet Group, and even mining firms like MARA have been riding a wave of fresh market enthusiasm.
 
-Yahoo Finance UK • 51m ago
-
----
-
-**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
-
-The S&P 500 just triggered a bullish signal, barely.
-
-Investor's Business Daily • 23h ago
+Fast Company • 18m ago
 
 ---
 
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+**[When Bitcoin pumps 😂](https://www.moomoo.com/community/feed/when-bitcoin-pumps-117133513129989)**
 
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+@Bitcoin Magazine 3486 Views|5 Likes
 
-VanEck • 2d ago
-
----
-
-**[MSTR Stock Leads Crypto Stocks Higher as Bitcoin Passes $71K](https://www.barchart.com/story/news/3957398/mstr-stock-leads-crypto-stocks-higher-as-bitcoin-passes-71k)**
-
-Barchart.com • 15h ago
+Moomoo • 15m ago
 
 ---
 
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
+**[Stock Market Today: Dow Futures Edges Higher; Yields Steady; Bitcoin Nears $80,000 — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
+WSJ • 36m ago
 
-BlackRock • 3d ago
+---
+
+**[Stock Market Today: Dow Futures Rebound From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
+
+Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
+
+Investor's Business Daily • 51m ago
+
+---
+
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+
+Reuters • 1h ago
+
+---
+
+**[Strategy Stock Soars. Its Bitcoin Bet Is a Winner Again.](https://www.barrons.com/articles/strategy-stock-price-bitcoin-22b17195)**
+
+Barron's • 34m ago
 
 ---
 
@@ -247,7 +241,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 3h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 4h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -263,7 +257,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 14h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 15h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -287,13 +281,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;Bitcoin JUST EXPLODED! This Pump Is Only the Beginning&quot; - Raoul Pal &amp; Lyn Alden](https://www.youtube.com/watch?v=c42fiflEf_Q)**
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 135 • 💬 2 • ⏱️ 12:16 • 16h ago
+👁️ 27K • 👍 2K • 💬 30 • ⏱️ 17:33 • 15h ago
 
 ---
 
@@ -303,57 +297,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 20K • 👍 817 • 💬 94 • ⏱️ 11:16 • 12h ago
-
----
-
-**[Clarity Act on the Clock: Bitcoin Rallies as Legislation Faces Key Deadline](https://www.youtube.com/watch?v=F_vn4AEPepM)**
-
-CharlesSchwab's Adam Lynch analyzes the surge in Bitcoin brought by rhetoric from President Trump saying he wants the Clarity ...
-
-📺 Schwab Network
-
-👁️ 5K • 👍 59 • 💬 2 • ⏱️ 6:26 • 13h ago
-
----
-
-**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
-
-Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
-
-📺 CNBC Television
-
-👁️ 25K • 👍 278 • 💬 14 • ⏱️ 4:31 • 16h ago
-
----
-
-**[BITCOIN FOOLED EVERYONE...](https://www.youtube.com/watch?v=GyRlX6kf1HU)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 18K • 👍 1K • 💬 110 • ⏱️ 8:08 • 1d ago
-
----
-
-**[BITCOIN JUST SET A MASSIVE TRAP...](https://www.youtube.com/watch?v=V_14v510WXU)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 708 • 💬 10 • ⏱️ 11:02 • 6h ago
-
----
-
-**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
-
-Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
-
-📺 CNBC Television
-
-👁️ 51K • 👍 888 • 💬 134 • ⏱️ 7:54 • 22h ago
+👁️ 25K • 👍 925 • 💬 111 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -363,7 +307,37 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 154 • ⏱️ 10:41 • 1d ago
+👁️ 75K • 👍 3K • 💬 153 • ⏱️ 10:41 • 1d ago
+
+---
+
+**[Bitcoin 🆚 Ethereum](https://www.youtube.com/watch?v=OTtly2e9fM0)**
+
+Bitcoin Ethereum: which performed better? From 2018 to 2026, two crypto giants went head-to-head across several cycles: ...
+
+📺 Mister Finance
+
+👁️ 935 • 👍 5 • ⏱️ 0:42 • 20h ago
+
+---
+
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+
+📺 The Hobbyist Miner
+
+👁️ 190 • 👍 18 • ⏱️ 18:12 • 47m ago
+
+---
+
+**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
+
+Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
+
+📺 Benjamin Cowen
+
+👁️ 48K • 👍 2K • 💬 140 • ⏱️ 30:19 • 23h ago
 
 ---
 
@@ -373,17 +347,37 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 410 • 💬 52 • ⏱️ 14:53 • 18h ago
+👁️ 13K • 👍 425 • 💬 52 • ⏱️ 14:53 • 20h ago
 
 ---
 
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
+**[UNBELIEVABLE: Rotation Of Large Scale Capital Into Bitcoin &amp; Crypto! [Trust It?]](https://www.youtube.com/watch?v=yk-N5nV3EvY)**
 
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
+Something unusual is happening across markets right now. Large-scale capital appears to be rotating out of equities and into ...
 
-📺 Crypto Capital Venture
+📺 Crypto Banter
 
-👁️ 24K • 👍 1K • 💬 600 • ⏱️ 22:30 • 1d ago
+👁️ 13K • 👍 1K • 💬 4 • ⏱️ 41:39 • 4h ago
+
+---
+
+**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+
+Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+
+📺 CNBC Television
+
+👁️ 55K • 👍 938 • 💬 135 • ⏱️ 7:54 • 23h ago
+
+---
+
+**[Bitcoin’s Rally Today Just Confirmed Everything](https://www.youtube.com/watch?v=yGg1_mD9KKo)**
+
+Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price has stabilized, and what it will take to spark the ...
+
+📺 Anthony Pompliano
+
+👁️ 59K • 👍 2K • 💬 50 • ⏱️ 24:22 • 1d ago
 
 ---
 

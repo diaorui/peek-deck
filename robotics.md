@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T11:34:01.103783+00:00'
+updated: '2026-08-21T12:47:57.345012+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 11:34 UTC  
+**Last Updated:** August 21, 2026 at 12:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-18h ago
+19h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 22h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 16h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 17h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 15h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 17h ago
 
 ---
 
@@ -114,6 +114,14 @@ I just finish putting up our Autonomous Lamp. A 3D-printed desk arm that moves a
 
 ## Google News: "robotics"
 
+**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
+
+FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
+
+Ars Technica • 14h ago
+
+---
+
 **[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
 
 Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
@@ -122,25 +130,17 @@ CNBC • 1d ago
 
 ---
 
-**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
+**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
 
-New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
+Humanoid crashes during speed test as China’s robotics industry grows
 
-Intel Newsroom • 22h ago
+Al Jazeera • 22m ago
 
 ---
 
-**[ACE Robotics CEO says robot brains will have 'ChatGPT moment' by end of 2027](https://www.reuters.com/technology/ace-robotics-ceo-says-robot-brains-will-have-chatgpt-moment-by-end-2027-2026-08-21/)**
+**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://www.reuters.com/technology/ace-robotics-ceo-says-robot-brains-will-have-chatgpt-moment-by-end-2027-2026-08-21/)**
 
 Reuters • 1h ago
-
----
-
-**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
-
-FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
-
-Ars Technica • 13h ago
 
 ---
 
@@ -152,11 +152,9 @@ KEYE • 1d ago
 
 ---
 
-**[Unitree Robotics stock soars 460% in Shanghai IPO debut](https://finance.yahoo.com/markets/stocks/articles/unitree-robotics-stock-soars-460-111514463.html)**
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
 
-The Hangzhou-based humanoid robot maker closed at 845 yuan on Wednesday, giving it a market value of around $50 billion
-
-Yahoo Finance • 2d ago
+WSJ • 2d ago
 
 ---
 
@@ -176,11 +174,11 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
-**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+**[Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics](https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/)**
 
-Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+Druckenmiller has never had a down year in all his years as a professional investor.
 
-Business Insider • 2h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -196,101 +194,101 @@ LiveNOW from FOX • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
 
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
 
-📺 Associated Press
+📺 AI Revolution
 
-👁️ 5K • 👍 35 • 💬 7 • ⏱️ 0:54 • 1d ago
-
----
-
-**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
-
-Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
-
-📺 Unitree Robotics
-
-👁️ 2.1M • 👍 2K • 💬 427 • ⏱️ 0:31 • 4d ago
+👁️ 35K • 👍 834 • 💬 97 • ⏱️ 14:10 • 2d ago
 
 ---
 
-**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
+**[Honor’s Robot Phone is here](https://www.youtube.com/watch?v=ZKTenyFHMXc)**
 
-Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
+Honor's Robot Phone is here and it's more gimbal than robot. Still, it's a pretty cool idea. The full gimbal arm stays tucked inside ...
 
-📺 ABC News
+📺 The Verge
 
-👁️ 74K • 👍 2K • 💬 278 • ⏱️ 1:36 • 1d ago
-
----
-
-**[Robotics and AI converging to revolutionise industries: ABB Robotics](https://www.youtube.com/watch?v=YebvAl6t4_s)**
-
-Marc Segura, the President of ABB Robotics, tells CNBC's Ritika Gupta that industrial robotics is entering a new era as machine ...
-
-📺 CNBC International Live
-
-👁️ 4K • 👍 73 • 💬 4 • ⏱️ 7:24 • 1d ago
+👁️ 34K • 👍 871 • 💬 29 • ⏱️ 2:33 • 6d ago
 
 ---
 
-**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
+**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
 
-China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
+The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
 
-📺 Techie Sapien
+📺 Custom Adventurist
 
-👁️ 1K • ⏱️ 0:09 • 2h ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 246K • 👍 3K • 💬 627 • ⏱️ 10:16 • 6d ago
+👁️ 1.2M • 👍 62K • 💬 498 • ⏱️ 1:04 • 3d ago
 
 ---
 
-**[Riding heavy-load robotic horse at World Robot Conference](https://www.youtube.com/watch?v=aAo_6CI4rx8)**
+**[Unitree&#39;s new humanoid robot just claimed a speed Usain Bolt never hit](https://www.youtube.com/watch?v=kuAqfg-Tp7s)**
 
-An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at the 2026 World Robot Conference in Beijing.
+Unitree has released a video of its newest humanoid robot claiming a top speed of 12.66 metres per second and a two metre ...
 
-📺 New China TV
+📺 Interesting Engineering Explains
 
-👁️ 10K • 👍 83 • 💬 2 • ⏱️ 0:19 • 1d ago
-
----
-
-**[🍎🤖 Makkah’s Robotic Family Fruit Service | Smart Hospitality](https://www.youtube.com/watch?v=uJhkqEixigY)**
-
-A cute futuristic robot brings fresh fruit service to an entire family in Makkah. From preparing the fruit to serving each family ...
-
-📺 MISTER CROWN 👑
-
-👁️ 274K • 👍 9K • 💬 3 • ⏱️ 0:11 • 20h ago
+👁️ 20K • 👍 644 • 💬 95 • ⏱️ 1:51 • 3d ago
 
 ---
 
-**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
+**[This Robot is Turning Beach Garbage into a Profitable Cleaning Business l #shorts #usa #usabeach #us](https://www.youtube.com/watch?v=KwXtOglEMSA)**
 
-Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
+This robot is turning beach garbage into a profitable cleaning business. 🏖️     Instead of sending workers across the sand with ...
 
-📺 Inside China Business
+📺 Learn Earn
 
-👁️ 51K • 👍 4K • 💬 561 • ⏱️ 8:40 • 3d ago
+👁️ 388K • 👍 5K • 💬 107 • ⏱️ 0:16 • 1d ago
 
 ---
 
-**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
 
-📺 Prasadtechshorts
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
 
-👁️ 128K • 👍 6K • 💬 57 • ⏱️ 1:28 • 2d ago
+📺 CNET
+
+👁️ 12K • 👍 370 • 💬 63 • ⏱️ 5:16 • 5d ago
+
+---
+
+**[Top 10 HOME ROBOTS for 2026 #shorts #home](https://www.youtube.com/watch?v=CGcxwvB4XLg)**
+
+10 unique home robots to help improve productivity and save you time! Let me know which is your favorite Linked all products ...
+
+📺 Justice Buys
+
+👁️ 336K • 👍 13K • 💬 156 • ⏱️ 1:05 • 3d ago
+
+---
+
+**[🚨 How it feels to be a beacon runner #warrobots #warrobotsmemes](https://www.youtube.com/watch?v=naGaeGgo8tk)**
+
+📺 War Robots [WR]
+
+👁️ 88K • 👍 2K • 💬 105 • ⏱️ 0:13 • 3d ago
+
+---
+
+**[Mova just made the best robot vacuum and mop of 2026! #mova70ultracomplete #ads #bestrobotvacuum2026](https://www.youtube.com/watch?v=VTivWM_lDsY)**
+
+Extra Discount: StuffV70 = $20 Off (Aug 19 - Sep 19) ⚡Exclusive Launch Offer: $200 OFF the MOVA V70 Ultra Complete for a ...
+
+📺 Stuff You Actually Need
+
+👁️ 27K • 👍 851 • 💬 5 • ⏱️ 0:38 • 1d ago
+
+---
+
+**[Robot Boxing Showdown Thrills Audience At 2026 World Robot Conference In Beijing](https://www.youtube.com/watch?v=se4An-6xmbA)**
+
+Humanoid robots took to the boxing ring at the 2026 World Robot Conference in Beijing, drawing crowds with a striking ...
+
+📺 The Daily Guardian
+
+👁️ 465 • 👍 8 • ⏱️ 1:12 • 2h ago
 
 ---
 

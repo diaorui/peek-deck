@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T11:34:01.100601+00:00'
+updated: '2026-08-21T12:47:57.343196+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 11:34 UTC  
+**Last Updated:** August 21, 2026 at 12:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,387.14
+### $2,374.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** +25.8%  
-**30d:** +26.1%  
-**90d:** +12.8%  
-**1y:** -51.0%  
+**24h:** +5.2%  
+**7d:** +27.1%  
+**30d:** +27.4%  
+**90d:** +14.0%  
+**1y:** -50.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.97B
+**Market Cap:** $288.70B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
@@ -62,7 +62,7 @@ No max supply
 -51.6%
 
 **All-Time Low:** $0.43
-+552915.3%
++552384.1%
 
 ---
 
@@ -152,77 +152,79 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
-**[Ethereum’s 29% Price Rally Divides Whales Across the Market](https://finance.yahoo.com/markets/crypto/articles/ethereum-29-price-rally-divides-094119362.html)**
+**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://finance.yahoo.com/markets/crypto/articles/ethereum-etf-pulls-221m-eth-104122286.html)**
 
-Ethereum price jumped 29% to a 4-month high near $2,430 as ETF inflows peaked and whales split on direction.
+Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
-
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
-
-Yahoo Finance • 18h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Current price of Ethereum for August 19, 2026](https://fortune.com/article/price-of-ethereum-08-19-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
-
----
-
-**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
+**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://finance.yahoo.com/markets/crypto/articles/institutional-investor-thinks-ethereum-outperform-103500626.html)**
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 41m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
+**[Current price of Ethereum for Aug. 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
 
-Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fidelity Investments • 3d ago
-
----
-
-**[Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300](https://bitcoinfoundation.org/news/analysis/why-is-crypto-up-today-bitcoin-hits-71k-as-ethereum-surges-past-2300/)**
-
-Find out why Bitcoin and Ethereum have surged today and whether we are seeing a crypto rally comeback
-
-Bitcoin Foundation • 23h ago
+Fortune • 17m ago
 
 ---
 
-**[🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: $Ethereum (ETH.CC)$ hits $2,400 and is now up +26% in just 3 days.](https://www.moomoo.com/community/feed/ethereum-eth-cc-hits-2-400-and-is-now-up-117132805406725)**
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
 
-@DustyBC Crypto 3525 Views
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-Moomoo • 2h ago
-
----
-
-**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
-
-CoinDesk • 2d ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
 
-Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-Yahoo Finance • 19h ago
+MarketForces Africa • 1d ago
+
+---
+
+**[Ethereum's Target Is $4,000 or $10,000, Says Trader Who Predicted The Breakout](https://www.tradingview.com/news/benzinga:1fb52c8db094b:0-ethereum-s-target-is-4-000-or-10-000-says-trader-who-predicted-the-breakout/)**
+
+Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
+
+TradingView • 20h ago
+
+---
+
+**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
+
+better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+
+Ethereum Foundation Blog • 19h ago
+
+---
+
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 11h ago
+
+---
+
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+
+Which of these altcoins has a better shot at a comeback?
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -230,23 +232,23 @@ Yahoo Finance • 19h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🤩 When Ethereum Moves, Altcoins Follow](https://www.youtube.com/watch?v=d6WmeWCmk-4)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 197 • 👍 26 • 💬 1 • ⏱️ 9:19 • 31m ago
+
+---
+
 **[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
 
 Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 603 • 💬 18 • ⏱️ 11:56 • 14h ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
-
-BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 291 • 💬 31 • ⏱️ 26:07 • 9h ago
+👁️ 12K • 👍 644 • 💬 20 • ⏱️ 11:56 • 15h ago
 
 ---
 
@@ -256,7 +258,17 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 283 • 💬 19 • ⏱️ 7:45 • 21h ago
+👁️ 8K • 👍 285 • 💬 20 • ⏱️ 7:45 • 23h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
+
+BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 323 • 💬 42 • ⏱️ 26:07 • 11h ago
 
 ---
 
@@ -266,7 +278,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 11K • 👍 307 • 💬 58 • ⏱️ 41:59 • 16h ago
+👁️ 13K • 👍 333 • 💬 57 • ⏱️ 41:59 • 17h ago
 
 ---
 
@@ -276,17 +288,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 877 • 💬 329 • ⏱️ 43:02 • 1d ago
-
----
-
-**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 229 • 💬 32 • ⏱️ 16:48 • 2d ago
+👁️ 13K • 👍 877 • 💬 330 • ⏱️ 43:02 • 1d ago
 
 ---
 
@@ -296,17 +298,27 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 137 • 💬 26 • ⏱️ 11:13 • 23h ago
+👁️ 5K • 👍 142 • 💬 25 • ⏱️ 11:13 • 1d ago
 
 ---
 
-**[CRYPTO LIVE - THE ETHEREUM BREAKOUT](https://www.youtube.com/watch?v=BREmL2qYfYM)**
+**[Matt Hougan :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; | (Prepare Now)](https://www.youtube.com/watch?v=Ct6D1VThtf4)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Jordan Camirand
+📺 Crypto Nutshell
 
-👁️ 8K • 👍 715 • 💬 167 • ⏱️ 49:05 • 23h ago
+👁️ 8K • 👍 230 • 💬 37 • ⏱️ 16:48 • 2d ago
+
+---
+
+**[ETH is ripping. Office is empty.📈📈📈 #ethereum](https://www.youtube.com/watch?v=GpsRhmNXjF0)**
+
+Payroll can't compete with a green candle. Half the team's "working from home." Sure they are. Subscribe ...
+
+📺 Owen Morton
+
+👁️ 822 • 👍 14 • ⏱️ 0:18 • 2h ago
 
 ---
 
@@ -316,17 +328,7 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 104K • 👍 7K • 💬 279 • ⏱️ 18:20 • 19h ago
-
----
-
-**[Ethereum Has an Issuance Problem](https://www.youtube.com/watch?v=mUEEFxN2_DY)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum may be paying too ...
-
-📺 Bankless
-
-👁️ 2K • 👍 79 • 💬 20 • ⏱️ 1:22:32 • 1d ago
+👁️ 127K • 👍 8K • 💬 303 • ⏱️ 18:20 • 20h ago
 
 ---
 
