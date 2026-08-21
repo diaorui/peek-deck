@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T19:48:15.374614+00:00'
+updated: '2026-08-21T20:25:43.831604+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 19:48 UTC  
+**Last Updated:** August 21, 2026 at 20:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1552.92B
+**Market Cap:** $1554.35B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -38.6%
 
 **All-Time Low:** $67.81
-+113992.3%
++114074.9%
 
 ---
 
@@ -85,31 +85,31 @@ Rank #1
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-10h ago
+11h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-10h ago
+11h ago
 
 ---
 
 **[So wonderful 😁](https://www.reddit.com/r/Bitcoin/comments/1vua8qp/so_wonderful/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 8h ago
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 53m ago
+WSJ • 1h ago
 
 ---
 
@@ -171,25 +171,25 @@ Seeking Alpha • 1h ago
 
 Cosmo Jiang, portfolio manager at Pantera Capital, joins 'The Exchange' to discuss what to expect regarding cryptocurrency prices, the key support levels and much more.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight](https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 1h ago
 
 Spot Bitcoin ETFs drew $606 million on August 20, following a BTC price rally; the biggest daily inflow since May 1.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ WSJ • 11h ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -237,7 +237,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 11h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 12h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -283,87 +283,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 36 • ⏱️ 17:33 • 22h ago
-
----
-
-**[UNBELIEVABLE: Rotation Of Large Scale Capital Into Bitcoin &amp; Crypto! [Trust It?]](https://www.youtube.com/watch?v=yk-N5nV3EvY)**
-
-Something unusual is happening across markets right now. Large-scale capital appears to be rotating out of equities and into ...
-
-📺 Crypto Banter
-
-👁️ 19K • 👍 1K • 💬 5 • ⏱️ 41:39 • 11h ago
-
----
-
-**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
-
-What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
-
-📺 TechLead
-
-👁️ 30K • 👍 1K • 💬 127 • ⏱️ 11:16 • 20h ago
-
----
-
-**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
-
-Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
-
-📺 CNBC Television
-
-👁️ 33K • 👍 332 • 💬 19 • ⏱️ 4:31 • 1d ago
-
----
-
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 78K • 👍 3K • 💬 152 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
-
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
-
-📺 Crypto Capital Venture
-
-👁️ 25K • 👍 1K • 💬 609 • ⏱️ 22:30 • 1d ago
-
----
-
-**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
-
-Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 452 • 💬 53 • ⏱️ 14:53 • 1d ago
-
----
-
-**[🚨BITCOIN EXPLODES TO $72K! (ALTCOIN SEASON IS HERE)](https://www.youtube.com/watch?v=QqS_aDfbaXA)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 354 • 💬 14 • ⏱️ 1:04:48 • 1d ago
-
----
-
-**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
-
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
-
-📺 The Hobbyist Miner
-
-👁️ 1K • 👍 102 • 💬 8 • ⏱️ 18:12 • 7h ago
+👁️ 33K • 👍 2K • 💬 49 • ⏱️ 17:33 • 22h ago
 
 ---
 
@@ -373,7 +293,87 @@ Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - To
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 2K • 💬 140 • ⏱️ 30:19 • 1d ago
+👁️ 50K • 👍 2K • 💬 156 • ⏱️ 30:19 • 1d ago
+
+---
+
+**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
+
+Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 3K • 💬 79 • ⏱️ 11:06 • 21h ago
+
+---
+
+**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
+
+What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
+
+📺 TechLead
+
+👁️ 32K • 👍 1K • 💬 141 • ⏱️ 11:16 • 21h ago
+
+---
+
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 80K • 👍 3K • 💬 158 • ⏱️ 10:41 • 1d ago
+
+---
+
+**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
+
+Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
+
+📺 Crypto Capital Venture
+
+👁️ 25K • 👍 1K • 💬 612 • ⏱️ 22:30 • 1d ago
+
+---
+
+**[Bitcoin Rips: My $5M Crypto Call Just Hit](https://www.youtube.com/watch?v=sbqVdGiWznI)**
+
+No B.S. Just Charts. Bitcoin is ripping, and Gareth Soloway called it. A couple days ago he showed the chart and told viewers he ...
+
+📺 Gareth Soloway
+
+👁️ 77K • 👍 5K • 💬 521 • ⏱️ 10:20 • 2d ago
+
+---
+
+**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+
+Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+
+📺 CNBC Television
+
+👁️ 63K • 👍 1K • 💬 148 • ⏱️ 7:54 • 1d ago
+
+---
+
+**[BITCOIN JUST SET A MASSIVE TRAP...](https://www.youtube.com/watch?v=V_14v510WXU)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 21K • 👍 1K • 💬 35 • ⏱️ 11:02 • 14h ago
+
+---
+
+**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
+
+Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
+
+📺 Yahoo Finance
+
+👁️ 14K • 👍 458 • 💬 58 • ⏱️ 14:53 • 1d ago
 
 ---
 

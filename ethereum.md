@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T19:48:15.378243+00:00'
+updated: '2026-08-21T20:25:43.837741+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 19:48 UTC  
+**Last Updated:** August 21, 2026 at 20:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.47B
+**Market Cap:** $293.89B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.0%
+-50.8%
 
 **All-Time Low:** $0.43
-+559444.5%
++562098.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 1h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 2h ago
 
 ---
 
@@ -134,7 +134,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 **[If private permissioned blockchains work well for tokenization and other things what is the need for ETHEREUM?](https://www.reddit.com/r/ethereum/comments/1vsxmvu/if_private_permissioned_blockchains_work_well_for/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -210,7 +210,7 @@ Fortune • 7h ago
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -218,13 +218,13 @@ CryptoSlate • 18h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
 **[Tom Lee Spots ‘Good Sign’ as Ethereum ETFs Buy $189M in Biggest Day for 10 Months](https://www.ccn.com/news/crypto/ethereum-etfs-189m-biggest-10-months-tom-lee-sign/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -232,13 +232,23 @@ CCN.com • 4h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee on Ethereum Bull Run &amp; Bitmine – ETH Price Analysis, Bitcoin Warning](https://www.youtube.com/watch?v=KPjBLchxCHs)**
+
+Ethereum #ETH #Bitcoin #BTC #Crypto Is this the Ethereum crash before the next breakout? Tom Lee breaks down the brutal ...
+
+📺 Peak Productions
+
+👁️ 2K • 👍 452 • 1h ago
+
+---
+
 **[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
 
 In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
 📺 More Crypto Online
 
-👁️ 615 • 👍 76 • 💬 1 • ⏱️ 7:31 • 3h ago
+👁️ 1K • 👍 132 • 💬 3 • ⏱️ 7:31 • 3h ago
 
 ---
 
@@ -248,27 +258,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 426 • 👍 42 • ⏱️ 1:25 • 5h ago
-
----
-
-**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
-
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 682 • 💬 27 • ⏱️ 11:56 • 22h ago
-
----
-
-**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 14K • 👍 348 • 💬 62 • ⏱️ 41:59 • 1d ago
+👁️ 644 • 👍 51 • ⏱️ 1:25 • 6h ago
 
 ---
 
@@ -278,7 +268,37 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 353 • 💬 69 • ⏱️ 26:07 • 18h ago
+👁️ 10K • 👍 353 • 💬 80 • ⏱️ 26:07 • 18h ago
+
+---
+
+**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
+
+BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 231 • 💬 14 • ⏱️ 20:52 • 3h ago
+
+---
+
+**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
+
+📺 Crypto Capital Venture
+
+👁️ 14K • 👍 685 • 💬 48 • ⏱️ 11:56 • 23h ago
+
+---
+
+**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
+
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
+
+📺 Milk Road
+
+👁️ 15K • 👍 358 • 💬 90 • ⏱️ 41:59 • 1d ago
 
 ---
 
@@ -288,7 +308,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 513 • 👍 31 • 💬 1 • ⏱️ 5:27 • 10h ago
+👁️ 627 • 👍 31 • 💬 2 • ⏱️ 5:27 • 11h ago
+
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 293 • 💬 21 • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -298,37 +328,7 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 13K • 👍 880 • 💬 333 • ⏱️ 43:02 • 1d ago
-
----
-
-**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 149 • 💬 25 • ⏱️ 11:13 • 1d ago
-
----
-
-**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
-
-You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 712 • 💬 312 • ⏱️ 28:47 • 2d ago
-
----
-
-**[ALTs are FALLING, BTC &amp; ETH are Barely Holding On!](https://www.youtube.com/watch?v=hVT4kkh1lks)**
-
-Bitcoin is the lead market signal I'm watching while BTC tests its current structure, nearby support, and the levels that would ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 9K • 👍 537 • 💬 210 • ⏱️ 58:07 • 2d ago
+👁️ 13K • 👍 880 • 💬 340 • ⏱️ 43:02 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T19:48:15.380060+00:00'
+updated: '2026-08-21T20:25:43.840958+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 19:48 UTC  
+**Last Updated:** August 21, 2026 at 20:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 9h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 10h ago
 
 ---
 
@@ -44,13 +44,27 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-9h ago
+10h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-20h ago
+21h ago
+
+---
+
+**[ROS News for the Week of August 17th, 2026](https://www.reddit.com/r/robotics/comments/1vuqsi0/ros_news_for_the_week_of_august_17th_2026/)**
+
+ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 31m ago
+
+---
+
+**[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
+
+41m ago
 
 ---
 
@@ -64,7 +78,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +86,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swept a 20×20 grid of floor friction against lateral push, 16 trials per cell, using Kaplan-Meier survival per condition since trials that survive the window have to be censored rather than counted as failures. Things interesting to us: the boundary is not a line but a band. The 95% bootstrap interval is about ±4% of bodyweight on high friction and ±33% on ice, a 7× spread. below μ≈0.15 the policy falls before the push lands. That's gait collapse, a different failure mode from being knocked over. the same seed on the same GPU can produce different outcomes (floating-point reduction order), so a few knife-edge survivors can't be re-simulated at all. We then changed the two conditions the map showed training never covered, retrained for 12 minutes, and re-ran the identical sweep: 60 of 400 conditions significantly safer (Fisher exact + BH-FDR, q<0.05), none significantly worse. Write-up with the interactive map: https://poissonlabs.ai/research/map-the-failure-boundary/. Happy to answer questions about the harness validation/statistics.
 
-16h ago
+17h ago
 
 ---
 
@@ -92,22 +106,6 @@ KAIST’s HOUND quadruped uses reinforcement learning to decide how to move base
 
 ---
 
-**[kinetic force feedback gloves and using other extra sensors to add layers for teleops and/or collection](https://www.reddit.com/r/robotics/comments/1vtttrx/kinetic_force_feedback_gloves_and_using_other/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 1d ago
-
----
-
-**[DIY 6-DOF Robot Control & 3D Visualization with Node-RED + Three.js](https://www.reddit.com/r/robotics/comments/1vtla20/diy_6dof_robot_control_3d_visualization_with/)**
-
-I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,7 +114,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 21h ago
+Ars Technica • 22h ago
 
 ---
 
@@ -128,7 +126,7 @@ WSJ • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -150,7 +148,7 @@ Reuters • 2d ago
 
 Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -166,7 +164,7 @@ KEYE • 1d ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 1h ago
+Mashable • 2h ago
 
 ---
 
@@ -174,7 +172,7 @@ Mashable • 1h ago
 
 Druckenmiller has never had a down year in all his years as a professional investor.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -196,7 +194,17 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 📺 Associated Press
 
-👁️ 10K • 👍 183 • 💬 5 • ⏱️ 34:12 • 1d ago
+👁️ 10K • 👍 184 • 💬 5 • ⏱️ 34:12 • 1d ago
+
+---
+
+**[They Built a Mechanical Mouth That Can Talk 😳 | #Robotics, #Innovation, #FutureTech, AI, #TechTok](https://www.youtube.com/watch?v=0qu0rSrcnVE)**
+
+This uncanny artificial mouth can surprisingly reproduce the sound and articulation of a real human voice. This Synthetic Vocal ...
+
+📺 Ace Atlantis
+
+👁️ 19K • 👍 133 • 💬 1 • ⏱️ 0:05 • 6h ago
 
 ---
 
@@ -206,7 +214,17 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 227K • 👍 1K • 💬 6 • ⏱️ 0:09 • 10h ago
+👁️ 289K • 👍 1K • 💬 6 • ⏱️ 0:09 • 11h ago
+
+---
+
+**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 12K • 👍 373 • 💬 63 • ⏱️ 5:16 • 5d ago
 
 ---
 
@@ -216,17 +234,7 @@ Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the s
 
 📺 Unitree Robotics
 
-👁️ 2.4M • 👍 2K • 💬 433 • ⏱️ 0:31 • 4d ago
-
----
-
-**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
-
-Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
-
-📺 ABC News
-
-👁️ 80K • 👍 2K • 💬 285 • ⏱️ 1:36 • 2d ago
+👁️ 2.7M • 👍 2K • 💬 434 • ⏱️ 0:31 • 4d ago
 
 ---
 
@@ -236,17 +244,27 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 41K • 👍 5K • 💬 13 • ⏱️ 1:40 • 4h ago
+👁️ 83K • 👍 9K • 💬 24 • ⏱️ 1:40 • 5h ago
 
 ---
 
-**[❄️🤖 Makkah’s Smart Cold Refreshment Robot | Future Service](https://www.youtube.com/watch?v=7sBCHV2Ynh0)**
+**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
 
-A futuristic robot brings cool refreshments directly to pilgrims in Makkah. ❄️   From safe preparation to serving multiple family ...
+Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
 
-📺 MISTER CROWN 👑
+📺 ABC News
 
-👁️ 10K • 👍 891 • ⏱️ 0:11 • 1d ago
+👁️ 82K • 👍 2K • 💬 291 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[Unitree Superman Robot Jump and Fast Run](https://www.youtube.com/watch?v=LRoAfnQvQDA)**
+
+Unitree Robotics has revealed an incredible preview of its new experimental “Superman” robot, capable of reaching a claimed ...
+
+📺 DPCcars
+
+👁️ 29K • 👍 234 • 💬 66 • ⏱️ 1:31 • 4d ago
 
 ---
 
@@ -256,7 +274,7 @@ Unitree Robotics shares surged in their Shanghai trading debut after the company
 
 📺 Bloomberg Tech
 
-👁️ 5K • 👍 79 • 💬 13 • ⏱️ 2:25 • 2d ago
+👁️ 5K • 👍 80 • 💬 13 • ⏱️ 2:25 • 2d ago
 
 ---
 
@@ -266,25 +284,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 247K • 👍 3K • 💬 627 • ⏱️ 10:16 • 6d ago
-
----
-
-**[Can these robot arms become physical therapists? #trendingshorts #tech #ai #robotics #research](https://www.youtube.com/watch?v=ck0e-aR1qGU)**
-
-MIT engineers have developed a dual-arm robotic system that learns physical therapy techniques directly from human therapists ...
-
-📺 The Rundown AI
-
-👁️ 662 • 👍 40 • ⏱️ 1:02 • 2h ago
-
----
-
-**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
-
-📺 Prasadtechshorts
-
-👁️ 134K • 👍 6K • 💬 58 • ⏱️ 1:28 • 2d ago
+👁️ 248K • 👍 3K • 💬 625 • ⏱️ 10:16 • 6d ago
 
 ---
 
