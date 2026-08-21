@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T21:49:35.334063+00:00'
+updated: '2026-08-21T22:25:00.822940+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 21:49 UTC  
+**Last Updated:** August 21, 2026 at 22:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 ---
 
+**[Are we losing the incentive to be creative? The "AI did it" assumption.](https://www.reddit.com/r/artificial/comments/1vuttop/are_we_losing_the_incentive_to_be_creative_the_ai/)**
+
+I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
+
+32m ago
+
+---
+
 **[using ai to stress-test ideas before building, is it actually useful or just expensive pattern matching?](https://www.reddit.com/r/artificial/comments/1vursep/using_ai_to_stresstest_ideas_before_building_is/)**
 
 Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a constant low hum in the background. One thing that genuinely changed how I work is using LLMs as a sounding board before I commit to any feature or a new positioning angle. Not in a promptengineery way. More like I dump my halfformed thinking into a chat, describe the problem I think customers have, and ask it to poke holes in my assumptions. It catches stuff I miss because I'm too close to it. What I keep wondering is how much of that feedback is actually useful vs. the model just patternmatching on generic startup advice it was trained on. Sometimes the response feels sharp and specific. Other times it feels like it pulled from a mediocre blog post from 2019. Curious if other founders or people building products are using AI in this prevalidation stage, or if most of the use is further downstream once the thing already exists. Also whether you trust the output at all for something this highstakes, or you treat it more like a rubber duck that occasionally says something smart. The cost of being wrong when you're bootstrapped is pretty real, so I'm trying to figure out where AI actually earns its place vs. where I'm just using it to feel productive.
 
 1h ago
+
+---
+
+**[OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model](https://www.reddit.com/r/artificial/comments/1vuqtt1/openaibacked_legal_tech_firm_pivots_to_chinese/)**
+
+San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.
+
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 2h ago
 
 ---
 
@@ -65,13 +81,21 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 Adding a vector database is usually the first move when output quality drops on a knowledge-heavy task. It's rarely the right one. Most quality problems in that category aren't retrieval failures, they're curation failures wearing a retrieval-shaped disguise. The model isn't underinformed. It's drowning in loosely relevant material with nothing telling it what to weigh more heavily, and RAG just automates feeding it more of exactly that. The tell is what happens after teams add retrieval and the problem doesn't fully go away, just shifts shape. Answers get more grounded in the sense that facts are technically present in context, but they get vaguer in the sense that matters, the model still can't tell which of the five retrieved chunks is actually load-bearing for this specific question. Retrieval expanded the pool of correct information without ever solving the part where the model has to decide what to do with it. That's not a retrieval problem. That's the same context-structuring problem RAG was supposed to fix, just relocated one layer downstream. Where RAG earns its complexity is genuinely large, frequently changing corpora where you can't fit the relevant slice into context even after aggressive curation, legal discovery, large codebases, that kind of thing. For a lot of internal tools and product features, the actual fix is smaller and less interesting than a vector database: cut the source material down to what's structurally relevant to the task before it ever reaches the model, and be more deliberate about what "relevant" means for that specific request. Teams skip that step because it requires someone to actually think about the data, and reach for retrieval infrastructure instead because it's a known pattern with existing tooling. Not claiming RAG is never the right call. Claiming it's reached for by default in cases where the actual bottleneck is upstream of retrieval entirely. If someone's shipped a case where RAG measurably fixed a quality problem that better context curation alone couldn't have, genuinely interested in what that looked like.
 
-4h ago
+5h ago
 
 ---
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 8h ago
+
+---
+
+**[AI compute financing just tripled in ten weeks - the mechanism behind the reported $100B Broadcom deal](https://www.reddit.com/r/artificial/comments/1vug3gk/ai_compute_financing_just_tripled_in_ten_weeks/)**
+
+Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
+
+9h ago
 
 ---
 
@@ -87,31 +111,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 GitHub says its new Microsoft Teams integration can turn a channel, thread, or direct message into a shared Copilot cloud-agent session. Anyone in the conversation can ask questions, add context, and steer the work. People with repository write access can let Copilot make changes. The session runs in a secure cloud sandbox, and teams can continue with the agent-generated artifacts in the terminal, the Copilot app, or an IDE. Repository admins can also require an extra approval before pull requests from the Teams integration identity can merge. The useful part is not another chat box. It is a shared work log with a human merge gate. Source: https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/
 
-1h ago
-
----
-
-**[OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model](https://www.reddit.com/r/artificial/comments/1vuqtt1/openaibacked_legal_tech_firm_pivots_to_chinese/)**
-
-San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.
-
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 1h ago
-
----
-
-**[Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?](https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/)**
-
-Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
-
-13h ago
-
----
-
-**[AI compute financing just tripled in ten weeks - the mechanism behind the reported $100B Broadcom deal](https://www.reddit.com/r/artificial/comments/1vug3gk/ai_compute_financing_just_tripled_in_ten_weeks/)**
-
-Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
-
-8h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Ars Technica • 10h ago
+Ars Technica • 11h ago
 
 ---
 
@@ -133,27 +133,27 @@ The New York Times • 1d ago
 
 ---
 
-**[Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)**
+**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
 
-Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
+Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-TechCrunch • 2h ago
-
----
-
-**[Dearborn terrorist wannabe used AI to plot Halloween attack, feds say](https://www.detroitnews.com/story/news/local/wayne-county/2026/08/21/dearborn-man-ayob-nasser-ai-plot-halloween-attack-feds-say/91302011007/)**
-
-Prosecutors cited ChatGPT searches while portraying Ayob Nasser as a dangerous man who should be jailed while awaiting a high-profile terror trial.
-
-The Detroit News • 1h ago
+CNBC • 40m ago
 
 ---
 
-**[How Uber Uses AI to Charge You More](https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8)**
+**[Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)**
 
-Uber once sold riders on a simple promise: Order a car right from your phone for less than a taxi. Since then, prices have risen dramatically.
+Stopping slop.
 
-Business Insider • 1h ago
+The Verge • 59m ago
+
+---
+
+**[Woman filmed without consent by Meta AI glasses says video went viral with 200,000 views](https://www.cbsnews.com/chicago/video/woman-filmed-without-consent-by-meta-ai-glasses-says-video-went-viral-with-200000-views/)**
+
+Toluwa Omitowoju says she had no idea she was being recorded by Meta AI glasses until friends began sending her the video, which she says reached more than 200,000 views across platforms.
+
+CBS News • 34m ago
 
 ---
 
@@ -165,19 +165,19 @@ blog.google • 2d ago
 
 ---
 
+**[NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)**
+
+A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
+
+NVIDIA Developer • 9h ago
+
+---
+
 **[Why Is Everyone in Silicon Valley Talking Like That?](https://www.theatlantic.com/technology/2026/08/ai-jargon-in-everday-speech/688358/)**
 
 Did you mix something up? Maybe you’re just “hallucinating.”
 
 The Atlantic • 1d ago
-
----
-
-**[Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry](https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html)**
-
-Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.
-
-CNBC • 22h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNN • 9h ago
 
 **[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -203,13 +203,13 @@ Reuters • 22h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1026 • 💬 573 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1027 • 💬 574 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 696 • 💬 2 • 11h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 697 • 💬 2 • 12h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -217,7 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 448 • 💬 800 • 19h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 479 • 💬 824 • 19h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -225,7 +225,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 My personal portfolio site and blog.
 
-⬆️ 356 • 💬 205 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 358 • 💬 205 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -245,19 +245,25 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 ---
 
+**[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
+
+Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
+
+⬆️ 205 • 💬 212 • 10h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+
+---
+
 **[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 203 • 💬 160 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 203 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
-**[AI usage patterns in software teams](https://news.ycombinator.com/item?id=49353432)**
+**[AI boosted homework scores, then exam scores dropped: study](https://news.ycombinator.com/item?id=49357530)**
 
-AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.
-
-⬆️ 197 • 💬 115 • 2d ago • [linear.app](https://linear.app/data)
+⬆️ 188 • 💬 244 • 2d ago • [economist.com](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
 
 ---
 
@@ -273,15 +279,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 185 • 💬 208 • 21h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
-
----
-
-**[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
-
-Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
-
-⬆️ 176 • 💬 180 • 10h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 186 • 💬 208 • 22h ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -335,7 +333,7 @@ Yuval Noah Harari says AI has made it possible, for the first time in history, t
 
 📺 The Economist
 
-👁️ 4K • 👍 218 • ⏱️ 1:45 • 4h ago
+👁️ 4K • 👍 218 • ⏱️ 1:45 • 5h ago
 
 ---
 
@@ -353,7 +351,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Ben Esherick
 
-👁️ 311K • 👍 23K • 💬 163 • ⏱️ 0:37 • 23h ago
+👁️ 311K • 👍 23K • 💬 163 • ⏱️ 0:37 • 1d ago
 
 ---
 
@@ -373,7 +371,7 @@ mentalhealth #boyfriend #dating #relationships #ai #artificialintelligence #lone
 
 📺 Sav Says
 
-👁️ 215 • 👍 10 • 💬 1 • ⏱️ 0:38 • 1h ago
+👁️ 215 • 👍 10 • 💬 1 • ⏱️ 0:38 • 2h ago
 
 ---
 
@@ -495,7 +493,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 357,225 • ❤️ 410 • 3d ago
+⬇️ 357,225 • ❤️ 410 • 4d ago
 
 ---
 
@@ -670,7 +668,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 1h ago
+⭐ 14.0k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -680,7 +678,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 7h ago
+⭐ 8.8k • 🔱 1.1k • 8h ago
 
 ---
 
@@ -718,7 +716,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 11h ago
+⭐ 2.9k • 🔱 346 • 12h ago
 
 ---
 
@@ -738,7 +736,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.1k • 🔱 221 • 1h ago
+⭐ 2.1k • 🔱 221 • 2h ago
 
 ---
 
@@ -748,7 +746,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 19h ago
+⭐ 2.0k • 🔱 182 • 20h ago
 
 ---
 
