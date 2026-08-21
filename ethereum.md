@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T08:40:40.696318+00:00'
+updated: '2026-08-21T09:36:24.487550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 08:40 UTC  
+**Last Updated:** August 21, 2026 at 09:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.54B
+**Market Cap:** $288.97B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.2%
+-51.6%
 
 **All-Time Low:** $0.43
-+546450.8%
++552915.3%
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Ethereum (CRYPTO: ETH) has surged 19% over the past 24 hours, with prominent pseudonymous trader DonAlt putting a $4,000 to $10,000 target on the rally.DonAlt posted on X that his target for Ethereum is $4,000, and $10,000 if price holds strong at that level.“I’ll probably sell halfway into the ral…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ MarketForces Africa • 1d ago
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 1d ago
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-Ethereum Foundation Blog • 15h ago
+Ethereum Foundation Blog • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ Ethereum Foundation Blog • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are extending their rallies as bullish momentum strengthens and continue to cheer the US Treasury’s decision to double its debt buyback operations. BTC has climbed nearly 20%, ETH over 25% and XRP nearly 30% so far this week.
 
-FXStreet • 5h ago
+FXStreet • 6h ago
 
 ---
 
@@ -236,7 +236,17 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 560 • 💬 15 • ⏱️ 11:56 • 11h ago
+👁️ 11K • 👍 603 • 💬 18 • ⏱️ 11:56 • 12h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
+
+BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 291 • 💬 31 • ⏱️ 26:07 • 7h ago
 
 ---
 
@@ -246,17 +256,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 273 • 💬 20 • ⏱️ 7:45 • 19h ago
-
----
-
-**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
-
-Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 13K • 👍 874 • 💬 324 • ⏱️ 43:02 • 23h ago
+👁️ 8K • 👍 283 • 💬 19 • ⏱️ 7:45 • 19h ago
 
 ---
 
@@ -266,27 +266,17 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 10K • 👍 285 • 💬 63 • ⏱️ 41:59 • 13h ago
+👁️ 11K • 👍 307 • 💬 58 • ⏱️ 41:59 • 14h ago
 
 ---
 
-**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
+**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
 
-You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
+Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
 
-📺 The Modern Investor
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 708 • 💬 312 • ⏱️ 28:47 • 1d ago
-
----
-
-**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 4K • 👍 132 • 💬 26 • ⏱️ 11:13 • 20h ago
+👁️ 13K • 👍 877 • 💬 329 • ⏱️ 43:02 • 1d ago
 
 ---
 
@@ -296,7 +286,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 227 • 💬 31 • ⏱️ 16:48 • 2d ago
+👁️ 7K • 👍 229 • 💬 32 • ⏱️ 16:48 • 2d ago
+
+---
+
+**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 4K • 👍 137 • 💬 26 • ⏱️ 11:13 • 21h ago
+
+---
+
+**[CRYPTO LIVE - THE ETHEREUM BREAKOUT](https://www.youtube.com/watch?v=BREmL2qYfYM)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 8K • 👍 715 • 💬 167 • ⏱️ 49:05 • 21h ago
 
 ---
 
@@ -306,27 +316,17 @@ Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être m�
 
 📺 Hasheur
 
-👁️ 91K • 👍 6K • 💬 272 • ⏱️ 18:20 • 16h ago
+👁️ 104K • 👍 7K • 💬 279 • ⏱️ 18:20 • 17h ago
 
 ---
 
-**[MASSIVE RALLY! What&#39;s Next for Ethereum?](https://www.youtube.com/watch?v=PDou-gncOlU)**
+**[Ethereum Has an Issuance Problem](https://www.youtube.com/watch?v=mUEEFxN2_DY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum may be paying too ...
 
-📺 Cilinix Crypto
+📺 Bankless
 
-👁️ 332 • 👍 23 • 💬 3 • ⏱️ 5:01 • 23h ago
-
----
-
-**[ÚLTIMA HORA | Trump desata la locura en Bitcoin y Ethereum: la Clarity Act dispara el mercado cripto](https://www.youtube.com/watch?v=eHlS9LEecYA)**
-
-ÚLTIMA HORA | Trump desata la locura en Bitcoin y Ethereum: la Clarity Act dispara el mercado cripto El mercado de las ...
-
-📺 Negocios TV
-
-👁️ 11K • 👍 198 • 💬 10 • ⏱️ 1:21 • 18h ago
+👁️ 2K • 👍 79 • 💬 20 • ⏱️ 1:22:32 • 22h ago
 
 ---
 

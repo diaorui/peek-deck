@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T08:40:40.699553+00:00'
+updated: '2026-08-21T09:36:24.490332+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 08:40 UTC  
+**Last Updated:** August 21, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-15h ago
+16h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 18h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 19h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 13h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 14h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 12h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 13h ago
 
 ---
 
@@ -144,7 +144,7 @@ Bloomberg.com • 2d ago
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 10h ago
+Ars Technica • 11h ago
 
 ---
 
@@ -194,7 +194,17 @@ China kicked off the 2026 World Robot Conference on Wednesday, with companies sh
 
 📺 Associated Press
 
-👁️ 4K • 👍 35 • 💬 7 • ⏱️ 0:54 • 1d ago
+👁️ 5K • 👍 35 • 💬 7 • ⏱️ 0:54 • 1d ago
+
+---
+
+**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
+
+Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
+
+📺 Unitree Robotics
+
+👁️ 2.1M • 👍 2K • 💬 427 • ⏱️ 0:31 • 4d ago
 
 ---
 
@@ -204,37 +214,27 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 71K • 👍 2K • 💬 274 • ⏱️ 1:36 • 1d ago
+👁️ 74K • 👍 2K • 💬 278 • ⏱️ 1:36 • 1d ago
 
 ---
 
-**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+**[Robotics and AI converging to revolutionise industries: ABB Robotics](https://www.youtube.com/watch?v=YebvAl6t4_s)**
 
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+Marc Segura, the President of ABB Robotics, tells CNBC's Ritika Gupta that industrial robotics is entering a new era as machine ...
 
-📺 CNET
+📺 CNBC International Live
 
-👁️ 11K • 👍 366 • 💬 62 • ⏱️ 5:16 • 4d ago
-
----
-
-**[This Robot Just Beat Usain Bolt’s 17-Year-Old World Record #shorts  #viral](https://www.youtube.com/watch?v=Jc2O8iiqwgA)**
-
-A robot has just done something that sounds straight out of science fiction — beating a 17-year-old world record associated with ...
-
-📺 NDTV Profit
-
-👁️ 22K • 👍 136 • 💬 4 • ⏱️ 0:13 • 16h ago
+👁️ 4K • 👍 73 • 💬 4 • ⏱️ 7:24 • 1d ago
 
 ---
 
-**[Riding heavy-load robotic horse at World Robot Conference](https://www.youtube.com/watch?v=aAo_6CI4rx8)**
+**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
 
-An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at the 2026 World Robot Conference in Beijing.
+China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
 
-📺 New China TV
+📺 Techie Sapien
 
-👁️ 8K • 👍 76 • 💬 2 • ⏱️ 0:19 • 1d ago
+👁️ 1K • ⏱️ 0:09 • 36m ago
 
 ---
 
@@ -248,11 +248,23 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 ---
 
-**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+**[Riding heavy-load robotic horse at World Robot Conference](https://www.youtube.com/watch?v=aAo_6CI4rx8)**
 
-📺 Prasadtechshorts
+An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at the 2026 World Robot Conference in Beijing.
 
-👁️ 127K • 👍 6K • 💬 57 • ⏱️ 1:28 • 2d ago
+📺 New China TV
+
+👁️ 10K • 👍 83 • 💬 2 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[🍎🤖 Makkah’s Robotic Family Fruit Service | Smart Hospitality](https://www.youtube.com/watch?v=uJhkqEixigY)**
+
+A cute futuristic robot brings fresh fruit service to an entire family in Makkah. From preparing the fruit to serving each family ...
+
+📺 MISTER CROWN 👑
+
+👁️ 274K • 👍 9K • 💬 3 • ⏱️ 0:11 • 18h ago
 
 ---
 
@@ -262,27 +274,15 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 
 📺 Inside China Business
 
-👁️ 51K • 👍 4K • 💬 561 • ⏱️ 8:40 • 2d ago
+👁️ 51K • 👍 4K • 💬 561 • ⏱️ 8:40 • 3d ago
 
 ---
 
-**[Robots show off skills at World Robot Conference](https://www.youtube.com/watch?v=7WGmsBy_U1Q)**
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
 
-Robots show off an ever-wider range of skills as they cook, dance, fight, do push-ups, and just act cute at the 2026 World Robot ...
+📺 Prasadtechshorts
 
-📺 New China TV
-
-👁️ 11K • 👍 72 • 💬 2 • ⏱️ 0:16 • 1d ago
-
----
-
-**[Chinese humanoid robot &#39;Flash&#39; targets 100m world record#coolchina](https://www.youtube.com/watch?v=BCFIaspCR-o)**
-
-Chinese smart device maker Honor is putting its humanoid robot "Flash" through sprint training ahead of the second World ...
-
-📺 CGTN
-
-👁️ 30K • 👍 225 • 💬 23 • ⏱️ 0:18 • 2d ago
+👁️ 128K • 👍 6K • 💬 57 • ⏱️ 1:28 • 2d ago
 
 ---
 
