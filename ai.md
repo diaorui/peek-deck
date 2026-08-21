@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T23:23:33.884900+00:00'
+updated: '2026-08-21T23:49:20.493736+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 23:23 UTC  
+**Last Updated:** August 21, 2026 at 23:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 20h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a constant low hum in the background. One thing that genuinely changed how I work is using LLMs as a sounding board before I commit to any feature or a new positioning angle. Not in a promptengineery way. More like I dump my halfformed thinking into a chat, describe the problem I think customers have, and ask it to poke holes in my assumptions. It catches stuff I miss because I'm too close to it. What I keep wondering is how much of that feedback is actually useful vs. the model just patternmatching on generic startup advice it was trained on. Sometimes the response feels sharp and specific. Other times it feels like it pulled from a mediocre blog post from 2019. Curious if other founders or people building products are using AI in this prevalidation stage, or if most of the use is further downstream once the thing already exists. Also whether you trust the output at all for something this highstakes, or you treat it more like a rubber duck that occasionally says something smart. The cost of being wrong when you're bootstrapped is pretty real, so I'm trying to figure out where AI actually earns its place vs. where I'm just using it to feel productive.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-19h ago
+20h ago
 
 ---
 
@@ -127,9 +127,39 @@ Ars Technica • 12h ago
 
 ---
 
-**[How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html)**
+**[US corporate AI debt surge tests investor limits as fatigue emerges](https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/)**
 
-The New York Times • 1d ago
+Reuters • 8h ago
+
+---
+
+**[Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)**
+
+Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.
+
+TechCrunch • 41m ago
+
+---
+
+**[Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival](https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-piled-debt-223900562.html)**
+
+David Tepper's hedge fund, Appaloosa Management, recently initiated a position in CoreWeave while also raising its exposure to Meta Platforms.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Watch Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis](https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video)**
+
+Bloomberg.com • 5m ago
+
+---
+
+**[Online streamers sue Twitch, Amazon over generative AI training](https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/)**
+
+The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
+
+Courthouse News • 4h ago
 
 ---
 
@@ -137,31 +167,7 @@ The New York Times • 1d ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 1h ago
-
----
-
-**[Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)**
-
-Stopping slop.
-
-The Verge • 1h ago
-
----
-
-**[Woman filmed without consent by Meta AI glasses says video went viral with 200,000 views](https://www.cbsnews.com/chicago/video/woman-filmed-without-consent-by-meta-ai-glasses-says-video-went-viral-with-200000-views/)**
-
-Toluwa Omitowoju says she had no idea she was being recorded by Meta AI glasses until friends began sending her the video, which she says reached more than 200,000 views across platforms.
-
-CBS News • 1h ago
-
----
-
-**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
-
-College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
-
-blog.google • 2d ago
+CNBC • 2h ago
 
 ---
 
@@ -181,17 +187,11 @@ The Atlantic • 1d ago
 
 ---
 
-**[‘F**k Flock!’ Vandals wage war on AI surveillance cameras](https://www.cnn.com/us/video/flock-camera-ai-meena-duerson)**
+**[Meet The Newest Under 30 AI Billionaire](https://www.forbes.com/sites/alexyork/2026/08/21/meet-the-newest-under-30-ai-billionaire/)**
 
-Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
+James Dacombe becomes the latest founder under 30 years old to reach a billion dollar fortune.
 
-CNN • 10h ago
-
----
-
-**[AI reshapes India's IT services sector contracts as clients demand more for less](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)**
-
-Reuters • 1d ago
+Forbes • 11h ago
 
 ---
 
@@ -203,13 +203,13 @@ Reuters • 1d ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1027 • 💬 574 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1030 • 💬 574 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 697 • 💬 2 • 13h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 700 • 💬 2 • 13h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -217,7 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 479 • 💬 824 • 20h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 508 • 💬 832 • 21h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -225,7 +225,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 My personal portfolio site and blog.
 
-⬆️ 358 • 💬 205 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 359 • 💬 206 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -237,6 +237,20 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 ---
 
+**[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
+
+Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
+
+⬆️ 238 • 💬 239 • 12h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+
+---
+
+**[AI boosted homework scores, then exam scores dropped: study](https://news.ycombinator.com/item?id=49357530)**
+
+⬆️ 213 • 💬 273 • 2d ago • [economist.com](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
+
+---
+
 **[Mathematics in the age of AI](https://news.ycombinator.com/item?id=49362728)**
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
@@ -245,25 +259,11 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 ---
 
-**[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
-
-Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
-
-⬆️ 205 • 💬 212 • 11h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
-
----
-
 **[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
 
 Trying to obfuscate the web is a bad, pointless idea
 
 ⬆️ 203 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
-
----
-
-**[AI boosted homework scores, then exam scores dropped: study](https://news.ycombinator.com/item?id=49357530)**
-
-⬆️ 188 • 💬 244 • 2d ago • [economist.com](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
 
 ---
 
@@ -293,7 +293,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 482K • 👍 8K • 💬 454 • ⏱️ 12:08 • 23h ago
+👁️ 482K • 👍 8K • 💬 454 • ⏱️ 12:08 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ New York Post financial correspondent Lydia Moynihan discusses the debate over a
 
 📺 Fox News Clips
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 4:55 • 13h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 4:55 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Get the Agent OS & Google AI Studio Masterclass https://www.skool.com/ai-profit-
 
 📺 Julian Goldie SEO
 
-👁️ 6K • 👍 131 • 💬 1 • ⏱️ 7:37 • 22h ago
+👁️ 6K • 👍 131 • 💬 1 • ⏱️ 7:37 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 1K • 👍 106 • 💬 5 • ⏱️ 0:58 • 4h ago
+👁️ 1K • 👍 106 • 💬 5 • ⏱️ 0:58 • 5h ago
 
 ---
 
@@ -419,7 +419,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 818 • 14h ago
+⬇️ 18,193 • ❤️ 818 • 15h ago
 
 ---
 
@@ -479,7 +479,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 437 • 5h ago
+⬇️ 123,956 • ❤️ 437 • 6h ago
 
 ---
 
@@ -656,7 +656,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.6k • 🔱 1.9k • 3h ago
+⭐ 16.6k • 🔱 1.9k • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 50m ago
+⭐ 14.0k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -676,7 +676,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 8h ago
+⭐ 8.8k • 🔱 1.1k • 9h ago
 
 ---
 
@@ -694,7 +694,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 9h ago
+⭐ 3.5k • 🔱 579 • 10h ago
 
 ---
 
@@ -724,7 +724,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 184 • 14h ago
+⭐ 2.2k • 🔱 184 • 15h ago
 
 ---
 
@@ -734,7 +734,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.1k • 🔱 225 • 33m ago
+⭐ 2.1k • 🔱 225 • 58m ago
 
 ---
 
@@ -744,7 +744,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 182 • 2h ago
+⭐ 2.0k • 🔱 182 • 3h ago
 
 ---
 

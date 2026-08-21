@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T23:23:33.898577+00:00'
+updated: '2026-08-21T23:49:20.508604+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 23:23 UTC  
+**Last Updated:** August 21, 2026 at 23:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +8.9%  
-**7d:** +34.5%  
-**30d:** +34.9%  
-**90d:** +20.6%  
-**1y:** -47.6%  
+**24h:** +7.7%  
+**7d:** +33.8%  
+**30d:** +34.2%  
+**90d:** +20.0%  
+**1y:** -47.9%  
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 7h ago
 
 ---
 
@@ -104,7 +104,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 22h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 23h ago
 
 ---
 
@@ -166,67 +166,63 @@ TradingView • 5h ago
 
 ---
 
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 2d ago
-
----
-
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 22h ago
-
----
-
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
-
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
-
-Ethereum Foundation Blog • 1d ago
-
----
-
 **[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
-**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
+**[Tom Lee expects Ethereum to outperform Bitcoin on AI, tokenization](https://crypto.news/tom-lee-expects-ethereum-to-outperform-bitcoin/)**
 
-Which of these altcoins has a better shot at a comeback?
+Tom Lee says Ethereum will outperform Bitcoin as BitMine records an 80% ETH correlation and tokenization and AI support his forecast.
 
-The Motley Fool • 2d ago
-
----
-
-**[Ethereum Price Jumps 11% As US Treasury Yields Tumble](https://dmarketforces.com/ethereum-price-jumps-11-as-us-treasury-yields-tumble/)**
-
-Ethereum (ETH) price jumped by about 11% to $2,114.01 on Wednesday, significantly outperforming the broader market rally, driven primarily by a
-
-MarketForces Africa • 2d ago
+Crypto News • 3h ago
 
 ---
 
-**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
+**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
 
-CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
+Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
 
-Benzinga • 2d ago
+Fidelity Investments • 3d ago
 
 ---
 
-**[EIP-8130 aims to unify account standards for Ethereum’s EVM](https://cryptobriefing.com/eip-8130-unified-evm-account-standard/)**
+**[Bitcoin and Ethereum Are Having Good Weeks. Is the Crypto Bull Market Back?](https://www.moomoo.com/news/post/75081268/bitcoin-and-ethereum-are-having-good-weeks-is-the-crypto)**
 
-EIP-8130 proposes a universal account abstraction standard for all EVM chains, cutting transfer costs by 63% with support from Coinbase, Base,
+Moomoo • 8h ago
 
-Crypto Briefing • 5h ago
+---
+
+**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
+
+Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Ethereum Price Prediction: Is $2500 The Next Big Target?](https://coinpedia.org/news/ethereum-price-prediction-is-2500-the-next-big-target/)**
+
+Ethereum (ETH) has delivered a major breakout that could create a shift across crypto, according to a recent market analysis.  ETH hit $2,370, surging 25%
+
+Coinpedia • 4h ago
+
+---
+
+**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
+
+CoinDesk • 3d ago
+
+---
+
+**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
+
+Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
+
+FXStreet • 56m ago
 
 ---
 
@@ -270,7 +266,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 353 • 💬 97 • ⏱️ 26:07 • 21h ago
+👁️ 10K • 👍 353 • 💬 97 • ⏱️ 26:07 • 22h ago
 
 ---
 

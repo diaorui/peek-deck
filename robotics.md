@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T23:23:33.901433+00:00'
+updated: '2026-08-21T23:49:20.511826+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 23:23 UTC  
+**Last Updated:** August 21, 2026 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -124,17 +124,17 @@ Business Insider • 14h ago
 
 ---
 
+**[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
+
+WSJ • 7h ago
+
+---
+
 **[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 10h ago
-
----
-
-**[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
-
-WSJ • 7h ago
+Al Jazeera • 11h ago
 
 ---
 
@@ -144,11 +144,19 @@ WSJ • 2d ago
 
 ---
 
+**[Bedrock Robotics deploys fully autonomous excavators on jobsites](https://www.constructiondive.com/news/bedrock-robotics-fully-autonomous-excavators-jobsites/828267/)**
+
+The San Francisco-based company said its retrofit tech, which digs without an operator, is now active on infrastructure projects for firms such as Sundt Construction and Zachry Construction.
+
+Construction Dive • 2d ago
+
+---
+
 **[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 3h ago
+Mashable • 4h ago
 
 ---
 
@@ -168,17 +176,9 @@ The Conversation • 2d ago
 
 ---
 
-**[😺 The ACTUAL ChatGPT 3 moment for robotics (one-shot learning)](https://www.theneurondaily.com/p/ai-helped-moderna-fight-cancer-today)**
+**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-The Neuron • 1d ago
-
----
-
-**[Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.](https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready)**
-
-New Intel commissioned research finds robotics adoption accelerating—while gaps in strategy, skills, safety and infrastructure threaten organizations’ ability to scale.
-
-Intel Newsroom • 1d ago
+The New York Times • 1d ago
 
 ---
 

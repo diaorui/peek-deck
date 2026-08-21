@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T23:23:33.893160+00:00'
+updated: '2026-08-21T23:49:20.502383+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 23:23 UTC  
+**Last Updated:** August 21, 2026 at 23:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,599.11
+### $78,412.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.6%  
-**7d:** +24.6%  
-**30d:** +20.7%  
-**90d:** +1.9%  
-**1y:** -32.8%  
+**24h:** +6.2%  
+**7d:** +24.1%  
+**30d:** +20.2%  
+**90d:** +1.5%  
+**1y:** -33.1%  
 
 ---
 
@@ -77,15 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
+
+For anyone worried about missing not buying. Everything is gonna be fine.
+
+4h ago
+
+---
+
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-9h ago
+10h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,9 +103,17 @@ Rank #1
 
 ---
 
-**[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
+**[Just bought 100k worth of BTC](https://www.reddit.com/r/Bitcoin/comments/1vuq6jm/just_bought_100k_worth_of_btc/)**
 
-12h ago
+We’re going to the moon 🚀
+
+4h ago
+
+---
+
+**[It’s done. We going down](https://www.reddit.com/r/Bitcoin/comments/1vuhu8y/its_done_we_going_down/)**
+
+9h ago
 
 ---
 
@@ -107,45 +123,65 @@ Rank #1
 
 ---
 
-**[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
+**[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-For anyone worried about missing not buying. Everything is gonna be fine.
+13h ago
 
-4h ago
+---
+
+**[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
+
+Whenever we need another celebratory meme, I vote for Ben.
+
+1h ago
 
 ---
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-14h ago
-
----
-
-**[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
-
-14h ago
-
----
-
-**[Just bought 100k worth of BTC](https://www.reddit.com/r/Bitcoin/comments/1vuq6jm/just_bought_100k_worth_of_btc/)**
-
-We’re going to the moon 🚀
-
-3h ago
-
----
-
-**[This is surreal](https://www.reddit.com/r/Bitcoin/comments/1vu2goc/this_is_surreal/)**
-
-I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
-
-21h ago
+15h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
+
+Bitcoin is back on the hot list.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Saylor’s Bitcoin bet is no longer underwater](https://finance.yahoo.com/markets/crypto/articles/saylor-bitcoin-bet-no-longer-232000820.html)**
+
+Michael Saylor’s Strategy is the world’s largest Bitcoin treasury company.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+
+WSJ • 1h ago
+
+---
+
+**[Bitcoin Tops $77,000, Enjoys Best Week Since 2024](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-nears-80-000-on-trump-support-weaker-dollar-81HE3C6FkBcljvY8IKFA)**
+
+WSJ • 15h ago
+
+---
+
+**[Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars](https://uk.finance.yahoo.com/news/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html)**
+
+Stocks posted weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
+
+Yahoo Finance UK • 4h ago
+
+---
 
 **[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
 
@@ -169,53 +205,15 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-WSJ • 10h ago
-
----
-
-**[Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars](https://uk.finance.yahoo.com/news/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html)**
-
-Stocks posted weekly losses after a bond sell-off this week put pressure on tech and AI stocks.
-
-Yahoo Finance UK • 3h ago
+Reuters • 12h ago
 
 ---
 
-**[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-WSJ • 1h ago
-
----
-
-**[Bitcoin Tops $77,000, Enjoys Best Week Since 2024](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-nears-80-000-on-trump-support-weaker-dollar-81HE3C6FkBcljvY8IKFA)**
-
-WSJ • 14h ago
-
----
-
-**['Fast Money' traders talk the recent rally in bitcoin prices](https://www.cnbc.com/video/2026/08/21/fast-money-traders-talk-the-recent-rally-in-bitcoin-prices.html)**
-
-The 'Fast Money' traders talk the recent rally in bitcoin prices.
-
-CNBC • 1h ago
-
----
-
-**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
-
-Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
-
-IO Fund • 1d ago
-
----
-
-**[Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder](https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/)**
-
-Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
-
-Fortune • 3h ago
+Reuters • 1d ago
 
 ---
 
