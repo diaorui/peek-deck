@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T19:26:01.324503+00:00'
+updated: '2026-08-21T19:48:15.378243+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 19:26 UTC  
+**Last Updated:** August 21, 2026 at 19:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 18h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ Ethereum Foundation Blog • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 615 • 👍 76 • 💬 1 • ⏱️ 7:31 • 2h ago
+👁️ 615 • 👍 76 • 💬 1 • ⏱️ 7:31 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 353 • 💬 69 • ⏱️ 26:07 • 17h ago
+👁️ 10K • 👍 353 • 💬 69 • ⏱️ 26:07 • 18h ago
 
 ---
 

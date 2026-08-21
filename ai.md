@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-21T19:26:01.314127+00:00'
+updated: '2026-08-21T19:48:15.369553+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 21, 2026 at 19:26 UTC  
+**Last Updated:** August 21, 2026 at 19:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
 
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 16h ago
+🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Adding a vector database is usually the first move when output quality drops on 
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-11h ago
+12h ago
 
 ---
 
@@ -71,7 +71,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-15h ago
+16h ago
 
 ---
 
@@ -79,7 +79,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. You send something in, something happens, you get an answer back. Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. Where exactly is the model running when you send it a document. And I realized I didn't have a clean answer. I knew the company. I'd signed up, accepted terms, the usual. But the actual infrastructure question, which servers, whose data center, who has access at the compute level during that moment, I genuinely had no idea. Started reading more carefully after that. Cloudflare has been doing interesting things with their AI Gateway around keeping data within defined boundaries. Worth looking at if you haven't. But even that is still routing through infrastructure you don't own or control. The thing that kept coming up when I read about how regulated industries handle this was running the whole stack inside your own environment. Inference happens on your own infrastructure, nothing leaves, no external calls at all during processing. Was reading about it through Lyzr actually, they have a term called Sovereign AI built around exactly this. What stuck with me was how they described it, that for banks, healthcare, government, this isn't really an architectural choice they're making, it's the only option that makes it through legal review in the first place. What's interesting is how much more accessible this has become. Felt like something only the biggest institutions with dedicated infrastructure teams could pull off even two years ago. For most personal use cases honestly none of this matters. But if you're building something that touches anything sensitive and your risk management strategy is basically trusting the vendor agreement, I wonder if that assumption is actually as solid as it feels. Curious if anyone has gone through a proper evaluation of fully private inference. What did you actually find when you looked closely at the tradeoffs??
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 **[So uh… wtf?](https://www.reddit.com/r/artificial/comments/1vup7pd/so_uh_wtf/)**
 
-30m ago
+52m ago
 
 ---
 
@@ -101,7 +101,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 Ant Group's new release makes six base checkpoints available: pretrained, mid-trained, and WSM-merged checkpoints for both the tiny and flash sizes. That is two sizes × three training stages. Every repository is public and ungated with an MIT declaration, and none of the six has been post-trained. The Ling-3.0 base model release exposes three points in the training progression for each of two model sizes. Researchers can inspect each released stage, but these are base checkpoints for continued pretraining, fine-tuning, and research—not finished chat or instruct models. One important evidence boundary: the team says the same recipe was validated on tiny and then scaled to flash, but that is an official statement rather than an independent reproduction. The WSM paper's reported experiments use Ling-mini, not the six Ling-3.0 checkpoints released here. The official release announcement contains the full family, and the main tiny and flash model pages are the WSM-merged endpoints..
 
-35m ago
+57m ago
 
 ---
 
@@ -109,7 +109,7 @@ Ant Group's new release makes six base checkpoints available: pretrained, mid-tr
 
 To make a long story short: My stepfather-in-law was laid off in January. My husband and I both begrudgingly tolerate the man. His ego and quirks make him difficult to be around, but fortunately, we only have to see him once or twice a year (they live five hours away) on our obligatory visits to visit my mother-in-law. Here’s the kicker. On month eight of unemployment, he decided to start what I can only comfortably describe as a poor attempt at AI-enabled grifting. He started by generating Toby Keith-esque country songs and posting full-length “albums” on Facebook. My husband and I rolled our eyes, thinking it was just a “local boomer discovers AI” sort of situation. He’s since piloted a LinkedIn-style leadership motivation series of AI-generated texts and images, the pairs of which almost never make sense. Again, we mostly ignored it. But then, the books started. Which meant I was dragged into it. For a little extra color — I’m a career journalist turned specialized corporate content writer/strategist by day. By night (mostly early mornings, actually), I write novels. I’ve spent the last six years working daily on a series that means the world to me, and I’m currently in the trenches of my seventh round of edits on the first book, with the full intention of querying my best work (I got so close in the last round, but my word count sank that ship - lesson learned!). I take this hobby as seriously as I take my daytime career. I am no master of this craft. It’s a day-in and day-out process to become 1% better at storytelling every time I sit down to write or edit. So when my father-in-law unceremoniously sent me his AI-generated manuscript wanting to “get my thoughts,” I was torn. Of course, in nearly any other situation, I’d be more than happy to review a friend or family member’s writing. I do it all the time! But this felt different. He’s fully intent on self-publishing this novel. Do I think it’ll sell? No. I don’t! I can’t say I feel “threatened” by another writer, or that I’m worried this book is going to be a runaway Amazon success. I read it. It’s… fine. The prose isn’t egregious because the AI was decently well-prompted. The characters have no arc. The plot barely moves. It’s 90% atmosphere, 5% police procedural tropes, and 5% repeated descriptions that are immediate AI red flags to a semi-trained eye. My mother-in-law has urged me to “please be nice” about the whole thing. She knows that even though I work for a company that plays in the AI space (we’re healthcare-adjacent), I have strong convictions about the use of gen-AI for creative work, especially when someone is trying to pass off the work as their own. We’re visiting in a few weeks, and they “can’t wait to talk to me” about this. Writer to… writer. I guess. My question for you all: What do I owe him in this inevitable conversation? Has anyone else encountered a situation where they’ve been asked to review/critique someone’s AI-generated work? I feel icky even having read it, but I really struggle pushing back on this guy. He’s exhausting to be around as-is, and I’d prefer to keep things as light as possible, just to get through the trip.
 
-17h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 22h ago
 
 Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 30m ago
+CNBC • 53m ago
 
 ---
 
@@ -143,13 +143,13 @@ CNBC • 30m ago
 
 The agreement secures a material portion of the fiber Zayo needs for its 15,000 route mile network expansion through 2030.
 
-Data Center Knowledge • 24m ago
+Data Center Knowledge • 46m ago
 
 ---
 
 **[Opinion | AI Can’t Fix a Bad Calendar](https://www.wsj.com/opinion/ai-cant-fix-a-bad-calendar-92a06234)**
 
-WSJ • 27m ago
+WSJ • 49m ago
 
 ---
 
@@ -157,7 +157,7 @@ WSJ • 27m ago
 
 Did you mix something up? Maybe you’re just “hallucinating.”
 
-The Atlantic • 21h ago
+The Atlantic • 22h ago
 
 ---
 
@@ -171,7 +171,7 @@ NVIDIA Developer • 6h ago
 
 **[MAHA warns Trump against coal-powered data centers](https://www.axios.com/2026/08/21/ai-data-centers-coal-trump-rfk-maga-warning)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo • 11h ago
 
 Nearly 200 activists in Robert F. Kennedy Jr.’s “Make America Healthy Again” movement are criticizing President Donald Trump’s promotion of coal to power artificial intelligence data centers
 
-The Washington Post • 46m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 433 • 💬 785 • 16h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 433 • 💬 785 • 17h ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -289,7 +289,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 428K • 👍 7K • 💬 329 • ⏱️ 12:08 • 19h ago
+👁️ 428K • 👍 7K • 💬 329 • ⏱️ 12:08 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ Get the Agent OS & Google AI Studio Masterclass https://www.skool.com/ai-profit-
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 114 • 💬 1 • ⏱️ 7:37 • 18h ago
+👁️ 5K • 👍 114 • 💬 1 • ⏱️ 7:37 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Scammers are using impersonations of celebrities, politicians and trusted public
 
 📺 ABC News (Australia)
 
-👁️ 5K • 👍 46 • ⏱️ 2:34 • 15h ago
+👁️ 5K • 👍 46 • ⏱️ 2:34 • 16h ago
 
 ---
 
@@ -337,7 +337,7 @@ Scammers are using impersonations of celebrities, politicians and trusted public
 
 📺 Smruti Mishra
 
-👁️ 165K • 👍 1K • 💬 1 • ⏱️ 0:11 • 13h ago
+👁️ 165K • 👍 1K • 💬 1 • ⏱️ 0:11 • 14h ago
 
 ---
 
@@ -375,7 +375,7 @@ Experience the future of Makkah  ! Watch advanced AI robots seamlessly distribut
 
 📺 Learn and Earn with Pavan Agrawal
 
-👁️ 16K • 👍 726 • ⏱️ 0:16 • 14h ago
+👁️ 16K • 👍 726 • ⏱️ 0:16 • 15h ago
 
 ---
 
@@ -415,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 791 • 10h ago
+⬇️ 18,193 • ❤️ 791 • 11h ago
 
 ---
 
@@ -720,7 +720,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 184 • 10h ago
+⭐ 2.2k • 🔱 184 • 11h ago
 
 ---
 

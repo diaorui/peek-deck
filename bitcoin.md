@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T19:26:01.320199+00:00'
+updated: '2026-08-21T19:48:15.374614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 19:26 UTC  
+**Last Updated:** August 21, 2026 at 19:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-17h ago
+18h ago
 
 ---
 
@@ -131,13 +131,13 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 I sold all my BTC last week and bought SpaceX stock after Elon announced the Grok bot. So naturally, because the universe absolutely loves rubbing my financial decisions in my face, Bitcoin is now destined to MOOOON!! You’re welcome, guys. my sacrifice was necessary If BTC goes vertical from here, just remember who made it possible!!! :')
 
-13h ago
+14h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -149,13 +149,13 @@ I sold all my BTC last week and bought SpaceX stock after Elon announced the Gro
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 31m ago
+WSJ • 53m ago
 
 ---
 
@@ -163,7 +163,7 @@ WSJ • 31m ago
 
 Ray Dalio warns a U.S. debt crisis could hit within 3 years.
 
-Seeking Alpha • 51m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 12h ago
 
 **[Heavy ETF Buying Is Driving Bitcoin Prices Higher](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/heavy-etf-buying-is-driving-bitcoin-prices-higher-ZofGlB2cl47UlK9VQN3U)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -253,7 +253,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 21h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 22h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 36 • ⏱️ 17:33 • 21h ago
+👁️ 32K • 👍 2K • 💬 36 • ⏱️ 17:33 • 22h ago
 
 ---
 
