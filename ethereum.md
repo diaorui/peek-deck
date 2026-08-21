@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T05:32:50.214220+00:00'
+updated: '2026-08-21T06:46:48.246321+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 05:32 UTC  
+**Last Updated:** August 21, 2026 at 06:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,347.60
+### $2,355.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
-**7d:** +25.0%  
-**30d:** +25.3%  
-**90d:** +12.1%  
-**1y:** -51.3%  
+**24h:** +5.1%  
+**7d:** +25.7%  
+**30d:** +26.0%  
+**90d:** +12.7%  
+**1y:** -51.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.54B
+**Market Cap:** $285.54B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-52.2%
 
 **All-Time Low:** $0.43
-+542720.8%
++546450.8%
 
 ---
 
@@ -152,7 +152,7 @@ Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article
 
 **[Bitcoin Price, XRP, Ethereum, Hyperliquid Surge as Trump Pushes Crypto Clarity Act](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 13h ago
+Barron's • 14h ago
 
 ---
 
@@ -164,11 +164,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html)**
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
-Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 13h ago
 
 Find out why Bitcoin and Ethereum have surged today and whether we are seeing a crypto rally comeback
 
-Bitcoin Foundation • 17h ago
+Bitcoin Foundation • 18h ago
 
 ---
 
@@ -202,25 +202,27 @@ CoinDesk • 2d ago
 
 ---
 
+**[BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash](https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/)**
+
+BTCS used Ethereum to cut Aave debt as DeFi borrowings stayed elevated and cash plus stablecoins ended June at $317,000.
+
+CryptoSlate • 1h ago
+
+---
+
 **[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-ethereum.org • 3d ago
+Ethereum Foundation Blog • 3d ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+**[Ethereum (ETHUSD) Is up 1.19% on Aug 21: Key Drivers to Watch](https://www.tradingkey.com/news/market-movers/262123196-market-movers-ethusd-20260821)**
 
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+Ethereum capital inflows surged due to eased macro liquidity and spot ETF demand.Technical breakouts and short liquidations accelerated buying pressure across major cryptocurrency exchanges.Indicators show a buy signal with overbought conditions requiring close market monitoring.
 
-CryptoSlate • 4h ago
-
----
-
-**[Ethereum Gained 4.68% to $2317.89 -- Data Talk](https://www.moomoo.com/news/post/75024172/ethereum-gained-4-68-to-2317-89-data-talk)**
-
-Moomoo • 8h ago
+TradingKey • 2h ago
 
 ---
 
@@ -234,17 +236,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 498 • 💬 14 • ⏱️ 11:56 • 8h ago
-
----
-
-**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 247 • 💬 69 • ⏱️ 41:59 • 10h ago
+👁️ 9K • 👍 560 • 💬 15 • ⏱️ 11:56 • 9h ago
 
 ---
 
@@ -254,7 +246,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 264 • 💬 19 • ⏱️ 7:45 • 15h ago
+👁️ 7K • 👍 273 • 💬 20 • ⏱️ 7:45 • 17h ago
 
 ---
 
@@ -264,7 +256,17 @@ Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 12K • 👍 868 • 💬 320 • ⏱️ 43:02 • 20h ago
+👁️ 13K • 👍 874 • 💬 324 • ⏱️ 43:02 • 21h ago
+
+---
+
+**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
+
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
+
+📺 Milk Road
+
+👁️ 10K • 👍 285 • 💬 63 • ⏱️ 41:59 • 11h ago
 
 ---
 
@@ -284,17 +286,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 126 • 💬 26 • ⏱️ 11:13 • 17h ago
-
----
-
-**[Hausse rapide des cryptos, que se passe-t-il ?](https://www.youtube.com/watch?v=iHk9gkyrS-U)**
-
-Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être même pas de la crypto. 170 milliards de dollars sont ...
-
-📺 Hasheur
-
-👁️ 85K • 👍 5K • 💬 260 • ⏱️ 18:20 • 13h ago
+👁️ 4K • 👍 132 • 💬 26 • ⏱️ 11:13 • 19h ago
 
 ---
 
@@ -304,7 +296,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 224 • 💬 32 • ⏱️ 16:48 • 2d ago
+👁️ 7K • 👍 227 • 💬 31 • ⏱️ 16:48 • 2d ago
+
+---
+
+**[Hausse rapide des cryptos, que se passe-t-il ?](https://www.youtube.com/watch?v=iHk9gkyrS-U)**
+
+Bitcoin reprend 8%, Ethereum 19%. Et le vrai déclencheur ne vient peut être même pas de la crypto. 170 milliards de dollars sont ...
+
+📺 Hasheur
+
+👁️ 91K • 👍 6K • 💬 272 • ⏱️ 18:20 • 14h ago
+
+---
+
+**[MASSIVE RALLY! What&#39;s Next for Ethereum?](https://www.youtube.com/watch?v=PDou-gncOlU)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 332 • 👍 23 • 💬 3 • ⏱️ 5:01 • 21h ago
 
 ---
 
@@ -314,17 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Negocios TV
 
-👁️ 10K • 👍 187 • 💬 10 • ⏱️ 1:21 • 15h ago
-
----
-
-**[Ethereum Has an Issuance Problem](https://www.youtube.com/watch?v=mUEEFxN2_DY)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum may be paying too ...
-
-📺 Bankless
-
-👁️ 2K • 👍 71 • 💬 19 • ⏱️ 1:22:32 • 18h ago
+👁️ 11K • 👍 198 • 💬 10 • ⏱️ 1:21 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-21T05:32:50.208178+00:00'
+updated: '2026-08-21T06:46:48.240269+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 05:32 UTC  
+**Last Updated:** August 21, 2026 at 06:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,425.87
+### $75,437.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +7.6%  
-**7d:** +19.1%  
-**30d:** +15.4%  
-**90d:** -2.6%  
-**1y:** -35.7%  
+**24h:** +7.9%  
+**7d:** +19.4%  
+**30d:** +15.7%  
+**90d:** -2.3%  
+**1y:** -35.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1499.55B
+**Market Cap:** $1513.02B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--40.7%
+-40.2%
 
 **All-Time Low:** $67.81
-+110131.5%
++111034.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I’ve been waiting for this since it hit 60K but this way the move has transpired makes it all the better. I can only imagine what $1,000,000 price point will feel like.
 
-3h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’ve been waiting for this since it hit 60K but this way the move has transpir
 
 What do you do? Bitcoin's today value was pushed initially through those early adopter's courage to offer an alternative payment for a product, a service.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,13 +97,13 @@ What do you do? Bitcoin's today value was pushed initially through those early a
 
 Am I one of the few that believes this is a pump and dump? It just feels like classic pump on news that will eventually be sold off into a new bottom? We've barely had a year of a bear market. Why is everyone seem so sure that was the bottom?
 
-3h ago
+4h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1vtdifj/we_are_so_back/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +111,7 @@ Am I one of the few that believes this is a pump and dump? It just feels like cl
 
 Had a somber thought, the people affected by the cold card exploit gotta be hurting right now. I know I would feel like absolute garbage right now if I lost my entire savings, 7 years of stacking and sacrificing to first lose it all and then watch as Bitcoin pumps 15K in two days. Getting forced off the train, then watch it moon. I’m sorry brothers and sisters in btc.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Had a somber thought, the people affected by the cold card exploit gotta be hurt
 
 Another dip before we rip? Or is this it 😸
 
-19h ago
+20h ago
 
 ---
 
@@ -127,13 +127,13 @@ Another dip before we rip? Or is this it 😸
 
 They will buy at the price they deserve.
 
-1h ago
+2h ago
 
 ---
 
 **[We might never see it again](https://www.reddit.com/r/Bitcoin/comments/1vtht25/we_might_never_see_it_again/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -141,13 +141,13 @@ They will buy at the price they deserve.
 
 ​ k)
 
-3h ago
+5h ago
 
 ---
 
 **[ummm is it happening!?](https://www.reddit.com/r/Bitcoin/comments/1vtdb7i/ummm_is_it_happening/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -159,13 +159,21 @@ They will buy at the price they deserve.
 
 Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia](https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia)**
+**[Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers](https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 14h ago
+
+---
+
+**[Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues](https://www.forbes.com/sites/siladityaray/2026/08/21/bitcoin-tops-75000-for-the-first-time-since-may-as-crypto-surge-continues/)**
+
+The crypto surge comes after President Trump called for the passage of the long-stalled CLARITY Act and the Treasury intervened in the bond market—boosting appetite for risky bets.
+
+Forbes • 11m ago
 
 ---
 
@@ -173,19 +181,7 @@ Bloomberg.com • 3h ago
 
 $Bitcoin (BTC.CC)$
 
-Moomoo • 48m ago
-
----
-
-**[Asia crypto stocks rally as Bitcoin rebounds sharply; Metaplanet surges 20%](https://www.investing.com/news/stock-market-news/asia-crypto-stocks-rally-as-bitcoin-rebounds-sharply-metaplanet-surges-20-4870837)**
-
-Investing.com • 15m ago
-
----
-
-**[Bitcoin Rises Sharply as U.S. Debt Concerns Boost Dollar Hedge Appeal -- Market Talk](https://www.moomoo.com/news/post/75041846/bitcoin-rises-sharply-as-us-debt-concerns-boost-dollar-hedge)**
-
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -193,15 +189,23 @@ Moomoo • 1h ago
 
 Strategy held 840,447 BTC as of Aug. 9, equal to roughly 4% of Bitcoin’s maximum 21 million supply. MSTR common shareholders sit behind $6.75 billion ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin's Odds Of Hitting $80,000 This Year Double Overnight As Price Suddenly Tops $70,000](https://www.forbes.com/sites/antoniopequenoiv/2026/08/20/bitcoins-odds-of-hitting-80000-this-year-double-overnight-as-price-suddenly-tops-70000/)**
+**[Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/)**
 
-Polymarket trading pushed the odds of bitcoin hitting the benchmark by the end of the year from 30% to 60% overnight.
+The S&P 500 just triggered a bullish signal, barely.
 
-Forbes • 11h ago
+Investor's Business Daily • 18h ago
+
+---
+
+**[Live: US markets down amid plan to 'collapse' Iran's economy, ASX to follow](https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908)**
+
+The US is urging allies to join it in a bid to "collapse" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
+
+ABC News & Headlines – Australian Broadcasting Corporation • 9h ago
 
 ---
 
@@ -211,19 +215,19 @@ WSJ • 1d ago
 
 ---
 
-**[Live: Bitcoin surges on US policy signals, market down on plan to 'collapse' Iran's economy](https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908)**
-
-The US is urging allies to join it in a bid to "collapse" Iran's economy to end the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 7h ago
-
----
-
 **[Bitcoin and Altcoins Are Rallying. Is ‘Crypto Winter’ Thawing?](https://www.investopedia.com/market-update-bitcoin-and-altcoins-are-rallying-is-crypto-winter-thawing-btc-mstr-stock-12064359)**
 
 Signs of a crypto thaw are beginning to show.
 
-Investopedia • 13h ago
+Investopedia • 14h ago
+
+---
+
+**[The Tragedy Of The Commons In Open Source Software, Explained Through Bitcoin Wallets](https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives)**
+
+Bitcoin Core demonstrates pure open-source functioning at scale: public pull requests, formal ACK language, multi-year consensus, and no privileged caste. The contrast with restricted licensing reveals what incentives actually produce verification.
+
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -243,7 +247,7 @@ Independent European community operating a coordinator for the Mostro peer-to-pe
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 3 • 💬 2 • 3d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 3 • 💬 2 • 4d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -259,7 +263,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 8h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 9h ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -267,7 +271,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 23h ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 1d ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -289,7 +293,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 116 • 💬 1 • ⏱️ 12:16 • 10h ago
+👁️ 4K • 👍 132 • 💬 3 • ⏱️ 12:16 • 11h ago
+
+---
+
+**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+
+Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+
+📺 CNBC Television
+
+👁️ 47K • 👍 854 • 💬 130 • ⏱️ 7:54 • 17h ago
 
 ---
 
@@ -299,7 +313,7 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 379 • 💬 29 • ⏱️ 14:53 • 12h ago
+👁️ 11K • 👍 398 • 💬 49 • ⏱️ 14:53 • 14h ago
 
 ---
 
@@ -309,17 +323,57 @@ Bitcoin closed above its 200-day moving average for the first time since the bea
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 3K • 💬 152 • ⏱️ 10:41 • 1d ago
+👁️ 72K • 👍 3K • 💬 154 • ⏱️ 10:41 • 1d ago
 
 ---
 
-**[🚨 BITCOIN ROMPE LOS $75,000: ¿COMIENZA LA GRAN SUBIDA? 🚀](https://www.youtube.com/watch?v=9gg-01lZS5c)**
+**[MASSIVE WARNING ISSUED! BITCOIN BULL RUN STARTING NOW - CLARITY ACT  SEPTEMBER 15 CATALYST](https://www.youtube.com/watch?v=mJI3QhiV7Us)**
 
-Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino ¿Estamos ante la **última gran oportunidad para ...
+Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin & XRP All Going CRAZY Hey Babes, Brian ...
 
-📺 Jaime Merino | TradingLatino
+📺 CryptoWendyO
 
-👁️ 4K • 👍 801 • 2h ago
+👁️ 15K • 👍 704 • 💬 11 • ⏱️ 4:09 • 9h ago
+
+---
+
+**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
+
+Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
+
+📺 Benjamin Cowen
+
+👁️ 46K • 👍 2K • 💬 136 • ⏱️ 30:19 • 17h ago
+
+---
+
+**[MASSIVE Crypto Breakout! ALTCOINS At The Cycle Pivot! (EXACTLY What Happened In 2019)](https://www.youtube.com/watch?v=xx1osgIzLoc)**
+
+Bitcoin has been sideways for over two months. Sellers have had 28 days since the neckline touch and they have not been able to ...
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 726 • 💬 439 • ⏱️ 13:12 • 1d ago
+
+---
+
+**[Bitcoin’s $69,000 Breakout Just Changed Everything](https://www.youtube.com/watch?v=09RY7LqmDeU)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 632 • ⏱️ 12:02 • 1d ago
+
+---
+
+**[Expect bitcoin to move back up over $100,000 again, says SkyBridge&#39;s Anthony Scaramucci](https://www.youtube.com/watch?v=-Jyu85yWmbU)**
+
+Anthony Scaramucci, SkyBridge Capital founder and managing partner, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 94K • 👍 1K • 💬 385 • ⏱️ 8:10 • 2d ago
 
 ---
 
@@ -329,57 +383,7 @@ Bitcoin #Crypto #finance Bitcoin explodes above $72K in its biggest upside move 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 793 • 💬 202 • ⏱️ 58:31 • 15h ago
-
----
-
-**[EMERGENCY WHITE HOUSE BITCOIN MEETING FORCED BITCOIN TO EXPLODE?! | EP 1573](https://www.youtube.com/watch?v=S4EGMM-DDuA)**
-
-Bitcoin bear market seems to have ended as price kisses $69k - but what is the catalyst?
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 529 • 💬 26 • ⏱️ 1:36:12 • 1d ago
-
----
-
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
-
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
-
-📺 Crypto Capital Venture
-
-👁️ 23K • 👍 1K • 💬 594 • ⏱️ 22:30 • 1d ago
-
----
-
-**[THE BITCOIN TRAP IS SET: WATCH THIS EXACT LEVEL!!!](https://www.youtube.com/watch?v=Jt5WTvHYHYo)**
-
-EXCLUSIVE 10% DEPOSIT BONUS https://ckenny.com/yubitnew Conor's Foundation Portfolio https://ckenny.com/CCM ...
-
-📺 Conor Kenny
-
-👁️ 9K • 👍 569 • 💬 47 • ⏱️ 14:03 • 14h ago
-
----
-
-**[BITCOIN FOOLED EVERYONE...](https://www.youtube.com/watch?v=GyRlX6kf1HU)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 17K • 👍 1K • 💬 112 • ⏱️ 8:08 • 23h ago
-
----
-
-**[SEC Boosts Crypto Sentiment!🔥Market Turnaround?🚀](https://www.youtube.com/watch?v=zzp95BKhd9E)**
-
-The SEC just proposed Regulation Crypto Assets and the market exploded. Ethereum ripped nearly 9% back over $2000, Bitcoin ...
-
-📺 Paul Barron Network
-
-👁️ 84K • 👍 3K • 💬 210 • ⏱️ 16:06 • 1d ago
+👁️ 17K • 👍 805 • 💬 205 • ⏱️ 58:31 • 16h ago
 
 ---
 

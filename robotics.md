@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-21T05:32:50.217415+00:00'
+updated: '2026-08-21T06:46:48.249537+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 21, 2026 at 05:32 UTC  
+**Last Updated:** August 21, 2026 at 06:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
 
-12h ago
+13h ago
 
 ---
 
 **[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 Jokes aside, servos stripping the PLA grip rather than their internal gears probably saved me a ton of money on replacement servos. This accidental fail safe also comes with a bit of a downside. I recently noticed, the same stripping happens overtime as well without any falls etc... so connecting pieces needs to be replaced every couple weeks or so. Has anyone directly attached 20kg plus servos to other 3d printing materials ? did you guys have any issues with them?? If anyone is interested in the robot, I share videos of it on youtube: youtube.com/@printedrobotics I also share simulation scripts and robots design files along with my videos so anyone can build the robot and explore the simulation exercises on their own.
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Jokes aside, servos stripping the PLA grip rather than their internal gears prob
 
 I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, with a real-time 3D visualization using Three.js. The Node-RED dashboard can control each joint, save robot positions, and run movement sequences. The 3D model also includes the multi-link gripper, so the physical robot and virtual model can move together. I’d be interested to hear your feedback or suggestions for improving the system
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=tUq8dE7znj0) • 16h ago
 
 ---
 
@@ -66,7 +66,7 @@ I built a DIY 6-DOF robot controlled using Node-RED, ESP8266, and Modbus TCP, wi
 
 KAIST’s HOUND quadruped uses reinforcement learning to decide how to move based on the terrain in front of it. Instead of relying on separate control programs for walking, running and jumping, the robot learned multiple movement skills under one framework and can switch between them as conditions change. Researchers tested it across stairs, slopes, gaps, grass, forest trails and uneven terrain, with HOUND adapting its gait without human input.
 
-🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 10h ago
+🔗 [automate.org](https://www.automate.org/motion-control/industry-insights/quadruped-figures-out-how-to-walk-based-on-terrain) • 11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not so long ago, after design and SolidWorks modeling and manufacturing was done
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 9h ago
+🔗 [youtu.be](https://youtu.be/unp9HWmkuPQ?si=caJgyTo6inryzqgV) • 11h ago
 
 ---
 
@@ -120,22 +120,6 @@ Reuters • 2d ago
 
 ---
 
-**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
-
-Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
-
-CNBC • 21h ago
-
----
-
-**[China’s robot makers display latest humanoid robots at conference in Beijing](https://apnews.com/video/chinese-robot-industry-confident-despite-us-import-ban-dfec67c3e0c74e8bbd399f85807a52ec)**
-
-China kicked off the 2026 World Robot Conference with companies showcasing the country’s expanding robotics industry.
-
-AP News • 20h ago
-
----
-
 **[EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots](https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/)**
 
 Reuters • 1d ago
@@ -146,7 +130,7 @@ Reuters • 1d ago
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
 
-Ars Technica • 7h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -158,17 +142,17 @@ KEYE • 1d ago
 
 ---
 
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+
+WSJ • 1d ago
+
+---
+
 **[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
 
 Companies are selling machines to government-backed centres that then sell training data back to robot makers
 
 Financial Times • 1d ago
-
----
-
-**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
-
-WSJ • 1d ago
 
 ---
 
@@ -180,11 +164,27 @@ Construction Dive • 1d ago
 
 ---
 
+**[Prosus, chaired by South African billionaire Koos Bekker, bets on $20,000 robots as AI’s next frontier](https://africa.businessinsider.com/local/markets/prosus-chaired-by-south-african-billionaire-koos-bekker-bets-on-dollar20000-robots-as/82seh6m)**
+
+South African-linked technology investor Prosus says AI-powered general-purpose robots could cost about $20,000 within a few years, opening opportunities in logistics, mining and manufacturing
+
+Business Insider Africa • 12h ago
+
+---
+
 **[Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech](https://www.chosun.com/english/industry-en/2026/08/21/4FHY3235RNDBNIMCEJFACYQ5HI/)**
 
 Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech Over 80% of global humanoids use NVIDIAs platform, solidifying U.S. lead in robot intelligence
 
-조선일보 • 3h ago
+조선일보 • 4h ago
+
+---
+
+**[Robotic clothes allow you to suit up hands-free](https://www.livenowfox.com/news/fda-authorizes-robotic-blood-draw-device)**
+
+A first-of-its-kind robotic device can now autonomously draw blood from patients, following authorization from the FDA. Here’s how it works.
+
+LiveNOW from FOX • 1d ago
 
 ---
 
@@ -192,51 +192,13 @@ Humanoid Robots Diverse in Origin, Brains Powered by U.S. Tech Over 80% of globa
 
 ## YouTube Videos: "robotics"
 
-**[Mecanum Wheels for My Robot. Part 2. #shorts #3dprinting #engineering #robot](https://www.youtube.com/watch?v=DeyqeIQt91g)**
+**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
 
-📺 Aram Davtyan
+China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
 
-👁️ 22K • 👍 442 • 💬 8 • ⏱️ 0:39 • 2d ago
+📺 Associated Press
 
----
-
-**[Honor’s Robot Phone is here](https://www.youtube.com/watch?v=ZKTenyFHMXc)**
-
-Honor's Robot Phone is here and it's more gimbal than robot. Still, it's a pretty cool idea. The full gimbal arm stays tucked inside ...
-
-📺 The Verge
-
-👁️ 33K • 👍 860 • 💬 29 • ⏱️ 2:33 • 6d ago
-
----
-
-**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
-
-The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
-
-📺 Custom Adventurist
-
-👁️ 1.0M • 👍 55K • 💬 478 • ⏱️ 1:04 • 3d ago
-
----
-
-**[Unitree Superman Robot Jump and Fast Run](https://www.youtube.com/watch?v=LRoAfnQvQDA)**
-
-Unitree Robotics has revealed an incredible preview of its new experimental “Superman” robot, capable of reaching a claimed ...
-
-📺 DPCcars
-
-👁️ 27K • 👍 224 • 💬 65 • ⏱️ 1:31 • 3d ago
-
----
-
-**[Unitree&#39;s new humanoid robot just claimed a speed Usain Bolt never hit](https://www.youtube.com/watch?v=kuAqfg-Tp7s)**
-
-Unitree has released a video of its newest humanoid robot claiming a top speed of 12.66 metres per second and a two metre ...
-
-📺 Interesting Engineering Explains
-
-👁️ 20K • 👍 638 • 💬 95 • ⏱️ 1:51 • 3d ago
+👁️ 4K • 👍 35 • 💬 7 • ⏱️ 0:54 • 1d ago
 
 ---
 
@@ -246,25 +208,7 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 67K • 👍 1K • 💬 272 • ⏱️ 1:36 • 1d ago
-
----
-
-**[Top 10 HOME ROBOTS for 2026 #shorts #home](https://www.youtube.com/watch?v=CGcxwvB4XLg)**
-
-10 unique home robots to help improve productivity and save you time! Let me know which is your favorite Linked all products ...
-
-📺 Justice Buys
-
-👁️ 308K • 👍 12K • 💬 152 • ⏱️ 1:05 • 3d ago
-
----
-
-**[🚨 How it feels to be a beacon runner #warrobots #warrobotsmemes](https://www.youtube.com/watch?v=naGaeGgo8tk)**
-
-📺 War Robots [WR]
-
-👁️ 83K • 👍 2K • 💬 105 • ⏱️ 0:13 • 3d ago
+👁️ 71K • 👍 2K • 💬 274 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -274,17 +218,75 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 11K • 👍 364 • 💬 62 • ⏱️ 5:16 • 4d ago
+👁️ 11K • 👍 366 • 💬 62 • ⏱️ 5:16 • 4d ago
 
 ---
 
-**[This Robot is Turning Beach Garbage into a Profitable Cleaning Business l #shorts #usa #usabeach #us](https://www.youtube.com/watch?v=KwXtOglEMSA)**
+**[This Robot Just Beat Usain Bolt’s 17-Year-Old World Record #shorts  #viral](https://www.youtube.com/watch?v=Jc2O8iiqwgA)**
 
-This robot is turning beach garbage into a profitable cleaning business. 🏖️     Instead of sending workers across the sand with ...
+A robot has just done something that sounds straight out of science fiction — beating a 17-year-old world record associated with ...
 
-📺 Learn Earn
+📺 NDTV Profit
 
-👁️ 258K • 👍 4K • 💬 89 • ⏱️ 0:16 • 17h ago
+👁️ 22K • 👍 136 • 💬 4 • ⏱️ 0:13 • 14h ago
+
+---
+
+**[Riding heavy-load robotic horse at World Robot Conference](https://www.youtube.com/watch?v=aAo_6CI4rx8)**
+
+An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at the 2026 World Robot Conference in Beijing.
+
+📺 New China TV
+
+👁️ 8K • 👍 76 • 💬 2 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 246K • 👍 3K • 💬 627 • ⏱️ 10:16 • 6d ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 127K • 👍 6K • 💬 57 • ⏱️ 1:28 • 1d ago
+
+---
+
+**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
+
+Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
+
+📺 Inside China Business
+
+👁️ 51K • 👍 4K • 💬 561 • ⏱️ 8:40 • 2d ago
+
+---
+
+**[Robots show off skills at World Robot Conference](https://www.youtube.com/watch?v=7WGmsBy_U1Q)**
+
+Robots show off an ever-wider range of skills as they cook, dance, fight, do push-ups, and just act cute at the 2026 World Robot ...
+
+📺 New China TV
+
+👁️ 11K • 👍 72 • 💬 2 • ⏱️ 0:16 • 23h ago
+
+---
+
+**[Chinese humanoid robot &#39;Flash&#39; targets 100m world record#coolchina](https://www.youtube.com/watch?v=BCFIaspCR-o)**
+
+Chinese smart device maker Honor is putting its humanoid robot "Flash" through sprint training ahead of the second World ...
+
+📺 CGTN
+
+👁️ 30K • 👍 225 • 💬 23 • ⏱️ 0:18 • 2d ago
 
 ---
 
