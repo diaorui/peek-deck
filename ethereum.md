@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T23:20:43.420547+00:00'
+updated: '2026-08-22T23:46:06.253449+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 23:20 UTC  
+**Last Updated:** August 22, 2026 at 23:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +29.0%  
-**30d:** +30.0%  
-**90d:** +14.5%  
-**1y:** -49.4%  
+**24h:** -4.0%  
+**7d:** +29.1%  
+**30d:** +30.1%  
+**90d:** +14.6%  
+**1y:** -49.3%  
 
 ---
 
@@ -160,11 +160,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://finance.yahoo.com/markets/crypto/articles/ethereum-etf-pulls-221m-eth-104122286.html)**
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
-Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,6 +184,14 @@ CryptoSlate • 1d ago
 
 ---
 
+**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
+
+Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
@@ -200,19 +208,11 @@ MarketForces Africa • 3d ago
 
 ---
 
-**[Ethereum Price Prediction: $4,000 Bull Case vs $1,500 Bear Case](https://financefeeds.com/ethereum-price-prediction-4000-bull-case-vs-1500-bear-case/)**
-
-Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
-
-FinanceFeeds • 9h ago
-
----
-
 **[Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase](https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/)**
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -224,11 +224,11 @@ New York Post • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/)**
+**[Ethereum Price Prediction: $4,000 Bull Case vs $1,500 Bear Case](https://financefeeds.com/ethereum-price-prediction-4000-bull-case-vs-1500-bear-case/)**
 
-The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from
+Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-Coinpedia • 13h ago
+FinanceFeeds • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 41 • 💬 3 • ⏱️ 4:45 • 11h ago
+👁️ 2K • 👍 41 • 💬 3 • ⏱️ 4:45 • 12h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 281 • 💬 12 • ⏱️ 11:12 • 6h ago
+👁️ 5K • 👍 281 • 💬 12 • ⏱️ 11:12 • 7h ago
 
 ---
 

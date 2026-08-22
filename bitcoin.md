@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T23:20:43.414347+00:00'
+updated: '2026-08-22T23:46:06.248459+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 23:20 UTC  
+**Last Updated:** August 22, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,112.93
+### $76,986.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +22.6%  
-**30d:** +20.2%  
-**90d:** -0.3%  
-**1y:** -33.2%  
+**24h:** -1.2%  
+**7d:** +22.5%  
+**30d:** +20.0%  
+**90d:** -0.4%  
+**1y:** -33.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ u/Boring_Ad7277
 
 **[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ u/Boring_Ad7277
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 14h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 15h ago
 
 ---
 
@@ -156,6 +156,20 @@ I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
+
+Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
+
+CNBC • 1d ago
+
+---
+
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -189,6 +203,14 @@ AP News • 9h ago
 
 ---
 
+**[Tesla And SpaceX CEO Elon Musk’s $40 Trillion U.S. 'Bankruptcy' Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/08/22/elon-musks-40-trillion-nightmare-is-suddenly-coming-true-as-the-bitcoin-price-soars/)**
+
+Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
+
+Forbes • 11h ago
+
+---
+
 **[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
 
 Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
@@ -197,31 +219,11 @@ IO Fund • 2d ago
 
 ---
 
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+**[Bitcoin surges 22% for the week as investor optimism floods back](https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html)**
 
-WSJ • 1d ago
+The flagship digital currency has enjoyed a strong week boosted by several contributing factors.
 
----
-
-**[Tesla And SpaceX CEO Elon Musk’s $40 Trillion U.S. 'Bankruptcy' Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/08/22/elon-musks-40-trillion-nightmare-is-suddenly-coming-true-as-the-bitcoin-price-soars/)**
-
-Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
-
-Forbes • 10h ago
-
----
-
-**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
-
-MarketWatch • 10h ago
-
----
-
-**[Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
-
-Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
-
-Investor's Business Daily • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -345,7 +347,7 @@ Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! S
 
 📺 Sin City Crypto
 
-👁️ 14K • 👍 573 • 💬 2 • ⏱️ 5:58:35 • 18h ago
+👁️ 14K • 👍 573 • 💬 2 • ⏱️ 5:58:35 • 19h ago
 
 ---
 
@@ -375,7 +377,7 @@ Bitcoin is once again in the spotlight as traders and investors watch for the ne
 
 📺 The Mad Violinist
 
-👁️ 4K • 👍 3K • 43m ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 
