@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T05:27:28.005649+00:00'
+updated: '2026-08-22T05:54:35.223907+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 05:27 UTC  
+**Last Updated:** August 22, 2026 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1579.53B
+**Market Cap:** $1553.85B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.6%
+-38.6%
 
 **All-Time Low:** $67.81
-+115953.7%
++114091.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-6h ago
+7h ago
 
 ---
 
@@ -95,13 +95,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-15h ago
+16h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -113,13 +113,27 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-6h ago
+7h ago
+
+---
+
+**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
+
+1h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-18h ago
+19h ago
+
+---
+
+**[Prophet u/Boring_Ad7277 postet this chart 7 days ago](https://www.reddit.com/r/Bitcoin/comments/1vv1qns/prophet_uboring_ad7277_postet_this_chart_7_days/)**
+
+u/Boring_Ad7277
+
+2h ago
 
 ---
 
@@ -128,18 +142,6 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 Just read that US Treasury intervention in the bond markets have not worked and the yields climbed back up before the intervention. It’s obvious that the US Treasury is trying their best to reduce interest rates. I would not be surprised if they announce more of the same, failed intervention policies on Monday. Money printer is going to go into overdrive.
 
 6h ago
-
----
-
-**[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
-
-20h ago
-
----
-
-**[Bro really be acting like this owning 0.005 btc](https://www.reddit.com/r/Bitcoin/comments/1vuy99i/bro_really_be_acting_like_this_owning_0005_btc/)**
-
-4h ago
 
 ---
 
@@ -173,7 +175,7 @@ Bloomberg.com • 12h ago
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -181,13 +183,13 @@ Yahoo Finance • 17h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
 **[How a Treasury Buyback Tweak Helped Bitcoin Surge Nearly 25% in Days](https://www.moomoo.com/news/post/75095813/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25)**
 
-Moomoo • 16m ago
+Moomoo • 43m ago
 
 ---
 
@@ -199,7 +201,7 @@ WSJ • 5h ago
 
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -207,7 +209,7 @@ Reuters • 18h ago
 
 FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
 
-Fox Business • 13h ago
+Fox Business • 14h ago
 
 ---
 
@@ -215,7 +217,7 @@ Fox Business • 13h ago
 
 Oil kept running higher as well while Walmart sold off on earnings.
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -235,7 +237,7 @@ Independent European community operating a coordinator for the Mostro peer-to-pe
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 3 • 💬 2 • 4d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 3 • 💬 2 • 5d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -265,7 +267,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 1d ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 2d ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -273,81 +275,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+**[CRYPTO CATCHES FIRE: Coinbase RIDES Bitcoin surge #shorts](https://www.youtube.com/watch?v=09_mEmVxNZI)**
 
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on ...
 
-📺 Nicholas Crown
+📺 Fox Business
 
-👁️ 471 • 👍 25 • 💬 4 • ⏱️ 1:15 • 2h ago
-
----
-
-**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
-
-Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 3K • 💬 143 • ⏱️ 11:06 • 1d ago
-
----
-
-**[Bitcoin Short SQUEEZE! Live Trading &amp; TA](https://www.youtube.com/watch?v=nQzRa9_agZM)**
-
-Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! Start your prop trading journey with Breakout ...
-
-📺 Sin City Crypto
-
-👁️ 8K • 👍 499 • 7h ago
-
----
-
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 83K • 👍 3K • 💬 159 • ⏱️ 10:41 • 2d ago
-
----
-
-**[Clarity Act and why Bitcoin is up](https://www.youtube.com/watch?v=mOvNU_aluNY)**
-
-Bitcoin (BTC) and Strategy (MSTR) just had an absolutely fantastic thanks to the Clarity Act. Basically Washington hosted a bunch ...
-
-📺 Noor
-
-👁️ 717 • ⏱️ 1:07 • 5h ago
-
----
-
-**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
-
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
-
-📺 The Hobbyist Miner
-
-👁️ 3K • 👍 151 • 💬 22 • ⏱️ 18:12 • 17h ago
-
----
-
-**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
-
-Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
-
-📺 Yahoo Finance
-
-👁️ 15K • 👍 472 • 💬 68 • ⏱️ 14:53 • 1d ago
-
----
-
-**[XRP LEADS CRYPTO ALTCOIN SEASON WITH 25% PUMP!!! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=iTkfBj5D9YM)**
-
-📺 CryptoWendyO
-
-👁️ 11K • 👍 758 • 💬 10 • ⏱️ 2:32 • 1d ago
+👁️ 2K • 👍 56 • 💬 6 • ⏱️ 1:14 • 3h ago
 
 ---
 
@@ -357,17 +291,85 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 11K • 👍 788 • 💬 10 • ⏱️ 9:16 • 13h ago
+👁️ 12K • 👍 829 • 💬 16 • ⏱️ 9:16 • 13h ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=-Q4MST1QqKI)**
+**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Outdoor Limits
+📺 Altcoin Daily
 
-👁️ 4K • 👍 1K • 2h ago
+👁️ 47K • 👍 3K • 💬 145 • ⏱️ 11:06 • 1d ago
+
+---
+
+**[Bitcoins Reality Check #bitcoin #btc #crypto #ytshorts #fypシ](https://www.youtube.com/watch?v=YdYei-G64XY)**
+
+📺 Life ROI
+
+👁️ 450 • 👍 10 • 💬 1 • ⏱️ 2:39 • 2h ago
+
+---
+
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
+
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 2K • 💬 72 • ⏱️ 17:33 • 1d ago
+
+---
+
+**[Bitcoin Surges Past $72,000! Massive Short Squeeze?!](https://www.youtube.com/watch?v=EtHqrz4V0_M)**
+
+Hurley talks about Bitcoin Surges Past $72000! Massive Short Squeeze?! Brought to you by Bitcoinwell.com a bitcoin-only ...
+
+📺 Simply Bitcoin
+
+👁️ 865 • 👍 19 • ⏱️ 0:18 • 5h ago
+
+---
+
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 84K • 👍 3K • 💬 159 • ⏱️ 10:41 • 2d ago
+
+---
+
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+
+📺 Nicholas Crown
+
+👁️ 1K • 👍 65 • 💬 7 • ⏱️ 1:15 • 2h ago
+
+---
+
+**[$1.5 Million Bitcoin Bet - Trump Just Opened The Door](https://www.youtube.com/watch?v=Jhbfulv6eMo)**
+
+Secure Your Bitcoin With a Trezor Hardware Wallet: https://affil.trezor.io/aff_c?offer_id=137&aff_id=846511 Bitcoin is breaking out ...
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 327 • 💬 69 • ⏱️ 16:24 • 1d ago
+
+---
+
+**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+
+Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+
+📺 CNBC Television
+
+👁️ 70K • 👍 1K • 💬 187 • ⏱️ 7:54 • 1d ago
 
 ---
 

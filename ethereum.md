@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T05:27:28.011023+00:00'
+updated: '2026-08-22T05:54:35.229900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 05:27 UTC  
+**Last Updated:** August 22, 2026 at 05:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.80B
+**Market Cap:** $294.74B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.1%
+-50.6%
 
 **All-Time Low:** $0.43
-+581364.7%
++564005.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-26m ago
+53m ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 12h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 13h ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -212,7 +212,7 @@ Ethereum Foundation Blog • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -236,13 +236,13 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
+**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
 
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 4K • 👍 191 • 💬 5 • ⏱️ 7:31 • 12h ago
+👁️ 10K • 👍 433 • 💬 45 • ⏱️ 20:52 • 12h ago
 
 ---
 
@@ -252,27 +252,17 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 60 • ⏱️ 1:25 • 15h ago
+👁️ 1K • 👍 64 • ⏱️ 1:25 • 15h ago
 
 ---
 
-**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
 
-BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 9K • 👍 414 • 💬 30 • ⏱️ 20:52 • 12h ago
-
----
-
-**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
-
-In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
-
-📺 Coin Bureau Podcast
-
-👁️ 1K • 👍 28 • 💬 1 • ⏱️ 0:43 • 12h ago
+👁️ 4K • 👍 193 • 💬 5 • ⏱️ 7:31 • 13h ago
 
 ---
 
@@ -282,7 +272,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 16K • 👍 378 • 💬 79 • ⏱️ 41:59 • 1d ago
+👁️ 16K • 👍 385 • 💬 79 • ⏱️ 41:59 • 1d ago
 
 ---
 
@@ -292,7 +282,17 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 691 • 💬 99 • ⏱️ 11:56 • 1d ago
+👁️ 14K • 👍 694 • 💬 102 • ⏱️ 11:56 • 1d ago
+
+---
+
+**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
+
+In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
+
+📺 Coin Bureau Podcast
+
+👁️ 1K • 👍 29 • 💬 1 • ⏱️ 0:43 • 12h ago
 
 ---
 
@@ -302,7 +302,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 295 • 💬 20 • ⏱️ 7:45 • 1d ago
+👁️ 9K • 👍 296 • 💬 20 • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -312,17 +312,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 157 • 💬 30 • ⏱️ 11:13 • 1d ago
-
----
-
-**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
-
-Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 13K • 👍 886 • 💬 353 • ⏱️ 43:02 • 1d ago
+👁️ 5K • 👍 159 • 💬 30 • ⏱️ 11:13 • 1d ago
 
 ---
 
@@ -332,7 +322,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 894 • 👍 31 • 💬 2 • ⏱️ 5:27 • 20h ago
+👁️ 916 • 👍 33 • 💬 2 • ⏱️ 5:27 • 20h ago
+
+---
+
+**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
+
+Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 13K • 👍 887 • 💬 354 • ⏱️ 43:02 • 1d ago
 
 ---
 

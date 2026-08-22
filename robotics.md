@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T05:27:28.013856+00:00'
+updated: '2026-08-22T05:54:35.232984+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 05:27 UTC  
+**Last Updated:** August 22, 2026 at 05:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,13 +66,13 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 10h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 20h ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -186,53 +186,33 @@ The New York Times • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
+
+The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
+
+📺 NBC News
+
+👁️ 30K • 👍 281 • 💬 53 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
+
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
+
+📺 AI Revolution
+
+👁️ 38K • 👍 875 • 💬 103 • ⏱️ 14:10 • 3d ago
+
+---
+
 **[LIVE: Humanoid robots perform tasks at 2026 World Robot Conference in China](https://www.youtube.com/watch?v=2anAlqQ-XFE)**
 
 Watch live from the World Robot Conference in Beijing, where companies showcase the latest robots and technologies as China ...
 
 📺 Associated Press
 
-👁️ 10K • 👍 186 • 💬 6 • ⏱️ 34:12 • 1d ago
-
----
-
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
-
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 14 • ⏱️ 0:28 • 11h ago
-
----
-
-**[Robot Faster Than a Human Being](https://www.youtube.com/watch?v=vDp4lnBh1sQ)**
-
-This robot is faster than Usain Bolt #robotics #robot #sport #finance #technews.
-
-📺 RealJonahBlake
-
-👁️ 620 • 👍 15 • 💬 2 • ⏱️ 0:19 • 4h ago
-
----
-
-**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
-
-Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
-
-📺 ABC News
-
-👁️ 90K • 👍 2K • 💬 322 • ⏱️ 1:36 • 2d ago
-
----
-
-**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
-
-China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
-
-📺 Techie Sapien
-
-👁️ 467K • 👍 2K • 💬 26 • ⏱️ 0:09 • 20h ago
+👁️ 10K • 👍 185 • 💬 6 • ⏱️ 34:12 • 1d ago
 
 ---
 
@@ -242,7 +222,27 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 2K • 👍 209 • 💬 6 • ⏱️ 0:24 • 4h ago
+👁️ 3K • 👍 317 • 💬 16 • ⏱️ 0:24 • 4h ago
+
+---
+
+**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
+
+Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
+
+📺 DPCcars
+
+👁️ 3K • 👍 15 • ⏱️ 0:28 • 12h ago
+
+---
+
+**[Chinese robotics company unveils robot that can outrun Usain Bolt](https://www.youtube.com/watch?v=ZhvEOVz8U0I)**
+
+Chinese robotics company Unitree has unveiled a new "Superman" robot that can reportedly outrun Usain Bolt and jump over 6.5 ...
+
+📺 ABC News
+
+👁️ 96K • 👍 2K • 💬 331 • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -252,17 +252,27 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 225K • 👍 18K • 💬 94 • ⏱️ 1:40 • 14h ago
+👁️ 262K • 👍 20K • 💬 149 • ⏱️ 1:40 • 14h ago
 
 ---
 
-**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
+**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
 
-Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
+China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
 
-📺 Inside China Business
+📺 Techie Sapien
 
-👁️ 52K • 👍 4K • 💬 561 • ⏱️ 8:40 • 3d ago
+👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 20h ago
+
+---
+
+**[Riding heavy-load robotic horse at World Robot Conference](https://www.youtube.com/watch?v=aAo_6CI4rx8)**
+
+An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at the 2026 World Robot Conference in Beijing.
+
+📺 New China TV
+
+👁️ 16K • 👍 103 • 💬 3 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -271,16 +281,6 @@ Silicon Valley startups are flying to China and buying robot parts, putting them
 📺 Prasadtechshorts
 
 👁️ 135K • 👍 6K • 💬 59 • ⏱️ 1:28 • 2d ago
-
----
-
-**[❄️🤖 Makkah’s Smart Cold Refreshment Robot | Future Service](https://www.youtube.com/watch?v=7sBCHV2Ynh0)**
-
-A futuristic robot brings cool refreshments directly to pilgrims in Makkah. ❄️   From safe preparation to serving multiple family ...
-
-📺 MISTER CROWN 👑
-
-👁️ 18K • 👍 967 • ⏱️ 0:11 • 1d ago
 
 ---
 
