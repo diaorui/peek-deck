@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T06:39:32.082010+00:00'
+updated: '2026-08-22T07:31:35.856797+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 06:39 UTC  
+**Last Updated:** August 22, 2026 at 07:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 20h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 21h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-10h ago
+11h ago
 
 ---
 
@@ -66,19 +66,19 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 10h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 11h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -120,13 +120,13 @@ Ars Technica • 1d ago
 
 Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -134,7 +134,7 @@ WSJ • 14h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -148,7 +148,7 @@ WSJ • 2d ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 18h ago
+Al Jazeera • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ Al Jazeera • 18h ago
 
 Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ IEEE Spectrum • 14h ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 11h ago
+Mashable • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 📺 Associated Press
 
-👁️ 10K • 👍 185 • 💬 6 • ⏱️ 34:12 • 1d ago
+👁️ 10K • 👍 185 • 💬 6 • ⏱️ 34:12 • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 3K • 👍 317 • 💬 16 • ⏱️ 0:24 • 5h ago
+👁️ 3K • 👍 317 • 💬 16 • ⏱️ 0:24 • 6h ago
 
 ---
 
@@ -232,7 +232,7 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 3K • 👍 15 • ⏱️ 0:28 • 12h ago
+👁️ 3K • 👍 15 • ⏱️ 0:28 • 13h ago
 
 ---
 
@@ -252,7 +252,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 262K • 👍 20K • 💬 149 • ⏱️ 1:40 • 15h ago
+👁️ 262K • 👍 20K • 💬 149 • ⏱️ 1:40 • 16h ago
 
 ---
 
@@ -262,7 +262,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 21h ago
+👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 22h ago
 
 ---
 

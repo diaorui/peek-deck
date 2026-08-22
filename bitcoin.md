@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T06:39:32.072805+00:00'
+updated: '2026-08-22T07:31:35.847569+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 06:39 UTC  
+**Last Updated:** August 22, 2026 at 07:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,15 +81,7 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-7h ago
-
----
-
-**[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
-
-For anyone worried about missing not buying. Everything is gonna be fine.
-
-11h ago
+8h ago
 
 ---
 
@@ -99,33 +91,35 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 ---
 
-**[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
+**[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
 
-17h ago
+For anyone worried about missing not buying. Everything is gonna be fine.
 
----
-
-**[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
-
-21h ago
-
----
-
-**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
-
-7h ago
+12h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-2h ago
+3h ago
 
 ---
 
-**[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
+**[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-19h ago
+18h ago
+
+---
+
+**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
+
+8h ago
+
+---
+
+**[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
+
+22h ago
 
 ---
 
@@ -133,7 +127,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 u/Boring_Ad7277
 
-2h ago
+3h ago
+
+---
+
+**[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
+
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ u/Boring_Ad7277
 
 Just read that US Treasury intervention in the bond markets have not worked and the yields climbed back up before the intervention. It’s obvious that the US Treasury is trying their best to reduce interest rates. I would not be surprised if they announce more of the same, failed intervention policies on Monday. Money printer is going to go into overdrive.
 
-7h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Just read that US Treasury intervention in the bond markets have not worked and 
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 18h ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -169,13 +169,13 @@ CNBC • 11h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -183,13 +183,13 @@ Bloomberg.com • 13h ago
 
 $Bitcoin (BTC.CC)$
 
-Moomoo • 40m ago
+Moomoo • 1h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -197,13 +197,13 @@ WSJ • 6h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ Reuters • 19h ago
 
 FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
 
-Fox Business • 15h ago
+Fox Business • 16h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fox Business • 15h ago
 
 Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -245,7 +245,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 22h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 23h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -283,7 +283,7 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 2K • 👍 56 • 💬 6 • ⏱️ 1:14 • 4h ago
+👁️ 2K • 👍 56 • 💬 6 • ⏱️ 1:14 • 5h ago
 
 ---
 
@@ -293,7 +293,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 12K • 👍 829 • 💬 16 • ⏱️ 9:16 • 14h ago
+👁️ 12K • 👍 829 • 💬 16 • ⏱️ 9:16 • 15h ago
 
 ---
 
@@ -311,7 +311,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Life ROI
 
-👁️ 450 • 👍 10 • 💬 1 • ⏱️ 2:39 • 3h ago
+👁️ 450 • 👍 10 • 💬 1 • ⏱️ 2:39 • 4h ago
 
 ---
 
@@ -331,7 +331,7 @@ Hurley talks about Bitcoin Surges Past $72000! Massive Short Squeeze?! Brought t
 
 📺 Simply Bitcoin
 
-👁️ 865 • 👍 19 • ⏱️ 0:18 • 6h ago
+👁️ 865 • 👍 19 • ⏱️ 0:18 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 1K • 👍 65 • 💬 7 • ⏱️ 1:15 • 3h ago
+👁️ 1K • 👍 65 • 💬 7 • ⏱️ 1:15 • 4h ago
 
 ---
 

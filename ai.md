@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T06:39:32.064225+00:00'
+updated: '2026-08-22T07:31:35.839086+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 06:39 UTC  
+**Last Updated:** August 22, 2026 at 07:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Ant Group's new release makes six base checkpoints available: pretrained, mid-trained, and WSM-merged checkpoints for both the tiny and flash sizes. That is two sizes × three training stages. Every repository is public and ungated with an MIT declaration, and none of the six has been post-trained. The Ling-3.0 base model release exposes three points in the training progression for each of two model sizes. Researchers can inspect each released stage, but these are base checkpoints for continued pretraining, fine-tuning, and research—not finished chat or instruct models. One important evidence boundary: the team says the same recipe was validated on tiny and then scaled to flash, but that is an official statement rather than an independent reproduction. The WSM paper's reported experiments use Ling-mini, not the six Ling-3.0 checkpoints released here. The official release announcement contains the full family, and the main tiny and flash model pages are the WSM-merged endpoints..
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Ant Group's new release makes six base checkpoints available: pretrained, mid-tr
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
 
-19h ago
+20h ago
 
 ---
 
@@ -81,7 +81,7 @@ Fixing an evaluator before an agent starts iterating prevents the goalposts from
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,13 +97,13 @@ In structured data extraction, adding an LLM-as-a-judge self-correction loop is 
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-22h ago
+23h ago
 
 ---
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ OpenAI • 1d ago
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-The Guardian • 39m ago
+The Guardian • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ The Guardian • 39m ago
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 19h ago
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 17h ago
+NVIDIA Developer • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ NVIDIA Developer • 17h ago
 
 One woman is speaking out after she was secretly filmed, saying that technology like Meta's AI-powered smart glasses threatens personal privacy.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ CBS News • 12h ago
 
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-Courthouse News • 10h ago
+Courthouse News • 11h ago
 
 ---
 
@@ -211,7 +211,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 703 • 💬 2 • 20h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 703 • 💬 2 • 21h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -235,7 +235,7 @@ My personal portfolio site and blog.
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 331 • 💬 337 • 18h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 331 • 💬 337 • 19h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -281,7 +281,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 9 • 15h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 9 • 16h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -355,7 +355,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 21h ago
+👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 22h ago
 
 ---
 
@@ -373,7 +373,7 @@ Yuval Noah Harari says AI has made it possible, for the first time in history, t
 
 📺 The Economist
 
-👁️ 15K • 👍 511 • 💬 4 • ⏱️ 1:45 • 13h ago
+👁️ 15K • 👍 511 • 💬 4 • ⏱️ 1:45 • 14h ago
 
 ---
 
@@ -435,7 +435,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 833 • 21h ago
+⬇️ 18,193 • ❤️ 833 • 22h ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 458 • 12h ago
+⬇️ 123,956 • ❤️ 458 • 13h ago
 
 ---
 
@@ -660,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.7k • 🔱 1.9k • 11h ago
+⭐ 16.7k • 🔱 1.9k • 12h ago
 
 ---
 
@@ -680,7 +680,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 16h ago
+⭐ 8.8k • 🔱 1.1k • 17h ago
 
 ---
 
@@ -690,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 16h ago
+⭐ 3.5k • 🔱 579 • 17h ago
 
 ---
 
@@ -710,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 20h ago
+⭐ 2.9k • 🔱 346 • 21h ago
 
 ---
 
@@ -720,7 +720,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 185 • 21h ago
+⭐ 2.2k • 🔱 185 • 22h ago
 
 ---
 
@@ -730,7 +730,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 235 • 1h ago
+⭐ 2.2k • 🔱 235 • 2h ago
 
 ---
 
@@ -740,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 9h ago
+⭐ 2.0k • 🔱 183 • 10h ago
 
 ---
 
@@ -750,7 +750,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 233 • 2h ago
+⭐ 1.9k • 🔱 233 • 3h ago
 
 ---
 
