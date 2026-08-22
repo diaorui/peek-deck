@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T12:38:34.824412+00:00'
+updated: '2026-08-22T13:31:47.871190+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - videos
 - social
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 12:38 UTC  
+**Last Updated:** August 22, 2026 at 13:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns. We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's possible to generate thousands of different examples which train your model in the same manner. This is why the data for post-training becomes really interesting. The valuable examples might be the ones which reveal the weakness of the model, which are based on realistic tasks and provide some way to check if the model managed to complete the task. While searching for such examples, I discovered Parsewave. Their area of expertise is post-training data on engineering tasks, evaluations and traces. But what is interesting is their concept itself - deliberately generating the data on the capabilities which remain challenging for the model instead of generating the big datasets. What do you think about the future direction of AI training? Will the future of AI be about generating the massive datasets or becoming really good at identifying a small number of truly useful examples?
 
-27m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ One of the questions I've been asking myself recently is how AI training will ev
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-14h ago
+15h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 22h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 23h ago
 
 ---
 
@@ -123,7 +123,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 14h ago
+NPR • 15h ago
 
 ---
 
@@ -131,7 +131,7 @@ NPR • 14h ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -139,19 +139,19 @@ CNBC • 14h ago
 
 This week's edition of "The Queue" focuses on an online television network devoted to streaming AI content.
 
-Boston.com • 38m ago
+Boston.com • 1h ago
 
 ---
 
 **[Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 38m ago
+The New York Times • 1h ago
 
 ---
 
 **[Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet](https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet)**
 
-Bloomberg • 38m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg • 38m ago
 
 The breakneck AI transformation of the industry is the kind of technological disruption that many creatives fear could upend movie-making far beyond China.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 8h ago
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 2h ago
 
 Ronnie Chatterji leads a team of researchers at the company who study how AI is affecting workers, employers, and the economy.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Business Insider • 2h ago
 
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-Courthouse News • 16h ago
+Courthouse News • 17h ago
 
 ---
 
@@ -191,7 +191,7 @@ Courthouse News • 16h ago
 
 Minnesota attorney Faisal S. Ahmed has agreed to a 30-day suspension of his law license for filing a 2025 legal brief that cited nonexistent, AI-hallucinated court cases.
 
-MPR News • 14h ago
+MPR News • 15h ago
 
 ---
 
@@ -265,7 +265,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 10 • 21h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 10 • 22h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -295,7 +295,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 596K • 👍 9K • 💬 734 • ⏱️ 12:08 • 1d ago
+👁️ 610K • 👍 9K • 💬 1K • ⏱️ 12:08 • 1d ago
 
 ---
 
@@ -305,63 +305,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 54K • 👍 2K • 💬 101 • ⏱️ 8:14 • 1d ago
-
----
-
-**[AI Learns to Play Mario](https://www.youtube.com/watch?v=zy-ZowzY8rI)**
-
-You can download Revolut using this link: https://get.revolut.com/z4lF/codebullet and get $40 after your first purchase.
-
-📺 Code Bullet
-
-👁️ 470K • 👍 42K • 💬 974 • ⏱️ 13:55 • 1d ago
-
----
-
-**[These AI Hacks Will Get You Ridiculously Ahead of Most People (Q&amp;A)](https://www.youtube.com/watch?v=1MMqPTiWfSc)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4g57yyR Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 107K • 👍 3K • 💬 173 • ⏱️ 27:06 • 2d ago
-
----
-
-**[Clever cat 🤣🤣 #funny #cat #comedy #trending #youtubeshorts #shorts #shortvideo #ai #aivideo](https://www.youtube.com/watch?v=ttywPCeCzxM)**
-
-📺 Miliemilievlogs
-
-👁️ 4K • 👍 62 • 💬 3 • ⏱️ 0:20 • 2h ago
-
----
-
-**[AI Medical Robot Helps Hajj Pilgrim in Makkah 🤖🕋 | Future Medical Service #medicalrobotics #ai](https://www.youtube.com/watch?v=X2fBWuJT8iE)**
-
-An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
-
-📺 ShahGX.11 million views.24 hours ago
-
-👁️ 2.5M • 👍 57K • 💬 49 • ⏱️ 0:11 • 2d ago
-
----
-
-**[Sad cat 🤣🤣 #funny #cat #comedy #trending #youtubeshorts #shorts #shortvideo #ai #aivideo](https://www.youtube.com/watch?v=CJLnZaD0Dh8)**
-
-📺 Miliemilievlogs
-
-👁️ 219K • 👍 2K • 💬 8 • ⏱️ 0:17 • 1d ago
-
----
-
-**[Scientists Create World First AI-Designed Virus](https://www.youtube.com/watch?v=c7yC0c1cYhE)**
-
-Scientists at Stanford have used AI models to design entirely new viruses that specifically infect bacteria. This breakthrough opens ...
-
-📺 Dr Ben Miles
-
-👁️ 2.4M • 👍 154K • 💬 5K • ⏱️ 2:31 • 2d ago
+👁️ 56K • 👍 2K • 💬 125 • ⏱️ 8:14 • 1d ago
 
 ---
 
@@ -371,15 +315,75 @@ Get the Agent OS & Google AI Studio Masterclass https://www.skool.com/ai-profit-
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 160 • 💬 2 • ⏱️ 7:37 • 1d ago
+👁️ 7K • 👍 162 • 💬 2 • ⏱️ 7:37 • 1d ago
 
 ---
 
-**[Bad cat 🤣🤣 #funny #cat #comedy #trending #youtubeshorts #shorts #shortvideo #ai #aivideo](https://www.youtube.com/watch?v=NHeC03VS34k)**
+**[Red Flag | 90s Hong Kong AI Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=2z7Y6G84Iy4)**
 
-📺 Miliemilievlogs
+RED FLAG — an AI short film in the aesthetic of 90s Hong Kong cinema. Fully open-sourced — every prompt and asset is public.
 
-👁️ 233K • 👍 2K • 💬 15 • ⏱️ 0:21 • 1d ago
+📺 Higgsfield AI
+
+👁️ 34K • 👍 978 • 💬 131 • ⏱️ 2:25 • 2d ago
+
+---
+
+**[Blackouts &amp; Water Shortage Imminent: Tech Overlords Build AI Dystopia &amp; Crush Anyone Who Resists](https://www.youtube.com/watch?v=KMsklsr_nBM)**
+
+The DoJ is using your tax dollars to sue any community that resists data centers. Clayton Morris on the AI takeover of America.
+
+📺 Tucker Carlson
+
+👁️ 196K • 👍 10K • 💬 865 • ⏱️ 1:00:28 • 20h ago
+
+---
+
+**[AI Learns to Play Mario](https://www.youtube.com/watch?v=zy-ZowzY8rI)**
+
+You can download Revolut using this link: https://get.revolut.com/z4lF/codebullet and get $40 after your first purchase.
+
+📺 Code Bullet
+
+👁️ 495K • 👍 43K • 💬 1K • ⏱️ 13:55 • 1d ago
+
+---
+
+**[Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up](https://www.youtube.com/watch?v=Sij_v-mcZXQ)**
+
+(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) ...
+
+📺 All-In Podcast
+
+👁️ 182K • 👍 4K • 💬 489 • ⏱️ 1:30:53 • 23h ago
+
+---
+
+**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
+
+shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
+
+📺 Danno Cal Drawings
+
+👁️ 694K • 👍 56K • 💬 692 • ⏱️ 0:35 • 23h ago
+
+---
+
+**[DeepSeek Just Made Closed AI Look Ridiculous](https://www.youtube.com/watch?v=kyYepbhe1g8)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: ...
+
+📺 Two Minute Papers
+
+👁️ 143K • 👍 5K • 💬 343 • ⏱️ 5:29 • 2d ago
+
+---
+
+**[Guess which is AI vs Real 😭](https://www.youtube.com/watch?v=LcxNzEOfcq4)**
+
+📺 Gbillz
+
+👁️ 988K • 👍 46K • 💬 2K • ⏱️ 0:33 • 2d ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,090,699 • ❤️ 12,035 • 7d ago
+⬇️ 2,090,699 • ❤️ 12,064 • 7d ago
 
 ---
 
@@ -407,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,320,542 • ❤️ 2,557 • 2d ago
+⬇️ 6,320,542 • ❤️ 2,576 • 2d ago
 
 ---
 
@@ -419,7 +423,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 142,846 • ❤️ 910 • 2d ago
+⬇️ 142,846 • ❤️ 929 • 2d ago
 
 ---
 
@@ -431,7 +435,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 34,909 • ❤️ 848 • 1d ago
+⬇️ 34,909 • ❤️ 852 • 1d ago
 
 ---
 
@@ -443,7 +447,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,223,422 • ❤️ 591 • 6d ago
+⬇️ 1,223,422 • ❤️ 596 • 6d ago
 
 ---
 
@@ -455,19 +459,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `26.9B`
 
-⬇️ 164,950 • ❤️ 481 • 3h ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 694,670 • ❤️ 1,524 • 4d ago
+⬇️ 164,950 • ❤️ 490 • 4h ago
 
 ---
 
@@ -479,7 +471,19 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 486,221 • ❤️ 451 • 4d ago
+⬇️ 486,221 • ❤️ 459 • 4d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 694,670 • ❤️ 1,534 • 4d ago
 
 ---
 
@@ -491,19 +495,19 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 16,644 • ❤️ 1,169 • 8d ago
+⬇️ 16,644 • ❤️ 1,170 • 8d ago
 
 ---
 
-**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+**[Ornith-1.5-35B-A3B](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B)**
 
-*MiniMax*
+*Ornith*
 
-MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B parameters per token, excelling in coding and agentic tasks. It is built through end-to-end self-improvement, continuously generating and optimizing training tasks for enhanced performance.
 
-`image-text-to-video` `33.1B`
+`text-generation` `36.0B`
 
-⬇️ 3,899,160 • ❤️ 4,313 • 9d ago
+⬇️ 12,611 • ❤️ 307 • 2d ago
 
 ---
 
@@ -519,9 +523,23 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 703 • 💬 5 • ⭐ 4,237 • 12d ago
+▲ 708 • 💬 5 • ⭐ 4,237 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+
+---
+
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 75 • 💬 2 • ⭐ 846 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -533,7 +551,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 61 • 💬 7 • ⭐ 221 • 2d ago
+▲ 62 • 💬 7 • ⭐ 280 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -599,7 +617,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 123 • 💬 4 • ⭐ 99,173 • 20mo ago
+▲ 123 • 💬 4 • ⭐ 99,228 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -618,31 +636,17 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500)**
+**[EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880)**
 
-*Haiwen Diao, Penghao Wu, Hanming Deng et al. (58 authors)*
+*Chengsong Huang, Zifeng Wang, Rujun Han et al. (17 authors)*
 
-🏢 SenseNova
+🏢 Google
 
-Unified vision-language models treat understanding and generation as integrated processes rather than separate tasks, demonstrating strong performance across multiple multimodal capabilities including image synthesis and action reasoning.
+EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 197 • 💬 2 • ⭐ 5,299 • 3mo ago
+▲ 245 • 💬 2 • ⭐ 136 • 2d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2605.12500) • [💻 code](https://github.com/OpenSenseNova/SenseNova-U1)
-
----
-
-**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
-
-*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
-
-🏢 University of California, Berkeley
-
-FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
-
-▲ 75 • 💬 2 • ⭐ 269 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+[🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
 ---
 
@@ -656,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.8k • 🔱 1.9k • 17h ago
+⭐ 16.9k • 🔱 1.9k • 18h ago
 
 ---
 
@@ -666,7 +670,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 11h ago
+⭐ 14.1k • 🔱 1.7k • 12h ago
 
 ---
 
@@ -676,7 +680,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 22h ago
+⭐ 8.8k • 🔱 1.1k • 23h ago
 
 ---
 
@@ -686,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 580 • 22h ago
+⭐ 3.5k • 🔱 580 • 23h ago
 
 ---
 
@@ -706,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 1d ago
+⭐ 2.9k • 🔱 347 • 1h ago
 
 ---
 
@@ -716,7 +720,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 247 • 7h ago
+⭐ 2.2k • 🔱 250 • 8h ago
 
 ---
 
@@ -726,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 186 • 1d ago
+⭐ 2.2k • 🔱 187 • 1d ago
 
 ---
 
@@ -736,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 15h ago
+⭐ 2.0k • 🔱 183 • 16h ago
 
 ---
 
@@ -746,7 +750,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 234 • 8h ago
+⭐ 1.9k • 🔱 234 • 9h ago
 
 ---
 

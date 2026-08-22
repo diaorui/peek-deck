@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T12:38:34.837727+00:00'
+updated: '2026-08-22T13:31:47.884208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 12:38 UTC  
+**Last Updated:** August 22, 2026 at 13:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.34B
+**Market Cap:** $292.82B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.2%
+-50.9%
 
 **All-Time Low:** $0.43
-+557462.8%
++560305.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 18h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 19h ago
 
 ---
 
@@ -100,19 +100,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Daily messages on etherscan to my watched address](https://www.reddit.com/r/ethereum/comments/1vuyj4z/daily_messages_on_etherscan_to_my_watched_address/)**
+
+Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
+
+12h ago
+
+---
+
 **[Ethereal news weekly #36 | US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31](https://www.reddit.com/r/ethereum/comments/1vulcxr/ethereal_news_weekly_36_us_sec_regulation_crypto/)**
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
 🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 20h ago
-
----
-
-**[Daily messages on etherscan to my watched address](https://www.reddit.com/r/ethereum/comments/1vuyj4z/daily_messages_on_etherscan_to_my_watched_address/)**
-
-Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
-
-11h ago
 
 ---
 
@@ -156,7 +156,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 20h ago
 
 Retail traders on Stocktwits turned to the ‘extremely bullish’ zone for TRUMP and ZEC, while sentiment around Polygon continued to be in the 'bullish' zone.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 49m ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 1d ago
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -236,13 +236,23 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 229 • 👍 19 • ⏱️ 4:45 • 2h ago
+
+---
+
 **[🚨 BTC &amp; ETH: TRAP!!!!! BEWARE!!!!!!!!](https://www.youtube.com/watch?v=26eKiwsN4fY)**
 
 Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is quite far away. Here is my take on all of this!
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 40 • ⏱️ 11:29 • 2d ago
+👁️ 14K • 👍 2K • 💬 113 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -252,47 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 209 • 💬 7 • ⏱️ 7:31 • 20h ago
-
----
-
-**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
-
-BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 469 • 💬 11 • ⏱️ 20:52 • 19h ago
-
----
-
-**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 16K • 👍 392 • 💬 78 • ⏱️ 41:59 • 1d ago
-
----
-
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 85K • 👍 3K • 💬 163 • ⏱️ 10:41 • 2d ago
-
----
-
-**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
-
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 695 • 💬 68 • ⏱️ 11:56 • 1d ago
+👁️ 5K • 👍 213 • 💬 8 • ⏱️ 7:31 • 21h ago
 
 ---
 
@@ -302,27 +272,47 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 70 • ⏱️ 1:25 • 22h ago
+👁️ 1K • 👍 70 • ⏱️ 1:25 • 23h ago
 
 ---
 
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
 
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
 
-📺 More Crypto Online
+📺 Altcoin Daily
 
-👁️ 9K • 👍 296 • 💬 21 • ⏱️ 7:45 • 1d ago
+👁️ 85K • 👍 3K • 💬 164 • ⏱️ 10:41 • 2d ago
 
 ---
 
-**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
+**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
 
-In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
 
-📺 Coin Bureau Podcast
+📺 Milk Road
 
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 19h ago
+👁️ 17K • 👍 393 • 💬 99 • ⏱️ 41:59 • 1d ago
+
+---
+
+**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
+
+BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 485 • 💬 72 • ⏱️ 20:52 • 20h ago
+
+---
+
+**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
+
+📺 Crypto Capital Venture
+
+👁️ 14K • 👍 698 • 💬 116 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -332,7 +322,17 @@ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com. ✓ STOCKS UP U ...
 
 📺 Stocks with Josh
 
-👁️ 34K • 👍 3K • 💬 78 • ⏱️ 1:15:54 • 1d ago
+👁️ 35K • 👍 3K • 💬 118 • ⏱️ 1:15:54 • 1d ago
+
+---
+
+**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
+
+In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
+
+📺 Coin Bureau Podcast
+
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 20h ago
 
 ---
 

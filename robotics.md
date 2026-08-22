@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T12:38:34.840630+00:00'
+updated: '2026-08-22T13:31:47.887062+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 12:38 UTC  
+**Last Updated:** August 22, 2026 at 13:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-16h ago
+17h ago
 
 ---
 
@@ -56,7 +56,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -78,13 +78,13 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 16h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 17h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -98,7 +98,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 1d ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 1h ago
+Futura, le média qui explore le monde • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ Reuters • 7h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -162,7 +162,7 @@ Financial Times • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ WSJ • 20h ago
 
 Chinese Bodies, American Brains: South Koreas Humanoid Hurdles Domestic humanoids lag, reliant on Chinese hardware and U.S. AI, urging secure sector focus amid global competition
 
-조선일보 • 4h ago
+조선일보 • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ Chinese Bodies, American Brains: South Koreas Humanoid Hurdles Domestic humanoid
 
 Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -186,13 +186,33 @@ Interesting Engineering • 13h ago
 
 ## YouTube Videos: "robotics"
 
+**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 12K • 👍 379 • 💬 64 • ⏱️ 5:16 • 6d ago
+
+---
+
 **[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
 
 The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
 
 📺 NBC News
 
-👁️ 33K • 👍 292 • 💬 55 • ⏱️ 4:05 • 1d ago
+👁️ 34K • 👍 304 • 💬 56 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[Autonomous Robots Are Taking Over the Tennis Court](https://www.youtube.com/watch?v=SiQx5ZrKnD8)**
+
+GALBOT humanoid robots are preparing for an autonomous tennis match that could mark an important moment for robotics and ...
+
+📺 DPCcars
+
+👁️ 4K • 👍 44 • 💬 10 • ⏱️ 1:19 • 19h ago
 
 ---
 
@@ -202,7 +222,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 39K • 👍 880 • 💬 103 • ⏱️ 14:10 • 3d ago
+👁️ 39K • 👍 884 • 💬 103 • ⏱️ 14:10 • 3d ago
 
 ---
 
@@ -212,7 +232,17 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 4K • 👍 61 • 💬 3 • ⏱️ 0:07 • 3h ago
+👁️ 13K • 👍 210 • 💬 6 • ⏱️ 0:07 • 4h ago
+
+---
+
+**[BYD Just Put a Humanoid Robot in Its Showrooms — And It&#39;s Already Working](https://www.youtube.com/watch?v=SQrO-krZIxs)**
+
+BYD Just Put a Humanoid Robot in Its Showrooms — And It's Already Working BYD has begun deploying its "Xiao Di" humanoid ...
+
+📺 The Electric Viking
+
+👁️ 23K • 👍 724 • 💬 123 • ⏱️ 8:50 • 3d ago
 
 ---
 
@@ -222,17 +252,17 @@ Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the s
 
 📺 Unitree Robotics
 
-👁️ 3.1M • 👍 2K • 💬 441 • ⏱️ 0:31 • 5d ago
+👁️ 3.2M • 👍 2K • 💬 442 • ⏱️ 0:31 • 5d ago
 
 ---
 
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
+**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
 
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
 
-📺 DPCcars
+📺 InsideAI
 
-👁️ 5K • 👍 19 • 💬 1 • ⏱️ 0:28 • 18h ago
+👁️ 1.7M • 👍 44K • 💬 5K • ⏱️ 15:53 • 6d ago
 
 ---
 
@@ -242,7 +272,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 6K • 👍 434 • 💬 22 • ⏱️ 0:24 • 11h ago
+👁️ 7K • 👍 494 • 💬 25 • ⏱️ 0:24 • 12h ago
 
 ---
 
@@ -252,37 +282,7 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 📺 Associated Press
 
-👁️ 10K • 👍 186 • 💬 6 • ⏱️ 34:12 • 2d ago
-
----
-
-**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
-
-Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
-
-📺 Dr Ben Miles
-
-👁️ 356K • 👍 26K • 💬 243 • ⏱️ 1:40 • 21h ago
-
----
-
-**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.youtube.com/watch?v=Gu7-RxZy_Rs)**
-
-China has been showcasing its growing robotics industry with robots designed to move and work like humans. This humanoid ...
-
-📺 Al Jazeera English
-
-👁️ 98K • 👍 2K • 💬 103 • ⏱️ 0:33 • 1d ago
-
----
-
-**[Unitree Robotics Surges in Shanghai Debut](https://www.youtube.com/watch?v=3kN2r63VpoE)**
-
-Unitree Robotics shares surged in their Shanghai trading debut after the company raised 6.1 billion yuan in an initial public ...
-
-📺 Bloomberg Tech
-
-👁️ 6K • 👍 82 • 💬 13 • ⏱️ 2:25 • 2d ago
+👁️ 10K • 👍 187 • 💬 6 • ⏱️ 34:12 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T12:38:34.832178+00:00'
+updated: '2026-08-22T13:31:47.878829+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 12:38 UTC  
+**Last Updated:** August 22, 2026 at 13:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1546.93B
+**Market Cap:** $1549.25B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.9%
+-38.8%
 
 **All-Time Low:** $67.81
-+113557.3%
++113721.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-17h ago
+18h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -113,13 +113,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-13h ago
+14h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -127,7 +127,7 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 u/Boring_Ad7277
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -153,7 +153,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -161,13 +161,13 @@ CNBC • 17h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg • 19h ago
+Bloomberg • 20h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg • 19h ago
 
 Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 18h ago
 
 Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
 
-Forbes • 12m ago
+Forbes • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 12m ago
 
 Retail traders on Stocktwits turned to the ‘extremely bullish’ zone for TRUMP and ZEC, while sentiment around Polygon continued to be in the 'bullish' zone.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,13 +199,13 @@ Yahoo Finance • 49m ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 8h ago
+Fox News • 9h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
@@ -221,7 +221,7 @@ Financial Times • 1d ago
 
 Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -279,23 +279,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+**[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
 
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
 
-📺 Nicholas Crown
+📺 CNBC Television
 
-👁️ 2K • 👍 120 • 💬 7 • ⏱️ 1:15 • 9h ago
-
----
-
-**[Missed the Bitcoin Rally? Here&#39;s Exactly Where I&#39;d Buy the Dip [Kalshi Live Trading]](https://www.youtube.com/watch?v=tPNlAunoFGY)**
-
-Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks ago. If you missed the move, today's stream is ...
-
-📺 Krown
-
-👁️ 8K • 👍 428 • 💬 1 • ⏱️ 2:07:34 • 17h ago
+👁️ 12K • 👍 129 • 💬 25 • ⏱️ 2:30 • 20h ago
 
 ---
 
@@ -305,37 +295,27 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 413 • 💬 101 • ⏱️ 14:55 • 18h ago
+👁️ 14K • 👍 435 • 💬 125 • ⏱️ 14:55 • 19h ago
 
 ---
 
-**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
 
-📺 Benjamin Cowen
+📺 Nicholas Crown
 
-👁️ 25K • 👍 468 • 💬 7 • ⏱️ 0:58 • 19h ago
-
----
-
-**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
-
-Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
-
-📺 Cointelegraph
-
-👁️ 10K • 👍 182 • 💬 28 • ⏱️ 31:41 • 23h ago
+👁️ 3K • 👍 140 • 💬 8 • ⏱️ 1:15 • 10h ago
 
 ---
 
-**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
+**[Missed the Bitcoin Rally? Here&#39;s Exactly Where I&#39;d Buy the Dip [Kalshi Live Trading]](https://www.youtube.com/watch?v=tPNlAunoFGY)**
 
-Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
+Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks ago. If you missed the move, today's stream is ...
 
-📺 Benjamin Cowen
+📺 Krown
 
-👁️ 52K • 👍 2K • 💬 168 • ⏱️ 30:19 • 1d ago
+👁️ 8K • 👍 431 • 💬 30 • ⏱️ 2:07:34 • 18h ago
 
 ---
 
@@ -345,7 +325,27 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 51 • ⏱️ 17:33 • 1d ago
+👁️ 37K • 👍 2K • 💬 80 • ⏱️ 17:33 • 1d ago
+
+---
+
+**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 28K • 👍 501 • 💬 7 • ⏱️ 0:58 • 20h ago
+
+---
+
+**[[WARNING] Know This about BITCOIN &amp; XRP...NOW‼️](https://www.youtube.com/watch?v=7vmVsxSusq0)**
+
+Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto Course (   STOCK UP U) ...
+
+📺 STOCK UP! with LARRY JONES
+
+👁️ 17K • 👍 1K • 💬 202 • ⏱️ 23:23 • 14h ago
 
 ---
 
@@ -355,27 +355,27 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 4K • 💬 150 • ⏱️ 11:06 • 1d ago
+👁️ 49K • 👍 4K • 💬 234 • ⏱️ 11:06 • 1d ago
 
 ---
 
-**[CRYPTO CATCHES FIRE: Coinbase RIDES Bitcoin surge #shorts](https://www.youtube.com/watch?v=09_mEmVxNZI)**
+**[Bitcoin Short SQUEEZE! Live Trading &amp; TA](https://www.youtube.com/watch?v=nQzRa9_agZM)**
 
-FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on ...
+Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! Start your prop trading journey with Breakout ...
 
-📺 Fox Business
+📺 Sin City Crypto
 
-👁️ 3K • 👍 70 • 💬 8 • ⏱️ 1:14 • 10h ago
+👁️ 14K • 👍 567 • ⏱️ 5:58:35 • 8h ago
 
 ---
 
-**[This is Just The Start of Bitcoin&#39;s Breakout! | Arthur Hayes](https://www.youtube.com/watch?v=pXXTcaNsnAw)**
+**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
 
-Bitcoin has finally broken out after months of sideways action but Arthur Hayes believes this could be just the start. Ran sits down ...
+Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
 
-📺 Crypto Insider
+📺 Cointelegraph
 
-👁️ 23K • 👍 1K • 💬 56 • ⏱️ 36:23 • 2d ago
+👁️ 11K • 👍 223 • 💬 31 • ⏱️ 31:41 • 1d ago
 
 ---
 
