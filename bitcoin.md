@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T02:34:54.036243+00:00'
+updated: '2026-08-22T03:41:38.073857+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 02:34 UTC  
+**Last Updated:** August 22, 2026 at 03:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,446.60
+### $78,783.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.0%  
-**7d:** +24.5%  
-**30d:** +22.0%  
-**90d:** +1.2%  
-**1y:** -32.2%  
+**24h:** +4.8%  
+**7d:** +25.0%  
+**30d:** +22.5%  
+**90d:** +1.6%  
+**1y:** -32.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1568.39B
+**Market Cap:** $1579.53B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.0%
+-37.6%
 
 **All-Time Low:** $67.81
-+115124.9%
++115953.7%
 
 ---
 
@@ -81,25 +81,25 @@ Rank #1
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-7h ago
+8h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-12h ago
+14h ago
 
 ---
 
 **[BTC takes no prisoners](https://www.reddit.com/r/Bitcoin/comments/1vui99l/btc_takes_no_prisoners/)**
 
-11h ago
+13h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -107,25 +107,25 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 We’re going to the moon 🚀
 
-7h ago
+8h ago
 
 ---
 
 **[It’s done. We going down](https://www.reddit.com/r/Bitcoin/comments/1vuhu8y/its_done_we_going_down/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -133,13 +133,13 @@ We’re going to the moon 🚀
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-3h ago
+4h ago
 
 ---
 
 **[It just keeps going. $77.2k!](https://www.reddit.com/r/Bitcoin/comments/1vuag89/it_just_keeps_going_772k/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -147,25 +147,11 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 ## Google News: "bitcoin"
 
-**[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
-
-Bitcoin is back on the hot list.
-
-Yahoo Finance • 14h ago
-
----
-
-**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
-
-WSJ • 2h ago
-
----
-
 **[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -173,13 +159,42 @@ CNBC • 7h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
+
+Bitcoin is back on the hot list.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Crypto Stocks To Watch After Bitcoin’s 20% Weekly Rebound](https://simplywall.st/stocks/us/diversified-financials/nasdaq-sbet/sharplink/news/crypto-stocks-to-watch-after-bitcoins-20-weekly-rebound)**
+
+When bond yields swing, crypto squeezes trigger billions in liquidations, and Bitcoin snaps back with a 20% weekly gain, attention quickly shifts to stocks most exposed to that storm. For investors, these cross currents can create sharp moves that feel fleeting. Yet they also open windows where pricing and sentiment briefly disconnect. This article profiles 3 stocks closely tied to the latest crypto news and explains why their exposure to it matters.
+The 3 stocks below are just a starting...
+
+simplywall.st • 1h ago
+
+---
+
+**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+
+WSJ • 3h ago
+
+---
+
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+
+Reuters • 16h ago
 
 ---
 
@@ -187,7 +202,7 @@ Bloomberg.com • 9h ago
 
 FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
 
-Fox Business • 11h ago
+Fox Business • 12h ago
 
 ---
 
@@ -195,7 +210,7 @@ Fox Business • 11h ago
 
 Oil kept running higher as well while Walmart sold off on earnings.
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -204,22 +219,6 @@ Investor's Business Daily • 12h ago
 Signs of a crypto thaw are beginning to show.
 
 Investopedia • 1d ago
-
----
-
-**[XRP leads broad altcoin rally as bitcoin's biggest weekly gain in two years lifts crypto](https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483)**
-
-Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.
-
-The Block • 9h ago
-
----
-
-**[With Bitcoin Rallying, Strategy (MSTR) Just Flipped From a $13 Billion Loss to a $1.4 Billion Gain. Should Investors Buy the Rally?](https://www.fool.com/investing/2026/08/21/with-bitcoin-rallying-strategy-mstr-just-flipped-from-a-13-billion-loss-to-a-14-billion-gain-should-investors-buy-the-rally/)**
-
-Bitcoin has risen more than 20% over the past week.
-
-The Motley Fool • 9h ago
 
 ---
 
@@ -245,7 +244,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 18h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 19h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -273,43 +272,17 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ---
 
-**[He Mined 300 Bitcoin, Wiped the Computer, and Sold It for $200 [video]](https://news.ycombinator.com/item?id=49307371)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 1 • 💬 0 • 6d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Rise And The Stock Market Sell-Off Explained. CLARITY Act, XRP &amp; ETH Discussed. Who Wins?](https://www.youtube.com/watch?v=DKn0mLRMpyI)**
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
 
-How many crypto topics can one man cover in 28 minutes? SEC rule-making, Reg Crypto Assets, bond market, Treasury ...
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
 
-📺 Dana Love, PhD
+📺 Nicholas Crown
 
-👁️ 7K • 👍 658 • 💬 50 • ⏱️ 28:54 • 6h ago
-
----
-
-**[GET READY BITCOIN AND ALTCOINS ARE GOING CRAZY! # #crypto #bitcoin #crypto](https://www.youtube.com/watch?v=9yBGNtAN6nE)**
-
-📺 CryptoWendyO
-
-👁️ 161 • 👍 31 • ⏱️ 2:18 • 1h ago
-
----
-
-**[Bitcoin Just Skyrocketed $15,000 in 3 Days! (The Reason Why Will Shock You)](https://www.youtube.com/watch?v=eWOReOBOwxg)**
-
-Bitcoin just ripped higher, but ETF flows, short liquidations and the Clarity Act may not explain the full move. The bigger signal is ...
-
-📺 Simply Bitcoin
-
-👁️ 4K • 👍 627 • 💬 7 • ⏱️ 16:29 • 3h ago
+👁️ 471 • 👍 25 • 💬 4 • ⏱️ 1:15 • 46m ago
 
 ---
 
@@ -319,7 +292,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 131 • ⏱️ 11:06 • 1d ago
+👁️ 46K • 👍 3K • 💬 143 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -329,7 +302,7 @@ Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! S
 
 📺 Sin City Crypto
 
-👁️ 4K • 👍 339 • 4h ago
+👁️ 8K • 👍 499 • 5h ago
 
 ---
 
@@ -339,7 +312,17 @@ Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! S
 
 📺 Altcoin Daily
 
-👁️ 82K • 👍 3K • 💬 159 • ⏱️ 10:41 • 2d ago
+👁️ 83K • 👍 3K • 💬 159 • ⏱️ 10:41 • 2d ago
+
+---
+
+**[Clarity Act and why Bitcoin is up](https://www.youtube.com/watch?v=mOvNU_aluNY)**
+
+Bitcoin (BTC) and Strategy (MSTR) just had an absolutely fantastic thanks to the Clarity Act. Basically Washington hosted a bunch ...
+
+📺 Noor
+
+👁️ 717 • ⏱️ 1:07 • 3h ago
 
 ---
 
@@ -349,7 +332,25 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 3K • 👍 142 • 💬 13 • ⏱️ 18:12 • 14h ago
+👁️ 3K • 👍 151 • 💬 22 • ⏱️ 18:12 • 15h ago
+
+---
+
+**[Bitcoin was stuck for months. Then the Treasury blinked.](https://www.youtube.com/watch?v=Oo6lqEtJhws)**
+
+Bitcoin closed above its 200-day moving average for the first time since the bear market began. Every previous time that line broke ...
+
+📺 Yahoo Finance
+
+👁️ 15K • 👍 472 • 💬 68 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[XRP LEADS CRYPTO ALTCOIN SEASON WITH 25% PUMP!!! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=iTkfBj5D9YM)**
+
+📺 CryptoWendyO
+
+👁️ 11K • 👍 758 • 💬 10 • ⏱️ 2:32 • 1d ago
 
 ---
 
@@ -359,27 +360,17 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 10K • 👍 724 • 💬 11 • ⏱️ 9:16 • 10h ago
+👁️ 11K • 👍 788 • 💬 10 • ⏱️ 9:16 • 11h ago
 
 ---
 
-**[Missed the Bitcoin Rally? Here&#39;s Exactly Where I&#39;d Buy the Dip [Kalshi Live Trading]](https://www.youtube.com/watch?v=tPNlAunoFGY)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=-Q4MST1QqKI)**
 
-Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks ago. If you missed the move, today's stream is ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Krown
+📺 Outdoor Limits
 
-👁️ 7K • 👍 412 • 💬 1 • ⏱️ 2:07:34 • 7h ago
-
----
-
-**[MASSIVE WARNING ISSUED! BITCOIN BULL RUN STARTING NOW - CLARITY ACT  SEPTEMBER 15 CATALYST](https://www.youtube.com/watch?v=mJI3QhiV7Us)**
-
-Coinbase CEO Calls For Uptober New Bull Run Starting NOW! Hyperliquid, Bitcoin & XRP All Going CRAZY Hey Babes, Brian ...
-
-📺 CryptoWendyO
-
-👁️ 19K • 👍 818 • 💬 42 • ⏱️ 4:09 • 1d ago
+👁️ 4K • 👍 1K • 37m ago
 
 ---
 

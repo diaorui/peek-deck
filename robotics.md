@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T02:34:54.044588+00:00'
+updated: '2026-08-22T03:41:38.081924+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 02:34 UTC  
+**Last Updated:** August 22, 2026 at 03:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 16h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 17h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-6h ago
+7h ago
 
 ---
 
@@ -66,19 +66,19 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 6h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 7h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swept a 20×20 grid of floor friction against lateral push, 16 trials per cell, using Kaplan-Meier survival per condition since trials that survive the window have to be censored rather than counted as failures. Things interesting to us: the boundary is not a line but a band. The 95% bootstrap interval is about ±4% of bodyweight on high friction and ±33% on ice, a 7× spread. below μ≈0.15 the policy falls before the push lands. That's gait collapse, a different failure mode from being knocked over. the same seed on the same GPU can produce different outcomes (floating-point reduction order), so a few knife-edge survivors can't be re-simulated at all. We then changed the two conditions the map showed training never covered, retrained for 12 minutes, and re-ran the identical sweep: 60 of 400 conditions significantly safer (Fisher exact + BH-FDR, q<0.05), none significantly worse. Write-up with the interactive map: https://poissonlabs.ai/research/map-the-failure-boundary/. Happy to answer questions about the harness validation/statistics.
 
-23h ago
+1d ago
 
 ---
 
@@ -116,11 +116,11 @@ Ars Technica • 1d ago
 
 ---
 
-**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+**[Chinese robotics giant Unitree soars in stock market debut](https://www.bbc.com/news/articles/c0qv4w9492zo)**
 
-Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.
 
-Business Insider • 17h ago
+BBC • 2d ago
 
 ---
 
@@ -128,13 +128,21 @@ Business Insider • 17h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 1h ago
+Financial Times • 3h ago
 
 ---
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 10h ago
+WSJ • 11h ago
+
+---
+
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 18h ago
 
 ---
 
@@ -142,21 +150,7 @@ WSJ • 10h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 14h ago
-
----
-
-**[Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges](https://www.reuters.com/world/china/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/)**
-
-Reuters • 2d ago
-
----
-
-**[Chinese robotics giant Unitree soars in stock market debut](https://www.bbc.com/news/articles/c0qv4w9492zo)**
-
-Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.
-
-BBC • 2d ago
+Al Jazeera • 15h ago
 
 ---
 
@@ -168,9 +162,11 @@ Construction Dive • 2d ago
 
 ---
 
-**[😺 The ACTUAL ChatGPT 3 moment for robotics (one-shot learning)](https://www.theneurondaily.com/p/ai-helped-moderna-fight-cancer-today)**
+**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
 
-The Neuron • 1d ago
+While robots are getting pretty good at sprinting, stopping is apparently still an issue.
+
+Mashable • 8h ago
 
 ---
 
@@ -178,7 +174,13 @@ The Neuron • 1d ago
 
 Druckenmiller has never had a down year in all his years as a professional investor.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
+
+---
+
+**[😺 The ACTUAL ChatGPT 3 moment for robotics (one-shot learning)](https://www.theneurondaily.com/p/ai-helped-moderna-fight-cancer-today)**
+
+The Neuron • 1d ago
 
 ---
 
@@ -186,33 +188,33 @@ The Motley Fool • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
-
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 13 • ⏱️ 0:28 • 8h ago
-
----
-
 **[LIVE: Humanoid robots perform tasks at 2026 World Robot Conference in China](https://www.youtube.com/watch?v=2anAlqQ-XFE)**
 
 Watch live from the World Robot Conference in Beijing, where companies showcase the latest robots and technologies as China ...
 
 📺 Associated Press
 
-👁️ 10K • 👍 185 • 💬 5 • ⏱️ 34:12 • 1d ago
+👁️ 10K • 👍 186 • 💬 6 • ⏱️ 34:12 • 1d ago
 
 ---
 
-**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
+**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
 
-China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
+Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
 
-📺 Techie Sapien
+📺 DPCcars
 
-👁️ 433K • 👍 2K • 💬 12 • ⏱️ 0:09 • 17h ago
+👁️ 2K • 👍 14 • ⏱️ 0:28 • 9h ago
+
+---
+
+**[Robot Faster Than a Human Being](https://www.youtube.com/watch?v=vDp4lnBh1sQ)**
+
+This robot is faster than Usain Bolt #robotics #robot #sport #finance #technews.
+
+📺 RealJonahBlake
+
+👁️ 620 • 👍 15 • 💬 2 • ⏱️ 0:19 • 2h ago
 
 ---
 
@@ -222,27 +224,55 @@ Chinese robotics company Unitree has unveiled a new "Superman" robot that can re
 
 📺 ABC News
 
-👁️ 86K • 👍 2K • 💬 310 • ⏱️ 1:36 • 2d ago
+👁️ 90K • 👍 2K • 💬 322 • ⏱️ 1:36 • 2d ago
 
 ---
 
-**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
 
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
 
-📺 CNET
+📺 Techie Sapien
 
-👁️ 12K • 👍 374 • 💬 63 • ⏱️ 5:16 • 5d ago
+👁️ 467K • 👍 2K • 💬 26 • ⏱️ 0:09 • 18h ago
 
 ---
 
-**[China&#39;s Unitree Robotics surges 630pc in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
+**[ROBOTS MEAN RUN](https://www.youtube.com/watch?v=BwwyKDY4Uu4)**
 
-Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
+ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping, playing sports, performing parkour, and ...
 
-📺 ABC News (Australia)
+📺 Dark Waters
 
-👁️ 35K • 👍 355 • ⏱️ 2:24 • 2d ago
+👁️ 2K • 👍 209 • 💬 6 • ⏱️ 0:24 • 2h ago
+
+---
+
+**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
+
+Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
+
+📺 Dr Ben Miles
+
+👁️ 225K • 👍 18K • 💬 94 • ⏱️ 1:40 • 12h ago
+
+---
+
+**[Chinese robots in suitcases and Trump&#39;s new robot bans: did Tesla just win the humanoid war?](https://www.youtube.com/watch?v=wZpU7MOPaik)**
+
+Silicon Valley startups are flying to China and buying robot parts, putting them into their luggage, and flying back. Meanwhile, the ...
+
+📺 Inside China Business
+
+👁️ 52K • 👍 4K • 💬 561 • ⏱️ 8:40 • 3d ago
+
+---
+
+**[AI Robot Takes Blood Samples! 🤯🩸 #AI #Robotics #BloodTest #futuretech #aletta](https://www.youtube.com/watch?v=b19HVX9rJFE)**
+
+📺 Prasadtechshorts
+
+👁️ 135K • 👍 6K • 💬 59 • ⏱️ 1:28 • 2d ago
 
 ---
 
@@ -252,37 +282,7 @@ A futuristic robot brings cool refreshments directly to pilgrims in Makkah. ❄�
 
 📺 MISTER CROWN 👑
 
-👁️ 18K • 👍 922 • ⏱️ 0:11 • 1d ago
-
----
-
-**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
-
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
-
-📺 InsideAI
-
-👁️ 1.6M • 👍 43K • 💬 5K • ⏱️ 15:53 • 6d ago
-
----
-
-**[Unitree Robotics Surges in Shanghai Debut](https://www.youtube.com/watch?v=3kN2r63VpoE)**
-
-Unitree Robotics shares surged in their Shanghai trading debut after the company raised 6.1 billion yuan in an initial public ...
-
-📺 Bloomberg Tech
-
-👁️ 5K • 👍 81 • 💬 13 • ⏱️ 2:25 • 2d ago
-
----
-
-**[🍎🤖 Makkah’s Robotic Family Fruit Service | Smart Hospitality](https://www.youtube.com/watch?v=uJhkqEixigY)**
-
-A cute futuristic robot brings fresh fruit service to an entire family in Makkah. From preparing the fruit to serving each family ...
-
-📺 MISTER CROWN 👑
-
-👁️ 571K • 👍 14K • 💬 13 • ⏱️ 0:11 • 1d ago
+👁️ 18K • 👍 967 • ⏱️ 0:11 • 1d ago
 
 ---
 
