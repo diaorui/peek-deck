@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T14:48:21.359742+00:00'
+updated: '2026-08-22T15:20:30.555881+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 14:48 UTC  
+**Last Updated:** August 22, 2026 at 15:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 18h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 19h ago
 
 ---
 
@@ -98,7 +98,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -140,7 +140,7 @@ Financial Times • 14h ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ Financial Times • 2d ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 3h ago
+Futura, le média qui explore le monde • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Al Jazeera • 1d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ WSJ • 22h ago
 
 Chinese Bodies, American Brains: South Koreas Humanoid Hurdles Domestic humanoids lag, reliant on Chinese hardware and U.S. AI, urging secure sector focus amid global competition
 
-조선일보 • 6h ago
+조선일보 • 7h ago
 
 ---
 
@@ -232,7 +232,7 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 13K • 👍 210 • 💬 6 • ⏱️ 0:07 • 5h ago
+👁️ 13K • 👍 210 • 💬 6 • ⏱️ 0:07 • 6h ago
 
 ---
 
@@ -272,7 +272,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 7K • 👍 494 • 💬 25 • ⏱️ 0:24 • 13h ago
+👁️ 7K • 👍 494 • 💬 25 • ⏱️ 0:24 • 14h ago
 
 ---
 

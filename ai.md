@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T14:48:21.342184+00:00'
+updated: '2026-08-22T15:20:30.544065+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 14:48 UTC  
+**Last Updated:** August 22, 2026 at 15:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So what started out as a text based chatbot project 8 months ago as my first ever project as a self taught coder is developing into something different. I've created an agent within my chat bot to help users create a product, using ElevenLabs V3 or OpenAI Realtime voice that works on a conversational basis rather than hardcoded commands The agent can talk to you whilst your in chat or on a panel and navigate you to a particular panel if needed and throughout your session can select and substitutes models based on objectives such as quality or cost, proposes creative next steps, requests consent before paid inference, invokes generation, manipulates an editable multitrack timeline, and controls playback/time line like play video, delete my first image etc - through natural conversation. Then if you wanted to create an image in another panel you can ask the agent via text or voice and they will navigate you to that panel and offer assistance their. Write your prompt for you and then even take that photo to the video suite to animate all using conversational language. What do you think to this concept? I'm looking to further develop the idea across the platform to streamline some of the processes within it as my video demonstrates This is my project i've been working on Everything is a working concept and i'm just finalizing bits before release this week IDE Multi FIle Editor with AI assistant and live preview Split Screen Live Coding Multi Media Studio Editor Single Prompt to Full 2D and 3D Game Development Engine and Web Application Builder Video Editor with timeline controls, video effects, overlays, title, audio, podcast and music composer Music Studio with AI/Custom Lyrics Custom workspace environments with themes, live wallpapers, ambiant background tracks (Default options with light mode/dark mode with no wallpapers or music) Native 25+ Languages with RTL support. Already Hardcoded. Not live translated via web plus many more tools such as Podcast Creator with chat based/ custom context with 50+ voices and MP3 export. Full workflow tools like frame extract, analysis, transcribe, effects, file conversion audio analysis etc ...and of course the original chat bot interface that has cross device persistent multi model memory with vector base knowledge base via OpenAI and platform Drive storage. You can start a conversation with any model on your laptop and next day carry on in a new conversation with another model on your phone with memory preserved across so you dont need to repeat yourself. The memory layer sits above the models entirely so is accessible by any LLM the platform supprts Every tool, every feature i built will be completely free including GPT Nano, Gemini Flash and Deepseek. Users can upload their own work to use for free and chat with selected free tier models with no limits. If the user wants to generate a video or analyze a image, then that would be credit based. No subscription required and no tool access priorities over a non paying user. Thats my concept i'm hoping to have launched in a few days and welcome any feedback/criticism you may have before i do launch.
 
-51m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ So what started out as a text based chatbot project 8 months ago as my first eve
 
 One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns. We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's possible to generate thousands of different examples which train your model in the same manner. This is why the data for post-training becomes really interesting. The valuable examples might be the ones which reveal the weakness of the model, which are based on realistic tasks and provide some way to check if the model managed to complete the task. While searching for such examples, I discovered Parsewave. Their area of expertise is post-training data on engineering tasks, evaluations and traces. But what is interesting is their concept itself - deliberately generating the data on the capabilities which remain challenging for the model instead of generating the big datasets. What do you think about the future direction of AI training? Will the future of AI be about generating the massive datasets or becoming really good at identifying a small number of truly useful examples?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ One of the questions I've been asking myself recently is how AI training will ev
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ More reasoning does not automatically mean more factual reliability. OpenAI’s 
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 16h ago
+NPR • 17h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 17h ago
 
 Or in all likelihood, that *anyone* was imagining.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -165,13 +165,13 @@ Fox News • 2h ago
 
 The breakneck AI transformation of the industry is the kind of technological disruption that many creatives fear could upend movie-making far beyond China.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
 **[Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -179,13 +179,13 @@ The New York Times • 2h ago
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back](https://www.wsj.com/tech/ai/private-equity-is-deploying-an-army-of-ai-wonks-to-embed-in-the-firms-they-back-96d279ec)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -237,7 +237,7 @@ My personal portfolio site and blog.
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 210 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 210 • 💬 161 • 2d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -245,7 +245,7 @@ Trying to obfuscate the web is a bad, pointless idea
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 207 • 💬 261 • 2d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 207 • 💬 261 • 3d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -307,7 +307,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 56K • 👍 2K • 💬 125 • ⏱️ 8:14 • 1d ago
+👁️ 56K • 👍 2K • 💬 125 • ⏱️ 8:14 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ The DoJ is using your tax dollars to sue any community that resists data centers
 
 📺 Tucker Carlson
 
-👁️ 196K • 👍 10K • 💬 865 • ⏱️ 1:00:28 • 21h ago
+👁️ 196K • 👍 10K • 💬 865 • ⏱️ 1:00:28 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,090,699 • ❤️ 12,064 • 7d ago
+⬇️ 2,090,699 • ❤️ 12,064 • 8d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `26.9B`
 
-⬇️ 164,950 • ❤️ 490 • 5h ago
+⬇️ 164,950 • ❤️ 490 • 6h ago
 
 ---
 
@@ -702,7 +702,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 240 • 10d ago
+⭐ 3.0k • 🔱 240 • 11d ago
 
 ---
 
@@ -712,7 +712,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 2h ago
+⭐ 2.9k • 🔱 347 • 3h ago
 
 ---
 
@@ -722,7 +722,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 250 • 9h ago
+⭐ 2.2k • 🔱 250 • 10h ago
 
 ---
 
@@ -752,7 +752,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 234 • 10h ago
+⭐ 1.9k • 🔱 234 • 11h ago
 
 ---
 

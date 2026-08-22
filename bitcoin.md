@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T14:48:21.350590+00:00'
+updated: '2026-08-22T15:20:30.549902+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 14:48 UTC  
+**Last Updated:** August 22, 2026 at 15:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 u/Boring_Ad7277
 
-10h ago
+11h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ u/Boring_Ad7277
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-19h ago
+20h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 19h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -185,13 +185,13 @@ Yahoo Finance • 1d ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-WRAL • 42m ago
+WRAL • 1h ago
 
 ---
 
 **[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -199,13 +199,13 @@ MarketWatch • 1h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 10h ago
+Fox News • 11h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -255,7 +255,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 2 • 💬 1 • 4d ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 2 • 💬 1 • 5d ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -305,7 +305,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 3K • 👍 140 • 💬 8 • ⏱️ 1:15 • 11h ago
+👁️ 3K • 👍 140 • 💬 8 • ⏱️ 1:15 • 12h ago
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 431 • 💬 30 • ⏱️ 2:07:34 • 19h ago
+👁️ 8K • 👍 431 • 💬 30 • ⏱️ 2:07:34 • 20h ago
 
 ---
 
@@ -335,7 +335,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 28K • 👍 501 • 💬 7 • ⏱️ 0:58 • 21h ago
+👁️ 28K • 👍 501 • 💬 7 • ⏱️ 0:58 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto
 
 📺 STOCK UP! with LARRY JONES
 
-👁️ 17K • 👍 1K • 💬 202 • ⏱️ 23:23 • 15h ago
+👁️ 17K • 👍 1K • 💬 202 • ⏱️ 23:23 • 16h ago
 
 ---
 
