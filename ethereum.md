@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T14:21:05.456447+00:00'
+updated: '2026-08-22T14:48:21.356596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 14:21 UTC  
+**Last Updated:** August 22, 2026 at 14:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -112,7 +112,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 22h ago
 
 ---
 
@@ -194,7 +194,7 @@ FXStreet • 15h ago
 
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-blockchain.news • 3h ago
+blockchain.news • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ Benzinga • 2d ago
 
 Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 229 • 👍 19 • ⏱️ 4:45 • 2h ago
+👁️ 229 • 👍 19 • ⏱️ 4:45 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 213 • 💬 8 • ⏱️ 7:31 • 21h ago
+👁️ 5K • 👍 213 • 💬 8 • ⏱️ 7:31 • 22h ago
 
 ---
 

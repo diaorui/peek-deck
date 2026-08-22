@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T14:21:05.443097+00:00'
+updated: '2026-08-22T14:48:21.342184+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 14:21 UTC  
+**Last Updated:** August 22, 2026 at 14:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So what started out as a text based chatbot project 8 months ago as my first ever project as a self taught coder is developing into something different. I've created an agent within my chat bot to help users create a product, using ElevenLabs V3 or OpenAI Realtime voice that works on a conversational basis rather than hardcoded commands The agent can talk to you whilst your in chat or on a panel and navigate you to a particular panel if needed and throughout your session can select and substitutes models based on objectives such as quality or cost, proposes creative next steps, requests consent before paid inference, invokes generation, manipulates an editable multitrack timeline, and controls playback/time line like play video, delete my first image etc - through natural conversation. Then if you wanted to create an image in another panel you can ask the agent via text or voice and they will navigate you to that panel and offer assistance their. Write your prompt for you and then even take that photo to the video suite to animate all using conversational language. What do you think to this concept? I'm looking to further develop the idea across the platform to streamline some of the processes within it as my video demonstrates This is my project i've been working on Everything is a working concept and i'm just finalizing bits before release this week IDE Multi FIle Editor with AI assistant and live preview Split Screen Live Coding Multi Media Studio Editor Single Prompt to Full 2D and 3D Game Development Engine and Web Application Builder Video Editor with timeline controls, video effects, overlays, title, audio, podcast and music composer Music Studio with AI/Custom Lyrics Custom workspace environments with themes, live wallpapers, ambiant background tracks (Default options with light mode/dark mode with no wallpapers or music) Native 25+ Languages with RTL support. Already Hardcoded. Not live translated via web plus many more tools such as Podcast Creator with chat based/ custom context with 50+ voices and MP3 export. Full workflow tools like frame extract, analysis, transcribe, effects, file conversion audio analysis etc ...and of course the original chat bot interface that has cross device persistent multi model memory with vector base knowledge base via OpenAI and platform Drive storage. You can start a conversation with any model on your laptop and next day carry on in a new conversation with another model on your phone with memory preserved across so you dont need to repeat yourself. The memory layer sits above the models entirely so is accessible by any LLM the platform supprts Every tool, every feature i built will be completely free including GPT Nano, Gemini Flash and Deepseek. Users can upload their own work to use for free and chat with selected free tier models with no limits. If the user wants to generate a video or analyze a image, then that would be credit based. No subscription required and no tool access priorities over a non paying user. Thats my concept i'm hoping to have launched in a few days and welcome any feedback/criticism you may have before i do launch.
 
-23m ago
+51m ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ NPR • 16h ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -149,7 +149,7 @@ Yahoo • 1h ago
 
 Fourteen-year-old Zeynep Demirbas has found that ChatGPT-4o is less accurate than a mental health-focused AI model and a simpler machine-learning system at detecting stress in human written text.
 
-The Times of India • 1h ago
+The Times of India • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Times of India • 1h ago
 
 U.S. Secretary of the Interior Doug Burgum reacts to President Donald Trump touting data center jobs and tax revenue. He warns that the U.S. must win the artificial intelligence race against China to secure global economic leadership.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -267,7 +267,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 10 • 22h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 10 • 23h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -327,7 +327,7 @@ RED FLAG — an AI short film in the aesthetic of 90s Hong Kong cinema. Fully op
 
 📺 Higgsfield AI
 
-👁️ 34K • 👍 978 • 💬 131 • ⏱️ 2:25 • 2d ago
+👁️ 34K • 👍 978 • 💬 131 • ⏱️ 2:25 • 3d ago
 
 ---
 
@@ -357,7 +357,7 @@ You can download Revolut using this link: https://get.revolut.com/z4lF/codebulle
 
 📺 All-In Podcast
 
-👁️ 182K • 👍 4K • 💬 489 • ⏱️ 1:30:53 • 23h ago
+👁️ 182K • 👍 4K • 💬 489 • ⏱️ 1:30:53 • 1d ago
 
 ---
 
@@ -662,7 +662,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.9k • 🔱 1.9k • 18h ago
+⭐ 16.9k • 🔱 1.9k • 19h ago
 
 ---
 
@@ -672,7 +672,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 13h ago
+⭐ 14.1k • 🔱 1.7k • 14h ago
 
 ---
 
@@ -682,7 +682,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 23h ago
+⭐ 8.8k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -742,7 +742,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 17h ago
+⭐ 2.0k • 🔱 183 • 18h ago
 
 ---
 

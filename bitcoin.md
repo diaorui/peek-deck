@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T14:21:05.451000+00:00'
+updated: '2026-08-22T14:48:21.350590+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 14:21 UTC  
+**Last Updated:** August 22, 2026 at 14:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,15 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
-
-6h ago
-
----
-
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
 10h ago
+
+---
+
+**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+
+7h ago
+
+---
+
+**[Prophet u/Boring_Ad7277 postet this chart 7 days ago](https://www.reddit.com/r/Bitcoin/comments/1vv1qns/prophet_uboring_ad7277_postet_this_chart_7_days/)**
+
+u/Boring_Ad7277
+
+10h ago
+
+---
+
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
+
+4h ago
 
 ---
 
@@ -103,31 +117,11 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 ---
 
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
-
-4h ago
-
----
-
 **[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-15h ago
-
----
-
-**[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
-
-1d ago
-
----
-
-**[Prophet u/Boring_Ad7277 postet this chart 7 days ago](https://www.reddit.com/r/Bitcoin/comments/1vv1qns/prophet_uboring_ad7277_postet_this_chart_7_days/)**
-
-u/Boring_Ad7277
-
-10h ago
+16h ago
 
 ---
 
@@ -135,13 +129,21 @@ u/Boring_Ad7277
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-8h ago
+9h ago
 
 ---
 
-**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
+**[Bitcoin to $500K by the end of 2030.](https://www.reddit.com/r/Bitcoin/comments/1vv704h/bitcoin_to_500k_by_the_end_of_2030/)**
 
-15h ago
+Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
+
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 6h ago
+
+---
+
+**[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
+
+1d ago
 
 ---
 
@@ -153,7 +155,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -183,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-WRAL • 15m ago
+WRAL • 42m ago
 
 ---
 
@@ -219,7 +221,7 @@ Financial Times • 1d ago
 
 Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -283,7 +285,7 @@ CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for B
 
 📺 CNBC Television
 
-👁️ 12K • 👍 129 • 💬 25 • ⏱️ 2:30 • 21h ago
+👁️ 12K • 👍 129 • 💬 25 • ⏱️ 2:30 • 22h ago
 
 ---
 
@@ -293,7 +295,7 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 435 • 💬 125 • ⏱️ 14:55 • 20h ago
+👁️ 14K • 👍 435 • 💬 125 • ⏱️ 14:55 • 21h ago
 
 ---
 
@@ -363,7 +365,7 @@ Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! S
 
 📺 Sin City Crypto
 
-👁️ 14K • 👍 567 • ⏱️ 5:58:35 • 9h ago
+👁️ 14K • 👍 567 • ⏱️ 5:58:35 • 10h ago
 
 ---
 
