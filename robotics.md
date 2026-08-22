@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T08:59:39.417248+00:00'
+updated: '2026-08-22T09:35:17.186772+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 08:59 UTC  
+**Last Updated:** August 22, 2026 at 09:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 22h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 23h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -108,6 +108,14 @@ We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swep
 
 ## Google News: "robotics"
 
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 1d ago
+
+---
+
 **[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
@@ -116,17 +124,9 @@ Ars Technica • 1d ago
 
 ---
 
-**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
-
-Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
-
-Business Insider • 23h ago
-
----
-
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -142,27 +142,21 @@ Financial Times • 8h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 20h ago
+Al Jazeera • 21h ago
 
 ---
 
-**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
 
-WSJ • 2d ago
+Companies are selling machines to government-backed centres that then sell training data back to robot makers
+
+Financial Times • 2d ago
 
 ---
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
 WSJ • 17h ago
-
----
-
-**[Fun to Watch, but How Does a High-Jumping Humanoid Help Humanity?](https://spectrum.ieee.org/video-friday-unitree-superhuman)**
-
-Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
-
-IEEE Spectrum • 16h ago
 
 ---
 
@@ -174,11 +168,19 @@ Interesting Engineering • 10h ago
 
 ---
 
-**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
+**[Fun to Watch, but How Does a High-Jumping Humanoid Help Humanity?](https://spectrum.ieee.org/video-friday-unitree-superhuman)**
 
-While robots are getting pretty good at sprinting, stopping is apparently still an issue.
+Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
 
-Mashable • 13h ago
+IEEE Spectrum • 17h ago
+
+---
+
+**[Amazon is bringing a multibillion-dollar robotics plant to Texas](https://ca.finance.yahoo.com/news/amazon-bringing-multibillion-dollar-robotics-170427895.html)**
+
+The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
+
+Yahoo! Finance Canada • 1d ago
 
 ---
 
@@ -242,7 +244,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 5K • 👍 384 • 💬 19 • ⏱️ 0:24 • 7h ago
+👁️ 5K • 👍 384 • 💬 19 • ⏱️ 0:24 • 8h ago
 
 ---
 
@@ -252,7 +254,7 @@ Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it
 
 📺 ABC News (Australia)
 
-👁️ 35K • 👍 355 • ⏱️ 2:24 • 2d ago
+👁️ 35K • 👍 355 • ⏱️ 2:24 • 3d ago
 
 ---
 
@@ -262,7 +264,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 311K • 👍 23K • 💬 193 • ⏱️ 1:40 • 17h ago
+👁️ 311K • 👍 23K • 💬 193 • ⏱️ 1:40 • 18h ago
 
 ---
 
@@ -272,7 +274,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 613K • 👍 3K • 💬 57 • ⏱️ 0:09 • 23h ago
+👁️ 613K • 👍 3K • 💬 57 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -282,7 +284,7 @@ This robot is faster than Usain Bolt #robotics #robot #sport #finance #technews.
 
 📺 RealJonahBlake
 
-👁️ 2K • 👍 20 • 💬 3 • ⏱️ 0:19 • 7h ago
+👁️ 2K • 👍 20 • 💬 3 • ⏱️ 0:19 • 8h ago
 
 ---
 

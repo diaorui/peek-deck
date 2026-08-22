@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T08:59:39.399664+00:00'
+updated: '2026-08-22T09:35:17.167845+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 08:59 UTC  
+**Last Updated:** August 22, 2026 at 09:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
+
+1h ago
+
+---
+
 **[Are we losing the incentive to be creative? The "AI did it" assumption.](https://www.reddit.com/r/artificial/comments/1vuttop/are_we_losing_the_incentive_to_be_creative_the_ai/)**
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
 11h ago
-
----
-
-**[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
-
-1h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ More reasoning does not automatically mean more factual reliability. OpenAI’s 
 
 In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ In structured data extraction, adding an LLM-as-a-judge self-correction loop is 
 
 Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
 
-21h ago
+22h ago
 
 ---
 
@@ -117,6 +117,14 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 ## Google News: "ai"
 
+**[Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology)**
+
+It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
+
+The Guardian • 3h ago
+
+---
+
 **[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
@@ -125,33 +133,33 @@ CNBC • 11h ago
 
 ---
 
-**[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
+**[AI Code Review at Scale: LinkedIn's Multi-Agent Approach](https://www.infoq.com/news/2026/08/linkedin-ai-code-review/)**
 
-A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
+At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organizationâ€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback.
 
-NPR • 10h ago
+infoq.com • 34m ago
 
 ---
 
-**[Consulting's Race to Become AI Native](https://www.businessinsider.com/consulting-race-to-become-ai-native-tech-first-2026-8)**
+**[My AI Agent Got Me Banned From Resy. Another Agent Got Me Reinstated.](https://www.businessinsider.com/ai-agent-banned-resy-account-reinstated-2026-8)**
 
-How much is the drive to be "AI-native" changing the core of traditional consulting?
+Brian Distelburger set up an AI agent to land a reservation at New York's 4 Charles. He was quickly banned from Resy after his account got flagged.
 
-Business Insider • 52m ago
+Business Insider • 33m ago
+
+---
+
+**[Stripe president says checkout pages ‘will go away’ as AI commerce expands](https://www.businessinsider.com/stripe-checkout-pages-future-ai-agentic-commerce-2026-8)**
+
+Stripe president Will Gaybrick isn't sure what full agentic commerce looks like, but even the least ambitious future doesn't have checkout pages.
+
+Business Insider • 33m ago
 
 ---
 
 **[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
 
-The New York Times • 21h ago
-
----
-
-**[Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology)**
-
-It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
-
-The Guardian • 3h ago
+The New York Times • 22h ago
 
 ---
 
@@ -163,11 +171,19 @@ Courthouse News • 13h ago
 
 ---
 
+**[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
+
+A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
+
+NPR • 11h ago
+
+---
+
 **[NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)**
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 19h ago
+NVIDIA Developer • 20h ago
 
 ---
 
@@ -179,22 +195,6 @@ CBS News • 15h ago
 
 ---
 
-**[Minnesota lawyer suspended over fake AI case citations](https://www.mprnews.org/story/2026/08/21/lawyer-in-minnesota-suspended-over-fake-ai-case-citations)**
-
-Minnesota attorney Faisal S. Ahmed has agreed to a 30-day suspension of his law license for filing a 2025 legal brief that cited nonexistent, AI-hallucinated court cases.
-
-MPR News • 11h ago
-
----
-
-**[‘F**k Flock!’ Vandals wage war on AI surveillance cameras](https://www.cnn.com/us/video/flock-camera-ai-meena-duerson)**
-
-Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
-
-CNN • 20h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -203,13 +203,13 @@ CNN • 20h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1038 • 💬 578 • 2d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1039 • 💬 578 • 2d ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 703 • 💬 2 • 22h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 703 • 💬 2 • 23h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -217,7 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 559 • 💬 854 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 561 • 💬 855 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -233,7 +233,7 @@ My personal portfolio site and blog.
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 351 • 💬 352 • 21h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 362 • 💬 360 • 21h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -279,7 +279,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 9 • 17h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 9 • 18h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -323,7 +323,7 @@ Oracle just banned AI contributions for Open JDK. Topics: - Oracle bans AI code 
 
 📺 Awesome
 
-👁️ 59K • 👍 3K • 💬 355 • ⏱️ 8:03 • 1d ago
+👁️ 59K • 👍 3K • 💬 355 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -383,7 +383,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 650K • 👍 52K • 💬 533 • ⏱️ 0:35 • 18h ago
+👁️ 650K • 👍 52K • 💬 533 • ⏱️ 0:35 • 19h ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 469 • 34m ago
+⬇️ 123,956 • ❤️ 469 • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.8k • 🔱 1.9k • 13h ago
+⭐ 16.8k • 🔱 1.9k • 14h ago
 
 ---
 
@@ -680,7 +680,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 18h ago
+⭐ 8.8k • 🔱 1.1k • 19h ago
 
 ---
 
@@ -730,7 +730,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 243 • 3h ago
+⭐ 2.2k • 🔱 243 • 4h ago
 
 ---
 
@@ -750,7 +750,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 233 • 4h ago
+⭐ 1.9k • 🔱 233 • 5h ago
 
 ---
 

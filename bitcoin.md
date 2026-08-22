@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T08:59:39.408090+00:00'
+updated: '2026-08-22T09:35:17.176924+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 08:59 UTC  
+**Last Updated:** August 22, 2026 at 09:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,330.52
+### $77,158.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +22.7%  
-**30d:** +20.2%  
-**90d:** -0.3%  
+**24h:** -0.8%  
+**7d:** +22.8%  
+**30d:** +20.3%  
+**90d:** -0.2%  
 **1y:** -33.2%  
 
 ---
@@ -85,9 +85,15 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 ---
 
+**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+
+2h ago
+
+---
+
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -95,31 +101,19 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-13h ago
+14h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-4h ago
+5h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
 20h ago
-
----
-
-**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
-
-10h ago
-
----
-
-**[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
-
-23h ago
 
 ---
 
@@ -131,17 +125,23 @@ u/Boring_Ad7277
 
 ---
 
-**[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
+**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-22h ago
+10h ago
 
 ---
 
-**[This Bitcoin Rally Is Not Stopping Anytime Soon](https://www.reddit.com/r/Bitcoin/comments/1vuvwfr/this_bitcoin_rally_is_not_stopping_anytime_soon/)**
+**[Who the heck was responsible for that just now](https://www.reddit.com/r/Bitcoin/comments/1vv3qu1/who_the_heck_was_responsible_for_that_just_now/)**
 
-Just read that US Treasury intervention in the bond markets have not worked and the yields climbed back up before the intervention. It’s obvious that the US Treasury is trying their best to reduce interest rates. I would not be surprised if they announce more of the same, failed intervention policies on Monday. Money printer is going to go into overdrive.
+https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-9h ago
+3h ago
+
+---
+
+**[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
+
+1d ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 21h ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -169,19 +169,13 @@ CNBC • 13h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 15h ago
-
----
-
-**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
-
-WSJ • 8h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -190,6 +184,12 @@ WSJ • 8h ago
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
 Fox News • 5h ago
+
+---
+
+**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+
+WSJ • 9h ago
 
 ---
 
@@ -211,15 +211,15 @@ CNBC • 2d ago
 
 President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks Congress to Move Quickly on CLARITY Act Trump hosted White House cryptocurrency summit alongside CFTC Chairman Michael Selig and...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened](https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates)**
+**[Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
 
-Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
+Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-The Guardian • 1d ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -283,7 +283,7 @@ YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards 
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 379 • ⏱️ 13:09 • 14h ago
+👁️ 6K • 👍 379 • ⏱️ 13:09 • 15h ago
 
 ---
 
@@ -313,7 +313,7 @@ Today, Ripple CEO Brad Garlinghouse unveiled the details of a landmark collabora
 
 📺 Tim Clowers / Cook it with Tim
 
-👁️ 13K • 👍 6K • 8h ago
+👁️ 13K • 👍 6K • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 3K • 👍 67 • 💬 8 • ⏱️ 1:14 • 6h ago
+👁️ 3K • 👍 67 • 💬 8 • ⏱️ 1:14 • 7h ago
 
 ---
 
@@ -361,7 +361,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 282 • 💬 3 • ⏱️ 2:18 • 7h ago
+👁️ 3K • 👍 282 • 💬 3 • ⏱️ 2:18 • 8h ago
 
 ---
 
@@ -371,7 +371,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 3K • 👍 167 • 💬 40 • ⏱️ 18:12 • 20h ago
+👁️ 3K • 👍 167 • 💬 40 • ⏱️ 18:12 • 21h ago
 
 ---
 

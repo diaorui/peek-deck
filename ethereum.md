@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T08:59:39.414101+00:00'
+updated: '2026-08-22T09:35:17.183382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 08:59 UTC  
+**Last Updated:** August 22, 2026 at 09:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +29.3%  
-**30d:** +30.3%  
-**90d:** +14.8%  
-**1y:** -49.2%  
+**24h:** +1.2%  
+**7d:** +29.2%  
+**30d:** +30.2%  
+**90d:** +14.7%  
+**1y:** -49.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-19h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 14h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-7h ago
+8h ago
 
 ---
 
@@ -152,11 +152,9 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
+**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
-
-Yahoo Finance • 16h ago
+Barron's • 1d ago
 
 ---
 
@@ -172,7 +170,15 @@ Yahoo Finance • 22h ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 14h ago
+TradingView • 15h ago
+
+---
+
+**[Ethereum ETFs Draw $189 Million in Biggest Single-Day Haul in 10 Months](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-draw-189-million-104834566.html)**
+
+Ethereum ETFs pulled $189M on August 19, their biggest day since October, with BlackRock's fund taking 65%.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -184,19 +190,11 @@ MarketForces Africa • 2d ago
 
 ---
 
-**[Flowra Launches Open Orderflow Auction, Bringing Ethereum's Block-Building Market to Solana](https://hackernoon.com/flowra-launches-open-orderflow-auction-bringing-ethereums-block-building-market-to-solana)**
-
-Flowra launches its Open Orderflow Auction, opening Solana block building to competitive bidding and giving validators programmable inclusion policies.
-
-HackerNoon • 4h ago
-
----
-
 **[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -212,15 +210,15 @@ CryptoSlate • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
-**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
+**[Flowra Launches Open Orderflow Auction, Bringing Ethereum's Block-Building Market to Solana](https://hackernoon.com/flowra-launches-open-orderflow-auction-bringing-ethereums-block-building-market-to-solana)**
 
-Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
+Flowra launches its Open Orderflow Auction, opening Solana block building to competitive bidding and giving validators programmable inclusion policies.
 
-FXStreet • 10h ago
+HackerNoon • 5h ago
 
 ---
 
@@ -242,7 +240,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 12K • 👍 455 • 💬 8 • ⏱️ 20:52 • 15h ago
+👁️ 12K • 👍 455 • 💬 8 • ⏱️ 20:52 • 16h ago
 
 ---
 
@@ -252,7 +250,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 5 • ⏱️ 7:31 • 16h ago
+👁️ 4K • 👍 204 • 💬 5 • ⏱️ 7:31 • 17h ago
 
 ---
 
@@ -272,7 +270,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 69 • ⏱️ 1:25 • 18h ago
+👁️ 1K • 👍 69 • ⏱️ 1:25 • 19h ago
 
 ---
 
@@ -332,7 +330,7 @@ In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in le
 
 📺 Coin Bureau Podcast
 
-👁️ 1K • 👍 32 • 💬 1 • ⏱️ 0:43 • 15h ago
+👁️ 1K • 👍 32 • 💬 1 • ⏱️ 0:43 • 16h ago
 
 ---
 
