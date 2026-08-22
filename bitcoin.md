@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T04:32:38.454540+00:00'
+updated: '2026-08-22T05:27:28.005649+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 04:32 UTC  
+**Last Updated:** August 22, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,783.12
+### $77,213.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.8%  
-**7d:** +25.0%  
-**30d:** +22.5%  
-**90d:** +1.6%  
-**1y:** -32.0%  
+**24h:** +2.1%  
+**7d:** +22.8%  
+**30d:** +20.4%  
+**90d:** -0.1%  
+**1y:** -33.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,37 +89,37 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-9h ago
+10h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-14h ago
+15h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -127,19 +127,19 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 Just read that US Treasury intervention in the bond markets have not worked and the yields climbed back up before the intervention. It’s obvious that the US Treasury is trying their best to reduce interest rates. I would not be surprised if they announce more of the same, failed intervention policies on Monday. Money printer is going to go into overdrive.
 
-5h ago
+6h ago
 
 ---
 
 **[#HODL](https://www.reddit.com/r/Bitcoin/comments/1vub8e4/hodl/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Bro really be acting like this owning 0.005 btc](https://www.reddit.com/r/Bitcoin/comments/1vuy99i/bro_really_be_acting_like_this_owning_0005_btc/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Just read that US Treasury intervention in the bond markets have not worked and 
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -159,13 +159,13 @@ CNBC • 9h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -173,28 +173,33 @@ Bloomberg.com • 11h ago
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Crypto Stocks To Watch After Bitcoin’s 20% Weekly Rebound](https://simplywall.st/stocks/us/diversified-financials/nasdaq-sbet/sharplink/news/crypto-stocks-to-watch-after-bitcoins-20-weekly-rebound)**
+**[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
 
-When bond yields swing, crypto squeezes trigger billions in liquidations, and Bitcoin snaps back with a 20% weekly gain, attention quickly shifts to stocks most exposed to that storm. For investors, these cross currents can create sharp moves that feel fleeting. Yet they also open windows where pricing and sentiment briefly disconnect. This article profiles 3 stocks closely tied to the latest crypto news and explains why their exposure to it matters.
-The 3 stocks below are just a starting...
+Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-simplywall.st • 1h ago
+Fox News • 1h ago
+
+---
+
+**[How a Treasury Buyback Tweak Helped Bitcoin Surge Nearly 25% in Days](https://www.moomoo.com/news/post/75095813/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25)**
+
+Moomoo • 16m ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 4h ago
+WSJ • 5h ago
 
 ---
 
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -211,14 +216,6 @@ Fox Business • 13h ago
 Oil kept running higher as well while Walmart sold off on earnings.
 
 Investor's Business Daily • 14h ago
-
----
-
-**[Bitcoin and Altcoins Are Rallying. Is ‘Crypto Winter’ Thawing?](https://www.investopedia.com/market-update-bitcoin-and-altcoins-are-rallying-is-crypto-winter-thawing-btc-mstr-stock-12064359)**
-
-Signs of a crypto thaw are beginning to show.
-
-Investopedia • 1d ago
 
 ---
 
@@ -244,7 +241,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 20h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 21h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -282,7 +279,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 471 • 👍 25 • 💬 4 • ⏱️ 1:15 • 1h ago
+👁️ 471 • 👍 25 • 💬 4 • ⏱️ 1:15 • 2h ago
 
 ---
 
@@ -302,7 +299,7 @@ Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! S
 
 📺 Sin City Crypto
 
-👁️ 8K • 👍 499 • 6h ago
+👁️ 8K • 👍 499 • 7h ago
 
 ---
 
@@ -322,7 +319,7 @@ Bitcoin (BTC) and Strategy (MSTR) just had an absolutely fantastic thanks to the
 
 📺 Noor
 
-👁️ 717 • ⏱️ 1:07 • 4h ago
+👁️ 717 • ⏱️ 1:07 • 5h ago
 
 ---
 
@@ -332,7 +329,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 3K • 👍 151 • 💬 22 • ⏱️ 18:12 • 16h ago
+👁️ 3K • 👍 151 • 💬 22 • ⏱️ 18:12 • 17h ago
 
 ---
 
@@ -360,7 +357,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 11K • 👍 788 • 💬 10 • ⏱️ 9:16 • 12h ago
+👁️ 11K • 👍 788 • 💬 10 • ⏱️ 9:16 • 13h ago
 
 ---
 
@@ -370,7 +367,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Outdoor Limits
 
-👁️ 4K • 👍 1K • 1h ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 

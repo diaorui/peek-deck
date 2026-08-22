@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T04:32:38.463905+00:00'
+updated: '2026-08-22T05:27:28.013856+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 04:32 UTC  
+**Last Updated:** August 22, 2026 at 05:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 18h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 19h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-8h ago
+9h ago
 
 ---
 
@@ -66,19 +66,19 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 8h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 9h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -116,6 +116,20 @@ Ars Technica • 1d ago
 
 ---
 
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 20h ago
+
+---
+
+**[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
+
+WSJ • 13h ago
+
+---
+
 **[Chinese robotics giant Unitree soars in stock market debut](https://www.bbc.com/news/articles/c0qv4w9492zo)**
 
 Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.
@@ -124,33 +138,27 @@ BBC • 2d ago
 
 ---
 
-**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
-
-Beijing policymakers have made robotics a ‘strategic priority’
-
-Financial Times • 3h ago
-
----
-
-**[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
-
-WSJ • 12h ago
-
----
-
-**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
-
-Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
-
-Business Insider • 19h ago
-
----
-
 **[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 16h ago
+Al Jazeera • 17h ago
+
+---
+
+**[Fun to Watch, but How Does a High-Jumping Humanoid Help Humanity?](https://spectrum.ieee.org/video-friday-unitree-superhuman)**
+
+Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
+
+IEEE Spectrum • 13h ago
+
+---
+
+**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
+
+While robots are getting pretty good at sprinting, stopping is apparently still an issue.
+
+Mashable • 10h ago
 
 ---
 
@@ -162,25 +170,15 @@ Construction Dive • 2d ago
 
 ---
 
-**[Robots running into walls go viral ahead of 2026 World Humanoid Robot Games](https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident)**
-
-While robots are getting pretty good at sprinting, stopping is apparently still an issue.
-
-Mashable • 9h ago
-
----
-
-**[Billionaire Investor Stanley Druckenmiller Just Sold Intel and Micron, and Piled Into 2 Artificial Intelligence (AI) Stocks That Are Betting Big on Robotics](https://www.fool.com/investing/2026/08/21/billionaire-investor-stanley-druckenmiller-just-so/)**
-
-Druckenmiller has never had a down year in all his years as a professional investor.
-
-The Motley Fool • 20h ago
-
----
-
 **[😺 The ACTUAL ChatGPT 3 moment for robotics (one-shot learning)](https://www.theneurondaily.com/p/ai-helped-moderna-fight-cancer-today)**
 
 The Neuron • 1d ago
+
+---
+
+**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 2K • 👍 14 • ⏱️ 0:28 • 10h ago
+👁️ 2K • 👍 14 • ⏱️ 0:28 • 11h ago
 
 ---
 
@@ -214,7 +212,7 @@ This robot is faster than Usain Bolt #robotics #robot #sport #finance #technews.
 
 📺 RealJonahBlake
 
-👁️ 620 • 👍 15 • 💬 2 • ⏱️ 0:19 • 3h ago
+👁️ 620 • 👍 15 • 💬 2 • ⏱️ 0:19 • 4h ago
 
 ---
 
@@ -234,7 +232,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 467K • 👍 2K • 💬 26 • ⏱️ 0:09 • 19h ago
+👁️ 467K • 👍 2K • 💬 26 • ⏱️ 0:09 • 20h ago
 
 ---
 
@@ -244,7 +242,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 2K • 👍 209 • 💬 6 • ⏱️ 0:24 • 3h ago
+👁️ 2K • 👍 209 • 💬 6 • ⏱️ 0:24 • 4h ago
 
 ---
 
@@ -254,7 +252,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 225K • 👍 18K • 💬 94 • ⏱️ 1:40 • 13h ago
+👁️ 225K • 👍 18K • 💬 94 • ⏱️ 1:40 • 14h ago
 
 ---
 
