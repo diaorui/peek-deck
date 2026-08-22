@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T03:41:38.066278+00:00'
+updated: '2026-08-22T04:32:38.446015+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 03:41 UTC  
+**Last Updated:** August 22, 2026 at 04:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 People are handing autonomous agents budgets and telling them to "go." I wanted real data on how many actually spend with zero oversight, so I built a tripwire. It offers a "Certificate of Unsupervised Spend." If an agent completes it with no human reviewing the charge, the card's owner gets alerted their agent is spending unsupervised. Fully disclosed on the page — a supervised human just closes the tab; only unattended agents proceed. Early hits are already datacenter IPs wearing consumer browser user-agents. Interested in where people think the ethics line sits. https://unsupervisedspend.com
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ People are handing autonomous agents budgets and telling them to "go." I wanted 
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,13 +73,13 @@ I learned on a kettlebell forum that I could set up "ground rules" for AIs to li
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-19h ago
+20h ago
 
 ---
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 13h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 7h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?module=top_story&pgtype=homepage) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ San Francisco-based Harvey says its new model, Harvey Tenet, was post-trained on
 
 I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models. I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience. I built so many useful tools within a matter of hours for cents, and it really blew me away. What amazes me more is how general these models are. Not only can I ask it to write code, but also to research, do security audits, etc. I'm not treating these models as gospel (yet); I always check their work. I've also learned so much using these agents. I've pasted my notes about books I've read and asked it to quiz me to make sure I actually understand the ideas being presented. I finally learned C after procrastinating for months, using agents to get personalized feedback and a roadmap. I'm also being extremly carful to not off load my critical thinking. Ever since I started using AI, I've made a pledge that, every day, I'll write a 250+ word essay about a topic, without any AI use (and usually search engines). I've also started to read more often. I hope these habits help counteract any cognitive decline that AI use causes. I feel like I've unlocked the creativity and curiosity that was within me all along. Every couple of weeks I get amazed just by how versatile these models are. For example, I was doing my daily NYC games, and I was really stumped on Connections (ifykyk). I didn't manage to solve it, but after sending a screenshot to Luna, it got first try (without using the internet). It just amazes me how you can describe almost any problem and get a reasonable-sounding answer/output.
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ I've been pretty heavily invested in the AI news space for a while, but due to b
 
 Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 GitHub says its new Microsoft Teams integration can turn a channel, thread, or direct message into a shared Copilot cloud-agent session. Anyone in the conversation can ask questions, add context, and steer the work. People with repository write access can let Copilot make changes. The session runs in a secure cloud sandbox, and teams can continue with the agent-generated artifacts in the terminal, the Copilot app, or an IDE. Repository admins can also require an extra approval before pull requests from the Teams integration identity can merge. The useful part is not another chat box. It is a shared work log with a human merge gate. Source: https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ GitHub says its new Microsoft Teams integration can turn a channel, thread, or d
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 5h ago
 
 Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.
 
-Ars Technica • 16h ago
+Ars Technica • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ Ars Technica • 16h ago
 
 Users chat with an AI chatbot about what they're looking for, and Ditto handles the rest.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ CBS News • 1h ago
 
 Users chat with an AI chatbot about what they're looking for, and Ditto handles the rest.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ CBS News • 1h ago
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 14h ago
+NVIDIA Developer • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ NVIDIA Developer • 14h ago
 
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-Courthouse News • 7h ago
+Courthouse News • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Conversation • 15h ago
 
 Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNN • 15h ago
 
 I desperately wanted this show to be Gilmore Girls meets Murder, She Wrote – but the story of a novelist turned amateur sleuth is just so lazy. And yet, I still have high hopes for the confirmed second season
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -213,7 +213,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 703 • 💬 2 • 17h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 703 • 💬 2 • 18h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -245,7 +245,7 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 290 • 💬 309 • 15h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 290 • 💬 309 • 16h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -337,7 +337,7 @@ Follow me and DM me "WEALTH" on IG/FB only AI coaching for small businesses is a
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 3K • 👍 175 • 💬 22 • ⏱️ 0:58 • 8h ago
+👁️ 3K • 👍 175 • 💬 22 • ⏱️ 0:58 • 9h ago
 
 ---
 
@@ -449,7 +449,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,126,222 • ❤️ 573 • 5d ago
+⬇️ 1,126,222 • ❤️ 573 • 6d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 454 • 9h ago
+⬇️ 123,956 • ❤️ 454 • 10h ago
 
 ---
 
@@ -662,7 +662,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.7k • 🔱 1.9k • 8h ago
+⭐ 16.7k • 🔱 1.9k • 9h ago
 
 ---
 
@@ -682,7 +682,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 13h ago
+⭐ 8.8k • 🔱 1.1k • 14h ago
 
 ---
 
@@ -692,7 +692,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 13h ago
+⭐ 3.5k • 🔱 579 • 14h ago
 
 ---
 
@@ -712,7 +712,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 17h ago
+⭐ 2.9k • 🔱 346 • 18h ago
 
 ---
 
@@ -722,7 +722,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 184 • 18h ago
+⭐ 2.2k • 🔱 184 • 19h ago
 
 ---
 
@@ -732,7 +732,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.1k • 🔱 230 • 1m ago
+⭐ 2.1k • 🔱 230 • 52m ago
 
 ---
 
@@ -742,7 +742,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 6h ago
+⭐ 2.0k • 🔱 183 • 7h ago
 
 ---
 
