@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T07:31:35.847569+00:00'
+updated: '2026-08-22T08:30:01.888683+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 07:31 UTC  
+**Last Updated:** August 22, 2026 at 08:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,183.41
+### $77,330.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +23.2%  
-**30d:** +20.8%  
-**90d:** +0.2%  
-**1y:** -32.9%  
+**24h:** -1.0%  
+**7d:** +22.7%  
+**30d:** +20.2%  
+**90d:** -0.3%  
+**1y:** -33.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1553.85B
+**Market Cap:** $1550.02B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.8%
 
 **All-Time Low:** $67.81
-+114091.1%
++113768.2%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-8h ago
+9h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -95,31 +95,31 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-12h ago
+13h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-3h ago
+4h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -127,13 +127,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 u/Boring_Ad7277
 
-3h ago
+4h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ u/Boring_Ad7277
 
 Just read that US Treasury intervention in the bond markets have not worked and the yields climbed back up before the intervention. It’s obvious that the US Treasury is trying their best to reduce interest rates. I would not be surprised if they announce more of the same, failed intervention policies on Monday. Money printer is going to go into overdrive.
 
-8h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ Just read that US Treasury intervention in the bond markets have not worked and 
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 19h ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -169,27 +169,19 @@ CNBC • 12h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[Saylor “Don’t feed the Bitcoin bears”](https://www.moomoo.com/community/feed/saylor-don-t-feed-the-bitcoin-bears-117137628528645)**
-
-$Bitcoin (BTC.CC)$
-
-Moomoo • 1h ago
+Bloomberg.com • 15h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
@@ -197,29 +189,37 @@ WSJ • 7h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
-**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
 
-Reuters • 20h ago
-
----
-
-**[CRYPTO TAKES OFF: Coinbase rides Bitcoin's massive rally](https://www.foxbusiness.com/video/6403816113112)**
-
-FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
-
-Fox Business • 16h ago
+Reuters • 1d ago
 
 ---
 
-**[XRP leads broad altcoin rally as bitcoin's biggest weekly gain in two years lifts crypto](https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483)**
+**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
 
-Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.
+Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-The Block • 14h ago
+CNBC • 2d ago
+
+---
+
+**[Trump Says US is the 'Hottest Country' and CLARITY Act Will Keep it Ahead Of China — Bitcoin Purchase 'Been Talked About'](https://finance.yahoo.com/markets/crypto/articles/trump-says-us-hottest-country-023156530.html)**
+
+President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks Congress to Move Quickly on CLARITY Act Trump hosted White House cryptocurrency summit alongside CFTC Chairman Michael Selig and...
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened](https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates)**
+
+Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
+
+The Guardian • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 23h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 1d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -277,41 +277,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[CRYPTO CATCHES FIRE: Coinbase RIDES Bitcoin surge #shorts](https://www.youtube.com/watch?v=09_mEmVxNZI)**
+**[Bitcoin Bull Market Starts LIKE THIS!](https://www.youtube.com/watch?v=VLCwZKT_9DY)**
 
-FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on ...
+YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
 
-📺 Fox Business
+📺 Crypto Jebb
 
-👁️ 2K • 👍 56 • 💬 6 • ⏱️ 1:14 • 5h ago
-
----
-
-**[Bitcoin BULL MARKET or BEAR TRAP? What History Says](https://www.youtube.com/watch?v=khCeYPl2K04)**
-
-FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
-
-📺 Crypto Tips
-
-👁️ 12K • 👍 829 • 💬 16 • ⏱️ 9:16 • 15h ago
-
----
-
-**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
-
-Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 145 • ⏱️ 11:06 • 1d ago
-
----
-
-**[Bitcoins Reality Check #bitcoin #btc #crypto #ytshorts #fypシ](https://www.youtube.com/watch?v=YdYei-G64XY)**
-
-📺 Life ROI
-
-👁️ 450 • 👍 10 • 💬 1 • ⏱️ 2:39 • 4h ago
+👁️ 6K • 👍 379 • ⏱️ 13:09 • 14h ago
 
 ---
 
@@ -321,17 +293,37 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 72 • ⏱️ 17:33 • 1d ago
+👁️ 36K • 👍 2K • 💬 52 • ⏱️ 17:33 • 1d ago
 
 ---
 
-**[Bitcoin Surges Past $72,000! Massive Short Squeeze?!](https://www.youtube.com/watch?v=EtHqrz4V0_M)**
+**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
 
-Hurley talks about Bitcoin Surges Past $72000! Massive Short Squeeze?! Brought to you by Bitcoinwell.com a bitcoin-only ...
+Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 865 • 👍 19 • ⏱️ 0:18 • 7h ago
+👁️ 48K • 👍 4K • 💬 149 • ⏱️ 11:06 • 1d ago
+
+---
+
+**[🚨 BlackRock &amp; Ripple News Today | Brad Garlinghouse | XRP Price Prediction](https://www.youtube.com/watch?v=GRPKaPLZSQk)**
+
+Today, Ripple CEO Brad Garlinghouse unveiled the details of a landmark collaboration with BlackRock, signaling a major step ...
+
+📺 Tim Clowers / Cook it with Tim
+
+👁️ 13K • 👍 6K • 8h ago
+
+---
+
+**[CRYPTO CATCHES FIRE: Coinbase RIDES Bitcoin surge #shorts](https://www.youtube.com/watch?v=09_mEmVxNZI)**
+
+FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on ...
+
+📺 Fox Business
+
+👁️ 3K • 👍 67 • 💬 8 • ⏱️ 1:14 • 6h ago
 
 ---
 
@@ -341,7 +333,7 @@ Hurley talks about Bitcoin Surges Past $72000! Massive Short Squeeze?! Brought t
 
 📺 Altcoin Daily
 
-👁️ 84K • 👍 3K • 💬 159 • ⏱️ 10:41 • 2d ago
+👁️ 84K • 👍 3K • 💬 161 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -351,27 +343,35 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 1K • 👍 65 • 💬 7 • ⏱️ 1:15 • 4h ago
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 1:15 • 5h ago
 
 ---
 
-**[$1.5 Million Bitcoin Bet - Trump Just Opened The Door](https://www.youtube.com/watch?v=Jhbfulv6eMo)**
+**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
 
-Secure Your Bitcoin With a Trezor Hardware Wallet: https://affil.trezor.io/aff_c?offer_id=137&aff_id=846511 Bitcoin is breaking out ...
+Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
 
-📺 Bitcoin News Alerts
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 327 • 💬 69 • ⏱️ 16:24 • 1d ago
+👁️ 25K • 👍 1K • 💬 626 • ⏱️ 22:30 • 2d ago
 
 ---
 
-**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+**[GET READY BITCOIN AND ALTCOINS ARE GOING CRAZY! # #crypto #bitcoin #crypto](https://www.youtube.com/watch?v=9yBGNtAN6nE)**
 
-Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+📺 CryptoWendyO
 
-📺 CNBC Television
+👁️ 3K • 👍 282 • 💬 3 • ⏱️ 2:18 • 7h ago
 
-👁️ 70K • 👍 1K • 💬 187 • ⏱️ 7:54 • 1d ago
+---
+
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+
+📺 The Hobbyist Miner
+
+👁️ 3K • 👍 167 • 💬 40 • ⏱️ 18:12 • 20h ago
 
 ---
 

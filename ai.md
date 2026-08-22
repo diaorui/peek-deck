@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T07:31:35.839086+00:00'
+updated: '2026-08-22T08:30:01.880952+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 07:31 UTC  
+**Last Updated:** August 22, 2026 at 08:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Ling-3.0 opens six base checkpoints across three training stages](https://www.reddit.com/r/artificial/comments/1vup2uv/ling30_opens_six_base_checkpoints_across_three/)**
-
-Ant Group's new release makes six base checkpoints available: pretrained, mid-trained, and WSM-merged checkpoints for both the tiny and flash sizes. That is two sizes × three training stages. Every repository is public and ungated with an MIT declaration, and none of the six has been post-trained. The Ling-3.0 base model release exposes three points in the training progression for each of two model sizes. Researchers can inspect each released stage, but these are base checkpoints for continued pretraining, fine-tuning, and research—not finished chat or instruct models. One important evidence boundary: the team says the same recipe was validated on tiny and then scaled to flash, but that is an official statement rather than an independent reproduction. The WSM paper's reported experiments use Ling-mini, not the six Ling-3.0 checkpoints released here. The official release announcement contains the full family, and the main tiny and flash model pages are the WSM-merged endpoints..
-
-12h ago
-
----
-
 **[Are we losing the incentive to be creative? The "AI did it" assumption.](https://www.reddit.com/r/artificial/comments/1vuttop/are_we_losing_the_incentive_to_be_creative_the_ai/)**
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-9h ago
+10h ago
+
+---
+
+**[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
+
+54m ago
+
+---
+
+**[AI for editing existing Songs/Music?](https://www.reddit.com/r/artificial/comments/1vv4zqz/ai_for_editing_existing_songsmusic/)**
+
+Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
+
+1h ago
 
 ---
 
@@ -57,7 +63,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-4h ago
+5h ago
 
 ---
 
@@ -69,19 +75,11 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 ---
 
-**[A fixed evaluator can still become the target of an agent loop](https://www.reddit.com/r/artificial/comments/1vud8d2/a_fixed_evaluator_can_still_become_the_target_of/)**
-
-Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
-
-20h ago
-
----
-
 **[Are we paying a "Reasoning Tax" for smarter AI?](https://www.reddit.com/r/artificial/comments/1vv2wi8/are_we_paying_a_reasoning_tax_for_smarter_ai/)**
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +87,15 @@ More reasoning does not automatically mean more factual reliability. OpenAI’s 
 
 In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
 
-2h ago
+3h ago
+
+---
+
+**[A fixed evaluator can still become the target of an agent loop](https://www.reddit.com/r/artificial/comments/1vud8d2/a_fixed_evaluator_can_still_become_the_target_of/)**
+
+Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
+
+21h ago
 
 ---
 
@@ -97,21 +103,13 @@ In structured data extraction, adding an LLM-as-a-judge self-correction loop is 
 
 Feels like even after so many years, it's the same story but with better hardware and tech
 
-23h ago
+1d ago
 
 ---
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 17h ago
-
----
-
-**[AI compute financing just tripled in ten weeks - the mechanism behind the reported $100B Broadcom deal](https://www.reddit.com/r/artificial/comments/1vug3gk/ai_compute_financing_just_tripled_in_ten_weeks/)**
-
-Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
-
-18h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 18h ago
 
 ---
 
@@ -123,23 +121,29 @@ Broadcom apparently went back to Blackstone and Apollo (the same two private-cre
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Introducing AI Futures](https://openai.com/index/introducing-ai-futures/)**
+**[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
 
-Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-OpenAI • 1d ago
+NPR • 10h ago
 
 ---
 
-**[‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)**
+**[Consulting's Race to Become AI Native](https://www.businessinsider.com/consulting-race-to-become-ai-native-tech-first-2026-8)**
 
-Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
+How much is the drive to be "AI-native" changing the core of traditional consulting?
 
-The Guardian • 1h ago
+Business Insider • 22m ago
+
+---
+
+**[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
+
+The New York Times • 21h ago
 
 ---
 
@@ -151,9 +155,11 @@ The Guardian • 2h ago
 
 ---
 
-**[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
+**[Online streamers sue Twitch, Amazon over generative AI training](https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/)**
 
-The New York Times • 20h ago
+The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
+
+Courthouse News • 12h ago
 
 ---
 
@@ -161,7 +167,7 @@ The New York Times • 20h ago
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 18h ago
+NVIDIA Developer • 19h ago
 
 ---
 
@@ -169,23 +175,15 @@ NVIDIA Developer • 18h ago
 
 One woman is speaking out after she was secretly filmed, saying that technology like Meta's AI-powered smart glasses threatens personal privacy.
 
-CBS News • 13h ago
+CBS News • 14h ago
 
 ---
 
-**[Online streamers sue Twitch, Amazon over generative AI training](https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/)**
+**[Minnesota lawyer suspended over fake AI case citations](https://www.mprnews.org/story/2026/08/21/lawyer-in-minnesota-suspended-over-fake-ai-case-citations)**
 
-The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
+Minnesota attorney Faisal S. Ahmed has agreed to a 30-day suspension of his law license for filing a 2025 legal brief that cited nonexistent, AI-hallucinated court cases.
 
-Courthouse News • 11h ago
-
----
-
-**[Start the semester with one year of Gemini, on us](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/)**
-
-College students can claim 12 months of Google AI Plus for free, and get a special offer on Google AI Pro.
-
-blog.google • 2d ago
+MPR News • 10h ago
 
 ---
 
@@ -193,7 +191,7 @@ blog.google • 2d ago
 
 Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -205,13 +203,13 @@ CNN • 18h ago
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 1035 • 💬 577 • 1d ago • [dontpastetheai.com](https://dontpastetheai.com/)
+⬆️ 1038 • 💬 578 • 2d ago • [dontpastetheai.com](https://dontpastetheai.com/)
 
 ---
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 703 • 💬 2 • 21h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 703 • 💬 2 • 22h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -219,7 +217,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 553 • 💬 852 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 559 • 💬 854 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -227,7 +225,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 My personal portfolio site and blog.
 
-⬆️ 368 • 💬 206 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 369 • 💬 206 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -235,7 +233,7 @@ My personal portfolio site and blog.
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 331 • 💬 337 • 19h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 351 • 💬 352 • 20h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -251,7 +249,7 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
-⬆️ 207 • 💬 260 • 2d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
+⬆️ 207 • 💬 261 • 2d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
 
 ---
 
@@ -259,7 +257,7 @@ An essay, based on a public lecture delivered at the 2026 International Congress
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 206 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 207 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -275,13 +273,13 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 #law #copyright #LLM #AI #iplaw #intellectualProperty #EU
 
-⬆️ 186 • 💬 208 • 1d ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
+⬆️ 186 • 💬 207 • 1d ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 9 • 16h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 9 • 17h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -295,7 +293,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 564K • 👍 8K • 💬 666 • ⏱️ 12:08 • 1d ago
+👁️ 583K • 👍 9K • 💬 704 • ⏱️ 12:08 • 1d ago
 
 ---
 
@@ -305,37 +303,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 49K • 👍 2K • 💬 95 • ⏱️ 8:14 • 1d ago
-
----
-
-**[100% Human Is AI](https://www.youtube.com/watch?v=nMiGq4XpTvk)**
-
-Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The final boss of lying on the internet has just ...
-
-📺 UFD Tech
-
-👁️ 225K • 👍 14K • 💬 186 • ⏱️ 0:53 • 1d ago
-
----
-
-**[DeepSeek Just Made Closed AI Look Ridiculous](https://www.youtube.com/watch?v=kyYepbhe1g8)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: ...
-
-📺 Two Minute Papers
-
-👁️ 140K • 👍 5K • 💬 337 • ⏱️ 5:29 • 2d ago
-
----
-
-**[FAKE ID TROLL WITH AI தமிழ் 🤣❗](https://www.youtube.com/watch?v=brwifzIDLX8)**
-
-For sponsorships and paid promotions, collaborationswithjk@gmail.com IG: https://www.instagram.com/jk16377/ Subreddit: ...
-
-📺 JK
-
-👁️ 204K • 👍 21K • 💬 731 • ⏱️ 16:38 • 1d ago
+👁️ 52K • 👍 2K • 💬 99 • ⏱️ 8:14 • 1d ago
 
 ---
 
@@ -345,45 +313,77 @@ OpenAI says its upcoming Astra model may have crossed a critical cybersecurity t
 
 📺 AI Revolution
 
-👁️ 32K • 👍 839 • 💬 156 • ⏱️ 17:06 • 2d ago
+👁️ 33K • 👍 841 • 💬 157 • ⏱️ 17:06 • 2d ago
 
 ---
 
-**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
+**[The AI coding backlash has begun](https://www.youtube.com/watch?v=sxyYoNNTpU8)**
 
-China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
+Oracle just banned AI contributions for Open JDK. Topics: - Oracle bans AI code - Triaging the AI horde - Software projects are ...
 
-📺 Techie Sapien
+📺 Awesome
 
-👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 22h ago
-
----
-
-**[AI has infiltrated Schools.](https://www.youtube.com/watch?v=eSjXe1gYoLw)**
-
-📺 Ben Esherick
-
-👁️ 377K • 👍 26K • 💬 296 • ⏱️ 0:37 • 1d ago
+👁️ 59K • 👍 3K • 💬 355 • ⏱️ 8:03 • 1d ago
 
 ---
 
-**[Yuval Noah Harari: AI makes it possible to mass produce intimacy | The Economist](https://www.youtube.com/watch?v=8p-6EPhKtTo)**
+**[These AI Hacks Will Get You Ridiculously Ahead of Most People (Q&amp;A)](https://www.youtube.com/watch?v=1MMqPTiWfSc)**
 
-Yuval Noah Harari says AI has made it possible, for the first time in history, to mass-produce intimacy. Speaking to The ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4g57yyR Are you building an AI software ...
 
-📺 The Economist
+📺 Dan Martell
 
-👁️ 15K • 👍 511 • 💬 4 • ⏱️ 1:45 • 14h ago
+👁️ 106K • 👍 3K • 💬 168 • ⏱️ 27:06 • 2d ago
 
 ---
 
-**[AI Medical Robot Helps Hajj Pilgrim in Makkah 🤖🕋 | Future Medical Service #medicalrobotics #ai](https://www.youtube.com/watch?v=X2fBWuJT8iE)**
+**[AI Slop Products are Here](https://www.youtube.com/watch?v=1iaiR0h40Ug)**
 
-An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
+Get matched with a certified career coach today at https://strawberry.me/LEVI and claim 50% off your first coaching session!
 
-📺 ShahGX.11 million views.24 hours ago
+📺 Levi Hildebrand
 
-👁️ 2.5M • 👍 55K • 💬 47 • ⏱️ 0:11 • 1d ago
+👁️ 79K • 👍 4K • 💬 276 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[100% Human Is AI](https://www.youtube.com/watch?v=nMiGq4XpTvk)**
+
+Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The final boss of lying on the internet has just ...
+
+📺 UFD Tech
+
+👁️ 228K • 👍 14K • 💬 189 • ⏱️ 0:53 • 1d ago
+
+---
+
+**[DeepSeek Just Made Closed AI Look Ridiculous](https://www.youtube.com/watch?v=kyYepbhe1g8)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: ...
+
+📺 Two Minute Papers
+
+👁️ 141K • 👍 5K • 💬 338 • ⏱️ 5:29 • 2d ago
+
+---
+
+**[AI Superintelligence Is Not a Tool, It&#39;s an Adversary Threatening Humanity: ControlAI&#39;s Connor Leahy](https://www.youtube.com/watch?v=v99DkPP6LVY)**
+
+Support our work: https://democracynow.org/donate/sm-desc-yt Sixty-nine-year-old Wynd Kaufmyn, a retired teacher from ...
+
+📺 Democracy Now!
+
+👁️ 89K • 👍 3K • 💬 550 • ⏱️ 13:35 • 1d ago
+
+---
+
+**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
+
+shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
+
+📺 Danno Cal Drawings
+
+👁️ 650K • 👍 52K • 💬 533 • ⏱️ 0:35 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,726,651 • ❤️ 11,994 • 7d ago
+⬇️ 1,726,651 • ❤️ 12,014 • 7d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,804,917 • ❤️ 2,529 • 1d ago
+⬇️ 5,804,917 • ❤️ 2,541 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 107,520 • ❤️ 860 • 1d ago
+⬇️ 107,520 • ❤️ 891 • 1d ago
 
 ---
 
@@ -435,7 +435,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 833 • 22h ago
+⬇️ 18,193 • ❤️ 841 • 23h ago
 
 ---
 
@@ -447,7 +447,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,126,222 • ❤️ 579 • 6d ago
+⬇️ 1,126,222 • ❤️ 584 • 6d ago
 
 ---
 
@@ -459,19 +459,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 15,678 • ❤️ 1,166 • 7d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 654,175 • ❤️ 1,505 • 4d ago
+⬇️ 15,678 • ❤️ 1,169 • 7d ago
 
 ---
 
@@ -483,7 +471,19 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 458 • 13h ago
+⬇️ 123,956 • ❤️ 469 • 5m ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 654,175 • ❤️ 1,512 • 4d ago
 
 ---
 
@@ -495,7 +495,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 357,225 • ❤️ 435 • 4d ago
+⬇️ 357,225 • ❤️ 443 • 4d ago
 
 ---
 
@@ -507,7 +507,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 3,614,443 • ❤️ 4,304 • 9d ago
+⬇️ 3,614,443 • ❤️ 4,309 • 9d ago
 
 ---
 
@@ -523,7 +523,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 702 • 💬 5 • ⭐ 4,108 • 12d ago
+▲ 703 • 💬 5 • ⭐ 4,237 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -537,7 +537,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 58 • 💬 7 • ⭐ 221 • 2d ago
+▲ 60 • 💬 7 • ⭐ 221 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -555,20 +555,6 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 ---
 
-**[COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264)**
-
-*Tianyi Zhou, Dongrui Liu, Leitao Yuan et al. (5 authors)*
-
-🏢 shanghai ailab 
-
-Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
-
-▲ 129 • 💬 3 • ⭐ 23,741 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
-
----
-
 **[Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://huggingface.co/papers/2606.31227)**
 
 *Yong Yang, Xing Zheng, Huiyu Wu et al. (10 authors)*
@@ -577,9 +563,23 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
 
-▲ 14 • 💬 2 • ⭐ 5,298 • 1mo ago
+▲ 14 • 💬 2 • ⭐ 5,347 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
+
+---
+
+**[COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264)**
+
+*Tianyi Zhou, Dongrui Liu, Leitao Yuan et al. (5 authors)*
+
+🏢 shanghai ailab 
+
+Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
+
+▲ 129 • 💬 3 • ⭐ 23,757 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
 ---
 
@@ -660,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.7k • 🔱 1.9k • 12h ago
+⭐ 16.8k • 🔱 1.9k • 12h ago
 
 ---
 
@@ -670,7 +670,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.0k • 🔱 1.7k • 6h ago
+⭐ 14.1k • 🔱 1.7k • 7h ago
 
 ---
 
@@ -680,7 +680,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 17h ago
+⭐ 8.8k • 🔱 1.1k • 18h ago
 
 ---
 
@@ -690,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 17h ago
+⭐ 3.5k • 🔱 579 • 18h ago
 
 ---
 
@@ -710,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 346 • 21h ago
+⭐ 2.9k • 🔱 347 • 22h ago
 
 ---
 
@@ -720,7 +720,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 185 • 22h ago
+⭐ 2.2k • 🔱 185 • 23h ago
 
 ---
 
@@ -730,7 +730,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 235 • 2h ago
+⭐ 2.2k • 🔱 243 • 3h ago
 
 ---
 
@@ -740,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 10h ago
+⭐ 2.0k • 🔱 183 • 11h ago
 
 ---
 
@@ -750,7 +750,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 233 • 3h ago
+⭐ 1.9k • 🔱 233 • 4h ago
 
 ---
 

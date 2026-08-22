@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T07:31:35.853612+00:00'
+updated: '2026-08-22T08:30:01.894106+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 07:31 UTC  
+**Last Updated:** August 22, 2026 at 08:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +29.9%  
-**30d:** +30.9%  
-**90d:** +15.3%  
-**1y:** -49.0%  
+**24h:** +1.1%  
+**7d:** +29.3%  
+**30d:** +30.3%  
+**90d:** +14.8%  
+**1y:** -49.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.74B
+**Market Cap:** $293.20B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.9%
 
 **All-Time Low:** $0.43
-+564005.9%
++560848.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 13h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-18h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 14h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 15h ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 20h ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketForces Africa • 2d ago
 
 Flowra launches its Open Orderflow Auction, opening Solana block building to competitive bidding and giving validators programmable inclusion policies.
 
-HackerNoon • 3h ago
+HackerNoon • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ HackerNoon • 3h ago
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -212,7 +212,15 @@ CryptoSlate • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
+
+---
+
+**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
+
+Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
+
+FXStreet • 9h ago
 
 ---
 
@@ -221,14 +229,6 @@ Fortune • 19h ago
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
 Ethereum Foundation Blog • 1d ago
-
----
-
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 2d ago
 
 ---
 
@@ -242,17 +242,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 10K • 👍 433 • 💬 45 • ⏱️ 20:52 • 14h ago
-
----
-
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
-
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
-
-📺 Crypto Archie
-
-👁️ 1K • 👍 64 • ⏱️ 1:25 • 17h ago
+👁️ 12K • 👍 455 • 💬 8 • ⏱️ 20:52 • 15h ago
 
 ---
 
@@ -262,7 +252,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 193 • 💬 5 • ⏱️ 7:31 • 15h ago
+👁️ 4K • 👍 204 • 💬 5 • ⏱️ 7:31 • 15h ago
 
 ---
 
@@ -272,7 +262,27 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 16K • 👍 385 • 💬 79 • ⏱️ 41:59 • 1d ago
+👁️ 16K • 👍 389 • 💬 79 • ⏱️ 41:59 • 1d ago
+
+---
+
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
+
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
+
+📺 Crypto Archie
+
+👁️ 1K • 👍 69 • ⏱️ 1:25 • 18h ago
+
+---
+
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 84K • 👍 3K • 💬 161 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -282,17 +292,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 694 • 💬 102 • ⏱️ 11:56 • 1d ago
-
----
-
-**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
-
-In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
-
-📺 Coin Bureau Podcast
-
-👁️ 1K • 👍 29 • 💬 1 • ⏱️ 0:43 • 14h ago
+👁️ 14K • 👍 695 • 💬 70 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -302,7 +302,17 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 296 • 💬 20 • ⏱️ 7:45 • 1d ago
+👁️ 9K • 👍 297 • 💬 20 • ⏱️ 7:45 • 1d ago
+
+---
+
+**[BTC WATCH + GOLD &amp; ETH 📈](https://www.youtube.com/watch?v=UZ3DlH7E9D4)**
+
+Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com. ✓ STOCKS UP U ...
+
+📺 Stocks with Josh
+
+👁️ 34K • 👍 3K • 💬 77 • ⏱️ 1:15:54 • 1d ago
 
 ---
 
@@ -312,27 +322,17 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 159 • 💬 30 • ⏱️ 11:13 • 1d ago
+👁️ 5K • 👍 160 • 💬 30 • ⏱️ 11:13 • 1d ago
 
 ---
 
-**[ETHEREUM BULLRUN UPDATE! (ETH Prediction)](https://www.youtube.com/watch?v=I33pFnhNA6M)**
+**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
 
-📺 Cilinix Crypto
+📺 Coin Bureau Podcast
 
-👁️ 916 • 👍 33 • 💬 2 • ⏱️ 5:27 • 22h ago
-
----
-
-**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
-
-Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 13K • 👍 887 • 💬 354 • ⏱️ 43:02 • 1d ago
+👁️ 1K • 👍 32 • 💬 1 • ⏱️ 0:43 • 15h ago
 
 ---
 
