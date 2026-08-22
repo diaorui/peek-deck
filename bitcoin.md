@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T18:30:43.537863+00:00'
+updated: '2026-08-22T19:21:57.900400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 18:30 UTC  
+**Last Updated:** August 22, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -91,7 +91,15 @@ Rank #1
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-14h ago
+15h ago
+
+---
+
+**[Prophet u/Boring_Ad7277 postet this chart 7 days ago](https://www.reddit.com/r/Bitcoin/comments/1vv1qns/prophet_uboring_ad7277_postet_this_chart_7_days/)**
+
+u/Boring_Ad7277
+
+15h ago
 
 ---
 
@@ -101,19 +109,11 @@ Rank #1
 
 ---
 
-**[Prophet u/Boring_Ad7277 postet this chart 7 days ago](https://www.reddit.com/r/Bitcoin/comments/1vv1qns/prophet_uboring_ad7277_postet_this_chart_7_days/)**
-
-u/Boring_Ad7277
-
-14h ago
-
----
-
 **[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,23 +121,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 9h ago
-
----
-
-**[Bitcoin and Russia Capital Outflows](https://www.reddit.com/r/Bitcoin/comments/1vvdmvx/bitcoin_and_russia_capital_outflows/)**
-
-I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
-
-4h ago
-
----
-
-**[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
-
-Whenever we need another celebratory meme, I vote for Ben.
-
-19h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 10h ago
 
 ---
 
@@ -145,7 +129,23 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-12h ago
+13h ago
+
+---
+
+**[Bitcoin and Russia Capital Outflows](https://www.reddit.com/r/Bitcoin/comments/1vvdmvx/bitcoin_and_russia_capital_outflows/)**
+
+I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
+
+5h ago
+
+---
+
+**[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
+
+Whenever we need another celebratory meme, I vote for Ben.
+
+20h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 1d ago
 
 @Bitcoin Magazine 3133 Views|1 Like
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ Moomoo • 3h ago
 
 US spot Bitcoin ETFs pulled in over $1.9 billion this week, while 10-year return data from a Creative Market Strategist showed Bitcoin up 13,200%, trailing only Nvidia.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 3h ago
 
 @AltCoin Daily 8443 Views|1 Like
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ Moomoo • 2h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 14h ago
+Fox News • 15h ago
 
 ---
 
@@ -219,13 +219,13 @@ Fox News • 14h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 4h ago
+AP News • 5h ago
 
 ---
 
 **[U.S. Stocks Rise as Bitcoin Nears $80,000](https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 434 • 💬 2 • ⏱️ 2:07:34 • 23h ago
+👁️ 8K • 👍 434 • 💬 2 • ⏱️ 2:07:34 • 1d ago
 
 ---
 

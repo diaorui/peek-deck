@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T18:30:43.529921+00:00'
+updated: '2026-08-22T19:21:57.891671+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 18:30 UTC  
+**Last Updated:** August 22, 2026 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 1h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Everyone talks about chip supply as the bottleneck on AI buildout, but power int
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 The idea came from a personal frustration about a year ago. I love history but could never find podcasts on the niche topics I wanted, and even with good ones, my curiosity always wanted a detour the host wasn't going to take. I work in AI/engineering, so I built the tool I wanted. It generates a podcast on any topic — one or two narrators — researches the topic properly and cites its sources, and the part that matters most to me: you can interrupt at any point, by voice or text, ask a question, and the hosts answer in their own voices, fold a deeper dive into the episode, then resume where you stopped. There's also a map and period artwork synced to the narration. What surprised me building it: the LLM part (planning and writing the episode chapter by chapter) was the easy half. The hard half was everything around it — stitching TTS audio gaplessly, keeping captions and art in sync with the playback clock, and starting the episode within a minute while later chapters are still being written. It's called Historai (https://historai.ca/), free to try with no account for the demo. Here's the demo episode on the real history of the Odyssey: https://historai.ca/history/the-odyssey-was-built-from-ruins--db7b634f532942728746182da4306187 Happy to answer questions about how it works, and genuinely interested in feedback — especially from anyone who's tried building conversational audio.
 
-1m ago
+52m ago
 
 ---
 
@@ -81,7 +81,7 @@ The idea came from a personal frustration about a year ago. I love history but c
 
 Anthropic appears to be A/B testing reduced effort levels in Claude Code I went through the primary sources and the threads this morning so I could write it up properly, and the short version is: the hype is half right. I collect daily AI news and write guides around exactly these stories at https://apexnexus.site (free, no email wall) if you want the deeper version. The writeup on Anthropic goes up later today. What's your take on Anthropic?
 
-15m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Anthropic appears to be A/B testing reduced effort levels in Claude Code I went 
 
 Genuine question as someone following this space closely. There's starting to be real AI-generated long-form content appearing — not just short clips but full episodes with consistent characters and actual narrative structure. Curious what would make or break it for you as a viewer. Is the "made with AI" label an automatic turn-off? Does it depend on the genre? Would you watch it if it was funny, or does knowing it's AI mean you'd always be looking for the glitches rather than watching the story? Not talking about AI-assisted production (which is already everywhere) — talking about visually AI-generated from the ground up.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Genuine question as someone following this space closely. There's starting to be
 
 So what started out as a text based chatbot project 8 months ago as my first ever project as a self taught coder is developing into something different. I've created an agent within my chat bot to help users create a product, using ElevenLabs V3 or OpenAI Realtime voice that works on a conversational basis rather than hardcoded commands The agent can talk to you whilst your in chat or on a panel and navigate you to a particular panel if needed and throughout your session can select and substitutes models based on objectives such as quality or cost, proposes creative next steps, requests consent before paid inference, invokes generation, manipulates an editable multitrack timeline, and controls playback/time line like play video, delete my first image etc - through natural conversation. Then if you wanted to create an image in another panel you can ask the agent via text or voice and they will navigate you to that panel and offer assistance their. Write your prompt for you and then even take that photo to the video suite to animate all using conversational language. What do you think to this concept? I'm looking to further develop the idea across the platform to streamline some of the processes within it as my video demonstrates This is my project i've been working on Everything is a working concept and i'm just finalizing bits before release this week IDE Multi FIle Editor with AI assistant and live preview Split Screen Live Coding Multi Media Studio Editor Single Prompt to Full 2D and 3D Game Development Engine and Web Application Builder Video Editor with timeline controls, video effects, overlays, title, audio, podcast and music composer Music Studio with AI/Custom Lyrics Custom workspace environments with themes, live wallpapers, ambiant background tracks (Default options with light mode/dark mode with no wallpapers or music) Native 25+ Languages with RTL support. Already Hardcoded. Not live translated via web plus many more tools such as Podcast Creator with chat based/ custom context with 50+ voices and MP3 export. Full workflow tools like frame extract, analysis, transcribe, effects, file conversion audio analysis etc ...and of course the original chat bot interface that has cross device persistent multi model memory with vector base knowledge base via OpenAI and platform Drive storage. You can start a conversation with any model on your laptop and next day carry on in a new conversation with another model on your phone with memory preserved across so you dont need to repeat yourself. The memory layer sits above the models entirely so is accessible by any LLM the platform supprts Every tool, every feature i built will be completely free including GPT Nano, Gemini Flash and Deepseek. Users can upload their own work to use for free and chat with selected free tier models with no limits. If the user wants to generate a video or analyze a image, then that would be credit based. No subscription required and no tool access priorities over a non paying user. Thats my concept i'm hoping to have launched in a few days and welcome any feedback/criticism you may have before i do launch.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ So what started out as a text based chatbot project 8 months ago as my first eve
 
 One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns. We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's possible to generate thousands of different examples which train your model in the same manner. This is why the data for post-training becomes really interesting. The valuable examples might be the ones which reveal the weakness of the model, which are based on realistic tasks and provide some way to check if the model managed to complete the task. While searching for such examples, I discovered Parsewave. Their area of expertise is post-training data on engineering tasks, evaluations and traces. But what is interesting is their concept itself - deliberately generating the data on the capabilities which remain challenging for the model instead of generating the big datasets. What do you think about the future direction of AI training? Will the future of AI be about generating the massive datasets or becoming really good at identifying a small number of truly useful examples?
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ One of the questions I've been asking myself recently is how AI training will ev
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 **[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 6h ago
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 1h ago
 
 **[AI mapping reveals hidden stage of Arctic freeze with climate implications](https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html)**
 
-Phys.org • 1h ago
+Phys.org • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Phys.org • 1h ago
 
 Flock Safety CEO Garrett Langley joins ‘Saturday in America’ to defend the company’s AI surveillance cameras and addresses the technology’s privacy concerns.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fox News • 1h ago
 
 The breakneck AI transformation of the industry is the kind of technological disruption that many creatives fear could upend movie-making far beyond China.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 14h ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 20h ago
 
 "A thousand is not that much, I would say, but for one weekend, it's pretty annoying," Maxio CEO Branden Jenkins told Fortune.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 7h ago
 
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-Courthouse News • 22h ago
+Courthouse News • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ Courthouse News • 22h ago
 
 Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
 
-CBS News • 23h ago
+CBS News • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Recently I've been catching myself having these little moments at work, when I'm
 
 My personal portfolio site and blog.
 
-⬆️ 373 • 💬 208 • 1d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 373 • 💬 208 • 2d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -275,7 +275,7 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 46 • 💬 61 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 46 • 💬 61 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -317,7 +317,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 9K • 👍 556 • 💬 48 • ⏱️ 12:28 • 4h ago
+👁️ 9K • 👍 556 • 💬 48 • ⏱️ 12:28 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ Ukraine reportedly had a plan to send 1000 autonomous drones toward Moscow's air
 
 📺 Professor Gerdes Explains 🇺🇦 
 
-👁️ 64K • 👍 5K • 💬 266 • ⏱️ 25:03 • 21h ago
+👁️ 64K • 👍 5K • 💬 266 • ⏱️ 25:03 • 22h ago
 
 ---
 
@@ -387,7 +387,7 @@ AI layoffs are the number one stated reason for job cuts in America for the fift
 
 📺 Edwards Economics
 
-👁️ 30K • 👍 1K • 💬 281 • ⏱️ 23:22 • 2d ago
+👁️ 30K • 👍 1K • 💬 281 • ⏱️ 23:22 • 3d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `26.9B`
 
-⬇️ 164,950 • ❤️ 514 • 9h ago
+⬇️ 164,950 • ❤️ 514 • 10h ago
 
 ---
 
@@ -665,7 +665,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.0k • 🔱 1.9k • 28m ago
+⭐ 17.0k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 17h ago
+⭐ 14.1k • 🔱 1.7k • 18h ago
 
 ---
 
@@ -715,7 +715,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 27s ago
+⭐ 2.9k • 🔱 347 • 51m ago
 
 ---
 
@@ -725,7 +725,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 262 • 44s ago
+⭐ 2.3k • 🔱 262 • 51m ago
 
 ---
 
@@ -745,7 +745,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 21h ago
+⭐ 2.0k • 🔱 183 • 22h ago
 
 ---
 
@@ -755,7 +755,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 234 • 14h ago
+⭐ 1.9k • 🔱 234 • 15h ago
 
 ---
 

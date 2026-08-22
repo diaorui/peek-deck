@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T18:30:43.543963+00:00'
+updated: '2026-08-22T19:21:57.906560+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 18:30 UTC  
+**Last Updated:** August 22, 2026 at 19:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-17h ago
+18h ago
 
 ---
 
@@ -202,7 +202,7 @@ CryptoSlate • 1d ago
 
 Rep. Rashida Tlaib holds Grayscale Ethereum Staking Mini ETF shares in her Roth IRA despite voting against crypto legislation, congressional
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -210,7 +210,7 @@ Crypto Briefing • 2h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 4h ago
+FinanceFeeds • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 17K • 👍 404 • 💬 115 • ⏱️ 41:59 • 1d ago
+👁️ 17K • 👍 404 • 💬 115 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -300,7 +300,7 @@ Welcome to the official Ashutosh Kumar Live Trading channel, where we analyze th
 
 📺 Ashutosh Kumar
 
-👁️ 7K • 👍 806 • 2h ago
+👁️ 7K • 👍 806 • 3h ago
 
 ---
 

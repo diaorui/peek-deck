@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T18:30:43.546874+00:00'
+updated: '2026-08-22T19:21:57.909726+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 18:30 UTC  
+**Last Updated:** August 22, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-3h ago
+4h ago
 
 ---
 
@@ -56,19 +56,19 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-2h ago
+3h ago
 
 ---
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -124,7 +124,7 @@ Business Insider • 1d ago
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -132,7 +132,7 @@ Reuters • 12h ago
 
 Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.
 
-Al Jazeera • 6h ago
+Al Jazeera • 7h ago
 
 ---
 
@@ -148,7 +148,7 @@ Mashable • 23h ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ Reuters • 2d ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 7h ago
+Futura, le média qui explore le monde • 8h ago
 
 ---
 
@@ -280,7 +280,7 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 📺 BBC News
 
-👁️ 27K • 👍 329 • 💬 34 • ⏱️ 0:37 • 1d ago
+👁️ 27K • 👍 329 • 💬 34 • ⏱️ 0:37 • 2d ago
 
 ---
 
