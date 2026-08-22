@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T22:48:22.857659+00:00'
+updated: '2026-08-22T23:20:43.423764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 22:48 UTC  
+**Last Updated:** August 22, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,23 +54,23 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 ---
 
+**[Is this the future? LOL](https://www.reddit.com/r/robotics/comments/1vvqos3/is_this_the_future_lol/)**
+
+It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
+
+16m ago
+
+---
+
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-9h ago
-
----
-
-**[How much math do I actually need for robotics, and where do I start?](https://www.reddit.com/r/robotics/comments/1vviyzz/how_much_math_do_i_actually_need_for_robotics_and/)**
-
-I’m a software engineer with 8 years of experience, mostly JavaScript. I’ve also done a fair bit of hardware on the side, drones a few years back and more recently designing my own PCBs with KiCad and ESP32. Now I want to get into robotics properly. Not buying a kit and following the instructions, I want to design and build my own thing from scratch, on a small budget. Two things I’m stuck on: 1.How much math do I really need? Math is my weak spot. I keep seeing linear algebra, calculus, control theory, kinematics mentioned and I can’t tell what’s actually required day to day vs what’s nice to have. Can I learn it as I hit each problem, or do I need to sit down and study first? 2.What’s a sensible first project? Something that teaches real fundamentals but isn’t so big I burn out halfway. Also curious how much of this changes if I want to get into reinforcement learning for control later. I’ve done Andrew Ng’s ML course and a small OpenAI Gym project, that’s about it. Any advice appreciated, especially from people who came from software.
-
-4h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ I’m a software engineer with 8 years of experience, mostly JavaScript. I’ve 
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-2h ago
+3h ago
 
 ---
 
@@ -128,7 +128,7 @@ Financial Times • 22h ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -174,7 +174,7 @@ Ars Technica • 2d ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 11h ago
+Futura, le média qui explore le monde • 12h ago
 
 ---
 
@@ -188,6 +188,16 @@ The New York Times • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[China’s humanoid robot games showcase rapid progress in robotics](https://www.youtube.com/watch?v=8kmQ9ddce7w)**
+
+China's humanoid robot games in Beijing are testing the abilities of machines while showcasing the progress of the country's ...
+
+📺 Al Jazeera English
+
+👁️ 5K • 👍 82 • 💬 33 • ⏱️ 1:25 • 4h ago
+
+---
+
 **[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
 
 Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
@@ -198,33 +208,33 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 ---
 
-**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
-
-China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
-
-📺 AI Revolution
-
-👁️ 41K • 👍 903 • 💬 107 • ⏱️ 14:10 • 3d ago
-
----
-
 **[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
 
 The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
 
 📺 NBC News
 
-👁️ 40K • 👍 337 • 💬 123 • ⏱️ 4:05 • 1d ago
+👁️ 43K • 👍 347 • 💬 130 • ⏱️ 4:05 • 1d ago
 
 ---
 
-**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
+**[Galbot ET1 Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
-Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
+Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
-📺 Unitree Robotics
+📺 DPCcars
 
-👁️ 3.6M • 👍 2K • 💬 449 • ⏱️ 0:31 • 5d ago
+👁️ 17K • 👍 367 • 💬 50 • ⏱️ 2:12 • 2d ago
+
+---
+
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
+
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
+
+📺 AI Revolution
+
+👁️ 41K • 👍 908 • 💬 107 • ⏱️ 14:10 • 3d ago
 
 ---
 
@@ -234,7 +244,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 799K • 👍 3K • 💬 90 • ⏱️ 0:09 • 1d ago
+👁️ 807K • 👍 3K • 💬 95 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -244,35 +254,7 @@ BYD Just Put a Humanoid Robot in Its Showrooms — And It's Already Working BYD 
 
 📺 The Electric Viking
 
-👁️ 24K • 👍 731 • 💬 125 • ⏱️ 8:50 • 3d ago
-
----
-
-**[Autonomous Robots Are Taking Over the Tennis Court](https://www.youtube.com/watch?v=SiQx5ZrKnD8)**
-
-GALBOT humanoid robots are preparing for an autonomous tennis match that could mark an important moment for robotics and ...
-
-📺 DPCcars
-
-👁️ 5K • 👍 67 • 💬 17 • ⏱️ 1:19 • 1d ago
-
----
-
-**[China&#39;s Robot Army Assemble For World Robot Games 2026 (Behind The Scenes)](https://www.youtube.com/watch?v=oKZ9ruxMZnI)**
-
-Preparations for China's World Robot Games 2026 Have Began. We expect to see stiff Competition between Unitree, Honor, ...
-
-📺 Chris Wabs
-
-👁️ 15K • 👍 182 • 💬 79 • ⏱️ 9:36 • 4d ago
-
----
-
-**[Humanoids take center stage at China’s World Robot Conference. #Robots #China #BBCNews](https://www.youtube.com/watch?v=TgS6zsK0sbA)**
-
-📺 BBC News
-
-👁️ 27K • 👍 330 • 💬 34 • ⏱️ 0:37 • 2d ago
+👁️ 24K • 👍 733 • 💬 125 • ⏱️ 8:50 • 3d ago
 
 ---
 
@@ -282,7 +264,27 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 9K • 👍 638 • 💬 40 • ⏱️ 0:24 • 21h ago
+👁️ 9K • 👍 681 • 💬 43 • ⏱️ 0:24 • 22h ago
+
+---
+
+**[Moment: Chinese Humanoid Robot Lightning Runs 100m Faster Than Usain Bolt’s Record | AI1G](https://www.youtube.com/watch?v=CnaaWF6em3I)**
+
+China's humanoid robot “Lightning,” developed by smartphone maker Honor, completed a 100m test run in 9.32 seconds—faster ...
+
+📺 DRM News
+
+👁️ 12K • 👍 103 • 💬 22 • ⏱️ 0:51 • 10h ago
+
+---
+
+**[China&#39;s Robot Army Assemble For World Robot Games 2026 (Behind The Scenes)](https://www.youtube.com/watch?v=oKZ9ruxMZnI)**
+
+Preparations for China's World Robot Games 2026 Have Began. We expect to see stiff Competition between Unitree, Honor, ...
+
+📺 Chris Wabs
+
+👁️ 15K • 👍 183 • 💬 80 • ⏱️ 9:36 • 4d ago
 
 ---
 

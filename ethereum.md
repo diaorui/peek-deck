@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T22:48:22.854804+00:00'
+updated: '2026-08-22T23:20:43.420547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 22:48 UTC  
+**Last Updated:** August 22, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.07B
+**Market Cap:** $291.47B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.7%
+-51.2%
 
 **All-Time Low:** $0.43
-+562701.0%
++557758.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-21h ago
+22h ago
 
 ---
 
@@ -188,7 +188,7 @@ CryptoSlate • 1d ago
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 2h ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 6h ago
+New York Post • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ New York Post • 6h ago
 
 The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from
 
-Coinpedia • 12h ago
+Coinpedia • 13h ago
 
 ---
 
@@ -236,13 +236,23 @@ Coinpedia • 12h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+
+BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 130 • 💬 97 • ⏱️ 18:21 • 1h ago
+
+---
+
 **[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 40 • 💬 3 • ⏱️ 4:45 • 11h ago
+👁️ 2K • 👍 41 • 💬 3 • ⏱️ 4:45 • 11h ago
 
 ---
 
@@ -252,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 239 • 💬 11 • ⏱️ 11:12 • 6h ago
+👁️ 5K • 👍 281 • 💬 12 • ⏱️ 11:12 • 6h ago
 
 ---
 
@@ -262,7 +272,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 18K • 👍 408 • 💬 122 • ⏱️ 41:59 • 2d ago
+👁️ 18K • 👍 414 • 💬 123 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -276,23 +286,23 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 ---
 
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+**[ETHEREUM: BULLISH Breakout Is Now 99.99% Certain!? | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=fufeNkoWJ-E)**
 
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
 
-📺 Altcoin Daily
+📺 XForceGlobal
 
-👁️ 86K • 👍 3K • 💬 174 • ⏱️ 10:41 • 2d ago
+👁️ 1K • 👍 116 • 💬 16 • ⏱️ 5:51 • 1d ago
 
 ---
 
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
+**[ETHEREUM PROFIT EXPLODING !!!!](https://www.youtube.com/watch?v=kjK1M11wFTE)**
 
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
+A horizontal triangle on Ethereum broke out and hit its target exactly as planned.
 
-📺 Crypto Archie
+📺 The Moon Show
 
-👁️ 1K • 👍 74 • ⏱️ 1:25 • 1d ago
+👁️ 389 • 👍 23 • 💬 4 • ⏱️ 0:50 • 4h ago
 
 ---
 
@@ -302,17 +312,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 298 • 💬 21 • ⏱️ 7:45 • 2d ago
-
----
-
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 220 • 💬 8 • ⏱️ 7:31 • 1d ago
+👁️ 9K • 👍 298 • 💬 23 • ⏱️ 7:45 • 2d ago
 
 ---
 
@@ -322,17 +322,17 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 700 • 💬 115 • ⏱️ 11:56 • 2d ago
+👁️ 14K • 👍 701 • 💬 115 • ⏱️ 11:56 • 2d ago
 
 ---
 
-**[Bitwise: Why Large Allocators Are Deploying Into Ethereum Now (Model Portfolio Explained)](https://www.youtube.com/watch?v=C-ub-6dK4Kc)**
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
 
-Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we are at the beginning of a mega bull cycle ...
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
 
-📺 The Rollup
+📺 Crypto Archie
 
-👁️ 5K • 👍 119 • 💬 10 • ⏱️ 10:38 • 2d ago
+👁️ 1K • 👍 75 • ⏱️ 1:25 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T22:48:22.849359+00:00'
+updated: '2026-08-22T23:20:43.414347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 22:48 UTC  
+**Last Updated:** August 22, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1552.68B
+**Market Cap:** $1545.14B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.9%
 
 **All-Time Low:** $67.81
-+113977.6%
++113437.8%
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-1h ago
+2h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -107,7 +107,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 u/Boring_Ad7277
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
 
-8h ago
+9h ago
 
 ---
 
@@ -177,7 +177,7 @@ WSJ • 1d ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 18h ago
+Fox News • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ Fox News • 18h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 8h ago
+AP News • 9h ago
 
 ---
 
@@ -213,7 +213,7 @@ Forbes • 10h ago
 
 **[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -279,23 +279,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
 
-Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
 
-📺 Yahoo Finance
+📺 Altcoin Daily
 
-👁️ 15K • 👍 472 • 💬 165 • ⏱️ 14:55 • 1d ago
-
----
-
-**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
-
-Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
-
-📺 Simply Bitcoin
-
-👁️ 38K • 👍 2K • 💬 96 • ⏱️ 17:33 • 2d ago
+👁️ 39K • 👍 2K • 💬 41 • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -305,7 +295,7 @@ CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for B
 
 📺 CNBC Television
 
-👁️ 13K • 👍 142 • 💬 42 • ⏱️ 2:30 • 1d ago
+👁️ 13K • 👍 145 • 💬 42 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -315,17 +305,47 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 4K • 💬 186 • ⏱️ 11:06 • 1d ago
+👁️ 51K • 👍 4K • 💬 187 • ⏱️ 11:06 • 2d ago
 
 ---
 
-**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
 
-What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
 
-📺 TechLead
+📺 Simply Bitcoin
 
-👁️ 41K • 👍 1K • 💬 555 • ⏱️ 11:16 • 1d ago
+👁️ 38K • 👍 2K • 💬 97 • ⏱️ 17:33 • 2d ago
+
+---
+
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+
+📺 The Hobbyist Miner
+
+👁️ 5K • 👍 214 • 💬 69 • ⏱️ 18:12 • 1d ago
+
+---
+
+**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 34K • 👍 587 • 💬 12 • ⏱️ 0:58 • 1d ago
+
+---
+
+**[Bitcoin Short SQUEEZE! Live Trading &amp; TA](https://www.youtube.com/watch?v=nQzRa9_agZM)**
+
+Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! Start your prop trading journey with Breakout ...
+
+📺 Sin City Crypto
+
+👁️ 14K • 👍 573 • 💬 2 • ⏱️ 5:58:35 • 18h ago
 
 ---
 
@@ -335,47 +355,27 @@ Correlations converging as we speak.
 
 📺 Nicholas Crown
 
-👁️ 10K • 👍 407 • 💬 10 • ⏱️ 2:20 • 1d ago
+👁️ 10K • 👍 417 • 💬 10 • ⏱️ 2:20 • 1d ago
 
 ---
 
-**[Bitcoin Bull Market Starts LIKE THIS!](https://www.youtube.com/watch?v=VLCwZKT_9DY)**
+**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
 
-YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
+What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
 
-📺 Crypto Jebb
+📺 TechLead
 
-👁️ 8K • 👍 435 • 💬 1 • ⏱️ 13:09 • 1d ago
-
----
-
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
-
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
-
-📺 Crypto Capital Venture
-
-👁️ 26K • 👍 1K • 💬 649 • ⏱️ 22:30 • 2d ago
+👁️ 42K • 👍 1K • 💬 557 • ⏱️ 11:16 • 2d ago
 
 ---
 
-**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+**[🚨 BITCOIN WILL HIT $100k THIS MONTH? | BTC PUMP, BULL RUN &amp; Michael Saylor  Message](https://www.youtube.com/watch?v=RgN6mSVkV10)**
 
-Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+Bitcoin is once again in the spotlight as traders and investors watch for the next major BTC move. Could Bitcoin reach $100K this ...
 
-📺 CNBC Television
+📺 The Mad Violinist
 
-👁️ 79K • 👍 1K • 💬 222 • ⏱️ 7:54 • 2d ago
-
----
-
-**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 37 • ⏱️ 8:58 • 1d ago
+👁️ 4K • 👍 3K • 43m ago
 
 ---
 
