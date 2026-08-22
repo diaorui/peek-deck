@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T19:21:57.900400+00:00'
+updated: '2026-08-22T19:46:18.659630+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 19:21 UTC  
+**Last Updated:** August 22, 2026 at 19:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,312.37
+### $77,328.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +22.9%  
-**30d:** +20.5%  
-**90d:** -0.1%  
-**1y:** -33.1%  
+**24h:** -0.1%  
+**7d:** +23.1%  
+**30d:** +20.6%  
+**90d:** +0.1%  
+**1y:** -33.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 10h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Geoff Kendrick, head of digital assets research at Standard Chartered, predicts 
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-20h ago
+21h ago
 
 ---
 
@@ -183,27 +183,19 @@ CNBC • 1d ago
 
 ---
 
-**[JUST IN: 🇺🇸 US spot Bitcoin ETFs pulled in $1.92 billion this week, marking the strongest week since October 2025 🚀](https://www.moomoo.com/community/feed/just-in-us-spot-bitcoin-etfs-pulled-in-1-92-117139807010821)**
-
-@Bitcoin Magazine 3133 Views|1 Like
-
-Moomoo • 4h ago
-
----
-
-**[Bitcoin Beats Almost Every Major Asset Over 10 Years, Now Visser Calls It An ‘Anti-Decay’ Hedge](https://finance.yahoo.com/markets/crypto/articles/bitcoin-beats-almost-every-major-152028340.html)**
-
-US spot Bitcoin ETFs pulled in over $1.9 billion this week, while 10-year return data from a Creative Market Strategist showed Bitcoin up 13,200%, trailing only Nvidia.
-
-Yahoo Finance • 4h ago
-
----
-
 **[Cathie Wood still believes $Bitcoin (BTC.CC)$ can hit $1.5 MILLION by 2030.](https://www.moomoo.com/community/feed/cathie-wood-still-believes-bitcoin-btc-cc-can-hit-1-117140003422213)**
 
 @AltCoin Daily 8443 Views|1 Like
 
 Moomoo • 3h ago
+
+---
+
+**[Michael Howell Says 2026 Won't Be A Big Year For Bitcoin, Sees 30-Year Yield Going Higher](https://finance.yahoo.com/markets/crypto/articles/michael-howell-says-2026-wont-164139628.html)**
+
+Speaking on 30-year yields, Michael Howell said that he sees yields rising to 6%, leaving the economy to depend on refinancing.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -223,9 +215,17 @@ AP News • 5h ago
 
 ---
 
-**[U.S. Stocks Rise as Bitcoin Nears $80,000](https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad)**
+**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 21h ago
+WSJ • 19h ago
+
+---
+
+**[Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder](https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/)**
+
+Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
+
+Fortune • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T19:21:57.891671+00:00'
+updated: '2026-08-22T19:46:18.650808+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 19:21 UTC  
+**Last Updated:** August 22, 2026 at 19:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,22 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 ---
 
+**[A personalized history podcast you can interrupt to ask the questions](https://www.reddit.com/r/artificial/comments/1vvklk6/a_personalized_history_podcast_you_can_interrupt/)**
+
+The idea came to me about a year ago, I was always passionate about history but found it hard to find specific/niche podcasts. And when I did sometimes my curiosity wanted a detour, but I had no control of where the story goes. I'm quite familiar with AI and engineering as it's the field I'm in, so I thought why not leverage current technologies to build a learning tool for me. The idea grew to the current product, I've been using it myself to learn and improve it and genuinely find it great. The name of the app is Historai https://historai.ca/, it generates a podcast for you on any topic you want, one or two narrators. It does detailed research and sources all its material, and a core feature - you can interrupt it any time and ask a question. I also added a map and pictures to complement the podcast. Just looking for genuine feedback and if you like it share it and use it yourselves. I'm hoping this helps people with a similar need I had. If you have any questions let me know! The podcast generated in the demo can be found here: https://historai.ca/history/the-odyssey-was-built-from-ruins--db7b634f532942728746182da4306187
+
+53m ago
+
+---
+
+**[Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public](https://www.reddit.com/r/artificial/comments/1vvlxi2/followup_vsarena_now_has_a_proper_vla_track/)**
+
+Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
+
+1m ago
+
+---
+
 **[UBS models $4.1T in AI infrastructure spending by 2028 - it assumes the power just shows up](https://www.reddit.com/r/artificial/comments/1vvfxyq/ubs_models_41t_in_ai_infrastructure_spending_by/)**
 
 Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
@@ -53,27 +69,11 @@ Everyone talks about chip supply as the bottleneck on AI buildout, but power int
 
 ---
 
-**[Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/)**
-
-Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
-
-2h ago
-
----
-
 **[Possible pathways to RSI](https://www.reddit.com/r/artificial/comments/1vv8iu3/possible_pathways_to_rsi/)**
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
 9h ago
-
----
-
-**[I built an AI history podcast that you can interrupt to ask questions — it answers and picks the story back up](https://www.reddit.com/r/artificial/comments/1vvjz6b/i_built_an_ai_history_podcast_that_you_can/)**
-
-The idea came from a personal frustration about a year ago. I love history but could never find podcasts on the niche topics I wanted, and even with good ones, my curiosity always wanted a detour the host wasn't going to take. I work in AI/engineering, so I built the tool I wanted. It generates a podcast on any topic — one or two narrators — researches the topic properly and cites its sources, and the part that matters most to me: you can interrupt at any point, by voice or text, ask a question, and the hosts answer in their own voices, fold a deeper dive into the episode, then resume where you stopped. There's also a map and period artwork synced to the narration. What surprised me building it: the LLM part (planning and writing the episode chapter by chapter) was the easy half. The hard half was everything around it — stitching TTS audio gaplessly, keeping captions and art in sync with the playback clock, and starting the episode within a minute while later chapters are still being written. It's called Historai (https://historai.ca/), free to try with no account for the demo. Here's the demo episode on the real history of the Odyssey: https://historai.ca/history/the-odyssey-was-built-from-ruins--db7b634f532942728746182da4306187 Happy to answer questions about how it works, and genuinely interested in feedback — especially from anyone who's tried building conversational audio.
-
-52m ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 **[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 7h ago
+The New York Times • 4h ago
 
 ---
 
@@ -135,25 +135,39 @@ NPR • 21h ago
 
 ---
 
-**[NY state assemblyman issues warning on AI after primary defeat](https://www.foxnews.com/video/6403884206112)**
+**[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-New York State Democratic Assemblyman Alex Bores joins ‘Saturday in America’ to discuss the AI regulation efforts and how oversight of the technology is a major political topic to voters.
+Bloomberg.com • 1h ago
+
+---
+
+**[Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)**
+
+Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
+
+TechCrunch • 1d ago
+
+---
+
+**[Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports](https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/)**
+
+Reuters • 24m ago
+
+---
+
+**[Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)**
+
+Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
+
+TechCrunch • 46m ago
+
+---
+
+**[Both parties have to listen to voters on AI, Alex Bores argues](https://www.foxnews.com/video/6403884619112)**
+
+New York State Assemblyman Alex Bores argues artificial intelligence is a bipartisan issue that both Republicans and Democrats need to address.
 
 Fox News • 1h ago
-
----
-
-**[AI mapping reveals hidden stage of Arctic freeze with climate implications](https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html)**
-
-Phys.org • 2h ago
-
----
-
-**[Flock Safety CEO defends AI surveillance cameras amid backlash](https://www.foxnews.com/video/6403882686112)**
-
-Flock Safety CEO Garrett Langley joins ‘Saturday in America’ to defend the company’s AI surveillance cameras and addresses the technology’s privacy concerns.
-
-Fox News • 2h ago
 
 ---
 
@@ -165,19 +179,9 @@ CNN • 15h ago
 
 ---
 
-**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
+**[Connecticut man hid an AI prompt in a court filing. A judge found it.](https://www.ctinsider.com/connecticut/article/connecticut-judge-hidden-ai-prompt-injection-court-22387143.php)**
 
-Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
-
-CNBC • 21h ago
-
----
-
-**[This CEO was out to dinner when he caught his AI agent wasting $1,000 in tokens. He says ‘insecurity’ is a bigger problem](https://finance.yahoo.com/technology/ai/articles/ceo-dinner-caught-ai-agent-110000990.html)**
-
-"A thousand is not that much, I would say, but for one weekend, it's pretty annoying," Maxio CEO Branden Jenkins told Fortune.
-
-Yahoo Finance • 8h ago
+CT Insider • 10h ago
 
 ---
 
@@ -186,14 +190,6 @@ Yahoo Finance • 8h ago
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
 Courthouse News • 23h ago
-
----
-
-**[AI companies accused of hoarding and destroying millions of books](https://www.cbsnews.com/news/ftc-ai-companies-destroying-books/)**
-
-Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
-
-CBS News • 1d ago
 
 ---
 
@@ -213,7 +209,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 591 • 💬 878 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 596 • 💬 883 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -221,7 +217,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 463 • 💬 471 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 469 • 💬 477 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -229,7 +225,7 @@ Recently I've been catching myself having these little moments at work, when I'm
 
 My personal portfolio site and blog.
 
-⬆️ 373 • 💬 208 • 2d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 374 • 💬 208 • 2d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -237,7 +233,7 @@ My personal portfolio site and blog.
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 210 • 💬 161 • 2d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 210 • 💬 162 • 2d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -275,15 +271,13 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 46 • 💬 61 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 47 • 💬 63 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
-**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://news.ycombinator.com/item?id=49401229)**
+**[How a Texas student blew the whistle on a rogue AI hacking attempt](https://news.ycombinator.com/item?id=49387959)**
 
-Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
-
-⬆️ 32 • 💬 51 • 2h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 37 • 💬 3 • 1d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 
 ---
 
@@ -675,7 +669,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 18h ago
+⭐ 14.1k • 🔱 1.7k • 19h ago
 
 ---
 
@@ -715,7 +709,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 51m ago
+⭐ 2.9k • 🔱 347 • 1h ago
 
 ---
 
@@ -725,7 +719,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 262 • 51m ago
+⭐ 2.3k • 🔱 262 • 1h ago
 
 ---
 
@@ -745,7 +739,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 22h ago
+⭐ 2.0k • 🔱 183 • 23h ago
 
 ---
 

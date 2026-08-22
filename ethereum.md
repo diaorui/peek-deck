@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T19:21:57.906560+00:00'
+updated: '2026-08-22T19:46:18.665843+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 19:21 UTC  
+**Last Updated:** August 22, 2026 at 19:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
+**24h:** -0.4%  
 **7d:** +29.6%  
 **30d:** +30.6%  
 **90d:** +15.1%  
@@ -166,6 +166,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
 Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
@@ -190,11 +198,11 @@ TradingView • 2d ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+**[Ethereum Launches better.codes to Advance Post-Quantum SNARKs](https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security)**
 
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-CryptoSlate • 1d ago
+blockchain.news • 9h ago
 
 ---
 
@@ -210,7 +218,7 @@ Crypto Briefing • 3h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 5h ago
+FinanceFeeds • 6h ago
 
 ---
 
@@ -219,14 +227,6 @@ FinanceFeeds • 5h ago
 CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
 
 Benzinga • 3d ago
-
----
-
-**[Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-staking-bets-grow-as-ishares-ethb-etf-pulls-in-36m-wave-of-inflows)**
-
-Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
-
-TipRanks • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 37 • 💬 2 • ⏱️ 4:45 • 7h ago
+👁️ 1K • 👍 37 • 💬 2 • ⏱️ 4:45 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ Welcome to the official Ashutosh Kumar Live Trading channel, where we analyze th
 
 📺 Ashutosh Kumar
 
-👁️ 7K • 👍 806 • 3h ago
+👁️ 7K • 👍 806 • 4h ago
 
 ---
 
@@ -330,7 +330,7 @@ Ethereum (ETH) is making a strong move, jumping 18% as bullish momentum builds a
 
 📺 Auphanim
 
-👁️ 164 • 👍 17 • 💬 7 • ⏱️ 4:43 • 4h ago
+👁️ 164 • 👍 17 • 💬 7 • ⏱️ 4:43 • 5h ago
 
 ---
 
