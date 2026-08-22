@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-22T20:49:20.108010+00:00"
+          "dateModified": "2026-08-22T21:21:14.371237+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -806,21 +806,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vvm3x7/followup_vsarena_now_has_a_proper_vla_track/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/YWphY2x5dTJlemtoMeF0_XvsN9zrDNcuYyAEXs7kW7iJShD2ZKBa7btZ0e06.jpeg?width=640&crop=smart&auto=webp&s=e66d2a338279c7b69e030d5983c5aa7711a19299" alt="Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/" target="_blank" onclick="event.stopPropagation();">For engineers deploying ML models on edge devices/robots: what’s the part that sucks?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1vvm3x7/followup_vsarena_now_has_a_proper_vla_track/" target="_blank" onclick="event.stopPropagation();">Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
+                            Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
                         </div>
                         
 
@@ -829,7 +831,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1787344035.0"></span>
+                                    <span data-timestamp="1787428322.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -861,6 +863,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1787346205.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/" target="_blank" onclick="event.stopPropagation();">For engineers deploying ML models on edge devices/robots: what’s the part that sucks?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787344035.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -920,35 +955,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/" target="_blank" onclick="event.stopPropagation();">👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787394680.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -972,7 +978,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-22T19:46:03.254454+00:00">Updated 2026-08-22T19:46:03.254454+00:00</small>
+        <small data-timestamp="2026-08-22T21:21:13.577224+00:00">Updated 2026-08-22T21:21:13.577224+00:00</small>
     </div>
 </div>
 

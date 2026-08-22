@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T20:49:20.340642+00:00'
+updated: '2026-08-22T21:21:14.746632+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 20:49 UTC  
+**Last Updated:** August 22, 2026 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 u/Boring_Ad7277
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 **[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
 
-6h ago
+7h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 16h ago
+Fox News • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ WSJ • 23h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 6h ago
+AP News • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Financial Times • 1d ago
 
 **[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 

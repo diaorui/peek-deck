@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T20:49:20.346026+00:00'
+updated: '2026-08-22T21:21:14.755866+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 20:49 UTC  
+**Last Updated:** August 22, 2026 at 21:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,13 +56,13 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -70,7 +70,21 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 I’m a software engineer with 8 years of experience, mostly JavaScript. I’ve also done a fair bit of hardware on the side, drones a few years back and more recently designing my own PCBs with KiCad and ESP32. Now I want to get into robotics properly. Not buying a kit and following the instructions, I want to design and build my own thing from scratch, on a small budget. Two things I’m stuck on: 1.How much math do I really need? Math is my weak spot. I keep seeing linear algebra, calculus, control theory, kinematics mentioned and I can’t tell what’s actually required day to day vs what’s nice to have. Can I learn it as I hit each problem, or do I need to sit down and study first? 2.What’s a sensible first project? Something that teaches real fundamentals but isn’t so big I burn out halfway. Also curious how much of this changes if I want to get into reinforcement learning for control later. I’ve done Andrew Ng’s ML course and a small OpenAI Gym project, that’s about it. Any advice appreciated, especially from people who came from software.
 
-2h ago
+3h ago
+
+---
+
+**[Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public](https://www.reddit.com/r/robotics/comments/1vvm3x7/followup_vsarena_now_has_a_proper_vla_track/)**
+
+Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
+
+1h ago
+
+---
+
+**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
+
+1d ago
 
 ---
 
@@ -82,23 +96,11 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ---
 
-**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
-
-23h ago
-
----
-
 **[What do you think about GEN-1.5 one shot learner](https://www.reddit.com/r/robotics/comments/1vuc3yp/what_do_you_think_about_gen15_one_shot_learner/)**
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
 🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 1d ago
-
----
-
-**[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
-
-10h ago
 
 ---
 
@@ -130,7 +132,7 @@ Reuters • 15h ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 9h ago
+Futura, le média qui explore le monde • 10h ago
 
 ---
 
@@ -138,7 +140,7 @@ Futura, le média qui explore le monde • 9h ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -262,7 +264,7 @@ Preparations for China's World Robot Games 2026 Have Began. We expect to see sti
 
 📺 Chris Wabs
 
-👁️ 15K • 👍 182 • 💬 79 • ⏱️ 9:36 • 3d ago
+👁️ 15K • 👍 182 • 💬 79 • ⏱️ 9:36 • 4d ago
 
 ---
 
@@ -280,7 +282,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 9K • 👍 638 • 💬 40 • ⏱️ 0:24 • 19h ago
+👁️ 9K • 👍 638 • 💬 40 • ⏱️ 0:24 • 20h ago
 
 ---
 
