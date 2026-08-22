@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T17:46:15.630639+00:00'
+updated: '2026-08-22T18:30:43.543963+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 17:46 UTC  
+**Last Updated:** August 22, 2026 at 18:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,419.04
+### $2,430.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +29.3%  
-**30d:** +30.3%  
-**90d:** +14.8%  
-**1y:** -49.2%  
+**24h:** +0.8%  
+**7d:** +29.6%  
+**30d:** +30.6%  
+**90d:** +15.1%  
+**1y:** -49.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.97B
+**Market Cap:** $293.51B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.3%
+-50.8%
 
 **All-Time Low:** $0.43
-+556673.0%
++561599.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 23h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-16h ago
+17h ago
 
 ---
 
@@ -152,11 +152,9 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
+**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
-
-Yahoo Finance • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -168,11 +166,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours](https://www.tradingview.com/news/coinpedia:f8fcecf7a094b:0-bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/)**
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
-The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from $2.68 trillion to $2.55 trillion as selling pressure increased. More than $1.71 billion in crypto positions were liquidated, hitting Bitcoin, Eth…
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-TradingView • 7h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,6 +182,14 @@ MarketForces Africa • 2d ago
 
 ---
 
+**[Ethereum Jumps 18% As Spot Volume Surges Across Exchanges](https://www.tradingview.com/news/newsbtc:43148d43d094b:0-ethereum-jumps-18-as-spot-volume-surges-across-exchanges/)**
+
+Ethereum surged 18% intraday as spot trading volume jumped sharply across major global exchanges, putting ETH back at the center of the market’s risk-on move.Market data showed ETH trading near the $2,500 level during the rally, with spot volume reportedly rising about 400% compared with the prior…
+
+TradingView • 2d ago
+
+---
+
 **[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
@@ -192,43 +198,35 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
+**[Rashida Tlaib reveals Ethereum ETF in personal IRA despite voting against crypto in Congress](https://cryptobriefing.com/tlaib-ethereum-etf-ira-holdings/)**
 
-Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
+Rep. Rashida Tlaib holds Grayscale Ethereum Staking Mini ETF shares in her Roth IRA despite voting against crypto legislation, congressional
 
-FXStreet • 18h ago
-
----
-
-**[Ethereum Launches better.codes to Advance Post-Quantum SNARKs](https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security)**
-
-Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
-
-blockchain.news • 7h ago
+Crypto Briefing • 2h ago
 
 ---
 
-**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum, Bitcoin: disclosures](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
-
-She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
-
-New York Post • 1h ago
-
----
-
-**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
-
-Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
-
-The Block • 3d ago
-
----
-
-**[Ethereum price prediction: $4,000 bull case vs $1,500 bear case](https://financefeeds.com/ethereum-price-prediction-4000-bull-case-vs-1500-bear-case/)**
+**[Ethereum Price Prediction: $4,000 Bull Case vs $1,500 Bear Case](https://financefeeds.com/ethereum-price-prediction-4000-bull-case-vs-1500-bear-case/)**
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
 FinanceFeeds • 4h ago
+
+---
+
+**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
+
+CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
+
+Benzinga • 3d ago
+
+---
+
+**[Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-staking-bets-grow-as-ishares-ethb-etf-pulls-in-36m-wave-of-inflows)**
+
+Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
+
+TipRanks • 7h ago
 
 ---
 
@@ -242,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 504 • 👍 26 • 💬 1 • ⏱️ 4:45 • 6h ago
+👁️ 1K • 👍 37 • 💬 2 • ⏱️ 4:45 • 7h ago
 
 ---
 
@@ -262,7 +260,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 17K • 👍 401 • 💬 115 • ⏱️ 41:59 • 1d ago
+👁️ 17K • 👍 404 • 💬 115 • ⏱️ 41:59 • 1d ago
 
 ---
 
@@ -272,17 +270,17 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 72 • ⏱️ 1:25 • 1d ago
+👁️ 1K • 👍 73 • ⏱️ 1:25 • 1d ago
 
 ---
 
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
 
 In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 220 • 💬 8 • ⏱️ 7:31 • 1d ago
+👁️ 9K • 👍 298 • 💬 21 • ⏱️ 7:45 • 2d ago
 
 ---
 
@@ -292,27 +290,27 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 Altcoin Daily
 
-👁️ 86K • 👍 3K • 💬 171 • ⏱️ 10:41 • 2d ago
+👁️ 86K • 👍 3K • 💬 172 • ⏱️ 10:41 • 2d ago
 
 ---
 
-**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
+**[Crypto Gold Live Trading | Btc Live Trading | Gold Live Trading | Crypto Live trading | Xauusd Live](https://www.youtube.com/watch?v=8ldGFiQxp3g)**
 
-BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Welcome to the official Ashutosh Kumar Live Trading channel, where we analyze the financial markets in real time with a focus on ...
 
-📺 Crypto World
+📺 Ashutosh Kumar
 
-👁️ 14K • 👍 496 • 💬 25 • ⏱️ 20:52 • 1d ago
+👁️ 7K • 👍 806 • 2h ago
 
 ---
 
-**[Bitwise: Why Large Allocators Are Deploying Into Ethereum Now (Model Portfolio Explained)](https://www.youtube.com/watch?v=C-ub-6dK4Kc)**
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
 
-Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we are at the beginning of a mega bull cycle ...
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
-📺 The Rollup
+📺 More Crypto Online
 
-👁️ 5K • 👍 115 • 💬 9 • ⏱️ 10:38 • 2d ago
+👁️ 5K • 👍 219 • 💬 8 • ⏱️ 7:31 • 1d ago
 
 ---
 
@@ -322,17 +320,17 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 699 • 💬 117 • ⏱️ 11:56 • 1d ago
+👁️ 14K • 👍 700 • 💬 115 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[BTC WATCH + GOLD &amp; ETH 📈](https://www.youtube.com/watch?v=UZ3DlH7E9D4)**
+**[Ethereum Just Did This!](https://www.youtube.com/watch?v=InBNoW1hgzg)**
 
-Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com. ✓ STOCKS UP U ...
+Ethereum (ETH) is making a strong move, jumping 18% as bullish momentum builds across the crypto market. The surge has ...
 
-📺 Stocks with Josh
+📺 Auphanim
 
-👁️ 35K • 👍 3K • 💬 118 • ⏱️ 1:15:54 • 1d ago
+👁️ 164 • 👍 17 • 💬 7 • ⏱️ 4:43 • 4h ago
 
 ---
 

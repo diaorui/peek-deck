@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T17:46:15.615978+00:00'
+updated: '2026-08-22T18:30:43.529921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 17:46 UTC  
+**Last Updated:** August 22, 2026 at 18:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[GOP urges top AI firms to do something about the toxic image of data centers](https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/)**
+
+GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
+
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 1h ago
+
+---
+
 **[UBS models $4.1T in AI infrastructure spending by 2028 - it assumes the power just shows up](https://www.reddit.com/r/artificial/comments/1vvfxyq/ubs_models_41t_in_ai_infrastructure_spending_by/)**
 
 Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
 
-1h ago
-
----
-
-**[What would actually make you watch an AI-generated TV show — or not?](https://www.reddit.com/r/artificial/comments/1vvgjic/what_would_actually_make_you_watch_an_aigenerated/)**
-
-Genuine question as someone following this space closely. There's starting to be real AI-generated long-form content appearing — not just short clips but full episodes with consistent characters and actual narrative structure. Curious what would make or break it for you as a viewer. Is the "made with AI" label an automatic turn-off? Does it depend on the genre? Would you watch it if it was funny, or does knowing it's AI mean you'd always be looking for the glitches rather than watching the story? Not talking about AI-assisted production (which is already everywhere) — talking about visually AI-generated from the ground up.
-
-1h ago
+2h ago
 
 ---
 
@@ -61,11 +61,43 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ---
 
+**[Possible pathways to RSI](https://www.reddit.com/r/artificial/comments/1vv8iu3/possible_pathways_to_rsi/)**
+
+I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
+
+8h ago
+
+---
+
+**[I built an AI history podcast that you can interrupt to ask questions — it answers and picks the story back up](https://www.reddit.com/r/artificial/comments/1vvjz6b/i_built_an_ai_history_podcast_that_you_can/)**
+
+The idea came from a personal frustration about a year ago. I love history but could never find podcasts on the niche topics I wanted, and even with good ones, my curiosity always wanted a detour the host wasn't going to take. I work in AI/engineering, so I built the tool I wanted. It generates a podcast on any topic — one or two narrators — researches the topic properly and cites its sources, and the part that matters most to me: you can interrupt at any point, by voice or text, ask a question, and the hosts answer in their own voices, fold a deeper dive into the episode, then resume where you stopped. There's also a map and period artwork synced to the narration. What surprised me building it: the LLM part (planning and writing the episode chapter by chapter) was the easy half. The hard half was everything around it — stitching TTS audio gaplessly, keeping captions and art in sync with the playback clock, and starting the episode within a minute while later chapters are still being written. It's called Historai (https://historai.ca/), free to try with no account for the demo. Here's the demo episode on the real history of the Odyssey: https://historai.ca/history/the-odyssey-was-built-from-ruins--db7b634f532942728746182da4306187 Happy to answer questions about how it works, and genuinely interested in feedback — especially from anyone who's tried building conversational audio.
+
+1m ago
+
+---
+
+**[I spent the morning digging into Anthropic so I could write it up properly. The short version](https://www.reddit.com/r/artificial/comments/1vvjmmo/i_spent_the_morning_digging_into_anthropic_so_i/)**
+
+Anthropic appears to be A/B testing reduced effort levels in Claude Code I went through the primary sources and the threads this morning so I could write it up properly, and the short version is: the hype is half right. I collect daily AI news and write guides around exactly these stories at https://apexnexus.site (free, no email wall) if you want the deeper version. The writeup on Anthropic goes up later today. What's your take on Anthropic?
+
+15m ago
+
+---
+
+**[What would actually make you watch an AI-generated TV show — or not?](https://www.reddit.com/r/artificial/comments/1vvgjic/what_would_actually_make_you_watch_an_aigenerated/)**
+
+Genuine question as someone following this space closely. There's starting to be real AI-generated long-form content appearing — not just short clips but full episodes with consistent characters and actual narrative structure. Curious what would make or break it for you as a viewer. Is the "made with AI" label an automatic turn-off? Does it depend on the genre? Would you watch it if it was funny, or does knowing it's AI mean you'd always be looking for the glitches rather than watching the story? Not talking about AI-assisted production (which is already everywhere) — talking about visually AI-generated from the ground up.
+
+2h ago
+
+---
+
 **[Working on a accessible creative production suite featuring a voice-first multi-agent assistant. All core tools are completely free for hands-on use, while AI-powered automated generation runs on a flexible credit system with no subs.](https://www.reddit.com/r/artificial/comments/1vvd56h/working_on_a_accessible_creative_production_suite/)**
 
 So what started out as a text based chatbot project 8 months ago as my first ever project as a self taught coder is developing into something different. I've created an agent within my chat bot to help users create a product, using ElevenLabs V3 or OpenAI Realtime voice that works on a conversational basis rather than hardcoded commands The agent can talk to you whilst your in chat or on a panel and navigate you to a particular panel if needed and throughout your session can select and substitutes models based on objectives such as quality or cost, proposes creative next steps, requests consent before paid inference, invokes generation, manipulates an editable multitrack timeline, and controls playback/time line like play video, delete my first image etc - through natural conversation. Then if you wanted to create an image in another panel you can ask the agent via text or voice and they will navigate you to that panel and offer assistance their. Write your prompt for you and then even take that photo to the video suite to animate all using conversational language. What do you think to this concept? I'm looking to further develop the idea across the platform to streamline some of the processes within it as my video demonstrates This is my project i've been working on Everything is a working concept and i'm just finalizing bits before release this week IDE Multi FIle Editor with AI assistant and live preview Split Screen Live Coding Multi Media Studio Editor Single Prompt to Full 2D and 3D Game Development Engine and Web Application Builder Video Editor with timeline controls, video effects, overlays, title, audio, podcast and music composer Music Studio with AI/Custom Lyrics Custom workspace environments with themes, live wallpapers, ambiant background tracks (Default options with light mode/dark mode with no wallpapers or music) Native 25+ Languages with RTL support. Already Hardcoded. Not live translated via web plus many more tools such as Podcast Creator with chat based/ custom context with 50+ voices and MP3 export. Full workflow tools like frame extract, analysis, transcribe, effects, file conversion audio analysis etc ...and of course the original chat bot interface that has cross device persistent multi model memory with vector base knowledge base via OpenAI and platform Drive storage. You can start a conversation with any model on your laptop and next day carry on in a new conversation with another model on your phone with memory preserved across so you dont need to repeat yourself. The memory layer sits above the models entirely so is accessible by any LLM the platform supprts Every tool, every feature i built will be completely free including GPT Nano, Gemini Flash and Deepseek. Users can upload their own work to use for free and chat with selected free tier models with no limits. If the user wants to generate a video or analyze a image, then that would be credit based. No subscription required and no tool access priorities over a non paying user. Thats my concept i'm hoping to have launched in a few days and welcome any feedback/criticism you may have before i do launch.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +105,7 @@ So what started out as a text based chatbot project 8 months ago as my first eve
 
 One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns. We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's possible to generate thousands of different examples which train your model in the same manner. This is why the data for post-training becomes really interesting. The valuable examples might be the ones which reveal the weakness of the model, which are based on realistic tasks and provide some way to check if the model managed to complete the task. While searching for such examples, I discovered Parsewave. Their area of expertise is post-training data on engineering tasks, evaluations and traces. But what is interesting is their concept itself - deliberately generating the data on the capabilities which remain challenging for the model instead of generating the big datasets. What do you think about the future direction of AI training? Will the future of AI be about generating the massive datasets or becoming really good at identifying a small number of truly useful examples?
 
-5h ago
+6h ago
 
 ---
 
@@ -81,39 +113,7 @@ One of the questions I've been asking myself recently is how AI training will ev
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-19h ago
-
----
-
-**[Possible pathways to RSI](https://www.reddit.com/r/artificial/comments/1vv8iu3/possible_pathways_to_rsi/)**
-
-I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
-
-7h ago
-
----
-
-**[AI for editing existing Songs/Music?](https://www.reddit.com/r/artificial/comments/1vv4zqz/ai_for_editing_existing_songsmusic/)**
-
-Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
-
-11h ago
-
----
-
-**[Setting behavioural rules for AIs](https://www.reddit.com/r/artificial/comments/1vv04jj/setting_behavioural_rules_for_ais/)**
-
-I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
-
-15h ago
-
----
-
-**[What Happens When the World is Run on Code No One Understands?](https://www.reddit.com/r/artificial/comments/1vu3x0t/what_happens_when_the_world_is_run_on_code_no_one/)**
-
-Mathematical verification must be a national mission in the AI era, write Patrick Shafto, Ken Ono, and Scott Duke Kominers.
-
-🔗 [TIME](https://time.com/article/2026/08/20/what-happens-when-the-world-is-run-on-code-no-one-understands-/) • 1d ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 **[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 2h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,31 +131,29 @@ The New York Times • 2h ago
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
-**[Civil society groups push FTC to sue AI companies over book destruction](https://mashable.com/tech/civil-society-groups-urge-the-ftc-to-bring-antitrust-suit-against-ai-companies)**
+**[NY state assemblyman issues warning on AI after primary defeat](https://www.foxnews.com/video/6403884206112)**
 
-Deliberately destroying rare books might be the final straw in the eyes of the Federal Trade Commission.
+New York State Democratic Assemblyman Alex Bores joins ‘Saturday in America’ to discuss the AI regulation efforts and how oversight of the technology is a major political topic to voters.
 
-Mashable • 1h ago
-
----
-
-**[OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)**
-
-OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
-
-TechCrunch • 1h ago
+Fox News • 1h ago
 
 ---
 
-**[What The Hugging Face Cyberattack Teaches Executives About Using AI](https://www.forbes.com/sites/edwardsegal/2026/08/22/what-the-hugging-face-cyberattack-teaches-executives-about-using-ai/)**
+**[AI mapping reveals hidden stage of Arctic freeze with climate implications](https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html)**
 
-AI can create a crisis, but it can also help leaders detect threat, understand what’s happening, test responses, annd communicate more effectively when it counts.
+Phys.org • 1h ago
 
-Forbes • 2h ago
+---
+
+**[Flock Safety CEO defends AI surveillance cameras amid backlash](https://www.foxnews.com/video/6403882686112)**
+
+Flock Safety CEO Garrett Langley joins ‘Saturday in America’ to defend the company’s AI surveillance cameras and addresses the technology’s privacy concerns.
+
+Fox News • 1h ago
 
 ---
 
@@ -163,21 +161,15 @@ Forbes • 2h ago
 
 The breakneck AI transformation of the industry is the kind of technological disruption that many creatives fear could upend movie-making far beyond China.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
-**[‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)**
+**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
 
-Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
+Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-The Guardian • 11h ago
-
----
-
-**[Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back](https://www.wsj.com/tech/ai/private-equity-is-deploying-an-army-of-ai-wonks-to-embed-in-the-firms-they-back-96d279ec)**
-
-WSJ • 1d ago
+CNBC • 20h ago
 
 ---
 
@@ -185,15 +177,23 @@ WSJ • 1d ago
 
 "A thousand is not that much, I would say, but for one weekend, it's pretty annoying," Maxio CEO Branden Jenkins told Fortune.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)**
+**[Online streamers sue Twitch, Amazon over generative AI training](https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/)**
 
-Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.
+The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-WIRED • 18h ago
+Courthouse News • 22h ago
+
+---
+
+**[AI companies accused of hoarding and destroying millions of books](https://www.cbsnews.com/news/ftc-ai-companies-destroying-books/)**
+
+Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
+
+CBS News • 23h ago
 
 ---
 
@@ -213,7 +213,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 585 • 💬 872 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 591 • 💬 878 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -221,7 +221,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 451 • 💬 459 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 463 • 💬 471 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -275,15 +275,15 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 44 • 💬 54 • 3h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 46 • 💬 61 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
-**[Introducing AI Futures](https://news.ycombinator.com/item?id=49379261)**
+**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://news.ycombinator.com/item?id=49401229)**
 
-Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 32 • 💬 8 • 1d ago • [OpenAI](https://openai.com/index/introducing-ai-futures/)
+⬆️ 32 • 💬 51 • 2h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -297,7 +297,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 623K • 👍 9K • 💬 1K • ⏱️ 12:08 • 1d ago
+👁️ 641K • 👍 9K • 💬 1K • ⏱️ 12:08 • 1d ago
 
 ---
 
@@ -307,17 +307,47 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 58K • 👍 2K • 💬 128 • ⏱️ 8:14 • 2d ago
+👁️ 60K • 👍 2K • 💬 136 • ⏱️ 8:14 • 2d ago
 
 ---
 
-**[FREE AI Video Generator for creating Quality AI Videos (Unlimited Usage)](https://www.youtube.com/watch?v=LflqVDD75Ns)**
+**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
 
-We've found a free AI tool that lets anyone create amazing video content! This new free AI tool is a game-changer for AI content ...
+Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
 
-📺 Africa Amaze
+📺 The Economist
 
-👁️ 3K • 👍 150 • 💬 15 • ⏱️ 9:41 • 21h ago
+👁️ 9K • 👍 556 • 💬 48 • ⏱️ 12:28 • 4h ago
+
+---
+
+**[&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy](https://www.youtube.com/watch?v=ebWFexw51qM)**
+
+Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Roman V. Yampolskiy is a computer ...
+
+📺 Danny Jones
+
+👁️ 109K • 👍 2K • 💬 557 • ⏱️ 1:50:40 • 1d ago
+
+---
+
+**[OpenAI’s New AI Just Crossed the Red Line (Critical Warning)](https://www.youtube.com/watch?v=7TGamjQahWk)**
+
+OpenAI says its upcoming Astra model may have crossed a critical cybersecurity threshold, forcing the company to slow frontier ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 848 • 💬 161 • ⏱️ 17:06 • 2d ago
+
+---
+
+**[Sell These 5 Most In Demand AI Automations in 2026](https://www.youtube.com/watch?v=tgjYMym_0-c)**
+
+in BONUS Hyperagent credits: https://www.hyperagent.com/nate100 My playbook for growing a $1M AI agency: ...
+
+📺 Nate Herk | AI Automation
+
+👁️ 15K • 👍 547 • 💬 38 • ⏱️ 10:46 • 2d ago
 
 ---
 
@@ -327,37 +357,17 @@ Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP I talk
 
 📺 Greg Isenberg
 
-👁️ 24K • 👍 659 • 💬 63 • ⏱️ 32:27 • 2d ago
+👁️ 24K • 👍 662 • 💬 63 • ⏱️ 32:27 • 2d ago
 
 ---
 
-**[Blackouts &amp; Water Shortage Imminent: Tech Overlords Build AI Dystopia &amp; Crush Anyone Who Resists](https://www.youtube.com/watch?v=KMsklsr_nBM)**
+**[Fedorov Wanted to Swarm Moscow’s Airports With 1,000 AI Drones](https://www.youtube.com/watch?v=oOmJBuYSFGc)**
 
-The DoJ is using your tax dollars to sue any community that resists data centers. Clayton Morris on the AI takeover of America.
+Ukraine reportedly had a plan to send 1000 autonomous drones toward Moscow's airports in a single night—not primarily to ...
 
-📺 Tucker Carlson
+📺 Professor Gerdes Explains 🇺🇦 
 
-👁️ 206K • 👍 10K • 💬 980 • ⏱️ 1:00:28 • 1d ago
-
----
-
-**[I Gave AI a Body and It Became Sentient?!](https://www.youtube.com/watch?v=frSlJ4eTkFI)**
-
-Get 50% off Brevo's Starter and Standard plans: https://get.brevo.com/9ytwu7ilhp9d USE CODE: NAZ50 Fill out the Pixel form: ...
-
-📺 Naz Louis
-
-👁️ 10K • 👍 530 • 💬 179 • ⏱️ 12:33 • 2d ago
-
----
-
-**[AI companies buying books to scan and destroy, 404 Media investigation finds](https://www.youtube.com/watch?v=7u1FZzhp5aw)**
-
-Some used and independent bookstores have reported unexpectedly large book orders and suspect that the books are being ...
-
-📺 CBS News
-
-👁️ 81K • 👍 2K • 💬 734 • ⏱️ 4:58 • 2d ago
+👁️ 64K • 👍 5K • 💬 266 • ⏱️ 25:03 • 21h ago
 
 ---
 
@@ -367,27 +377,17 @@ You can download Revolut using this link: https://get.revolut.com/z4lF/codebulle
 
 📺 Code Bullet
 
-👁️ 516K • 👍 45K • 💬 1K • ⏱️ 13:55 • 1d ago
+👁️ 546K • 👍 47K • 💬 1K • ⏱️ 13:55 • 1d ago
 
 ---
 
-**[DeepSeek Just Made Closed AI Look Ridiculous](https://www.youtube.com/watch?v=kyYepbhe1g8)**
+**[The White Collar Purge Has Started and These Jobs Are Next... | AI Layoffs](https://www.youtube.com/watch?v=2_On0hGEBRk)**
 
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: ...
+AI layoffs are the number one stated reason for job cuts in America for the fifth month in a row, and the three biggest numbers you ...
 
-📺 Two Minute Papers
+📺 Edwards Economics
 
-👁️ 145K • 👍 5K • 💬 374 • ⏱️ 5:29 • 2d ago
-
----
-
-**[Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up](https://www.youtube.com/watch?v=Sij_v-mcZXQ)**
-
-(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) ...
-
-📺 All-In Podcast
-
-👁️ 195K • 👍 4K • 💬 577 • ⏱️ 1:30:53 • 1d ago
+👁️ 30K • 👍 1K • 💬 281 • ⏱️ 23:22 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,090,699 • ❤️ 12,080 • 8d ago
+⬇️ 2,090,699 • ❤️ 12,099 • 8d ago
 
 ---
 
@@ -415,19 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,320,542 • ❤️ 2,587 • 2d ago
-
----
-
-**[Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)**
-
-*OrcaRouter*
-
-This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 142,846 • ❤️ 946 • 2d ago
+⬇️ 6,320,542 • ❤️ 2,600 • 2d ago
 
 ---
 
@@ -439,7 +427,19 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 34,909 • ❤️ 861 • 1d ago
+⬇️ 34,909 • ❤️ 873 • 1d ago
+
+---
+
+**[Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)**
+
+*OrcaRouter*
+
+This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 142,846 • ❤️ 966 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `26.9B`
 
-⬇️ 164,950 • ❤️ 501 • 8h ago
+⬇️ 164,950 • ❤️ 514 • 9h ago
 
 ---
 
@@ -463,7 +463,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,223,422 • ❤️ 604 • 6d ago
+⬇️ 1,223,422 • ❤️ 611 • 6d ago
 
 ---
 
@@ -475,7 +475,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 486,221 • ❤️ 469 • 4d ago
+⬇️ 486,221 • ❤️ 477 • 4d ago
 
 ---
 
@@ -487,7 +487,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 694,670 • ❤️ 1,544 • 5d ago
+⬇️ 694,670 • ❤️ 1,551 • 5d ago
 
 ---
 
@@ -511,7 +511,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 12,611 • ❤️ 310 • 2d ago
+⬇️ 12,611 • ❤️ 314 • 2d ago
 
 ---
 
@@ -527,7 +527,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 708 • 💬 5 • ⭐ 4,237 • 12d ago
+▲ 708 • 💬 5 • ⭐ 4,500 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -541,7 +541,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 75 • 💬 2 • ⭐ 846 • 5d ago
+▲ 76 • 💬 2 • ⭐ 846 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -555,7 +555,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 63 • 💬 7 • ⭐ 280 • 2d ago
+▲ 64 • 💬 7 • ⭐ 280 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -581,7 +581,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
 
-▲ 14 • 💬 2 • ⭐ 5,347 • 1mo ago
+▲ 14 • 💬 2 • ⭐ 5,407 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
 
@@ -595,7 +595,7 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 129 • 💬 3 • ⭐ 23,757 • 2mo ago
+▲ 129 • 💬 3 • ⭐ 23,802 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -635,7 +635,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 245 • 💬 2 • ⭐ 136 • 2d ago
+▲ 246 • 💬 2 • ⭐ 136 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -665,7 +665,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.9k • 🔱 1.9k • 22h ago
+⭐ 17.0k • 🔱 1.9k • 28m ago
 
 ---
 
@@ -715,7 +715,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 5h ago
+⭐ 2.9k • 🔱 347 • 27s ago
 
 ---
 
@@ -725,7 +725,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 254 • 2h ago
+⭐ 2.3k • 🔱 262 • 44s ago
 
 ---
 
@@ -755,7 +755,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 234 • 13h ago
+⭐ 1.9k • 🔱 234 • 14h ago
 
 ---
 

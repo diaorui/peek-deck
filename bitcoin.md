@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T17:46:15.624575+00:00'
+updated: '2026-08-22T18:30:43.537863+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 17:46 UTC  
+**Last Updated:** August 22, 2026 at 18:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,467.95
+### $77,312.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +23.1%  
-**30d:** +20.7%  
-**90d:** +0.1%  
-**1y:** -33.0%  
+**24h:** +0.4%  
+**7d:** +22.9%  
+**30d:** +20.5%  
+**90d:** -0.1%  
+**1y:** -33.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1545.93B
+**Market Cap:** $1551.49B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.9%
+-38.7%
 
 **All-Time Low:** $67.81
-+113483.5%
++113890.6%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 u/Boring_Ad7277
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ u/Boring_Ad7277
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-22h ago
+23h ago
 
 ---
 
@@ -129,7 +129,7 @@ Geoff Kendrick, head of digital assets research at Standard Chartered, predicts 
 
 I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
 
-3h ago
+4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -183,27 +183,27 @@ CNBC • 1d ago
 
 ---
 
-**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
+**[JUST IN: 🇺🇸 US spot Bitcoin ETFs pulled in $1.92 billion this week, marking the strongest week since October 2025 🚀](https://www.moomoo.com/community/feed/just-in-us-spot-bitcoin-etfs-pulled-in-1-92-117139807010821)**
 
-Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
-
-AP News • 3h ago
-
----
-
-**[$Bitcoin (BTC.CC)$ how many Wojak's shorted here right before Mr. Bogdanoff pump eeit](https://www.moomoo.com/community/feed/bitcoin-btc-cc-how-many-wojak-s-shorted-here-right-117139533529093)**
-
-@Harry the Rizzard 7565 Views|1 Like
+@Bitcoin Magazine 3133 Views|1 Like
 
 Moomoo • 3h ago
 
 ---
 
-**[Bitcoin Nears a Risk Zone as RSI Hits Extreme Levels: Back to $70,000?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-nears-risk-zone-rsi-145218322.html)**
+**[Bitcoin Beats Almost Every Major Asset Over 10 Years, Now Visser Calls It An ‘Anti-Decay’ Hedge](https://finance.yahoo.com/markets/crypto/articles/bitcoin-beats-almost-every-major-152028340.html)**
 
-Bitcoin price nears a risk zone as its 4-hour RSI hits a seven-year high. Here's what analysts are saying now.
+US spot Bitcoin ETFs pulled in over $1.9 billion this week, while 10-year return data from a Creative Market Strategist showed Bitcoin up 13,200%, trailing only Nvidia.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Cathie Wood still believes $Bitcoin (BTC.CC)$ can hit $1.5 MILLION by 2030.](https://www.moomoo.com/community/feed/cathie-wood-still-believes-bitcoin-btc-cc-can-hit-1-117140003422213)**
+
+@AltCoin Daily 8443 Views|1 Like
+
+Moomoo • 2h ago
 
 ---
 
@@ -211,21 +211,21 @@ Yahoo Finance • 2h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 13h ago
+Fox News • 14h ago
 
 ---
 
-**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
 
-WSJ • 17h ago
+Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
+
+AP News • 4h ago
 
 ---
 
-**[Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar](https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1)**
+**[U.S. Stocks Rise as Bitcoin Nears $80,000](https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad)**
 
-World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades
-
-Financial Times • 1d ago
+WSJ • 20h ago
 
 ---
 
@@ -289,17 +289,7 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 446 • 💬 144 • ⏱️ 14:55 • 1d ago
-
----
-
-**[Missed the Bitcoin Rally? Here&#39;s Exactly Where I&#39;d Buy the Dip [Kalshi Live Trading]](https://www.youtube.com/watch?v=tPNlAunoFGY)**
-
-Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks ago. If you missed the move, today's stream is ...
-
-📺 Krown
-
-👁️ 8K • 👍 432 • 💬 2 • ⏱️ 2:07:34 • 22h ago
+👁️ 15K • 👍 460 • 💬 159 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -309,37 +299,27 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 81 • ⏱️ 17:33 • 1d ago
+👁️ 37K • 👍 2K • 💬 94 • ⏱️ 17:33 • 1d ago
 
 ---
 
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+**[Missed the Bitcoin Rally? Here&#39;s Exactly Where I&#39;d Buy the Dip [Kalshi Live Trading]](https://www.youtube.com/watch?v=tPNlAunoFGY)**
 
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks ago. If you missed the move, today's stream is ...
 
-📺 Nicholas Crown
+📺 Krown
 
-👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:15 • 14h ago
-
----
-
-**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
-
-Correlations converging as we speak.
-
-📺 Nicholas Crown
-
-👁️ 9K • 👍 379 • 💬 8 • ⏱️ 2:20 • 1d ago
+👁️ 8K • 👍 434 • 💬 2 • ⏱️ 2:07:34 • 23h ago
 
 ---
 
-**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+**[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
 
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
 
-📺 The Hobbyist Miner
+📺 CNBC Television
 
-👁️ 4K • 👍 195 • 💬 53 • ⏱️ 18:12 • 1d ago
+👁️ 13K • 👍 137 • 💬 42 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -349,37 +329,57 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 4K • 💬 237 • ⏱️ 11:06 • 1d ago
+👁️ 50K • 👍 4K • 💬 184 • ⏱️ 11:06 • 1d ago
 
 ---
 
-**[THE TREASURY BUYBACK. #bitcoin #treasury #stocks](https://www.youtube.com/watch?v=7xQgFDnJBy8)**
+**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
 
-The Treasury is buying back 10–30 year bonds — and paying for it by issuing T-bills. Jeff Walton walks through how the two sides ...
+Correlations converging as we speak.
 
-📺 True North
+📺 Nicholas Crown
 
-👁️ 1K • 👍 41 • ⏱️ 1:39 • 23h ago
-
----
-
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 86K • 👍 3K • 💬 171 • ⏱️ 10:41 • 2d ago
+👁️ 9K • 👍 397 • 💬 10 • ⏱️ 2:20 • 1d ago
 
 ---
 
-**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
+**[ITS HAPPENING 🚨 SEC JUST FLIPPED THE SWITCH ON CRYPTO RULES FOR RETAIL! WHAT YOU NEED TO KNOW!](https://www.youtube.com/watch?v=5vSMWS0R9rk)**
 
-Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
+ITS HAPPENING SEC JUST FLIPPED THE SWITCH ON CRYPTO RULES FOR RETAIL! ICOS FOR EVERYONE! Hey babes!
 
-📺 Cointelegraph
+📺 CryptoWendyO
 
-👁️ 13K • 👍 262 • 💬 37 • ⏱️ 31:41 • 1d ago
+👁️ 57K • 👍 2K • 💬 142 • ⏱️ 7:46 • 2d ago
+
+---
+
+**[Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://www.youtube.com/watch?v=VHGVaKVTqzU)**
+
+Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his meeting with President Trump, fate of the ...
+
+📺 CNBC Television
+
+👁️ 78K • 👍 1K • 💬 221 • ⏱️ 7:54 • 2d ago
+
+---
+
+**[BIG GAINS! BITCOIN PUMPS &amp; XRP, ETHEREUM &amp; SOLANA PRICES RISE! HUGE WHITE HOUSE CRYPTO MEETING!](https://www.youtube.com/watch?v=uCJ_KvfcV2o)**
+
+Crypto News: Bitcoin pumps to $70K and Altcoins such as Ethereum, XRP, and Solana are on the move. Trump pushes Congress ...
+
+📺 Thinking Crypto
+
+👁️ 11K • 👍 686 • 💬 122 • ⏱️ 19:03 • 2d ago
+
+---
+
+**[Bitcoin’s Rally Today Just Confirmed Everything](https://www.youtube.com/watch?v=yGg1_mD9KKo)**
+
+Anthony & John Pompliano discuss the state of bitcoin at $64000, why the price has stabilized, and what it will take to spark the ...
+
+📺 Anthony Pompliano
+
+👁️ 64K • 👍 2K • 💬 75 • ⏱️ 24:22 • 2d ago
 
 ---
 
