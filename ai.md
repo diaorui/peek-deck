@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T16:23:47.854537+00:00'
+updated: '2026-08-22T16:50:28.780358+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 16:23 UTC  
+**Last Updated:** August 22, 2026 at 16:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,30 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[UBS models $4.1T in AI infrastructure spending by 2028 - it assumes the power just shows up](https://www.reddit.com/r/artificial/comments/1vvfxyq/ubs_models_41t_in_ai_infrastructure_spending_by/)**
+
+Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
+
+58m ago
+
+---
+
+**[What would actually make you watch an AI-generated TV show — or not?](https://www.reddit.com/r/artificial/comments/1vvgjic/what_would_actually_make_you_watch_an_aigenerated/)**
+
+Genuine question as someone following this space closely. There's starting to be real AI-generated long-form content appearing — not just short clips but full episodes with consistent characters and actual narrative structure. Curious what would make or break it for you as a viewer. Is the "made with AI" label an automatic turn-off? Does it depend on the genre? Would you watch it if it was funny, or does knowing it's AI mean you'd always be looking for the glitches rather than watching the story? Not talking about AI-assisted production (which is already everywhere) — talking about visually AI-generated from the ground up.
+
+35m ago
+
+---
+
+**[Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/)**
+
+Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
+
+14m ago
+
+---
 
 **[Working on a accessible creative production suite featuring a voice-first multi-agent assistant. All core tools are completely free for hands-on use, while AI-powered automated generation runs on a flexible credit system with no subs.](https://www.reddit.com/r/artificial/comments/1vvd56h/working_on_a_accessible_creative_production_suite/)**
 
@@ -73,7 +97,7 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +105,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-13h ago
+14h ago
 
 ---
 
@@ -93,33 +117,11 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 ---
 
-**[Why Self-Correction Loops Can Degrade Reliability in LLM Pipelines (85% Down to 62%)](https://www.reddit.com/r/artificial/comments/1vv2kki/why_selfcorrection_loops_can_degrade_reliability/)**
-
-In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
-
-11h ago
-
----
-
-**[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 1d ago
-
----
-
-**[AI compute financing just tripled in ten weeks - the mechanism behind the reported $100B Broadcom deal](https://www.reddit.com/r/artificial/comments/1vug3gk/ai_compute_financing_just_tripled_in_ten_weeks/)**
-
-Broadcom apparently went back to Blackstone and Apollo (the same two private-credit shops it partnered with in June for a $35B package) and is now discussing something like $100B, to fund AI chip infrastructure for Anthropic. Ten weeks, 3x the size. The structure is the interesting part if you're not familiar with how this financing actually works: reportedly split into a senior-secured tranche ($60-70B) and a junior tranche (~$30B). Senior-secured gets paid first if anything goes wrong and is backed by hard collateral (the chips/datacenters themselves), junior eats losses first but gets a higher yield. It's basically the same risk-layering banks use on mortgage bonds, except the underlying asset here is depreciating GPU hardware instead of houses, and the "borrower" is a compute buildout racing to keep up with model demand. Private credit shops love this because it's floating-rate, asset-backed, and banks mostly won't touch loans this size and this fast for something as volatile as AI infra. Genuinely curious what people think: is layered private-credit financing at this pace and scale just normal infrastructure buildout, or is it the first real sign of an AI capex bubble forming underneath the model layer everyone's watching instead?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
+**[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
 The New York Times • 1h ago
 
@@ -133,27 +135,27 @@ NPR • 18h ago
 
 ---
 
+**[Civil society groups push FTC to sue AI companies over book destruction](https://mashable.com/tech/civil-society-groups-urge-the-ftc-to-bring-antitrust-suit-against-ai-companies)**
+
+Deliberately destroying rare books might be the final straw in the eyes of the Federal Trade Commission.
+
+Mashable • 1h ago
+
+---
+
+**[OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)**
+
+OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
+
+TechCrunch • 19m ago
+
+---
+
 **[What The Hugging Face Cyberattack Teaches Executives About Using AI](https://www.forbes.com/sites/edwardsegal/2026/08/22/what-the-hugging-face-cyberattack-teaches-executives-about-using-ai/)**
 
 AI can create a crisis, but it can also help leaders detect threat, understand what’s happening, test responses, annd communicate more effectively when it counts.
 
-Forbes • 40m ago
-
----
-
-**[At Beijing AI-themed bar, DeepSeek tokens come with the pints](https://www.channel3000.com/news/shareable-stories/at-beijing-ai-themed-bar-deepseek-tokens-come-with-the-pints/article_45be79f9-72e2-5f2e-aba8-43e261734fae.html)**
-
-AGI Bar in Beijing’s Zhongguancun district serves as a unique meeting place for AI developers, investors and students, blending the tech atmosphere with social interaction amid China’s AI boom and hosting events for leading AI labs and tech firms.
-
-Channel 3000 • 53m ago
-
----
-
-**[Louisiana parish blocks $175M solar farm after AI-driven falsehoods spread online](https://www.yahoo.com/news/us/articles/louisiana-parish-blocks-175m-solar-143900038.html)**
-
-"People are fueled by misinformation."
-
-Yahoo • 1h ago
+Forbes • 1h ago
 
 ---
 
@@ -165,11 +167,11 @@ CNN • 12h ago
 
 ---
 
-**[AI companies accused of hoarding and destroying millions of books](https://www.cbsnews.com/news/ftc-ai-companies-destroying-books/)**
+**[‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)**
 
-Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
+Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-CBS News • 21h ago
+The Guardian • 10h ago
 
 ---
 
@@ -179,19 +181,19 @@ WSJ • 1d ago
 
 ---
 
-**[Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology)**
+**[This CEO was out to dinner when he caught his AI agent wasting $1,000 in tokens. He says ‘insecurity’ is a bigger problem](https://finance.yahoo.com/technology/ai/articles/ceo-dinner-caught-ai-agent-110000990.html)**
 
-It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
+"A thousand is not that much, I would say, but for one weekend, it's pretty annoying," Maxio CEO Branden Jenkins told Fortune.
 
-The Guardian • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
+**[The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)**
 
-Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.
 
-CNBC • 18h ago
+WIRED • 17h ago
 
 ---
 
@@ -211,7 +213,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 583 • 💬 864 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 585 • 💬 872 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -219,7 +221,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 437 • 💬 447 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 451 • 💬 459 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -269,19 +271,19 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 ---
 
+**[Digging the grave of my skills: Hollywood creatives training AI to do their jobs](https://news.ycombinator.com/item?id=49399941)**
+
+Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
+
+⬆️ 44 • 💬 54 • 2h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+
+---
+
 **[Introducing AI Futures](https://news.ycombinator.com/item?id=49379261)**
 
 Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
 
 ⬆️ 32 • 💬 8 • 1d ago • [OpenAI](https://openai.com/index/introducing-ai-futures/)
-
----
-
-**[Digging the grave of my skills: Hollywood creatives training AI to do their jobs](https://news.ycombinator.com/item?id=49399941)**
-
-Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
-
-⬆️ 28 • 💬 29 • 2h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -315,7 +317,7 @@ We've found a free AI tool that lets anyone create amazing video content! This n
 
 📺 Africa Amaze
 
-👁️ 3K • 👍 150 • 💬 15 • ⏱️ 9:41 • 19h ago
+👁️ 3K • 👍 150 • 💬 15 • ⏱️ 9:41 • 20h ago
 
 ---
 
@@ -663,7 +665,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.9k • 🔱 1.9k • 20h ago
+⭐ 16.9k • 🔱 1.9k • 21h ago
 
 ---
 
@@ -673,7 +675,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 15h ago
+⭐ 14.1k • 🔱 1.7k • 16h ago
 
 ---
 
@@ -723,7 +725,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 254 • 49m ago
+⭐ 2.3k • 🔱 254 • 1h ago
 
 ---
 
@@ -743,7 +745,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 19h ago
+⭐ 2.0k • 🔱 183 • 20h ago
 
 ---
 

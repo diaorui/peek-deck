@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T16:23:47.872363+00:00'
+updated: '2026-08-22T16:50:28.791018+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 16:23 UTC  
+**Last Updated:** August 22, 2026 at 16:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-19h ago
+20h ago
 
 ---
 
@@ -84,7 +84,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -130,15 +130,17 @@ BBC • 6h ago
 
 ---
 
-**[Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)**
+**[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 2d ago
+Reuters • 11h ago
 
 ---
 
-**[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
+**[Usain Bolt’s 100m record broken at World Humanoid Robot Games](https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games)**
 
-Reuters • 10h ago
+Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.
+
+Al Jazeera • 5h ago
 
 ---
 
@@ -146,7 +148,13 @@ Reuters • 10h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 15h ago
+Financial Times • 16h ago
+
+---
+
+**[Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -164,19 +172,11 @@ WSJ • 1d ago
 
 ---
 
-**[Chinese Bodies, American Brains: South Korea's Humanoid Hurdles](https://www.chosun.com/english/industry-en/2026/08/22/GDQMDT3TDFHZVMDN7Z3Z5FJ6TY/)**
-
-Chinese Bodies, American Brains: South Koreas Humanoid Hurdles Domestic humanoids lag, reliant on Chinese hardware and U.S. AI, urging secure sector focus amid global competition
-
-조선일보 • 8h ago
-
----
-
 **[Three robotic arms 3D print nuclear vessel for America’s expanding reactor fleet](https://interestingengineering.com/ai-robotics/robotic-arms-3d-print-nuclear-vessel)**
 
 Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ GALBOT humanoid robots are preparing for an autonomous tennis match that could m
 
 📺 DPCcars
 
-👁️ 4K • 👍 50 • 💬 11 • ⏱️ 1:19 • 22h ago
+👁️ 4K • 👍 50 • 💬 11 • ⏱️ 1:19 • 23h ago
 
 ---
 

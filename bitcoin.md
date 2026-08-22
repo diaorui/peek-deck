@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T16:23:47.863059+00:00'
+updated: '2026-08-22T16:50:28.785534+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 16:23 UTC  
+**Last Updated:** August 22, 2026 at 16:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,079.38
+### $77,467.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +22.6%  
-**30d:** +20.1%  
-**90d:** -0.3%  
-**1y:** -33.3%  
+**24h:** +0.0%  
+**7d:** +23.1%  
+**30d:** +20.7%  
+**90d:** +0.1%  
+**1y:** -33.0%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 7h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 8h ago
 
 ---
 
@@ -151,19 +151,19 @@ Geoff Kendrick, head of digital assets research at Standard Chartered, predicts 
 
 ## Google News: "bitcoin"
 
-**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
-
-Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
-
-CNBC • 21h ago
-
----
-
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
 Yahoo Finance • 23h ago
+
+---
+
+**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
+
+Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
+
+CNBC • 21h ago
 
 ---
 
@@ -173,19 +173,19 @@ Bloomberg.com • 23h ago
 
 ---
 
-**[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
+**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
 
-Bitcoin is back on the hot list.
+Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
 
-Yahoo Finance • 1d ago
+CNBC • 23h ago
 
 ---
 
-**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://www.wral.com/news/ap/be7df-how-bitcoin-and-gold-went-from-a-slump-to-an-mvp-week-in-just-a-few-days/)**
+**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-WRAL • 2h ago
+AP News • 2h ago
 
 ---
 
@@ -197,11 +197,11 @@ Moomoo • 2h ago
 
 ---
 
-**[JUST IN: 🇺🇸 US spot Bitcoin ETFs pulled in $1.92 billion this week, marking the strongest week since October 2025 🚀](https://www.moomoo.com/community/feed/just-in-us-spot-bitcoin-etfs-pulled-in-1-92-117139807010821)**
+**[Bitcoin Nears a Risk Zone as RSI Hits Extreme Levels: Back to $70,000?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-nears-risk-zone-rsi-145218322.html)**
 
-@Bitcoin Magazine 3133 Views|1 Like
+Bitcoin price nears a risk zone as its 4-hour RSI hits a seven-year high. Here's what analysts are saying now.
 
-Moomoo • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 446 • 💬 144 • ⏱️ 14:55 • 22h ago
+👁️ 14K • 👍 446 • 💬 144 • ⏱️ 14:55 • 23h ago
 
 ---
 

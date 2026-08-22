@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T16:23:47.869187+00:00'
+updated: '2026-08-22T16:50:28.789222+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 16:23 UTC  
+**Last Updated:** August 22, 2026 at 16:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,409.49
+### $2,419.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +28.5%  
-**30d:** +29.5%  
-**90d:** +14.1%  
-**1y:** -49.6%  
+**24h:** +0.1%  
+**7d:** +29.3%  
+**30d:** +30.3%  
+**90d:** +14.8%  
+**1y:** -49.2%  
 
 ---
 
@@ -112,7 +112,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 1d ago
 
 ---
 
@@ -152,9 +152,27 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
 
-Barron's • 2d ago
+Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://finance.yahoo.com/markets/crypto/articles/ethereum-etf-pulls-221m-eth-104122286.html)**
+
+Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours](https://www.tradingview.com/news/coinpedia:f8fcecf7a094b:0-bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/)**
+
+The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from $2.68 trillion to $2.55 trillion as selling pressure increased. More than $1.71 billion in crypto positions were liquidated, hitting Bitcoin, Eth…
+
+TradingView • 6h ago
 
 ---
 
@@ -186,7 +204,15 @@ FXStreet • 17h ago
 
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-blockchain.news • 5h ago
+blockchain.news • 6h ago
+
+---
+
+**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum, Bitcoin: disclosures](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
+
+She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
+
+New York Post • 59m ago
 
 ---
 
@@ -202,29 +228,7 @@ The Block • 3d ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 2h ago
-
----
-
-**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
-
-CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
-
-Benzinga • 2d ago
-
----
-
-**[Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-staking-bets-grow-as-ishares-ethb-etf-pulls-in-36m-wave-of-inflows)**
-
-Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
-
-TipRanks • 5h ago
-
----
-
-**[Trader loses $24 million in a brutal 12-second span](https://www.thestreet.com/crypto/markets/millionaire-short-seller-loses-24-million-in-12-seconds)**
-
-thestreet.com • 1d ago
+FinanceFeeds • 3h ago
 
 ---
 
@@ -238,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 504 • 👍 26 • 💬 1 • ⏱️ 4:45 • 4h ago
+👁️ 504 • 👍 26 • 💬 1 • ⏱️ 4:45 • 5h ago
 
 ---
 
@@ -278,7 +282,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 220 • 💬 8 • ⏱️ 7:31 • 23h ago
+👁️ 5K • 👍 220 • 💬 8 • ⏱️ 7:31 • 1d ago
 
 ---
 
