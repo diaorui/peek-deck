@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T09:35:17.176924+00:00'
+updated: '2026-08-22T10:22:40.327809+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 09:35 UTC  
+**Last Updated:** August 22, 2026 at 10:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-10h ago
+11h ago
 
 ---
 
@@ -101,19 +101,19 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-14h ago
+15h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-5h ago
+6h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -121,13 +121,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 u/Boring_Ad7277
 
-5h ago
+6h ago
 
 ---
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ u/Boring_Ad7277
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 21h ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -169,13 +169,13 @@ CNBC • 14h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -183,13 +183,13 @@ Bloomberg.com • 16h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 7h ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -231,7 +231,7 @@ Investor's Business Daily • 12h ago
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 19 • 💬 0 • 4d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 19 • 💬 0 • 5d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -283,7 +283,7 @@ YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards 
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 379 • ⏱️ 13:09 • 15h ago
+👁️ 6K • 👍 379 • ⏱️ 13:09 • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ Today, Ripple CEO Brad Garlinghouse unveiled the details of a landmark collabora
 
 📺 Tim Clowers / Cook it with Tim
 
-👁️ 13K • 👍 6K • 9h ago
+👁️ 13K • 👍 6K • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 3K • 👍 67 • 💬 8 • ⏱️ 1:14 • 7h ago
+👁️ 3K • 👍 67 • 💬 8 • ⏱️ 1:14 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 1:15 • 6h ago
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 1:15 • 7h ago
 
 ---
 
@@ -361,7 +361,7 @@ Crypto is in the beginning phase of a cycle pivot from bear to bull. And today T
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 282 • 💬 3 • ⏱️ 2:18 • 8h ago
+👁️ 3K • 👍 282 • 💬 3 • ⏱️ 2:18 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMine
 
 📺 The Hobbyist Miner
 
-👁️ 3K • 👍 167 • 💬 40 • ⏱️ 18:12 • 21h ago
+👁️ 3K • 👍 167 • 💬 40 • ⏱️ 18:12 • 22h ago
 
 ---
 

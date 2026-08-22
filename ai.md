@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T09:35:17.167845+00:00'
+updated: '2026-08-22T10:22:40.319329+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 09:35 UTC  
+**Last Updated:** August 22, 2026 at 10:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-11h ago
+12h ago
 
 ---
 
@@ -55,7 +55,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ In structured data extraction, adding an LLM-as-a-judge self-correction loop is 
 
 Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
 
-22h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 3h ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 11h ago
 
 At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organizationâ€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback.
 
-infoq.com • 34m ago
+infoq.com • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ infoq.com • 34m ago
 
 Brian Distelburger set up an AI agent to land a reservation at New York's 4 Charles. He was quickly banned from Resy after his account got flagged.
 
-Business Insider • 33m ago
+Business Insider • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ Business Insider • 33m ago
 
 Stripe president Will Gaybrick isn't sure what full agentic commerce looks like, but even the least ambitious future doesn't have checkout pages.
 
-Business Insider • 33m ago
+Business Insider • 1h ago
 
 ---
 
 **[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 22h ago
 
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-Courthouse News • 13h ago
+Courthouse News • 14h ago
 
 ---
 
@@ -175,7 +175,7 @@ Courthouse News • 13h ago
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ NPR • 11h ago
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 20h ago
+NVIDIA Developer • 21h ago
 
 ---
 
@@ -191,7 +191,7 @@ NVIDIA Developer • 20h ago
 
 One woman is speaking out after she was secretly filmed, saying that technology like Meta's AI-powered smart glasses threatens personal privacy.
 
-CBS News • 15h ago
+CBS News • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 703 • 💬 2 • 23h ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 703 • 💬 2 • 1d ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -233,7 +233,7 @@ My personal portfolio site and blog.
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 362 • 💬 360 • 21h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 362 • 💬 360 • 22h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -241,7 +241,7 @@ Recently I've been catching myself having these little moments at work, when I'm
 
 Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
 
-⬆️ 301 • 💬 101 • 2d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 301 • 💬 101 • 3d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
 
 ---
 
@@ -383,7 +383,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 650K • 👍 52K • 💬 533 • ⏱️ 0:35 • 19h ago
+👁️ 650K • 👍 52K • 💬 533 • ⏱️ 0:35 • 20h ago
 
 ---
 
@@ -670,7 +670,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 8h ago
+⭐ 14.1k • 🔱 1.7k • 9h ago
 
 ---
 
@@ -690,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 19h ago
+⭐ 3.5k • 🔱 579 • 20h ago
 
 ---
 
@@ -710,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 23h ago
+⭐ 2.9k • 🔱 347 • 1d ago
 
 ---
 
@@ -730,7 +730,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 243 • 4h ago
+⭐ 2.2k • 🔱 243 • 5h ago
 
 ---
 
@@ -740,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 12h ago
+⭐ 2.0k • 🔱 183 • 13h ago
 
 ---
 
@@ -750,7 +750,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 233 • 5h ago
+⭐ 1.9k • 🔱 233 • 6h ago
 
 ---
 

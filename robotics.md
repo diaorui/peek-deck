@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T09:35:17.186772+00:00'
+updated: '2026-08-22T10:22:40.337119+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 09:35 UTC  
+**Last Updated:** August 22, 2026 at 10:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 23h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 1d ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-23h ago
+1d ago
 
 ---
 
@@ -66,19 +66,19 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 13h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 14h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -134,7 +134,7 @@ Reuters • 4h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -156,7 +156,7 @@ Financial Times • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ WSJ • 17h ago
 
 Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ Interesting Engineering • 10h ago
 
 Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -214,7 +214,7 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 5K • 👍 18 • 💬 1 • ⏱️ 0:28 • 15h ago
+👁️ 5K • 👍 18 • 💬 1 • ⏱️ 0:28 • 16h ago
 
 ---
 
@@ -244,7 +244,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 5K • 👍 384 • 💬 19 • ⏱️ 0:24 • 8h ago
+👁️ 5K • 👍 384 • 💬 19 • ⏱️ 0:24 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 311K • 👍 23K • 💬 193 • ⏱️ 1:40 • 18h ago
+👁️ 311K • 👍 23K • 💬 193 • ⏱️ 1:40 • 19h ago
 
 ---
 
@@ -284,7 +284,7 @@ This robot is faster than Usain Bolt #robotics #robot #sport #finance #technews.
 
 📺 RealJonahBlake
 
-👁️ 2K • 👍 20 • 💬 3 • ⏱️ 0:19 • 8h ago
+👁️ 2K • 👍 20 • 💬 3 • ⏱️ 0:19 • 9h ago
 
 ---
 
