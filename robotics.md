@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T19:46:18.669044+00:00'
+updated: '2026-08-22T20:22:20.096627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 19:46 UTC  
+**Last Updated:** August 22, 2026 at 20:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,13 +56,13 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +70,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 I’m a software engineer with 8 years of experience, mostly JavaScript. I’ve also done a fair bit of hardware on the side, drones a few years back and more recently designing my own PCBs with KiCad and ESP32. Now I want to get into robotics properly. Not buying a kit and following the instructions, I want to design and build my own thing from scratch, on a small budget. Two things I’m stuck on: 1.How much math do I really need? Math is my weak spot. I keep seeing linear algebra, calculus, control theory, kinematics mentioned and I can’t tell what’s actually required day to day vs what’s nice to have. Can I learn it as I hit each problem, or do I need to sit down and study first? 2.What’s a sensible first project? Something that teaches real fundamentals but isn’t so big I burn out halfway. Also curious how much of this changes if I want to get into reinforcement learning for control later. I’ve done Andrew Ng’s ML course and a small OpenAI Gym project, that’s about it. Any advice appreciated, especially from people who came from software.
 
-1h ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -126,7 +126,7 @@ Ars Technica • 1d ago
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 15m ago
+Business Insider • 51m ago
 
 ---
 
@@ -134,7 +134,7 @@ Business Insider • 15m ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ The New York Times • 2d ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 8h ago
+Futura, le média qui explore le monde • 9h ago
 
 ---
 

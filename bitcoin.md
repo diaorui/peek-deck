@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T19:46:18.659630+00:00'
+updated: '2026-08-22T20:22:20.087350+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 19:46 UTC  
+**Last Updated:** August 22, 2026 at 20:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 u/Boring_Ad7277
 
-15h ago
+16h ago
 
 ---
 
@@ -133,19 +133,17 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 ---
 
+**[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
+
+1h ago
+
+---
+
 **[Bitcoin and Russia Capital Outflows](https://www.reddit.com/r/Bitcoin/comments/1vvdmvx/bitcoin_and_russia_capital_outflows/)**
 
 I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
 
-5h ago
-
----
-
-**[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
-
-Whenever we need another celebratory meme, I vote for Ben.
-
-21h ago
+6h ago
 
 ---
 
@@ -187,7 +185,7 @@ CNBC • 1d ago
 
 @AltCoin Daily 8443 Views|1 Like
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -203,7 +201,7 @@ Yahoo Finance • 3h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 15h ago
+Fox News • 16h ago
 
 ---
 
@@ -211,13 +209,13 @@ Fox News • 15h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 5h ago
+AP News • 6h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
