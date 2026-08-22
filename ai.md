@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T10:22:40.319329+00:00'
+updated: '2026-08-22T10:49:50.253648+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 10:22 UTC  
+**Last Updated:** August 22, 2026 at 10:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
 
-2h ago
+3h ago
+
+---
+
+**[Possible pathways to RSI](https://www.reddit.com/r/artificial/comments/1vv8iu3/possible_pathways_to_rsi/)**
+
+I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
+
+37m ago
 
 ---
 
@@ -55,7 +63,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +71,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +95,7 @@ More reasoning does not automatically mean more factual reliability. OpenAI’s 
 
 In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
 
-5h ago
+6h ago
 
 ---
 
@@ -107,69 +115,9 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 ---
 
-**[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 20h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology)**
-
-It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
-
-The Guardian • 4h ago
-
----
-
-**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
-
-Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
-
-CNBC • 12h ago
-
----
-
-**[AI Code Review at Scale: LinkedIn's Multi-Agent Approach](https://www.infoq.com/news/2026/08/linkedin-ai-code-review/)**
-
-At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organizationâ€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback.
-
-infoq.com • 1h ago
-
----
-
-**[My AI Agent Got Me Banned From Resy. Another Agent Got Me Reinstated.](https://www.businessinsider.com/ai-agent-banned-resy-account-reinstated-2026-8)**
-
-Brian Distelburger set up an AI agent to land a reservation at New York's 4 Charles. He was quickly banned from Resy after his account got flagged.
-
-Business Insider • 1h ago
-
----
-
-**[Stripe president says checkout pages ‘will go away’ as AI commerce expands](https://www.businessinsider.com/stripe-checkout-pages-future-ai-agentic-commerce-2026-8)**
-
-Stripe president Will Gaybrick isn't sure what full agentic commerce looks like, but even the least ambitious future doesn't have checkout pages.
-
-Business Insider • 1h ago
-
----
-
-**[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
-
-The New York Times • 23h ago
-
----
-
-**[Online streamers sue Twitch, Amazon over generative AI training](https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/)**
-
-The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
-
-Courthouse News • 14h ago
-
----
 
 **[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
 
@@ -179,19 +127,71 @@ NPR • 12h ago
 
 ---
 
+**[Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology)**
+
+It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
+
+The Guardian • 58m ago
+
+---
+
+**[AI companies accused of hoarding and destroying millions of books](https://www.cbsnews.com/news/ftc-ai-companies-destroying-books/)**
+
+Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
+
+CBS News • 15h ago
+
+---
+
+**[AI’s Need for Content Has Put Rare-Book Dealers in a Bind](https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053)**
+
+WSJ • 49m ago
+
+---
+
+**[AI companies are burning books, advocates complain to FTC](https://www.theregister.com/ai-and-ml/2026/08/21/ai-companies-are-burning-books-advocates-complain-to-ftc/5291299)**
+
+Fahrenheit 203, the temperature GPUs stop gorging on literature
+
+The Register • 14h ago
+
+---
+
+**[OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable'](https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8)**
+
+Ronnie Chatterji leads a team of researchers at the company who study how AI is affecting workers, employers, and the economy.
+
+Business Insider • 57m ago
+
+---
+
+**[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
+
+The New York Times • 23h ago
+
+---
+
+**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)**
+
+Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+
+CNBC • 13h ago
+
+---
+
+**[Online streamers sue Twitch, Amazon over generative AI training](https://www.courthousenews.com/online-streamers-sue-twitch-amazon-over-generative-ai-training/)**
+
+The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
+
+Courthouse News • 15h ago
+
+---
+
 **[NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/)**
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
 NVIDIA Developer • 21h ago
-
----
-
-**[Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say"](https://www.cbsnews.com/news/meta-ai-smart-glasses-covert-filming-privacy/)**
-
-One woman is speaking out after she was secretly filmed, saying that technology like Meta's AI-powered smart glasses threatens personal privacy.
-
-CBS News • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 **[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49385994)**
 
-⬆️ 703 • 💬 2 • 1d ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
+⬆️ 704 • 💬 2 • 1d ago • [annas-archive.pk](https://annas-archive.pk/blog/physical-destruction.html)
 
 ---
 
@@ -217,7 +217,15 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 561 • 💬 855 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 567 • 💬 855 • 1d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+
+---
+
+**[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
+
+Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
+
+⬆️ 379 • 💬 375 • 23h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -229,19 +237,11 @@ My personal portfolio site and blog.
 
 ---
 
-**[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
+**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
 
-Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
+Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 362 • 💬 360 • 22h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
-
----
-
-**[Air Theremin – A browser theremin you play by waving at your webcam](https://news.ycombinator.com/item?id=49359425)**
-
-Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch. Note snap, cave reverb, oscilloscope and audio recording. Built with the Web Audio API.
-
-⬆️ 301 • 💬 101 • 3d ago • [theremin.bizibah.com](https://theremin.bizibah.com/)
+⬆️ 208 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -250,14 +250,6 @@ Tilt your phone, or wave both hands at the camera: spread them for volume, raise
 An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.
 
 ⬆️ 207 • 💬 261 • 2d ago • [arXiv.org](https://arxiv.org/abs/2608.16753)
-
----
-
-**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
-
-Trying to obfuscate the web is a bad, pointless idea
-
-⬆️ 207 • 💬 161 • 1d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -279,7 +271,15 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 9 • 18h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 9 • 19h ago • [canews24.online](https://canews24.online/?p=71)
+
+---
+
+**[AI didn't erase the junior engineer's value, it increased it it](https://news.ycombinator.com/item?id=49373269)**
+
+The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
+
+⬆️ 89 • 💬 143 • 1d ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -293,7 +293,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 583K • 👍 9K • 💬 704 • ⏱️ 12:08 • 1d ago
+👁️ 596K • 👍 9K • 💬 734 • ⏱️ 12:08 • 1d ago
 
 ---
 
@@ -303,27 +303,17 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 52K • 👍 2K • 💬 99 • ⏱️ 8:14 • 1d ago
+👁️ 54K • 👍 2K • 💬 101 • ⏱️ 8:14 • 1d ago
 
 ---
 
-**[OpenAI’s New AI Just Crossed the Red Line (Critical Warning)](https://www.youtube.com/watch?v=7TGamjQahWk)**
+**[AI Learns to Play Mario](https://www.youtube.com/watch?v=zy-ZowzY8rI)**
 
-OpenAI says its upcoming Astra model may have crossed a critical cybersecurity threshold, forcing the company to slow frontier ...
+You can download Revolut using this link: https://get.revolut.com/z4lF/codebullet and get $40 after your first purchase.
 
-📺 AI Revolution
+📺 Code Bullet
 
-👁️ 33K • 👍 841 • 💬 157 • ⏱️ 17:06 • 2d ago
-
----
-
-**[The AI coding backlash has begun](https://www.youtube.com/watch?v=sxyYoNNTpU8)**
-
-Oracle just banned AI contributions for Open JDK. Topics: - Oracle bans AI code - Triaging the AI horde - Software projects are ...
-
-📺 Awesome
-
-👁️ 59K • 👍 3K • 💬 355 • ⏱️ 8:03 • 2d ago
+👁️ 470K • 👍 42K • 💬 974 • ⏱️ 13:55 • 23h ago
 
 ---
 
@@ -333,57 +323,61 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4g57yy
 
 📺 Dan Martell
 
-👁️ 106K • 👍 3K • 💬 168 • ⏱️ 27:06 • 2d ago
+👁️ 107K • 👍 3K • 💬 173 • ⏱️ 27:06 • 2d ago
 
 ---
 
-**[AI Slop Products are Here](https://www.youtube.com/watch?v=1iaiR0h40Ug)**
+**[Clever cat 🤣🤣 #funny #cat #comedy #trending #youtubeshorts #shorts #shortvideo #ai #aivideo](https://www.youtube.com/watch?v=ttywPCeCzxM)**
 
-Get matched with a certified career coach today at https://strawberry.me/LEVI and claim 50% off your first coaching session!
+📺 Miliemilievlogs
 
-📺 Levi Hildebrand
-
-👁️ 79K • 👍 4K • 💬 276 • ⏱️ 17:36 • 1d ago
+👁️ 4K • 👍 62 • 💬 3 • ⏱️ 0:20 • 45m ago
 
 ---
 
-**[100% Human Is AI](https://www.youtube.com/watch?v=nMiGq4XpTvk)**
+**[AI Medical Robot Helps Hajj Pilgrim in Makkah 🤖🕋 | Future Medical Service #medicalrobotics #ai](https://www.youtube.com/watch?v=X2fBWuJT8iE)**
 
-Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The final boss of lying on the internet has just ...
+An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
 
-📺 UFD Tech
+📺 ShahGX.11 million views.24 hours ago
 
-👁️ 228K • 👍 14K • 💬 189 • ⏱️ 0:53 • 1d ago
-
----
-
-**[DeepSeek Just Made Closed AI Look Ridiculous](https://www.youtube.com/watch?v=kyYepbhe1g8)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: ...
-
-📺 Two Minute Papers
-
-👁️ 141K • 👍 5K • 💬 338 • ⏱️ 5:29 • 2d ago
+👁️ 2.5M • 👍 57K • 💬 49 • ⏱️ 0:11 • 2d ago
 
 ---
 
-**[AI Superintelligence Is Not a Tool, It&#39;s an Adversary Threatening Humanity: ControlAI&#39;s Connor Leahy](https://www.youtube.com/watch?v=v99DkPP6LVY)**
+**[Sad cat 🤣🤣 #funny #cat #comedy #trending #youtubeshorts #shorts #shortvideo #ai #aivideo](https://www.youtube.com/watch?v=CJLnZaD0Dh8)**
 
-Support our work: https://democracynow.org/donate/sm-desc-yt Sixty-nine-year-old Wynd Kaufmyn, a retired teacher from ...
+📺 Miliemilievlogs
 
-📺 Democracy Now!
-
-👁️ 89K • 👍 3K • 💬 550 • ⏱️ 13:35 • 1d ago
+👁️ 219K • 👍 2K • 💬 8 • ⏱️ 0:17 • 1d ago
 
 ---
 
-**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
+**[Scientists Create World First AI-Designed Virus](https://www.youtube.com/watch?v=c7yC0c1cYhE)**
 
-shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
+Scientists at Stanford have used AI models to design entirely new viruses that specifically infect bacteria. This breakthrough opens ...
 
-📺 Danno Cal Drawings
+📺 Dr Ben Miles
 
-👁️ 650K • 👍 52K • 💬 533 • ⏱️ 0:35 • 20h ago
+👁️ 2.4M • 👍 154K • 💬 5K • ⏱️ 2:31 • 2d ago
+
+---
+
+**[NEW Google AI Studio Update is WILD](https://www.youtube.com/watch?v=DH0vw3KVQpA)**
+
+Get the Agent OS & Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/about Want to make money and ...
+
+📺 Julian Goldie SEO
+
+👁️ 7K • 👍 160 • 💬 2 • ⏱️ 7:37 • 1d ago
+
+---
+
+**[Bad cat 🤣🤣 #funny #cat #comedy #trending #youtubeshorts #shorts #shortvideo #ai #aivideo](https://www.youtube.com/watch?v=NHeC03VS34k)**
+
+📺 Miliemilievlogs
+
+👁️ 233K • 👍 2K • 💬 15 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -399,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,726,651 • ❤️ 12,014 • 7d ago
+⬇️ 2,090,699 • ❤️ 12,035 • 7d ago
 
 ---
 
@@ -411,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 5,804,917 • ❤️ 2,541 • 1d ago
+⬇️ 6,320,542 • ❤️ 2,557 • 1d ago
 
 ---
 
@@ -423,7 +417,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 107,520 • ❤️ 891 • 2d ago
+⬇️ 142,846 • ❤️ 910 • 2d ago
 
 ---
 
@@ -435,7 +429,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 841 • 1d ago
+⬇️ 34,909 • ❤️ 848 • 1d ago
 
 ---
 
@@ -447,19 +441,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,126,222 • ❤️ 584 • 6d ago
-
----
-
-**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
-
-*MiniMax*
-
-MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
-
-`text-to-audio` `2.4B`
-
-⬇️ 15,678 • ❤️ 1,169 • 7d ago
+⬇️ 1,223,422 • ❤️ 591 • 6d ago
 
 ---
 
@@ -469,9 +451,9 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zero refusals while matching or exceeding stock Qwen3.8-27B capabilities, including advanced real-world tasks and tool calling. It utilizes a novel complementary abliteration blending technique to preserve performance and is optimized for greedy decoding with specific repetition penalty and disabled thinking settings.
 
-`text-generation` `27.8B`
+`text-generation` `26.9B`
 
-⬇️ 123,956 • ❤️ 469 • 1h ago
+⬇️ 164,950 • ❤️ 481 • 1h ago
 
 ---
 
@@ -483,7 +465,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 654,175 • ❤️ 1,512 • 4d ago
+⬇️ 694,670 • ❤️ 1,524 • 4d ago
 
 ---
 
@@ -495,7 +477,19 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 357,225 • ❤️ 443 • 4d ago
+⬇️ 486,221 • ❤️ 451 • 4d ago
+
+---
+
+**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
+
+*MiniMax*
+
+MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
+
+`text-to-audio` `2.4B`
+
+⬇️ 16,644 • ❤️ 1,169 • 7d ago
 
 ---
 
@@ -507,7 +501,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 3,614,443 • ❤️ 4,309 • 9d ago
+⬇️ 3,899,160 • ❤️ 4,313 • 9d ago
 
 ---
 
@@ -537,7 +531,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 60 • 💬 7 • ⭐ 221 • 2d ago
+▲ 61 • 💬 7 • ⭐ 221 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -591,7 +585,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 40 • 💬 5 • ⭐ 7,233 • 10mo ago
+▲ 40 • 💬 5 • ⭐ 7,330 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -606,20 +600,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 123 • 💬 4 • ⭐ 99,173 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[HarnessEval-W: Agentifying the Evaluation of Visual Worlds](https://huggingface.co/papers/2608.16859)**
-
-*Weiliang Chen, Haowen Sun, Jun Gao et al. (43 authors)*
-
-🏢 MirroS
-
-HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations into verifiable reasoning chains that justify scores with transparent evidence.
-
-▲ 123 • 💬 2 • ⭐ 241 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16859) • [💻 code](https://github.com/MirroS-Lab/HarnessEval-W) • [🔗 project](https://mirros-lab.github.io/HarnessEval-W)
 
 ---
 
@@ -650,6 +630,20 @@ Unified vision-language models treat understanding and generation as integrated 
 
 ---
 
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 75 • 💬 2 • ⭐ 269 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -660,7 +654,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.8k • 🔱 1.9k • 14h ago
+⭐ 16.8k • 🔱 1.9k • 15h ago
 
 ---
 
@@ -670,7 +664,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 9h ago
+⭐ 14.1k • 🔱 1.7k • 10h ago
 
 ---
 
@@ -680,7 +674,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 19h ago
+⭐ 8.8k • 🔱 1.1k • 20h ago
 
 ---
 
@@ -690,7 +684,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 20h ago
+⭐ 3.5k • 🔱 580 • 21h ago
 
 ---
 
@@ -714,23 +708,23 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 ---
 
-**[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)**
-
-A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
-
-`JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
-
-⭐ 2.2k • 🔱 185 • 1d ago
-
----
-
 **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)**
 
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 243 • 5h ago
+⭐ 2.2k • 🔱 247 • 5h ago
+
+---
+
+**[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)**
+
+A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
+
+`JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
+
+⭐ 2.2k • 🔱 186 • 1d ago
 
 ---
 
@@ -740,7 +734,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 13h ago
+⭐ 2.0k • 🔱 183 • 14h ago
 
 ---
 
@@ -750,7 +744,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 233 • 6h ago
+⭐ 1.9k • 🔱 234 • 6h ago
 
 ---
 

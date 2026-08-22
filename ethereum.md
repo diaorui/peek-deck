@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T10:22:40.333937+00:00'
+updated: '2026-08-22T10:49:50.263522+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 10:22 UTC  
+**Last Updated:** August 22, 2026 at 10:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +29.2%  
-**30d:** +30.2%  
-**90d:** +14.7%  
-**1y:** -49.3%  
+**24h:** +1.7%  
+**7d:** +28.5%  
+**30d:** +29.5%  
+**90d:** +14.1%  
+**1y:** -49.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.20B
+**Market Cap:** $291.34B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.9%
+-51.2%
 
 **All-Time Low:** $0.43
-+560848.7%
++557462.8%
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 17h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 18h ago
 
 ---
 
@@ -152,9 +152,11 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
 
-Barron's • 1d ago
+Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -162,7 +164,7 @@ Barron's • 1d ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -171,14 +173,6 @@ Yahoo Finance • 23h ago
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
 TradingView • 16h ago
-
----
-
-**[Ethereum ETFs Draw $189 Million in Biggest Single-Day Haul in 10 Months](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-draw-189-million-104834566.html)**
-
-Ethereum ETFs pulled $189M on August 19, their biggest day since October, with BlackRock's fund taking 65%.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -210,7 +204,15 @@ CryptoSlate • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 21h ago
+Fortune • 22h ago
+
+---
+
+**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
+
+Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
+
+FXStreet • 11h ago
 
 ---
 
@@ -218,7 +220,7 @@ Fortune • 21h ago
 
 Flowra launches its Open Orderflow Auction, opening Solana block building to competitive bidding and giving validators programmable inclusion policies.
 
-HackerNoon • 6h ago
+HackerNoon • 44m ago
 
 ---
 
@@ -234,13 +236,13 @@ Ethereum Foundation Blog • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
+**[🚨 BTC &amp; ETH: TRAP!!!!! BEWARE!!!!!!!!](https://www.youtube.com/watch?v=26eKiwsN4fY)**
 
-BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is quite far away. Here is my take on all of this!
 
-📺 Crypto World
+📺 Thomas Kralow
 
-👁️ 12K • 👍 455 • 💬 8 • ⏱️ 20:52 • 17h ago
+👁️ 14K • 👍 2K • 💬 40 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -250,7 +252,17 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 5 • ⏱️ 7:31 • 17h ago
+👁️ 4K • 👍 209 • 💬 7 • ⏱️ 7:31 • 18h ago
+
+---
+
+**[BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HcH0SgD6y5k)**
+
+BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 469 • 💬 11 • ⏱️ 20:52 • 17h ago
 
 ---
 
@@ -260,17 +272,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 16K • 👍 389 • 💬 79 • ⏱️ 41:59 • 1d ago
-
----
-
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
-
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
-
-📺 Crypto Archie
-
-👁️ 1K • 👍 69 • ⏱️ 1:25 • 20h ago
+👁️ 16K • 👍 392 • 💬 78 • ⏱️ 41:59 • 1d ago
 
 ---
 
@@ -280,7 +282,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Altcoin Daily
 
-👁️ 84K • 👍 3K • 💬 161 • ⏱️ 10:41 • 2d ago
+👁️ 85K • 👍 3K • 💬 163 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -290,7 +292,17 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 695 • 💬 70 • ⏱️ 11:56 • 1d ago
+👁️ 14K • 👍 695 • 💬 68 • ⏱️ 11:56 • 1d ago
+
+---
+
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
+
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
+
+📺 Crypto Archie
+
+👁️ 1K • 👍 70 • ⏱️ 1:25 • 20h ago
 
 ---
 
@@ -300,27 +312,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 297 • 💬 20 • ⏱️ 7:45 • 1d ago
-
----
-
-**[BTC WATCH + GOLD &amp; ETH 📈](https://www.youtube.com/watch?v=UZ3DlH7E9D4)**
-
-Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com. ✓ STOCKS UP U ...
-
-📺 Stocks with Josh
-
-👁️ 34K • 👍 3K • 💬 77 • ⏱️ 1:15:54 • 1d ago
-
----
-
-**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 160 • 💬 30 • ⏱️ 11:13 • 1d ago
+👁️ 9K • 👍 296 • 💬 21 • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -330,7 +322,17 @@ In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in le
 
 📺 Coin Bureau Podcast
 
-👁️ 1K • 👍 32 • 💬 1 • ⏱️ 0:43 • 17h ago
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 17h ago
+
+---
+
+**[BTC WATCH + GOLD &amp; ETH 📈](https://www.youtube.com/watch?v=UZ3DlH7E9D4)**
+
+Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com. ✓ STOCKS UP U ...
+
+📺 Stocks with Josh
+
+👁️ 34K • 👍 3K • 💬 78 • ⏱️ 1:15:54 • 1d ago
 
 ---
 

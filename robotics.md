@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T10:22:40.337119+00:00'
+updated: '2026-08-22T10:49:50.265703+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 10:22 UTC  
+**Last Updated:** August 22, 2026 at 10:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -108,14 +108,6 @@ We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swep
 
 ## Google News: "robotics"
 
-**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
-
-Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
-
-Business Insider • 1d ago
-
----
-
 **[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
 
 FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
@@ -124,9 +116,25 @@ Ars Technica • 1d ago
 
 ---
 
+**[Chinese humanoids steal the spotlight at San Francisco's robot party](https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8)**
+
+Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
+
+Business Insider • 1d ago
+
+---
+
+**[Robotic horse and rider steal the spotlight at World Robot Conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
+
+More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
+
+BBC • 48m ago
+
+---
+
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -134,7 +142,7 @@ Reuters • 4h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -142,7 +150,7 @@ Financial Times • 9h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 21h ago
+Al Jazeera • 22h ago
 
 ---
 
@@ -160,11 +168,11 @@ WSJ • 18h ago
 
 ---
 
-**[Three robotic arms 3D print nuclear vessel for America’s expanding reactor fleet](https://interestingengineering.com/ai-robotics/robotic-arms-3d-print-nuclear-vessel)**
+**[Amazon is bringing a multibillion-dollar robotics plant to Texas](https://ca.finance.yahoo.com/news/amazon-bringing-multibillion-dollar-robotics-170427895.html)**
 
-Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
+The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
 
-Interesting Engineering • 11h ago
+Yahoo! Finance Canada • 1d ago
 
 ---
 
@@ -176,25 +184,17 @@ IEEE Spectrum • 18h ago
 
 ---
 
-**[Amazon is bringing a multibillion-dollar robotics plant to Texas](https://ca.finance.yahoo.com/news/amazon-bringing-multibillion-dollar-robotics-170427895.html)**
-
-The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
-
-Yahoo! Finance Canada • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
 
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
 
-📺 CNET
+📺 NBC News
 
-👁️ 12K • 👍 379 • 💬 63 • ⏱️ 5:16 • 5d ago
+👁️ 33K • 👍 292 • 💬 55 • ⏱️ 4:05 • 1d ago
 
 ---
 
@@ -204,7 +204,27 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 38K • 👍 878 • 💬 103 • ⏱️ 14:10 • 3d ago
+👁️ 39K • 👍 880 • 💬 103 • ⏱️ 14:10 • 3d ago
+
+---
+
+**[This Robot Turns Walls Into Roads 🤖 #robotics #technology #innovation #tech](https://www.youtube.com/watch?v=N2lAMtEY0HM)**
+
+Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground robots have one major limitation: when the floor ...
+
+📺 EcoZora
+
+👁️ 4K • 👍 61 • 💬 3 • ⏱️ 0:07 • 1h ago
+
+---
+
+**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
+
+Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
+
+📺 Unitree Robotics
+
+👁️ 3.1M • 👍 2K • 💬 441 • ⏱️ 0:31 • 5d ago
 
 ---
 
@@ -214,7 +234,17 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 5K • 👍 18 • 💬 1 • ⏱️ 0:28 • 16h ago
+👁️ 5K • 👍 19 • 💬 1 • ⏱️ 0:28 • 16h ago
+
+---
+
+**[ROBOTS MEAN RUN](https://www.youtube.com/watch?v=BwwyKDY4Uu4)**
+
+ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping, playing sports, performing parkour, and ...
+
+📺 Dark Waters
+
+👁️ 6K • 👍 434 • 💬 22 • ⏱️ 0:24 • 9h ago
 
 ---
 
@@ -228,6 +258,26 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 ---
 
+**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
+
+Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
+
+📺 Dr Ben Miles
+
+👁️ 356K • 👍 26K • 💬 243 • ⏱️ 1:40 • 19h ago
+
+---
+
+**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.youtube.com/watch?v=Gu7-RxZy_Rs)**
+
+China has been showcasing its growing robotics industry with robots designed to move and work like humans. This humanoid ...
+
+📺 Al Jazeera English
+
+👁️ 98K • 👍 2K • 💬 103 • ⏱️ 0:33 • 22h ago
+
+---
+
 **[Unitree Robotics Surges in Shanghai Debut](https://www.youtube.com/watch?v=3kN2r63VpoE)**
 
 Unitree Robotics shares surged in their Shanghai trading debut after the company raised 6.1 billion yuan in an initial public ...
@@ -235,56 +285,6 @@ Unitree Robotics shares surged in their Shanghai trading debut after the company
 📺 Bloomberg Tech
 
 👁️ 6K • 👍 82 • 💬 13 • ⏱️ 2:25 • 2d ago
-
----
-
-**[ROBOTS MEAN RUN](https://www.youtube.com/watch?v=BwwyKDY4Uu4)**
-
-ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping, playing sports, performing parkour, and ...
-
-📺 Dark Waters
-
-👁️ 5K • 👍 384 • 💬 19 • ⏱️ 0:24 • 9h ago
-
----
-
-**[China&#39;s Unitree Robotics surges 630pc in Shanghai debut, oil price up | Finance Report | ABC NEWS](https://www.youtube.com/watch?v=osL0eyGApe4)**
-
-Shares in Chinese company Unitree Robotics jumped more than 600 per cent when it floated today. The price of oil crept higher ...
-
-📺 ABC News (Australia)
-
-👁️ 35K • 👍 355 • ⏱️ 2:24 • 3d ago
-
----
-
-**[Scientists Create Robot That Floats on Air](https://www.youtube.com/watch?v=9ptJNiinEVw)**
-
-Researchers at the Max Planck Institute for Intelligent Systems in Germany have developed a robot capable of hovering in mid-air ...
-
-📺 Dr Ben Miles
-
-👁️ 311K • 👍 23K • 💬 193 • ⏱️ 1:40 • 19h ago
-
----
-
-**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
-
-China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
-
-📺 Techie Sapien
-
-👁️ 613K • 👍 3K • 💬 57 • ⏱️ 0:09 • 1d ago
-
----
-
-**[Robot Faster Than a Human Being](https://www.youtube.com/watch?v=vDp4lnBh1sQ)**
-
-This robot is faster than Usain Bolt #robotics #robot #sport #finance #technews.
-
-📺 RealJonahBlake
-
-👁️ 2K • 👍 20 • 💬 3 • ⏱️ 0:19 • 9h ago
 
 ---
 

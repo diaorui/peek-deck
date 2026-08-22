@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T10:22:40.327809+00:00'
+updated: '2026-08-22T10:49:50.259392+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 10:22 UTC  
+**Last Updated:** August 22, 2026 at 10:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,158.20
+### $76,556.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +22.8%  
-**30d:** +20.3%  
-**90d:** -0.2%  
-**1y:** -33.2%  
+**24h:** +0.5%  
+**7d:** +22.5%  
+**30d:** +20.1%  
+**90d:** -0.4%  
+**1y:** -33.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1550.02B
+**Market Cap:** $1546.93B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.9%
 
 **All-Time Low:** $67.81
-+113768.2%
++113557.3%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-11h ago
+12h ago
 
 ---
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-2h ago
+3h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -135,7 +135,7 @@ u/Boring_Ad7277
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -207,11 +207,9 @@ CNBC • 2d ago
 
 ---
 
-**[Trump Says US is the 'Hottest Country' and CLARITY Act Will Keep it Ahead Of China — Bitcoin Purchase 'Been Talked About'](https://finance.yahoo.com/markets/crypto/articles/trump-says-us-hottest-country-023156530.html)**
+**[Bitcoin, Crypto Stocks Pop after Trump Event. Clarity Act Is Still in Doubt.](https://www.barrons.com/articles/bitcoin-coinbase-strategy-trump-clarity-act-d576802f)**
 
-President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks Congress to Move Quickly on CLARITY Act Trump hosted White House cryptocurrency summit alongside CFTC Chairman Michael Selig and...
-
-Yahoo Finance • 7h ago
+Barron's • 1d ago
 
 ---
 
@@ -219,7 +217,7 @@ Yahoo Finance • 7h ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -277,13 +275,63 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Bull Market Starts LIKE THIS!](https://www.youtube.com/watch?v=VLCwZKT_9DY)**
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
 
-YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
 
-📺 Crypto Jebb
+📺 Nicholas Crown
 
-👁️ 6K • 👍 379 • ⏱️ 13:09 • 16h ago
+👁️ 2K • 👍 120 • 💬 7 • ⏱️ 1:15 • 7h ago
+
+---
+
+**[Missed the Bitcoin Rally? Here&#39;s Exactly Where I&#39;d Buy the Dip [Kalshi Live Trading]](https://www.youtube.com/watch?v=tPNlAunoFGY)**
+
+Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks ago. If you missed the move, today's stream is ...
+
+📺 Krown
+
+👁️ 8K • 👍 428 • 💬 1 • ⏱️ 2:07:34 • 15h ago
+
+---
+
+**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+
+Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+
+📺 Yahoo Finance
+
+👁️ 13K • 👍 413 • 💬 101 • ⏱️ 14:55 • 17h ago
+
+---
+
+**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 25K • 👍 468 • 💬 7 • ⏱️ 0:58 • 17h ago
+
+---
+
+**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
+
+Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
+
+📺 Cointelegraph
+
+👁️ 10K • 👍 182 • 💬 28 • ⏱️ 31:41 • 21h ago
+
+---
+
+**[NFA Live! Bitcoin Rallies Above $70k](https://www.youtube.com/watch?v=6lnGZmAf61A)**
+
+Let's talk about Bitcoin, the Fed, and more! 0:00 - NFA Live (8/20/26) 0:15 - Today's Program 0:51 - What's Up w/ BTC?
+
+📺 Benjamin Cowen
+
+👁️ 52K • 👍 2K • 💬 168 • ⏱️ 30:19 • 1d ago
 
 ---
 
@@ -293,7 +341,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 52 • ⏱️ 17:33 • 1d ago
+👁️ 37K • 👍 2K • 💬 51 • ⏱️ 17:33 • 1d ago
 
 ---
 
@@ -303,17 +351,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 4K • 💬 149 • ⏱️ 11:06 • 1d ago
-
----
-
-**[🚨 BlackRock &amp; Ripple News Today | Brad Garlinghouse | XRP Price Prediction](https://www.youtube.com/watch?v=GRPKaPLZSQk)**
-
-Today, Ripple CEO Brad Garlinghouse unveiled the details of a landmark collaboration with BlackRock, signaling a major step ...
-
-📺 Tim Clowers / Cook it with Tim
-
-👁️ 13K • 👍 6K • 10h ago
+👁️ 48K • 👍 4K • 💬 150 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -323,55 +361,17 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 3K • 👍 67 • 💬 8 • ⏱️ 1:14 • 8h ago
+👁️ 3K • 👍 70 • 💬 8 • ⏱️ 1:14 • 8h ago
 
 ---
 
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+**[This is Just The Start of Bitcoin&#39;s Breakout! | Arthur Hayes](https://www.youtube.com/watch?v=pXXTcaNsnAw)**
 
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+Bitcoin has finally broken out after months of sideways action but Arthur Hayes believes this could be just the start. Ran sits down ...
 
-📺 Altcoin Daily
+📺 Crypto Insider
 
-👁️ 84K • 👍 3K • 💬 161 • ⏱️ 10:41 • 2d ago
-
----
-
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
-
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
-
-📺 Nicholas Crown
-
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 1:15 • 7h ago
-
----
-
-**[Trump Just Dropped CRYPTO BOMBSHELL! Bitcoin Broke Out As The 5 Year Altcoin Bear Market Is Ending](https://www.youtube.com/watch?v=4XbxNJq1bDM)**
-
-Crypto is in the beginning phase of a cycle pivot from bear to bull. And today Trump said the U.S. discussed accumulating sizable ...
-
-📺 Crypto Capital Venture
-
-👁️ 25K • 👍 1K • 💬 626 • ⏱️ 22:30 • 2d ago
-
----
-
-**[GET READY BITCOIN AND ALTCOINS ARE GOING CRAZY! # #crypto #bitcoin #crypto](https://www.youtube.com/watch?v=9yBGNtAN6nE)**
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 282 • 💬 3 • ⏱️ 2:18 • 9h ago
-
----
-
-**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
-
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
-
-📺 The Hobbyist Miner
-
-👁️ 3K • 👍 167 • 💬 40 • ⏱️ 18:12 • 22h ago
+👁️ 23K • 👍 1K • 💬 56 • ⏱️ 36:23 • 2d ago
 
 ---
 
