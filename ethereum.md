@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T20:22:20.093446+00:00'
+updated: '2026-08-22T20:49:20.344159+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 20:22 UTC  
+**Last Updated:** August 22, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +29.6%  
-**30d:** +30.6%  
-**90d:** +15.1%  
-**1y:** -49.1%  
+**24h:** -3.1%  
+**7d:** +29.9%  
+**30d:** +30.9%  
+**90d:** +15.3%  
+**1y:** -49.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.51B
+**Market Cap:** $294.07B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-50.7%
 
 **All-Time Low:** $0.43
-+561599.3%
++562701.0%
 
 ---
 
@@ -152,9 +152,11 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
 
-Barron's • 2d ago
+Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -166,19 +168,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[TRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?](https://www.tradingview.com/news/stocktwits:acf003d02094b:0-trump-zec-and-pol-leave-bitcoin-and-ethereum-in-the-dust-is-an-altseason-on-the-way/)**
+
+Official Trump (TRUMP) was the clear outperformer, peaking at nearly 100% before giving back much of those gains and settling in around 55% higher on Saturday. But it was not the only one rallying! Along with the TRUMP token, Zcash (ZEC) gained around 30%, briefly reaching around 35%, whereas Pol…
+
+TradingView • 9h ago
+
+---
+
 **[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
 CryptoSlate • 1d ago
-
----
-
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
-
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -190,27 +192,11 @@ MarketForces Africa • 2d ago
 
 ---
 
-**[Ethereum Jumps 18% As Spot Volume Surges Across Exchanges](https://www.tradingview.com/news/newsbtc:43148d43d094b:0-ethereum-jumps-18-as-spot-volume-surges-across-exchanges/)**
+**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
 
-Ethereum surged 18% intraday as spot trading volume jumped sharply across major global exchanges, putting ETH back at the center of the market’s risk-on move.Market data showed ETH trading near the $2,500 level during the rally, with spot volume reportedly rising about 400% compared with the prior…
+Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-TradingView • 2d ago
-
----
-
-**[Ethereum Launches better.codes to Advance Post-Quantum SNARKs](https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security)**
-
-Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
-
-blockchain.news • 9h ago
-
----
-
-**[Rashida Tlaib reveals Ethereum ETF in personal IRA despite voting against crypto in Congress](https://cryptobriefing.com/tlaib-ethereum-etf-ira-holdings/)**
-
-Rep. Rashida Tlaib holds Grayscale Ethereum Staking Mini ETF shares in her Roth IRA despite voting against crypto legislation, congressional
-
-Crypto Briefing • 4h ago
+FXStreet • 21h ago
 
 ---
 
@@ -218,15 +204,31 @@ Crypto Briefing • 4h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 6h ago
+FinanceFeeds • 7h ago
 
 ---
 
-**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
+**[Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase](https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/)**
 
-CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
+Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Benzinga • 3d ago
+Crypto Briefing • 11m ago
+
+---
+
+**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum and Bitcoin, disclosures reveal](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
+
+She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
+
+New York Post • 4h ago
+
+---
+
+**[Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/)**
+
+The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from
+
+Coinpedia • 10h ago
 
 ---
 
@@ -240,7 +242,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 37 • 💬 2 • ⏱️ 4:45 • 8h ago
+👁️ 1K • 👍 40 • 💬 3 • ⏱️ 4:45 • 9h ago
+
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 239 • 💬 11 • ⏱️ 11:12 • 4h ago
+
+---
+
+**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
+
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
+
+📺 Milk Road
+
+👁️ 18K • 👍 408 • 💬 122 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -254,13 +276,13 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 ---
 
-**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
 
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
 
-📺 Milk Road
+📺 Altcoin Daily
 
-👁️ 17K • 👍 404 • 💬 115 • ⏱️ 41:59 • 2d ago
+👁️ 86K • 👍 3K • 💬 174 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -270,7 +292,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 73 • ⏱️ 1:25 • 1d ago
+👁️ 1K • 👍 74 • ⏱️ 1:25 • 1d ago
 
 ---
 
@@ -284,33 +306,13 @@ In this video I break down the current Ethereum price outlook following the rece
 
 ---
 
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 86K • 👍 3K • 💬 172 • ⏱️ 10:41 • 2d ago
-
----
-
-**[Crypto Gold Live Trading | Btc Live Trading | Gold Live Trading | Crypto Live trading | Xauusd Live](https://www.youtube.com/watch?v=8ldGFiQxp3g)**
-
-Welcome to the official Ashutosh Kumar Live Trading channel, where we analyze the financial markets in real time with a focus on ...
-
-📺 Ashutosh Kumar
-
-👁️ 7K • 👍 806 • 4h ago
-
----
-
 **[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
 
 In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 219 • 💬 8 • ⏱️ 7:31 • 1d ago
+👁️ 5K • 👍 220 • 💬 8 • ⏱️ 7:31 • 1d ago
 
 ---
 
@@ -324,13 +326,13 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 ---
 
-**[Ethereum Just Did This!](https://www.youtube.com/watch?v=InBNoW1hgzg)**
+**[Bitwise: Why Large Allocators Are Deploying Into Ethereum Now (Model Portfolio Explained)](https://www.youtube.com/watch?v=C-ub-6dK4Kc)**
 
-Ethereum (ETH) is making a strong move, jumping 18% as bullish momentum builds across the crypto market. The surge has ...
+Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we are at the beginning of a mega bull cycle ...
 
-📺 Auphanim
+📺 The Rollup
 
-👁️ 164 • 👍 17 • 💬 7 • ⏱️ 4:43 • 5h ago
+👁️ 5K • 👍 119 • 💬 10 • ⏱️ 10:38 • 2d ago
 
 ---
 

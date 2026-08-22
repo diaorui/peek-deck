@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T20:22:20.096627+00:00'
+updated: '2026-08-22T20:49:20.346026+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 20:22 UTC  
+**Last Updated:** August 22, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-6h ago
+7h ago
 
 ---
 
@@ -44,13 +44,13 @@ A little update after about three months of working on this project. One of the 
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-5h ago
+6h ago
 
 ---
 
 **[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ I’m a software engineer with 8 years of experience, mostly JavaScript. I’ve 
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -106,19 +106,9 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ## Google News: "robotics"
 
-**[Move over, Usain Bolt: Humanoid robots smash human records at Beijing games](https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869)**
+**[Humanoid robots surpass human records in 100m, high jump](https://www.espn.com/olympics/story/_/id/49692320/humanoid-robots-surpass-human-records-100m-high-jump)**
 
-More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
-
-NBC News • 9h ago
-
----
-
-**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
-
-FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
-
-Ars Technica • 1d ago
+ESPN • 4h ago
 
 ---
 
@@ -126,43 +116,13 @@ Ars Technica • 1d ago
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 51m ago
-
----
-
-**[Robot horse and rider steal the spotlight at Chinese conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
-
-More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
-
-BBC • 10h ago
+Business Insider • 1h ago
 
 ---
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 14h ago
-
----
-
-**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
-
-Beijing policymakers have made robotics a ‘strategic priority’
-
-Financial Times • 19h ago
-
----
-
-**[Who is really buying China’s humanoid robots?](https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1)**
-
-Companies are selling machines to government-backed centres that then sell training data back to robot makers
-
-Financial Times • 2d ago
-
----
-
-**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
-
-The New York Times • 2d ago
+Reuters • 15h ago
 
 ---
 
@@ -174,11 +134,51 @@ Futura, le média qui explore le monde • 9h ago
 
 ---
 
-**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
+**[Robot horse and rider steal the spotlight at Chinese conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
 
-Humanoid crashes during speed test as China’s robotics industry grows
+More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-Al Jazeera • 1d ago
+BBC • 10h ago
+
+---
+
+**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
+
+Beijing policymakers have made robotics a ‘strategic priority’
+
+Financial Times • 20h ago
+
+---
+
+**[The technology that could bring robot mowers to one in two American lawns](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/)**
+
+Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
+
+The Robot Report • 8h ago
+
+---
+
+**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
+
+FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
+
+Ars Technica • 1d ago
+
+---
+
+**[Unitree Robotics Founder Says the Technology's 'ChatGPT Moment' is Coming. Save This Robotics Stock Watchlist Now.](https://finance.yahoo.com/technology/ai/articles/unitree-robotics-founder-says-technologys-133426463.html)**
+
+The Shanghai trading debut of Unitree caused a major stir this week. Here’s how US investors can get involved in robotics.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better](https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html)**
+
+Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.
+
+CNBC • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 12K • 👍 379 • 💬 64 • ⏱️ 5:16 • 6d ago
+👁️ 12K • 👍 380 • 💬 64 • ⏱️ 5:16 • 6d ago
 
 ---
 
@@ -202,17 +202,7 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 40K • 👍 895 • 💬 106 • ⏱️ 14:10 • 3d ago
-
----
-
-**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
-
-Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
-
-📺 Unitree Robotics
-
-👁️ 3.5M • 👍 2K • 💬 449 • ⏱️ 0:31 • 5d ago
+👁️ 41K • 👍 903 • 💬 107 • ⏱️ 14:10 • 3d ago
 
 ---
 
@@ -222,27 +212,17 @@ The second annual World Humanoid Games are set to take place in Beijing. It come
 
 📺 NBC News
 
-👁️ 38K • 👍 328 • 💬 117 • ⏱️ 4:05 • 1d ago
+👁️ 40K • 👍 337 • 💬 123 • ⏱️ 4:05 • 1d ago
 
 ---
 
-**[BYD Just Put a Humanoid Robot in Its Showrooms — And It&#39;s Already Working](https://www.youtube.com/watch?v=SQrO-krZIxs)**
+**[Unitree New Robot Preview: “Superman” Breaking the Limits of Humanity](https://www.youtube.com/watch?v=O7OkiZfIlS4)**
 
-BYD Just Put a Humanoid Robot in Its Showrooms — And It's Already Working BYD has begun deploying its "Xiao Di" humanoid ...
+Standing high jump 2 m, top speed 12.66 m/s (0.85 m leg length) Surpassing the standing high jump and running speed records ...
 
-📺 The Electric Viking
+📺 Unitree Robotics
 
-👁️ 24K • 👍 728 • 💬 125 • ⏱️ 8:50 • 3d ago
-
----
-
-**[China&#39;s Robot Army Assemble For World Robot Games 2026 (Behind The Scenes)](https://www.youtube.com/watch?v=oKZ9ruxMZnI)**
-
-Preparations for China's World Robot Games 2026 Have Began. We expect to see stiff Competition between Unitree, Honor, ...
-
-📺 Chris Wabs
-
-👁️ 15K • 👍 181 • 💬 79 • ⏱️ 9:36 • 3d ago
+👁️ 3.6M • 👍 2K • 💬 449 • ⏱️ 0:31 • 5d ago
 
 ---
 
@@ -252,27 +232,37 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 787K • 👍 3K • 💬 84 • ⏱️ 0:09 • 1d ago
+👁️ 799K • 👍 3K • 💬 90 • ⏱️ 0:09 • 1d ago
 
 ---
 
-**[Unitree Superman Robot Jump and Fast Run](https://www.youtube.com/watch?v=LRoAfnQvQDA)**
+**[BYD Just Put a Humanoid Robot in Its Showrooms — And It&#39;s Already Working](https://www.youtube.com/watch?v=SQrO-krZIxs)**
 
-Unitree Robotics has revealed an incredible preview of its new experimental “Superman” robot, capable of reaching a claimed ...
+BYD Just Put a Humanoid Robot in Its Showrooms — And It's Already Working BYD has begun deploying its "Xiao Di" humanoid ...
+
+📺 The Electric Viking
+
+👁️ 24K • 👍 731 • 💬 125 • ⏱️ 8:50 • 3d ago
+
+---
+
+**[Autonomous Robots Are Taking Over the Tennis Court](https://www.youtube.com/watch?v=SiQx5ZrKnD8)**
+
+GALBOT humanoid robots are preparing for an autonomous tennis match that could mark an important moment for robotics and ...
 
 📺 DPCcars
 
-👁️ 30K • 👍 236 • 💬 69 • ⏱️ 1:31 • 5d ago
+👁️ 5K • 👍 67 • 💬 17 • ⏱️ 1:19 • 1d ago
 
 ---
 
-**[LIVE: Humanoid robots perform tasks at 2026 World Robot Conference in China](https://www.youtube.com/watch?v=2anAlqQ-XFE)**
+**[China&#39;s Robot Army Assemble For World Robot Games 2026 (Behind The Scenes)](https://www.youtube.com/watch?v=oKZ9ruxMZnI)**
 
-Watch live from the World Robot Conference in Beijing, where companies showcase the latest robots and technologies as China ...
+Preparations for China's World Robot Games 2026 Have Began. We expect to see stiff Competition between Unitree, Honor, ...
 
-📺 Associated Press
+📺 Chris Wabs
 
-👁️ 11K • 👍 186 • 💬 6 • ⏱️ 34:12 • 2d ago
+👁️ 15K • 👍 182 • 💬 79 • ⏱️ 9:36 • 3d ago
 
 ---
 
@@ -280,7 +270,17 @@ Watch live from the World Robot Conference in Beijing, where companies showcase 
 
 📺 BBC News
 
-👁️ 27K • 👍 329 • 💬 34 • ⏱️ 0:37 • 2d ago
+👁️ 27K • 👍 330 • 💬 34 • ⏱️ 0:37 • 2d ago
+
+---
+
+**[ROBOTS MEAN RUN](https://www.youtube.com/watch?v=BwwyKDY4Uu4)**
+
+ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping, playing sports, performing parkour, and ...
+
+📺 Dark Waters
+
+👁️ 9K • 👍 638 • 💬 40 • ⏱️ 0:24 • 19h ago
 
 ---
 
