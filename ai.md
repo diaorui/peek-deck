@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T22:21:39.271629+00:00'
+updated: '2026-08-22T22:48:22.841568+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 22:21 UTC  
+**Last Updated:** August 22, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ The idea came to me about a year ago, I was always passionate about history but 
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Anthropic appears to be A/B testing reduced effort levels in Claude Code I went 
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ One of the questions I've been asking myself recently is how AI training will ev
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bloomberg.com • 3h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1h ago
 
 The AI era is rapidly advancing, bringing transformative capabilities but also escalating privacy and security threats.
 
-Forbes • 22m ago
+Forbes • 49m ago
 
 ---
 
@@ -159,7 +159,7 @@ Forbes • 22m ago
 
 In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
 
-TechCrunch • 34m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CT Insider • 13h ago
 
 **[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
 
-Phys.org • 6h ago
+Phys.org • 7h ago
 
 ---
 
@@ -667,7 +667,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 21h ago
+⭐ 14.1k • 🔱 1.7k • 22h ago
 
 ---
 
@@ -707,7 +707,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 350 • 2h ago
+⭐ 2.9k • 🔱 350 • 3h ago
 
 ---
 
@@ -717,7 +717,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 264 • 1h ago
+⭐ 2.3k • 🔱 264 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T22:21:39.280406+00:00'
+updated: '2026-08-22T22:48:22.849359+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 22:21 UTC  
+**Last Updated:** August 22, 2026 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,15 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
-
-12h ago
-
----
-
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -97,15 +91,15 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 ---
 
-**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-18h ago
+12h ago
 
 ---
 
-**[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
+**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-3h ago
+18h ago
 
 ---
 
@@ -114,6 +108,12 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 u/Boring_Ad7277
 
 18h ago
+
+---
+
+**[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
+
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ u/Boring_Ad7277
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 13h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 14h ago
 
 ---
 
@@ -207,7 +207,7 @@ WSJ • 1d ago
 
 Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
