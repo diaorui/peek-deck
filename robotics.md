@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T13:31:47.887062+00:00'
+updated: '2026-08-22T14:21:05.459366+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 13:31 UTC  
+**Last Updated:** August 22, 2026 at 14:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -78,13 +78,13 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 17h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 18h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -98,7 +98,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -122,17 +122,9 @@ Business Insider • 1d ago
 
 ---
 
-**[This robotic horse can carry two people over 40 km—see it in action](https://www.futura-sciences.com/en/this-robotic-horse-can-carry-two-people-over-40-km-see-it-in-action_38179/)**
-
-From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
-
-Futura, le média qui explore le monde • 2h ago
-
----
-
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -140,15 +132,15 @@ Reuters • 7h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
-**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
+**[Robot horse and rider steal the spotlight at Chinese conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
 
-Humanoid crashes during speed test as China’s robotics industry grows
+More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-Al Jazeera • 1d ago
+BBC • 4h ago
 
 ---
 
@@ -160,9 +152,25 @@ Financial Times • 2d ago
 
 ---
 
+**[This robotic horse can carry two people over 40 km—see it in action](https://www.futura-sciences.com/en/this-robotic-horse-can-carry-two-people-over-40-km-see-it-in-action_38179/)**
+
+From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
+
+Futura, le média qui explore le monde • 3h ago
+
+---
+
+**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
+
+Humanoid crashes during speed test as China’s robotics industry grows
+
+Al Jazeera • 1d ago
+
+---
+
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -170,15 +178,7 @@ WSJ • 21h ago
 
 Chinese Bodies, American Brains: South Koreas Humanoid Hurdles Domestic humanoids lag, reliant on Chinese hardware and U.S. AI, urging secure sector focus amid global competition
 
-조선일보 • 5h ago
-
----
-
-**[Three robotic arms 3D print nuclear vessel for America’s expanding reactor fleet](https://interestingengineering.com/ai-robotics/robotic-arms-3d-print-nuclear-vessel)**
-
-Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
-
-Interesting Engineering • 14h ago
+조선일보 • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ GALBOT humanoid robots are preparing for an autonomous tennis match that could m
 
 📺 DPCcars
 
-👁️ 4K • 👍 44 • 💬 10 • ⏱️ 1:19 • 19h ago
+👁️ 4K • 👍 44 • 💬 10 • ⏱️ 1:19 • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 13K • 👍 210 • 💬 6 • ⏱️ 0:07 • 4h ago
+👁️ 13K • 👍 210 • 💬 6 • ⏱️ 0:07 • 5h ago
 
 ---
 
@@ -272,7 +272,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 7K • 👍 494 • 💬 25 • ⏱️ 0:24 • 12h ago
+👁️ 7K • 👍 494 • 💬 25 • ⏱️ 0:24 • 13h ago
 
 ---
 

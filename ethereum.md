@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T13:31:47.884208+00:00'
+updated: '2026-08-22T14:21:05.456447+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 13:31 UTC  
+**Last Updated:** August 22, 2026 at 14:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,435.27
+### $2,421.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +29.6%  
-**30d:** +30.6%  
-**90d:** +15.1%  
-**1y:** -49.1%  
+**24h:** +1.0%  
+**7d:** +28.9%  
+**30d:** +29.9%  
+**90d:** +14.3%  
+**1y:** -49.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 19h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-12h ago
+13h ago
 
 ---
 
@@ -112,7 +112,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 21h ago
 
 ---
 
@@ -152,27 +152,9 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
+**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
-
-Yahoo Finance • 21h ago
-
----
-
-**[TRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?](https://finance.yahoo.com/markets/crypto/articles/trump-zec-pol-leave-bitcoin-114839932.html)**
-
-Retail traders on Stocktwits turned to the ‘extremely bullish’ zone for TRUMP and ZEC, while sentiment around Polygon continued to be in the 'bullish' zone.
-
-Yahoo Finance • 1h ago
-
----
-
-**[SEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal](https://www.tradingview.com/news/newsbtc:307a1e65b094b:0-sec-opens-comment-period-on-cboe-3x-bitcoin-and-ethereum-etf-proposal/)**
-
-The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
-
-TradingView • 19h ago
+Barron's • 1d ago
 
 ---
 
@@ -184,14 +166,6 @@ MarketForces Africa • 2d ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 1d ago
-
----
-
 **[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
 
 Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
@@ -200,27 +174,27 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
+**[Ethereum Launches better.codes to Advance Post-Quantum SNARKs](https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security)**
 
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-Ethereum Foundation Blog • 1d ago
-
----
-
-**[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+blockchain.news • 3h ago
 
 ---
 
@@ -229,6 +203,28 @@ Fortune • 1d ago
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
 The Block • 2d ago
+
+---
+
+**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
+
+CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
+
+Benzinga • 2d ago
+
+---
+
+**[Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-staking-bets-grow-as-ishares-ethb-etf-pulls-in-36m-wave-of-inflows)**
+
+Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
+
+TipRanks • 2h ago
+
+---
+
+**[Trader loses $24 million in a brutal 12-second span](https://www.thestreet.com/crypto/markets/millionaire-short-seller-loses-24-million-in-12-seconds)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -272,7 +268,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 70 • ⏱️ 1:25 • 23h ago
+👁️ 1K • 👍 70 • ⏱️ 1:25 • 1d ago
 
 ---
 
@@ -302,7 +298,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 14K • 👍 485 • 💬 72 • ⏱️ 20:52 • 20h ago
+👁️ 14K • 👍 485 • 💬 72 • ⏱️ 20:52 • 21h ago
 
 ---
 
@@ -332,7 +328,7 @@ In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in le
 
 📺 Coin Bureau Podcast
 
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 20h ago
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 21h ago
 
 ---
 
