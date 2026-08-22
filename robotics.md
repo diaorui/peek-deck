@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T10:49:50.265703+00:00'
+updated: '2026-08-22T11:20:20.569792+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 10:49 UTC  
+**Last Updated:** August 22, 2026 at 11:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
+
+49m ago
+
+---
+
+**[For engineers deploying ML models on edge devices/robots: what’s the part that sucks?](https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/)**
+
+What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
+
+14h ago
+
+---
+
 **[What do you think about GEN-1.5 one shot learner](https://www.reddit.com/r/robotics/comments/1vuc3yp/what_do_you_think_about_gen15_one_shot_learner/)**
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
 🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 1d ago
+
+---
+
+**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
+
+14h ago
 
 ---
 
@@ -54,31 +74,17 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ---
 
-**[For engineers deploying ML models on edge devices/robots: what’s the part that sucks?](https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/)**
-
-What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
-
-14h ago
-
----
-
 **[ROS News for the Week of August 17th, 2026](https://www.reddit.com/r/robotics/comments/1vuqsi0/ros_news_for_the_week_of_august_17th_2026/)**
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 14h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 15h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
 15h ago
-
----
-
-**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
-
-13h ago
 
 ---
 
@@ -93,14 +99,6 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
 20h ago
-
----
-
-**[Mapping the failure boundary of a Go1 locomotion policy: 6,400 rollouts, survival statistics, and a live interactive map](https://www.reddit.com/r/robotics/comments/1vu482d/mapping_the_failure_boundary_of_a_go1_locomotion/)**
-
-We froze a Go1 joystick-locomotion policy (MuJoCo Playground, Brax PPO) and swept a 20×20 grid of floor friction against lateral push, 16 trials per cell, using Kaplan-Meier survival per condition since trials that survive the window have to be censored rather than counted as failures. Things interesting to us: the boundary is not a line but a band. The 95% bootstrap interval is about ±4% of bodyweight on high friction and ±33% on ice, a 7× spread. below μ≈0.15 the policy falls before the push lands. That's gait collapse, a different failure mode from being knocked over. the same seed on the same GPU can produce different outcomes (floating-point reduction order), so a few knife-edge survivors can't be re-simulated at all. We then changed the two conditions the map showed training never covered, retrained for 12 minutes, and re-ran the identical sweep: 60 of 400 conditions significantly safer (Fisher exact + BH-FDR, q<0.05), none significantly worse. Write-up with the interactive map: https://poissonlabs.ai/research/map-the-failure-boundary/. Happy to answer questions about the harness validation/statistics.
-
-1d ago
 
 ---
 
@@ -128,7 +126,7 @@ Business Insider • 1d ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 48m ago
+BBC • 1h ago
 
 ---
 
@@ -164,7 +162,7 @@ Financial Times • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -180,7 +178,7 @@ Yahoo! Finance Canada • 1d ago
 
 Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 19h ago
 
 ---
 
@@ -214,7 +212,7 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 4K • 👍 61 • 💬 3 • ⏱️ 0:07 • 1h ago
+👁️ 4K • 👍 61 • 💬 3 • ⏱️ 0:07 • 2h ago
 
 ---
 
@@ -234,7 +232,7 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 5K • 👍 19 • 💬 1 • ⏱️ 0:28 • 16h ago
+👁️ 5K • 👍 19 • 💬 1 • ⏱️ 0:28 • 17h ago
 
 ---
 
@@ -244,7 +242,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 6K • 👍 434 • 💬 22 • ⏱️ 0:24 • 9h ago
+👁️ 6K • 👍 434 • 💬 22 • ⏱️ 0:24 • 10h ago
 
 ---
 
@@ -264,7 +262,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 356K • 👍 26K • 💬 243 • ⏱️ 1:40 • 19h ago
+👁️ 356K • 👍 26K • 💬 243 • ⏱️ 1:40 • 20h ago
 
 ---
 

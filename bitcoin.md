@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T10:49:50.259392+00:00'
+updated: '2026-08-22T11:20:20.563280+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 10:49 UTC  
+**Last Updated:** August 22, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,19 +101,19 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-15h ago
+16h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-6h ago
+7h ago
 
 ---
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -121,13 +121,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 u/Boring_Ad7277
 
-6h ago
+7h ago
 
 ---
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -169,13 +169,13 @@ CNBC • 15h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -183,13 +183,13 @@ Bloomberg.com • 17h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -281,7 +281,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 2K • 👍 120 • 💬 7 • ⏱️ 1:15 • 7h ago
+👁️ 2K • 👍 120 • 💬 7 • ⏱️ 1:15 • 8h ago
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 428 • 💬 1 • ⏱️ 2:07:34 • 15h ago
+👁️ 8K • 👍 428 • 💬 1 • ⏱️ 2:07:34 • 16h ago
 
 ---
 
@@ -311,7 +311,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 468 • 💬 7 • ⏱️ 0:58 • 17h ago
+👁️ 25K • 👍 468 • 💬 7 • ⏱️ 0:58 • 18h ago
 
 ---
 
@@ -361,7 +361,7 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 3K • 👍 70 • 💬 8 • ⏱️ 1:14 • 8h ago
+👁️ 3K • 👍 70 • 💬 8 • ⏱️ 1:14 • 9h ago
 
 ---
 

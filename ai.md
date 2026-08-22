@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T10:49:50.253648+00:00'
+updated: '2026-08-22T11:20:20.557235+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 10:49 UTC  
+**Last Updated:** August 22, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-37m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +87,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ In structured data extraction, adding an LLM-as-a-judge self-correction loop is 
 
 Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see. The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence. Validation feedback is visible during this loop. A separate final test is withheld until the configuration is frozen; its result is not returned to the agent or used to rank candidates. That creates a useful final check, but the isolation is procedural rather than cryptographic, and repeated adaptation to visible validation remains possible. The AQuA design question I would inspect next is how much evaluator-specific feedback should enter durable state. Which defense matters most here: limiting that feedback, rotating the visible evaluation, or relying on one untouched final test after freeze?
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -131,7 +131,7 @@ NPR • 12h ago
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -139,13 +139,13 @@ The Guardian • 58m ago
 
 Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
 
-CBS News • 15h ago
+CBS News • 16h ago
 
 ---
 
 **[AI’s Need for Content Has Put Rare-Book Dealers in a Bind](https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053)**
 
-WSJ • 49m ago
+WSJ • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ The Register • 14h ago
 
 Ronnie Chatterji leads a team of researchers at the company who study how AI is affecting workers, employers, and the economy.
 
-Business Insider • 57m ago
+Business Insider • 1h ago
 
 ---
 
 **[A.I. Is Everywhere in China. See For Yourself.](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ Courthouse News • 15h ago
 
 A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context, uses tools, maintains state…
 
-NVIDIA Developer • 21h ago
+NVIDIA Developer • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4g57yy
 
 📺 Miliemilievlogs
 
-👁️ 4K • 👍 62 • 💬 3 • ⏱️ 0:20 • 45m ago
+👁️ 4K • 👍 62 • 💬 3 • ⏱️ 0:20 • 1h ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `26.9B`
 
-⬇️ 164,950 • ❤️ 481 • 1h ago
+⬇️ 164,950 • ❤️ 481 • 2h ago
 
 ---
 
@@ -489,7 +489,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 16,644 • ❤️ 1,169 • 7d ago
+⬇️ 16,644 • ❤️ 1,169 • 8d ago
 
 ---
 
@@ -714,7 +714,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.2k • 🔱 247 • 5h ago
+⭐ 2.2k • 🔱 247 • 6h ago
 
 ---
 
@@ -744,7 +744,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 234 • 6h ago
+⭐ 1.9k • 🔱 234 • 7h ago
 
 ---
 
