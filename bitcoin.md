@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T05:54:35.223907+00:00'
+updated: '2026-08-22T06:39:32.072805+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 05:54 UTC  
+**Last Updated:** August 22, 2026 at 06:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,213.83
+### $77,183.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +22.8%  
-**30d:** +20.4%  
-**90d:** -0.1%  
-**1y:** -33.1%  
+**24h:** +1.6%  
+**7d:** +23.2%  
+**30d:** +20.8%  
+**90d:** +0.2%  
+**1y:** -32.9%  
 
 ---
 
@@ -89,13 +89,13 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-10h ago
+11h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -107,7 +107,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -119,7 +119,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,35 +141,13 @@ u/Boring_Ad7277
 
 Just read that US Treasury intervention in the bond markets have not worked and the yields climbed back up before the intervention. It’s obvious that the US Treasury is trying their best to reduce interest rates. I would not be surprised if they announce more of the same, failed intervention policies on Monday. Money printer is going to go into overdrive.
 
-6h ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
-
-Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
-
-CNBC • 10h ago
-
----
-
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
-
-Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
-
-Bloomberg.com • 12h ago
-
----
 
 **[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
 
@@ -179,23 +157,47 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
+**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
 
-Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
+Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-Fox News • 2h ago
+CNBC • 11h ago
 
 ---
 
-**[How a Treasury Buyback Tweak Helped Bitcoin Surge Nearly 25% in Days](https://www.moomoo.com/news/post/75095813/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25)**
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
 
-Moomoo • 43m ago
+Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
+
+Bloomberg.com • 13h ago
+
+---
+
+**[Saylor “Don’t feed the Bitcoin bears”](https://www.moomoo.com/community/feed/saylor-don-t-feed-the-bitcoin-bears-117137628528645)**
+
+$Bitcoin (BTC.CC)$
+
+Moomoo • 40m ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 5h ago
+WSJ • 6h ago
+
+---
+
+**[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
+
+Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
+
+Fox News • 2h ago
 
 ---
 
@@ -209,15 +211,15 @@ Reuters • 19h ago
 
 FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market movers, highlighting Moderna's surge on cancer vaccine news and Coinbase's massive rally as Bitcoin climbs.
 
-Fox Business • 14h ago
+Fox Business • 15h ago
 
 ---
 
-**[Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review](https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/)**
+**[XRP leads broad altcoin rally as bitcoin's biggest weekly gain in two years lifts crypto](https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483)**
 
-Oil kept running higher as well while Walmart sold off on earnings.
+Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.
 
-Investor's Business Daily • 15h ago
+The Block • 13h ago
 
 ---
 
@@ -243,7 +245,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 21h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 22h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -281,7 +283,7 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 2K • 👍 56 • 💬 6 • ⏱️ 1:14 • 3h ago
+👁️ 2K • 👍 56 • 💬 6 • ⏱️ 1:14 • 4h ago
 
 ---
 
@@ -291,7 +293,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 12K • 👍 829 • 💬 16 • ⏱️ 9:16 • 13h ago
+👁️ 12K • 👍 829 • 💬 16 • ⏱️ 9:16 • 14h ago
 
 ---
 
@@ -309,7 +311,7 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Life ROI
 
-👁️ 450 • 👍 10 • 💬 1 • ⏱️ 2:39 • 2h ago
+👁️ 450 • 👍 10 • 💬 1 • ⏱️ 2:39 • 3h ago
 
 ---
 
@@ -329,7 +331,7 @@ Hurley talks about Bitcoin Surges Past $72000! Massive Short Squeeze?! Brought t
 
 📺 Simply Bitcoin
 
-👁️ 865 • 👍 19 • ⏱️ 0:18 • 5h ago
+👁️ 865 • 👍 19 • ⏱️ 0:18 • 6h ago
 
 ---
 
@@ -349,7 +351,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 1K • 👍 65 • 💬 7 • ⏱️ 1:15 • 2h ago
+👁️ 1K • 👍 65 • 💬 7 • ⏱️ 1:15 • 3h ago
 
 ---
 

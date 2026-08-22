@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T05:54:35.232984+00:00'
+updated: '2026-08-22T06:39:32.082010+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 05:54 UTC  
+**Last Updated:** August 22, 2026 at 06:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
 
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 19h ago
+🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 20h ago
 
 ---
 
@@ -44,7 +44,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-9h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -120,7 +120,7 @@ Ars Technica • 1d ago
 
 Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -130,11 +130,17 @@ WSJ • 14h ago
 
 ---
 
-**[Chinese robotics giant Unitree soars in stock market debut](https://www.bbc.com/news/articles/c0qv4w9492zo)**
+**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
 
-Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.
+Beijing policymakers have made robotics a ‘strategic priority’
 
-BBC • 2d ago
+Financial Times • 5h ago
+
+---
+
+**[Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban](https://www.wsj.com/tech/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-d2d73c08)**
+
+WSJ • 2d ago
 
 ---
 
@@ -142,7 +148,7 @@ BBC • 2d ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 17h ago
+Al Jazeera • 18h ago
 
 ---
 
@@ -150,7 +156,7 @@ Al Jazeera • 17h ago
 
 Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 14h ago
 
 ---
 
@@ -158,7 +164,7 @@ IEEE Spectrum • 13h ago
 
 While robots are getting pretty good at sprinting, stopping is apparently still an issue.
 
-Mashable • 10h ago
+Mashable • 11h ago
 
 ---
 
@@ -173,12 +179,6 @@ Construction Dive • 2d ago
 **[😺 The ACTUAL ChatGPT 3 moment for robotics (one-shot learning)](https://www.theneurondaily.com/p/ai-helped-moderna-fight-cancer-today)**
 
 The Neuron • 1d ago
-
----
-
-**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 3K • 👍 317 • 💬 16 • ⏱️ 0:24 • 4h ago
+👁️ 3K • 👍 317 • 💬 16 • ⏱️ 0:24 • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 262K • 👍 20K • 💬 149 • ⏱️ 1:40 • 14h ago
+👁️ 262K • 👍 20K • 💬 149 • ⏱️ 1:40 • 15h ago
 
 ---
 
@@ -262,7 +262,7 @@ China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 1
 
 📺 Techie Sapien
 
-👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 20h ago
+👁️ 513K • 👍 2K • 💬 42 • ⏱️ 0:09 • 21h ago
 
 ---
 
@@ -272,7 +272,7 @@ An all-terrain robot "horse" that can carry up to 300 kg steals the spotlight at
 
 📺 New China TV
 
-👁️ 16K • 👍 103 • 💬 3 • ⏱️ 0:19 • 1d ago
+👁️ 16K • 👍 103 • 💬 3 • ⏱️ 0:19 • 2d ago
 
 ---
 
