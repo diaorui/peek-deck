@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T21:21:14.746632+00:00'
+updated: '2026-08-22T21:46:16.676623+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 21:21 UTC  
+**Last Updated:** August 22, 2026 at 21:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,27 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-13h ago
+14h ago
+
+---
+
+**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
+
+Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
+
+51m ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
 17h ago
+
+---
+
+**[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
+
+2h ago
 
 ---
 
@@ -109,33 +123,19 @@ u/Boring_Ad7277
 
 ---
 
+**[Bitcoin to $500K by the end of 2030.](https://www.reddit.com/r/Bitcoin/comments/1vv704h/bitcoin_to_500k_by_the_end_of_2030/)**
+
+Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
+
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 13h ago
+
+---
+
 **[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
 1d ago
-
----
-
-**[Bitcoin to $500K by the end of 2030.](https://www.reddit.com/r/Bitcoin/comments/1vv704h/bitcoin_to_500k_by_the_end_of_2030/)**
-
-Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
-
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 12h ago
-
----
-
-**[Who the heck was responsible for that just now](https://www.reddit.com/r/Bitcoin/comments/1vv3qu1/who_the_heck_was_responsible_for_that_just_now/)**
-
-https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
-
-15h ago
-
----
-
-**[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
-
-2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fox News • 17h ago
 
 **[U.S. Stocks Rise as Bitcoin Nears $80,000](https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ MarketWatch • 8h ago
 
 Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -263,7 +263,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 1d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 2d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 96 • ⏱️ 17:33 • 1d ago
+👁️ 38K • 👍 2K • 💬 96 • ⏱️ 17:33 • 2d ago
 
 ---
 
@@ -375,7 +375,7 @@ Coinbase CEO Brian Armstrong joins 'Squawk Box' to discuss takeaways from his me
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 37 • ⏱️ 8:58 • 23h ago
+👁️ 38K • 👍 2K • 💬 37 • ⏱️ 8:58 • 1d ago
 
 ---
 

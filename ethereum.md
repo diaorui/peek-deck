@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T21:21:14.752679+00:00'
+updated: '2026-08-22T21:46:16.683120+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 21:21 UTC  
+**Last Updated:** August 22, 2026 at 21:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -188,7 +188,7 @@ CryptoSlate • 1d ago
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
-MarketForces Africa • 2d ago
+MarketForces Africa • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ FXStreet • 22h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 7h ago
+FinanceFeeds • 8h ago
 
 ---
 
@@ -212,7 +212,7 @@ FinanceFeeds • 7h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 43m ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 40 • 💬 3 • ⏱️ 4:45 • 9h ago
+👁️ 1K • 👍 40 • 💬 3 • ⏱️ 4:45 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 239 • 💬 11 • ⏱️ 11:12 • 4h ago
+👁️ 3K • 👍 239 • 💬 11 • ⏱️ 11:12 • 5h ago
 
 ---
 
