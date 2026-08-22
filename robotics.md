@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T16:50:28.791018+00:00'
+updated: '2026-08-22T17:20:10.597106+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 16:50 UTC  
+**Last Updated:** August 22, 2026 at 17:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,40 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[3-month update, in a little story about my 3D-printed robot lamp](https://www.reddit.com/r/robotics/comments/1vvci99/3month_update_in_a_little_story_about_my/)**
+
+A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
+
+3h ago
+
+---
+
+**[Honor lightning vs tiangong in the 2026 humanoid robotics 100 meter dash](https://www.reddit.com/r/robotics/comments/1vve7ju/honor_lightning_vs_tiangong_in_the_2026_humanoid/)**
+
+Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
+
+2h ago
+
+---
+
+**[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
+
+2h ago
+
+---
+
+**[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
+
+4h ago
+
+---
+
+**[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
+
+1h ago
+
+---
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
@@ -46,6 +80,12 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ---
 
+**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
+
+20h ago
+
+---
+
 **[What do you think about GEN-1.5 one shot learner](https://www.reddit.com/r/robotics/comments/1vuc3yp/what_do_you_think_about_gen15_one_shot_learner/)**
 
 https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
@@ -54,49 +94,9 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ---
 
-**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
-
-19h ago
-
----
-
 **[Éloi learning to talk, mechanical skeleton demo from Animotion Robotics](https://www.reddit.com/r/robotics/comments/1vubzrn/éloi_learning_to_talk_mechanical_skeleton_demo/)**
 
 Éloi’s first attempt at speaking. Still a little rough. Voice system is still in development. Movement, expressions, the small details, all still being refined. But every iteration gets it a little closer to something real. One thing worth mentioning: Éloi runs a Neural Reflex Model (NRM). When an object approaches its eyes, it blinks automatically, the same way you would. Not a scripted animation. An actual reflex. Thanks for being patient with a robot that’s still learning to talk……^o^
-
-1d ago
-
----
-
-**[Previous MK robot experiments](https://www.reddit.com/r/robotics/comments/1vtz3u7/previous_mk_robot_experiments/)**
-
-1d ago
-
----
-
-**[ROS News for the Week of August 17th, 2026](https://www.reddit.com/r/robotics/comments/1vuqsi0/ros_news_for_the_week_of_august_17th_2026/)**
-
-ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 20h ago
-
----
-
-**[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
-
-21h ago
-
----
-
-**[Robot dodgeball](https://www.reddit.com/r/robotics/comments/1vtpcja/robot_dodgeball/)**
-
-Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang2000.github.io/perceptive\_cbf\_rl/demo/ The project website js https://lzyang2000.github.io/perceptive\_cbf\_rl, feel free to take a look at the paper, GitHub etc :)
-
-1d ago
-
----
-
-**[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
 1d ago
 
@@ -126,7 +126,7 @@ Business Insider • 1d ago
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Reuters • 2d ago
 
 From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-Futura, le média qui explore le monde • 5h ago
+Futura, le média qui explore le monde • 6h ago
 
 ---
 
@@ -230,7 +230,7 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 35K • 👍 281 • 💬 7 • ⏱️ 0:07 • 7h ago
+👁️ 35K • 👍 281 • 💬 7 • ⏱️ 0:07 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ China's humanoid robot “Lightning,” developed by smartphone maker Honor, com
 
 📺 DRM News
 
-👁️ 2K • 👍 35 • 💬 7 • ⏱️ 0:51 • 3h ago
+👁️ 2K • 👍 35 • 💬 7 • ⏱️ 0:51 • 4h ago
 
 ---
 

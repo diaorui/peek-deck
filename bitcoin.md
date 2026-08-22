@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T16:50:28.785534+00:00'
+updated: '2026-08-22T17:20:10.588938+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 16:50 UTC  
+**Last Updated:** August 22, 2026 at 17:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 u/Boring_Ad7277
 
-12h ago
+13h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ u/Boring_Ad7277
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-21h ago
+22h ago
 
 ---
 
@@ -155,7 +155,7 @@ Geoff Kendrick, head of digital assets research at Standard Chartered, predicts 
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 21h ago
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 23h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 2h ago
+AP News • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ AP News • 2h ago
 
 @Harry the Rizzard 7565 Views|1 Like
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Moomoo • 2h ago
 
 Bitcoin price nears a risk zone as its 4-hour RSI hits a seven-year high. Here's what analysts are saying now.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -209,13 +209,13 @@ Yahoo Finance • 1h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 12h ago
+Fox News • 13h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 432 • 💬 2 • ⏱️ 2:07:34 • 21h ago
+👁️ 8K • 👍 432 • 💬 2 • ⏱️ 2:07:34 • 22h ago
 
 ---
 
@@ -317,7 +317,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:15 • 13h ago
+👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:15 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ The Treasury is buying back 10–30 year bonds — and paying for it by issuing 
 
 📺 True North
 
-👁️ 1K • 👍 41 • ⏱️ 1:39 • 22h ago
+👁️ 1K • 👍 41 • ⏱️ 1:39 • 23h ago
 
 ---
 
