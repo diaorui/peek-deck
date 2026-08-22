@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T11:45:36.524028+00:00'
+updated: '2026-08-22T12:38:34.832178+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 11:45 UTC  
+**Last Updated:** August 22, 2026 at 12:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +22.5%  
-**30d:** +20.1%  
-**90d:** -0.4%  
-**1y:** -33.3%  
+**24h:** +0.0%  
+**7d:** +22.9%  
+**30d:** +20.4%  
+**90d:** -0.1%  
+**1y:** -33.1%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-7h ago
+8h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-16h ago
+17h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -127,7 +127,7 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 u/Boring_Ad7277
 
-7h ago
+8h ago
 
 ---
 
@@ -135,13 +135,13 @@ u/Boring_Ad7277
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-6h ago
+7h ago
 
 ---
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -149,19 +149,11 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 ## Google News: "bitcoin"
 
-**[Why bitcoin prices are suddenly rallying big-time](https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html)**
-
-Bitcoin is back on the hot list.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -169,13 +161,37 @@ CNBC • 16h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 18h ago
+Bloomberg • 19h ago
+
+---
+
+**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
+
+Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
+
+CNBC • 18h ago
+
+---
+
+**[Tesla And SpaceX CEO Elon Musk’s $40 Trillion U.S. 'Bankruptcy' Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/08/22/elon-musks-40-trillion-nightmare-is-suddenly-coming-true-as-the-bitcoin-price-soars/)**
+
+Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
+
+Forbes • 12m ago
+
+---
+
+**[TRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?](https://finance.yahoo.com/markets/crypto/articles/trump-zec-pol-leave-bitcoin-114839932.html)**
+
+Retail traders on Stocktwits turned to the ‘extremely bullish’ zone for TRUMP and ZEC, while sentiment around Polygon continued to be in the 'bullish' zone.
+
+Yahoo Finance • 49m ago
 
 ---
 
@@ -183,41 +199,29 @@ Bloomberg.com • 18h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 7h ago
+Fox News • 8h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
-**[Crypto shares climb after Treasury's doubled buybacks boost risk assets](https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/)**
+**[Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar](https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1)**
 
-Reuters • 1d ago
+World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades
 
----
-
-**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
-
-Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
-
-CNBC • 2d ago
+Financial Times • 1d ago
 
 ---
 
-**[Bitcoin, Crypto Stocks Pop after Trump Event. Clarity Act Is Still in Doubt.](https://www.barrons.com/articles/bitcoin-coinbase-strategy-trump-clarity-act-d576802f)**
+**[Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder](https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/)**
 
-Barron's • 1d ago
+Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
 
----
-
-**[Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
-
-Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
-
-Investor's Business Daily • 15h ago
+Fortune • 17h ago
 
 ---
 
@@ -281,7 +285,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 2K • 👍 120 • 💬 7 • ⏱️ 1:15 • 8h ago
+👁️ 2K • 👍 120 • 💬 7 • ⏱️ 1:15 • 9h ago
 
 ---
 
@@ -291,7 +295,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 428 • 💬 1 • ⏱️ 2:07:34 • 16h ago
+👁️ 8K • 👍 428 • 💬 1 • ⏱️ 2:07:34 • 17h ago
 
 ---
 
@@ -311,7 +315,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 468 • 💬 7 • ⏱️ 0:58 • 18h ago
+👁️ 25K • 👍 468 • 💬 7 • ⏱️ 0:58 • 19h ago
 
 ---
 
@@ -321,7 +325,7 @@ Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitco
 
 📺 Cointelegraph
 
-👁️ 10K • 👍 182 • 💬 28 • ⏱️ 31:41 • 22h ago
+👁️ 10K • 👍 182 • 💬 28 • ⏱️ 31:41 • 23h ago
 
 ---
 
@@ -361,7 +365,7 @@ FOX Business anchors Lauren Simonetti and Stuart Varney track the latest market 
 
 📺 Fox Business
 
-👁️ 3K • 👍 70 • 💬 8 • ⏱️ 1:14 • 9h ago
+👁️ 3K • 👍 70 • 💬 8 • ⏱️ 1:14 • 10h ago
 
 ---
 

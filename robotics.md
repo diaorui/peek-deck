@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T11:45:36.533321+00:00'
+updated: '2026-08-22T12:38:34.840630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 11:45 UTC  
+**Last Updated:** August 22, 2026 at 12:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-15h ago
+16h ago
 
 ---
 
@@ -56,7 +56,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -78,7 +78,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 15h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 16h ago
 
 ---
 
@@ -98,7 +98,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -122,17 +122,17 @@ Business Insider • 1d ago
 
 ---
 
-**[Robotic horse and rider steal the spotlight at World Robot Conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
+**[This robotic horse can carry two people over 40 km—see it in action](https://www.futura-sciences.com/en/this-robotic-horse-can-carry-two-people-over-40-km-see-it-in-action_38179/)**
 
-More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
+From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
 
-BBC • 1h ago
+Futura, le média qui explore le monde • 1h ago
 
 ---
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -148,7 +148,7 @@ Financial Times • 11h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 23h ago
+Al Jazeera • 1d ago
 
 ---
 
@@ -162,23 +162,23 @@ Financial Times • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
-**[Amazon is bringing a multibillion-dollar robotics plant to Texas](https://ca.finance.yahoo.com/news/amazon-bringing-multibillion-dollar-robotics-170427895.html)**
+**[Chinese Bodies, American Brains: South Korea's Humanoid Hurdles](https://www.chosun.com/english/industry-en/2026/08/22/GDQMDT3TDFHZVMDN7Z3Z5FJ6TY/)**
 
-The Seattle-based company will bring 300 to 500 jobs to Austin, Texas as it build a multibillion-dollar robotics manufacturing facility.
+Chinese Bodies, American Brains: South Koreas Humanoid Hurdles Domestic humanoids lag, reliant on Chinese hardware and U.S. AI, urging secure sector focus amid global competition
 
-Yahoo! Finance Canada • 1d ago
+조선일보 • 4h ago
 
 ---
 
-**[Fun to Watch, but How Does a High-Jumping Humanoid Help Humanity?](https://spectrum.ieee.org/video-friday-unitree-superhuman)**
+**[Three robotic arms 3D print nuclear vessel for America’s expanding reactor fleet](https://interestingengineering.com/ai-robotics/robotic-arms-3d-print-nuclear-vessel)**
 
-Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more
+Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
 
-IEEE Spectrum • 19h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -212,7 +212,7 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 4K • 👍 61 • 💬 3 • ⏱️ 0:07 • 2h ago
+👁️ 4K • 👍 61 • 💬 3 • ⏱️ 0:07 • 3h ago
 
 ---
 
@@ -232,7 +232,7 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 5K • 👍 19 • 💬 1 • ⏱️ 0:28 • 17h ago
+👁️ 5K • 👍 19 • 💬 1 • ⏱️ 0:28 • 18h ago
 
 ---
 
@@ -242,7 +242,7 @@ ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping
 
 📺 Dark Waters
 
-👁️ 6K • 👍 434 • 💬 22 • ⏱️ 0:24 • 10h ago
+👁️ 6K • 👍 434 • 💬 22 • ⏱️ 0:24 • 11h ago
 
 ---
 
@@ -262,7 +262,7 @@ Researchers at the Max Planck Institute for Intelligent Systems in Germany have 
 
 📺 Dr Ben Miles
 
-👁️ 356K • 👍 26K • 💬 243 • ⏱️ 1:40 • 20h ago
+👁️ 356K • 👍 26K • 💬 243 • ⏱️ 1:40 • 21h ago
 
 ---
 
@@ -272,7 +272,7 @@ China has been showcasing its growing robotics industry with robots designed to 
 
 📺 Al Jazeera English
 
-👁️ 98K • 👍 2K • 💬 103 • ⏱️ 0:33 • 23h ago
+👁️ 98K • 👍 2K • 💬 103 • ⏱️ 0:33 • 1d ago
 
 ---
 

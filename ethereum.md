@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T11:45:36.530104+00:00'
+updated: '2026-08-22T12:38:34.837727+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 11:45 UTC  
+**Last Updated:** August 22, 2026 at 12:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,418.95
+### $2,435.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +28.5%  
-**30d:** +29.5%  
-**90d:** +14.1%  
-**1y:** -49.6%  
+**24h:** +1.8%  
+**7d:** +29.6%  
+**30d:** +30.6%  
+**90d:** +15.1%  
+**1y:** -49.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 17h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 20h ago
 
 ---
 
@@ -112,7 +112,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-10h ago
+11h ago
 
 ---
 
@@ -156,15 +156,15 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Ethereum ETF Pulls $221M as ETH Eyes Another Breakout](https://finance.yahoo.com/markets/crypto/articles/ethereum-etf-pulls-221m-eth-104122286.html)**
+**[TRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?](https://finance.yahoo.com/markets/crypto/articles/trump-zec-pol-leave-bitcoin-114839932.html)**
 
-Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
+Retail traders on Stocktwits turned to the ‘extremely bullish’ zone for TRUMP and ZEC, while sentiment around Polygon continued to be in the 'bullish' zone.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -184,14 +184,6 @@ MarketForces Africa • 2d ago
 
 ---
 
-**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
-
-Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
-
-The Motley Fool • 1d ago
-
----
-
 **[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
@@ -200,11 +192,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
+**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
 
-Fortune • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -212,15 +204,7 @@ Fortune • 23h ago
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-FXStreet • 12h ago
-
----
-
-**[Flowra Launches Open Orderflow Auction, Bringing Ethereum's Block-Building Market to Solana](https://hackernoon.com/flowra-launches-open-orderflow-auction-bringing-ethereums-block-building-market-to-solana)**
-
-Flowra launches its Open Orderflow Auction, opening Solana block building to competitive bidding and giving validators programmable inclusion policies.
-
-HackerNoon • 1h ago
+FXStreet • 13h ago
 
 ---
 
@@ -229,6 +213,22 @@ HackerNoon • 1h ago
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
 Ethereum Foundation Blog • 1d ago
+
+---
+
+**[Current price of Ethereum for August 21, 2026](https://fortune.com/article/price-of-ethereum-08-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+
+The Block • 2d ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 209 • 💬 7 • ⏱️ 7:31 • 19h ago
+👁️ 4K • 👍 209 • 💬 7 • ⏱️ 7:31 • 20h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 13K • 👍 469 • 💬 11 • ⏱️ 20:52 • 18h ago
+👁️ 13K • 👍 469 • 💬 11 • ⏱️ 20:52 • 19h ago
 
 ---
 
@@ -302,7 +302,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 70 • ⏱️ 1:25 • 21h ago
+👁️ 1K • 👍 70 • ⏱️ 1:25 • 22h ago
 
 ---
 
@@ -322,7 +322,7 @@ In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in le
 
 📺 Coin Bureau Podcast
 
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 18h ago
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 19h ago
 
 ---
 
