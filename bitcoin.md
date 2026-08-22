@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T15:20:30.549902+00:00'
+updated: '2026-08-22T15:46:36.367589+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 15:20 UTC  
+**Last Updated:** August 22, 2026 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,060.22
+### $77,079.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +22.4%  
-**30d:** +20.0%  
-**90d:** -0.4%  
+**24h:** -0.5%  
+**7d:** +22.6%  
+**30d:** +20.1%  
+**90d:** -0.3%  
 **1y:** -33.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.25B
+**Market Cap:** $1545.93B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.9%
 
 **All-Time Low:** $67.81
-+113721.0%
++113483.5%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,7 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 6h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Geoff Kendrick, head of digital assets research at Standard Chartered, predicts 
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -189,9 +189,19 @@ WRAL • 1h ago
 
 ---
 
-**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
+**[$Bitcoin (BTC.CC)$ how many Wojak's shorted here right before Mr. Bogdanoff pump eeit](https://www.moomoo.com/community/feed/bitcoin-btc-cc-how-many-wojak-s-shorted-here-right-117139533529093)**
 
-MarketWatch • 2h ago
+@Harry the Rizzard 7565 Views|1 Like
+
+Moomoo • 1h ago
+
+---
+
+**[JUST IN: 🇺🇸 US spot Bitcoin ETFs pulled in $1.92 billion this week, marking the strongest week since October 2025 🚀](https://www.moomoo.com/community/feed/just-in-us-spot-bitcoin-etfs-pulled-in-1-92-117139807010821)**
+
+@Bitcoin Magazine 3133 Views|1 Like
+
+Moomoo • 33m ago
 
 ---
 
@@ -214,14 +224,6 @@ WSJ • 15h ago
 World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades
 
 Financial Times • 1d ago
-
----
-
-**[Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder](https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/)**
-
-Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
-
-Fortune • 19h ago
 
 ---
 
@@ -279,33 +281,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
-
-CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
-
-📺 CNBC Television
-
-👁️ 12K • 👍 129 • 💬 25 • ⏱️ 2:30 • 22h ago
-
----
-
 **[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
 
 Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 435 • 💬 125 • ⏱️ 14:55 • 21h ago
-
----
-
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
-
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
-
-📺 Nicholas Crown
-
-👁️ 3K • 👍 140 • 💬 8 • ⏱️ 1:15 • 12h ago
+👁️ 14K • 👍 446 • 💬 144 • ⏱️ 14:55 • 22h ago
 
 ---
 
@@ -315,7 +297,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 431 • 💬 30 • ⏱️ 2:07:34 • 20h ago
+👁️ 8K • 👍 432 • 💬 2 • ⏱️ 2:07:34 • 20h ago
 
 ---
 
@@ -325,27 +307,37 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 80 • ⏱️ 17:33 • 1d ago
+👁️ 37K • 👍 2K • 💬 81 • ⏱️ 17:33 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
 
-📺 Benjamin Cowen
+📺 Nicholas Crown
 
-👁️ 28K • 👍 501 • 💬 7 • ⏱️ 0:58 • 22h ago
+👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:15 • 12h ago
 
 ---
 
-**[[WARNING] Know This about BITCOIN &amp; XRP...NOW‼️](https://www.youtube.com/watch?v=7vmVsxSusq0)**
+**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
 
-Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto Course (   STOCK UP U) ...
+Correlations converging as we speak.
 
-📺 STOCK UP! with LARRY JONES
+📺 Nicholas Crown
 
-👁️ 17K • 👍 1K • 💬 202 • ⏱️ 23:23 • 16h ago
+👁️ 9K • 👍 379 • 💬 8 • ⏱️ 2:20 • 1d ago
+
+---
+
+**[Can I Hit a BITCOIN Block with this NEW Miner!?](https://www.youtube.com/watch?v=bR8kPMaJzes)**
+
+Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
+
+📺 The Hobbyist Miner
+
+👁️ 4K • 👍 195 • 💬 53 • ⏱️ 18:12 • 1d ago
 
 ---
 
@@ -355,17 +347,27 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 4K • 💬 234 • ⏱️ 11:06 • 1d ago
+👁️ 49K • 👍 4K • 💬 237 • ⏱️ 11:06 • 1d ago
 
 ---
 
-**[Bitcoin Short SQUEEZE! Live Trading &amp; TA](https://www.youtube.com/watch?v=nQzRa9_agZM)**
+**[THE TREASURY BUYBACK. #bitcoin #treasury #stocks](https://www.youtube.com/watch?v=7xQgFDnJBy8)**
 
-Zen Master JP Goes Over BTC, Alts, Gold, Silver, NQ & More. Live Trading & TA! Start your prop trading journey with Breakout ...
+The Treasury is buying back 10–30 year bonds — and paying for it by issuing T-bills. Jeff Walton walks through how the two sides ...
 
-📺 Sin City Crypto
+📺 True North
 
-👁️ 14K • 👍 567 • ⏱️ 5:58:35 • 10h ago
+👁️ 1K • 👍 41 • ⏱️ 1:39 • 21h ago
+
+---
+
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 86K • 👍 3K • 💬 171 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -375,7 +377,7 @@ Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitco
 
 📺 Cointelegraph
 
-👁️ 11K • 👍 223 • 💬 31 • ⏱️ 31:41 • 1d ago
+👁️ 13K • 👍 262 • 💬 37 • ⏱️ 31:41 • 1d ago
 
 ---
 

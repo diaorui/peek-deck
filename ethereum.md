@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T15:20:30.553853+00:00'
+updated: '2026-08-22T15:46:36.373591+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 15:20 UTC  
+**Last Updated:** August 22, 2026 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,421.15
+### $2,409.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +28.9%  
-**30d:** +29.9%  
-**90d:** +14.3%  
-**1y:** -49.5%  
+**24h:** +0.2%  
+**7d:** +28.5%  
+**30d:** +29.5%  
+**90d:** +14.1%  
+**1y:** -49.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.82B
+**Market Cap:** $290.97B
 Rank #2
 
 **Circulating Supply:** 120,681,574 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.9%
+-51.3%
 
 **All-Time Low:** $0.43
-+560305.9%
++556673.0%
 
 ---
 
@@ -112,7 +112,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 23h ago
 
 ---
 
@@ -166,14 +166,6 @@ MarketForces Africa • 2d ago
 
 ---
 
-**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
-
-Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
-
-The Motley Fool • 1d ago
-
----
-
 **[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
@@ -194,7 +186,7 @@ FXStreet • 16h ago
 
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-blockchain.news • 4h ago
+blockchain.news • 5h ago
 
 ---
 
@@ -203,6 +195,14 @@ blockchain.news • 4h ago
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
 The Block • 2d ago
+
+---
+
+**[Ethereum price prediction: $4,000 bull case vs $1,500 bear case](https://financefeeds.com/ethereum-price-prediction-4000-bull-case-vs-1500-bear-case/)**
+
+Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
+
+FinanceFeeds • 2h ago
 
 ---
 
@@ -218,7 +218,7 @@ Benzinga • 2d ago
 
 Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 229 • 👍 19 • ⏱️ 4:45 • 3h ago
+👁️ 504 • 👍 26 • 💬 1 • ⏱️ 4:45 • 4h ago
 
 ---
 
@@ -248,37 +248,7 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 113 • ⏱️ 11:29 • 2d ago
-
----
-
-**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 213 • 💬 8 • ⏱️ 7:31 • 22h ago
-
----
-
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
-
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
-
-📺 Crypto Archie
-
-👁️ 1K • 👍 70 • ⏱️ 1:25 • 1d ago
-
----
-
-**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 85K • 👍 3K • 💬 164 • ⏱️ 10:41 • 2d ago
+👁️ 15K • 👍 2K • 💬 115 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -288,7 +258,37 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 17K • 👍 393 • 💬 99 • ⏱️ 41:59 • 1d ago
+👁️ 17K • 👍 401 • 💬 115 • ⏱️ 41:59 • 1d ago
+
+---
+
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
+
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
+
+📺 Crypto Archie
+
+👁️ 1K • 👍 72 • ⏱️ 1:25 • 1d ago
+
+---
+
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 220 • 💬 8 • ⏱️ 7:31 • 23h ago
+
+---
+
+**[The Actual Reason Crypto Coins Are Pumping (most don&#39;t realize yet)](https://www.youtube.com/watch?v=ZlRHM-65P-8)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 86K • 👍 3K • 💬 171 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -298,7 +298,17 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 14K • 👍 485 • 💬 72 • ⏱️ 20:52 • 22h ago
+👁️ 14K • 👍 496 • 💬 25 • ⏱️ 20:52 • 22h ago
+
+---
+
+**[Bitwise: Why Large Allocators Are Deploying Into Ethereum Now (Model Portfolio Explained)](https://www.youtube.com/watch?v=C-ub-6dK4Kc)**
+
+Bitwise CIO Matt Hougan and Head of Research Ryan Rasmussen break down why we are at the beginning of a mega bull cycle ...
+
+📺 The Rollup
+
+👁️ 5K • 👍 115 • 💬 9 • ⏱️ 10:38 • 2d ago
 
 ---
 
@@ -308,7 +318,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 698 • 💬 116 • ⏱️ 11:56 • 1d ago
+👁️ 14K • 👍 699 • 💬 117 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -319,16 +329,6 @@ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com. ✓ STOCKS UP U ...
 📺 Stocks with Josh
 
 👁️ 35K • 👍 3K • 💬 118 • ⏱️ 1:15:54 • 1d ago
-
----
-
-**[Wall Street just chose Ethereum over Bitcoin in July](https://www.youtube.com/watch?v=fFvxJigrt3c)**
-
-In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in less than half that. Why? Bitcoin sits there and earns ...
-
-📺 Coin Bureau Podcast
-
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 0:43 • 22h ago
 
 ---
 
