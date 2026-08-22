@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T21:46:16.683120+00:00'
+updated: '2026-08-22T22:21:39.286645+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 21:46 UTC  
+**Last Updated:** August 22, 2026 at 22:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,430.29
+### $2,420.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +29.9%  
-**30d:** +30.9%  
-**90d:** +15.3%  
-**1y:** -49.0%  
+**24h:** -3.8%  
+**7d:** +29.0%  
+**30d:** +30.0%  
+**90d:** +14.5%  
+**1y:** -49.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-20h ago
+21h ago
 
 ---
 
@@ -168,11 +168,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[TRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?](https://www.tradingview.com/news/stocktwits:acf003d02094b:0-trump-zec-and-pol-leave-bitcoin-and-ethereum-in-the-dust-is-an-altseason-on-the-way/)**
+**[SEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal](https://www.tradingview.com/news/newsbtc:307a1e65b094b:0-sec-opens-comment-period-on-cboe-3x-bitcoin-and-ethereum-etf-proposal/)**
 
-Official Trump (TRUMP) was the clear outperformer, peaking at nearly 100% before giving back much of those gains and settling in around 55% higher on Saturday. But it was not the only one rallying! Along with the TRUMP token, Zcash (ZEC) gained around 30%, briefly reaching around 35%, whereas Pol…
+The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 9h ago
+TradingView • 1d ago
 
 ---
 
@@ -184,19 +184,19 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
+
+Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
+
+FXStreet • 23h ago
+
+---
+
 **[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
 
 Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
 
 MarketForces Africa • 3d ago
-
----
-
-**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
-
-Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
-
-FXStreet • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 1h ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 5h ago
+New York Post • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ New York Post • 5h ago
 
 The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from
 
-Coinpedia • 11h ago
+Coinpedia • 12h ago
 
 ---
 
