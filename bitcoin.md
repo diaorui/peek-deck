@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T11:20:20.563280+00:00'
+updated: '2026-08-22T11:45:36.524028+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 11:20 UTC  
+**Last Updated:** August 22, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,23 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
+**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-Whenever we need another celebratory meme, I vote for Ben.
-
-12h ago
+4h ago
 
 ---
 
-**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-3h ago
+7h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -105,9 +103,17 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 ---
 
-**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-7h ago
+1h ago
+
+---
+
+**[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
+
+Whenever we need another celebratory meme, I vote for Ben.
+
+13h ago
 
 ---
 
@@ -125,23 +131,17 @@ u/Boring_Ad7277
 
 ---
 
-**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
-
-12h ago
-
----
-
 **[Who the heck was responsible for that just now](https://www.reddit.com/r/Bitcoin/comments/1vv3qu1/who_the_heck_was_responsible_for_that_just_now/)**
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-5h ago
+6h ago
 
 ---
 
-**[Sí](https://www.reddit.com/r/Bitcoin/comments/1vuba89/sí/)**
+**[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-1d ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0c
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 23h ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -217,7 +217,7 @@ Barron's • 1d ago
 
 Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 413 • 💬 101 • ⏱️ 14:55 • 17h ago
+👁️ 13K • 👍 413 • 💬 101 • ⏱️ 14:55 • 18h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitco
 
 📺 Cointelegraph
 
-👁️ 10K • 👍 182 • 💬 28 • ⏱️ 31:41 • 21h ago
+👁️ 10K • 👍 182 • 💬 28 • ⏱️ 31:41 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T11:20:20.569792+00:00'
+updated: '2026-08-22T11:45:36.533321+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 11:20 UTC  
+**Last Updated:** August 22, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-49m ago
+1h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-14h ago
+15h ago
 
 ---
 
@@ -84,7 +84,7 @@ ROS News for the Week of August 17th, 2026            We’re down to the wire o
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 1h ago
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ Reuters • 5h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -148,7 +148,7 @@ Financial Times • 10h ago
 
 Humanoid crashes during speed test as China’s robotics industry grows
 
-Al Jazeera • 22h ago
+Al Jazeera • 23h ago
 
 ---
 
@@ -272,7 +272,7 @@ China has been showcasing its growing robotics industry with robots designed to 
 
 📺 Al Jazeera English
 
-👁️ 98K • 👍 2K • 💬 103 • ⏱️ 0:33 • 22h ago
+👁️ 98K • 👍 2K • 💬 103 • ⏱️ 0:33 • 23h ago
 
 ---
 

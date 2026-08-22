@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T11:20:20.557235+00:00'
+updated: '2026-08-22T11:45:36.515321+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 11:20 UTC  
+**Last Updated:** August 22, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +63,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-4h ago
+5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ More reasoning does not automatically mean more factual reliability. OpenAI’s 
 
 In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ WSJ • 1h ago
 
 Fahrenheit 203, the temperature GPUs stop gorging on literature
 
-The Register • 14h ago
+The Register • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 1d ago
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -271,7 +271,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 9 • 19h ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 9 • 20h ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -279,7 +279,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
 
-⬆️ 89 • 💬 143 • 1d ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+⬆️ 89 • 💬 143 • 2d ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -313,7 +313,7 @@ You can download Revolut using this link: https://get.revolut.com/z4lF/codebulle
 
 📺 Code Bullet
 
-👁️ 470K • 👍 42K • 💬 974 • ⏱️ 13:55 • 23h ago
+👁️ 470K • 👍 42K • 💬 974 • ⏱️ 13:55 • 1d ago
 
 ---
 
@@ -654,7 +654,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.8k • 🔱 1.9k • 15h ago
+⭐ 16.8k • 🔱 1.9k • 16h ago
 
 ---
 
@@ -664,7 +664,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 10h ago
+⭐ 14.1k • 🔱 1.7k • 11h ago
 
 ---
 
@@ -674,7 +674,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 20h ago
+⭐ 8.8k • 🔱 1.1k • 21h ago
 
 ---
 
@@ -734,7 +734,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 14h ago
+⭐ 2.0k • 🔱 183 • 15h ago
 
 ---
 
