@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T08:30:01.896999+00:00'
+updated: '2026-08-22T08:59:39.417248+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 08:30 UTC  
+**Last Updated:** August 22, 2026 at 08:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,13 +66,13 @@ What’s the most painful part of getting an ML model from “works on my machin
 
 ROS News for the Week of August 17th, 2026            We’re down to the wire on regular price ROSCon Global tickets! 🚨The last day to purchase regular price tickets is Monday, August 24th.🚨 Next week we’re planning to release registration information for after parties, hackathons, tours, receptions, and after hours events at ROSCon.               In the lead up to ROSCon we have a bunch of fantastic events lined up in the Bay Area and online. Next Tuesday in San...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 12h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-17th-2026/57592) • 13h ago
 
 ---
 
 **[help needed in project selection](https://www.reddit.com/r/robotics/comments/1vuqiya/help_needed_in_project_selection/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -92,7 +92,7 @@ Ever wanted to play robot dodgeball? Well now you can do it here: https://lzyang
 
 **[Sonny – an async rust microkernel replacing ROS 2](https://www.reddit.com/r/robotics/comments/1vuify7/sonny_an_async_rust_microkernel_replacing_ros_2/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 23h ago
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -134,7 +134,7 @@ Reuters • 2h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -154,7 +154,7 @@ WSJ • 2d ago
 
 **[E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future](https://www.wsj.com/articles/e-noses-microscopic-robots-composting-cemeteries-and-more-visions-of-the-future-80cefa6d)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ IEEE Spectrum • 16h ago
 
 Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -212,7 +212,7 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 5K • 👍 18 • 💬 1 • ⏱️ 0:28 • 14h ago
+👁️ 5K • 👍 18 • 💬 1 • ⏱️ 0:28 • 15h ago
 
 ---
 

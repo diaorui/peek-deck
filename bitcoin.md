@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T08:30:01.888683+00:00'
+updated: '2026-08-22T08:59:39.408090+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 08:30 UTC  
+**Last Updated:** August 22, 2026 at 08:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-9h ago
+10h ago
 
 ---
 
 **[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -107,13 +107,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 **[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Hey, let me ask you something . . .](https://www.reddit.com/r/Bitcoin/comments/1vuvc5n/hey_let_me_ask_you_something/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -127,13 +127,13 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 u/Boring_Ad7277
 
-4h ago
+5h ago
 
 ---
 
 **[Average Bitcoin hodler morning routine.🌞](https://www.reddit.com/r/Bitcoin/comments/1vucwvl/average_bitcoin_hodler_morning_routine/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -153,7 +153,7 @@ Just read that US Treasury intervention in the bond markets have not worked and 
 
 Bitcoin is back on the hot list.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 8h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 4h ago
+Fox News • 5h ago
 
 ---
 
@@ -211,7 +211,7 @@ CNBC • 2d ago
 
 President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks Congress to Move Quickly on CLARITY Act Trump hosted White House cryptocurrency summit alongside CFTC Chairman Michael Selig and...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 1:15 • 5h ago
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 1:15 • 6h ago
 
 ---
 

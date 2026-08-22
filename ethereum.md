@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T08:30:01.894106+00:00'
+updated: '2026-08-22T08:59:39.414101+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 08:30 UTC  
+**Last Updated:** August 22, 2026 at 08:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -76,19 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[156 - Doots Podcast with Quotient - Jordan O](https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 14h ago
-
----
-
 **[Stablecoins need Visa more than Visa needs stablecoins](https://www.reddit.com/r/ethereum/comments/1vug531/stablecoins_need_visa_more_than_visa_needs/)**
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
 19h ago
+
+---
+
+**[156 - Doots Podcast with Quotient - Jordan O](https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 15h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 16h ago
 
 Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock’s ETHA once again dominated the session with about $173 ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 20h ago
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 5 • ⏱️ 7:31 • 15h ago
+👁️ 4K • 👍 204 • 💬 5 • ⏱️ 7:31 • 16h ago
 
 ---
 

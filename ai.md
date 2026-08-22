@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T08:30:01.880952+00:00'
+updated: '2026-08-22T08:59:39.399664+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 08:30 UTC  
+**Last Updated:** August 22, 2026 at 08:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-10h ago
+11h ago
 
 ---
 
 **[Someone should tell the folks applying to schools right now](https://www.reddit.com/r/artificial/comments/1vv5vg7/someone_should_tell_the_folks_applying_to_schools/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-5h ago
+6h ago
 
 ---
 
@@ -79,7 +79,7 @@ Mathematical verification must be a national mission in the AI era, write Patric
 
 More reasoning does not automatically mean more factual reliability. OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini. These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance on many tasks does not eliminate factual errors - and can sometimes make unsupported answers more elaborate and convincing. We can think of this operational risk as a “Reasoning Tax”: when a model is given insufficient or poorly governed context, additional reasoning may expand an incorrect premise instead of correcting it. Why can this happen? Research into Large Reasoning Models has identified two relevant behavioral patterns: 1 Flaw Repetition Once reasoning begins from a faulty premise, the model may repeatedly follow variations of the same incorrect logic instead of reconsidering the premise. 2 Think–Answer Mismatch The model’s final answer may not faithfully reflect the conclusion reached during its preceding reasoning process. These findings should not be generalized to every model or every reasoning task. But they reinforce an important architectural lesson: model intelligence cannot compensate for missing, ambiguous, outdated, or poorly retrieved business context. The production response: govern the context A production AI system needs more than a powerful model. A context-sufficiency gate can evaluate whether the retrieved evidence is adequate before generation. If the available context is insufficient, the system can abstain, request clarification, expand retrieval, or route the query for human review. A governed context layer can add: * Verified enterprise knowledge * Entity and relationship structure * Business definitions and ontology * Source provenance and lineage * Access and governance rules * Evidence-linked responses * Confidence and abstention policies This is where graph-enhanced retrieval becomes valuable. Instead of relying only on semantically similar text fragments, a system can retrieve connected entities, relationships, and relevant evidence while preserving traceability to the original sources. It cannot guarantee that an LLM will never hallucinate. It can substantially reduce the space in which the model is forced to speculate - and make unsupported answers easier to detect and control. The brain is only as reliable as the evidence and boundaries provided to it.
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ More reasoning does not automatically mean more factual reliability. OpenAI’s 
 
 In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency, but introducing a validation/retry loop dropped consistency to 62% or lower. Architecture & Testing: Model Setup: GPT-5.4 used across separate instances for the extractor and the judge. Hyperparameter Impact: Default settings produced low, erratic output. (Less than 35% consistency) Explicitly locking ⁠temperature=0⁠ with ⁠reasoning_effort="none"⁠ stabilized standalone extraction at 85%. The Loop: The judge instance inspects the original source text alongside the extracted JSON for source tracing. If any issues are flagged, the error list is fed back into the extraction model to regenerate the JSON. Why it Degrades: Compounding Noise: Even minor variance in the judge's evaluation trips strict binary validation gates, causing unnecessary correction runs. Regeneration Drift: Feeding error notes back into the prompt alters the model's token distributions, leading it to re-derive and mutate fields it originally extracted accurately. Discussion: How are production LLM systems handling self-correction without falling into prompt-drift and compounding error loops? Are granular diff/patch mechanisms or deterministic rule-based gates proving more reliable than full LLM re-prompting?
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 **[EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) • 19h ago
 
 ---
 
@@ -121,7 +121,7 @@ Feels like even after so many years, it's the same story but with better hardwar
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 10h ago
 
 How much is the drive to be "AI-native" changing the core of traditional consulting?
 
-Business Insider • 22m ago
+Business Insider • 52m ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 21h ago
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Guardian • 2h ago
 
 The proposed class of video streamers claims their content is being used to train Amazon’s AI models without permission or compensation.
 
-Courthouse News • 12h ago
+Courthouse News • 13h ago
 
 ---
 
@@ -175,7 +175,7 @@ NVIDIA Developer • 19h ago
 
 One woman is speaking out after she was secretly filmed, saying that technology like Meta's AI-powered smart glasses threatens personal privacy.
 
-CBS News • 14h ago
+CBS News • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ CBS News • 14h ago
 
 Minnesota attorney Faisal S. Ahmed has agreed to a 30-day suspension of his law license for filing a 2025 legal brief that cited nonexistent, AI-hallucinated court cases.
 
-MPR News • 10h ago
+MPR News • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ MPR News • 10h ago
 
 Flock cameras have sparked a nationwide debate over privacy and public safety. But as cities grapple with the technology, some anti-Flock activists are taking matters into their own hands. CNN’s Meena Duerson sits down with masked activist NoMark to understand what’s driving the growing backlash.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -233,7 +233,7 @@ My personal portfolio site and blog.
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 351 • 💬 352 • 20h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 351 • 💬 352 • 21h ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -423,7 +423,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 107,520 • ❤️ 891 • 1d ago
+⬇️ 107,520 • ❤️ 891 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 18,193 • ❤️ 841 • 23h ago
+⬇️ 18,193 • ❤️ 841 • 1d ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 123,956 • ❤️ 469 • 5m ago
+⬇️ 123,956 • ❤️ 469 • 34m ago
 
 ---
 
@@ -660,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.8k • 🔱 1.9k • 12h ago
+⭐ 16.8k • 🔱 1.9k • 13h ago
 
 ---
 
@@ -670,7 +670,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 7h ago
+⭐ 14.1k • 🔱 1.7k • 8h ago
 
 ---
 
@@ -690,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 579 • 18h ago
+⭐ 3.5k • 🔱 579 • 19h ago
 
 ---
 
@@ -710,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 22h ago
+⭐ 2.9k • 🔱 347 • 23h ago
 
 ---
 
@@ -720,7 +720,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 185 • 23h ago
+⭐ 2.2k • 🔱 185 • 1d ago
 
 ---
 
@@ -740,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 11h ago
+⭐ 2.0k • 🔱 183 • 12h ago
 
 ---
 
