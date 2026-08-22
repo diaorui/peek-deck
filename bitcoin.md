@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T15:46:36.367589+00:00'
+updated: '2026-08-22T16:23:47.863059+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 15:46 UTC  
+**Last Updated:** August 22, 2026 at 16:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 u/Boring_Ad7277
 
-11h ago
+12h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ u/Boring_Ad7277
 
 For anyone worried about missing not buying. Everything is gonna be fine.
 
-20h ago
+21h ago
 
 ---
 
@@ -155,7 +155,7 @@ Geoff Kendrick, head of digital assets research at Standard Chartered, predicts 
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 20h ago
 
 Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-WRAL • 1h ago
+WRAL • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ WRAL • 1h ago
 
 @Harry the Rizzard 7565 Views|1 Like
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Moomoo • 1h ago
 
 @Bitcoin Magazine 3133 Views|1 Like
 
-Moomoo • 33m ago
+Moomoo • 1h ago
 
 ---
 
@@ -209,13 +209,13 @@ Moomoo • 33m ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 11h ago
+Fox News • 12h ago
 
 ---
 
 **[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-WSJ • 15h ago
+WSJ • 16h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin tagged $79511 - up 24% from the floor this channel defended three weeks 
 
 📺 Krown
 
-👁️ 8K • 👍 432 • 💬 2 • ⏱️ 2:07:34 • 20h ago
+👁️ 8K • 👍 432 • 💬 2 • ⏱️ 2:07:34 • 21h ago
 
 ---
 
@@ -317,7 +317,7 @@ When the kids' table starts telling the adults what to do, you know trouble is b
 
 📺 Nicholas Crown
 
-👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:15 • 12h ago
+👁️ 4K • 👍 162 • 💬 11 • ⏱️ 1:15 • 13h ago
 
 ---
 
@@ -357,7 +357,7 @@ The Treasury is buying back 10–30 year bonds — and paying for it by issuing 
 
 📺 True North
 
-👁️ 1K • 👍 41 • ⏱️ 1:39 • 21h ago
+👁️ 1K • 👍 41 • ⏱️ 1:39 • 22h ago
 
 ---
 

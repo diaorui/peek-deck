@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T15:46:36.359084+00:00'
+updated: '2026-08-22T16:23:47.854537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 15:46 UTC  
+**Last Updated:** August 22, 2026 at 16:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So what started out as a text based chatbot project 8 months ago as my first ever project as a self taught coder is developing into something different. I've created an agent within my chat bot to help users create a product, using ElevenLabs V3 or OpenAI Realtime voice that works on a conversational basis rather than hardcoded commands The agent can talk to you whilst your in chat or on a panel and navigate you to a particular panel if needed and throughout your session can select and substitutes models based on objectives such as quality or cost, proposes creative next steps, requests consent before paid inference, invokes generation, manipulates an editable multitrack timeline, and controls playback/time line like play video, delete my first image etc - through natural conversation. Then if you wanted to create an image in another panel you can ask the agent via text or voice and they will navigate you to that panel and offer assistance their. Write your prompt for you and then even take that photo to the video suite to animate all using conversational language. What do you think to this concept? I'm looking to further develop the idea across the platform to streamline some of the processes within it as my video demonstrates This is my project i've been working on Everything is a working concept and i'm just finalizing bits before release this week IDE Multi FIle Editor with AI assistant and live preview Split Screen Live Coding Multi Media Studio Editor Single Prompt to Full 2D and 3D Game Development Engine and Web Application Builder Video Editor with timeline controls, video effects, overlays, title, audio, podcast and music composer Music Studio with AI/Custom Lyrics Custom workspace environments with themes, live wallpapers, ambiant background tracks (Default options with light mode/dark mode with no wallpapers or music) Native 25+ Languages with RTL support. Already Hardcoded. Not live translated via web plus many more tools such as Podcast Creator with chat based/ custom context with 50+ voices and MP3 export. Full workflow tools like frame extract, analysis, transcribe, effects, file conversion audio analysis etc ...and of course the original chat bot interface that has cross device persistent multi model memory with vector base knowledge base via OpenAI and platform Drive storage. You can start a conversation with any model on your laptop and next day carry on in a new conversation with another model on your phone with memory preserved across so you dont need to repeat yourself. The memory layer sits above the models entirely so is accessible by any LLM the platform supprts Every tool, every feature i built will be completely free including GPT Nano, Gemini Flash and Deepseek. Users can upload their own work to use for free and chat with selected free tier models with no limits. If the user wants to generate a video or analyze a image, then that would be credit based. No subscription required and no tool access priorities over a non paying user. Thats my concept i'm hoping to have launched in a few days and welcome any feedback/criticism you may have before i do launch.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ So what started out as a text based chatbot project 8 months ago as my first eve
 
 One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns. We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's possible to generate thousands of different examples which train your model in the same manner. This is why the data for post-training becomes really interesting. The valuable examples might be the ones which reveal the weakness of the model, which are based on realistic tasks and provide some way to check if the model managed to complete the task. While searching for such examples, I discovered Parsewave. Their area of expertise is post-training data on engineering tasks, evaluations and traces. But what is interesting is their concept itself - deliberately generating the data on the capabilities which remain challenging for the model instead of generating the big datasets. What do you think about the future direction of AI training? Will the future of AI be about generating the massive datasets or becoming really good at identifying a small number of truly useful examples?
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ One of the questions I've been asking myself recently is how AI training will ev
 
 I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating. Here is my point: whatever I code today, people are going to look at it and say, "It wasn't you, it was AI." The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, "ChatGPT wrote this." It begs a massive question about the future of meritocracy. What kind of incentive do people have to come up with truly creative, original work if they aren’t going to be credited or held responsible for it? Historically, creating something of brilliance, of significance, or of profound artistic value came with the reward of recognition. It proved your skill and your vision. But if the default societal assumption is now, "Whatever, it wasn't you that did it," why bother? Where does the drive to achieve mastery come from when the finish line has been erased by the assumption of automation? I’m really curious how other creators—coders, writers, artists—are dealing with this psychological shift. Are you finding new incentives, or does it feel like the concept of personal merit is slipping away?
 
-17h ago
+18h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been thinking a lot lately about the intersection of AI, copyright, and m
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1h ago
 
 A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-NPR • 17h ago
+NPR • 18h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 17h ago
 
 AI can create a crisis, but it can also help leaders detect threat, understand what’s happening, test responses, annd communicate more effectively when it counts.
 
-Forbes • 3m ago
+Forbes • 40m ago
 
 ---
 
@@ -145,7 +145,7 @@ Forbes • 3m ago
 
 AGI Bar in Beijing’s Zhongguancun district serves as a unique meeting place for AI developers, investors and students, blending the tech atmosphere with social interaction amid China’s AI boom and hosting events for leading AI labs and tech firms.
 
-Channel 3000 • 16m ago
+Channel 3000 • 53m ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo • 1h ago
 
 The breakneck AI transformation of the industry is the kind of technological disruption that many creatives fear could upend movie-making far beyond China.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -169,13 +169,13 @@ CNN • 11h ago
 
 Consumer advocates are urging the FTC to examine whether AI developers are hurting competition and reducing public access to source material.
 
-CBS News • 20h ago
+CBS News • 21h ago
 
 ---
 
 **[Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back](https://www.wsj.com/tech/ai/private-equity-is-deploying-an-army-of-ai-wonks-to-embed-in-the-firms-they-back-96d279ec)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
@@ -183,7 +183,7 @@ WSJ • 23h ago
 
 It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic, says Guardian columnist Timothy Garton Ash
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -281,7 +281,7 @@ Introducing AI Futures, a new OpenAI blog exploring how transformative AI could 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 28 • 💬 29 • 1h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 28 • 💬 29 • 2h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -335,7 +335,7 @@ The DoJ is using your tax dollars to sue any community that resists data centers
 
 📺 Tucker Carlson
 
-👁️ 206K • 👍 10K • 💬 980 • ⏱️ 1:00:28 • 22h ago
+👁️ 206K • 👍 10K • 💬 980 • ⏱️ 1:00:28 • 23h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `26.9B`
 
-⬇️ 164,950 • ❤️ 501 • 6h ago
+⬇️ 164,950 • ❤️ 501 • 7h ago
 
 ---
 
@@ -713,7 +713,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 347 • 3h ago
+⭐ 2.9k • 🔱 347 • 4h ago
 
 ---
 
@@ -723,7 +723,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 254 • 11m ago
+⭐ 2.3k • 🔱 254 • 49m ago
 
 ---
 
@@ -753,7 +753,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 234 • 11h ago
+⭐ 1.9k • 🔱 234 • 12h ago
 
 ---
 

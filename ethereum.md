@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T15:46:36.373591+00:00'
+updated: '2026-08-22T16:23:47.869187+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 15:46 UTC  
+**Last Updated:** August 22, 2026 at 16:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 21h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-14h ago
+15h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 3d ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 4d ago
 
 ---
 
@@ -154,7 +154,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 **[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -178,7 +178,7 @@ CryptoSlate • 1d ago
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
@@ -194,7 +194,7 @@ blockchain.news • 5h ago
 
 Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -218,7 +218,7 @@ Benzinga • 2d ago
 
 Ethereum Staking Bets Grow as iShares ETHB ETF Pulls in $36M Wave of Inflows The iShares Staked Ethereum Trust ETF, ETHB, drew fresh inflows of $35.9 million on Aug...
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 14K • 👍 496 • 💬 25 • ⏱️ 20:52 • 22h ago
+👁️ 14K • 👍 496 • 💬 25 • ⏱️ 20:52 • 23h ago
 
 ---
 
