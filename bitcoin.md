@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-22T17:20:10.588938+00:00'
+updated: '2026-08-22T17:46:15.624575+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 17:20 UTC  
+**Last Updated:** August 22, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,15 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
+
+7h ago
+
+---
+
+**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+
+10h ago
+
+---
+
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
 13h ago
 
 ---
 
-**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+**[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
 
-9h ago
+1d ago
 
 ---
 
@@ -97,18 +109,6 @@ u/Boring_Ad7277
 
 ---
 
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
-
-7h ago
-
----
-
-**[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
-
-1d ago
-
----
-
 **[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
 
 For anyone worried about missing not buying. Everything is gonna be fine.
@@ -117,11 +117,27 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 ---
 
+**[Bitcoin to $500K by the end of 2030.](https://www.reddit.com/r/Bitcoin/comments/1vv704h/bitcoin_to_500k_by_the_end_of_2030/)**
+
+Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
+
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 9h ago
+
+---
+
+**[Bitcoin and Russia Capital Outflows](https://www.reddit.com/r/Bitcoin/comments/1vvdmvx/bitcoin_and_russia_capital_outflows/)**
+
+I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
+
+3h ago
+
+---
+
 **[Cheers to the upside!](https://www.reddit.com/r/Bitcoin/comments/1vuv3zg/cheers_to_the_upside/)**
 
 Whenever we need another celebratory meme, I vote for Ben.
 
-18h ago
+19h ago
 
 ---
 
@@ -129,21 +145,7 @@ Whenever we need another celebratory meme, I vote for Ben.
 
 https://preview.redd.it/vndqru1a5vkh1.png?width=371&format=png&auto=webp&s=dab0ce4e35abc20263940c06581d00133f7d2e63 That was a mad sell off right there
 
-11h ago
-
----
-
-**[Bitcoin to $500K by the end of 2030.](https://www.reddit.com/r/Bitcoin/comments/1vv704h/bitcoin_to_500k_by_the_end_of_2030/)**
-
-Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
-
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 8h ago
-
----
-
-**[People don’t comprehend how violent the upside can get](https://www.reddit.com/r/Bitcoin/comments/1vufj88/people_dont_comprehend_how_violent_the_upside_can/)**
-
-1d ago
+12h ago
 
 ---
 
@@ -163,7 +165,7 @@ Yahoo Finance • 1d ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -177,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -287,7 +289,7 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 446 • 💬 144 • ⏱️ 14:55 • 23h ago
+👁️ 14K • 👍 446 • 💬 144 • ⏱️ 14:55 • 1d ago
 
 ---
 

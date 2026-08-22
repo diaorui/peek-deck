@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-22T17:20:10.594306+00:00'
+updated: '2026-08-22T17:46:15.630639+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 22, 2026 at 17:20 UTC  
+**Last Updated:** August 22, 2026 at 17:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -204,7 +204,7 @@ FXStreet • 18h ago
 
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-blockchain.news • 6h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Block • 3d ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 3h ago
+FinanceFeeds • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 504 • 👍 26 • 💬 1 • ⏱️ 4:45 • 5h ago
+👁️ 504 • 👍 26 • 💬 1 • ⏱️ 4:45 • 6h ago
 
 ---
 

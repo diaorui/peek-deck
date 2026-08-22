@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-22T17:20:10.581468+00:00'
+updated: '2026-08-22T17:46:15.615978+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - videos
 - social
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 22, 2026 at 17:20 UTC  
+**Last Updated:** August 22, 2026 at 17:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Genuine question as someone following this space closely. There's starting to be
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-44m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it used melodies from already existing songs). I was thinking about an AI like this app, but I dont know if there is anything similar that allows me to edit existing lyrics of a song.
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi, I was just wondering if there is an AI Software available, that allows to ed
 
 I learned on a kettlebell forum that I could set up "ground rules" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem. A little while later an AI professional told me in a forum that it was impossible to set rules for AIs. I ran a test asking an AI to start off all of its answers with "Did I tell you I do not like ice cream" the test was a success The AI professional had very technical language and sounded like he knew what he was talking about. COuld someone give help me to understand this better please ? because the technical language of this expert made it sound like he knew what he was talking about and everything I have done so far indicates that the rules I set are having an effect.
 
-14h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Mashable • 1h ago
 
 OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
 
-TechCrunch • 49m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ TechCrunch • 49m ago
 
 AI can create a crisis, but it can also help leaders detect threat, understand what’s happening, test responses, annd communicate more effectively when it counts.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 6h ago
 
 Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.
 
-WIRED • 17h ago
+WIRED • 18h ago
 
 ---
 
@@ -317,7 +317,7 @@ We've found a free AI tool that lets anyone create amazing video content! This n
 
 📺 Africa Amaze
 
-👁️ 3K • 👍 150 • 💬 15 • ⏱️ 9:41 • 20h ago
+👁️ 3K • 👍 150 • 💬 15 • ⏱️ 9:41 • 21h ago
 
 ---
 
@@ -665,7 +665,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 16.9k • 🔱 1.9k • 21h ago
+⭐ 16.9k • 🔱 1.9k • 22h ago
 
 ---
 
@@ -675,7 +675,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 16h ago
+⭐ 14.1k • 🔱 1.7k • 17h ago
 
 ---
 
@@ -725,7 +725,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.3k • 🔱 254 • 1h ago
+⭐ 2.3k • 🔱 254 • 2h ago
 
 ---
 
@@ -745,7 +745,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 183 • 20h ago
+⭐ 2.0k • 🔱 183 • 21h ago
 
 ---
 

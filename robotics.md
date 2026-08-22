@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-22T17:20:10.597106+00:00'
+updated: '2026-08-22T17:46:15.633792+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 22, 2026 at 17:20 UTC  
+**Last Updated:** August 22, 2026 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,13 @@ A little update after about three months of working on this project. One of the 
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-2h ago
+3h ago
 
 ---
 
 **[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 **[👋Welcome to r/RobotLearningTactile - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1vv8vb9/welcome_to_rrobotlearningtactile_introduce/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +76,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
 
-20h ago
+21h ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 7h ago
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -140,7 +140,7 @@ Reuters • 11h ago
 
 Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.
 
-Al Jazeera • 5h ago
+Al Jazeera • 6h ago
 
 ---
 
@@ -148,7 +148,7 @@ Al Jazeera • 5h ago
 
 Beijing policymakers have made robotics a ‘strategic priority’
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ WSJ • 1d ago
 
 Three robotic arms built a nuclear pressure vessel as US researchers test 3D printing to ease a critical forging shortage.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ GALBOT humanoid robots are preparing for an autonomous tennis match that could m
 
 📺 DPCcars
 
-👁️ 4K • 👍 50 • 💬 11 • ⏱️ 1:19 • 23h ago
+👁️ 4K • 👍 50 • 💬 11 • ⏱️ 1:19 • 1d ago
 
 ---
 
