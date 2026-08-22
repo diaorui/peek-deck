@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-21T23:49:20.508604+00:00'
+updated: '2026-08-22T01:14:04.488949+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 21, 2026 at 23:49 UTC  
+**Last Updated:** August 22, 2026 at 01:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,531.40
+### $2,520.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.7%  
-**7d:** +33.8%  
-**30d:** +34.2%  
-**90d:** +20.0%  
-**1y:** -47.9%  
+**24h:** +7.5%  
+**7d:** +34.4%  
+**30d:** +35.4%  
+**90d:** +19.3%  
+**1y:** -47.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.44B
+**Market Cap:** $304.35B
 Rank #2
 
 **Circulating Supply:** 120,681,688 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.0%
 
 **All-Time Low:** $0.43
-+582528.7%
++582727.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 5h ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 8h ago
 
 ---
 
@@ -104,7 +104,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 1d ago
 
 ---
 
@@ -142,7 +142,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/18/allocation-q2-26) • 3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capab
 
 Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -162,7 +162,47 @@ Yahoo Finance • 7h ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 5h ago
+TradingView • 6h ago
+
+---
+
+**[Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink](https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226)**
+
+Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.
+
+The Block • 2d ago
+
+---
+
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://blog.ethereum.org/2026/08/20/better-codes-challenge)**
+
+better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
+
+Ethereum Foundation Blog • 1d ago
+
+---
+
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+
+MarketForces Africa • 2d ago
+
+---
+
+**[EIP-8130 aims to unify account standards for Ethereum’s EVM](https://cryptobriefing.com/eip-8130-unified-evm-account-standard/)**
+
+EIP-8130 proposes a universal account abstraction standard for all EVM chains, cutting transfer costs by 63% with support from Coinbase, Base,
+
+Crypto Briefing • 7h ago
 
 ---
 
@@ -170,59 +210,23 @@ TradingView • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
-**[Tom Lee expects Ethereum to outperform Bitcoin on AI, tokenization](https://crypto.news/tom-lee-expects-ethereum-to-outperform-bitcoin/)**
+**[Better Altcoin Buy: XRP vs. Ethereum](https://www.fool.com/investing/2026/08/19/better-altcoin-buy-xrp-vs-eth/)**
 
-Tom Lee says Ethereum will outperform Bitcoin as BitMine records an 80% ETH correlation and tokenization and AI support his forecast.
+Which of these altcoins has a better shot at a comeback?
 
-Crypto News • 3h ago
-
----
-
-**[Is ethereum a good investment? The bull and bear arguments](https://www.fidelity.com/learning-center/trading-investing/is-ethereum-a-good-investment)**
-
-Is ethereum a good investment? Explore popular arguments for and against the second largest cryptocurrency by market cap.
-
-Fidelity Investments • 3d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum Are Having Good Weeks. Is the Crypto Bull Market Back?](https://www.moomoo.com/news/post/75081268/bitcoin-and-ethereum-are-having-good-weeks-is-the-crypto)**
+**[Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61312234/ethereum-jumps-8-to-2080-as-tom-lee-backs-vlad-tenevs-global-tokenization-supercycle)**
 
-Moomoo • 8h ago
+CEO Vlad Tenev predicts a global tokenization supercycle, backed by Tom Lee. Tokenization could transform finance & expand crypto's role.
 
----
-
-**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
-
-Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
-
-The Motley Fool • 12h ago
-
----
-
-**[Ethereum Price Prediction: Is $2500 The Next Big Target?](https://coinpedia.org/news/ethereum-price-prediction-is-2500-the-next-big-target/)**
-
-Ethereum (ETH) has delivered a major breakout that could create a shift across crypto, according to a recent market analysis.  ETH hit $2,370, surging 25%
-
-Coinpedia • 4h ago
-
----
-
-**[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
-
-CoinDesk • 3d ago
-
----
-
-**[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
-
-Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
-
-FXStreet • 56m ago
+Benzinga • 2d ago
 
 ---
 
@@ -230,13 +234,23 @@ FXStreet • 56m ago
 
 ## YouTube Videos: "ethereum"
 
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 7:31 • 8h ago
+
+---
+
 **[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
 
 Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
 
 📺 Crypto Archie
 
-👁️ 789 • 👍 58 • ⏱️ 1:25 • 9h ago
+👁️ 971 • 👍 60 • ⏱️ 1:25 • 11h ago
 
 ---
 
@@ -246,7 +260,7 @@ BITCOIN BULL MARKET TRAP (Important Update)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 313 • 💬 17 • ⏱️ 20:52 • 6h ago
+👁️ 8K • 👍 364 • 💬 23 • ⏱️ 20:52 • 8h ago
 
 ---
 
@@ -256,17 +270,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 15K • 👍 368 • 💬 74 • ⏱️ 41:59 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X3GjvzmDCls)**
-
-BITCOIN SHORT SQUEEZE: BlackRock is Buying Now!!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 353 • 💬 97 • ⏱️ 26:07 • 22h ago
+👁️ 15K • 👍 373 • 💬 74 • ⏱️ 41:59 • 1d ago
 
 ---
 
@@ -276,37 +280,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 689 • 💬 65 • ⏱️ 11:56 • 1d ago
-
----
-
-**[ETHEREUM BULLRUN UPDATE! (ETH Prediction)](https://www.youtube.com/watch?v=I33pFnhNA6M)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 726 • 👍 31 • 💬 2 • ⏱️ 5:27 • 14h ago
-
----
-
-**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
-
-Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 13K • 👍 881 • 💬 348 • ⏱️ 43:02 • 1d ago
-
----
-
-**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 155 • 💬 28 • ⏱️ 11:13 • 1d ago
+👁️ 14K • 👍 691 • 💬 66 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -316,17 +290,47 @@ In July, Ethereum ETFs pulled in over $365 million while Bitcoin ETFs took in le
 
 📺 Coin Bureau Podcast
 
-👁️ 596 • 👍 21 • ⏱️ 0:43 • 6h ago
+👁️ 890 • 👍 24 • ⏱️ 0:43 • 8h ago
 
 ---
 
-**[A Once In A YEAR Bitcoin Price Signal Just Flashed Ethereum &amp; Altcoins Will Have HUGE Volatility](https://www.youtube.com/watch?v=MN_2DFliq1A)**
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
 
-You wanna know the weirdest part of being in the cryptocurrency market right now? Its that every single analyst on the planet has ...
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
-📺 The Modern Investor
+📺 More Crypto Online
 
-👁️ 7K • 👍 715 • 💬 314 • ⏱️ 28:47 • 2d ago
+👁️ 9K • 👍 294 • 💬 20 • ⏱️ 7:45 • 1d ago
+
+---
+
+**[ETHEREUM BULLRUN UPDATE! (ETH Prediction)](https://www.youtube.com/watch?v=I33pFnhNA6M)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 831 • 👍 31 • 💬 2 • ⏱️ 5:27 • 15h ago
+
+---
+
+**[MASSIVE BTC &amp; ETH PUMP (is this move sustainable?)](https://www.youtube.com/watch?v=XdDc37epX1Y)**
+
+Bitcoin exploded 7% through overhead resistance and above the cloud, but I'm not treating one liquidation-driven candle as proof ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 13K • 👍 885 • 💬 352 • ⏱️ 43:02 • 1d ago
+
+---
+
+**[🔥 Ethereum Caused This Crypto Rally](https://www.youtube.com/watch?v=RrKWaDbA9Yw)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 156 • 💬 30 • ⏱️ 11:13 • 1d ago
 
 ---
 
