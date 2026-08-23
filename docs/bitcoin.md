@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T21:21:05.306004+00:00'
+updated: '2026-08-23T21:46:36.957624+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 21:21 UTC  
+**Last Updated:** August 23, 2026 at 21:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-18h ago
+19h ago
 
 ---
 
@@ -103,7 +103,7 @@ All currency eventually fail, there are no exceptions!
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific "Gift Wallet" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ I really believe gifting Bitcoin to friends and family is one of the most beauti
 
 So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-17h ago
+18h ago
 
 ---
 
@@ -159,17 +159,11 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+**[Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day](https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html)**
 
-WSJ • 2d ago
+Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
----
-
-**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
-
-Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
-
-AP News • 21h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -181,29 +175,9 @@ CNBC • 2d ago
 
 ---
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
-
-Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
 Moomoo • 14h ago
-
----
-
-**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -215,9 +189,11 @@ Fox News • 1d ago
 
 ---
 
-**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+**[Tether's $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters](https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536)**
 
-Reuters • 2d ago
+UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.
+
+The Block • 4h ago
 
 ---
 
@@ -226,6 +202,34 @@ Reuters • 2d ago
 Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
 
 Forbes • 1d ago
+
+---
+
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+
+Reuters • 2d ago
+
+---
+
+**[$219,000 to $60,000: Investor's MSTR Bet for Kids Takes a Big Hit, but Bitcoin Bull Michael Saylor Isn't Sugarcoating It: 'Be Prepared' for Difficult Years](https://www.tradingview.com/news/benzinga:d4fb622f3094b:0-219-000-to-60-000-investor-s-mstr-bet-for-kids-takes-a-big-hit-but-bitcoin-bull-michael-saylor-isn-t-sugarcoating-it-be-prepared-for-difficult-years/)**
+
+Strategy Inc. (NASDAQ:MSTR) executives moved to reassure an investor whose stake lost significant value during the current bear market.Investor Accuses Strategy of Ignoring MSTR holdersDuring Monday’s Q&A with Strategy shareholders, a person named Rob said he invested $73,000 in MSTR for each of hi…
+
+TradingView • 3h ago
+
+---
+
+**[Bitcoin’s Surge Leaves Strategy With $1.4 Billion Profit](https://finance.yahoo.com/markets/crypto/articles/bitcoin-surge-leaves-strategy-1-140100375.html)**
+
+The recent surge in Bitcoin’s (CRYPTO: $BTC) price has given Strategy (NASDAQ: $MSTR) a $1.4 billion U.S. pro...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Strategy's bitcoin position swings to a $1.4 billion unrealized gain](https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges)**
+
+CoinDesk • 2d ago
 
 ---
 
@@ -267,7 +271,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 2d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 3d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -297,7 +301,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 79 • ⏱️ 8:58 • 1d ago
+👁️ 43K • 👍 2K • 💬 79 • ⏱️ 8:58 • 2d ago
 
 ---
 
@@ -307,7 +311,7 @@ While the rest of the crypto space feels overwhelmingly bearish, a unique market
 
 📺 TokenShiftX
 
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:51 • 8h ago
+👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:51 • 9h ago
 
 ---
 
@@ -357,7 +361,7 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 2K • 💬 130 • ⏱️ 17:33 • 2d ago
+👁️ 39K • 👍 2K • 💬 130 • ⏱️ 17:33 • 3d ago
 
 ---
 
