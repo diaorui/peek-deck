@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T17:20:05.452064+00:00'
+updated: '2026-08-23T17:46:18.355601+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 17:20 UTC  
+**Last Updated:** August 23, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-13h ago
+14h ago
 
 ---
 
@@ -173,19 +173,25 @@ AP News • 17h ago
 
 ---
 
-**[Bitcoin’s Hidden Tax Problem: How Inflation Could Inflate Investors’ Capital Gains Bills](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hidden-tax-problem-inflation-130927128.html)**
-
-According to Grover Norquist, the government shouldn't tax Americans on inflation-driven gains it helped create.
-
-Yahoo Finance • 4h ago
-
----
-
 **[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
 CNBC • 1d ago
+
+---
+
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
+
+Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -195,15 +201,15 @@ Moomoo • 11h ago
 
 ---
 
-**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
+**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
-MarketWatch • 1d ago
+WSJ • 2d ago
 
 ---
 
-**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-Reuters • 2d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -215,15 +221,9 @@ Fox News • 1d ago
 
 ---
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
-
-WSJ • 2d ago
+Reuters • 2d ago
 
 ---
 
@@ -295,7 +295,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 21h ago
+👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 22h ago
 
 ---
 
@@ -305,7 +305,7 @@ While the rest of the crypto space feels overwhelmingly bearish, a unique market
 
 📺 TokenShiftX
 
-👁️ 774 • 👍 14 • 💬 1 • ⏱️ 0:51 • 4h ago
+👁️ 774 • 👍 14 • 💬 1 • ⏱️ 0:51 • 5h ago
 
 ---
 
