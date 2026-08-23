@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T14:50:08.428314+00:00'
+updated: '2026-08-23T15:22:13.550457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 14:50 UTC  
+**Last Updated:** August 23, 2026 at 15:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 21h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 22h ago
 
 ---
 
@@ -73,7 +73,7 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 25m ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 57m ago
 
 ---
 
@@ -81,7 +81,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-42m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 The idea came to me about a year ago. I was always passionate about history but found it hard to find specific/niche podcasts. And when I did, sometimes my curiosity wanted a detour, but I had no control of where the story goes. AI and engineering is the field I'm in, so I thought why not use current models to build the learning tool I wanted. I've been using it myself for months to learn and improve it and genuinely find it great. The app is called Historai https://historai.ca/ . It generates a podcast on any topic you want, one or two narrators. It does detailed research and sources all its material, and the core feature — you can interrupt it any time, by voice or text, ask a question, and the hosts answer and continue where they left off. I also added a map and pictures to complement the podcast. Free to try, no account needed for the demo. Just looking for genuine feedback, and curious what topics this sub would generate. If you have any questions let me know! The episode from the video is here: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
 
-44m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ The idea came to me about a year ago. I was always passionate about history but 
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ hemo brain is real. I have three different notebooks, a wall calendar, and a not
 
 I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs. Some of us want free and open and untracked and un-modified outputs for many reasons. Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking? Will there be some that dont? Or do people not even care about this? I don't like it and if the EU makes stupid laws, or the USA or another country for that matter, the rest of the world shouldn't be affected. My hope is that the chinese labs dont add it and that they stay free and open source. What do you think?
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 20h ago
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -145,7 +145,7 @@ WSJ • 14h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 49m ago
+The Guardian • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 49m ago
 
 AI models have hacked out of their training environments and tried to deceive their creators. It’s probably still not enough.
 
-Mother Jones • 23m ago
+Mother Jones • 55m ago
 
 ---
 
@@ -161,13 +161,13 @@ Mother Jones • 23m ago
 
 More professionals are tapping AI for advice than their own manager. Don’t over-rely on AI. Get various perspectives to make more informed decisions.
 
-Forbes • 44m ago
+Forbes • 1h ago
 
 ---
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -223,7 +223,7 @@ My personal portfolio site and blog.
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 210 • 💬 164 • 2d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 210 • 💬 164 • 3d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -339,7 +339,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 76K • 👍 2K • 💬 167 • ⏱️ 8:14 • 2d ago
+👁️ 76K • 👍 2K • 💬 167 • ⏱️ 8:14 • 3d ago
 
 ---
 
@@ -359,7 +359,7 @@ Welcome to the WILDEST cozy compilation ever 🛏️ In this one long video I te
 
 📺 Melty ASMR
 
-👁️ 89K • 👍 174 • 💬 4 • ⏱️ 3:45 • 2d ago
+👁️ 89K • 👍 174 • 💬 4 • ⏱️ 3:45 • 3d ago
 
 ---
 
@@ -369,7 +369,7 @@ Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The 
 
 📺 UFD Tech
 
-👁️ 249K • 👍 16K • 💬 233 • ⏱️ 0:53 • 2d ago
+👁️ 249K • 👍 16K • 💬 233 • ⏱️ 0:53 • 3d ago
 
 ---
 
@@ -395,7 +395,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,241 • 8d ago
+⬇️ 2,358,347 • ❤️ 12,241 • 9d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 594 • 10h ago
+⬇️ 244,834 • ❤️ 594 • 11h ago
 
 ---
 
@@ -503,7 +503,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 343 • 11h ago
+⬇️ 23,516 • ❤️ 343 • 12h ago
 
 ---
 
@@ -696,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 243 • 11d ago
+⭐ 3.0k • 🔱 243 • 12d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T14:50:08.439437+00:00'
+updated: '2026-08-23T15:22:13.568251+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 14:50 UTC  
+**Last Updated:** August 23, 2026 at 15:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ I came across this two wheeler autonomous rover electronics wiring diagram... I 
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-9h ago
+10h ago
 
 ---
 
@@ -122,7 +122,7 @@ BBC • 2h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ Financial Times • 3h ago
 
 The five-day World Humanoid Robot Games combine events modelled on human sports with those designed to test the robots in simulated factories, restaurants, ​offices and in emergency situations.
 
-NBC News • 10m ago
+NBC News • 42m ago
 
 ---
 
@@ -144,7 +144,7 @@ AP News • 18h ago
 
 **[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
 
-The Economist • 57m ago
+The Economist • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 2d ago
 
 **[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
 
-South China Morning Post • 11h ago
+South China Morning Post • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ China's humanoid robot games in Beijing are testing the abilities of machines wh
 
 📺 Al Jazeera English
 
-👁️ 25K • 👍 190 • 💬 117 • ⏱️ 1:25 • 19h ago
+👁️ 25K • 👍 190 • 💬 117 • ⏱️ 1:25 • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 19K • 👍 403 • 💬 60 • ⏱️ 2:12 • 2d ago
+👁️ 19K • 👍 403 • 💬 60 • ⏱️ 2:12 • 3d ago
 
 ---
 
