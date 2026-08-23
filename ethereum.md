@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T16:25:28.253743+00:00'
+updated: '2026-08-23T16:51:57.685363+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 16:25 UTC  
+**Last Updated:** August 23, 2026 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +27.9%  
-**30d:** +30.5%  
-**90d:** +18.0%  
-**1y:** -48.9%  
+**24h:** +1.1%  
+**7d:** +28.4%  
+**30d:** +31.1%  
+**90d:** +18.6%  
+**1y:** -48.7%  
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 21h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 679 • 👍 66 • 💬 7 • ⏱️ 18:53 • 54m ago
+👁️ 679 • 👍 66 • 💬 7 • ⏱️ 18:53 • 1h ago
 
 ---
 
@@ -260,7 +260,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 20h ago
+👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 631 • 👍 86 • 💬 1 • ⏱️ 8:15 • 3h ago
+👁️ 631 • 👍 86 • 💬 1 • ⏱️ 8:15 • 4h ago
 
 ---
 
@@ -310,7 +310,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 356 • 💬 19 • ⏱️ 11:12 • 23h ago
+👁️ 7K • 👍 356 • 💬 19 • ⏱️ 11:12 • 1d ago
 
 ---
 
