@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T15:22:13.559011+00:00'
+updated: '2026-08-23T15:47:25.097318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 15:22 UTC  
+**Last Updated:** August 23, 2026 at 15:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,712.60
+### $77,172.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +20.1%  
-**30d:** +20.3%  
-**90d:** +2.0%  
-**1y:** -31.7%  
+**24h:** -0.1%  
+**7d:** +19.7%  
+**30d:** +20.0%  
+**90d:** +1.7%  
+**1y:** -31.9%  
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Just a friendly reminder, this is why we Bitcoin...](https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/)**
+**[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-All currency eventually fail, there are no exceptions!
-
-12h ago
+2h ago
 
 ---
 
@@ -93,9 +91,19 @@ All currency eventually fail, there are no exceptions!
 
 ---
 
-**[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
+**[Just a friendly reminder, this is why we Bitcoin...](https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/)**
 
-1h ago
+All currency eventually fail, there are no exceptions!
+
+13h ago
+
+---
+
+**[Do your own research](https://www.reddit.com/r/Bitcoin/comments/1vw5zjf/do_your_own_research/)**
+
+I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
+
+3h ago
 
 ---
 
@@ -107,11 +115,11 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 ---
 
-**[Do your own research](https://www.reddit.com/r/Bitcoin/comments/1vw5zjf/do_your_own_research/)**
+**[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
 
-I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
+This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-2h ago
+12h ago
 
 ---
 
@@ -121,19 +129,11 @@ I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and alw
 
 ---
 
-**[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
-
-This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
-
-12h ago
-
----
-
 **[For the hodlers who just dca, how often do you stare at the chart?](https://www.reddit.com/r/Bitcoin/comments/1vvw3mo/for_the_hodlers_who_just_dca_how_often_do_you/)**
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-11h ago
+12h ago
 
 ---
 
@@ -297,7 +297,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 19h ago
+👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 20h ago
 
 ---
 

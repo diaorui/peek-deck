@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T15:22:13.568251+00:00'
+updated: '2026-08-23T15:47:25.105527+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 15:22 UTC  
+**Last Updated:** August 23, 2026 at 15:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 14h ago
 
 ---
 
@@ -68,7 +68,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime...
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 I came across this two wheeler autonomous rover electronics wiring diagram... I only can identify the ardumoto shield, pro mini, logic level converter, apm 2.5 controller and two dc motors... Could someone help me identify rest of the objects and provide more info on this project?
 
-4h ago
+5h ago
 
 ---
 
@@ -114,7 +114,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -130,7 +130,7 @@ Financial Times • 4h ago
 
 The five-day World Humanoid Robot Games combine events modelled on human sports with those designed to test the robots in simulated factories, restaurants, ​offices and in emergency situations.
 
-NBC News • 42m ago
+NBC News • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ NBC News • 42m ago
 
 Chinese humanoid robots have set records including beating Usain Bolt's 100-meter sprint record at the World Humanoid Robot Games in Beijing.
 
-AP News • 18h ago
+AP News • 19h ago
 
 ---
 
@@ -174,7 +174,7 @@ South China Morning Post • 12h ago
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ A humanoid robot clocked 9.39 seconds in the 100m at the World Humanoid Robot Ga
 
 📺 The Federal
 
-👁️ 2K • 👍 53 • 💬 4 • ⏱️ 0:47 • 7h ago
+👁️ 2K • 👍 53 • 💬 4 • ⏱️ 0:47 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 17K • 👍 636 • 💬 151 • ⏱️ 0:52 • 14h ago
+👁️ 17K • 👍 636 • 💬 151 • ⏱️ 0:52 • 15h ago
 
 ---
 
