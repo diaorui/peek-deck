@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T17:46:18.362050+00:00'
+updated: '2026-08-23T18:29:28.819338+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 17:46 UTC  
+**Last Updated:** August 23, 2026 at 18:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-18h ago
+19h ago
 
 ---
 
@@ -66,7 +66,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Hello everyone, You have all probably noticed that there is a lot happening right now in the Robotics. But for some reason getting your hands on hardware if you don’t have a 3d printer and a few extra Benjamin’s in the bank is super difficult. In light of that, I want to announce that in Boston, Action space Hackathon is going to be a space where for 48 hours people are going to be taught and fly drones autonomously! Free to participate and a prize $1000 if you win! Event is happening OCT 24-25th. For more information, you can click the link on luma! This is a huge labor of love between me and my two college friends. We want to make sure we get more people access and hopefully get some engineering minded people thinking about what’s possible with hardware. (sorry if this goes against the advertising rule)
 
-🔗 [luma.com](https://luma.com/xl77cp4v) • 3h ago
+🔗 [luma.com](https://luma.com/xl77cp4v) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-12h ago
+13h ago
 
 ---
 
@@ -124,13 +124,13 @@ NBC News • 1d ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -138,7 +138,7 @@ Reuters • 12h ago
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Robot Report • 1d ago
 
 **[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
 
-The Economist • 3h ago
+The Economist • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Economist • 3h ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 4h ago
+The San Francisco Standard • 5h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 2d ago
 
 **[Chinese robots tackle tennis, smash race records at World Humanoid Robot Games](https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games)**
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
 
 ---
 
@@ -196,7 +196,7 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 20K • 👍 411 • 💬 73 • ⏱️ 2:12 • 3d ago
+👁️ 20K • 👍 411 • 💬 75 • ⏱️ 2:12 • 3d ago
 
 ---
 
@@ -206,7 +206,17 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 19K • 👍 679 • 💬 159 • ⏱️ 0:52 • 17h ago
+👁️ 21K • 👍 723 • 💬 179 • ⏱️ 0:52 • 17h ago
+
+---
+
+**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
+
+Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
+
+📺 DPCcars
+
+👁️ 12K • 👍 32 • 💬 4 • ⏱️ 0:28 • 2d ago
 
 ---
 
@@ -216,7 +226,7 @@ This uncanny artificial mouth can surprisingly reproduce the sound and articulat
 
 📺 Ace Atlantis
 
-👁️ 200K • 👍 915 • 💬 95 • ⏱️ 0:05 • 2d ago
+👁️ 212K • 👍 1K • 💬 97 • ⏱️ 0:05 • 2d ago
 
 ---
 
@@ -230,16 +240,6 @@ Subscribe for more!
 
 ---
 
-**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
-
-A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
-
-📺 New York Post
-
-👁️ 81K • 👍 951 • 💬 691 • ⏱️ 2:04 • 1d ago
-
----
-
 **[Brevity-focused): Welcome to the Future 🤖✨ #AI #Robotics](https://www.youtube.com/watch?v=a26QJ6N5lPM)**
 
 Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTrends #Shorts #FutureTech #islamic ...
@@ -248,17 +248,27 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 
 
-👁️ 30K • 👍 2K • ⏱️ 0:11 • 1d ago
+👁️ 32K • 👍 2K • ⏱️ 0:11 • 1d ago
 
 ---
 
-**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+**[Robotic chess](https://www.youtube.com/watch?v=2h4FA6l5TPs)**
 
-Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+I've always loved chess, and when you add a little technology and robotics to it… I'm sold. So here we go with Chessnut Move ...
 
-📺 ABC News
+📺 Moonshotkidz 
 
-👁️ 47K • 👍 420 • 💬 102 • ⏱️ 0:40 • 19h ago
+👁️ 788 • 👍 16 • ⏱️ 0:35 • 3h ago
+
+---
+
+**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
+
+A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
+
+📺 New York Post
+
+👁️ 84K • 👍 969 • 💬 714 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -268,7 +278,7 @@ Humanoid robots are now officially breaking human speed records on the track. Su
 
 📺 The Genesis Eye
 
-👁️ 40K • 👍 205 • 💬 6 • ⏱️ 0:09 • 1d ago
+👁️ 42K • 👍 206 • 💬 6 • ⏱️ 0:09 • 1d ago
 
 ---
 
@@ -278,17 +288,7 @@ Extra Discount: StuffV70 = $20 Off (Aug 19 - Sep 19) ⚡Exclusive Launch Offer: 
 
 📺 Stuff You Actually Need
 
-👁️ 39K • 👍 997 • 💬 12 • ⏱️ 0:38 • 3d ago
-
----
-
-**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
-
-The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
-
-📺 Custom Adventurist
-
-👁️ 1.9M • 👍 80K • 💬 795 • ⏱️ 1:04 • 5d ago
+👁️ 40K • 👍 1K • 💬 13 • ⏱️ 0:38 • 4d ago
 
 ---
 

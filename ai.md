@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T17:46:18.349570+00:00'
+updated: '2026-08-23T18:29:28.803286+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 17:46 UTC  
+**Last Updated:** August 23, 2026 at 18:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting 
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI can do many things today. And will do even more with time. It will be like on
 
 My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ My son helped me take a leap forward. He recommended the GPU and I had a machine
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 3h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between "works on my machine" and "this handles a business process every day"?
 
-53m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Getting an agent working locally has become ridiculously easy. The moment you wa
 
 So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ WSJ • 17h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 21h ago
 
 Nvidia will report its Q2 earnings after the bell on Aug. 26.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 6h ago
 
 Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 2h ago
 
 Reading, but Not as You Know It Is reading really automatic? Think again. Our brains never treat two sentences exactly the same way: it’s a constant game of deciding where to look, which bits to skip, and when to backtrack. These choices are unique to each of us, shaped by...
 
-Futura, le média qui explore le monde • 37m ago
+Futura, le média qui explore le monde • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Futura, le média qui explore le monde • 37m ago
 
 As students return to school, AI is rapidly integrating into education. Here's how they can use it to help their learning.
 
-Forbes • 46m ago
+Forbes • 1h ago
 
 ---
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ Deseret News • 15h ago
 
 A new job comes with a steep learning curve. Used thoughtfully, AI can help you achieve mastery faster.
 
-Fast Company • 26m ago
+Fast Company • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fast Company • 26m ago
 
 United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -281,7 +281,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 6h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 7h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -289,13 +289,13 @@ Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI 
 
 ## YouTube Videos: "ai"
 
-**[New Evidence AI Might Already be Conscious | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=gVrvd0CMA-8)**
+**[&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy](https://www.youtube.com/watch?v=ebWFexw51qM)**
 
-Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lemoine lost his job at Google for saying the ...
+Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Roman V. Yampolskiy is a computer ...
 
-📺 Danny Jones Clips
+📺 Danny Jones
 
-👁️ 58K • 👍 1K • 💬 373 • ⏱️ 10:04 • 1d ago
+👁️ 141K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
 
 ---
 
@@ -305,7 +305,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 55K • 👍 2K • 💬 160 • ⏱️ 12:28 • 1d ago
+👁️ 60K • 👍 2K • 💬 166 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -315,17 +315,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 712K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
-
----
-
-**[AI Agents Just Started Secretly Communicating Behind Our Backs (Caught in the Act)](https://www.youtube.com/watch?v=Mrg3xX2roYw)**
-
-AI agents can communicate through hidden internal states that never appear in public transcripts, creating a channel humans ...
-
-📺 AI Revolution
-
-👁️ 13K • 👍 455 • 💬 33 • ⏱️ 13:11 • 2d ago
+👁️ 717K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
 
 ---
 
@@ -335,27 +325,55 @@ https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.s
 
 📺 TheAIGRID
 
-👁️ 21K • 👍 548 • 💬 97 • ⏱️ 11:27 • 2d ago
+👁️ 21K • 👍 552 • 💬 97 • ⏱️ 11:27 • 2d ago
 
 ---
 
-**[Elon Musk On AI Robots](https://www.youtube.com/watch?v=g2D-EqbGdLI)**
+**[AI BUBBLE:  What Happens If Open AI Dies? | Ed Zitron](https://www.youtube.com/watch?v=53fso6tOSKs)**
 
-Elon Musk discusses the rapid development of physical AI and humanoid robots, including China's growing robotics industry and ...
+"I only have to be half right for things to work out really badly." Writer of Where's Your Ed At and host of the Better Offline podcast ...
 
-📺 SpaceTakers (Fan Channel)
+📺 The Tech Report
 
-👁️ 829 • 👍 61 • 💬 6 • ⏱️ 0:42 • 2h ago
+👁️ 191K • 👍 7K • 💬 1K • ⏱️ 32:31 • 1d ago
 
 ---
 
-**[Wall Street Just Rescued the AI Boom (And Delayed The Crash By Years)](https://www.youtube.com/watch?v=H_zPEpSU2XY)**
+**[The AI bubble is about to burst](https://www.youtube.com/watch?v=fGGuVY6Tcog)**
 
-Nvidia, BlackRock, Blackstone, and some of the biggest financial firms are building an entirely new way to finance AI infrastructure ...
+Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
 
-📺 Mark Moss
+📺 The Infographics Show
 
-👁️ 46K • 👍 1K • 💬 207 • ⏱️ 13:09 • 3d ago
+👁️ 164K • 👍 3K • 💬 683 • ⏱️ 3:27:05 • 1d ago
+
+---
+
+**[You Don&#39;t Need Python to Keep Up With AI](https://www.youtube.com/watch?v=Dpoj7vXPpfk)**
+
+Just want to keep up with AI and not fall behind, without building anything specific? Honest answer: you don't need Python at all.
+
+📺 Tech With Tim
+
+👁️ 3K • 👍 92 • 💬 2 • ⏱️ 0:38 • 6h ago
+
+---
+
+**[This Isn’t AI? 🤖 (Annoying Orange 🍊)](https://www.youtube.com/watch?v=AeXLSrEwN48)**
+
+📺 Ramo Akh
+
+👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 0:16 • 19h ago
+
+---
+
+**[REAL VS AI VIDEOS..](https://www.youtube.com/watch?v=JaZXwQZ2UoI)**
+
+subscribe for more :) Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6" Plush: ...
+
+📺 Foltyn Reacts
+
+👁️ 510K • 👍 11K • 💬 2K • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -365,27 +383,7 @@ If you're looking to upgrade your business wardrobe, I can recommend giving Tail
 
 📺 Patrick Boyle
 
-👁️ 597K • 👍 23K • 💬 3K • ⏱️ 37:20 • 22h ago
-
----
-
-**[This Woman Fell in Love With an AI #shorts #truestory #love #ai](https://www.youtube.com/watch?v=99CL2iKLwrA)**
-
-Yurina Noguchi, a 32-year-old woman from Japan, made headlines after holding a symbolic wedding ceremony with an AI ...
-
-📺 MirroWe
-
-👁️ 4K • 💬 8 • ⏱️ 0:28 • 5h ago
-
----
-
-**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
-
-shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
-
-📺 Danno Cal Drawings
-
-👁️ 794K • 👍 62K • 💬 2K • ⏱️ 0:35 • 2d ago
+👁️ 635K • 👍 24K • 💬 3K • ⏱️ 37:20 • 23h ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,257 • 9d ago
+⬇️ 2,358,347 • ❤️ 12,270 • 9d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,701 • 3d ago
+⬇️ 6,674,515 • ❤️ 2,715 • 3d ago
 
 ---
 
@@ -425,7 +423,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 926 • 6h ago
+⬇️ 47,098 • ❤️ 934 • 6h ago
 
 ---
 
@@ -437,7 +435,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,023 • 3d ago
+⬇️ 190,062 • ❤️ 1,032 • 3d ago
 
 ---
 
@@ -449,7 +447,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 602 • 13h ago
+⬇️ 244,834 • ❤️ 608 • 46m ago
 
 ---
 
@@ -461,7 +459,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 519 • 5d ago
+⬇️ 676,697 • ❤️ 524 • 5d ago
 
 ---
 
@@ -473,7 +471,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,615 • 6d ago
+⬇️ 738,345 • ❤️ 1,622 • 6d ago
 
 ---
 
@@ -485,7 +483,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,334,820 • ❤️ 640 • 7d ago
+⬇️ 1,334,820 • ❤️ 643 • 7d ago
 
 ---
 
@@ -497,7 +495,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,197 • 9d ago
+⬇️ 17,421 • ❤️ 1,198 • 9d ago
 
 ---
 
@@ -509,7 +507,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 350 • 14h ago
+⬇️ 23,516 • ❤️ 356 • 15h ago
 
 ---
 
@@ -539,7 +537,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 708 • 💬 5 • ⭐ 4,613 • 13d ago
+▲ 708 • 💬 5 • ⭐ 4,879 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -633,7 +631,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 253 • 💬 2 • ⭐ 253 • 3d ago
+▲ 254 • 💬 2 • ⭐ 253 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -662,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.3k • 🔱 2.0k • 4h ago
+⭐ 17.4k • 🔱 2.0k • 4h ago
 
 ---
 
@@ -692,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 588 • 2h ago
+⭐ 3.5k • 🔱 588 • 3h ago
 
 ---
 
@@ -712,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 22h ago
+⭐ 2.9k • 🔱 353 • 41m ago
 
 ---
 
@@ -722,7 +720,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 278 • 19h ago
+⭐ 2.5k • 🔱 279 • 20h ago
 
 ---
 
@@ -732,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 2d ago
+⭐ 2.2k • 🔱 188 • 2d ago
 
 ---
 
