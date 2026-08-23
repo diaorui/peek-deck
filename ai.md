@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T10:23:45.607580+00:00'
+updated: '2026-08-23T10:50:22.698164+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 10:23 UTC  
+**Last Updated:** August 23, 2026 at 10:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-17h ago
+18h ago
 
 ---
 
@@ -49,7 +49,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Our deterministic verification engine passed 66/66 benchmark cases on canonical 
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Everyone talks about chip supply as the bottleneck on AI buildout, but power int
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bloomberg.com • 15h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -143,7 +143,7 @@ WSJ • 10h ago
 
 **[AI bartender stopped serving drinks at Orlando hotel. Here’s why.](https://www.bizjournals.com/orlando/news/2026/08/23/ai-bartender-sara-orlando-hotel-celebration-cut.html)**
 
-The Business Journals • 23m ago
+The Business Journals • 50m ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 22h ago
 
 **[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
 
-Phys.org • 18h ago
+Phys.org • 19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Phys.org • 18h ago
 
 Ox Alpha, a mysterious AI model, debuted on OpenRouter on Thursday. Its origins are unknown, though some suspect a Chinese lab.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 2h ago
 
 **[Alibaba plans $10 billion Hong Kong share placement to fund AI spending](https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ Reuters • 5h ago
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 618 • 💬 894 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 621 • 💬 895 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -205,7 +205,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 484 • 💬 484 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 484 • 💬 485 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -241,15 +241,15 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 ---
 
-**[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
+**[How a Texas student blew the whistle on a rogue AI hacking attempt](https://news.ycombinator.com/item?id=49387959)**
 
-⬆️ 165 • 💬 11 • 1d ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 73 • 1d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 
 ---
 
-**[How a Texas student blew the whistle on a rogue AI hacking attempt](https://news.ycombinator.com/item?id=49387959)**
+**[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 156 • 💬 62 • 1d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+⬆️ 165 • 💬 11 • 1d ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -265,7 +265,7 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 54 • 💬 68 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 54 • 💬 70 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -273,7 +273,7 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 36 • 💬 78 • 18h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 36 • 💬 80 • 18h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.2k • 🔱 2.0k • 2h ago
+⭐ 17.2k • 🔱 2.0k • 3h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 272 • 12h ago
+⭐ 2.4k • 🔱 272 • 13h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T10:23:45.623427+00:00'
+updated: '2026-08-23T10:50:22.716288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 10:23 UTC  
+**Last Updated:** August 23, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-20h ago
+21h ago
 
 ---
 
@@ -52,7 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ BBC • 1d ago
 
 More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
 
-NBC News • 23h ago
+NBC News • 1d ago
 
 ---
 
@@ -136,13 +136,13 @@ The Jerusalem Post • 5h ago
 
 High-tech competitors take the field in synchronized display
 
-Newser • 12h ago
+Newser • 13h ago
 
 ---
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 2d ago
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -182,7 +182,7 @@ Business Insider • 14h ago
 
 Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 12K • 👍 499 • 💬 110 • ⏱️ 0:52 • 9h ago
+👁️ 12K • 👍 499 • 💬 110 • ⏱️ 0:52 • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Chinese humanoid robots broke records set by humans, including beating Usain Bol
 
 📺 ABC7
 
-👁️ 35K • 👍 426 • 💬 108 • ⏱️ 0:42 • 12h ago
+👁️ 35K • 👍 426 • 💬 108 • ⏱️ 0:42 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 31K • 👍 292 • 💬 86 • ⏱️ 0:40 • 11h ago
+👁️ 31K • 👍 292 • 💬 86 • ⏱️ 0:40 • 12h ago
 
 ---
 

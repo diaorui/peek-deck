@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T10:23:45.615218+00:00'
+updated: '2026-08-23T10:50:22.706845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 10:23 UTC  
+**Last Updated:** August 23, 2026 at 10:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +18.6%  
-**30d:** +18.8%  
-**90d:** +0.7%  
-**1y:** -32.6%  
+**24h:** -0.4%  
+**7d:** +19.1%  
+**30d:** +19.3%  
+**90d:** +1.2%  
+**1y:** -32.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-7h ago
+8h ago
 
 ---
 
@@ -131,17 +131,17 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 ---
 
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
+**[Why nobody is talking about this?](https://www.reddit.com/r/Bitcoin/comments/1vw3n6n/why_nobody_is_talking_about_this/)**
 
-1d ago
+Pre initial pump there was extremly high frequency of long positions, day after that pump there was this white house conference with major crypto faces.
+
+21m ago
 
 ---
 
-**[What’s the most unconventional way you’ve ever stacked Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vvwpx9/whats_the_most_unconventional_way_youve_ever/)**
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin 😂 Made me wonder what other weird methods people here have used to stack more BTC? Personally I did the 48h rule : Whenever I want to buy smth, I wait 48h to see if it was just a whim or something I really need. If Idon't need it, I spend the same amount but in BTC What’s yours?
-
-6h ago
+1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 14h ago
+👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 15h ago
 
 ---
 

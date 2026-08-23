@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T10:23:45.620603+00:00'
+updated: '2026-08-23T10:50:22.713048+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 10:23 UTC  
+**Last Updated:** August 23, 2026 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.3%  
-**7d:** +25.7%  
-**30d:** +28.3%  
-**90d:** +16.0%  
-**1y:** -49.8%  
+**7d:** +26.3%  
+**30d:** +28.9%  
+**90d:** +16.6%  
+**1y:** -49.5%  
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 15h ago
+BeInCrypto • 16h ago
 
 ---
 
@@ -210,7 +210,7 @@ BeInCrypto • 15h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 3h ago
+Global South Opportunities • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 3K • 👍 53 • 💬 3 • ⏱️ 4:45 • 22h ago
+👁️ 3K • 👍 53 • 💬 3 • ⏱️ 4:45 • 23h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 330 • 💬 19 • ⏱️ 11:12 • 17h ago
+👁️ 6K • 👍 330 • 💬 19 • ⏱️ 11:12 • 18h ago
 
 ---
 
@@ -270,7 +270,7 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 118 • ⏱️ 11:29 • 2d ago
+👁️ 15K • 👍 2K • 💬 118 • ⏱️ 11:29 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 14h ago
+👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 15h ago
 
 ---
 
