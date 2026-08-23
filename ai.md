@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T08:30:05.347923+00:00'
+updated: '2026-08-23T09:00:18.981952+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 08:30 UTC  
+**Last Updated:** August 23, 2026 at 09:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[GOP urges top AI firms to do something about the toxic image of data centers](https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/)**
-
-GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
-
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 15h ago
-
----
-
 **[Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/)**
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-15h ago
+16h ago
+
+---
+
+**[GOP urges top AI firms to do something about the toxic image of data centers](https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/)**
+
+GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
+
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 16h ago
+
+---
+
+**[An information theory based PCA...](https://www.reddit.com/r/artificial/comments/1vw0vdk/an_information_theory_based_pca/)**
+
+If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ The idea came from a personal frustration: I love history but could never find p
 
 Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs. In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability. The next benchmark version will provide stage-level attribution across transport, parsing, schema validation, normalization, claim binding, evidence graph construction, deterministic verification, and final outcome mapping. https://www.reddit.com/r/ArtificialInteligence/comments/1vucc82/i_benchmarked_my_deterministic_ai_financial/
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +81,7 @@ Our deterministic verification engine passed 66/66 benchmark cases on canonical 
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-12h ago
+13h ago
 
 ---
 
@@ -89,7 +97,7 @@ I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and
 
 As you know, whenever you edit an image via Gemini or OpenAI, they plaster a SynthID to mark it as their own. Further, these SynthIDs can be unqiue, which could be used to track whoever made it. This SynthIDs are imposed on even paid users, and cannot be opted out of this. In response, I created this scrubber. Works on any computer with 8GB of ram. Pretty reliable, automatic, but sucks with text. Have fun.
 
-🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 8h ago
+🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 9h ago
 
 ---
 
@@ -97,7 +105,7 @@ As you know, whenever you edit an image via Gemini or OpenAI, they plaster a Syn
 
 Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
 
-16h ago
+17h ago
 
 ---
 
@@ -109,27 +117,19 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 ---
 
-**[I spent the morning digging into Anthropic so I could write it up properly. The short version](https://www.reddit.com/r/artificial/comments/1vvjmmo/i_spent_the_morning_digging_into_anthropic_so_i/)**
-
-Anthropic appears to be A/B testing reduced effort levels in Claude Code I went through the primary sources and the threads this morning so I could write it up properly, and the short version is: the hype is half right. I collect daily AI news and write guides around exactly these stories at https://apexnexus.site (free, no email wall) if you want the deeper version. The writeup on Anthropic goes up later today. What's your take on Anthropic?
-
-14h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 8h ago
+WSJ • 9h ago
 
 ---
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -147,43 +147,43 @@ Reuters • 12h ago
 
 ---
 
-**[Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'](https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction)**
+**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
 
-Sen. John Fetterman rejected "AI doomsdaying" and echoed President Donald Trump's push for AI development, warning that U.S. overreaction could benefit China.
+AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Fox News • 1h ago
-
----
-
-**[Mystery AI Model Ox Alpha Draws Developers With Free Access](https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access)**
-
-Bloomberg.com • 2h ago
+Financial Times • 36m ago
 
 ---
 
-**[Major tech firms to help upskill Hong Kong workers under ‘AI for All’: Paul Chan](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364965/major-tech-firms-help-upskill-hong-kong-workers-under-ai-all-paul-chan)**
+**[‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks](https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane)**
 
-South China Morning Post • 1h ago
+Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
+
+The Guardian • 58m ago
+
+---
+
+**[Gen Z Is the Canary in AI’s Coal Mine](https://www.bloomberg.com/news/newsletters/2026-08-23/why-gen-z-is-more-pessimistic-about-ai-than-older-americans)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 11h ago
+The New York Times • 21h ago
+
+---
+
+**[Alibaba plans $10 billion Hong Kong share placement to fund AI spending](https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/)**
+
+Reuters • 4h ago
 
 ---
 
 **[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
 
-Phys.org • 16h ago
-
----
-
-**[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
-
-A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
-
-NPR • 1d ago
+Phys.org • 17h ago
 
 ---
 
@@ -305,7 +305,7 @@ Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier 
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 77K • 👍 3K • 💬 95 • ⏱️ 16:51 • 19h ago
+👁️ 77K • 👍 3K • 💬 95 • ⏱️ 16:51 • 20h ago
 
 ---
 
@@ -415,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 34,909 • ❤️ 894 • 1d ago
+⬇️ 34,909 • ❤️ 894 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 142,846 • ❤️ 997 • 2d ago
+⬇️ 142,846 • ❤️ 997 • 3d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 164,950 • ❤️ 565 • 4h ago
+⬇️ 164,950 • ❤️ 565 • 5h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 270 • 10h ago
+⭐ 2.4k • 🔱 270 • 11h ago
 
 ---
 
@@ -723,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 188 • 1d ago
+⭐ 2.2k • 🔱 188 • 2d ago
 
 ---
 

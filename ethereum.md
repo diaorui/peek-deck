@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T08:30:05.362491+00:00'
+updated: '2026-08-23T09:00:18.996696+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 08:30 UTC  
+**Last Updated:** August 23, 2026 at 09:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,6 +168,20 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?](https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up)**
+
+Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
+
+Fast Company • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
+
+Barron's • 1d ago
+
+---
+
 **[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
 Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
@@ -184,19 +198,19 @@ TradingView • 1d ago
 
 ---
 
+**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
+
+Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
+
+BeInCrypto • 14h ago
+
+---
+
 **[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
 CNBC • 3d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
-
-Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
-
-BeInCrypto • 13h ago
 
 ---
 
@@ -212,23 +226,7 @@ CryptoSlate • 2d ago
 
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-blockchain.news • 21h ago
-
----
-
-**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum and Bitcoin, disclosures reveal](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
-
-She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
-
-New York Post • 16h ago
-
----
-
-**[Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase](https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/)**
-
-Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
-
-Crypto Briefing • 11h ago
+blockchain.news • 22h ago
 
 ---
 
@@ -252,7 +250,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 417 • 💬 169 • ⏱️ 18:21 • 10h ago
+👁️ 10K • 👍 417 • 💬 169 • ⏱️ 18:21 • 11h ago
 
 ---
 
@@ -262,7 +260,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 322 • 💬 19 • ⏱️ 11:12 • 15h ago
+👁️ 6K • 👍 322 • 💬 19 • ⏱️ 11:12 • 16h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T08:30:05.356440+00:00'
+updated: '2026-08-23T09:00:18.990548+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 08:30 UTC  
+**Last Updated:** August 23, 2026 at 09:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ All currency eventually fail, there are no exceptions!
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin 😂 Made me wonder what other weird methods people here have used to stack more BTC? Personally I did the 48h rule : Whenever I want to buy smth, I wait 48h to see if it was just a whim or something I really need. If Idon't need it, I spend the same amount but in BTC What’s yours?
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,21 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 8h ago
+AP News • 9h ago
+
+---
+
+**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
+
+Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
+
+CNBC • 1d ago
+
+---
+
+**[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
+
+Moomoo • 2h ago
 
 ---
 
@@ -187,12 +201,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
-
-Moomoo • 2h ago
-
----
-
 **[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
@@ -215,17 +223,9 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-WSJ • 1d ago
-
----
-
-**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
-
-Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
-
-IO Fund • 3d ago
+MarketWatch • 20h ago
 
 ---
 
@@ -275,7 +275,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 4h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 

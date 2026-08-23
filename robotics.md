@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T08:30:05.365684+00:00'
+updated: '2026-08-23T09:00:18.999938+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 08:30 UTC  
+**Last Updated:** August 23, 2026 at 09:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-17h ago
+18h ago
 
 ---
 
@@ -60,7 +60,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 7h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-12h ago
+13h ago
 
 ---
 
@@ -120,7 +120,7 @@ BBC • 22h ago
 
 More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
 
-NBC News • 21h ago
+NBC News • 22h ago
 
 ---
 
@@ -142,7 +142,7 @@ Newser • 11h ago
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -162,14 +162,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
-
-Beijing policymakers have made robotics a ‘strategic priority’
-
-Financial Times • 1d ago
-
----
-
 **[At China's robot Olympics, the finish line comes with a padded wall and a stretcher](https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8)**
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
@@ -178,11 +170,19 @@ Business Insider • 13h ago
 
 ---
 
+**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
+
+Beijing policymakers have made robotics a ‘strategic priority’
+
+Financial Times • 1d ago
+
+---
+
 **[The technology that could bring robot mowers to one in two American lawns](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/)**
 
 Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 8K • 👍 419 • 💬 100 • ⏱️ 0:52 • 7h ago
+👁️ 8K • 👍 419 • 💬 100 • ⏱️ 0:52 • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Chinese humanoid robots broke records set by humans, including beating Usain Bol
 
 📺 ABC7
 
-👁️ 28K • 👍 405 • 💬 103 • ⏱️ 0:42 • 10h ago
+👁️ 28K • 👍 405 • 💬 103 • ⏱️ 0:42 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 
 
-👁️ 25K • 👍 1K • ⏱️ 0:11 • 17h ago
+👁️ 25K • 👍 1K • ⏱️ 0:11 • 18h ago
 
 ---
 
