@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T18:59:32.517327+00:00'
+updated: '2026-08-23T19:28:30.159354+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 18:59 UTC  
+**Last Updated:** August 23, 2026 at 19:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-13h ago
+14h ago
 
 ---
 
@@ -122,7 +122,7 @@ Reuters • 14h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -146,7 +146,7 @@ Euronews.com • 9h ago
 
 High-tech competitors take the field in synchronized display
 
-Newser • 21h ago
+Newser • 22h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Robot Report • 1d ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 5h ago
+The San Francisco Standard • 6h ago
 
 ---
 

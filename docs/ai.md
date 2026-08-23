@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T18:59:32.499602+00:00'
+updated: '2026-08-23T19:28:30.141518+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 18:59 UTC  
+**Last Updated:** August 23, 2026 at 19:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting 
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ Getting an agent working locally has become ridiculously easy. The moment you wa
 
 So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ My son helped me take a leap forward. He recommended the GPU and I had a machine
 
 AI help for me
 
-32m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI help for me
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 4h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 5h ago
 
 ---
 
@@ -123,7 +123,7 @@ AI can do many things today. And will do even more with time. It will be like on
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -131,7 +131,7 @@ WSJ • 18h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 22h ago
 
 Nvidia will report its Q2 earnings after the bell on Aug. 26.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 7h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -155,13 +155,13 @@ The Guardian • 4h ago
 
 Cara was set up specifically for artists who do not consent to having their work used to train AI models. Those principles seem to have made it a target for attacks.
 
-Forbes • 21m ago
+Forbes • 50m ago
 
 ---
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 7h ago
 
 United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 6h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -185,13 +185,13 @@ Financial Times • 10h ago
 
 Fareed asks Evan Osnos of The New Yorker about China’s AI industry, which appears to be catching up and rivaling Silicon Valley.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
 **[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -219,7 +219,7 @@ Recently I've been catching myself having these little moments at work, when I'm
 
 My personal portfolio site and blog.
 
-⬆️ 379 • 💬 209 • 2d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
+⬆️ 379 • 💬 209 • 3d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -333,7 +333,7 @@ https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.s
 
 📺 The Tech Report
 
-👁️ 191K • 👍 7K • 💬 1K • ⏱️ 32:31 • 1d ago
+👁️ 191K • 👍 7K • 💬 1K • ⏱️ 32:31 • 2d ago
 
 ---
 
@@ -353,7 +353,7 @@ Just want to keep up with AI and not fall behind, without building anything spec
 
 📺 Tech With Tim
 
-👁️ 3K • 👍 92 • 💬 2 • ⏱️ 0:38 • 6h ago
+👁️ 3K • 👍 92 • 💬 2 • ⏱️ 0:38 • 7h ago
 
 ---
 
@@ -381,7 +381,7 @@ If you're looking to upgrade your business wardrobe, I can recommend giving Tail
 
 📺 Patrick Boyle
 
-👁️ 635K • 👍 24K • 💬 3K • ⏱️ 37:20 • 23h ago
+👁️ 635K • 👍 24K • 💬 3K • ⏱️ 37:20 • 1d ago
 
 ---
 
@@ -505,7 +505,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 356 • 15h ago
+⬇️ 23,516 • ❤️ 356 • 16h ago
 
 ---
 
@@ -688,7 +688,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 588 • 3h ago
+⭐ 3.5k • 🔱 588 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T18:59:32.508085+00:00'
+updated: '2026-08-23T19:28:30.150031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 18:59 UTC  
+**Last Updated:** August 23, 2026 at 19:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ All currency eventually fail, there are no exceptions!
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 i got 40k euros cash, i live in a 3rd world country where i can get electricity for free What miners do i get? How much will i earn? How loud will they be? I need information please
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ i got 40k euros cash, i live in a 3rd world country where i can get electricity 
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-15h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ AP News • 19h ago
 
 **[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://www.bloomberg.com/news/articles/2026-08-23/bitcoin-rally-leans-on-macro-fears-as-crypto-s-flywheel-turns)**
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 59m ago
 
 Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,13 +191,13 @@ Yahoo Finance • 59m ago
 
 Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 12h ago
+Moomoo • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ Hurley talks about Bitcoin's Secret Price Floor Revealed! Next Bull Run? Brought
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 61 • 💬 2 • ⏱️ 1:29 • 6h ago
+👁️ 1K • 👍 61 • 💬 2 • ⏱️ 1:29 • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ First daily close back above the 200-day SMA after 7+ months below it. The three
 
 📺 Krown
 
-👁️ 540 • 👍 20 • ⏱️ 0:42 • 2h ago
+👁️ 540 • 👍 20 • ⏱️ 0:42 • 3h ago
 
 ---
 
