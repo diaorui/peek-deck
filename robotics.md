@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T03:50:31.322619+00:00'
+updated: '2026-08-23T04:36:27.517999+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 03:50 UTC  
+**Last Updated:** August 23, 2026 at 04:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-14h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-4h ago
+5h ago
 
 ---
 
@@ -58,19 +58,19 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 **[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -78,7 +78,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-7h ago
+8h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Robot Report • 15h ago
 
 The Chinese robotics company Unitree, known for its highly advanced humanoid robots, made a tremendous debut on Shanghai's stock market. The company is considered an industry leader in robotics.
 
-Utah Public Radio • 6h ago
+Utah Public Radio • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ Utah Public Radio • 6h ago
 
 Islam Times - A surge in high-profile events, including Unitree Robotics’ blockbuster initial public offering and the World Robot Conference in Beijing, is highlighting China’s rapid rise as a global hub for robotics innovation and its growing push to deploy robots in real-world applications.
 
-اسلام تايمز • 36m ago
+اسلام تايمز • 1h ago
 
 ---
 
@@ -168,7 +168,7 @@ Islam Times - A surge in high-profile events, including Unitree Robotics’ bloc
 
 The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the president of HireArt.
 
-The Robot Report • 11h ago
+The Robot Report • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ A humanoid robot just completed the 100 meter sprint in 9.39 seconds at the 2026
 
 📺 DPCcars
 
-👁️ 296 • 👍 13 • 💬 2 • ⏱️ 1:04 • 2h ago
+👁️ 296 • 👍 13 • 💬 2 • ⏱️ 1:04 • 3h ago
 
 ---
 

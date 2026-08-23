@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T03:50:31.316331+00:00'
+updated: '2026-08-23T04:36:27.511690+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 03:50 UTC  
+**Last Updated:** August 23, 2026 at 04:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,29 +77,69 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
-
-20h ago
-
----
-
 **[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-6h ago
+7h ago
+
+---
+
+**[Just a friendly reminder, this is why we Bitcoin...](https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/)**
+
+All currency eventually fail, there are no exceptions!
+
+1h ago
+
+---
+
+**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+
+21h ago
+
+---
+
+**[Bitcoin haters secretly googling 'how to buy bitcoin' when they're about to get their first sats.](https://www.reddit.com/r/Bitcoin/comments/1vvwxg3/bitcoin_haters_secretly_googling_how_to_buy/)**
+
+"At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
+
+30m ago
+
+---
+
+**[I built an app that earns Sats by relaying the Bluetooth packets your phone already hears (iOS, Android, or your Umbrel node)](https://www.reddit.com/r/Bitcoin/comments/1vvuh8i/i_built_an_app_that_earns_sats_by_relaying_the/)**
+
+There's a radio in your pocket that hears Bluetooth packets all day: trackers, sensors, beacons. Your phone typically discards every one of them. I built EE Gateway to forward them instead. Open BLE networks need ground coverage the way AirTags need iPhones. Think like a mini cell tower in your pocket - where each phone provides about 100 meters coverage. Your phone can now earn Sats for relaying BLE packets. How it works Your phone (or Umbrel node) scans for BLE broadcasts. Receive-only, it never transmits. 1 sat per unique device identifier (they're ephemeral IDs) per UTC day, paid to the first gateway to forward it. Settlement runs daily over Lightning to your address. The honest caveats, before anyone asks... Earnings track BLE density near you. Logistics corridors are busy, residential streets mostly aren't, and you won't know until you field test. Nobody's getting rich on this today. Pending sats are held custodially until your total clears 1,000 sats, then they land at your Lightning address. Every packet carries the GPS fix age and accuracy it was heard with. A phone without a fresh fix drops the packet, so the coverage data stays honest. The Umbrel/Raspberry Pi version is open source (GPL-3.0). The ask: run it for a few days and tell me what you think. Download Links Umbrel App: https://apps.umbrel.com/app/ee-gateway App Store: https://apps.apple.com/us/app/ee-gateway/id6792848842 Play Store: https://play.google.com/store/apps/details?id=com.encryptedenergy.gateway.android&hl=en_US Site: https://encryptedenergy.com
+
+2h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-17h ago
+18h ago
+
+---
+
+**[For the hodlers who just dca, how often do you stare at the chart?](https://www.reddit.com/r/Bitcoin/comments/1vvw3mo/for_the_hodlers_who_just_dca_how_often_do_you/)**
+
+I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
+
+1h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-23h ago
+1d ago
+
+---
+
+**[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
+
+This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
+
+1h ago
 
 ---
 
@@ -107,43 +147,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 u/Boring_Ad7277
 
-23h ago
-
----
-
-**[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
-
-8h ago
-
----
-
-**[I'm going to wait for October to buy at $40k](https://www.reddit.com/r/Bitcoin/comments/1vugk7n/im_going_to_wait_for_october_to_buy_at_40k/)**
-
 1d ago
-
----
-
-**[Bitcoin to $500K by the end of 2030.](https://www.reddit.com/r/Bitcoin/comments/1vv704h/bitcoin_to_500k_by_the_end_of_2030/)**
-
-Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
-
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 19h ago
-
----
-
-**[For anyone regretting not buying](https://www.reddit.com/r/Bitcoin/comments/1vupth2/for_anyone_regretting_not_buying/)**
-
-For anyone worried about missing not buying. Everything is gonna be fine.
-
-1d ago
-
----
-
-**[Bitcoin and Russia Capital Outflows](https://www.reddit.com/r/Bitcoin/comments/1vvdmvx/bitcoin_and_russia_capital_outflows/)**
-
-I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
-
-13h ago
 
 ---
 
@@ -155,7 +159,7 @@ I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 3h ago
+AP News • 4h ago
 
 ---
 
@@ -183,7 +187,7 @@ Bloomberg • 1d ago
 
 **[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117142386639653)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -191,13 +195,13 @@ Moomoo • 1h ago
 
 Arthur Hayes shares a surprising tip on stocks, gold, and Bitcoin (BTC). Here's exactly what he said and why.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[today $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/today-bitcoin-btc-cc-117142380412933)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -205,7 +209,7 @@ Moomoo • 1h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
