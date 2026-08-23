@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T16:25:28.247670+00:00'
+updated: '2026-08-23T16:51:57.679209+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 16:25 UTC  
+**Last Updated:** August 23, 2026 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,172.73
+### $77,252.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +19.7%  
-**30d:** +20.0%  
-**90d:** +1.7%  
-**1y:** -31.9%  
+**24h:** +0.2%  
+**7d:** +20.1%  
+**30d:** +20.4%  
+**90d:** +2.0%  
+**1y:** -31.7%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-2h ago
+3h ago
+
+---
+
+**[Just a friendly reminder, this is why we Bitcoin...](https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/)**
+
+All currency eventually fail, there are no exceptions!
+
+14h ago
 
 ---
 
@@ -91,11 +99,11 @@ Rank #1
 
 ---
 
-**[Just a friendly reminder, this is why we Bitcoin...](https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/)**
+**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
 
-All currency eventually fail, there are no exceptions!
+Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-13h ago
+19h ago
 
 ---
 
@@ -103,15 +111,7 @@ All currency eventually fail, there are no exceptions!
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-3h ago
-
----
-
-**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
-
-Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
-
-19h ago
+4h ago
 
 ---
 
@@ -295,7 +295,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 20h ago
+👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 21h ago
 
 ---
 
@@ -305,7 +305,7 @@ While the rest of the crypto space feels overwhelmingly bearish, a unique market
 
 📺 TokenShiftX
 
-👁️ 774 • 👍 14 • 💬 1 • ⏱️ 0:51 • 3h ago
+👁️ 774 • 👍 14 • 💬 1 • ⏱️ 0:51 • 4h ago
 
 ---
 
