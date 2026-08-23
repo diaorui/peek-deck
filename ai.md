@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T22:21:54.202413+00:00'
+updated: '2026-08-23T22:48:19.900943+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - social
 - videos
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 22:21 UTC  
+**Last Updated:** August 23, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,12 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 ---
 
+**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
+
+37m ago
+
+---
+
 **[Found a scammer sketch artist on Discord.](https://www.reddit.com/r/artificial/comments/1vw28te/found_a_scammer_sketch_artist_on_discord/)**
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
@@ -53,19 +59,11 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 ---
 
-**[Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts](https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/)**
-
-TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
-
-6h ago
-
----
-
 **[Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.](https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/)**
 
 AI help for me
 
-3h ago
+4h ago
 
 ---
 
@@ -85,19 +83,11 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ---
 
-**[Why does deploying an agent still feel like deploying a side project?](https://www.reddit.com/r/artificial/comments/1vwccjp/why_does_deploying_an_agent_still_feel_like/)**
-
-Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between "works on my machine" and "this handles a business process every day"?
-
-5h ago
-
----
-
 **[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 7h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 8h ago
 
 ---
 
@@ -117,9 +107,23 @@ So Google has to show UK users a screen letting them pick their default search e
 
 ---
 
+**[Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts](https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/)**
+
+TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
+
+6h ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
+
+WSJ • 22h ago
+
+---
 
 **[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
 
@@ -129,49 +133,23 @@ The Guardian • 8h ago
 
 ---
 
-**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
-
-WSJ • 22h ago
-
----
-
 **[2028 Dems dodge on Bernie's push to pause AI development](https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders)**
 
-Axios • 50m ago
+Axios • 1h ago
 
 ---
 
-**[AI Data Wars Begin As Google, Mercor And Micro1 Bid For Spirit’s Data](https://www.forbes.com/sites/sandycarter/2026/08/23/ai-data-wars-begin-as-google-mercor-and-micro1-bid-for-spirits-data/)**
+**[US Futures Edge Lower With AI Spending in Focus: Markets Wrap](https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates)**
 
-The AI data wars just hit bankruptcy court: Google bid $10 million for Spirit Airlines' emails and Teams messages. Why your company's archive is now an AI asset.
-
-Forbes • 1h ago
+Bloomberg.com • 37m ago
 
 ---
 
-**[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
+**[AI Is Making The Physical Workplace More Important, Not Less](https://www.forbes.com/sites/ryananderson/2026/08/23/ai-is-making-the-physical-workplace-more-important-not-less/)**
 
-The New York Times • 6h ago
+As AI transforms work, leading companies are rethinking workplace design to boost collaboration, learning, innovation, and AI adoption success.
 
----
-
-**[Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’](https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/)**
-
-Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'
-
-Variety • 9h ago
-
----
-
-**[Dr. Dre Says He Uses AI to Produce Songs](https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009)**
-
-Gizmodo • 1h ago
-
----
-
-**[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
-
-The New York Times • 11h ago
+Forbes • 45m ago
 
 ---
 
@@ -183,11 +161,31 @@ CNBC • 10h ago
 
 ---
 
+**[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
+
+The New York Times • 13h ago
+
+---
+
 **[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 13h ago
+Financial Times • 14h ago
+
+---
+
+**[Nvidia's Q2 earnings to test resurgent AI trade](https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html)**
+
+Nvidia will report its Q2 earnings after the bell on Aug. 26.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Fears of AI-induced armageddon are overdone](https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone)**
+
+The Economist • 13h ago
 
 ---
 
@@ -329,7 +327,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 72K • 👍 3K • 💬 372 • ⏱️ 32:12 • 18h ago
+👁️ 72K • 👍 3K • 💬 372 • ⏱️ 32:12 • 19h ago
 
 ---
 
@@ -419,7 +417,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 945 • 10h ago
+⬇️ 47,098 • ❤️ 945 • 11h ago
 
 ---
 
@@ -443,7 +441,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 614 • 1h ago
+⬇️ 244,834 • ❤️ 614 • 2h ago
 
 ---
 
@@ -656,7 +654,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 8h ago
+⭐ 17.4k • 🔱 2.0k • 9h ago
 
 ---
 
@@ -706,7 +704,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 354 • 4h ago
+⭐ 2.9k • 🔱 354 • 5h ago
 
 ---
 
