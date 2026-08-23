@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T06:50:23.028710+00:00'
+updated: '2026-08-23T07:33:27.924474+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
-- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 06:50 UTC  
+**Last Updated:** August 23, 2026 at 07:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 13h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any topic, one or two narrators, does real research and sources its material. The core feature: you can interrupt it any time and ask a question, and the story continues after. There's also a map and period artwork alongside the audio. Free to try, no account needed for the demo. Just looking for genuine feedback, happy to answer questions about how it works. And if you like it feel fee to share it! Podcast generated from the demo video: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ The idea came from a personal frustration: I love history but could never find p
 
 Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs. In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability. The next benchmark version will provide stage-level attribution across transport, parsing, schema validation, normalization, claim binding, evidence graph construction, deterministic verification, and final outcome mapping. https://www.reddit.com/r/ArtificialInteligence/comments/1vucc82/i_benchmarked_my_deterministic_ai_financial/
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Posted about this project a little while ago — quick update since a few things
 
 I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs. Some of us want free and open and untracked and un-modified outputs for many reasons. Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking? Will there be some that dont? Or do people not even care about this? I don't like it and if the EU makes stupid laws, or the USA or another country for that matter, the rest of the world shouldn't be affected. My hope is that the chinese labs dont add it and that they stay free and open source. What do you think?
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and
 
 As you know, whenever you edit an image via Gemini or OpenAI, they plaster a SynthID to mark it as their own. Further, these SynthIDs can be unqiue, which could be used to track whoever made it. This SynthIDs are imposed on even paid users, and cannot be opted out of this. In response, I created this scrubber. Works on any computer with 8GB of ram. Pretty reliable, automatic, but sucks with text. Have fun.
 
-🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 6h ago
+🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ As you know, whenever you edit an image via Gemini or OpenAI, they plaster a Syn
 
 Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Everyone talks about chip supply as the bottleneck on AI buildout, but power int
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-20h ago
+21h ago
 
 ---
 
@@ -113,13 +113,19 @@ I was just wondering what could be, from this point onwards the potential pathwa
 
 Anthropic appears to be A/B testing reduced effort levels in Claude Code I went through the primary sources and the threads this morning so I could write it up properly, and the short version is: the hype is half right. I collect daily AI news and write guides around exactly these stories at https://apexnexus.site (free, no email wall) if you want the deeper version. The writeup on Anthropic goes up later today. What's your take on Anthropic?
 
-12h ago
+13h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
+
+WSJ • 7h ago
+
+---
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
@@ -131,33 +137,39 @@ Bloomberg.com • 12h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports](https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
-**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
+**[Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'](https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction)**
 
-WSJ • 6h ago
+Sen. John Fetterman rejected "AI doomsdaying" and echoed President Donald Trump's push for AI development, warning that U.S. overreaction could benefit China.
+
+Fox News • 41m ago
+
+---
+
+**[Mystery AI Model Ox Alpha Draws Developers With Free Access](https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Major tech firms to help upskill Hong Kong workers under ‘AI for All’: Paul Chan](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364965/major-tech-firms-help-upskill-hong-kong-workers-under-ai-all-paul-chan)**
+
+South China Morning Post • 14m ago
 
 ---
 
 **[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 18h ago
-
----
-
-**[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
-
-A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
-
-NPR • 1d ago
+The New York Times • 10h ago
 
 ---
 
@@ -167,23 +179,11 @@ Phys.org • 15h ago
 
 ---
 
-**[A mysterious free AI model is impressing developers. And nobody knows who made it.](https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8)**
+**[A battle over ‘Italian brainrot’ could shape who owns AI art](https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur)**
 
-Ox Alpha, a mysterious AI model, debuted on OpenRouter on Thursday. Its origins are unknown, though some suspect a Chinese lab.
+A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters.
 
-Business Insider • 10h ago
-
----
-
-**[Connecticut man hid an AI prompt in a court filing. A judge found it.](https://www.ctinsider.com/connecticut/article/connecticut-judge-hidden-ai-prompt-injection-court-22387143.php)**
-
-CT Insider • 21h ago
-
----
-
-**[Juicy Yields Draw Junk Bond ‘Tourists’ to High-Grade AI Debt](https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt)**
-
-Bloomberg.com • 11h ago
+NPR • 1d ago
 
 ---
 
@@ -271,7 +271,7 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 54 • 💬 67 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 54 • 💬 67 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -279,23 +279,33 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 ## YouTube Videos: "ai"
 
-**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
-
-Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
-
-📺 The Economist
-
-👁️ 37K • 👍 1K • 💬 105 • ⏱️ 12:28 • 16h ago
-
----
-
 **[New Evidence AI Might Already be Conscious | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=gVrvd0CMA-8)**
 
 Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lemoine lost his job at Google for saying the ...
 
 📺 Danny Jones Clips
 
-👁️ 48K • 👍 974 • 💬 247 • ⏱️ 10:04 • 1d ago
+👁️ 50K • 👍 1K • 💬 258 • ⏱️ 10:04 • 1d ago
+
+---
+
+**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
+
+Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
+
+📺 The Economist
+
+👁️ 39K • 👍 1K • 💬 110 • ⏱️ 12:28 • 17h ago
+
+---
+
+**[Here&#39;s What Pops The AI Bubble](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+
+Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+
+📺 Felix & Friends (Goat Academy)
+
+👁️ 77K • 👍 3K • 💬 95 • ⏱️ 16:51 • 18h ago
 
 ---
 
@@ -305,7 +315,17 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 687K • 👍 10K • 💬 1K • ⏱️ 12:08 • 2d ago
+👁️ 693K • 👍 10K • 💬 1K • ⏱️ 12:08 • 2d ago
+
+---
+
+**[AI Agents Just Started Secretly Communicating Behind Our Backs (Caught in the Act)](https://www.youtube.com/watch?v=Mrg3xX2roYw)**
+
+AI agents can communicate through hidden internal states that never appear in public transcripts, creating a channel humans ...
+
+📺 AI Revolution
+
+👁️ 13K • 👍 451 • 💬 33 • ⏱️ 13:11 • 2d ago
 
 ---
 
@@ -315,7 +335,27 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 67K • 👍 2K • 💬 151 • ⏱️ 8:14 • 2d ago
+👁️ 70K • 👍 2K • 💬 153 • ⏱️ 8:14 • 2d ago
+
+---
+
+**[How to Make AI Lyric Videos With Suno (Full Workflow)](https://www.youtube.com/watch?v=D__aMwvNzGs)**
+
+Create Your Own AI Music Video with OpenArt https://tolt.link/lyricvideos In this video, I show how to make the song in Suno, ...
+
+📺 Isa does AI
+
+👁️ 13K • 💬 7 • ⏱️ 14:42 • 2d ago
+
+---
+
+**[100% Human Is AI](https://www.youtube.com/watch?v=nMiGq4XpTvk)**
+
+Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The final boss of lying on the internet has just ...
+
+📺 UFD Tech
+
+👁️ 246K • 👍 15K • 💬 230 • ⏱️ 0:53 • 2d ago
 
 ---
 
@@ -325,7 +365,7 @@ This is Jarvis. He talks, he remembers everything we've ever worked on, he pushe
 
 📺 jaredrhod
 
-👁️ 32K • 👍 2K • 💬 143 • ⏱️ 9:09 • 2d ago
+👁️ 33K • 👍 2K • 💬 143 • ⏱️ 9:09 • 2d ago
 
 ---
 
@@ -335,47 +375,7 @@ Titans on Tomorrow Ep. 2 with guest Steve Ballmer Presented by Cardiff: https://
 
 📺 Ben Shapiro
 
-👁️ 46K • 👍 2K • 💬 293 • ⏱️ 50:29 • 2d ago
-
----
-
-**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
-
-shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
-
-📺 Danno Cal Drawings
-
-👁️ 781K • 👍 61K • 💬 904 • ⏱️ 0:35 • 1d ago
-
----
-
-**[Facebook AI Slop Is Ruining Lives](https://www.youtube.com/watch?v=ggYEvbwLgFA)**
-
-The worst side of the internet imaginable... Please subscribe if you havent! Almost to 400k! Reposting clips using #maxxnormann.
-
-📺 Max
-
-👁️ 226K • 👍 16K • 💬 637 • ⏱️ 23:46 • 2d ago
-
----
-
-**[&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy](https://www.youtube.com/watch?v=ebWFexw51qM)**
-
-Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Roman V. Yampolskiy is a computer ...
-
-📺 Danny Jones
-
-👁️ 127K • 👍 2K • 💬 688 • ⏱️ 1:50:40 • 1d ago
-
----
-
-**[AI Learns to Play Mario](https://www.youtube.com/watch?v=zy-ZowzY8rI)**
-
-You can download Revolut using this link: https://get.revolut.com/z4lF/codebullet and get $40 after your first purchase.
-
-📺 Code Bullet
-
-👁️ 627K • 👍 52K • 💬 2K • ⏱️ 13:55 • 1d ago
+👁️ 47K • 👍 2K • 💬 295 • ⏱️ 50:29 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,090,699 • ❤️ 12,180 • 8d ago
+⬇️ 2,090,699 • ❤️ 12,189 • 8d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,320,542 • ❤️ 2,646 • 2d ago
+⬇️ 6,320,542 • ❤️ 2,650 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 34,909 • ❤️ 892 • 1d ago
+⬇️ 34,909 • ❤️ 894 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 164,950 • ❤️ 552 • 2h ago
+⬇️ 164,950 • ❤️ 565 • 3h ago
 
 ---
 
@@ -451,7 +451,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 486,221 • ❤️ 494 • 5d ago
+⬇️ 486,221 • ❤️ 499 • 5d ago
 
 ---
 
@@ -463,7 +463,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,223,422 • ❤️ 627 • 7d ago
+⬇️ 1,223,422 • ❤️ 629 • 7d ago
 
 ---
 
@@ -475,7 +475,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 694,670 • ❤️ 1,579 • 5d ago
+⬇️ 694,670 • ❤️ 1,583 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 16,644 • ❤️ 1,188 • 8d ago
+⬇️ 16,644 • ❤️ 1,189 • 8d ago
 
 ---
 
@@ -499,7 +499,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 12,611 • ❤️ 329 • 3h ago
+⬇️ 12,611 • ❤️ 330 • 4h ago
 
 ---
 
@@ -515,7 +515,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 77 • 💬 2 • ⭐ 1,909 • 6d ago
+▲ 79 • 💬 2 • ⭐ 1,909 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -529,7 +529,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 708 • 💬 5 • ⭐ 4,500 • 13d ago
+▲ 708 • 💬 5 • ⭐ 4,613 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -569,7 +569,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
 
-▲ 14 • 💬 2 • ⭐ 5,561 • 1mo ago
+▲ 15 • 💬 2 • ⭐ 5,561 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
 
@@ -597,7 +597,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 129 • 💬 3 • ⭐ 23,821 • 2mo ago
+▲ 130 • 💬 3 • ⭐ 23,821 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -653,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.1k • 🔱 2.0k • 2h ago
+⭐ 17.2k • 🔱 2.0k • 8m ago
 
 ---
 
@@ -683,7 +683,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 582 • 1d ago
+⭐ 3.5k • 🔱 585 • 1d ago
 
 ---
 
@@ -703,7 +703,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 352 • 11h ago
+⭐ 2.9k • 🔱 353 • 12h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 269 • 9h ago
+⭐ 2.4k • 🔱 270 • 9h ago
 
 ---
 
