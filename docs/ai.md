@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T19:48:01.647156+00:00'
+updated: '2026-08-23T20:22:56.374113+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 19:48 UTC  
+**Last Updated:** August 23, 2026 at 20:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts](https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/)**
-
-TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
-
-3h ago
-
----
-
 **[Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.](https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/)**
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +49,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-10h ago
+11h ago
 
 ---
 
@@ -73,31 +65,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between "works on my machine" and "this handles a business process every day"?
 
-2h ago
-
----
-
-**[UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think](https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/)**
-
-So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
-
 3h ago
-
----
-
-**[Leap Forward In Progress](https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/)**
-
-My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
-
-4h ago
-
----
-
-**[Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.](https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/)**
-
-AI help for me
-
-1h ago
 
 ---
 
@@ -109,11 +77,43 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 ---
 
-**[The failure mode isnt rebellion. It is "it works anyway"](https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/)**
+**[What military use of AI/robotics advancement could have such a profound effect that whichever country first put it to use could become an overwhelmingly dominant global power?](https://www.reddit.com/r/artificial/comments/1vwhuz8/what_military_use_of_airobotics_advancement_could/)**
 
-AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
+Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?
 
-6h ago
+1m ago
+
+---
+
+**[UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think](https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/)**
+
+So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
+
+4h ago
+
+---
+
+**[Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts](https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/)**
+
+TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
+
+4h ago
+
+---
+
+**[More human or machine](https://www.reddit.com/r/artificial/comments/1vwh8vl/more_human_or_machine/)**
+
+when i ask ai something do you think it answers like a machine or a human? because it's a machine that feeds on human data right?
+
+25m ago
+
+---
+
+**[Leap Forward In Progress](https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/)**
+
+My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
+
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ AI can do many things today. And will do even more with time. It will be like on
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -147,21 +147,43 @@ Yahoo Finance • 8h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[Artists Built A Site To Escape AI. Scrapers Are Coming For It Anyway](https://www.forbes.com/sites/robsalkowitz/2026/08/23/artists-built-a-site-to-escape-ai-scrapers-are-coming-for-it-anyway/)**
+**[McMahon says AI can be a ‘great tool’ for students](https://thehill.com/homenews/education/6045912-mcmahon-ai-k-12-benefits/)**
 
-Cara was set up specifically for artists who do not consent to having their work used to train AI models. Those principles seem to have made it a target for attacks.
-
-Forbes • 1h ago
+The Hill • 36m ago
 
 ---
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
+
+---
+
+**[How to use AI to give yourself a head start at a new job](https://www.fastcompany.com/91593095/how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job)**
+
+A new job comes with a steep learning curve. Used thoughtfully, AI can help you achieve mastery faster.
+
+Fast Company • 3h ago
+
+---
+
+**[Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?](https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-better-ai-201300850.html)**
+
+Oracle has sold off since last fall, but does that make its stock a better bargain than Amazon's?
+
+Yahoo Finance • 9m ago
+
+---
+
+**[Review: ‘Sisters’ raises the question of what happens when we accept the notion that AI is alive and sentient](https://chicago.suntimes.com/theater/2026/08/23/review-sisters-writers-theatre-artificial-intelligence)**
+
+Although the larger, existential questions remain present, playwright Matthew Libby has also crafted what amounts to a very human story about siblings who love each other but also harbor jealousies.
+
+Chicago Sun-Times • 13m ago
 
 ---
 
@@ -169,29 +191,7 @@ The New York Times • 8h ago
 
 United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-CNBC • 7h ago
-
----
-
-**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
-
-AI lab’s Fable 5 has met with sluggish demand from corporate clients
-
-Financial Times • 11h ago
-
----
-
-**[On GPS: How China has kept up with the US on AI](https://www.cnn.com/2026/08/23/world/video/gps-0823-china-us-ai-race)**
-
-Fareed asks Evan Osnos of The New Yorker about China’s AI industry, which appears to be catching up and rivaling Silicon Valley.
-
-CNN • 4h ago
-
----
-
-**[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
-
-The New York Times • 4h ago
+CNBC • 8h ago
 
 ---
 
@@ -271,7 +271,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 8h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 9h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -353,7 +353,7 @@ Just want to keep up with AI and not fall behind, without building anything spec
 
 📺 Tech With Tim
 
-👁️ 3K • 👍 92 • 💬 2 • ⏱️ 0:38 • 7h ago
+👁️ 3K • 👍 92 • 💬 2 • ⏱️ 0:38 • 8h ago
 
 ---
 
@@ -505,7 +505,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 356 • 16h ago
+⬇️ 23,516 • ❤️ 356 • 17h ago
 
 ---
 
@@ -521,7 +521,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 80 • 💬 2 • ⭐ 2,695 • 6d ago
+▲ 80 • 💬 2 • ⭐ 2,695 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -535,7 +535,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 708 • 💬 5 • ⭐ 4,879 • 13d ago
+▲ 708 • 💬 5 • ⭐ 4,879 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -549,7 +549,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 68 • 💬 7 • ⭐ 392 • 3d ago
+▲ 68 • 💬 7 • ⭐ 392 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -629,7 +629,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 254 • 💬 2 • ⭐ 253 • 3d ago
+▲ 254 • 💬 2 • ⭐ 253 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -688,7 +688,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 588 • 4h ago
+⭐ 3.5k • 🔱 588 • 5h ago
 
 ---
 

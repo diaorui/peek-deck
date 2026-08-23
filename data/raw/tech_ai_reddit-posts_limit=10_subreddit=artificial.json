@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/",
-      "published": 1787501959.0,
-      "thumbnail": "https://external-preview.redd.it/ZWRwbmhoeHpnNWxoMa76Lhhkcz2Vgl5415LWXf8HsGCygHcyWqfT7ghBqSZ2.png?width=640&crop=smart&auto=webp&s=37f8267ea702a6976dca4e391b64f22c96508ea1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical \u2014 it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception \u2014 it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away \u2014 the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it \u2014 ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure \"enjoy\" is the right word. I think it's more like \"necessary.\" If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a \u5e08\u5085 (sifu) in my pocket \u2014 why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first \u2014 credentialed or not, senior on speed-dial or not. What's the \"not my job\" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire \u2014 full episode (\"Titans on Tomorrow\" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests."
-    },
-    {
       "title": "Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.",
       "author": "Tanmay_Vermaa",
       "url": "https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/",
@@ -57,39 +46,6 @@
       "description": "Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between \"works on my machine\" and \"this handles a business process every day\"?"
     },
     {
-      "title": "UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/",
-      "published": 1787502067.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does \"search engine\" mean \"ranks and returns links\" or does it mean \"answers your question directly\". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?"
-    },
-    {
-      "title": "Leap Forward In Progress",
-      "author": "dcnotpc",
-      "url": "https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/",
-      "published": 1787497166.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen\u2122 7 9700X \u00d7 16 - **Graphics:** AMD Radeon\u2122 AI Pro R9700 - **Graphics 1:** AMD Ryzen\u2122 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?"
-    },
-    {
-      "title": "Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.",
-      "author": "mynamear",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/",
-      "published": 1787509610.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI help for me"
-    },
-    {
       "title": "Can AI Reach the Logos?",
       "author": "colalolagidget",
       "url": "https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/",
@@ -101,16 +57,60 @@
       "description": "I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self\u2011correcting and coherence\u2011seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I\u2019m posting it because it raises a question: if truth\u2011seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?"
     },
     {
-      "title": "The failure mode isnt rebellion. It is \"it works anyway\"",
-      "author": "dimonb19a",
-      "url": "https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/",
-      "published": 1787492323.0,
+      "title": "What military use of AI/robotics advancement could have such a profound effect that whichever country first put it to use could become an overwhelmingly dominant global power?",
+      "author": "distantpapaya",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwhuz8/what_military_use_of_airobotics_advancement_could/",
+      "published": 1787516468.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: \"I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late.\" My wife said: \"I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own.\" And here is what AI said: \"Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop.\" There is no calculation behind \"I dont care\". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?"
+      "description": "Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world\u2019s near-complete dominant military power?"
+    },
+    {
+      "title": "UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/",
+      "published": 1787502067.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does \"search engine\" mean \"ranks and returns links\" or does it mean \"answers your question directly\". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?"
+    },
+    {
+      "title": "Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/",
+      "published": 1787501959.0,
+      "thumbnail": "https://external-preview.redd.it/ZWRwbmhoeHpnNWxoMa76Lhhkcz2Vgl5415LWXf8HsGCygHcyWqfT7ghBqSZ2.png?width=640&crop=smart&auto=webp&s=37f8267ea702a6976dca4e391b64f22c96508ea1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical \u2014 it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception \u2014 it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away \u2014 the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it \u2014 ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure \"enjoy\" is the right word. I think it's more like \"necessary.\" If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a \u5e08\u5085 (sifu) in my pocket \u2014 why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first \u2014 credentialed or not, senior on speed-dial or not. What's the \"not my job\" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire \u2014 full episode (\"Titans on Tomorrow\" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests."
+    },
+    {
+      "title": "More human or machine",
+      "author": "Inuulipin",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwh8vl/more_human_or_machine/",
+      "published": 1787515054.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "when i ask ai something do you think it answers like a machine or a human? because it's a machine that feeds on human data right?"
+    },
+    {
+      "title": "Leap Forward In Progress",
+      "author": "dcnotpc",
+      "url": "https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/",
+      "published": 1787497166.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen\u2122 7 9700X \u00d7 16 - **Graphics:** AMD Radeon\u2122 AI Pro R9700 - **Graphics 1:** AMD Ryzen\u2122 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?"
     }
   ],
-  "fetched_at": "2026-08-23T18:59:11.728407+00:00"
+  "fetched_at": "2026-08-23T20:22:35.525197+00:00"
 }
