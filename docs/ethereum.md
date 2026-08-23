@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T23:20:33.485257+00:00'
+updated: '2026-08-23T23:45:57.303244+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 23:20 UTC  
+**Last Updated:** August 23, 2026 at 23:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,472.20
+### $2,458.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +28.8%  
-**30d:** +31.4%  
-**90d:** +18.9%  
-**1y:** -48.6%  
+**24h:** +0.8%  
+**7d:** +28.0%  
+**30d:** +30.6%  
+**90d:** +18.1%  
+**1y:** -48.9%  
 
 ---
 
@@ -182,7 +182,7 @@ TradingView • 6h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 12h ago
+CoinMarketCap • 13h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 3d ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 16h ago
+Global South Opportunities • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 6K • 👍 327 • 💬 40 • ⏱️ 18:53 • 7h ago
+👁️ 6K • 👍 327 • 💬 40 • ⏱️ 18:53 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 Stock Moe
 
-👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:45 • 10h ago
+👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:45 • 11h ago
 
 ---
 
@@ -284,7 +284,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 360 • 👍 82 • 💬 71 • ⏱️ 4:20 • 15h ago
+👁️ 360 • 👍 82 • 💬 71 • ⏱️ 4:20 • 16h ago
 
 ---
 

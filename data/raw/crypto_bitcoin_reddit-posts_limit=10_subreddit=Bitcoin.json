@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "Just a friendly reminder, this is why we Bitcoin...",
-      "author": "Good_Extension_9642",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/",
-      "published": 1787453193.0,
-      "thumbnail": "https://preview.redd.it/zhi91em1g1lh1.jpeg?width=640&crop=smart&auto=webp&s=a18cbfb9c661145b757382f11c839352dedf2ab1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "All currency eventually fail, there are no exceptions!"
-    },
-    {
       "title": "78k Resistance break",
       "author": "Ok-Soil-7012",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vwjnly/78k_resistance_break/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "What's going on?????\u00bf\u00bf\u00bf"
+    },
+    {
+      "title": "Just a friendly reminder, this is why we Bitcoin...",
+      "author": "Good_Extension_9642",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/",
+      "published": 1787453193.0,
+      "thumbnail": "https://preview.redd.it/zhi91em1g1lh1.jpeg?width=640&crop=smart&auto=webp&s=a18cbfb9c661145b757382f11c839352dedf2ab1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "All currency eventually fail, there are no exceptions!"
     },
     {
       "title": "AI Agents aren't signing up for bank accounts.",
@@ -46,17 +46,6 @@
       "description": "So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy."
     },
     {
-      "title": "Bitcoin haters secretly googling 'how to buy bitcoin' when they're about to get their first sats.",
-      "author": "Careless_Product_792",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vvwxg3/bitcoin_haters_secretly_googling_how_to_buy/",
-      "published": 1787457978.0,
-      "thumbnail": "https://external-preview.redd.it/M2s4dXk0djl1MWxoMUM2gaZ6FxrzgYvZJtj-Zno3nnpYYoP0PZtpdHGLbwFr.png?width=640&crop=smart&auto=webp&s=47f311fd0e1aedabe01dba75995de04f66015051",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\"At least we're honest about it!\" (No judgment, welcome to the rabbit hole once you're ready to dig in)"
-    },
-    {
       "title": "The best time to sell Bitcoin",
       "author": "HankScorpio2020",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vwisny/the_best_time_to_sell_bitcoin/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Some easy advice for some of you on the fence, or newbies. You never want to sell Bitcoin when it is going down. It's too low and you can't optimize gains. You never want to sell Bitcoin when it is going up. Why would you do that? It will be worth more later! Summary: don't sell. Never a good time."
+    },
+    {
+      "title": "Bitcoin haters secretly googling 'how to buy bitcoin' when they're about to get their first sats.",
+      "author": "Careless_Product_792",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vvwxg3/bitcoin_haters_secretly_googling_how_to_buy/",
+      "published": 1787457978.0,
+      "thumbnail": "https://external-preview.redd.it/M2s4dXk0djl1MWxoMUM2gaZ6FxrzgYvZJtj-Zno3nnpYYoP0PZtpdHGLbwFr.png?width=640&crop=smart&auto=webp&s=47f311fd0e1aedabe01dba75995de04f66015051",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "\"At least we're honest about it!\" (No judgment, welcome to the rabbit hole once you're ready to dig in)"
     },
     {
       "title": "Do your own research",
@@ -79,6 +79,17 @@
       "description": "I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin."
     },
     {
+      "title": "What happened to this community?",
+      "author": "BigNoseParody",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vw89oq/what_happened_to_this_community/",
+      "published": 1787494363.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal."
+    },
+    {
       "title": "Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017",
       "author": "Suitable_Acadia_190",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/",
@@ -90,27 +101,16 @@
       "description": "Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous \"this time it's different, it's finally over\" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to."
     },
     {
-      "title": "The math is mathing",
-      "author": "No-Calligrapher255",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwkcxz/the_math_is_mathing/",
-      "published": 1787522483.0,
-      "thumbnail": "https://preview.redd.it/jtt50js267lh1.jpeg?width=640&crop=smart&auto=webp&s=6463c7fd2941422da29502578b2a871991ee49c5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Fiat = \u267e\ufe0f \ud83d\udc4e"
-    },
-    {
-      "title": "What happened to this community?",
-      "author": "BigNoseParody",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vw89oq/what_happened_to_this_community/",
-      "published": 1787494363.0,
+      "title": "Gifting Bitcoin: a paper wallet tempate",
+      "author": "mfatalay",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwgs15/gifting_bitcoin_a_paper_wallet_tempate/",
+      "published": 1787513976.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal."
+      "description": "I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific \"Gift Wallet\" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!"
     }
   ],
-  "fetched_at": "2026-08-23T22:21:44.386931+00:00"
+  "fetched_at": "2026-08-23T23:45:46.585961+00:00"
 }
