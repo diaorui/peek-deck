@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T15:47:25.089647+00:00'
+updated: '2026-08-23T16:25:28.239257+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 15:47 UTC  
+**Last Updated:** August 23, 2026 at 16:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The failure mode isnt rebellion. It is "it works anyway"](https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/)**
+**[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
 
-AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
+I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-2h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 2h ago
 
 ---
 
@@ -53,11 +53,43 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ---
 
+**[The failure mode isnt rebellion. It is "it works anyway"](https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/)**
+
+AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
+
+2h ago
+
+---
+
+**[Found a scammer sketch artist on Discord.](https://www.reddit.com/r/artificial/comments/1vw28te/found_a_scammer_sketch_artist_on_discord/)**
+
+A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
+
+7h ago
+
+---
+
+**[UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think](https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/)**
+
+So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
+
+4m ago
+
+---
+
+**[Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts](https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/)**
+
+TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
+
+6m ago
+
+---
+
 **[GOP urges top AI firms to do something about the toxic image of data centers](https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/)**
 
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 22h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 23h ago
 
 ---
 
@@ -69,11 +101,11 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 
 ---
 
-**[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
+**[Leap Forward In Progress](https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/)**
 
-I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
+My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 1h ago
+1h ago
 
 ---
 
@@ -81,39 +113,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-1h ago
-
----
-
-**[An AI podcast on any topic that you can interrupt mid-episode and ask questions](https://www.reddit.com/r/artificial/comments/1vw83oh/an_ai_podcast_on_any_topic_that_you_can_interrupt/)**
-
-The idea came to me about a year ago. I was always passionate about history but found it hard to find specific/niche podcasts. And when I did, sometimes my curiosity wanted a detour, but I had no control of where the story goes. AI and engineering is the field I'm in, so I thought why not use current models to build the learning tool I wanted. I've been using it myself for months to learn and improve it and genuinely find it great. The app is called Historai https://historai.ca/ . It generates a podcast on any topic you want, one or two narrators. It does detailed research and sources all its material, and the core feature — you can interrupt it any time, by voice or text, ask a question, and the hosts answer and continue where they left off. I also added a map and pictures to complement the podcast. Free to try, no account needed for the demo. Just looking for genuine feedback, and curious what topics this sub would generate. If you have any questions let me know! The episode from the video is here: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
-
-1h ago
-
----
-
-**[Found a scammer sketch artist on Discord.](https://www.reddit.com/r/artificial/comments/1vw28te/found_a_scammer_sketch_artist_on_discord/)**
-
-A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
-
-6h ago
-
----
-
-**[Anyone wish there was a way to track chemo side effects and meds in one place](https://www.reddit.com/r/artificial/comments/1vw6bg9/anyone_wish_there_was_a_way_to_track_chemo_side/)**
-
-hemo brain is real. I have three different notebooks, a wall calendar, and a notes app and i'm STILL missing doses or forgetting when a symptom started. Is there an app or website for tracking this stuff that doesn't feel like a second job?
-
 2h ago
-
----
-
-**[Will Chinese Open Source Agree to EU Watermarking?](https://www.reddit.com/r/artificial/comments/1vvnwxp/will_chinese_open_source_agree_to_eu_watermarking/)**
-
-I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs. Some of us want free and open and untracked and un-modified outputs for many reasons. Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking? Will there be some that dont? Or do people not even care about this? I don't like it and if the EU makes stupid laws, or the USA or another country for that matter, the rest of the world shouldn't be affected. My hope is that the chinese labs dont add it and that they stay free and open source. What do you think?
-
-18h ago
 
 ---
 
@@ -137,29 +137,21 @@ Bloomberg.com • 21h ago
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 15h ago
+WSJ • 16h ago
 
 ---
 
-**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
+**[‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks](https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane)**
 
-Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
+Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
 
-The Guardian • 1h ago
-
----
-
-**[The Threat of Human Extinction Will Get Congress to Act on AI Safety…Right?](https://www.motherjones.com/politics/2026/08/ai-safety-congress-doom/)**
-
-AI models have hacked out of their training environments and tried to deceive their creators. It’s probably still not enough.
-
-Mother Jones • 1h ago
+The Guardian • 56m ago
 
 ---
 
-**[5 Good Sources Of Career Advice Other Than AI Or Your Manager](https://www.forbes.com/sites/carolinecenizalevine/2026/08/23/5-good-sources-of-career-advice-other-than-ai-or-your-manager/)**
+**[Is AI’s Greatest Promise More Time? How One Executive Is Using AI To Build A Bigger Life.](https://www.forbes.com/sites/dougmelville/2026/08/23/is-ais-greatest-promise-more-time-how-one-executive-is-using-ai-to-build-a-bigger-life/)**
 
-More professionals are tapping AI for advice than their own manager. Don’t over-rely on AI. Get various perspectives to make more informed decisions.
+Should executives be adopting AI to save time and create a bigger life?OpenAI's Tamara Scarlett Miller discusses how leveraging AI helps create time for family and life.
 
 Forbes • 1h ago
 
@@ -167,7 +159,7 @@ Forbes • 1h ago
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -175,19 +167,25 @@ The New York Times • 6h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 7h ago
-
----
-
-**[Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)**
-
-Axios • 4h ago
+Financial Times • 8h ago
 
 ---
 
 **[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
 
 Phys.org • 1d ago
+
+---
+
+**[Synthetic everything is warping America](https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots)**
+
+Axios • 4h ago
+
+---
+
+**[Alibaba launches $10 billion Hong Kong share placement to fund AI spending](https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/)**
+
+Reuters • 2h ago
 
 ---
 
@@ -259,7 +257,7 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 37 • 💬 80 • 23h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 37 • 💬 80 • 1d ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -275,7 +273,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 4h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 5h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -283,23 +281,23 @@ Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI 
 
 ## YouTube Videos: "ai"
 
+**[New Evidence AI Might Already be Conscious | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=gVrvd0CMA-8)**
+
+Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lemoine lost his job at Google for saying the ...
+
+📺 Danny Jones Clips
+
+👁️ 58K • 👍 1K • 💬 373 • ⏱️ 10:04 • 1d ago
+
+---
+
 **[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
 
 Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
 
 📺 The Economist
 
-👁️ 50K • 👍 2K • 💬 147 • ⏱️ 12:28 • 1d ago
-
----
-
-**[New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](https://www.youtube.com/watch?v=rQ4yX5qNYdY)**
-
-HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to ...
-
-📺 AI Search
-
-👁️ 53K • 👍 3K • 💬 313 • ⏱️ 32:12 • 12h ago
+👁️ 55K • 👍 2K • 💬 160 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -309,7 +307,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 708K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
+👁️ 712K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
 
 ---
 
@@ -319,7 +317,7 @@ AI agents can communicate through hidden internal states that never appear in pu
 
 📺 AI Revolution
 
-👁️ 13K • 👍 453 • 💬 33 • ⏱️ 13:11 • 2d ago
+👁️ 13K • 👍 455 • 💬 33 • ⏱️ 13:11 • 2d ago
 
 ---
 
@@ -329,57 +327,57 @@ https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.s
 
 📺 TheAIGRID
 
-👁️ 20K • 👍 544 • 💬 97 • ⏱️ 11:27 • 2d ago
+👁️ 21K • 👍 548 • 💬 97 • ⏱️ 11:27 • 2d ago
 
 ---
 
-**[AI Just Touched the Math God Wrote ](https://www.youtube.com/watch?v=IzrffaZ5v0s)**
+**[Elon Musk On AI Robots](https://www.youtube.com/watch?v=g2D-EqbGdLI)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *An AI failed 650 times at the most famous ...
+Elon Musk discusses the rapid development of physical AI and humanoid robots, including China's growing robotics industry and ...
 
-📺 Julia McCoy
+📺 SpaceTakers (Fan Channel)
 
-👁️ 76K • 👍 2K • 💬 167 • ⏱️ 8:14 • 3d ago
-
----
-
-**[AI BUBBLE:  What Happens If Open AI Dies? | Ed Zitron](https://www.youtube.com/watch?v=53fso6tOSKs)**
-
-"I only have to be half right for things to work out really badly." Writer of Where's Your Ed At and host of the Better Offline podcast ...
-
-📺 The Tech Report
-
-👁️ 186K • 👍 6K • 💬 1K • ⏱️ 32:31 • 1d ago
+👁️ 829 • 👍 61 • 💬 6 • ⏱️ 0:42 • 1h ago
 
 ---
 
-**[Which Fantasy AI Bed Is Your Favorite? 28+  Insane Cozy Beds in 1 Video 🌙](https://www.youtube.com/watch?v=4m9PhBhkw-A)**
+**[Wall Street Just Rescued the AI Boom (And Delayed The Crash By Years)](https://www.youtube.com/watch?v=H_zPEpSU2XY)**
 
-Welcome to the WILDEST cozy compilation ever 🛏️ In this one long video I test **28 completely crazy fantasy AI beds** – all ...
+Nvidia, BlackRock, Blackstone, and some of the biggest financial firms are building an entirely new way to finance AI infrastructure ...
 
-📺 Melty ASMR
+📺 Mark Moss
 
-👁️ 89K • 👍 174 • 💬 4 • ⏱️ 3:45 • 3d ago
-
----
-
-**[100% Human Is AI](https://www.youtube.com/watch?v=nMiGq4XpTvk)**
-
-Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The final boss of lying on the internet has just ...
-
-📺 UFD Tech
-
-👁️ 249K • 👍 16K • 💬 233 • ⏱️ 0:53 • 3d ago
+👁️ 46K • 👍 1K • 💬 207 • ⏱️ 13:09 • 2d ago
 
 ---
 
-**[Here&#39;s What Pops The AI Bubble](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+**[How Much Would an AI Crash Destroy?](https://www.youtube.com/watch?v=wTiYaWFP59Q)**
 
-Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+If you're looking to upgrade your business wardrobe, I can recommend giving Tailor Store a try. Their shirts are made to your ...
 
-📺 Felix & Friends (Goat Academy)
+📺 Patrick Boyle
 
-👁️ 93K • 👍 3K • 💬 110 • ⏱️ 16:51 • 1d ago
+👁️ 597K • 👍 23K • 💬 3K • ⏱️ 37:20 • 21h ago
+
+---
+
+**[This Woman Fell in Love With an AI #shorts #truestory #love #ai](https://www.youtube.com/watch?v=99CL2iKLwrA)**
+
+Yurina Noguchi, a 32-year-old woman from Japan, made headlines after holding a symbolic wedding ceremony with an AI ...
+
+📺 MirroWe
+
+👁️ 4K • 💬 8 • ⏱️ 0:28 • 3h ago
+
+---
+
+**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
+
+shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
+
+📺 Danno Cal Drawings
+
+👁️ 794K • 👍 62K • 💬 2K • ⏱️ 0:35 • 2d ago
 
 ---
 
@@ -395,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,241 • 9d ago
+⬇️ 2,358,347 • ❤️ 12,257 • 9d ago
 
 ---
 
@@ -407,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,683 • 3d ago
+⬇️ 6,674,515 • ❤️ 2,701 • 3d ago
 
 ---
 
@@ -419,7 +417,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 914 • 4h ago
+⬇️ 47,098 • ❤️ 926 • 4h ago
 
 ---
 
@@ -431,7 +429,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,018 • 3d ago
+⬇️ 190,062 • ❤️ 1,023 • 3d ago
 
 ---
 
@@ -443,7 +441,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 594 • 11h ago
+⬇️ 244,834 • ❤️ 602 • 12h ago
 
 ---
 
@@ -455,19 +453,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 513 • 5d ago
-
----
-
-**[Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)**
-
-*Jonathan Coletti*
-
-This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced refusal behavior and retaining the multi-token prediction (MTP) head for enhanced generation efficiency. It supports text generation with multilingual capabilities (English, Chinese) and is compatible with llama.cpp, offering various quantization levels for different performance/resource trade-offs.
-
-`text-generation` `27.3B`
-
-⬇️ 1,334,820 • ❤️ 637 • 7d ago
+⬇️ 676,697 • ❤️ 519 • 5d ago
 
 ---
 
@@ -479,7 +465,19 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,608 • 6d ago
+⬇️ 738,345 • ❤️ 1,615 • 6d ago
+
+---
+
+**[Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)**
+
+*Jonathan Coletti*
+
+This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced refusal behavior and retaining the multi-token prediction (MTP) head for enhanced generation efficiency. It supports text generation with multilingual capabilities (English, Chinese) and is compatible with llama.cpp, offering various quantization levels for different performance/resource trade-offs.
+
+`text-generation` `27.3B`
+
+⬇️ 1,334,820 • ❤️ 640 • 7d ago
 
 ---
 
@@ -491,7 +489,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,196 • 9d ago
+⬇️ 17,421 • ❤️ 1,197 • 9d ago
 
 ---
 
@@ -503,7 +501,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 343 • 12h ago
+⬇️ 23,516 • ❤️ 350 • 13h ago
 
 ---
 
@@ -561,7 +559,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
 
-▲ 15 • 💬 2 • ⭐ 5,561 • 1mo ago
+▲ 15 • 💬 2 • ⭐ 5,653 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
 
@@ -593,20 +591,6 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 ---
 
-**[COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264)**
-
-*Tianyi Zhou, Dongrui Liu, Leitao Yuan et al. (5 authors)*
-
-🏢 shanghai ailab 
-
-Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
-
-▲ 130 • 💬 3 • ⭐ 23,821 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -619,6 +603,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://huggingface.co/papers/2605.31264)**
+
+*Tianyi Zhou, Dongrui Liu, Leitao Yuan et al. (5 authors)*
+
+🏢 shanghai ailab 
+
+Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
+
+▲ 130 • 💬 3 • ⭐ 23,851 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
+
+---
+
 **[EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880)**
 
 *Chengsong Huang, Zifeng Wang, Rujun Han et al. (17 authors)*
@@ -627,7 +625,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 251 • 💬 2 • ⭐ 253 • 3d ago
+▲ 253 • 💬 2 • ⭐ 253 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -686,7 +684,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 587 • 2d ago
+⭐ 3.5k • 🔱 588 • 1h ago
 
 ---
 
@@ -696,7 +694,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 243 • 12d ago
+⭐ 3.0k • 🔱 244 • 12d ago
 
 ---
 
@@ -706,7 +704,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 20h ago
+⭐ 2.9k • 🔱 353 • 21h ago
 
 ---
 
@@ -716,7 +714,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 275 • 17h ago
+⭐ 2.4k • 🔱 278 • 18h ago
 
 ---
 

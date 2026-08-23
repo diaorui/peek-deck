@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T15:47:25.102704+00:00'
+updated: '2026-08-23T16:25:28.253743+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 15:47 UTC  
+**Last Updated:** August 23, 2026 at 16:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.28B
+**Market Cap:** $295.00B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.2%
+-50.6%
 
 **All-Time Low:** $0.43
-+568876.8%
++564412.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -156,37 +156,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html)**
+**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
 
-Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price.
-
-Yahoo Finance • 1d ago
+Barron's • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-calls-ethereum-foundation-135345451.html)**
 
-Barron's • 1d ago
+Hayes believes a move above $3,000 could trigger reflexive buying and potentially send Ethereum toward the $5,000 level.
 
----
-
-**[Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?](https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up)**
-
-Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
-
-Fast Company • 3d ago
-
----
-
-**[Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs](https://finance.yahoo.com/markets/crypto/articles/crypto-skeptic-rashida-tlaib-holds-120000607.html)**
-
-Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,14 +182,6 @@ TradingView • 1d ago
 
 ---
 
-**[Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off](https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off)**
-
-BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
-
-Benzinga • 22h ago
-
----
-
 **[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
@@ -214,11 +190,27 @@ BeInCrypto • 21h ago
 
 ---
 
+**[Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off](https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off)**
+
+BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
+
+Benzinga • 23h ago
+
+---
+
+**[Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?](https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up)**
+
+Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
+
+Fast Company • 3d ago
+
+---
+
 **[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 9h ago
+Global South Opportunities • 10h ago
 
 ---
 
@@ -230,17 +222,25 @@ CNBC • 3d ago
 
 ---
 
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
+**[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Ethereum might be a generational opportunity right now. $20000 is a genuine target some of the biggest names in crypto are ...
 
-📺 Cilinix Crypto
+📺 No Bs Crypto
 
-👁️ 3K • 👍 52 • 💬 3 • ⏱️ 4:45 • 1d ago
+👁️ 679 • 👍 66 • 💬 7 • ⏱️ 18:53 • 54m ago
 
 ---
 
@@ -250,7 +250,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 87 • 👍 10 • ⏱️ 1:09 • 1h ago
+👁️ 297 • 👍 35 • ⏱️ 1:09 • 2h ago
 
 ---
 
@@ -260,17 +260,17 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 20h ago
+👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 20h ago
 
 ---
 
-**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+**[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
 
-BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 14K • 👍 473 • 💬 223 • ⏱️ 18:21 • 17h ago
+👁️ 3K • 👍 51 • 💬 3 • ⏱️ 4:45 • 1d ago
 
 ---
 
@@ -284,13 +284,33 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 ---
 
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=TERQAvQ673k)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 631 • 👍 86 • 💬 1 • ⏱️ 8:15 • 3h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+
+BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 484 • 💬 164 • ⏱️ 18:21 • 18h ago
+
+---
+
 **[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
 
 In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 354 • 💬 19 • ⏱️ 11:12 • 23h ago
+👁️ 7K • 👍 356 • 💬 19 • ⏱️ 11:12 • 23h ago
 
 ---
 
@@ -300,7 +320,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 19K • 👍 424 • 💬 125 • ⏱️ 41:59 • 2d ago
+👁️ 19K • 👍 430 • 💬 160 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -310,27 +330,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 704 • 💬 119 • ⏱️ 11:56 • 2d ago
-
----
-
-**[ETHEREUM: BULLISH Breakout Is Now 99.99% Certain!? | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=fufeNkoWJ-E)**
-
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
-
-📺 XForceGlobal
-
-👁️ 1K • 👍 128 • 💬 16 • ⏱️ 5:51 • 1d ago
-
----
-
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
-
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
-
-📺 Crypto Archie
-
-👁️ 2K • 👍 76 • ⏱️ 1:25 • 2d ago
+👁️ 14K • 👍 705 • 💬 119 • ⏱️ 11:56 • 2d ago
 
 ---
 
