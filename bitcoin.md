@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T14:23:03.846825+00:00'
+updated: '2026-08-23T14:50:08.433702+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 14:23 UTC  
+**Last Updated:** August 23, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ All currency eventually fail, there are no exceptions!
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-38m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-10h ago
+11h ago
 
 ---
 
@@ -175,23 +175,23 @@ AP News • 14h ago
 
 **[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
-WSJ • 2d ago
+WSJ • 6h ago
 
 ---
 
-**[Robert Kiyosaki Bets on Gold, Silver, and Bitcoin Amid “More Fake Dollars”](https://finance.yahoo.com/markets/commodities/articles/robert-kiyosaki-bets-gold-silver-114000856.html)**
+**[Bitcoin’s Hidden Tax Problem: How Inflation Could Inflate Investors’ Capital Gains Bills](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hidden-tax-problem-inflation-130927128.html)**
 
-Robert Kiyosaki bets on gold, silver, and Bitcoin amid "more fake USD" from the Treasury. Here's what he said.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bonds or Bitcoin? We Asked Four AI Models Which Asset to Buy Now](https://finance.yahoo.com/markets/crypto/articles/bonds-bitcoin-asked-four-ai-125342299.html)**
-
-ChatGPT and Grok favored short-term or intermediate US Treasuries for dependable income and lower volatility. Gemini viewed bonds as the defensive choice and Bitcoin ...
+According to Grover Norquist, the government shouldn't tax Americans on inflation-driven gains it helped create.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs](https://finance.yahoo.com/markets/crypto/articles/crypto-skeptic-rashida-tlaib-holds-120000607.html)**
+
+Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,11 +203,9 @@ CNBC • 1d ago
 
 ---
 
-**[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
+**[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
-
-Fox News • 1d ago
+Moomoo • 8h ago
 
 ---
 
@@ -217,15 +215,17 @@ MarketWatch • 1d ago
 
 ---
 
-**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+**[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
 
-Reuters • 2d ago
+Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
+
+Fox News • 1d ago
 
 ---
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Bloomberg.com • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -297,7 +297,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 18h ago
+👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 19h ago
 
 ---
 

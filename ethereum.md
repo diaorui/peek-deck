@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T14:23:03.852855+00:00'
+updated: '2026-08-23T14:50:08.437530+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 14:23 UTC  
+**Last Updated:** August 23, 2026 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
 
-Benzinga • 20h ago
+Benzinga • 21h ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 20h ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 87 • 👍 10 • ⏱️ 1:09 • 22m ago
+👁️ 87 • 👍 10 • ⏱️ 1:09 • 49m ago
 
 ---
 
@@ -260,7 +260,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 18h ago
+👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 19h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 354 • 💬 19 • ⏱️ 11:12 • 21h ago
+👁️ 7K • 👍 354 • 💬 19 • ⏱️ 11:12 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T14:23:03.856031+00:00'
+updated: '2026-08-23T14:50:08.439437+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 14:23 UTC  
+**Last Updated:** August 23, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-23h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 13h ago
 
 ---
 
@@ -68,13 +68,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime...
 
-2h ago
+3h ago
 
 ---
 
 **[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 I came across this two wheeler autonomous rover electronics wiring diagram... I only can identify the ardumoto shield, pro mini, logic level converter, apm 2.5 controller and two dc motors... Could someone help me identify rest of the objects and provide more info on this project?
 
-3h ago
+4h ago
 
 ---
 
@@ -114,35 +114,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 1h ago
-
----
-
-**[Humanoid robots surpass human records in 100m, high jump](https://www.espn.com/olympics/story/_/id/49692320/humanoid-robots-surpass-human-records-100m-high-jump)**
-
-ESPN • 21h ago
-
----
-
-**[Chinese robots break Usain Bolt's 100-meter record at Beijing World Humanoid Robot Games](https://www.jpost.com/international/article-906280)**
-
-Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
-
-The Jerusalem Post • 9h ago
-
----
-
-**[Chinese humanoid robot beats Bolt's 100-metre world record time](https://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time)**
-
-"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.
-
-Euronews.com • 4h ago
-
----
-
-**[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
-
-Reuters • 9h ago
+BBC • 2h ago
 
 ---
 
@@ -151,6 +123,36 @@ Reuters • 9h ago
 Without policy, there are few incentives to automate business functions where labour costs are low
 
 Financial Times • 3h ago
+
+---
+
+**[Robots can outrun humans, but can they plug in a cable?](https://www.nbcnews.com/tech/tech-news/robots-can-outrun-humans-can-plug-cable-rcna593978)**
+
+The five-day World Humanoid Robot Games combine events modelled on human sports with those designed to test the robots in simulated factories, restaurants, ​offices and in emergency situations.
+
+NBC News • 10m ago
+
+---
+
+**[Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games](https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2)**
+
+Chinese humanoid robots have set records including beating Usain Bolt's 100-meter sprint record at the World Humanoid Robot Games in Beijing.
+
+AP News • 18h ago
+
+---
+
+**[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
+
+The Economist • 57m ago
+
+---
+
+**[The technology that could bring robot mowers to one in two American lawns](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/)**
+
+Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -168,19 +170,19 @@ South China Morning Post • 11h ago
 
 ---
 
-**[The technology that could bring robot mowers to one in two American lawns](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/)**
-
-Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
-
-The Robot Report • 1d ago
-
----
-
 **[At China's robot Olympics, the finish line comes with a padded wall and a stretcher](https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8)**
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
+
+---
+
+**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
+
+FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
+
+Ars Technica • 2d ago
 
 ---
 
@@ -194,7 +196,7 @@ A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary hea
 
 📺 BBC News
 
-👁️ 860K • 👍 11K • 💬 5K • ⏱️ 2:30 • 16h ago
+👁️ 860K • 👍 11K • 💬 5K • ⏱️ 2:30 • 17h ago
 
 ---
 
@@ -274,7 +276,7 @@ A humanoid robot clocked 9.39 seconds in the 100m at the World Humanoid Robot Ga
 
 📺 The Federal
 
-👁️ 2K • 👍 53 • 💬 4 • ⏱️ 0:47 • 6h ago
+👁️ 2K • 👍 53 • 💬 4 • ⏱️ 0:47 • 7h ago
 
 ---
 
@@ -284,7 +286,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 17K • 👍 636 • 💬 151 • ⏱️ 0:52 • 13h ago
+👁️ 17K • 👍 636 • 💬 151 • ⏱️ 0:52 • 14h ago
 
 ---
 

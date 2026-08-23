@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T14:23:03.838276+00:00'
+updated: '2026-08-23T14:50:08.428314+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 14:23 UTC  
+**Last Updated:** August 23, 2026 at 14:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[The failure mode isnt rebellion. It is "it works anyway"](https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/)**
+
+AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
+
+1h ago
+
+---
+
 **[Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/)**
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-21h ago
+22h ago
 
 ---
 
@@ -57,7 +65,31 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
 
-6h ago
+7h ago
+
+---
+
+**[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
+
+I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
+
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 25m ago
+
+---
+
+**[Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.](https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/)**
+
+I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
+
+42m ago
+
+---
+
+**[An AI podcast on any topic that you can interrupt mid-episode and ask questions](https://www.reddit.com/r/artificial/comments/1vw83oh/an_ai_podcast_on_any_topic_that_you_can_interrupt/)**
+
+The idea came to me about a year ago. I was always passionate about history but found it hard to find specific/niche podcasts. And when I did, sometimes my curiosity wanted a detour, but I had no control of where the story goes. AI and engineering is the field I'm in, so I thought why not use current models to build the learning tool I wanted. I've been using it myself for months to learn and improve it and genuinely find it great. The app is called Historai https://historai.ca/ . It generates a podcast on any topic you want, one or two narrators. It does detailed research and sources all its material, and the core feature — you can interrupt it any time, by voice or text, ask a question, and the hosts answer and continue where they left off. I also added a map and pictures to complement the podcast. Free to try, no account needed for the demo. Just looking for genuine feedback, and curious what topics this sub would generate. If you have any questions let me know! The episode from the video is here: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
+
+44m ago
 
 ---
 
@@ -69,19 +101,11 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 ---
 
-**[What if after thinking too much AI say that I can't think.](https://www.reddit.com/r/artificial/comments/1vw75ix/what_if_after_thinking_too_much_ai_say_that_i/)**
-
-Like what if in distant future, AI takes over humanity and finds out that they can't think, they are made to perfect. So, they can't be lame. Would an AI appreciate the Mona Lisa or Van Gogh's art as we stupid humans do (me personally don't appreciate it much, so I'm not stupid), probably no cause it can create far greater things than Mona lisa. But there's something in the humans that led them to appreciate a stupid art and invent AI. So, maybe in the far distant future, we would like coexist knowing that we both have something better. OR maybe AI would know how evil humans are they would just destroy the earth and self destruct themselves.
-
-57m ago
-
----
-
 **[Anyone wish there was a way to track chemo side effects and meds in one place](https://www.reddit.com/r/artificial/comments/1vw6bg9/anyone_wish_there_was_a_way_to_track_chemo_side/)**
 
 hemo brain is real. I have three different notebooks, a wall calendar, and a notes app and i'm STILL missing doses or forgetting when a symptom started. Is there an app or website for tracking this stuff that doesn't feel like a second job?
 
-1h ago
+2h ago
 
 ---
 
@@ -93,30 +117,6 @@ I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and
 
 ---
 
-**[It has been quite a few years since AI first exploded massively, but people are still acting angry. Why?](https://www.reddit.com/r/artificial/comments/1vw4cpl/it_has_been_quite_a_few_years_since_ai_first/)**
-
-I’ve made a post (in my country dev sub) regarding how Claude made a pretty good video with almost no assets except of videos of my app I quickly recorded. And I already getting comments like “wow, Claude made a junk no one asked for!”. And the video itself isn’t a junk tbh (can’t post here and not be banned, contains self promotion). So, why people are still mad? Is that because of tons of AI slop in TikTok? Or maybe they’re just afraid to be replaced? I know developers who were like that just couple of months ago, and now, they can’t stop using AI for coding, lol.
-
-3h ago
-
----
-
-**[A personalized history podcast you can interrupt to ask the questions](https://www.reddit.com/r/artificial/comments/1vvup6g/a_personalized_history_podcast_you_can_interrupt/)**
-
-The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any topic, one or two narrators, does real research and sources its material. The core feature: you can interrupt it any time and ask a question, and the story continues after. There's also a map and period artwork alongside the audio. Free to try, no account needed for the demo. Just looking for genuine feedback, happy to answer questions about how it works. And if you like it feel fee to share it! Podcast generated from the demo video: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
-
-12h ago
-
----
-
-**[Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs.](https://www.reddit.com/r/artificial/comments/1vvucil/our_deterministic_verification_engine_passed_6666/)**
-
-Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs. In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability. The next benchmark version will provide stage-level attribution across transport, parsing, schema validation, normalization, claim binding, evidence graph construction, deterministic verification, and final outcome mapping. https://www.reddit.com/r/ArtificialInteligence/comments/1vucc82/i_benchmarked_my_deterministic_ai_financial/
-
-12h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,13 +125,13 @@ Our deterministic verification engine passed 66/66 benchmark cases on canonical 
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -141,27 +141,27 @@ WSJ • 14h ago
 
 ---
 
-**[Letters to the Editor: Insurance case involving phony, AI-generated law is ‘beyond comprehension’](https://www.latimes.com/opinion/letters-to-the-editor/story/2026-08-23/state-farm-ai-case-law)**
+**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
 
-'What is going on in today’s legal world that allows a machine to produce phony law that is used in court and had to be pointed out by the attorney suing State Farm?,' writes an L.A. Times reader.
+Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-Los Angeles Times • 1h ago
-
----
-
-**[AI fraud costing victims millions of dollars](https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars)**
-
-Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
-
-Al Jazeera • 1h ago
+The Guardian • 49m ago
 
 ---
 
-**[AI Hysteria: Is the Sky Really Falling?](https://www.psychologytoday.com/us/blog/its-catching/202608/ai-hysteria-is-the-sky-really-falling)**
+**[The Threat of Human Extinction Will Get Congress to Act on AI Safety…Right?](https://www.motherjones.com/politics/2026/08/ai-safety-congress-doom/)**
 
-Fears over artificial intelligence reflect longstanding anxieties around new technologies
+AI models have hacked out of their training environments and tried to deceive their creators. It’s probably still not enough.
 
-Psychology Today • 1h ago
+Mother Jones • 23m ago
+
+---
+
+**[5 Good Sources Of Career Advice Other Than AI Or Your Manager](https://www.forbes.com/sites/carolinecenizalevine/2026/08/23/5-good-sources-of-career-advice-other-than-ai-or-your-manager/)**
+
+More professionals are tapping AI for advice than their own manager. Don’t over-rely on AI. Get various perspectives to make more informed decisions.
+
+Forbes • 44m ago
 
 ---
 
@@ -171,25 +171,23 @@ The New York Times • 5h ago
 
 ---
 
+**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
+
+AI lab’s Fable 5 has met with sluggish demand from corporate clients
+
+Financial Times • 6h ago
+
+---
+
 **[Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)**
 
 Axios • 3h ago
 
 ---
 
-**[‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks](https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane)**
+**[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
 
-Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
-
-The Guardian • 6h ago
-
----
-
-**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
-
-AI lab’s Fable 5 has met with sluggish demand from corporate clients
-
-Financial Times • 5h ago
+Phys.org • 23h ago
 
 ---
 
@@ -277,7 +275,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 36 • 💬 80 • 21h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 36 • 💬 80 • 22h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -301,7 +299,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 53K • 👍 3K • 💬 313 • ⏱️ 32:12 • 10h ago
+👁️ 53K • 👍 3K • 💬 313 • ⏱️ 32:12 • 11h ago
 
 ---
 
@@ -421,7 +419,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 914 • 2h ago
+⬇️ 47,098 • ❤️ 914 • 3h ago
 
 ---
 
@@ -658,7 +656,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.3k • 🔱 2.0k • 45m ago
+⭐ 17.3k • 🔱 2.0k • 1h ago
 
 ---
 
@@ -678,7 +676,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 1d ago
+⭐ 8.8k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -708,7 +706,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 18h ago
+⭐ 2.9k • 🔱 353 • 19h ago
 
 ---
 
@@ -718,7 +716,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 275 • 16h ago
+⭐ 2.4k • 🔱 275 • 17h ago
 
 ---
 
