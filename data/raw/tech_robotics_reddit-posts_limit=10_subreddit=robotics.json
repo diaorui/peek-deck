@@ -2,6 +2,28 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Humanoid Robot Update",
+      "author": "DIYmrbuilder",
+      "url": "https://www.reddit.com/r/robotics/comments/1vw7let/humanoid_robot_update/",
+      "published": 1787492663.0,
+      "thumbnail": "https://preview.redd.it/n90axarep4lh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=2ea7410eb949c441d15d6fc8606247bf720335f0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i\u2019m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here\u2019s some of Astrix\u2019s specs: -Weight ~15kg -Height 1.65m -DOF\u2019s 23 and besides 7 canceled dof\u2019s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out."
+    },
+    {
+      "title": "Construyendo robot hidr\u00e1ulico con v\u00e1lvulas pepepako y sensor de posici\u00f3n casero",
+      "author": "pepepako2",
+      "url": "https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidr\u00e1ulico_con_v\u00e1lvulas/",
+      "published": 1787499451.0,
+      "thumbnail": "https://preview.redd.it/m1ogpv2l95lh1.jpg?width=140&height=125&auto=webp&s=482f1cf364497c2984ca929071f4ed0ec5a8d6ea",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "3-month update, in a little story about my 3D-printed robot lamp",
       "author": "Ok_Stress3654",
       "url": "https://www.reddit.com/r/robotics/comments/1vvci99/3month_update_in_a_little_story_about_my/",
@@ -22,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "It\u2019s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don\u2019t think I get how people are scared of its potential to take over the world \ud83d\ude2d\ud83d\ude4f\ud83c\udffb It\u2019s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines."
+    },
+    {
+      "title": "Action Space hackathon",
+      "author": "jromero12345678910",
+      "url": "https://www.reddit.com/r/robotics/comments/1vw7ui3/action_space_hackathon/",
+      "published": 1787493317.0,
+      "thumbnail": "https://external-preview.redd.it/Ek7vgQpoorRmZZodmx90_Mi1JDGNZZ6NbrSjXcODDPQ.jpeg?width=640&crop=smart&auto=webp&s=980bd83d536588be341578d466bb280fc0803d25",
+      "external_url": "https://luma.com/xl77cp4v",
+      "site_name": "luma.com",
+      "favicon": "https://luma.com/apple-touch-icon.png",
+      "description": "Hello everyone, You have all probably noticed that there is a lot happening right now in the Robotics. But for some reason getting your hands on hardware if you don\u2019t have a 3d printer and a few extra Benjamin\u2019s in the bank is super difficult. In light of that, I want to announce that in Boston, Action space Hackathon is going to be a space where for 48 hours people are going to be taught and fly drones autonomously! Free to participate and a prize $1000 if you win! Event is happening OCT 24-25th. For more information, you can click the link on luma! This is a huge labor of love between me and my two college friends. We want to make sure we get more people access and hopefully get some engineering minded people thinking about what\u2019s possible with hardware. (sorry if this goes against the advertising rule)"
     },
     {
       "title": "Honor lightning vs tiangong in the 2026 humanoid robotics 100 meter dash",
@@ -68,28 +101,6 @@
       "description": null
     },
     {
-      "title": "Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra",
-      "author": "heart-aroni",
-      "url": "https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/",
-      "published": 1787413925.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "What is this?",
-      "author": "SCepTiC-04",
-      "url": "https://www.reddit.com/r/robotics/comments/1vw3und/what_is_this/",
-      "published": 1787481644.0,
-      "thumbnail": "https://preview.redd.it/1v8ed0p6r3lh1.png?width=640&crop=smart&auto=webp&s=9199927cfccc929a3fff5d14f594318c260277b1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I came across this two wheeler autonomous rover electronics wiring diagram... I only can identify the ardumoto shield, pro mini, logic level converter, apm 2.5 controller and two dc motors... Could someone help me identify rest of the objects and provide more info on this project?"
-    },
-    {
       "title": "P.A.R. (Pixel Art Robot) \u2014 A Giant, Slow, Flip-Squisk Display, Flipped by a CNC",
       "author": "shallow-neural-net",
       "url": "https://www.reddit.com/r/robotics/comments/1vvyaxs/par_pixel_art_robot_a_giant_slow_flipsquisk/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed \"squisks\" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time."
-    },
-    {
-      "title": "Humanoid robot races have begun at the WHRG 2026",
-      "author": "heart-aroni",
-      "url": "https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/",
-      "published": 1787404224.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-08-23T13:32:03.150327+00:00"
+  "fetched_at": "2026-08-23T17:20:04.219461+00:00"
 }
