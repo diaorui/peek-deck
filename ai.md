@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T19:28:30.141518+00:00'
+updated: '2026-08-23T19:48:01.647156+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 19:28 UTC  
+**Last Updated:** August 23, 2026 at 19:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
 
-5h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 5h ago
 
 Cara was set up specifically for artists who do not consent to having their work used to train AI models. Those principles seem to have made it a target for attacks.
 
-Forbes • 50m ago
+Forbes • 1h ago
 
 ---
 
@@ -212,14 +212,6 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
 ⬆️ 487 • 💬 492 • 2d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
-
----
-
-**[Show HN: Huzzah – a novel approach to coding with AI](https://news.ycombinator.com/item?id=49378768)**
-
-My personal portfolio site and blog.
-
-⬆️ 379 • 💬 209 • 3d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
@@ -280,6 +272,14 @@ A project-driven guide to designing, training, and deploying artificial intellig
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
 ⬆️ 34 • 💬 39 • 8h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+
+---
+
+**[Young Americans increasingly fear AI will take their jobs](https://news.ycombinator.com/item?id=49384642)**
+
+About half of Americans say they're more concerned than excited about AI, and young adults' concern is rising.
+
+⬆️ 28 • 💬 16 • 2d ago • [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/)
 
 ---
 
@@ -361,7 +361,7 @@ Just want to keep up with AI and not fall behind, without building anything spec
 
 📺 Ramo Akh
 
-👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 0:16 • 19h ago
+👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 0:16 • 20h ago
 
 ---
 
@@ -421,7 +421,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 934 • 7h ago
+⬇️ 47,098 • ❤️ 934 • 8h ago
 
 ---
 
@@ -445,7 +445,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 608 • 1h ago
+⬇️ 244,834 • ❤️ 608 • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 5h ago
+⭐ 17.4k • 🔱 2.0k • 6h ago
 
 ---
 
@@ -708,7 +708,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 1h ago
+⭐ 2.9k • 🔱 353 • 2h ago
 
 ---
 
@@ -718,7 +718,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 279 • 21h ago
+⭐ 2.5k • 🔱 279 • 22h ago
 
 ---
 

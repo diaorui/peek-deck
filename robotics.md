@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T19:28:30.159354+00:00'
+updated: '2026-08-23T19:48:01.662862+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 19:28 UTC  
+**Last Updated:** August 23, 2026 at 19:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-5h ago
+6h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 18h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime...
 
-7h ago
+8h ago
 
 ---
 
@@ -184,7 +184,7 @@ The San Francisco Standard • 6h ago
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 21K • 👍 723 • 💬 179 • ⏱️ 0:52 • 18h ago
+👁️ 21K • 👍 723 • 💬 179 • ⏱️ 0:52 • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ I've always loved chess, and when you add a little technology and robotics to it
 
 📺 Moonshotkidz 
 
-👁️ 788 • 👍 16 • ⏱️ 0:35 • 4h ago
+👁️ 788 • 👍 16 • ⏱️ 0:35 • 5h ago
 
 ---
 
