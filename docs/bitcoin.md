@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T17:46:18.355601+00:00'
+updated: '2026-08-23T18:29:28.810986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 17:46 UTC  
+**Last Updated:** August 23, 2026 at 18:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,252.04
+### $77,362.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +20.1%  
-**30d:** +20.4%  
-**90d:** +2.0%  
-**1y:** -31.7%  
+**24h:** -0.1%  
+**7d:** +19.9%  
+**30d:** +20.2%  
+**90d:** +1.9%  
+**1y:** -31.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1550.81B
+**Market Cap:** $1552.31B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -38.7%
 
 **All-Time Low:** $67.81
-+113843.4%
++113956.9%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-14h ago
+15h ago
 
 ---
 
@@ -95,15 +95,7 @@ All currency eventually fail, there are no exceptions!
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-13h ago
-
----
-
-**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
-
-Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
-
-20h ago
+14h ago
 
 ---
 
@@ -115,11 +107,35 @@ I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and alw
 
 ---
 
+**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
+
+Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
+
+21h ago
+
+---
+
+**[How to start mining with an appropriate budget & no cost of electricity](https://www.reddit.com/r/Bitcoin/comments/1vwcy0w/how_to_start_mining_with_an_appropriate_budget_no/)**
+
+i got 40k euros cash, i live in a 3rd world country where i can get electricity for free What miners do i get? How much will i earn? How loud will they be? I need information please
+
+1h ago
+
+---
+
 **[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-14h ago
+15h ago
+
+---
+
+**[For the hodlers who just dca, how often do you stare at the chart?](https://www.reddit.com/r/Bitcoin/comments/1vvw3mo/for_the_hodlers_who_just_dca_how_often_do_you/)**
+
+I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
+
+15h ago
 
 ---
 
@@ -129,27 +145,11 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 ---
 
-**[For the hodlers who just dca, how often do you stare at the chart?](https://www.reddit.com/r/Bitcoin/comments/1vvw3mo/for_the_hodlers_who_just_dca_how_often_do_you/)**
-
-I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
-
-14h ago
-
----
-
 **[Daily Discussion, August 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1vw02bj/daily_discussion_august_23_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
-
----
-
-**[What’s the most unconventional way you’ve ever stacked Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vvwpx9/whats_the_most_unconventional_way_youve_ever/)**
-
-I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin 😂 Made me wonder what other weird methods people here have used to stack more BTC? Personally I did the 48h rule : Whenever I want to buy smth, I wait 48h to see if it was just a whim or something I really need. If Idon't need it, I spend the same amount but in BTC What’s yours?
-
-13h ago
+11h ago
 
 ---
 
@@ -161,7 +161,7 @@ I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 6h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 17h ago
+AP News • 18h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 2d ago
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 11h ago
+Moomoo • 12h ago
 
 ---
 
@@ -273,7 +273,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 12h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -295,7 +295,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 22h ago
+👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 22h ago
 
 ---
 
@@ -305,7 +305,7 @@ While the rest of the crypto space feels overwhelmingly bearish, a unique market
 
 📺 TokenShiftX
 
-👁️ 774 • 👍 14 • 💬 1 • ⏱️ 0:51 • 5h ago
+👁️ 1K • 👍 12 • 💬 1 • ⏱️ 0:51 • 5h ago
 
 ---
 
@@ -315,17 +315,27 @@ While the rest of the crypto space feels overwhelmingly bearish, a unique market
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 77 • ⏱️ 8:58 • 1d ago
+👁️ 42K • 👍 2K • 💬 78 • ⏱️ 8:58 • 1d ago
 
 ---
 
-**[Bitcoin Just Had Its Biggest Week In History](https://www.youtube.com/watch?v=fhZiG-Uzs1c)**
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 83K • 👍 3K • 💬 220 • ⏱️ 58:24 • 1d ago
+👁️ 39K • 👍 2K • 💬 130 • ⏱️ 17:33 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Secret Price Floor Revealed! Next Bull Run?](https://www.youtube.com/watch?v=_Sx4eO-p_6E)**
+
+Hurley talks about Bitcoin's Secret Price Floor Revealed! Next Bull Run? Brought to you by Bitcoinwell.com a bitcoin-only platform ...
+
+📺 Simply Bitcoin
+
+👁️ 1K • 👍 61 • 💬 2 • ⏱️ 1:29 • 6h ago
 
 ---
 
@@ -339,13 +349,13 @@ Bitcoin blasts to $75K from all the liquidations. But is this the kind of move t
 
 ---
 
-**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
+**[Bitcoin Just Did This for the 4th Time Ever: 2015, 2019, 2023, Now](https://www.youtube.com/watch?v=XW4Fw22hdbc)**
 
-Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
+First daily close back above the 200-day SMA after 7+ months below it. The three priors were all post-bear reclaims: median +14% ...
 
-📺 Simply Bitcoin
+📺 Krown
 
-👁️ 38K • 👍 2K • 💬 129 • ⏱️ 17:33 • 2d ago
+👁️ 540 • 👍 20 • ⏱️ 0:42 • 2h ago
 
 ---
 
@@ -355,27 +365,17 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Verified Investing
 
-👁️ 96K • 👍 5K • 💬 190 • ⏱️ 16:12 • 1d ago
+👁️ 97K • 👍 5K • 💬 188 • ⏱️ 16:12 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Secret Price Floor Revealed! Next Bull Run?](https://www.youtube.com/watch?v=_Sx4eO-p_6E)**
+**[BITCOIN PUMPS TO $75K DESTROYING BEARS! XRP LEDGER LENDING IS HERE! ELON MUSK&#39;S X STABLECOINS!](https://www.youtube.com/watch?v=xRcY8EPVcH8)**
 
-Hurley talks about Bitcoin's Secret Price Floor Revealed! Next Bull Run? Brought to you by Bitcoinwell.com a bitcoin-only platform ...
+Crypto News: Bitcoin's price rallies to $75000 liquidating bears shorting as the US Treasury increases debt buybacks. Evernorth ...
 
-📺 Simply Bitcoin
+📺 Thinking Crypto
 
-👁️ 806 • 👍 49 • 💬 1 • ⏱️ 1:29 • 5h ago
-
----
-
-**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
-
-Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
-
-📺 Cointelegraph
-
-👁️ 32K • 👍 724 • 💬 121 • ⏱️ 31:41 • 2d ago
+👁️ 10K • 👍 701 • 💬 229 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 675 • 💬 23 • ⏱️ 0:58 • 2d ago
+👁️ 42K • 👍 697 • 💬 23 • ⏱️ 0:58 • 2d ago
 
 ---
 

@@ -35,7 +35,7 @@
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 4613,
+      "github_stars": 4879,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2608.19880",
       "arxiv_url": "https://arxiv.org/abs/2608.19880",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.19880.png",
-      "upvotes": 253,
+      "upvotes": 254,
       "num_comments": 2,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/envharness",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-23T16:25:19.414454+00:00"
+  "fetched_at": "2026-08-23T18:29:25.433557+00:00"
 }

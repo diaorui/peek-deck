@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T17:46:18.359811+00:00'
+updated: '2026-08-23T18:29:28.816454+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 17:46 UTC  
+**Last Updated:** August 23, 2026 at 18:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +28.4%  
-**30d:** +31.1%  
-**90d:** +18.6%  
-**1y:** -48.7%  
+**24h:** +0.3%  
+**7d:** +27.8%  
+**30d:** +30.5%  
+**90d:** +18.0%  
+**1y:** -48.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.00B
+**Market Cap:** $295.26B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.5%
 
 **All-Time Low:** $0.43
-+564412.4%
++564971.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 58m ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 1h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 1d ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 2d ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ Barron's • 3d ago
 
 Hayes believes a move above $3,000 could trigger reflexive buying and potentially send Ethereum toward the $5,000 level.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 3h ago
 
 The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ BeInCrypto • 23h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 11h ago
+Global South Opportunities • 12h ago
 
 ---
 
@@ -244,17 +244,17 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 679 • 👍 66 • 💬 7 • ⏱️ 18:53 • 2h ago
+👁️ 2K • 👍 171 • 💬 26 • ⏱️ 18:53 • 2h ago
 
 ---
 
-**[Ethereum And Robinhood Together Might Be Unstoppable](https://www.youtube.com/watch?v=1KNbXeNkyPU)**
+**[THE $1 BILLION HOUR 🚨 Why BTC, ETH and XRP All Exploded Together](https://www.youtube.com/watch?v=DTYa04eKhKU)**
 
-You've got Robinhood, one of the biggest exchanges in both crypto and stocks, building its own infrastructure for meme coins, and ...
+1️⃣ *   Save 40% code LIFETIME Lifetime Membership 2 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
 
-📺 Crypto Archie
+📺 Stock Moe
 
-👁️ 297 • 👍 35 • ⏱️ 1:09 • 3h ago
+👁️ 11K • 👍 913 • 💬 81 • ⏱️ 14:45 • 5h ago
 
 ---
 
@@ -264,7 +264,27 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 22h ago
+👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 22h ago
+
+---
+
+**[Ethereum And Robinhood Together Might Be Unstoppable](https://www.youtube.com/watch?v=1KNbXeNkyPU)**
+
+You've got Robinhood, one of the biggest exchanges in both crypto and stocks, building its own infrastructure for meme coins, and ...
+
+📺 Crypto Archie
+
+👁️ 427 • 👍 41 • ⏱️ 1:09 • 4h ago
+
+---
+
+**[If You Hold Crypto You&#39;re About To Be Very Happy Bitcoin And Ethereum Are Going To Turn Heads](https://www.youtube.com/watch?v=6Z4_cs3gmxA)**
+
+I mean, it cant get any more obvious than this. I dont understand at all how people arent rushing into the cryptocurrency market ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 940 • 💬 192 • ⏱️ 30:44 • 2d ago
 
 ---
 
@@ -278,36 +298,6 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 ---
 
-**[If You Hold Crypto You&#39;re About To Be Very Happy Bitcoin And Ethereum Are Going To Turn Heads](https://www.youtube.com/watch?v=6Z4_cs3gmxA)**
-
-I mean, it cant get any more obvious than this. I dont understand at all how people arent rushing into the cryptocurrency market ...
-
-📺 The Modern Investor
-
-👁️ 10K • 👍 938 • 💬 192 • ⏱️ 30:44 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=TERQAvQ673k)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 631 • 👍 86 • 💬 1 • ⏱️ 8:15 • 5h ago
-
----
-
-**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
-
-BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 484 • 💬 164 • ⏱️ 18:21 • 19h ago
-
----
-
 **[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
 
 In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
@@ -318,23 +308,33 @@ In this video I break down the current Ethereum price outlook following the rece
 
 ---
 
+**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+
+BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 15K • 👍 485 • 💬 254 • ⏱️ 18:21 • 20h ago
+
+---
+
+**[ETHEREUM: BULLISH Breakout Is Now 99.99% Certain!? | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=fufeNkoWJ-E)**
+
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
+
+📺 XForceGlobal
+
+👁️ 1K • 👍 130 • 💬 16 • ⏱️ 5:51 • 1d ago
+
+---
+
 **[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
 
 Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
 
 📺 Milk Road
 
-👁️ 19K • 👍 430 • 💬 160 • ⏱️ 41:59 • 2d ago
-
----
-
-**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
-
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 705 • 💬 119 • ⏱️ 11:56 • 2d ago
+👁️ 19K • 👍 433 • 💬 160 • ⏱️ 41:59 • 2d ago
 
 ---
 
