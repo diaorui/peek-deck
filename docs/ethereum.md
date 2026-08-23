@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T19:28:30.156155+00:00'
+updated: '2026-08-23T19:48:01.660066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 19:28 UTC  
+**Last Updated:** August 23, 2026 at 19:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +27.8%  
-**30d:** +30.5%  
-**90d:** +18.0%  
-**1y:** -48.9%  
+**24h:** +0.8%  
+**7d:** +28.0%  
+**30d:** +30.7%  
+**90d:** +18.2%  
+**1y:** -48.8%  
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 2K • 👍 171 • 💬 26 • ⏱️ 18:53 • 3h ago
+👁️ 2K • 👍 171 • 💬 26 • ⏱️ 18:53 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 Stock Moe
 
-👁️ 11K • 👍 913 • 💬 81 • ⏱️ 14:45 • 6h ago
+👁️ 11K • 👍 913 • 💬 81 • ⏱️ 14:45 • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 23h ago
+👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 1d ago
 
 ---
 

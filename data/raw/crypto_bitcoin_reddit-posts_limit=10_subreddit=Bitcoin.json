@@ -57,17 +57,6 @@
       "description": "Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous \"this time it's different, it's finally over\" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to."
     },
     {
-      "title": "How to start mining with an appropriate budget & no cost of electricity",
-      "author": "Ready_Sprinkles7792",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwcy0w/how_to_start_mining_with_an_appropriate_budget_no/",
-      "published": 1787505317.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "i got 40k euros cash, i live in a 3rd world country where i can get electricity for free What miners do i get? How much will i earn? How loud will they be? I need information please"
-    },
-    {
       "title": "A good technical explanation why coldcard failed and others don't",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/",
@@ -88,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I feel the answer is just \"yes.\" But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time."
+    },
+    {
+      "title": "Gifting Bitcoin: a paper wallet tempate",
+      "author": "mfatalay",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwgs15/gifting_bitcoin_a_paper_wallet_tempate/",
+      "published": 1787513976.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific \"Gift Wallet\" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!"
     },
     {
       "title": "Take Your Bitcoin Off The Exchanges!",
@@ -112,5 +112,5 @@
       "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
     }
   ],
-  "fetched_at": "2026-08-23T18:29:14.793072+00:00"
+  "fetched_at": "2026-08-23T19:47:50.759041+00:00"
 }

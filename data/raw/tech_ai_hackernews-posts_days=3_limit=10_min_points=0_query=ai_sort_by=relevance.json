@@ -33,20 +33,6 @@
       "site_name": "cymerys.com"
     },
     {
-      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "hn_url": "https://news.ycombinator.com/item?id=49378768",
-      "author": "danielvaughn",
-      "points": 379,
-      "num_comments": 209,
-      "created_at": "2026-08-20T19:05:36Z",
-      "object_id": "49378768",
-      "image": "https://www.danielvaughn.dev/opengraph-image.jpg",
-      "description": "My personal portfolio site and blog.",
-      "favicon": "https://www.danielvaughn.dev/floral.webp",
-      "site_name": "danielvaughn.dev"
-    },
-    {
       "title": "Copyright does not protect AI-generated content in EU",
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "hn_url": "https://news.ycombinator.com/item?id=49382041",
@@ -143,9 +129,23 @@
       "description": "Gabrielle Boyle resigned three days before the AFL switched on Microsoft\u2019s AI assistant, having been told she couldn\u2019t opt out.",
       "favicon": "https://www.smh.com.au/metro-assets/assets/static/apple-touch-icons/smh.png",
       "site_name": "The Sydney Morning Herald"
+    },
+    {
+      "title": "Young Americans increasingly fear AI will take their jobs",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "hn_url": "https://news.ycombinator.com/item?id=49384642",
+      "author": "01-_-",
+      "points": 28,
+      "num_comments": 16,
+      "created_at": "2026-08-21T06:49:46Z",
+      "object_id": "49384642",
+      "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/08/SR_26.08.19_young-adults-ai_featured.png?w=1200&h=628&crop=1",
+      "description": "About half of Americans say they're more concerned than excited about AI, and young adults' concern is rising.",
+      "favicon": "https://www.pewresearch.org/wp-content/images/symbol-alt.svg",
+      "site_name": "Pew Research Center"
     }
   ],
-  "total_hits": 444,
+  "total_hits": 427,
   "has_metadata": true,
-  "fetched_at": "2026-08-23T18:29:14.724884+00:00"
+  "fetched_at": "2026-08-23T19:47:50.613422+00:00"
 }
