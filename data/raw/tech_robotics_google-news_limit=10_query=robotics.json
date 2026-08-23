@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robots can outrun humans, but can they plug in a cable?",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
-      "pub_date": 1787460600.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/",
-      "image": null,
-      "description": null
+      "headline": "Move over, Usain Bolt: Humanoid robots smash human records at Beijing games",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTV3MFZpWWc3ZFN1SW1FZGxXTFFyV2YzUlpKRHh5a1hGV093R1NLMkZ2d1RSZjcxLU5GeGJuOHRLUTZpLU5UUkplWlM3WnpHeVRsR21vWlgxb2JfamU5ejlhVGJuTk44Vkk0T3hCWno1Vy1TY3BvdFU1NS1WWHdna2daOF9TOXd6cU1nanBFRlRaNGZRN2w1YU05alkxN3U1LTJtdktNMS1zLXVJWGpfRnFB?oc=5",
+      "pub_date": 1787395324.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260419-robot-marathon-beijing-ww-1951-55435b.jpg",
+      "description": "More than 2,000 humanoid robots are competing in an Olympics-like showcase of China\u2019s rapidly advancing robotics industry."
     },
     {
       "headline": "Government can bring robotics to life",
@@ -25,34 +25,24 @@
       "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
     },
     {
-      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VLURHRGRvbXBoU3BwNTF6cDMtcnhhZkZ6VXo1Yzk5YzJjNFdBMF9UYzRKVFhIemhXRDJ2cVF1dVZzTjU0YmtBUS1vYTZ6dThiMlQ2ZFdQZw?oc=5",
-      "pub_date": 1787392878.0,
-      "article_url": "https://www.bbc.com/news/videos/c0qvqzzdd02o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6806/live/4e83d770-9e0e-11f1-95e0-53a570c83624.jpg",
-      "description": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say."
-    },
-    {
-      "headline": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
-      "pub_date": 1787431320.0,
-      "article_url": "https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2",
-      "image": "https://dims.apnews.com/dims4/default/a59ba71/2147483647/strip/true/crop/5404x3601+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2Fe1%2F154fcfc6dad2a6a88bf3d33859ba%2F08c5e467f79f4f4682b04c2164c20ada",
-      "description": "Chinese humanoid robots have set records including beating Usain Bolt's 100-meter sprint record at the World Humanoid Robot Games in Beijing."
-    },
-    {
-      "headline": "China is training up thousands of humanoid robots",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS02VEYyRkRTVnFEZUs4YVNjeEE0S1ppRkNSSjdIR18zaUxVTHZxNFNDckhrVno5RGkxUXNhLXpsZEswN09qRTVRY2YxNW1wenJjbVlJdXRxSTQ3RW8tUElyb3JhNkFURHBhMUN1SXc2eVJ5ekUtcmZtamRjMDFTYjZXVGVPNHBFQzV5Mk14cXc5OEVPOUVMbDZBNA?oc=5",
-      "pub_date": 1787493165.0,
-      "article_url": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots",
+      "headline": "Robots can outrun humans, but can they plug in a cable?",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
+      "pub_date": 1787460600.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4MWZoYUNWa00zTkEwdEY1LVhWSS04aTBPa3lhdm4yaE43MnRqZlRSWmhkSWRFWk94LWhSTnVRNmJYeFlKWl94VmtlbnB2N0NEbGhveDQ4RQ?oc=5",
+      "pub_date": 1787489226.0,
+      "article_url": "https://www.bbc.com/news/videos/c7vgvj6e1emo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
+      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
     },
     {
       "headline": "The technology that could bring robot mowers to one in two American lawns",
@@ -65,6 +55,26 @@
       "description": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder."
     },
     {
+      "headline": "China is training up thousands of humanoid robots",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS02VEYyRkRTVnFEZUs4YVNjeEE0S1ppRkNSSjdIR18zaUxVTHZxNFNDckhrVno5RGkxUXNhLXpsZEswN09qRTVRY2YxNW1wenJjbVlJdXRxSTQ3RW8tUElyb3JhNkFURHBhMUN1SXc2eVJ5ekUtcmZtamRjMDFTYjZXVGVPNHBFQzV5Mk14cXc5OEVPOUVMbDZBNA?oc=5",
+      "pub_date": 1787493165.0,
+      "article_url": "https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI robotics companies love San Francisco. They\u2019re just too big to stay",
+      "source": "The San Francisco Standard",
+      "source_url": "https://sfstandard.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOV81R0Y2UDVHQ0NWOU5uNTZDd3V4SzVJMjlzSXZ1STU3OUVKU3R0UHNlSGFnODJ1TENyRGRMbExBbHlsU2tsRzBFRk5uTjZHeVc5c0NXdG8yMEMtVndxanc4aEN6OFphdlpzME81V3BLZThfcm9iWEhxZVdrWnplTFFn?oc=5",
+      "pub_date": 1787490000.0,
+      "article_url": "https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_sqmg558v895ajasdsopfoius00/-C100.00%25x78.71%25%2C0.00%25%2C18.16%25-S1200x630-FPNG",
+      "description": "The city is still ground zero for the industry boom. But as machine companies scale up, they can\u2019t find the space to match."
+    },
+    {
       "headline": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -75,24 +85,14 @@
       "description": "Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the \u200cchairman of Chinese embodied AI startup ACE Robotics said on Friday.  \"We expect to reach the 'ChatGPT moment' for embodied intelligence by the end \u200cof next year, driven by world models and environmental data capture,\" Wang Xiaogang told Reuters.  \"Even if we reach that inflection point by late 2027, it will likely take another four to \u200bfive years to see broad commercial implementation of embodied world models across sectors,\" said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime."
     },
     {
-      "headline": "Are humanoid robots the future? Chinese makers instead highlight practicality",
+      "headline": "Chinese robots tackle tennis, smash race records at World Humanoid Robot Games",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWpFbmhzQWMxQl9rQUloR3h5MFBjcy1sNjBlMThmV2gwVm1rNjZRR3VFNTJIQndhY3I0MnZ6SlRfaHZNV2w5ZElJQUc0aGpVSTRhNExyR0lhcHFFWl9ZM2RjYkdSSDRIb1hjTTc4ZElQWW1INTVGQi1Sb2N5VFNqYVhxeXdJNS16cVNXaUIyMHlaX3RyUDR6LURGd2ZyWkRDYklPQlk5MnBQMl92M2xRTThmYk1vcUM2bzNHVG5HMGY4ODM5eFFyYkpR0gHKAUFVX3lxTE1RVXVXSVN5UTVaZHBUYTVxbWV4eC00bWZ1LVFOTExMdkRqQmV6c1BuLU9IZlEtSnBpaWZFRVNBeFNZSGhPX0M3eUc5cHQ1RE5fRENjc19iZHRqNXNkd05FVDRJT2tsR1gzWl9SREEtMmZnZ3ZyQWdNd0daYWp5V0oxcnFfVlBkMmFQcTA5RjBqLWRzdXZMMzQ5b2lCT2FvTHo2RFh2cnVJMktnS2FFbFQ5d3kza2NjOWd5ZG95WDh5bGZ6SEhQUTRyX0E?oc=5",
-      "pub_date": 1787454012.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR00tc1FLLTlaWlVESXItcmg2MTlkZzlqRFNiSU1kNk5qcElHc0lyZDE4M1lOZDlCZnRieU9vaENkeTlnaFVyaDc3N084OVBnZEJEc3V3UE93TE8wb0lSX2JyaUNDNzRjT2xQSDAtWTdIU2pheE8wUi0xR0t5eG0weG9XbmdRZkhWVjI4VkJIWjNQdjRKLVJQcHllU1lEeTZTNW1MQ2lVN1lvSXVFbm5FQlhocWw3NW05Qi05SFlBSmFBMkhtV2t1UNIByAFBVV95cUxNTkhodnFsRDBaUkt2Y0lNZWFaQ1c4SFlGUldENE1KbTJmRE5odXdIOXBIb0k0ZkdUclBhdUtoWmlKTGdob3pwakpHOGJkR3U4dXU0RTZDT2szc2dSc05vWEgzU3VQS0Q4QmVSR09YdlZrZWVQZXktelpEc2VxQzVjYVV4cVlYZlRldFZZbXBVSEdTWmpaaU4xTWdwNEgzcW5CVUFrMWg0T1htdHlBemItNDlMb2tmZ0QwWE5wR3c1a0prdUlLeWl1Yw?oc=5",
+      "pub_date": 1787482371.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
-      "source": "BBC",
-      "source_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZbEVybUpVdF94X29LRzFqR2xiTHRLWDIxejREbWE2UzZCdjVBUkNVLWx1ODFCaGRfcEtJcmFNc2l3Ynk2UkFMN1dRbFZaLTZSX19qcmE2a1NCUQ?oc=5",
-      "pub_date": 1787490782.0,
-      "article_url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
     },
     {
       "headline": "At China's robot Olympics, the finish line comes with a padded wall and a stretcher",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T16:25:26.687637+00:00"
+  "fetched_at": "2026-08-23T17:46:17.474764+00:00"
 }

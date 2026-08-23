@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T17:20:05.457455+00:00'
+updated: '2026-08-23T17:46:18.359811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 17:20 UTC  
+**Last Updated:** August 23, 2026 at 17:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 31m ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 58m ago
 
 ---
 
@@ -190,15 +190,15 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
 
 ---
 
-**[Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off](https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off)**
+**[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
 
-BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
+The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Benzinga • 23h ago
+Global South Opportunities • 11h ago
 
 ---
 
@@ -210,27 +210,27 @@ Fast Company • 3d ago
 
 ---
 
-**[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
-
-The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
-
-Global South Opportunities • 10h ago
-
----
-
-**[Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act](https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html)**
-
-Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
-
-CNBC • 3d ago
-
----
-
 **[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
 
 Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
 
 CryptoSlate • 2d ago
+
+---
+
+**[Ethereum Launches better.codes to Advance Post-Quantum SNARKs](https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security)**
+
+Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
+
+blockchain.news • 1d ago
+
+---
+
+**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum and Bitcoin, disclosures reveal](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
+
+She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
+
+New York Post • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 679 • 👍 66 • 💬 7 • ⏱️ 18:53 • 1h ago
+👁️ 679 • 👍 66 • 💬 7 • ⏱️ 18:53 • 2h ago
 
 ---
 
@@ -264,7 +264,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 21h ago
+👁️ 61K • 👍 3K • 💬 134 • ⏱️ 11:10 • 22h ago
 
 ---
 
@@ -294,7 +294,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 631 • 👍 86 • 💬 1 • ⏱️ 8:15 • 4h ago
+👁️ 631 • 👍 86 • 💬 1 • ⏱️ 8:15 • 5h ago
 
 ---
 

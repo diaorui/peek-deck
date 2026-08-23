@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
+      "pub_date": 1787443200.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Nvidia customers reportedly warned about AI-related price hikes",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,24 +25,14 @@
       "description": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported."
     },
     {
-      "headline": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxlMlJjV3JZVWZoeTJhRzlhTDJOenZaS195ZEl4a1NkWERBQUwyU2hQcXlTOEk2RkpqLW5OeWhybzlFbzFONVkyWHhjNWhnSEhZQUpJS2xlSU0wOUQ3b2NsZXd0RTdGMHZsQ25rYTI4aDNNOU05OEVHMHVuaXQ0N2NyUXQtN194VXhqQ0g1SlpwdFZrM3JEeTZvYjFfVWhJaC12NkRfWTE5bzZkMXNyTC1Xbk8?oc=5",
-      "pub_date": 1787424154.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-      "pub_date": 1787443200.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-      "image": null,
-      "description": null
+      "headline": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeG1sTG1ra3lPVXF0YVI1TlRmUEg2bGJ2cjlzNThjQWV2TFVERTZnQlVnWVVNT29JaDhhYUZ4bVRzVFpIemdvZmozOTZLS05pTW5Ob1BPS3phU2hNSUpoLTh2VkZUZ290Y2NIeEtQQ2IxNmZBRnhRQkpGelUzcldoS2ZHd19EX0gtQjFhT0g5QTdrTEdJc0Fj?oc=5",
+      "pub_date": 1787484302.0,
+      "article_url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/A555BA0398626D55BA4ED7C7538CDB597E5C3CFE51FBD8C131AB61085A052F2F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+      "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26."
     },
     {
       "headline": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks",
@@ -45,14 +45,24 @@
       "description": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting \u2018recklessly\u2019"
     },
     {
-      "headline": "Is AI\u2019s Greatest Promise More Time? How One Executive Is Using AI To Build A Bigger Life.",
+      "headline": "This AI actually learns how your eyes read\u2014what happens next is stunning",
+      "source": "Futura, le m\u00e9dia qui explore le monde",
+      "source_url": "https://www.futura-sciences.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVFfMjR3eV8zUXl6SWF3MDNoVmJSMlVmRGQydlFnYUdsMUdMMDhjcVBOZjk0NVNnMnUwTWUyZ0JNaEVLcERseE5qUjhjZ0FNQi1jM2lpUlB5ekFxSFRDd3NDYURhNlpaT2ZJMHA3dE1OM3l2Z1BIR2hXdHJFNTVmVF9SZzAteUhlWHRYa200ek96a1o2b0Y0WFpFSWFmWEdjc082M3ZIS2pqTllBUzltM0JfZVQ?oc=5",
+      "pub_date": 1787504936.0,
+      "article_url": "https://www.futura-sciences.com/en/this-ai-actually-learns-how-your-eyes-read-what-happens-next-is-stunning_38211/",
+      "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/08/this-ai-actually-learns-how-your-eyes-read-what-happens-next-is-stunning.webp",
+      "description": "Reading, but Not as You Know It Is reading really automatic? Think again. Our brains never treat two sentences exactly the same way: it\u2019s a constant game of deciding where to look, which bits to skip, and when to backtrack. These choices are unique to each of us, shaped by..."
+    },
+    {
+      "headline": "10 AI Updates That Put Teenagers In Charge Of Their Own Learning",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3lUZHpWVWd3ZGZjbG5NNWRTczIyV3owNnV4aFpVR29qWE5ZOExTR0FMSVRWOGRaU043cktDZVVXS1RpRWJHdmN0S2FRZzc0ZVpKcWpDOU9wZ2w1ZW85dl9qZ3dOT3ExbUZHUml6Vy1DdkNmV3JfM1JybHJQeTRoSTRsZGJmNnpuZkpTaWRDQXR0cXhoNThBSm51b3k2VmpyUXhMUllxMS04YjZXa2xRMHhJYVluX09NcFhtN1RUMXF6VUJqQlFvSnA4OVgzTmh4eThhSEhOaw?oc=5",
-      "pub_date": 1787498513.0,
-      "article_url": "https://www.forbes.com/sites/dougmelville/2026/08/23/is-ais-greatest-promise-more-time-how-one-executive-is-using-ai-to-build-a-bigger-life/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8a11e3527ef93a88830e71/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Should executives be adopting AI to save time and create a bigger life?OpenAI's Tamara Scarlett Miller discusses how leveraging AI helps create time for family and life."
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFhJWk5nR3lwQUw2anBRcVNwYXlLVDE2bTlfemRTazBwak10SDMtRjlud3Izd0R0b1RJYWRvXzRfNGdxREhJbUFYTzV5VUU1VEFOcGhYWGpwR2x2ODRNQV9TX05HVDVUWDEzUUxOUWVNQm9hT3RENkstOUw1al95dDNmX3dzTHVwaUFQdFdKb3JlaGNfcU9ReWpwUXltdzcxeXktcTlrbk9Na3JIbDVsNVZRQTR2bUJxZjVMSw?oc=5",
+      "pub_date": 1787504413.0,
+      "article_url": "https://www.forbes.com/sites/danfitzpatrick/2026/08/23/10-ai-updates-that-put-teenagers-in-charge-of-their-own-learning/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8b25f8bd0bf92b1b1cf18e/0x0.jpg?format=jpg&crop=1313,739,x0,y91,safe&height=900&width=1600&fit=bounds",
+      "description": "As students return to school, AI is rapidly integrating into education. Here's how they can use it to help their learning."
     },
     {
       "headline": "How Big Tech Captured American Schools",
@@ -65,46 +75,36 @@
       "description": null
     },
     {
-      "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
-      "pub_date": 1787473404.0,
-      "article_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients"
+      "headline": "As students embrace AI, universities scramble to keep up",
+      "source": "Deseret News",
+      "source_url": "https://www.deseret.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYkVrVWprbkhfRlAtT2h0dVBiX3UxaDhNQTJNQklobm1RckFjcjBhUUYzTVdvVkNNOUZnT3JsTzBlc2JYMjBhLWZMOVVFSmZKVlBvOEtPN2E2LXM3OEQwWXRXbFhDSkMxMGFoRFY3RnFXaG1YTGRVTFk4dkNhWU1vdUZLTGU1Rms?oc=5",
+      "pub_date": 1787453160.0,
+      "article_url": "https://www.deseret.com/magazine/2026/08/22/how-ai-is-changing-higher-education/",
+      "image": "https://www.deseret.com/resizer/v2/MZKEHK2M6FBEPM25N5WN66UMN4.jpg?focal=0%2C0&auth=66b7b8c07b423a9a024b31726505312037ec70f84b021cac560fe2c3d08263b6&width=630&height=331",
+      "description": "AI is changing how students learn \u2014 and forcing professors to reconsider what college should teach"
     },
     {
-      "headline": "AI decodes DNA initiator sequence found in about 60% of human genes",
-      "source": "Phys.org",
-      "source_url": "https://phys.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HdGxTRU41YThTUFJUT2xSYTBMdS1UdDNJMHNEbnFUUk1IaWZiZll6S2RPQktsM2cwVUd2cjJQQURZY1VrOVd6QjNVZlBUeTdDdmRaYTkzQzlQem56NDEzQmpCR1dsdkRuNnlIQTBIWTNKZw?oc=5",
-      "pub_date": 1787413201.0,
-      "article_url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
-      "image": null,
-      "description": null
+      "headline": "How to use AI to give yourself a head start at a new job",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOE5ob1dST3JIRmM0cnk5OXhDYlJ3Si1YcHFDM0puYWZpSGcxZkZ0TC13dFhrWmM5a2Yxb29VQjMyVF9udmFXb201Z0hIY3pxRUlVazhOS0NKMzRBYkhzdDBYTnBuRzQ3ZmczSmVkQ3YxcjlFUzFlWU5JZ3Q4Z2lLUDRqRlA0WHh6N3ZjamVRbXpGYUhFNzRlOA?oc=5",
+      "pub_date": 1787505578.0,
+      "article_url": "https://www.fastcompany.com/91593095/how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91593095-how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job.jpg",
+      "description": "A new job comes with a steep learning curve. Used thoughtfully, AI can help you achieve mastery faster."
     },
     {
-      "headline": "Synthetic everything is warping America",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JZTFSZ1NTa0dMMXE0aVFSUzdRVlRSWE1tUGRnVEx6MHdTallyemlUUm5hLVZyMWZxUFBfazEyLWNjdXZ2cDJQQ3pjd05EdWRoU19ucndHbVdpT1praUI1QXJ2SURvbDIwT2NIWlFaUTAzREk?oc=5",
-      "pub_date": 1787486342.0,
-      "article_url": "https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-      "pub_date": 1787492789.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/",
-      "image": null,
-      "description": null
+      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNEJTWmp2TUxZN0FZT1l2bnFzV0Fva1drcU1aUzFfSnhmNmpCNFV4NGFfelp4b09xeXJZQi1HR2VlcktTcS1FUlBtYWZfRXliSEhGbVpCUUJKUXUyUVlGdG05NC1IeExVdWNkQ2FVdGxRYXZhRWVv0gF8QVVfeXFMUEtrM2xoMUhWVzBrc0FlZ0xjek9SNGY2VkdYQ0VTRm1fZFZueFVlSkgzTjdOSXdreE5mUlpPUS1XNGJuUGxSNE01czZPdmNobzEzNUVGSEx1bW5mbE9jYkdHd0sxZFZLR2xiUmhFTDVtcGVNOUdaaURQWmktXw?oc=5",
+      "pub_date": 1787486401.0,
+      "article_url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108282297-1774370354680-gettyimages-2267710515-AFP_A4JX7G8.jpeg?v=1776879619&w=1920&h=1080",
+      "description": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T16:25:24.698210+00:00"
+  "fetched_at": "2026-08-23T17:46:16.681297+00:00"
 }
