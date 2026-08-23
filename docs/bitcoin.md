@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T21:46:36.957624+00:00'
+updated: '2026-08-23T22:21:54.210057+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 21:46 UTC  
+**Last Updated:** August 23, 2026 at 22:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,375.04
+### $77,774.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +20.0%  
-**30d:** +20.3%  
-**90d:** +2.0%  
-**1y:** -31.7%  
+**24h:** +0.8%  
+**7d:** +20.5%  
+**30d:** +20.8%  
+**90d:** +2.4%  
+**1y:** -31.5%  
 
 ---
 
@@ -91,11 +91,35 @@ All currency eventually fail, there are no exceptions!
 
 ---
 
+**[78k Resistance break](https://www.reddit.com/r/Bitcoin/comments/1vwjnly/78k_resistance_break/)**
+
+What's going on?????¿¿¿
+
+49m ago
+
+---
+
+**[AI Agents aren't signing up for bank accounts.](https://www.reddit.com/r/Bitcoin/comments/1vwfdu7/ai_agents_arent_signing_up_for_bank_accounts/)**
+
+So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
+
+3h ago
+
+---
+
 **[Bitcoin haters secretly googling 'how to buy bitcoin' when they're about to get their first sats.](https://www.reddit.com/r/Bitcoin/comments/1vvwxg3/bitcoin_haters_secretly_googling_how_to_buy/)**
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-17h ago
+18h ago
+
+---
+
+**[The best time to sell Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vwisny/the_best_time_to_sell_bitcoin/)**
+
+Some easy advice for some of you on the fence, or newbies. You never want to sell Bitcoin when it is going down. It's too low and you can't optimize gains. You never want to sell Bitcoin when it is going up. Why would you do that? It will be worth more later! Summary: don't sell. Never a good time.
+
+1h ago
 
 ---
 
@@ -115,19 +139,11 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 ---
 
-**[Gifting Bitcoin: a paper wallet tempate](https://www.reddit.com/r/Bitcoin/comments/1vwgs15/gifting_bitcoin_a_paper_wallet_tempate/)**
+**[The math is mathing](https://www.reddit.com/r/Bitcoin/comments/1vwkcxz/the_math_is_mathing/)**
 
-I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific "Gift Wallet" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!
+Fiat = ♾️ 👎
 
-2h ago
-
----
-
-**[AI Agents aren't signing up for bank accounts.](https://www.reddit.com/r/Bitcoin/comments/1vwfdu7/ai_agents_arent_signing_up_for_bank_accounts/)**
-
-So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
-
-3h ago
+20m ago
 
 ---
 
@@ -135,23 +151,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal.
 
-7h ago
-
----
-
-**[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
-
-This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
-
-18h ago
-
----
-
-**[For the hodlers who just dca, how often do you stare at the chart?](https://www.reddit.com/r/Bitcoin/comments/1vvw3mo/for_the_hodlers_who_just_dca_how_often_do_you/)**
-
-I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
-
-18h ago
+8h ago
 
 ---
 
@@ -163,7 +163,7 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 2d ago
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 14h ago
+Moomoo • 15h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fox News • 1d ago
 
 UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -215,7 +215,7 @@ Reuters • 2d ago
 
 Strategy Inc. (NASDAQ:MSTR) executives moved to reassure an investor whose stake lost significant value during the current bear market.Investor Accuses Strategy of Ignoring MSTR holdersDuring Monday’s Q&A with Strategy shareholders, a person named Rob said he invested $73,000 in MSTR for each of hi…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -279,7 +279,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -331,7 +331,7 @@ Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An ext
 
 📺 Krown
 
-👁️ 424 • 👍 23 • ⏱️ 0:56 • 2h ago
+👁️ 424 • 👍 23 • ⏱️ 0:56 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ First daily close back above the 200-day SMA after 7+ months below it. The three
 
 📺 Krown
 
-👁️ 920 • 👍 31 • ⏱️ 0:42 • 5h ago
+👁️ 920 • 👍 31 • ⏱️ 0:42 • 6h ago
 
 ---
 

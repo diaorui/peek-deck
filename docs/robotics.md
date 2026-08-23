@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T21:46:36.965367+00:00'
+updated: '2026-08-23T22:21:54.218231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 21:46 UTC  
+**Last Updated:** August 23, 2026 at 22:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 3h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 4h ago
 
 ---
 
@@ -66,7 +66,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 Hello everyone, You have all probably noticed that there is a lot happening right now in the Robotics. But for some reason getting your hands on hardware if you don’t have a 3d printer and a few extra Benjamin’s in the bank is super difficult. In light of that, I want to announce that in Boston, Action space Hackathon is going to be a space where for 48 hours people are going to be taught and fly drones autonomously! Free to participate and a prize $1000 if you win! Event is happening OCT 24-25th. For more information, you can click the link on luma! This is a huge labor of love between me and my two college friends. We want to make sure we get more people access and hopefully get some engineering minded people thinking about what’s possible with hardware. (sorry if this goes against the advertising rule)
 
-🔗 [luma.com](https://luma.com/xl77cp4v) • 7h ago
+🔗 [luma.com](https://luma.com/xl77cp4v) • 8h ago
 
 ---
 
@@ -106,7 +106,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-16h ago
+17h ago
 
 ---
 
@@ -116,7 +116,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 16h ago
 
 Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
 
-The Jerusalem Post • 16h ago
+The Jerusalem Post • 17h ago
 
 ---
 
@@ -140,7 +140,7 @@ Engadget • 3h ago
 
 "In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.
 
-Euronews.com • 11h ago
+Euronews.com • 12h ago
 
 ---
 
@@ -148,13 +148,13 @@ Euronews.com • 11h ago
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
 **[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
 
-The Economist • 7h ago
+The Economist • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Robot Report • 1d ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 8h ago
+The San Francisco Standard • 9h ago
 
 ---
 
@@ -178,13 +178,13 @@ The San Francisco Standard • 8h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
 **[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
 
-South China Morning Post • 18h ago
+South China Morning Post • 19h ago
 
 ---
 
@@ -228,7 +228,7 @@ Most robotics companies rush to factories, but true artificial general intellige
 
 📺 Turn the Lens with Jeff Frick
 
-👁️ 528 • 👍 7 • 💬 1 • ⏱️ 0:47 • 2h ago
+👁️ 528 • 👍 7 • 💬 1 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robo
 
 📺 USA TODAY
 
-👁️ 8K • 👍 110 • 💬 17 • ⏱️ 0:31 • 5h ago
+👁️ 8K • 👍 110 • 💬 17 • ⏱️ 0:31 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ TRON 2 transforms into three different robot modes. It can roll, walk, use arms,
 
 📺 Manav
 
-👁️ 201 • 👍 19 • ⏱️ 0:35 • 2h ago
+👁️ 201 • 👍 19 • ⏱️ 0:35 • 3h ago
 
 ---
 
