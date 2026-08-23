@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T05:57:45.726351+00:00'
+updated: '2026-08-23T06:50:23.037756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 05:57 UTC  
+**Last Updated:** August 23, 2026 at 06:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +18.2%  
-**30d:** +18.5%  
-**90d:** +0.4%  
+**24h:** -1.5%  
+**7d:** +18.1%  
+**30d:** +18.4%  
+**90d:** +0.3%  
 **1y:** -32.8%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-3h ago
+4h ago
 
 ---
 
@@ -97,13 +97,13 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-1h ago
+2h ago
 
 ---
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 There's a radio in your pocket that hears Bluetooth packets all day: trackers, sensors, beacons. Your phone typically discards every one of them. I built EE Gateway to forward them instead. Open BLE networks need ground coverage the way AirTags need iPhones. Think like a mini cell tower in your pocket - where each phone provides about 100 meters coverage. Your phone can now earn Sats for relaying BLE packets. How it works Your phone (or Umbrel node) scans for BLE broadcasts. Receive-only, it never transmits. 1 sat per unique device identifier (they're ephemeral IDs) per UTC day, paid to the first gateway to forward it. Settlement runs daily over Lightning to your address. The honest caveats, before anyone asks... Earnings track BLE density near you. Logistics corridors are busy, residential streets mostly aren't, and you won't know until you field test. Nobody's getting rich on this today. Pending sats are held custodially until your total clears 1,000 sats, then they land at your Lightning address. Every packet carries the GPS fix age and accuracy it was heard with. A phone without a fresh fix drops the packet, so the coverage data stays honest. The Umbrel/Raspberry Pi version is open source (GPL-3.0). The ask: run it for a few days and tell me what you think. Download Links Umbrel App: https://apps.umbrel.com/app/ee-gateway App Store: https://apps.apple.com/us/app/ee-gateway/id6792848842 Play Store: https://play.google.com/store/apps/details?id=com.encryptedenergy.gateway.android&hl=en_US Site: https://encryptedenergy.com
 
-3h ago
+4h ago
 
 ---
 
@@ -119,13 +119,13 @@ There's a radio in your pocket that hears Bluetooth packets all day: trackers, s
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-2h ago
+3h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 5h ago
+AP News • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 **[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117142386639653)**
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -195,13 +195,13 @@ Moomoo • 3h ago
 
 @Onchain Lens 4624 Views
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
 **[today $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/today-bitcoin-btc-cc-117142380412933)**
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -271,7 +271,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 59m ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 1h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin blasts through key levels of resistance, but is the bear market over? Co
 
 📺 Alessio Rastani
 
-👁️ 31K • 👍 2K • 💬 546 • ⏱️ 6:03 • 17h ago
+👁️ 31K • 👍 2K • 💬 546 • ⏱️ 6:03 • 18h ago
 
 ---
 

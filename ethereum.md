@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T05:57:45.731320+00:00'
+updated: '2026-08-23T06:50:23.044473+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 05:57 UTC  
+**Last Updated:** August 23, 2026 at 06:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +24.5%  
-**30d:** +27.0%  
-**90d:** +14.9%  
-**1y:** -50.3%  
+**24h:** -1.9%  
+**7d:** +24.9%  
+**30d:** +27.5%  
+**90d:** +15.3%  
+**1y:** -50.1%  
 
 ---
 
@@ -188,7 +188,7 @@ CNBC • 3d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 11h ago
+BeInCrypto • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ BeInCrypto • 11h ago
 
 Capital is voting with its feet.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -228,7 +228,7 @@ New York Post • 14h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 52 • 💬 17 • ⏱️ 4:45 • 18h ago
+👁️ 2K • 👍 52 • 💬 17 • ⏱️ 4:45 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 377 • 💬 189 • ⏱️ 18:21 • 7h ago
+👁️ 8K • 👍 377 • 💬 189 • ⏱️ 18:21 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 309 • 💬 17 • ⏱️ 11:12 • 13h ago
+👁️ 6K • 👍 309 • 💬 17 • ⏱️ 11:12 • 14h ago
 
 ---
 
