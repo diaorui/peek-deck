@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T11:20:27.444541+00:00'
+updated: '2026-08-23T11:46:41.890852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 11:20 UTC  
+**Last Updated:** August 23, 2026 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1535.01B
+**Market Cap:** $1551.19B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--39.3%
+-38.7%
 
 **All-Time Low:** $67.81
-+112687.2%
++113861.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ What are people’s thoughts ? Any proper analysts in here than can give their a
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 Pre initial pump there was extremly high frequency of long positions, day after that pump there was this white house conference with major crypto faces.
 
-51m ago
+1h ago
 
 ---
 
@@ -165,17 +165,9 @@ AP News • 11h ago
 
 ---
 
-**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
+**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
-
-CNBC • 1d ago
-
----
-
-**[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
-
-Moomoo • 5h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -187,25 +179,19 @@ CNBC • 1d ago
 
 ---
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
-
-Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts](https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts)**
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
 Fox News • 1d ago
+
+---
+
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
+
+Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -215,17 +201,33 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder](https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/)**
+**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
-Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.
-
-Fortune • 1d ago
+WSJ • 1d ago
 
 ---
 
-**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
+**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
 
-MarketWatch • 22h ago
+Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
+
+IO Fund • 3d ago
+
+---
+
+**[Tesla And SpaceX CEO Elon Musk’s $40 Trillion U.S. 'Bankruptcy' Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/08/22/elon-musks-40-trillion-nightmare-is-suddenly-coming-true-as-the-bitcoin-price-soars/)**
+
+Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
+
+Forbes • 23h ago
+
+---
+
+**[Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume](https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531)**
+
+Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.
+
+The Block • 16h ago
 
 ---
 
@@ -297,7 +299,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 15h ago
+👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 16h ago
 
 ---
 
@@ -311,13 +313,23 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 ---
 
-**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+**[Bitcoin Hits $75,000 - Is The Bear Market Officially Over?](https://www.youtube.com/watch?v=LhY0VWH9s7A)**
 
-Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+Bitcoin blasts to $75K from all the liquidations. But is this the kind of move that can still happen in a bear market? ➡️ Favorite ...
 
-📺 Yahoo Finance
+📺 Aaron Bennett
 
-👁️ 17K • 👍 518 • 💬 175 • ⏱️ 14:55 • 1d ago
+👁️ 11K • 👍 485 • 💬 222 • ⏱️ 10:22 • 2d ago
+
+---
+
+**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
+
+Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 4K • 💬 189 • ⏱️ 11:06 • 2d ago
 
 ---
 
@@ -331,53 +343,23 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 ---
 
-**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
-
-Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 52K • 👍 4K • 💬 188 • ⏱️ 11:06 • 2d ago
-
----
-
 **[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
 
 Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
 
 📺 Cointelegraph
 
-👁️ 27K • 👍 619 • 💬 55 • ⏱️ 31:41 • 1d ago
+👁️ 28K • 👍 641 • 💬 57 • ⏱️ 31:41 • 1d ago
 
 ---
 
-**[IS CRYPTO BACK? Bitcoin Price EXPLODES (US Treasury &amp; Bond Markets PANIC)](https://www.youtube.com/watch?v=wlRiEHccat8)**
+**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
 
-What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off TechLead Pro with EtherFi card ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 TechLead
+📺 Benjamin Cowen
 
-👁️ 44K • 👍 1K • 💬 583 • ⏱️ 11:16 • 2d ago
-
----
-
-**[Why Bitcoin is Starting to EXPLODE Again (Not What You Think)](https://www.youtube.com/watch?v=6PTbnqTOI9U)**
-
-First Line ➡ X: https://x.com/elliotrades ➡ Instagram: https://instagram.com/elliotrades ➡ TikTok: ...
-
-📺 EllioTrades
-
-👁️ 19K • 👍 886 • 💬 119 • ⏱️ 8:57 • 2d ago
-
----
-
-**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
-
-Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
-
-📺 CNBC Television
-
-👁️ 43K • 👍 412 • 💬 48 • ⏱️ 4:31 • 2d ago
+👁️ 38K • 👍 645 • 💬 15 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -387,7 +369,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 74K • 👍 3K • 💬 196 • ⏱️ 58:24 • 22h ago
+👁️ 77K • 👍 3K • 💬 196 • ⏱️ 58:24 • 22h ago
+
+---
+
+**[Why Bitcoin is Starting to EXPLODE Again (Not What You Think)](https://www.youtube.com/watch?v=6PTbnqTOI9U)**
+
+First Line ➡ X: https://x.com/elliotrades ➡ Instagram: https://instagram.com/elliotrades ➡ TikTok: ...
+
+📺 EllioTrades
+
+👁️ 19K • 👍 885 • 💬 119 • ⏱️ 8:57 • 2d ago
+
+---
+
+**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
+
+Correlations converging as we speak.
+
+📺 Nicholas Crown
+
+👁️ 10K • 👍 448 • 💬 12 • ⏱️ 2:20 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T11:20:27.450591+00:00'
+updated: '2026-08-23T11:46:41.896760+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 11:20 UTC  
+**Last Updated:** August 23, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.55B
+**Market Cap:** $293.77B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.3%
+-50.8%
 
 **All-Time Low:** $0.43
-+555989.3%
++562082.0%
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 16h ago
+BeInCrypto • 17h ago
 
 ---
 
@@ -210,7 +210,7 @@ BeInCrypto • 16h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 4h ago
+Global South Opportunities • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 3K • 👍 53 • 💬 3 • ⏱️ 4:45 • 23h ago
+👁️ 3K • 👍 52 • 💬 3 • ⏱️ 4:45 • 1d ago
 
 ---
 
@@ -250,27 +250,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 447 • 💬 152 • ⏱️ 18:21 • 13h ago
-
----
-
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 330 • 💬 19 • ⏱️ 11:12 • 18h ago
-
----
-
-**[🚨 BTC &amp; ETH: TRAP!!!!! BEWARE!!!!!!!!](https://www.youtube.com/watch?v=26eKiwsN4fY)**
-
-Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is quite far away. Here is my take on all of this!
-
-📺 Thomas Kralow
-
-👁️ 15K • 👍 2K • 💬 118 • ⏱️ 11:29 • 3d ago
+👁️ 12K • 👍 452 • 💬 153 • ⏱️ 18:21 • 13h ago
 
 ---
 
@@ -280,7 +260,17 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 15h ago
+👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 16h ago
+
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 342 • 💬 19 • ⏱️ 11:12 • 19h ago
 
 ---
 
@@ -290,7 +280,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 18K • 👍 420 • 💬 125 • ⏱️ 41:59 • 2d ago
+👁️ 18K • 👍 422 • 💬 125 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -300,17 +290,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 1K • 👍 123 • 💬 16 • ⏱️ 5:51 • 1d ago
-
----
-
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 299 • 💬 23 • ⏱️ 7:45 • 2d ago
+👁️ 1K • 👍 127 • 💬 16 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -321,6 +301,26 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 📺 Crypto Capital Venture
 
 👁️ 14K • 👍 703 • 💬 119 • ⏱️ 11:56 • 2d ago
+
+---
+
+**[Bitcoin Breakout! - Big News!](https://www.youtube.com/watch?v=RORFWOApAMA)**
+
+This is all about the big breakout on Bitcoin and crypto. Big news for all Bitcoin, Ethereum, Solana and Altcoin investors.
+
+📺 Investing Made Simple
+
+👁️ 14K • 👍 838 • ⏱️ 15:04 • 2d ago
+
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 299 • 💬 23 • ⏱️ 7:45 • 2d ago
 
 ---
 

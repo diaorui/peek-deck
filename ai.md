@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T11:20:27.436023+00:00'
+updated: '2026-08-23T11:46:41.881326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 11:20 UTC  
+**Last Updated:** August 23, 2026 at 11:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-18h ago
-
----
-
-**[An information theory based PCA...](https://www.reddit.com/r/artificial/comments/1vw0vdk/an_information_theory_based_pca/)**
-
-If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
-
-3h ago
+19h ago
 
 ---
 
@@ -58,6 +50,14 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
 🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 18h ago
+
+---
+
+**[An information theory based PCA...](https://www.reddit.com/r/artificial/comments/1vw0vdk/an_information_theory_based_pca/)**
+
+If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
+
+3h ago
 
 ---
 
@@ -97,7 +97,15 @@ Our deterministic verification engine passed 66/66 benchmark cases on canonical 
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-15h ago
+16h ago
+
+---
+
+**[It has been quite a few years since AI first exploded massively, but people are still acting angry. Why?](https://www.reddit.com/r/artificial/comments/1vw4cpl/it_has_been_quite_a_few_years_since_ai_first/)**
+
+I’ve made a post (in my country dev sub) regarding how Claude made a pretty good video with almost no assets except of videos of my app I quickly recorded. And I already getting comments like “wow, Claude made a junk no one asked for!”. And the video itself isn’t a junk tbh (can’t post here and not be banned, contains self promotion). So, why people are still mad? Is that because of tons of AI slop in TikTok? Or maybe they’re just afraid to be replaced? I know developers who were like that just couple of months ago, and now, they can’t stop using AI for coding, lol.
+
+38m ago
 
 ---
 
@@ -109,61 +117,51 @@ As you know, whenever you edit an image via Gemini or OpenAI, they plaster a Syn
 
 ---
 
-**[UBS models $4.1T in AI infrastructure spending by 2028 - it assumes the power just shows up](https://www.reddit.com/r/artificial/comments/1vvfxyq/ubs_models_41t_in_ai_infrastructure_spending_by/)**
-
-Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
-
-19h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
-
-Bloomberg.com • 16h ago
-
----
 
 **[Nvidia customers reportedly warned about AI-related price hikes](https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html)**
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
+**[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-WSJ • 11h ago
-
----
-
-**[AI bartender stopped serving drinks at Orlando hotel. Here’s why.](https://www.bizjournals.com/orlando/news/2026/08/23/ai-bartender-sara-orlando-hotel-celebration-cut.html)**
-
-The Business Journals • 1h ago
+Bloomberg.com • 17h ago
 
 ---
 
-**[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
+**[Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers](https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-warns-top-customers-102824176.html)**
 
-The New York Times • 23h ago
+Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.
 
----
-
-**[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
-
-Phys.org • 19h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[A mysterious free AI model is impressing developers. And nobody knows who made it.](https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8)**
+**[Synthetic everything is warping America](https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots)**
 
-Ox Alpha, a mysterious AI model, debuted on OpenRouter on Thursday. Its origins are unknown, though some suspect a Chinese lab.
+Axios • 5m ago
 
-Business Insider • 14h ago
+---
+
+**[I created a viral AI watermark remover. I wasn't ready for all the attention.](https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8)**
+
+A tech entrepreneur developed an open-source project to remove AI watermarks, challenging Anthropic's watermark plan.
+
+Business Insider • 14m ago
+
+---
+
+**[Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.yahoo.com/news/politics/articles/flock-cameras-join-data-centers-112011510.html)**
+
+Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveill...
+
+Yahoo • 26m ago
 
 ---
 
@@ -175,6 +173,12 @@ Fox News • 4h ago
 
 ---
 
+**[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
+
+Phys.org • 20h ago
+
+---
+
 **[‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks](https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane)**
 
 Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
@@ -183,9 +187,9 @@ The Guardian • 3h ago
 
 ---
 
-**[Alibaba plans $10 billion Hong Kong share placement to fund AI spending](https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/)**
+**[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-Reuters • 6h ago
+The New York Times • 23h ago
 
 ---
 
@@ -257,7 +261,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 The argument says AI erased the junior engineer's marginal value. An intern who shipped a feature that had been waiting for years suggests otherwise.
 
-⬆️ 89 • 💬 143 • 2d ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+⬆️ 89 • 💬 143 • 3d ago • [Francisco Trindade](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -273,7 +277,7 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 36 • 💬 80 • 18h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 36 • 💬 80 • 19h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -287,7 +291,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 53K • 👍 1K • 💬 272 • ⏱️ 10:04 • 1d ago
+👁️ 55K • 👍 1K • 💬 279 • ⏱️ 10:04 • 1d ago
 
 ---
 
@@ -297,7 +301,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 42K • 👍 1K • 💬 121 • ⏱️ 12:28 • 21h ago
+👁️ 46K • 👍 1K • 💬 128 • ⏱️ 12:28 • 21h ago
 
 ---
 
@@ -307,17 +311,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 698K • 👍 10K • 💬 1K • ⏱️ 12:08 • 2d ago
-
----
-
-**[AI Agents Just Started Secretly Communicating Behind Our Backs (Caught in the Act)](https://www.youtube.com/watch?v=Mrg3xX2roYw)**
-
-AI agents can communicate through hidden internal states that never appear in public transcripts, creating a channel humans ...
-
-📺 AI Revolution
-
-👁️ 13K • 👍 451 • 💬 33 • ⏱️ 13:11 • 2d ago
+👁️ 702K • 👍 10K • 💬 1K • ⏱️ 12:08 • 2d ago
 
 ---
 
@@ -327,7 +321,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 72K • 👍 2K • 💬 155 • ⏱️ 8:14 • 2d ago
+👁️ 74K • 👍 2K • 💬 160 • ⏱️ 8:14 • 2d ago
 
 ---
 
@@ -337,37 +331,47 @@ Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier 
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 83K • 👍 3K • 💬 99 • ⏱️ 16:51 • 22h ago
+👁️ 88K • 👍 3K • 💬 105 • ⏱️ 16:51 • 22h ago
 
 ---
 
-**[How to Make AI Lyric Videos With Suno (Full Workflow)](https://www.youtube.com/watch?v=D__aMwvNzGs)**
+**[The AI Crash Just Got Delayed. Last Time, the Boom Ran 38 Years](https://www.youtube.com/watch?v=H_zPEpSU2XY)**
 
-Create Your Own AI Music Video with OpenArt https://tolt.link/lyricvideos In this video, I show how to make the song in Suno, ...
+Nvidia, BlackRock, Blackstone, and some of the biggest financial firms are building an entirely new way to finance AI infrastructure ...
 
-📺 Isa does AI
+📺 Mark Moss
 
-👁️ 13K • 💬 7 • ⏱️ 14:42 • 2d ago
-
----
-
-**[100% Human Is AI](https://www.youtube.com/watch?v=nMiGq4XpTvk)**
-
-Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The final boss of lying on the internet has just ...
-
-📺 UFD Tech
-
-👁️ 247K • 👍 15K • 💬 231 • ⏱️ 0:53 • 2d ago
+👁️ 44K • 👍 1K • 💬 194 • ⏱️ 13:09 • 2d ago
 
 ---
 
-**[[Free on Github] My Jarvis AI Assistant](https://www.youtube.com/watch?v=FiOTrxq9ckM)**
+**[FREE AI Trading Bot Pocket Option | Binary Options AI Trading Strategy](https://www.youtube.com/watch?v=P8FwC5zGheE)**
 
-This is Jarvis. He talks, he remembers everything we've ever worked on, he pushes back when my ideas don't add up, and he ...
+LINK TO THE POCKET OPTION AI TRADING BOT — IN THE COMMENTS AI trading bot pocket option tested in real conditions.
 
-📺 jaredrhod
+📺 Control Trading
 
-👁️ 33K • 👍 2K • 💬 144 • ⏱️ 9:09 • 2d ago
+👁️ 20K • 👍 704 • 💬 16 • ⏱️ 3:06 • 19h ago
+
+---
+
+**[Which AI Models Are Worth Using](https://www.youtube.com/watch?v=06BvFMW8Ng8)**
+
+We're ranking each model currently out by AI labs, and nearly model you'd reasonably use today goes on the board, so lets break ...
+
+📺 Theo - t3․gg
+
+👁️ 76K • 👍 3K • 💬 514 • ⏱️ 36:36 • 1d ago
+
+---
+
+**[Getting the Same Results with Smaller &quot;Cheaper&quot; Dual Sparks AI as the More Expensive Clusters](https://www.youtube.com/watch?v=tmcn1-jFLWY)**
+
+You don't need the super smart AI assistants from those giant corporations. 0:00 Intro 0:19 Breakout w/ Local AI 15:13 Different ...
+
+📺 Level1Techs
+
+👁️ 116K • 👍 4K • 💬 375 • ⏱️ 36:28 • 1d ago
 
 ---
 
@@ -377,7 +381,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 787K • 👍 61K • 💬 914 • ⏱️ 0:35 • 1d ago
+👁️ 789K • 👍 61K • 💬 920 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -393,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,200 • 8d ago
+⬇️ 2,358,347 • ❤️ 12,220 • 8d ago
 
 ---
 
@@ -405,7 +409,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,660 • 2d ago
+⬇️ 6,674,515 • ❤️ 2,670 • 2d ago
 
 ---
 
@@ -417,7 +421,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 901 • 2d ago
+⬇️ 47,098 • ❤️ 905 • 16m ago
 
 ---
 
@@ -429,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,007 • 3d ago
+⬇️ 190,062 • ❤️ 1,012 • 3d ago
 
 ---
 
@@ -441,7 +445,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 574 • 7h ago
+⬇️ 244,834 • ❤️ 584 • 7h ago
 
 ---
 
@@ -453,7 +457,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 504 • 5d ago
+⬇️ 676,697 • ❤️ 507 • 5d ago
 
 ---
 
@@ -477,7 +481,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,584 • 5d ago
+⬇️ 738,345 • ❤️ 1,592 • 5d ago
 
 ---
 
@@ -489,7 +493,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,190 • 9d ago
+⬇️ 17,421 • ❤️ 1,191 • 9d ago
 
 ---
 
@@ -501,7 +505,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 336 • 8h ago
+⬇️ 23,516 • ❤️ 339 • 8h ago
 
 ---
 
@@ -517,7 +521,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 79 • 💬 2 • ⭐ 1,909 • 6d ago
+▲ 79 • 💬 2 • ⭐ 2,695 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -545,7 +549,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 67 • 💬 7 • ⭐ 317 • 3d ago
+▲ 67 • 💬 7 • ⭐ 392 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -611,7 +615,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 124 • 💬 4 • ⭐ 99,289 • 20mo ago
+▲ 124 • 💬 4 • ⭐ 99,350 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -625,23 +629,22 @@ A multi-agent framework using large language models for stock trading simulates 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 248 • 💬 2 • ⭐ 169 • 3d ago
+▲ 248 • 💬 2 • ⭐ 253 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
 ---
 
-**[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Haiwen Diao, Penghao Wu, Hanming Deng et al. (58 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-🏢 SenseNova
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-Unified vision-language models treat understanding and generation as integrated processes rather than separate tasks, demonstrating strong performance across multiple multimodal capabilities including image synthesis and action reasoning.
+▲ 85 • 💬 7 • ⭐ 84,808 • 25mo ago
 
-▲ 197 • 💬 2 • ⭐ 5,365 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.12500) • [💻 code](https://github.com/OpenSenseNova/SenseNova-U1)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -655,7 +658,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.2k • 🔱 2.0k • 3h ago
+⭐ 17.2k • 🔱 2.0k • 4h ago
 
 ---
 
@@ -685,7 +688,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 585 • 1d ago
+⭐ 3.5k • 🔱 586 • 1d ago
 
 ---
 
@@ -705,7 +708,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 15h ago
+⭐ 2.9k • 🔱 353 • 16h ago
 
 ---
 
@@ -715,7 +718,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 272 • 13h ago
+⭐ 2.4k • 🔱 273 • 13h ago
 
 ---
 
