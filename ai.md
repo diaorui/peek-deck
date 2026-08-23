@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T10:50:22.698164+00:00'
+updated: '2026-08-23T11:20:27.436023+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 10:50 UTC  
+**Last Updated:** August 23, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 17h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs. Some of us want free and open and untracked and un-modified outputs for many reasons. Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking? Will there be some that dont? Or do people not even care about this? I don't like it and if the EU makes stupid laws, or the USA or another country for that matter, the rest of the world shouldn't be affected. My hope is that the chinese labs dont add it and that they stay free and open source. What do you think?
 
-13h ago
+14h ago
 
 ---
 
@@ -81,7 +81,7 @@ I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and
 
 The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any topic, one or two narrators, does real research and sources its material. The core feature: you can interrupt it any time and ask a question, and the story continues after. There's also a map and period artwork alongside the audio. Free to try, no account needed for the demo. Just looking for genuine feedback, happy to answer questions about how it works. And if you like it feel fee to share it! Podcast generated from the demo video: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ The idea came from a personal frustration: I love history but could never find p
 
 Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs. In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability. The next benchmark version will provide stage-level attribution across transport, parsing, schema validation, normalization, claim binding, evidence graph construction, deterministic verification, and final outcome mapping. https://www.reddit.com/r/ArtificialInteligence/comments/1vucc82/i_benchmarked_my_deterministic_ai_financial/
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Posted about this project a little while ago — quick update since a few things
 
 As you know, whenever you edit an image via Gemini or OpenAI, they plaster a SynthID to mark it as their own. Further, these SynthIDs can be unqiue, which could be used to track whoever made it. This SynthIDs are imposed on even paid users, and cannot be opted out of this. In response, I created this scrubber. Works on any computer with 8GB of ram. Pretty reliable, automatic, but sucks with text. Have fun.
 
-🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 10h ago
+🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 11h ago
 
 ---
 
@@ -113,7 +113,7 @@ As you know, whenever you edit an image via Gemini or OpenAI, they plaster a Syn
 
 Everyone talks about chip supply as the bottleneck on AI buildout, but power interconnection is turning into the harder constraint in several major markets, and it works nothing like a chip shortage. A chip shortage is a supply problem: fabs run flat out, backlogs clear eventually, prices come down. Grid interconnection is a queue problem: a new data center has to get in line behind every other proposed generation and load project in that region, and studies for that queue routinely take years, not quarters. You can't buy your way to the front by paying more, and you can't build your way out of it by ordering more GPUs. Three things happened just this month that show the queue problem getting worse, not better. The Tennessee Valley Authority created a rate class specifically for AI data centers, an admission that normal industrial rates and normal queue treatment don't fit this load anymore. Denmark's grid operator started putting new data center interconnection requests behind other categories of demand entirely, rather than processing them in the order they arrived. And PJM's board overruled its own stakeholder vote on curtailment rules, which tells you the fight over who gets priority access to constrained transmission capacity is now happening at the top of the largest grid operator in the US. None of this shows up in a capex forecast. $4.1 trillion assumes the megawatts show up when the money does. In a growing number of regions that assumption is the thing to watch, not the chip supply chain. Curious what people closer to the utility/regulatory side are seeing: is interconnection actually the binding constraint now, or is that overstated relative to chips and cooling?
 
-18h ago
+19h ago
 
 ---
 
@@ -137,19 +137,19 @@ CNBC • 14h ago
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
 **[AI bartender stopped serving drinks at Orlando hotel. Here’s why.](https://www.bizjournals.com/orlando/news/2026/08/23/ai-bartender-sara-orlando-hotel-celebration-cut.html)**
 
-The Business Journals • 50m ago
+The Business Journals • 1h ago
 
 ---
 
 **[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ Business Insider • 14h ago
 
 Sen. John Fetterman rejected "AI doomsdaying" and echoed President Donald Trump's push for AI development, warning that U.S. overreaction could benefit China.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fox News • 3h ago
 
 Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -265,7 +265,7 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 54 • 💬 70 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 54 • 💬 70 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -297,7 +297,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 42K • 👍 1K • 💬 121 • ⏱️ 12:28 • 20h ago
+👁️ 42K • 👍 1K • 💬 121 • ⏱️ 12:28 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier 
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 83K • 👍 3K • 💬 99 • ⏱️ 16:51 • 21h ago
+👁️ 83K • 👍 3K • 💬 99 • ⏱️ 16:51 • 22h ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 574 • 6h ago
+⬇️ 244,834 • ❤️ 574 • 7h ago
 
 ---
 
@@ -489,7 +489,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,190 • 8d ago
+⬇️ 17,421 • ❤️ 1,190 • 9d ago
 
 ---
 
@@ -501,7 +501,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 336 • 7h ago
+⬇️ 23,516 • ❤️ 336 • 8h ago
 
 ---
 

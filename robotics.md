@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T10:50:22.716288+00:00'
+updated: '2026-08-23T11:20:27.453824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 10:50 UTC  
+**Last Updated:** August 23, 2026 at 11:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -86,7 +86,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-14h ago
+15h ago
 
 ---
 
@@ -128,7 +128,7 @@ NBC News • 1d ago
 
 Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
 
-The Jerusalem Post • 5h ago
+The Jerusalem Post • 6h ago
 
 ---
 
@@ -206,7 +206,7 @@ A Chinese humanoid robot has stunned spectators at the World Humanoid Robot Game
 
 📺 The Daily Guardian
 
-👁️ 407 • 👍 6 • ⏱️ 0:35 • 1h ago
+👁️ 407 • 👍 6 • ⏱️ 0:35 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 
 
-👁️ 27K • 👍 1K • ⏱️ 0:11 • 19h ago
+👁️ 27K • 👍 1K • ⏱️ 0:11 • 20h ago
 
 ---
 
