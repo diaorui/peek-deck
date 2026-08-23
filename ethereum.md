@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T21:21:05.311357+00:00'
+updated: '2026-08-23T21:46:36.962702+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 21:21 UTC  
+**Last Updated:** August 23, 2026 at 21:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -178,6 +178,14 @@ TradingView • 4h ago
 
 ---
 
+**[Bitcoin, Ethereum Rally 20%+ — Is the Crypto Bear Market Over?](https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point)**
+
+BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
+
+CoinMarketCap • 11h ago
+
+---
+
 **[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
 Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
@@ -194,14 +202,6 @@ Global South Opportunities • 15h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
-
-Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
-
-BeInCrypto • 1d ago
-
----
-
 **[Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?](https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up)**
 
 Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
@@ -210,19 +210,11 @@ Fast Company • 3d ago
 
 ---
 
-**[Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase](https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/)**
+**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
 
-Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
+Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-Crypto Briefing • 1d ago
-
----
-
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 2d ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -231,6 +223,14 @@ CryptoSlate • 2d ago
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
 blockchain.news • 1d ago
+
+---
+
+**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
+
+Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 4K • 👍 261 • 💬 35 • ⏱️ 18:53 • 5h ago
+👁️ 4K • 👍 261 • 💬 35 • ⏱️ 18:53 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 405 • 👍 35 • 💬 30 • ⏱️ 19:11 • 48m ago
+👁️ 405 • 👍 35 • 💬 30 • ⏱️ 19:11 • 1h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 14K • 👍 1K • 💬 90 • ⏱️ 14:45 • 8h ago
+👁️ 14K • 👍 1K • 💬 90 • ⏱️ 14:45 • 9h ago
 
 ---
 
@@ -314,7 +314,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 360 • 👍 82 • 💬 74 • ⏱️ 4:20 • 13h ago
+👁️ 360 • 👍 82 • 💬 74 • ⏱️ 4:20 • 14h ago
 
 ---
 
