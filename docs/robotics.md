@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T22:21:54.218231+00:00'
+updated: '2026-08-23T22:48:19.918789+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 22:21 UTC  
+**Last Updated:** August 23, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-8h ago
+9h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 21h ago
 
 ---
 
@@ -120,27 +120,11 @@ Reuters • 17h ago
 
 ---
 
-**[Chinese robots break Usain Bolt's 100-meter record at Beijing World Humanoid Robot Games](https://www.jpost.com/international/article-906280)**
+**[Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1)**
 
-Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
+Without policy, there are few incentives to automate business functions where labour costs are low
 
-The Jerusalem Post • 17h ago
-
----
-
-**[Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/)**
-
-And they looked absolutely ridiculous doing it.
-
-Engadget • 3h ago
-
----
-
-**[Chinese humanoid robot beats Bolt's 100-metre world record time](https://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time)**
-
-"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.
-
-Euronews.com • 12h ago
+Financial Times • 11h ago
 
 ---
 
@@ -148,11 +132,11 @@ Euronews.com • 12h ago
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
-**[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
+**[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
 
 The Economist • 8h ago
 
@@ -174,17 +158,31 @@ The San Francisco Standard • 9h ago
 
 ---
 
-**[Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1)**
+**[Humanoid robots surpass human records in 100m, high jump](https://www.espn.com/olympics/story/_/id/49692320/humanoid-robots-surpass-human-records-100m-high-jump)**
 
-Without policy, there are few incentives to automate business functions where labour costs are low
-
-Financial Times • 11h ago
+ESPN • 1d ago
 
 ---
 
-**[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
+**[Chinese robots tackle tennis, smash race records at World Humanoid Robot Games](https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games)**
 
-South China Morning Post • 19h ago
+South China Morning Post • 11h ago
+
+---
+
+**[Over 2,000 humanoid robots compete for gold on 2nd day of Beijing’s Robot Games](https://apnews.com/video/over-2000-humanoid-robots-compete-for-gold-on-2nd-day-of-beijings-robot-games-c6b7156df52146ad99a1e9ddb727692d)**
+
+For the more than 2,000 robots competing at a major competition in Beijing, winning a gold medal may not be the ultimate goal.
+
+AP News • 8h ago
+
+---
+
+**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html)**
+
+Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the ‌chairman of Chinese embodied AI startup ACE Robotics said on Friday.  "We expect to reach the 'ChatGPT moment' for embodied intelligence by the end ‌of next year, driven by world models and environmental data capture," Wang Xiaogang told Reuters.  "Even if we reach that inflection point by late 2027, it will likely take another four to ​five years to see broad commercial implementation of embodied world models across sectors," said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -208,7 +206,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 24K • 👍 749 • 💬 186 • ⏱️ 0:52 • 21h ago
+👁️ 24K • 👍 749 • 💬 186 • ⏱️ 0:52 • 22h ago
 
 ---
 
@@ -280,7 +278,7 @@ I've always loved chess, and when you add a little technology and robotics to it
 
 📺 Moonshotkidz 
 
-👁️ 1K • 👍 14 • ⏱️ 0:35 • 7h ago
+👁️ 1K • 👍 14 • ⏱️ 0:35 • 8h ago
 
 ---
 

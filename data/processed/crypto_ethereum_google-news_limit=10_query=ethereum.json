@@ -39,7 +39,7 @@
       "source": "CoinMarketCap",
       "source_url": "https://coinmarketcap.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnNZbmY4SHdIU0pQTUxuZUhJeWFzNW9iNVFTZmpBenFWYVhIWC1BZzdxRzR1bS10bFU0cWNRRUxOakszWlBTcDhQWXNBWExCOHlTMjAyLVVla2hlWDlpVDlmT1UxMFZoTjhlenFUN2YtaWRZeE9HVjg5UWZDSWRDNnJvWC12WXhyRnQ3UjRJRXN1VHVZQWc?oc=5",
-      "pub_date": 1787480440.0,
+      "pub_date": 1787481823.0,
       "article_url": "https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point",
       "image": "https://academy-public.coinmarketcap.com/optimized-uploads/a9998c1a68854cc988e47efbcff2b646.jpeg",
       "description": "BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?"
@@ -63,6 +63,16 @@
       "article_url": "https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/",
       "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/08/images-18.jpeg",
       "description": "The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote"
+    },
+    {
+      "headline": "Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRHhQWkc4andqRUhPRS1VREJCc25HcEYzSEx2SDJsLWF6MnJhU3oteFN2cmhobXI2VWlWVVpMVm9JbGNGUUlzX1Y2d25jU1QzbGxvVnA3NUsyYUlEa0l1ZU8zMXoycTVIV1RLN3pzWmJUQjN2cEluYk8ydmdfT01qSk9XMFpHeldNbG9Qa1duSnROelpFeUZ5aWF0aDZ0NUE3T1l0b1JkZjVwaGNwT0NSdXRNMmtQbTRtSGt6alhtcm84WTRxQnBZ?oc=5",
+      "pub_date": 1787419478.0,
+      "article_url": "https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/22/tom-lee-dall-e.png",
+      "description": "BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month"
     },
     {
       "headline": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
@@ -93,18 +103,8 @@
       "article_url": "https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security",
       "image": "https://image.blockchain.news:443/features/45E057B630B7BC435A29E14A36556A4A91FADC99961BE65945C7D2258DE51402.jpg",
       "description": "Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters."
-    },
-    {
-      "headline": "Ethereum\u2019s next upgrade turns a 2-second block bottleneck into a roughly 9-second window",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUpYSFhPTTlqLW9zejMwSG9jOVpUQjBOWVdvRWlER09zUnIzdThwbzdMS0FLbDZ1ZE5jcUdYaFF3UGd3d0RZZ3pWMnZzUG9yVzhaTUd0eUs1b0lyRlVOd3doamVDU054dE11MFF3TjdWUkRmeGc1ZGhFWjJ3c1FuM1p4bmdTUUVYYXJOcDJpd1M2ZG85WW5kTkNGODcwMllmX2FhRFdUeXpzbjl0UUtkTUFR?oc=5",
-      "pub_date": 1787274059.0,
-      "article_url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-client-control-room.jpg",
-      "description": "Ethereum\u2019s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T21:46:29.262121+00:00"
+  "fetched_at": "2026-08-23T22:48:11.329122+00:00"
 }

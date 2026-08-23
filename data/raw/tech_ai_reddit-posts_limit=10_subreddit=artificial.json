@@ -13,6 +13,17 @@
       "description": "I checked napster.com today, out of curiosity. The page title is \"Napster | Visible AI Agents with Voice, Video and Memory\". The headline is \"AI agents you can see, talk to, and create with\". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of \"what this company is\" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an \"as of\" date when they describe a company? Something else?"
     },
     {
+      "title": "AI agents are now using 5x more tokens than humans..",
+      "author": "BrightLeopard7590",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+      "published": 1787523028.0,
+      "thumbnail": "https://preview.redd.it/x27vp87p77lh1.jpeg?width=640&crop=smart&auto=webp&s=41dcc60a8b4c3a5eac6bc295431a47c0fee4c6ea",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Found a scammer sketch artist on Discord.",
       "author": "ausernor",
       "url": "https://www.reddit.com/r/artificial/comments/1vw28te/found_a_scammer_sketch_artist_on_discord/",
@@ -22,17 +33,6 @@
       "site_name": null,
       "favicon": null,
       "description": "A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he\u2019ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like \"Nah man it not AI i made it blah blah blah..\". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said \"Ok\" but after sometime he said \"I will not make it again, now if there is any real work then tell me and I will get it done.\" At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said \"this time i will not use AI\" (\ud83e\udee1 i obviously refused)"
-    },
-    {
-      "title": "Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/",
-      "published": 1787501959.0,
-      "thumbnail": "https://external-preview.redd.it/ZWRwbmhoeHpnNWxoMa76Lhhkcz2Vgl5415LWXf8HsGCygHcyWqfT7ghBqSZ2.png?width=640&crop=smart&auto=webp&s=37f8267ea702a6976dca4e391b64f22c96508ea1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical \u2014 it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception \u2014 it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away \u2014 the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it \u2014 ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure \"enjoy\" is the right word. I think it's more like \"necessary.\" If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a \u5e08\u5085 (sifu) in my pocket \u2014 why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first \u2014 credentialed or not, senior on speed-dial or not. What's the \"not my job\" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire \u2014 full episode (\"Titans on Tomorrow\" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests."
     },
     {
       "title": "Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.",
@@ -68,17 +68,6 @@
       "description": "Remember when computers were the luxury thing? Now they\u2019re everywhere and basically invisible but nobody\u2019s impressed by \u201cI own a laptop\u201d anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a \u201cthing\u201d at all. It just disappears into the background, like electricity or wifi. Nobody says \u201cwow, AI\u201d anymore, the same way nobody says \u201cwow, computer.\u201d And when that happens, the rare thing won\u2019t be AI-made stuff. It\u2019ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can\u2019t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won\u2019t keep climbing forever like it feels like now. It\u2019ll peak, then fade into invisibility. And humans doing human things will become the new premium."
     },
     {
-      "title": "Why does deploying an agent still feel like deploying a side project?",
-      "author": "Bladerunner_7_",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwccjp/why_does_deploying_an_agent_still_feel_like/",
-      "published": 1787503947.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between \"works on my machine\" and \"this handles a business process every day\"?"
-    },
-    {
       "title": "Can AI Reach the Logos?",
       "author": "colalolagidget",
       "url": "https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does \"search engine\" mean \"ranks and returns links\" or does it mean \"answers your question directly\". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?"
+    },
+    {
+      "title": "Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/",
+      "published": 1787501959.0,
+      "thumbnail": "https://external-preview.redd.it/ZWRwbmhoeHpnNWxoMa76Lhhkcz2Vgl5415LWXf8HsGCygHcyWqfT7ghBqSZ2.png?width=640&crop=smart&auto=webp&s=37f8267ea702a6976dca4e391b64f22c96508ea1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical \u2014 it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception \u2014 it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away \u2014 the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it \u2014 ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure \"enjoy\" is the right word. I think it's more like \"necessary.\" If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a \u5e08\u5085 (sifu) in my pocket \u2014 why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first \u2014 credentialed or not, senior on speed-dial or not. What's the \"not my job\" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire \u2014 full episode (\"Titans on Tomorrow\" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests."
     }
   ],
-  "fetched_at": "2026-08-23T21:46:13.315166+00:00"
+  "fetched_at": "2026-08-23T22:47:57.205302+00:00"
 }

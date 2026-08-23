@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T22:21:54.215392+00:00'
+updated: '2026-08-23T22:48:19.915587+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 22:21 UTC  
+**Last Updated:** August 23, 2026 at 22:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 6h ago
 
 ---
 
@@ -202,6 +202,14 @@ Global South Opportunities • 16h ago
 
 ---
 
+**[Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off](https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off)**
+
+BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
+
+Benzinga • 1d ago
+
+---
+
 **[Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?](https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up)**
 
 Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
@@ -226,14 +234,6 @@ blockchain.news • 1d ago
 
 ---
 
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 4K • 👍 261 • 💬 35 • ⏱️ 18:53 • 6h ago
+👁️ 4K • 👍 261 • 💬 35 • ⏱️ 18:53 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 405 • 👍 35 • 💬 30 • ⏱️ 19:11 • 1h ago
+👁️ 405 • 👍 35 • 💬 30 • ⏱️ 19:11 • 2h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 14K • 👍 1K • 💬 90 • ⏱️ 14:45 • 9h ago
+👁️ 14K • 👍 1K • 💬 90 • ⏱️ 14:45 • 10h ago
 
 ---
 
@@ -314,7 +314,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 360 • 👍 82 • 💬 74 • ⏱️ 4:20 • 14h ago
+👁️ 360 • 👍 82 • 💬 74 • ⏱️ 4:20 • 15h ago
 
 ---
 
