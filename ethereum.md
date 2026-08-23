@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T11:46:41.896760+00:00'
+updated: '2026-08-23T12:39:16.774169+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 11:46 UTC  
+**Last Updated:** August 23, 2026 at 12:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.3%  
-**7d:** +26.3%  
-**30d:** +28.9%  
-**90d:** +16.6%  
-**1y:** -49.5%  
+**7d:** +26.6%  
+**30d:** +29.2%  
+**90d:** +16.9%  
+**1y:** -49.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ Barron's • 1d ago
 
 Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
 
-Fast Company • 2d ago
+Fast Company • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 17h ago
+BeInCrypto • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ BeInCrypto • 17h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 5h ago
+Global South Opportunities • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 12K • 👍 452 • 💬 153 • ⏱️ 18:21 • 13h ago
+👁️ 12K • 👍 452 • 💬 153 • ⏱️ 18:21 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 16h ago
+👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 17h ago
 
 ---
 
