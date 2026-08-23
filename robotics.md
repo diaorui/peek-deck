@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T07:33:27.942325+00:00'
+updated: '2026-08-23T08:30:05.365684+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 07:33 UTC  
+**Last Updated:** August 23, 2026 at 08:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-8h ago
+9h ago
 
 ---
 
@@ -52,33 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-16h ago
-
----
-
-**[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
-
 17h ago
-
----
-
-**[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
-
-15h ago
-
----
-
-**[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
-
-18h ago
-
----
-
-**[Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public](https://www.reddit.com/r/robotics/comments/1vvm3x7/followup_vsarena_now_has_a_proper_vla_track/)**
-
-Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
-
-11h ago
 
 ---
 
@@ -86,15 +60,41 @@ Posted about this project a little while ago — quick update since a few things
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 6h ago
 
 ---
 
-**[Starting a from-scratch hexapod build to actually learn robotics . architecture plan, looking for feedback](https://www.reddit.com/r/robotics/comments/1vvn8w4/starting_a_fromscratch_hexapod_build_to_actually/)**
+**[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-I've decided to build a hexapod from scratch instead of buying a kit. The goal isn't just "have a walking robot," it's to actually understand inverse kinematics, gait control, and the electronics — so I'm deliberately avoiding pre-built controller boards that hide that logic behind fixed firmware. Here's the plan so far: Mechanical 18 DOF total — 3 servos per leg (coxa for hip rotation, femur for lift, tibia for extension), 6 legs. Starting with cheap SG90/MG90S servos since the frame will be small (~15–20cm legs); planning to upgrade to MG996R or digital servos later if I need more load capacity. Controller Going with a Raspberry Pi + PCA9685 (16-channel PWM driver) instead of an Arduino Mega. Same inverse kinematics work either way, but Python makes the math easier to debug, and it leaves room to add a camera or basic SLAM down the line without swapping brains. Build order (trying to not skip steps here): Get IK working on a single leg first — hold it in my hand, feed it x/y/z foot targets, watch it hit them. This is the actual hard part. Only then build the full frame and mount all 6 legs, since leg segment lengths feed directly into the IK math. Tripod gait first (3 legs planted, 3 moving, alternating) — simplest stable static walk. Body-level control on top (turning, height, tilt) as transforms applied before per-leg IK. Power supply gets its own attention — 18 servos stalling briefly can pull several amps, so a dedicated 5–6V high-current supply separate from the Pi's power seems necessary to avoid brownouts. Biggest trap I'm trying to avoid: wiring up all 18 servos and building the whole frame before validating the IK math on one leg. Anyone who's done this — is the single-leg-first approach actually the right call, or is there a reason to prototype differently? Also curious if Pi + PCA9685 is overkill/underkill compared to just going Arduino Mega for this
+18h ago
 
-10h ago
+---
+
+**[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
+
+16h ago
+
+---
+
+**[P.A.R. (Pixel Art Robot) — A Giant, Slow, Flip-Squisk Display, Flipped by a CNC](https://www.reddit.com/r/robotics/comments/1vvyaxs/par_pixel_art_robot_a_giant_slow_flipsquisk/)**
+
+P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
+
+3h ago
+
+---
+
+**[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
+
+19h ago
+
+---
+
+**[Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public](https://www.reddit.com/r/robotics/comments/1vvm3x7/followup_vsarena_now_has_a_proper_vla_track/)**
+
+Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
+
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ I've decided to build a hexapod from scratch instead of buying a kit. The goal i
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -120,7 +120,7 @@ BBC • 21h ago
 
 More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
@@ -128,7 +128,7 @@ NBC News • 20h ago
 
 Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
 
-The Jerusalem Post • 2h ago
+The Jerusalem Post • 3h ago
 
 ---
 
@@ -136,13 +136,13 @@ The Jerusalem Post • 2h ago
 
 High-tech competitors take the field in synchronized display
 
-Newser • 10h ago
+Newser • 11h ago
 
 ---
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -174,7 +174,7 @@ Financial Times • 1d ago
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -182,7 +182,7 @@ Business Insider • 12h ago
 
 Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
 
-The Robot Report • 18h ago
+The Robot Report • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ Chinese humanoid robots broke records set by humans, including beating Usain Bol
 
 📺 ABC7
 
-👁️ 28K • 👍 405 • 💬 103 • ⏱️ 0:42 • 9h ago
+👁️ 28K • 👍 405 • 💬 103 • ⏱️ 0:42 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 
 
-👁️ 25K • 👍 1K • ⏱️ 0:11 • 16h ago
+👁️ 25K • 👍 1K • ⏱️ 0:11 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 25K • 👍 262 • 💬 82 • ⏱️ 0:40 • 9h ago
+👁️ 25K • 👍 262 • 💬 82 • ⏱️ 0:40 • 10h ago
 
 ---
 

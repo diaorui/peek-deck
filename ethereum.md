@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T07:33:27.939144+00:00'
+updated: '2026-08-23T08:30:05.362491+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 07:33 UTC  
+**Last Updated:** August 23, 2026 at 08:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,417.55
+### $2,396.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +24.9%  
-**30d:** +27.5%  
-**90d:** +15.3%  
-**1y:** -50.1%  
+**24h:** -0.6%  
+**7d:** +25.8%  
+**30d:** +28.4%  
+**90d:** +16.1%  
+**1y:** -49.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 2d ago
 
 Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
 
-blockchain.news • 20h ago
+blockchain.news • 21h ago
 
 ---
 
@@ -220,7 +220,7 @@ blockchain.news • 20h ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 15h ago
+New York Post • 16h ago
 
 ---
 
@@ -228,7 +228,7 @@ New York Post • 15h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 54 • 💬 8 • ⏱️ 4:45 • 20h ago
+👁️ 2K • 👍 54 • 💬 8 • ⏱️ 4:45 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 417 • 💬 169 • ⏱️ 18:21 • 9h ago
+👁️ 10K • 👍 417 • 💬 169 • ⏱️ 18:21 • 10h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 322 • 💬 19 • ⏱️ 11:12 • 14h ago
+👁️ 6K • 👍 322 • 💬 19 • ⏱️ 11:12 • 15h ago
 
 ---
 

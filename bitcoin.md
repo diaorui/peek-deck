@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T07:33:27.933075+00:00'
+updated: '2026-08-23T08:30:05.356440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 07:33 UTC  
+**Last Updated:** August 23, 2026 at 08:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +18.1%  
-**30d:** +18.4%  
-**90d:** +0.3%  
+**24h:** -1.1%  
+**7d:** +18.2%  
+**30d:** +18.5%  
+**90d:** +0.4%  
 **1y:** -32.8%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ All currency eventually fail, there are no exceptions!
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-4h ago
+5h ago
 
 ---
 
@@ -119,13 +119,13 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 There's a radio in your pocket that hears Bluetooth packets all day: trackers, sensors, beacons. Your phone typically discards every one of them. I built EE Gateway to forward them instead. Open BLE networks need ground coverage the way AirTags need iPhones. Think like a mini cell tower in your pocket - where each phone provides about 100 meters coverage. Your phone can now earn Sats for relaying BLE packets. How it works Your phone (or Umbrel node) scans for BLE broadcasts. Receive-only, it never transmits. 1 sat per unique device identifier (they're ephemeral IDs) per UTC day, paid to the first gateway to forward it. Settlement runs daily over Lightning to your address. The honest caveats, before anyone asks... Earnings track BLE density near you. Logistics corridors are busy, residential streets mostly aren't, and you won't know until you field test. Nobody's getting rich on this today. Pending sats are held custodially until your total clears 1,000 sats, then they land at your Lightning address. Every packet carries the GPS fix age and accuracy it was heard with. A phone without a fresh fix drops the packet, so the coverage data stays honest. The Umbrel/Raspberry Pi version is open source (GPL-3.0). The ask: run it for a few days and tell me what you think. Download Links Umbrel App: https://apps.umbrel.com/app/ee-gateway App Store: https://apps.apple.com/us/app/ee-gateway/id6792848842 Play Store: https://play.google.com/store/apps/details?id=com.encryptedenergy.gateway.android&hl=en_US Site: https://encryptedenergy.com
 
-5h ago
+6h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ There's a radio in your pocket that hears Bluetooth packets all day: trackers, s
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin 😂 Made me wonder what other weird methods people here have used to stack more BTC? Personally I did the 48h rule : Whenever I want to buy smth, I wait 48h to see if it was just a whim or something I really need. If Idon't need it, I spend the same amount but in BTC What’s yours?
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-33m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 7h ago
+AP News • 8h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 1d ago
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -251,7 +251,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 1d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 2d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -275,7 +275,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
