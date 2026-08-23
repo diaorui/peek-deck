@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T22:48:19.909542+00:00'
+updated: '2026-08-23T23:20:33.479776+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 22:48 UTC  
+**Last Updated:** August 23, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1553.60B
+**Market Cap:** $1555.62B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.5%
 
 **All-Time Low:** $67.81
-+114039.5%
++114166.3%
 
 ---
 
@@ -111,7 +111,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 Some easy advice for some of you on the fence, or newbies. You never want to sell Bitcoin when it is going down. It's too low and you can't optimize gains. You never want to sell Bitcoin when it is going up. Why would you do that? It will be worth more later! Summary: don't sell. Never a good time.
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 Fiat = ♾️ 👎
 
-46m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fiat = ♾️ 👎
 
 I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal.
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ I see many, many many miserable people who are showing disgust by the rise of BT
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 2d ago
 
 **[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://www.bloomberg.com/news/articles/2026-08-23/bitcoin-rally-leans-on-macro-fears-as-crypto-s-flywheel-turns)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -185,13 +185,13 @@ Bloomberg.com • 4h ago
 
 Hollywood actor Ben McKenzie speaks to ABC News about what led him to investigate one of the biggest financial movements of the decade.
 
-ABC News & Headlines – Australian Broadcasting Corporation • 3h ago
+ABC News & Headlines – Australian Broadcasting Corporation • 4h ago
 
 ---
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 15h ago
+Moomoo • 16h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fox News • 1d ago
 
 UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 5h ago
 
 Strategy Inc. executives moved to reassure an investor whose stake lost significant value during the current bear market.
 
-Benzinga • 4h ago
+Benzinga • 5h ago
 
 ---
 
@@ -279,7 +279,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -295,13 +295,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
+**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
 
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 79 • ⏱️ 8:58 • 2d ago
+👁️ 69K • 👍 3K • 💬 154 • ⏱️ 11:10 • 1d ago
 
 ---
 
@@ -315,13 +315,23 @@ While the rest of the crypto space feels overwhelmingly bearish, a unique market
 
 ---
 
-**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
+**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
 
-Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 146 • ⏱️ 11:10 • 1d ago
+👁️ 44K • 👍 2K • 💬 79 • ⏱️ 8:58 • 2d ago
+
+---
+
+**[Bitcoin BREAKOUT Could Be Just the Start - AI May Reallocate $50 TRILLION | Bill Barhydt](https://www.youtube.com/watch?v=hfD9T1fAZ5U)**
+
+Bitcoin #Crypto #finance Bill Barhydt argues that Bitcoin's breakout is being driven by a broader shift toward easier financial ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 648 • 💬 257 • ⏱️ 51:27 • 10h ago
 
 ---
 
@@ -331,57 +341,7 @@ Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An ext
 
 📺 Krown
 
-👁️ 424 • 👍 23 • ⏱️ 0:56 • 3h ago
-
----
-
-**[Bitcoin Hits $75,000 - Is The Bear Market Officially Over?](https://www.youtube.com/watch?v=LhY0VWH9s7A)**
-
-Bitcoin blasts to $75K from all the liquidations. But is this the kind of move that can still happen in a bear market? ➡️ Favorite ...
-
-📺 Aaron Bennett
-
-👁️ 11K • 👍 486 • 💬 222 • ⏱️ 10:22 • 2d ago
-
----
-
-**[Bitcoin Just Did This for the 4th Time Ever: 2015, 2019, 2023, Now](https://www.youtube.com/watch?v=XW4Fw22hdbc)**
-
-First daily close back above the 200-day SMA after 7+ months below it. The three priors were all post-bear reclaims: median +14% ...
-
-📺 Krown
-
-👁️ 920 • 👍 31 • ⏱️ 0:42 • 6h ago
-
----
-
-**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
-
-Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 130 • ⏱️ 17:33 • 3d ago
-
----
-
-**[Bitcoin Will Give You ONE More Chance! | Eric Krown](https://www.youtube.com/watch?v=8gD_iJXntG8)**
-
-Bitcoin has finally started moving, but what if you missed the first leg of the pump? Alessandro is joined by Eric Krown to break ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 514 • 💬 14 • ⏱️ 39:19 • 1d ago
-
----
-
-**[Markets Ignore Higher Rates, Rally On Bitcoin And Gold...But MAJOR Storm Clouds Approaching!](https://www.youtube.com/watch?v=wGJMx7rpsdI)**
-
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
-
-📺 Verified Investing
-
-👁️ 98K • 👍 5K • 💬 184 • ⏱️ 16:12 • 2d ago
+👁️ 774 • 👍 30 • ⏱️ 0:56 • 4h ago
 
 ---
 
@@ -391,7 +351,47 @@ Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitco
 
 📺 Cointelegraph
 
-👁️ 35K • 👍 803 • 💬 126 • ⏱️ 31:41 • 2d ago
+👁️ 36K • 👍 833 • 💬 122 • ⏱️ 31:41 • 2d ago
+
+---
+
+**[Bitcoin Hits $75,000 - Is The Bear Market Officially Over?](https://www.youtube.com/watch?v=LhY0VWH9s7A)**
+
+Bitcoin blasts to $75K from all the liquidations. But is this the kind of move that can still happen in a bear market? ➡️ Favorite ...
+
+📺 Aaron Bennett
+
+👁️ 11K • 👍 486 • 💬 105 • ⏱️ 10:22 • 2d ago
+
+---
+
+**[Why Bitcoin Could Explode From Here](https://www.youtube.com/watch?v=4SRxK_E_K0M)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 223 • ⏱️ 10:08 • 2d ago
+
+---
+
+**[Bitcoin Just Did This for the 4th Time Ever: 2015, 2019, 2023, Now](https://www.youtube.com/watch?v=XW4Fw22hdbc)**
+
+First daily close back above the 200-day SMA after 7+ months below it. The three priors were all post-bear reclaims: median +14% ...
+
+📺 Krown
+
+👁️ 1K • 👍 33 • ⏱️ 0:42 • 7h ago
+
+---
+
+**[BITCOIN PUMPS TO $75K DESTROYING BEARS! XRP LEDGER LENDING IS HERE! ELON MUSK&#39;S X STABLECOINS!](https://www.youtube.com/watch?v=xRcY8EPVcH8)**
+
+Crypto News: Bitcoin's price rallies to $75000 liquidating bears shorting as the US Treasury increases debt buybacks. Evernorth ...
+
+📺 Thinking Crypto
+
+👁️ 11K • 👍 705 • 💬 170 • ⏱️ 18:48 • 2d ago
 
 ---
 

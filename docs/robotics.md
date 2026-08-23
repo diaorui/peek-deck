@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T22:48:19.918789+00:00'
+updated: '2026-08-23T23:20:33.488180+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 22:48 UTC  
+**Last Updated:** August 23, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,14 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 ---
 
+**[Long Jump Final at the 2026 World Humanoid Robot Games](https://www.reddit.com/r/robotics/comments/1vwkdu0/long_jump_final_at_the_2026_world_humanoid_robot/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 1h ago
+
+---
+
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
 7h ago
@@ -50,7 +58,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 4h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 5h ago
 
 ---
 
@@ -66,7 +74,15 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-23h ago
+1d ago
+
+---
+
+**[One person puppeteering two 4-servo quadruped robots at once via real-time pose tracking](https://www.reddit.com/r/robotics/comments/1vwl7ds/one_person_puppeteering_two_4servo_quadruped/)**
+
+One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
+
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 43m ago
 
 ---
 
@@ -74,7 +90,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +98,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 Hello everyone, You have all probably noticed that there is a lot happening right now in the Robotics. But for some reason getting your hands on hardware if you don’t have a 3d printer and a few extra Benjamin’s in the bank is super difficult. In light of that, I want to announce that in Boston, Action space Hackathon is going to be a space where for 48 hours people are going to be taught and fly drones autonomously! Free to participate and a prize $1000 if you win! Event is happening OCT 24-25th. For more information, you can click the link on luma! This is a huge labor of love between me and my two college friends. We want to make sure we get more people access and hopefully get some engineering minded people thinking about what’s possible with hardware. (sorry if this goes against the advertising rule)
 
-🔗 [luma.com](https://luma.com/xl77cp4v) • 8h ago
+🔗 [luma.com](https://luma.com/xl77cp4v) • 9h ago
 
 ---
 
@@ -94,29 +110,13 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 ---
 
-**[Chinese robot beats Usain Bolt's 100m world record at Beijing games](https://www.reddit.com/r/robotics/comments/1vvu4xs/chinese_robot_beats_usain_bolts_100m_world_record/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 21h ago
-
----
-
-**[P.A.R. (Pixel Art Robot) — A Giant, Slow, Flip-Squisk Display, Flipped by a CNC](https://www.reddit.com/r/robotics/comments/1vvyaxs/par_pixel_art_robot_a_giant_slow_flipsquisk/)**
-
-P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
-
-17h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 17h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -138,7 +138,7 @@ BBC • 10h ago
 
 **[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
 
-The Economist • 8h ago
+The Economist • 9h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Robot Report • 1d ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 9h ago
+The San Francisco Standard • 10h ago
 
 ---
 
@@ -166,7 +166,7 @@ ESPN • 1d ago
 
 **[Chinese robots tackle tennis, smash race records at World Humanoid Robot Games](https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games)**
 
-South China Morning Post • 11h ago
+South China Morning Post • 12h ago
 
 ---
 
@@ -174,7 +174,7 @@ South China Morning Post • 11h ago
 
 For the more than 2,000 robots competing at a major competition in Beijing, winning a gold medal may not be the ultimate goal.
 
-AP News • 8h ago
+AP News • 9h ago
 
 ---
 
@@ -190,26 +190,6 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Galbot ET1 Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
-
-Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
-
-📺 DPCcars
-
-👁️ 20K • 👍 413 • 💬 77 • ⏱️ 2:12 • 3d ago
-
----
-
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
-
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
-
-📺 New York Post
-
-👁️ 24K • 👍 749 • 💬 186 • ⏱️ 0:52 • 22h ago
-
----
-
 **[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
 
 Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
@@ -220,45 +200,33 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 ---
 
-**[Why True Robot Intelligence Starts at Home, Not Factories 🤖🏠](https://www.youtube.com/watch?v=YGR2Qp3UoHs)**
+**[They Built a Mechanical Mouth That Can Talk 😳 | #Robotics, #Innovation, #FutureTech, AI, #TechTok](https://www.youtube.com/watch?v=0qu0rSrcnVE)**
 
-Most robotics companies rush to factories, but true artificial general intelligence requires the ultimate edge case: the unstructured ...
+This uncanny artificial mouth can surprisingly reproduce the sound and articulation of a real human voice. This Synthetic Vocal ...
 
-📺 Turn the Lens with Jeff Frick
+📺 Ace Atlantis
 
-👁️ 528 • 👍 7 • 💬 1 • ⏱️ 0:47 • 3h ago
-
----
-
-**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
-
-A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
-
-📺 USA TODAY
-
-👁️ 8K • 👍 110 • 💬 17 • ⏱️ 0:31 • 6h ago
+👁️ 254K • 👍 1K • 💬 119 • ⏱️ 0:05 • 2d ago
 
 ---
 
-**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
+**[Galbot ET1 Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
-A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
+Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
-📺 New York Post
+📺 DPCcars
 
-👁️ 87K • 👍 988 • 💬 720 • ⏱️ 2:04 • 1d ago
+👁️ 20K • 👍 416 • 💬 77 • ⏱️ 2:12 • 3d ago
 
 ---
 
-**[Brevity-focused): Welcome to the Future 🤖✨ #AI #Robotics](https://www.youtube.com/watch?v=a26QJ6N5lPM)**
+**[The first ever humanoid robot Olympics begin this week](https://www.youtube.com/watch?v=OnIUM0HbzDM)**
 
-Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTrends #Shorts #FutureTech #islamic ...
+Subscribe for more!
 
-📺 IslamicPathEng
+📺 Aaron Parnas
 
-
-
-👁️ 32K • 👍 2K • ⏱️ 0:11 • 1d ago
+👁️ 133K • 👍 9K • 💬 1K • ⏱️ 0:45 • 3d ago
 
 ---
 
@@ -268,7 +236,37 @@ TRON 2 transforms into three different robot modes. It can roll, walk, use arms,
 
 📺 Manav
 
-👁️ 201 • 👍 19 • ⏱️ 0:35 • 3h ago
+👁️ 835 • 👍 51 • 💬 1 • ⏱️ 0:35 • 4h ago
+
+---
+
+**[Why True Robot Intelligence Starts at Home, Not Factories 🤖🏠](https://www.youtube.com/watch?v=YGR2Qp3UoHs)**
+
+Most robotics companies rush to factories, but true artificial general intelligence requires the ultimate edge case: the unstructured ...
+
+📺 Turn the Lens with Jeff Frick
+
+👁️ 1K • 👍 8 • 💬 2 • ⏱️ 0:47 • 4h ago
+
+---
+
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+
+📺 ABC News
+
+👁️ 62K • 👍 488 • 💬 110 • ⏱️ 0:40 • 1d ago
+
+---
+
+**[This Robot Turns Walls Into Roads 🤖 #robotics #technology #innovation #tech](https://www.youtube.com/watch?v=N2lAMtEY0HM)**
+
+Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground robots have one major limitation: when the floor ...
+
+📺 EcoZora
+
+👁️ 82K • 👍 549 • 💬 10 • ⏱️ 0:07 • 1d ago
 
 ---
 
@@ -282,13 +280,13 @@ I've always loved chess, and when you add a little technology and robotics to it
 
 ---
 
-**[Robot dubbed &#39;Superman&#39; sets new world speed record!](https://www.youtube.com/watch?v=0T43pedVk_M)**
+**[Humanoid robot beats Usain Bolt&#39;s 100-meter record](https://www.youtube.com/watch?v=waKuzQMdVu8)**
 
-The robot beat Usain Bolt's 2009 record. The Sun brings you breaking news and in-depth analysis on the stories that matter most.
+Humanoid robot beats Usain Bolt's 100-meter record.
 
-📺 The Sun
+📺 NBC News
 
-👁️ 27K • 👍 199 • 💬 58 • ⏱️ 0:19 • 4d ago
+👁️ 25K • 👍 187 • 💬 45 • ⏱️ 0:18 • 1d ago
 
 ---
 

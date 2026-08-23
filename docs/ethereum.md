@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T22:48:19.915587+00:00'
+updated: '2026-08-23T23:20:33.485257+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 22:48 UTC  
+**Last Updated:** August 23, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.44B
+**Market Cap:** $295.80B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.5%
+-50.4%
 
 **All-Time Low:** $0.43
-+565260.0%
++566024.5%
 
 ---
 
@@ -84,7 +84,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -174,7 +174,7 @@ Barron's • 3d ago
 
 Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -244,17 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 4K • 👍 261 • 💬 35 • ⏱️ 18:53 • 7h ago
-
----
-
-**[BITCOIN PULLBACK: EVERYONE IS WRONG (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9s6VEYk4gR0)**
-
-BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 405 • 👍 35 • 💬 30 • ⏱️ 19:11 • 2h ago
+👁️ 6K • 👍 327 • 💬 40 • ⏱️ 18:53 • 7h ago
 
 ---
 
@@ -264,7 +254,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 14K • 👍 1K • 💬 90 • ⏱️ 14:45 • 10h ago
+👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:45 • 10h ago
 
 ---
 
@@ -274,7 +264,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 595 • 👍 55 • ⏱️ 1:09 • 8h ago
+👁️ 788 • 👍 64 • ⏱️ 1:09 • 9h ago
 
 ---
 
@@ -284,27 +274,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 146 • ⏱️ 11:10 • 1d ago
-
----
-
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 361 • 💬 19 • ⏱️ 11:12 • 1d ago
-
----
-
-**[If You Hold Crypto You&#39;re About To Be Very Happy Bitcoin And Ethereum Are Going To Turn Heads](https://www.youtube.com/watch?v=6Z4_cs3gmxA)**
-
-I mean, it cant get any more obvious than this. I dont understand at all how people arent rushing into the cryptocurrency market ...
-
-📺 The Modern Investor
-
-👁️ 10K • 👍 942 • 💬 192 • ⏱️ 30:44 • 2d ago
+👁️ 69K • 👍 3K • 💬 154 • ⏱️ 11:10 • 1d ago
 
 ---
 
@@ -314,17 +284,35 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 360 • 👍 82 • 💬 74 • ⏱️ 4:20 • 15h ago
+👁️ 360 • 👍 82 • 💬 71 • ⏱️ 4:20 • 15h ago
 
 ---
 
-**[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
+**[XRP LEADS AGAIN! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=bOsFtykTjCQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+📺 CryptoWendyO
 
-📺 Cilinix Crypto
+👁️ 1K • 👍 160 • 💬 6 • ⏱️ 1:00 • 2h ago
 
-👁️ 3K • 👍 51 • 💬 3 • ⏱️ 4:45 • 1d ago
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 8K • 👍 363 • 💬 19 • ⏱️ 11:12 • 1d ago
+
+---
+
+**[If You Hold Crypto You&#39;re About To Be Very Happy Bitcoin And Ethereum Are Going To Turn Heads](https://www.youtube.com/watch?v=6Z4_cs3gmxA)**
+
+I mean, it cant get any more obvious than this. I dont understand at all how people arent rushing into the cryptocurrency market ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 944 • 💬 192 • ⏱️ 30:44 • 2d ago
 
 ---
 
@@ -334,7 +322,17 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 16K • 👍 495 • 💬 270 • ⏱️ 18:21 • 1d ago
+👁️ 16K • 👍 496 • 💬 189 • ⏱️ 18:21 • 1d ago
+
+---
+
+**[ETH Breakout Could Change a lot for BMNR](https://www.youtube.com/watch?v=mSKkzkPoqxc)**
+
+BMNR now holds approximately 5.82 million ETH and $11.4 billion of gross assets, but cash has fallen from $104 million to just ...
+
+📺 The Value Thinker
+
+👁️ 13K • 👍 882 • 💬 120 • ⏱️ 21:33 • 2d ago
 
 ---
 

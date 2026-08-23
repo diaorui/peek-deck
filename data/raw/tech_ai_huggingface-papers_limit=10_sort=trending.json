@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 2695,
+      "github_stars": 3241,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
-      "github_stars": 392,
+      "github_stars": 492,
       "project_page": "https://4danyone.github.io/"
     },
     {
@@ -96,25 +96,6 @@
       "project_page": "https://llm-as-a-verifier.com/"
     },
     {
-      "id": "2510.22200",
-      "title": "LongCat-Video Technical Report",
-      "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
-      "organization_name": "meituan-longcat",
-      "organization_fullname": "LongCat",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68a2a29ab9d4c5698e02c747/CDCAx7X7rXDt7xjI-DoxG.png",
-      "summary": "Video generation is a critical pathway toward world models, with efficient\nlong video inference as a key capability. Toward this end, we introduce\nLongCat-Video, a foundational video generation model with 13.6B parameters,\ndelivering strong performance across multiple video generation tasks. It\nparticularly excels in efficient and high-quality long video generation,\nrepresenting our first step toward world models. Key features include: Unified\narchitecture for multiple tasks: Built on the Diffusion Transformer (DiT)\nframework, LongCat-Video supports Text-to-Video, Image-to-Video, and\nVideo-Continuation tasks with a single model; Long video generation:\nPretraining on Video-Continuation tasks enables LongCat-Video to maintain high\nquality and temporal coherence in the generation of minutes-long videos;\nEfficient inference: LongCat-Video generates 720p, 30fps videos within minutes\nby employing a coarse-to-fine generation strategy along both the temporal and\nspatial axes. Block Sparse Attention further enhances efficiency, particularly\nat high resolutions; Strong performance with multi-reward RLHF: Multi-reward\nRLHF training enables LongCat-Video to achieve performance on par with the\nlatest closed-source and leading open-source models. Code and model weights are\npublicly available to accelerate progress in the field.",
-      "ai_summary": "LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.",
-      "hf_url": "https://huggingface.co/papers/2510.22200",
-      "arxiv_url": "https://arxiv.org/abs/2510.22200",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
-      "upvotes": 40,
-      "num_comments": 5,
-      "published_at": "2025-10-25T03:41:02.000Z",
-      "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 7472,
-      "project_page": null
-    },
-    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -130,7 +111,26 @@
       "num_comments": 4,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 99350,
+      "github_stars": 99478,
+      "project_page": null
+    },
+    {
+      "id": "2510.22200",
+      "title": "LongCat-Video Technical Report",
+      "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
+      "organization_name": "meituan-longcat",
+      "organization_fullname": "LongCat",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68a2a29ab9d4c5698e02c747/CDCAx7X7rXDt7xjI-DoxG.png",
+      "summary": "Video generation is a critical pathway toward world models, with efficient\nlong video inference as a key capability. Toward this end, we introduce\nLongCat-Video, a foundational video generation model with 13.6B parameters,\ndelivering strong performance across multiple video generation tasks. It\nparticularly excels in efficient and high-quality long video generation,\nrepresenting our first step toward world models. Key features include: Unified\narchitecture for multiple tasks: Built on the Diffusion Transformer (DiT)\nframework, LongCat-Video supports Text-to-Video, Image-to-Video, and\nVideo-Continuation tasks with a single model; Long video generation:\nPretraining on Video-Continuation tasks enables LongCat-Video to maintain high\nquality and temporal coherence in the generation of minutes-long videos;\nEfficient inference: LongCat-Video generates 720p, 30fps videos within minutes\nby employing a coarse-to-fine generation strategy along both the temporal and\nspatial axes. Block Sparse Attention further enhances efficiency, particularly\nat high resolutions; Strong performance with multi-reward RLHF: Multi-reward\nRLHF training enables LongCat-Video to achieve performance on par with the\nlatest closed-source and leading open-source models. Code and model weights are\npublicly available to accelerate progress in the field.",
+      "ai_summary": "LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.",
+      "hf_url": "https://huggingface.co/papers/2510.22200",
+      "arxiv_url": "https://arxiv.org/abs/2510.22200",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
+      "upvotes": 40,
+      "num_comments": 5,
+      "published_at": "2025-10-25T03:41:02.000Z",
+      "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
+      "github_stars": 7515,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/envharness",
-      "github_stars": 253,
+      "github_stars": 279,
       "project_page": "https://envharness.com/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-23T20:49:19.189052+00:00"
+  "fetched_at": "2026-08-23T23:20:30.271058+00:00"
 }

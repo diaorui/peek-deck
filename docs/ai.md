@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T22:48:19.900943+00:00'
+updated: '2026-08-23T23:20:33.471856+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 22:48 UTC  
+**Last Updated:** August 23, 2026 at 23:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-8h ago
+9h ago
 
 ---
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-13h ago
+14h ago
 
 ---
 
@@ -71,7 +71,7 @@ AI help for me
 
 I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ So Google has to show UK users a screen letting them pick their default search e
 
 TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting 
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -129,7 +129,7 @@ WSJ • 22h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 1h ago
 
 **[US Futures Edge Lower With AI Spending in Focus: Markets Wrap](https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates)**
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bloomberg.com • 37m ago
 
 As AI transforms work, leading companies are rethinking workplace design to boost collaboration, learning, innovation, and AI adoption success.
 
-Forbes • 45m ago
+Forbes • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Forbes • 45m ago
 
 United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 11h ago
 
 **[Fears of AI-induced armageddon are overdone](https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone)**
 
-The Economist • 13h ago
+The Economist • 14h ago
 
 ---
 
@@ -265,7 +265,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 11h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 12h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -287,7 +287,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 62K • 👍 1K • 💬 411 • ⏱️ 10:04 • 2d ago
+👁️ 65K • 👍 1K • 💬 413 • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -297,7 +297,17 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 66K • 👍 2K • 💬 181 • ⏱️ 12:28 • 1d ago
+👁️ 72K • 👍 2K • 💬 188 • ⏱️ 12:28 • 1d ago
+
+---
+
+**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=nFNapm2E5xk)**
+
+I bought every ai generated scam product I found on tiktok, temu, and aliexpress! Subscribe to @LawByMike for more content!
+
+📺 Law By Mike
+
+👁️ 318K • 👍 8K • 💬 880 • ⏱️ 25:05 • 10h ago
 
 ---
 
@@ -307,7 +317,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 722K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
+👁️ 728K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
 
 ---
 
@@ -317,7 +327,7 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 Danny Jones
 
-👁️ 143K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 145K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
 
 ---
 
@@ -327,7 +337,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 72K • 👍 3K • 💬 372 • ⏱️ 32:12 • 19h ago
+👁️ 77K • 👍 4K • 💬 394 • ⏱️ 32:12 • 19h ago
 
 ---
 
@@ -337,27 +347,7 @@ https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.s
 
 📺 TheAIGRID
 
-👁️ 21K • 👍 556 • 💬 97 • ⏱️ 11:27 • 2d ago
-
----
-
-**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
-
-The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
-
-📺 Vanessa Wingårdh
-
-👁️ 58K • 👍 4K • 💬 1K • ⏱️ 12:19 • 10h ago
-
----
-
-**[Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA)**
-
-Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
-
-📺 Felix & Friends (Goat Academy)
-
-👁️ 107K • 👍 3K • 💬 133 • ⏱️ 16:51 • 1d ago
+👁️ 21K • 👍 558 • 💬 98 • ⏱️ 11:27 • 2d ago
 
 ---
 
@@ -367,17 +357,25 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 166K • 👍 3K • 💬 692 • ⏱️ 3:27:05 • 1d ago
+👁️ 168K • 👍 3K • 💬 704 • ⏱️ 3:27:05 • 1d ago
 
 ---
 
-**[AI Agents Just Started Secretly Communicating Behind Our Backs (Caught in the Act)](https://www.youtube.com/watch?v=Mrg3xX2roYw)**
+**[You Don&#39;t Need Python to Keep Up With AI](https://www.youtube.com/watch?v=Dpoj7vXPpfk)**
 
-AI agents can communicate through hidden internal states that never appear in public transcripts, creating a channel humans ...
+Just want to keep up with AI and not fall behind, without building anything specific? Honest answer: you don't need Python at all.
 
-📺 AI Revolution
+📺 Tech With Tim
 
-👁️ 13K • 👍 455 • 💬 39 • ⏱️ 13:11 • 2d ago
+👁️ 4K • 👍 133 • 💬 2 • ⏱️ 0:38 • 11h ago
+
+---
+
+**[Rappers That Are Using AI To Make Their Songs 💔🫩](https://www.youtube.com/watch?v=PIwv3u8PAX4)**
+
+📺 RealjN
+
+👁️ 48K • 👍 6K • 💬 200 • ⏱️ 0:26 • 3h ago
 
 ---
 
@@ -393,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,297 • 9d ago
+⬇️ 2,358,347 • ❤️ 12,308 • 9d ago
 
 ---
 
@@ -405,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,725 • 3d ago
+⬇️ 6,674,515 • ❤️ 2,737 • 3d ago
 
 ---
 
@@ -417,19 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 945 • 11h ago
-
----
-
-**[Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)**
-
-*OrcaRouter*
-
-This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 190,062 • ❤️ 1,039 • 3d ago
+⬇️ 47,098 • ❤️ 952 • 11h ago
 
 ---
 
@@ -441,7 +427,19 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 614 • 2h ago
+⬇️ 244,834 • ❤️ 627 • 2h ago
+
+---
+
+**[Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)**
+
+*OrcaRouter*
+
+This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 190,062 • ❤️ 1,044 • 3d ago
 
 ---
 
@@ -453,7 +451,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 530 • 6d ago
+⬇️ 676,697 • ❤️ 535 • 6d ago
 
 ---
 
@@ -465,7 +463,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,633 • 6d ago
+⬇️ 738,345 • ❤️ 1,637 • 6d ago
 
 ---
 
@@ -477,7 +475,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,334,820 • ❤️ 645 • 7d ago
+⬇️ 1,334,820 • ❤️ 648 • 7d ago
 
 ---
 
@@ -489,7 +487,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 360 • 19h ago
+⬇️ 23,516 • ❤️ 362 • 20h ago
 
 ---
 
@@ -501,7 +499,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,202 • 9d ago
+⬇️ 17,421 • ❤️ 1,205 • 9d ago
 
 ---
 
@@ -517,7 +515,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 80 • 💬 2 • ⭐ 2,695 • 7d ago
+▲ 80 • 💬 2 • ⭐ 3,241 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -545,7 +543,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 69 • 💬 7 • ⭐ 392 • 4d ago
+▲ 69 • 💬 7 • ⭐ 492 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -577,6 +575,18 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 124 • 💬 4 • ⭐ 99,478 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
 
 *Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
@@ -585,21 +595,9 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 40 • 💬 5 • ⭐ 7,472 • 10mo ago
+▲ 40 • 💬 5 • ⭐ 7,515 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 124 • 💬 4 • ⭐ 99,350 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -625,7 +623,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 254 • 💬 2 • ⭐ 253 • 4d ago
+▲ 254 • 💬 2 • ⭐ 279 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -684,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 590 • 7h ago
+⭐ 3.5k • 🔱 590 • 23s ago
 
 ---
 
@@ -714,7 +712,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 281 • 1d ago
+⭐ 2.5k • 🔱 285 • 40m ago
 
 ---
 
