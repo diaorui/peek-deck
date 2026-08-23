@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T18:29:28.816454+00:00'
+updated: '2026-08-23T18:59:32.514141+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 18:29 UTC  
+**Last Updated:** August 23, 2026 at 18:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 2h ago
 
 ---
 
@@ -170,19 +170,19 @@ Barron's • 3d ago
 
 ---
 
-**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-calls-ethereum-foundation-135345451.html)**
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
 
-Hayes believes a move above $3,000 could trigger reflexive buying and potentially send Ethereum toward the $5,000 level.
+Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[SEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal](https://www.tradingview.com/news/newsbtc:307a1e65b094b:0-sec-opens-comment-period-on-cboe-3x-bitcoin-and-ethereum-etf-proposal/)**
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
 
-The SEC has opened a public comment period on Cboe BZX Exchange’s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p…
+Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
 
-TradingView • 2d ago
+TradingView • 5h ago
 
 ---
 
@@ -190,7 +190,7 @@ TradingView • 2d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 2K • 👍 171 • 💬 26 • ⏱️ 18:53 • 2h ago
+👁️ 2K • 👍 171 • 💬 26 • ⏱️ 18:53 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 Stock Moe
 
-👁️ 11K • 👍 913 • 💬 81 • ⏱️ 14:45 • 5h ago
+👁️ 11K • 👍 913 • 💬 81 • ⏱️ 14:45 • 6h ago
 
 ---
 
@@ -264,7 +264,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 22h ago
+👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 23h ago
 
 ---
 
@@ -314,7 +314,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 15K • 👍 485 • 💬 254 • ⏱️ 18:21 • 20h ago
+👁️ 15K • 👍 485 • 💬 254 • ⏱️ 18:21 • 21h ago
 
 ---
 

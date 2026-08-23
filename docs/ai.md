@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T18:29:28.803286+00:00'
+updated: '2026-08-23T18:59:32.499602+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 18:29 UTC  
+**Last Updated:** August 23, 2026 at 18:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,35 +69,11 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ---
 
-**[The failure mode isnt rebellion. It is "it works anyway"](https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/)**
-
-AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
-
-4h ago
-
----
-
-**[Leap Forward In Progress](https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/)**
-
-My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
-
-3h ago
-
----
-
-**[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
-
-I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
-
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 4h ago
-
----
-
 **[Why does deploying an agent still feel like deploying a side project?](https://www.reddit.com/r/artificial/comments/1vwccjp/why_does_deploying_an_agent_still_feel_like/)**
 
 Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between "works on my machine" and "this handles a business process every day"?
 
-1h ago
+2h ago
 
 ---
 
@@ -109,11 +85,35 @@ So Google has to show UK users a screen letting them pick their default search e
 
 ---
 
-**[GOP urges top AI firms to do something about the toxic image of data centers](https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/)**
+**[Leap Forward In Progress](https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/)**
 
-GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
+My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 1d ago
+4h ago
+
+---
+
+**[Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.](https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/)**
+
+AI help for me
+
+32m ago
+
+---
+
+**[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
+
+I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
+
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 4h ago
+
+---
+
+**[The failure mode isnt rebellion. It is "it works anyway"](https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/)**
+
+AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
+
+5h ago
 
 ---
 
@@ -143,49 +143,25 @@ Yahoo Finance • 7h ago
 
 ---
 
-**[‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks](https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane)**
+**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
 
-Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
+Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 3h ago
-
----
-
-**[This AI actually learns how your eyes read—what happens next is stunning](https://www.futura-sciences.com/en/this-ai-actually-learns-how-your-eyes-read-what-happens-next-is-stunning_38211/)**
-
-Reading, but Not as You Know It Is reading really automatic? Think again. Our brains never treat two sentences exactly the same way: it’s a constant game of deciding where to look, which bits to skip, and when to backtrack. These choices are unique to each of us, shaped by...
-
-Futura, le média qui explore le monde • 1h ago
+The Guardian • 4h ago
 
 ---
 
-**[10 AI Updates That Put Teenagers In Charge Of Their Own Learning](https://www.forbes.com/sites/danfitzpatrick/2026/08/23/10-ai-updates-that-put-teenagers-in-charge-of-their-own-learning/)**
+**[Artists Built A Site To Escape AI. Scrapers Are Coming For It Anyway](https://www.forbes.com/sites/robsalkowitz/2026/08/23/artists-built-a-site-to-escape-ai-scrapers-are-coming-for-it-anyway/)**
 
-As students return to school, AI is rapidly integrating into education. Here's how they can use it to help their learning.
+Cara was set up specifically for artists who do not consent to having their work used to train AI models. Those principles seem to have made it a target for attacks.
 
-Forbes • 1h ago
+Forbes • 21m ago
 
 ---
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 9h ago
-
----
-
-**[As students embrace AI, universities scramble to keep up](https://www.deseret.com/magazine/2026/08/22/how-ai-is-changing-higher-education/)**
-
-AI is changing how students learn — and forcing professors to reconsider what college should teach
-
-Deseret News • 15h ago
-
----
-
-**[How to use AI to give yourself a head start at a new job](https://www.fastcompany.com/91593095/how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job)**
-
-A new job comes with a steep learning curve. Used thoughtfully, AI can help you achieve mastery faster.
-
-Fast Company • 1h ago
+The New York Times • 7h ago
 
 ---
 
@@ -194,6 +170,28 @@ Fast Company • 1h ago
 United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
 CNBC • 6h ago
+
+---
+
+**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
+
+AI lab’s Fable 5 has met with sluggish demand from corporate clients
+
+Financial Times • 10h ago
+
+---
+
+**[On GPS: How China has kept up with the US on AI](https://www.cnn.com/2026/08/23/world/video/gps-0823-china-us-ai-race)**
+
+Fareed asks Evan Osnos of The New Yorker about China’s AI industry, which appears to be catching up and rivaling Silicon Valley.
+
+CNN • 3h ago
+
+---
+
+**[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -281,7 +279,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 7h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 8h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -423,7 +421,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 934 • 6h ago
+⬇️ 47,098 • ❤️ 934 • 7h ago
 
 ---
 
@@ -447,7 +445,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 608 • 46m ago
+⬇️ 244,834 • ❤️ 608 • 1h ago
 
 ---
 
@@ -660,7 +658,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 4h ago
+⭐ 17.4k • 🔱 2.0k • 5h ago
 
 ---
 
@@ -710,7 +708,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 41m ago
+⭐ 2.9k • 🔱 353 • 1h ago
 
 ---
 
@@ -720,7 +718,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 279 • 20h ago
+⭐ 2.5k • 🔱 279 • 21h ago
 
 ---
 
