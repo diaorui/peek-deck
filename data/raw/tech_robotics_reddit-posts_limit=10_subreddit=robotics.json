@@ -24,6 +24,17 @@
       "description": null
     },
     {
+      "title": "From AlphaGo to AstraTennis: The World\u2019s First Autonomous Humanoid Robot Tennis Match | GALBOT",
+      "author": "BuySellRam",
+      "url": "https://www.reddit.com/r/robotics/comments/1vwe48b/from_alphago_to_astratennis_the_worlds_first/",
+      "published": 1787507979.0,
+      "thumbnail": "https://external-preview.redd.it/3uExRdkVAtk5M5hrAyvq0wnbahkeVfmG7wNtuEJ07cs.jpeg?width=320&crop=smart&auto=webp&s=29116106dcd887a573370f2e284b712878b24fac",
+      "external_url": "https://youtube.com/watch?v=bcVNBn5R_rY",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
+      "description": "Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?"
+    },
+    {
       "title": "3-month update, in a little story about my 3D-printed robot lamp",
       "author": "Ok_Stress3654",
       "url": "https://www.reddit.com/r/robotics/comments/1vvci99/3month_update_in_a_little_story_about_my/",
@@ -44,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "It\u2019s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don\u2019t think I get how people are scared of its potential to take over the world \ud83d\ude2d\ud83d\ude4f\ud83c\udffb It\u2019s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines."
+    },
+    {
+      "title": "Reverse on BLDC controller",
+      "author": "2VNF",
+      "url": "https://www.reddit.com/r/robotics/comments/1vweih9/reverse_on_bldc_controller/",
+      "published": 1787508843.0,
+      "thumbnail": "https://preview.redd.it/jhvjtu8h16lh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=311b51c77b7fdbab3a7dfd2b9713fc461c90956c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?"
     },
     {
       "title": "Action Space hackathon",
@@ -79,28 +101,6 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
-      "title": "ask for dataset\ud83d\ude2d",
-      "author": "MindyOctant",
-      "url": "https://www.reddit.com/r/robotics/comments/1vw4v5h/ask_for_dataset/",
-      "published": 1787484912.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime..."
-    },
-    {
-      "title": "Rethinking the Quadruped",
-      "author": "drgoldenpants",
-      "url": "https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/",
-      "published": 1787408598.0,
-      "thumbnail": "https://external-preview.redd.it/dDhhbThmYWVyeGtoMafC7iJ2guz0-zdJM7xzAioyKC4k7Tls6tlGdwjgurMJ.jpeg?width=640&crop=smart&auto=webp&s=bd49518f66552631ea1db0355db8b7cc0e0000dd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "P.A.R. (Pixel Art Robot) \u2014 A Giant, Slow, Flip-Squisk Display, Flipped by a CNC",
       "author": "shallow-neural-net",
       "url": "https://www.reddit.com/r/robotics/comments/1vvyaxs/par_pixel_art_robot_a_giant_slow_flipsquisk/",
@@ -112,5 +112,5 @@
       "description": "P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed \"squisks\" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time."
     }
   ],
-  "fetched_at": "2026-08-23T17:20:04.219461+00:00"
+  "fetched_at": "2026-08-23T21:21:04.169230+00:00"
 }
