@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T20:22:56.374113+00:00'
+updated: '2026-08-23T20:49:21.624106+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 20:22 UTC  
+**Last Updated:** August 23, 2026 at 20:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Getting an agent working locally has become ridiculously easy. The moment you wa
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 5h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?
 
-1m ago
+28m ago
 
 ---
 
@@ -105,7 +105,7 @@ TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting 
 
 when i ask ai something do you think it answers like a machine or a human? because it's a machine that feeds on human data right?
 
-25m ago
+51m ago
 
 ---
 
@@ -131,7 +131,7 @@ WSJ • 20h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 23h ago
 
 Nvidia will report its Q2 earnings after the bell on Aug. 26.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 6h ago
 
 **[McMahon says AI can be a ‘great tool’ for students](https://thehill.com/homenews/education/6045912-mcmahon-ai-k-12-benefits/)**
 
-The Hill • 36m ago
+The Hill • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fast Company • 3h ago
 
 Oracle has sold off since last fall, but does that make its stock a better bargain than Amazon's?
 
-Yahoo Finance • 9m ago
+Yahoo Finance • 36m ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 9m ago
 
 Although the larger, existential questions remain present, playwright Matthew Libby has also crafted what amounts to a very human story about siblings who love each other but also harbor jealousies.
 
-Chicago Sun-Times • 13m ago
+Chicago Sun-Times • 40m ago
 
 ---
 
@@ -287,13 +287,13 @@ About half of Americans say they're more concerned than excited about AI, and yo
 
 ## YouTube Videos: "ai"
 
-**[&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy](https://www.youtube.com/watch?v=ebWFexw51qM)**
+**[New Evidence AI Might Already be Conscious | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=gVrvd0CMA-8)**
 
-Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Roman V. Yampolskiy is a computer ...
+Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lemoine lost his job at Google for saying the ...
 
-📺 Danny Jones
+📺 Danny Jones Clips
 
-👁️ 141K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 62K • 👍 1K • 💬 411 • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -303,7 +303,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 60K • 👍 2K • 💬 166 • ⏱️ 12:28 • 1d ago
+👁️ 66K • 👍 2K • 💬 181 • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -313,7 +313,27 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 717K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
+👁️ 722K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
+
+---
+
+**[&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy](https://www.youtube.com/watch?v=ebWFexw51qM)**
+
+Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Roman V. Yampolskiy is a computer ...
+
+📺 Danny Jones
+
+👁️ 143K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+
+---
+
+**[New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](https://www.youtube.com/watch?v=rQ4yX5qNYdY)**
+
+HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to ...
+
+📺 AI Search
+
+👁️ 72K • 👍 3K • 💬 372 • ⏱️ 32:12 • 17h ago
 
 ---
 
@@ -323,17 +343,27 @@ https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.s
 
 📺 TheAIGRID
 
-👁️ 21K • 👍 552 • 💬 97 • ⏱️ 11:27 • 2d ago
+👁️ 21K • 👍 556 • 💬 97 • ⏱️ 11:27 • 2d ago
 
 ---
 
-**[AI BUBBLE:  What Happens If Open AI Dies? | Ed Zitron](https://www.youtube.com/watch?v=53fso6tOSKs)**
+**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
 
-"I only have to be half right for things to work out really badly." Writer of Where's Your Ed At and host of the Better Offline podcast ...
+The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
 
-📺 The Tech Report
+📺 Vanessa Wingårdh
 
-👁️ 191K • 👍 7K • 💬 1K • ⏱️ 32:31 • 2d ago
+👁️ 58K • 👍 4K • 💬 1K • ⏱️ 12:19 • 8h ago
+
+---
+
+**[Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+
+Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+
+📺 Felix & Friends (Goat Academy)
+
+👁️ 107K • 👍 3K • 💬 133 • ⏱️ 16:51 • 1d ago
 
 ---
 
@@ -343,45 +373,17 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 164K • 👍 3K • 💬 683 • ⏱️ 3:27:05 • 1d ago
+👁️ 166K • 👍 3K • 💬 692 • ⏱️ 3:27:05 • 1d ago
 
 ---
 
-**[You Don&#39;t Need Python to Keep Up With AI](https://www.youtube.com/watch?v=Dpoj7vXPpfk)**
+**[AI Agents Just Started Secretly Communicating Behind Our Backs (Caught in the Act)](https://www.youtube.com/watch?v=Mrg3xX2roYw)**
 
-Just want to keep up with AI and not fall behind, without building anything specific? Honest answer: you don't need Python at all.
+AI agents can communicate through hidden internal states that never appear in public transcripts, creating a channel humans ...
 
-📺 Tech With Tim
+📺 AI Revolution
 
-👁️ 3K • 👍 92 • 💬 2 • ⏱️ 0:38 • 8h ago
-
----
-
-**[This Isn’t AI? 🤖 (Annoying Orange 🍊)](https://www.youtube.com/watch?v=AeXLSrEwN48)**
-
-📺 Ramo Akh
-
-👁️ 1.7M • 👍 37K • 💬 1K • ⏱️ 0:16 • 20h ago
-
----
-
-**[REAL VS AI VIDEOS..](https://www.youtube.com/watch?v=JaZXwQZ2UoI)**
-
-subscribe for more :) Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6" Plush: ...
-
-📺 Foltyn Reacts
-
-👁️ 510K • 👍 11K • 💬 2K • ⏱️ 16:31 • 2d ago
-
----
-
-**[How Much Would an AI Crash Destroy?](https://www.youtube.com/watch?v=wTiYaWFP59Q)**
-
-If you're looking to upgrade your business wardrobe, I can recommend giving Tailor Store a try. Their shirts are made to your ...
-
-📺 Patrick Boyle
-
-👁️ 635K • 👍 24K • 💬 3K • ⏱️ 37:20 • 1d ago
+👁️ 13K • 👍 455 • 💬 39 • ⏱️ 13:11 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,270 • 9d ago
+⬇️ 2,358,347 • ❤️ 12,297 • 9d ago
 
 ---
 
@@ -409,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,715 • 3d ago
+⬇️ 6,674,515 • ❤️ 2,725 • 3d ago
 
 ---
 
@@ -421,7 +423,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 934 • 8h ago
+⬇️ 47,098 • ❤️ 945 • 9h ago
 
 ---
 
@@ -433,7 +435,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,032 • 3d ago
+⬇️ 190,062 • ❤️ 1,039 • 3d ago
 
 ---
 
@@ -445,7 +447,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 608 • 2h ago
+⬇️ 244,834 • ❤️ 614 • 25m ago
 
 ---
 
@@ -457,7 +459,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 524 • 5d ago
+⬇️ 676,697 • ❤️ 530 • 5d ago
 
 ---
 
@@ -469,7 +471,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,622 • 6d ago
+⬇️ 738,345 • ❤️ 1,633 • 6d ago
 
 ---
 
@@ -481,19 +483,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,334,820 • ❤️ 643 • 7d ago
-
----
-
-**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
-
-*MiniMax*
-
-MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
-
-`text-to-audio` `2.4B`
-
-⬇️ 17,421 • ❤️ 1,198 • 9d ago
+⬇️ 1,334,820 • ❤️ 645 • 7d ago
 
 ---
 
@@ -505,7 +495,19 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 356 • 17h ago
+⬇️ 23,516 • ❤️ 360 • 17h ago
+
+---
+
+**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
+
+*MiniMax*
+
+MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
+
+`text-to-audio` `2.4B`
+
+⬇️ 17,421 • ❤️ 1,202 • 9d ago
 
 ---
 
@@ -535,7 +537,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 708 • 💬 5 • ⭐ 4,879 • 14d ago
+▲ 710 • 💬 5 • ⭐ 4,879 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -549,7 +551,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 68 • 💬 7 • ⭐ 392 • 4d ago
+▲ 69 • 💬 7 • ⭐ 392 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -658,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 6h ago
+⭐ 17.4k • 🔱 2.0k • 7h ago
 
 ---
 
@@ -688,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 588 • 5h ago
+⭐ 3.5k • 🔱 590 • 5h ago
 
 ---
 
@@ -708,7 +710,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 2h ago
+⭐ 2.9k • 🔱 354 • 3h ago
 
 ---
 
@@ -718,7 +720,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 279 • 22h ago
+⭐ 2.5k • 🔱 281 • 23h ago
 
 ---
 
@@ -738,7 +740,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 184 • 1d ago
+⭐ 2.0k • 🔱 184 • 2d ago
 
 ---
 

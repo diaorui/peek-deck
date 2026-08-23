@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T20:22:56.388550+00:00'
+updated: '2026-08-23T20:49:21.634193+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 20:22 UTC  
+**Last Updated:** August 23, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +28.0%  
-**30d:** +30.7%  
-**90d:** +18.2%  
-**1y:** -48.8%  
+**24h:** +1.7%  
+**7d:** +27.9%  
+**30d:** +30.6%  
+**90d:** +18.1%  
+**1y:** -48.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.26B
+**Market Cap:** $295.44B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.5%
 
 **All-Time Low:** $0.43
-+564971.3%
++565260.0%
 
 ---
 
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 4h ago
 
 ---
 
@@ -214,7 +214,7 @@ Fast Company • 3d ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 23h ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -244,7 +244,17 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 2K • 👍 171 • 💬 26 • ⏱️ 18:53 • 4h ago
+👁️ 4K • 👍 261 • 💬 35 • ⏱️ 18:53 • 5h ago
+
+---
+
+**[BITCOIN PULLBACK: EVERYONE IS WRONG (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9s6VEYk4gR0)**
+
+BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 405 • 👍 35 • 💬 30 • ⏱️ 19:11 • 16m ago
 
 ---
 
@@ -254,17 +264,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 Stock Moe
 
-👁️ 11K • 👍 913 • 💬 81 • ⏱️ 14:45 • 7h ago
-
----
-
-**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
-
-Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 63K • 👍 3K • 💬 136 • ⏱️ 11:10 • 1d ago
+👁️ 14K • 👍 1K • 💬 90 • ⏱️ 14:45 • 8h ago
 
 ---
 
@@ -274,7 +274,27 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 427 • 👍 41 • ⏱️ 1:09 • 6h ago
+👁️ 595 • 👍 55 • ⏱️ 1:09 • 6h ago
+
+---
+
+**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
+
+Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 66K • 👍 3K • 💬 146 • ⏱️ 11:10 • 1d ago
+
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 361 • 💬 19 • ⏱️ 11:12 • 1d ago
 
 ---
 
@@ -284,7 +304,17 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 940 • 💬 192 • ⏱️ 30:44 • 2d ago
+👁️ 10K • 👍 942 • 💬 192 • ⏱️ 30:44 • 2d ago
+
+---
+
+**[How to Use Ethereum (ETH) Cloud Mining in 2026: Does It Work?](https://www.youtube.com/watch?v=D6vrFcfrlSE)**
+
+lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd check before trusting any “ETH cloud mining” ...
+
+📺 Home Aura
+
+👁️ 360 • 👍 82 • 💬 74 • ⏱️ 4:20 • 13h ago
 
 ---
 
@@ -298,43 +328,13 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 ---
 
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 356 • 💬 19 • ⏱️ 11:12 • 1d ago
-
----
-
 **[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
 
 BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 15K • 👍 485 • 💬 254 • ⏱️ 18:21 • 22h ago
-
----
-
-**[ETHEREUM: BULLISH Breakout Is Now 99.99% Certain!? | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=fufeNkoWJ-E)**
-
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
-
-📺 XForceGlobal
-
-👁️ 1K • 👍 130 • 💬 16 • ⏱️ 5:51 • 1d ago
-
----
-
-**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 19K • 👍 433 • 💬 160 • ⏱️ 41:59 • 3d ago
+👁️ 16K • 👍 495 • 💬 270 • ⏱️ 18:21 • 22h ago
 
 ---
 

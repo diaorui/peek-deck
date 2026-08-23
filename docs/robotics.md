@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T20:22:56.391758+00:00'
+updated: '2026-08-23T20:49:21.636395+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 20:22 UTC  
+**Last Updated:** August 23, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-6h ago
+7h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 18h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime...
 
-8h ago
+9h ago
 
 ---
 
@@ -168,7 +168,7 @@ Financial Times • 9h ago
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -196,7 +196,7 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 20K • 👍 411 • 💬 75 • ⏱️ 2:12 • 3d ago
+👁️ 20K • 👍 413 • 💬 77 • ⏱️ 2:12 • 3d ago
 
 ---
 
@@ -206,7 +206,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 21K • 👍 723 • 💬 179 • ⏱️ 0:52 • 19h ago
+👁️ 24K • 👍 749 • 💬 186 • ⏱️ 0:52 • 20h ago
 
 ---
 
@@ -216,27 +216,37 @@ Humanoid robots are getting ready to compete on the tennis court. GALBOT is prep
 
 📺 DPCcars
 
-👁️ 12K • 👍 32 • 💬 4 • ⏱️ 0:28 • 2d ago
+👁️ 12K • 👍 32 • 💬 5 • ⏱️ 0:28 • 2d ago
 
 ---
 
-**[They Built a Mechanical Mouth That Can Talk 😳 | #Robotics, #Innovation, #FutureTech, AI, #TechTok](https://www.youtube.com/watch?v=0qu0rSrcnVE)**
+**[Why True Robot Intelligence Starts at Home, Not Factories 🤖🏠](https://www.youtube.com/watch?v=YGR2Qp3UoHs)**
 
-This uncanny artificial mouth can surprisingly reproduce the sound and articulation of a real human voice. This Synthetic Vocal ...
+Most robotics companies rush to factories, but true artificial general intelligence requires the ultimate edge case: the unstructured ...
 
-📺 Ace Atlantis
+📺 Turn the Lens with Jeff Frick
 
-👁️ 212K • 👍 1K • 💬 97 • ⏱️ 0:05 • 2d ago
+👁️ 528 • 👍 7 • 💬 1 • ⏱️ 0:47 • 1h ago
 
 ---
 
-**[The first ever humanoid robot Olympics begin this week](https://www.youtube.com/watch?v=OnIUM0HbzDM)**
+**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
 
-Subscribe for more!
+A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
 
-📺 Aaron Parnas
+📺 USA TODAY
 
-👁️ 132K • 👍 9K • 💬 1K • ⏱️ 0:45 • 3d ago
+👁️ 8K • 👍 110 • 💬 17 • ⏱️ 0:31 • 4h ago
+
+---
+
+**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
+
+A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
+
+📺 New York Post
+
+👁️ 87K • 👍 988 • 💬 720 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -252,43 +262,33 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 ---
 
+**[This Robot Can Transform Into Three Machines](https://www.youtube.com/watch?v=NyokyLzKejo)**
+
+TRON 2 transforms into three different robot modes. It can roll, walk, use arms, and carry 30 kilograms. One machine could ...
+
+📺 Manav
+
+👁️ 201 • 👍 19 • ⏱️ 0:35 • 1h ago
+
+---
+
 **[Robotic chess](https://www.youtube.com/watch?v=2h4FA6l5TPs)**
 
 I've always loved chess, and when you add a little technology and robotics to it… I'm sold. So here we go with Chessnut Move ...
 
 📺 Moonshotkidz 
 
-👁️ 788 • 👍 16 • ⏱️ 0:35 • 5h ago
+👁️ 1K • 👍 14 • ⏱️ 0:35 • 6h ago
 
 ---
 
-**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
+**[Robot dubbed &#39;Superman&#39; sets new world speed record!](https://www.youtube.com/watch?v=0T43pedVk_M)**
 
-A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
+The robot beat Usain Bolt's 2009 record. The Sun brings you breaking news and in-depth analysis on the stories that matter most.
 
-📺 New York Post
+📺 The Sun
 
-👁️ 84K • 👍 969 • 💬 714 • ⏱️ 2:04 • 1d ago
-
----
-
-**[Faster Than Us: Human Records Broken 🏃‍♂️](https://www.youtube.com/watch?v=aFFkQxrStNQ)**
-
-Humanoid robots are now officially breaking human speed records on the track. Sure, a few still stumble and fall, but the vast ...
-
-📺 The Genesis Eye
-
-👁️ 42K • 👍 206 • 💬 6 • ⏱️ 0:09 • 1d ago
-
----
-
-**[Mova just made the best robot vacuum and mop of 2026! #mova70ultracomplete #ads #bestrobotvacuum2026](https://www.youtube.com/watch?v=VTivWM_lDsY)**
-
-Extra Discount: StuffV70 = $20 Off (Aug 19 - Sep 19) ⚡Exclusive Launch Offer: $200 OFF the MOVA V70 Ultra Complete for a ...
-
-📺 Stuff You Actually Need
-
-👁️ 40K • 👍 1K • 💬 13 • ⏱️ 0:38 • 4d ago
+👁️ 27K • 👍 199 • 💬 58 • ⏱️ 0:19 • 4d ago
 
 ---
 

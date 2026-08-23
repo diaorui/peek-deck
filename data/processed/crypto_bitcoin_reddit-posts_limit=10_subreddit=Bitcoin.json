@@ -57,6 +57,39 @@
       "description": "Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous \"this time it's different, it's finally over\" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to."
     },
     {
+      "title": "Gifting Bitcoin: a paper wallet tempate",
+      "author": "mfatalay",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwgs15/gifting_bitcoin_a_paper_wallet_tempate/",
+      "published": 1787513976.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific \"Gift Wallet\" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!"
+    },
+    {
+      "title": "AI Agents aren't signing up for bank accounts.",
+      "author": "SAAGASolve",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwfdu7/ai_agents_arent_signing_up_for_bank_accounts/",
+      "published": 1787510782.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy."
+    },
+    {
+      "title": "What happened to this community?",
+      "author": "BigNoseParody",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vw89oq/what_happened_to_this_community/",
+      "published": 1787494363.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal."
+    },
+    {
       "title": "A good technical explanation why coldcard failed and others don't",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I feel the answer is just \"yes.\" But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time."
-    },
-    {
-      "title": "Gifting Bitcoin: a paper wallet tempate",
-      "author": "mfatalay",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwgs15/gifting_bitcoin_a_paper_wallet_tempate/",
-      "published": 1787513976.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific \"Gift Wallet\" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!"
-    },
-    {
-      "title": "Take Your Bitcoin Off The Exchanges!",
-      "author": "kingofsats",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/",
-      "published": 1787383596.0,
-      "thumbnail": "https://preview.redd.it/e3xjrho1pvkh1.jpeg?width=640&crop=smart&auto=webp&s=48d7ffabddf45bafe0b49ba8a9f02ff895b8e335",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Daily Discussion, August 23, 2026",
-      "author": "rBitcoinMod",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vw02bj/daily_discussion_august_23_2026/",
-      "published": 1787468422.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
     }
   ],
-  "fetched_at": "2026-08-23T19:47:50.759041+00:00"
+  "fetched_at": "2026-08-23T20:49:07.388151+00:00"
 }

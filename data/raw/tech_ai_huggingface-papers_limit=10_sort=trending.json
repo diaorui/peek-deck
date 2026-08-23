@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 708,
+      "upvotes": 710,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2608.20335",
       "arxiv_url": "https://arxiv.org/abs/2608.20335",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.20335.png",
-      "upvotes": 68,
+      "upvotes": 69,
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-23T18:29:25.433557+00:00"
+  "fetched_at": "2026-08-23T20:49:19.189052+00:00"
 }
