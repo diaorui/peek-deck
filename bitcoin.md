@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T04:36:27.511690+00:00'
+updated: '2026-08-23T05:30:44.935675+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 04:36 UTC  
+**Last Updated:** August 23, 2026 at 05:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,199.46
+### $76,143.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +19.3%  
-**30d:** +19.6%  
-**90d:** +1.4%  
-**1y:** -32.1%  
+**24h:** -1.6%  
+**7d:** +18.2%  
+**30d:** +18.5%  
+**90d:** +0.4%  
+**1y:** -32.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.03B
+**Market Cap:** $1529.77B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-39.6%
 
 **All-Time Low:** $67.81
-+113690.0%
++112246.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,13 +89,13 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 All currency eventually fail, there are no exceptions!
 
-1h ago
+2h ago
 
 ---
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ All currency eventually fail, there are no exceptions!
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-30m ago
+1h ago
 
 ---
 
@@ -111,13 +111,13 @@ All currency eventually fail, there are no exceptions!
 
 There's a radio in your pocket that hears Bluetooth packets all day: trackers, sensors, beacons. Your phone typically discards every one of them. I built EE Gateway to forward them instead. Open BLE networks need ground coverage the way AirTags need iPhones. Think like a mini cell tower in your pocket - where each phone provides about 100 meters coverage. Your phone can now earn Sats for relaying BLE packets. How it works Your phone (or Umbrel node) scans for BLE broadcasts. Receive-only, it never transmits. 1 sat per unique device identifier (they're ephemeral IDs) per UTC day, paid to the first gateway to forward it. Settlement runs daily over Lightning to your address. The honest caveats, before anyone asks... Earnings track BLE density near you. Logistics corridors are busy, residential streets mostly aren't, and you won't know until you field test. Nobody's getting rich on this today. Pending sats are held custodially until your total clears 1,000 sats, then they land at your Lightning address. Every packet carries the GPS fix age and accuracy it was heard with. A phone without a fresh fix drops the packet, so the coverage data stays honest. The Umbrel/Raspberry Pi version is open source (GPL-3.0). The ask: run it for a few days and tell me what you think. Download Links Umbrel App: https://apps.umbrel.com/app/ee-gateway App Store: https://apps.apple.com/us/app/ee-gateway/id6792848842 Play Store: https://play.google.com/store/apps/details?id=com.encryptedenergy.gateway.android&hl=en_US Site: https://encryptedenergy.com
 
-2h ago
+3h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -125,7 +125,7 @@ There's a radio in your pocket that hears Bluetooth packets all day: trackers, s
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ u/Boring_Ad7277
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 4h ago
+AP News • 5h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg • 1d ago
 
 **[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117142386639653)**
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -195,13 +195,13 @@ Moomoo • 2h ago
 
 Arthur Hayes shares a surprising tip on stocks, gold, and Bitcoin (BTC). Here's exactly what he said and why.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[today $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/today-bitcoin-btc-cc-117142380412933)**
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -267,6 +267,14 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 ---
 
+**[DEF Con 19: Skunkworks: Daniel Beckwitt on Bitcoin in 2019 [video]](https://news.ycombinator.com/item?id=49406156)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 1 • 💬 1 • 32m ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+
+---
+
 **[Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words](https://news.ycombinator.com/item?id=49370845)**
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
@@ -285,27 +293,7 @@ Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearl
 
 📺 Yahoo Finance
 
-👁️ 16K • 👍 502 • 💬 174 • ⏱️ 14:55 • 1d ago
-
----
-
-**[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
-
-CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
-
-📺 CNBC Television
-
-👁️ 14K • 👍 150 • 💬 46 • ⏱️ 2:30 • 1d ago
-
----
-
-**[I Just FOUND an INSANE New BITCOIN Miner!](https://www.youtube.com/watch?v=bR8kPMaJzes)**
-
-Checkout the Hammer Miner BC08 from Today's Video ➡ https://geni.us/HammerMinerBC08 Use Checkout Code ...
-
-📺 The Hobbyist Miner
-
-👁️ 5K • 👍 222 • 💬 72 • ⏱️ 18:12 • 1d ago
+👁️ 17K • 👍 509 • 💬 175 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -315,7 +303,17 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 196K • 👍 10K • 💬 604 • ⏱️ 37:16 • 1d ago
+👁️ 198K • 👍 10K • 💬 602 • ⏱️ 37:16 • 2d ago
+
+---
+
+**[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
+
+CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
+
+📺 CNBC Television
+
+👁️ 14K • 👍 152 • 💬 46 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -339,13 +337,23 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 ---
 
+**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
+
+Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
+
+📺 Cointelegraph
+
+👁️ 25K • 👍 566 • 💬 49 • ⏱️ 31:41 • 1d ago
+
+---
+
 **[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
 
 Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 601 • 💬 16 • ⏱️ 0:58 • 1d ago
+👁️ 36K • 👍 615 • 💬 15 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -355,7 +363,7 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 43K • 👍 1K • 💬 570 • ⏱️ 11:16 • 2d ago
+👁️ 43K • 👍 1K • 💬 578 • ⏱️ 11:16 • 2d ago
 
 ---
 
@@ -365,17 +373,17 @@ Correlations converging as we speak.
 
 📺 Nicholas Crown
 
-👁️ 10K • 👍 429 • 💬 11 • ⏱️ 2:20 • 1d ago
+👁️ 10K • 👍 437 • 💬 12 • ⏱️ 2:20 • 1d ago
 
 ---
 
-**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
+**[What the Powerful Breakout Rally in Bitcoin Means Now](https://www.youtube.com/watch?v=SpUIo9Jwh5Q)**
 
-Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
+Bitcoin blasts through key levels of resistance, but is the bear market over? Could this recent recovery be a bear market rally?
 
-📺 Cointelegraph
+📺 Alessio Rastani
 
-👁️ 24K • 👍 540 • 💬 43 • ⏱️ 31:41 • 1d ago
+👁️ 31K • 👍 2K • 💬 546 • ⏱️ 6:03 • 16h ago
 
 ---
 

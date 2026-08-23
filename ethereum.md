@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T04:36:27.515835+00:00'
+updated: '2026-08-23T05:30:44.940989+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 04:36 UTC  
+**Last Updated:** August 23, 2026 at 05:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** +26.1%  
-**30d:** +28.7%  
-**90d:** +16.4%  
-**1y:** -49.6%  
+**24h:** -2.3%  
+**7d:** +24.5%  
+**30d:** +27.0%  
+**90d:** +14.9%  
+**1y:** -50.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.94B
+**Market Cap:** $287.49B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.1%
+-51.9%
 
 **All-Time Low:** $0.43
-+558592.2%
++549792.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +128,7 @@ better.codes is now live. Bring your own agents and raise the proven soundness o
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Capital is voting with its feet.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 1d ago
 
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ FXStreet • 1d ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 12h ago
+New York Post • 13h ago
 
 ---
 
@@ -212,7 +212,7 @@ New York Post • 12h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 7h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 14h ago
+FinanceFeeds • 15h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 42 • 💬 17 • ⏱️ 4:45 • 17h ago
+👁️ 2K • 👍 52 • 💬 17 • ⏱️ 4:45 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 296 • 💬 185 • ⏱️ 18:21 • 6h ago
+👁️ 8K • 👍 377 • 💬 189 • ⏱️ 18:21 • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 299 • 💬 16 • ⏱️ 11:12 • 11h ago
+👁️ 6K • 👍 309 • 💬 17 • ⏱️ 11:12 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 117 • ⏱️ 11:29 • 2d ago
+👁️ 15K • 👍 2K • 💬 118 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 18K • 👍 415 • 💬 123 • ⏱️ 41:59 • 2d ago
+👁️ 18K • 👍 416 • 💬 124 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -292,7 +292,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 1K • 👍 120 • 💬 16 • ⏱️ 5:51 • 1d ago
+👁️ 1K • 👍 121 • 💬 16 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -306,33 +306,33 @@ In this video I break down the current Ethereum price outlook following the rece
 
 ---
 
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
-
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
-
-📺 Crypto Archie
-
-👁️ 1K • 👍 75 • ⏱️ 1:25 • 1d ago
-
----
-
-**[Bitcoin Going Higher? Live Trading  BTC XAU Gold](https://www.youtube.com/watch?v=nSs8Jt13Q5A)**
-
-Zen Master JP Does a Weekend Live Update of BTC, ETH, SOL, XAU GOLD & More! Start your prop trading journey with Breakout ...
-
-📺 Sin City Crypto
-
-👁️ 2K • 👍 208 • 3h ago
-
----
-
 **[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
 
 Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 701 • 💬 118 • ⏱️ 11:56 • 2d ago
+👁️ 14K • 👍 702 • 💬 119 • ⏱️ 11:56 • 2d ago
+
+---
+
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
+
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
+
+📺 Crypto Archie
+
+👁️ 1K • 👍 76 • ⏱️ 1:25 • 1d ago
+
+---
+
+**[The Critical Support Level for Ethereum Bulls](https://www.youtube.com/watch?v=U4PbpHor5YI)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 222 • 💬 8 • ⏱️ 7:31 • 1d ago
 
 ---
 
