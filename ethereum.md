@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T13:32:18.390197+00:00'
+updated: '2026-08-23T14:23:03.852855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 13:32 UTC  
+**Last Updated:** August 23, 2026 at 14:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +26.6%  
-**30d:** +29.2%  
-**90d:** +16.9%  
-**1y:** -49.4%  
+**24h:** +2.0%  
+**7d:** +28.6%  
+**30d:** +31.2%  
+**90d:** +18.7%  
+**1y:** -48.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.77B
+**Market Cap:** $297.28B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-50.2%
 
 **All-Time Low:** $0.43
-+562082.0%
++568876.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ Fast Company • 3d ago
 
 Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -218,7 +218,7 @@ BeInCrypto • 19h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 7h ago
+Global South Opportunities • 8h ago
 
 ---
 
@@ -244,13 +244,13 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 ---
 
-**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+**[Ethereum And Robinhood Together Might Be Unstoppable](https://www.youtube.com/watch?v=1KNbXeNkyPU)**
 
-BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+You've got Robinhood, one of the biggest exchanges in both crypto and stocks, building its own infrastructure for meme coins, and ...
 
-📺 Crypto World
+📺 Crypto Archie
 
-👁️ 12K • 👍 452 • 💬 153 • ⏱️ 18:21 • 15h ago
+👁️ 87 • 👍 10 • ⏱️ 1:09 • 22m ago
 
 ---
 
@@ -260,7 +260,27 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 18h ago
+👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 18h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+
+BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 473 • 💬 223 • ⏱️ 18:21 • 16h ago
+
+---
+
+**[If You Hold Crypto You&#39;re About To Be Very Happy Bitcoin And Ethereum Are Going To Turn Heads](https://www.youtube.com/watch?v=6Z4_cs3gmxA)**
+
+I mean, it cant get any more obvious than this. I dont understand at all how people arent rushing into the cryptocurrency market ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 938 • 💬 192 • ⏱️ 30:44 • 2d ago
 
 ---
 
@@ -270,7 +290,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 342 • 💬 19 • ⏱️ 11:12 • 20h ago
+👁️ 7K • 👍 354 • 💬 19 • ⏱️ 11:12 • 21h ago
 
 ---
 
@@ -280,17 +300,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 18K • 👍 422 • 💬 125 • ⏱️ 41:59 • 2d ago
-
----
-
-**[ETHEREUM: BULLISH Breakout Is Now 99.99% Certain!? | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=fufeNkoWJ-E)**
-
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
-
-📺 XForceGlobal
-
-👁️ 1K • 👍 127 • 💬 16 • ⏱️ 5:51 • 1d ago
+👁️ 19K • 👍 424 • 💬 125 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -300,27 +310,17 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 703 • 💬 119 • ⏱️ 11:56 • 2d ago
+👁️ 14K • 👍 704 • 💬 119 • ⏱️ 11:56 • 2d ago
 
 ---
 
-**[Bitcoin Breakout! - Big News!](https://www.youtube.com/watch?v=RORFWOApAMA)**
+**[ETHEREUM: BULLISH Breakout Is Now 99.99% Certain!? | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=fufeNkoWJ-E)**
 
-This is all about the big breakout on Bitcoin and crypto. Big news for all Bitcoin, Ethereum, Solana and Altcoin investors.
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
 
-📺 Investing Made Simple
+📺 XForceGlobal
 
-👁️ 14K • 👍 838 • ⏱️ 15:04 • 3d ago
-
----
-
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=5QlesdrBuNk)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 299 • 💬 23 • ⏱️ 7:45 • 2d ago
+👁️ 1K • 👍 128 • 💬 16 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 76 • ⏱️ 1:25 • 1d ago
+👁️ 2K • 👍 76 • ⏱️ 1:25 • 2d ago
 
 ---
 

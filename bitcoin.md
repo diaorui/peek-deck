@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T13:32:18.384021+00:00'
+updated: '2026-08-23T14:23:03.846825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 13:32 UTC  
+**Last Updated:** August 23, 2026 at 14:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,360.08
+### $77,712.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +19.5%  
-**30d:** +19.7%  
-**90d:** +1.5%  
-**1y:** -32.0%  
+**24h:** +0.7%  
+**7d:** +20.1%  
+**30d:** +20.3%  
+**90d:** +2.0%  
+**1y:** -31.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.19B
+**Market Cap:** $1555.78B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.7%
+-38.5%
 
 **All-Time Low:** $67.81
-+113861.1%
++114176.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,13 @@ All currency eventually fail, there are no exceptions!
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-9h ago
+10h ago
+
+---
+
+**[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
+
+38m ago
 
 ---
 
@@ -97,21 +103,29 @@ All currency eventually fail, there are no exceptions!
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-16h ago
+17h ago
 
 ---
 
-**[One more pullback before bull market ?](https://www.reddit.com/r/Bitcoin/comments/1vw282n/one_more_pullback_before_bull_market/)**
+**[Do your own research](https://www.reddit.com/r/Bitcoin/comments/1vw5zjf/do_your_own_research/)**
 
-What are people’s thoughts ? Any proper analysts in here than can give their advice ?
+I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-4h ago
+1h ago
 
 ---
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
 1d ago
+
+---
+
+**[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
+
+This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
+
+11h ago
 
 ---
 
@@ -123,33 +137,19 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 ---
 
-**[A good technical explanation why coldcard failed and others don't](https://www.reddit.com/r/Bitcoin/comments/1vvvxi0/a_good_technical_explanation_why_coldcard_failed/)**
-
-This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
-
-10h ago
-
----
-
-**[Why nobody is talking about this?](https://www.reddit.com/r/Bitcoin/comments/1vw3n6n/why_nobody_is_talking_about_this/)**
-
-Pre initial pump there was extremly high frequency of long positions, day after that pump there was this white house conference with major crypto faces.
-
-3h ago
-
----
-
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
-
-1d ago
-
----
-
 **[Daily Discussion, August 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1vw02bj/daily_discussion_august_23_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
+
+---
+
+**[What’s the most unconventional way you’ve ever stacked Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vvwpx9/whats_the_most_unconventional_way_youve_ever/)**
+
+I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin 😂 Made me wonder what other weird methods people here have used to stack more BTC? Personally I did the 48h rule : Whenever I want to buy smth, I wait 48h to see if it was just a whim or something I really need. If Idon't need it, I spend the same amount but in BTC What’s yours?
+
+10h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 13h ago
+AP News • 14h ago
 
 ---
 
@@ -183,7 +183,7 @@ WSJ • 2d ago
 
 Robert Kiyosaki bets on gold, silver, and Bitcoin amid "more fake USD" from the Treasury. Here's what he said.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 ChatGPT and Grok favored short-term or intermediate US Treasuries for dependable income and lower volatility. Gemini viewed bonds as the defensive choice and Bitcoin ...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -275,7 +275,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -297,7 +297,47 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 18h ago
+👁️ 58K • 👍 3K • 💬 179 • ⏱️ 11:10 • 18h ago
+
+---
+
+**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 44 • ⏱️ 8:58 • 1d ago
+
+---
+
+**[Bitcoin Hits $75,000 - Is The Bear Market Officially Over?](https://www.youtube.com/watch?v=LhY0VWH9s7A)**
+
+Bitcoin blasts to $75K from all the liquidations. But is this the kind of move that can still happen in a bear market? ➡️ Favorite ...
+
+📺 Aaron Bennett
+
+👁️ 11K • 👍 486 • 💬 222 • ⏱️ 10:22 • 2d ago
+
+---
+
+**[Why Bitcoin Just Broke Out (And What Comes Next)](https://www.youtube.com/watch?v=hIzoNHkOzec)**
+
+Bitcoin finally broke out, running from roughly $64K to over $72K in two sessions. Cory Klippsten walks through the two things ...
+
+📺 Swan Bitcoin
+
+👁️ 30K • 👍 1K • 💬 53 • ⏱️ 2:50 • 2d ago
+
+---
+
+**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+
+Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+
+📺 Yahoo Finance
+
+👁️ 18K • 👍 528 • 💬 234 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -311,23 +351,23 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 ---
 
-**[Bitcoin Hits $75,000 - Is The Bear Market Officially Over?](https://www.youtube.com/watch?v=LhY0VWH9s7A)**
+**[Bitcoin Just Had Its Biggest Week In History](https://www.youtube.com/watch?v=fhZiG-Uzs1c)**
 
-Bitcoin blasts to $75K from all the liquidations. But is this the kind of move that can still happen in a bear market? ➡️ Favorite ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Aaron Bennett
+📺 Anthony Pompliano
 
-👁️ 11K • 👍 485 • 💬 222 • ⏱️ 10:22 • 2d ago
+👁️ 80K • 👍 3K • 💬 220 • ⏱️ 58:24 • 1d ago
 
 ---
 
-**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
+**[Markets Ignore Higher Rates, Rally On Bitcoin And Gold...But MAJOR Storm Clouds Approaching!](https://www.youtube.com/watch?v=wGJMx7rpsdI)**
 
-Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
 
-📺 Altcoin Daily
+📺 Verified Investing
 
-👁️ 52K • 👍 4K • 💬 189 • ⏱️ 11:06 • 2d ago
+👁️ 95K • 👍 5K • 💬 190 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -347,47 +387,7 @@ Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitco
 
 📺 Cointelegraph
 
-👁️ 28K • 👍 641 • 💬 57 • ⏱️ 31:41 • 2d ago
-
----
-
-**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 38K • 👍 645 • 💬 15 • ⏱️ 0:58 • 1d ago
-
----
-
-**[Bitcoin Just Had Its Biggest Week In History](https://www.youtube.com/watch?v=fhZiG-Uzs1c)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 77K • 👍 3K • 💬 196 • ⏱️ 58:24 • 1d ago
-
----
-
-**[Why Bitcoin is Starting to EXPLODE Again (Not What You Think)](https://www.youtube.com/watch?v=6PTbnqTOI9U)**
-
-First Line ➡ X: https://x.com/elliotrades ➡ Instagram: https://instagram.com/elliotrades ➡ TikTok: ...
-
-📺 EllioTrades
-
-👁️ 19K • 👍 885 • 💬 119 • ⏱️ 8:57 • 2d ago
-
----
-
-**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
-
-Correlations converging as we speak.
-
-📺 Nicholas Crown
-
-👁️ 10K • 👍 448 • 💬 12 • ⏱️ 2:20 • 1d ago
+👁️ 30K • 👍 686 • 💬 101 • ⏱️ 31:41 • 2d ago
 
 ---
 

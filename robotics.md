@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T13:32:18.393440+00:00'
+updated: '2026-08-23T14:23:03.856031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 13:32 UTC  
+**Last Updated:** August 23, 2026 at 14:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 12h ago
 
 ---
 
@@ -68,7 +68,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime...
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 I came across this two wheeler autonomous rover electronics wiring diagram... I only can identify the ardumoto shield, pro mini, logic level converter, apm 2.5 controller and two dc motors... Could someone help me identify rest of the objects and provide more info on this project?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I came across this two wheeler autonomous rover electronics wiring diagram... I 
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-8h ago
+9h ago
 
 ---
 
@@ -114,7 +114,7 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 45m ago
+BBC • 1h ago
 
 ---
 
@@ -128,7 +128,7 @@ ESPN • 21h ago
 
 Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
 
-The Jerusalem Post • 8h ago
+The Jerusalem Post • 9h ago
 
 ---
 
@@ -136,13 +136,13 @@ The Jerusalem Post • 8h ago
 
 "In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.
 
-Euronews.com • 3h ago
+Euronews.com • 4h ago
 
 ---
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -150,7 +150,7 @@ Reuters • 8h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2d ago
 
 **[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
 
-South China Morning Post • 10h ago
+South China Morning Post • 11h ago
 
 ---
 
@@ -188,53 +188,73 @@ Business Insider • 18h ago
 
 ## YouTube Videos: "robotics"
 
+**[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
+
+A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
+
+📺 BBC News
+
+👁️ 860K • 👍 11K • 💬 5K • ⏱️ 2:30 • 16h ago
+
+---
+
+**[China’s humanoid robot games showcase rapid progress in robotics](https://www.youtube.com/watch?v=8kmQ9ddce7w)**
+
+China's humanoid robot games in Beijing are testing the abilities of machines while showcasing the progress of the country's ...
+
+📺 Al Jazeera English
+
+👁️ 25K • 👍 190 • 💬 117 • ⏱️ 1:25 • 19h ago
+
+---
+
+**[China&#39;s New $7,999 Female Robot Is Changing the World—Here&#39;s Why](https://www.youtube.com/watch?v=-ZsEUlB2NN4)**
+
+Chinese Engineering is pushing humanoid robotics into territory that once seemed impossible. From hyper-realistic female ...
+
+📺 Expand Knowledge
+
+👁️ 78K • 👍 2K • 💬 146 • ⏱️ 27:00 • 4d ago
+
+---
+
+**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
+
+The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
+
+📺 NBC News
+
+👁️ 56K • 👍 419 • 💬 206 • ⏱️ 4:05 • 2d ago
+
+---
+
 **[Galbot ET1 Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
 Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
 📺 DPCcars
 
-👁️ 19K • 👍 399 • 💬 60 • ⏱️ 2:12 • 2d ago
+👁️ 19K • 👍 403 • 💬 60 • ⏱️ 2:12 • 2d ago
 
 ---
 
-**[Chinese Humanoid Robot Runs 100m In 9.39 Seconds, Beats Usain Bolt’s Record](https://www.youtube.com/watch?v=EODFQyEAJmU)**
+**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
 
-A Chinese humanoid robot has stunned spectators at the World Humanoid Robot Games in Beijing, running 100 metres in 9.39 ...
+China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
 
-📺 The Daily Guardian
+📺 Associated Press
 
-👁️ 1K • 👍 24 • ⏱️ 0:35 • 4h ago
-
----
-
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
-
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
-
-📺 DPCcars
-
-👁️ 11K • 👍 31 • 💬 4 • ⏱️ 0:28 • 1d ago
+👁️ 9K • 👍 40 • 💬 7 • ⏱️ 0:54 • 3d ago
 
 ---
 
-**[The first ever humanoid robot Olympics begin this week](https://www.youtube.com/watch?v=OnIUM0HbzDM)**
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
 
-Subscribe for more!
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
 
-📺 Aaron Parnas
+📺 AI Revolution
 
-👁️ 131K • 👍 9K • 💬 978 • ⏱️ 0:45 • 2d ago
-
----
-
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
-
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
-
-📺 New York Post
-
-👁️ 14K • 👍 573 • 💬 127 • ⏱️ 0:52 • 13h ago
+👁️ 44K • 👍 945 • 💬 109 • ⏱️ 14:10 • 4d ago
 
 ---
 
@@ -244,49 +264,27 @@ A humanoid robot lost control while sprinting around a track during testing ahea
 
 📺 New York Post
 
-👁️ 74K • 👍 880 • 💬 613 • ⏱️ 2:04 • 1d ago
+👁️ 78K • 👍 926 • 💬 679 • ⏱️ 2:04 • 1d ago
 
 ---
 
-**[Humanoid robots smash human records in 100m sprint at robot games](https://www.youtube.com/watch?v=3Y9E2CcMTFk)**
+**[Humanoid robot clocks 9.39 seconds, beats Usain Bolt’s record | #shorts](https://www.youtube.com/watch?v=EiCkO6H7vF4)**
 
-Chinese humanoid robots broke records set by humans, including beating Usain Bolt's 100-meter sprint world record, on the ...
+A humanoid robot clocked 9.39 seconds in the 100m at the World Humanoid Robot Games in Beijing, beating Usain Bolt's ...
 
-📺 ABC7
+📺 The Federal
 
-👁️ 39K • 👍 445 • 💬 110 • ⏱️ 0:42 • 15h ago
-
----
-
-**[ROGUE ROBOT: Amazon drone drops package into swimming pool #shorts #foxnews #fox #news](https://www.youtube.com/watch?v=G6wyGJ9t7H4)**
-
-An Amazon delivery drone went rogue during a Texas dropoff, plopping a woman's package straight into her swimming pool.
-
-📺 Fox News Clips
-
-👁️ 66K • 👍 487 • 💬 104 • ⏱️ 0:17 • 2d ago
+👁️ 2K • 👍 53 • 💬 4 • ⏱️ 0:47 • 6h ago
 
 ---
 
-**[Brevity-focused): Welcome to the Future 🤖✨ #AI #Robotics](https://www.youtube.com/watch?v=a26QJ6N5lPM)**
+**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
 
-Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTrends #Shorts #FutureTech #islamic ...
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
 
-📺 IslamicPathEng
+📺 New York Post
 
-
-
-👁️ 28K • 👍 1K • ⏱️ 0:11 • 22h ago
-
----
-
-**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
-
-The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
-
-📺 Custom Adventurist
-
-👁️ 1.9M • 👍 79K • 💬 722 • ⏱️ 1:04 • 5d ago
+👁️ 17K • 👍 636 • 💬 151 • ⏱️ 0:52 • 13h ago
 
 ---
 
