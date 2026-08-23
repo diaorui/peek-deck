@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T05:30:44.943798+00:00'
+updated: '2026-08-23T05:57:45.733826+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 05:30 UTC  
+**Last Updated:** August 23, 2026 at 05:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-14h ago
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -78,7 +78,7 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-9h ago
+10h ago
 
 ---
 
@@ -86,7 +86,7 @@ Posted about this project a little while ago — quick update since a few things
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I've decided to build a hexapod from scratch instead of buying a kit. The goal isn't just "have a walking robot," it's to actually understand inverse kinematics, gait control, and the electronics — so I'm deliberately avoiding pre-built controller boards that hide that logic behind fixed firmware. Here's the plan so far: Mechanical 18 DOF total — 3 servos per leg (coxa for hip rotation, femur for lift, tibia for extension), 6 legs. Starting with cheap SG90/MG90S servos since the frame will be small (~15–20cm legs); planning to upgrade to MG996R or digital servos later if I need more load capacity. Controller Going with a Raspberry Pi + PCA9685 (16-channel PWM driver) instead of an Arduino Mega. Same inverse kinematics work either way, but Python makes the math easier to debug, and it leaves room to add a camera or basic SLAM down the line without swapping brains. Build order (trying to not skip steps here): Get IK working on a single leg first — hold it in my hand, feed it x/y/z foot targets, watch it hit them. This is the actual hard part. Only then build the full frame and mount all 6 legs, since leg segment lengths feed directly into the IK math. Tripod gait first (3 legs planted, 3 moving, alternating) — simplest stable static walk. Body-level control on top (turning, height, tilt) as transforms applied before per-leg IK. Power supply gets its own attention — 18 servos stalling briefly can pull several amps, so a dedicated 5–6V high-current supply separate from the Pi's power seems necessary to avoid brownouts. Biggest trap I'm trying to avoid: wiring up all 18 servos and building the whole frame before validating the IK math on one leg. Anyone who's done this — is the single-leg-first approach actually the right call, or is there a reason to prototype differently? Also curious if Pi + PCA9685 is overkill/underkill compared to just going Arduino Mega for this
 
-8h ago
+9h ago
 
 ---
 
@@ -108,11 +108,25 @@ I've decided to build a hexapod from scratch instead of buying a kit. The goal i
 
 ## Google News: "robotics"
 
+**[Robot horse and rider steal the spotlight at Chinese conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
+
+More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
+
+BBC • 19h ago
+
+---
+
 **[Move over, Usain Bolt: Humanoid robots smash human records at Beijing games](https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869)**
 
 More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
 
-NBC News • 18h ago
+NBC News • 19h ago
+
+---
+
+**[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -124,14 +138,6 @@ Ars Technica • 2d ago
 
 ---
 
-**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html)**
-
-Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the ‌chairman of Chinese embodied AI startup ACE Robotics said on Friday.  "We expect to reach the 'ChatGPT moment' for embodied intelligence by the end ‌of next year, driven by world models and environmental data capture," Wang Xiaogang told Reuters.  "Even if we reach that inflection point by late 2027, it will likely take another four to ​five years to see broad commercial implementation of embodied world models across sectors," said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime.
-
-Yahoo Finance • 1d ago
-
----
-
 **[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
 
 Beijing policymakers have made robotics a ‘strategic priority’
@@ -140,51 +146,39 @@ Financial Times • 1d ago
 
 ---
 
+**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html)**
+
+Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the ‌chairman of Chinese embodied AI startup ACE Robotics said on Friday.  "We expect to reach the 'ChatGPT moment' for embodied intelligence by the end ‌of next year, driven by world models and environmental data capture," Wang Xiaogang told Reuters.  "Even if we reach that inflection point by late 2027, it will likely take another four to ​five years to see broad commercial implementation of embodied world models across sectors," said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[At China's robot Olympics, the finish line comes with a padded wall and a stretcher](https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8)**
+
+China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
+
+Business Insider • 10h ago
+
+---
+
 **[The technology that could bring robot mowers to one in two American lawns](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/)**
 
 Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
-**[Chinese company flexes dominance in robotics space with splashy stock market debut](https://www.upr.org/2026-08-22/chinese-company-flexes-dominance-in-robotics-space-with-splashy-stock-market-debut)**
+**[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
 
-The Chinese robotics company Unitree, known for its highly advanced humanoid robots, made a tremendous debut on Shanghai's stock market. The company is considered an industry leader in robotics.
-
-Utah Public Radio • 8h ago
+South China Morning Post • 2h ago
 
 ---
 
-**[China’s Robotics Industry Takes Center Stage As Innovation Accelerates](https://www.islamtimes.com/en/news/1300831/china-s-robotics-industry-takes-center-stage-as-innovation-accelerates)**
+**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
 
-Islam Times - A surge in high-profile events, including Unitree Robotics’ blockbuster initial public offering and the World Robot Conference in Beijing, is highlighting China’s rapid rise as a global hub for robotics innovation and its growing push to deploy robots in real-world applications.
-
-اسلام تايمز • 2h ago
-
----
-
-**[Robots don’t run themselves: The workforce powering physical AI](https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/)**
-
-The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the president of HireArt.
-
-The Robot Report • 13h ago
-
----
-
-**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
-
-Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
-
-CNBC • 2d ago
-
----
-
-**[Inside ARX Robotics: building the future of defence](https://www.nato.int/en/multimedia/multimedia/videos/2026/06/17/inside-arx-robotics-building-the-future-of-defence)**
-
-Inside ARX Robotics: building the future of defence
-
-North Atlantic Treaty Organization | NATO • 3d ago
+The New York Times • 2d ago
 
 ---
 

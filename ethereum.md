@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T05:30:44.940989+00:00'
+updated: '2026-08-23T05:57:45.731320+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 05:30 UTC  
+**Last Updated:** August 23, 2026 at 05:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -160,11 +160,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://finance.yahoo.com/markets/crypto/articles/solana-beating-ethereum-tokenized-assets-013700957.html)**
+**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
 
-Capital is voting with its feet.
+Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -181,6 +181,22 @@ TradingView • 1d ago
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
 CNBC • 3d ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
+
+Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
+
+BeInCrypto • 11h ago
+
+---
+
+**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/)**
+
+Capital is voting with its feet.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -204,7 +220,7 @@ FXStreet • 1d ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 13h ago
+New York Post • 14h ago
 
 ---
 
@@ -212,23 +228,7 @@ New York Post • 13h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 8h ago
-
----
-
-**[Ethereum Price Prediction: $4,000 Bull Case vs $1,500 Bear Case](https://financefeeds.com/ethereum-price-prediction-4000-bull-case-vs-1500-bear-case/)**
-
-Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
-
-FinanceFeeds • 15h ago
-
----
-
-**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
-
-Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
-
-MarketForces Africa • 3d ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 309 • 💬 17 • ⏱️ 11:12 • 12h ago
+👁️ 6K • 👍 309 • 💬 17 • ⏱️ 11:12 • 13h ago
 
 ---
 

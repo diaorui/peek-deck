@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T05:30:44.935675+00:00'
+updated: '2026-08-23T05:57:45.726351+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 05:30 UTC  
+**Last Updated:** August 23, 2026 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,25 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
-
-Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
-
-8h ago
-
----
-
 **[Just a friendly reminder, this is why we Bitcoin...](https://www.reddit.com/r/Bitcoin/comments/1vvvd76/just_a_friendly_reminder_this_is_why_we_bitcoin/)**
 
 All currency eventually fail, there are no exceptions!
 
-2h ago
+3h ago
 
 ---
 
-**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+**[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
 
-22h ago
+Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
+
+9h ago
 
 ---
 
@@ -107,17 +101,17 @@ All currency eventually fail, there are no exceptions!
 
 ---
 
+**[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
+
+22h ago
+
+---
+
 **[I built an app that earns Sats by relaying the Bluetooth packets your phone already hears (iOS, Android, or your Umbrel node)](https://www.reddit.com/r/Bitcoin/comments/1vvuh8i/i_built_an_app_that_earns_sats_by_relaying_the/)**
 
 There's a radio in your pocket that hears Bluetooth packets all day: trackers, sensors, beacons. Your phone typically discards every one of them. I built EE Gateway to forward them instead. Open BLE networks need ground coverage the way AirTags need iPhones. Think like a mini cell tower in your pocket - where each phone provides about 100 meters coverage. Your phone can now earn Sats for relaying BLE packets. How it works Your phone (or Umbrel node) scans for BLE broadcasts. Receive-only, it never transmits. 1 sat per unique device identifier (they're ephemeral IDs) per UTC day, paid to the first gateway to forward it. Settlement runs daily over Lightning to your address. The honest caveats, before anyone asks... Earnings track BLE density near you. Logistics corridors are busy, residential streets mostly aren't, and you won't know until you field test. Nobody's getting rich on this today. Pending sats are held custodially until your total clears 1,000 sats, then they land at your Lightning address. Every packet carries the GPS fix age and accuracy it was heard with. A phone without a fresh fix drops the packet, so the coverage data stays honest. The Umbrel/Raspberry Pi version is open source (GPL-3.0). The ask: run it for a few days and tell me what you think. Download Links Umbrel App: https://apps.umbrel.com/app/ee-gateway App Store: https://apps.apple.com/us/app/ee-gateway/id6792848842 Play Store: https://play.google.com/store/apps/details?id=com.encryptedenergy.gateway.android&hl=en_US Site: https://encryptedenergy.com
 
 3h ago
-
----
-
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
-
-19h ago
 
 ---
 
@@ -129,9 +123,9 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 ---
 
-**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-1d ago
+19h ago
 
 ---
 
@@ -143,11 +137,17 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 ---
 
-**[Prophet u/Boring_Ad7277 postet this chart 7 days ago](https://www.reddit.com/r/Bitcoin/comments/1vv1qns/prophet_uboring_ad7277_postet_this_chart_7_days/)**
-
-u/Boring_Ad7277
+**[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
 1d ago
+
+---
+
+**[What’s the most unconventional way you’ve ever stacked Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vvwpx9/whats_the_most_unconventional_way_youve_ever/)**
+
+I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin 😂 Made me wonder what other weird methods people here have used to stack more BTC? Personally I did the 48h rule : Whenever I want to buy smth, I wait 48h to see if it was just a whim or something I really need. If Idon't need it, I spend the same amount but in BTC What’s yours?
+
+2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -191,11 +191,11 @@ Moomoo • 3h ago
 
 ---
 
-**[Arthur Hayes Shares Surprising Tip on Stocks, Gold, and Bitcoin](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-shares-surprising-tip-002603058.html)**
+**[WHALE SITS ON $21.4M PROFIT FROM $Bitcoin (BTC.CC)$ AND $Eth... - moomoo Community](https://www.moomoo.com/community/feed/whale-sits-on-21-4m-profit-from-bitcoin-btc-cc-117142417899525)**
 
-Arthur Hayes shares a surprising tip on stocks, gold, and Bitcoin (BTC). Here's exactly what he said and why.
+@Onchain Lens 4624 Views
 
-Yahoo Finance • 5h ago
+Moomoo • 3h ago
 
 ---
 
@@ -213,15 +213,15 @@ Fox News • 1d ago
 
 ---
 
-**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
-
-WSJ • 1d ago
-
----
-
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
 Reuters • 1d ago
+
+---
+
+**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+
+WSJ • 1d ago
 
 ---
 
@@ -241,7 +241,7 @@ Independent European community operating a coordinator for the Mostro peer-to-pe
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 3 • 💬 2 • 5d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 3 • 💬 2 • 6d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -271,7 +271,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 32m ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 59m ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -279,7 +279,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 2d ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 3d ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin blasts through key levels of resistance, but is the bear market over? Co
 
 📺 Alessio Rastani
 
-👁️ 31K • 👍 2K • 💬 546 • ⏱️ 6:03 • 16h ago
+👁️ 31K • 👍 2K • 💬 546 • ⏱️ 6:03 • 17h ago
 
 ---
 
