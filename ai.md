@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T23:20:33.471856+00:00'
+updated: '2026-08-23T23:45:57.288578+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 23:20 UTC  
+**Last Updated:** August 23, 2026 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 AI help for me
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 8h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 9h ago
 
 ---
 
@@ -95,7 +95,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Any advancement that can have a profound military use will be profoundly funded.
 
 So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 9h ago
 
 **[2028 Dems dodge on Bernie's push to pause AI development](https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 14h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 14h ago
 
 Nvidia will report its Q2 earnings after the bell on Aug. 26.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -317,7 +317,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 728K • 👍 10K • 💬 2K • ⏱️ 12:08 • 2d ago
+👁️ 728K • 👍 10K • 💬 2K • ⏱️ 12:08 • 3d ago
 
 ---
 
@@ -337,7 +337,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 77K • 👍 4K • 💬 394 • ⏱️ 32:12 • 19h ago
+👁️ 77K • 👍 4K • 💬 394 • ⏱️ 32:12 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ Just want to keep up with AI and not fall behind, without building anything spec
 
 📺 RealjN
 
-👁️ 48K • 👍 6K • 💬 200 • ⏱️ 0:26 • 3h ago
+👁️ 48K • 👍 6K • 💬 200 • ⏱️ 0:26 • 4h ago
 
 ---
 
@@ -415,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 952 • 11h ago
+⬇️ 47,098 • ❤️ 952 • 12h ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 627 • 2h ago
+⬇️ 244,834 • ❤️ 627 • 3h ago
 
 ---
 
@@ -652,7 +652,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 9h ago
+⭐ 17.4k • 🔱 2.0k • 10h ago
 
 ---
 
@@ -682,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 590 • 23s ago
+⭐ 3.5k • 🔱 590 • 25m ago
 
 ---
 
@@ -712,7 +712,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 285 • 40m ago
+⭐ 2.5k • 🔱 285 • 1h ago
 
 ---
 
