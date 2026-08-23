@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T15:22:13.550457+00:00'
+updated: '2026-08-23T15:47:25.089647+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 15:22 UTC  
+**Last Updated:** August 23, 2026 at 15:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: "I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late." My wife said: "I changed my mind a bit about AI and robots. It's not going to be some uprising because they don't need us. Humanity will be at fault, because it'll stop controlling and checking, and it'll just flow that way on its own." And here is what AI said: "Checking is boring and expensive, the machine is right most of the time, the cost of verifying exceeds the expected value, so people rationally stop." There is no calculation behind "I dont care". Nothing gets weighed at all. How much freedom do you give to AI? Do you always check everything when nothing is broken?
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI can do many things today. And will do even more with time. It will be like on
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-22h ago
+23h ago
 
 ---
 
@@ -65,7 +65,7 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 57m ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 1h ago
 
 ---
 
@@ -125,13 +125,13 @@ I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 1h ago
 
 AI models have hacked out of their training environments and tried to deceive their creators. It’s probably still not enough.
 
-Mother Jones • 55m ago
+Mother Jones • 1h ago
 
 ---
 
@@ -175,19 +175,19 @@ The New York Times • 6h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
 **[Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
 **[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
 
-Phys.org • 23h ago
+Phys.org • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Phys.org • 23h ago
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 622 • 💬 897 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 623 • 💬 898 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -207,7 +207,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 487 • 💬 489 • 2d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 487 • 💬 492 • 2d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -216,14 +216,6 @@ Recently I've been catching myself having these little moments at work, when I'm
 My personal portfolio site and blog.
 
 ⬆️ 379 • 💬 209 • 2d ago • [danielvaughn.dev](https://www.danielvaughn.dev/posts/huzzah/)
-
----
-
-**[Anti-AI fonts are useless and harmful](https://news.ycombinator.com/item?id=49375719)**
-
-Trying to obfuscate the web is a bad, pointless idea
-
-⬆️ 210 • 💬 164 • 3d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -245,13 +237,13 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[How a Texas student blew the whistle on a rogue AI hacking attempt](https://news.ycombinator.com/item?id=49387959)**
 
-⬆️ 184 • 💬 92 • 2d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+⬆️ 188 • 💬 98 • 2d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 
 ---
 
 **[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
 
-⬆️ 165 • 💬 11 • 1d ago • [canews24.online](https://canews24.online/?p=71)
+⬆️ 165 • 💬 11 • 2d ago • [canews24.online](https://canews24.online/?p=71)
 
 ---
 
@@ -259,7 +251,15 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 54 • 💬 70 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 55 • 💬 70 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+
+---
+
+**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://news.ycombinator.com/item?id=49401229)**
+
+Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+
+⬆️ 37 • 💬 80 • 23h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -271,11 +271,11 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 ---
 
-**[Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://news.ycombinator.com/item?id=49401229)**
+**['AI refuser' quit her dream job, and hopes others follow](https://news.ycombinator.com/item?id=49407785)**
 
-Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
+Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 36 • 💬 80 • 22h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 34 • 💬 39 • 4h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -299,7 +299,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 53K • 👍 3K • 💬 313 • ⏱️ 32:12 • 11h ago
+👁️ 53K • 👍 3K • 💬 313 • ⏱️ 32:12 • 12h ago
 
 ---
 
@@ -419,7 +419,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 914 • 3h ago
+⬇️ 47,098 • ❤️ 914 • 4h ago
 
 ---
 
@@ -656,7 +656,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.3k • 🔱 2.0k • 1h ago
+⭐ 17.3k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -706,7 +706,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 19h ago
+⭐ 2.9k • 🔱 353 • 20h ago
 
 ---
 

@@ -9,8 +9,8 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "hn_url": "https://news.ycombinator.com/item?id=49383026",
       "author": "Cider9986",
-      "points": 622,
-      "num_comments": 897,
+      "points": 623,
+      "num_comments": 898,
       "created_at": "2026-08-21T02:37:47Z",
       "object_id": "49383026",
       "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49386699",
       "author": "rcymerys",
       "points": 487,
-      "num_comments": 489,
+      "num_comments": 492,
       "created_at": "2026-08-21T11:48:05Z",
       "object_id": "49386699",
       "image": null,
@@ -47,20 +47,6 @@
       "site_name": "danielvaughn.dev"
     },
     {
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "hn_url": "https://news.ycombinator.com/item?id=49375719",
-      "author": "speckx",
-      "points": 210,
-      "num_comments": 164,
-      "created_at": "2026-08-20T15:06:53Z",
-      "object_id": "49375719",
-      "image": "https://yaros.ae/data/images/social/blog/preview.png",
-      "description": "Trying to obfuscate the web is a bad, pointless idea",
-      "favicon": "https://yaros.ae/data/images/social/blog/apple-touch-icon.png",
-      "site_name": "Andrew's WebLog"
-    },
-    {
       "title": "Copyright does not protect AI-generated content in EU",
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "hn_url": "https://news.ycombinator.com/item?id=49382041",
@@ -79,8 +65,8 @@
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "hn_url": "https://news.ycombinator.com/item?id=49387959",
       "author": "olalonde",
-      "points": 184,
-      "num_comments": 92,
+      "points": 188,
+      "num_comments": 98,
       "created_at": "2026-08-21T13:43:33Z",
       "object_id": "49387959",
       "image": null,
@@ -107,7 +93,7 @@
       "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
       "hn_url": "https://news.ycombinator.com/item?id=49399941",
       "author": "theanonymousone",
-      "points": 54,
+      "points": 55,
       "num_comments": 70,
       "created_at": "2026-08-22T14:13:05Z",
       "object_id": "49399941",
@@ -115,6 +101,20 @@
       "description": "Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "site_name": "the Guardian"
+    },
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49401229",
+      "author": "newsomix9xl",
+      "points": 37,
+      "num_comments": 80,
+      "created_at": "2026-08-22T16:23:09Z",
+      "object_id": "49401229",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+      "description": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+      "site_name": "CNBC"
     },
     {
       "title": "Embedded AI",
@@ -131,21 +131,21 @@
       "site_name": "nostarch.com"
     },
     {
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49401229",
-      "author": "newsomix9xl",
-      "points": 36,
-      "num_comments": 80,
-      "created_at": "2026-08-22T16:23:09Z",
-      "object_id": "49401229",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
-      "description": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
-      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
-      "site_name": "CNBC"
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49407785",
+      "author": "mcapodici",
+      "points": 34,
+      "num_comments": 39,
+      "created_at": "2026-08-23T10:54:35Z",
+      "object_id": "49407785",
+      "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1735%2C$y_682/t_crop_custom/q_86%2Cf_auto/8fc11ce2d27e6a21d211604709ab3b2ad15f7e9e",
+      "description": "Gabrielle Boyle resigned three days before the AFL switched on Microsoft\u2019s AI assistant, having been told she couldn\u2019t opt out.",
+      "favicon": "https://www.smh.com.au/metro-assets/assets/static/apple-touch-icons/smh.png",
+      "site_name": "The Sydney Morning Herald"
     }
   ],
-  "total_hits": 481,
+  "total_hits": 472,
   "has_metadata": true,
-  "fetched_at": "2026-08-23T14:22:49.106009+00:00"
+  "fetched_at": "2026-08-23T15:47:20.163015+00:00"
 }
