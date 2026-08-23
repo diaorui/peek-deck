@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T12:39:16.767952+00:00'
+updated: '2026-08-23T13:32:18.384021+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 12:39 UTC  
+**Last Updated:** August 23, 2026 at 13:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 All currency eventually fail, there are no exceptions!
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ All currency eventually fail, there are no exceptions!
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ All currency eventually fail, there are no exceptions!
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 What are people’s thoughts ? Any proper analysts in here than can give their advice ?
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ What are people’s thoughts ? Any proper analysts in here than can give their a
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ I feel the answer is just "yes." But like for those who stopped tracking, how di
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 yea
 
 Pre initial pump there was extremly high frequency of long positions, day after that pump there was this white house conference with major crypto faces.
 
-2h ago
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Pre initial pump there was extremly high frequency of long positions, day after 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -157,17 +157,41 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
+**[Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day](https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html)**
+
+Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 12h ago
+AP News • 13h ago
 
 ---
 
-**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
+**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
-MarketWatch • 23h ago
+WSJ • 2d ago
+
+---
+
+**[Robert Kiyosaki Bets on Gold, Silver, and Bitcoin Amid “More Fake Dollars”](https://finance.yahoo.com/markets/commodities/articles/robert-kiyosaki-bets-gold-silver-114000856.html)**
+
+Robert Kiyosaki bets on gold, silver, and Bitcoin amid "more fake USD" from the Treasury. Here's what he said.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bonds or Bitcoin? We Asked Four AI Models Which Asset to Buy Now](https://finance.yahoo.com/markets/crypto/articles/bonds-bitcoin-asked-four-ai-125342299.html)**
+
+ChatGPT and Grok favored short-term or intermediate US Treasuries for dependable income and lower volatility. Gemini viewed bonds as the defensive choice and Bitcoin ...
+
+Yahoo Finance • 38m ago
 
 ---
 
@@ -187,11 +211,9 @@ Fox News • 1d ago
 
 ---
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
+**[Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b)**
 
-Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
-
-Yahoo Finance • 1d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -201,33 +223,9 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
-WSJ • 1d ago
-
----
-
-**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
-
-Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
-
-IO Fund • 3d ago
-
----
-
-**[Tesla And SpaceX CEO Elon Musk’s $40 Trillion U.S. 'Bankruptcy' Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/08/22/elon-musks-40-trillion-nightmare-is-suddenly-coming-true-as-the-bitcoin-price-soars/)**
-
-Elon Musk, the SpaceX and Tesla chief executive who rode their soaring valuations to become the world’s first trillionaire this year is seeing his $40 trillion U.S. bankruptcy nightmare come true...
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume](https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531)**
-
-Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.
-
-The Block • 17h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -277,7 +275,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -299,7 +297,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 17h ago
+👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 18h ago
 
 ---
 
@@ -349,7 +347,7 @@ Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitco
 
 📺 Cointelegraph
 
-👁️ 28K • 👍 641 • 💬 57 • ⏱️ 31:41 • 1d ago
+👁️ 28K • 👍 641 • 💬 57 • ⏱️ 31:41 • 2d ago
 
 ---
 
@@ -369,7 +367,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 77K • 👍 3K • 💬 196 • ⏱️ 58:24 • 23h ago
+👁️ 77K • 👍 3K • 💬 196 • ⏱️ 58:24 • 1d ago
 
 ---
 

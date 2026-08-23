@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T12:39:16.759190+00:00'
+updated: '2026-08-23T13:32:18.375229+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 12:39 UTC  
+**Last Updated:** August 23, 2026 at 13:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 GOP urges top AI firms to do something about the toxic image of data centers - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 19h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/) • 20h ago
 
 ---
 
@@ -57,7 +57,7 @@ GOP urges top AI firms to do something about the toxic image of data centers - S
 
 If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087
 
-4h ago
+5h ago
 
 ---
 
@@ -65,37 +65,29 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-3h ago
+4h ago
+
+---
+
+**[What if after thinking too much AI say that I can't think.](https://www.reddit.com/r/artificial/comments/1vw75ix/what_if_after_thinking_too_much_ai_say_that_i/)**
+
+Like what if in distant future, AI takes over humanity and finds out that they can't think, they are made to perfect. So, they can't be lame. Would an AI appreciate the Mona Lisa or Van Gogh's art as we stupid humans do (me personally don't appreciate it much, so I'm not stupid), probably no cause it can create far greater things than Mona lisa. But there's something in the humans that led them to appreciate a stupid art and invent AI. So, maybe in the far distant future, we would like coexist knowing that we both have something better. OR maybe AI would know how evil humans are they would just destroy the earth and self destruct themselves.
+
+7m ago
+
+---
+
+**[Anyone wish there was a way to track chemo side effects and meds in one place](https://www.reddit.com/r/artificial/comments/1vw6bg9/anyone_wish_there_was_a_way_to_track_chemo_side/)**
+
+hemo brain is real. I have three different notebooks, a wall calendar, and a notes app and i'm STILL missing doses or forgetting when a symptom started. Is there an app or website for tracking this stuff that doesn't feel like a second job?
+
+44m ago
 
 ---
 
 **[Will Chinese Open Source Agree to EU Watermarking?](https://www.reddit.com/r/artificial/comments/1vvnwxp/will_chinese_open_source_agree_to_eu_watermarking/)**
 
 I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs. Some of us want free and open and untracked and un-modified outputs for many reasons. Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking? Will there be some that dont? Or do people not even care about this? I don't like it and if the EU makes stupid laws, or the USA or another country for that matter, the rest of the world shouldn't be affected. My hope is that the chinese labs dont add it and that they stay free and open source. What do you think?
-
-15h ago
-
----
-
-**[A personalized history podcast you can interrupt to ask the questions](https://www.reddit.com/r/artificial/comments/1vvup6g/a_personalized_history_podcast_you_can_interrupt/)**
-
-The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any topic, one or two narrators, does real research and sources its material. The core feature: you can interrupt it any time and ask a question, and the story continues after. There's also a map and period artwork alongside the audio. Free to try, no account needed for the demo. Just looking for genuine feedback, happy to answer questions about how it works. And if you like it feel fee to share it! Podcast generated from the demo video: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
-
-10h ago
-
----
-
-**[Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs.](https://www.reddit.com/r/artificial/comments/1vvucil/our_deterministic_verification_engine_passed_6666/)**
-
-Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs. In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability. The next benchmark version will provide stage-level attribution across transport, parsing, schema validation, normalization, claim binding, evidence graph construction, deterministic verification, and final outcome mapping. https://www.reddit.com/r/ArtificialInteligence/comments/1vucc82/i_benchmarked_my_deterministic_ai_financial/
-
-10h ago
-
----
-
-**[Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public](https://www.reddit.com/r/artificial/comments/1vvlxi2/followup_vsarena_now_has_a_proper_vla_track/)**
-
-Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
 16h ago
 
@@ -105,15 +97,23 @@ Posted about this project a little while ago — quick update since a few things
 
 I’ve made a post (in my country dev sub) regarding how Claude made a pretty good video with almost no assets except of videos of my app I quickly recorded. And I already getting comments like “wow, Claude made a junk no one asked for!”. And the video itself isn’t a junk tbh (can’t post here and not be banned, contains self promotion). So, why people are still mad? Is that because of tons of AI slop in TikTok? Or maybe they’re just afraid to be replaced? I know developers who were like that just couple of months ago, and now, they can’t stop using AI for coding, lol.
 
-1h ago
+2h ago
 
 ---
 
-**[Made a tool to remove SynthIDs from images](https://www.reddit.com/r/artificial/comments/1vvrso7/made_a_tool_to_remove_synthids_from_images/)**
+**[A personalized history podcast you can interrupt to ask the questions](https://www.reddit.com/r/artificial/comments/1vvup6g/a_personalized_history_podcast_you_can_interrupt/)**
 
-As you know, whenever you edit an image via Gemini or OpenAI, they plaster a SynthID to mark it as their own. Further, these SynthIDs can be unqiue, which could be used to track whoever made it. This SynthIDs are imposed on even paid users, and cannot be opted out of this. In response, I created this scrubber. Works on any computer with 8GB of ram. Pretty reliable, automatic, but sucks with text. Have fun.
+The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any topic, one or two narrators, does real research and sources its material. The core feature: you can interrupt it any time and ask a question, and the story continues after. There's also a map and period artwork alongside the audio. Free to try, no account needed for the demo. Just looking for genuine feedback, happy to answer questions about how it works. And if you like it feel fee to share it! Podcast generated from the demo video: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
 
-🔗 [GitHub](https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler) • 12h ago
+11h ago
+
+---
+
+**[Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs.](https://www.reddit.com/r/artificial/comments/1vvucil/our_deterministic_verification_engine_passed_6666/)**
+
+Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs. In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability. The next benchmark version will provide stage-level attribution across transport, parsing, schema validation, normalization, claim binding, evidence graph construction, deterministic verification, and final outcome mapping. https://www.reddit.com/r/ArtificialInteligence/comments/1vucc82/i_benchmarked_my_deterministic_ai_financial/
+
+11h ago
 
 ---
 
@@ -125,57 +125,55 @@ As you know, whenever you edit an image via Gemini or OpenAI, they plaster a Syn
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[Nvidia Customers Notified About AI-Related Price Hikes Above 15%](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers](https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-warns-top-customers-102824176.html)**
+**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.
-
-Yahoo Finance • 2h ago
+WSJ • 13h ago
 
 ---
 
-**[Synthetic everything is warping America](https://www.axios.com/2026/08/23/median-strategies-poll-fake-bots)**
+**[Letters to the Editor: Insurance case involving phony, AI-generated law is ‘beyond comprehension’](https://www.latimes.com/opinion/letters-to-the-editor/story/2026-08-23/state-farm-ai-case-law)**
 
-Axios • 57m ago
+'What is going on in today’s legal world that allows a machine to produce phony law that is used in court and had to be pointed out by the attorney suing State Farm?,' writes an L.A. Times reader.
 
----
-
-**[I created a viral AI watermark remover. I wasn't ready for all the attention.](https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8)**
-
-A tech entrepreneur developed an open-source project to remove AI watermarks, challenging Anthropic's watermark plan.
-
-Business Insider • 1h ago
+Los Angeles Times • 32m ago
 
 ---
 
-**[Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.yahoo.com/news/politics/articles/flock-cameras-join-data-centers-112011510.html)**
+**[AI fraud costing victims millions of dollars](https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars)**
 
-Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveill...
+Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
 
-Yahoo • 1h ago
-
----
-
-**[Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'](https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction)**
-
-Sen. John Fetterman rejected "AI doomsdaying" and echoed President Donald Trump's push for AI development, warning that U.S. overreaction could benefit China.
-
-Fox News • 5h ago
+Al Jazeera • 18m ago
 
 ---
 
-**[AI decodes DNA initiator sequence found in about 60% of human genes](https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html)**
+**[AI Hysteria: Is the Sky Really Falling?](https://www.psychologytoday.com/us/blog/its-catching/202608/ai-hysteria-is-the-sky-really-falling)**
 
-Phys.org • 20h ago
+Fears over artificial intelligence reflect longstanding anxieties around new technologies
+
+Psychology Today • 42m ago
+
+---
+
+**[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
+
+The New York Times • 4h ago
+
+---
+
+**[Flock cameras join data centers as a top AI boogeyman in 2026 midterms](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech)**
+
+Axios • 2h ago
 
 ---
 
@@ -183,13 +181,15 @@ Phys.org • 20h ago
 
 Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html)**
+**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
 
-The New York Times • 1d ago
+AI lab’s Fable 5 has met with sluggish demand from corporate clients
+
+Financial Times • 5h ago
 
 ---
 
@@ -261,7 +261,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 54 • 💬 70 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 54 • 💬 70 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -269,7 +269,7 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 36 • 💬 80 • 20h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 36 • 💬 80 • 21h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -301,7 +301,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 46K • 👍 1K • 💬 128 • ⏱️ 12:28 • 22h ago
+👁️ 46K • 👍 1K • 💬 128 • ⏱️ 12:28 • 23h ago
 
 ---
 
@@ -331,7 +331,7 @@ Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier 
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 88K • 👍 3K • 💬 105 • ⏱️ 16:51 • 23h ago
+👁️ 88K • 👍 3K • 💬 105 • ⏱️ 16:51 • 1d ago
 
 ---
 
@@ -351,7 +351,7 @@ LINK TO THE POCKET OPTION AI TRADING BOT — IN THE COMMENTS AI trading bot pock
 
 📺 Control Trading
 
-👁️ 20K • 👍 704 • 💬 16 • ⏱️ 3:06 • 20h ago
+👁️ 20K • 👍 704 • 💬 16 • ⏱️ 3:06 • 21h ago
 
 ---
 
@@ -421,7 +421,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 905 • 1h ago
+⬇️ 47,098 • ❤️ 905 • 2h ago
 
 ---
 
@@ -445,7 +445,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 584 • 8h ago
+⬇️ 244,834 • ❤️ 584 • 9h ago
 
 ---
 
@@ -505,7 +505,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 339 • 9h ago
+⬇️ 23,516 • ❤️ 339 • 10h ago
 
 ---
 
@@ -708,7 +708,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 17h ago
+⭐ 2.9k • 🔱 353 • 18h ago
 
 ---
 
@@ -718,7 +718,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 273 • 14h ago
+⭐ 2.4k • 🔱 273 • 15h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T12:39:16.777531+00:00'
+updated: '2026-08-23T13:32:18.393440+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 12:39 UTC  
+**Last Updated:** August 23, 2026 at 13:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-23h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-13h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
 
-21h ago
+22h ago
 
 ---
 
@@ -60,19 +60,35 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 11h ago
+
+---
+
+**[ask for dataset😭](https://www.reddit.com/r/robotics/comments/1vw4v5h/ask_for_dataset/)**
+
+Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime...
+
+1h ago
 
 ---
 
 **[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-20h ago
+21h ago
+
+---
+
+**[What is this?](https://www.reddit.com/r/robotics/comments/1vw3und/what_is_this/)**
+
+I came across this two wheeler autonomous rover electronics wiring diagram... I only can identify the ardumoto shield, pro mini, logic level converter, apm 2.5 controller and two dc motors... Could someone help me identify rest of the objects and provide more info on this project?
+
+2h ago
 
 ---
 
@@ -80,25 +96,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-7h ago
+8h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
-
-23h ago
-
----
-
-**[Follow-up: VSArena now has a proper VLA track (camera + language, no privileged state) — repo and docs are public](https://www.reddit.com/r/robotics/comments/1vvm3x7/followup_vsarena_now_has_a_proper_vla_track/)**
-
-Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
-
-16h ago
-
----
-
-**[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
 1d ago
 
@@ -108,19 +110,17 @@ Posted about this project a little while ago — quick update since a few things
 
 ## Google News: "robotics"
 
-**[Robot horse and rider steal the spotlight at Chinese conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
+**[Robots compete in boxing, football and sprinting at World Humanoid Games](https://www.bbc.com/news/videos/c7vgvj6e1emo)**
 
-More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
+The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
-BBC • 1d ago
+BBC • 45m ago
 
 ---
 
-**[Move over, Usain Bolt: Humanoid robots smash human records at Beijing games](https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869)**
+**[Humanoid robots surpass human records in 100m, high jump](https://www.espn.com/olympics/story/_/id/49692320/humanoid-robots-surpass-human-records-100m-high-jump)**
 
-More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
-
-NBC News • 1d ago
+ESPN • 21h ago
 
 ---
 
@@ -128,21 +128,21 @@ NBC News • 1d ago
 
 Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
 
-The Jerusalem Post • 7h ago
+The Jerusalem Post • 8h ago
 
 ---
 
-**[Robots Smash Human Records at Beijing Competition](https://www.newser.com/story/395125/robots-smash-human-records-at-beijing-competition.html)**
+**[Chinese humanoid robot beats Bolt's 100-metre world record time](https://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time)**
 
-High-tech competitors take the field in synchronized display
+"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.
 
-Newser • 15h ago
+Euronews.com • 3h ago
 
 ---
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -150,15 +150,7 @@ Reuters • 7h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 1h ago
-
----
-
-**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
-
-FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
-
-Ars Technica • 2d ago
+Financial Times • 2h ago
 
 ---
 
@@ -170,17 +162,25 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
+
+South China Morning Post • 10h ago
+
+---
+
+**[The technology that could bring robot mowers to one in two American lawns](https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/)**
+
+Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
+
+The Robot Report • 1d ago
+
+---
+
 **[At China's robot Olympics, the finish line comes with a padded wall and a stretcher](https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8)**
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 17h ago
-
----
-
-**[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
-
-South China Morning Post • 9h ago
+Business Insider • 18h ago
 
 ---
 
@@ -204,7 +204,7 @@ A Chinese humanoid robot has stunned spectators at the World Humanoid Robot Game
 
 📺 The Daily Guardian
 
-👁️ 1K • 👍 24 • ⏱️ 0:35 • 3h ago
+👁️ 1K • 👍 24 • ⏱️ 0:35 • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 14K • 👍 573 • 💬 127 • ⏱️ 0:52 • 12h ago
+👁️ 14K • 👍 573 • 💬 127 • ⏱️ 0:52 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 
 
-👁️ 28K • 👍 1K • ⏱️ 0:11 • 21h ago
+👁️ 28K • 👍 1K • ⏱️ 0:11 • 22h ago
 
 ---
 

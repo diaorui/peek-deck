@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T12:39:16.774169+00:00'
+updated: '2026-08-23T13:32:18.390197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 12:39 UTC  
+**Last Updated:** August 23, 2026 at 13:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -182,11 +182,11 @@ Fast Company • 3d ago
 
 ---
 
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
+**[Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs](https://finance.yahoo.com/markets/crypto/articles/crypto-skeptic-rashida-tlaib-holds-120000607.html)**
 
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
+Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,11 +198,19 @@ TradingView • 1d ago
 
 ---
 
+**[Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off](https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off)**
+
+BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
+
+Benzinga • 20h ago
+
+---
+
 **[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 18h ago
+BeInCrypto • 19h ago
 
 ---
 
@@ -210,7 +218,7 @@ BeInCrypto • 18h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 6h ago
+Global South Opportunities • 7h ago
 
 ---
 
@@ -219,14 +227,6 @@ Global South Opportunities • 6h ago
 Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.
 
 CNBC • 3d ago
-
----
-
-**[Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window](https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/)**
-
-Ethereum’s public test rehearses new block-building rules, validator coordination and transaction costs before mainnet.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 12K • 👍 452 • 💬 153 • ⏱️ 18:21 • 14h ago
+👁️ 12K • 👍 452 • 💬 153 • ⏱️ 18:21 • 15h ago
 
 ---
 
@@ -260,7 +260,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 17h ago
+👁️ 54K • 👍 3K • 💬 110 • ⏱️ 11:10 • 18h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 342 • 💬 19 • ⏱️ 11:12 • 19h ago
+👁️ 7K • 👍 342 • 💬 19 • ⏱️ 11:12 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ This is all about the big breakout on Bitcoin and crypto. Big news for all Bitco
 
 📺 Investing Made Simple
 
-👁️ 14K • 👍 838 • ⏱️ 15:04 • 2d ago
+👁️ 14K • 👍 838 • ⏱️ 15:04 • 3d ago
 
 ---
 
