@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T20:49:21.630048+00:00'
+updated: '2026-08-23T21:21:05.306004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 20:49 UTC  
+**Last Updated:** August 23, 2026 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ All currency eventually fail, there are no exceptions!
 
 "At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and alw
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-23h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal.
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ I see many, many many miserable people who are showing disgust by the rise of BT
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-17h ago
+18h ago
 
 ---
 
@@ -169,7 +169,7 @@ WSJ • 2d ago
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-AP News • 20h ago
+AP News • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 2d ago
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 13h ago
+Moomoo • 14h ago
 
 ---
 
@@ -275,7 +275,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -327,7 +327,7 @@ Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An ext
 
 📺 Krown
 
-👁️ 424 • 👍 23 • ⏱️ 0:56 • 1h ago
+👁️ 424 • 👍 23 • ⏱️ 0:56 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ First daily close back above the 200-day SMA after 7+ months below it. The three
 
 📺 Krown
 
-👁️ 920 • 👍 31 • ⏱️ 0:42 • 4h ago
+👁️ 920 • 👍 31 • ⏱️ 0:42 • 5h ago
 
 ---
 

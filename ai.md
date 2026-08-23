@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T20:49:21.624106+00:00'
+updated: '2026-08-23T21:21:05.298363+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 20:49 UTC  
+**Last Updated:** August 23, 2026 at 21:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels strange that the development side of agents has matured so quickly while the production workflow still feels fragmented. Frameworks can get you to a working agent, but what happens between "works on my machine" and "this handles a business process every day"?
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?
 
-28m ago
+59m ago
 
 ---
 
@@ -97,7 +97,7 @@ So Google has to show UK users a screen letting them pick their default search e
 
 TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting 
 
 when i ask ai something do you think it answers like a machine or a human? because it's a machine that feeds on human data right?
 
-51m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ when i ask ai something do you think it answers like a machine or a human? becau
 
 My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better! As an old hockey player trying to make a better hockey management tool, I'm estatic for what I'll have ready for the upcoming beer league season! Here are my PC specs: # System Details Report --- ## Report details - **Date generated:** 2026-08-23 10:44:16 ## Hardware Information: - **Hardware Model:** Micro-Star International Co., Ltd. MS-7E70 - **Memory:** 32.0 GiB - **Processor:** AMD Ryzen™ 7 9700X × 16 - **Graphics:** AMD Radeon™ AI Pro R9700 - **Graphics 1:** AMD Ryzen™ 7 9700X - **Disk Capacity:** 1.0 TB ## Software Information: - **OS Name:** Ubuntu 26.04 LTS - **Kernel Version:** Linux 7.0.0-29-generic Llama-cpp: commit d775b8967a46d8beb110d444aa3b8938179e0dd8, built for AMD HIP backend FYI... I can now use Telegram to instruct my PC from my phone to get work done remotely! Anyone else having fun?
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ My son helped me take a leap forward. He recommended the GPU and I had a machine
 
 **[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 9h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Hill • 1h ago
 
 **[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 9h ago
 
 A new job comes with a steep learning curve. Used thoughtfully, AI can help you achieve mastery faster.
 
-Fast Company • 3h ago
+Fast Company • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fast Company • 3h ago
 
 Oracle has sold off since last fall, but does that make its stock a better bargain than Amazon's?
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 36m ago
 
 Although the larger, existential questions remain present, playwright Matthew Libby has also crafted what amounts to a very human story about siblings who love each other but also harbor jealousies.
 
-Chicago Sun-Times • 40m ago
+Chicago Sun-Times • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Chicago Sun-Times • 40m ago
 
 United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -271,7 +271,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 9h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 10h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -353,7 +353,7 @@ The same parents who told us not to believe everything online are now falling fo
 
 📺 Vanessa Wingårdh
 
-👁️ 58K • 👍 4K • 💬 1K • ⏱️ 12:19 • 8h ago
+👁️ 58K • 👍 4K • 💬 1K • ⏱️ 12:19 • 9h ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 614 • 25m ago
+⬇️ 244,834 • ❤️ 614 • 57m ago
 
 ---
 
@@ -495,7 +495,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 360 • 17h ago
+⬇️ 23,516 • ❤️ 360 • 18h ago
 
 ---
 
@@ -690,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 590 • 5h ago
+⭐ 3.5k • 🔱 590 • 6h ago
 
 ---
 
