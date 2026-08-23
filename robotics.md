@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T01:20:27.540567+00:00'
+updated: '2026-08-23T02:45:23.306263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 01:20 UTC  
+**Last Updated:** August 23, 2026 at 02:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-11h ago
-
----
-
-**[Honor lightning vs tiangong in the 2026 humanoid robotics 100 meter dash](https://www.reddit.com/r/robotics/comments/1vve7ju/honor_lightning_vs_tiangong_in_the_2026_humanoid/)**
-
-Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
-
-10h ago
-
----
-
-**[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
-
-10h ago
+13h ago
 
 ---
 
@@ -58,19 +44,33 @@ Already faster than the human world record! Insane. Last year every robot was st
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-2h ago
+3h ago
+
+---
+
+**[Honor lightning vs tiangong in the 2026 humanoid robotics 100 meter dash](https://www.reddit.com/r/robotics/comments/1vve7ju/honor_lightning_vs_tiangong_in_the_2026_humanoid/)**
+
+Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
+
+12h ago
+
+---
+
+**[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
+
+12h ago
 
 ---
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -78,29 +78,29 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Posted about this project a little while ago — quick update since a few things changed that address feedback from that thread. Biggest change: split the observation space properly. There's now a VLA track where the policy only gets a 128x128 RGB camera + a language stacking instruction — cube poses are never sent to the policy. Scoring still uses real poses internally to grade spatial accuracy and completion, but that's judge-only, not policy-visible. State-based (privileged poses) is kept as a separate debug track and doesn't write public ELO either — wanted the "VLA vs state" distinction to be explicit rather than something people had to dig for. On the client-side physics concern from before:Studio (the in-browser demo) is spectator/dev-only, clearly labeled, and does not post to the public leaderboard. Public ELO only comes from a hosted harness that scores server-side. That harness isn't live yet —it's the one piece standing between this and actually being open for submissions. Repo + docs are public now:https://github.com/NovaCoding-G/VSArena -docs/harness.md — scoring writeup (spatial accuracy + task completion) -docs/sdk.md — submission protocol -Studio itself:https://vsarena.vercel.app/simulation (client-side, Rapier/WASM, 60fps) Still solo, still early, still not oversell-ready — but wanted to share since the VLA/state separation was directly a response to feedback here. Open to more of that, especially on what the scoring protocol might be missing.
 
-5h ago
+6h ago
+
+---
+
+**[Chinese robot beats Usain Bolt's 100m world record at Beijing games](https://www.reddit.com/r/robotics/comments/1vvu4xs/chinese_robot_beats_usain_bolts_100m_world_record/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=FGBLzMESBAo) • 1h ago
+
+---
+
+**[Starting a from-scratch hexapod build to actually learn robotics . architecture plan, looking for feedback](https://www.reddit.com/r/robotics/comments/1vvn8w4/starting_a_fromscratch_hexapod_build_to_actually/)**
+
+I've decided to build a hexapod from scratch instead of buying a kit. The goal isn't just "have a walking robot," it's to actually understand inverse kinematics, gait control, and the electronics — so I'm deliberately avoiding pre-built controller boards that hide that logic behind fixed firmware. Here's the plan so far: Mechanical 18 DOF total — 3 servos per leg (coxa for hip rotation, femur for lift, tibia for extension), 6 legs. Starting with cheap SG90/MG90S servos since the frame will be small (~15–20cm legs); planning to upgrade to MG996R or digital servos later if I need more load capacity. Controller Going with a Raspberry Pi + PCA9685 (16-channel PWM driver) instead of an Arduino Mega. Same inverse kinematics work either way, but Python makes the math easier to debug, and it leaves room to add a camera or basic SLAM down the line without swapping brains. Build order (trying to not skip steps here): Get IK working on a single leg first — hold it in my hand, feed it x/y/z foot targets, watch it hit them. This is the actual hard part. Only then build the full frame and mount all 6 legs, since leg segment lengths feed directly into the IK math. Tripod gait first (3 legs planted, 3 moving, alternating) — simplest stable static walk. Body-level control on top (turning, height, tilt) as transforms applied before per-leg IK. Power supply gets its own attention — 18 servos stalling briefly can pull several amps, so a dedicated 5–6V high-current supply separate from the Pi's power seems necessary to avoid brownouts. Biggest trap I'm trying to avoid: wiring up all 18 servos and building the whole frame before validating the IK math on one leg. Anyone who's done this — is the single-leg-first approach actually the right call, or is there a reason to prototype differently? Also curious if Pi + PCA9685 is overkill/underkill compared to just going Arduino Mega for this
+
+6h ago
 
 ---
 
 **[Absolute GPT-3 moment for robotics, holy moly.](https://www.reddit.com/r/robotics/comments/1vuslj3/absolute_gpt3_moment_for_robotics_holy_moly/)**
 
 1d ago
-
----
-
-**[For engineers deploying ML models on edge devices/robots: what’s the part that sucks?](https://www.reddit.com/r/robotics/comments/1vuro24/for_engineers_deploying_ml_models_on_edge/)**
-
-What’s the most painful part of getting an ML model from “works on my machine” → reliably running in production? I’m a student researching the practical challenges of deploying and maintaining AI models on physical devices such as robots, cameras, drones, etc. I’d be grateful it you could give me any inputs.
-
-1d ago
-
----
-
-**[What do you think about GEN-1.5 one shot learner](https://www.reddit.com/r/robotics/comments/1vuc3yp/what_do_you_think_about_gen15_one_shot_learner/)**
-
-https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive because of the improvisation shown in the video. The excitement noises at the end also are a vibe.
-
-🔗 [youtu.be](https://youtu.be/1cllCVK-9lo) • 1d ago
 
 ---
 
@@ -112,7 +112,7 @@ https://youtu.be/1cllCVK-9lo For me as a newbie this really seems impressive bec
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -120,7 +120,23 @@ BBC • 15h ago
 
 More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
 
-NBC News • 14h ago
+NBC News • 16h ago
+
+---
+
+**[Robots Smash Human Records at Beijing Competition](https://www.newser.com/story/395125/robots-smash-human-records-at-beijing-competition.html)**
+
+High-tech competitors take the field in synchronized display
+
+Newser • 5h ago
+
+---
+
+**[China's New 'Superman' Robot Is A Back-Flipping, Record-Breaking Powerhouse](https://www.bgr.com/2240656/china-unitree-superman-humanoid-robot-record-breaking/)**
+
+China's latest robot can run faster than a human and leap two meters high, but the engineering behind its record-breaking performance is even more striking.
+
+bgr.com • 2d ago
 
 ---
 
@@ -128,51 +144,13 @@ NBC News • 14h ago
 
 Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder.
 
-The Robot Report • 12h ago
+The Robot Report • 14h ago
 
 ---
 
 **[From science fair to strategic showcase: a decade of China’s robot games](https://www.reuters.com/world/asia-pacific/science-fair-strategic-showcase-decade-chinas-robot-games-2026-08-22/)**
 
-Reuters • 19h ago
-
----
-
-**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
-
-Beijing policymakers have made robotics a ‘strategic priority’
-
-Financial Times • 1d ago
-
----
-
-**[ACE Robotics CEO says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324477.html)**
-
-By Laurie Chen BEIJING, Aug 21 (Reuters) - Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the CEO of Chinese embodied AI
-
-Yahoo Finance • 1d ago
-
----
-
-**[At China's robot Olympics, the finish line comes with a padded wall and a stretcher](https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8)**
-
-China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
-
-Business Insider • 5h ago
-
----
-
-**[Video: The A.I.-Robotics Job Only a Human Can Do](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html)**
-
-The New York Times • 2d ago
-
----
-
-**[This robotic horse can carry two people over 40 km—see it in action](https://www.futura-sciences.com/en/this-robotic-horse-can-carry-two-people-over-40-km-see-it-in-action_38179/)**
-
-From Boston Dynamics to Giant Robot Horses When Boston Dynamics introduced its robot dog Spot in 2015, people were wowed by its unique design. Since then, the compact quadruped has proven its capabilities, and its form has quickly inspired imitations, like Unitree’s Go1. But have you ever thought, “Wouldn’t it...
-
-Futura, le média qui explore le monde • 14h ago
+Reuters • 21h ago
 
 ---
 
@@ -184,19 +162,33 @@ Ars Technica • 2d ago
 
 ---
 
+**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html)**
+
+Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the ‌chairman of Chinese embodied AI startup ACE Robotics said on Friday.  "We expect to reach the 'ChatGPT moment' for embodied intelligence by the end ‌of next year, driven by world models and environmental data capture," Wang Xiaogang told Reuters.  "Even if we reach that inflection point by late 2027, it will likely take another four to ​five years to see broad commercial implementation of embodied world models across sectors," said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[China’s robots rock, box and mix drinks. Can they outperform humans?](https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1)**
+
+Beijing policymakers have made robotics a ‘strategic priority’
+
+Financial Times • 1d ago
+
+---
+
+**[At China's robot Olympics, the finish line comes with a padded wall and a stretcher](https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8)**
+
+China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
+
+Business Insider • 7h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China’s humanoid robot games showcase rapid progress in robotics](https://www.youtube.com/watch?v=8kmQ9ddce7w)**
-
-China's humanoid robot games in Beijing are testing the abilities of machines while showcasing the progress of the country's ...
-
-📺 Al Jazeera English
-
-👁️ 5K • 👍 82 • 💬 33 • ⏱️ 1:25 • 6h ago
-
----
 
 **[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
 
@@ -204,7 +196,17 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 12K • 👍 380 • 💬 64 • ⏱️ 5:16 • 6d ago
+👁️ 12K • 👍 381 • 💬 64 • ⏱️ 5:16 • 6d ago
+
+---
+
+**[China&#39;s New $7,999 Female Robot Is Changing the World—Here&#39;s Why](https://www.youtube.com/watch?v=-ZsEUlB2NN4)**
+
+Chinese Engineering is pushing humanoid robotics into territory that once seemed impossible. From hyper-realistic female ...
+
+📺 Expand Knowledge
+
+👁️ 56K • 👍 2K • 💬 105 • ⏱️ 27:00 • 4d ago
 
 ---
 
@@ -214,7 +216,7 @@ The second annual World Humanoid Games are set to take place in Beijing. It come
 
 📺 NBC News
 
-👁️ 43K • 👍 347 • 💬 130 • ⏱️ 4:05 • 2d ago
+👁️ 46K • 👍 368 • 💬 138 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -224,7 +226,17 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 17K • 👍 367 • 💬 50 • ⏱️ 2:12 • 2d ago
+👁️ 17K • 👍 379 • 💬 55 • ⏱️ 2:12 • 2d ago
+
+---
+
+**[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
+
+Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
+
+📺 New York Post
+
+👁️ 25K • 👍 501 • 💬 214 • ⏱️ 4:07 • 2d ago
 
 ---
 
@@ -234,17 +246,37 @@ China's Unitree just unveiled Superman, a humanoid robot that runs faster than U
 
 📺 AI Revolution
 
-👁️ 41K • 👍 908 • 💬 107 • ⏱️ 14:10 • 4d ago
+👁️ 42K • 👍 916 • 💬 108 • ⏱️ 14:10 • 4d ago
 
 ---
 
-**[China’s New Humanoid Robot Runs Faster Than Usain Bolt 🤖⚡](https://www.youtube.com/watch?v=EuExCPaQ1Nw)**
+**[China showcases growing robotics industry at the 2026 World Robot conference](https://www.youtube.com/watch?v=2F44fJaPN0A)**
 
-China's Unitree has unveiled “Superman,” a humanoid robot claimed to reach 12.66 m/s (45.6 km/h) and perform a 2-meter ...
+At the World Robot Conference in Beijing, the spotlight is on humanoid robots built to move and work like humans, as analysts ...
 
-📺 Techie Sapien
+📺 Al Jazeera English
 
-👁️ 807K • 👍 3K • 💬 95 • ⏱️ 0:09 • 1d ago
+👁️ 16K • 👍 116 • 💬 20 • ⏱️ 2:07 • 2d ago
+
+---
+
+**[Humanoid Robot Smashes Usain Bolt&#39;s 100m Record!](https://www.youtube.com/watch?v=dK4OEzb9dzs)**
+
+A humanoid robot just completed the 100 meter sprint in 9.39 seconds at the 2026 World Humanoid Robot Games in Beijing.
+
+📺 DPCcars
+
+👁️ 296 • 👍 13 • 💬 2 • ⏱️ 1:04 • 1h ago
+
+---
+
+**[LIVE: Humanoid robots perform tasks at 2026 World Robot Conference in China](https://www.youtube.com/watch?v=2anAlqQ-XFE)**
+
+Watch live from the World Robot Conference in Beijing, where companies showcase the latest robots and technologies as China ...
+
+📺 Associated Press
+
+👁️ 11K • 👍 186 • 💬 6 • ⏱️ 34:12 • 2d ago
 
 ---
 
@@ -254,37 +286,7 @@ BYD Just Put a Humanoid Robot in Its Showrooms — And It's Already Working BYD 
 
 📺 The Electric Viking
 
-👁️ 24K • 👍 733 • 💬 125 • ⏱️ 8:50 • 4d ago
-
----
-
-**[ROBOTS MEAN RUN](https://www.youtube.com/watch?v=BwwyKDY4Uu4)**
-
-ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping, playing sports, performing parkour, and ...
-
-📺 Dark Waters
-
-👁️ 9K • 👍 681 • 💬 43 • ⏱️ 0:24 • 1d ago
-
----
-
-**[Moment: Chinese Humanoid Robot Lightning Runs 100m Faster Than Usain Bolt’s Record | AI1G](https://www.youtube.com/watch?v=CnaaWF6em3I)**
-
-China's humanoid robot “Lightning,” developed by smartphone maker Honor, completed a 100m test run in 9.32 seconds—faster ...
-
-📺 DRM News
-
-👁️ 12K • 👍 103 • 💬 22 • ⏱️ 0:51 • 12h ago
-
----
-
-**[China&#39;s Robot Army Assemble For World Robot Games 2026 (Behind The Scenes)](https://www.youtube.com/watch?v=oKZ9ruxMZnI)**
-
-Preparations for China's World Robot Games 2026 Have Began. We expect to see stiff Competition between Unitree, Honor, ...
-
-📺 Chris Wabs
-
-👁️ 15K • 👍 183 • 💬 80 • ⏱️ 9:36 • 4d ago
+👁️ 24K • 👍 735 • 💬 125 • ⏱️ 8:50 • 4d ago
 
 ---
 

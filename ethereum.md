@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T01:20:27.537330+00:00'
+updated: '2026-08-23T02:45:23.303008+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 01:20 UTC  
+**Last Updated:** August 23, 2026 at 02:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,420.88
+### $2,417.55
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** +26.9%  
-**30d:** +29.5%  
-**90d:** +17.3%  
-**1y:** -49.2%  
+**24h:** -3.7%  
+**7d:** +26.5%  
+**30d:** +29.1%  
+**90d:** +16.8%  
+**1y:** -49.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.47B
+**Market Cap:** $291.94B
 Rank #2
 
-**Circulating Supply:** 120,681,574 ETH
+**Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.2%
+-51.1%
 
 **All-Time Low:** $0.43
-+557758.5%
++558592.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -160,11 +160,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
+**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://finance.yahoo.com/markets/crypto/articles/solana-beating-ethereum-tokenized-assets-013700957.html)**
 
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
+Capital is voting with its feet.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,14 +192,6 @@ CryptoSlate • 2d ago
 
 ---
 
-**[This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?](https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/)**
-
-Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.
-
-The Motley Fool • 1d ago
-
----
-
 **[Ethereum Price Forecast: ETH soars above $2,500 as US interest improves](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-soars-above-2-500-as-us-interest-improves-202608212253)**
 
 Ethereum (ETH) is up 8% on Friday, extending its rise above $2,500, its highest level since mid-April.
@@ -212,7 +204,7 @@ FXStreet • 1d ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 9h ago
+New York Post • 10h ago
 
 ---
 
@@ -220,7 +212,7 @@ New York Post • 9h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -228,7 +220,15 @@ Crypto Briefing • 4h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 11h ago
+FinanceFeeds • 13h ago
+
+---
+
+**[Ethereum Price Soars By 20% On Surprise U.S Treasury Policy](https://dmarketforces.com/ethereum-price-soars-by-20-on-surprise-u-s-treasury-policy/)**
+
+Ethereum Price Soars by 20% on Surprise U.S Treasury Policy
+
+MarketForces Africa • 3d ago
 
 ---
 
@@ -236,23 +236,23 @@ FinanceFeeds • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
-
-BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 130 • 💬 97 • ⏱️ 18:21 • 3h ago
-
----
-
 **[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 41 • 💬 3 • ⏱️ 4:45 • 13h ago
+👁️ 2K • 👍 42 • 💬 17 • ⏱️ 4:45 • 15h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+
+BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 296 • 💬 185 • ⏱️ 18:21 • 4h ago
 
 ---
 
@@ -262,17 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 281 • 💬 12 • ⏱️ 11:12 • 8h ago
-
----
-
-**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 18K • 👍 414 • 💬 123 • ⏱️ 41:59 • 2d ago
+👁️ 6K • 👍 299 • 💬 16 • ⏱️ 11:12 • 10h ago
 
 ---
 
@@ -282,7 +272,17 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 115 • ⏱️ 11:29 • 2d ago
+👁️ 15K • 👍 2K • 💬 117 • ⏱️ 11:29 • 2d ago
+
+---
+
+**[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
+
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
+
+📺 Milk Road
+
+👁️ 18K • 👍 415 • 💬 123 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -292,17 +292,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 1K • 👍 116 • 💬 16 • ⏱️ 5:51 • 1d ago
-
----
-
-**[ETHEREUM PROFIT EXPLODING !!!!](https://www.youtube.com/watch?v=kjK1M11wFTE)**
-
-A horizontal triangle on Ethereum broke out and hit its target exactly as planned.
-
-📺 The Moon Show
-
-👁️ 389 • 👍 23 • 💬 4 • ⏱️ 0:50 • 6h ago
+👁️ 1K • 👍 120 • 💬 16 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -312,17 +302,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 298 • 💬 23 • ⏱️ 7:45 • 2d ago
-
----
-
-**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
-
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 701 • 💬 115 • ⏱️ 11:56 • 2d ago
+👁️ 9K • 👍 299 • 💬 23 • ⏱️ 7:45 • 2d ago
 
 ---
 
@@ -333,6 +313,26 @@ Ethereum is outperforming Bitcoin, the hype is coming back, and money is startin
 📺 Crypto Archie
 
 👁️ 1K • 👍 75 • ⏱️ 1:25 • 1d ago
+
+---
+
+**[Bitcoin Going Higher? Live Trading  BTC XAU Gold](https://www.youtube.com/watch?v=nSs8Jt13Q5A)**
+
+Zen Master JP Does a Weekend Live Update of BTC, ETH, SOL, XAU GOLD & More! Start your prop trading journey with Breakout ...
+
+📺 Sin City Crypto
+
+👁️ 2K • 👍 208 • 2h ago
+
+---
+
+**[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
+
+📺 Crypto Capital Venture
+
+👁️ 14K • 👍 701 • 💬 118 • ⏱️ 11:56 • 2d ago
 
 ---
 
