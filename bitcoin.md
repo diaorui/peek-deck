@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T02:45:23.296905+00:00'
+updated: '2026-08-23T03:50:31.316331+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 02:45 UTC  
+**Last Updated:** August 23, 2026 at 03:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +19.6%  
-**30d:** +19.9%  
-**90d:** +1.6%  
-**1y:** -31.9%  
+**24h:** -1.9%  
+**7d:** +19.3%  
+**30d:** +19.6%  
+**90d:** +1.4%  
+**1y:** -32.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Take Your Bitcoin Off The Exchanges!](https://www.reddit.com/r/Bitcoin/comments/1vv5qas/take_your_bitcoin_off_the_exchanges/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
 
-5h ago
+6h ago
 
 ---
 
 **[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Then don’t sell](https://www.reddit.com/r/Bitcoin/comments/1vv21hr/then_dont_sell/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -107,13 +107,13 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 u/Boring_Ad7277
 
-22h ago
+23h ago
 
 ---
 
 **[Fiat refugees welcome](https://www.reddit.com/r/Bitcoin/comments/1vvlbth/fiat_refugees_welcome/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ u/Boring_Ad7277
 
 Geoff Kendrick, head of digital assets research at Standard Chartered, predicts Bitcoin will reach $500K by the end of 2030. He is credible. In 2023, he predicted Bitcoin would reach $100K. Do you agree?
 
-🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 18h ago
+🔗 [youtu.be](https://youtu.be/A3fsfebFiCU?si=N-NUKiSovvEBAyQr) • 19h ago
 
 ---
 
@@ -143,7 +143,7 @@ For anyone worried about missing not buying. Everything is gonna be fine.
 
 I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond market, but I also suspect it’s connected to recent capital outflows from Russia. There’s been a short bank run driven by fears of government asset seizures. While some money is going into brokerage accounts, those assets can still be frozen or seized. I suspect some Russians are moving money into Bitcoin as a more reliable and easily transferable store of value. This is bound to have a positive long-term impact, I’ll check my buddy’s Chainalysis account to see if I can confirm this 😄
 
-12h ago
+13h ago
 
 ---
 
@@ -151,11 +151,11 @@ I agree that part of Bitcoin’s recent rise is likely tied to panic in the bond
 
 ## Google News: "bitcoin"
 
-**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
+**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
 
-Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
+Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
 
-Yahoo Finance • 1d ago
+AP News • 3h ago
 
 ---
 
@@ -167,23 +167,23 @@ CNBC • 1d ago
 
 ---
 
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
+
+Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms)**
 
 Bloomberg • 1d ago
 
 ---
 
-**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
-
-Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
-
-CNBC • 1d ago
-
----
-
 **[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117142386639653)**
 
-Moomoo • 35m ago
+Moomoo • 1h ago
 
 ---
 
@@ -191,21 +191,13 @@ Moomoo • 35m ago
 
 Arthur Hayes shares a surprising tip on stocks, gold, and Bitcoin (BTC). Here's exactly what he said and why.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[today $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/today-bitcoin-btc-cc-117142380412933)**
 
-Moomoo • 37m ago
-
----
-
-**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
-
-Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
-
-AP News • 2h ago
+Moomoo • 1h ago
 
 ---
 
@@ -213,13 +205,19 @@ AP News • 2h ago
 
 Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.
 
-Fox News • 22h ago
+Fox News • 23h ago
 
 ---
 
-**[Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia](https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia)**
+**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
 
-Bloomberg • 1d ago
+WSJ • 1d ago
+
+---
+
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+
+Reuters • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T02:45:23.303008+00:00'
+updated: '2026-08-23T03:50:31.320442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 02:45 UTC  
+**Last Updated:** August 23, 2026 at 03:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** +26.5%  
-**30d:** +29.1%  
-**90d:** +16.8%  
-**1y:** -49.5%  
+**24h:** -4.0%  
+**7d:** +26.1%  
+**30d:** +28.7%  
+**90d:** +16.4%  
+**1y:** -49.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Capital is voting with its feet.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ FXStreet • 1d ago
 
 She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-New York Post • 10h ago
+New York Post • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ New York Post • 10h ago
 
 Ethereum surged to a new all-time high near $4,885 on Coinbase after Fed Chair Powell hinted at a September rate cut, rallying 15% in 24 hours.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 6h ago
 
 Ethereum at $2,427, down 49.6% and lagging Bitcoin. Polymarket's $11.5m market prices $3,000 at a coinflip, $4,000 at 16.5% and a $1,500 dip at 18.2%.
 
-FinanceFeeds • 13h ago
+FinanceFeeds • 14h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 42 • 💬 17 • ⏱️ 4:45 • 15h ago
+👁️ 2K • 👍 42 • 💬 17 • ⏱️ 4:45 • 16h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 296 • 💬 185 • ⏱️ 18:21 • 4h ago
+👁️ 5K • 👍 296 • 💬 185 • ⏱️ 18:21 • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 299 • 💬 16 • ⏱️ 11:12 • 10h ago
+👁️ 6K • 👍 299 • 💬 16 • ⏱️ 11:12 • 11h ago
 
 ---
 
@@ -322,7 +322,7 @@ Zen Master JP Does a Weekend Live Update of BTC, ETH, SOL, XAU GOLD & More! Star
 
 📺 Sin City Crypto
 
-👁️ 2K • 👍 208 • 2h ago
+👁️ 2K • 👍 208 • 3h ago
 
 ---
 
