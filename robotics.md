@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T19:48:01.662862+00:00'
+updated: '2026-08-23T20:22:56.391758+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 19:48 UTC  
+**Last Updated:** August 23, 2026 at 20:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 Hello everyone, You have all probably noticed that there is a lot happening right now in the Robotics. But for some reason getting your hands on hardware if you don’t have a 3d printer and a few extra Benjamin’s in the bank is super difficult. In light of that, I want to announce that in Boston, Action space Hackathon is going to be a space where for 48 hours people are going to be taught and fly drones autonomously! Free to participate and a prize $1000 if you win! Event is happening OCT 24-25th. For more information, you can click the link on luma! This is a huge labor of love between me and my two college friends. We want to make sure we get more people access and hopefully get some engineering minded people thinking about what’s possible with hardware. (sorry if this goes against the advertising rule)
 
-🔗 [luma.com](https://luma.com/xl77cp4v) • 5h ago
+🔗 [luma.com](https://luma.com/xl77cp4v) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-14h ago
+15h ago
 
 ---
 
@@ -114,39 +114,21 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
-**[Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1)**
+**[Move over, Usain Bolt: Humanoid robots smash human records at Beijing games](https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869)**
 
-Without policy, there are few incentives to automate business functions where labour costs are low
+More than 2,000 humanoid robots are competing in an Olympics-like showcase of China’s rapidly advancing robotics industry.
 
-Financial Times • 8h ago
-
----
-
-**[Robots smash human track records, including Bolt's 100m sprint — video](https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video)**
-
-Humanoid robots have smashed human athletic records at the five-day World Humanoid Robot Games in Beijing. Among the records broken was Usain Bolt's 9.58-second 100m, with a robot developed by the Beijing Innovation Centre of Humanoid Robotics finishing the sprint in 9.39 seconds. Now in its second year, more than 2,000 humanoid robots are participating in the games that are intended to showcase China's rapid progress in advanced robotics
-
-The Guardian • 3h ago
+NBC News • 1d ago
 
 ---
 
-**[Chinese humanoid robot beats Bolt's 100-metre world record time](https://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time)**
+**[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
 
-"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.
-
-Euronews.com • 9h ago
-
----
-
-**[Robots Smash Human Records at Beijing Competition](https://www.newser.com/story/395125/robots-smash-human-records-at-beijing-competition.html)**
-
-High-tech competitors take the field in synchronized display
-
-Newser • 22h ago
+The Economist • 6h ago
 
 ---
 
@@ -155,12 +137,6 @@ Newser • 22h ago
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
 BBC • 1d ago
-
----
-
-**[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
-
-The Economist • 5h ago
 
 ---
 
@@ -176,7 +152,15 @@ The Robot Report • 1d ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 6h ago
+The San Francisco Standard • 7h ago
+
+---
+
+**[Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1)**
+
+Without policy, there are few incentives to automate business functions where labour costs are low
+
+Financial Times • 9h ago
 
 ---
 
@@ -185,6 +169,20 @@ The San Francisco Standard • 6h ago
 The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
 
 BBC • 6h ago
+
+---
+
+**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html)**
+
+Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the ‌chairman of Chinese embodied AI startup ACE Robotics said on Friday.  "We expect to reach the 'ChatGPT moment' for embodied intelligence by the end ‌of next year, driven by world models and environmental data capture," Wang Xiaogang told Reuters.  "Even if we reach that inflection point by late 2027, it will likely take another four to ​five years to see broad commercial implementation of embodied world models across sectors," said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Chinese robots tackle tennis, smash race records at World Humanoid Robot Games](https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games)**
+
+South China Morning Post • 9h ago
 
 ---
 
