@@ -25,16 +25,6 @@
       "description": "Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington."
     },
     {
-      "headline": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVg0QkZmc3p2MENoYl9xejdUYzd2NmxxWERxaWl2VGJNSTFIaVVQZzNOYS1fYVA4X0Y4RVc4QnR3ZjdCaGktTEtuSld3R2tQQ3ZGX19fc2YxcVZNRE1jd0kyOVlpNGZoYXVYVHRUNGt5Z0ZQWHNpUnFEMF8tVHI4N1Z0M2hvNXMteEd0T3g1NDVlSHNQZmRlSzNJNXg0eGNuajBXdzVRdmYzOVNnY2V1bkVUZlJwYXRyYlBMel9yR042VTRJMTlXTm01dw?oc=5",
-      "pub_date": 1787471926.0,
-      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin\u2019s Hidden Tax Problem: How Inflation Could Inflate Investors\u2019 Capital Gains Bills",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -43,16 +33,6 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hidden-tax-problem-inflation-130927128.html",
       "image": "https://s.yimg.com/lo/mysterio/api/F18D0537DAC999EFF1B975D60D7AAE98BA7EE5F6E5F5767F3966C1F628833D2C/subgraphmysterio/resizefill_w1200_h810;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2b465a8b032c487cbcef8620bfccbb20.jpg",
       "description": "According to Grover Norquist, the government shouldn't tax Americans on inflation-driven gains it helped create."
-    },
-    {
-      "headline": "Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFZ4cGc0dld6Tzc2QzB1WFRQZzZQdEEwaG9YSWJGb1pPNmNuWGFfcVlJUGxmMnc5bUQwNERJOUdjZVhyQmZvemZ6cnV0bGg5U2phbzMxWl9KX1lyS1puRWQ4OXQzMnlzOTNmZWVIbzNldER6QTA1Z1VLT19sTnBMXzdiVm8wV1lDN05WdWU1SjZlbDBfcm9CWkFiX3IxYS1Q?oc=5",
-      "pub_date": 1787486400.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-skeptic-rashida-tlaib-holds-120000607.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/194F637BDF2F244DB89C34F81294CBEE078A9EB23BCCBEDC7D0E283E30644D0C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2f61ff689b6ffcd045a6f772384c2147.png",
-      "description": "Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act."
     },
     {
       "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
@@ -85,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "How Tether's bitcoin mining plans in Uruguay unraveled",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU1FcGpCUE84VVYwNkllLTczRmVidF9FYmtwYnRlYlFGNUZjU05CSFZTSjk3bzUwQ09vbzFnU0JvaWwyYnRGVWZHOW1DVVBwcG4tcHFSZW4wY1N6X3R1eDdFZDJQRXYzTFQ3X19kbjlZTmdqdEpqTGtWTkdoMjlrWGw2azJia0xfWjVQZFRZYTJra3ctdjFOam5kNjFHQTFBWFVz?oc=5",
+      "pub_date": 1787309472.0,
+      "article_url": "https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -95,16 +85,26 @@
       "description": "Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8."
     },
     {
-      "headline": "How Tether's bitcoin mining plans in Uruguay unraveled",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU1FcGpCUE84VVYwNkllLTczRmVidF9FYmtwYnRlYlFGNUZjU05CSFZTSjk3bzUwQ09vbzFnU0JvaWwyYnRGVWZHOW1DVVBwcG4tcHFSZW4wY1N6X3R1eDdFZDJQRXYzTFQ3X19kbjlZTmdqdEpqTGtWTkdoMjlrWGw2azJia0xfWjVQZFRZYTJra3ctdjFOam5kNjFHQTFBWFVz?oc=5",
-      "pub_date": 1787309472.0,
-      "article_url": "https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/",
+      "headline": "Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNlaXRxVm9ULW11VjZ0VXNpLXNBYy1tVTVsUDNQQndtZW0zNjJ6TzBZUTNJT2hEeUI0OHZZQkh0QWlEd0tJbVFjck1paXRkaE9WUy1aT3IzaWNpOVNFRWhKRzd5VXNuXzNpX3VkVll6T05Sb3NhY01IV1MtdkNvWDkzNW9oN1FqaWJiRks5WTlLaDhvMGpkTXRUVHFocmptTHZwSzFXZjBJRGh4bDJB?oc=5",
+      "pub_date": 1787331854.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/dalio-says-sell-bonds-buy-gold-bitcoin-as-debt-crisis-looms",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVg0QkZmc3p2MENoYl9xejdUYzd2NmxxWERxaWl2VGJNSTFIaVVQZzNOYS1fYVA4X0Y4RVc4QnR3ZjdCaGktTEtuSld3R2tQQ3ZGX19fc2YxcVZNRE1jd0kyOVlpNGZoYXVYVHRUNGt5Z0ZQWHNpUnFEMF8tVHI4N1Z0M2hvNXMteEd0T3g1NDVlSHNQZmRlSzNJNXg0eGNuajBXdzVRdmYzOVNnY2V1bkVUZlJwYXRyYlBMel9yR042VTRJMTlXTm01dw?oc=5",
+      "pub_date": 1787317740.0,
+      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T14:49:59.347893+00:00"
+  "fetched_at": "2026-08-23T16:25:22.541490+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T15:47:25.105527+00:00'
+updated: '2026-08-23T16:25:28.256906+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 15:47 UTC  
+**Last Updated:** August 23, 2026 at 16:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Is there any dataset for human detection with OBB annotations? I'm doing my prog
 
 **[Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra](https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ I came across this two wheeler autonomous rover electronics wiring diagram... I 
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-10h ago
+11h ago
 
 ---
 
@@ -110,11 +110,9 @@ P.A.R. is a machine draws pixel art in the real world. What it displays on the 3
 
 ## Google News: "robotics"
 
-**[Robots compete in boxing, football and sprinting at World Humanoid Games](https://www.bbc.com/news/videos/c7vgvj6e1emo)**
+**[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
-
-BBC • 3h ago
+Reuters • 11h ago
 
 ---
 
@@ -122,15 +120,15 @@ BBC • 3h ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
-**[Robots can outrun humans, but can they plug in a cable?](https://www.nbcnews.com/tech/tech-news/robots-can-outrun-humans-can-plug-cable-rcna593978)**
+**[Robot horse and rider steal the spotlight at Chinese conference](https://www.bbc.com/news/videos/c0qvqzzdd02o)**
 
-The five-day World Humanoid Robot Games combine events modelled on human sports with those designed to test the robots in simulated factories, restaurants, ​offices and in emergency situations.
+More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-NBC News • 1h ago
+BBC • 1d ago
 
 ---
 
@@ -144,7 +142,7 @@ AP News • 19h ago
 
 **[China is training up thousands of humanoid robots](https://www.economist.com/business/2026/08/23/china-is-training-up-thousands-of-humanoid-robots)**
 
-The Economist • 1h ago
+The Economist • 2h ago
 
 ---
 
@@ -166,7 +164,15 @@ Yahoo Finance • 2d ago
 
 **[Are humanoid robots the future? Chinese makers instead highlight practicality](https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design)**
 
-South China Morning Post • 12h ago
+South China Morning Post • 13h ago
+
+---
+
+**[Robot boxing, football and sprinting at World Humanoid Games](https://www.bbc.co.uk/news/videos/c7vgvj6e1emo)**
+
+The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.
+
+BBC • 3h ago
 
 ---
 
@@ -178,57 +184,9 @@ Business Insider • 20h ago
 
 ---
 
-**[US distributor of China’s most popular humanoid robots pivots after US ban](https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/)**
-
-FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.
-
-Ars Technica • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
-
-A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
-
-📺 BBC News
-
-👁️ 860K • 👍 11K • 💬 5K • ⏱️ 2:30 • 17h ago
-
----
-
-**[China’s humanoid robot games showcase rapid progress in robotics](https://www.youtube.com/watch?v=8kmQ9ddce7w)**
-
-China's humanoid robot games in Beijing are testing the abilities of machines while showcasing the progress of the country's ...
-
-📺 Al Jazeera English
-
-👁️ 25K • 👍 190 • 💬 117 • ⏱️ 1:25 • 20h ago
-
----
-
-**[China&#39;s New $7,999 Female Robot Is Changing the World—Here&#39;s Why](https://www.youtube.com/watch?v=-ZsEUlB2NN4)**
-
-Chinese Engineering is pushing humanoid robotics into territory that once seemed impossible. From hyper-realistic female ...
-
-📺 Expand Knowledge
-
-👁️ 78K • 👍 2K • 💬 146 • ⏱️ 27:00 • 4d ago
-
----
-
-**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
-
-The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
-
-📺 NBC News
-
-👁️ 56K • 👍 419 • 💬 206 • ⏱️ 4:05 • 2d ago
-
----
 
 **[Galbot ET1 Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
@@ -236,47 +194,7 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 19K • 👍 403 • 💬 60 • ⏱️ 2:12 • 3d ago
-
----
-
-**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
-
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
-
-📺 Associated Press
-
-👁️ 9K • 👍 40 • 💬 7 • ⏱️ 0:54 • 3d ago
-
----
-
-**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
-
-China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
-
-📺 AI Revolution
-
-👁️ 44K • 👍 945 • 💬 109 • ⏱️ 14:10 • 4d ago
-
----
-
-**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
-
-A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
-
-📺 New York Post
-
-👁️ 78K • 👍 926 • 💬 679 • ⏱️ 2:04 • 1d ago
-
----
-
-**[Humanoid robot clocks 9.39 seconds, beats Usain Bolt’s record | #shorts](https://www.youtube.com/watch?v=EiCkO6H7vF4)**
-
-A humanoid robot clocked 9.39 seconds in the 100m at the World Humanoid Robot Games in Beijing, beating Usain Bolt's ...
-
-📺 The Federal
-
-👁️ 2K • 👍 53 • 💬 4 • ⏱️ 0:47 • 8h ago
+👁️ 20K • 👍 411 • 💬 73 • ⏱️ 2:12 • 3d ago
 
 ---
 
@@ -286,7 +204,89 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 17K • 👍 636 • 💬 151 • ⏱️ 0:52 • 15h ago
+👁️ 19K • 👍 679 • 💬 159 • ⏱️ 0:52 • 15h ago
+
+---
+
+**[They Built a Mechanical Mouth That Can Talk 😳 | #Robotics, #Innovation, #FutureTech, AI, #TechTok](https://www.youtube.com/watch?v=0qu0rSrcnVE)**
+
+This uncanny artificial mouth can surprisingly reproduce the sound and articulation of a real human voice. This Synthetic Vocal ...
+
+📺 Ace Atlantis
+
+👁️ 200K • 👍 915 • 💬 95 • ⏱️ 0:05 • 2d ago
+
+---
+
+**[The first ever humanoid robot Olympics begin this week](https://www.youtube.com/watch?v=OnIUM0HbzDM)**
+
+Subscribe for more!
+
+📺 Aaron Parnas
+
+👁️ 132K • 👍 9K • 💬 1K • ⏱️ 0:45 • 2d ago
+
+---
+
+**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
+
+A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
+
+📺 New York Post
+
+👁️ 81K • 👍 951 • 💬 691 • ⏱️ 2:04 • 1d ago
+
+---
+
+**[Brevity-focused): Welcome to the Future 🤖✨ #AI #Robotics](https://www.youtube.com/watch?v=a26QJ6N5lPM)**
+
+Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTrends #Shorts #FutureTech #islamic ...
+
+📺 IslamicPathEng
+
+
+
+👁️ 30K • 👍 2K • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+
+📺 ABC News
+
+👁️ 47K • 👍 420 • 💬 102 • ⏱️ 0:40 • 18h ago
+
+---
+
+**[Faster Than Us: Human Records Broken 🏃‍♂️](https://www.youtube.com/watch?v=aFFkQxrStNQ)**
+
+Humanoid robots are now officially breaking human speed records on the track. Sure, a few still stumble and fall, but the vast ...
+
+📺 The Genesis Eye
+
+👁️ 40K • 👍 205 • 💬 6 • ⏱️ 0:09 • 23h ago
+
+---
+
+**[Mova just made the best robot vacuum and mop of 2026! #mova70ultracomplete #ads #bestrobotvacuum2026](https://www.youtube.com/watch?v=VTivWM_lDsY)**
+
+Extra Discount: StuffV70 = $20 Off (Aug 19 - Sep 19) ⚡Exclusive Launch Offer: $200 OFF the MOVA V70 Ultra Complete for a ...
+
+📺 Stuff You Actually Need
+
+👁️ 39K • 👍 997 • 💬 12 • ⏱️ 0:38 • 3d ago
+
+---
+
+**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
+
+The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
+
+📺 Custom Adventurist
+
+👁️ 1.9M • 👍 80K • 💬 795 • ⏱️ 1:04 • 5d ago
 
 ---
 

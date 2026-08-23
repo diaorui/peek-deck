@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4MWZoYUNWa00zTkEwdEY1LVhWSS04aTBPa3lhdm4yaE43MnRqZlRSWmhkSWRFWk94LWhSTnVRNmJYeFlKWl94VmtlbnB2N0NEbGhveDQ4RQ?oc=5",
-      "pub_date": 1787489226.0,
-      "article_url": "https://www.bbc.com/news/videos/c7vgvj6e1emo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
+      "headline": "Robots can outrun humans, but can they plug in a cable?",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
+      "pub_date": 1787460600.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Government can bring robotics to life",
@@ -25,14 +25,14 @@
       "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
     },
     {
-      "headline": "Robots can outrun humans, but can they plug in a cable?",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEpOQnpxeWRkR2tqLU9wVENrOVNvOEZxeEQ1aEdHeDMtSmNZSTBMWFpuQllqUHdaNEMtTnh2TmhqYlFSLURJOU45Zjl6WkNpcUdoQS1uVXd5Vk5qQ0x1V3V3UThLb3JvQUxCV0lVSjY3azZuSHljYW5udXRaTEdIbXg4MFZIZDVPRnNlSUVpdFNPRVE?oc=5",
-      "pub_date": 1787495959.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/robots-can-outrun-humans-can-plug-cable-rcna593978",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260823-World-Humanoid-Robot-Games-vl-1026a-88b258.jpg",
-      "description": "The five-day World Humanoid Robot Games combine events modelled on human sports with those designed to test the robots in simulated factories, restaurants, \u200boffices and in emergency situations."
+      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VLURHRGRvbXBoU3BwNTF6cDMtcnhhZkZ6VXo1Yzk5YzJjNFdBMF9UYzRKVFhIemhXRDJ2cVF1dVZzTjU0YmtBUS1vYTZ6dThiMlQ2ZFdQZw?oc=5",
+      "pub_date": 1787392878.0,
+      "article_url": "https://www.bbc.com/news/videos/c0qvqzzdd02o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6806/live/4e83d770-9e0e-11f1-95e0-53a570c83624.jpg",
+      "description": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say."
     },
     {
       "headline": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
@@ -85,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
+      "source": "BBC",
+      "source_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZbEVybUpVdF94X29LRzFqR2xiTHRLWDIxejREbWE2UzZCdjVBUkNVLWx1ODFCaGRfcEtJcmFNc2l3Ynk2UkFMN1dRbFZaLTZSX19qcmE2a1NCUQ?oc=5",
+      "pub_date": 1787490782.0,
+      "article_url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
+      "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
+    },
+    {
       "headline": "At China's robot Olympics, the finish line comes with a padded wall and a stretcher",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.businessinsider.com/world-humanoid-robot-games-how-to-watch-beijing-china-2026-8",
       "image": "https://i.insider.com/6a89f47b1d1a1d028ba120b7?width=1200&format=jpeg",
       "description": "China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry."
-    },
-    {
-      "headline": "US distributor of China\u2019s most popular humanoid robots pivots after US ban",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjBhZDFLcW9qSjVGTjJMTVA2TVlBSUVYTjlHLUNncUxJMDdSRGsydnNQamJ1bmhiY09ReDJQOThfNDFueFJNRi1OSnNLODBkUVF6YUluV1dRWHpkSEJCZnA3LXZ0dVBKV0FPcTJoX3M4aVhuVmZfVHNZWW80SHFDS3I1VEVQbFAxTndiT3lxV1pQdXFEQUMtUE15anppRzJyX0gzeHYySU1sOEh6Q0h0MGJjR3k?oc=5",
-      "pub_date": 1787263211.0,
-      "article_url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
-      "description": "FCC ban on foreign-made robots accelerated RoboStore\u2019s US manufacturing plans."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T14:50:07.559125+00:00"
+  "fetched_at": "2026-08-23T16:25:26.687637+00:00"
 }
