@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T09:00:18.996696+00:00'
+updated: '2026-08-23T09:36:15.399956+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 09:00 UTC  
+**Last Updated:** August 23, 2026 at 09:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +25.8%  
-**30d:** +28.4%  
-**90d:** +16.1%  
-**1y:** -49.7%  
+**24h:** -0.3%  
+**7d:** +25.7%  
+**30d:** +28.3%  
+**90d:** +16.0%  
+**1y:** -49.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.81B
+**Market Cap:** $290.55B
 Rank #2
 
 **Circulating Supply:** 120,681,537 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.6%
+-51.3%
 
 **All-Time Low:** $0.43
-+552578.1%
++555989.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
 
-BeInCrypto • 14h ago
+BeInCrypto • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 54 • 💬 8 • ⏱️ 4:45 • 21h ago
+👁️ 3K • 👍 53 • 💬 3 • ⏱️ 4:45 • 22h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 417 • 💬 169 • ⏱️ 18:21 • 11h ago
+👁️ 11K • 👍 447 • 💬 152 • ⏱️ 18:21 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 322 • 💬 19 • ⏱️ 11:12 • 16h ago
+👁️ 6K • 👍 330 • 💬 19 • ⏱️ 11:12 • 16h ago
 
 ---
 
@@ -274,13 +274,23 @@ Bitcoin has pumped a lot! But dont be fooled now. Crypto narrative change is qui
 
 ---
 
+**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
+
+Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 14h ago
+
+---
+
 **[Is Ethereum About to Outperform Everything?](https://www.youtube.com/watch?v=hYO8W_mnZVg)**
 
 Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
 
 📺 Milk Road
 
-👁️ 18K • 👍 419 • 💬 124 • ⏱️ 41:59 • 2d ago
+👁️ 18K • 👍 420 • 💬 125 • ⏱️ 41:59 • 2d ago
 
 ---
 
@@ -290,7 +300,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 1K • 👍 122 • 💬 16 • ⏱️ 5:51 • 1d ago
+👁️ 1K • 👍 123 • 💬 16 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -304,16 +314,6 @@ In this video I break down the current Ethereum price outlook following the rece
 
 ---
 
-**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
-
-Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
-
-📺 Crypto Archie
-
-👁️ 1K • 👍 76 • ⏱️ 1:25 • 1d ago
-
----
-
 **[Ethereum Breakout! This Is It The Altcoin Signal Years In The Making (WARNING NOW)](https://www.youtube.com/watch?v=pB6jEPznLTo)**
 
 Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai This ...
@@ -324,13 +324,13 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 ---
 
-**[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
+**[The Start Of A Massive Ethereum Season](https://www.youtube.com/watch?v=OeZImdlFhJI)**
 
-Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
+Ethereum is outperforming Bitcoin, the hype is coming back, and money is starting to hunt the hottest narratives again.
 
-📺 Altcoin Daily
+📺 Crypto Archie
 
-👁️ 52K • 👍 4K • 💬 188 • ⏱️ 11:06 • 2d ago
+👁️ 1K • 👍 76 • ⏱️ 1:25 • 1d ago
 
 ---
 

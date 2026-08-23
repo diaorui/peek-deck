@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-23T09:00:18.999938+00:00'
+updated: '2026-08-23T09:36:15.402726+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 23, 2026 at 09:00 UTC  
+**Last Updated:** August 23, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ A little update after about three months of working on this project. One of the 
 
 It’s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don’t think I get how people are scared of its potential to take over the world 😭🙏🏻 It’s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines.
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Rethinking the Quadruped](https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -80,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed "squisks" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time.
 
-3h ago
+4h ago
 
 ---
 
 **[Humanoid robot races have begun at the WHRG 2026](https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -112,7 +112,7 @@ Posted about this project a little while ago — quick update since a few things
 
 More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ NBC News • 22h ago
 
 Braking was an issue, as the machines slammed into a thick mat that organizers placed several meters after the finish line.
 
-The Jerusalem Post • 3h ago
+The Jerusalem Post • 4h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Jerusalem Post • 3h ago
 
 High-tech competitors take the field in synchronized display
 
-Newser • 11h ago
+Newser • 12h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 1d ago
 
 China's second World Humanoid Robot Games kicked off Saturday in Beijing. The spectacle comes as China pours money into its humanoid robot industry.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -196,17 +196,17 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 18K • 👍 390 • 💬 59 • ⏱️ 2:12 • 2d ago
+👁️ 19K • 👍 395 • 💬 60 • ⏱️ 2:12 • 2d ago
 
 ---
 
-**[They Built a Mechanical Mouth That Can Talk 😳 | #Robotics, #Innovation, #FutureTech, AI, #TechTok](https://www.youtube.com/watch?v=0qu0rSrcnVE)**
+**[Chinese Humanoid Robot Runs 100m In 9.39 Seconds, Beats Usain Bolt’s Record](https://www.youtube.com/watch?v=EODFQyEAJmU)**
 
-This uncanny artificial mouth can surprisingly reproduce the sound and articulation of a real human voice. This Synthetic Vocal ...
+A Chinese humanoid robot has stunned spectators at the World Humanoid Robot Games in Beijing, running 100 metres in 9.39 ...
 
-📺 Ace Atlantis
+📺 The Daily Guardian
 
-👁️ 112K • 👍 525 • 💬 33 • ⏱️ 0:05 • 1d ago
+👁️ 407 • 👍 6 • ⏱️ 0:35 • 35m ago
 
 ---
 
@@ -216,17 +216,17 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 8K • 👍 419 • 💬 100 • ⏱️ 0:52 • 8h ago
+👁️ 12K • 👍 499 • 💬 110 • ⏱️ 0:52 • 9h ago
 
 ---
 
-**[ROBOTS MEAN RUN](https://www.youtube.com/watch?v=BwwyKDY4Uu4)**
+**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
 
-ROBOTS MEAN RUN The robots aren't just walking anymore. They're running, jumping, playing sports, performing parkour, and ...
+A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
 
-📺 Dark Waters
+📺 New York Post
 
-👁️ 11K • 👍 778 • 💬 49 • ⏱️ 0:24 • 1d ago
+👁️ 71K • 👍 865 • 💬 597 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Chinese humanoid robots broke records set by humans, including beating Usain Bol
 
 📺 ABC7
 
-👁️ 28K • 👍 405 • 💬 103 • ⏱️ 0:42 • 11h ago
+👁️ 35K • 👍 426 • 💬 108 • ⏱️ 0:42 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ An Amazon delivery drone went rogue during a Texas dropoff, plopping a woman's p
 
 📺 Fox News Clips
 
-👁️ 65K • 👍 482 • 💬 104 • ⏱️ 0:17 • 2d ago
+👁️ 65K • 👍 486 • 💬 104 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -258,7 +258,27 @@ Brevity-focused): Welcome to the Future ✨ #AI #Robotics #AI #Robotics #TechTre
 
 
 
-👁️ 25K • 👍 1K • ⏱️ 0:11 • 18h ago
+👁️ 27K • 👍 1K • ⏱️ 0:11 • 18h ago
+
+---
+
+**[Why Home Robots Aren&#39;t Ready (Yet)](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 12K • 👍 381 • 💬 64 • ⏱️ 5:16 • 6d ago
+
+---
+
+**[Mova just made the best robot vacuum and mop of 2026! #mova70ultracomplete #ads #bestrobotvacuum2026](https://www.youtube.com/watch?v=VTivWM_lDsY)**
+
+Extra Discount: StuffV70 = $20 Off (Aug 19 - Sep 19) ⚡Exclusive Launch Offer: $200 OFF the MOVA V70 Ultra Complete for a ...
+
+📺 Stuff You Actually Need
+
+👁️ 38K • 👍 979 • 💬 11 • ⏱️ 0:38 • 3d ago
 
 ---
 
@@ -268,27 +288,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 25K • 👍 262 • 💬 82 • ⏱️ 0:40 • 10h ago
-
----
-
-**[The ONLY Problem With the Honor Robot Phone 🤖📱 #HonorRobotPhone #Honor #Tech #Smartphone](https://www.youtube.com/watch?v=JhrrY7I9LQ4)**
-
-The Honor Robot Phone might be one of the craziest smartphones ever made, but it has one major problem. Here's the biggest ...
-
-📺 Custom Adventurist
-
-👁️ 1.9M • 👍 78K • 💬 717 • ⏱️ 1:04 • 5d ago
-
----
-
-**[Meet the 420-pound robots patrolling America](https://www.youtube.com/watch?v=4JwfXz78HSA)**
-
-Knightscope's K5 autonomous security robot stands five foot four, weighs 420 pounds, tops out at three miles an hour and patrols ...
-
-📺 Interesting Engineering Explains
-
-👁️ 158K • 👍 5K • 💬 997 • ⏱️ 2:14 • 4d ago
+👁️ 31K • 👍 292 • 💬 86 • ⏱️ 0:40 • 11h ago
 
 ---
 

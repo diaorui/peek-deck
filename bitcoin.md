@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-23T09:00:18.990548+00:00'
+updated: '2026-08-23T09:36:15.394593+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 09:00 UTC  
+**Last Updated:** August 23, 2026 at 09:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,143.43
+### $76,585.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +18.2%  
-**30d:** +18.5%  
-**90d:** +0.4%  
-**1y:** -32.8%  
+**24h:** -0.7%  
+**7d:** +18.6%  
+**30d:** +18.8%  
+**90d:** +0.7%  
+**1y:** -32.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1530.19B
+**Market Cap:** $1535.01B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--39.5%
+-39.3%
 
 **All-Time Low:** $67.81
-+112311.1%
++112687.2%
 
 ---
 
@@ -85,6 +85,14 @@ All currency eventually fail, there are no exceptions!
 
 ---
 
+**[Bitcoin haters secretly googling 'how to buy bitcoin' when they're about to get their first sats.](https://www.reddit.com/r/Bitcoin/comments/1vvwxg3/bitcoin_haters_secretly_googling_how_to_buy/)**
+
+"At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
+
+5h ago
+
+---
+
 **[Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017](https://www.reddit.com/r/Bitcoin/comments/1vvno4a/every_bitcoin_cycle_has_done_the_exact_same_three/)**
 
 Every Bitcoin cycle has done the exact same three things, in the exact same order, since 2017 New all time high. Brutal drawdown, 80%+ historically. Then a slow reclaim that eventually breaks the old high completely. 2017 did it. 2021 did it. 2025 just did it again, peaking above $126k before correcting hard into this year. What gets lost in the panic every single cycle is that the drawdown itself has gotten shallower each time, not deeper. 2013 lost roughly 85%. 2017 lost roughly 84%. 2021 lost roughly 77%. Same pattern, same fear, less damage each round as the asset matures and more capital treats corrections as entries instead of exits. The part almost nobody believes while its happening, every previous "this time it's different, it's finally over" moment preceded a full recovery and a new high. Every one. Doesnt mean this cycle guarantees the same outcome, nothing's guaranteed, but four cycles of identical rhythm is a pattern worth knowing exists before assuming this one breaks it. History doesnt repeat perfectly. It just rhymes enough to be worth paying attention to.
@@ -93,11 +101,11 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 ---
 
-**[Bitcoin haters secretly googling 'how to buy bitcoin' when they're about to get their first sats.](https://www.reddit.com/r/Bitcoin/comments/1vvwxg3/bitcoin_haters_secretly_googling_how_to_buy/)**
+**[One more pullback before bull market ?](https://www.reddit.com/r/Bitcoin/comments/1vw282n/one_more_pullback_before_bull_market/)**
 
-"At least we're honest about it!" (No judgment, welcome to the rabbit hole once you're ready to dig in)
+What are people’s thoughts ? Any proper analysts in here than can give their advice ?
 
-4h ago
+30m ago
 
 ---
 
@@ -111,21 +119,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I feel the answer is just "yes." But like for those who stopped tracking, how did you do it? Im so obsessed with checking price, i feel im wasting my energy and time.
 
-5h ago
-
----
-
-**[I built an app that earns Sats by relaying the Bluetooth packets your phone already hears (iOS, Android, or your Umbrel node)](https://www.reddit.com/r/Bitcoin/comments/1vvuh8i/i_built_an_app_that_earns_sats_by_relaying_the/)**
-
-There's a radio in your pocket that hears Bluetooth packets all day: trackers, sensors, beacons. Your phone typically discards every one of them. I built EE Gateway to forward them instead. Open BLE networks need ground coverage the way AirTags need iPhones. Think like a mini cell tower in your pocket - where each phone provides about 100 meters coverage. Your phone can now earn Sats for relaying BLE packets. How it works Your phone (or Umbrel node) scans for BLE broadcasts. Receive-only, it never transmits. 1 sat per unique device identifier (they're ephemeral IDs) per UTC day, paid to the first gateway to forward it. Settlement runs daily over Lightning to your address. The honest caveats, before anyone asks... Earnings track BLE density near you. Logistics corridors are busy, residential streets mostly aren't, and you won't know until you field test. Nobody's getting rich on this today. Pending sats are held custodially until your total clears 1,000 sats, then they land at your Lightning address. Every packet carries the GPS fix age and accuracy it was heard with. A phone without a fresh fix drops the packet, so the coverage data stays honest. The Umbrel/Raspberry Pi version is open source (GPL-3.0). The ask: run it for a few days and tell me what you think. Download Links Umbrel App: https://apps.umbrel.com/app/ee-gateway App Store: https://apps.apple.com/us/app/ee-gateway/id6792848842 Play Store: https://play.google.com/store/apps/details?id=com.encryptedenergy.gateway.android&hl=en_US Site: https://encryptedenergy.com
-
 6h ago
-
----
-
-**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
-
-22h ago
 
 ---
 
@@ -133,7 +127,13 @@ There's a radio in your pocket that hears Bluetooth packets all day: trackers, s
 
 This guy (who had been cautious and predicted the coldcard dodgy dice roll 3 years ago) https://youtu.be/di-R_soeBe8 explained why coldcard failed and others don't,, very good video must watch
 
-5h ago
+6h ago
+
+---
+
+**[Long story —> in short](https://www.reddit.com/r/Bitcoin/comments/1vv8en4/long_story_in_short/)**
+
+23h ago
 
 ---
 
@@ -149,7 +149,7 @@ I just found a guy who sells plasma and donates sperm so he can buy more Bitcoin
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 1d ago
 
 **[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -291,13 +291,33 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
+**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
+
+Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 3K • 💬 103 • ⏱️ 11:10 • 14h ago
+
+---
+
+**[Why Bitcoin Could Explode From Here](https://www.youtube.com/watch?v=4SRxK_E_K0M)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 213 • ⏱️ 10:08 • 2d ago
+
+---
+
 **[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
 
 Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
 
 📺 Yahoo Finance
 
-👁️ 17K • 👍 514 • 💬 180 • ⏱️ 14:55 • 1d ago
+👁️ 17K • 👍 518 • 💬 175 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -311,16 +331,6 @@ Bitcoin just triggered the biggest short squeeze in its history as Treasury bond
 
 ---
 
-**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
-
-Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
-
-📺 Cointelegraph
-
-👁️ 26K • 👍 593 • 💬 52 • ⏱️ 31:41 • 1d ago
-
----
-
 **[The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes)](https://www.youtube.com/watch?v=C-ONkXpmiTc)**
 
 Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: ...
@@ -331,43 +341,13 @@ Why The New Bitcoin Bull Run Is Just Beginning (Explained in 10 minutes) ⭐ Fol
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=mnCn7NzuzKA)**
+**[Is Bitcoin Heading for a Major Correction? Bitget CEO Weighs In](https://www.youtube.com/watch?v=8s_u4DcCFCo)**
 
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+Bitget CEO Gracy Chen joins Cointelegraph's Trade Secrets to discuss where Bitcoin could be heading next — and why she ...
 
-📺 Benjamin Cowen
+📺 Cointelegraph
 
-👁️ 200K • 👍 10K • 💬 602 • ⏱️ 37:16 • 2d ago
-
----
-
-**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 36K • 👍 622 • 💬 15 • ⏱️ 0:58 • 1d ago
-
----
-
-**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
-
-Correlations converging as we speak.
-
-📺 Nicholas Crown
-
-👁️ 10K • 👍 442 • 💬 12 • ⏱️ 2:20 • 1d ago
-
----
-
-**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
-
-Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
-
-📺 CNBC Television
-
-👁️ 43K • 👍 410 • 💬 48 • ⏱️ 4:31 • 2d ago
+👁️ 27K • 👍 619 • 💬 55 • ⏱️ 31:41 • 1d ago
 
 ---
 
@@ -377,17 +357,37 @@ What's behind the market rally? It's AI vs the US Debt Crisis. *NEW* Get 50% off
 
 📺 TechLead
 
-👁️ 43K • 👍 1K • 💬 582 • ⏱️ 11:16 • 2d ago
+👁️ 44K • 👍 1K • 💬 583 • ⏱️ 11:16 • 2d ago
 
 ---
 
-**[Bitcoin Just Did Something It Hasn&#39;t Done Since November 2025. It&#39;s a Big Deal.](https://www.youtube.com/watch?v=lpFKx4jFqWo)**
+**[Why Bitcoin is Starting to EXPLODE Again (Not What You Think)](https://www.youtube.com/watch?v=6PTbnqTOI9U)**
 
-Bitcoin just closed above its 200-day moving average for the first time in 292 days - since November 1st, 2025. The last three ...
+First Line ➡ X: https://x.com/elliotrades ➡ Instagram: https://instagram.com/elliotrades ➡ TikTok: ...
 
-📺 Krown
+📺 EllioTrades
 
-👁️ 11K • 👍 719 • 💬 102 • ⏱️ 23:33 • 2d ago
+👁️ 19K • 👍 886 • 💬 119 • ⏱️ 8:57 • 2d ago
+
+---
+
+**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
+
+Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
+
+📺 CNBC Television
+
+👁️ 43K • 👍 412 • 💬 48 • ⏱️ 4:31 • 2d ago
+
+---
+
+**[Bitcoin Just Had Its Biggest Week In History](https://www.youtube.com/watch?v=fhZiG-Uzs1c)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 74K • 👍 3K • 💬 196 • ⏱️ 58:24 • 20h ago
 
 ---
 

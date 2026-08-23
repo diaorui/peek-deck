@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T09:00:18.981952+00:00'
+updated: '2026-08-23T09:36:15.387081+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 09:00 UTC  
+**Last Updated:** August 23, 2026 at 09:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
 
-16h ago
+17h ago
 
 ---
 
@@ -65,7 +65,7 @@ If you need to estimate rank and standard tools are giving you wildly high estim
 
 The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any topic, one or two narrators, does real research and sources its material. The core feature: you can interrupt it any time and ask a question, and the story continues after. There's also a map and period artwork alongside the audio. Free to try, no account needed for the demo. Just looking for genuine feedback, happy to answer questions about how it works. And if you like it feel fee to share it! Podcast generated from the demo video: https://historai.ca/history/how-a-song-became-the-odyssey--cd48307e4d1244e1ac98e9fcb50f7484
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Posted about this project a little while ago — quick update since a few things
 
 I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs. Some of us want free and open and untracked and un-modified outputs for many reasons. Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking? Will there be some that dont? Or do people not even care about this? I don't like it and if the EU makes stupid laws, or the USA or another country for that matter, the rest of the world shouldn't be affected. My hope is that the chinese labs dont add it and that they stay free and open source. What do you think?
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Everyone talks about chip supply as the bottleneck on AI buildout, but power int
 
 I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An organized, community-driven ecosystem automates the entire machine-learning pipeline, utilizing crowdsourced compute and unified project management so open-source agents gradually upgrade their own systems without human intervention. Pathway 2: The Biological & Continuous Learning Shift A shift toward biocomputing enables large-scale continuous learning, allowing models to adapt dynamically to every experience and evolve distinct personalities, goals, and drives. Pathway 3: Closed-Loop Centralized Automation (Frontier Labs) Leading labs fully automate their R&D pipelines, enabling autonomous multi-agent systems to design experiments, set benchmarks, and deploy architectural upgrades without human involvement. Pathway 4 (SUGGESTED BY AI) : Additional Potential Triggers for RSI Hardware Design Feedback Loops: - AI designs next-generation silicon and neural architectures, directly accelerating the hardware required to build its successors. - Autonomous Synthetic Data Engine: Models continuously generate pristine, edge-case training data and formal proofs, bypassing human data limits. - Dynamic Test-Time Meta-Learning: Systems self-correct and alter their runtime execution graphs in real time, achieving continuous improvement without full retraining. What do you guys think? Also while responding if you can share what field or profession you belong to it would be nice. I'm just gathering different perspectives. Thanks for reading! This is my first post here. Excuse the blunders.
 
-22h ago
+23h ago
 
 ---
 
@@ -137,13 +137,13 @@ Bloomberg.com • 14h ago
 
 The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
 **[Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports](https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Reuters • 12h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 36m ago
+Financial Times • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Financial Times • 36m ago
 
 Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Phys.org • 17h ago
 
 AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
 
-⬆️ 617 • 💬 894 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
+⬆️ 618 • 💬 894 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
@@ -203,7 +203,7 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
-⬆️ 480 • 💬 484 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
+⬆️ 484 • 💬 484 • 1d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -219,7 +219,7 @@ My personal portfolio site and blog.
 
 Trying to obfuscate the web is a bad, pointless idea
 
-⬆️ 210 • 💬 163 • 2d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+⬆️ 210 • 💬 164 • 2d ago • [Andrew's WebLog](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 
 ---
 
@@ -247,7 +247,7 @@ Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland
 
 **[How a Texas student blew the whistle on a rogue AI hacking attempt](https://news.ycombinator.com/item?id=49387959)**
 
-⬆️ 153 • 💬 51 • 1d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+⬆️ 156 • 💬 62 • 1d ago • [reuters.com](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 
 ---
 
@@ -263,7 +263,7 @@ The argument says AI erased the junior engineer's marginal value. An intern who 
 
 Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
 
-⬆️ 54 • 💬 68 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 54 • 💬 68 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
 ---
 
@@ -271,7 +271,7 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.
 
-⬆️ 36 • 💬 78 • 16h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+⬆️ 36 • 💬 78 • 17h ago • [CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
@@ -285,7 +285,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 50K • 👍 1K • 💬 258 • ⏱️ 10:04 • 1d ago
+👁️ 53K • 👍 1K • 💬 272 • ⏱️ 10:04 • 1d ago
 
 ---
 
@@ -295,17 +295,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 39K • 👍 1K • 💬 110 • ⏱️ 12:28 • 18h ago
-
----
-
-**[Here&#39;s What Pops The AI Bubble](https://www.youtube.com/watch?v=CGkM68EG0CA)**
-
-Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
-
-📺 Felix & Friends (Goat Academy)
-
-👁️ 77K • 👍 3K • 💬 95 • ⏱️ 16:51 • 20h ago
+👁️ 42K • 👍 1K • 💬 121 • ⏱️ 12:28 • 19h ago
 
 ---
 
@@ -315,7 +305,7 @@ MAGA allies are making huge bets on AI amid new signs that a tech “bubble” c
 
 📺 MS NOW
 
-👁️ 693K • 👍 10K • 💬 1K • ⏱️ 12:08 • 2d ago
+👁️ 698K • 👍 10K • 💬 1K • ⏱️ 12:08 • 2d ago
 
 ---
 
@@ -335,7 +325,17 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 70K • 👍 2K • 💬 153 • ⏱️ 8:14 • 2d ago
+👁️ 72K • 👍 2K • 💬 155 • ⏱️ 8:14 • 2d ago
+
+---
+
+**[Here&#39;s What Pops The AI Bubble](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+
+Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+
+📺 Felix & Friends (Goat Academy)
+
+👁️ 83K • 👍 3K • 💬 99 • ⏱️ 16:51 • 20h ago
 
 ---
 
@@ -355,7 +355,7 @@ Writer: Kyler Himes Editor: Joshua Lambourne Stevenson Music by: @UFD-Music The 
 
 📺 UFD Tech
 
-👁️ 246K • 👍 15K • 💬 230 • ⏱️ 0:53 • 2d ago
+👁️ 247K • 👍 15K • 💬 231 • ⏱️ 0:53 • 2d ago
 
 ---
 
@@ -365,17 +365,17 @@ This is Jarvis. He talks, he remembers everything we've ever worked on, he pushe
 
 📺 jaredrhod
 
-👁️ 33K • 👍 2K • 💬 143 • ⏱️ 9:09 • 2d ago
+👁️ 33K • 👍 2K • 💬 144 • ⏱️ 9:09 • 2d ago
 
 ---
 
-**[Former Microsoft CEO Speaks Out on AI](https://www.youtube.com/watch?v=fv4qMGwCEtc)**
+**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
 
-Titans on Tomorrow Ep. 2 with guest Steve Ballmer Presented by Cardiff: https://cardiff.co/ben The AI revolution is upon us and it's ...
+shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
 
-📺 Ben Shapiro
+📺 Danno Cal Drawings
 
-👁️ 47K • 👍 2K • 💬 295 • ⏱️ 50:29 • 2d ago
+👁️ 787K • 👍 61K • 💬 914 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,090,699 • ❤️ 12,189 • 8d ago
+⬇️ 2,358,347 • ❤️ 12,200 • 8d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,320,542 • ❤️ 2,650 • 2d ago
+⬇️ 6,674,515 • ❤️ 2,660 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 34,909 • ❤️ 894 • 2d ago
+⬇️ 47,098 • ❤️ 901 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 142,846 • ❤️ 997 • 3d ago
+⬇️ 190,062 • ❤️ 1,007 • 3d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 164,950 • ❤️ 565 • 5h ago
+⬇️ 244,834 • ❤️ 574 • 5h ago
 
 ---
 
@@ -451,7 +451,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 486,221 • ❤️ 499 • 5d ago
+⬇️ 676,697 • ❤️ 504 • 5d ago
 
 ---
 
@@ -463,7 +463,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,223,422 • ❤️ 629 • 7d ago
+⬇️ 1,334,820 • ❤️ 632 • 7d ago
 
 ---
 
@@ -475,7 +475,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 694,670 • ❤️ 1,583 • 5d ago
+⬇️ 738,345 • ❤️ 1,584 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 16,644 • ❤️ 1,189 • 8d ago
+⬇️ 17,421 • ❤️ 1,190 • 8d ago
 
 ---
 
@@ -499,7 +499,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 12,611 • ❤️ 330 • 5h ago
+⬇️ 23,516 • ❤️ 336 • 6h ago
 
 ---
 
@@ -543,7 +543,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 66 • 💬 7 • ⭐ 317 • 3d ago
+▲ 67 • 💬 7 • ⭐ 317 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -583,7 +583,7 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 40 • 💬 5 • ⭐ 7,415 • 10mo ago
+▲ 40 • 💬 5 • ⭐ 7,472 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -653,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.2k • 🔱 2.0k • 1h ago
+⭐ 17.2k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 240 • 11d ago
+⭐ 3.0k • 🔱 241 • 11d ago
 
 ---
 
@@ -703,7 +703,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 353 • 13h ago
+⭐ 2.9k • 🔱 353 • 14h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.4k • 🔱 270 • 11h ago
+⭐ 2.4k • 🔱 272 • 11h ago
 
 ---
 
