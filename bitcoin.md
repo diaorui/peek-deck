@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T19:57:18.287792+00:00'
+updated: '2026-08-24T20:34:37.224836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 19:57 UTC  
+**Last Updated:** August 24, 2026 at 20:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Then it drops back down to 62k by next week
 
-6h ago
+7h ago
 
 ---
 
@@ -107,13 +107,13 @@ Then it drops back down to 62k by next week
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-6h ago
+7h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 I wonder why that is so?
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Nears $80,000, but Analysts Say the Next Pullback Will Be Key](https://www.moomoo.com/news/post/75172020/bitcoin-nears-80000-but-analysts-say-the-next-pullback-will)**
 
-Moomoo • 12m ago
+Moomoo • 50m ago
 
 ---
 
@@ -171,7 +171,7 @@ Moomoo • 12m ago
 
 Finally, a killer use case
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -193,7 +193,7 @@ qz.com • 2h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ Help us fight these scammers! Become a member today: https://www.youtube.com/cha
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 634 • 💬 30 • ⏱️ 1:43 • 18h ago
+👁️ 9K • 👍 634 • 💬 30 • ⏱️ 1:43 • 19h ago
 
 ---
 

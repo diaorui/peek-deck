@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T19:57:18.280415+00:00'
+updated: '2026-08-24T20:34:37.216690+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 19:57 UTC  
+**Last Updated:** August 24, 2026 at 20:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 7h ago
+🔗 [Rauno](https://rauno.ai) • 8h ago
 
 ---
 
@@ -49,13 +49,13 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-56m ago
+1h ago
 
 ---
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 1h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
-6h ago
+7h ago
 
 ---
 
@@ -79,7 +79,7 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
 
-4h ago
+5h ago
 
 ---
 
@@ -123,19 +123,19 @@ As people created the most abstract way of programming, syntax knowledge of prog
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff](https://www.wric.com/news/u-s-world/ap-taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)**
 
-WRIC ABC 8News • 23m ago
+WRIC ABC 8News • 1h ago
 
 ---
 
@@ -143,19 +143,19 @@ WRIC ABC 8News • 23m ago
 
 Deputies said "thousands of AI-generated images of child pornography" were found on a computer and hard drive at the man's home.
 
-ABC13 Houston • 27m ago
+ABC13 Houston • 1h ago
 
 ---
 
 **[WikiHow sues OpenAI for copyright infringement over AI training](https://www.reuters.com/legal/legalindustry/wikihow-sues-openai-copyright-infringement-over-ai-training-2026-08-24/)**
 
-Reuters • 21m ago
+Reuters • 58m ago
 
 ---
 
 **[UAW and Deere are set to clash amid AI sales boom](https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai)**
 
-Axios • 55m ago
+Axios • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Axios • 55m ago
 
 The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 10h ago
 
 Tech leaders’ beliefs about the future, known as their ‘eschatology,’ are shaping how AI is being developed behind closed doors, argues Liz Bucar.
 
-Time Magazine • 10h ago
+Time Magazine • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ SiliconANGLE • 21h ago
 
 NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems.
 
-NVIDIA Newsroom • 4h ago
+NVIDIA Newsroom • 5h ago
 
 ---
 
@@ -215,7 +215,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 321 • 💬 67 • 20h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 321 • 💬 67 • 21h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -231,7 +231,7 @@ The need for ongoing friction in long-term skill formation.
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 163 • 💬 76 • 13h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 163 • 💬 76 • 14h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -245,7 +245,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 77 • 💬 94 • 10h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 77 • 💬 94 • 11h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
 
 ---
 
@@ -281,7 +281,7 @@ Terrifying AI behavior even its creators couldn't explain has left people questi
 
 📺 Most Amazing Elite
 
-👁️ 13K • 👍 109 • 💬 11 • ⏱️ 1:50:32 • 23h ago
+👁️ 13K • 👍 109 • 💬 11 • ⏱️ 1:50:32 • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ Lawyers were supposed to be one of the professions AI couldn't replace. But the 
 
 📺 The Infographics Show
 
-👁️ 79K • 👍 2K • 💬 567 • ⏱️ 13:53 • 1d ago
+👁️ 79K • 👍 2K • 💬 567 • ⏱️ 13:53 • 2d ago
 
 ---
 
@@ -371,7 +371,7 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 CrazyHoodMedia
 
-👁️ 17K • 👍 366 • 💬 42 • ⏱️ 0:42 • 17h ago
+👁️ 17K • 👍 366 • 💬 42 • ⏱️ 0:42 • 18h ago
 
 ---
 
@@ -511,7 +511,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 84 • 💬 2 • ⭐ 3,905 • 7d ago
+▲ 84 • 💬 2 • ⭐ 3,905 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -525,7 +525,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 745 • 💬 5 • ⭐ 5,349 • 14d ago
+▲ 745 • 💬 5 • ⭐ 5,349 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -539,7 +539,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 73 • 💬 7 • ⭐ 586 • 4d ago
+▲ 73 • 💬 7 • ⭐ 586 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -619,7 +619,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 LongHorizon-Harness improves long-horizon agent performance by explicitly tracking verified task states outside context via a manage-execute-audit loop.
 
-▲ 180 • 💬 3 • ⭐ 1,195 • 21d ago
+▲ 180 • 💬 3 • ⭐ 1,195 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
@@ -633,7 +633,7 @@ LongHorizon-Harness improves long-horizon agent performance by explicitly tracki
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 258 • 💬 2 • ⭐ 307 • 4d ago
+▲ 258 • 💬 2 • ⭐ 307 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -659,7 +659,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 1h ago
+⭐ 14.2k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 601 • 4h ago
+⭐ 3.6k • 🔱 601 • 5h ago
 
 ---
 
@@ -689,7 +689,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 362 • 8h ago
+⭐ 3.0k • 🔱 362 • 9h ago
 
 ---
 
@@ -709,7 +709,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 304 • 1h ago
+⭐ 2.6k • 🔱 304 • 2h ago
 
 ---
 
@@ -719,7 +719,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 2h ago
+⭐ 2.2k • 🔱 189 • 3h ago
 
 ---
 
