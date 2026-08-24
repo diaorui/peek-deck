@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUhxcnhmTUVlMTRPYUM1TXZvY3RabEEtcDl5b3lnazJoYlZoNFhQZTVPa1ZnNG1lSTk3TVNfcjFXcjdUeERhMVV2dTEzMWxiN2g5YWY0SG5MWkpVSFhLR1p5RndmYWlxcUNxTVhzSU92dlBIbzJUcnNlWU9QV1JJS9IBhgFBVV95cUxQQnpMUGI2d3JsZF83ZGJBYVhaeFMtQmVUY1dQSjF4Y2t1S3R6RUg4ZUQxSjdKLWhfLUJ3NHd6VjhBeTFsY1B1aVNFb1Z1bFByeTZUYVBnUG9ZdFRKYzRHSy1xdl9iQkk4a09CdnFSREwzS20tUVlWczNVaEFFRmM4dGJNek9XZw?oc=5",
-      "pub_date": 1787583601.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
-      "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers."
-    },
-    {
       "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,54 +15,74 @@
       "description": null
     },
     {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787605121.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUhxcnhmTUVlMTRPYUM1TXZvY3RabEEtcDl5b3lnazJoYlZoNFhQZTVPa1ZnNG1lSTk3TVNfcjFXcjdUeERhMVV2dTEzMWxiN2g5YWY0SG5MWkpVSFhLR1p5RndmYWlxcUNxTVhzSU92dlBIbzJUcnNlWU9QV1JJS9IBhgFBVV95cUxQQnpMUGI2d3JsZF83ZGJBYVhaeFMtQmVUY1dQSjF4Y2t1S3R6RUg4ZUQxSjdKLWhfLUJ3NHd6VjhBeTFsY1B1aVNFb1Z1bFByeTZUYVBnUG9ZdFRKYzRHSy1xdl9iQkk4a09CdnFSREwzS20tUVlWczNVaEFFRmM4dGJNek9XZw?oc=5",
+      "pub_date": 1787583601.0,
+      "article_url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
+      "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers."
+    },
+    {
+      "headline": "NVIDIA is the benchmark for AI builds, strategist says",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qLTlxN29LVndjYkdNTGVSRTRRZElES2dvZG5SOFNtSFZHeXZPMm1lbUtvY3ZXaXVfSWxUX0ZNVnl5ZmRfdDB0SXBaZ1BGVWk3a0RXWjhn?oc=5",
+      "pub_date": 1787607541.0,
+      "article_url": "https://www.foxnews.com/video/6403978982112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51ed2d0f-0ea4-433d-9b3e-f09f9823a480/4895b8b0-fb6e-479d-9fa3-3470853b9658/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Baird managing director and tech strategist Ted Mortonson discusses upcoming NVIDIA earnings on 'Making Money.'"
+    },
+    {
+      "headline": "Meta Plans to Launch \u2018Hatch\u2019 AI Agent Platform in Coming Weeks",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
+      "pub_date": 1787611200.0,
+      "article_url": "https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks",
+      "image": "https://tii.imgix.net/production/articles/17702/efa54ab7-86a8-437a-884f-4e430218ef47.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ..."
+    },
+    {
+      "headline": "Discovery of 'thousands' of AI-generated child pornography images leads to man's arrest in Humble, Pct. 1 says",
+      "source": "ABC13 Houston",
+      "source_url": "https://abc13.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVl0M29pTlU4UDJPdkY0cXFxWjAxOXh6N0FqcFlSaEFrVkJ6cDgtYWdfRzlMdEpVWGdGazdIU0F6ZExTQjhvbzZfY1JvSlFYOGgyaHRuNzJMcWh4Mk5XYkZHQTAzbUlIYkRGRHRMUWNobmJCNDIxMW9wekdHLU9fRTFJOHFCZkxZMmtaR3R1aEd5c0xiMnNjbnV0QzVqdFg0aUlnc2JWUDlTQ3c4MEtRZGJlMmNPZFA3U3g2OUNvMDdKeExV0gHKAUFVX3lxTE1aTFhQM1dQUGVoSjdzSWpqYlpJR1Fwd0tGNG9HeVg5WkZkU2FnbC1tOTVSZ25EWkxpT0ZfLVpOT1BoUDh3VHRlRDh1N29talhMVC1VZzNvWXVyTDA2UXBtaF92X1ppal9rc2trNDl1UTlDMlBWM2VJc1lvY096WHViM3BHSEN0S25jc0lKX1RCRnkwcHZqOXp4akZXMzBIc2xKQml1MkQwR0kycE9qQlpIQzl1TVhnVzdFc1dvZlZCNXd0d29HQXYwdGc?oc=5",
+      "pub_date": 1787599877.0,
+      "article_url": "https://abc13.com/post/discovery-thousands-ai-generated-child-pornography-images-leads-mans-arrest-humble-pct-1-says/19728054/",
+      "image": "https://cdn.abcotvs.com/dip/images/13971418_102523-ktrk-pct-1-img.jpg?w=1600",
+      "description": "Deputies said \"thousands of AI-generated images of child pornography\" were found on a computer and hard drive at the man's home."
+    },
+    {
+      "headline": "Humble man accused of having thousands of AI-generated child pornography images",
+      "source": "KHOU",
+      "source_url": "https://www.khou.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2dUQmFxdmtrTFV6UVVpUjNobVI0eGNrQTFnRmpxLXI1VG1qRlc1NkYzd0dJNmlTcjRaZkttekNiRm50VEcxZUhhYTZNeWdQVDhfUEg2SV93ZXBqbndpWHRUN05NQ2txTXZ5a2dndWJIR3VMS0ZqbjBCUXNnUFdPVkxrSVlTeXVzMHpZN1pBbEtVeDRWRHdSQkZDNDMtQVdQMmpoSTM0OVlCcF9HSFllaXlxQjV4QllLemNFbEZtSVhtbGNSeXV1eEdONzlEdw?oc=5",
+      "pub_date": 1787610960.0,
+      "article_url": "https://www.khou.com/article/news/local/houston-humble-ai-generated-child-pornography-charge/285-2527322c-110c-469f-bb19-85622c1fa386",
       "image": null,
       "description": null
     },
     {
-      "headline": "NVent Seeks Bigger Piece of AI Boom With $1.75 Billion Deal",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGNMbHJ6eUdsLW55U2oyeU9BQ0s0c2FZM2JkXzZkMWppQmRiVlVUcmZhdHFlSFNPY1hPV3pka3VnclZoQnF5QUNuY21tY1ZtTkE1Z1VmSlNrVVdKRVA0V2hnQkxJMEVDMzVGRVlYNmFEMmlmV0E2UXhVNWcxZW5BbVFHSzlScmFkZ01EY1ZnYWZXb0FzMGNyOTRvdy1LVm1faFl3bEMtWWkyRUxnUUE?oc=5",
-      "pub_date": 1787604017.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/nvent-seeks-bigger-piece-of-ai-boom-with-1-75-billion-deal",
-      "image": null,
-      "description": null
+      "headline": "Houston-area man arrested for thousands of AI-generated child pornography",
+      "source": "FOX 26 Houston",
+      "source_url": "https://www.fox26houston.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVc5eXpHdkJBbVN6cjl6ZDU4SENka000aDFIMzdMS25mTkxoMzE2Z0xEWk0xOWQxenlZanJqYklhS2hjckpKVGlTcmF1Vlkwd0FnYmktd0g2ZG5VRDBtZFQ1UnhSMEhrM0gwSFpDd3RIRlBTRjRPYzRVLWR6UEpqZWFZbzhrRHE5NzdCYldWMEhZcEZsUTI2WGswS1ppZkZRbFE?oc=5",
+      "pub_date": 1787608475.0,
+      "article_url": "https://www.fox26houston.com/news/houston-area-man-arrested-thousands-ai-generated-child-pornography",
+      "image": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2026/08/1200/630/screenshot-2026-08-24-165057.png?ve=1&tl=1",
+      "description": "A Houston-area man was arrested after detectives found what they describe as thousands of images of AI-generated child pornography at his home, according to authorities."
     },
     {
-      "headline": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNi1qaXh2TU1uMjdEZVEzd3VDZHM4TWEyYUpRbnFBaXdTUmVjVlFENGU3ZmxCT3NZLXhkakVwXzU5NmRkRl9Lc0tWNkQyTXpjQjZoSDdrcElnODhwR0wwcV9yeEZhZkZrd1hSODJBVGlCclU5UzdnQ1VGeWdMU0JaUXhvRHc2WjBoQ3ljek1uY3FXelhfNTJPZXFtUGhSa01ENnNYTmNSR3VjSktlN002NjBTVlpqYUxmTHhqQ3hWLUkwdXZlaWNiemdXLUJwQdIB0wFBVV95cUxONHQxVXp4OWZFSWR1UlVfcHRTRnNmdG9DMjdnT0stLXE4MTF3NzljZGFBSUNPMHR1LXRyaW80MDdIRGpaX1ZJbDFTWjQ5WGtFSF9BSnZ1ZUdta3QtRl8yUlo2TGxtRHJ4bE13MDBGVVdiQW9Da2VGc1dXcW1taUdGZmdIQnR3d2hkSFpIQUNhT283VTNxX0RyalNRM1FBcjRXQVJFNXRpLXpPYWVheXhjaGhTbmVNeHkyYmlPVk9FRnBQcGF0ZDhJOVhrNk9jSnJHUjFz?oc=5",
-      "pub_date": 1787602837.0,
-      "article_url": "https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers",
+      "headline": "Data centers\u2019 \u2018oh s--t\u2019 moment",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclF4bTlPQkZtM0wyZmJKbmxZWkJicXZRM05ya1o2ZTZqWl9SVUxSWG5kSWtacUNwQm05bkNtZk5TMl9CUHQzd2JHclVkOTg4X3lBUGNYZE1PUU95ZTJ2Z3ZTeS1ZZDFIU0VyY1lSUDFLNDdjcGlCMmhqNkRzQkZxMFF3?oc=5",
+      "pub_date": 1787562000.0,
+      "article_url": "https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkhwcmRIRXVKYTRlTEwzQmYzQTVSZkZoYmY5eWVUVWxhR1FFTk1FVUpWYzhSM1czMy1meXVxU1pncVNtR3BsUUM4WU5fSUpsQ1BYOGMwcjZhZmhzZ1JZTnM5NEdDN2F0TVMyZnNQVHFuWW5XZmlOc1ZfWlVzaTV3RXlvcUNkSHZTTkdYekpqR1ZWaXJzaUdxVm9JOXRLaFVVR1dJUkkwUHo?oc=5",
-      "pub_date": 1787583180.0,
-      "article_url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYkQ1ME5Fa3QwUnhOblp1eFBjV3lKY0VCeTBJY0xON2FONUh4bXd5RkxxRWJiQl9JUGVndXpuVnhONnFhbjZCMlhUSE5YcTZVZHBZdXpkTnY4VFpZRWdMWVctbENXelkybkxtSjBYUGxjZ01uWnlMaElXdWYybGVHRUhaVjFhc2tfVTREblcta0ZNWl9tT0Voc2RsQWNQRUhHcUNFdkxDNzdQMzZEYVlNNGVpc09mbllNN19za0plVzd6dw?oc=5",
-      "pub_date": 1787589705.0,
-      "article_url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-      "description": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
     },
     {
       "headline": "The AI-related reason every billionaire suddenly wants to own a sports team",
@@ -85,26 +95,16 @@
       "description": "The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights."
     },
     {
-      "headline": "Why Silicon Valley\u2019s Vision of the AI Future Should Worry You",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHRHNEpJQ1FKak8yTmgzNWVYSXM5aF9IV3EzRFNJYjlOX3hkZTN0SlZtZEJ3TWNZOWFhWkozZlc4dWl0VVBQNEJJZnAtYkV4OTRTMUxfUU5qN1JqYkNBdnBfeU1YZWdKZVRORE1ma0Y2eXZkSV83MlZKSkNkcDkzdkJ1YnMtdjB1U041Y2RoVWVILV9fWFcw?oc=5",
-      "pub_date": 1787562004.0,
-      "article_url": "https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blted7642c8864c39bd/6a8ba9a1e2cd3a31a06dac37/Vision-of-future.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
-      "description": "Tech leaders\u2019 beliefs about the future, known as their \u2018eschatology,\u2019 are shaping how AI is being developed behind closed doors, argues Liz Bucar."
-    },
-    {
-      "headline": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
-      "source": "SiliconANGLE",
-      "source_url": "https://siliconangle.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWZtcUlhWERpNngwakw3aFFsMlM2MzVwYVJoU1p1a0RJdWt3WG5QVDAyNVdRaFAzenVUVl9uYWlaMVlwdDAtRFU4OW11RF9YSmFlQ1ZUUFlpWmFGZk1PRjZCYkpTcnI1RlNVZjVvLXg4bXRBZGt5X1lUVXBzQ21jdUNqTmpfMVZpbGVkMVJDOE9pcTZ6ZkZzNUptSGRfTzZ3WEhVOGRTdEFBb2M?oc=5",
-      "pub_date": 1787524620.0,
-      "article_url": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/oxalpha.png",
-      "description": "Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE"
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787604840.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T21:29:15.747784+00:00"
+  "fetched_at": "2026-08-24T22:54:16.800406+00:00"
 }

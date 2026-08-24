@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T22:26:15.397111+00:00'
+updated: '2026-08-24T22:54:17.934639+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 22:26 UTC  
+**Last Updated:** August 24, 2026 at 22:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 9h ago
+🔗 [Rauno](https://rauno.ai) • 10h ago
 
 ---
 
@@ -65,21 +65,13 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 3h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 4h ago
 
 ---
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
 1d ago
-
----
-
-**[Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor](https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/)**
-
-CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
-
-8h ago
 
 ---
 
@@ -91,19 +83,27 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 ---
 
-**[I asked an AI version of myself a question I never answered, then asked it something it had no way to know](https://www.reddit.com/r/artificial/comments/1vxg08w/i_asked_an_ai_version_of_myself_a_question_i/)**
+**[Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor](https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/)**
 
-I built EchoVault, an app that interviews you about your life and turns the answers into an avatar your family can talk to after you die. In the clip I ask it the meaning of life, which I never covered in any session. It builds an answer out of separate conversations about my values. Then I ask my grandfather’s middle name and it stops. It doesn’t know, because I never told it, so it says so. Everyone in this category is chasing a convincing likeness. A convincing likeness that answers everything is a machine for inventing memories, and the person on the other end is grieving and can’t check. I shipped this architecture with the webapp in June 2025 and the rest of the category has since converged on it. The iOS app is out now. Text tier is free and unlimited, no card. https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028
+CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
-1h ago
+9h ago
 
 ---
 
-**[I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.](https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/)**
+**[Plato’s Cave has a problem: telling someone they’re seeing shadows just puts another shadow on the wall](https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/)**
 
-I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
+Plato’s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, “Those are only shadows,” what did you just give them? Another shadow. 😂 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you’re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow “escapes the Cave.” Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn’t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato’s problem. We’re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is.
 
-2h ago
+4h ago
+
+---
+
+**[Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?](https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/)**
+
+As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
+
+8h ago
 
 ---
 
@@ -119,6 +119,12 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 ## Google News: "ai"
 
+**[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
+
+The New York Times • 8h ago
+
+---
+
 **[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
@@ -127,41 +133,47 @@ CNBC • 7h ago
 
 ---
 
-**[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
+**[NVIDIA is the benchmark for AI builds, strategist says](https://www.foxnews.com/video/6403978982112)**
 
-The New York Times • 8h ago
+Baird managing director and tech strategist Ted Mortonson discusses upcoming NVIDIA earnings on 'Making Money.'
 
----
-
-**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
-
-Axios • 1h ago
+Fox News • 1h ago
 
 ---
 
-**[NVent Seeks Bigger Piece of AI Boom With $1.75 Billion Deal](https://www.bloomberg.com/news/articles/2026-08-24/nvent-seeks-bigger-piece-of-ai-boom-with-1-75-billion-deal)**
+**[Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks](https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks)**
 
-Bloomberg.com • 1h ago
+Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ...
 
----
-
-**[Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers](https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers)**
-
-PBS • 2h ago
+The Information • 14m ago
 
 ---
 
-**[Taiwan Charges Nine in Connection With Smuggling of AI Servers to China](https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47)**
+**[Discovery of 'thousands' of AI-generated child pornography images leads to man's arrest in Humble, Pct. 1 says](https://abc13.com/post/discovery-thousands-ai-generated-child-pornography-images-leads-mans-arrest-humble-pct-1-says/19728054/)**
 
-WSJ • 7h ago
+Deputies said "thousands of AI-generated images of child pornography" were found on a computer and hard drive at the man's home.
+
+ABC13 Houston • 3h ago
 
 ---
 
-**[Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China](https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/)**
+**[Humble man accused of having thousands of AI-generated child pornography images](https://www.khou.com/article/news/local/houston-humble-ai-generated-child-pornography-charge/285-2527322c-110c-469f-bb19-85622c1fa386)**
 
-Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.
+KHOU • 18m ago
 
-Ars Technica • 5h ago
+---
+
+**[Houston-area man arrested for thousands of AI-generated child pornography](https://www.fox26houston.com/news/houston-area-man-arrested-thousands-ai-generated-child-pornography)**
+
+A Houston-area man was arrested after detectives found what they describe as thousands of images of AI-generated child pornography at his home, according to authorities.
+
+FOX 26 Houston • 59m ago
+
+---
+
+**[Data centers’ ‘oh s--t’ moment](https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465)**
+
+Politico • 13h ago
 
 ---
 
@@ -173,19 +185,9 @@ CNN • 13h ago
 
 ---
 
-**[Why Silicon Valley’s Vision of the AI Future Should Worry You](https://time.com/article/2026/08/24/silicon-valley-vision-of-the-ai-future-should-worry-you/)**
+**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Tech leaders’ beliefs about the future, known as their ‘eschatology,’ are shaping how AI is being developed behind closed doors, argues Liz Bucar.
-
-Time Magazine • 13h ago
-
----
-
-**[Nobody knows who built AI coding model Ox Alpha or where the code goes](https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/)**
-
-Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
-
-SiliconANGLE • 23h ago
+Axios • 2h ago
 
 ---
 
@@ -197,7 +199,7 @@ SiliconANGLE • 23h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 752 • 💬 662 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 758 • 💬 664 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -205,7 +207,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 677 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
+⬆️ 678 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -213,7 +215,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 353 • 💬 373 • 6h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 398 • 💬 409 • 7h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -221,7 +223,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 325 • 💬 69 • 23h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 331 • 💬 69 • 23h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -229,7 +231,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 171 • 💬 83 • 15h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 177 • 💬 91 • 16h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -237,13 +239,21 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
-⬆️ 137 • 💬 45 • 1d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+⬆️ 139 • 💬 45 • 1d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
 
 ---
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 77 • 💬 94 • 12h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 80 • 💬 95 • 13h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+
+---
+
+**[AI and Infrastructure Engineering](https://news.ycombinator.com/item?id=49411024)**
+
+How I actually use AI in day-to-day infrastructure work, and why I think it's the next layer of abstraction rather than a replacement for the engineer - the same way Kubernetes was for Ansible.
+
+⬆️ 70 • 💬 38 • 1d ago • [Omegion](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
 
 ---
 
@@ -263,14 +273,6 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 ---
 
-**[Embedded AI](https://news.ycombinator.com/item?id=49397947)**
-
-A project-driven guide to designing, training, and deploying artificial intelligence directly on embedded hardware, showing how to build intelligent, autonomous systems under real-world constraints.
-
-⬆️ 39 • 💬 9 • 2d ago • [nostarch.com](https://nostarch.com/embedded-ai)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -281,7 +283,7 @@ The future isn't Tomorrow—it's already here Today. These Days AI-powered human
 
 📺 ejunky66
 
-👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 2h ago
+👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 3h ago
 
 ---
 
@@ -301,7 +303,7 @@ If you want to skip the hassle of researching, buying, and building a gaming PC 
 
 📺 ShortCircuit
 
-👁️ 7K • 👍 515 • 💬 57 • ⏱️ 13:43 • 2h ago
+👁️ 7K • 👍 515 • 💬 57 • ⏱️ 13:43 • 3h ago
 
 ---
 
@@ -329,7 +331,7 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 The Shed Podcast
 
-👁️ 643 • 👍 25 • 💬 1 • ⏱️ 1:44 • 3h ago
+👁️ 643 • 👍 25 • 💬 1 • ⏱️ 1:44 • 4h ago
 
 ---
 
@@ -409,7 +411,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,023 • 12h ago
+⬇️ 57,947 • ❤️ 1,023 • 13h ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 688 • 4h ago
+⬇️ 312,627 • ❤️ 688 • 5h ago
 
 ---
 
@@ -646,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.9k • 🔱 2.1k • 1h ago
+⭐ 17.9k • 🔱 2.1k • 2h ago
 
 ---
 
@@ -656,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 3h ago
+⭐ 14.2k • 🔱 1.7k • 4h ago
 
 ---
 
@@ -706,7 +708,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 311 • 1h ago
+⭐ 2.6k • 🔱 311 • 2h ago
 
 ---
 
@@ -726,7 +728,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 119 • 5h ago
+⭐ 2.2k • 🔱 119 • 6h ago
 
 ---
 

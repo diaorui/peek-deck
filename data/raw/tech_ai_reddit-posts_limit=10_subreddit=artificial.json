@@ -57,17 +57,6 @@
       "description": null
     },
     {
-      "title": "Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/",
-      "published": 1787578375.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, \"we already told investors\" beats \"we left it out.\" Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central \"AI safety\" already is to its brand?"
-    },
-    {
       "title": "Explore any moment in history as a short, visual documentary made around your curiosity",
       "author": "Goldenchild123",
       "url": "https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/",
@@ -79,26 +68,37 @@
       "description": "A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef"
     },
     {
-      "title": "I asked an AI version of myself a question I never answered, then asked it something it had no way to know",
-      "author": "Emojinapp",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxg08w/i_asked_an_ai_version_of_myself_a_question_i/",
-      "published": 1787606659.0,
-      "thumbnail": "https://external-preview.redd.it/d293OWs5bmMyZWxoMXm4BjgXOOIu60oIavNB0814lknEwrdLiIajONUchNLU.jpeg?width=640&crop=smart&auto=webp&s=1afb80915812a193c5f24c99fa8fcdaf1339022a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I built EchoVault, an app that interviews you about your life and turns the answers into an avatar your family can talk to after you die. In the clip I ask it the meaning of life, which I never covered in any session. It builds an answer out of separate conversations about my values. Then I ask my grandfather\u2019s middle name and it stops. It doesn\u2019t know, because I never told it, so it says so. Everyone in this category is chasing a convincing likeness. A convincing likeness that answers everything is a machine for inventing memories, and the person on the other end is grieving and can\u2019t check. I shipped this architecture with the webapp in June 2025 and the rest of the category has since converged on it. The iOS app is out now. Text tier is free and unlimited, no card. https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028"
-    },
-    {
-      "title": "I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.",
-      "author": "jonathancheckwise",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/",
-      "published": 1787602397.0,
+      "title": "Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/",
+      "published": 1787578375.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the \"proof\" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the \"smartest\" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - \"The model cited it\" and \"the source exists\" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live \"AI fact-checker\" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)"
+      "description": "CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, \"we already told investors\" beats \"we left it out.\" Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central \"AI safety\" already is to its brand?"
+    },
+    {
+      "title": "Plato\u2019s Cave has a problem: telling someone they\u2019re seeing shadows just puts another shadow on the wall",
+      "author": "mb3rtheflame",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/",
+      "published": 1787594168.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Plato\u2019s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, \u201cThose are only shadows,\u201d what did you just give them? Another shadow. \ud83d\ude02 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you\u2019re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow \u201cescapes the Cave.\u201d Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn\u2019t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato\u2019s problem. We\u2019re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is."
+    },
+    {
+      "title": "Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?",
+      "author": "Livelandrrr",
+      "url": "https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/",
+      "published": 1787582529.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?"
     },
     {
       "title": "A new approach to building smarter more capable AI",
@@ -112,5 +112,5 @@
       "description": "A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level"
     }
   ],
-  "fetched_at": "2026-08-24T21:28:51.099397+00:00"
+  "fetched_at": "2026-08-24T22:53:52.167153+00:00"
 }
