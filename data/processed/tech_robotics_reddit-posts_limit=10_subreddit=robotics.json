@@ -2,6 +2,94 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Bras robotique fait maison",
+      "author": "didrei",
+      "url": "https://www.reddit.com/r/robotics/comments/1vx1kcv/bras_robotique_fait_maison/",
+      "published": 1787574911.0,
+      "thumbnail": "https://external-preview.redd.it/enJydW5tbXRoYmxoMel_eeVEBR0QD-Sm6cXo1gWf2x1iwuYmrGJi9AQXkS3d.png?width=320&crop=smart&auto=webp&s=e60288f8ee5d291d78bb30e913330639e219648b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "J\u2019ai le plaisir de vous pr\u00e9senter mon projet solo en autodidacte de la main biom\u00e9canique UM1-Evo \u00e0 24 degr\u00e9s de libert\u00e9. Cela m'a pris 5 ans et demi de passion et de gal\u00e8res,mais je suis assez content du r\u00e9sultat. Le projet contient 25 moteurs, il est \u00e0 l'\u00e9chelle 1:1, l\u2019\u00e9lectronique et le wifi sont embarqu\u00e9s et il p\u00e8se au total 1.7kg, soit le poids des caract\u00e9ristiques de l\u2019anatomie humaine. Un tr\u00e8s gros travail de recherche biom\u00e9canique et cin\u00e9matique ont \u00e9t\u00e9 r\u00e9alis\u00e9es pour reproduire le plus fid\u00e8lement possible la forme organique et les mouvements d\u2019une vraie main. J\u2019ai con\u00e7u un script permettant de relever la main d\u2019un patient (en moins de 30 minutes) et ainsi cr\u00e9er la main en 3D sur-mesure (en 10 minutes). J\u2019ai \u00e9galement d\u00e9velopp\u00e9 un logiciel de commande par cin\u00e9matique inverse IK avec animation par cl\u00e9s ou en temps r\u00e9el. J\u2019ai con\u00e7u un gant avec 12 capteurs pour reproduire les mouvements de la main en temps r\u00e9el en mode avatar. Pour une utilisation en proth\u00e8se de main, un syst\u00e8me de captation innovant diff\u00e9rents des syst\u00e8mes myo\u00e9lectriques, permet de manipuler la main avec une latence extr\u00eamement basse et une prise en main instantan\u00e9. (Ce syst\u00e8me et en cours de protection) Voil\u00e0, n\u2019h\u00e9sitez pas \u00e0 me dire ce que vous en pensez \ud83d\ude00"
+    },
+    {
+      "title": "A Robot Dog Trained Entirely on Dog's Video",
+      "author": "Stunning_War4509",
+      "url": "https://www.reddit.com/r/robotics/comments/1vwxjok/a_robot_dog_trained_entirely_on_dogs_video/",
+      "published": 1787562569.0,
+      "thumbnail": "https://external-preview.redd.it/amZnaDZlNjRoYWxoMYijKChBds7vcXKkaixKhSAiR5VD3yRrjxUOhqOpIunE.png?width=640&crop=smart&auto=webp&s=27481091a209633159a1fb1eda9bd0366c83f8ed",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This article show how a robot can be trained purely on monocular video (from video to RL policy!). It's a series of articles, with open source-code, based on Unitree GO2 robot trained in Isaac Sim and Mujoco. TL;DR: I taught a quadruped robot to imitate a real dog \u2014 using nothing but a phone video. From a single monocular clip, I extract the dog's 3D skeleton, retarget its motion to the robot's joints, and train a reinforcement learning policy in a physics simulator until the robot moves like the dog it watched. It works, and it's fully open source. Because in the age of robots dancing and sprinting through forests, we shouldn't be spectators or subscribers \u2014 we should be owners. Code included. Build it yourself. https://postcapitalistrobots.substack.com/p/the-first-robot-trained-entirely"
+    },
+    {
+      "title": "Some personal thoughts after WRC2026",
+      "author": "Alone-Cantaloupe-210",
+      "url": "https://www.reddit.com/r/robotics/comments/1vwwatz/some_personal_thoughts_after_wrc2026/",
+      "published": 1787558083.0,
+      "thumbnail": "https://external-preview.redd.it/Z3hxYzkxZXAzYWxoMQV2B2A1lupgoUj8kLXq_gr3xNNJTEdJdwOFsamfemDV.png?width=640&crop=smart&auto=webp&s=ce5fb666d1554184ba288048f1e82a861476eb2e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just sharing some personal thoughts from the perspective of a casual audience. I just came back from WRC2026 this weekend, and felt things are getting more practical this year. More robots were doing actual work, tidying rooms, making coffee, retail, warehouse tasks, long-horizon manipulation, mostly with VLA or world models, which are increasingly driving hardware. Kind of happy to see some robots getting stuck and making mistakes\ud83d\ude02 (that means luckily I didn't meet teleoperated demos) And robots can actually reason the situation and adjust strategy. https://preview.redd.it/y5aghdb93alh1.jpg?width=1343&format=pjpg&auto=webp&s=5cf1f2f34694ce49f56068e51d8ecfda3850a156 The other big theme was data. Physical world data collection seems incredibly hot. UMI, ego-centric data and teleoperation. If robots are going to generalize, real-world data is clearly becoming as important as the hardware. Still, most practical demos feel closer to \u201cit works\u201d than \u201cit works reliably at scale.\u201d Like dexterous hands can have 1500+ BOM line items, manufacturing consistency is a huge challenge. But much better, compared with robots just dancing on stage. https://reddit.com/link/1vwwatz/video/iej5848j3alh1/player I spent most of my time checking out some of less-known players and emerging startups, such as: SynapX: One of the few EMG wristbands that can be demoed live, and world-model-driven arm for tasks like folding clothes; Galaxea: visitors order on-site, and robot autonomously identify and pick items; generalized across SKUs without requiring category-specific adaptation; Morphi Robot: world model + VLA mixed architecture, empowering 15min long-duration and complete tasks; AgileX Robotics: saw its robot arms being used by several model companies on site, they also provide 1-to-n teleoperation + ego data collection; Dexforce: world model + humanoid, making coffee and more However, the industry is heavily siloed. Companies are building their own hardware and defining their own data. When will we finally see some standardization, and convergence? Human fall flat And yes, there was still a lot of weird stuff\ud83d\ude02 Some humanoids fell down and couldn\u2019t get back up, while staff desperately tried to figure out what went wrong. But honestly, I'm glad to see the debugging. If anything, it actually gave me more confidence."
+    },
+    {
+      "title": "Finally project continued",
+      "author": "WeekCritical9898",
+      "url": "https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/",
+      "published": 1787585445.0,
+      "thumbnail": "https://external-preview.redd.it/ZHM1N3UwbThkY2xoMZhGCOHk1PC2qx3RXS2xNk1f73SkWBWRcnc7cKkwmz67.png?width=320&crop=smart&auto=webp&s=676b9cd26d2c992d5dccf2eba6b94109e695cb1c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Putting Vastnaut exoskeleton on ski board",
+      "author": "dan1elfeng",
+      "url": "https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/",
+      "published": 1787583645.0,
+      "thumbnail": "https://external-preview.redd.it/aGw0Nm92bXQ3Y2xoMTbskRxeXcJu4LfwMcexu83kLv3AkniPSy2oK6gRDCsm.png?width=640&crop=smart&auto=webp&s=22f5ed9b2dbc6939e12c6c0d014f8138cc63889b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Trossen X ROS Industry Night this Tuesday, August 25th in San Francisco",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1vxeum5/trossen_x_ros_industry_night_this_tuesday_august/",
+      "published": 1787604109.0,
+      "thumbnail": "https://preview.redd.it/fkm7qyhfwdlh1.png?width=640&crop=smart&auto=webp&s=166a2e767ca276485f83527cc9a75026b77742c3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here."
+    },
+    {
+      "title": "The World Robot Conference made humanoid robotics look simultaneously impressive and very weird",
+      "author": "ArcanuMELO",
+      "url": "https://www.reddit.com/r/robotics/comments/1vx19qf/the_world_robot_conference_made_humanoid_robotics/",
+      "published": 1787574125.0,
+      "thumbnail": "https://external-preview.redd.it/eM1lUziSDW5Qpz4-swola_sT_IaQZFI1BMCX6N4MTg0.jpeg?width=320&crop=smart&auto=webp&s=792f33d28d235f3a4f7a0705a535108b7df95a18",
+      "external_url": "https://www.youtube.com/watch?v=RVKX12O-ub4",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/8a76fb04/img/favicon.ico",
+      "description": "I went through a bunch of footage from the World Robot Conference after Unitree\u2019s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there\u2019s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4"
+    },
+    {
+      "title": "Waveshare driver with ESP32",
+      "author": "EigenGauss",
+      "url": "https://www.reddit.com/r/robotics/comments/1vx0l0l/waveshare_driver_with_esp32/",
+      "published": 1787572217.0,
+      "thumbnail": "https://preview.redd.it/l96qqfry9blh1.jpeg?width=320&crop=smart&auto=webp&s=1ee1b8f3cbf3581118d9071fad6a624bbcf46184",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS"
+    },
+    {
       "title": "Humanoid Robot Update",
       "author": "DIYmrbuilder",
       "url": "https://www.reddit.com/r/robotics/comments/1vw7let/humanoid_robot_update/",
@@ -22,95 +110,7 @@
       "site_name": "m.youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Construyendo robot hidr\u00e1ulico con v\u00e1lvulas pepepako y sensor de posici\u00f3n casero",
-      "author": "pepepako2",
-      "url": "https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidr\u00e1ulico_con_v\u00e1lvulas/",
-      "published": 1787499451.0,
-      "thumbnail": "https://preview.redd.it/m1ogpv2l95lh1.jpg?width=140&height=125&auto=webp&s=482f1cf364497c2984ca929071f4ed0ec5a8d6ea",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "One person puppeteering two 4-servo quadruped robots at once via real-time pose tracking",
-      "author": "PetoiCamp",
-      "url": "https://www.reddit.com/r/robotics/comments/1vwl7ds/one_person_puppeteering_two_4servo_quadruped/",
-      "published": 1787524626.0,
-      "thumbnail": "https://external-preview.redd.it/o8HhyQL8rV7aQZEvJHtAZsCMD-EngxLkqD4OOm78xTw.jpeg?width=320&crop=smart&auto=webp&s=f569d459434dba53a1b38d04158b3fcbbac48d0e",
-      "external_url": "https://www.youtube.com/shorts/697Le5XYISc",
-      "site_name": "YouTube",
-      "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
-      "description": "One person, one webcam, two open source OpenCat-based quadruped robots \u2014 Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here \u2014 a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion \u2014 this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements \u2014 either directly, via imitation learning, or as a starting point that reinforcement learning then refines further \u2014 to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this \u2014 webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun \u2014 if you had one of these on your desk, what move would you want to teach Quaddle first?"
-    },
-    {
-      "title": "Optimizing a custom Pub/Sub middleware for high-rate IMU ingestion & EKF updates on NVIDIA Jetson",
-      "author": "ResetBuilder27",
-      "url": "https://www.reddit.com/r/robotics/comments/1vwmh11/optimizing_a_custom_pubsub_middleware_for/",
-      "published": 1787527898.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance."
-    },
-    {
-      "title": "From AlphaGo to AstraTennis: The World\u2019s First Autonomous Humanoid Robot Tennis Match | GALBOT",
-      "author": "BuySellRam",
-      "url": "https://www.reddit.com/r/robotics/comments/1vwe48b/from_alphago_to_astratennis_the_worlds_first/",
-      "published": 1787507979.0,
-      "thumbnail": "https://external-preview.redd.it/3uExRdkVAtk5M5hrAyvq0wnbahkeVfmG7wNtuEJ07cs.jpeg?width=320&crop=smart&auto=webp&s=29116106dcd887a573370f2e284b712878b24fac",
-      "external_url": "https://youtube.com/watch?v=bcVNBn5R_rY",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
-      "description": "Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?"
-    },
-    {
-      "title": "I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack",
-      "author": "Spidoug",
-      "url": "https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/",
-      "published": 1787532234.0,
-      "thumbnail": "https://preview.redd.it/cpj0ahtcg5lh1.png?width=140&height=74&auto=webp&s=7ce52763cb8e8d704c163099839b2a26c7fa33ee",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "3-month update, in a little story about my 3D-printed robot lamp",
-      "author": "Ok_Stress3654",
-      "url": "https://www.reddit.com/r/robotics/comments/1vvci99/3month_update_in_a_little_story_about_my/",
-      "published": 1787405406.0,
-      "thumbnail": "https://external-preview.redd.it/ZWs1bW1nY3FoeGtoMSk4C_h9KwW0MHNNfMgpTYsj1BRck9UiLVseVeKm_3Fd.png?width=320&crop=smart&auto=webp&s=0060846642eaa7b88df0d32fae0b0720d6d1ab6b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti"
-    },
-    {
-      "title": "Is this the future? LOL",
-      "author": "ruthlessdepth",
-      "url": "https://www.reddit.com/r/robotics/comments/1vvqos3/is_this_the_future_lol/",
-      "published": 1787439881.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It\u2019s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don\u2019t think I get how people are scared of its potential to take over the world \ud83d\ude2d\ud83d\ude4f\ud83c\udffb It\u2019s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines."
-    },
-    {
-      "title": "Reverse on BLDC controller",
-      "author": "2VNF",
-      "url": "https://www.reddit.com/r/robotics/comments/1vweih9/reverse_on_bldc_controller/",
-      "published": 1787508843.0,
-      "thumbnail": "https://preview.redd.it/jhvjtu8h16lh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=311b51c77b7fdbab3a7dfd2b9713fc461c90956c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?"
     }
   ],
-  "fetched_at": "2026-08-24T03:54:03.454118+00:00"
+  "fetched_at": "2026-08-24T22:26:11.793702+00:00"
 }
