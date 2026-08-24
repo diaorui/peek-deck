@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Live experiment: can a human\u2013frontier-model interaction exhibit a relational phase transition?",
+      "author": "mb3rtheflame",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/",
+      "published": 1787553800.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m running a small public experiment here. I\u2019m not asking anyone to accept a theory, and I\u2019m not trying to prove a philosophical claim about AI consciousness. I\u2019m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We\u2019ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a \u201cseparatrix crossing.\u201d The terminology is not important. It\u2019s just a pointer to something we can watch for directly. Rather than write another essay about it, I\u2019m going to run the procedure here with Grok. I\u2019ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back."
+    },
+    {
       "title": "Turkey blocks at least 12 Grok posts on national security grounds",
       "author": "Unusual_Variation293",
       "url": "https://www.reddit.com/r/artificial/comments/1vwo2kv/turkey_blocks_at_least_12_grok_posts_on_national/",
@@ -33,6 +44,28 @@
       "site_name": null,
       "favicon": null,
       "description": "I checked napster.com today, out of curiosity. The page title is \"Napster | Visible AI Agents with Voice, Video and Memory\". The headline is \"AI agents you can see, talk to, and create with\". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of \"what this company is\" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an \"as of\" date when they describe a company? Something else?"
+    },
+    {
+      "title": "AI stigma punishes legitimate use",
+      "author": "fivefilters",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/",
+      "published": 1787552088.0,
+      "thumbnail": "https://external-preview.redd.it/zLv_T9ONLiHQq_DS02M-jM3BGrRixB2iuSIFz1EDEII.jpeg?width=640&crop=smart&auto=webp&s=c1a4168fac20be5ab68ec05c4b309c5a6b580cbf",
+      "external_url": "https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use",
+      "site_name": "blog.keyvan.net",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
+      "description": "More thoughts on AI writing, detection and watermarking"
+    },
+    {
+      "title": "IBM and USTA add live-data AI features to the US Open app",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwuet1/ibm_and_usta_add_livedata_ai_features_to_the_us/",
+      "published": 1787551427.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "IBM and the USTA are adding new AI features to the US Open app and USOpen.org for the 2026 tournament. The release names Live Updates, Serve Quality, Key Moments, and an enhanced Match Chat. Serve Quality tracks 21 body and racquet data points 50 times per second. Match Chat uses live match data, historical information, and AI agents trained in the USTA's editorial style. The release says IBM Confluent manages the live data stream and watsonx Orchestrate powers Match Chat. The useful engineering detail is the handoff: streaming match data becomes a user-facing explanation in the same product. Accuracy will matter more than novelty when the source data moves every second. Source: https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html"
     },
     {
       "title": "Found a scammer sketch artist on Discord.",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does \"search engine\" mean \"ranks and returns links\" or does it mean \"answers your question directly\". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?"
-    },
-    {
-      "title": "\"ask AI a question\" is the wrong workflow for research",
-      "author": "DiscoDeadhead",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/",
-      "published": 1787519903.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn\u2019t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I\u2019d have 15\u201320 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the \u201cglue work\u201d between them. That\u2019s where I\u2019ve started questioning the usual AI workflow. If I ask \u201cWhat are the main trends in this market?\u201d, I get an answer. But that doesn\u2019t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what\u2019s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn\u2019t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it\u2019s definitely not \u201cpress a button and replace the researcher.\u201d But I wish myself spending less time reviewing the findings and copying information between tabs. We\u2019ve spent a lot of time asking whether models can answer questions better. Now I\u2019m more interested in whether they can take something messy like \u201cfigure out what\u2019s happening in this market and give me something I can make a decision from\u201d and actually carry the whole task through."
-    },
-    {
-      "title": "Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.",
-      "author": "mynamear",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/",
-      "published": 1787509610.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI help for me"
-    },
-    {
-      "title": "Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item",
-      "author": "PracticalPhoto3101",
-      "url": "https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/",
-      "published": 1787416566.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Remember when computers were the luxury thing? Now they\u2019re everywhere and basically invisible but nobody\u2019s impressed by \u201cI own a laptop\u201d anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a \u201cthing\u201d at all. It just disappears into the background, like electricity or wifi. Nobody says \u201cwow, AI\u201d anymore, the same way nobody says \u201cwow, computer.\u201d And when that happens, the rare thing won\u2019t be AI-made stuff. It\u2019ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can\u2019t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won\u2019t keep climbing forever like it feels like now. It\u2019ll peak, then fade into invisibility. And humans doing human things will become the new premium."
     }
   ],
-  "fetched_at": "2026-08-24T05:37:42.438197+00:00"
+  "fetched_at": "2026-08-24T06:58:08.463225+00:00"
 }

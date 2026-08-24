@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Is there a pending AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5",
+      "pub_date": 1787493660.0,
+      "article_url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "image": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4751d5c0d2f4d31b7a7fd52e32f6800f",
+      "description": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable"
+    },
+    {
       "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -15,42 +25,32 @@
       "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients"
     },
     {
-      "headline": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
-      "source": "SiliconANGLE",
-      "source_url": "https://siliconangle.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWZtcUlhWERpNngwakw3aFFsMlM2MzVwYVJoU1p1a0RJdWt3WG5QVDAyNVdRaFAzenVUVl9uYWlaMVlwdDAtRFU4OW11RF9YSmFlQ1ZUUFlpWmFGZk1PRjZCYkpTcnI1RlNVZjVvLXg4bXRBZGt5X1lUVXBzQ21jdUNqTmpfMVZpbGVkMVJDOE9pcTZ6ZkZzNUptSGRfTzZ3WEhVOGRTdEFBb2M?oc=5",
-      "pub_date": 1787524620.0,
-      "article_url": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/oxalpha.png",
-      "description": "Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE"
-    },
-    {
-      "headline": "Fund manager lists four of his best-value unloved stocks to swerve the AI hype",
+      "headline": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KeXROUEd2cFF4R3R4QzVKNk9LTnNKb3hIV1NxWm9ydXBjOTB4cHc1cWVnV09DTkhPT09lUXJVelZ1Zl9NM2Q3c19sN0VwaTZidkEyNzNDSmdqeklseEUxcXg2VS1xeWdHb2Q3OXo0d2xfRGpMd1JDREI4OTk?oc=5",
-      "pub_date": 1787547601.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/fund-manager-unloved-stocks-ai-hype.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352493-1787276172889-gettyimages-2243245692-JAPAN_STOCKS.jpeg?v=1787276188&w=1920&h=1080",
-      "description": "From consumer brands to Asian tech, Ranmore Fund Management's Sean Peche shares some of his top unloved stock picks."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWx2bjdlbm9MOENxMjZON0djNk1XMkg2c252QUZ2UkUycTlON2x2SmhaQ1B3QmZkbHZWQ0QwXzhnem5BS2xPU0V6V2QyTFZJU1hoY0RwLVpwR0FvQ0tQdW5VcC0tajhiNE5iV19VTmVjM0xtLVJtTWJOLUE1MU5EQdIBhgFBVV95cUxPT0EzV056aThwc3ltX1E5Z1ZxcGlxVzdOZTF0ZEVhbHZBbU1HYXZVdnhXQzhkakdyVHFVam5KUktndFdmLXRkRUJTZnMxOGZoemJPRlZmU0wzdjNNTzNRWGIyRjZVcGtvVERKazB2NzRlWUtSbUs4LTA4dlJaYV9jMmt2ejV4dw?oc=5",
+      "pub_date": 1787551237.0,
+      "article_url": "https://www.cnbc.com/2026/08/24/cnbc-daily-open-ai-iran-economic-d-day.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108265736-1771007638830-gettyimages-2260760668-boivin-notitle260212_npazO.jpeg?v=1775638137&w=1920&h=1080",
+      "description": "The two forces of AI spending and geopolitical tensions compete for the role of key market driver in early trade."
     },
     {
-      "headline": "Southampton AI uncovers hidden clues in breast cancer",
+      "headline": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTzgtNXA4VTEtYmwtLUh2MVdYd095VUhyUGllTTBVWTVyZUI0VWpvZTFDeGV3VXdKMDRmWGlFVHBZT3E1S2FnUm8tV2hxdlE1NjA4elUtVzhMUQ?oc=5",
-      "pub_date": 1787547490.0,
-      "article_url": "https://www.bbc.com/news/articles/cq56x317pq0o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6a67/live/b373e7e0-9b2c-11f1-9a2c-6d6ac3827d20.jpg",
-      "description": "The findings could help doctors identify high-risk patients and develop more targeted treatments."
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14VVVXb0l1NUxsWW94cUVoZ1kzbHJZMGJVTS1pRGRxbXd5OG9pYW9KUGpyVUJnUFdBeDZzS3VaeTY2by16RkFVRVAyaTZrOFVYdDZhSzVzTWFGQQ?oc=5",
+      "pub_date": 1787548847.0,
+      "article_url": "https://www.bbc.com/news/articles/cq89jpjeq7ko",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
+      "description": "As artificial intelligence becomes part of our everyday lives, there are some railing against cheaply produced material they say is empty and puts real artists' jobs at risk."
     },
     {
-      "headline": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2c0cWtHZDQwWjQwWTFiZ1EtR21SUHVZOG84ZlNjSlBJLXRmQUdkRllnMTRrQllfU0ppQUVrYURMblVubXg3dWY2RzJ0RDdBOU9oOXluRFRwd3RLM3VIM0tRYXNvTVgzdlA3bTlGNjBvVmxHTUt3Ulp0a3RzYnJrbEowWTVLWDFzNWJBN0R6Q1dmRmVkdTd3dw?oc=5",
-      "pub_date": 1787548335.0,
-      "article_url": "https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8",
+      "headline": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+      "pub_date": 1787552700.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/",
       "image": null,
       "description": null
     },
@@ -59,7 +59,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlDZDZZSUMyTEhvZVdiMjJEMXRVT1FyMEJrN1dQbFNJdW9qV1RqY3had2lUX3RMeUg3aWl5TlMyd3FXeW5QelhvajlSTUplTUMxdzRTYnJPOGtTZXVxV3FYM3JYYUdmZW5BcU96OHNrX1k2eTZlbVVWMHdTcG02WTQ2Z1Y?oc=5",
-      "pub_date": 1787475667.0,
+      "pub_date": 1787498632.0,
       "article_url": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
       "image": null,
       "description": null
@@ -75,14 +75,14 @@
       "description": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work."
     },
     {
-      "headline": "Dr. Dre Says He Uses AI to Produce Songs",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RQlVDVXkxV2ctMEU2WEl0U2V2czRFYk5PcTFaYmp4ak0wSDBBb0xmTTFaOEk5alhJN1oxRDZxQjhKSjItMTVQNjdsZ2RLMy1IN1lQcnFQYUZhOFhsbnAzYlNtUlRuQWdBZ3RMaGsyX2FPTF9NSkdTaGdB?oc=5",
-      "pub_date": 1787519843.0,
-      "article_url": "https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009",
-      "image": null,
-      "description": null
+      "headline": "Dr. Dre Says the Only People Who See AI as a Threat Are Those \u2018Who Have Trouble Creating\u2019",
+      "source": "Variety",
+      "source_url": "https://variety.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXh5ZER2TjlRcXFpck9uZGhwS2s3YUZoM2pFMUpFcVVTRHJ5RTFpYmZoc25YYmoySWZ3THFvTGlsUC1TRE5Db3hrNG5HSElTc1A1VEg3S1p4N0hiUk1rdVhBWEd0SHNrVER0RHl3VjZsVVBoUmdJRjJkS3VfWnVRaXpQRlp3WERvV01DeEtYTTRPZms4Q0t4ZkdaQWFQWktmcE1GYw?oc=5",
+      "pub_date": 1787491200.0,
+      "article_url": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Dr-Dre.jpg?w=1000&h=563&crop=1",
+      "description": "Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'"
     },
     {
       "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Is there a pending AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5",
-      "pub_date": 1787493660.0,
-      "article_url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-      "image": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4751d5c0d2f4d31b7a7fd52e32f6800f",
-      "description": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable"
+      "headline": "Data-Center Disenchantment",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdUlfR3JuY2R6QzBnakZIaGhYbldoZlZrQVRUN1FPUGNLdGF5V1ZGeXFqLTFiMEc1Qi1KV2E5RUxBQnVzemQ5VWQtX29WTEI2MHVPLUIxSHFUZFpLdWh4MTVSZEFlWGpMX1AycXJhMTA?oc=5",
+      "pub_date": 1787496600.0,
+      "article_url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T05:38:02.594653+00:00"
+  "fetched_at": "2026-08-24T06:58:27.760158+00:00"
 }

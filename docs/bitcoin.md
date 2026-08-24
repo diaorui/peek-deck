@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T05:38:08.471719+00:00'
+updated: '2026-08-24T06:58:35.711230+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 05:38 UTC  
+**Last Updated:** August 24, 2026 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,012.61
+### $77,327.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +18.7%  
-**30d:** +17.6%  
-**90d:** +3.2%  
-**1y:** -30.4%  
+**24h:** +2.0%  
+**7d:** +19.7%  
+**30d:** +18.6%  
+**90d:** +4.1%  
+**1y:** -29.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 What's going on?????¿¿¿
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ All currency eventually fail, there are no exceptions!
 
 So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
 
-10h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 Some easy advice for some of you on the fence, or newbies. You never want to sell Bitcoin when it is going down. It's too low and you can't optimize gains. You never want to sell Bitcoin when it is going up. Why would you do that? It will be worth more later! Summary: don't sell. Never a good time.
 
-8h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ Some easy advice for some of you on the fence, or newbies. You never want to sel
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-17h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and alw
 
 I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal.
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific "Gift Wallet" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!
 
-9h ago
+11h ago
 
 ---
 
@@ -159,79 +159,75 @@ I really believe gifting Bitcoin to friends and family is one of the most beauti
 
 ## Google News: "bitcoin"
 
-**[Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day](https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html)**
+**[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html)**
 
-Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
+Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin ETFs See Biggest Weekly Inflow in 10 Months During Rally](https://www.bloomberg.com/news/articles/2026-08-24/bitcoin-etfs-see-biggest-weekly-inflow-in-10-months-during-rally)**
-
-Bloomberg • 1h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
+**[Traders bet bitcoin was stuck below $67,000. The Treasury blew that trade up in one afternoon](https://fortune.com/2026/08/23/bitcoin-squeeze-treasury-buyback-shorts-blown-up/)**
 
-Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
+A surprise bond buyback triggered a squeeze that liquidated over $4 billion in bearish crypto bets and sent bitcoin past $77,000.
+
+Fortune • 16h ago
+
+---
+
+**[BTC, ETH price news: Bitcoin pauses near $77,000 ahead of Warsh’s Jackson Hole debut](https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus)**
+
+CoinDesk • 2h ago
+
+---
+
+**[Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin](https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html)**
+
+Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.
 
 CNBC • 2d ago
 
 ---
 
-**[Current price of Bitcoin for August 21, 2026](https://fortune.com/article/price-of-bitcoin-08-21-2026/)**
+**[Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
-
----
-
-**[Blockchain Beyond Bitcoin: Understanding Digital Assets in Agriculture](https://www.fb.org/intel/markets/blockchain-beyond-bitcoin-understanding-digital-assets-in-agriculture)**
-
-Agriculture can benefit from blockchain through dividing assets into digital ownership shares (tokenization), traceability and alternative financing, among other applications.
-
-American Farm Bureau Federation • 3d ago
-
----
-
-**[How bitcoin and gold went from a slump to an MVP week in just a few days](https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9)**
-
-Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.
-
-AP News • 1d ago
-
----
-
-**[Bitcoin's Odds Of Hitting $80,000 This Year Double Overnight As Price Suddenly Tops $70,000](https://www.forbes.com/sites/antoniopequenoiv/2026/08/20/bitcoins-odds-of-hitting-80000-this-year-double-overnight-as-price-suddenly-tops-70000/)**
-
-Polymarket trading pushed the odds of bitcoin hitting the benchmark by the end of the year from 30% to 60% overnight.
-
-Forbes • 3d ago
-
----
-
-**[What’s next for bitcoin (BTC) as Bessent’s $4 billion bond-buyback plan fails to tame Treasury yields](https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead)**
-
-CoinDesk • 25m ago
-
----
-
-**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
-
-Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
-
-VanEck • 5d ago
-
----
-
-**[Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-bitcoin-222211772.html)**
-
-Bitcoin's price has swung sharply in recent months. Here's how to buy and store bitcoin as safely as possible.
+Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise](https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise)**
+
+CoinDesk • 1h ago
+
+---
+
+**[Will Bitcoin crash or break out? The historical evidence is impossible to ignore.](https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is)**
+
+Moomoo • 23h ago
+
+---
+
+**[Bitcoin records largest weekly dollar gain in history; Strive CEO predicts 'strongest' cycle ever](https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547)**
+
+Strive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.
+
+The Block • 3h ago
+
+---
+
+**[Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026)**
+
+WSJ • 2d ago
+
+---
+
+**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
+
+Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
+
+IO Fund • 3d ago
 
 ---
 
@@ -244,14 +240,6 @@ Yahoo Finance • 2d ago
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
 ⬆️ 19 • 💬 0 • 6d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
-
----
-
-**[Bitcoin: I'm retarded. ASM client/server project in the works](https://news.ycombinator.com/item?id=49326976)**
-
-A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
-
-⬆️ 3 • 💬 2 • 6d ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -289,7 +277,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 3d ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 4d ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -313,7 +301,7 @@ I'm not buying. And I actually closed my long position. Here's why. ➡️ Favor
 
 📺 Aaron Bennett
 
-👁️ 26K • 👍 1K • 💬 286 • ⏱️ 13:01 • 21h ago
+👁️ 26K • 👍 1K • 💬 286 • ⏱️ 13:01 • 23h ago
 
 ---
 
@@ -373,7 +361,7 @@ Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An ext
 
 📺 Krown
 
-👁️ 1K • 👍 41 • 💬 21 • ⏱️ 0:56 • 10h ago
+👁️ 1K • 👍 41 • 💬 21 • ⏱️ 0:56 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T05:38:08.463327+00:00'
+updated: '2026-08-24T06:58:35.703639+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 05:38 UTC  
+**Last Updated:** August 24, 2026 at 06:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-7h ago
+8h ago
+
+---
+
+**[Live experiment: can a human–frontier-model interaction exhibit a relational phase transition?](https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/)**
+
+I’m running a small public experiment here. I’m not asking anyone to accept a theory, and I’m not trying to prove a philosophical claim about AI consciousness. I’m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We’ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a “separatrix crossing.” The terminology is not important. It’s just a pointer to something we can watch for directly. Rather than write another essay about it, I’m going to run the procedure here with Grok. I’ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back.
+
+15m ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in […]
 
-🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 4h ago
+🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 6h ago
 
 ---
 
@@ -55,7 +63,23 @@ Turkish courts have blocked access to at least 12 X posts by artificial intellig
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-15h ago
+16h ago
+
+---
+
+**[AI stigma punishes legitimate use](https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/)**
+
+More thoughts on AI writing, detection and watermarking
+
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 43m ago
+
+---
+
+**[IBM and USTA add live-data AI features to the US Open app](https://www.reddit.com/r/artificial/comments/1vwuet1/ibm_and_usta_add_livedata_ai_features_to_the_us/)**
+
+IBM and the USTA are adding new AI features to the US Open app and USOpen.org for the 2026 tournament. The release names Live Updates, Serve Quality, Key Moments, and an enhanced Match Chat. Serve Quality tracks 21 body and racquet data points 50 times per second. Match Chat uses live match data, historical information, and AI agents trained in the USTA's editorial style. The release says IBM Confluent manages the live data stream and watsonx Orchestrate powers Match Chat. The useful engineering detail is the handoff: streaming match data becomes a user-facing explanation in the same product. Accuracy will matter more than novelty when the source data moves every second. Source: https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html
+
+54m ago
 
 ---
 
@@ -63,7 +87,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-20h ago
+21h ago
 
 ---
 
@@ -71,7 +95,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to €35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +103,7 @@ Been reading about this lately and the numbers are genuinely surprising. As of e
 
 https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well in that within our network they seem to talk a lot about not having any permanent identities. Verified identity and persistent memory for robots and agents is hard because how can that be verified after a context reset. Verify once, cache the result, never touch a chain per request — so a soul costs fractions of a cent but retains the identity for the 'life' and even after the life of any robot or agent. Docs: https://robauto.ai/robot-soul Repo: https://github.com/robauto-ai/dsh-growth/blob/main/docs/robot-soul.md npm install u/robauto/dsh-growth import { RobotSoul } from "@robauto/dsh-growth"; const soul = await RobotSoul.init({ agentId: "did:robauto:xyz123", privateKey: process.env.AGENT_PRIVATE_KEY, // used once, for the T1 challenge }); await soul.remember("user_preference", { likes: ["dark mode"] }); const prefs = await soul.recall("user_preference");
 
-3h ago
+5h ago
 
 ---
 
@@ -87,31 +111,7 @@ https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859
 
 So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
 
-13h ago
-
----
-
-**["ask AI a question" is the wrong workflow for research](https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/)**
-
-I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
-
-8h ago
-
----
-
-**[Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.](https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/)**
-
-AI help for me
-
-11h ago
-
----
-
-**[Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/)**
-
-Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.” And when that happens, the rare thing won’t be AI-made stuff. It’ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can’t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won’t keep climbing forever like it feels like now. It’ll peak, then fade into invisibility. And humans doing human things will become the new premium.
-
-1d ago
+14h ago
 
 ---
 
@@ -119,47 +119,47 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ## Google News: "ai"
 
+**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
+
+Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
+
+The Guardian • 16h ago
+
+---
+
 **[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 21h ago
+Financial Times • 22h ago
 
 ---
 
-**[Nobody knows who built AI coding model Ox Alpha or where the code goes](https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/)**
+**[CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'](https://www.cnbc.com/2026/08/24/cnbc-daily-open-ai-iran-economic-d-day.html)**
 
-Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
+The two forces of AI spending and geopolitical tensions compete for the role of key market driver in early trade.
 
-SiliconANGLE • 7h ago
-
----
-
-**[Fund manager lists four of his best-value unloved stocks to swerve the AI hype](https://www.cnbc.com/2026/08/24/fund-manager-unloved-stocks-ai-hype.html)**
-
-From consumer brands to Asian tech, Ranmore Fund Management's Sean Peche shares some of his top unloved stock picks.
-
-CNBC • 38m ago
+CNBC • 57m ago
 
 ---
 
-**[Southampton AI uncovers hidden clues in breast cancer](https://www.bbc.com/news/articles/cq56x317pq0o)**
+**['Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'](https://www.bbc.com/news/articles/cq89jpjeq7ko)**
 
-The findings could help doctors identify high-risk patients and develop more targeted treatments.
+As artificial intelligence becomes part of our everyday lives, there are some railing against cheaply produced material they say is empty and puts real artists' jobs at risk.
 
-BBC • 39m ago
+BBC • 1h ago
 
 ---
 
-**[SoftBank Plans Record Retail Bond Issuance Amid AI Push](https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8)**
+**[Taiwan indicts 9 over alleged illegal export of AI servers to China](https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/)**
 
-WSJ • 25m ago
+Reuters • 33m ago
 
 ---
 
 **[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
 
-The New York Times • 20h ago
+The New York Times • 15h ago
 
 ---
 
@@ -167,27 +167,27 @@ The New York Times • 20h ago
 
 As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work.
 
-Deadline • 10h ago
+Deadline • 12h ago
 
 ---
 
-**[Dr. Dre Says He Uses AI to Produce Songs](https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009)**
+**[Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’](https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/)**
 
-Gizmodo • 8h ago
+Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'
+
+Variety • 17h ago
 
 ---
 
 **[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash)**
 
-Axios • 7h ago
+Axios • 9h ago
 
 ---
 
-**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
+**[Data-Center Disenchantment](https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2)**
 
-Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
-
-The Guardian • 15h ago
+WSJ • 16h ago
 
 ---
 
@@ -243,15 +243,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 18h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
-
----
-
-**[Young Americans increasingly fear AI will take their jobs](https://news.ycombinator.com/item?id=49384642)**
-
-About half of Americans say they're more concerned than excited about AI, and young adults' concern is rising.
-
-⬆️ 28 • 💬 16 • 2d ago • [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/)
+⬆️ 34 • 💬 39 • 20h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -268,6 +260,14 @@ Surveys on both sides of the Atlantic reveal a public more wary than wowed by AI
 The Dutch Data Protection Authority (AP) has fined Uber €825 million for deactivating driver accounts through automated systems and without adequately informing them. This violates Europe’s General Data Protection Regulation (GDPR), the AP said in a decision made on Monday, Reuters reported after seeing the decision.
 
 ⬆️ 21 • 💬 4 • 1d ago • [NL Times](https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts)
+
+---
+
+**[Palantir's Karp – frontier AI labs that are 'trying to drug addict us'](https://news.ycombinator.com/item?id=49405966)**
+
+Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs "distilled all the value of IP, everywhere."
+
+⬆️ 19 • 💬 8 • 1d ago • [CNBC](https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html)
 
 ---
 
@@ -321,7 +321,7 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 CrazyHoodMedia
 
-👁️ 5K • 👍 164 • 💬 19 • ⏱️ 0:42 • 3h ago
+👁️ 5K • 👍 164 • 💬 19 • ⏱️ 0:42 • 4h ago
 
 ---
 
@@ -339,7 +339,7 @@ Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier 
 
 📺 MelandWorld1
 
-👁️ 6K • 👍 451 • 💬 21 • ⏱️ 0:34 • 4h ago
+👁️ 6K • 👍 451 • 💬 21 • ⏱️ 0:34 • 5h ago
 
 ---
 
@@ -409,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 970 • 18h ago
+⬇️ 47,098 • ❤️ 970 • 19h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 649 • 9h ago
+⬇️ 244,834 • ❤️ 649 • 10h ago
 
 ---
 
@@ -646,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.5k • 🔱 2.0k • 16h ago
+⭐ 17.5k • 🔱 2.0k • 17h ago
 
 ---
 
@@ -676,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 593 • 6h ago
+⭐ 3.6k • 🔱 593 • 7h ago
 
 ---
 
@@ -696,7 +696,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 356 • 11h ago
+⭐ 3.0k • 🔱 356 • 13h ago
 
 ---
 
@@ -706,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 291 • 2h ago
+⭐ 2.5k • 🔱 291 • 4h ago
 
 ---
 
@@ -716,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 188 • 2h ago
+⭐ 2.2k • 🔱 188 • 3h ago
 
 ---
 
@@ -736,7 +736,7 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 `Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.0k • 🔱 60 • 19h ago
+⭐ 2.0k • 🔱 60 • 20h ago
 
 ---
 

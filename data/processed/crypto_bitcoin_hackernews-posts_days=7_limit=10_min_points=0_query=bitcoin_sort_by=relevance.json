@@ -19,20 +19,6 @@
       "site_name": "MostroEuropa"
     },
     {
-      "title": "Bitcoin: I'm retarded. ASM client/server project in the works",
-      "url": "https://github.com/BobClawblaw/bitcoinmachinecode",
-      "hn_url": "https://news.ycombinator.com/item?id=49326976",
-      "author": "hjm",
-      "points": 3,
-      "num_comments": 2,
-      "created_at": "2026-08-17T05:53:59Z",
-      "object_id": "49326976",
-      "image": "https://opengraph.githubassets.com/77da9f540867f349abe80f4d4659f48083b26852d68c7d63f070d1332fd981ab/BobClawblaw/bitcoinmachinecode",
-      "description": "A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Bitcoin's short squeeze traced to a Treasury bond buyback decision",
       "url": "https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze",
       "hn_url": "https://news.ycombinator.com/item?id=49385139",
@@ -103,7 +89,7 @@
       "site_name": "Strike a Block"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T05:37:43.624321+00:00"
+  "fetched_at": "2026-08-24T06:58:08.275008+00:00"
 }
