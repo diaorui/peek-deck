@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T02:45:42.397767+00:00'
+updated: '2026-08-24T03:54:15.092802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 02:45 UTC  
+**Last Updated:** August 24, 2026 at 03:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-13h ago
+14h ago
 
 ---
 
@@ -44,13 +44,29 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 4h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 5h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-11h ago
+12h ago
+
+---
+
+**[One person puppeteering two 4-servo quadruped robots at once via real-time pose tracking](https://www.reddit.com/r/robotics/comments/1vwl7ds/one_person_puppeteering_two_4servo_quadruped/)**
+
+One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
+
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 5h ago
+
+---
+
+**[Optimizing a custom Pub/Sub middleware for high-rate IMU ingestion & EKF updates on NVIDIA Jetson](https://www.reddit.com/r/robotics/comments/1vwmh11/optimizing_a_custom_pubsub_middleware_for/)**
+
+I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
+
+4h ago
 
 ---
 
@@ -58,7 +74,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 8h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 9h ago
+
+---
+
+**[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
+
+3h ago
 
 ---
 
@@ -78,35 +100,11 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 ---
 
-**[One person puppeteering two 4-servo quadruped robots at once via real-time pose tracking](https://www.reddit.com/r/robotics/comments/1vwl7ds/one_person_puppeteering_two_4servo_quadruped/)**
-
-One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
-
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 4h ago
-
----
-
 **[Reverse on BLDC controller](https://www.reddit.com/r/robotics/comments/1vweih9/reverse_on_bldc_controller/)**
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-8h ago
-
----
-
-**[Action Space hackathon](https://www.reddit.com/r/robotics/comments/1vw7ui3/action_space_hackathon/)**
-
-Hello everyone, You have all probably noticed that there is a lot happening right now in the Robotics. But for some reason getting your hands on hardware if you don’t have a 3d printer and a few extra Benjamin’s in the bank is super difficult. In light of that, I want to announce that in Boston, Action space Hackathon is going to be a space where for 48 hours people are going to be taught and fly drones autonomously! Free to participate and a prize $1000 if you win! Event is happening OCT 24-25th. For more information, you can click the link on luma! This is a huge labor of love between me and my two college friends. We want to make sure we get more people access and hopefully get some engineering minded people thinking about what’s possible with hardware. (sorry if this goes against the advertising rule)
-
-🔗 [luma.com](https://luma.com/xl77cp4v) • 12h ago
-
----
-
-**[Honor lightning vs tiangong in the 2026 humanoid robotics 100 meter dash](https://www.reddit.com/r/robotics/comments/1vve7ju/honor_lightning_vs_tiangong_in_the_2026_humanoid/)**
-
-Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny
-
-1d ago
+9h ago
 
 ---
 
@@ -124,7 +122,7 @@ AP News • 1d ago
 
 **[Robots can outrun humans, but can they plug in a cable?](https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/)**
 
-Reuters • 21h ago
+Reuters • 23h ago
 
 ---
 
@@ -132,7 +130,7 @@ Reuters • 21h ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 13h ago
+The San Francisco Standard • 14h ago
 
 ---
 
@@ -148,7 +146,15 @@ The Robot Report • 1d ago
 
 Without policy, there are few incentives to automate business functions where labour costs are low
 
-Financial Times • 15h ago
+Financial Times • 16h ago
+
+---
+
+**[The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots](https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html)**
+
+AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -157,22 +163,6 @@ Financial Times • 15h ago
 NORINCO introduces a breakthrough teleoperation system allowing operators to control full-size humanoid robots remotely with zero lag.
 
 Interesting Engineering • 1d ago
-
----
-
-**[China's humanoid robots beat Usain Bolt's 100m world record](https://asia.nikkei.com/business/technology/china-s-humanoid-robots-beat-usain-bolt-s-100m-world-record)**
-
-Beijing event highlights rapid gains in AI-driven mobility systems
-
-Nikkei Asia • 16h ago
-
----
-
-**[ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027](https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html)**
-
-Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the ‌chairman of Chinese embodied AI startup ACE Robotics said on Friday.  "We expect to reach the 'ChatGPT moment' for embodied intelligence by the end ‌of next year, driven by world models and environmental data capture," Wang Xiaogang told Reuters.  "Even if we reach that inflection point by late 2027, it will likely take another four to ​five years to see broad commercial implementation of embodied world models across sectors," said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -189,6 +179,14 @@ Business Insider • 2d ago
 Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.
 
 CNBC • 3d ago
+
+---
+
+**[Humanoid crashes during speed test as China’s robotics industry grows](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows)**
+
+Humanoid crashes during speed test as China’s robotics industry grows
+
+Al Jazeera • 2d ago
 
 ---
 
@@ -212,7 +210,7 @@ Pits & Parts full explanation: https://youtu.be/fksF2rVTYBg @AfterHours1069A Che
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 36 • ⏱️ 0:13 • 6h ago
+👁️ 2K • 👍 36 • ⏱️ 0:13 • 7h ago
 
 ---
 
@@ -252,7 +250,7 @@ A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robo
 
 📺 USA TODAY
 
-👁️ 23K • 👍 189 • 💬 41 • ⏱️ 0:31 • 10h ago
+👁️ 23K • 👍 189 • 💬 41 • ⏱️ 0:31 • 11h ago
 
 ---
 
@@ -270,7 +268,7 @@ Most robotics companies rush to factories, but true artificial general intellige
 
 📺 Turn the Lens with Jeff Frick
 
-👁️ 1K • 👍 9 • 💬 2 • ⏱️ 0:47 • 7h ago
+👁️ 1K • 👍 9 • 💬 2 • ⏱️ 0:47 • 9h ago
 
 ---
 

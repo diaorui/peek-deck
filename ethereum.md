@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T02:45:42.394920+00:00'
+updated: '2026-08-24T03:54:15.089606+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 02:45 UTC  
+**Last Updated:** August 24, 2026 at 03:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +27.6%  
-**30d:** +25.1%  
-**90d:** +20.7%  
-**1y:** -44.3%  
+**24h:** +2.4%  
+**7d:** +27.0%  
+**30d:** +24.6%  
+**90d:** +20.2%  
+**1y:** -44.5%  
 
 ---
 
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 11h ago
 
 ---
 
@@ -84,7 +84,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -164,27 +164,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Prominent Bitcoin Miner Bets on Ethereum, Predicts ETH Will Beat BTC This Cycle](https://finance.yahoo.com/markets/crypto/articles/prominent-bitcoin-miner-bets-ethereum-003221742.html)**
+**[Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/)**
 
-Prominent Chinese Bitcoin miner Jiang Zhuoer plans to go all-in on Ethereum, predicting it will outperform BTC this cycle.
+The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
-
-Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
-
-TradingView • 9h ago
+Coinpedia • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
 
-Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-CryptoSlate • 6h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+
+Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
+
+TradingView • 14h ago
 
 ---
 
@@ -192,7 +192,15 @@ CryptoSlate • 6h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 16h ago
+CoinMarketCap • 17h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+
+Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+
+CryptoSlate • 7h ago
 
 ---
 
@@ -200,7 +208,7 @@ CoinMarketCap • 16h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 20h ago
+Global South Opportunities • 21h ago
 
 ---
 
@@ -214,7 +222,7 @@ Barron's • 2d ago
 
 The funds tracking both assets recorded a perfect week of net inflows only.
 
-CryptoPotato • 15h ago
+CryptoPotato • 16h ago
 
 ---
 
@@ -222,15 +230,7 @@ CryptoPotato • 15h ago
 
 Ethereum holds 60% probability on Polymarket to reclaim $2,600 by August end at current price $2460.29 with bullish EMA structure intact.
 
-blockchain.news • 4h ago
-
----
-
-**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
-
-Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
-
-BeInCrypto • 1d ago
+blockchain.news • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 153 • ⏱️ 43:03 • 4h ago
+👁️ 14K • 👍 1K • 💬 153 • ⏱️ 43:03 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 8K • 👍 378 • 💬 104 • ⏱️ 18:53 • 11h ago
+👁️ 8K • 👍 378 • 💬 104 • ⏱️ 18:53 • 12h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 376 • 💬 219 • ⏱️ 19:11 • 6h ago
+👁️ 8K • 👍 376 • 💬 219 • ⏱️ 19:11 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 14h ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 975 • 👍 67 • ⏱️ 1:09 • 12h ago
+👁️ 975 • 👍 67 • ⏱️ 1:09 • 13h ago
 
 ---
 
@@ -302,7 +302,7 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 235 • 💬 8 • ⏱️ 1:00 • 5h ago
+👁️ 3K • 👍 235 • 💬 8 • ⏱️ 1:00 • 6h ago
 
 ---
 
