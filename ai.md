@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T23:22:22.208504+00:00'
+updated: '2026-08-24T23:47:05.154817+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 23:22 UTC  
+**Last Updated:** August 24, 2026 at 23:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 10h ago
+🔗 [Rauno](https://rauno.ai) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 4h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 5h ago
 
 ---
 
@@ -87,7 +87,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Plato’s Cave has a funny problem. If someone is staring at shadows on the wall
 
 As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 8h ago
 
 Baird managing director and tech strategist Ted Mortonson discusses upcoming NVIDIA earnings on 'Making Money.'
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 1h ago
 
 Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ...
 
-The Information • 42m ago
+The Information • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ The Information • 42m ago
 
 Deputies said "thousands of AI-generated images of child pornography" were found on a computer and hard drive at the man's home.
 
-ABC13 Houston • 3h ago
+ABC13 Houston • 4h ago
 
 ---
 
 **[Humble man accused of having thousands of AI-generated child pornography images](https://www.khou.com/article/news/local/houston-humble-ai-generated-child-pornography-charge/285-2527322c-110c-469f-bb19-85622c1fa386)**
 
-KHOU • 46m ago
+KHOU • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 177 • 💬 91 • 16h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 177 • 💬 91 • 17h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -245,7 +245,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 80 • 💬 95 • 13h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 80 • 💬 95 • 14h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
 
 ---
 
@@ -277,13 +277,33 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 ## YouTube Videos: "ai"
 
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=KertWcOx998)**
+**[&#39;The Five&#39;: Raging against AI data centers becomes all the rage](https://www.youtube.com/watch?v=aolQYQYISfw)**
 
-The future isn't Tomorrow—it's already here Today. These Days AI-powered humanoid robots join the Olympia in Bejing, they can ...
+'The Five' co-hosts discuss the growing political and public backlash against A.I. data centers, analyzing President Donald ...
 
-📺 ejunky66
+📺 Fox News
 
-👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 3h ago
+👁️ 9K • 👍 421 • 💬 166 • ⏱️ 9:28 • 32m ago
+
+---
+
+**[Amazon BUSTED Burning Rare Books After Feeding Them Into Ai](https://www.youtube.com/watch?v=sQdKJamsilE)**
+
+Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
+
+📺 The Majority Report w/ Sam Seder
+
+👁️ 11K • 👍 1K • 💬 204 • ⏱️ 13:41 • 3h ago
+
+---
+
+**[Terrifying AI Behavior Even Its Creators Couldn&#39;t Explain](https://www.youtube.com/watch?v=ABcFmgt0D5I)**
+
+Terrifying AI behavior even its creators couldn't explain has left people questioning how much control humans really have over ...
+
+📺 Most Amazing Elite
+
+👁️ 15K • 👍 122 • 💬 12 • ⏱️ 1:50:32 • 1d ago
 
 ---
 
@@ -293,55 +313,7 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 104K • 👍 3K • 💬 241 • ⏱️ 12:28 • 2d ago
-
----
-
-**[The AI tax hits the Pixel Watch 5 HARD](https://www.youtube.com/watch?v=a2hhtkbcbtU)**
-
-If you want to skip the hassle of researching, buying, and building a gaming PC for yourself, buy one from one of Jawa's Verified ...
-
-📺 ShortCircuit
-
-👁️ 7K • 👍 515 • 💬 57 • ⏱️ 13:43 • 3h ago
-
----
-
-**[DeepSeek Just Made America Nervous Again (SILICON VALLEY PANICKING)](https://www.youtube.com/watch?v=SvW4Gw6LeGI)**
-
-DeepSeek is surging again as its open-source AI ecosystem, aggressive pricing and rapid technical progress challenge America's ...
-
-📺 AI Revolution
-
-👁️ 33K • 👍 1K • 💬 118 • ⏱️ 16:05 • 3d ago
-
----
-
-**[The REAL Reason AI Is About To Change Everything](https://www.youtube.com/watch?v=Bj02me1CHmE)**
-
-Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has forecast the world's biggest risks for over 25 years, ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 176K • 👍 3K • 💬 358 • ⏱️ 16:15 • 2d ago
-
----
-
-**[Was Spiderman AI Generated? #spidermanbrandnewday #marvelcomics #ai](https://www.youtube.com/watch?v=ZSnpJGd2eOY)**
-
-📺 The Shed Podcast
-
-👁️ 643 • 👍 25 • 💬 1 • ⏱️ 1:44 • 4h ago
-
----
-
-**[How a $20 AI is Replacing $235,000 Lawyers](https://www.youtube.com/watch?v=haZ5gddlQ4g)**
-
-Lawyers were supposed to be one of the professions AI couldn't replace. But the legal industry is discovering that many of its most ...
-
-📺 The Infographics Show
-
-👁️ 80K • 👍 2K • 💬 571 • ⏱️ 13:53 • 2d ago
+👁️ 108K • 👍 3K • 💬 245 • ⏱️ 12:28 • 2d ago
 
 ---
 
@@ -351,7 +323,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 191K • 👍 3K • 💬 718 • ⏱️ 3:27:05 • 2d ago
+👁️ 194K • 👍 4K • 💬 718 • ⏱️ 3:27:05 • 2d ago
 
 ---
 
@@ -361,17 +333,47 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 141K • 👍 11K • 💬 706 • ⏱️ 5:15 • 1d ago
+👁️ 148K • 👍 12K • 💬 724 • ⏱️ 5:15 • 1d ago
 
 ---
 
-**[An AI-generated concept showing an advanced medical service robot helping a sick Hajj #allah #Kaaba](https://www.youtube.com/watch?v=IbHkqb1HHGY)**
+**[AI APOCALYPSE, If Anyone Builds It, WE DIE w/ Nate Soares | The Tim Pool Show](https://www.youtube.com/watch?v=RQVM5f9pQv0)**
 
-An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
+Tim Pool is joined by Nate Soares to discuss the rapid development of AI & the potential for the AI apocalypse. Host: Tim Pool ...
 
-📺 Ibrahim Islamic Status
+📺 Tim Pool Show
 
-👁️ 1.8M • 👍 63K • 💬 100 • ⏱️ 0:11 • 1d ago
+👁️ 65K • 👍 3K • 💬 645 • ⏱️ 1:51:29 • 1d ago
+
+---
+
+**[Claude&#39;s Invisible AI Watermark Has a Big Limitation](https://www.youtube.com/watch?v=TNnfb87mHw8)**
+
+Follow me and DM me "WATERMARK" on IG/FB only Claude's invisible watermark has limits. Anthropic says new Claude ...
+
+📺 Sabrina Ramonov 🍄
+
+👁️ 3K • 👍 108 • 💬 4 • ⏱️ 0:26 • 5h ago
+
+---
+
+**[DR. DRE ADMITS HE USES AI?! 😳 HIP HOP IS CHANGING FOREVER💯 #DrDre #AIMusic #AI #HipHop](https://www.youtube.com/watch?v=nBJTk25nSBE)**
+
+Dr. Dre just entered the AI music debate, and this could be one of the biggest conversations in hip hop right now. In a new ...
+
+📺 CrazyHoodMedia
+
+👁️ 20K • 👍 408 • 💬 45 • ⏱️ 0:42 • 21h ago
+
+---
+
+**[🌴 A Robot Serving Dates in Makkah?! | AI Future Concept 🕋#Makkah #AI #Robot #FutureTechnology](https://www.youtube.com/watch?v=u3HdVj5OP_M)**
+
+A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Robot #FutureTechnology #AIVideo ...
+
+📺 Makkah madina shorts
+
+👁️ 14K • 👍 568 • 💬 1 • ⏱️ 0:11 • 10h ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,499 • 10d ago
+⬇️ 2,645,226 • ❤️ 12,509 • 10d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,825 • 4d ago
+⬇️ 7,009,063 • ❤️ 2,834 • 4d ago
 
 ---
 
@@ -411,7 +413,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,023 • 13h ago
+⬇️ 57,947 • ❤️ 1,026 • 14h ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 688 • 5h ago
+⬇️ 312,627 • ❤️ 693 • 5h ago
 
 ---
 
@@ -435,7 +437,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,090 • 4d ago
+⬇️ 224,114 • ❤️ 1,097 • 4d ago
 
 ---
 
@@ -447,7 +449,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 575 • 7d ago
+⬇️ 761,975 • ❤️ 577 • 7d ago
 
 ---
 
@@ -459,7 +461,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 790,378 • ❤️ 1,720 • 7d ago
+⬇️ 790,378 • ❤️ 1,722 • 7d ago
 
 ---
 
@@ -471,7 +473,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 390 • 1d ago
+⬇️ 60,294 • ❤️ 395 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,456,700 • ❤️ 686 • 8d ago
+⬇️ 1,456,700 • ❤️ 689 • 8d ago
 
 ---
 
@@ -495,7 +497,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,226 • 10d ago
+⬇️ 18,065 • ❤️ 1,228 • 10d ago
 
 ---
 
@@ -539,7 +541,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 73 • 💬 7 • ⭐ 586 • 5d ago
+▲ 73 • 💬 7 • ⭐ 651 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -577,7 +579,7 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
 
-▲ 18 • 💬 1 • ⭐ 2,753 • 1mo ago
+▲ 18 • 💬 1 • ⭐ 2,797 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
 
@@ -648,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.9k • 🔱 2.1k • 2h ago
+⭐ 17.9k • 🔱 2.1k • 3h ago
 
 ---
 
@@ -658,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 4h ago
+⭐ 14.2k • 🔱 1.7k • 24m ago
 
 ---
 
@@ -708,7 +710,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 311 • 2h ago
+⭐ 2.7k • 🔱 313 • 3h ago
 
 ---
 
@@ -718,7 +720,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 5h ago
+⭐ 2.2k • 🔱 189 • 6h ago
 
 ---
 
@@ -728,7 +730,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 119 • 6h ago
+⭐ 2.2k • 🔱 119 • 7h ago
 
 ---
 

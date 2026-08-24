@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T23:22:22.216270+00:00'
+updated: '2026-08-24T23:47:05.163402+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 23:22 UTC  
+**Last Updated:** August 24, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1583.74B
+**Market Cap:** $1584.45B
 Rank #1
 
-**Circulating Supply:** 20,071,518 BTC
+**Circulating Supply:** 20,074,725 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -37.4%
 
 **All-Time Low:** $67.81
-+116253.0%
++116300.2%
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-7h ago
+8h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 9h ago
 
 **[Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners](https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -191,13 +191,13 @@ Financial Times • 15h ago
 
 **[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 10h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -231,7 +231,7 @@ WSJ • 3d ago
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 7h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 8h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -269,7 +269,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -277,13 +277,23 @@ Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/tra
 
 ## YouTube Videos: "bitcoin"
 
+**[Michael Saylor sold the bottom. Bitcoin rallied anyway.](https://www.youtube.com/watch?v=7VQdhR6emro)**
+
+Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its holdings sat unchanged at 840447 BTC while Bitcoin ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 296 • 💬 158 • ⏱️ 14:52 • 6h ago
+
+---
+
 **[Bitcoin Price Volatility Just Broke Out of Historic Low](https://www.youtube.com/watch?v=IxOn3b9vnQo)**
 
 Natalie Brunell dives into a striking report from Fidelity Digital Assets revealing that Bitcoin's rolling 1-month realized volatility had ...
 
 📺 Natalie Brunell
 
-👁️ 909 • 👍 41 • 💬 2 • ⏱️ 0:53 • 4h ago
+👁️ 2K • 👍 67 • 💬 122 • ⏱️ 0:53 • 4h ago
 
 ---
 
@@ -293,27 +303,35 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 20 • ⏱️ 37:21 • 15h ago
+👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 15h ago
 
 ---
 
-**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
+**[Crypto PUMPING HARD! Altcoins Just Broke Out And This Is The Business Cycle Doing It (WHAT NEXT)](https://www.youtube.com/watch?v=iO2QATEaXDE)**
 
-Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Altcoins are ...
 
-📺 Simply Bitcoin
+📺 Crypto Capital Venture
 
-👁️ 25K • 👍 2K • 💬 140 • ⏱️ 20:21 • 23h ago
+👁️ 16K • 👍 980 • 💬 264 • ⏱️ 1:18:20 • 2d ago
 
 ---
 
-**[Bitcoin Explodes 25%: Is Crypto Bear Market Finally Over? | Ran Neuner](https://www.youtube.com/watch?v=N350GH5kAS4)**
+**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
 
-Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
+Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
 
-📺 David Lin 
+📺 Altcoin Daily
 
-👁️ 20K • 👍 676 • 💬 228 • ⏱️ 41:23 • 1d ago
+👁️ 62K • 👍 3K • 💬 216 • ⏱️ 43:03 • 1d ago
+
+---
+
+**[Why Bitcoin Is Ripping Again](https://www.youtube.com/watch?v=47Qdz4-f97A)**
+
+📺 THE JACK MALLERS SHOW
+
+👁️ 2K • 👍 235 • 5h ago
 
 ---
 
@@ -323,17 +341,27 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 81K • 👍 3K • 💬 170 • ⏱️ 11:10 • 2d ago
+👁️ 82K • 👍 3K • 💬 195 • ⏱️ 11:10 • 2d ago
 
 ---
 
-**[[WARNING] Know This about BITCOIN &amp; XRP...NOW‼️](https://www.youtube.com/watch?v=7vmVsxSusq0)**
+**[BITCOIN &amp; ALTCOINS COOLDOWN AS JIM CRAMER TURNS BULLISH! REVERSAL SOON? TRUMP TO LAUNCH NEW COIN?](https://www.youtube.com/watch?v=p1vhAD0Iamk)**
 
-Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto Course (   STOCK UP U) ...
+Crypto News: Bitcoin pulls back due to overbought conditions and Jim Cramer turns bullish. Rumors swirl about President Trump ...
 
-📺 STOCK UP! with LARRY JONES
+📺 Thinking Crypto
 
-👁️ 31K • 👍 2K • 💬 395 • ⏱️ 23:23 • 3d ago
+👁️ 10K • 👍 561 • 💬 184 • ⏱️ 21:25 • 1d ago
+
+---
+
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+
+📺 Nicholas Crown
+
+👁️ 7K • 👍 345 • 💬 13 • ⏱️ 1:15 • 2d ago
 
 ---
 
@@ -344,36 +372,6 @@ Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 📺 Credible Crypto
 
 👁️ 24K • 👍 1K • 💬 124 • ⏱️ 1:11:06 • 2d ago
-
----
-
-**[The AI Crypto Macro Nexus Point: Why Bitcoin Matters to Investors](https://www.youtube.com/watch?v=FoSLsvUKvws)**
-
-Visit ai.22vresearch.com or visser-labs.com for more info Email Mark Whaling mwhaling@22vresearch.com In this week's video, ...
-
-📺 Jordi Visser
-
-👁️ 41K • 👍 3K • 💬 340 • ⏱️ 1:16:34 • 1d ago
-
----
-
-**[Inside The Hidden World of Crypto](https://www.youtube.com/watch?v=Zw9aGlbEUu8)**
-
-Help us fight these scammers! Become a member today: https://www.youtube.com/channel/UCC9EjyMN_hx5NdctLBx5X7w/join ...
-
-📺 Scammer Payback
-
-👁️ 78K • 👍 3K • 💬 663 • ⏱️ 2:04:33 • 2d ago
-
----
-
-**[Bitcoin&#39;s &quot;Coiled Spring&quot; Jump, Clarity Act Pivot Point &amp; Miners&#39; Data Center Move](https://www.youtube.com/watch?v=MxxlGkTi-58)**
-
-The Treasury doubling liquidity on some long-term debt buybacks in bonds is what Sam Callahan points to as the key driver ...
-
-📺 Schwab Network
-
-👁️ 9K • 👍 84 • 💬 4 • ⏱️ 7:28 • 3d ago
 
 ---
 

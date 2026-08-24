@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T23:22:22.221777+00:00'
+updated: '2026-08-24T23:47:05.169619+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 23:22 UTC  
+**Last Updated:** August 24, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.34B
+**Market Cap:** $299.94B
 Rank #2
 
 **Circulating Supply:** 120,681,508 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.9%
+-49.8%
 
 **All-Time Low:** $0.43
-+572770.7%
++573812.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-6h ago
+7h ago
 
 ---
 
@@ -160,7 +160,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Bitmine Immersion Technologies (NYSE: $BMNR) increased its purchase of Ethereum (CRYPTO: $ETH) over the past week e...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 9h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 10h ago
+PR Newswire • 11h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Motley Fool • 1d ago
 
 Ethereum (ETH) is trading around $2,452, up 2.69% daily and extending a 29% weekly gain. Abraxas Capital bought $173 million worth of ETH recently, balancing its large short positions with spot purchases to manage risk. Despite increased selling pressure indicated by rising exchange inflows and supply, strong demand from major buyers like Abraxas is stabilizing the market. Technical indicators suggest bullish momentum, with Ethereum likely to break above its current range and target $2,800, though a drop to $2,200 remains possible if selling intensifies.
 
-Pluang • 1h ago
+Pluang • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ CryptoSlate • 1d ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 13h ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -230,7 +230,7 @@ TradingView • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 240 • 💬 6 • ⏱️ 6:32 • 9h ago
+👁️ 5K • 👍 247 • 💬 6 • ⏱️ 6:32 • 10h ago
 
 ---
 
@@ -254,27 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 12K • 👍 501 • 💬 44 • ⏱️ 18:53 • 1d ago
-
----
-
-**[SharpLink &amp; Lido: This Changes Everything For ETH Holders (Here&#39;s Why)](https://www.youtube.com/watch?v=YtV-z_5Rv6c)**
-
-Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully productive asset, deploying it through Lido, ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 101 • 💬 22 • ⏱️ 10:36 • 1d ago
-
----
-
-**[ETHEREUM DUMP INCOMING? (ETH Prediction)](https://www.youtube.com/watch?v=t3vyqv5l5x4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 323 • 👍 15 • 💬 18 • ⏱️ 4:36 • 14h ago
+👁️ 13K • 👍 506 • 💬 87 • ⏱️ 18:53 • 1d ago
 
 ---
 
@@ -284,7 +264,17 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 4K • 💬 216 • ⏱️ 27:38 • 19h ago
+👁️ 94K • 👍 4K • 💬 268 • ⏱️ 27:38 • 19h ago
+
+---
+
+**[ETHEREUM DUMP INCOMING? (ETH Prediction)](https://www.youtube.com/watch?v=t3vyqv5l5x4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 352 • 👍 17 • 💬 87 • ⏱️ 4:36 • 14h ago
 
 ---
 
@@ -294,17 +284,27 @@ Most people know the DAO hack led to Ethereum Classic — but few know about the
 
 📺 CoinGecko
 
-👁️ 1K • 👍 67 • 💬 41 • ⏱️ 4:22 • 12h ago
+👁️ 1K • 👍 70 • 💬 110 • ⏱️ 4:22 • 13h ago
 
 ---
 
-**[THE $1 BILLION HOUR 🚨 Why BTC, ETH and XRP All Exploded Together](https://www.youtube.com/watch?v=DTYa04eKhKU)**
+**[Why I&#39;m holding ETH for the $5,000 target 📈 #cryptotrading #eth #money](https://www.youtube.com/watch?v=rwEvTSDHO64)**
 
-1️⃣ *   Save 35% code SUMMER Lifetime Membership 20 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
+Why I am holding a massive Ethereum long position targeting $5000. I am breaking down my current trade setup and why I ...
 
-📺 Stock Moe
+📺 Gabbie Trades
 
-👁️ 20K • 👍 1K • 💬 90 • ⏱️ 14:45 • 1d ago
+👁️ 809 • 👍 13 • 💬 1 • ⏱️ 0:31 • 4h ago
+
+---
+
+**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=rgMp_zHZpkw)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 23 • 👍 1 • ⏱️ 1:12 • 46m ago
 
 ---
 
@@ -314,27 +314,27 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 14K • 👍 489 • 💬 298 • ⏱️ 19:11 • 1d ago
+👁️ 14K • 👍 491 • 💬 365 • ⏱️ 19:11 • 1d ago
 
 ---
 
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+**[THE $1 BILLION HOUR 🚨 Why BTC, ETH and XRP All Exploded Together](https://www.youtube.com/watch?v=DTYa04eKhKU)**
 
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+1️⃣ *   Save 35% code SUMMER Lifetime Membership 20 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
 
-📺 More Crypto Online
+📺 Stock Moe
 
-👁️ 8K • 👍 390 • 💬 20 • ⏱️ 11:12 • 2d ago
+👁️ 20K • 👍 1K • 💬 101 • ⏱️ 14:45 • 1d ago
 
 ---
 
-**[Bitcoin ripped 22% back to $77K, BTC and ETH ETFs pulled ~$800M in two days #ethereumprice #bitcoin](https://www.youtube.com/watch?v=kyAX5FXuX2U)**
+**[🚀 Bitcoin y Ethereum: ¿Se Viene el Gran Rally? 🔥 | Claves para Esta Semana](https://www.youtube.com/watch?v=fLDhRl8CWRI)**
 
-Bitcoin and Ethereum are surging, but don't let emotional trading ruin your gains. We are analyzing critical price levels to watch as ...
+Bitcoin y Ethereum vienen de una semana espectacular. ¿Pueden mantener el impulso y seguir subiendo? Analizamos soportes ...
 
-📺 Gabbie Trades
+📺 Diego Gutiérrez Pérez
 
-👁️ 528 • 👍 20 • ⏱️ 0:44 • 12h ago
+👁️ 317 • 👍 37 • 💬 13 • ⏱️ 6:49 • 12h ago
 
 ---
 
