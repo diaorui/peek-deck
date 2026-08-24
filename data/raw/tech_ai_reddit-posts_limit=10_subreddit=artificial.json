@@ -13,6 +13,28 @@
       "description": null
     },
     {
+      "title": "i think AI memory is more than just remembering things",
+      "author": "wolfie029",
+      "url": "https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/",
+      "published": 1787557744.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "i've been thinking about this a lot lately. most AI memory today seems to work like: \u201cyou like this\u201d \u201cyou told me this before\u201d \u201cyou work on this\u201d but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: \u201cwhat do you remember about me?\u201d you could ask: \u201chow have i changed over the last 3 years?\u201d \u201cwhat patterns do you see in the decisions i've made?\u201d \u201cwhy do you think my interests changed?\u201d \u201cwhat ideas have i kept coming back to?\u201d that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?"
+    },
+    {
+      "title": "Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!",
+      "author": "Many_Audience7660",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/",
+      "published": 1787541050.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to \u20ac35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!"
+    },
+    {
       "title": "Live experiment: can a human\u2013frontier-model interaction exhibit a relational phase transition?",
       "author": "mb3rtheflame",
       "url": "https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/",
@@ -79,17 +101,6 @@
       "description": "A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he\u2019ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like \"Nah man it not AI i made it blah blah blah..\". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said \"Ok\" but after sometime he said \"I will not make it again, now if there is any real work then tell me and I will get it done.\" At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said \"this time i will not use AI\" (\ud83e\udee1 i obviously refused)"
     },
     {
-      "title": "Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!",
-      "author": "Many_Audience7660",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/",
-      "published": 1787541050.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to \u20ac35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!"
-    },
-    {
       "title": "agent 'souls' keep a record and personality after a context reset",
       "author": "robauto-dot-ai",
       "url": "https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well in that within our network they seem to talk a lot about not having any permanent identities. Verified identity and persistent memory for robots and agents is hard because how can that be verified after a context reset. Verify once, cache the result, never touch a chain per request \u2014 so a soul costs fractions of a cent but retains the identity for the 'life' and even after the life of any robot or agent. Docs: https://robauto.ai/robot-soul Repo: https://github.com/robauto-ai/dsh-growth/blob/main/docs/robot-soul.md npm install u/robauto/dsh-growth import { RobotSoul } from \"@robauto/dsh-growth\"; const soul = await RobotSoul.init({ agentId: \"did:robauto:xyz123\", privateKey: process.env.AGENT_PRIVATE_KEY, // used once, for the T1 challenge }); await soul.remember(\"user_preference\", { likes: [\"dark mode\"] }); const prefs = await soul.recall(\"user_preference\");"
-    },
-    {
-      "title": "UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/",
-      "published": 1787502067.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does \"search engine\" mean \"ranks and returns links\" or does it mean \"answers your question directly\". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?"
     }
   ],
-  "fetched_at": "2026-08-24T06:58:08.463225+00:00"
+  "fetched_at": "2026-08-24T08:00:50.198330+00:00"
 }

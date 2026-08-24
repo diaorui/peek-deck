@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2608.20335",
       "arxiv_url": "https://arxiv.org/abs/2608.20335",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.20335.png",
-      "upvotes": 69,
+      "upvotes": 70,
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2608.19880",
       "arxiv_url": "https://arxiv.org/abs/2608.19880",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.19880.png",
-      "upvotes": 256,
+      "upvotes": 257,
       "num_comments": 2,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/envharness",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T05:37:54.171204+00:00"
+  "fetched_at": "2026-08-24T08:01:01.887342+00:00"
 }
