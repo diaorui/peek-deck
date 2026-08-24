@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T03:54:15.089606+00:00'
+updated: '2026-08-24T04:44:08.440129+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 03:54 UTC  
+**Last Updated:** August 24, 2026 at 04:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -84,7 +84,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -176,7 +176,7 @@ Coinpedia • 1d ago
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView • 14h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 17h ago
+CoinMarketCap • 18h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinMarketCap • 17h ago
 
 Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -208,7 +208,7 @@ CryptoSlate • 7h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 21h ago
+Global South Opportunities • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ Barron's • 2d ago
 
 The funds tracking both assets recorded a perfect week of net inflows only.
 
-CryptoPotato • 16h ago
+CryptoPotato • 17h ago
 
 ---
 
@@ -230,7 +230,7 @@ CryptoPotato • 16h ago
 
 Ethereum holds 60% probability on Polymarket to reclaim $2,600 by August end at current price $2460.29 with bullish EMA structure intact.
 
-blockchain.news • 5h ago
+blockchain.news • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 153 • ⏱️ 43:03 • 5h ago
+👁️ 14K • 👍 1K • 💬 153 • ⏱️ 43:03 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 8K • 👍 378 • 💬 104 • ⏱️ 18:53 • 12h ago
+👁️ 8K • 👍 378 • 💬 104 • ⏱️ 18:53 • 13h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 376 • 💬 219 • ⏱️ 19:11 • 7h ago
+👁️ 8K • 👍 376 • 💬 219 • ⏱️ 19:11 • 8h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 15h ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 16h ago
 
 ---
 
@@ -284,7 +284,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 975 • 👍 67 • ⏱️ 1:09 • 13h ago
+👁️ 975 • 👍 67 • ⏱️ 1:09 • 14h ago
 
 ---
 
@@ -302,7 +302,7 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 235 • 💬 8 • ⏱️ 1:00 • 6h ago
+👁️ 3K • 👍 235 • 💬 8 • ⏱️ 1:00 • 7h ago
 
 ---
 
