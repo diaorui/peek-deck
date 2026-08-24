@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T01:18:03.291841+00:00'
+updated: '2026-08-24T02:45:42.381952+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 01:18 UTC  
+**Last Updated:** August 24, 2026 at 02:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,7 @@ AI news, discussions, and developments
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-3h ago
-
----
-
-**[Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.](https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/)**
-
-I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
-
-11h ago
+4h ago
 
 ---
 
@@ -55,7 +47,15 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in […]
 
-🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 34m ago
+🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 2h ago
+
+---
+
+**[Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.](https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/)**
+
+I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
+
+12h ago
 
 ---
 
@@ -63,7 +63,15 @@ Turkish courts have blocked access to at least 12 X posts by artificial intellig
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-16h ago
+17h ago
+
+---
+
+**[agent 'souls' keep a record and personality after a context reset](https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/)**
+
+https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well in that within our network they seem to talk a lot about not having any permanent identities. Verified identity and persistent memory for robots and agents is hard because how can that be verified after a context reset. Verify once, cache the result, never touch a chain per request — so a soul costs fractions of a cent but retains the identity for the 'life' and even after the life of any robot or agent. Docs: https://robauto.ai/robot-soul Repo: https://github.com/robauto-ai/dsh-growth/blob/main/docs/robot-soul.md npm install u/robauto/dsh-growth import { RobotSoul } from "@robauto/dsh-growth"; const soul = await RobotSoul.init({ agentId: "did:robauto:xyz123", privateKey: process.env.AGENT_PRIVATE_KEY, // used once, for the T1 challenge }); await soul.remember("user_preference", { likes: ["dark mode"] }); const prefs = await soul.recall("user_preference");
+
+1h ago
 
 ---
 
@@ -71,7 +79,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
 
-8h ago
+10h ago
 
 ---
 
@@ -79,7 +87,7 @@ So Google has to show UK users a screen letting them pick their default search e
 
 AI help for me
 
-6h ago
+8h ago
 
 ---
 
@@ -95,15 +103,7 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
 
-3h ago
-
----
-
-**[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
-
-I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
-
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 10h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?
 
-4h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Any advancement that can have a profound military use will be profoundly funded.
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -131,39 +131,45 @@ The Guardian • 11h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 16h ago
+Financial Times • 18h ago
 
 ---
 
-**[Wall Street Is Counting on Nvidia to Keep the AI Party Going](https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c)**
+**[Can Kenya’s AI ambitions coexist with Naivasha’s water needs?](https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs)**
 
-WSJ • 18m ago
+As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.
 
----
-
-**[How Trusted Founders Are Quietly Winning The AI Backlash](https://www.forbes.com/sites/lisacurtis/2026/08/23/how-trusted-founders-are-quietly-winning-the-ai-backlash/)**
-
-The fight over AI was never really about the models. It's about whether people believe the founders building them, and that is a problem leaders already know how to solve.
-
-Forbes • 56m ago
+Al Jazeera • 34m ago
 
 ---
 
-**[Watch Nvidia Notifies Customers About AI-Related Price Hikes](https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video)**
+**[Alibaba Raises $10 Billion for AI in Record Hong Kong Share Sale](https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion)**
 
 Bloomberg.com • 1h ago
 
 ---
 
+**[Alibaba launches $10 billion Hong Kong share placement to fund AI spending](https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/)**
+
+Reuters • 21h ago
+
+---
+
+**[Alibaba to Bulk Up AI Investment via $10.20 Billion Share Placement](https://www.wsj.com/tech/alibaba-to-bulk-up-ai-investment-via-10-20-billion-share-placement-72b9bdac)**
+
+WSJ • 1h ago
+
+---
+
 **[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash)**
 
-Axios • 8h ago
+Axios • 10h ago
 
 ---
 
 **[Data-Center Disenchantment](https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -171,33 +177,19 @@ WSJ • 10h ago
 
 New York State Senator Kristen Gonzalez was at Eden Cafe Batavia Sunday. She heard people's concerns over the proposed stream data center for the stamp site in Genesee County.
 
-WHEC.com • 3h ago
+WHEC.com • 5h ago
 
 ---
 
 **[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
 
-The New York Times • 9h ago
-
----
-
-**[Dr. Dre Says He Uses AI to Produce Songs](https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009)**
-
-Gizmodo • 4h ago
+The New York Times • 11h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[AI companies destroy physical books – let's scan rare books before it's too late](https://news.ycombinator.com/item?id=49383026)**
-
-AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.
-
-⬆️ 623 • 💬 898 • 2d ago • [annas-archive.gl](https://annas-archive.gl/blog/physical-destruction.html)
-
----
 
 **[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)**
 
@@ -247,7 +239,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 14h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 15h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -267,6 +259,14 @@ Surveys on both sides of the Atlantic reveal a public more wary than wowed by AI
 
 ---
 
+**[Dutch regulator fines Uber €825M for letting AI deactivate driver accounts](https://news.ycombinator.com/item?id=49398609)**
+
+The Dutch Data Protection Authority (AP) has fined Uber €825 million for deactivating driver accounts through automated systems and without adequately informing them. This violates Europe’s General Data Protection Regulation (GDPR), the AP said in a decision made on Monday, Reuters reported after seeing the decision.
+
+⬆️ 21 • 💬 4 • 1d ago • [NL Times](https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -277,37 +277,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 65K • 👍 1K • 💬 413 • ⏱️ 10:04 • 2d ago
-
----
-
-**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
-
-Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
-
-📺 The Economist
-
-👁️ 72K • 👍 2K • 💬 188 • ⏱️ 12:28 • 1d ago
-
----
-
-**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=nFNapm2E5xk)**
-
-I bought every ai generated scam product I found on tiktok, temu, and aliexpress! Subscribe to @LawByMike for more content!
-
-📺 Law By Mike
-
-👁️ 318K • 👍 8K • 💬 880 • ⏱️ 25:05 • 12h ago
-
----
-
-**[WH nightmare: AI bubble COLLAPSES! A TECH INSIDER shows the TERRIFYING WAY it may all CRATER](https://www.youtube.com/watch?v=n32mhb2aUsE)**
-
-MAGA allies are making huge bets on AI amid new signs that a tech “bubble” could rattle the economy. MS NOW's Ari Melber ...
-
-📺 MS NOW
-
-👁️ 728K • 👍 10K • 💬 2K • ⏱️ 12:08 • 3d ago
+👁️ 67K • 👍 1K • 💬 419 • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -317,7 +287,17 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 Danny Jones
 
-👁️ 145K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 148K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+
+---
+
+**[DR. DRE ADMITS HE USES AI?! 😳 HIP HOP IS CHANGING FOREVER💯 #DrDre #AIMusic #AI #HipHop](https://www.youtube.com/watch?v=nBJTk25nSBE)**
+
+Dr. Dre just entered the AI music debate, and this could be one of the biggest conversations in hip hop right now. In a new ...
+
+📺 CrazyHoodMedia
+
+👁️ 1K • 👍 49 • 💬 5 • ⏱️ 0:42 • 33m ago
 
 ---
 
@@ -327,17 +307,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 77K • 👍 4K • 💬 394 • ⏱️ 32:12 • 21h ago
-
----
-
-**[Ilya Sutskever’s New AI Superintelligence  Is About to Change A..I Forever?](https://www.youtube.com/watch?v=ZRuIEB1x4u4)**
-
-https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 ...
-
-📺 TheAIGRID
-
-👁️ 21K • 👍 558 • 💬 98 • ⏱️ 11:27 • 2d ago
+👁️ 82K • 👍 4K • 💬 404 • ⏱️ 32:12 • 23h ago
 
 ---
 
@@ -347,25 +317,53 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 168K • 👍 3K • 💬 704 • ⏱️ 3:27:05 • 2d ago
+👁️ 173K • 👍 3K • 💬 700 • ⏱️ 3:27:05 • 2d ago
 
 ---
 
-**[You Don&#39;t Need Python to Keep Up With AI](https://www.youtube.com/watch?v=Dpoj7vXPpfk)**
+**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
 
-Just want to keep up with AI and not fall behind, without building anything specific? Honest answer: you don't need Python at all.
+📺 MelandWorld1
 
-📺 Tech With Tim
-
-👁️ 4K • 👍 133 • 💬 2 • ⏱️ 0:38 • 13h ago
+👁️ 2K • 👍 158 • 💬 11 • ⏱️ 0:34 • 1h ago
 
 ---
 
-**[Rappers That Are Using AI To Make Their Songs 💔🫩](https://www.youtube.com/watch?v=PIwv3u8PAX4)**
+**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
 
-📺 RealjN
+shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
 
-👁️ 48K • 👍 6K • 💬 200 • ⏱️ 0:26 • 5h ago
+📺 Danno Cal Drawings
+
+👁️ 827K • 👍 64K • 💬 2K • ⏱️ 0:35 • 2d ago
+
+---
+
+**[This Isn’t AI? 🤖 (Annoying Orange 🍊)](https://www.youtube.com/watch?v=AeXLSrEwN48)**
+
+📺 Ramo Akh
+
+👁️ 2.3M • 👍 43K • 💬 2K • ⏱️ 0:16 • 1d ago
+
+---
+
+**[REAL VS AI VIDEOS..](https://www.youtube.com/watch?v=JaZXwQZ2UoI)**
+
+subscribe for more :) Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6" Plush: ...
+
+📺 Foltyn Reacts
+
+👁️ 527K • 👍 11K • 💬 2K • ⏱️ 16:31 • 2d ago
+
+---
+
+**[&quot;Oh hey, I&#39;m seeing less AI in my feed&quot;...](https://www.youtube.com/watch?v=7TH7aYMDe_I)**
+
+"Oh hey, I'm seeing less AI in my feed"... #science #technology #ai #fyp.
+
+📺 Jensun
+
+👁️ 11K • 👍 629 • 💬 19 • ⏱️ 1:14 • 11h ago
 
 ---
 
@@ -381,7 +379,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,308 • 9d ago
+⬇️ 2,358,347 • ❤️ 12,333 • 9d ago
 
 ---
 
@@ -393,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,737 • 3d ago
+⬇️ 6,674,515 • ❤️ 2,741 • 3d ago
 
 ---
 
@@ -405,7 +403,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 952 • 13h ago
+⬇️ 47,098 • ❤️ 962 • 15h ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 627 • 4h ago
+⬇️ 244,834 • ❤️ 640 • 6h ago
 
 ---
 
@@ -429,7 +427,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,044 • 3d ago
+⬇️ 190,062 • ❤️ 1,051 • 3d ago
 
 ---
 
@@ -441,7 +439,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 535 • 6d ago
+⬇️ 676,697 • ❤️ 539 • 6d ago
 
 ---
 
@@ -453,7 +451,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,637 • 6d ago
+⬇️ 738,345 • ❤️ 1,645 • 6d ago
 
 ---
 
@@ -465,7 +463,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,334,820 • ❤️ 648 • 7d ago
+⬇️ 1,334,820 • ❤️ 652 • 7d ago
 
 ---
 
@@ -477,7 +475,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 362 • 22h ago
+⬇️ 23,516 • ❤️ 368 • 23h ago
 
 ---
 
@@ -489,7 +487,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,205 • 9d ago
+⬇️ 17,421 • ❤️ 1,207 • 9d ago
 
 ---
 
@@ -519,7 +517,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 710 • 💬 5 • ⭐ 4,879 • 14d ago
+▲ 711 • 💬 5 • ⭐ 4,879 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -553,18 +551,6 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 ---
 
-**[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
-
-*Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
-
-LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
-
-▲ 18 • 💬 1 • ⭐ 2,652 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -574,6 +560,18 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 124 • 💬 4 • ⭐ 99,478 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
+
+*Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
+
+LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
+
+▲ 18 • 💬 1 • ⭐ 2,674 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
 
 ---
 
@@ -613,7 +611,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 254 • 💬 2 • ⭐ 279 • 4d ago
+▲ 255 • 💬 2 • ⭐ 279 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -626,7 +624,7 @@ EnvHarness and EnvRigger dynamically reshape static environments via programmabl
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 85 • 💬 7 • ⭐ 84,844 • 25mo ago
+▲ 85 • 💬 7 • ⭐ 84,879 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -642,7 +640,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 11h ago
+⭐ 17.5k • 🔱 2.0k • 13h ago
 
 ---
 
@@ -662,7 +660,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.1k • 2d ago
+⭐ 8.9k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -672,7 +670,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 590 • 1h ago
+⭐ 3.5k • 🔱 591 • 3h ago
 
 ---
 
@@ -692,7 +690,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 354 • 7h ago
+⭐ 3.0k • 🔱 355 • 8h ago
 
 ---
 
@@ -702,7 +700,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 285 • 2h ago
+⭐ 2.5k • 🔱 288 • 30s ago
 
 ---
 
@@ -712,7 +710,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 188 • 2d ago
+⭐ 2.2k • 🔱 188 • 1h ago
 
 ---
 
@@ -732,7 +730,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 237 • 1d ago
+⭐ 1.9k • 🔱 238 • 1d ago
 
 ---
 
