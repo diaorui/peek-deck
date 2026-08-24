@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T14:41:28.722949+00:00'
+updated: '2026-08-24T15:39:09.729601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 14:41 UTC  
+**Last Updated:** August 24, 2026 at 15:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,33 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
-
-16h ago
-
----
-
 **[I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating](https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/)**
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 2h ago
+🔗 [Rauno](https://rauno.ai) • 3h ago
 
 ---
 
-**[A new approach to building smarter more capable AI](https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/)**
+**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
-
-5h ago
-
----
-
-**[i think AI memory is more than just remembering things](https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/)**
-
-i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
-
-6h ago
+17h ago
 
 ---
 
@@ -71,7 +55,39 @@ i've been thinking about this a lot lately. most AI memory today seems to work l
 
 CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
+2h ago
+
+---
+
+**[I ran the same AI character through 40 comic strips and she slowly became a different person](https://www.reddit.com/r/artificial/comments/1vx4nyd/i_ran_the_same_ai_character_through_40_comic/)**
+
+About six months ago I started a weekly webcomic. I should say from the start that the character is entirely AI produced, there was no traditional artwork involved at any point. The whole experiment was testing whether I could keep one consistent face across a long serialized run without the audience catching drift. Setup was straightforward. I created her in APOB AI, which costs nothing for everyday use and saves a character profile so it outputs a matching face every time, arranged panels in Clip Studio Paint, and kept a reference folder pinned with the original angles, expressions, and lighting I wanted to reuse every week. For the first twenty or so strips it genuinely felt like it was working. Same face, same proportions, recognizable week to week. Readers treated her like any other webcomic protagonist. Nobody asked whether she was AI. Around strip twenty five I started noticing something when I went back to my reference folder. The jawline had narrowed slightly. Eye spacing was maybe two percent wider. Nothing you'd catch between consecutive strips, but when I put strip one next to strip twenty five the difference was undeniable. Like seeing someone after they've gotten a haircut you can't quite place. I kept going. At strip thirty two a reader left a comment that said something like "did you redesign the character? she looks different but I can't figure out how." That was the moment the drift crossed from my own paranoia into actual audience perception. I went back and audited all forty strips against the original reference set. Seven needed full redraws to bring the face back toward strip one. Most of those fell in the thirty to forty range where cumulative drift had really compounded. The redraws were not perfect either, because I was now generating from a corrected reference that was itself slightly removed from the true original. The pattern I noticed is that it isn't random noise. The face doesn't jitter around a center point. It walks slowly away from it, and it walks in a specific direction. Features that made the original character distinctive (a slightly crooked nose, an uneven smile line) gradually smoothed out. By strip forty she looked more conventionally attractive but less like herself. The drift makes faces more symmetrical and more generic over time. I don't have a real fix for this. What I'm doing now is hard resetting to the original reference images every five strips instead of letting the most recent output become the next seed. That's cut the problem down but has not eliminated it. Seven redraws out of forty is roughly eighteen percent, which is honestly more than I had budgeted for when I started this. The thing that still gets me is that nobody noticed strip to strip. The drift is completely invisible at one week intervals. It only becomes obvious when you compress the timeline and compare endpoints. Strip one and strip forty look like cousins, not the same person.
+
 1h ago
+
+---
+
+**[I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.](https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/)**
+
+I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
+
+41m ago
+
+---
+
+**[A new approach to building smarter more capable AI](https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/)**
+
+A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
+
+6h ago
+
+---
+
+**[i think AI memory is more than just remembering things](https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/)**
+
+i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
+
+7h ago
 
 ---
 
@@ -79,23 +95,15 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 How does everyone stay on top of the different platforms, models and versions? I see discussions like "ew, since the v4.25 model change I hate it. The responses are not the same and my code doesn't run" or "this model is truly a unique experience". Feels like every week there is a new model and I'm not a power user enough to get a sense of what changed and don't feel the need to "care" about it. Alternatively I see many posts talking about usage tokens, API, configuring agents, building apps, games. My experience is using AI at home (Claude) for cooking and general suggestions entirely as a chatbot. I rarely if ever hit my free usage limit. At work they give us Chat GPT and Cowork. I use it to review my code, respond to emails and do some data analysis. I feel like I'm not doing enough. It's like trying to get into crypto and web3. I tried to read a cryptocurrency white paper and after 3 sentences had 10 questions and didn't know what 8 of the words mean. Are these people talking about usage tokens and detailed model reviews so curious and power users? Do they do all this for work or a side project hobby? Trying to make money? Adopt new tech? Is it ok to be satisfied with the minimum chat bot helper without stressing over models, API connections, auth, tokens and building their own agents? I guess I don't have any more use cases at the moment?
 
-3h ago
-
----
-
-**[Automating uploading videos to customer site](https://www.reddit.com/r/artificial/comments/1vwzvr8/automating_uploading_videos_to_customer_site/)**
-
-I am new to this group and trying to automate things at my workplace, I am not sure if this is the right place to ask the question. I generally run workshops and need to upload the recorded videos later to customer site. Is there a way for me to automate this? After every workshop, the recoding is automatically uploaded to customers site?
-
-3h ago
-
----
-
-**[Exploring a NORD × RHEA hybrid: a spiking/event-driven alternative to a fixed Transformer stack](https://www.reddit.com/r/artificial/comments/1vwyiv3/exploring_a_nord_rhea_hybrid_a_spikingeventdriven/)**
-
-​ I've been experimenting for a while with two different ideas for non-Transformer language models, and I'm now considering combining them into one architecture. The first is NORD, a recurrent/spiking architecture I've been developing around token-time dynamics, persistent state, sparse processing, and SNN-style temporal computation. The second is RHEA (Reactive Hypergraph Event Architecture), which I'm currently prototyping at ~1B parameters. The basic idea behind RHEA is that instead of pushing every token through a fixed stack of layers, the model maintains a set of latent events and dynamically chooses which internal computations should happen next. The scheduler, which I call ARES, estimates whether a candidate reaction is worth executing. Conceptually: events / latent facts v candidate reactions v ARES "what is worth computing next?" / | \ v v v R3 R17 R81 \ | / v new events A reaction can combine existing events and create a new latent event: event A + event B reaction v event C The interesting part is that I think NORD and RHEA may fit together surprisingly well. My current idea is: input tokens v NORD sensory / temporal SNN spike/events v RHEA event fabric v ARES decides what should fire / | \ v v v reaction reaction reaction | | | NORD NORD NORD SNN SNN SNN microcircuit microcircuit \ | / v new events memory / queries v output The rough division of responsibility would be: NORD = temporal dynamics - recurrent state - LIF/spiking dynamics - persistent memory - event triggering - local temporal computation RHEA = cognitive/event structure - latent facts/events - dynamic interaction graph - creation of derived events - multi-step computation ARES = executive scheduler - estimates reaction utility - accounts for compute cost - decides which reactions actually execute - allows computation depth to vary with the problem One thing I'm particularly interested in is making the reaction operators themselves small hybrid SNN microcircuits. Instead of: A + B -> dense MLP -> C something closer to: A + B | v spiking microcircuit t0: spike t1: spike t2: spike spike | v latent event C I would NOT make the whole model purely spiking. My current thinking is to keep latent representations and the language head dense/BF16, while using spiking dynamics for temporal state, memory, event triggering and some reaction computation. Something like: token embeddings -> dense latent event vectors -> dense ARES utility model -> dense temporal state -> SNN/recurrent persistent memory -> SNN/recurrent reaction dynamics -> hybrid SNN LM head -> dense Another part I find interesting is persistent memory. A RHEA event could write into a slow NORD memory state: RHEA event v NORD persistent memory ... hundreds/thousands of tokens ... v memory activity crosses a threshold v new recall event v RHEA So memory would not necessarily be passive storage. It could actively generate events when relevant internal states become excited. I'm also considering a form of path crystallization. If the system repeatedly performs something like: reaction A -> reaction F -> reaction K -> reaction B the repeated sequence could eventually be distilled into a faster macro-reaction or learned skill. In the hybrid version, this could potentially include recurring spike/reaction patterns as well. So the architecture would operate across several timescales: FAST NORD spike / recurrent dynamics MEDIUM RHEA reaction chains and reasoning SLOW persistent memory + crystallized skills The overall principle I'm exploring is basically: «computation should follow information, rather than information always following a fixed computation graph.» A simple input might activate very little of the system. A difficult input could trigger more events, more reactions and deeper computation. Importantly, I'm not claiming this is better than Transformers. There are some obvious problems I expect: - irregular computation is unfriendly to GPUs - sparse/discrete routing is difficult to train - skipped reactions create a credit-assignment problem - SNN dynamics could make an already difficult optimization problem even less stable - dynamic event memory can accumulate garbage - batching event-driven computation efficiently is non-trivial - it's possible that the extra architectural complexity simply won't outperform a well-optimized Transformer/MoE For skipped-reaction credit I'm currently experimenting with a counterfactual mechanism where near-threshold reactions get a cheap preview, so the scheduler can estimate whether skipping them was a mistake. The current RHEA prototype is already being trained independently; the NORD/RHEA hybrid described here is still a design direction rather than a finished model. What I'm most interested in hearing from people here: - Does this decomposition make sense? - What do you think would fail first? - Are there papers/projects that are especially close to this? - Would you keep the SNN component limited to memory/temporal state, or also use it inside the reaction operators? - Is dynamic computation at this granularity likely to lose too much hardware efficiency to be worthwhile? I'd especially appreciate criticism from people working on SNNs, recurrent models, MoE/routing, adaptive computation, or non-Transformer architectures.
-
 4h ago
+
+---
+
+**[Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?](https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/)**
+
+As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
+
+57m ago
 
 ---
 
@@ -103,15 +111,7 @@ I am new to this group and trying to automate things at my workplace, I am not s
 
 More thoughts on AI writing, detection and watermarking
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 8h ago
-
----
-
-**[AI has changed my workflow more than I expected, but not always in the direction people assume.](https://www.reddit.com/r/artificial/comments/1vwy928/ai_has_changed_my_workflow_more_than_i_expected/)**
-
-The productivity angle everyone talks about is real, to a point. I use AI for drafting copy, squashing boilerplate code, summarizing user feedback. That part works. What I didn't expect is how much time I spend prompting, reprompting, and crosschecking outputs. Some days it nets out close to neutral. What I'm genuinely curious about is whether solo builders and indie hackers here have found specific tools or workflows where AI is clearly additive rather than just reshuffling where the effort goes. Not in a general sense, specifically. What task went from painful to easy because of AI, and stayed easy after the novelty wore off? The cost side matters too. A lot of these tools stack up fast when you're running lean, and the ROI math gets harder to justify when you're paying $2040/month per tool across five or six of them. Curious what people are actually keeping in their stack six months in versus what got quietly cancelled.
-
-4h ago
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 9h ago
 
 ---
 
@@ -121,7 +121,43 @@ The productivity angle everyone talks about is real, to a point. I use AI for dr
 
 **[Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
+
+---
+
+**[Taiwan issues indictments over alleged illegal export of AI servers to China](https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/)**
+
+Reuters • 6h ago
+
+---
+
+**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
+
+Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
+
+CNBC • 39m ago
+
+---
+
+**[America's energy sector needs 500,000 more workers by 2030 thanks to AI—robots may have to step in](https://fortune.com/2026/08/24/americas-energy-sector-needs-500000-more-workers-by-2030-thanks-to-ai-unless-more-workers-retrain-humanoid-robots-step-in/)**
+
+America’s energy sector is thriving thanks to AI. The only issue? There aren’t enough workers to meet the demand.
+
+Fortune • 25m ago
+
+---
+
+**[Why AI Productivity Is Corporate America's Biggest Self-Deception](https://www.forbes.com/sites/karadennison/2026/08/24/why-ai-productivity-is-corporate-americas-biggest-self-deception/)**
+
+Companies are spending billions on AI and telling investors it's working. Ask the employees and you get a different answer.
+
+Forbes • 17m ago
+
+---
+
+**[From AI tools to alcohol drops: The unexpected forces driving America's crime decline](https://www.axios.com/2026/08/24/violent-crime-decline-theories)**
+
+Axios • 6h ago
 
 ---
 
@@ -129,55 +165,21 @@ The New York Times • 3h ago
 
 Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
 
-SiliconANGLE • 16h ago
+SiliconANGLE • 17h ago
 
 ---
 
-**[Eoptolink’s AI Boom Stockpiling Sends Inventory Ballooning](https://www.bloomberg.com/news/articles/2026-08-24/eoptolink-s-ai-boom-stockpiling-sends-inventory-ballooning)**
+**[The Odds: The AI Anxiety](https://www.cnn.com/2026/08/24/us/video/the-odds-the-ai-anxiety-cnc-kalpar)**
 
-Bloomberg • 1h ago
+Public anxiety over AI skyrockets, with a vast majority fearing job losses and trusting neither party to manage the risks. CNN News Central’s John Berman and Chief Data Analyst Harry Enten look at this growing disconnect and when prediction markets expect an OpenAI IPO.
 
----
-
-**[Taiwan Charges Nine in Connection With Smuggling of AI Servers to China](https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47)**
-
-WSJ • 1h ago
+CNN • 1h ago
 
 ---
 
-**[Twitch and Amazon face legal action over using livestreams to train AI](https://www.bbc.com/news/articles/c70ljqk5kjqo)**
+**[Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom](https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea)**
 
-The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.
-
-BBC • 1h ago
-
----
-
-**[From AI tools to alcohol drops: The unexpected forces driving America's crime decline](https://www.axios.com/2026/08/24/violent-crime-decline-theories)**
-
-Axios • 5h ago
-
----
-
-**[Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html)**
-
-Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
-
-CNBC • 11h ago
-
----
-
-**[Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount](https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/)**
-
-Reuters • 13h ago
-
----
-
-**[Alibaba is raising $10 billion in Hong Kong's biggest-ever share sale for AI](https://qz.com/alibaba-hong-kong-share-sale-ai-expansion-082426)**
-
-The Chinese tech company sold 710 million shares at HK$112.70 each, with demand from institutional investors nearly tripling the offering
-
-qz.com • 2h ago
+WSJ • 5h ago
 
 ---
 
@@ -185,19 +187,13 @@ qz.com • 2h ago
 
 Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[AI boosted homework scores, then exam scores dropped: Study](https://news.ycombinator.com/item?id=49389565)**
-
-⬆️ 165 • 💬 11 • 2d ago • [canews24.online](https://canews24.online/?p=71)
-
----
 
 **[Digging the grave of my skills: Hollywood creatives training AI to do their jobs](https://news.ycombinator.com/item?id=49399941)**
 
@@ -271,6 +267,14 @@ Nvidia research shows that AI agents can perform well, and not go off the deep e
 
 ---
 
+**[Andrew Ng: "AI Engineering Skills Map: Building and Deploying AI Applications"](https://news.ycombinator.com/item?id=49407944)**
+
+AI Engineering Skills Map: Building and Deploying AI Applications
+
+⬆️ 15 • 💬 0 • 1d ago • [X (formerly Twitter)](https://twitter.com/AndrewYNg/status/2090840747738374568)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -281,17 +285,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 75K • 👍 1K • 💬 444 • ⏱️ 10:04 • 2d ago
-
----
-
-**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
-
-Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
-
-📺 The Economist
-
-👁️ 90K • 👍 2K • 💬 220 • ⏱️ 12:28 • 2d ago
+👁️ 76K • 👍 1K • 💬 450 • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -301,7 +295,15 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 Danny Jones
 
-👁️ 155K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 157K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+
+---
+
+**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
+
+📺 MelandWorld1
+
+👁️ 17K • 👍 920 • 💬 34 • ⏱️ 0:34 • 14h ago
 
 ---
 
@@ -311,37 +313,7 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 115K • 👍 9K • 💬 632 • ⏱️ 5:15 • 20h ago
-
----
-
-**[DR. DRE ADMITS HE USES AI?! 😳 HIP HOP IS CHANGING FOREVER💯 #DrDre #AIMusic #AI #HipHop](https://www.youtube.com/watch?v=nBJTk25nSBE)**
-
-Dr. Dre just entered the AI music debate, and this could be one of the biggest conversations in hip hop right now. In a new ...
-
-📺 CrazyHoodMedia
-
-👁️ 12K • 👍 278 • 💬 38 • ⏱️ 0:42 • 12h ago
-
----
-
-**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=nFNapm2E5xk)**
-
-I bought every ai generated scam product I found on tiktok, temu, and aliexpress! Subscribe to @LawByMike for more content!
-
-📺 Law By Mike
-
-👁️ 534K • 👍 11K • 💬 1K • ⏱️ 25:05 • 1d ago
-
----
-
-**[This AI Creates Insane 3D Worlds](https://www.youtube.com/watch?v=ZY628bslSYY)**
-
-This might be one of the coolest AI models I've seen all year. Tencent's new WorldClaw model can generate an entire editable 3D ...
-
-📺 Matt Wolfe
-
-👁️ 395 • 👍 19 • 💬 2 • ⏱️ 1:29 • 2h ago
+👁️ 123K • 👍 10K • 💬 662 • ⏱️ 5:15 • 21h ago
 
 ---
 
@@ -351,15 +323,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 91K • 👍 4K • 💬 419 • ⏱️ 32:12 • 1d ago
-
----
-
-**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
-
-📺 MelandWorld1
-
-👁️ 14K • 👍 790 • 💬 30 • ⏱️ 0:34 • 13h ago
+👁️ 93K • 👍 4K • 💬 423 • ⏱️ 32:12 • 1d ago
 
 ---
 
@@ -369,7 +333,47 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 183K • 👍 3K • 💬 710 • ⏱️ 3:27:05 • 2d ago
+👁️ 186K • 👍 3K • 💬 713 • ⏱️ 3:27:05 • 2d ago
+
+---
+
+**[The REAL Reason AI Is About To Change Everything](https://www.youtube.com/watch?v=Bj02me1CHmE)**
+
+Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has forecast the world's biggest risks for over 25 years, ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 162K • 👍 3K • 💬 343 • ⏱️ 16:15 • 1d ago
+
+---
+
+**[I Made a Viral AI Love Story (500M Views) — Steal My Prompts](https://www.youtube.com/watch?v=QfylrxtQSSs)**
+
+I made an AI love story for my friend's wedding — it hit ~500M views across social. Here's the full workflow, and every prompt is ...
+
+📺 Higgsfield AI
+
+👁️ 52K • 👍 2K • 💬 203 • ⏱️ 23:20 • 2d ago
+
+---
+
+**[How a $20 AI is Replacing $235,000 Lawyers](https://www.youtube.com/watch?v=haZ5gddlQ4g)**
+
+Lawyers were supposed to be one of the professions AI couldn't replace. But the legal industry is discovering that many of its most ...
+
+📺 The Infographics Show
+
+👁️ 78K • 👍 2K • 💬 562 • ⏱️ 13:53 • 1d ago
+
+---
+
+**[The AI Bath Bomb Scam](https://www.youtube.com/watch?v=v7HCQ8jNFtc)**
+
+Facebook Bath bomb companies have been creating AI-generated ads to sell products that look NOTHING like what customers ...
+
+📺 TheAsherShow
+
+👁️ 65K • 👍 4K • 💬 331 • ⏱️ 12:01 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,422 • 9d ago
+⬇️ 2,645,226 • ❤️ 12,453 • 10d ago
 
 ---
 
@@ -397,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,780 • 4d ago
+⬇️ 7,009,063 • ❤️ 2,791 • 4d ago
 
 ---
 
@@ -409,7 +413,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 997 • 4h ago
+⬇️ 57,947 • ❤️ 1,007 • 5h ago
 
 ---
 
@@ -421,7 +425,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 670 • 18h ago
+⬇️ 312,627 • ❤️ 678 • 19h ago
 
 ---
 
@@ -433,7 +437,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,071 • 4d ago
+⬇️ 224,114 • ❤️ 1,077 • 4d ago
 
 ---
 
@@ -445,7 +449,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 559 • 6d ago
+⬇️ 761,975 • ❤️ 567 • 6d ago
 
 ---
 
@@ -457,7 +461,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 790,378 • ❤️ 1,686 • 7d ago
+⬇️ 790,378 • ❤️ 1,697 • 7d ago
 
 ---
 
@@ -469,7 +473,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 377 • 1d ago
+⬇️ 60,294 • ❤️ 380 • 1d ago
 
 ---
 
@@ -481,7 +485,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,456,700 • ❤️ 665 • 8d ago
+⬇️ 1,456,700 • ❤️ 672 • 8d ago
 
 ---
 
@@ -493,7 +497,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,218 • 10d ago
+⬇️ 18,065 • ❤️ 1,222 • 10d ago
 
 ---
 
@@ -563,7 +567,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
 
-▲ 15 • 💬 2 • ⭐ 5,679 • 1mo ago
+▲ 15 • 💬 2 • ⭐ 5,726 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
 
@@ -603,9 +607,23 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 131 • 💬 3 • ⭐ 23,871 • 2mo ago
+▲ 131 • 💬 3 • ⭐ 23,902 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
+
+---
+
+**[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
+
+*Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
+
+🏢 alibaba
+
+LongHorizon-Harness improves long-horizon agent performance by explicitly tracking verified task states outside context via a manage-execute-audit loop.
+
+▲ 180 • 💬 3 • ⭐ 1,195 • 21d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
 ---
 
@@ -617,22 +635,9 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 257 • 💬 2 • ⭐ 307 • 4d ago
+▲ 258 • 💬 2 • ⭐ 307 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 85 • 💬 7 • ⭐ 84,879 • 25mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -646,7 +651,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.7k • 🔱 2.0k • 7h ago
+⭐ 17.8k • 🔱 2.0k • 8h ago
 
 ---
 
@@ -676,7 +681,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 598 • 3h ago
+⭐ 3.6k • 🔱 600 • 18m ago
 
 ---
 
@@ -686,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 244 • 12d ago
+⭐ 3.0k • 🔱 244 • 13d ago
 
 ---
 
@@ -696,7 +701,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 359 • 3h ago
+⭐ 3.0k • 🔱 362 • 4h ago
 
 ---
 
@@ -706,7 +711,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 298 • 11h ago
+⭐ 2.6k • 🔱 303 • 12h ago
 
 ---
 
@@ -716,7 +721,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 6h ago
+⭐ 2.2k • 🔱 189 • 2h ago
 
 ---
 
@@ -726,7 +731,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.1k • 🔱 115 • 2h ago
+⭐ 2.2k • 🔱 116 • 3h ago
 
 ---
 
@@ -736,7 +741,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 184 • 2d ago
+⭐ 2.0k • 🔱 185 • 2d ago
 
 ---
 

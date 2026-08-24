@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Move over, Usain Bolt: Humanoid robots smash human records at Beijing games",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTV3MFZpWWc3ZFN1SW1FZGxXTFFyV2YzUlpKRHh5a1hGV093R1NLMkZ2d1RSZjcxLU5GeGJuOHRLUTZpLU5UUkplWlM3WnpHeVRsR21vWlgxb2JfamU5ejlhVGJuTk44Vkk0T3hCWno1Vy1TY3BvdFU1NS1WWHdna2daOF9TOXd6cU1nanBFRlRaNGZRN2w1YU05alkxN3U1LTJtdktNMS1zLXVJWGpfRnFB?oc=5",
-      "pub_date": 1787395324.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260419-robot-marathon-beijing-ww-1951-55435b.jpg",
-      "description": "More than 2,000 humanoid robots are competing in an Olympics-like showcase of China\u2019s rapidly advancing robotics industry."
-    },
-    {
       "headline": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -35,24 +25,34 @@
       "description": "XPeng's robotics business raised over $900M at a $6.3B valuation, a record for China's embodied AI, to mass-produce its IRON humanoid robot by end of 2026."
     },
     {
-      "headline": "Xpeng lands US$900m in funding for humanoid AI push despite wider quarterly loss",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEVNQzZxYVdCOExzZ2ZYM0pjOFVwTlB0QlJnd2dBVjFPU3F0MkZaa0hzaUp5RllOcnh2bUUwU0dpbXVUdzFoUmM1X3lHRTVXeFlZeGpMTkRPMmgzaHFTM1BkaGtTT1k4OWRPNFV1eXBRN2E4bFdEZ2JmQXJIMHJtZF95S2dtejN0cXAtbkVWWHpxOWFZQ29OeDNMc3lJU1lGUHdnWVJMR1Badlo4ajJZTlA3Y3dXazhvUUx5c0VLd2hreGFCeURyS3ZsbG1ucmVPbFHSAdIBQVVfeXFMUHNqNHFBbUc2UWlvRWpWRWxuNlRRZUQ3TGNCLWlwR250UWgxeWNlNDkteGtDTWs4Qk9BamVpRTdhbTZXMzhGa29mTjlXbGRwaHJCTXRBeFZIVG9sR3VFYzlMTU1HMDYxejlFVmF0aXRvZnBkVXZvY3dyRzA5c1BtbUdoQXIzVFVNNFRsZnlGNm4zNTBqSVl2eWc0T0pWYW5ra3A5UVR6cm9XNkgzMWttU0dUdUx2XzVBdEhwaU9yUGFEMzFIZHdnZl9kVDF4MzhNZTFB?oc=5",
-      "pub_date": 1787578165.0,
-      "article_url": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m",
-      "image": null,
-      "description": null
+      "headline": "Alibaba and Tencent support XPENG's raise of over $900M for humanoid robots",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWxkdjRtN0doMVR2RUtfMlpuemxoeUt3cTFxd2h3UFpyQmtleHlsZjlKaDd4SGlRUkVUYkgxSWNmbThSYkJYNE1SSGVBMFpST2lUUHVpUmtfTHN6X2t2dmdGZlROYjBaZnpfaFo0ZGQ5azJpR2V6ZlAwMm1haExCZ1VaMDZzR1RvRU9MTTB2aWNEVjFsUUdMakRYRHRmb3BCMlRZWHctVEl2UWFoSkFONEs3bExDZVROaXR2em13?oc=5",
+      "pub_date": 1787566080.0,
+      "article_url": "https://www.stocktitan.net/news/XPEV/xpeng-robotics-business-raises-over-us-900-million-at-a-post-money-7uyylw1p98v1.html",
+      "image": "https://www.stocktitan.net/news_covers/XPENG_robotics_business_raises_over_US_900_million_at_a_post_money_valuation_of_over_US_6_3_billion__1496209.webp",
+      "description": "IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026."
     },
     {
-      "headline": "Neura Robotics acquires ADLATUS to build physical AI powerhouse",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUloWXpLY3JsVFFzeGFTWmVYLXFCNktFLTg1b0Q5bE12bGMxdFJJMjBGaXNzSS16cTExVjBBQnVMX1FJV0M3dnhmN3dWeHRodFdsRFFBbmhNUFVuOXVyd2VXQS1BVXF4ZG5nd08yUjVXRjduOUFpUkpsVjM1UDdHNnAwWkxodVFRbWstcWZ0Yw?oc=5",
-      "pub_date": 1787570158.0,
-      "article_url": "https://ca.finance.yahoo.com/news/neura-robotics-acquires-adlatus-build-111558970.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/CC30855BC587BA1DBF20147929FFACA64137D748B4C14765176A65D878B3239D/subgraphmysterio/resizefill_w1200_h818;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2Ffcf838e18e4d8b67a5f83217c71837d4.jpg",
-      "description": "NurPhoto/Getty Images German robotics startup Neura Robotics has announced its fifth acquisition in 16 months as it races to build a physical AI platform through acquisitions. The company announced today (Aug. 24) that it will take full ownership of Adlatus, a German maker of autonomous cleaning and sweeping robots for industry, logistics, healthcare and public spaces. Neura plans to add its own sensor and AI capabilities to Adlatus\u2019s fleet, which it will then fold into its shared physical AI in"
+      "headline": "Move over, Usain Bolt: Humanoid robots smash human records at Beijing games",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTV3MFZpWWc3ZFN1SW1FZGxXTFFyV2YzUlpKRHh5a1hGV093R1NLMkZ2d1RSZjcxLU5GeGJuOHRLUTZpLU5UUkplWlM3WnpHeVRsR21vWlgxb2JfamU5ejlhVGJuTk44Vkk0T3hCWno1Vy1TY3BvdFU1NS1WWHdna2daOF9TOXd6cU1nanBFRlRaNGZRN2w1YU05alkxN3U1LTJtdktNMS1zLXVJWGpfRnFB?oc=5",
+      "pub_date": 1787395324.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/chinese-humanoid-robot-lightning-beats-human-100m-world-record-rcna593869",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260419-robot-marathon-beijing-ww-1951-55435b.jpg",
+      "description": "More than 2,000 humanoid robots are competing in an Olympics-like showcase of China\u2019s rapidly advancing robotics industry."
+    },
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
+      "pub_date": 1787585058.0,
+      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
       "headline": "AI robotics companies love San Francisco. They\u2019re just too big to stay",
@@ -65,16 +65,6 @@
       "description": "The city is still ground zero for the industry boom. But as machine companies scale up, they can\u2019t find the space to match."
     },
     {
-      "headline": "Wake Up Call from Canton High School Robotics",
-      "source": "WCVB",
-      "source_url": "https://www.wcvb.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQldXa0tDd2p3Zl9WQ2trdWhBMmJjdVFxWGowdVNRd2ppM2wzNkQ5MmdRak11TW9qbGJ2cHQ4d3gwZkRZbjctckxuTHFzeEpnMGp3b2l3QnlyeFFEUG96WTg0TUQxbWwwTnJidGVyamMxSEpKUVVqRnhWYXZKM2M5V0hnUkpEWnljLUpV?oc=5",
-      "pub_date": 1787564040.0,
-      "article_url": "https://www.wcvb.com/article/wake-up-call-from-canton-high-school-robotics/73508476",
-      "image": "https://kubrick.htvapps.com/vidthumb/4c60575f-2b5c-48d1-a77d-3a26500fbcf3/4c9772bd-e270-4147-86bc-eb5ed19ee9c9.jpg?crop=0.782xw%3A0.780xh%3B0.0700xw%2C0&resize=1200%3A*",
-      "description": "Monday's Wake Up call comes from the Canton High School Robotics team."
-    },
-    {
       "headline": "Government can bring robotics to life",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -85,6 +75,26 @@
       "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
     },
     {
+      "headline": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3d4dmo2aEZ6VnVzZ0pianVUT0FwQ1hxRUUzQlh0eDFsbjE5VjBxaS0ydVJxdHRhWUxySFVhaGdKaDRFcDM0RzVCVXhBX2JNdUlYUHBvcVY5UkRLeHpBM0Q0UVhxVHdNZS1mTmhuYzdSYUU2a0IwUk9kMmRoalJRWm15ZXdpaDFPc1BmeFZZY2NyS2hGa3FUakdYMF93bDVRU3ZZc2JZY1hjbXNTSnBGbnB3QnJiaHA2?oc=5",
+      "pub_date": 1787501862.0,
+      "article_url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/06/TSLA-Optimus-scaled.jpeg",
+      "description": "AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard."
+    },
+    {
+      "headline": "Wake Up Call from Canton High School Robotics",
+      "source": "WCVB",
+      "source_url": "https://www.wcvb.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQldXa0tDd2p3Zl9WQ2trdWhBMmJjdVFxWGowdVNRd2ppM2wzNkQ5MmdRak11TW9qbGJ2cHQ4d3gwZkRZbjctckxuTHFzeEpnMGp3b2l3QnlyeFFEUG96WTg0TUQxbWwwTnJidGVyamMxSEpKUVVqRnhWYXZKM2M5V0hnUkpEWnljLUpV?oc=5",
+      "pub_date": 1787564040.0,
+      "article_url": "https://www.wcvb.com/article/wake-up-call-from-canton-high-school-robotics/73508476",
+      "image": "https://kubrick.htvapps.com/vidthumb/4c60575f-2b5c-48d1-a77d-3a26500fbcf3/4c9772bd-e270-4147-86bc-eb5ed19ee9c9.jpg?crop=0.782xw%3A0.780xh%3B0.0700xw%2C0&resize=1200%3A*",
+      "description": "Monday's Wake Up call comes from the Canton High School Robotics team."
+    },
+    {
       "headline": "One U.S. robotics distributor now covers all 50 states for Faraday Future",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -93,18 +103,8 @@
       "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-a8intlp6hpjh.html",
       "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Founder_and_Global_CEO_YT_Jia_Shares_Weekly_Investor_Update_Signs_New_FF_Par_Agreeme_1496171.webp",
       "description": "Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26."
-    },
-    {
-      "headline": "Intel report finds robotics readiness gap among businesses",
-      "source": "The Engineer",
-      "source_url": "https://www.theengineer.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenRTNkFvenhaNklLeGJIWENualVGUFFkTXh1MnlvX2R4TWVTU0JnVm9rRGM3eV9LWHdtOWp0MUlDLU43NTFKMUx6T0R0YlFtb04zY3Rod2ctbW12Tmxha3c0RkFZY0ZMS2Jnc1BKaHhhOFNWYnNMYnFSb0NZVDRCaEJEX0RWMmVQT2pmcG40MlVCWkRsQUkxMzBB?oc=5",
-      "pub_date": 1787563288.0,
-      "article_url": "https://www.theengineer.co.uk/content/news/intel-finds-robotics-readiness-gap-among-businesses",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T13:51:48.299737+00:00"
+  "fetched_at": "2026-08-24T15:38:59.486167+00:00"
 }

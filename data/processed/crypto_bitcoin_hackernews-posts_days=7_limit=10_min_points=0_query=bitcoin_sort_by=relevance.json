@@ -19,20 +19,6 @@
       "site_name": "davidebtc186.substack.com"
     },
     {
-      "title": "Both .btc and .bitcoin domain extensions coming",
-      "url": "https://namedesk.app/tlds/btc",
-      "hn_url": "https://news.ycombinator.com/item?id=49332502",
-      "author": "zeppelin_7",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-08-17T15:19:53Z",
-      "object_id": "49332502",
-      "image": "https://api.namedesk.app/api/tld-radar/og/btc.png",
-      "description": "Who\u2019s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.",
-      "favicon": "https://namedesk.app/apple-touch-icon.png",
-      "site_name": "Namedesk"
-    },
-    {
       "title": "Satd (Full Bitcoin Node in Rust): Guided Code Tour",
       "url": "https://epochbtc.github.io/satd/tour.html",
       "hn_url": "https://news.ycombinator.com/item?id=49380553",
@@ -75,7 +61,7 @@
       "site_name": "Strike a Block"
     }
   ],
-  "total_hits": 5,
+  "total_hits": 4,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T13:51:27.093732+00:00"
+  "fetched_at": "2026-08-24T15:38:32.091392+00:00"
 }
