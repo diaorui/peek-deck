@@ -1,5 +1,0 @@
-{
-  "cached_at": "2026-07-25T21:56:25.035365+00:00",
-  "data": "Motif-3-Beta is a multilingual, general-purpose Mixture-of-Experts (MoE) language model with ~314B total parameters and a 256K context length, designed for long-context understanding and generation tasks.",
-  "model_id": "Motif-Technologies/Motif-3-Beta"
-}

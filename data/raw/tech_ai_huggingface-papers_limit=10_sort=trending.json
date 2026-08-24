@@ -54,7 +54,7 @@
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
-      "github_stars": 586,
+      "github_stars": 651,
       "project_page": "https://4danyone.github.io/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 1,
       "published_at": "2026-07-05T20:00:00.000Z",
       "github_repo": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-      "github_stars": 2753,
+      "github_stars": 2797,
       "project_page": "https://llm-as-a-verifier.com/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T21:29:03.141805+00:00"
+  "fetched_at": "2026-08-24T23:47:02.322181+00:00"
 }
