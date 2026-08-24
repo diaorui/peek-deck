@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T11:02:12.981697+00:00'
+updated: '2026-08-24T11:54:00.887966+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 11:02 UTC  
+**Last Updated:** August 24, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 19h ago
 
 ---
 
@@ -176,13 +176,13 @@ Pluang • 1h ago
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -190,7 +190,7 @@ CoinDesk • 4h ago
 
 XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ CryptoSlate • 13h ago
 
 Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView • 21h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 10K • 👍 449 • 💬 38 • ⏱️ 18:53 • 19h ago
+👁️ 10K • 👍 449 • 💬 38 • ⏱️ 18:53 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 3K • 👍 79 • 💬 46 • ⏱️ 10:36 • 12h ago
+👁️ 3K • 👍 79 • 💬 46 • ⏱️ 10:36 • 13h ago
 
 ---
 
@@ -264,7 +264,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 120 • ⏱️ 43:03 • 12h ago
+👁️ 38K • 👍 2K • 💬 120 • ⏱️ 43:03 • 13h ago
 
 ---
 
@@ -274,7 +274,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 156 • ⏱️ 27:38 • 6h ago
+👁️ 37K • 👍 2K • 💬 156 • ⏱️ 27:38 • 7h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 444 • 💬 164 • ⏱️ 19:11 • 14h ago
+👁️ 11K • 👍 444 • 💬 164 • ⏱️ 19:11 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 22h ago
+👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 23h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 3K • 👍 51 • 💬 3 • ⏱️ 4:45 • 1d ago
+👁️ 3K • 👍 51 • 💬 3 • ⏱️ 4:45 • 2d ago
 
 ---
 
