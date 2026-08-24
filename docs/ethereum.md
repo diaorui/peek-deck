@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T15:39:09.744260+00:00'
+updated: '2026-08-24T16:37:07.858940+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 15:39 UTC  
+**Last Updated:** August 24, 2026 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[Report on the state of curated DeFi](https://www.reddit.com/r/ethereum/comments/1vx7rsv/report_on_the_state_of_curated_defi/)**
+
+Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
+
+5m ago
 
 ---
 
@@ -84,7 +92,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 23h ago
 
 ---
 
@@ -140,15 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 2d ago
-
----
-
-**[Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration](https://www.reddit.com/r/ethereum/comments/1vu16ki/raising_machinechecked_security_benchmarks_to/)**
-
-better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 3d ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 3h ago
+PR Newswire • 4h ago
 
 ---
 
@@ -184,13 +184,13 @@ PR Newswire • 3h ago
 
 Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.
 
-theblock.co • 2h ago
+theblock.co • 3h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -206,13 +206,13 @@ Fortune • 8h ago
 
 Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
 **[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 9h ago
 
 XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -228,7 +228,7 @@ CryptoSlate • 18h ago
 
 Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 151 • 💬 5 • ⏱️ 6:32 • 2h ago
+👁️ 1K • 👍 151 • 💬 5 • ⏱️ 6:32 • 3h ago
 
 ---
 
@@ -272,7 +272,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 3K • 👍 93 • 💬 22 • ⏱️ 10:36 • 17h ago
+👁️ 3K • 👍 93 • 💬 22 • ⏱️ 10:36 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 186 • ⏱️ 27:38 • 11h ago
+👁️ 66K • 👍 4K • 💬 186 • ⏱️ 27:38 • 12h ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 207 • 👍 14 • 💬 12 • ⏱️ 4:36 • 6h ago
+👁️ 207 • 👍 14 • 💬 12 • ⏱️ 4:36 • 7h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 13K • 👍 467 • 💬 234 • ⏱️ 19:11 • 19h ago
+👁️ 13K • 👍 467 • 💬 234 • ⏱️ 19:11 • 20h ago
 
 ---
 
@@ -312,7 +312,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bo
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 486 • 💬 106 • ⏱️ 12:06 • 10h ago
+👁️ 3K • 👍 486 • 💬 106 • ⏱️ 12:06 • 11h ago
 
 ---
 

@@ -13,6 +13,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "Report on the state of curated DeFi",
+      "author": "MacBudkowski",
+      "url": "https://www.reddit.com/r/ethereum/comments/1vx7rsv/report_on_the_state_of_curated_defi/",
+      "published": 1787589108.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20"
+    },
+    {
       "title": "\ud83d\udea8Every Ledger running the Ethereum app is vulnerable to signature substitution",
       "author": "ligi",
       "url": "https://www.reddit.com/r/ethereum/comments/1vwc8sj/every_ledger_running_the_ethereum_app_is/",
@@ -99,18 +110,7 @@
       "site_name": "Ethereal news",
       "favicon": "https://ethereal.news/etherealnews-logo.jpg",
       "description": "US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31"
-    },
-    {
-      "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vu16ki/raising_machinechecked_security_benchmarks_to/",
-      "published": 1787272498.0,
-      "thumbnail": "https://external-preview.redd.it/Rd5DFqLOp1u_1iNLPlVGfRA1cXwOQoF1UrDUC-sT5k4.jpeg?width=640&crop=smart&auto=webp&s=7b2f1777243c369eca559302778902abc0812a82",
-      "external_url": "https://blog.ethereum.org/2026/08/20/better-codes-challenge",
-      "site_name": "Ethereum Foundation Blog",
-      "favicon": "https://blog.ethereum.org/images/favicon.png",
-      "description": "better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum."
     }
   ],
-  "fetched_at": "2026-08-24T14:41:18.623252+00:00"
+  "fetched_at": "2026-08-24T16:37:02.386604+00:00"
 }
