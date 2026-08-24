@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T15:39:09.747500+00:00'
+updated: '2026-08-24T16:37:07.861785+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 15:39 UTC  
+**Last Updated:** August 24, 2026 at 16:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 17h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 17h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 18h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-16h ago
+17h ago
 
 ---
 
@@ -74,13 +74,13 @@ I am developing a heavy embedded C and sensor fusion system running on low-level
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 21h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 22h ago
 
 ---
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -122,7 +122,7 @@ Reuters • 4h ago
 
 XPeng's robotics business raised over $900M at a $6.3B valuation, a record for China's embodied AI, to mass-produce its IRON humanoid robot by end of 2026.
 
-Electrek • 3h ago
+Electrek • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ Electrek • 3h ago
 
 IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
 
-Stock Titan • 5h ago
+Stock Titan • 6h ago
 
 ---
 
@@ -146,7 +146,7 @@ NBC News • 2d ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 14m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -170,7 +170,7 @@ Financial Times • 1d ago
 
 AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard.
 
-24/7 Wall St. • 23h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ AI has already gutted white-collar tech jobs by the hundreds of thousands, but t
 
 Monday's Wake Up call comes from the Canton High School Robotics team.
 
-WCVB • 6h ago
+WCVB • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ WCVB • 6h ago
 
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
-Stock Titan • 16h ago
+Stock Titan • 17h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 792 • 👍 17 • ⏱️ 1:11 • 2h ago
+👁️ 792 • 👍 17 • ⏱️ 1:11 • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ Galileo X is designed to use different movement configurations for different par
 
 📺 Auren Voss Insights
 
-👁️ 945 • 👍 33 • 💬 7 • ⏱️ 0:54 • 4h ago
+👁️ 945 • 👍 33 • 💬 7 • ⏱️ 0:54 • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robo
 
 📺 USA TODAY
 
-👁️ 46K • 👍 347 • 💬 65 • ⏱️ 0:31 • 23h ago
+👁️ 46K • 👍 347 • 💬 65 • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 8K • 👍 65 • 💬 5 • ⏱️ 0:32 • 16h ago
+👁️ 8K • 👍 65 • 💬 5 • ⏱️ 0:32 • 17h ago
 
 ---
 
@@ -270,7 +270,7 @@ A robot has just done something that sounds straight out of science fiction — 
 
 📺 NDTV Profit
 
-👁️ 56K • 👍 266 • 💬 18 • ⏱️ 0:13 • 3d ago
+👁️ 56K • 👍 266 • 💬 18 • ⏱️ 0:13 • 4d ago
 
 ---
 

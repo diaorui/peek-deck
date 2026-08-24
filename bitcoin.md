@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T15:39:09.738169+00:00'
+updated: '2026-08-24T16:37:07.853519+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 15:39 UTC  
+**Last Updated:** August 24, 2026 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,17 +77,59 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Sold my Vespa GTV yesterday for $5500! Just went 4x long on BTC with the money!](https://www.reddit.com/r/Bitcoin/comments/1vwpcpd/sold_my_vespa_gtv_yesterday_for_5500_just_went_4x/)**
+**[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
-
-13h ago
+4h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
+5h ago
+
+---
+
+**[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
+
 4h ago
+
+---
+
+**[German petition against abolishing the one-year tax-free holding period for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vx238r/german_petition_against_abolishing_the_oneyear/)**
+
+Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
+
+3h ago
+
+---
+
+**[Sold my Vespa GTV yesterday for $5500! Just went 4x long on BTC with the money!](https://www.reddit.com/r/Bitcoin/comments/1vwpcpd/sold_my_vespa_gtv_yesterday_for_5500_just_went_4x/)**
+
+Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
+
+14h ago
+
+---
+
+**[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vx2nam/bitcoin_right_now/)**
+
+Then it drops back down to 62k by next week
+
+3h ago
+
+---
+
+**[Coinbase really wants your coin](https://www.reddit.com/r/Bitcoin/comments/1vx5m9b/coinbase_really_wants_your_coin/)**
+
+I wonder why that is so?
+
+1h ago
+
+---
+
+**[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
+
+6h ago
 
 ---
 
@@ -95,57 +137,15 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 Well it's basically it.
 
-5h ago
+6h ago
 
 ---
 
-**[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
+**[What's your message to people who are still waiting for 40k entry?](https://www.reddit.com/r/Bitcoin/comments/1vx6dvd/whats_your_message_to_people_who_are_still/)**
 
-5h ago
+I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
----
-
-**[Coming soon](https://www.reddit.com/r/Bitcoin/comments/1vwv0lm/coming_soon/)**
-
-9h ago
-
----
-
-**[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
-
-1d ago
-
----
-
-**[78k Resistance break](https://www.reddit.com/r/Bitcoin/comments/1vwjnly/78k_resistance_break/)**
-
-What's going on?????¿¿¿
-
-18h ago
-
----
-
-**[Bitcoin sentiment change](https://www.reddit.com/r/Bitcoin/comments/1vwrxpm/bitcoin_sentiment_change/)**
-
-It is funny to see how 3 daily and I should say significant green candles changed Bitcoin sentiment. So called analysts that analyze Bitcoin every day up until 17 August were calculating the bottom using Fibonacci and other measurements and now they're saying they are bullish. For example Jason Pizzino. 10 days ago his video title was Bitcoin: Countdown to the brutal bottom. 7 days ago his video title was Bitcoin: It's grinding to the bitter end. And now he is saying we bottomed in and now he started to see bullish signals.
-
-11h ago
-
----
-
-**[AI Agents aren't signing up for bank accounts.](https://www.reddit.com/r/Bitcoin/comments/1vwfdu7/ai_agents_arent_signing_up_for_bank_accounts/)**
-
-So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
-
-20h ago
-
----
-
-**[Are we in a bear trap?](https://www.reddit.com/r/Bitcoin/comments/1vwzbhd/are_we_in_a_bear_trap/)**
-
-What's everyone's opinions? I know bitcoin has been pumping had mixed opinions saying this is what we've been waiting for, some are saying it's a bull trap for an all time low. What do we think
-
-4h ago
+54m ago
 
 ---
 
@@ -157,7 +157,7 @@ What's everyone's opinions? I know bitcoin has been pumping had mixed opinions s
 
 Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 2d ago
 
 Bianco Research President Jim Bianco and B Riley Wealth Chief Market Strategist Art Hogan talk with Yahoo Finance Executive Editor Brian Sozzi about whether investors should choose gold (GC=F) or bitcoin (BTC-USD) as their go-to asset for the summer.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg • 2h ago
 
 **[Strategy Stock Rises More Than Bitcoin as Coinbase, Robinhood Lag](https://www.barrons.com/articles/strategy-stock-mstr-bitcoin-price-182cedb0)**
 
-Barron's • 8m ago
+Barron's • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 8m ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 3h ago
 
 @Anthony Pompliano 264 Views
 
-Moomoo • 31m ago
+Moomoo • 1h ago
 
 ---
 
@@ -209,19 +209,19 @@ Moomoo • 31m ago
 
 Finally, a killer use case
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
 **[Watch Alibaba Drops, SoftBank Bond Sale, Bitcoin Rally | Stock Movers](https://www.bloomberg.com/news/videos/2026-08-24/alibaba-drops-softbank-bond-sale-stock-movers-video)**
 
-Bloomberg • 15h ago
+Bloomberg • 16h ago
 
 ---
 
 **[Live updates: Bitcoin climbs past $79,000, with gold topping $4,700](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 128 • ⏱️ 20:21 • 16h ago
+👁️ 22K • 👍 2K • 💬 128 • ⏱️ 20:21 • 17h ago
 
 ---
 
@@ -289,7 +289,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 400 • 2h ago
+👁️ 3K • 👍 400 • 3h ago
 
 ---
 
@@ -299,7 +299,7 @@ TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.c
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 3K • 👍 464 • 💬 40 • ⏱️ 16:19 • 3h ago
+👁️ 3K • 👍 464 • 💬 40 • ⏱️ 16:19 • 4h ago
 
 ---
 
@@ -309,7 +309,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 369 • 💬 76 • ⏱️ 15:07 • 5h ago
+👁️ 5K • 👍 369 • 💬 76 • ⏱️ 15:07 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 575 • 💬 30 • ⏱️ 1:43 • 14h ago
+👁️ 8K • 👍 575 • 💬 30 • ⏱️ 1:43 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 18K • 👍 612 • 💬 207 • ⏱️ 41:23 • 16h ago
+👁️ 18K • 👍 612 • 💬 207 • ⏱️ 41:23 • 17h ago
 
 ---
 
