@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T13:51:54.521495+00:00'
+updated: '2026-08-24T14:41:28.738872+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 13:51 UTC  
+**Last Updated:** August 24, 2026 at 14:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 15h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 16h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 15h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 16h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ I am developing a heavy embedded C and sensor fusion system running on low-level
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 19h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 20h ago
 
 ---
 
@@ -104,7 +104,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-19h ago
+20h ago
 
 ---
 
@@ -122,7 +122,7 @@ NBC News • 2d ago
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -130,13 +130,13 @@ Reuters • 2h ago
 
 XPeng's robotics business raised over $900M at a $6.3B valuation, a record for China's embodied AI, to mass-produce its IRON humanoid robot by end of 2026.
 
-Electrek • 1h ago
+Electrek • 2h ago
 
 ---
 
 **[Xpeng lands US$900m in funding for humanoid AI push despite wider quarterly loss](https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m)**
 
-South China Morning Post • 22m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ South China Morning Post • 22m ago
 
 NurPhoto/Getty Images German robotics startup Neura Robotics has announced its fifth acquisition in 16 months as it races to build a physical AI platform through acquisitions. The company announced today (Aug. 24) that it will take full ownership of Adlatus, a German maker of autonomous cleaning and sweeping robots for industry, logistics, healthcare and public spaces. Neura plans to add its own sensor and AI capabilities to Adlatus’s fleet, which it will then fold into its shared physical AI in
 
-Yahoo! Finance Canada • 2h ago
+Yahoo! Finance Canada • 3h ago
 
 ---
 
@@ -160,7 +160,7 @@ The San Francisco Standard • 1d ago
 
 Monday's Wake Up call comes from the Canton High School Robotics team.
 
-WCVB • 4h ago
+WCVB • 5h ago
 
 ---
 
@@ -176,13 +176,13 @@ Financial Times • 1d ago
 
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
-Stock Titan • 14h ago
+Stock Titan • 15h ago
 
 ---
 
 **[Intel report finds robotics readiness gap among businesses](https://www.theengineer.co.uk/content/news/intel-finds-robotics-readiness-gap-among-businesses)**
 
-The Engineer • 4h ago
+The Engineer • 5h ago
 
 ---
 
@@ -206,7 +206,7 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 6K • 👍 53 • 💬 4 • ⏱️ 0:32 • 14h ago
+👁️ 6K • 👍 53 • 💬 4 • ⏱️ 0:32 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Galileo X is designed to use different movement configurations for different par
 
 📺 Auren Voss Insights
 
-👁️ 286 • 👍 9 • 💬 1 • ⏱️ 0:54 • 2h ago
+👁️ 286 • 👍 9 • 💬 1 • ⏱️ 0:54 • 3h ago
 
 ---
 
