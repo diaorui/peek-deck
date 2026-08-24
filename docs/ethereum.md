@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T19:57:18.292843+00:00'
+updated: '2026-08-24T20:34:37.230276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 19:57 UTC  
+**Last Updated:** August 24, 2026 at 20:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-3h ago
+4h ago
 
 ---
 
@@ -168,13 +168,13 @@ The Motley Fool • 1d ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 7h ago
+PR Newswire • 8h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 6h ago
 
 Ethereum (CRYPO: $ETH) is seeing its price rise at a faster pace than Bitcoin (CRYPTO: $BTC) as a rally in cryptocu...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -212,7 +212,7 @@ TradingView • 1d ago
 
 **[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ Fortune • 6h ago
 
 XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 1K • 👍 221 • 💬 20 • ⏱️ 12:24 • 3h ago
+👁️ 1K • 👍 221 • 💬 20 • ⏱️ 12:24 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 217 • 💬 5 • ⏱️ 6:32 • 6h ago
+👁️ 3K • 👍 217 • 💬 5 • ⏱️ 6:32 • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 4K • 💬 212 • ⏱️ 27:38 • 15h ago
+👁️ 78K • 👍 4K • 💬 212 • ⏱️ 27:38 • 16h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 263 • 👍 14 • 💬 19 • ⏱️ 4:36 • 10h ago
+👁️ 263 • 👍 14 • 💬 19 • ⏱️ 4:36 • 11h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 13K • 👍 482 • 💬 304 • ⏱️ 19:11 • 23h ago
+👁️ 13K • 👍 482 • 💬 304 • ⏱️ 19:11 • 1d ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 121 • ⏱️ 7:39 • 16h ago
+👁️ 1K • 👍 121 • ⏱️ 7:39 • 17h ago
 
 ---
 
