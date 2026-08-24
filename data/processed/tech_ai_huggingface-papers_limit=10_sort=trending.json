@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 82,
+      "upvotes": 84,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 712,
+      "upvotes": 745,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 5015,
+      "github_stars": 5349,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2608.20335",
       "arxiv_url": "https://arxiv.org/abs/2608.20335",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.20335.png",
-      "upvotes": 72,
+      "upvotes": 73,
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T15:38:43.271023+00:00"
+  "fetched_at": "2026-08-24T18:39:39.072544+00:00"
 }

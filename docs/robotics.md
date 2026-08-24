@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T17:31:08.726225+00:00'
+updated: '2026-08-24T18:39:54.679720+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 17:31 UTC  
+**Last Updated:** August 24, 2026 at 18:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 19h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 18h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 20h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-17h ago
+19h ago
 
 ---
 
@@ -74,13 +74,13 @@ I am developing a heavy embedded C and sensor fusion system running on low-level
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 23h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 1d ago
 
 ---
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-23h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -122,15 +122,15 @@ Reuters • 6h ago
 
 XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 4h ago
 
 ---
 
-**[XPeng robotics raises $900M at $6.3B valuation for IRON robot push](https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/)**
+**[Alibaba and Tencent support XPENG's raise of over $900M for humanoid robots](https://www.stocktitan.net/news/XPEV/xpeng-robotics-business-raises-over-us-900-million-at-a-post-money-7uyylw1p98v1.html)**
 
-XPeng's robotics business raised over $900M at a $6.3B valuation, a record for China's embodied AI, to mass-produce its IRON humanoid robot by end of 2026.
+IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
 
-Electrek • 4h ago
+Stock Titan • 8h ago
 
 ---
 
@@ -138,7 +138,7 @@ Electrek • 4h ago
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
@@ -146,7 +146,7 @@ CBS News • 3h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ Financial Times • 1d ago
 
 Skild AI is valued at $14B and already has hundreds of robots running in factories. Co-founder Abhinav Gupta explains why the robotics "ChatGPT moment" is real but will arrive one deployment at a time.
 
-The Next Web • 45m ago
+The Next Web • 1h ago
 
 ---
 
@@ -178,13 +178,13 @@ The Next Web • 45m ago
 
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
-Stock Titan • 18h ago
+Stock Titan • 19h ago
 
 ---
 
 **[Intel report finds robotics readiness gap among businesses](https://www.theengineer.co.uk/content/news/intel-finds-robotics-readiness-gap-among-businesses)**
 
-The Engineer • 8h ago
+The Engineer • 9h ago
 
 ---
 
@@ -198,27 +198,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 792 • 👍 17 • ⏱️ 1:11 • 4h ago
-
----
-
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
-
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
-
-📺 New York Post
-
-👁️ 31K • 👍 817 • 💬 208 • ⏱️ 0:52 • 1d ago
-
----
-
-**[This Robot Turns Walls Into Roads 🤖 #robotics #technology #innovation #tech](https://www.youtube.com/watch?v=N2lAMtEY0HM)**
-
-Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground robots have one major limitation: when the floor ...
-
-📺 EcoZora
-
-👁️ 82K • 👍 561 • 💬 10 • ⏱️ 0:07 • 2d ago
+👁️ 2K • 👍 29 • 💬 1 • ⏱️ 1:11 • 5h ago
 
 ---
 
@@ -228,7 +208,27 @@ Galileo X is designed to use different movement configurations for different par
 
 📺 Auren Voss Insights
 
-👁️ 945 • 👍 33 • 💬 7 • ⏱️ 0:54 • 5h ago
+👁️ 1K • 👍 34 • 💬 8 • ⏱️ 0:54 • 7h ago
+
+---
+
+**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+
+📺 New York Post
+
+👁️ 32K • 👍 830 • 💬 208 • ⏱️ 0:52 • 1d ago
+
+---
+
+**[This Robot Turns Walls Into Roads 🤖 #robotics #technology #innovation #tech](https://www.youtube.com/watch?v=N2lAMtEY0HM)**
+
+Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground robots have one major limitation: when the floor ...
+
+📺 EcoZora
+
+👁️ 82K • 👍 562 • 💬 10 • ⏱️ 0:07 • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robo
 
 📺 USA TODAY
 
-👁️ 46K • 👍 347 • 💬 65 • ⏱️ 0:31 • 1d ago
+👁️ 51K • 👍 371 • 💬 71 • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -248,17 +248,37 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 8K • 👍 65 • 💬 5 • ⏱️ 0:32 • 17h ago
+👁️ 10K • 👍 71 • 💬 5 • ⏱️ 0:32 • 19h ago
 
 ---
 
-**[Humanoid Robot Runs 100m in 9.32 Seconds, Beats Usain Bolt’s Record](https://www.youtube.com/watch?v=L1sTTzJoIP4)**
+**[Robot Helps a Man by Giving Water 🤖💧 | Amazing AI Video | Future Technology   #AIRobot #Robot #viral](https://www.youtube.com/watch?v=LljQrF2H_z0)**
 
-Humanoid robot “Lightning” clocked 9.32 seconds in a pre-race 100-metre test at the World Humanoid Robot Games in Beijing, ...
+AI robot, robot helping human, future robot, artificial intelligence, AI generated video, cinematic AI video, realistic robot video, robot ...
 
-📺 Firstpost
+📺 ALI HAMZA 
 
-👁️ 32K • 👍 170 • 💬 26 • ⏱️ 0:48 • 1d ago
+👁️ 3.0M • 👍 131K • 💬 244 • ⏱️ 0:10 • 2d ago
+
+---
+
+**[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
+
+The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
+
+📺 DPCcars
+
+👁️ 13K • 👍 174 • 💬 70 • ⏱️ 1:55 • 1d ago
+
+---
+
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+
+📺 ABC News
+
+👁️ 86K • 👍 644 • 💬 124 • ⏱️ 0:40 • 1d ago
 
 ---
 
@@ -268,27 +288,7 @@ A robot has just done something that sounds straight out of science fiction — 
 
 📺 NDTV Profit
 
-👁️ 56K • 👍 266 • 💬 18 • ⏱️ 0:13 • 4d ago
-
----
-
-**[Faster Than Usain Bolt… ⚡️ Then THIS Happens 🫯](https://www.youtube.com/watch?v=r-3cW13X0tk)**
-
-A robot that can outrun Usain Bolt… but apparently still needs to work on stopping. This viral clip comes alongside a real ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 50K • 👍 283 • 💬 59 • ⏱️ 0:15 • 4d ago
-
----
-
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
-
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
-
-📺 DPCcars
-
-👁️ 14K • 👍 36 • 💬 5 • ⏱️ 0:28 • 2d ago
+👁️ 57K • 👍 267 • 💬 18 • ⏱️ 0:13 • 4d ago
 
 ---
 

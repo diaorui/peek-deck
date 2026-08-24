@@ -35,6 +35,17 @@
       "description": "CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, \"we already told investors\" beats \"we left it out.\" Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central \"AI safety\" already is to its brand?"
     },
     {
+      "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
+      "published": 1787596097.0,
+      "thumbnail": "https://external-preview.redd.it/V0Z_1LhO5hAMkRkWwKS5flmOgQLMX5l6uPo8-jbJOos.jpeg?width=640&crop=smart&auto=webp&s=7f88f4911075765d7b489e423a96388ffaf80f5b",
+      "external_url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
+      "site_name": "Gadget Review",
+      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
+      "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
+    },
+    {
       "title": "Explore any moment in history as a short, visual documentary made around your curiosity",
       "author": "Goldenchild123",
       "url": "https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/",
@@ -68,17 +79,6 @@
       "description": "I reran the benchmark. The deterministic result reproduced exactly \u2014 but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability \u2260 Model generation correctness \u2260 End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output \u2193 Parsing \u2193 Schema validation \u2193 Normalization \u2193 Canonicalization \u2193 Claim binding \u2193 Evidence graph \u2193 Deterministic verification \u2193 Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?"
     },
     {
-      "title": "i think AI memory is more than just remembering things",
-      "author": "wolfie029",
-      "url": "https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/",
-      "published": 1787557744.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "i've been thinking about this a lot lately. most AI memory today seems to work like: \u201cyou like this\u201d \u201cyou told me this before\u201d \u201cyou work on this\u201d but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: \u201cwhat do you remember about me?\u201d you could ask: \u201chow have i changed over the last 3 years?\u201d \u201cwhat patterns do you see in the decisions i've made?\u201d \u201cwhy do you think my interests changed?\u201d \u201cwhat ideas have i kept coming back to?\u201d that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?"
-    },
-    {
       "title": "Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?",
       "author": "Livelandrrr",
       "url": "https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/",
@@ -90,27 +90,27 @@
       "description": "As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?"
     },
     {
-      "title": "Does AI benefit more from crypto, or is it the other way around?",
-      "author": "minicUnique",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx7uvm/does_ai_benefit_more_from_crypto_or_is_it_the/",
-      "published": 1787589292.0,
+      "title": "why does gemini 3.7 flash lot out perform gemini 3.6 despite released near time ?",
+      "author": "SlRenderStudio",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxale6/why_does_gemini_37_flash_lot_out_perform_gemini/",
+      "published": 1787595072.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We keep hearing about the combination of AI and crypto, but what happens if we look at it from both sides? What does AI actually gain from crypto? And what does crypto gain from AI? Is there a point where one becomes genuinely useful to the other, or are we just forcing two big narratives together? What\u2019s your take?"
+      "description": "recently when i was coding compared to deep seek (very bad at least website version ) , it produce very quality working code with minimum re tries and very quickly too and cheaply (no wonder gemini has 1 billion users , not just they shove it but actually good enough ) , compared to glm 5.2 or qwen 3.8 . (specially qwen 3.8 results are good and okay but take too much time and not the best , glm 5.2 is mediocre , and chatgpt normal website free version is just stupid i feel like and Anthropic models are very good but ridiculously expensive and limited , same as high end ChatGPT models . ? does any one has a idea ?"
     },
     {
-      "title": "AI stigma punishes legitimate use",
-      "author": "fivefilters",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/",
-      "published": 1787552088.0,
-      "thumbnail": "https://external-preview.redd.it/zLv_T9ONLiHQq_DS02M-jM3BGrRixB2iuSIFz1EDEII.jpeg?width=640&crop=smart&auto=webp&s=c1a4168fac20be5ab68ec05c4b309c5a6b580cbf",
-      "external_url": "https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use",
-      "site_name": "blog.keyvan.net",
-      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
-      "description": "More thoughts on AI writing, detection and watermarking"
+      "title": "Plato\u2019s Cave has a problem: telling someone they\u2019re seeing shadows just puts another shadow on the wall",
+      "author": "mb3rtheflame",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/",
+      "published": 1787594168.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Plato\u2019s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, \u201cThose are only shadows,\u201d what did you just give them? Another shadow. \ud83d\ude02 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you\u2019re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow \u201cescapes the Cave.\u201d Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn\u2019t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato\u2019s problem. We\u2019re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is."
     }
   ],
-  "fetched_at": "2026-08-24T17:30:42.778546+00:00"
+  "fetched_at": "2026-08-24T18:39:28.688082+00:00"
 }

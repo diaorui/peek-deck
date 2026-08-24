@@ -15,64 +15,84 @@
       "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers."
     },
     {
-      "headline": "Taiwan issues indictments over alleged illegal export of AI servers to China",
+      "headline": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+      "pub_date": 1787562118.0,
+      "article_url": "https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "I made my kids a voice-mode AI tutor to help them with spelling and math. It saves me time to have more fun with them.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR19TWmNWazFJZHduMWRnN2NPbXZrMVVZZEpSdjdMZHRQd0RjVFRzcnEyaDF6THRKWGJBS2R4MTBoV0lTd0ZuMmxCaE16Y1hUb0VTVHhkZm8welBLTjIyTnppTG9iaWtxYjkxcm9YWGxKYWVDLW9vLW1rQ2JwaUJITy1qNm8xT1k0amZ2YlVmazBKUQ?oc=5",
+      "pub_date": 1787595750.0,
+      "article_url": "https://www.businessinsider.com/dad-chatgpt-tutor-helps-my-kids-get-better-grades-2026-8",
+      "image": "https://i.insider.com/6a8715d385cca0a87cd8b071?width=1200&format=jpeg",
+      "description": "A father of two elementary school-aged kids created an AI tutor to quiz them until they felt confident to do well on their tests."
+    },
+    {
+      "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGpwVXdlcm9rRVZna3o3N1drZW5uUWZiSVB5akJmR1haV3Z4RFdBVlZnVkxhcFMyN3U2Z2toZDB4Z1VYbktJbm91eW9XUWViRnk1ZHRKTk1UcndGSVMwOGFfWklDMVRRVjJsc1BYNEc0UEpBZW15LWNEX1ZLaUxqZ3lPeWbSAYoBQVVfeXFMTmttSENYYVI2RUlQUnhzampuN1NQZTZ2aUFreWNZbXhpWWtwZ1JXTkdaRGdPb3dPQXBoN3RFdTV5NkNUeHhKY0lpaF9scTNlQm43aWx1LTNBVjF6SkdhOFc4V21fRXd6aDhZeWwtWkNjaXZ2NW9uWlZWQ2piZ25weE0yNWxGYmlIU0VB?oc=5",
+      "pub_date": 1787540100.0,
+      "article_url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228550-1763579370604-gettyimages-2246549520-Alibaba_Building_in_Shanghai.jpeg?v=1763579516&w=1920&h=1080",
+      "description": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments."
+    },
+    {
+      "headline": "Alibaba Wan3.0 AI video model launch: 30-second video generation",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yd2pmWWVGLXNqLU9MbEc3V1FLTUFUR0IzUnBscTBiNmNpX1RUR0ZNRnVhb0VDZl9SLUx3M0RiQ01hcGwtZGEyTXZXOW14NlRMQmhBUkFLVEhza3FDMkkyeERFUXdxdE0?oc=5",
+      "pub_date": 1787593587.0,
+      "article_url": "https://qz.com/alibaba-wan3-ai-video-model-launch-082426",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1766148360-300x200.jpg",
+      "description": "The model can convert spreadsheets, web pages, and presentations into video, and has been in public beta since August 6"
+    },
+    {
+      "headline": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
-      "pub_date": 1787563356.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+      "pub_date": 1787559824.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/",
       "image": null,
       "description": null
     },
     {
-      "headline": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "pub_date": 1787581493.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "headline": "Nvidia's AI inference chip from its $20 billion Groq deal enters full production",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UZTluNU9uV2lxTU9kN3NjN0ExY3ozLWdsWEk4cmtjal8td2NXMXpzaXpqeDdQRkVxZ2U5US1lUWtCWTByZW44QUhrZ2hZbHJLV0JzYUd3TFlZVXIzQlQ1czBkX09MNDA3RXB0MkxtSEdjcW5TdGlDdF9B?oc=5",
+      "pub_date": 1787592231.0,
+      "article_url": "https://qz.com/nvidia-groq-3-lpx-inference-chip-full-production-082426",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2018746067-300x200.jpg",
+      "description": "The chip, which came from Nvidia's $20 billion Groq acquisition, can generate 3,400 tokens per second in benchmarking tests"
+    },
+    {
+      "headline": "SpaceXAI to use Nvidia's Vera CPUs for agentic AI applications",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGxzN3pDUVlJWUVHNHc2eTIxYWF6bnRMX0dBZnhJWU9IWjgtZzNwdjJIZHlxWFRXMmpVa1NBazVmWnpDV2FReXNJM0VhTE9MU01fbVE1VmRtLW4xX3VDLThDdmxNOUdQMkw1UU1zYk9ILXpqMWxNRHZWdnViSHJVbmsxTXFWRVBrdERMR1NQaUpVb1hxWXNWTFpzd3ZkNnky?oc=5",
+      "pub_date": 1787584877.0,
+      "article_url": "https://seekingalpha.com/news/4636294-spacexai-to-use-nvidias-vera-cpus-for-agentic-ai-applications",
       "image": null,
       "description": null
     },
     {
-      "headline": "Minicomputers Made by Nvidia Are Powering Moscow\u2019s A.I. Drones",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeXR6ZDdGV2VzZUpUYUJETEU3SzhrVW9Ucm1jeEE4UjRJSkt5R015LWFjS3lnS2dYWktwRTZQVU94cmdoLW5xSWxVTHlnTWd6aHVoYWF6aW93RF96bU1GbFg5NjRLRS1aWml0Z3BLMjNnUk5KS2JQcENZeTBlcDQ5djRjTmdYTnpmTW9RVmk5WXNoa3N3Mm93?oc=5",
-      "pub_date": 1787562164.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "UK Taps Ukrainian Combat Data in AI Push To Shape Battlefield",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXA2VEFpTWFfLVFzR3U5eXduRjRrZEJQb2p1UG5MY1UyMWRrWWYxQTZZb3lqR2VxTlVhN1kzeXZxZkdjX3RCYmkydy1HU3c2RmV4OC1fUzFMNUdGckJwQ2duZjVQSHlLSHlfY3U2RVZtaHZHZkpQNDlSc29PaTdfOGJiYkFzX0c5RnpickRLRUpPVUNWbVE1alZEMjlwX0x4Q2Myd0FCUGx6MF9aX0FEMVFR?oc=5",
-      "pub_date": 1787590800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/uk-taps-ukrainian-combat-data-in-ai-push-to-shape-battlefield",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meta Needs to Start Renting Out Its AI Capacity, Analyst Says. Here\u2019s Why.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHJhY0RrTFFoaE5Mek5tNS1jbzljbHZQZk9qb2pwanVIdDB4T1Z5di1lX0hZTF9zUlYxNzZPMWpscE93TW5EVnJleDBlNkk3X3NXWUQ3MzFHQ3hrS29nY2dLYVZNNzdQOElhNk1QR3NpOHJsMzI0QkdwY0xDVzlBMktlRQ?oc=5",
-      "pub_date": 1787590320.0,
-      "article_url": "https://www.barrons.com/articles/meta-stock-ai-cloud-mark-zuckerberg-07da2e49",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI, Truth, and Consequences",
-      "source": "Psychology Today",
-      "source_url": "https://www.psychologytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGpnTkloOWY0ZW9kb0Fyb2RYcU5mTGpwd1VYSmY0LVoxd19qdXl5bGZPNVhpNV9tbVNHLVktckVWSG5EUlFUdEZHTXBOY1V2Q25oYnBldVVnOFIzZWk1eV9UQ1RONmFYY3RBdnprblVKTEFkM3pCXzlCVWxySkRUbFJUaHB4X21PcWZsN3pZQ01JZk0?oc=5",
-      "pub_date": 1787591245.0,
-      "article_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202608/ai-truth-and-consequences",
-      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-08/startupstockphotos-man-593372.jpg?itok=_tdvHT-F",
-      "description": "A human can do 20 percent of the thinking and still own 100 percent of the consequence."
+      "headline": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5",
+      "pub_date": 1787584050.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "image": "https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_371bafaf-61ba-429f-b95b-fc5eb12cfff9-prv.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9",
+      "description": "NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems."
     },
     {
       "headline": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
@@ -83,28 +103,8 @@
       "article_url": "https://www.axios.com/2026/08/24/violent-crime-decline-theories",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
-      "source": "SiliconANGLE",
-      "source_url": "https://siliconangle.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWZtcUlhWERpNngwakw3aFFsMlM2MzVwYVJoU1p1a0RJdWt3WG5QVDAyNVdRaFAzenVUVl9uYWlaMVlwdDAtRFU4OW11RF9YSmFlQ1ZUUFlpWmFGZk1PRjZCYkpTcnI1RlNVZjVvLXg4bXRBZGt5X1lUVXBzQ21jdUNqTmpfMVZpbGVkMVJDOE9pcTZ6ZkZzNUptSGRfTzZ3WEhVOGRTdEFBb2M?oc=5",
-      "pub_date": 1787524620.0,
-      "article_url": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/oxalpha.png",
-      "description": "Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE"
-    },
-    {
-      "headline": "Nvidia\u2019s Earnings Will Test Wall Street\u2019s Faith in the AI Boom",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3NzQktBcS1welhOOTlMaFhpbGJnSm9Tbm12VnhOSnExSTNoX3B4YWdBeFg3NG1Ld25TUjRsOEV0cUpRRkNJa0lXVm51bng4WU9LeEYzT0tucDlEdVJOUDdlV1ZmMWVoSWNKcDFiNEswdTFJdTFaLVB5QktOczVlVENoSUFSRmk5bVFCdzRnalpndzZqX01wNTBMUzJ0ZTA?oc=5",
-      "pub_date": 1787565600.0,
-      "article_url": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T17:31:06.501061+00:00"
+  "fetched_at": "2026-08-24T18:39:52.852915+00:00"
 }

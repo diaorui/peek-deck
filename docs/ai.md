@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T17:31:08.713910+00:00'
+updated: '2026-08-24T18:39:54.657650+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - news
 - repositories
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 17:31 UTC  
+**Last Updated:** August 24, 2026 at 18:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 4h ago
+🔗 [Rauno](https://rauno.ai) • 6h ago
 
 ---
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -55,7 +55,15 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
-3h ago
+5h ago
+
+---
+
+**[A Drone Guided Entirely by A.I. Killed Three Ukrainians](https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/)**
+
+Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
+
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 11m ago
 
 ---
 
@@ -63,7 +71,7 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
-1h ago
+2h ago
 
 ---
 
@@ -71,7 +79,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-8h ago
+9h ago
 
 ---
 
@@ -79,15 +87,7 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
 
-2h ago
-
----
-
-**[i think AI memory is more than just remembering things](https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/)**
-
-i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
-
-9h ago
+3h ago
 
 ---
 
@@ -95,23 +95,23 @@ i've been thinking about this a lot lately. most AI memory today seems to work l
 
 As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
 
-2h ago
+3h ago
 
 ---
 
-**[Does AI benefit more from crypto, or is it the other way around?](https://www.reddit.com/r/artificial/comments/1vx7uvm/does_ai_benefit_more_from_crypto_or_is_it_the/)**
+**[why does gemini 3.7 flash lot out perform gemini 3.6 despite released near time ?](https://www.reddit.com/r/artificial/comments/1vxale6/why_does_gemini_37_flash_lot_out_perform_gemini/)**
 
-We keep hearing about the combination of AI and crypto, but what happens if we look at it from both sides? What does AI actually gain from crypto? And what does crypto gain from AI? Is there a point where one becomes genuinely useful to the other, or are we just forcing two big narratives together? What’s your take?
+recently when i was coding compared to deep seek (very bad at least website version ) , it produce very quality working code with minimum re tries and very quickly too and cheaply (no wonder gemini has 1 billion users , not just they shove it but actually good enough ) , compared to glm 5.2 or qwen 3.8 . (specially qwen 3.8 results are good and okay but take too much time and not the best , glm 5.2 is mediocre , and chatgpt normal website free version is just stupid i feel like and Anthropic models are very good but ridiculously expensive and limited , same as high end ChatGPT models . ? does any one has a idea ?
 
-56m ago
+28m ago
 
 ---
 
-**[AI stigma punishes legitimate use](https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/)**
+**[Plato’s Cave has a problem: telling someone they’re seeing shadows just puts another shadow on the wall](https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/)**
 
-More thoughts on AI writing, detection and watermarking
+Plato’s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, “Those are only shadows,” what did you just give them? Another shadow. 😂 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you’re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow “escapes the Cave.” Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn’t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato’s problem. We’re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is.
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 11h ago
+43m ago
 
 ---
 
@@ -123,65 +123,71 @@ More thoughts on AI writing, detection and watermarking
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Taiwan issues indictments over alleged illegal export of AI servers to China](https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/)**
+**[Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html)**
 
-Reuters • 8h ago
-
----
-
-**[A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)**
-
-The New York Times • 3h ago
+The New York Times • 9h ago
 
 ---
 
-**[Minicomputers Made by Nvidia Are Powering Moscow’s A.I. Drones](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)**
+**[I made my kids a voice-mode AI tutor to help them with spelling and math. It saves me time to have more fun with them.](https://www.businessinsider.com/dad-chatgpt-tutor-helps-my-kids-get-better-grades-2026-8)**
 
-The New York Times • 8h ago
+A father of two elementary school-aged kids created an AI tutor to quiz them until they felt confident to do well on their tests.
 
----
-
-**[UK Taps Ukrainian Combat Data in AI Push To Shape Battlefield](https://www.bloomberg.com/news/articles/2026-08-24/uk-taps-ukrainian-combat-data-in-ai-push-to-shape-battlefield)**
-
-Bloomberg • 31m ago
+Business Insider • 17m ago
 
 ---
 
-**[Meta Needs to Start Renting Out Its AI Capacity, Analyst Says. Here’s Why.](https://www.barrons.com/articles/meta-stock-ai-cloud-mark-zuckerberg-07da2e49)**
+**[Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html)**
 
-Barron's • 39m ago
+Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
+
+CNBC • 15h ago
 
 ---
 
-**[AI, Truth, and Consequences](https://www.psychologytoday.com/us/blog/the-digital-self/202608/ai-truth-and-consequences)**
+**[Alibaba Wan3.0 AI video model launch: 30-second video generation](https://qz.com/alibaba-wan3-ai-video-model-launch-082426)**
 
-A human can do 20 percent of the thinking and still own 100 percent of the consequence.
+The model can convert spreadsheets, web pages, and presentations into video, and has been in public beta since August 6
 
-Psychology Today • 23m ago
+qz.com • 53m ago
+
+---
+
+**[Alibaba launches Wan3.0 AI video model after $10 billion share sale](https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/)**
+
+Reuters • 10h ago
+
+---
+
+**[Nvidia's AI inference chip from its $20 billion Groq deal enters full production](https://qz.com/nvidia-groq-3-lpx-inference-chip-full-production-082426)**
+
+The chip, which came from Nvidia's $20 billion Groq acquisition, can generate 3,400 tokens per second in benchmarking tests
+
+qz.com • 1h ago
+
+---
+
+**[SpaceXAI to use Nvidia's Vera CPUs for agentic AI applications](https://seekingalpha.com/news/4636294-spacexai-to-use-nvidias-vera-cpus-for-agentic-ai-applications)**
+
+Seeking Alpha • 3h ago
+
+---
+
+**[NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai)**
+
+NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems.
+
+NVIDIA Newsroom • 3h ago
 
 ---
 
 **[From AI tools to alcohol drops: The unexpected forces driving America's crime decline](https://www.axios.com/2026/08/24/violent-crime-decline-theories)**
 
-Axios • 8h ago
-
----
-
-**[Nobody knows who built AI coding model Ox Alpha or where the code goes](https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/)**
-
-Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
-
-SiliconANGLE • 18h ago
-
----
-
-**[Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom](https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea)**
-
-WSJ • 7h ago
+Axios • 9h ago
 
 ---
 
@@ -273,61 +279,23 @@ AI Engineering Skills Map: Building and Deploying AI Applications
 
 ## YouTube Videos: "ai"
 
-**[New Evidence AI Might Already be Conscious | Dr. Roman Yampolskiy](https://www.youtube.com/watch?v=gVrvd0CMA-8)**
+**[Terrifying AI Behavior Even Its Creators Couldn&#39;t Explain](https://www.youtube.com/watch?v=ABcFmgt0D5I)**
 
-Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lemoine lost his job at Google for saying the ...
+Terrifying AI behavior even its creators couldn't explain has left people questioning how much control humans really have over ...
 
-📺 Danny Jones Clips
+📺 Most Amazing Elite
 
-👁️ 76K • 👍 1K • 💬 450 • ⏱️ 10:04 • 2d ago
-
----
-
-**[&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy](https://www.youtube.com/watch?v=ebWFexw51qM)**
-
-Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Roman V. Yampolskiy is a computer ...
-
-📺 Danny Jones
-
-👁️ 157K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 3d ago
+👁️ 13K • 👍 109 • 💬 11 • ⏱️ 1:50:32 • 22h ago
 
 ---
 
-**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
+**[DeepSeek Just Made America Nervous Again (SILICON VALLEY PANICKING)](https://www.youtube.com/watch?v=SvW4Gw6LeGI)**
 
-📺 MelandWorld1
+DeepSeek is surging again as its open-source AI ecosystem, aggressive pricing and rapid technical progress challenge America's ...
 
-👁️ 17K • 👍 920 • 💬 34 • ⏱️ 0:34 • 16h ago
+📺 AI Revolution
 
----
-
-**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
-
-My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
-
-📺 Nate Ziller
-
-👁️ 123K • 👍 10K • 💬 662 • ⏱️ 5:15 • 23h ago
-
----
-
-**[New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](https://www.youtube.com/watch?v=rQ4yX5qNYdY)**
-
-HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to ...
-
-📺 AI Search
-
-👁️ 93K • 👍 4K • 💬 423 • ⏱️ 32:12 • 1d ago
-
----
-
-**[The AI bubble is about to burst](https://www.youtube.com/watch?v=fGGuVY6Tcog)**
-
-Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
-
-📺 The Infographics Show
-
-👁️ 186K • 👍 3K • 💬 713 • ⏱️ 3:27:05 • 2d ago
+👁️ 32K • 👍 1K • 💬 118 • ⏱️ 16:05 • 2d ago
 
 ---
 
@@ -337,17 +305,17 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 The Diary Of A CEO Clips
 
-👁️ 162K • 👍 3K • 💬 343 • ⏱️ 16:15 • 1d ago
+👁️ 168K • 👍 3K • 💬 355 • ⏱️ 16:15 • 2d ago
 
 ---
 
-**[I Made a Viral AI Love Story (500M Views) — Steal My Prompts](https://www.youtube.com/watch?v=QfylrxtQSSs)**
+**[New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](https://www.youtube.com/watch?v=rQ4yX5qNYdY)**
 
-I made an AI love story for my friend's wedding — it hit ~500M views across social. Here's the full workflow, and every prompt is ...
+HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to ...
 
-📺 Higgsfield AI
+📺 AI Search
 
-👁️ 52K • 👍 2K • 💬 203 • ⏱️ 23:20 • 3d ago
+👁️ 95K • 👍 4K • 💬 434 • ⏱️ 32:12 • 1d ago
 
 ---
 
@@ -357,17 +325,57 @@ Lawyers were supposed to be one of the professions AI couldn't replace. But the 
 
 📺 The Infographics Show
 
-👁️ 78K • 👍 2K • 💬 562 • ⏱️ 13:53 • 1d ago
+👁️ 79K • 👍 2K • 💬 567 • ⏱️ 13:53 • 1d ago
 
 ---
 
-**[The AI Bath Bomb Scam](https://www.youtube.com/watch?v=v7HCQ8jNFtc)**
+**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
 
-Facebook Bath bomb companies have been creating AI-generated ads to sell products that look NOTHING like what customers ...
+My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
 
-📺 TheAsherShow
+📺 Nate Ziller
 
-👁️ 65K • 👍 4K • 💬 331 • ⏱️ 12:01 • 2d ago
+👁️ 132K • 👍 11K • 💬 691 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
+
+Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
+
+📺 The Economist
+
+👁️ 99K • 👍 3K • 💬 235 • ⏱️ 12:28 • 2d ago
+
+---
+
+**[🌴 A Robot Serving Dates in Makkah?! | AI Future Concept 🕋#Makkah #AI #Robot #FutureTechnology](https://www.youtube.com/watch?v=u3HdVj5OP_M)**
+
+A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Robot #FutureTechnology #AIVideo ...
+
+📺 Makkah madina shorts
+
+👁️ 7K • 👍 363 • 💬 1 • ⏱️ 0:11 • 4h ago
+
+---
+
+**[The AI bubble is about to burst](https://www.youtube.com/watch?v=fGGuVY6Tcog)**
+
+Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
+
+📺 The Infographics Show
+
+👁️ 188K • 👍 3K • 💬 718 • ⏱️ 3:27:05 • 2d ago
+
+---
+
+**[DR. DRE ADMITS HE USES AI?! 😳 HIP HOP IS CHANGING FOREVER💯 #DrDre #AIMusic #AI #HipHop](https://www.youtube.com/watch?v=nBJTk25nSBE)**
+
+Dr. Dre just entered the AI music debate, and this could be one of the biggest conversations in hip hop right now. In a new ...
+
+📺 CrazyHoodMedia
+
+👁️ 17K • 👍 366 • 💬 42 • ⏱️ 0:42 • 16h ago
 
 ---
 
@@ -383,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,453 • 10d ago
+⬇️ 2,645,226 • ❤️ 12,478 • 10d ago
 
 ---
 
@@ -395,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,791 • 4d ago
+⬇️ 7,009,063 • ❤️ 2,808 • 4d ago
 
 ---
 
@@ -407,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,007 • 7h ago
+⬇️ 57,947 • ❤️ 1,015 • 8h ago
 
 ---
 
@@ -419,7 +427,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 678 • 21h ago
+⬇️ 312,627 • ❤️ 680 • 52m ago
 
 ---
 
@@ -431,7 +439,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,077 • 4d ago
+⬇️ 224,114 • ❤️ 1,079 • 4d ago
 
 ---
 
@@ -443,7 +451,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 567 • 6d ago
+⬇️ 761,975 • ❤️ 572 • 6d ago
 
 ---
 
@@ -455,7 +463,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 790,378 • ❤️ 1,697 • 7d ago
+⬇️ 790,378 • ❤️ 1,708 • 7d ago
 
 ---
 
@@ -467,7 +475,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 380 • 1d ago
+⬇️ 60,294 • ❤️ 386 • 1d ago
 
 ---
 
@@ -479,7 +487,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,456,700 • ❤️ 672 • 8d ago
+⬇️ 1,456,700 • ❤️ 677 • 8d ago
 
 ---
 
@@ -491,7 +499,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,222 • 10d ago
+⬇️ 18,065 • ❤️ 1,223 • 10d ago
 
 ---
 
@@ -507,7 +515,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 82 • 💬 2 • ⭐ 3,905 • 7d ago
+▲ 84 • 💬 2 • ⭐ 3,905 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -521,7 +529,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 712 • 💬 5 • ⭐ 5,015 • 14d ago
+▲ 745 • 💬 5 • ⭐ 5,349 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -535,7 +543,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 72 • 💬 7 • ⭐ 586 • 4d ago
+▲ 73 • 💬 7 • ⭐ 586 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -645,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.8k • 🔱 2.0k • 9h ago
+⭐ 17.8k • 🔱 2.1k • 11h ago
 
 ---
 
@@ -655,7 +663,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 2d ago
+⭐ 14.2k • 🔱 1.7k • 7m ago
 
 ---
 
@@ -675,7 +683,17 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 600 • 2h ago
+⭐ 3.6k • 🔱 601 • 3h ago
+
+---
+
+**[yetone/cumora](https://github.com/yetone/cumora)**
+
+Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+`TypeScript`
+
+⭐ 3.0k • 🔱 362 • 7h ago
 
 ---
 
@@ -689,23 +707,13 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 ---
 
-**[yetone/cumora](https://github.com/yetone/cumora)**
-
-Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-
-`TypeScript`
-
-⭐ 3.0k • 🔱 362 • 6h ago
-
----
-
 **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)**
 
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 303 • 14h ago
+⭐ 2.6k • 🔱 304 • 31m ago
 
 ---
 
@@ -715,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 4h ago
+⭐ 2.2k • 🔱 189 • 1h ago
 
 ---
 
@@ -725,7 +733,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 116 • 5h ago
+⭐ 2.2k • 🔱 116 • 1h ago
 
 ---
 

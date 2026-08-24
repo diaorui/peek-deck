@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T17:31:08.719835+00:00'
+updated: '2026-08-24T18:39:54.669061+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 17:31 UTC  
+**Last Updated:** August 24, 2026 at 18:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,729.73
+### $79,015.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +21.4%  
-**30d:** +20.3%  
-**90d:** +5.6%  
-**1y:** -28.8%  
+**24h:** +1.8%  
+**7d:** +21.6%  
+**30d:** +20.5%  
+**90d:** +5.7%  
+**1y:** -28.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1602.31B
+**Market Cap:** $1584.82B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.7%
+-37.4%
 
 **All-Time Low:** $67.81
-+117654.0%
++116347.4%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-5h ago
+6h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,7 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 Then it drops back down to 62k by next week
 
-4h ago
+5h ago
 
 ---
 
@@ -123,13 +123,13 @@ Then it drops back down to 62k by next week
 
 I wonder why that is so?
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ I wonder why that is so?
 
 Well it's basically it.
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ Well it's basically it.
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-1h ago
+2h ago
 
 ---
 
@@ -157,23 +157,7 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-163500378.html)**
-
-If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
-
-Yahoo Finance • 56m ago
-
----
-
-**[Bitcoin’s Bounce Is a ‘Gift to Sell,’ Mike McGlone Warns as Bond Yields Flash 2007-Level Danger](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bounce-gift-sell-mike-162625668.html)**
-
-Mike McGlone says Bitcoin’s rebound may be a selling opportunity within a broader bear market. The 30-year US Treasury yield recently reached 5.31%, its highest ...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -181,19 +165,15 @@ Yahoo Finance • 1h ago
 
 Finally, a killer use case
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
-**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
+**[Strategy creates $1.59 billion USD Cash pool to buy bitcoin](https://qz.com/strategy-usd-cash-pool-bitcoin-reserve-082426)**
 
-Bloomberg • 3h ago
+The new USD Cash reserve gives the company flexibility to purchase bitcoin, repurchase securities, or meet other corporate needs
 
----
-
-**[Strategy Stock Rises More Than Bitcoin as Coinbase, Robinhood Lag](https://www.barrons.com/articles/strategy-stock-mstr-bitcoin-price-182cedb0)**
-
-Barron's • 2h ago
+qz.com • 1h ago
 
 ---
 
@@ -201,13 +181,13 @@ Barron's • 2h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Live updates: Bitcoin climbs past $79,000, with gold topping $4,700](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)**
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-CoinDesk • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -221,7 +201,27 @@ WSJ • 3d ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 4h ago
+
+---
+
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
+
+Reuters • 3d ago
+
+---
+
+**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
+
+Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
+
+IO Fund • 4d ago
+
+---
+
+**[Bitcoin Bounce Boosting This Crypto-Correlated Stock](https://etfdb.com/leveraged-inverse-content-hub/bitcoin-bounce-boosting-coin/)**
+
+ETF Database • 2h ago
 
 ---
 
@@ -263,53 +263,33 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
+**[Why Bitcoin Can Go Much Higher From Here | 8 Real Reasons + Chart Levels | SAGAR SINHA](https://www.youtube.com/watch?v=1n6siERWB68)**
 
-Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
+CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
 
-📺 Simply Bitcoin
+📺 Sagar Sinha 
 
-👁️ 22K • 👍 2K • 💬 128 • ⏱️ 20:21 • 18h ago
-
----
-
-**[The Cryptocurrency Bull Run Has Begun Bitcoin &amp; Altcoins Will Jump And The Dollar Will Collapse](https://www.youtube.com/watch?v=VOAUXqUoarA)**
-
-Well everyone, its about that time. The cryptocurrency market, at least at the moment seems to be preparing for major movements ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 757 • 💬 162 • ⏱️ 28:27 • 2d ago
+👁️ 38K • 👍 1K • 💬 169 • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[Bitcoin Live Trading: Is BTC Is Doing It? Is The Move Here?! EP2101](https://www.youtube.com/watch?v=IjkO-xA5s_E)**
+**[Markets Ignore Higher Rates, Rally On Bitcoin And Gold...But MAJOR Storm Clouds Approaching!](https://www.youtube.com/watch?v=wGJMx7rpsdI)**
 
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
 
-📺 Crypto Lifer
+📺 Verified Investing
 
-👁️ 3K • 👍 400 • 4h ago
-
----
-
-**[THE NEXT 10 DAYS ARE IMPORTANT FOR BITCOIN!](https://www.youtube.com/watch?v=w2KeaNA45Is)**
-
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ LEARN THE SYSTEMS I'VE ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 3K • 👍 464 • 💬 40 • ⏱️ 16:19 • 4h ago
+👁️ 101K • 👍 5K • 💬 189 • ⏱️ 16:12 • 2d ago
 
 ---
 
-**[BITCOIN: It’s Coming, and Most Will MISS It! (will you?) - BTC Price Prediction Today](https://www.youtube.com/watch?v=NN5J2wKCfXQ)**
+**[The AI Crypto Macro Nexus Point: Why Bitcoin Matters to Investors](https://www.youtube.com/watch?v=FoSLsvUKvws)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Visit ai.22vresearch.com or visser-labs.com for more info Email Mark Whaling mwhaling@22vresearch.com In this week's video, ...
 
-📺 BitcoinHyper
+📺 Jordi Visser
 
-👁️ 5K • 👍 369 • 💬 76 • ⏱️ 15:07 • 7h ago
+👁️ 40K • 👍 3K • 💬 339 • ⏱️ 1:16:34 • 1d ago
 
 ---
 
@@ -319,7 +299,37 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 78K • 👍 3K • 💬 169 • ⏱️ 11:10 • 1d ago
+👁️ 80K • 👍 3K • 💬 169 • ⏱️ 11:10 • 1d ago
+
+---
+
+**[Bitcoin Will Give You ONE More Chance! | Eric Krown](https://www.youtube.com/watch?v=8gD_iJXntG8)**
+
+Bitcoin has finally started moving, but what if you missed the first leg of the pump? Alessandro is joined by Eric Krown to break ...
+
+📺 Crypto Banter
+
+👁️ 15K • 👍 551 • 💬 16 • ⏱️ 39:19 • 1d ago
+
+---
+
+**[Mark Yusko Broke Out the Bitcoin Bull Socks](https://www.youtube.com/watch?v=PlTqkNmm2eM)**
+
+Mark Yusko has his Bitcoin bull socks out It's a pretty darn good start. In fact, it's such a good start that I broke out the Bitcoin bull ...
+
+📺 The Wolf Of All Streets
+
+👁️ 1K • 👍 22 • 💬 32 • ⏱️ 0:28 • 10h ago
+
+---
+
+**[Inside The Hidden World of Crypto](https://www.youtube.com/watch?v=Zw9aGlbEUu8)**
+
+Help us fight these scammers! Become a member today: https://www.youtube.com/channel/UCC9EjyMN_hx5NdctLBx5X7w/join ...
+
+📺 Scammer Payback
+
+👁️ 76K • 👍 3K • 💬 609 • ⏱️ 2:04:33 • 2d ago
 
 ---
 
@@ -327,37 +337,27 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 575 • 💬 30 • ⏱️ 1:43 • 16h ago
+👁️ 9K • 👍 634 • 💬 30 • ⏱️ 1:43 • 17h ago
 
 ---
 
-**[BITCOIN IS F**KING BACK!!](https://www.youtube.com/watch?v=EWh0y1JxGXw)**
+**[Bitcoin Surged, Then I Flipped Short](https://www.youtube.com/watch?v=w3zQ9y55Q7U)**
 
-Bitcoin just ripped toward $80000, wiping out weeks of bearish predictions and creating a $13 billion swing for Michael Saylor in ...
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
 
-📺 Simply Bitcoin
+📺 Gareth Soloway
 
-👁️ 31K • 👍 3K • 💬 269 • ⏱️ 25:44 • 1d ago
-
----
-
-**[Bitcoin Explodes 25%: Is Crypto Bear Market Finally Over? | Ran Neuner](https://www.youtube.com/watch?v=N350GH5kAS4)**
-
-Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
-
-📺 David Lin 
-
-👁️ 18K • 👍 612 • 💬 207 • ⏱️ 41:23 • 18h ago
+👁️ 72K • 👍 4K • 💬 521 • ⏱️ 15:40 • 2d ago
 
 ---
 
-**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
 
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
 
-📺 Altcoin Daily
+📺 Nicholas Crown
 
-👁️ 45K • 👍 2K • 💬 81 • ⏱️ 8:58 • 2d ago
+👁️ 7K • 👍 329 • 💬 13 • ⏱️ 1:15 • 2d ago
 
 ---
 
