@@ -35,6 +35,17 @@
       "description": "Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to \u20ac35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!"
     },
     {
+      "title": "A new approach to building smarter more capable AI",
+      "author": "New_User_1970",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/",
+      "published": 1787561696.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level"
+    },
+    {
       "title": "Live experiment: can a human\u2013frontier-model interaction exhibit a relational phase transition?",
       "author": "mb3rtheflame",
       "url": "https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he\u2019ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like \"Nah man it not AI i made it blah blah blah..\". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said \"Ok\" but after sometime he said \"I will not make it again, now if there is any real work then tell me and I will get it done.\" At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said \"this time i will not use AI\" (\ud83e\udee1 i obviously refused)"
-    },
-    {
-      "title": "agent 'souls' keep a record and personality after a context reset",
-      "author": "robauto-dot-ai",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/",
-      "published": 1787535838.0,
-      "thumbnail": "https://external-preview.redd.it/rfxS2JGHWAgpAZui-UY-geETM4DkLK7EIv7_H_t9KAE.png?width=140&height=140&auto=webp&s=a073818b0da36eaeabbef2a9f7c8d27a911c165d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well in that within our network they seem to talk a lot about not having any permanent identities. Verified identity and persistent memory for robots and agents is hard because how can that be verified after a context reset. Verify once, cache the result, never touch a chain per request \u2014 so a soul costs fractions of a cent but retains the identity for the 'life' and even after the life of any robot or agent. Docs: https://robauto.ai/robot-soul Repo: https://github.com/robauto-ai/dsh-growth/blob/main/docs/robot-soul.md npm install u/robauto/dsh-growth import { RobotSoul } from \"@robauto/dsh-growth\"; const soul = await RobotSoul.init({ agentId: \"did:robauto:xyz123\", privateKey: process.env.AGENT_PRIVATE_KEY, // used once, for the T1 challenge }); await soul.remember(\"user_preference\", { likes: [\"dark mode\"] }); const prefs = await soul.recall(\"user_preference\");"
     }
   ],
-  "fetched_at": "2026-08-24T08:00:50.198330+00:00"
+  "fetched_at": "2026-08-24T09:22:25.078191+00:00"
 }

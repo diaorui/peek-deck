@@ -5,6 +5,26 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
+      "pub_date": 1787451420.0,
+      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
+      "description": "Capital is voting with its feet."
+    },
+    {
+      "headline": "Ethereum surges past $2,500 on strong ETF inflo...",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHVxczdzWnkyVDFrdnhWcUpYdWxvS04tVTByenp0REV6dHlCblJYSVdFX2drSUlNWGRYWnJjT284bUNOQ2tpWVdJc21hdE15QU9rV1RCQWZnc2E0WGFKYnlKMzUwS05yOWxGYXdZSnN6ZUUwZGJBM01VcXF2d05PVVlGOFBObFR0cTE3MnFMb2tBMDgwWDFGRmFCaUxOV2lQdmZjLUZsX0FYTDE2?oc=5",
+      "pub_date": 1787558432.0,
+      "article_url": "https://pluang.com/en/news-feed/ethereum-eth-melesat-lebih-dari-2500-dolar-golden-cross-memicu-bulls-bisakah",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Ethereum\u2019s \u2018Netflix Moment\u2019 Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -15,14 +35,24 @@
       "description": "Micha\u00ebl Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level."
     },
     {
-      "headline": "Bitcoin, Ethereum Rally 20%+ \u2014 Is the Crypto Bear Market Over?",
-      "source": "CoinMarketCap",
-      "source_url": "https://coinmarketcap.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnNZbmY4SHdIU0pQTUxuZUhJeWFzNW9iNVFTZmpBenFWYVhIWC1BZzdxRzR1bS10bFU0cWNRRUxOakszWlBTcDhQWXNBWExCOHlTMjAyLVVla2hlWDlpVDlmT1UxMFZoTjhlenFUN2YtaWRZeE9HVjg5UWZDSWRDNnJvWC12WXhyRnQ3UjRJRXN1VHVZQWc?oc=5",
-      "pub_date": 1787481823.0,
-      "article_url": "https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point",
-      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/a9998c1a68854cc988e47efbcff2b646.jpeg",
-      "description": "BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?"
+      "headline": "Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkhTLXBDUVNqOUVTeXlsZTJ5X2hwTHhLQUtLa1VHY1NJZTYwSGIxLVNqUHV6SWVteU5jakJyY00wX19udFgySV9xa2djclNkcFpYVW9aM3dUNFBKUUxfellveUV5eXBSQ2FJUmZnWUloMU5oZm1HYjc3TmV0YlRJZWtaYWZtcHJOWV9fMnhiNk1YRWd1dUxyakR5TC0wbFU2LXl3b2x4S1dXd2h0Z0VXUw?oc=5",
+      "pub_date": 1787519458.0,
+      "article_url": "https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/altcoin-etf-bull-run.jpg",
+      "description": "XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week."
+    },
+    {
+      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQS29mYXZiNTVMdEJXVmRHOWpJS2FjN045dUp2c2RMQmJVamtRRzNvUlEtOUZSZGVIbnRrR1RMSXpzNGtPS0ZWcTQ3RGl6WnRjbWpING9kZ3dyZ3Z5UDZmMHZzcVI3MElEU1g2X1ZCSy04Qml1S2FfXzhmb2xiVlVSRXZZVHlpb1VaWUhFV0NmbmNibzB2T0haNXU4UU4zbGhNbm56UFgtSWxPRkZBUERqS3JqdVN3b3hkU0Z4Mk81VjI0czhjX3FwcFFOdWNOazF1ajRWNms4WDZSQU1wRTZEcFVwc3lZeVZDQUhlbE5oSzB6Q3BIdENLNXpTeDVpZjR1clA0Y0dWWEJORWVnRXhGeUZjd1BfRVo2SlNWUnU3OXIyZw?oc=5",
+      "pub_date": 1787540870.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307",
+      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
+      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week."
     },
     {
       "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
@@ -45,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdERlVGp6Y1E0QXJyVXJ3RElDMmpQcVVNR0FZM2twSFBRVXpQMkhqNnVhLXhRcmxzbGJfQ2NKc3l0ZmotQXRzSHZUSkJTUHBYTi1LZ0RsZEx3NGswZjBRTHJEY0ZLUWJqZXY4YUo1c21ReFBweVRTQXRxTGtNTmI1cVZoMTc4cTFiS09CQnJwMlUza2hCV0Z3MEdfc0NEb2JzWnVIZlpvby05V1d6YTdVeVBn?oc=5",
-      "pub_date": 1787515510.0,
-      "article_url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
-      "description": "Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze."
+      "headline": "Bitcoin, Ethereum Rally 20%+ \u2014 Is the Crypto Bear Market Over?",
+      "source": "CoinMarketCap",
+      "source_url": "https://coinmarketcap.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnNZbmY4SHdIU0pQTUxuZUhJeWFzNW9iNVFTZmpBenFWYVhIWC1BZzdxRzR1bS10bFU0cWNRRUxOakszWlBTcDhQWXNBWExCOHlTMjAyLVVla2hlWDlpVDlmT1UxMFZoTjhlenFUN2YtaWRZeE9HVjg5UWZDSWRDNnJvWC12WXhyRnQ3UjRJRXN1VHVZQWc?oc=5",
+      "pub_date": 1787481823.0,
+      "article_url": "https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point",
+      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/a9998c1a68854cc988e47efbcff2b646.jpeg",
+      "description": "BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?"
     },
     {
       "headline": "Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide",
@@ -65,46 +95,16 @@
       "description": "The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote"
     },
     {
-      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
-      "pub_date": 1787451420.0,
-      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
-      "description": "Capital is voting with its feet."
-    },
-    {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQS29mYXZiNTVMdEJXVmRHOWpJS2FjN045dUp2c2RMQmJVamtRRzNvUlEtOUZSZGVIbnRrR1RMSXpzNGtPS0ZWcTQ3RGl6WnRjbWpING9kZ3dyZ3Z5UDZmMHZzcVI3MElEU1g2X1ZCSy04Qml1S2FfXzhmb2xiVlVSRXZZVHlpb1VaWUhFV0NmbmNibzB2T0haNXU4UU4zbGhNbm56UFgtSWxPRkZBUERqS3JqdVN3b3hkU0Z4Mk81VjI0czhjX3FwcFFOdWNOazF1ajRWNms4WDZSQU1wRTZEcFVwc3lZeVZDQUhlbE5oSzB6Q3BIdENLNXpTeDVpZjR1clA0Y0dWWEJORWVnRXhGeUZjd1BfRVo2SlNWUnU3OXIyZw?oc=5",
-      "pub_date": 1787540870.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307",
-      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
-      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFAycEYyUkQ4MnRDSk5mMERZOFVLazZIRjZQMHk3eDJRb2U0Zmh0R3V2cFNqR0xHZlA2Mkc1bnJwSFQySk5MRFFQNk82UnRtTFJTZjNyUHhyRnBScXRWa0lBY2drZE5TX2prZ3hSVTZIVDFHcHdsb0Q4c3oxR2lteEJoS3hBZkpfX09WX2FZNko?oc=5",
-      "pub_date": 1787330820.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum Foundation sponsors WPPT 2026 workshop in Hong Kong",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uUlhFcWFJZnF6WHZyVkswTzBrWE9kM0tuNDF2d2tVTVNHb3ljcjZOVG9ocUV5VXlWNFRDaFdicDRZR0VMTjZsbmE3aHEzZ1NiaGJlcVVuakJ6QkFDZ0lMdEtRaXlPNW5NUGotZ0lZZF9vN2MycHc?oc=5",
-      "pub_date": 1787549639.0,
-      "article_url": "https://cryptobriefing.com/ethereum-foundation-wppt-2026-hong-kong/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24012800/ethereum-foundation-ef-800x420.jpeg",
-      "description": "Ethereum Foundation calls for abstracts on privacy-preserving technologies for WPPT 2026 in Hong Kong, signaling deeper commitment to ZK"
+      "headline": "Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum and Bitcoin, disclosures reveal",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0lrNlJacXhJUnhhU09sOFEtZm9lRG11dEl3S3VtZ25jcGdZZmlhSGJmZVZwRFV6U3dPOHBiYUhrdmxoYXJVRTZ3ZVkwUGFGdEF6MlNoS195NE5NTFp1S2pQZ1NHUGRKSENJaHplVDdBakVWckFEQkhOUldsTlJMbXpmenpJaFdmRGc2elNOY3pDd2l3MUhkRGpWN25NNDQ?oc=5",
+      "pub_date": 1787413860.0,
+      "article_url": "https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-y9d0yagqh-1787414927606.jpg?quality=75&strip=all&1787400552&w=1200",
+      "description": "She\u2019s repeatedly voted against crypto in Congress, but \u201csquad\u201d member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T06:58:32.231862+00:00"
+  "fetched_at": "2026-08-24T09:23:00.299466+00:00"
 }

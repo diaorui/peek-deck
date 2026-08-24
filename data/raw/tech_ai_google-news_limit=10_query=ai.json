@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "AI is coming for your glasses",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5",
+      "pub_date": 1787544109.0,
+      "article_url": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee7915c-47a0-4cc4-8c24-7f1cf50abc83.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware"
+    },
+    {
       "headline": "Is there a pending AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -15,96 +25,86 @@
       "description": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable"
     },
     {
-      "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
-      "pub_date": 1787473404.0,
-      "article_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients"
+      "headline": "Trump Defends AI Data Centers\u2014Says Opposing Them Is A \u2018Mistake\u2019 And \u2018Smart Ones\u2019 Want Them",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS01oYVJIMXI3SnBQcEpIamZMVmFhMThQWWhWaHZvNnNIWWVQU2ItOHFpaHNPenlWdVljT251TmpLeFJDelJzWERiQlJmbndYbll4ZG4zcXNEX2htRWMyQ2theDgxeXRRQlk5MFJCNWxOVVFTeHBQdVV6YnIzSEpIT05zOEhVcHd1eEVtQ0VPeWZTZ05YckNhdmEyVy05a1N1WlZraHBlSWFGaDZSMjRBLUg5TWlMcDNWQm9JSlc1Zm11YWh2NTBoUkZKeTlhTU5qQkVzY3BPWQ?oc=5",
+      "pub_date": 1787557182.0,
+      "article_url": "https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8bf4c06c3d29908ffea795/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties."
     },
     {
-      "headline": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'",
+      "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWx2bjdlbm9MOENxMjZON0djNk1XMkg2c252QUZ2UkUycTlON2x2SmhaQ1B3QmZkbHZWQ0QwXzhnem5BS2xPU0V6V2QyTFZJU1hoY0RwLVpwR0FvQ0tQdW5VcC0tajhiNE5iV19VTmVjM0xtLVJtTWJOLUE1MU5EQdIBhgFBVV95cUxPT0EzV056aThwc3ltX1E5Z1ZxcGlxVzdOZTF0ZEVhbHZBbU1HYXZVdnhXQzhkakdyVHFVam5KUktndFdmLXRkRUJTZnMxOGZoemJPRlZmU0wzdjNNTzNRWGIyRjZVcGtvVERKazB2NzRlWUtSbUs4LTA4dlJaYV9jMmt2ejV4dw?oc=5",
-      "pub_date": 1787551237.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/cnbc-daily-open-ai-iran-economic-d-day.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108265736-1771007638830-gettyimages-2260760668-boivin-notitle260212_npazO.jpeg?v=1775638137&w=1920&h=1080",
-      "description": "The two forces of AI spending and geopolitical tensions compete for the role of key market driver in early trade."
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGpwVXdlcm9rRVZna3o3N1drZW5uUWZiSVB5akJmR1haV3Z4RFdBVlZnVkxhcFMyN3U2Z2toZDB4Z1VYbktJbm91eW9XUWViRnk1ZHRKTk1UcndGSVMwOGFfWklDMVRRVjJsc1BYNEc0UEpBZW15LWNEX1ZLaUxqZ3lPeWbSAYoBQVVfeXFMTmttSENYYVI2RUlQUnhzampuN1NQZTZ2aUFreWNZbXhpWWtwZ1JXTkdaRGdPb3dPQXBoN3RFdTV5NkNUeHhKY0lpaF9scTNlQm43aWx1LTNBVjF6SkdhOFc4V21fRXd6aDhZeWwtWkNjaXZ2NW9uWlZWQ2piZ25weE0yNWxGYmlIU0VB?oc=5",
+      "pub_date": 1787540100.0,
+      "article_url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228550-1763579370604-gettyimages-2246549520-Alibaba_Building_in_Shanghai.jpeg?v=1763579516&w=1920&h=1080",
+      "description": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments."
     },
     {
-      "headline": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14VVVXb0l1NUxsWW94cUVoZ1kzbHJZMGJVTS1pRGRxbXd5OG9pYW9KUGpyVUJnUFdBeDZzS3VaeTY2by16RkFVRVAyaTZrOFVYdDZhSzVzTWFGQQ?oc=5",
-      "pub_date": 1787548847.0,
-      "article_url": "https://www.bbc.com/news/articles/cq89jpjeq7ko",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
-      "description": "As artificial intelligence becomes part of our everyday lives, there are some railing against cheaply produced material they say is empty and puts real artists' jobs at risk."
-    },
-    {
-      "headline": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+      "headline": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
-      "pub_date": 1787552700.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJDLXh4Z1Q1TU1xaFVKallDYkY5TmdpYUlUTkpxZ1BGS09ReGNfSlJTd0F4OGNKYndTUndKRmRVaU9DUUNfWVc0b1FyV211dFQwRTdHZS1CNExRd3owLU93WEUtcWZ6YkQyOThYMmZlNDFJM01RbjhOenhvaFptLW44S2tmR2pPSjJOWlhnUHNhUy02Wm1Td0gyY3F1QzhyQk42YWhnNl9UUXBxY0Z3bzhUSm1tRjhTZ3YyM3dVU21ibERiRzMtQ3B6eTlfZw?oc=5",
+      "pub_date": 1787535120.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
+      "headline": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+      "pub_date": 1787559824.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlDZDZZSUMyTEhvZVdiMjJEMXRVT1FyMEJrN1dQbFNJdW9qV1RqY3had2lUX3RMeUg3aWl5TlMyd3FXeW5QelhvajlSTUplTUMxdzRTYnJPOGtTZXVxV3FYM3JYYUdmZW5BcU96OHNrX1k2eTZlbVVWMHdTcG02WTQ2Z1Y?oc=5",
-      "pub_date": 1787498632.0,
-      "article_url": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHAyUmN1dElmU19PWkhOTFdNbC1jTVZFMkFUQzZCenRqS2d1dVRtQi1wVVpOWmFldm9TcndrQXYxQzdKTjQ5S1d1dHJTYVFYWFd1VElxbWpPY05NWVpVRVBNclVENU1pUl9JTjlTb3lZYTQ2eWNmZzAxWGJhYWFZV0J3c2g?oc=5",
+      "pub_date": 1787562032.0,
+      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn\u2019t See It \u201cAs A Threat\u201d: \u201cI\u2019m Embracing It\u201d",
-      "source": "Deadline",
-      "source_url": "https://deadline.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PUHBZS1h2dFNmc1RFeFJMcnF5UWIxenhSc3oxV0VrdnhUaS1vRUtzMjNTTG1qMjhCNFlLWjlKWU5kdk82ejJ5bGdwNDM3VkZOU29YeW10UW1abVFnRnkyZVNaM3lHT01oR1RnVlF5aWE4Y2hxeVc0b1lIVkdYUQ?oc=5",
-      "pub_date": 1787511120.0,
-      "article_url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/P115W3BW-e1787510216151.jpg?w=1024",
-      "description": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work."
-    },
-    {
-      "headline": "Dr. Dre Says the Only People Who See AI as a Threat Are Those \u2018Who Have Trouble Creating\u2019",
-      "source": "Variety",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXh5ZER2TjlRcXFpck9uZGhwS2s3YUZoM2pFMUpFcVVTRHJ5RTFpYmZoc25YYmoySWZ3THFvTGlsUC1TRE5Db3hrNG5HSElTc1A1VEg3S1p4N0hiUk1rdVhBWEd0SHNrVER0RHl3VjZsVVBoUmdJRjJkS3VfWnVRaXpQRlp3WERvV01DeEtYTTRPZms4Q0t4ZkdaQWFQWktmcE1GYw?oc=5",
-      "pub_date": 1787491200.0,
-      "article_url": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Dr-Dre.jpg?w=1000&h=563&crop=1",
-      "description": "Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'"
+      "headline": "Fears of AI-induced armageddon are overdone",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
+      "pub_date": 1787475182.0,
+      "article_url": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE9vdzZ2NDZsSkVQV3RXOF9PQzhQV1g2WHo1ZkVmOHhZa3pMcVFEZWFiTlA1blVSZ2tMQWNTUWtnTDNmT2JfV2s2OXdpS2lJM3ZUMmlLOWdNWnJxSWowOUd3Ym13Qmt6dnJGLXBnYlRSZmhHUUxSc0ZhaFI3a1Z4RQ?oc=5",
-      "pub_date": 1787521446.0,
-      "article_url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
-      "image": null,
-      "description": null
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmEweklfZ3BrSW9EUVFaeWtMSm1YT1BsX0NhT1l4Nno1MkUtbWU5ZWR3TEZ5TDVHVWRBbHgzcUxsOWNvYzUyUWlZbFdZUEl4al9wVHZ6WTBReTdtR1ZzTU5hY3JUdzM0ZVZoN3Znc3Y0OTdsQ2JHdk84ZWZnYlBCZXZWdEp3NDlVcmRCN240XzI0MXhW?oc=5",
+      "pub_date": 1787503099.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/texas-welcomed-ai-boom-now-162443584.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7AB250E9BE74AE29979BBF648AE5D46E5694B44383156658AAFE9381FD0DFC55/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faxios_527%2F229053aec95a93a04a4089be9fcac027.jpg",
+      "description": "Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry, saying data center companies \"dug their own grave\" and deserve the backlash they're facing after failing to win community support."
     },
     {
-      "headline": "Data-Center Disenchantment",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdUlfR3JuY2R6QzBnakZIaGhYbldoZlZrQVRUN1FPUGNLdGF5V1ZGeXFqLTFiMEc1Qi1KV2E5RUxBQnVzemQ5VWQtX29WTEI2MHVPLUIxSHFUZFpLdWh4MTVSZEFlWGpMX1AycXJhMTA?oc=5",
-      "pub_date": 1787496600.0,
-      "article_url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2",
+      "headline": "2028 Dems dodge on Bernie's push to pause AI development",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYWVU1MjJhZTR2YXNSSUpTR2pKVlJza25qOE9XYUdYcWtGNHN1eHJhMUpxMllFT1paeHdVTDBJT0dxUHFDZEJHX2FsSTljUEtuaXpZS3FJbm1PTnUtRnQtN04tSlZtb0hRTGZNQ0tnRFBzb2M?oc=5",
+      "pub_date": 1787522545.0,
+      "article_url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T06:58:27.760158+00:00"
+  "fetched_at": "2026-08-24T09:22:54.684408+00:00"
 }

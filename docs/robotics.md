@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T08:02:37.601169+00:00'
+updated: '2026-08-24T09:23:01.520506+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 08:02 UTC  
+**Last Updated:** August 24, 2026 at 09:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-18h ago
+19h ago
 
 ---
 
@@ -44,13 +44,13 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 10h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 11h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 9h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 10h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-8h ago
+9h ago
 
 ---
 
@@ -74,13 +74,13 @@ I am developing a heavy embedded C and sensor fusion system running on low-level
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 14h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 15h ago
 
 ---
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-13h ago
+15h ago
 
 ---
 
@@ -114,7 +114,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
 
-The Economist • 18h ago
+The Economist • 19h ago
 
 ---
 
@@ -122,13 +122,37 @@ The Economist • 18h ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 19h ago
+The San Francisco Standard • 20h ago
+
+---
+
+**[Galileo Robotics Unveils Galileo X at WRC 2026, Breaking Conventional Form Factors with Its "Embodied Ground Mobility System"](https://www.prnewswire.com/news-releases/galileo-robotics-unveils-galileo-x-at-wrc-2026-breaking-conventional-form-factors-with-its-embodied-ground-mobility-system-302858148.html)**
+
+/PRNewswire/ -- At the 2026 World Robot Conference (WRC 2026), Galileo, a leading Chinese embodied-intelligence robotics company, unveiled the groundbreaking,...
+
+PR Newswire • 35m ago
 
 ---
 
 **[Hot Topics in International Trade China and Humanoid Robotics](https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-china-18618/)**
 
-JD Supra • 2h ago
+JD Supra • 4h ago
+
+---
+
+**[Humanoid Robotics: the Future of Warehousing?](https://logisticsbusiness.com/materials-handling/robotic-picking/humanoid-robotics-the-future-of-warehousing/)**
+
+Humanoid Robotics discussed by expert, concluding that they are not likely to be seen in warehouses any time soon
+
+Logistics Business • 22m ago
+
+---
+
+**[Curious by Nature | Newswise – Benefits of Single-Port Robotic Mitral Valve Repair | Newswise](https://www.newswise.com/articles/curious-by-nature-newswise-benefits-of-single-port-robotic-mitral-valve-repair)**
+
+Up to 5% of the population lives with a leaking heart valve condition known as mitral valve prolapse, often without even realizing it. If left untreated, it can lead to heart failure, irregular heartbeats, or sudden cardiac events. While past treatments required major open-chest surgery, a breakthrough in medical robotics is offering a faster, less painful path to recovery.
+
+Newswise • 1h ago
 
 ---
 
@@ -136,7 +160,7 @@ JD Supra • 2h ago
 
 Faraday Future strengthens its robotics ecosystem through U.S. distribution, RoboShare expansion, and Embodied AI initiatives.
 
-World Business Outlook • 1h ago
+World Business Outlook • 3h ago
 
 ---
 
@@ -144,13 +168,15 @@ World Business Outlook • 1h ago
 
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
-**[Siemens Healthineers secures up to $31.1 million for remote stroke robotics](https://www.dotmed.com/news/story/66703)**
+**[Fiscal watch tops agenda as Terra State President meets Rep. Latta](https://www.thenews-messenger.com/videos/news/local/2026/08/24/robotics-lab-a-stop-on-terra-state-tour-for-rep-bob-latta/91406449007/)**
 
-DOTmed • 2h ago
+Fiscal watch tops the agenda as new Terra State President Breeden meets with Rep. Bob Latta, R-Bowling Green, and the Sandusky County commissioners.
+
+Fremont News-Messenger • 1m ago
 
 ---
 
@@ -159,28 +185,6 @@ DOTmed • 2h ago
 Inside ARX Robotics: building the future of defence
 
 North Atlantic Treaty Organization | NATO • 5d ago
-
----
-
-**[Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html)**
-
-Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.
-
-CNBC • 3d ago
-
----
-
-**[Report: China’s Mech-Mind Robotics Set to Open Order Book for US$300M IPO](https://theaiinsider.tech/2026/08/24/report-chinas-mech-mind-robotics-set-to-open-order-book-for-us300m-ipo/)**
-
-China’s Mech-Mind Robotics Technologies is preparing to open investor orders for a Hong Kong initial public offering that could raise about $300 million, the South China Morning Post reported.
-
-AI Insider • 4h ago
-
----
-
-**[Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)**
-
-Reuters • 4d ago
 
 ---
 
@@ -194,7 +198,7 @@ The second edition of the World Humanoid Games kicked off in China on Saturday. 
 
 📺 BBC News
 
-👁️ 150K • 👍 1K • 💬 597 • ⏱️ 5:30 • 20h ago
+👁️ 150K • 👍 1K • 💬 597 • ⏱️ 5:30 • 21h ago
 
 ---
 
@@ -204,7 +208,7 @@ The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a hu
 
 📺 DPCcars
 
-👁️ 9K • 👍 101 • 💬 57 • ⏱️ 1:55 • 18h ago
+👁️ 9K • 👍 101 • 💬 57 • ⏱️ 1:55 • 19h ago
 
 ---
 
@@ -214,7 +218,7 @@ Humanoid robots compete in kickboxing, sprint races, and taichi performances at 
 
 📺 DWS News
 
-👁️ 10K • 👍 65 • 💬 14 • ⏱️ 4:59 • 19h ago
+👁️ 10K • 👍 65 • 💬 14 • ⏱️ 4:59 • 20h ago
 
 ---
 
