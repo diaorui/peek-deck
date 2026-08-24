@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T22:54:17.950328+00:00'
+updated: '2026-08-24T23:22:22.221777+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 22:54 UTC  
+**Last Updated:** August 24, 2026 at 23:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -174,7 +174,7 @@ PR Newswire • 10h ago
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 323 • 👍 15 • 💬 18 • ⏱️ 4:36 • 13h ago
+👁️ 323 • 👍 15 • 💬 18 • ⏱️ 4:36 • 14h ago
 
 ---
 
@@ -284,7 +284,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 4K • 💬 216 • ⏱️ 27:38 • 18h ago
+👁️ 88K • 👍 4K • 💬 216 • ⏱️ 27:38 • 19h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin and Ethereum are surging, but don't let emotional trading ruin your gain
 
 📺 Gabbie Trades
 
-👁️ 528 • 👍 20 • ⏱️ 0:44 • 11h ago
+👁️ 528 • 👍 20 • ⏱️ 0:44 • 12h ago
 
 ---
 

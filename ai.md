@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T22:54:17.934639+00:00'
+updated: '2026-08-24T23:22:22.208504+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
-- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 22:54 UTC  
+**Last Updated:** August 24, 2026 at 23:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 Plato’s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, “Those are only shadows,” what did you just give them? Another shadow. 😂 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you’re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow “escapes the Cave.” Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn’t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato’s problem. We’re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ As people created the most abstract way of programming, syntax knowledge of prog
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 **[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 8h ago
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 1h ago
 
 Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ...
 
-The Information • 14m ago
+The Information • 42m ago
 
 ---
 
@@ -159,7 +159,7 @@ ABC13 Houston • 3h ago
 
 **[Humble man accused of having thousands of AI-generated child pornography images](https://www.khou.com/article/news/local/houston-humble-ai-generated-child-pornography-charge/285-2527322c-110c-469f-bb19-85622c1fa386)**
 
-KHOU • 18m ago
+KHOU • 46m ago
 
 ---
 
@@ -167,13 +167,13 @@ KHOU • 18m ago
 
 A Houston-area man was arrested after detectives found what they describe as thousands of images of AI-generated child pornography at his home, according to authorities.
 
-FOX 26 Houston • 59m ago
+FOX 26 Houston • 1h ago
 
 ---
 
 **[Data centers’ ‘oh s--t’ moment](https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465)**
 
-Politico • 13h ago
+Politico • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ Politico • 13h ago
 
 The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -223,7 +223,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 331 • 💬 69 • 23h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 331 • 💬 69 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -313,7 +313,7 @@ DeepSeek is surging again as its open-source AI ecosystem, aggressive pricing an
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 118 • ⏱️ 16:05 • 2d ago
+👁️ 33K • 👍 1K • 💬 118 • ⏱️ 16:05 • 3d ago
 
 ---
 
@@ -678,7 +678,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 600 • 7h ago
+⭐ 3.6k • 🔱 600 • 8h ago
 
 ---
 
@@ -688,7 +688,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 363 • 11h ago
+⭐ 3.0k • 🔱 363 • 12h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T22:54:17.944242+00:00'
+updated: '2026-08-24T23:22:22.216270+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 22:54 UTC  
+**Last Updated:** August 24, 2026 at 23:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Then it drops back down to 62k by next week
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ Then it drops back down to 62k by next week
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 I wonder why that is so?
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ I wonder why that is so?
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-5h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 1h ago
 
 Bitcoin booked its best week since 2023 and a record dollar gain. See the levels that decide the next move.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 44m ago
 
 The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
 
-Investopedia • 3h ago
+Investopedia • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investopedia • 3h ago
 
 Finally, a killer use case
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 10h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 8h ago
+Euronews.com • 9h ago
 
 ---
 
@@ -283,7 +283,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 909 • 👍 41 • 💬 2 • ⏱️ 0:53 • 3h ago
+👁️ 909 • 👍 41 • 💬 2 • ⏱️ 0:53 • 4h ago
 
 ---
 
@@ -313,7 +313,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 20K • 👍 676 • 💬 228 • ⏱️ 41:23 • 23h ago
+👁️ 20K • 👍 676 • 💬 228 • ⏱️ 41:23 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto
 
 📺 STOCK UP! with LARRY JONES
 
-👁️ 31K • 👍 2K • 💬 395 • ⏱️ 23:23 • 2d ago
+👁️ 31K • 👍 2K • 💬 395 • ⏱️ 23:23 • 3d ago
 
 ---
 
