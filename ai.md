@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T16:37:07.845950+00:00'
+updated: '2026-08-24T17:31:08.713910+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 16:37 UTC  
+**Last Updated:** August 24, 2026 at 17:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -59,17 +59,9 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 ---
 
-**[I ran the same AI character through 40 comic strips and she slowly became a different person](https://www.reddit.com/r/artificial/comments/1vx4nyd/i_ran_the_same_ai_character_through_40_comic/)**
+**[Explore any moment in history as a short, visual documentary made around your curiosity](https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/)**
 
-About six months ago I started a weekly webcomic. I should say from the start that the character is entirely AI produced, there was no traditional artwork involved at any point. The whole experiment was testing whether I could keep one consistent face across a long serialized run without the audience catching drift. Setup was straightforward. I created her in APOB AI, which costs nothing for everyday use and saves a character profile so it outputs a matching face every time, arranged panels in Clip Studio Paint, and kept a reference folder pinned with the original angles, expressions, and lighting I wanted to reuse every week. For the first twenty or so strips it genuinely felt like it was working. Same face, same proportions, recognizable week to week. Readers treated her like any other webcomic protagonist. Nobody asked whether she was AI. Around strip twenty five I started noticing something when I went back to my reference folder. The jawline had narrowed slightly. Eye spacing was maybe two percent wider. Nothing you'd catch between consecutive strips, but when I put strip one next to strip twenty five the difference was undeniable. Like seeing someone after they've gotten a haircut you can't quite place. I kept going. At strip thirty two a reader left a comment that said something like "did you redesign the character? she looks different but I can't figure out how." That was the moment the drift crossed from my own paranoia into actual audience perception. I went back and audited all forty strips against the original reference set. Seven needed full redraws to bring the face back toward strip one. Most of those fell in the thirty to forty range where cumulative drift had really compounded. The redraws were not perfect either, because I was now generating from a corrected reference that was itself slightly removed from the true original. The pattern I noticed is that it isn't random noise. The face doesn't jitter around a center point. It walks slowly away from it, and it walks in a specific direction. Features that made the original character distinctive (a slightly crooked nose, an uneven smile line) gradually smoothed out. By strip forty she looked more conventionally attractive but less like herself. The drift makes faces more symmetrical and more generic over time. I don't have a real fix for this. What I'm doing now is hard resetting to the original reference images every five strips instead of letting the most recent output become the next seed. That's cut the problem down but has not eliminated it. Seven redraws out of forty is roughly eighteen percent, which is honestly more than I had budgeted for when I started this. The thing that still gets me is that nobody noticed strip to strip. The drift is completely invisible at one week intervals. It only becomes obvious when you compress the timeline and compare endpoints. Strip one and strip forty look like cousins, not the same person.
-
-1h ago
-
----
-
-**[I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.](https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/)**
-
-I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
+A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
 1h ago
 
@@ -79,7 +71,15 @@ I reran the benchmark. The deterministic result reproduced exactly — but the m
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-7h ago
+8h ago
+
+---
+
+**[I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.](https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/)**
+
+I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
+
+2h ago
 
 ---
 
@@ -87,15 +87,7 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
 
-8h ago
-
----
-
-**[Am I not using AI enough?](https://www.reddit.com/r/artificial/comments/1vwzto9/am_i_not_using_ai_enough/)**
-
-How does everyone stay on top of the different platforms, models and versions? I see discussions like "ew, since the v4.25 model change I hate it. The responses are not the same and my code doesn't run" or "this model is truly a unique experience". Feels like every week there is a new model and I'm not a power user enough to get a sense of what changed and don't feel the need to "care" about it. Alternatively I see many posts talking about usage tokens, API, configuring agents, building apps, games. My experience is using AI at home (Claude) for cooking and general suggestions entirely as a chatbot. I rarely if ever hit my free usage limit. At work they give us Chat GPT and Cowork. I use it to review my code, respond to emails and do some data analysis. I feel like I'm not doing enough. It's like trying to get into crypto and web3. I tried to read a cryptocurrency white paper and after 3 sentences had 10 questions and didn't know what 8 of the words mean. Are these people talking about usage tokens and detailed model reviews so curious and power users? Do they do all this for work or a side project hobby? Trying to make money? Adopt new tech? Is it ok to be satisfied with the minimum chat bot helper without stressing over models, API connections, auth, tokens and building their own agents? I guess I don't have any more use cases at the moment?
-
-5h ago
+9h ago
 
 ---
 
@@ -103,7 +95,15 @@ How does everyone stay on top of the different platforms, models and versions? I
 
 As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
 
-1h ago
+2h ago
+
+---
+
+**[Does AI benefit more from crypto, or is it the other way around?](https://www.reddit.com/r/artificial/comments/1vx7uvm/does_ai_benefit_more_from_crypto_or_is_it_the/)**
+
+We keep hearing about the combination of AI and crypto, but what happens if we look at it from both sides? What does AI actually gain from crypto? And what does crypto gain from AI? Is there a point where one becomes genuinely useful to the other, or are we just forcing two big narratives together? What’s your take?
+
+56m ago
 
 ---
 
@@ -111,7 +111,7 @@ As people created the most abstract way of programming, syntax knowledge of prog
 
 More thoughts on AI writing, detection and watermarking
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 10h ago
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 11h ago
 
 ---
 
@@ -119,45 +119,55 @@ More thoughts on AI writing, detection and watermarking
 
 ## Google News: "ai"
 
-**[Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)**
+**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
 
-The New York Times • 5h ago
+Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
+
+CNBC • 2h ago
 
 ---
 
 **[Taiwan issues indictments over alleged illegal export of AI servers to China](https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
-**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
+**[A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)**
 
-Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
-
-CNBC • 1h ago
+The New York Times • 3h ago
 
 ---
 
-**[America's energy sector needs 500,000 more workers by 2030 thanks to AI—robots may have to step in](https://fortune.com/2026/08/24/americas-energy-sector-needs-500000-more-workers-by-2030-thanks-to-ai-unless-more-workers-retrain-humanoid-robots-step-in/)**
+**[Minicomputers Made by Nvidia Are Powering Moscow’s A.I. Drones](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)**
 
-America’s energy sector is thriving thanks to AI. The only issue? There aren’t enough workers to meet the demand.
-
-Fortune • 1h ago
+The New York Times • 8h ago
 
 ---
 
-**[Why AI Productivity Is Corporate America's Biggest Self-Deception](https://www.forbes.com/sites/karadennison/2026/08/24/why-ai-productivity-is-corporate-americas-biggest-self-deception/)**
+**[UK Taps Ukrainian Combat Data in AI Push To Shape Battlefield](https://www.bloomberg.com/news/articles/2026-08-24/uk-taps-ukrainian-combat-data-in-ai-push-to-shape-battlefield)**
 
-Companies are spending billions on AI and telling investors it's working. Ask the employees and you get a different answer.
+Bloomberg • 31m ago
 
-Forbes • 1h ago
+---
+
+**[Meta Needs to Start Renting Out Its AI Capacity, Analyst Says. Here’s Why.](https://www.barrons.com/articles/meta-stock-ai-cloud-mark-zuckerberg-07da2e49)**
+
+Barron's • 39m ago
+
+---
+
+**[AI, Truth, and Consequences](https://www.psychologytoday.com/us/blog/the-digital-self/202608/ai-truth-and-consequences)**
+
+A human can do 20 percent of the thinking and still own 100 percent of the consequence.
+
+Psychology Today • 23m ago
 
 ---
 
 **[From AI tools to alcohol drops: The unexpected forces driving America's crime decline](https://www.axios.com/2026/08/24/violent-crime-decline-theories)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -169,25 +179,9 @@ SiliconANGLE • 18h ago
 
 ---
 
-**[The Odds: The AI Anxiety](https://www.cnn.com/2026/08/24/us/video/the-odds-the-ai-anxiety-cnc-kalpar)**
-
-Public anxiety over AI skyrockets, with a vast majority fearing job losses and trusting neither party to manage the risks. CNN News Central’s John Berman and Chief Data Analyst Harry Enten look at this growing disconnect and when prediction markets expect an OpenAI IPO.
-
-CNN • 2h ago
-
----
-
 **[Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom](https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea)**
 
-WSJ • 6h ago
-
----
-
-**[AI is coming for your glasses](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1)**
-
-Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
-
-Financial Times • 12h ago
+WSJ • 7h ago
 
 ---
 
@@ -295,7 +289,7 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 Danny Jones
 
-👁️ 157K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 157K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 3d ago
 
 ---
 
@@ -303,7 +297,7 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 MelandWorld1
 
-👁️ 17K • 👍 920 • 💬 34 • ⏱️ 0:34 • 15h ago
+👁️ 17K • 👍 920 • 💬 34 • ⏱️ 0:34 • 16h ago
 
 ---
 
@@ -313,7 +307,7 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 123K • 👍 10K • 💬 662 • ⏱️ 5:15 • 22h ago
+👁️ 123K • 👍 10K • 💬 662 • ⏱️ 5:15 • 23h ago
 
 ---
 
@@ -413,7 +407,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,007 • 6h ago
+⬇️ 57,947 • ❤️ 1,007 • 7h ago
 
 ---
 
@@ -425,7 +419,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 678 • 20h ago
+⬇️ 312,627 • ❤️ 678 • 21h ago
 
 ---
 
@@ -681,7 +675,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 600 • 1h ago
+⭐ 3.6k • 🔱 600 • 2h ago
 
 ---
 
@@ -701,7 +695,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 362 • 5h ago
+⭐ 3.0k • 🔱 362 • 6h ago
 
 ---
 
@@ -711,7 +705,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 303 • 13h ago
+⭐ 2.6k • 🔱 303 • 14h ago
 
 ---
 
@@ -721,7 +715,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 3h ago
+⭐ 2.2k • 🔱 189 • 4h ago
 
 ---
 
@@ -731,7 +725,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 116 • 4h ago
+⭐ 2.2k • 🔱 116 • 5h ago
 
 ---
 
