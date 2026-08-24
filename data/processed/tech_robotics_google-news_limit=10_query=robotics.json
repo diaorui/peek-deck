@@ -5,22 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUkxanIwSTVhd2xuNTUteVpWQWJlQXF1M2c4R2RSM25vTTlENHZMSkRaNGJXR0Fsd1QwUmhyX3NtU3dNalg1dlBKWHJMRnJXOTNZZkJ4cDNxbmJDdEQ4YXdpZkdJZGxTT2gwR21NUzRnZnpfY1dibWF2cVVFRllELWJ1eDVzalBLLWh0M3lKNlVUR1k?oc=5",
-      "pub_date": 1787415860.0,
-      "article_url": "https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2",
-      "image": "https://dims.apnews.com/dims4/default/a59ba71/2147483647/strip/true/crop/5404x3601+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2Fe1%2F154fcfc6dad2a6a88bf3d33859ba%2F08c5e467f79f4f4682b04c2164c20ada",
-      "description": "Chinese humanoid robots have set records including beating Usain Bolt's 100-meter sprint record at the World Humanoid Robot Games in Beijing."
-    },
-    {
-      "headline": "Robots can outrun humans, but can they plug in a cable?",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
-      "pub_date": 1787460600.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/robots-can-outrun-humans-can-they-plug-cable-2026-08-23/",
+      "headline": "China will struggle to make money from humanoid robots",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtYRnNON1pEMV9mM3dBNlQtV2dqQlhlQWRlYW5PcGdQQTRPQUpET1pfS0k1OXpvS3dkZjkxQ0ZRMHJ5b3M2bVl6US1LQzJXWTRPTVJycnFJWWtaRzdlMlVBd1R0S0ZDVVNSS1JBUEg3aGkwT2liNU5qYzlLU2wySkgtRkJibHB5TFFuQ0RJU081c1JKeC1EUEo5MktyY0xSSnc?oc=5",
+      "pub_date": 1787493165.0,
+      "article_url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
       "image": null,
       "description": null
     },
@@ -35,14 +25,74 @@
       "description": "The city is still ground zero for the industry boom. But as machine companies scale up, they can\u2019t find the space to match."
     },
     {
-      "headline": "The technology that could bring robot mowers to one in two American lawns",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2Jyc1o2NHhIS1pCQkc3SkFnLXk1dDlGUnBGS081QldLOGF0MGxvbktrTkV6TDV5bFdJVFpWNzhCbEJxQ0tfX3lMQWtoLUNQNUlLQXd3Q09nZm5NcjBrbmJIZkpxdll3bEVGRkZtMXpIdE5GaWJuMkxYa1I3aTJMdzdidHFLNFBrMlVCVnNvWmUzZnprQmc?oc=5",
-      "pub_date": 1787402313.0,
-      "article_url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Mowing.jpg",
-      "description": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder."
+      "headline": "Hot Topics in International Trade China and Humanoid Robotics",
+      "source": "JD Supra",
+      "source_url": "https://www.jdsupra.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEJFaFJ5T1VKZVZ1TlRrZlVpOE9xMnlmVjlWbVVIYkp0YWV1RFcySnVsb0VRSkhEX01JT2xmdjU3T1A5YlJhT2VtM0ZtbTlNMkNha3VaelVCTjRieXJrMkV5aGpoaGJib1BRQTgyZnZVZWQ0TE9CMW1EY0ZFUXFMNHkyT0lMMkk?oc=5",
+      "pub_date": 1787544234.0,
+      "article_url": "https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-china-18618/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "One U.S. robotics distributor now covers all 50 states for Faraday Future",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0dRcnk2Tzl0Y3ZIZXJILUYzakZMaDNxYVI1UF92WGxxVV9oclVZaGMwaWhZaWJxUnZadk54X29OYUF5U1RHMHc0SEdaakxGbGx0WUh5MXl0dkdlaWdyOS1ycmVVSjZDQUhWclQ4aW5FNUQxdTFPWjhMQWlYRXk4WG94MEpidWc4MDAyTERTX0dQMHlqenFLSllhOGdTWDZkTTZqMUk3d01jcmlwLXZJVkR6WE8xTEZhdDZQb3hXcw?oc=5",
+      "pub_date": 1787526000.0,
+      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-a8intlp6hpjh.html",
+      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Founder_and_Global_CEO_YT_Jia_Shares_Weekly_Investor_Update_Signs_New_FF_Par_Agreeme_1496171.webp",
+      "description": "Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26."
+    },
+    {
+      "headline": "Inside ARX Robotics: building the future of defence",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_url": "https://www.nato.int",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk9MSDdXQjlhWW5sQ2hMbFRxYUhfOEhSb3dxR0hrVk9tN0tHWUdhUFFjSFRwOGtzZVpHRkJtTkZOYUdRZVFBWEdEaFI3WlZlYVVTdEpUelExZXNxSGJyMC0xbjV0NmwtN3IzUmNLbTdzQnE3VktsVnlUYjB6eXV4VzJVbC1XRmUxT2JBaEZGVV9JVGtKWndkcHJUZXhaX3dhNDBoNWdDWFE2TDJ4VHNnVWZLQXk?oc=5",
+      "pub_date": 1787122800.0,
+      "article_url": "https://www.nato.int/en/multimedia/multimedia/videos/2026/06/17/inside-arx-robotics-building-the-future-of-defence",
+      "image": "https://s7g10.scene7.com/is/content/ncia/nch_2544-Inside-ARX-Robotics-Building-the-Future-of-defence_broll-AVS",
+      "description": "Inside ARX Robotics: building the future of defence"
+    },
+    {
+      "headline": "Report: China\u2019s Mech-Mind Robotics Set to Open Order Book for US$300M IPO",
+      "source": "AI Insider",
+      "source_url": "https://theaiinsider.tech",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDBRS2NTMU5CSUllTUh6RGlKUFBjUEpJYl90ZlpDR25IUHhGNVBlb1g5MDFJZThUaFFQYm9wdzUtR2puYmpwQ0Nvc1h1Mllod0VjRjR2YzRnVWR5UC1paVE3am1rZHV6U3Rnb0lYT25rRkdVeXBOaXVpSE5mTTJ3bVpHUmZPTG8tUjI1NTZtcGdCZk1ERmRZek5CVTFwUlZIVF8zWGNoMFlqdV95?oc=5",
+      "pub_date": 1787542963.0,
+      "article_url": "https://theaiinsider.tech/2026/08/24/report-chinas-mech-mind-robotics-set-to-open-order-book-for-us300m-ipo/",
+      "image": "https://theaiinsider.tech/wp-content/uploads/2026/03/china-robotics-funding-2.png",
+      "description": "China\u2019s Mech-Mind Robotics Technologies is preparing to open investor orders for a Hong Kong initial public offering that could raise about $300 million, the South China Morning Post reported."
+    },
+    {
+      "headline": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTy1WY2ZsN0tZSW5sYUpRdmNoeC1lc2tsM2xIZXlqelZSZUMzLTBUM29oNHFuU2ljNUxEelN3UlJnT1ZCS3AyWjRxd2FTemR2LVlTaFZqNjgxTERXOUdGeW9ac3pqWHlGeGdiTzBCSlhsQTdZTkJKeVhoZXBpSmxNb9IBhgFBVV95cUxNOXJaVm5kdzI1akwzd3hXdWtKclgzMWtBMmNMRnhzdURsNGF5UGYxUzlLdGRQX19HbHMxRm9Ud0Z6U1lNWXJueGVaVXF1bE5xeTdMY004Ml95N1FZSlFyZGlKLTI2bUZ5WURvYm5XVE5wM2gyTDdVeDVrS2JaTHl5ZEZ2Umlkdw?oc=5",
+      "pub_date": 1787214119.0,
+      "article_url": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108351911-1787192068528-gettyimages-2287247880-vcg111655844102.jpeg?v=1787192124&w=1920&h=1080",
+      "description": "Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT."
+    },
+    {
+      "headline": "Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0pzN014Mm10emZneHNXYjBENjZ0VXFKamZHVUNpQ3hkYjdmU05wRWR5VW96TFowS21LYU5hd3poMUJJWnR3VHJIYVJQM0U5QktkWS1hS19OWlNDbjdGcFhUbV93d2ZKa2ZzdzBWTmJJYV9yNk1VNGlqVERldF9zVWVQS2RrX3FxYTJ2QW9NZERpSXZycl91TGxFUG1ZZUw4bmJIS2YyWWhaTGlDY0h6TXh5WGVYb0VVV0V6TjJGTkd6UQ?oc=5",
+      "pub_date": 1787209200.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China showcases robots at Beijing games",
+      "source": "Taipei Times",
+      "source_url": "https://www.taipeitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnZHVvM0NacXAzNXlsSUhuYkpwYzJ2QnFVVlVORVhDU0dHUXpyU3g4NDV6bEk1ZGdoeDVvSzFjaTAyU0x1NjNkRTh1RmZDY1VhTG1Ja1dVZ0IwellhUnY5UzhRUHZkTEZOTU80OVpDU3JoXzZRSEFqag?oc=5",
+      "pub_date": 1787500800.0,
+      "article_url": "https://www.taipeitimes.com/News/world/archives/2026/08/24/2003863039",
+      "image": "https://img.taipeitimes.com/images/2026/08/24/P05-260824-305.jpg",
+      "description": "China\u2019s humanoid robots have shown they can run quicker than the fastest humans.Now comes the real test: Can they also handle packaging and warehouse operations while reliably performing precision tasks like connecting cables designed to evaluate their ability to work like humans in less flashy jobs"
     },
     {
       "headline": "Government can bring robotics to life",
@@ -53,58 +103,8 @@
       "article_url": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb1a81b84-9705-419a-96ab-76d547c511bb.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
-    },
-    {
-      "headline": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2hhOFZ1bFYwcDBJYUExcTlfQ2R6SldKZ1JILXpITnVrRDV5VmlhcV8weTVNd1RQck9QNEl2XzgyaVZJcTBGVURScnIzU1lWWmVXR3VDLWYyUTdXSlQ5dE9LMW5KV2NEQmg5NTM1T2ZCQUNMUk9YMXg0aGlmSTU3UHFrdDlCblp6aUNHd3NQRHpIekptQWc?oc=5",
-      "pub_date": 1787501862.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/66666F73B39A5897BCC5950694A66F0A6FBE32CEE43043302B551BEABF3C2D9F/subgraphmysterio/resizefill_w1200_h1600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F33f30ea6b95a29e993c1928cd4f72023.jpg",
-      "description": "AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard."
-    },
-    {
-      "headline": "China\u2019s Fuxi humanoid robot mirrors human movements in real time for high-risk missions",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRHZoM0M3c2I2cWxkSmoyNFZCQVR6bkl1ZHBpODVldXNpbmV1ODBfd3dhQzdTZGoxZC1GOEFoN0J4VUZVS3M0YkJLZEd2Q1VrZktMM1BKREhMT0xxbGtSSXpxQ3lXVUw4YXhHaW1HRWlRWEQ4Yl8tNDlyX3lNNS1HS0YwWFNxeHU4N2hr?oc=5",
-      "pub_date": 1787404260.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/chinas-humanoid-robot-mirrors-humans",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-22-at-7.46.51-AM.png",
-      "description": "NORINCO introduces a breakthrough teleoperation system allowing operators to control full-size humanoid robots remotely with zero lag."
-    },
-    {
-      "headline": "Chinese humanoids steal the spotlight at San Francisco's robot party",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2hXbVppNWJKdGp6Mm9GcVV4UmtuTGl4bl9MQTFtLXpBNjNrb1JZM3RKQkJhSE1BV1F5aEVBOTY2ejg4enZHMXFSOWJMbXVBNUxSSHI0bm5QZ2w1bkFaUHB5aEVfVFhadjJjMVNZU2lqMGctRW82R2dGMGZFS1d6c043Ymg3UjExZ01VUm1vVDlLbDExeTBSaVp1OVZyczVQcFE?oc=5",
-      "pub_date": 1787302800.0,
-      "article_url": "https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8",
-      "image": "https://i.insider.com/6a875ea81d1a1d028ba1163a?width=1200&format=jpeg",
-      "description": "Actuate drew 1,500 people to San Francisco as robotics investment surges, though hardware was scarce."
-    },
-    {
-      "headline": "Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkV3TjVvMDc4eFdoQURkRWRic25QRWVRekF0VGhYUHpjTU5BNHJXR3o2NkRINWhBVk0zbjhjQkk0WldnZ0JnSEFIRjVFZDJucWpxVWFGSXlMdnhkRWNuT0daTVlqcjVtTm50aVliVndiT3pyMFFxOHVtcnM3VGFlWVA1SEl4VWE5R1g0cVNHWGJYVEVQTjdvUEJRQUlKaVJURmJJ0gGoAUFVX3lxTE9LcGRQNEFoVlVFeWN0ZUd1d2UzcVF5eURsM0JORXpyNkJWbFpvV3RfNmdjbEFadGhOQXVtYzVIdDhhalJyRE1WQy1BMVJXc1E4MDBOSGczckV0bWN2RjByeW9ncmZjODM4bl9DZmdRaTYxeXFBVDNrRFphZ1R5YkV6WjZKSTlhNjcyb0F4QTJyZVhIajYzSG9ad0NidWw5bGtZVXdaWlFTRw?oc=5",
-      "pub_date": 1787277360.0,
-      "article_url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352476-1787269803395-IMG_2461_2.jpeg?v=1787270825&w=1920&h=1080",
-      "description": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios."
-    },
-    {
-      "headline": "Humanoid crashes during speed test as China\u2019s robotics industry grows",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjR5OGxhb2pQYktnTzZ6Sm5mN3pTV0h3OGdkZ3o1bFdvazFKaDdZSHZxamowajlzQ2hfTFpCQm5Ld0k2MWtFVENpdl9WQUx3bEwxRDRta3ItelhTUVFHUmNCcmF4Q0RXLS1ndGxwamhic3NMY3NOWjNYUVFsamtmdWtKYXlGZ2U4dkY3UGhhLXlsUlJaWmR6NUNZb3cwSUZXYkNCR2FIM292Rl9DTlZUUngxa2xfeElmLUVJ0gHAAUFVX3lxTE1USUhjSk1iY3BqdFU2Q3Z1QUwzaEFRbW1GazZDNkVKbWEtVWtUTGR5aVdvT0dzbU5BZkgyTDQ5bU1PR0VJYzltOWhpSTBleVQ0R1FnbkFmUk1DbDVpb0hiRHJoWkh4aTNpME5OT2JHOWgzVjhUQmhxQnBRbmZtV3dVRDllZUVpWlpCcEhpWkJ3WVgxU0N3TE4zQ1pYYm1YNy1QSWhuRmpuVjJFZG9HcmZhZDBabE9HR0lWZG0xWVNTbA?oc=5",
-      "pub_date": 1787315148.0,
-      "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/robot-horizontal-thumb-1787315058.jpg?resize=1920%2C1080&quality=80",
-      "description": "Humanoid crashes during speed test as China\u2019s robotics industry grows"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T03:54:10.236967+00:00"
+  "fetched_at": "2026-08-24T05:38:05.445320+00:00"
 }

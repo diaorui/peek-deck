@@ -79,6 +79,17 @@
       "description": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does \"search engine\" mean \"ranks and returns links\" or does it mean \"answers your question directly\". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?"
     },
     {
+      "title": "\"ask AI a question\" is the wrong workflow for research",
+      "author": "DiscoDeadhead",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/",
+      "published": 1787519903.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn\u2019t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I\u2019d have 15\u201320 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the \u201cglue work\u201d between them. That\u2019s where I\u2019ve started questioning the usual AI workflow. If I ask \u201cWhat are the main trends in this market?\u201d, I get an answer. But that doesn\u2019t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what\u2019s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn\u2019t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it\u2019s definitely not \u201cpress a button and replace the researcher.\u201d But I wish myself spending less time reviewing the findings and copying information between tabs. We\u2019ve spent a lot of time asking whether models can answer questions better. Now I\u2019m more interested in whether they can take something messy like \u201cfigure out what\u2019s happening in this market and give me something I can make a decision from\u201d and actually carry the whole task through."
+    },
+    {
       "title": "Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.",
       "author": "mynamear",
       "url": "https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Remember when computers were the luxury thing? Now they\u2019re everywhere and basically invisible but nobody\u2019s impressed by \u201cI own a laptop\u201d anymore. I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a \u201cthing\u201d at all. It just disappears into the background, like electricity or wifi. Nobody says \u201cwow, AI\u201d anymore, the same way nobody says \u201cwow, computer.\u201d And when that happens, the rare thing won\u2019t be AI-made stuff. It\u2019ll be human-made stuff. Human skill, human attention, a person who actually did the thing themselves : that becomes the flex. Not because AI can\u2019t do it, but because AI can, and choosing the human version anyway is what makes it valuable. AI won\u2019t keep climbing forever like it feels like now. It\u2019ll peak, then fade into invisibility. And humans doing human things will become the new premium."
-    },
-    {
-      "title": "\"ask AI a question\" is the wrong workflow for research",
-      "author": "DiscoDeadhead",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/",
-      "published": 1787519903.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn\u2019t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I\u2019d have 15\u201320 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the \u201cglue work\u201d between them. That\u2019s where I\u2019ve started questioning the usual AI workflow. If I ask \u201cWhat are the main trends in this market?\u201d, I get an answer. But that doesn\u2019t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what\u2019s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn\u2019t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it\u2019s definitely not \u201cpress a button and replace the researcher.\u201d But I wish myself spending less time reviewing the findings and copying information between tabs. We\u2019ve spent a lot of time asking whether models can answer questions better. Now I\u2019m more interested in whether they can take something messy like \u201cfigure out what\u2019s happening in this market and give me something I can make a decision from\u201d and actually carry the whole task through."
     }
   ],
-  "fetched_at": "2026-08-24T03:53:51.458303+00:00"
+  "fetched_at": "2026-08-24T05:37:42.438197+00:00"
 }

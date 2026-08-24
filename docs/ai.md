@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T04:44:08.427003+00:00'
+updated: '2026-08-24T05:38:08.463327+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 04:44 UTC  
+**Last Updated:** August 24, 2026 at 05:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ Turkish courts have blocked access to at least 12 X posts by artificial intellig
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-14h ago
+15h ago
 
 ---
 
@@ -63,7 +63,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-19h ago
+20h ago
 
 ---
 
@@ -71,7 +71,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to €35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,15 @@ https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859
 
 So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
 
-12h ago
+13h ago
+
+---
+
+**["ask AI a question" is the wrong workflow for research](https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/)**
+
+I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
+
+8h ago
 
 ---
 
@@ -95,7 +103,7 @@ So Google has to show UK users a screen letting them pick their default search e
 
 AI help for me
 
-10h ago
+11h ago
 
 ---
 
@@ -107,65 +115,51 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ---
 
-**["ask AI a question" is the wrong workflow for research](https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/)**
-
-I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
-
-7h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
-
-Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
-
-The Guardian • 14h ago
-
----
 
 **[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
-**[Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html)**
+**[Nobody knows who built AI coding model Ox Alpha or where the code goes](https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/)**
 
-Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
+Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
 
-CNBC • 1h ago
-
----
-
-**[Alibaba Raises $10 Billion for AI in Record Hong Kong Share Sale](https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion)**
-
-Bloomberg • 3h ago
+SiliconANGLE • 7h ago
 
 ---
 
-**[This Chinese Tech Giant Quietly Cut Its Buyback 80% to Fund AI](https://finance.yahoo.com/technology/ai/articles/chinese-tech-giant-quietly-cut-191745460.html)**
+**[Fund manager lists four of his best-value unloved stocks to swerve the AI hype](https://www.cnbc.com/2026/08/24/fund-manager-unloved-stocks-ai-hype.html)**
 
-Alibaba is sitting on billions in buyback authorization yet chose to stop using it, redirecting cash into a bet that makes the next few quarters look very different from the last few years.
+From consumer brands to Asian tech, Ranmore Fund Management's Sean Peche shares some of his top unloved stock picks.
 
-Yahoo Finance • 9h ago
+CNBC • 38m ago
 
 ---
 
-**[AI Is Fixing UK Productivity. But There’s a Cost](https://www.bloomberg.com/opinion/articles/2026-08-24/ai-is-fixing-uk-productivity-but-there-s-a-cost)**
+**[Southampton AI uncovers hidden clues in breast cancer](https://www.bbc.com/news/articles/cq56x317pq0o)**
 
-Bloomberg • 1h ago
+The findings could help doctors identify high-risk patients and develop more targeted treatments.
+
+BBC • 39m ago
+
+---
+
+**[SoftBank Plans Record Retail Bond Issuance Amid AI Push](https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8)**
+
+WSJ • 25m ago
 
 ---
 
 **[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
 
-The New York Times • 13h ago
+The New York Times • 20h ago
 
 ---
 
@@ -173,21 +167,27 @@ The New York Times • 13h ago
 
 As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work.
 
-Deadline • 9h ago
+Deadline • 10h ago
 
 ---
 
-**[Dr. Dre uses AI to make music: 'I don't see it as a threat'](https://www.yahoo.com/entertainment/music/articles/dr-dre-uses-ai-music-033601947.html)**
+**[Dr. Dre Says He Uses AI to Produce Songs](https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009)**
 
-Dr. Dre has argued AI isn't any different to using drum machines or synthesizers in the recording studio.
-
-Yahoo • 1h ago
+Gizmodo • 8h ago
 
 ---
 
 **[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash)**
 
-Axios • 12h ago
+Axios • 7h ago
+
+---
+
+**[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
+
+Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
+
+The Guardian • 15h ago
 
 ---
 
@@ -243,7 +243,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 17h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 18h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -281,7 +281,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 67K • 👍 1K • 💬 419 • ⏱️ 10:04 • 2d ago
+👁️ 70K • 👍 1K • 💬 431 • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -291,7 +291,27 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 Danny Jones
 
-👁️ 148K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 151K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+
+---
+
+**[Ilya Sutskever’s New AI Superintelligence  Is About to Change A..I Forever?](https://www.youtube.com/watch?v=ZRuIEB1x4u4)**
+
+https://www.entropiauniverse.com/#home Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 ...
+
+📺 TheAIGRID
+
+👁️ 22K • 👍 566 • 💬 98 • ⏱️ 11:27 • 2d ago
+
+---
+
+**[How a $20 AI is Replacing $235,000 Lawyers](https://www.youtube.com/watch?v=haZ5gddlQ4g)**
+
+Lawyers were supposed to be one of the professions AI couldn't replace. But the legal industry is discovering that many of its most ...
+
+📺 The Infographics Show
+
+👁️ 74K • 👍 2K • 💬 547 • ⏱️ 13:53 • 1d ago
 
 ---
 
@@ -301,7 +321,25 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 CrazyHoodMedia
 
-👁️ 1K • 👍 49 • 💬 5 • ⏱️ 0:42 • 2h ago
+👁️ 5K • 👍 164 • 💬 19 • ⏱️ 0:42 • 3h ago
+
+---
+
+**[Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+
+Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+
+📺 Felix & Friends (Goat Academy)
+
+👁️ 119K • 👍 3K • 💬 140 • ⏱️ 16:51 • 1d ago
+
+---
+
+**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
+
+📺 MelandWorld1
+
+👁️ 6K • 👍 451 • 💬 21 • ⏱️ 0:34 • 4h ago
 
 ---
 
@@ -311,63 +349,27 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 82K • 👍 4K • 💬 404 • ⏱️ 32:12 • 1d ago
+👁️ 84K • 👍 4K • 💬 412 • ⏱️ 32:12 • 1d ago
 
 ---
 
-**[The AI bubble is about to burst](https://www.youtube.com/watch?v=fGGuVY6Tcog)**
+**[Woman details struggle after being covertly filmed by AI smart glasses](https://www.youtube.com/watch?v=nw-n45HNeV8)**
 
-Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
+As tech companies like Meta push their AI wearables, many are concerned with privacy protections. Anna Schechter has more.
 
-📺 The Infographics Show
+📺 CBS Mornings
 
-👁️ 173K • 👍 3K • 💬 700 • ⏱️ 3:27:05 • 2d ago
-
----
-
-**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
-
-📺 MelandWorld1
-
-👁️ 2K • 👍 158 • 💬 11 • ⏱️ 0:34 • 3h ago
+👁️ 149K • 👍 1K • 💬 513 • ⏱️ 4:32 • 2d ago
 
 ---
 
-**[THE POPE HATES A.I.](https://www.youtube.com/watch?v=Vqbgc8znbUA)**
+**[The AI Bath Bomb Scam](https://www.youtube.com/watch?v=v7HCQ8jNFtc)**
 
-shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
+Facebook Bath bomb companies have been creating AI-generated ads to sell products that look NOTHING like what customers ...
 
-📺 Danno Cal Drawings
+📺 TheAsherShow
 
-👁️ 827K • 👍 64K • 💬 2K • ⏱️ 0:35 • 2d ago
-
----
-
-**[This Isn’t AI? 🤖 (Annoying Orange 🍊)](https://www.youtube.com/watch?v=AeXLSrEwN48)**
-
-📺 Ramo Akh
-
-👁️ 2.3M • 👍 43K • 💬 2K • ⏱️ 0:16 • 1d ago
-
----
-
-**[REAL VS AI VIDEOS..](https://www.youtube.com/watch?v=JaZXwQZ2UoI)**
-
-subscribe for more :) Mini Figures: https://www.target.com/p/caylus-vs-foltyn-mystery-figures/-/A-95041893 6" Plush: ...
-
-📺 Foltyn Reacts
-
-👁️ 527K • 👍 11K • 💬 2K • ⏱️ 16:31 • 2d ago
-
----
-
-**[&quot;Oh hey, I&#39;m seeing less AI in my feed&quot;...](https://www.youtube.com/watch?v=7TH7aYMDe_I)**
-
-"Oh hey, I'm seeing less AI in my feed"... #science #technology #ai #fyp.
-
-📺 Jensun
-
-👁️ 11K • 👍 629 • 💬 19 • ⏱️ 1:14 • 13h ago
+👁️ 60K • 👍 3K • 💬 312 • ⏱️ 12:01 • 1d ago
 
 ---
 
@@ -383,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,333 • 9d ago
+⬇️ 2,358,347 • ❤️ 12,356 • 9d ago
 
 ---
 
@@ -395,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,741 • 3d ago
+⬇️ 6,674,515 • ❤️ 2,751 • 3d ago
 
 ---
 
@@ -407,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 962 • 17h ago
+⬇️ 47,098 • ❤️ 970 • 18h ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 640 • 8h ago
+⬇️ 244,834 • ❤️ 649 • 9h ago
 
 ---
 
@@ -431,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,051 • 3d ago
+⬇️ 190,062 • ❤️ 1,053 • 3d ago
 
 ---
 
@@ -443,7 +445,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 539 • 6d ago
+⬇️ 676,697 • ❤️ 544 • 6d ago
 
 ---
 
@@ -455,7 +457,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,645 • 6d ago
+⬇️ 738,345 • ❤️ 1,652 • 6d ago
 
 ---
 
@@ -467,7 +469,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,334,820 • ❤️ 652 • 8d ago
+⬇️ 1,334,820 • ❤️ 654 • 8d ago
 
 ---
 
@@ -479,7 +481,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 368 • 1d ago
+⬇️ 23,516 • ❤️ 370 • 1d ago
 
 ---
 
@@ -491,7 +493,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,207 • 9d ago
+⬇️ 17,421 • ❤️ 1,211 • 9d ago
 
 ---
 
@@ -507,7 +509,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 80 • 💬 2 • ⭐ 3,241 • 7d ago
+▲ 82 • 💬 2 • ⭐ 3,241 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -521,7 +523,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 711 • 💬 5 • ⭐ 4,879 • 14d ago
+▲ 712 • 💬 5 • ⭐ 5,015 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -549,7 +551,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
 
-▲ 15 • 💬 2 • ⭐ 5,653 • 1mo ago
+▲ 15 • 💬 2 • ⭐ 5,679 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
 
@@ -561,7 +563,7 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 124 • 💬 4 • ⭐ 99,478 • 20mo ago
+▲ 125 • 💬 4 • ⭐ 99,478 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -601,7 +603,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 130 • 💬 3 • ⭐ 23,851 • 2mo ago
+▲ 131 • 💬 3 • ⭐ 23,871 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -615,7 +617,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 255 • 💬 2 • ⭐ 279 • 4d ago
+▲ 256 • 💬 2 • ⭐ 279 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -644,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.5k • 🔱 2.0k • 15h ago
+⭐ 17.5k • 🔱 2.0k • 16h ago
 
 ---
 
@@ -674,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 591 • 5h ago
+⭐ 3.6k • 🔱 593 • 6h ago
 
 ---
 
@@ -694,7 +696,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 355 • 10h ago
+⭐ 3.0k • 🔱 356 • 11h ago
 
 ---
 
@@ -704,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 288 • 1h ago
+⭐ 2.5k • 🔱 291 • 2h ago
 
 ---
 
@@ -714,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 188 • 3h ago
+⭐ 2.2k • 🔱 188 • 2h ago
 
 ---
 
@@ -728,13 +730,13 @@ let your agent control your phone
 
 ---
 
-**[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)**
+**[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)**
 
-AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
+FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
 
-`JavaScript`
+`Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 1.9k • 🔱 238 • 2d ago
+⭐ 2.0k • 🔱 60 • 19h ago
 
 ---
 

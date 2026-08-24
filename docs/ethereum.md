@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T04:44:08.440129+00:00'
+updated: '2026-08-24T05:38:08.477908+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 04:44 UTC  
+**Last Updated:** August 24, 2026 at 05:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +27.0%  
-**30d:** +24.6%  
-**90d:** +20.2%  
-**1y:** -44.5%  
+**24h:** +2.2%  
+**7d:** +27.3%  
+**30d:** +24.9%  
+**90d:** +20.5%  
+**1y:** -44.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.27B
+**Market Cap:** $294.96B
 Rank #2
 
 **Circulating Supply:** 120,681,508 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.5%
+-50.6%
 
 **All-Time Low:** $0.43
-+564892.8%
++564257.6%
 
 ---
 
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 11h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 12h ago
 
 ---
 
@@ -84,7 +84,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -124,7 +124,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -148,7 +148,7 @@ better.codes is now live. Bring your own agents and raise the proven soundness o
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -156,35 +156,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/)**
-
-Capital is voting with its feet.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/)**
-
-The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from
-
-Coinpedia • 1d ago
-
----
-
 **[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
-
-Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
-
-TradingView • 14h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -196,11 +172,19 @@ CoinMarketCap • 18h ago
 
 ---
 
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+
+Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
+
+TradingView • 15h ago
+
+---
+
 **[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
 
 Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
 
-CryptoSlate • 8h ago
+CryptoSlate • 9h ago
 
 ---
 
@@ -208,7 +192,23 @@ CryptoSlate • 8h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 22h ago
+Global South Opportunities • 23h ago
+
+---
+
+**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/)**
+
+Capital is voting with its feet.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ledger fixes vulnerability in Ethereum app’s signing flows](https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/)**
+
+Ledger patched a race condition vulnerability in its Ethereum app's clear signing flows that could have let malicious dApps substitute
+
+Crypto Briefing • 1h ago
 
 ---
 
@@ -222,7 +222,7 @@ Barron's • 2d ago
 
 The funds tracking both assets recorded a perfect week of net inflows only.
 
-CryptoPotato • 17h ago
+CryptoPotato • 18h ago
 
 ---
 
@@ -230,7 +230,7 @@ CryptoPotato • 17h ago
 
 Ethereum holds 60% probability on Polymarket to reclaim $2,600 by August end at current price $2460.29 with bullish EMA structure intact.
 
-blockchain.news • 6h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 153 • ⏱️ 43:03 • 6h ago
+👁️ 25K • 👍 1K • 💬 122 • ⏱️ 43:03 • 7h ago
 
 ---
 
@@ -254,7 +254,27 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 8K • 👍 378 • 💬 104 • ⏱️ 18:53 • 13h ago
+👁️ 9K • 👍 411 • 💬 37 • ⏱️ 18:53 • 14h ago
+
+---
+
+**[SharpLink &amp; Lido: This Changes Everything For ETH Holders (Here&#39;s Why)](https://www.youtube.com/watch?v=YtV-z_5Rv6c)**
+
+Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully productive asset, deploying it through Lido, ...
+
+📺 The Rollup
+
+👁️ 2K • 👍 63 • 💬 120 • ⏱️ 10:36 • 7h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
+
+Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 9K • 👍 812 • 💬 60 • ⏱️ 27:38 • 1h ago
 
 ---
 
@@ -264,7 +284,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 376 • 💬 219 • ⏱️ 19:11 • 8h ago
+👁️ 9K • 👍 419 • 💬 225 • ⏱️ 19:11 • 9h ago
 
 ---
 
@@ -274,17 +294,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 16h ago
-
----
-
-**[Ethereum And Robinhood Together Might Be Unstoppable](https://www.youtube.com/watch?v=1KNbXeNkyPU)**
-
-You've got Robinhood, one of the biggest exchanges in both crypto and stocks, building its own infrastructure for meme coins, and ...
-
-📺 Crypto Archie
-
-👁️ 975 • 👍 67 • ⏱️ 1:09 • 14h ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 17h ago
 
 ---
 
@@ -294,7 +304,7 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 944 • 💬 192 • ⏱️ 30:44 • 2d ago
+👁️ 10K • 👍 945 • 💬 192 • ⏱️ 30:44 • 2d ago
 
 ---
 
@@ -302,17 +312,17 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 235 • 💬 8 • ⏱️ 1:00 • 7h ago
+👁️ 3K • 👍 257 • 💬 8 • ⏱️ 1:00 • 8h ago
 
 ---
 
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+**[Ethereum And Robinhood Together Might Be Unstoppable](https://www.youtube.com/watch?v=1KNbXeNkyPU)**
 
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+You've got Robinhood, one of the biggest exchanges in both crypto and stocks, building its own infrastructure for meme coins, and ...
 
-📺 More Crypto Online
+📺 Crypto Archie
 
-👁️ 8K • 👍 366 • 💬 19 • ⏱️ 11:12 • 1d ago
+👁️ 1K • 👍 72 • ⏱️ 1:09 • 15h ago
 
 ---
 
@@ -322,17 +332,7 @@ BMNR now holds approximately 5.82 million ETH and $11.4 billion of gross assets,
 
 📺 The Value Thinker
 
-👁️ 13K • 👍 888 • 💬 121 • ⏱️ 21:33 • 2d ago
-
----
-
-**[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 3K • 👍 51 • 💬 3 • ⏱️ 4:45 • 1d ago
+👁️ 13K • 👍 891 • 💬 122 • ⏱️ 21:33 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T04:44:08.434767+00:00'
+updated: '2026-08-24T05:38:08.471719+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 04:44 UTC  
+**Last Updated:** August 24, 2026 at 05:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,014.07
+### $77,012.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +18.9%  
-**30d:** +17.8%  
-**90d:** +3.4%  
-**1y:** -30.3%  
+**24h:** +1.0%  
+**7d:** +18.7%  
+**30d:** +17.6%  
+**90d:** +3.2%  
+**1y:** -30.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1554.88B
+**Market Cap:** $1544.88B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-39.0%
 
 **All-Time Low:** $67.81
-+114126.5%
++113402.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 What's going on?????¿¿¿
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ All currency eventually fail, there are no exceptions!
 
 So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 Some easy advice for some of you on the fence, or newbies. You never want to sell Bitcoin when it is going down. It's too low and you can't optimize gains. You never want to sell Bitcoin when it is going up. Why would you do that? It will be worth more later! Summary: don't sell. Never a good time.
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Some easy advice for some of you on the fence, or newbies. You never want to sel
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and alw
 
 I see many, many many miserable people who are showing disgust by the rise of BTC again. There are bloomberg reports and other big finance companies who say BTC will reach half a mill by the end of 2030. You would think majority of BTC community will stand up and celebrate, but sadly I see many partypoopers who display disgust and miserable behavior. Don't tell me y'all started shorting at 60k which showed strong resistance level, close to 1 year cycle? What you really thought big money was gonna allow you to buy at 40k? If you all desire 40k then it would be impossible to buy at that price, basic supply and demand. The fact that average Joe is not positioning himself during this rally makes me believe it's the real deal.
 
-14h ago
+15h ago
 
 ---
 
@@ -163,13 +163,13 @@ I really believe gifting Bitcoin to friends and family is one of the most beauti
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Gold and Bitcoin Surge! Is the U.S. Debt Crisis Reigniting the 'Currency Devaluation Trade'?](https://www.moomoo.com/news/post/75117463/gold-and-bitcoin-surge-is-the-us-debt-crisis-reigniting)**
+**[Bitcoin ETFs See Biggest Weekly Inflow in 10 Months During Rally](https://www.bloomberg.com/news/articles/2026-08-24/bitcoin-etfs-see-biggest-weekly-inflow-in-10-months-during-rally)**
 
-Moomoo • 2h ago
+Bloomberg • 1h ago
 
 ---
 
@@ -213,6 +213,12 @@ Forbes • 3d ago
 
 ---
 
+**[What’s next for bitcoin (BTC) as Bessent’s $4 billion bond-buyback plan fails to tame Treasury yields](https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead)**
+
+CoinDesk • 25m ago
+
+---
+
 **[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
 
 Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
@@ -221,19 +227,11 @@ VanEck • 5d ago
 
 ---
 
-**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
+**[Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-bitcoin-222211772.html)**
 
-Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
+Bitcoin's price has swung sharply in recent months. Here's how to buy and store bitcoin as safely as possible.
 
-BlackRock • 6d ago
-
----
-
-**[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html)**
-
-Crypto’s true believers suddenly have a spring in their step again.
-
-Yahoo Finance • 10h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -283,7 +281,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -305,17 +303,17 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 3K • 💬 155 • ⏱️ 11:10 • 1d ago
+👁️ 74K • 👍 3K • 💬 160 • ⏱️ 11:10 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s 4-Hour RSI Just Hit 94. That&#39;s a 10-Year Record.](https://www.youtube.com/watch?v=plsQyXcNAxU)**
+**[Bitcoin: What I’m Seeing Is Concerning Right Now](https://www.youtube.com/watch?v=_abFhSutVqw)**
 
-Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An extreme like this usually asks for a breather - the full ...
+I'm not buying. And I actually closed my long position. Here's why. ➡️ Favorite Place To Trade: https://aaronbtc.com/low iTrust ...
 
-📺 Krown
+📺 Aaron Bennett
 
-👁️ 1K • 👍 34 • 💬 1 • ⏱️ 0:56 • 9h ago
+👁️ 26K • 👍 1K • 💬 286 • ⏱️ 13:01 • 21h ago
 
 ---
 
@@ -325,75 +323,77 @@ Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An ext
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 80 • ⏱️ 8:58 • 2d ago
+👁️ 45K • 👍 2K • 💬 81 • ⏱️ 8:58 • 2d ago
 
 ---
 
-**[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
+**[What the Powerful Breakout Rally in Bitcoin Means Now](https://www.youtube.com/watch?v=SpUIo9Jwh5Q)**
 
-CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
+Bitcoin blasts through key levels of resistance, but is the bear market over? Could this recent recovery be a bear market rally?
 
-📺 CNBC Television
+📺 Alessio Rastani
 
-👁️ 15K • 👍 160 • 💬 70 • ⏱️ 2:30 • 2d ago
-
----
-
-**[BITCOIN AND XRP WONT STOP PUMPING #bitcoin #xrp #memecoin #memes](https://www.youtube.com/watch?v=ETyPZrNJ_ng)**
-
-📺 CryptoWendyO
-
-👁️ 1K • 👍 190 • 💬 3 • ⏱️ 1:43 • 3h ago
+👁️ 46K • 👍 3K • 💬 352 • ⏱️ 6:03 • 1d ago
 
 ---
 
-**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+**[Bitcoin Going Higher? Live Trading  BTC XAU Gold](https://www.youtube.com/watch?v=nSs8Jt13Q5A)**
 
-Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+Zen Master JP Does a Weekend Live Update of BTC, ETH, SOL, XAU GOLD & More! Start your prop trading journey with Breakout ...
 
-📺 Yahoo Finance
+📺 Sin City Crypto
 
-👁️ 19K • 👍 547 • 💬 231 • ⏱️ 14:55 • 2d ago
-
----
-
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
-
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
-
-📺 Nicholas Crown
-
-👁️ 6K • 👍 298 • 💬 13 • ⏱️ 1:15 • 2d ago
+👁️ 7K • 👍 279 • ⏱️ 2:24:50 • 1d ago
 
 ---
 
-**[Bitcoin Surged, Then I Flipped Short](https://www.youtube.com/watch?v=w3zQ9y55Q7U)**
+**[Bitcoin Will Give You ONE More Chance! | Eric Krown](https://www.youtube.com/watch?v=8gD_iJXntG8)**
+
+Bitcoin has finally started moving, but what if you missed the first leg of the pump? Alessandro is joined by Eric Krown to break ...
+
+📺 Crypto Banter
+
+👁️ 14K • 👍 538 • 💬 15 • ⏱️ 39:19 • 1d ago
+
+---
+
+**[Markets Ignore Higher Rates, Rally On Bitcoin And Gold...But MAJOR Storm Clouds Approaching!](https://www.youtube.com/watch?v=wGJMx7rpsdI)**
 
 Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
 
-📺 Gareth Soloway
+📺 Verified Investing
 
-👁️ 68K • 👍 4K • 💬 502 • ⏱️ 15:40 • 1d ago
-
----
-
-**[Bitcoin and gold just became the same trade](https://www.youtube.com/watch?v=2L7yTVBK9Js)**
-
-Correlations converging as we speak.
-
-📺 Nicholas Crown
-
-👁️ 11K • 👍 475 • 💬 30 • ⏱️ 2:20 • 2d ago
+👁️ 99K • 👍 5K • 💬 185 • ⏱️ 16:12 • 2d ago
 
 ---
 
-**[Bitcoin&#39;s Secret Price Floor Revealed! Next Bull Run?](https://www.youtube.com/watch?v=_Sx4eO-p_6E)**
+**[Bitcoin&#39;s 4-Hour RSI Just Hit 94. That&#39;s a 10-Year Record.](https://www.youtube.com/watch?v=plsQyXcNAxU)**
 
-Hurley talks about Bitcoin's Secret Price Floor Revealed! Next Bull Run? Brought to you by Bitcoinwell.com a bitcoin-only platform ...
+Every prior time the 4-hour RSI reached the low 90s, marked on the chart. An extreme like this usually asks for a breather - the full ...
 
-📺 Simply Bitcoin
+📺 Krown
 
-👁️ 2K • 👍 85 • 💬 92 • ⏱️ 1:29 • 16h ago
+👁️ 1K • 👍 41 • 💬 21 • ⏱️ 0:56 • 10h ago
+
+---
+
+**[Inside The Hidden World of Crypto](https://www.youtube.com/watch?v=Zw9aGlbEUu8)**
+
+Help us fight these scammers! Become a member today: https://www.youtube.com/channel/UCC9EjyMN_hx5NdctLBx5X7w/join ...
+
+📺 Scammer Payback
+
+👁️ 70K • 👍 3K • 💬 521 • ⏱️ 2:04:33 • 1d ago
+
+---
+
+**[Bitcoin&#39;s 2019 vs 2026 Rally](https://www.youtube.com/watch?v=XCgBUCZ2K04)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 49K • 👍 772 • 💬 26 • ⏱️ 0:58 • 2d ago
 
 ---
 

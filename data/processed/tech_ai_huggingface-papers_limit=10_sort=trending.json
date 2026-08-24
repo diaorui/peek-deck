@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 80,
+      "upvotes": 82,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 711,
+      "upvotes": 712,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 4879,
+      "github_stars": 5015,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-06-29T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/AI-Infra-Guard",
-      "github_stars": 5653,
+      "github_stars": 5679,
       "project_page": "https://matrix.tencent.com/clawscan/"
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 124,
+      "upvotes": 125,
       "num_comments": 4,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
@@ -145,11 +145,11 @@
       "hf_url": "https://huggingface.co/papers/2605.31264",
       "arxiv_url": "https://arxiv.org/abs/2605.31264",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.31264.png",
-      "upvotes": 130,
+      "upvotes": 131,
       "num_comments": 3,
       "published_at": "2026-05-28T20:00:00.000Z",
       "github_repo": "https://github.com/titanwings/colleague-skill",
-      "github_stars": 23851,
+      "github_stars": 23871,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2608.19880",
       "arxiv_url": "https://arxiv.org/abs/2608.19880",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.19880.png",
-      "upvotes": 255,
+      "upvotes": 256,
       "num_comments": 2,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/envharness",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T02:45:18.766474+00:00"
+  "fetched_at": "2026-08-24T05:37:54.171204+00:00"
 }

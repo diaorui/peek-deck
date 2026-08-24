@@ -5,26 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
-      "pub_date": 1787451420.0,
-      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
-      "description": "Capital is voting with its feet."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTThoYk11SXY1dDZzUkFIYjhvcWgtX3JQazlSUlVyRFJMZXFxZlRBbndNS0VtdkFoOUFvc2M4TlhUQmg1VG9udG1aVS0xNjMxS0FRM3FrWXlTV2YzWkpkUEN1X0NUc0pjREJoT0c1cXRyMUZBbVpkZnJZREpPWVpwQWxjU0cwZkpZdldGRWdKbzlKN3c3YWU4QtIBngFBVV95cUxOXzB4QlpWM2tSeVRETTJncjNycFJkYWc2dFU2bWZkUk5ET19ZSnZSSll3QlA0NFpDRElaZ2pVMVJJRU44RzBWMS1TaXE5Z0xNR1lDVk9HQkxJM3lDZ3B5cGs4V3dHbjNtM3laMVJGa0RMOVM3ZjRGYWx2eHZrdkpobV90dGlhc1NoaDVEQUl2U2Q0eWNkWmE4U2VaVUlmZw?oc=5",
-      "pub_date": 1787393828.0,
-      "article_url": "https://coinpedia.org/news/bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/06/23181642/why-is-the-crypto-market-crashing-today.jpg",
-      "description": "The crypto market just suffered its biggest flash crash since October 2025, wiping out $108 billion in just six minutes. The total market value fell from"
-    },
-    {
       "headline": "Ethereum\u2019s \u2018Netflix Moment\u2019 Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,16 +15,6 @@
       "description": "Micha\u00ebl Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level."
     },
     {
-      "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNTVtN2hYX2MwckF2dmpDc0ZzV1RhNFcxMFB4YWE4dktRQ01WSzBKNUVNV1hERUI0MHIwN3lBMXIwZllaRk9vVU9CMWJ0dThWRmgzVnRoSk0xZWN4UlhJdktndVRIdFJBM1ZMOVV1SnNSbzN4bEs3dW1PTGRPb0pyb3M2cE91TUM1NmZYeUV4NGhmbWQtdW1KTlRMYWNVTFN6dEh1QjFPbHZ2Vzd4ZHNXM0FnNWdjbEhWNFlSMi1fV2t2Y3Mya3BZbVhPcXJxdU5qalV2ZlRKOUZBX0xtblNXV3cwN0NLaHowbTFV?oc=5",
-      "pub_date": 1787493225.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it \"a bunch of jokers\" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc\u2026"
-    },
-    {
       "headline": "Bitcoin, Ethereum Rally 20%+ \u2014 Is the Crypto Bear Market Over?",
       "source": "CoinMarketCap",
       "source_url": "https://coinmarketcap.com",
@@ -53,6 +23,16 @@
       "article_url": "https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point",
       "image": "https://academy-public.coinmarketcap.com/optimized-uploads/a9998c1a68854cc988e47efbcff2b646.jpeg",
       "description": "BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?"
+    },
+    {
+      "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNTVtN2hYX2MwckF2dmpDc0ZzV1RhNFcxMFB4YWE4dktRQ01WSzBKNUVNV1hERUI0MHIwN3lBMXIwZllaRk9vVU9CMWJ0dThWRmgzVnRoSk0xZWN4UlhJdktndVRIdFJBM1ZMOVV1SnNSbzN4bEs3dW1PTGRPb0pyb3M2cE91TUM1NmZYeUV4NGhmbWQtdW1KTlRMYWNVTFN6dEh1QjFPbHZ2Vzd4ZHNXM0FnNWdjbEhWNFlSMi1fV2t2Y3Mya3BZbVhPcXJxdU5qalV2ZlRKOUZBX0xtblNXV3cwN0NLaHowbTFV?oc=5",
+      "pub_date": 1787493225.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it \"a bunch of jokers\" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc\u2026"
     },
     {
       "headline": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
@@ -73,6 +53,26 @@
       "article_url": "https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/",
       "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/08/images-18.jpeg",
       "description": "The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote"
+    },
+    {
+      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
+      "pub_date": 1787451420.0,
+      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
+      "description": "Capital is voting with its feet."
+    },
+    {
+      "headline": "Ledger fixes vulnerability in Ethereum app\u2019s signing flows",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JUVVreW5BVkFhWW5JOGVfWFA4UHI2UE9uSlplZlhrRWF0WFZyVkNHUU5yX05Zd3E4NGl6MkwzeVJtckFsVFdDay1sTmZkYTVGVWVuSndqZGZ0cm9tTmdDN0FmaEx3eUVpQXc2dmRjZHFIVUk?oc=5",
+      "pub_date": 1787544976.0,
+      "article_url": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24000747/ledger-nano-s-plus-800x420.png",
+      "description": "Ledger patched a race condition vulnerability in its Ethereum app's clear signing flows that could have let malicious dApps substitute"
     },
     {
       "headline": "Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T03:54:06.666972+00:00"
+  "fetched_at": "2026-08-24T05:38:00.265951+00:00"
 }
