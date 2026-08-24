@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T18:39:54.657650+00:00'
+updated: '2026-08-24T19:29:19.557644+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 18:39 UTC  
+**Last Updated:** August 24, 2026 at 19:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -63,7 +63,7 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 11m ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ I reran the benchmark. The deterministic result reproduced exactly — but the m
 
 As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ As people created the most abstract way of programming, syntax knowledge of prog
 
 recently when i was coding compared to deep seek (very bad at least website version ) , it produce very quality working code with minimum re tries and very quickly too and cheaply (no wonder gemini has 1 billion users , not just they shove it but actually good enough ) , compared to glm 5.2 or qwen 3.8 . (specially qwen 3.8 results are good and okay but take too much time and not the best , glm 5.2 is mediocre , and chatgpt normal website free version is just stupid i feel like and Anthropic models are very good but ridiculously expensive and limited , same as high end ChatGPT models . ? does any one has a idea ?
 
-28m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ recently when i was coding compared to deep seek (very bad at least website vers
 
 Plato’s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, “Those are only shadows,” what did you just give them? Another shadow. 😂 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you’re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow “escapes the Cave.” Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn’t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato’s problem. We’re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is.
 
-43m ago
+1h ago
 
 ---
 
@@ -123,13 +123,13 @@ Plato’s Cave has a funny problem. If someone is staring at shadows on the wall
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 9h ago
 
 A father of two elementary school-aged kids created an AI tutor to quiz them until they felt confident to do well on their tests.
 
-Business Insider • 17m ago
+Business Insider • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Business Insider • 17m ago
 
 Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -153,13 +153,13 @@ CNBC • 15h ago
 
 The model can convert spreadsheets, web pages, and presentations into video, and has been in public beta since August 6
 
-qz.com • 53m ago
+qz.com • 1h ago
 
 ---
 
 **[Alibaba launches Wan3.0 AI video model after $10 billion share sale](https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -167,13 +167,13 @@ Reuters • 10h ago
 
 The chip, which came from Nvidia's $20 billion Groq acquisition, can generate 3,400 tokens per second in benchmarking tests
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
 **[SpaceXAI to use Nvidia's Vera CPUs for agentic AI applications](https://seekingalpha.com/news/4636294-spacexai-to-use-nvidias-vera-cpus-for-agentic-ai-applications)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -181,13 +181,13 @@ Seeking Alpha • 3h ago
 
 NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems.
 
-NVIDIA Newsroom • 3h ago
+NVIDIA Newsroom • 4h ago
 
 ---
 
 **[From AI tools to alcohol drops: The unexpected forces driving America's crime decline](https://www.axios.com/2026/08/24/violent-crime-decline-theories)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -255,7 +255,7 @@ Karp said Chinese models can't be blamed for distilling U.S. models when the fro
 
 They all sound like the same guy
 
-⬆️ 17 • 💬 5 • 2d ago • [Medium](https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf)
+⬆️ 17 • 💬 5 • 3d ago • [Medium](https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf)
 
 ---
 
@@ -285,7 +285,7 @@ Terrifying AI behavior even its creators couldn't explain has left people questi
 
 📺 Most Amazing Elite
 
-👁️ 13K • 👍 109 • 💬 11 • ⏱️ 1:50:32 • 22h ago
+👁️ 13K • 👍 109 • 💬 11 • ⏱️ 1:50:32 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Rob
 
 📺 Makkah madina shorts
 
-👁️ 7K • 👍 363 • 💬 1 • ⏱️ 0:11 • 4h ago
+👁️ 7K • 👍 363 • 💬 1 • ⏱️ 0:11 • 5h ago
 
 ---
 
@@ -375,7 +375,7 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 CrazyHoodMedia
 
-👁️ 17K • 👍 366 • 💬 42 • ⏱️ 0:42 • 16h ago
+👁️ 17K • 👍 366 • 💬 42 • ⏱️ 0:42 • 17h ago
 
 ---
 
@@ -415,7 +415,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,015 • 8h ago
+⬇️ 57,947 • ❤️ 1,015 • 9h ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 680 • 52m ago
+⬇️ 312,627 • ❤️ 680 • 1h ago
 
 ---
 
@@ -663,7 +663,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 7m ago
+⭐ 14.2k • 🔱 1.7k • 56m ago
 
 ---
 
@@ -683,7 +683,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 601 • 3h ago
+⭐ 3.6k • 🔱 601 • 4h ago
 
 ---
 
@@ -693,7 +693,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 362 • 7h ago
+⭐ 3.0k • 🔱 362 • 8h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 304 • 31m ago
+⭐ 2.6k • 🔱 304 • 1h ago
 
 ---
 
@@ -723,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 1h ago
+⭐ 2.2k • 🔱 189 • 2h ago
 
 ---
 
@@ -733,7 +733,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 116 • 1h ago
+⭐ 2.2k • 🔱 116 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T18:39:54.676257+00:00'
+updated: '2026-08-24T19:29:19.572095+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 18:39 UTC  
+**Last Updated:** August 24, 2026 at 19:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 Bitmine is about 187,000 Ethereum short of its 5% of supply target.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -190,7 +190,7 @@ PR Newswire • 6h ago
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 1d ago
 
 XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -230,7 +230,7 @@ CryptoSlate • 21h ago
 
 Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 1K • 👍 221 • 💬 20 • ⏱️ 12:24 • 2h ago
+👁️ 1K • 👍 221 • 💬 20 • ⏱️ 12:24 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 217 • 💬 5 • ⏱️ 6:32 • 5h ago
+👁️ 3K • 👍 217 • 💬 5 • ⏱️ 6:32 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 4K • 💬 212 • ⏱️ 27:38 • 14h ago
+👁️ 78K • 👍 4K • 💬 212 • ⏱️ 27:38 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 263 • 👍 14 • 💬 19 • ⏱️ 4:36 • 9h ago
+👁️ 263 • 👍 14 • 💬 19 • ⏱️ 4:36 • 10h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 121 • ⏱️ 7:39 • 15h ago
+👁️ 1K • 👍 121 • ⏱️ 7:39 • 16h ago
 
 ---
 
