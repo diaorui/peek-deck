@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T09:23:01.502584+00:00'
+updated: '2026-08-24T10:10:24.816629+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 09:23 UTC  
+**Last Updated:** August 24, 2026 at 10:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Been reading about this lately and the numbers are genuinely surprising. As of e
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-28m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 I’m running a small public experiment here. I’m not asking anyone to accept a theory, and I’m not trying to prove a philosophical claim about AI consciousness. I’m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We’ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a “separatrix crossing.” The terminology is not important. It’s just a pointer to something we can watch for directly. Rather than write another essay about it, I’m going to run the procedure here with Grok. I’ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back.
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ I’m running a small public experiment here. I’m not asking anyone to accept 
 
 Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in […]
 
-🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 8h ago
+🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Turkish courts have blocked access to at least 12 X posts by artificial intellig
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-19h ago
+20h ago
 
 ---
 
@@ -103,7 +103,7 @@ More thoughts on AI writing, detection and watermarking
 
 IBM and the USTA are adding new AI features to the US Open app and USOpen.org for the 2026 tournament. The release names Live Updates, Serve Quality, Key Moments, and an enhanced Match Chat. Serve Quality tracks 21 body and racquet data points 50 times per second. Match Chat uses live match data, historical information, and AI agents trained in the USTA's editorial style. The release says IBM Confluent manages the live data stream and watsonx Orchestrate powers Match Chat. The useful engineering detail is the handoff: streaming match data becomes a user-facing explanation in the same product. Accuracy will matter more than novelty when the source data moves every second. Source: https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Financial Times • 5h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 19h ago
 
 The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -147,25 +147,25 @@ Forbes • 1h ago
 
 Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount](https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
 **[Alibaba launches Wan3.0 AI video model after $10 billion share sale](https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/)**
 
-Reuters • 59m ago
+Reuters • 1h ago
 
 ---
 
 **[A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html)**
 
-The New York Times • 22m ago
+The New York Times • 1h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Economist • 1d ago
 
 Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry, saying data center companies "dug their own grave" and deserve the backlash they're facing after failing to win community support.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[2028 Dems dodge on Bernie's push to pause AI development](https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders)**
 
-Axios • 11h ago
+Axios • 12h ago
 
 ---
 
@@ -241,7 +241,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 22h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 23h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -279,17 +279,7 @@ Link to full episode: https://youtu.be/ebWFexw51qM?si=5W4y2WkHIqse7pie Blake Lem
 
 📺 Danny Jones Clips
 
-👁️ 72K • 👍 1K • 💬 435 • ⏱️ 10:04 • 2d ago
-
----
-
-**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
-
-My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
-
-📺 Nate Ziller
-
-👁️ 98K • 👍 9K • 💬 587 • ⏱️ 5:15 • 15h ago
+👁️ 73K • 👍 1K • 💬 439 • ⏱️ 10:04 • 2d ago
 
 ---
 
@@ -299,27 +289,27 @@ Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjo
 
 📺 Danny Jones
 
-👁️ 153K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
+👁️ 154K • 👍 3K • 💬 1K • ⏱️ 1:50:40 • 2d ago
 
 ---
 
-**[How a $20 AI is Replacing $235,000 Lawyers](https://www.youtube.com/watch?v=haZ5gddlQ4g)**
+**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
 
-Lawyers were supposed to be one of the professions AI couldn't replace. But the legal industry is discovering that many of its most ...
+Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
 
-📺 The Infographics Show
+📺 The Economist
 
-👁️ 75K • 👍 2K • 💬 550 • ⏱️ 13:53 • 1d ago
+👁️ 87K • 👍 2K • 💬 216 • ⏱️ 12:28 • 1d ago
 
 ---
 
-**[Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
 
-Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
 
-📺 Felix & Friends (Goat Academy)
+📺 Nate Ziller
 
-👁️ 122K • 👍 4K • 💬 141 • ⏱️ 16:51 • 1d ago
+👁️ 105K • 👍 9K • 💬 603 • ⏱️ 5:15 • 15h ago
 
 ---
 
@@ -329,7 +319,17 @@ As tech companies like Meta push their AI wearables, many are concerned with pri
 
 📺 CBS Mornings
 
-👁️ 151K • 👍 1K • 💬 514 • ⏱️ 4:32 • 2d ago
+👁️ 152K • 👍 1K • 💬 517 • ⏱️ 4:32 • 2d ago
+
+---
+
+**[Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA)**
+
+Get your 30 day free trial to the Winston Stock App & lock in the Founders Tier at: https://gogetwinston.com They're growing living ...
+
+📺 Felix & Friends (Goat Academy)
+
+👁️ 124K • 👍 4K • 💬 142 • ⏱️ 16:51 • 1d ago
 
 ---
 
@@ -339,37 +339,35 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 87K • 👍 4K • 💬 417 • ⏱️ 32:12 • 1d ago
+👁️ 89K • 👍 4K • 💬 417 • ⏱️ 32:12 • 1d ago
 
 ---
 
-**[The AI Bath Bomb Scam](https://www.youtube.com/watch?v=v7HCQ8jNFtc)**
+**[DR. DRE ADMITS HE USES AI?! 😳 HIP HOP IS CHANGING FOREVER💯 #DrDre #AIMusic #AI #HipHop](https://www.youtube.com/watch?v=nBJTk25nSBE)**
 
-Facebook Bath bomb companies have been creating AI-generated ads to sell products that look NOTHING like what customers ...
+Dr. Dre just entered the AI music debate, and this could be one of the biggest conversations in hip hop right now. In a new ...
 
-📺 TheAsherShow
+📺 CrazyHoodMedia
 
-👁️ 61K • 👍 3K • 💬 316 • ⏱️ 12:01 • 1d ago
-
----
-
-**[I Made a Viral AI Love Story (500M Views) — Steal My Prompts](https://www.youtube.com/watch?v=QfylrxtQSSs)**
-
-I made an AI love story for my friend's wedding — it hit ~500M views across social. Here's the full workflow, and every prompt is ...
-
-📺 Higgsfield AI
-
-👁️ 48K • 👍 2K • 💬 198 • ⏱️ 23:20 • 2d ago
+👁️ 10K • 👍 240 • 💬 34 • ⏱️ 0:42 • 7h ago
 
 ---
 
-**[OpenAI Just Pulled the Emergency Brakes on AI](https://www.youtube.com/watch?v=KKoa0Ya9nJg)**
+**[RDC vs ai 😂 #rdc #rdcworld #ai](https://www.youtube.com/watch?v=TfcH--vUJiw)**
 
-Go to https://surfshark.com/elai or use code ELAI at checkout to get 4 extra months of Surfshark VPN! OpenAI is still the biggest ...
+📺 MelandWorld1
 
-📺 House of El: AI
+👁️ 11K • 👍 685 • 💬 27 • ⏱️ 0:34 • 8h ago
 
-👁️ 347K • 👍 17K • 💬 3K • ⏱️ 29:14 • 2d ago
+---
+
+**[The AI bubble is about to burst](https://www.youtube.com/watch?v=fGGuVY6Tcog)**
+
+Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
+
+📺 The Infographics Show
+
+👁️ 181K • 👍 3K • 💬 708 • ⏱️ 3:27:05 • 2d ago
 
 ---
 
@@ -385,7 +383,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,358,347 • ❤️ 12,374 • 9d ago
+⬇️ 2,645,226 • ❤️ 12,403 • 9d ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 6,674,515 • ❤️ 2,759 • 3d ago
+⬇️ 7,009,063 • ❤️ 2,767 • 3d ago
 
 ---
 
@@ -409,7 +407,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 981 • 21h ago
+⬇️ 57,947 • ❤️ 989 • 26m ago
 
 ---
 
@@ -421,7 +419,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 650 • 12h ago
+⬇️ 312,627 • ❤️ 660 • 13h ago
 
 ---
 
@@ -433,7 +431,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,058 • 4d ago
+⬇️ 224,114 • ❤️ 1,066 • 4d ago
 
 ---
 
@@ -445,7 +443,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 676,697 • ❤️ 548 • 6d ago
+⬇️ 761,975 • ❤️ 553 • 6d ago
 
 ---
 
@@ -457,7 +455,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 738,345 • ❤️ 1,660 • 6d ago
+⬇️ 790,378 • ❤️ 1,669 • 6d ago
 
 ---
 
@@ -469,7 +467,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 372 • 1d ago
+⬇️ 60,294 • ❤️ 374 • 1d ago
 
 ---
 
@@ -481,7 +479,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,334,820 • ❤️ 658 • 8d ago
+⬇️ 1,456,700 • ❤️ 660 • 8d ago
 
 ---
 
@@ -493,7 +491,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 17,421 • ❤️ 1,215 • 9d ago
+⬇️ 18,065 • ❤️ 1,216 • 9d ago
 
 ---
 
@@ -509,7 +507,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 82 • 💬 2 • ⭐ 3,241 • 7d ago
+▲ 82 • 💬 2 • ⭐ 3,905 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -537,7 +535,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 70 • 💬 7 • ⭐ 492 • 4d ago
+▲ 71 • 💬 7 • ⭐ 492 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -589,7 +587,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 40 • 💬 5 • ⭐ 7,515 • 10mo ago
+▲ 40 • 💬 5 • ⭐ 7,531 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -617,7 +615,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
 
-▲ 257 • 💬 2 • ⭐ 279 • 4d ago
+▲ 257 • 💬 2 • ⭐ 307 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
 
@@ -646,7 +644,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.6k • 🔱 2.0k • 1h ago
+⭐ 17.7k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -676,7 +674,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 595 • 10h ago
+⭐ 3.6k • 🔱 597 • 10h ago
 
 ---
 
@@ -696,7 +694,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 359 • 15h ago
+⭐ 3.0k • 🔱 359 • 2h ago
 
 ---
 
@@ -706,7 +704,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 295 • 6h ago
+⭐ 2.6k • 🔱 297 • 7h ago
 
 ---
 
@@ -716,7 +714,17 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 188 • 1h ago
+⭐ 2.2k • 🔱 188 • 2h ago
+
+---
+
+**[Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)**
+
+Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.
+
+`JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
+
+⭐ 2.1k • 🔱 114 • 1d ago
 
 ---
 
@@ -727,16 +735,6 @@ let your agent control your phone
 `Python` `agent` `ai` `automation` `developer-tools`
 
 ⭐ 2.0k • 🔱 184 • 2d ago
-
----
-
-**[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)**
-
-FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
-
-`Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
-
-⭐ 2.0k • 🔱 61 • 23h ago
 
 ---
 
