@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T13:51:54.511861+00:00'
+updated: '2026-08-24T14:41:28.730394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 13:51 UTC  
+**Last Updated:** August 24, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,13 +101,13 @@ Well it's basically it.
 
 **[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Coming soon](https://www.reddit.com/r/Bitcoin/comments/1vwv0lm/coming_soon/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Well it's basically it.
 
 What's going on?????¿¿¿
 
-16h ago
+17h ago
 
 ---
 
@@ -157,31 +157,31 @@ What's everyone's opinions? I know bitcoin has been pumping had mixed opinions s
 
 Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Weekly Inflow in 10 Months During Rally](https://www.bloomberg.com/news/articles/2026-08-24/bitcoin-etfs-see-biggest-weekly-inflow-in-10-months-during-rally)**
 
-Bloomberg • 5h ago
+Bloomberg • 6h ago
 
 ---
 
 **[Bitcoin turns higher, heads for 6th straight gain](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-jackson-hole/card/bitcoin-turns-higher-heads-for-6th-straight-gain-jr3eZwUMAKdh8UeaaE5q?mod=mw_robin)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
 **[Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg • 1h ago
 
 Finally, a killer use case
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 2d ago
 
 Ray Dalio warns a US debt crisis could arrive in three years and tells investors to hold 10-15% gold plus a bit of bitcoin, with BTC near $78,000.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -295,7 +295,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 16K • 👍 574 • 💬 179 • ⏱️ 41:23 • 14h ago
+👁️ 16K • 👍 574 • 💬 179 • ⏱️ 41:23 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 521 • ⏱️ 15:40 • 1d ago
+👁️ 70K • 👍 4K • 💬 521 • ⏱️ 15:40 • 2d ago
 
 ---
 
