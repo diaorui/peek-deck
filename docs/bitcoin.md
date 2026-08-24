@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T21:29:16.904309+00:00'
+updated: '2026-08-24T21:55:28.631658+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 21:29 UTC  
+**Last Updated:** August 24, 2026 at 21:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,6 +77,18 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
+
+51m ago
+
+---
+
+**[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
+
+3h ago
+
+---
+
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
 9h ago
@@ -85,13 +97,13 @@ Rank #1
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,12 +123,6 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 ---
 
-**[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
-
-3h ago
-
----
-
 **[Coinbase really wants your coin](https://www.reddit.com/r/Bitcoin/comments/1vx5m9b/coinbase_really_wants_your_coin/)**
 
 I wonder why that is so?
@@ -125,11 +131,11 @@ I wonder why that is so?
 
 ---
 
-**[Sold my Vespa GTV yesterday for $5500! Just went 4x long on BTC with the money!](https://www.reddit.com/r/Bitcoin/comments/1vwpcpd/sold_my_vespa_gtv_yesterday_for_5500_just_went_4x/)**
+**[Well…so long and thanks for all the fish.](https://www.reddit.com/r/Bitcoin/comments/1vx8j6c/wellso_long_and_thanks_for_all_the_fish/)**
 
-Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
+Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-19h ago
+4h ago
 
 ---
 
@@ -137,15 +143,7 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-5h ago
-
----
-
-**[Well…so long and thanks for all the fish.](https://www.reddit.com/r/Bitcoin/comments/1vx8j6c/wellso_long_and_thanks_for_all_the_fish/)**
-
-Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
-
-4h ago
+6h ago
 
 ---
 
@@ -179,7 +177,7 @@ Financial Times • 13h ago
 
 **[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -187,7 +185,7 @@ Bloomberg.com • 7h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -195,7 +193,7 @@ Yahoo Finance • 8h ago
 
 The new USD Cash reserve gives the company flexibility to purchase bitcoin, repurchase securities, or meet other corporate needs
 
-qz.com • 3h ago
+qz.com • 4h ago
 
 ---
 
@@ -217,7 +215,7 @@ WSJ • 3d ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 6h ago
+24/7 Wall St. • 7h ago
 
 ---
 
@@ -225,7 +223,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -251,7 +249,7 @@ Finally, a killer use case
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 3d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -299,7 +297,7 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 20 • ⏱️ 37:21 • 13h ago
+👁️ 16K • 👍 1K • 💬 20 • ⏱️ 37:21 • 14h ago
 
 ---
 
@@ -309,7 +307,7 @@ Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 140 • ⏱️ 20:21 • 21h ago
+👁️ 25K • 👍 2K • 💬 140 • ⏱️ 20:21 • 22h ago
 
 ---
 

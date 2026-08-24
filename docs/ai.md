@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T21:29:16.899272+00:00'
+updated: '2026-08-24T21:55:28.623171+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 21:29 UTC  
+**Last Updated:** August 24, 2026 at 21:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 8h ago
+🔗 [Rauno](https://rauno.ai) • 9h ago
 
 ---
 
@@ -79,7 +79,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 I built EchoVault, an app that interviews you about your life and turns the answers into an avatar your family can talk to after you die. In the clip I ask it the meaning of life, which I never covered in any session. It builds an answer out of separate conversations about my values. Then I ask my grandfather’s middle name and it stops. It doesn’t know, because I never told it, so it says so. Everyone in this category is chasing a convincing likeness. A convincing likeness that answers everything is a machine for inventing memories, and the person on the other end is grieving and can’t check. I shipped this architecture with the webapp in June 2025 and the rest of the category has since converged on it. The iOS app is out now. Text tier is free and unlimited, no card. https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028
 
-4m ago
+31m ago
 
 ---
 
@@ -111,7 +111,7 @@ I've spent a while building a fact-checking pipeline, and I finally did a boring
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-12h ago
+13h ago
 
 ---
 
@@ -135,13 +135,13 @@ The New York Times • 7h ago
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 30m ago
+Axios • 56m ago
 
 ---
 
 **[NVent Seeks Bigger Piece of AI Boom With $1.75 Billion Deal](https://www.bloomberg.com/news/articles/2026-08-24/nvent-seeks-bigger-piece-of-ai-boom-with-1-75-billion-deal)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ PBS • 1h ago
 
 **[Taiwan Charges Nine in Connection With Smuggling of AI Servers to China](https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ WSJ • 6h ago
 
 Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.
 
-Ars Technica • 4h ago
+Ars Technica • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ Time Magazine • 12h ago
 
 Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
 
-SiliconANGLE • 22h ago
+SiliconANGLE • 23h ago
 
 ---
 
@@ -213,7 +213,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 353 • 💬 373 • 5h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 353 • 💬 373 • 6h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -229,7 +229,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 171 • 💬 83 • 14h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 171 • 💬 83 • 15h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -243,7 +243,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 77 • 💬 94 • 11h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 77 • 💬 94 • 12h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
 
 ---
 
@@ -281,7 +281,7 @@ The future isn't Tomorrow—it's already here Today. These Days AI-powered human
 
 📺 ejunky66
 
-👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 1h ago
+👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 2h ago
 
 ---
 
@@ -301,7 +301,7 @@ If you want to skip the hassle of researching, buying, and building a gaming PC 
 
 📺 ShortCircuit
 
-👁️ 7K • 👍 515 • 💬 57 • ⏱️ 13:43 • 1h ago
+👁️ 7K • 👍 515 • 💬 57 • ⏱️ 13:43 • 2h ago
 
 ---
 
@@ -329,7 +329,7 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 The Shed Podcast
 
-👁️ 643 • 👍 25 • 💬 1 • ⏱️ 1:44 • 2h ago
+👁️ 643 • 👍 25 • 💬 1 • ⏱️ 1:44 • 3h ago
 
 ---
 
@@ -409,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,023 • 11h ago
+⬇️ 57,947 • ❤️ 1,023 • 12h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 688 • 3h ago
+⬇️ 312,627 • ❤️ 688 • 4h ago
 
 ---
 
@@ -646,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.9k • 🔱 2.1k • 59m ago
+⭐ 17.9k • 🔱 2.1k • 1h ago
 
 ---
 
@@ -656,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 2h ago
+⭐ 14.2k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -726,7 +726,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 119 • 4h ago
+⭐ 2.2k • 🔱 119 • 5h ago
 
 ---
 

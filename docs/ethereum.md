@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T21:29:16.907879+00:00'
+updated: '2026-08-24T21:55:28.637741+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 21:29 UTC  
+**Last Updated:** August 24, 2026 at 21:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-4h ago
+5h ago
 
 ---
 
@@ -174,7 +174,7 @@ CoinDesk • 8h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -182,7 +182,7 @@ PR Newswire • 8h ago
 
 Bitmine is about 187,000 Ethereum short of its 5% of supply target.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView • 1d ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 11h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -228,7 +228,7 @@ CoinDesk • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 4K • 👍 101 • 💬 22 • ⏱️ 10:36 • 22h ago
+👁️ 4K • 👍 101 • 💬 22 • ⏱️ 10:36 • 23h ago
 
 ---
 
@@ -292,7 +292,7 @@ Most people know the DAO hack led to Ethereum Classic — but few know about the
 
 📺 CoinGecko
 
-👁️ 1K • 👍 67 • 💬 41 • ⏱️ 4:22 • 10h ago
+👁️ 1K • 👍 67 • 💬 41 • ⏱️ 4:22 • 11h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin and Ethereum are surging, but don't let emotional trading ruin your gain
 
 📺 Gabbie Trades
 
-👁️ 528 • 👍 20 • ⏱️ 0:44 • 10h ago
+👁️ 528 • 👍 20 • ⏱️ 0:44 • 11h ago
 
 ---
 
