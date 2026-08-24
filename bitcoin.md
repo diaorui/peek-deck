@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T18:39:54.669061+00:00'
+updated: '2026-08-24T19:29:19.566046+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 18:39 UTC  
+**Last Updated:** August 24, 2026 at 19:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-6h ago
+7h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -95,27 +95,25 @@ Rank #1
 
 ---
 
-**[German petition against abolishing the one-year tax-free holding period for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vx238r/german_petition_against_abolishing_the_oneyear/)**
-
-Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
-
-5h ago
-
----
-
-**[Sold my Vespa GTV yesterday for $5500! Just went 4x long on BTC with the money!](https://www.reddit.com/r/Bitcoin/comments/1vwpcpd/sold_my_vespa_gtv_yesterday_for_5500_just_went_4x/)**
-
-Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
-
-16h ago
-
----
-
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vx2nam/bitcoin_right_now/)**
 
 Then it drops back down to 62k by next week
 
-5h ago
+6h ago
+
+---
+
+**[German petition against abolishing the one-year tax-free holding period for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vx238r/german_petition_against_abolishing_the_oneyear/)**
+
+Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
+
+6h ago
+
+---
+
+**[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
+
+1h ago
 
 ---
 
@@ -123,27 +121,29 @@ Then it drops back down to 62k by next week
 
 I wonder why that is so?
 
-3h ago
+4h ago
 
 ---
 
-**[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
+**[Sold my Vespa GTV yesterday for $5500! Just went 4x long on BTC with the money!](https://www.reddit.com/r/Bitcoin/comments/1vwpcpd/sold_my_vespa_gtv_yesterday_for_5500_just_went_4x/)**
 
-8h ago
+Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
----
-
-**[BITCOIN](https://www.reddit.com/r/Bitcoin/comments/1vwy4cm/bitcoin/)**
-
-Well it's basically it.
-
-8h ago
+17h ago
 
 ---
 
 **[What's your message to people who are still waiting for 40k entry?](https://www.reddit.com/r/Bitcoin/comments/1vx6dvd/whats_your_message_to_people_who_are_still/)**
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
+
+3h ago
+
+---
+
+**[Well…so long and thanks for all the fish.](https://www.reddit.com/r/Bitcoin/comments/1vx8j6c/wellso_long_and_thanks_for_all_the_fish/)**
+
+Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
 2h ago
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 Finally, a killer use case
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ IO Fund • 4d ago
 
 **[Bitcoin Bounce Boosting This Crypto-Correlated Stock](https://etfdb.com/leveraged-inverse-content-hub/bitcoin-bounce-boosting-coin/)**
 
-ETF Database • 2h ago
+ETF Database • 3h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin has finally started moving, but what if you missed the first leg of the 
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 551 • 💬 16 • ⏱️ 39:19 • 1d ago
+👁️ 15K • 👍 551 • 💬 16 • ⏱️ 39:19 • 2d ago
 
 ---
 
@@ -319,7 +319,7 @@ Mark Yusko has his Bitcoin bull socks out It's a pretty darn good start. In fact
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 22 • 💬 32 • ⏱️ 0:28 • 10h ago
+👁️ 1K • 👍 22 • 💬 32 • ⏱️ 0:28 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ Help us fight these scammers! Become a member today: https://www.youtube.com/cha
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 634 • 💬 30 • ⏱️ 1:43 • 17h ago
+👁️ 9K • 👍 634 • 💬 30 • ⏱️ 1:43 • 18h ago
 
 ---
 

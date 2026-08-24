@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T18:39:54.679720+00:00'
+updated: '2026-08-24T19:29:19.575253+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 18:39 UTC  
+**Last Updated:** August 24, 2026 at 19:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 20h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Very soon, it may even teach me how to play tennis :) Does it run all inference 
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -130,7 +130,7 @@ XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embo
 
 IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
 
-Stock Titan • 8h ago
+Stock Titan • 9h ago
 
 ---
 
@@ -138,7 +138,7 @@ Stock Titan • 8h ago
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 4h ago
+CBS News • 5h ago
 
 ---
 
@@ -146,7 +146,7 @@ CBS News • 4h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Financial Times • 1d ago
 
 Skild AI is valued at $14B and already has hundreds of robots running in factories. Co-founder Abhinav Gupta explains why the robotics "ChatGPT moment" is real but will arrive one deployment at a time.
 
-The Next Web • 1h ago
+The Next Web • 2h ago
 
 ---
 
@@ -178,13 +178,13 @@ The Next Web • 1h ago
 
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
-Stock Titan • 19h ago
+Stock Titan • 20h ago
 
 ---
 
 **[Intel report finds robotics readiness gap among businesses](https://www.theengineer.co.uk/content/news/intel-finds-robotics-readiness-gap-among-businesses)**
 
-The Engineer • 9h ago
+The Engineer • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 2K • 👍 29 • 💬 1 • ⏱️ 1:11 • 5h ago
+👁️ 2K • 👍 29 • 💬 1 • ⏱️ 1:11 • 6h ago
 
 ---
 
