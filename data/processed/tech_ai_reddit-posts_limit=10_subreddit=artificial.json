@@ -46,6 +46,17 @@
       "description": "A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he\u2019ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like \"Nah man it not AI i made it blah blah blah..\". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said \"Ok\" but after sometime he said \"I will not make it again, now if there is any real work then tell me and I will get it done.\" At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said \"this time i will not use AI\" (\ud83e\udee1 i obviously refused)"
     },
     {
+      "title": "Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!",
+      "author": "Many_Audience7660",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/",
+      "published": 1787541050.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to \u20ac35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!"
+    },
+    {
       "title": "agent 'souls' keep a record and personality after a context reset",
       "author": "robauto-dot-ai",
       "url": "https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn\u2019t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I\u2019d have 15\u201320 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the \u201cglue work\u201d between them. That\u2019s where I\u2019ve started questioning the usual AI workflow. If I ask \u201cWhat are the main trends in this market?\u201d, I get an answer. But that doesn\u2019t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what\u2019s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn\u2019t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it\u2019s definitely not \u201cpress a button and replace the researcher.\u201d But I wish myself spending less time reviewing the findings and copying information between tabs. We\u2019ve spent a lot of time asking whether models can answer questions better. Now I\u2019m more interested in whether they can take something messy like \u201cfigure out what\u2019s happening in this market and give me something I can make a decision from\u201d and actually carry the whole task through."
-    },
-    {
-      "title": "What military use of AI/robotics advancement could have such a profound effect that whichever country first put it to use could become an overwhelmingly dominant global power?",
-      "author": "distantpapaya",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwhuz8/what_military_use_of_airobotics_advancement_could/",
-      "published": 1787516468.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world\u2019s near-complete dominant military power?"
     }
   ],
-  "fetched_at": "2026-08-24T02:45:19.144372+00:00"
+  "fetched_at": "2026-08-24T03:53:51.458303+00:00"
 }

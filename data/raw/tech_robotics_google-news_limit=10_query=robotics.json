@@ -55,6 +55,16 @@
       "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
     },
     {
+      "headline": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2hhOFZ1bFYwcDBJYUExcTlfQ2R6SldKZ1JILXpITnVrRDV5VmlhcV8weTVNd1RQck9QNEl2XzgyaVZJcTBGVURScnIzU1lWWmVXR3VDLWYyUTdXSlQ5dE9LMW5KV2NEQmg5NTM1T2ZCQUNMUk9YMXg0aGlmSTU3UHFrdDlCblp6aUNHd3NQRHpIekptQWc?oc=5",
+      "pub_date": 1787501862.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/66666F73B39A5897BCC5950694A66F0A6FBE32CEE43043302B551BEABF3C2D9F/subgraphmysterio/resizefill_w1200_h1600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F33f30ea6b95a29e993c1928cd4f72023.jpg",
+      "description": "AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard."
+    },
+    {
       "headline": "China\u2019s Fuxi humanoid robot mirrors human movements in real time for high-risk missions",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -63,26 +73,6 @@
       "article_url": "https://interestingengineering.com/ai-robotics/chinas-humanoid-robot-mirrors-humans",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Screenshot-2026-08-22-at-7.46.51-AM.png",
       "description": "NORINCO introduces a breakthrough teleoperation system allowing operators to control full-size humanoid robots remotely with zero lag."
-    },
-    {
-      "headline": "China's humanoid robots beat Usain Bolt's 100m world record",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaURKYXZlTFo4YjhUUmZVVk9wejhxSHlkMFB1SlRSNTBMdFNCRVRHLVZyQUlnMTFwY1FYOFR5a29MZTNlZnN3OWhndGtIQi1TOU1DRm5zVW5LVWRJQzk0NS1zbDlZaW1mR0M2TEEtbG9qZTVodUNsbUxsOXVQUnFZaG5NNEJXY3lYUkMxWlZxbUpteHVoQXR4SVZVR0NEeC1Jbnh3c2FB?oc=5",
-      "pub_date": 1787480820.0,
-      "article_url": "https://asia.nikkei.com/business/technology/china-s-humanoid-robots-beat-usain-bolt-s-100m-world-record",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F9%2F3%2F13003952-1-eng-GB%2F12912a0bea60-2026-08-22T170135Z_1234194350_RC2N3NAH1V13_RTRMADP_3_CHINA-TECH-ROBOT-GAMES.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-      "description": "Beijing event highlights rapid gains in AI-driven mobility systems"
-    },
-    {
-      "headline": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0l6U2lxVTh2YnZkZnlJajBpTi1fN0VNQ3Jxc1hIM29YZlFCZWMtYUJhQlhVeWo1d0RVNUN1UFphRXV3cDFlMzV3cVh3UHJiTGhoTzM0NDBGX3pJRXZEdUlBODhkTXF3S2U2TTFWNkJxMlVTRGhLa1ZDZkVKTkFXMkdFaHlOMGd3Ny05M2YzeVpfNlk3N0E?oc=5",
-      "pub_date": 1787306604.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/ace-robotics-ceo-says-robot-100324175.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2DF2C62067FFD75DC90EFC89BAF482382015D5742F1B3E6468894B903BD17770/subgraphmysterio/resizefill_w1200_h827;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F04d802c1dc3b708feca781e73ae93258.jpg",
-      "description": "Humanoid robot brains could see a breakthrough by late next year similar to the dramatic impact ChatGPT had on AI usage, the \u200cchairman of Chinese embodied AI startup ACE Robotics said on Friday.  \"We expect to reach the 'ChatGPT moment' for embodied intelligence by the end \u200cof next year, driven by world models and environmental data capture,\" Wang Xiaogang told Reuters.  \"Even if we reach that inflection point by late 2027, it will likely take another four to \u200bfive years to see broad commercial implementation of embodied world models across sectors,\" said Wang, who is also a co-founder of Chinese AI visual recognition pioneer SenseTime."
     },
     {
       "headline": "Chinese humanoids steal the spotlight at San Francisco's robot party",
@@ -103,8 +93,18 @@
       "article_url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108352476-1787269803395-IMG_2461_2.jpeg?v=1787270825&w=1920&h=1080",
       "description": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios."
+    },
+    {
+      "headline": "Humanoid crashes during speed test as China\u2019s robotics industry grows",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjR5OGxhb2pQYktnTzZ6Sm5mN3pTV0h3OGdkZ3o1bFdvazFKaDdZSHZxamowajlzQ2hfTFpCQm5Ld0k2MWtFVENpdl9WQUx3bEwxRDRta3ItelhTUVFHUmNCcmF4Q0RXLS1ndGxwamhic3NMY3NOWjNYUVFsamtmdWtKYXlGZ2U4dkY3UGhhLXlsUlJaWmR6NUNZb3cwSUZXYkNCR2FIM292Rl9DTlZUUngxa2xfeElmLUVJ0gHAAUFVX3lxTE1USUhjSk1iY3BqdFU2Q3Z1QUwzaEFRbW1GazZDNkVKbWEtVWtUTGR5aVdvT0dzbU5BZkgyTDQ5bU1PR0VJYzltOWhpSTBleVQ0R1FnbkFmUk1DbDVpb0hiRHJoWkh4aTNpME5OT2JHOWgzVjhUQmhxQnBRbmZtV3dVRDllZUVpWlpCcEhpWkJ3WVgxU0N3TE4zQ1pYYm1YNy1QSWhuRmpuVjJFZG9HcmZhZDBabE9HR0lWZG0xWVNTbA?oc=5",
+      "pub_date": 1787315148.0,
+      "article_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/robot-horizontal-thumb-1787315058.jpg?resize=1920%2C1080&quality=80",
+      "description": "Humanoid crashes during speed test as China\u2019s robotics industry grows"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T02:45:37.854286+00:00"
+  "fetched_at": "2026-08-24T03:54:10.236967+00:00"
 }
