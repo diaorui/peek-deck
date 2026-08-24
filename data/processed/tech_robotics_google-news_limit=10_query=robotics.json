@@ -16,12 +16,12 @@
     },
     {
       "headline": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVpLUTlBQ1BNVlBMbE5BNDVwcWhDa3hQNEFOWWZqQnFEYzR4VnhGSGE5UkVPUGszbUJHbzZwRk5sckZEZ3hDYl94WmJ3UkFoR0ptTXU5U2JMbGk5N21ESzVSNjBzakEzeG56dWViNmpYWkxsek5ZU2ZMOXV4aFd0MjRzUkxQckZHdS1ZSlB2bXFhOG1NdkwzckRBTHR5MEdQUGNNWUJjbmFlcDFnQUgxeExRVlNjUUlYZ3BYa0NOdEVsZ2xCVV9V?oc=5",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3pua1hCWWhhUWhsaW1iLWtzdlFybVowR3lRUlRXemk2bV92dnJlVXRIbi0tVG5KbFIydS0tQUcxVE1UdEtaNW1iazZWbjZHWTJEeFpMUExScVRjZmJ6WklFOUNHSWtZbWxmMUZ6a3ctRk9aVEpiWWtEUl9YYXoyVldudmplaDFJMHhXZ3JGaw?oc=5",
       "pub_date": 1787582164.0,
-      "article_url": "https://247wallst.com/investing/2026/08/24/xpeng-sinks-7-as-q2-miss-overshadows-6-3b-robotics-valuation-nio-drops-4-tesla-slips/",
-      "image": "https://247wallst.com/wp-content/uploads/2023/04/Xpeng-G6-4-2023.jpg",
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a245c5090fe79dadade3e63fba3fbf5a4c381d0c4bb1db19871a9fe5d47c81e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a61aaa828ab1bb61666bce552e8c313.jpg",
       "description": "XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure."
     },
     {
@@ -35,14 +35,24 @@
       "description": "IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026."
     },
     {
-      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
-      "pub_date": 1787599433.0,
-      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
-      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
-      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787605121.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ADNOC, a major oil and gas producer, could use Micropolis robots for hazardous tasks",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNERCQ3NOTHpWMjFUVnVaVVdUdFBqN2RCQlVvRlhMajByMkR6ZEtxRjZSRjg1LUJTMllMNTZ1S0pBRnJ5aGd3dXB3UzZ4Mm0wYjJwd2FwdjBORTgzOG0wZnJRU19yek1hMnZVWmdtTXRrTmF2R1B4VW1haWc5MlYxMjctZzU2WXQ4T25jc1pSZjNLS1UzSGEwRHFwWTVmNS15VlJRZGRoVlJZa0x3eG9vc0tzUjEzbnVRUE00?oc=5",
+      "pub_date": 1787602500.0,
+      "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-alte0vdfox60.html",
+      "image": "https://www.stocktitan.net/news_covers/Micropolis_Robotics_Becomes_a_Robotics_and_Physical_AI_Solutions_Provider_to_ADNOC_1496559.webp",
+      "description": "Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas."
     },
     {
       "headline": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
@@ -65,6 +75,26 @@
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
+      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
+      "pub_date": 1787599433.0,
+      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
+      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
+      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
+    },
+    {
+      "headline": "BlackBerry found a second life in car software. Now it\u2019s looking to robotics",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xeGI4ak5PY2dkblVwZk1XRDU1ZFFiZ083enVMa1BOUmtualBGckNoTEVCeEZKcHhPUjVwZEZNTzZxVkYwMXRVYXQ5c1lVeEtDd3o0S05VN25QM0ItNkkxeXNaTng3czdwNERaM3o2Q1p2VFRpNkJGc3VEMA?oc=5",
+      "pub_date": 1787605226.0,
+      "article_url": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
+    },
+    {
       "headline": "AI robotics companies love San Francisco. They\u2019re just too big to stay",
       "source": "The San Francisco Standard",
       "source_url": "https://sfstandard.com",
@@ -73,38 +103,8 @@
       "article_url": "https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/",
       "image": "https://assets.sfstandard.com/image/994911177489/image_sqmg558v895ajasdsopfoius00/-C100.00%25x78.71%25%2C0.00%25%2C18.16%25-S1200x630-FPNG",
       "description": "The city is still ground zero for the industry boom. But as machine companies scale up, they can\u2019t find the space to match."
-    },
-    {
-      "headline": "Government can bring robotics to life",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzFKTlJwQllnVnNPUXR1YnJsRjFIdkJjN082emUyaXhkN004RXV4b3c4ZFRmdXpfc1JmZHB5N1lWNVFodWI2NnkySmpXanllcU5jUExmdldSMGRya0xha0ItREExeGFJOE5XVmxqamg4Y1czdl9ONU5VUlZGMkZnbzU0Y28?oc=5",
-      "pub_date": 1787483707.0,
-      "article_url": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb1a81b84-9705-419a-96ab-76d547c511bb.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
-    },
-    {
-      "headline": "Inside China\u2019s Race To Rule Robotics",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
-      "pub_date": 1787588907.0,
-      "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "One U.S. robotics distributor now covers all 50 states for Faraday Future",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0dRcnk2Tzl0Y3ZIZXJILUYzakZMaDNxYVI1UF92WGxxVV9oclVZaGMwaWhZaWJxUnZadk54X29OYUF5U1RHMHc0SEdaakxGbGx0WUh5MXl0dkdlaWdyOS1ycmVVSjZDQUhWclQ4aW5FNUQxdTFPWjhMQWlYRXk4WG94MEpidWc4MDAyTERTX0dQMHlqenFLSllhOGdTWDZkTTZqMUk3d01jcmlwLXZJVkR6WE8xTEZhdDZQb3hXcw?oc=5",
-      "pub_date": 1787526000.0,
-      "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-a8intlp6hpjh.html",
-      "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Founder_and_Global_CEO_YT_Jia_Shares_Weekly_Investor_Update_Signs_New_FF_Par_Agreeme_1496171.webp",
-      "description": "Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T19:57:05.959451+00:00"
+  "fetched_at": "2026-08-24T21:29:14.870335+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T20:34:37.233167+00:00'
+updated: '2026-08-24T21:29:16.909741+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 20:34 UTC  
+**Last Updated:** August 24, 2026 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 22h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 23h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 21h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Very soon, it may even teach me how to play tennis :) Does it run all inference 
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -114,15 +114,15 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
-**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://247wallst.com/investing/2026/08/24/xpeng-sinks-7-as-q2-miss-overshadows-6-3b-robotics-valuation-nio-drops-4-tesla-slips/)**
+**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html)**
 
 XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
 
-24/7 Wall St. • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -130,15 +130,21 @@ XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embo
 
 IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
 
-Stock Titan • 10h ago
+Stock Titan • 11h ago
 
 ---
 
-**[Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate](https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8)**
+**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed.
+Axios • 30m ago
 
-Business Insider • 1h ago
+---
+
+**[ADNOC, a major oil and gas producer, could use Micropolis robots for hazardous tasks](https://www.stocktitan.net/news/MCRP/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-alte0vdfox60.html)**
+
+Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas.
+
+Stock Titan • 1h ago
 
 ---
 
@@ -146,7 +152,7 @@ Business Insider • 1h ago
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 6h ago
+CBS News • 7h ago
 
 ---
 
@@ -154,7 +160,23 @@ CBS News • 6h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
+
+---
+
+**[Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate](https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8)**
+
+Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed.
+
+Business Insider • 2h ago
+
+---
+
+**[BlackBerry found a second life in car software. Now it’s looking to robotics](https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html)**
+
+BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
+
+CNBC • 28m ago
 
 ---
 
@@ -163,28 +185,6 @@ TechCrunch • 5h ago
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
 The San Francisco Standard • 1d ago
-
----
-
-**[Government can bring robotics to life](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1)**
-
-Without policy, there are few incentives to automate business functions where labour costs are low
-
-Financial Times • 1d ago
-
----
-
-**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
-
-WSJ • 4h ago
-
----
-
-**[One U.S. robotics distributor now covers all 50 states for Faraday Future](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-a8intlp6hpjh.html)**
-
-Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
-
-Stock Titan • 21h ago
 
 ---
 
@@ -198,17 +198,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 2K • 👍 29 • 💬 1 • ⏱️ 1:11 • 7h ago
-
----
-
-**[This Robot Changes Shape for the Terrain #robotics #ai #futuretech#engineering #tech#innovation](https://www.youtube.com/watch?v=L0oyPRpVsxk)**
-
-Galileo X is designed to use different movement configurations for different parts of a route: a vehicle-like mode for long-distance ...
-
-📺 Auren Voss Insights
-
-👁️ 1K • 👍 34 • 💬 8 • ⏱️ 0:54 • 9h ago
+👁️ 3K • 👍 42 • 💬 1 • ⏱️ 1:11 • 8h ago
 
 ---
 
@@ -218,7 +208,27 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 32K • 👍 830 • 💬 208 • ⏱️ 0:52 • 1d ago
+👁️ 33K • 👍 836 • 💬 208 • ⏱️ 0:52 • 1d ago
+
+---
+
+**[Humanoid Robot Jumps 7.97 Meters](https://www.youtube.com/watch?v=6LdwLD3Qhy8)**
+
+A humanoid robot reached an incredible 7.97 meters in the long jump at the World Humanoid Robot Games in Beijing. Tianjiao ...
+
+📺 DPCcars
+
+👁️ 12K • 👍 79 • 💬 5 • ⏱️ 0:32 • 21h ago
+
+---
+
+**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
+
+A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
+
+📺 USA TODAY
+
+👁️ 56K • 👍 391 • 💬 76 • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -229,26 +239,6 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 📺 EcoZora
 
 👁️ 82K • 👍 562 • 💬 10 • ⏱️ 0:07 • 2d ago
-
----
-
-**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
-
-A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
-
-📺 USA TODAY
-
-👁️ 51K • 👍 371 • 💬 71 • ⏱️ 0:31 • 1d ago
-
----
-
-**[Humanoid Robot Jumps 7.97 Meters](https://www.youtube.com/watch?v=6LdwLD3Qhy8)**
-
-A humanoid robot reached an incredible 7.97 meters in the long jump at the World Humanoid Robot Games in Beijing. Tianjiao ...
-
-📺 DPCcars
-
-👁️ 10K • 👍 71 • 💬 5 • ⏱️ 0:32 • 20h ago
 
 ---
 
@@ -268,7 +258,17 @@ The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a hu
 
 📺 DPCcars
 
-👁️ 13K • 👍 174 • 💬 70 • ⏱️ 1:55 • 1d ago
+👁️ 15K • 👍 183 • 💬 72 • ⏱️ 1:55 • 1d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=KertWcOx998)**
+
+The future isn't Tomorrow—it's already here Today. These Days AI-powered humanoid robots join the Olympia in Bejing, they can ...
+
+📺 ejunky66
+
+👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 1h ago
 
 ---
 
@@ -278,7 +278,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 86K • 👍 644 • 💬 124 • ⏱️ 0:40 • 1d ago
+👁️ 90K • 👍 662 • 💬 127 • ⏱️ 0:40 • 1d ago
 
 ---
 

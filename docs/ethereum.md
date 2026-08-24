@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T20:34:37.230276+00:00'
+updated: '2026-08-24T21:29:16.907879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 20:34 UTC  
+**Last Updated:** August 24, 2026 at 21:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,505.29
+### $2,484.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +28.8%  
-**30d:** +26.4%  
-**90d:** +22.0%  
-**1y:** -43.7%  
+**24h:** +1.0%  
+**7d:** +29.3%  
+**30d:** +26.9%  
+**90d:** +22.4%  
+**1y:** -43.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.83B
+**Market Cap:** $299.34B
 Rank #2
 
 **Circulating Supply:** 120,681,508 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.9%
 
 **All-Time Low:** $0.43
-+571957.8%
++572770.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -164,6 +164,12 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+
+CoinDesk • 8h ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
@@ -172,17 +178,11 @@ PR Newswire • 8h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+**[Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-81m-ethereum-154336690.html)**
 
-CoinDesk • 7h ago
+Bitmine is about 187,000 Ethereum short of its 5% of supply target.
 
----
-
-**['Upside move in ETH was overdue,' Tom Lee says as Bitmine buys another 32,447 ether](https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589)**
-
-Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.
-
-The Block • 6h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -190,15 +190,15 @@ The Block • 6h ago
 
 Ethereum (CRYPO: $ETH) is seeing its price rise at a faster pace than Bitcoin (CRYPTO: $BTC) as a rally in cryptocu...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/08/24/xrp-vs-ethereum-which-crypto-will-reach-its-all-time-high-first/)**
+**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
 
-XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
+Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
 
-24/7 Wall St. • 10h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -210,9 +210,17 @@ TradingView • 1d ago
 
 ---
 
+**[XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/08/24/xrp-vs-ethereum-which-crypto-will-reach-its-all-time-high-first/)**
+
+XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
+
+24/7 Wall St. • 11h ago
+
+---
+
 **[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -224,27 +232,9 @@ Fortune • 7h ago
 
 ---
 
-**[Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher](https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/)**
-
-XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
-
-CryptoSlate • 23h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Bitcoin Is PUMPING. Is Ethereum Next?](https://www.youtube.com/watch?v=9PjpPuLBtUw)**
-
-FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
-
-📺 Crypto Tips
-
-👁️ 1K • 👍 221 • 💬 20 • ⏱️ 12:24 • 4h ago
-
----
 
 **[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=amJgzcV2ag8)**
 
@@ -252,7 +242,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 217 • 💬 5 • ⏱️ 6:32 • 7h ago
+👁️ 4K • 👍 240 • 💬 6 • ⏱️ 6:32 • 8h ago
 
 ---
 
@@ -262,17 +252,17 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 12K • 👍 492 • 💬 43 • ⏱️ 18:53 • 1d ago
+👁️ 12K • 👍 501 • 💬 44 • ⏱️ 18:53 • 1d ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
+**[SharpLink &amp; Lido: This Changes Everything For ETH Holders (Here&#39;s Why)](https://www.youtube.com/watch?v=YtV-z_5Rv6c)**
 
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully productive asset, deploying it through Lido, ...
 
-📺 Benjamin Cowen
+📺 The Rollup
 
-👁️ 78K • 👍 4K • 💬 212 • ⏱️ 27:38 • 16h ago
+👁️ 4K • 👍 101 • 💬 22 • ⏱️ 10:36 • 22h ago
 
 ---
 
@@ -282,7 +272,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 263 • 👍 14 • 💬 19 • ⏱️ 4:36 • 11h ago
+👁️ 323 • 👍 15 • 💬 18 • ⏱️ 4:36 • 12h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
+
+Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 88K • 👍 4K • 💬 216 • ⏱️ 27:38 • 17h ago
+
+---
+
+**[How Ethereum Almost Broke Itself to Stop a Hack](https://www.youtube.com/watch?v=lUiwllWq9s8)**
+
+Most people know the DAO hack led to Ethereum Classic — but few know about the failed soft fork that nearly broke the entire ...
+
+📺 CoinGecko
+
+👁️ 1K • 👍 67 • 💬 41 • ⏱️ 4:22 • 10h ago
 
 ---
 
@@ -296,23 +306,13 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 ---
 
-**[How Ethereum Almost Broke Itself to Stop a Hack](https://www.youtube.com/watch?v=lUiwllWq9s8)**
-
-Most people know the DAO hack led to Ethereum Classic — but few know about the failed soft fork that nearly broke the entire ...
-
-📺 CoinGecko
-
-👁️ 780 • 👍 58 • 💬 41 • ⏱️ 4:22 • 9h ago
-
----
-
 **[BITCOIN PULLBACK: EVERYONE IS WRONG (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9s6VEYk4gR0)**
 
 BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 13K • 👍 482 • 💬 304 • ⏱️ 19:11 • 1d ago
+👁️ 14K • 👍 489 • 💬 298 • ⏱️ 19:11 • 1d ago
 
 ---
 
@@ -322,17 +322,17 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 389 • 💬 20 • ⏱️ 11:12 • 2d ago
+👁️ 8K • 👍 390 • 💬 20 • ⏱️ 11:12 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=tvwNL6Hj0nA)**
+**[Bitcoin ripped 22% back to $77K, BTC and ETH ETFs pulled ~$800M in two days #ethereumprice #bitcoin](https://www.youtube.com/watch?v=kyAX5FXuX2U)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Bitcoin and Ethereum are surging, but don't let emotional trading ruin your gains. We are analyzing critical price levels to watch as ...
 
-📺 Crypto Gyan
+📺 Gabbie Trades
 
-👁️ 1K • 👍 121 • ⏱️ 7:39 • 17h ago
+👁️ 528 • 👍 20 • ⏱️ 0:44 • 10h ago
 
 ---
 

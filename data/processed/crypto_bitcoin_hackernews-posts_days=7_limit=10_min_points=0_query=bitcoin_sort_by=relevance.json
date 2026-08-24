@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Bitcoin is great (for systemic theft of aid money)",
+      "url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
+      "hn_url": "https://news.ycombinator.com/item?id=49421102",
+      "author": "imichael",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-08-24T15:24:32Z",
+      "object_id": "49421102",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Finally, a killer use case",
+      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
+      "site_name": "ft.com"
+    },
+    {
       "title": "Bitcoin's short squeeze traced to a Treasury bond buyback decision",
       "url": "https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze",
       "hn_url": "https://news.ycombinator.com/item?id=49385139",
@@ -59,9 +73,23 @@
       "description": "Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.",
       "favicon": "https://strikeablock.com/assets/apple-touch-icon.png",
       "site_name": "Strike a Block"
+    },
+    {
+      "title": "Show HN: Transpose Spotify audio and isolate vocals/instruments in realtime",
+      "url": "https://github.com/evanhu1/transposify",
+      "hn_url": "https://news.ycombinator.com/item?id=49425400",
+      "author": "evanhu_",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-08-24T20:26:28Z",
+      "object_id": "49425400",
+      "image": "https://opengraph.githubassets.com/0934ecb1185238d96ff15cef58ce8c221855ab6c334960490ee3d428db729f32/evanhu1/transposify",
+      "description": "Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
-  "total_hits": 4,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T19:56:44.824676+00:00"
+  "fetched_at": "2026-08-24T21:28:53.947061+00:00"
 }

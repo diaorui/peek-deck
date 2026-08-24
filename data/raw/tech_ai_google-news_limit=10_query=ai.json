@@ -19,50 +19,60 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
-      "pub_date": 1787594955.0,
+      "pub_date": 1787580273.0,
       "article_url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff",
-      "source": "WRIC ABC 8News",
-      "source_url": "https://www.wric.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTVseWl5emZyMVhnV0xTdlZHV0tzdjkyZjIxWFhlcGVrRUNEcnN5U014LW5mSXJWa09rR0NrdFh1VW9xTlJhTnAxU2pvMVBGME9tR0hHNlJ3NG9WTEVOUV93dk9LQl9MY1pTNEF1TVNNamV5d1JlLXNtcEwxTzJnQ0ZTb2JPMU8tazJnVnpsaUkyY3NYak5WZWRGSlhYTVhKNi1PMC1VeFZ6dzJaVjlPMnQwcUNEcXdmb0x2SFRnTm05ZUF5a3pCZ1lfX0xPUzZh0gHWAUFVX3lxTE5mSFY3YTFEZDdTdmtJVVRNMjhqb1l0VTJ5S0RNNEI0aVJRZ3VUZmdJaHQta3BSMkNPYzUtTnROcnFETEpGU2hVRi1zQkcxbG9wemZxcko1WDNrb1BxNlJsb0FzS1VQb1lYNVF4U3VwWE15VlVTWlVGcHFxTDNGQzZBSmNhMVJOV0FWenBRelhFMExyaGZoeFdmZXl4QVNzSU9pOVpYUDlqdlBjX1Q4Q3B0dlhaWm5vaTlFM3lQdEVYVVVlWEJZWkU2ay13dUw0ajBoVERDbHc?oc=5",
-      "pub_date": 1787600023.0,
-      "article_url": "https://www.wric.com/news/u-s-world/ap-taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Humble man arrested after 'thousands' of AI-generated child porn images found, Pct. 1 says",
-      "source": "ABC13 Houston",
-      "source_url": "https://abc13.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVl0M29pTlU4UDJPdkY0cXFxWjAxOXh6N0FqcFlSaEFrVkJ6cDgtYWdfRzlMdEpVWGdGazdIU0F6ZExTQjhvbzZfY1JvSlFYOGgyaHRuNzJMcWh4Mk5XYkZHQTAzbUlIYkRGRHRMUWNobmJCNDIxMW9wekdHLU9fRTFJOHFCZkxZMmtaR3R1aEd5c0xiMnNjbnV0QzVqdFg0aUlnc2JWUDlTQ3c4MEtRZGJlMmNPZFA3U3g2OUNvMDdKeExV?oc=5",
-      "pub_date": 1787599800.0,
-      "article_url": "https://abc13.com/post/discovery-thousands-ai-generated-child-pornography-images-leads-mans-arrest-humble-pct-1-says/19728054/",
-      "image": "https://cdn.abcotvs.com/dip/images/13971418_102523-ktrk-pct-1-img.jpg?w=1600",
-      "description": "Deputies said \"thousands of AI-generated images of child pornography\" were found on a computer and hard drive at the man's home."
-    },
-    {
-      "headline": "WikiHow sues OpenAI for copyright infringement over AI training",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
-      "pub_date": 1787600146.0,
-      "article_url": "https://www.reuters.com/legal/legalindustry/wikihow-sues-openai-copyright-infringement-over-ai-training-2026-08-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "UAW and Deere are set to clash amid AI sales boom",
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZzF6TmVqek8xYUdHY3doRTN3WllFRmNUZUJZcHNCcmZIUGdVQXVUS3VRN1F6Y2hHSXVMb2p2OW12QmE0RU42bHZVVzNFU3JPZFNKVklyVkhHVHZ1QkNhdUNDMnBEWWM?oc=5",
-      "pub_date": 1787598096.0,
-      "article_url": "https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787605121.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "NVent Seeks Bigger Piece of AI Boom With $1.75 Billion Deal",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGNMbHJ6eUdsLW55U2oyeU9BQ0s0c2FZM2JkXzZkMWppQmRiVlVUcmZhdHFlSFNPY1hPV3pka3VnclZoQnF5QUNuY21tY1ZtTkE1Z1VmSlNrVVdKRVA0V2hnQkxJMEVDMzVGRVlYNmFEMmlmV0E2UXhVNWcxZW5BbVFHSzlScmFkZ01EY1ZnYWZXb0FzMGNyOTRvdy1LVm1faFl3bEMtWWkyRUxnUUE?oc=5",
+      "pub_date": 1787604017.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/nvent-seeks-bigger-piece-of-ai-boom-with-1-75-billion-deal",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNi1qaXh2TU1uMjdEZVEzd3VDZHM4TWEyYUpRbnFBaXdTUmVjVlFENGU3ZmxCT3NZLXhkakVwXzU5NmRkRl9Lc0tWNkQyTXpjQjZoSDdrcElnODhwR0wwcV9yeEZhZkZrd1hSODJBVGlCclU5UzdnQ1VGeWdMU0JaUXhvRHc2WjBoQ3ljek1uY3FXelhfNTJPZXFtUGhSa01ENnNYTmNSR3VjSktlN002NjBTVlpqYUxmTHhqQ3hWLUkwdXZlaWNiemdXLUJwQdIB0wFBVV95cUxONHQxVXp4OWZFSWR1UlVfcHRTRnNmdG9DMjdnT0stLXE4MTF3NzljZGFBSUNPMHR1LXRyaW80MDdIRGpaX1ZJbDFTWjQ5WGtFSF9BSnZ1ZUdta3QtRl8yUlo2TGxtRHJ4bE13MDBGVVdiQW9Da2VGc1dXcW1taUdGZmdIQnR3d2hkSFpIQUNhT283VTNxX0RyalNRM1FBcjRXQVJFNXRpLXpPYWVheXhjaGhTbmVNeHkyYmlPVk9FRnBQcGF0ZDhJOVhrNk9jSnJHUjFz?oc=5",
+      "pub_date": 1787602837.0,
+      "article_url": "https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkhwcmRIRXVKYTRlTEwzQmYzQTVSZkZoYmY5eWVUVWxhR1FFTk1FVUpWYzhSM1czMy1meXVxU1pncVNtR3BsUUM4WU5fSUpsQ1BYOGMwcjZhZmhzZ1JZTnM5NEdDN2F0TVMyZnNQVHFuWW5XZmlOc1ZfWlVzaTV3RXlvcUNkSHZTTkdYekpqR1ZWaXJzaUdxVm9JOXRLaFVVR1dJUkkwUHo?oc=5",
+      "pub_date": 1787583180.0,
+      "article_url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYkQ1ME5Fa3QwUnhOblp1eFBjV3lKY0VCeTBJY0xON2FONUh4bXd5RkxxRWJiQl9JUGVndXpuVnhONnFhbjZCMlhUSE5YcTZVZHBZdXpkTnY4VFpZRWdMWVctbENXelkybkxtSjBYUGxjZ01uWnlMaElXdWYybGVHRUhaVjFhc2tfVTREblcta0ZNWl9tT0Voc2RsQWNQRUhHcUNFdkxDNzdQMzZEYVlNNGVpc09mbllNN19za0plVzd6dw?oc=5",
+      "pub_date": 1787589705.0,
+      "article_url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+      "description": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
     },
     {
       "headline": "The AI-related reason every billionaire suddenly wants to own a sports team",
@@ -93,18 +103,8 @@
       "article_url": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes/",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/oxalpha.png",
       "description": "Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE"
-    },
-    {
-      "headline": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5",
-      "pub_date": 1787584050.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
-      "image": "https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_371bafaf-61ba-429f-b95b-fc5eb12cfff9-prv.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9",
-      "description": "NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T19:57:17.265665+00:00"
+  "fetched_at": "2026-08-24T21:29:15.747784+00:00"
 }
