@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T05:38:08.477908+00:00'
+updated: '2026-08-24T06:58:35.716670+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 05:38 UTC  
+**Last Updated:** August 24, 2026 at 06:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +27.3%  
-**30d:** +24.9%  
-**90d:** +20.5%  
-**1y:** -44.4%  
+**24h:** +2.9%  
+**7d:** +28.1%  
+**30d:** +25.7%  
+**90d:** +21.3%  
+**1y:** -44.1%  
 
 ---
 
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 12h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 12h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 18h ago
+CoinMarketCap • 20h ago
 
 ---
 
@@ -176,7 +176,13 @@ CoinMarketCap • 18h ago
 
 Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
 
-TradingView • 15h ago
+TradingView • 17h ago
+
+---
+
+**[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
+
+CoinDesk • 31m ago
 
 ---
 
@@ -184,7 +190,7 @@ TradingView • 15h ago
 
 Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
 
-CryptoSlate • 9h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -192,7 +198,7 @@ CryptoSlate • 9h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 23h ago
+Global South Opportunities • 1d ago
 
 ---
 
@@ -204,11 +210,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ledger fixes vulnerability in Ethereum app’s signing flows](https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307)**
 
-Ledger patched a race condition vulnerability in its Ethereum app's clear signing flows that could have let malicious dApps substitute
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
 
-Crypto Briefing • 1h ago
+FXStreet • 3h ago
 
 ---
 
@@ -218,19 +224,11 @@ Barron's • 2d ago
 
 ---
 
-**[Institutional Demand Is Back: Bitcoin and Ethereum ETF Inflows Reached 10-Month High](https://cryptopotato.com/institutional-demand-is-back-bitcoin-and-ethereum-etf-inflows-reached-10-month-high/)**
+**[Ethereum Foundation sponsors WPPT 2026 workshop in Hong Kong](https://cryptobriefing.com/ethereum-foundation-wppt-2026-hong-kong/)**
 
-The funds tracking both assets recorded a perfect week of net inflows only.
+Ethereum Foundation calls for abstracts on privacy-preserving technologies for WPPT 2026 in Hong Kong, signaling deeper commitment to ZK
 
-CryptoPotato • 18h ago
-
----
-
-**[Ethereum: 60% Odds to Reclaim $2,600 by August End](https://blockchain.news/flashnews/ethereum-60-odds-reclaim-2-600-august-end)**
-
-Ethereum holds 60% probability on Polymarket to reclaim $2,600 by August end at current price $2460.29 with bullish EMA structure intact.
-
-blockchain.news • 7h ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -244,7 +242,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 122 • ⏱️ 43:03 • 7h ago
+👁️ 25K • 👍 1K • 💬 122 • ⏱️ 43:03 • 8h ago
 
 ---
 
@@ -254,7 +252,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 9K • 👍 411 • 💬 37 • ⏱️ 18:53 • 14h ago
+👁️ 9K • 👍 411 • 💬 37 • ⏱️ 18:53 • 15h ago
 
 ---
 
@@ -264,7 +262,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 2K • 👍 63 • 💬 120 • ⏱️ 10:36 • 7h ago
+👁️ 2K • 👍 63 • 💬 120 • ⏱️ 10:36 • 8h ago
 
 ---
 
@@ -274,7 +272,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 9K • 👍 812 • 💬 60 • ⏱️ 27:38 • 1h ago
+👁️ 9K • 👍 812 • 💬 60 • ⏱️ 27:38 • 2h ago
 
 ---
 
@@ -284,7 +282,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 419 • 💬 225 • ⏱️ 19:11 • 9h ago
+👁️ 9K • 👍 419 • 💬 225 • ⏱️ 19:11 • 10h ago
 
 ---
 
@@ -294,7 +292,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 17h ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 18h ago
 
 ---
 
@@ -312,7 +310,7 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 257 • 💬 8 • ⏱️ 1:00 • 8h ago
+👁️ 3K • 👍 257 • 💬 8 • ⏱️ 1:00 • 9h ago
 
 ---
 
@@ -322,7 +320,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 1K • 👍 72 • ⏱️ 1:09 • 15h ago
+👁️ 1K • 👍 72 • ⏱️ 1:09 • 16h ago
 
 ---
 
