@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T06:58:35.719488+00:00'
+updated: '2026-08-24T08:02:37.601169+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 06:58 UTC  
+**Last Updated:** August 24, 2026 at 08:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-17h ago
+18h ago
 
 ---
 
@@ -44,13 +44,13 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 8h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 10h ago
 
 ---
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 8h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 9h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-7h ago
+8h ago
 
 ---
 
@@ -74,13 +74,13 @@ I am developing a heavy embedded C and sensor fusion system running on low-level
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 12h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 14h ago
 
 ---
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-12h ago
+13h ago
 
 ---
 
@@ -114,7 +114,7 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
 
-The Economist • 17h ago
+The Economist • 18h ago
 
 ---
 
@@ -122,13 +122,13 @@ The Economist • 17h ago
 
 The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
 
-The San Francisco Standard • 17h ago
+The San Francisco Standard • 19h ago
 
 ---
 
 **[Hot Topics in International Trade China and Humanoid Robotics](https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-china-18618/)**
 
-JD Supra • 1h ago
+JD Supra • 2h ago
 
 ---
 
@@ -136,7 +136,7 @@ JD Supra • 1h ago
 
 Faraday Future strengthens its robotics ecosystem through U.S. distribution, RoboShare expansion, and Embodied AI initiatives.
 
-World Business Outlook • 55m ago
+World Business Outlook • 1h ago
 
 ---
 
@@ -144,13 +144,13 @@ World Business Outlook • 55m ago
 
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
-Stock Titan • 7h ago
+Stock Titan • 9h ago
 
 ---
 
 **[Siemens Healthineers secures up to $31.1 million for remote stroke robotics](https://www.dotmed.com/news/story/66703)**
 
-DOTmed • 1h ago
+DOTmed • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ DOTmed • 1h ago
 
 Inside ARX Robotics: building the future of defence
 
-North Atlantic Treaty Organization | NATO • 4d ago
+North Atlantic Treaty Organization | NATO • 5d ago
 
 ---
 
@@ -174,13 +174,13 @@ CNBC • 3d ago
 
 China’s Mech-Mind Robotics Technologies is preparing to open investor orders for a Hong Kong initial public offering that could raise about $300 million, the South China Morning Post reported.
 
-AI Insider • 3h ago
+AI Insider • 4h ago
 
 ---
 
 **[Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)**
 
-Reuters • 3d ago
+Reuters • 4d ago
 
 ---
 
@@ -188,41 +188,13 @@ Reuters • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+**[Robots compete in football, boxing and sprinting at World Humanoid Games in China | BBC News](https://www.youtube.com/watch?v=eiR-sEmDWu4)**
 
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+The second edition of the World Humanoid Games kicked off in China on Saturday. The competition will run for five days and has ...
 
-📺 New York Post
+📺 BBC News
 
-👁️ 29K • 👍 796 • 💬 202 • ⏱️ 0:52 • 1d ago
-
----
-
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
-
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
-
-📺 DPCcars
-
-👁️ 13K • 👍 34 • 💬 5 • ⏱️ 0:28 • 2d ago
-
----
-
-**[Galbot ET1 Shows the Future of Humanoid Robots](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
-
-Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
-
-📺 DPCcars
-
-👁️ 21K • 👍 430 • 💬 80 • ⏱️ 2:12 • 3d ago
-
----
-
-**[These robots are now superhuman](https://www.youtube.com/watch?v=YeMHxKGoCYQ)**
-
-📺 Charlie Caruso
-
-👁️ 68K • 👍 2K • 💬 121 • ⏱️ 1:03 • 3d ago
+👁️ 150K • 👍 1K • 💬 597 • ⏱️ 5:30 • 20h ago
 
 ---
 
@@ -232,55 +204,87 @@ The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a hu
 
 📺 DPCcars
 
-👁️ 8K • 👍 94 • 💬 54 • ⏱️ 1:55 • 17h ago
+👁️ 9K • 👍 101 • 💬 57 • ⏱️ 1:55 • 18h ago
 
 ---
 
-**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+**[World Robot Games 2026: China Robot Olympics Humanoid Robots Fight Sprint And Perform Taichi | AI14](https://www.youtube.com/watch?v=DGOm9fG-c3I)**
 
-Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+Humanoid robots compete in kickboxing, sprint races, and taichi performances at the World Robot Games in Beijing, showcasing ...
 
-📺 ABC News
+📺 DWS News
 
-👁️ 69K • 👍 524 • 💬 116 • ⏱️ 0:40 • 1d ago
-
----
-
-**[A robot just stole Usain Bolt&#39;s record 🤖⚡](https://www.youtube.com/watch?v=51mKOx1aU-Y)**
-
-On Saturday, August 22, at the World Humanoid Robot Games in Beijing, a Chinese robot ran the 100 meters in 9.39 seconds.
-
-📺 Digital Brain
-
-👁️ 830 • 👍 51 • 💬 3 • ⏱️ 1:27 • 4h ago
+👁️ 10K • 👍 65 • 💬 14 • ⏱️ 4:59 • 19h ago
 
 ---
 
-**[Robot Athlete Turns Into Crash Test Dummy After Smacking Into Wall](https://www.youtube.com/watch?v=-LOPCKtaepc)**
+**[Robot beats Usain Bolt&#39;s 100m world record](https://www.youtube.com/watch?v=Zbkqhor3EKI)**
 
-A humanoid robot lost control while sprinting around a track during testing ahead of the World Humanoid Robot Games in Beijing.
+Chinese humanoid robots broke records set by humans, including Usain Bolt's 100-meter sprint world record, on the opening day ...
+
+📺 Sky News
+
+👁️ 118K • 👍 737 • 💬 399 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[Chinese robot smashes Usain Bolt’s 100m record at World Robot Games](https://www.youtube.com/watch?v=hw0aRVR8EME)**
+
+Chinese robot smashes Usain Bolt's 100m record at World Robot Games #robot #athletics #worldrecord A humanoid robot has ...
+
+📺 news.com.au
+
+👁️ 151K • 👍 2K • 💬 837 • ⏱️ 3:11 • 1d ago
+
+---
+
+**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
+
+China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
+
+📺 Associated Press
+
+👁️ 9K • 👍 42 • 💬 8 • ⏱️ 0:54 • 4d ago
+
+---
+
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
+
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
+
+📺 AI Revolution
+
+👁️ 47K • 👍 984 • 💬 112 • ⏱️ 14:10 • 5d ago
+
+---
+
+**[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
+
+Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
 
 📺 New York Post
 
-👁️ 93K • 👍 1K • 💬 737 • ⏱️ 2:04 • 2d ago
+👁️ 42K • 👍 713 • 💬 328 • ⏱️ 4:07 • 3d ago
 
 ---
 
-**[Why True Robot Intelligence Starts at Home, Not Factories 🤖🏠](https://www.youtube.com/watch?v=YGR2Qp3UoHs)**
+**[Moment: Chinese Humanoid Robot Lightning Runs 100m Faster Than Usain Bolt’s Record | AI1G](https://www.youtube.com/watch?v=JMGycGx3KL8)**
 
-Most robotics companies rush to factories, but true artificial general intelligence requires the ultimate edge case: the unstructured ...
+China's humanoid robot “Lightning,” developed by smartphone maker Honor, completed a 100m test run in 9.32 seconds—faster ...
 
-📺 Turn the Lens with Jeff Frick
+📺 DRM News
 
-👁️ 1K • 👍 10 • 💬 3 • ⏱️ 0:47 • 12h ago
+👁️ 59K • 👍 471 • 💬 243 • ⏱️ 5:18 • 1d ago
 
 ---
 
-**[Classmates Build Him A Robotic Hand 😮](https://www.youtube.com/watch?v=04-Pf6ZC2UI)**
+**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
 
-📺 Zack D. Films
+The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
 
-👁️ 5.4M • 👍 302K • 💬 3K • ⏱️ 0:31 • 1d ago
+📺 NBC News
+
+👁️ 63K • 👍 460 • 💬 233 • ⏱️ 4:05 • 3d ago
 
 ---
 
