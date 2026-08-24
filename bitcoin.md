@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T22:26:15.405679+00:00'
+updated: '2026-08-24T22:54:17.944242+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 22:26 UTC  
+**Last Updated:** August 24, 2026 at 22:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,951.54
+### $78,725.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
+**24h:** +1.4%  
 **7d:** +21.8%  
-**30d:** +20.7%  
+**30d:** +20.6%  
 **90d:** +5.9%  
-**1y:** -28.5%  
+**1y:** -28.6%  
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-6h ago
+7h ago
 
 ---
 
@@ -151,11 +151,25 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html)**
+**[Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html)**
 
-Crypto’s true believers suddenly have a spring in their step again.
+Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
 
-Yahoo Finance • 1d ago
+CNBC • 8h ago
+
+---
+
+**[Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners](https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51)**
+
+Barron's • 1h ago
+
+---
+
+**[Bitcoin Books Best Week Since 2023 and Its Largest Dollar Gain Ever](https://finance.yahoo.com/markets/crypto/articles/bitcoin-books-best-week-since-220919390.html)**
+
+Bitcoin booked its best week since 2023 and a record dollar gain. See the levels that decide the next move.
+
+Yahoo Finance • 44m ago
 
 ---
 
@@ -177,7 +191,13 @@ Financial Times • 14h ago
 
 **[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 2h ago
+
+---
+
+**[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
+
+CoinDesk • 10h ago
 
 ---
 
@@ -185,15 +205,7 @@ Bloomberg.com • 8h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Strategy creates $1.59 billion USD Cash pool to buy bitcoin](https://qz.com/strategy-usd-cash-pool-bitcoin-reserve-082426)**
-
-The new USD Cash reserve gives the company flexibility to purchase bitcoin, repurchase securities, or meet other corporate needs
-
-qz.com • 4h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -208,22 +220,6 @@ Euronews.com • 8h ago
 **[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
 WSJ • 3d ago
-
----
-
-**[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
-
-BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
-
-24/7 Wall St. • 7h ago
-
----
-
-**[Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC](https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604)**
-
-Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.
-
-The Block • 6h ago
 
 ---
 
@@ -273,7 +269,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -297,7 +293,7 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 20 • ⏱️ 37:21 • 14h ago
+👁️ 16K • 👍 1K • 💬 20 • ⏱️ 37:21 • 15h ago
 
 ---
 
@@ -307,7 +303,7 @@ Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 140 • ⏱️ 20:21 • 22h ago
+👁️ 25K • 👍 2K • 💬 140 • ⏱️ 20:21 • 23h ago
 
 ---
 

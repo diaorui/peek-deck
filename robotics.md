@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T22:26:15.415050+00:00'
+updated: '2026-08-24T22:54:17.953580+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 22:26 UTC  
+**Last Updated:** August 24, 2026 at 22:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main biomécanique UM1-Evo à 24 degrés de liberté. Cela m'a pris 5 ans et demi de passion et de galères,mais je suis assez content du résultat. Le projet contient 25 moteurs, il est à l'échelle 1:1, l’électronique et le wifi sont embarqués et il pèse au total 1.7kg, soit le poids des caractéristiques de l’anatomie humaine. Un très gros travail de recherche biomécanique et cinématique ont été réalisées pour reproduire le plus fidèlement possible la forme organique et les mouvements d’une vraie main. J’ai conçu un script permettant de relever la main d’un patient (en moins de 30 minutes) et ainsi créer la main en 3D sur-mesure (en 10 minutes). J’ai également développé un logiciel de commande par cinématique inverse IK avec animation par clés ou en temps réel. J’ai conçu un gant avec 12 capteurs pour reproduire les mouvements de la main en temps réel en mode avatar. Pour une utilisation en prothèse de main, un système de captation innovant différents des systèmes myoélectriques, permet de manipuler la main avec une latence extrêmement basse et une prise en main instantané. (Ce système et en cours de protection) Voilà, n’hésitez pas à me dire ce que vous en pensez 😀
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 **[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I went through a bunch of footage from the World Robot Conference after Unitree�
 
 I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS
 
-10h ago
+11h ago
 
 ---
 
@@ -112,47 +112,9 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
-
-Reuters • 11h ago
-
----
-
-**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html)**
-
-XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Alibaba and Tencent support XPENG's raise of over $900M for humanoid robots](https://www.stocktitan.net/news/XPEV/xpeng-robotics-business-raises-over-us-900-million-at-a-post-money-7uyylw1p98v1.html)**
-
-IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
-
-Stock Titan • 12h ago
-
----
-
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 1h ago
-
----
-
-**[ADNOC, a major oil and gas producer, could use Micropolis robots for hazardous tasks](https://www.stocktitan.net/news/MCRP/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-alte0vdfox60.html)**
-
-Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas.
-
-Stock Titan • 2h ago
-
----
-
-**[Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News](https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/)**
-
-A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
-
-CBS News • 8h ago
+Axios • 2h ago
 
 ---
 
@@ -164,6 +126,28 @@ TechCrunch • 7h ago
 
 ---
 
+**[Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News](https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/)**
+
+A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
+
+CBS News • 8h ago
+
+---
+
+**[BlackBerry found a second life in car software. Now it’s looking to robotics](https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html)**
+
+BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
+
+CNBC • 2h ago
+
+---
+
+**[Robotics and the future of on-orbit labor](https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/)**
+
+SpaceNews • 28m ago
+
+---
+
 **[Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate](https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8)**
 
 Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed.
@@ -172,19 +156,33 @@ Business Insider • 3h ago
 
 ---
 
-**[BlackBerry found a second life in car software. Now it’s looking to robotics](https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html)**
+**[ADNOC, a major oil and gas producer, could use Micropolis robots for hazardous tasks](https://www.stocktitan.net/news/MCRP/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-alte0vdfox60.html)**
 
-BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
+Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas.
 
-CNBC • 1h ago
+Stock Titan • 2h ago
 
 ---
 
-**[AI robotics companies love San Francisco. They’re just too big to stay](https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/)**
+**[The “GPT moment” for robots is already here. It’s just not in your home yet](https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta)**
 
-The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
+Skild AI is valued at $14B and already has hundreds of robots running in factories. Co-founder Abhinav Gupta explains why the robotics "ChatGPT moment" is real but will arrive one deployment at a time.
 
-The San Francisco Standard • 1d ago
+The Next Web • 6h ago
+
+---
+
+**[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
+
+Reuters • 11h ago
+
+---
+
+**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://247wallst.com/investing/2026/08/24/xpeng-sinks-7-as-q2-miss-overshadows-6-3b-robotics-valuation-nio-drops-4-tesla-slips/)**
+
+XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
+
+24/7 Wall St. • 8h ago
 
 ---
 
@@ -218,7 +216,7 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 12K • 👍 79 • 💬 5 • ⏱️ 0:32 • 22h ago
+👁️ 12K • 👍 79 • 💬 5 • ⏱️ 0:32 • 23h ago
 
 ---
 
@@ -268,7 +266,7 @@ The future isn't Tomorrow—it's already here Today. These Days AI-powered human
 
 📺 ejunky66
 
-👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 2h ago
+👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 3h ago
 
 ---
 
