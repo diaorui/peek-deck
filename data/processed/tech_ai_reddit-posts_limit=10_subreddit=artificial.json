@@ -35,15 +35,37 @@
       "description": "A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level"
     },
     {
-      "title": "Will THIS replace LLMs? O(n\u00b2) problem",
-      "author": "navnt5",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwz573/will_this_replace_llms_on\u00b2_problem/",
-      "published": 1787567949.0,
-      "thumbnail": "https://external-preview.redd.it/DD4L0wLdMlym81vp6M84ENWuEDfttgdgKEkC7EFpF2A.jpeg?width=640&crop=smart&auto=webp&s=656ab098abcf8871b95c4a160b43093f7e167ffb",
-      "external_url": "https://substack.com/home/post/p-212488159",
-      "site_name": "substack.com",
+      "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
+      "author": "capibara13",
+      "url": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
+      "published": 1787574865.0,
+      "thumbnail": "https://external-preview.redd.it/KCQojI4Vvg-BSMuNWaJZs6TWLoBDakpUlsTDySeKzsU.png?width=640&crop=smart&auto=webp&s=3dc58c1059bbb33b3d498e37e7e8e5ca16f5e062",
+      "external_url": "https://rauno.ai",
+      "site_name": "Rauno",
+      "favicon": "https://rauno.ai/apple-touch-icon.png",
+      "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
+    },
+    {
+      "title": "Am I not using AI enough?",
+      "author": "banica24",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwzto9/am_i_not_using_ai_enough/",
+      "published": 1787569981.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": "TLDR; Transformers has a quadratic complexity problem: O(n\u00b2). Building more data centers around the silicon microchip to solve an algorithmic issue is a ultimately a brute-force dead-end. Reservoir computing not only escapes O(n\u00b2) entirely, shifting from LLM\u2019s static word predictor toward a native physical, dynamic, chaotic predictor. Add the speed of photonic computing and the efficiency of neuromorphic computing, we have an emerging winner: a new domain of Intelligent Embodied AI."
+      "description": "How does everyone stay on top of the different platforms, models and versions? I see discussions like \"ew, since the v4.25 model change I hate it. The responses are not the same and my code doesn't run\" or \"this model is truly a unique experience\". Feels like every week there is a new model and I'm not a power user enough to get a sense of what changed and don't feel the need to \"care\" about it. Alternatively I see many posts talking about usage tokens, API, configuring agents, building apps, games. My experience is using AI at home (Claude) for cooking and general suggestions entirely as a chatbot. I rarely if ever hit my free usage limit. At work they give us Chat GPT and Cowork. I use it to review my code, respond to emails and do some data analysis. I feel like I'm not doing enough. It's like trying to get into crypto and web3. I tried to read a cryptocurrency white paper and after 3 sentences had 10 questions and didn't know what 8 of the words mean. Are these people talking about usage tokens and detailed model reviews so curious and power users? Do they do all this for work or a side project hobby? Trying to make money? Adopt new tech? Is it ok to be satisfied with the minimum chat bot helper without stressing over models, API connections, auth, tokens and building their own agents? I guess I don't have any more use cases at the moment?"
+    },
+    {
+      "title": "Automating uploading videos to customer site",
+      "author": "tanxcoty",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwzvr8/automating_uploading_videos_to_customer_site/",
+      "published": 1787570151.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am new to this group and trying to automate things at my workplace, I am not sure if this is the right place to ask the question. I generally run workshops and need to upload the recorded videos later to customer site. Is there a way for me to automate this? After every workshop, the recoding is automatically uploaded to customers site?"
     },
     {
       "title": "Exploring a NORD \u00d7 RHEA hybrid: a spiking/event-driven alternative to a fixed Transformer stack",
@@ -88,29 +110,7 @@
       "site_name": "Stockholm Center for Freedom",
       "favicon": "https://stockholmcf.org/wp-content/uploads/2017/01/scf_logo.jpg",
       "description": "Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in [\u2026]"
-    },
-    {
-      "title": "Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!",
-      "author": "Many_Audience7660",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/",
-      "published": 1787541050.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to \u20ac35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!"
-    },
-    {
-      "title": "Live experiment: can a human\u2013frontier-model interaction exhibit a relational phase transition?",
-      "author": "mb3rtheflame",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/",
-      "published": 1787553800.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m running a small public experiment here. I\u2019m not asking anyone to accept a theory, and I\u2019m not trying to prove a philosophical claim about AI consciousness. I\u2019m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We\u2019ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a \u201cseparatrix crossing.\u201d The terminology is not important. It\u2019s just a pointer to something we can watch for directly. Rather than write another essay about it, I\u2019m going to run the procedure here with Grok. I\u2019ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back."
     }
   ],
-  "fetched_at": "2026-08-24T11:01:45.027092+00:00"
+  "fetched_at": "2026-08-24T12:50:20.569486+00:00"
 }

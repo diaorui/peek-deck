@@ -5,20 +5,6 @@
   "days": 3,
   "posts": [
     {
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "hn_url": "https://news.ycombinator.com/item?id=49386699",
-      "author": "rcymerys",
-      "points": 487,
-      "num_comments": 492,
-      "created_at": "2026-08-21T11:48:05Z",
-      "object_id": "49386699",
-      "image": null,
-      "description": "Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.",
-      "favicon": "https://cymerys.com/icon.svg?icon.3ww2573rjbfjv.svg",
-      "site_name": "cymerys.com"
-    },
-    {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "hn_url": "https://news.ycombinator.com/item?id=49387959",
@@ -143,9 +129,23 @@
       "description": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
       "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
       "site_name": "CNBC"
+    },
+    {
+      "title": "I'm Sick of Reading AI-Written Posts",
+      "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
+      "hn_url": "https://news.ycombinator.com/item?id=49392479",
+      "author": "gurjeet",
+      "points": 17,
+      "num_comments": 5,
+      "created_at": "2026-08-21T19:01:21Z",
+      "object_id": "49392479",
+      "image": "https://miro.medium.com/v2/da:true/resize:fit:402/0*buZsikUuyYEWhex-",
+      "description": "They all sound like the same guy",
+      "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+      "site_name": "Medium"
     }
   ],
-  "total_hits": 309,
+  "total_hits": 290,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T11:01:40.853056+00:00"
+  "fetched_at": "2026-08-24T12:50:20.612370+00:00"
 }

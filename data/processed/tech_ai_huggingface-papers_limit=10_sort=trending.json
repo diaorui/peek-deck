@@ -50,12 +50,31 @@
       "hf_url": "https://huggingface.co/papers/2608.20335",
       "arxiv_url": "https://arxiv.org/abs/2608.20335",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.20335.png",
-      "upvotes": 71,
+      "upvotes": 72,
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
-      "github_stars": 492,
+      "github_stars": 586,
       "project_page": "https://4danyone.github.io/"
+    },
+    {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 125,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 99625,
+      "project_page": null
     },
     {
       "id": "2606.31227",
@@ -77,25 +96,6 @@
       "project_page": "https://matrix.tencent.com/clawscan/"
     },
     {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 125,
-      "num_comments": 4,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 99478,
-      "project_page": null
-    },
-    {
       "id": "2607.05391",
       "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
       "authors": "Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)",
@@ -111,7 +111,7 @@
       "num_comments": 1,
       "published_at": "2026-07-05T20:00:00.000Z",
       "github_repo": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-      "github_stars": 2674,
+      "github_stars": 2753,
       "project_page": "https://llm-as-a-verifier.com/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T10:10:21.193274+00:00"
+  "fetched_at": "2026-08-24T12:50:30.830834+00:00"
 }
