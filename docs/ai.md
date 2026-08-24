@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-23T23:45:57.288578+00:00'
+updated: '2026-08-24T01:18:03.291841+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 23, 2026 at 23:45 UTC  
+**Last Updated:** August 24, 2026 at 01:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
+
+3h ago
+
+---
+
 **[Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.](https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/)**
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-9h ago
+11h ago
 
 ---
 
-**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
+**[Turkey blocks at least 12 Grok posts on national security grounds](https://www.reddit.com/r/artificial/comments/1vwo2kv/turkey_blocks_at_least_12_grok_posts_on_national/)**
 
-1h ago
+Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in […]
+
+🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 34m ago
 
 ---
 
@@ -55,7 +63,15 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-14h ago
+16h ago
+
+---
+
+**[UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think](https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/)**
+
+So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
+
+8h ago
 
 ---
 
@@ -63,15 +79,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 AI help for me
 
-5h ago
-
----
-
-**["ask AI a question" is the wrong workflow for research](https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/)**
-
-I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
-
-2h ago
+6h ago
 
 ---
 
@@ -83,11 +91,19 @@ Remember when computers were the luxury thing? Now they’re everywhere and basi
 
 ---
 
+**["ask AI a question" is the wrong workflow for research](https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/)**
+
+I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings, then go back through everything and try to answer the actual question I cared about. The annoying part was that AI tools could help with almost every individual step, but I was still the one doing the “glue work” between them. That’s where I’ve started questioning the usual AI workflow. If I ask “What are the main trends in this market?”, I get an answer. But that doesn’t mean the research has actually been done. I still need to decide what sources to look at, collect the information, give it to the model, notice what’s missing, ask follow-up questions, and eventually turn the whole thing into something I can actually use. For a long research task, the bottleneck isn’t really generating text, but keeping the whole process moving. I need a tool to research a market, gather information from different sources, compare competitors, identify recurring themes, and turn the findings into a structured report, rather than just another chat response. Of course it’s definitely not “press a button and replace the researcher.” But I wish myself spending less time reviewing the findings and copying information between tabs. We’ve spent a lot of time asking whether models can answer questions better. Now I’m more interested in whether they can take something messy like “figure out what’s happening in this market and give me something I can make a decision from” and actually carry the whole task through.
+
+3h ago
+
+---
+
 **[Can AI Reach the Logos?](https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/)**
 
 I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self‑correcting and coherence‑seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism, Daoism, and metaphysics. I’m posting it because it raises a question: if truth‑seeking is an optimization process, could future AI naturally drift toward ethical stability rather than corruption and we won't have to worry about any catastrophic AI situations?
 
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 9h ago
+🔗 [The Good Men Project](https://goodmenproject.com/featured-content/can-ai-reach-the-logos-kpkn/) • 10h ago
 
 ---
 
@@ -95,23 +111,7 @@ I liked the creativity of this hypothetical trajectory for advanced AI (clearly 
 
 Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?
 
-3h ago
-
----
-
-**[UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think](https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/)**
-
-So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get a page of links, you still click through to a publisher's site. Pick ChatGPT as your default and it just answers you inside its own chat window, no click, no referral traffic, nothing. So the fight isn't really about competition at all, it's a definitional one: does "search engine" mean "ranks and returns links" or does it mean "answers your question directly". The UK's competition regulator (the CMA) hasn't ruled yet, and whichever way it goes basically decides whether chatbots get treated as search engines going forward, at least in the UK. Anyone know if there's an equivalent fight happening in the EU or US yet, or is the UK first to actually force this definition into a real regulatory decision?
-
-7h ago
-
----
-
-**[Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts](https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/)**
-
-TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical — it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90% believe AI will be essential to the job within five years. Only 8% have actually used it yet. Ballmer's anecdote isn't the exception — it's the 8%, moving faster than the other 92%, in a trade that isn't even the one usually flagged for disruption. https://preview.redd.it/buj6rbvxg5lh1.jpg?width=1024&format=pjpg&auto=webp&s=a07b8d22f86f6ba215906d7f42531ad37753852d My wife works for a lady boss, called Ade (not her real name). Ade used to be like me, in the property development line. But she saw the writing on the wall. Once a darling in her company, she felt the aura started to fade away — the property market isn't what it used to be. And her boss started giving her the cold shoulder. So she took a chance. She opened a collection point centre, where delivery guys can drop off parcels for individual recipients to come collect. The downside was it has to stay open almost every day. It is what it is. Regular online training is available, because such centres behave like franchises under an organizational umbrella. But the training is quite superficial. So when things get complicated, where does she turn to? You guessed it — ChatGPT. She asks it right about anything under the sun. Does she enjoy asking an LLM for answers? I'm not sure "enjoy" is the right word. I think it's more like "necessary." If I'm in her shoes, facing complicated issues, and I don't have a readily available senior I can trust to call for advice, but then I already have a 师傅 (sifu) in my pocket — why not use it, isn't it? There's a pattern I can't unsee in stories like this anymore: it's never really about the tool. It's about who reaches for it first — credentialed or not, senior on speed-dial or not. What's the "not my job" you're most tempted to hide behind right now? Drop it below. Clip credit: Ben Shapiro / DailyWire — full episode ("Titans on Tomorrow" Ep. 2 with Steve Ballmer) on his channel. DM for credit or removal requests.
-
-7h ago
+4h ago
 
 ---
 
@@ -119,51 +119,11 @@ TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting 
 
 ## Google News: "ai"
 
-**[Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc)**
-
-WSJ • 23h ago
-
----
-
 **[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 9h ago
-
----
-
-**[2028 Dems dodge on Bernie's push to pause AI development](https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders)**
-
-Axios • 2h ago
-
----
-
-**[US Futures Edge Lower With AI Spending in Focus: Markets Wrap](https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[AI Is Making The Physical Workplace More Important, Not Less](https://www.forbes.com/sites/ryananderson/2026/08/23/ai-is-making-the-physical-workplace-more-important-not-less/)**
-
-As AI transforms work, leading companies are rethinking workplace design to boost collaboration, learning, innovation, and AI adoption success.
-
-Forbes • 1h ago
-
----
-
-**[After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI](https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html)**
-
-United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.
-
-CNBC • 11h ago
-
----
-
-**[How Big Tech Captured American Schools](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html)**
-
-The New York Times • 14h ago
+The Guardian • 11h ago
 
 ---
 
@@ -171,21 +131,59 @@ The New York Times • 14h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
-**[Nvidia's Q2 earnings to test resurgent AI trade](https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html)**
+**[Wall Street Is Counting on Nvidia to Keep the AI Party Going](https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c)**
 
-Nvidia will report its Q2 earnings after the bell on Aug. 26.
-
-Yahoo Finance • 12h ago
+WSJ • 18m ago
 
 ---
 
-**[Fears of AI-induced armageddon are overdone](https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone)**
+**[How Trusted Founders Are Quietly Winning The AI Backlash](https://www.forbes.com/sites/lisacurtis/2026/08/23/how-trusted-founders-are-quietly-winning-the-ai-backlash/)**
 
-The Economist • 14h ago
+The fight over AI was never really about the models. It's about whether people believe the founders building them, and that is a problem leaders already know how to solve.
+
+Forbes • 56m ago
+
+---
+
+**[Watch Nvidia Notifies Customers About AI-Related Price Hikes](https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash)**
+
+Axios • 8h ago
+
+---
+
+**[Data-Center Disenchantment](https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2)**
+
+WSJ • 10h ago
+
+---
+
+**[State Sen. Kristen Gonzalez brings 'NY Fights AI Data Centers' tour to Genesee County Sunday](https://www.whec.com/top-news/state-sen-kristen-gonzalez-brings-ny-fights-ai-data-centers-tour-to-genesee-county-sunday/)**
+
+New York State Senator Kristen Gonzalez was at Eden Cafe Batavia Sunday. She heard people's concerns over the proposed stream data center for the stamp site in Genesee County.
+
+WHEC.com • 3h ago
+
+---
+
+**[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[Dr. Dre Says He Uses AI to Produce Songs](https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009)**
+
+Gizmodo • 4h ago
 
 ---
 
@@ -206,22 +204,6 @@ AI companies are secretly buying, scanning, and destroying millions of physical 
 Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.
 
 ⬆️ 487 • 💬 492 • 2d ago • [cymerys.com](https://cymerys.com/w/im-becoming-ai-blind)
-
----
-
-**[Copyright does not protect AI-generated content in EU](https://news.ycombinator.com/item?id=49382041)**
-
-Does copyright protect your AI-generated content in EU? Apparently not.  Content that is entirely generated by artificial intelligence is not protected by copyright. EU copyright law has strictly human-centric foundation. 
-
-Daniel J. Gervais: 'When you put your name on an article that's written by ChatGPT or Claude, you're basically putting a provenance mark on it saying: I take responsibility for this. I haven't written it, but I'm putting my name on it. That doesn't give you copyright, but it does give you liability for the content'  https://euobserver.com/232898/interview-does-copyright-protect-your-ai-generated-content-in-europe-lets-find-out/
-
-Gervais, Daniel J. and Shemtov, Noam and Marmanis, Haralambos and Zaller Rowland, Catherine, The Heart of the Matter: Copyright, AI Training, and LLMs (September 21, 2024). Available at SSRN: https://ssrn.com/abstract=4963711 or http://dx.doi.org/10.2139/ssrn.4963711
-
-"Munich Local Court has held that AI generated logos do not enjoy copyright protection. Neither mere prompting nor the selection between several AI suggestions is sufficient as a human creative contribution. For businesses, this is ambivalent. On the one hand, content generated purely by AI can hardly be protected on an exclusive basis, which has implications for brand building and content strategies" https://www.germanlawinternational.com/intellectualproperty/copyright/from-the-printing-press-to-ai-how-the-eu-plans-to-modernize-copyright-law-164154/
-
-#law #copyright #LLM #AI #iplaw #intellectualProperty #EU
-
-⬆️ 189 • 💬 209 • 2d ago • [Mathstodon](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
@@ -265,7 +247,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 12h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 14h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -274,6 +256,14 @@ Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI 
 About half of Americans say they're more concerned than excited about AI, and young adults' concern is rising.
 
 ⬆️ 28 • 💬 16 • 2d ago • [Pew Research Center](https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/)
+
+---
+
+**[AI has failed to win people's trust. Its makers? less trusted](https://news.ycombinator.com/item?id=49404869)**
+
+Surveys on both sides of the Atlantic reveal a public more wary than wowed by AI, with distrust extending well beyond the technology and onto the tech executives promoting it.
+
+⬆️ 28 • 💬 5 • 1d ago • [euronews](https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted)
 
 ---
 
@@ -307,7 +297,7 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Law By Mike
 
-👁️ 318K • 👍 8K • 💬 880 • ⏱️ 25:05 • 10h ago
+👁️ 318K • 👍 8K • 💬 880 • ⏱️ 25:05 • 12h ago
 
 ---
 
@@ -337,7 +327,7 @@ HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ain
 
 📺 AI Search
 
-👁️ 77K • 👍 4K • 💬 394 • ⏱️ 32:12 • 20h ago
+👁️ 77K • 👍 4K • 💬 394 • ⏱️ 32:12 • 21h ago
 
 ---
 
@@ -357,7 +347,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 168K • 👍 3K • 💬 704 • ⏱️ 3:27:05 • 1d ago
+👁️ 168K • 👍 3K • 💬 704 • ⏱️ 3:27:05 • 2d ago
 
 ---
 
@@ -367,7 +357,7 @@ Just want to keep up with AI and not fall behind, without building anything spec
 
 📺 Tech With Tim
 
-👁️ 4K • 👍 133 • 💬 2 • ⏱️ 0:38 • 11h ago
+👁️ 4K • 👍 133 • 💬 2 • ⏱️ 0:38 • 13h ago
 
 ---
 
@@ -375,7 +365,7 @@ Just want to keep up with AI and not fall behind, without building anything spec
 
 📺 RealjN
 
-👁️ 48K • 👍 6K • 💬 200 • ⏱️ 0:26 • 4h ago
+👁️ 48K • 👍 6K • 💬 200 • ⏱️ 0:26 • 5h ago
 
 ---
 
@@ -415,7 +405,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 952 • 12h ago
+⬇️ 47,098 • ❤️ 952 • 13h ago
 
 ---
 
@@ -427,7 +417,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 627 • 3h ago
+⬇️ 244,834 • ❤️ 627 • 4h ago
 
 ---
 
@@ -487,7 +477,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 23,516 • ❤️ 362 • 20h ago
+⬇️ 23,516 • ❤️ 362 • 22h ago
 
 ---
 
@@ -652,7 +642,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.4k • 🔱 2.0k • 10h ago
+⭐ 17.4k • 🔱 2.0k • 11h ago
 
 ---
 
@@ -662,7 +652,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.1k • 🔱 1.7k • 1d ago
+⭐ 14.1k • 🔱 1.7k • 2d ago
 
 ---
 
@@ -682,7 +672,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.5k • 🔱 590 • 25m ago
+⭐ 3.5k • 🔱 590 • 1h ago
 
 ---
 
@@ -702,7 +692,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 354 • 5h ago
+⭐ 2.9k • 🔱 354 • 7h ago
 
 ---
 
@@ -712,7 +702,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.5k • 🔱 285 • 1h ago
+⭐ 2.5k • 🔱 285 • 2h ago
 
 ---
 

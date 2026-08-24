@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-      "pub_date": 1787443200.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Is there a pending AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -23,56 +13,6 @@
       "article_url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
       "image": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4751d5c0d2f4d31b7a7fd52e32f6800f",
       "description": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable"
-    },
-    {
-      "headline": "2028 Dems dodge on Bernie's push to pause AI development",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYWVU1MjJhZTR2YXNSSUpTR2pKVlJza25qOE9XYUdYcWtGNHN1eHJhMUpxMllFT1paeHdVTDBJT0dxUHFDZEJHX2FsSTljUEtuaXpZS3FJbm1PTnUtRnQtN04tSlZtb0hRTGZNQ0tnRFBzb2M?oc=5",
-      "pub_date": 1787520691.0,
-      "article_url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US Futures Edge Lower With AI Spending in Focus: Markets Wrap",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjVLTTFEZzVNaE9RQmNUNEd4Q0k5ZXF6UDJZYVdLTGdZWU1PR3FTZXBUWlRmdXptZkc4dXE5SEZoLS1ZLXVBbHA0T2x6VTc3X1U5MFlORXJOdzRNT3ZZNU9BTVNUN19teWRkLTZlYXl2UG5xNXMwOGxpWU1nQk9iTkFOd3NvdURpbFZJNmw0cS02RVgw?oc=5",
-      "pub_date": 1787523035.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Is Making The Physical Workplace More Important, Not Less",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGFLcXJHUUhxRDU1RFhPVmppcjctSnJ3OGdGVzdLWlNsWWpFOE10a2lpSmZjeXdQbk1RQUlDNENmNUxObDhZLXFZdldpVnkzdnE2U3FRQVRaV3BQczRPbDVIN01vSWs5dEJpVTJta0t4QXUtNlF6QmgteWZKQXZEemN0OWNlTjlrLUViR25Fckx0QnJmUGFNdTR4WkdkakxaTkZTTkhXbHJHa0xyZGduV2dNTQ?oc=5",
-      "pub_date": 1787522579.0,
-      "article_url": "https://www.forbes.com/sites/ryananderson/2026/08/23/ai-is-making-the-physical-workplace-more-important-not-less/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8b69747736d66eb1b33257/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "As AI transforms work, leading companies are rethinking workplace design to boost collaboration, learning, innovation, and AI adoption success."
-    },
-    {
-      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNEJTWmp2TUxZN0FZT1l2bnFzV0Fva1drcU1aUzFfSnhmNmpCNFV4NGFfelp4b09xeXJZQi1HR2VlcktTcS1FUlBtYWZfRXliSEhGbVpCUUJKUXUyUVlGdG05NC1IeExVdWNkQ2FVdGxRYXZhRWVv0gF8QVVfeXFMUEtrM2xoMUhWVzBrc0FlZ0xjek9SNGY2VkdYQ0VTRm1fZFZueFVlSkgzTjdOSXdreE5mUlpPUS1XNGJuUGxSNE01czZPdmNobzEzNUVGSEx1bW5mbE9jYkdHd0sxZFZLR2xiUmhFTDVtcGVNOUdaaURQWmktXw?oc=5",
-      "pub_date": 1787486401.0,
-      "article_url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282297-1774370354680-gettyimages-2267710515-AFP_A4JX7G8.jpeg?v=1776879619&w=1920&h=1080",
-      "description": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier."
-    },
-    {
-      "headline": "How Big Tech Captured American Schools",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
-      "pub_date": 1787475665.0,
-      "article_url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
@@ -85,26 +25,86 @@
       "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients"
     },
     {
-      "headline": "Nvidia's Q2 earnings to test resurgent AI trade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeG1sTG1ra3lPVXF0YVI1TlRmUEg2bGJ2cjlzNThjQWV2TFVERTZnQlVnWVVNT29JaDhhYUZ4bVRzVFpIemdvZmozOTZLS05pTW5Ob1BPS3phU2hNSUpoLTh2VkZUZ290Y2NIeEtQQ2IxNmZBRnhRQkpGelUzcldoS2ZHd19EX0gtQjFhT0g5QTdrTEdJc0Fj?oc=5",
-      "pub_date": 1787484302.0,
-      "article_url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/A555BA0398626D55BA4ED7C7538CDB597E5C3CFE51FBD8C131AB61085A052F2F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
-      "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26."
+      "headline": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ?oc=5",
+      "pub_date": 1787533200.0,
+      "article_url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Fears of AI-induced armageddon are overdone",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
-      "pub_date": 1787475182.0,
-      "article_url": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
+      "headline": "How Trusted Founders Are Quietly Winning The AI Backlash",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDNXZHBZeWpMSzNFdzNoZWl6MGU4WmVzemFrQkVpeHlVU2Q4SDVaQTNVTFVpVjNXWlRXb2Q5RWIzWnp5Tnhpcks5cTBGOWduR1BPbWM2YzhhR1lVLWRDMEtpanRnQzNqUW43X3NqWGhPblBqY0RRdlpWM3BENkstOGliQW5tNDBNdW9qNUp4SW1xMEhhMElCX1BNRk1JREdpRXZKWjNpLUJkd3c1?oc=5",
+      "pub_date": 1787530893.0,
+      "article_url": "https://www.forbes.com/sites/lisacurtis/2026/08/23/how-trusted-founders-are-quietly-winning-the-ai-backlash/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8b8dba9f5e3806817f5d23/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "The fight over AI was never really about the models. It's about whether people believe the founders building them, and that is a problem leaders already know how to solve."
+    },
+    {
+      "headline": "Watch Nvidia Notifies Customers About AI-Related Price Hikes",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmNtcFVnZC1nRkhuQUk1Y2hmOFR5V2JpUHpqQkhHUThPUnF5SUNqdzE4TEtXVzNnM1ExVmVSUFB6Z3VUQllPRlE0dHhlSzNxV2JGMjBrQjJoR2hnRmV5M2FicmNjcGx6YWdnZFNxamRWeGc5ajRzZ2pSTmdldlEybDBuRzdzN3Q1a1lSNVhjSllPTzgxSTgxdkF6MkFTT0YwTFVYdzBvRTYwNndSS3c?oc=5",
+      "pub_date": 1787529600.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE9vdzZ2NDZsSkVQV3RXOF9PQzhQV1g2WHo1ZkVmOHhZa3pMcVFEZWFiTlA1blVSZ2tMQWNTUWtnTDNmT2JfV2s2OXdpS2lJM3ZUMmlLOWdNWnJxSWowOUd3Ym13Qmt6dnJGLXBnYlRSZmhHUUxSc0ZhaFI3a1Z4RQ?oc=5",
+      "pub_date": 1787502502.0,
+      "article_url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Data-Center Disenchantment",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdUlfR3JuY2R6QzBnakZIaGhYbldoZlZrQVRUN1FPUGNLdGF5V1ZGeXFqLTFiMEc1Qi1KV2E5RUxBQnVzemQ5VWQtX29WTEI2MHVPLUIxSHFUZFpLdWh4MTVSZEFlWGpMX1AycXJhMTA?oc=5",
+      "pub_date": 1787496600.0,
+      "article_url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "State Sen. Kristen Gonzalez brings 'NY Fights AI Data Centers' tour to Genesee County Sunday",
+      "source": "WHEC.com",
+      "source_url": "https://www.whec.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLU5yY3hLbHBVMzV3ckh1N1J0NHVmay1UMVRteExqVmt0b1NGUG1KUVlXY3ZjQUE1QUtDVXFybVBEcnZabURjcGxCbloyTmtwS2Q0a0paN0E0SGk4SmhQRjJqR3JjcXRRMjNwQUFEX2pUV3hOOUhGLTRmZjltWndSdF9sMFNRWWluZ2NfdnNDMUdfVGJSVzNpc3FKLTgwelRhR2NKU193LVpQamEzUU5CRDF1N2U4ZHVXZXRVYQ?oc=5",
+      "pub_date": 1787521303.0,
+      "article_url": "https://www.whec.com/top-news/state-sen-kristen-gonzalez-brings-ny-fights-ai-data-centers-tour-to-genesee-county-sunday/",
+      "image": "https://www.whec.com/wp-content/uploads/2026/08/Copy-of-Mugshot-Template-2026-08-23T173439.936.png",
+      "description": "New York State Senator Kristen Gonzalez was at Eden Cafe Batavia Sunday. She heard people's concerns over the proposed stream data center for the stamp site in Genesee County."
+    },
+    {
+      "headline": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlDZDZZSUMyTEhvZVdiMjJEMXRVT1FyMEJrN1dQbFNJdW9qV1RqY3had2lUX3RMeUg3aWl5TlMyd3FXeW5QelhvajlSTUplTUMxdzRTYnJPOGtTZXVxV3FYM3JYYUdmZW5BcU96OHNrX1k2eTZlbVVWMHdTcG02WTQ2Z1Y?oc=5",
+      "pub_date": 1787498632.0,
+      "article_url": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Dr. Dre Says He Uses AI to Produce Songs",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RQlVDVXkxV2ctMEU2WEl0U2V2czRFYk5PcTFaYmp4ak0wSDBBb0xmTTFaOEk5alhJN1oxRDZxQjhKSjItMTVQNjdsZ2RLMy1IN1lQcnFQYUZhOFhsbnAzYlNtUlRuQWdBZ3RMaGsyX2FPTF9NSkdTaGdB?oc=5",
+      "pub_date": 1787519804.0,
+      "article_url": "https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T22:48:18.752287+00:00"
+  "fetched_at": "2026-08-24T01:18:02.417796+00:00"
 }

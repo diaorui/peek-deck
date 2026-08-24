@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-23T23:45:57.303244+00:00'
+updated: '2026-08-24T01:18:03.301906+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 23, 2026 at 23:45 UTC  
+**Last Updated:** August 24, 2026 at 01:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,458.45
+### $2,446.05
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +28.0%  
-**30d:** +30.6%  
-**90d:** +18.1%  
-**1y:** -48.9%  
+**24h:** +1.4%  
+**7d:** +27.8%  
+**30d:** +25.3%  
+**90d:** +21.0%  
+**1y:** -44.2%  
 
 ---
 
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 8h ago
 
 ---
 
@@ -84,7 +84,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -108,7 +108,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-1d ago
+2d ago
 
 ---
 
@@ -140,7 +140,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 better.codes is now live. Bring your own agents and raise the proven soundness of koalaIRS12 to advance post-quantum Ethereum.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/20/better-codes-challenge) • 3d ago
 
 ---
 
@@ -160,21 +160,47 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Bitcoin, XRP, and Ethereum Surge. What Trump’s Clarity Act Drive Means for Cryptos.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef)**
+**[Ethereum's MVRV golden cross sparks 34% rally, eyeing $5,000 if key resistance breaks](https://pluang.com/en/news-feed/ethereum-bisa-mencapai-5000-dolar-data-onchain-mendukung)**
 
-Barron's • 3d ago
+Ethereum's MVRV ratio formed a golden cross on August 19, triggering a 34% price surge from $1,905 to $2,547. Whale wallets holding over 10,000 ETH increased by 1.74%, with 17 new large holders joining, indicating strong buying interest. Additionally, over 180,000 ETH worth $440 million moved off exchanges, reducing selling pressure. Ethereum faces a critical resistance zone between $2,722 and $2,970; breaking this could open the path to a $5,363 target, making a $5,000 price feasible in the near term if momentum continues.
+
+Pluang • 1h ago
 
 ---
 
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
+**[Ethereum surges 31% as short liquidations spike and network fees rebound sharply](https://pluang.com/en/news-feed/ethereum-melonjak-31-persen-didorong-liquidasi-pendek)**
 
-Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
+Ethereum's price jumped 31% in a week, driven mainly by a massive 1,514% increase in short liquidations averaging $131 million weekly. This forced short covering boosted trading volumes and pushed network activity higher, with base fees up 189% and fees burnt rising 251%, reversing two months of low activity. Binance funding rates turned positive, signaling renewed bullish leverage, while deposit patterns showed many smaller inflows rather than large whale transfers, indicating fragmented selling pressure. The price rally reflects positioning shifts rather than fresh spot buying, with future moves depending on whether spot demand catches up or funding cools.
 
-TradingView • 6h ago
+Pluang • 1h ago
+
+---
+
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
+
+Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+
+Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+
+CryptoSlate • 5h ago
+
+---
+
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+
+Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
+
+TradingView • 11h ago
 
 ---
 
@@ -182,15 +208,7 @@ TradingView • 6h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 13h ago
-
----
-
-**[Ethereum Price Prediction: Here’s Why This ETH Bear Market is Officially Over](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html)**
-
-Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC’s new crypto rules.
-
-Yahoo Finance • 3d ago
+CoinMarketCap • 14h ago
 
 ---
 
@@ -198,7 +216,7 @@ Yahoo Finance • 3d ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 17h ago
+Global South Opportunities • 18h ago
 
 ---
 
@@ -210,27 +228,9 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?](https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up)**
+**[Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
 
-Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news.
-
-Fast Company • 3d ago
-
----
-
-**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
-
-Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
-
-BeInCrypto • 1d ago
-
----
-
-**[Ethereum Launches better.codes to Advance Post-Quantum SNARKs](https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security)**
-
-Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters.
-
-blockchain.news • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 6K • 👍 327 • 💬 40 • ⏱️ 18:53 • 8h ago
+👁️ 6K • 👍 327 • 💬 40 • ⏱️ 18:53 • 9h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 Stock Moe
 
-👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:45 • 11h ago
+👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:45 • 12h ago
 
 ---
 
@@ -264,7 +264,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 788 • 👍 64 • ⏱️ 1:09 • 9h ago
+👁️ 788 • 👍 64 • ⏱️ 1:09 • 11h ago
 
 ---
 
@@ -284,7 +284,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 360 • 👍 82 • 💬 71 • ⏱️ 4:20 • 16h ago
+👁️ 360 • 👍 82 • 💬 71 • ⏱️ 4:20 • 17h ago
 
 ---
 
@@ -292,7 +292,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 160 • 💬 6 • ⏱️ 1:00 • 2h ago
+👁️ 1K • 👍 160 • 💬 6 • ⏱️ 1:00 • 4h ago
 
 ---
 

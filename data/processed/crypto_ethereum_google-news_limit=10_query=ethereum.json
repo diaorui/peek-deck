@@ -15,24 +15,54 @@
       "description": "Capital is voting with its feet."
     },
     {
-      "headline": "Bitcoin, XRP, and Ethereum Surge. What Trump\u2019s Clarity Act Drive Means for Cryptos.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNjWlBqaGtLaG9oS1hBSVhaekNEUHZoQm85Z3A4QnlPRndHT1BEV2dxb2lzemtXeDRNdDg3SVpaNU1CVTBMcWdPYU0zVjhjYVVoWThPTEJLOHhSWnlSNEJMT2d2NHc0SVBha0RxSG16SHdOa2lPeGsxNTFxQnFrMDlqOWZOWFZLdGJXU0VveU9Fai1qQ0loQg?oc=5",
-      "pub_date": 1787242380.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-trump-hyperliquid-5f97f0ef",
-      "image": null,
-      "description": null
+      "headline": "Ethereum's MVRV golden cross sparks 34% rally, eyeing $5,000 if key resistance breaks",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE9kc1ZfT3d0d1JyRnJiQmZBZHN1QWxtQzEzcUNqRGpFLWR4aFBpTzlleVlQWGpCNk1wQmttc2pGd3Vad3c1ZDNPQmw4QkpYYUpSQVJZVm9oODNBZGhjZnBucWltQ195Ql9QeEZGeklpdDRWX1FWMzgtNFlKSUU5Z01qMTZwdUFhNlZKdm1uaklLUQ?oc=5",
+      "pub_date": 1787530636.0,
+      "article_url": "https://pluang.com/en/news-feed/ethereum-bisa-mencapai-5000-dolar-data-onchain-mendukung",
+      "image": "https://image-cdn.pluang.com/web/compressed/technical_signals.webp",
+      "description": "Ethereum's MVRV ratio formed a golden cross on August 19, triggering a 34% price surge from $1,905 to $2,547. Whale wallets holding over 10,000 ETH increased by 1.74%, with 17 new large holders joining, indicating strong buying interest. Additionally, over 180,000 ETH worth $440 million moved off exchanges, reducing selling pressure. Ethereum faces a critical resistance zone between $2,722 and $2,970; breaking this could open the path to a $5,363 target, making a $5,000 price feasible in the near term if momentum continues."
+    },
+    {
+      "headline": "Ethereum surges 31% as short liquidations spike and network fees rebound sharply",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGNGMXVWcXNFb3BSZVNSZkU2djFxUG5JWDFMemUzWU45RF8zS2t6b2lSNTY5a0hqRXhiemEzSGsyV0hVaUlpTXRRTGJiVHFrUDd4VF9aUk85TTdYWWxyX3Eyd25PS09ocFhGZDl5SmVSemNybEVFdmE0Yk43N05aOW9NZ2R5bmw4cE1BRDVR?oc=5",
+      "pub_date": 1787528259.0,
+      "article_url": "https://pluang.com/en/news-feed/ethereum-melonjak-31-persen-didorong-liquidasi-pendek",
+      "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+      "description": "Ethereum's price jumped 31% in a week, driven mainly by a massive 1,514% increase in short liquidations averaging $131 million weekly. This forced short covering boosted trading volumes and pushed network activity higher, with base fees up 189% and fees burnt rising 251%, reversing two months of low activity. Binance funding rates turned positive, signaling renewed bullish leverage, while deposit patterns showed many smaller inflows rather than large whale transfers, indicating fragmented selling pressure. The price rally reflects positioning shifts rather than fresh spot buying, with future moves depending on whether spot demand catches up or funding cools."
     },
     {
       "headline": "Ethereum\u2019s \u2018Netflix Moment\u2019 Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVJhWTh3UWlscWJBRS1aenhGQU0wdnNkYUZaREhjel9JOENoZUVpYm53QWNEWXU3LVBfQUdCZGxxY0tfVFZ5SE1PZ0ItQl9abkJOaHpIb1BjbE5hVEdtSGVuUXU3WnZYYTJON2FTeVJyQkQ0QmtDYnBRZ0RQQ2N4R2hUaFcwWUVhcTREZkNPMUdnMlNpZnNkZ0pTZkU5OWU3?oc=5",
+      "pub_date": 1787505336.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/87B6D9B8D98407E5BC65F426C6C0D6603B6DCB475EE52D06054C0D1D4851786B/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faaedc71c4e6c0ee88d07d33df3bbd3d7",
+      "description": "Micha\u00ebl Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level."
+    },
+    {
+      "headline": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdERlVGp6Y1E0QXJyVXJ3RElDMmpQcVVNR0FZM2twSFBRVXpQMkhqNnVhLXhRcmxzbGJfQ2NKc3l0ZmotQXRzSHZUSkJTUHBYTi1LZ0RsZEx3NGswZjBRTHJEY0ZLUWJqZXY4YUo1c21ReFBweVRTQXRxTGtNTmI1cVZoMTc4cTFiS09CQnJwMlUza2hCV0Z3MEdfc0NEb2JzWnVIZlpvby05V1d6YTdVeVBn?oc=5",
+      "pub_date": 1787515510.0,
+      "article_url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
+      "description": "Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze."
+    },
+    {
+      "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEtUYjM5ZU5mcUJXNUpYVmUzbG5KcHpJRmgtUlQ0cUQ5bGdpVmZQYjZNSEo0WFhzSEE0UlRkd0ZFY2NQY3NQX3c5ejA3dFdHV1BRMDBVaGRMaGhrS0hTMzR5QXNsNmctOVFSNjhRbXJqQm9UemR0MU1FSm93a3M0VjZlSG1uaDhTUGdEWUtRU2RQc3lqQXlEMGo5ei1yUmg2ZEg2VWRuN1VhX3ZyZFowaXowbGZXSGZsM04tYWJ5UVhob2RaTm5PbEFlRWs0NmNZRkE?oc=5",
-      "pub_date": 1787505336.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNTVtN2hYX2MwckF2dmpDc0ZzV1RhNFcxMFB4YWE4dktRQ01WSzBKNUVNV1hERUI0MHIwN3lBMXIwZllaRk9vVU9CMWJ0dThWRmgzVnRoSk0xZWN4UlhJdktndVRIdFJBM1ZMOVV1SnNSbzN4bEs3dW1PTGRPb0pyb3M2cE91TUM1NmZYeUV4NGhmbWQtdW1KTlRMYWNVTFN6dEh1QjFPbHZ2Vzd4ZHNXM0FnNWdjbEhWNFlSMi1fV2t2Y3Mya3BZbVhPcXJxdU5qalV2ZlRKOUZBX0xtblNXV3cwN0NLaHowbTFV?oc=5",
+      "pub_date": 1787493225.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto analyst Ted Pillows said Ethereum (ETH) was having its \"Netflix (NFLX) moment\" and called for $10,000 Ethereum by 2029, while Micha\u00ebl van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows\u00a0posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth\u2026"
+      "description": "Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it \"a bunch of jokers\" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc\u2026"
     },
     {
       "headline": "Bitcoin, Ethereum Rally 20%+ \u2014 Is the Crypto Bear Market Over?",
@@ -43,16 +73,6 @@
       "article_url": "https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point",
       "image": "https://academy-public.coinmarketcap.com/optimized-uploads/a9998c1a68854cc988e47efbcff2b646.jpeg",
       "description": "BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?"
-    },
-    {
-      "headline": "Ethereum Price Prediction: Here\u2019s Why This ETH Bear Market is Officially Over",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX21LY1V6OEdoOUFVSHVXV041VmZ2VUZiclJwZHotZk9SU3VfeUw0eHByTUM3TFhSX1JEMDdCTnVKYXZSTGVMMENqT2czRzFZSmRXVnlWcHM3N0dNWTlnSFpfYnlrZTUwd19TZDJKQmhZcnBseE85Q0xCVkhDcjRpNExQVi11aFY4ZU1FWUtnMlVXdDVEUTA3RFRlZ2NUdVU?oc=5",
-      "pub_date": 1787243901.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-why-eth-163821690.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/F6C77AA901DF267C91A7C1335D58218E55A0A0C6B6EE3B8AC3382C95BDBB7DC1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffx_empire_176%2F5c6034110e56c92d88fef6e4303592c0.png",
-      "description": "Ethereum (ETH) has officially broken out of its bear market with a 19% surge past the $2,000 threshold and the 200-day EMA, fueled by massive short liquidations, record ETF inflows, and the SEC\u2019s new crypto rules."
     },
     {
       "headline": "Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide",
@@ -75,36 +95,16 @@
       "description": "BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month"
     },
     {
-      "headline": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2UxYURzc3FLSkZ2QWxNZmlxc0Fjb0ktdndWbXVhOHMtUVRfRFlkY3B1QTFYWVlMN2xFaGVHQmFzU1ZqOEFsRGxvRVIzTjBUbXVpLUtSQkU0ZFQyRmttYWV3SW9KZFduT1ZjMlNBdFk0RTZzUS11UkQyeWlCU2FVZElxMGJYek5EZlpXS0F0V1Q?oc=5",
-      "pub_date": 1787227324.0,
-      "article_url": "https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-2-91592913-bitcoin-ethereum-xrp-price-crypto-surging.jpg",
-      "description": "Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news."
-    },
-    {
-      "headline": "Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ydmVIcW9DdW5WeC1LMFB4UEhUa21lbWlOZmpIVUZkRjJaVExSQ1Jrd19RZHZsV0ZhY01FLU4wbGpEeUtqMGx6clF4Smx1TXpjNWs1b3lHMUlJODhwN1NoOWlXelJESWpHeEJvekxIRk5VRU0?oc=5",
-      "pub_date": 1787423520.0,
-      "article_url": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
-      "image": "https://assets.beincrypto.com/img/6QOH5_GBbiwK20czQkT43n6Qlx0=/1200x630/smart/filters:format(jpeg):quality(82)/2107838830124092abb733c06131136b",
-      "description": "Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025."
-    },
-    {
-      "headline": "Ethereum Launches better.codes to Advance Post-Quantum SNARKs",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdk5kQTZja0N2b043bTl6YTBGU2d2XzFzSXk3T214U21xMUhPN1c1THUtXy1CWllmcU5ZQjZmOW5hemIzWElNYXRVMWgzU1k5c29sLVVheTlYbFItVWZCaDdock5XaGV6Unh2Y21OYi1yNUdydXNjQ0Z6aVJCTU0?oc=5",
-      "pub_date": 1787395302.0,
-      "article_url": "https://blockchain.news/news/ethereum-better-codes-snarks-quantum-security",
-      "image": "https://image.blockchain.news:443/features/45E057B630B7BC435A29E14A36556A4A91FADC99961BE65945C7D2258DE51402.jpg",
-      "description": "Ethereum's better.codes aims to strengthen post-quantum SNARKs with a collaborative AI-powered research challenge. Here's why it matters."
+      "headline": "Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFAycEYyUkQ4MnRDSk5mMERZOFVLazZIRjZQMHk3eDJRb2U0Zmh0R3V2cFNqR0xHZlA2Mkc1bnJwSFQySk5MRFFQNk82UnRtTFJTZjNyUHhyRnBScXRWa0lBY2drZE5TX2prZ3hSVTZIVDFHcHdsb0Q4c3oxR2lteEJoS3hBZkpfX09WX2FZNko?oc=5",
+      "pub_date": 1787330820.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-23T22:48:11.329122+00:00"
+  "fetched_at": "2026-08-24T01:17:49.027335+00:00"
 }
