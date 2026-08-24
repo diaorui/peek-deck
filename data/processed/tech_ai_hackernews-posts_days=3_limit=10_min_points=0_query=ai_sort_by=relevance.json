@@ -5,20 +5,6 @@
   "days": 3,
   "posts": [
     {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "hn_url": "https://news.ycombinator.com/item?id=49387959",
-      "author": "olalonde",
-      "points": 188,
-      "num_comments": 98,
-      "created_at": "2026-08-21T13:43:33Z",
-      "object_id": "49387959",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "reuters.com"
-    },
-    {
       "title": "AI boosted homework scores, then exam scores dropped: Study",
       "url": "https://canews24.online/?p=71",
       "hn_url": "https://news.ycombinator.com/item?id=49389565",
@@ -143,9 +129,23 @@
       "description": "They all sound like the same guy",
       "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
       "site_name": "Medium"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "hn_url": "https://news.ycombinator.com/item?id=49393647",
+      "author": "dthread3",
+      "points": 16,
+      "num_comments": 1,
+      "created_at": "2026-08-21T20:52:10Z",
+      "object_id": "49393647",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "site_name": "TechCrunch"
     }
   ],
-  "total_hits": 290,
+  "total_hits": 284,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T12:50:20.612370+00:00"
+  "fetched_at": "2026-08-24T13:51:26.139984+00:00"
 }

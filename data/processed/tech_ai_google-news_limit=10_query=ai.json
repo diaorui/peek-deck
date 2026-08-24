@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI is coming for your glasses",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5",
-      "pub_date": 1787544109.0,
-      "article_url": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee7915c-47a0-4cc4-8c24-7f1cf50abc83.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware"
+      "headline": "Some of Russia\u2019s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeXR6ZDdGV2VzZUpUYUJETEU3SzhrVW9Ucm1jeEE4UjRJSkt5R015LWFjS3lnS2dYWktwRTZQVU94cmdoLW5xSWxVTHlnTWd6aHVoYWF6aW93RF96bU1GbFg5NjRLRS1aWml0Z3BLMjNnUk5KS2JQcENZeTBlcDQ5djRjTmdYTnpmTW9RVmk5WXNoa3N3Mm93?oc=5",
+      "pub_date": 1787570369.0,
+      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
@@ -25,44 +25,34 @@
       "description": "Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE"
     },
     {
-      "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
-      "pub_date": 1787473404.0,
-      "article_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients"
+      "headline": "Eoptolink\u2019s AI Boom Stockpiling Sends Inventory Ballooning",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0RkQzJ1cVNvMXlNQ0FudzVkSkpIeE9zRUFBOG04ZlFtUWl3eEEtYmt6TDdhOGNibGQ1aVdXNC1FY09pckxXa3FTQmVyOFVZOUQ2ZUdjc29QRnJ1SmJxakJTTGtoQmJBeVRxYTkzWDlwaVpEbWVmWjkwS0p6ZGJHcHJUNzg4Y2RaeWRSeUUyTVB5Q1hEWE1mbUw2YjdLbWJNUGo4Nmc1ME1ZT3RxdlE?oc=5",
+      "pub_date": 1787577611.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/eoptolink-s-ai-boom-stockpiling-sends-inventory-ballooning",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "XPeng Net Loss Widens Amid Physical AI Push",
+      "headline": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXZiZFdIdnZ0V3dEeUdTZ3M1ekdwN180LUlGZXZVLVl3VGRnekl0ODliNkRQVmxnYjNJWTBWYlNLdDJjbXAtajVpLVl6VnhzdDQ2UEh3d3J2U2lwQXFVV2FEa0QyWUFkMks3VFdsQkk1VnJoTEhpQlVOUnhUOGMzWTNBYW1ZM2FKYzZWdGNTZFRWbUJF?oc=5",
-      "pub_date": 1787575020.0,
-      "article_url": "https://www.wsj.com/business/earnings/xpeng-net-loss-widens-amid-physical-ai-push-e44b31f1",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkhwcmRIRXVKYTRlTEwzQmYzQTVSZkZoYmY5eWVUVWxhR1FFTk1FVUpWYzhSM1czMy1meXVxU1pncVNtR3BsUUM4WU5fSUpsQ1BYOGMwcjZhZmhzZ1JZTnM5NEdDN2F0TVMyZnNQVHFuWW5XZmlOc1ZfWlVzaTV3RXlvcUNkSHZTTkdYekpqR1ZWaXJzaUdxVm9JOXRLaFVVR1dJUkkwUHo?oc=5",
+      "pub_date": 1787578320.0,
+      "article_url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47",
       "image": null,
       "description": null
     },
     {
-      "headline": "New York AI data center fight comes to Geneva, Seneca Lake Monday",
-      "source": "Democrat and Chronicle",
-      "source_url": "https://www.democratandchronicle.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFZUT1k5eXNOc0JVZ0ZSTDdicTFNSXlUXy1IMzVUSDhwLWFZZC1vOV9yU240ZXk0RHF4eUdYNHhlc2RuR19qNjVaMGM3aHVpV082eXZuUWFMVnEwb3ZfUjBlVndDQV9YeHJrTHF0VE5HQnZHS01aeUN0enNxSUF5YmRHMW1nU0VhOW9FTGFTb2dYTWR6VUxTMlowWjdWc3RwNUZRamg0SlV3OE1tb1I2N2kwcWRzRktqUDFWYQ?oc=5",
-      "pub_date": 1787573940.0,
-      "article_url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
-      "image": "https://www.democratandchronicle.com/gcdn/authoring/authoring-images/2026/08/24/PROC/91438514007-getty-images-2242096054.jpg?crop=2307,1297,x1,y0&width=2307&height=1297&format=pjpg&auto=webp",
-      "description": "State Sen. Kristen Gonzalez will visit the Finger Lakes Monday as part of a statewide tour urging Gov. Kathy Hochul to sign legislation regulating large data centers."
-    },
-    {
-      "headline": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
-      "pub_date": 1787563772.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
-      "image": null,
-      "description": null
+      "headline": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tMDRiOFBpNWNTdjFhaGczMmJSTXl6elpfaXpsMUc1UGx6djNNdURTeXNka1Q2eXFLRmt6dWlEREJGV1lmYndnVUpHSVE4VEFCWkp6ME85cXd6dw?oc=5",
+      "pub_date": 1787576984.0,
+      "article_url": "https://www.bbc.com/news/articles/c70ljqk5kjqo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg",
+      "description": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation."
     },
     {
       "headline": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Why Alibaba Stock Is Paying the Price for the Global AI Race",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHU5MkU4WG5abjdBQTFhYldzS1phMHFDcHVYM1dTQTNldjBPYXJGTEE2Z2JodHZQVEVQQ2JxQmRxcU4tYUl1MXo3bVgtOVRJMTJMRzMyZ3d2YkxKZF9nVWlxYlI0cjNhaWpOXzdYejVTVTdwbnMzNjFtbkdMOE1oZDB5ZkJxV0NIMkRTUlRB?oc=5",
-      "pub_date": 1787572980.0,
-      "article_url": "https://www.barrons.com/articles/alibaba-stock-drops-10-billion-ai-fundraise-e0e79fb0",
-      "image": null,
-      "description": null
+      "headline": "Alibaba is raising $10 billion in Hong Kong's biggest-ever share sale for AI",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeWd4aXhkREtyWmxpaUJMN2hYVW9hTUlXVHhDS3BGakZndmR4UC04SDdTcHh5Q285ZHVIaHdWaHlNQTV2NlU1YXdTUktsVkE1aThVLVFDMnBtSElRMDE2WmtUT1lnRlAtaHRlVzc0dVA?oc=5",
+      "pub_date": 1787571931.0,
+      "article_url": "https://qz.com/alibaba-hong-kong-share-sale-ai-expansion-082426",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2268289054-300x200.jpg",
+      "description": "The Chinese tech company sold 710 million shares at HK$112.70 each, with demand from institutional investors nearly tripling the offering"
+    },
+    {
+      "headline": "AI is coming for your glasses",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5",
+      "pub_date": 1787544014.0,
+      "article_url": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee7915c-47a0-4cc4-8c24-7f1cf50abc83.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T12:50:42.392887+00:00"
+  "fetched_at": "2026-08-24T13:51:53.301752+00:00"
 }
