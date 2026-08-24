@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T20:34:37.224836+00:00'
+updated: '2026-08-24T21:29:16.904309+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 20:34 UTC  
+**Last Updated:** August 24, 2026 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,816.54
+### $78,951.54
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.7%  
-**7d:** +21.6%  
-**30d:** +20.5%  
-**90d:** +5.7%  
-**1y:** -28.7%  
+**7d:** +21.8%  
+**30d:** +20.7%  
+**90d:** +5.9%  
+**1y:** -28.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1584.82B
+**Market Cap:** $1583.74B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -37.4%
 
 **All-Time Low:** $67.81
-+116347.4%
++116253.0%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-8h ago
+9h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Then it drops back down to 62k by next week
 
-7h ago
+8h ago
 
 ---
 
@@ -107,13 +107,13 @@ Then it drops back down to 62k by next week
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-7h ago
+8h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 I wonder why that is so?
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ I wonder why that is so?
 
 Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-3h ago
+4h ago
 
 ---
 
@@ -161,9 +161,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Nears $80,000, but Analysts Say the Next Pullback Will Be Key](https://www.moomoo.com/news/post/75172020/bitcoin-nears-80000-but-analysts-say-the-next-pullback-will)**
+**[Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08242026-12066087)**
 
-Moomoo • 50m ago
+The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
+
+Investopedia • 2h ago
 
 ---
 
@@ -171,21 +173,13 @@ Moomoo • 50m ago
 
 Finally, a killer use case
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
 **[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[Strategy creates $1.59 billion USD Cash pool to buy bitcoin](https://qz.com/strategy-usd-cash-pool-bitcoin-reserve-082426)**
-
-The new USD Cash reserve gives the company flexibility to purchase bitcoin, repurchase securities, or meet other corporate needs
-
-qz.com • 2h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -197,9 +191,33 @@ Yahoo Finance • 8h ago
 
 ---
 
+**[Strategy creates $1.59 billion USD Cash pool to buy bitcoin](https://qz.com/strategy-usd-cash-pool-bitcoin-reserve-082426)**
+
+The new USD Cash reserve gives the company flexibility to purchase bitcoin, repurchase securities, or meet other corporate needs
+
+qz.com • 3h ago
+
+---
+
+**[As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?](https://www.euronews.com/my-europe/2026/08/24/as-bitcoin-soars-people-ask-who-is-giancarlo-devasini-italys-richest-man)**
+
+Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
+
+Euronews.com • 7h ago
+
+---
+
 **[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
 
 WSJ • 3d ago
+
+---
+
+**[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
+
+BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
+
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -207,27 +225,21 @@ WSJ • 3d ago
 
 Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.
 
-The Block • 4h ago
-
----
-
-**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
-
-Reuters • 3d ago
-
----
-
-**[The Case for Bitcoin to $2 Million After This Bear Market](https://io-fund.com/crypto/bitcoin-2-million-after-bear-market)**
-
-Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
-
-IO Fund • 4d ago
+The Block • 5h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Bitcoin is great (for systemic theft of aid money)](https://news.ycombinator.com/item?id=49421102)**
+
+Finally, a killer use case
+
+⬆️ 4 • 💬 0 • 6h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+
+---
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
@@ -259,37 +271,55 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ---
 
+**[Show HN: Transpose Spotify audio and isolate vocals/instruments in realtime](https://news.ycombinator.com/item?id=49425400)**
+
+Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
+
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/evanhu1/transposify)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin Can Go Much Higher From Here | 8 Real Reasons + Chart Levels | SAGAR SINHA](https://www.youtube.com/watch?v=1n6siERWB68)**
+**[Bitcoin Price Volatility Just Broke Out of Historic Low](https://www.youtube.com/watch?v=IxOn3b9vnQo)**
 
-CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
+Natalie Brunell dives into a striking report from Fidelity Digital Assets revealing that Bitcoin's rolling 1-month realized volatility had ...
 
-📺 Sagar Sinha 
+📺 Natalie Brunell
 
-👁️ 38K • 👍 1K • 💬 169 • ⏱️ 12:14 • 2d ago
-
----
-
-**[Markets Ignore Higher Rates, Rally On Bitcoin And Gold...But MAJOR Storm Clouds Approaching!](https://www.youtube.com/watch?v=wGJMx7rpsdI)**
-
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
-
-📺 Verified Investing
-
-👁️ 101K • 👍 5K • 💬 189 • ⏱️ 16:12 • 2d ago
+👁️ 909 • 👍 41 • 💬 2 • ⏱️ 0:53 • 2h ago
 
 ---
 
-**[The AI Crypto Macro Nexus Point: Why Bitcoin Matters to Investors](https://www.youtube.com/watch?v=FoSLsvUKvws)**
+**[BITCOIN: Buy The Breakout OR Wait For A Pullback? [My Plan]](https://www.youtube.com/watch?v=zKAbSwOuJVs)**
 
-Visit ai.22vresearch.com or visser-labs.com for more info Email Mark Whaling mwhaling@22vresearch.com In this week's video, ...
+Bitcoin is breaking out and traders are split: buy right now or wait for a better entry? In today's live session, Kyle Doops maps out ...
 
-📺 Jordi Visser
+📺 Crypto Banter
 
-👁️ 40K • 👍 3K • 💬 339 • ⏱️ 1:16:34 • 1d ago
+👁️ 16K • 👍 1K • 💬 20 • ⏱️ 37:21 • 13h ago
+
+---
+
+**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
+
+Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 140 • ⏱️ 20:21 • 21h ago
+
+---
+
+**[Bitcoin Explodes 25%: Is Crypto Bear Market Finally Over? | Ran Neuner](https://www.youtube.com/watch?v=N350GH5kAS4)**
+
+Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
+
+📺 David Lin 
+
+👁️ 20K • 👍 676 • 💬 228 • ⏱️ 41:23 • 22h ago
 
 ---
 
@@ -299,27 +329,37 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 80K • 👍 3K • 💬 169 • ⏱️ 11:10 • 2d ago
+👁️ 81K • 👍 3K • 💬 170 • ⏱️ 11:10 • 2d ago
 
 ---
 
-**[Bitcoin Will Give You ONE More Chance! | Eric Krown](https://www.youtube.com/watch?v=8gD_iJXntG8)**
+**[[WARNING] Know This about BITCOIN &amp; XRP...NOW‼️](https://www.youtube.com/watch?v=7vmVsxSusq0)**
 
-Bitcoin has finally started moving, but what if you missed the first leg of the pump? Alessandro is joined by Eric Krown to break ...
+Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto Course (   STOCK UP U) ...
 
-📺 Crypto Banter
+📺 STOCK UP! with LARRY JONES
 
-👁️ 15K • 👍 551 • 💬 16 • ⏱️ 39:19 • 2d ago
+👁️ 31K • 👍 2K • 💬 395 • ⏱️ 23:23 • 2d ago
 
 ---
 
-**[Mark Yusko Broke Out the Bitcoin Bull Socks](https://www.youtube.com/watch?v=PlTqkNmm2eM)**
+**[MAJOR Market Bottom For Crypto IS IN.](https://www.youtube.com/watch?v=Yaheg5RlK7c)**
 
-Mark Yusko has his Bitcoin bull socks out It's a pretty darn good start. In fact, it's such a good start that I broke out the Bitcoin bull ...
+Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
 
-📺 The Wolf Of All Streets
+📺 Credible Crypto
 
-👁️ 1K • 👍 22 • 💬 32 • ⏱️ 0:28 • 12h ago
+👁️ 24K • 👍 1K • 💬 124 • ⏱️ 1:11:06 • 2d ago
+
+---
+
+**[The AI Crypto Macro Nexus Point: Why Bitcoin Matters to Investors](https://www.youtube.com/watch?v=FoSLsvUKvws)**
+
+Visit ai.22vresearch.com or visser-labs.com for more info Email Mark Whaling mwhaling@22vresearch.com In this week's video, ...
+
+📺 Jordi Visser
+
+👁️ 41K • 👍 3K • 💬 340 • ⏱️ 1:16:34 • 1d ago
 
 ---
 
@@ -329,35 +369,17 @@ Help us fight these scammers! Become a member today: https://www.youtube.com/cha
 
 📺 Scammer Payback
 
-👁️ 76K • 👍 3K • 💬 609 • ⏱️ 2:04:33 • 2d ago
+👁️ 78K • 👍 3K • 💬 663 • ⏱️ 2:04:33 • 2d ago
 
 ---
 
-**[BITCOIN AND XRP WONT STOP PUMPING #bitcoin #xrp #memecoin #memes](https://www.youtube.com/watch?v=ETyPZrNJ_ng)**
+**[Bitcoin&#39;s &quot;Coiled Spring&quot; Jump, Clarity Act Pivot Point &amp; Miners&#39; Data Center Move](https://www.youtube.com/watch?v=MxxlGkTi-58)**
 
-📺 CryptoWendyO
+The Treasury doubling liquidity on some long-term debt buybacks in bonds is what Sam Callahan points to as the key driver ...
 
-👁️ 9K • 👍 634 • 💬 30 • ⏱️ 1:43 • 19h ago
+📺 Schwab Network
 
----
-
-**[Bitcoin Surged, Then I Flipped Short](https://www.youtube.com/watch?v=w3zQ9y55Q7U)**
-
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
-
-📺 Gareth Soloway
-
-👁️ 72K • 👍 4K • 💬 521 • ⏱️ 15:40 • 2d ago
-
----
-
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
-
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
-
-📺 Nicholas Crown
-
-👁️ 7K • 👍 329 • 💬 13 • ⏱️ 1:15 • 2d ago
+👁️ 9K • 👍 84 • 💬 4 • ⏱️ 7:28 • 2d ago
 
 ---
 

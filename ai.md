@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T20:34:37.216690+00:00'
+updated: '2026-08-24T21:29:16.899272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 20:34 UTC  
+**Last Updated:** August 24, 2026 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Coding expertise is going to collapse from AI reliance](https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/)**
+
+Anyone else actually dealt with this? Is it overblown, or am I missing something?
+
+1h ago
+
+---
+
 **[I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating](https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/)**
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
@@ -49,13 +57,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-1h ago
-
----
-
-**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
-
-22h ago
+2h ago
 
 ---
 
@@ -63,7 +65,13 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 2h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 3h ago
+
+---
+
+**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
+
+23h ago
 
 ---
 
@@ -79,7 +87,23 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
-4h ago
+5h ago
+
+---
+
+**[I asked an AI version of myself a question I never answered, then asked it something it had no way to know](https://www.reddit.com/r/artificial/comments/1vxg08w/i_asked_an_ai_version_of_myself_a_question_i/)**
+
+I built EchoVault, an app that interviews you about your life and turns the answers into an avatar your family can talk to after you die. In the clip I ask it the meaning of life, which I never covered in any session. It builds an answer out of separate conversations about my values. Then I ask my grandfather’s middle name and it stops. It doesn’t know, because I never told it, so it says so. Everyone in this category is chasing a convincing likeness. A convincing likeness that answers everything is a machine for inventing memories, and the person on the other end is grieving and can’t check. I shipped this architecture with the webapp in June 2025 and the rest of the category has since converged on it. The iOS app is out now. Text tier is free and unlimited, no card. https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028
+
+4m ago
+
+---
+
+**[I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.](https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/)**
+
+I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
+
+1h ago
 
 ---
 
@@ -87,31 +111,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
-11h ago
-
----
-
-**[I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.](https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/)**
-
-I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story. After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully. The benchmark contains 66 cases and measures 9 capability dimensions of a deterministic verification engine. I ran two fixture-based benchmark executions: publishable-v1-selfcheck publishable-v1-repeat2 Both runs used the same commit: f38cba58f4c0b108ae53cc2eb2a50ff9e4e806e8 And both produced the exact same result: 66/66 cases passed. 0 failures. Every measured capability dimension passed 66/66: Claim binding Evidence graph integrity Deterministic calculation Rule application Contradiction detection Missing evidence detection Verification outcome Reproducibility Auditability So, within this benchmark configuration, the fixture-based deterministic result reproduced exactly across both runs. But there is another number in the report that I think is important: model_assertion_correctness: 12/24 The benchmark explicitly treats that as a secondary reference metric, not part of the primary deterministic capability score. And I think that distinction is becoming the central lesson of this work. Deterministic verification capability ≠ Model generation correctness ≠ End-to-end production reliability A system can be internally reproducible and deterministic while still depending on a probabilistic model that produces unreliable, ambiguous, or incorrectly structured assertions. That is why I'm moving away from treating the benchmark as one number. Instead, I want to separate: 1. Can the deterministic verifier correctly process canonical benchmark inputs? 2. Can the model produce correct claims? 3. Can those claims survive parsing, normalization, canonicalization, and binding? 4. Can the complete production pipeline work end-to-end? These are different questions. The rerun gave me more confidence in one thing: The deterministic benchmark result is reproducible within the tested configuration. But it also reinforced that reproducibility of the verifier should not be confused with correctness or reliability of the model that feeds it. The next benchmark version will therefore focus on identifying the first invalid state for every failure: Model output ↓ Parsing ↓ Schema validation ↓ Normalization ↓ Canonicalization ↓ Claim binding ↓ Evidence graph ↓ Deterministic verification ↓ Final outcome Rather than just: PASS / FAIL I'm interested in whether others working on LLM + deterministic systems would benchmark these layers separately. Would you treat deterministic capability, model correctness, interface/contract integrity, and end-to-end reliability as separate benchmark scores? Or is there a better framework for measuring this kind of architecture?
-
-5h ago
-
----
-
-**[I built an awards institution for human orchestration of AI. Thesis: recognition authority should stay human. Tear it apart.](https://www.reddit.com/r/artificial/comments/1vxbhha/i_built_an_awards_institution_for_human/)**
-
-Disclosure up front: I'm the founder, this is my project, and I'm posting it myself. Not looking for upvotes — looking for holes in the argument. The premise: as AI gets more capable, the interesting question for recognizing creative and technical work isn't "was AI used" (everything will use it) but "who directed it, and who's accountable for the result." So the thing being recognized is the orchestrator — the person or team who made the calls — not the model and not the raw output. A one-line version of the test I keep coming back to: the award names the person who walks on stage. If no accountable human can walk on stage for a piece of work, it isn't recognizable — not as a value judgment about the work, but because recognition without accountability is hollow. To give the flavor without dumping the whole taxonomy — a few example recognitions from the robotics/physical-AI domain: "Best Human-Directed Machine Design" (a human directs AI to design physical machines no one drafted alone), alongside things like "Best Agentic System" and "Best Human-Directed Autonomous Workflow." There are 30 domains total; the full breakdown and the reasoning are here: https://www.orchestratorawards.com/awards Where I want the fight: (1) Is "the orchestrator" a real, defensible unit, or just credit assigned to whoever paid for the compute? (2) Does "keep authority human" quietly smuggle in an anti-AI-progress stance? I don't think it does — the whole framing assumes the tools get more capable, not less — but that's the objection I expect and I'd rather hear it sharp. Full thesis is a short working paper: https://doi.org/10.5281/zenodo.22049566 Rip into it.
-
-1h ago
-
----
-
-**[Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?](https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/)**
-
-As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
-
-5h ago
+12h ago
 
 ---
 
@@ -123,39 +123,45 @@ As people created the most abstract way of programming, syntax knowledge of prog
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
 **[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
 
-The New York Times • 2h ago
+The New York Times • 7h ago
 
 ---
 
-**[Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff](https://www.wric.com/news/u-s-world/ap-taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)**
+**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-WRIC ABC 8News • 1h ago
-
----
-
-**[Humble man arrested after 'thousands' of AI-generated child porn images found, Pct. 1 says](https://abc13.com/post/discovery-thousands-ai-generated-child-pornography-images-leads-mans-arrest-humble-pct-1-says/19728054/)**
-
-Deputies said "thousands of AI-generated images of child pornography" were found on a computer and hard drive at the man's home.
-
-ABC13 Houston • 1h ago
+Axios • 30m ago
 
 ---
 
-**[WikiHow sues OpenAI for copyright infringement over AI training](https://www.reuters.com/legal/legalindustry/wikihow-sues-openai-copyright-infringement-over-ai-training-2026-08-24/)**
+**[NVent Seeks Bigger Piece of AI Boom With $1.75 Billion Deal](https://www.bloomberg.com/news/articles/2026-08-24/nvent-seeks-bigger-piece-of-ai-boom-with-1-75-billion-deal)**
 
-Reuters • 58m ago
+Bloomberg.com • 48m ago
 
 ---
 
-**[UAW and Deere are set to clash amid AI sales boom](https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai)**
+**[Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers](https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers)**
 
-Axios • 1h ago
+PBS • 1h ago
+
+---
+
+**[Taiwan Charges Nine in Connection With Smuggling of AI Servers to China](https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47)**
+
+WSJ • 6h ago
+
+---
+
+**[Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China](https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/)**
+
+Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.
+
+Ars Technica • 4h ago
 
 ---
 
@@ -163,7 +169,7 @@ Axios • 1h ago
 
 The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -171,7 +177,7 @@ CNN • 11h ago
 
 Tech leaders’ beliefs about the future, known as their ‘eschatology,’ are shaping how AI is being developed behind closed doors, argues Liz Bucar.
 
-Time Magazine • 11h ago
+Time Magazine • 12h ago
 
 ---
 
@@ -179,15 +185,7 @@ Time Magazine • 11h ago
 
 Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE
 
-SiliconANGLE • 21h ago
-
----
-
-**[NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai)**
-
-NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems.
-
-NVIDIA Newsroom • 5h ago
+SiliconANGLE • 22h ago
 
 ---
 
@@ -199,7 +197,7 @@ NVIDIA Newsroom • 5h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 749 • 💬 656 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 752 • 💬 662 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -207,15 +205,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 676 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
-
----
-
-**[I built a low-latency AI companion that plays Skyrim with me](https://news.ycombinator.com/item?id=49413561)**
-
-How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
-
-⬆️ 321 • 💬 67 • 21h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 677 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -223,7 +213,15 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 294 • 💬 328 • 4h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 353 • 💬 373 • 5h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+
+---
+
+**[I built a low-latency AI companion that plays Skyrim with me](https://news.ycombinator.com/item?id=49413561)**
+
+How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
+
+⬆️ 325 • 💬 69 • 22h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -231,7 +229,7 @@ The need for ongoing friction in long-term skill formation.
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 163 • 💬 76 • 14h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 171 • 💬 83 • 14h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -239,7 +237,7 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
-⬆️ 135 • 💬 45 • 1d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+⬆️ 137 • 💬 45 • 1d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
 
 ---
 
@@ -253,7 +251,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 What kind of sanctions could keep a non-human corporation in check?
 
-⬆️ 62 • 💬 108 • 1d ago • [ft.com](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
+⬆️ 62 • 💬 111 • 1d ago • [ft.com](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
 
 ---
 
@@ -265,9 +263,11 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 ---
 
-**[Erik Brynjolfsson says an AI "job apocalypse" is unlikely](https://news.ycombinator.com/item?id=49410480)**
+**[Embedded AI](https://news.ycombinator.com/item?id=49397947)**
 
-⬆️ 38 • 💬 56 • 1d ago • [wpintelligence.washingtonpost.com](https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/)
+A project-driven guide to designing, training, and deploying artificial intelligence directly on embedded hardware, showing how to build intelligent, autonomous systems under real-world constraints.
+
+⬆️ 39 • 💬 9 • 2d ago • [nostarch.com](https://nostarch.com/embedded-ai)
 
 ---
 
@@ -275,63 +275,13 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 ## YouTube Videos: "ai"
 
-**[Terrifying AI Behavior Even Its Creators Couldn&#39;t Explain](https://www.youtube.com/watch?v=ABcFmgt0D5I)**
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=KertWcOx998)**
 
-Terrifying AI behavior even its creators couldn't explain has left people questioning how much control humans really have over ...
+The future isn't Tomorrow—it's already here Today. These Days AI-powered humanoid robots join the Olympia in Bejing, they can ...
 
-📺 Most Amazing Elite
+📺 ejunky66
 
-👁️ 13K • 👍 109 • 💬 11 • ⏱️ 1:50:32 • 1d ago
-
----
-
-**[DeepSeek Just Made America Nervous Again (SILICON VALLEY PANICKING)](https://www.youtube.com/watch?v=SvW4Gw6LeGI)**
-
-DeepSeek is surging again as its open-source AI ecosystem, aggressive pricing and rapid technical progress challenge America's ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 1K • 💬 118 • ⏱️ 16:05 • 2d ago
-
----
-
-**[The REAL Reason AI Is About To Change Everything](https://www.youtube.com/watch?v=Bj02me1CHmE)**
-
-Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has forecast the world's biggest risks for over 25 years, ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 168K • 👍 3K • 💬 355 • ⏱️ 16:15 • 2d ago
-
----
-
-**[New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](https://www.youtube.com/watch?v=rQ4yX5qNYdY)**
-
-HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to ...
-
-📺 AI Search
-
-👁️ 95K • 👍 4K • 💬 434 • ⏱️ 32:12 • 1d ago
-
----
-
-**[How a $20 AI is Replacing $235,000 Lawyers](https://www.youtube.com/watch?v=haZ5gddlQ4g)**
-
-Lawyers were supposed to be one of the professions AI couldn't replace. But the legal industry is discovering that many of its most ...
-
-📺 The Infographics Show
-
-👁️ 79K • 👍 2K • 💬 567 • ⏱️ 13:53 • 2d ago
-
----
-
-**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
-
-My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
-
-📺 Nate Ziller
-
-👁️ 132K • 👍 11K • 💬 691 • ⏱️ 5:15 • 1d ago
+👁️ 895 • 👍 12 • 💬 1 • ⏱️ 0:58 • 1h ago
 
 ---
 
@@ -341,17 +291,55 @@ Yuval Noah Harari says an AI takeover is likely but not “inevitable” if huma
 
 📺 The Economist
 
-👁️ 99K • 👍 3K • 💬 235 • ⏱️ 12:28 • 2d ago
+👁️ 104K • 👍 3K • 💬 241 • ⏱️ 12:28 • 2d ago
 
 ---
 
-**[🌴 A Robot Serving Dates in Makkah?! | AI Future Concept 🕋#Makkah #AI #Robot #FutureTechnology](https://www.youtube.com/watch?v=u3HdVj5OP_M)**
+**[The AI tax hits the Pixel Watch 5 HARD](https://www.youtube.com/watch?v=a2hhtkbcbtU)**
 
-A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Robot #FutureTechnology #AIVideo ...
+If you want to skip the hassle of researching, buying, and building a gaming PC for yourself, buy one from one of Jawa's Verified ...
 
-📺 Makkah madina shorts
+📺 ShortCircuit
 
-👁️ 7K • 👍 363 • 💬 1 • ⏱️ 0:11 • 6h ago
+👁️ 7K • 👍 515 • 💬 57 • ⏱️ 13:43 • 1h ago
+
+---
+
+**[DeepSeek Just Made America Nervous Again (SILICON VALLEY PANICKING)](https://www.youtube.com/watch?v=SvW4Gw6LeGI)**
+
+DeepSeek is surging again as its open-source AI ecosystem, aggressive pricing and rapid technical progress challenge America's ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 1K • 💬 118 • ⏱️ 16:05 • 2d ago
+
+---
+
+**[The REAL Reason AI Is About To Change Everything](https://www.youtube.com/watch?v=Bj02me1CHmE)**
+
+Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has forecast the world's biggest risks for over 25 years, ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 176K • 👍 3K • 💬 358 • ⏱️ 16:15 • 2d ago
+
+---
+
+**[Was Spiderman AI Generated? #spidermanbrandnewday #marvelcomics #ai](https://www.youtube.com/watch?v=ZSnpJGd2eOY)**
+
+📺 The Shed Podcast
+
+👁️ 643 • 👍 25 • 💬 1 • ⏱️ 1:44 • 2h ago
+
+---
+
+**[How a $20 AI is Replacing $235,000 Lawyers](https://www.youtube.com/watch?v=haZ5gddlQ4g)**
+
+Lawyers were supposed to be one of the professions AI couldn't replace. But the legal industry is discovering that many of its most ...
+
+📺 The Infographics Show
+
+👁️ 80K • 👍 2K • 💬 571 • ⏱️ 13:53 • 2d ago
 
 ---
 
@@ -361,17 +349,27 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 188K • 👍 3K • 💬 718 • ⏱️ 3:27:05 • 2d ago
+👁️ 191K • 👍 3K • 💬 718 • ⏱️ 3:27:05 • 2d ago
 
 ---
 
-**[DR. DRE ADMITS HE USES AI?! 😳 HIP HOP IS CHANGING FOREVER💯 #DrDre #AIMusic #AI #HipHop](https://www.youtube.com/watch?v=nBJTk25nSBE)**
+**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
 
-Dr. Dre just entered the AI music debate, and this could be one of the biggest conversations in hip hop right now. In a new ...
+My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
 
-📺 CrazyHoodMedia
+📺 Nate Ziller
 
-👁️ 17K • 👍 366 • 💬 42 • ⏱️ 0:42 • 18h ago
+👁️ 141K • 👍 11K • 💬 706 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[An AI-generated concept showing an advanced medical service robot helping a sick Hajj #allah #Kaaba](https://www.youtube.com/watch?v=IbHkqb1HHGY)**
+
+An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
+
+📺 Ibrahim Islamic Status
+
+👁️ 1.8M • 👍 63K • 💬 100 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,478 • 10d ago
+⬇️ 2,645,226 • ❤️ 12,499 • 10d ago
 
 ---
 
@@ -399,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,808 • 4d ago
+⬇️ 7,009,063 • ❤️ 2,825 • 4d ago
 
 ---
 
@@ -411,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,015 • 10h ago
+⬇️ 57,947 • ❤️ 1,023 • 11h ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 680 • 2h ago
+⬇️ 312,627 • ❤️ 688 • 3h ago
 
 ---
 
@@ -435,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,079 • 4d ago
+⬇️ 224,114 • ❤️ 1,090 • 4d ago
 
 ---
 
@@ -447,7 +445,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 572 • 6d ago
+⬇️ 761,975 • ❤️ 575 • 6d ago
 
 ---
 
@@ -459,7 +457,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 790,378 • ❤️ 1,708 • 7d ago
+⬇️ 790,378 • ❤️ 1,720 • 7d ago
 
 ---
 
@@ -471,7 +469,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 386 • 1d ago
+⬇️ 60,294 • ❤️ 390 • 1d ago
 
 ---
 
@@ -483,7 +481,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,456,700 • ❤️ 677 • 8d ago
+⬇️ 1,456,700 • ❤️ 686 • 8d ago
 
 ---
 
@@ -495,7 +493,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,223 • 10d ago
+⬇️ 18,065 • ❤️ 1,226 • 10d ago
 
 ---
 
@@ -511,7 +509,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 84 • 💬 2 • ⭐ 3,905 • 8d ago
+▲ 88 • 💬 2 • ⭐ 5,004 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -525,7 +523,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 745 • 💬 5 • ⭐ 5,349 • 15d ago
+▲ 751 • 💬 5 • ⭐ 5,349 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -551,7 +549,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 99,625 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 99,713 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -591,7 +589,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 40 • 💬 5 • ⭐ 7,531 • 10mo ago
+▲ 40 • 💬 5 • ⭐ 7,566 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -625,17 +623,16 @@ LongHorizon-Harness improves long-horizon agent performance by explicitly tracki
 
 ---
 
-**[EnvHarness: Awakening Static Worlds for Agent Learning](https://huggingface.co/papers/2608.19880)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Chengsong Huang, Zifeng Wang, Rujun Han et al. (17 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-🏢 Google
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-EnvHarness and EnvRigger dynamically reshape static environments via programmable plugins to target agent weaknesses and improve reinforcement learning co-evolution.
+▲ 85 • 💬 7 • ⭐ 84,944 • 25mo ago
 
-▲ 258 • 💬 2 • ⭐ 307 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.19880) • [💻 code](https://github.com/google-research/envharness) • [🔗 project](https://envharness.com/)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -649,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.8k • 🔱 2.1k • 12h ago
+⭐ 17.9k • 🔱 2.1k • 59m ago
 
 ---
 
@@ -679,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 601 • 5h ago
+⭐ 3.6k • 🔱 600 • 6h ago
 
 ---
 
@@ -689,7 +686,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 362 • 9h ago
+⭐ 3.0k • 🔱 363 • 10h ago
 
 ---
 
@@ -709,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 304 • 2h ago
+⭐ 2.6k • 🔱 311 • 1h ago
 
 ---
 
@@ -719,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 3h ago
+⭐ 2.2k • 🔱 189 • 4h ago
 
 ---
 
@@ -729,7 +726,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 116 • 3h ago
+⭐ 2.2k • 🔱 119 • 4h ago
 
 ---
 
@@ -739,7 +736,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.0k • 🔱 185 • 2d ago
+⭐ 2.0k • 🔱 185 • 3d ago
 
 ---
 
