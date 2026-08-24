@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T12:50:47.070302+00:00'
+updated: '2026-08-24T13:51:54.518207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 12:50 UTC  
+**Last Updated:** August 24, 2026 at 13:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,501.76
+### $2,508.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +30.7%  
-**30d:** +28.2%  
-**90d:** +23.7%  
-**1y:** -42.9%  
+**24h:** +2.3%  
+**7d:** +30.0%  
+**30d:** +27.6%  
+**90d:** +23.1%  
+**1y:** -43.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 21h ago
 
 ---
 
@@ -124,7 +124,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?
 
-2d ago
+3d ago
 
 ---
 
@@ -164,49 +164,57 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum rotation underway; Tom Lee predicts ET...](https://pluang.com/en/news-feed/rotasi-ethereum-takes-shape-tom-lee)**
+**[Bitcoin and ethereum prices today, Monday, August 24, 2026: Prices rising, as investors look for more Fed clues this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html)**
 
-Tom Lee of Fundstrat believes a long-anticipated rotation into Ethereum has begun, with ETH potentially reaching $10,000 within the next one to two years. He argues Ethereum is undervalued compared to Bitcoin and could become the future settlement layer, boosting its importance in decentralized finance, tokenized assets, and AI. Lee's bullish outlook is supported by BitMine's aggressive Ethereum treasury strategy, where he serves as chairman. Recently, Ethereum's price surged over 32%, reflecting growing market interest.
+Bitcoin opened at $77,727.62 on Monday, August 24, 2026, 0.8% higher than Sunday's opening price. As of 8:50 a.m. ET, bitcoin rose to $79,106.77. Ethereum opened at $2,463.09 today, up 1.6% from Sunday's opening price. The price of ethereum moved to $2,507.22 as of 8:53 a.m. ET.
 
-Pluang • 2h ago
-
----
-
-**[Ethereum gains 29.3% in a week, outperforming B...](https://pluang.com/en/news-feed/harga-ethereum-naik-29-persen-tom-lee-rotasi-ethereum-dimulai)**
-
-Ethereum's price rose 29.3% over seven days, surpassing Bitcoin's 21.4% gain, driven by increased institutional interest and ETF inflows. Fundstrat's Tom Lee predicts Ethereum could reach $10,000 within two years, citing its growing role in tokenization, stablecoins, and AI applications. U.S. Ethereum ETFs attracted $365 million in July, more than Bitcoin's $205 million, signaling a shift in investment focus. However, Ethereum still faces competition and must sustain gains to confirm a lasting rotation away from Bitcoin.
-
-Pluang • 2h ago
+Yahoo Finance • 46m ago
 
 ---
 
-**[US crypto ETFs outside Bitcoin and Ethereum see $90M inflows, led by XRP and Solana gains.](https://pluang.com/en/news-feed/dana-kripto-di-luar-bitcoin-dan-ethereum-melanjutkan-aliran-masuk)**
+**[Ethereum surges 29% in a week on US Treasury bu...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-target-3000-dolar)**
 
-US-listed crypto ETFs excluding Bitcoin and Ethereum attracted nearly $90 million last week, driven by strong inflows into XRP and Solana funds. XRP funds led with $39.78 million, marking their best week since May and extending a six-week streak of gains. Solana funds added $28.34 million, continuing an eight-week positive run. Other smaller tokens like Chainlink and Hyperliquid also saw inflows amid rising prices and positive regulatory signals, including a White House meeting discussing legal pathways for Hyperliquid. Despite these gains, Bitcoin and Ethereum funds dominated with a combined $2.61 billion inflow, their strongest week since October 2025. This trend highlights growing investor interest in altcoins alongside the leading cryptocurrencies.
+Ethereum's price jumped 29% in one week, reaching $2,472 on August 24, 2026, driven by three key catalysts: the US Treasury doubling government debt buybacks, the SEC proposing a crypto capital-raising framework, and political progress on the Clarity Act. This surge wiped out $2.77 billion in short positions, fueling a sharp price spike. Institutional inflows, including $71 million into Ether ETFs, and Ethereum Foundation's testnet launch add to bullish fundamentals. However, the price is overbought and faces resistance at $2,546 and $2,750, with $3,000 a longer-term target if positive momentum and regulatory support continue. A monthly close above $2,400 will confirm the breakout; below $2,200 risks a pullback.
 
-Pluang • 2h ago
-
----
-
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
-
-Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
-
-Yahoo Finance • 19h ago
+Pluang • 1h ago
 
 ---
 
-**[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
+**[Ethereum Outpaces Bitcoin As Crypto Rallies](https://finance.yahoo.com/markets/crypto/articles/ethereum-outpaces-bitcoin-crypto-rallies-131100812.html)**
 
-CoinDesk • 6h ago
+Ethereum (CRYPO: $ETH) is seeing its price rise at a faster pace than Bitcoin (CRYPTO: $BTC) as a rally in cryptocu...
+
+Yahoo Finance • 40m ago
 
 ---
 
-**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+**[Current price of Ethereum for Aug. 24, 2026](https://fortune.com/article/price-of-ethereum-08-24-2026/)**
 
-Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-TradingView • 22h ago
+Fortune • 25m ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+
+CoinDesk • 51m ago
+
+---
+
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
+
+Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
+
+TradingView • 20h ago
+
+---
+
+**[Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher](https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/)**
+
+XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
+
+CryptoSlate • 16h ago
 
 ---
 
@@ -214,23 +222,15 @@ TradingView • 22h ago
 
 Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307)**
+**[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
+The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-FXStreet • 9h ago
-
----
-
-**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
-
-Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
-
-CryptoSlate • 16h ago
+Global South Opportunities • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 10K • 👍 460 • 💬 107 • ⏱️ 18:53 • 21h ago
+👁️ 10K • 👍 460 • 💬 107 • ⏱️ 18:53 • 22h ago
 
 ---
 
@@ -254,7 +254,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 147 • ⏱️ 43:03 • 14h ago
+👁️ 43K • 👍 2K • 💬 147 • ⏱️ 43:03 • 15h ago
 
 ---
 
@@ -264,7 +264,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 142 • ⏱️ 27:38 • 8h ago
+👁️ 51K • 👍 3K • 💬 142 • ⏱️ 27:38 • 9h ago
 
 ---
 
@@ -274,7 +274,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 3K • 👍 88 • 💬 57 • ⏱️ 10:36 • 14h ago
+👁️ 3K • 👍 88 • 💬 57 • ⏱️ 10:36 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 12K • 👍 459 • 💬 184 • ⏱️ 19:11 • 16h ago
+👁️ 12K • 👍 459 • 💬 184 • ⏱️ 19:11 • 17h ago
 
 ---
 
@@ -332,7 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 297 • 💬 23 • ⏱️ 1:00 • 15h ago
+👁️ 4K • 👍 297 • 💬 23 • ⏱️ 1:00 • 16h ago
 
 ---
 

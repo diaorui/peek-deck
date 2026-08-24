@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T12:50:47.064282+00:00'
+updated: '2026-08-24T13:51:54.511861+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 12:50 UTC  
+**Last Updated:** August 24, 2026 at 13:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,928.55
+### $78,082.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +21.9%  
-**30d:** +20.9%  
-**90d:** +6.1%  
-**1y:** -28.5%  
+**24h:** +1.5%  
+**7d:** +21.0%  
+**30d:** +19.9%  
+**90d:** +5.3%  
+**1y:** -29.0%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
-11h ago
+12h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,25 +95,25 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 Well it's basically it.
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Coming soon](https://www.reddit.com/r/Bitcoin/comments/1vwv0lm/coming_soon/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Well it's basically it.
 
 What's going on?????¿¿¿
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ What's going on?????¿¿¿
 
 It is funny to see how 3 daily and I should say significant green candles changed Bitcoin sentiment. So called analysts that analyze Bitcoin every day up until 17 August were calculating the bottom using Fibonacci and other measurements and now they're saying they are bullish. For example Jason Pizzino. 10 days ago his video title was Bitcoin: Countdown to the brutal bottom. 7 days ago his video title was Bitcoin: It's grinding to the bitter end. And now he is saying we bottomed in and now he started to see bullish signals.
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ It is funny to see how 3 daily and I should say significant green candles change
 
 So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 What's everyone's opinions? I know bitcoin has been pumping had mixed opinions saying this is what we've been waiting for, some are saying it's a bull trap for an all time low. What do we think
 
-2h ago
+3h ago
 
 ---
 
@@ -157,13 +157,39 @@ What's everyone's opinions? I know bitcoin has been pumping had mixed opinions s
 
 Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Bitcoin ETFs See Biggest Weekly Inflow in 10 Months During Rally](https://www.bloomberg.com/news/articles/2026-08-24/bitcoin-etfs-see-biggest-weekly-inflow-in-10-months-during-rally)**
+
+Bloomberg • 5h ago
+
+---
+
+**[Bitcoin turns higher, heads for 6th straight gain](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-jackson-hole/card/bitcoin-turns-higher-heads-for-6th-straight-gain-jr3eZwUMAKdh8UeaaE5q?mod=mw_robin)**
+
+MarketWatch • 1h ago
 
 ---
 
 **[Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 5h ago
 
 ---
 
@@ -187,45 +213,13 @@ Yahoo Finance • 2d ago
 
 Ray Dalio warns a US debt crisis could arrive in three years and tells investors to hold 10-15% gold plus a bit of bitcoin, with BTC near $78,000.
 
-Forbes • 30m ago
+Forbes • 1h ago
 
 ---
 
 **[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
 Reuters • 3d ago
-
----
-
-**[Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar](https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1)**
-
-World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades
-
-Financial Times • 3d ago
-
----
-
-**[Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened](https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates)**
-
-Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
-
-The Guardian • 3d ago
-
----
-
-**[Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
-
-Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
-
-Investor's Business Daily • 2d ago
-
----
-
-**[Bitcoin: $80,000 Test Looms Ahead of Jackson Hole](https://blockchain.news/flashnews/bitcoin-80-000-test-looms-ahead-jackson-hole)**
-
-Bitcoin at $78340 eyes $80000 resistance as Jackson Hole meeting nears, with 4h chart showing overbought RSI and Bollinger upper band pressure.
-
-blockchain.news • 1h ago
 
 ---
 
@@ -301,7 +295,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 16K • 👍 574 • 💬 179 • ⏱️ 41:23 • 13h ago
+👁️ 16K • 👍 574 • 💬 179 • ⏱️ 41:23 • 14h ago
 
 ---
 
