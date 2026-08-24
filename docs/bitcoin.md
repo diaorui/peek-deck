@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T09:23:01.511090+00:00'
+updated: '2026-08-24T10:10:24.825274+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 09:23 UTC  
+**Last Updated:** August 24, 2026 at 10:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.26B
+**Market Cap:** $1557.25B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.7%
+-38.5%
 
 **All-Time Low:** $67.81
-+113878.8%
++114318.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 What's going on?????¿¿¿
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ All currency eventually fail, there are no exceptions!
 
 So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 Some easy advice for some of you on the fence, or newbies. You never want to sell Bitcoin when it is going down. It's too low and you can't optimize gains. You never want to sell Bitcoin when it is going up. Why would you do that? It will be worth more later! Summary: don't sell. Never a good time.
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Some easy advice for some of you on the fence, or newbies. You never want to sel
 
 I'm a bitcoin relative noob. I've been aware of bitcoin since about 2013 and always thought it was a high risk ponzi scheme for stoners and tin foil hatters, for the simple reason that the only person I ever knew who was into bitcoin and openly talked about it, was exactly that. It wasn't till I got a bit older, and a bit wiser that I took the time to try and understand it. I've run a successful business for a long time, but never made any life changing money or investments. Frankly, I'm pretty jaded about 'the system', government, inflation and taxation after working myself to the bone for a few decades with very little to show for it. To be fair, I'm fully aware that my life is likely better than most on this earth, so I don't want this to be about 'poor me'. I simply include this for context. For me, self custodied bitcoin is a means of throwing a middle finger at the man, taking a step toward some self sovereignty, and making a financial decision that future me will thank me for. I lean more toward hodler than trader for what it's worth. The level of traditional financial influence and centralisation on bitcoin currently and in the future concerns me. I find myself in social situations wanting to talk about bitcoin. Constantly. And it dawned on me recently that I'll never convince anyone without coming across as that tin foil hatter I knew from years ago. Like me on my own bitcoin journey, I realise people need to do their own research and come to their own conclusions. If it's right for them, they'll find it. But it makes me wonder... what should I 'do my own research' on next? (You don't know what you don't know right!?) So I wanted to ask you all, the bitcoin brains trust, to plant a seed: <? > - Do your own research... Post Edit: It doesn't have to be bitcoin related...I don't need anymore convincing about bitcoin.
 
-20h ago
+21h ago
 
 ---
 
@@ -151,7 +151,7 @@ Every Bitcoin cycle has done the exact same three things, in the exact same orde
 
 I really believe gifting Bitcoin to friends and family is one of the most beautiful ways to introduce them to this space. When I wanted to gift some sats to my niece recently, I thought about the physical aspect of gifting. I wanted something they could hold in their hands, but generated with strict security. There are already great ways to do this, but I wanted to add another option to the table. I've been working on an open-source, air-gapped minimal Linux system (SignerOS) for offline wallet creation. I designed a specific "Gift Wallet" page for it: https://signeros.github.io/signeros/gift_wallet.html The concept is simple: Boot into an offline environment, generate the seed safely, write it down on the template, and fund the public address. It gives them a physical paper wallet that was born completely offline. I just wanted to share this with the community for anyone who likes creating physical paper wallets for their loved ones. Would love to hear what you think!
 
-13h ago
+14h ago
 
 ---
 
@@ -163,7 +163,7 @@ I really believe gifting Bitcoin to friends and family is one of the most beauti
 
 Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 22h ago
 
 Finally, a killer use case
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Weekly Inflow in 10 Months During Rally](https://www.bloomberg.com/news/articles/2026-08-24/bitcoin-etfs-see-biggest-weekly-inflow-in-10-months-during-rally)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 52m ago
 
 Bitcoin’s past returns can raise crypto demand among U.S. households, with Fed research linking performance data to later purchases.
 
-Bitcoin Foundation • 10m ago
+Bitcoin Foundation • 58m ago
 
 ---
 
@@ -245,7 +245,7 @@ Forbes • 3d ago
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 19 • 💬 0 • 6d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 19 • 💬 0 • 7d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -291,13 +291,23 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: What I’m Seeing Is Concerning Right Now](https://www.youtube.com/watch?v=_abFhSutVqw)**
+
+I'm not buying. And I actually closed my long position. Here's why. ➡️ Favorite Place To Trade: https://aaronbtc.com/low iTrust ...
+
+📺 Aaron Bennett
+
+👁️ 27K • 👍 1K • 💬 247 • ⏱️ 13:01 • 1d ago
+
+---
+
 **[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
 
 Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 162 • ⏱️ 11:10 • 1d ago
+👁️ 76K • 👍 3K • 💬 162 • ⏱️ 11:10 • 1d ago
 
 ---
 
@@ -311,33 +321,13 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 ---
 
-**[Bitcoin: What I’m Seeing Is Concerning Right Now](https://www.youtube.com/watch?v=_abFhSutVqw)**
-
-I'm not buying. And I actually closed my long position. Here's why. ➡️ Favorite Place To Trade: https://aaronbtc.com/low iTrust ...
-
-📺 Aaron Bennett
-
-👁️ 26K • 👍 1K • 💬 255 • ⏱️ 13:01 • 1d ago
-
----
-
 **[Bitcoin&#39;s best week since 2023: Here&#39;s what you need to know](https://www.youtube.com/watch?v=Ow8frA4Jcuk)**
 
 CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for Bitcoin ETFs and the push for the CLARITY Act ...
 
 📺 CNBC Television
 
-👁️ 15K • 👍 160 • 💬 70 • ⏱️ 2:30 • 2d ago
-
----
-
-**[I AM SHAKING!!!!!! LOOK AT BITCOIN!!!!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=SMiA440acFc)**
-
-Bitcoin is suddenly flashing signals that have crypto traders asking one HUGE question: what if $58K really was the bear market ...
-
-📺 Crypto Love
-
-👁️ 4K • 👍 494 • 💬 83 • ⏱️ 8:19 • 16h ago
+👁️ 15K • 👍 161 • 💬 70 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -347,7 +337,17 @@ Bitcoin has finally started moving, but what if you missed the first leg of the 
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 540 • 💬 15 • ⏱️ 39:19 • 1d ago
+👁️ 14K • 👍 541 • 💬 15 • ⏱️ 39:19 • 1d ago
+
+---
+
+**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+
+Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+
+📺 Yahoo Finance
+
+👁️ 19K • 👍 552 • 💬 230 • ⏱️ 14:55 • 2d ago
 
 ---
 
@@ -357,17 +357,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 69K • 👍 4K • 💬 516 • ⏱️ 15:40 • 1d ago
-
----
-
-**[What the Powerful Breakout Rally in Bitcoin Means Now](https://www.youtube.com/watch?v=SpUIo9Jwh5Q)**
-
-Bitcoin blasts through key levels of resistance, but is the bear market over? Could this recent recovery be a bear market rally?
-
-📺 Alessio Rastani
-
-👁️ 47K • 👍 3K • 💬 352 • ⏱️ 6:03 • 1d ago
+👁️ 70K • 👍 4K • 💬 517 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -377,17 +367,27 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Verified Investing
 
-👁️ 99K • 👍 5K • 💬 186 • ⏱️ 16:12 • 2d ago
+👁️ 100K • 👍 5K • 💬 186 • ⏱️ 16:12 • 2d ago
 
 ---
 
-**[Inside The Hidden World of Crypto](https://www.youtube.com/watch?v=Zw9aGlbEUu8)**
+**[[WARNING] Know This about BITCOIN &amp; XRP...NOW‼️](https://www.youtube.com/watch?v=7vmVsxSusq0)**
 
-Help us fight these scammers! Become a member today: https://www.youtube.com/channel/UCC9EjyMN_hx5NdctLBx5X7w/join ...
+Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto Course (   STOCK UP U) ...
 
-📺 Scammer Payback
+📺 STOCK UP! with LARRY JONES
 
-👁️ 71K • 👍 3K • 💬 528 • ⏱️ 2:04:33 • 1d ago
+👁️ 30K • 👍 2K • 💬 393 • ⏱️ 23:23 • 2d ago
+
+---
+
+**[What the Powerful Breakout Rally in Bitcoin Means Now](https://www.youtube.com/watch?v=SpUIo9Jwh5Q)**
+
+Bitcoin blasts through key levels of resistance, but is the bear market over? Could this recent recovery be a bear market rally?
+
+📺 Alessio Rastani
+
+👁️ 48K • 👍 3K • 💬 381 • ⏱️ 6:03 • 1d ago
 
 ---
 

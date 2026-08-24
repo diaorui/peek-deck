@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 3241,
+      "github_stars": 3905,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2608.20335",
       "arxiv_url": "https://arxiv.org/abs/2608.20335",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.20335.png",
-      "upvotes": 70,
+      "upvotes": 71,
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
@@ -130,7 +130,7 @@
       "num_comments": 5,
       "published_at": "2025-10-25T03:41:02.000Z",
       "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 7515,
+      "github_stars": 7531,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/envharness",
-      "github_stars": 279,
+      "github_stars": 307,
       "project_page": "https://envharness.com/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T08:01:01.887342+00:00"
+  "fetched_at": "2026-08-24T10:10:21.193274+00:00"
 }

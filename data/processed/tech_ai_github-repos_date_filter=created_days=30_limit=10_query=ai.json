@@ -8,9 +8,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 17617,
-      "stars_display": "17.6k",
-      "forks": 2028,
+      "stars": 17672,
+      "stars_display": "17.7k",
+      "forks": 2032,
       "forks_display": "2.0k",
       "language": "Python",
       "topics": [
@@ -30,9 +30,9 @@
       "description": "Multiplayer agent harness for work.",
       "url": "https://github.com/yc-software/qm",
       "preview_image": "https://opengraph.githubassets.com/887bf85742203fa8808db62121e36bc760e48eb0ad5d019d92213579f6783d17/yc-software/qm",
-      "stars": 14128,
+      "stars": 14137,
       "stars_display": "14.1k",
-      "forks": 1690,
+      "forks": 1691,
       "forks_display": "1.7k",
       "language": "TypeScript",
       "topics": [
@@ -51,7 +51,7 @@
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
       "preview_image": "https://opengraph.githubassets.com/5305664a3ce9d3527c0a67961dc30b9df9a72bd0919701974a2d9d7dab71b195/trycompai/crm",
-      "stars": 8862,
+      "stars": 8866,
       "stars_display": "8.9k",
       "forks": 1084,
       "forks_display": "1.1k",
@@ -67,10 +67,10 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux \u2014 Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "url": "https://github.com/genspark-ai/genoffice",
       "preview_image": "https://opengraph.githubassets.com/5df04bb07da1dd2c9dc1104beb608b684873ef61b19ddde71a49b2b32231f5dd/genspark-ai/genoffice",
-      "stars": 3565,
+      "stars": 3566,
       "stars_display": "3.6k",
-      "forks": 595,
-      "forks_display": "595",
+      "forks": 597,
+      "forks_display": "597",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -89,7 +89,7 @@
       "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
       "url": "https://github.com/KKKKhazix/human-writing",
       "preview_image": "https://opengraph.githubassets.com/20e5fc64ef497059a980340c4c1db067b1ba00310c81a7f62835117e0d543438/KKKKhazix/human-writing",
-      "stars": 3020,
+      "stars": 3021,
       "stars_display": "3.0k",
       "forks": 244,
       "forks_display": "244",
@@ -110,13 +110,13 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 2998,
+      "stars": 3013,
       "stars_display": "3.0k",
       "forks": 359,
       "forks_display": "359",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-08-23T17:47:48Z"
+      "updated_at": "2026-08-24T08:09:59Z"
     },
     {
       "full_name": "CopilotKit/OpenBot",
@@ -126,10 +126,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 2556,
+      "stars": 2568,
       "stars_display": "2.6k",
-      "forks": 295,
-      "forks_display": "295",
+      "forks": 297,
+      "forks_display": "297",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -148,7 +148,7 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "preview_image": "https://opengraph.githubassets.com/8e95171195a018fd832e6521e559733d18cee62728e379914b39dd1928c39280/QwenAudio/qwen-audio-agent",
-      "stars": 2224,
+      "stars": 2227,
       "stars_display": "2.2k",
       "forks": 188,
       "forks_display": "188",
@@ -160,7 +160,29 @@
         "ai-coding",
         "claude-code"
       ],
-      "updated_at": "2026-08-24T07:59:17Z"
+      "updated_at": "2026-08-24T08:02:23Z"
+    },
+    {
+      "full_name": "Leonxlnx/unlazy",
+      "name": "unlazy",
+      "owner": "Leonxlnx",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+      "url": "https://github.com/Leonxlnx/unlazy",
+      "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
+      "stars": 2064,
+      "stars_display": "2.1k",
+      "forks": 114,
+      "forks_display": "114",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "llm",
+        "productivity"
+      ],
+      "updated_at": "2026-08-23T04:51:20Z"
     },
     {
       "full_name": "ShawnPana/phone-harness",
@@ -182,34 +204,12 @@
         "developer-tools"
       ],
       "updated_at": "2026-08-21T20:42:59Z"
-    },
-    {
-      "full_name": "fuxicodex/Fuxi",
-      "name": "Fuxi",
-      "owner": "fuxicodex",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/292959175?v=4",
-      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
-      "url": "https://github.com/fuxicodex/Fuxi",
-      "preview_image": "https://repository-images.githubusercontent.com/1322651268/b2b9520d-603d-4bbe-99cb-8fef2039d97a",
-      "stars": 1963,
-      "stars_display": "2.0k",
-      "forks": 61,
-      "forks_display": "61",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "autonomous-agent"
-      ],
-      "updated_at": "2026-08-23T10:16:40Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-07-25",
   "days": 30,
   "limit": 10,
-  "total_count": 450834,
-  "fetched_at": "2026-08-24T08:00:50.413390+00:00"
+  "total_count": 452716,
+  "fetched_at": "2026-08-24T10:10:11.618673+00:00"
 }
