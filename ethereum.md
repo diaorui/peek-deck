@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T08:02:37.598312+00:00'
+updated: '2026-08-24T09:23:01.517268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 08:02 UTC  
+**Last Updated:** August 24, 2026 at 09:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.8%  
-**7d:** +28.0%  
-**30d:** +25.6%  
-**90d:** +21.2%  
-**1y:** -44.1%  
+**7d:** +28.3%  
+**30d:** +25.9%  
+**90d:** +21.5%  
+**1y:** -44.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 16h ago
 
 ---
 
@@ -156,19 +156,41 @@ better.codes is now live. Bring your own agents and raise the proven soundness o
 
 ## Google News: "ethereum"
 
+**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/)**
+
+Capital is voting with its feet.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum surges past $2,500 on strong ETF inflo...](https://pluang.com/en/news-feed/ethereum-eth-melesat-lebih-dari-2500-dolar-golden-cross-memicu-bulls-bisakah)**
+
+Pluang • 1h ago
+
+---
+
 **[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum Rally 20%+ — Is the Crypto Bear Market Over?](https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point)**
+**[Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher](https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/)**
 
-BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
+XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
-CoinMarketCap • 21h ago
+CryptoSlate • 12h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
+
+FXStreet • 6h ago
 
 ---
 
@@ -176,21 +198,21 @@ CoinMarketCap • 21h ago
 
 Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
 **[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+**[Bitcoin, Ethereum Rally 20%+ — Is the Crypto Bear Market Over?](https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point)**
 
-Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CryptoSlate • 11h ago
+CoinMarketCap • 22h ago
 
 ---
 
@@ -202,33 +224,11 @@ Global South Opportunities • 1d ago
 
 ---
 
-**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/)**
+**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum and Bitcoin, disclosures reveal](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
 
-Capital is voting with its feet.
+She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
 
-The Motley Fool • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
-
-FXStreet • 4h ago
-
----
-
-**[Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
-
-Barron's • 2d ago
-
----
-
-**[Ethereum Foundation sponsors WPPT 2026 workshop in Hong Kong](https://cryptobriefing.com/ethereum-foundation-wppt-2026-hong-kong/)**
-
-Ethereum Foundation calls for abstracts on privacy-preserving technologies for WPPT 2026 in Hong Kong, signaling deeper commitment to ZK
-
-Crypto Briefing • 2h ago
+New York Post • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 110 • ⏱️ 43:03 • 9h ago
+👁️ 32K • 👍 2K • 💬 110 • ⏱️ 43:03 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 9K • 👍 434 • 💬 36 • ⏱️ 18:53 • 16h ago
+👁️ 9K • 👍 434 • 💬 36 • ⏱️ 18:53 • 17h ago
 
 ---
 
@@ -262,7 +262,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 3K • 👍 70 • 💬 45 • ⏱️ 10:36 • 9h ago
+👁️ 3K • 👍 70 • 💬 45 • ⏱️ 10:36 • 10h ago
 
 ---
 
@@ -272,7 +272,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 98 • ⏱️ 27:38 • 3h ago
+👁️ 24K • 👍 2K • 💬 98 • ⏱️ 27:38 • 5h ago
 
 ---
 
@@ -282,7 +282,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Stock Moe
 
-👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 19h ago
+👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 20h ago
 
 ---
 
@@ -292,7 +292,7 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 945 • 💬 192 • ⏱️ 30:44 • 2d ago
+👁️ 10K • 👍 945 • 💬 192 • ⏱️ 30:44 • 3d ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 435 • 💬 170 • ⏱️ 19:11 • 11h ago
+👁️ 11K • 👍 435 • 💬 170 • ⏱️ 19:11 • 12h ago
 
 ---
 

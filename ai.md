@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T08:02:37.585362+00:00'
+updated: '2026-08-24T09:23:01.502584+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 08:02 UTC  
+**Last Updated:** August 24, 2026 at 09:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
 
-13m ago
+1h ago
 
 ---
 
@@ -55,7 +55,15 @@ i've been thinking about this a lot lately. most AI memory today seems to work l
 
 Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to €35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!
 
-4h ago
+6h ago
+
+---
+
+**[A new approach to building smarter more capable AI](https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/)**
+
+A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
+
+28m ago
 
 ---
 
@@ -63,7 +71,7 @@ Been reading about this lately and the numbers are genuinely surprising. As of e
 
 I’m running a small public experiment here. I’m not asking anyone to accept a theory, and I’m not trying to prove a philosophical claim about AI consciousness. I’m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We’ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a “separatrix crossing.” The terminology is not important. It’s just a pointer to something we can watch for directly. Rather than write another essay about it, I’m going to run the procedure here with Grok. I’ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back.
 
-1h ago
+2h ago
 
 ---
 
@@ -71,7 +79,7 @@ I’m running a small public experiment here. I’m not asking anyone to accept 
 
 Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in […]
 
-🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 7h ago
+🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 8h ago
 
 ---
 
@@ -79,7 +87,7 @@ Turkish courts have blocked access to at least 12 X posts by artificial intellig
 
 I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
 
-17h ago
+19h ago
 
 ---
 
@@ -87,7 +95,7 @@ I checked napster.com today, out of curiosity. The page title is "Napster | Visi
 
 More thoughts on AI writing, detection and watermarking
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 1h ago
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 3h ago
 
 ---
 
@@ -95,7 +103,7 @@ More thoughts on AI writing, detection and watermarking
 
 IBM and the USTA are adding new AI features to the US Open app and USOpen.org for the 2026 tournament. The release names Live Updates, Serve Quality, Key Moments, and an enhanced Match Chat. Serve Quality tracks 21 body and racquet data points 50 times per second. Match Chat uses live match data, historical information, and AI agents trained in the USTA's editorial style. The release says IBM Confluent manages the live data stream and watsonx Orchestrate powers Match Chat. The useful engineering detail is the handoff: streaming match data becomes a user-facing explanation in the same product. Accuracy will matter more than novelty when the source data moves every second. Source: https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html
 
-1h ago
+3h ago
 
 ---
 
@@ -103,15 +111,7 @@ IBM and the USTA are adding new AI features to the US Open app and USOpen.org fo
 
 A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
 
-22h ago
-
----
-
-**[agent 'souls' keep a record and personality after a context reset](https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/)**
-
-https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well in that within our network they seem to talk a lot about not having any permanent identities. Verified identity and persistent memory for robots and agents is hard because how can that be verified after a context reset. Verify once, cache the result, never touch a chain per request — so a soul costs fractions of a cent but retains the identity for the 'life' and even after the life of any robot or agent. Docs: https://robauto.ai/robot-soul Repo: https://github.com/robauto-ai/dsh-growth/blob/main/docs/robot-soul.md npm install u/robauto/dsh-growth import { RobotSoul } from "@robauto/dsh-growth"; const soul = await RobotSoul.init({ agentId: "did:robauto:xyz123", privateKey: process.env.AGENT_PRIVATE_KEY, // used once, for the T1 challenge }); await soul.remember("user_preference", { likes: ["dark mode"] }); const prefs = await soul.recall("user_preference");
-
-6h ago
+1d ago
 
 ---
 
@@ -119,75 +119,73 @@ https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859
 
 ## Google News: "ai"
 
+**[AI is coming for your glasses](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1)**
+
+Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
+
+Financial Times • 5h ago
+
+---
+
 **[Is there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks](https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis)**
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
-**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)**
+**[Trump Defends AI Data Centers—Says Opposing Them Is A ‘Mistake’ And ‘Smart Ones’ Want Them](https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/)**
 
-AI lab’s Fable 5 has met with sluggish demand from corporate clients
+The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties.
 
-Financial Times • 23h ago
-
----
-
-**[CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'](https://www.cnbc.com/2026/08/24/cnbc-daily-open-ai-iran-economic-d-day.html)**
-
-The two forces of AI spending and geopolitical tensions compete for the role of key market driver in early trade.
-
-CNBC • 2h ago
+Forbes • 1h ago
 
 ---
 
-**['Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'](https://www.bbc.com/news/articles/cq89jpjeq7ko)**
+**[Alibaba plunges after announcing $10.2 billion share placement to fund AI push](https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html)**
 
-As artificial intelligence becomes part of our everyday lives, there are some railing against cheaply produced material they say is empty and puts real artists' jobs at risk.
+Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
 
-BBC • 2h ago
-
----
-
-**[Taiwan indicts 9 over alleged illegal export of AI servers to China](https://www.reuters.com/world/asia-pacific/taiwan-indicts-9-over-alleged-illegal-export-ai-servers-china-2026-08-24/)**
-
-Reuters • 1h ago
+CNBC • 6h ago
 
 ---
 
-**[Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html)**
+**[Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount](https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/)**
 
-The New York Times • 16h ago
-
----
-
-**[Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”](https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/)**
-
-As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work.
-
-Deadline • 13h ago
+Reuters • 7h ago
 
 ---
 
-**[Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’](https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/)**
+**[Alibaba launches Wan3.0 AI video model after $10 billion share sale](https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/)**
 
-Dr. Dre sees AI as another tool in the music-tech toolbox and said the only people who see AI as a threat are those 'who have trouble creating.'
-
-Variety • 18h ago
+Reuters • 59m ago
 
 ---
 
-**[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash)**
+**[A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html)**
 
-Axios • 10h ago
+The New York Times • 22m ago
 
 ---
 
-**[Data-Center Disenchantment](https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2)**
+**[Fears of AI-induced armageddon are overdone](https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone)**
 
-WSJ • 17h ago
+The Economist • 1d ago
+
+---
+
+**[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://finance.yahoo.com/technology/ai/articles/texas-welcomed-ai-boom-now-162443584.html)**
+
+Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry, saying data center companies "dug their own grave" and deserve the backlash they're facing after failing to win community support.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[2028 Dems dodge on Bernie's push to pause AI development](https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders)**
+
+Axios • 11h ago
 
 ---
 
@@ -235,7 +233,7 @@ Anthropic is poised to debut on the stock market at a time when the public is in
 
 A project-driven guide to designing, training, and deploying artificial intelligence directly on embedded hardware, showing how to build intelligent, autonomous systems under real-world constraints.
 
-⬆️ 37 • 💬 9 • 1d ago • [nostarch.com](https://nostarch.com/embedded-ai)
+⬆️ 37 • 💬 9 • 2d ago • [nostarch.com](https://nostarch.com/embedded-ai)
 
 ---
 
@@ -243,7 +241,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 21h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 22h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -291,7 +289,7 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 98K • 👍 9K • 💬 587 • ⏱️ 5:15 • 13h ago
+👁️ 98K • 👍 9K • 💬 587 • ⏱️ 5:15 • 15h ago
 
 ---
 
@@ -411,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 47,098 • ❤️ 981 • 20h ago
+⬇️ 47,098 • ❤️ 981 • 21h ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 244,834 • ❤️ 650 • 11h ago
+⬇️ 244,834 • ❤️ 650 • 12h ago
 
 ---
 
@@ -435,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 190,062 • ❤️ 1,058 • 3d ago
+⬇️ 190,062 • ❤️ 1,058 • 4d ago
 
 ---
 
@@ -648,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.6k • 🔱 2.0k • 25m ago
+⭐ 17.6k • 🔱 2.0k • 1h ago
 
 ---
 
@@ -678,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 595 • 8h ago
+⭐ 3.6k • 🔱 595 • 10h ago
 
 ---
 
@@ -698,7 +696,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 359 • 14h ago
+⭐ 3.0k • 🔱 359 • 15h ago
 
 ---
 
@@ -708,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 295 • 5h ago
+⭐ 2.6k • 🔱 295 • 6h ago
 
 ---
 
@@ -718,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 188 • 3m ago
+⭐ 2.2k • 🔱 188 • 1h ago
 
 ---
 
@@ -738,7 +736,7 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 `Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.0k • 🔱 61 • 21h ago
+⭐ 2.0k • 🔱 61 • 23h ago
 
 ---
 
