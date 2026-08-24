@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T19:29:19.572095+00:00'
+updated: '2026-08-24T19:57:18.292843+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 19:29 UTC  
+**Last Updated:** August 24, 2026 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +28.7%  
-**30d:** +26.3%  
-**90d:** +21.9%  
-**1y:** -43.8%  
+**24h:** +0.8%  
+**7d:** +28.8%  
+**30d:** +26.4%  
+**90d:** +22.0%  
+**1y:** -43.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-2h ago
+3h ago
 
 ---
 
@@ -164,27 +164,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
-
-Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-81m-ethereum-154336690.html)**
-
-Bitmine is about 187,000 Ethereum short of its 5% of supply target.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
@@ -194,11 +178,41 @@ CoinDesk • 6h ago
 
 ---
 
+**['Upside move in ETH was overdue,' Tom Lee says as Bitmine buys another 32,447 ether](https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589)**
+
+Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.
+
+The Block • 6h ago
+
+---
+
+**[Ethereum Outpaces Bitcoin As Crypto Rallies](https://finance.yahoo.com/markets/crypto/articles/ethereum-outpaces-bitcoin-crypto-rallies-131100812.html)**
+
+Ethereum (CRYPO: $ETH) is seeing its price rise at a faster pace than Bitcoin (CRYPTO: $BTC) as a rally in cryptocu...
+
+Yahoo Finance • 6h ago
+
+---
+
 **[XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/08/24/xrp-vs-ethereum-which-crypto-will-reach-its-all-time-high-first/)**
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 9h ago
+24/7 Wall St. • 10h ago
+
+---
+
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
+
+Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
+
+CoinDesk • 13h ago
 
 ---
 
@@ -206,15 +220,7 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
-
----
-
-**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
-
-Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
-
-TradingView • 1d ago
+Fortune • 6h ago
 
 ---
 
@@ -223,14 +229,6 @@ TradingView • 1d ago
 XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
 CryptoSlate • 22h ago
-
----
-
-**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
-
-Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
-
-Seeking Alpha • 7h ago
 
 ---
 
@@ -304,7 +302,7 @@ Most people know the DAO hack led to Ethereum Classic — but few know about the
 
 📺 CoinGecko
 
-👁️ 780 • 👍 58 • 💬 41 • ⏱️ 4:22 • 8h ago
+👁️ 780 • 👍 58 • 💬 41 • ⏱️ 4:22 • 9h ago
 
 ---
 
@@ -314,7 +312,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 13K • 👍 482 • 💬 304 • ⏱️ 19:11 • 22h ago
+👁️ 13K • 👍 482 • 💬 304 • ⏱️ 19:11 • 23h ago
 
 ---
 

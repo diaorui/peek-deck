@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T19:29:19.566046+00:00'
+updated: '2026-08-24T19:57:18.287792+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 19:29 UTC  
+**Last Updated:** August 24, 2026 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,015.49
+### $78,816.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +1.7%  
 **7d:** +21.6%  
 **30d:** +20.5%  
 **90d:** +5.7%  
@@ -85,13 +85,13 @@ Rank #1
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ I wonder why that is so?
 
 Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-3h ago
+4h ago
 
 ---
 
@@ -161,6 +161,12 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Nears $80,000, but Analysts Say the Next Pullback Will Be Key](https://www.moomoo.com/news/post/75172020/bitcoin-nears-80000-but-analysts-say-the-next-pullback-will)**
+
+Moomoo • 12m ago
+
+---
+
 **[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
 
 Finally, a killer use case
@@ -169,11 +175,17 @@ Financial Times • 11h ago
 
 ---
 
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[Strategy creates $1.59 billion USD Cash pool to buy bitcoin](https://qz.com/strategy-usd-cash-pool-bitcoin-reserve-082426)**
 
 The new USD Cash reserve gives the company flexibility to purchase bitcoin, repurchase securities, or meet other corporate needs
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -181,13 +193,7 @@ qz.com • 1h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
-
-Bloomberg.com • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -197,11 +203,11 @@ WSJ • 3d ago
 
 ---
 
-**[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
+**[Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC](https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604)**
 
-BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
+Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.
 
-24/7 Wall St. • 4h ago
+The Block • 4h ago
 
 ---
 
@@ -216,12 +222,6 @@ Reuters • 3d ago
 Our latest analysis lays out how we plan to navigate the rest of this bear cycle, along with the technical roadmap to $2 million — a view further supported by what we're seeing across the U.S. dollar, Treasuries, and gold, which together point to a challenging macro backdrop that could ultimately turn favorable for Bitcoin.
 
 IO Fund • 4d ago
-
----
-
-**[Bitcoin Bounce Boosting This Crypto-Correlated Stock](https://etfdb.com/leveraged-inverse-content-hub/bitcoin-bounce-boosting-coin/)**
-
-ETF Database • 3h ago
 
 ---
 
@@ -299,7 +299,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 80K • 👍 3K • 💬 169 • ⏱️ 11:10 • 1d ago
+👁️ 80K • 👍 3K • 💬 169 • ⏱️ 11:10 • 2d ago
 
 ---
 
@@ -319,7 +319,7 @@ Mark Yusko has his Bitcoin bull socks out It's a pretty darn good start. In fact
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 22 • 💬 32 • ⏱️ 0:28 • 11h ago
+👁️ 1K • 👍 22 • 💬 32 • ⏱️ 0:28 • 12h ago
 
 ---
 

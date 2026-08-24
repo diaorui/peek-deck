@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T19:29:19.575253+00:00'
+updated: '2026-08-24T19:57:18.295478+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 19:29 UTC  
+**Last Updated:** August 24, 2026 at 19:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 20h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 21h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Very soon, it may even teach me how to play tennis :) Does it run all inference 
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -122,7 +122,7 @@ Reuters • 8h ago
 
 XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 5h ago
 
 ---
 
@@ -131,6 +131,14 @@ XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embo
 IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
 
 Stock Titan • 9h ago
+
+---
+
+**[Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate](https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8)**
+
+Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed.
+
+Business Insider • 33m ago
 
 ---
 
@@ -166,11 +174,9 @@ Financial Times • 1d ago
 
 ---
 
-**[The “GPT moment” for robots is already here. It’s just not in your home yet](https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta)**
+**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-Skild AI is valued at $14B and already has hundreds of robots running in factories. Co-founder Abhinav Gupta explains why the robotics "ChatGPT moment" is real but will arrive one deployment at a time.
-
-The Next Web • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -179,12 +185,6 @@ The Next Web • 2h ago
 Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
 
 Stock Titan • 20h ago
-
----
-
-**[Intel report finds robotics readiness gap among businesses](https://www.theengineer.co.uk/content/news/intel-finds-robotics-readiness-gap-among-businesses)**
-
-The Engineer • 10h ago
 
 ---
 
@@ -208,7 +208,7 @@ Galileo X is designed to use different movement configurations for different par
 
 📺 Auren Voss Insights
 
-👁️ 1K • 👍 34 • 💬 8 • ⏱️ 0:54 • 7h ago
+👁️ 1K • 👍 34 • 💬 8 • ⏱️ 0:54 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 10K • 👍 71 • 💬 5 • ⏱️ 0:32 • 19h ago
+👁️ 10K • 👍 71 • 💬 5 • ⏱️ 0:32 • 20h ago
 
 ---
 

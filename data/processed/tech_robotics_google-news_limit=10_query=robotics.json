@@ -35,6 +35,16 @@
       "description": "IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026."
     },
     {
+      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
+      "pub_date": 1787599433.0,
+      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
+      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
+      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
+    },
+    {
       "headline": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
@@ -75,14 +85,14 @@
       "description": "Without policy, there are few incentives to automate business functions where labour costs are low"
     },
     {
-      "headline": "The \u201cGPT moment\u201d for robots is already here. It\u2019s just not in your home yet",
-      "source": "The Next Web",
-      "source_url": "https://thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VZTdEamcya0lvcjNPR3BHdVlpUDhjai04aklXRTEzWm5lTUdRZ3VFd1BYWFJCMFpRSXJwcjY0SktrNDhrTUZXc0VxSzVPN1F3N3VPMjRDQlV3QTAxYzdEbG5BOUNBeC1mNnJoY0FwRGpUd3BLUW53?oc=5",
-      "pub_date": 1787589918.0,
-      "article_url": "https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta",
-      "image": "https://media.thenextweb.com/2026/08/Abhinav-Gupta-Skild-AI-Anna-Tutova.jpg",
-      "description": "Skild AI is valued at $14B and already has hundreds of robots running in factories. Co-founder Abhinav Gupta explains why the robotics \"ChatGPT moment\" is real but will arrive one deployment at a time."
+      "headline": "Inside China\u2019s Race To Rule Robotics",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
+      "pub_date": 1787588907.0,
+      "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
+      "image": null,
+      "description": null
     },
     {
       "headline": "One U.S. robotics distributor now covers all 50 states for Faraday Future",
@@ -93,18 +103,8 @@
       "article_url": "https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-a8intlp6hpjh.html",
       "image": "https://www.stocktitan.net/news_covers/Faraday_Future_Founder_and_Global_CEO_YT_Jia_Shares_Weekly_Investor_Update_Signs_New_FF_Par_Agreeme_1496171.webp",
       "description": "Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26."
-    },
-    {
-      "headline": "Intel report finds robotics readiness gap among businesses",
-      "source": "The Engineer",
-      "source_url": "https://www.theengineer.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenRTNkFvenhaNklLeGJIWENualVGUFFkTXh1MnlvX2R4TWVTU0JnVm9rRGM3eV9LWHdtOWp0MUlDLU43NTFKMUx6T0R0YlFtb04zY3Rod2ctbW12Tmxha3c0RkFZY0ZMS2Jnc1BKaHhhOFNWYnNMYnFSb0NZVDRCaEJEX0RWMmVQT2pmcG40MlVCWkRsQUkxMzBB?oc=5",
-      "pub_date": 1787563288.0,
-      "article_url": "https://www.theengineer.co.uk/content/news/intel-finds-robotics-readiness-gap-among-businesses",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T18:39:46.870000+00:00"
+  "fetched_at": "2026-08-24T19:57:05.959451+00:00"
 }
