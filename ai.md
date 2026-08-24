@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T21:55:28.623171+00:00'
+updated: '2026-08-24T22:26:15.397111+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 21:55 UTC  
+**Last Updated:** August 24, 2026 at 22:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-2h ago
+3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -87,7 +87,7 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 I built EchoVault, an app that interviews you about your life and turns the answers into an avatar your family can talk to after you die. In the clip I ask it the meaning of life, which I never covered in any session. It builds an answer out of separate conversations about my values. Then I ask my grandfather’s middle name and it stops. It doesn’t know, because I never told it, so it says so. Everyone in this category is chasing a convincing likeness. A convincing likeness that answers everything is a machine for inventing memories, and the person on the other end is grieving and can’t check. I shipped this architecture with the webapp in June 2025 and the rest of the category has since converged on it. The iOS app is out now. Text tier is free and unlimited, no card. https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028
 
-31m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ I built EchoVault, an app that interviews you about your life and turns the answ
 
 I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
 
-1h ago
+2h ago
 
 ---
 
@@ -123,19 +123,19 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 56m ago
+Axios • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 1h ago
 
 **[Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers](https://www.pbs.org/newshour/world/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staffers)**
 
-PBS • 1h ago
+PBS • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Ars Technica • 5h ago
 
 The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNN • 12h ago
 
 Tech leaders’ beliefs about the future, known as their ‘eschatology,’ are shaping how AI is being developed behind closed doors, argues Liz Bucar.
 
-Time Magazine • 12h ago
+Time Magazine • 13h ago
 
 ---
 
@@ -221,7 +221,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 325 • 💬 69 • 22h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 325 • 💬 69 • 23h ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -445,7 +445,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 575 • 6d ago
+⬇️ 761,975 • ❤️ 575 • 7d ago
 
 ---
 
@@ -676,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 600 • 6h ago
+⭐ 3.6k • 🔱 600 • 7h ago
 
 ---
 
@@ -686,7 +686,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 363 • 10h ago
+⭐ 3.0k • 🔱 363 • 11h ago
 
 ---
 
@@ -716,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 4h ago
+⭐ 2.2k • 🔱 189 • 5h ago
 
 ---
 

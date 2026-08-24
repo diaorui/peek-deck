@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T21:55:28.631658+00:00'
+updated: '2026-08-24T22:26:15.405679+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 21:55 UTC  
+**Last Updated:** August 24, 2026 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-51m ago
+1h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Then it drops back down to 62k by next week
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ Then it drops back down to 62k by next week
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 I wonder why that is so?
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ I wonder why that is so?
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-4h ago
+5h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1d ago
 
 The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
 
-Investopedia • 2h ago
+Investopedia • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ Investopedia • 2h ago
 
 Finally, a killer use case
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -201,7 +201,7 @@ qz.com • 4h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 7h ago
+Euronews.com • 8h ago
 
 ---
 
@@ -235,7 +235,7 @@ The Block • 6h ago
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 6h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 7h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -287,7 +287,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 909 • 👍 41 • 💬 2 • ⏱️ 0:53 • 2h ago
+👁️ 909 • 👍 41 • 💬 2 • ⏱️ 0:53 • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 20K • 👍 676 • 💬 228 • ⏱️ 41:23 • 22h ago
+👁️ 20K • 👍 676 • 💬 228 • ⏱️ 41:23 • 23h ago
 
 ---
 
@@ -377,7 +377,7 @@ The Treasury doubling liquidity on some long-term debt buybacks in bonds is what
 
 📺 Schwab Network
 
-👁️ 9K • 👍 84 • 💬 4 • ⏱️ 7:28 • 2d ago
+👁️ 9K • 👍 84 • 💬 4 • ⏱️ 7:28 • 3d ago
 
 ---
 
