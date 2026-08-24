@@ -5,20 +5,6 @@
   "days": 3,
   "posts": [
     {
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49383026",
-      "author": "Cider9986",
-      "points": 623,
-      "num_comments": 898,
-      "created_at": "2026-08-21T02:37:47Z",
-      "object_id": "49383026",
-      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
-      "description": "AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna\u2019s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.",
-      "favicon": "https://annas-archive.gl/favicon-32x32.png?hash=989ac03e6b8daade6d2d",
-      "site_name": "annas-archive.gl"
-    },
-    {
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "hn_url": "https://news.ycombinator.com/item?id=49386699",
@@ -143,9 +129,23 @@
       "description": "Surveys on both sides of the Atlantic reveal a public more wary than wowed by AI, with distrust extending well beyond the technology and onto the tech executives promoting it.",
       "favicon": "https://www.euronews.com/apple-touch-icon.png",
       "site_name": "euronews"
+    },
+    {
+      "title": "Dutch regulator fines Uber \u20ac825M for letting AI deactivate driver accounts",
+      "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+      "hn_url": "https://news.ycombinator.com/item?id=49398609",
+      "author": "biglyburrito",
+      "points": 21,
+      "num_comments": 4,
+      "created_at": "2026-08-22T11:27:29Z",
+      "object_id": "49398609",
+      "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/legacy-nlt/uploads/2014/12/depositphotos_157501286_ds.jpg?h=020d62ca",
+      "description": "The Dutch Data Protection Authority (AP) has fined Uber \u20ac825 million for deactivating driver accounts through automated systems and without adequately informing them. This violates Europe\u2019s General Data Protection Regulation (GDPR), the AP said in a decision made on Monday, Reuters reported after seeing the decision.",
+      "favicon": "https://nltimes.nl/themes/custom/nl_times/images/icons/icon60x60@2x.png",
+      "site_name": "NL Times"
     }
   ],
-  "total_hits": 367,
+  "total_hits": 363,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T01:17:30.415569+00:00"
+  "fetched_at": "2026-08-24T02:45:20.112631+00:00"
 }

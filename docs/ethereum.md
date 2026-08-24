@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T01:18:03.301906+00:00'
+updated: '2026-08-24T02:45:42.394920+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 01:18 UTC  
+**Last Updated:** August 24, 2026 at 02:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +27.8%  
-**30d:** +25.3%  
-**90d:** +21.0%  
-**1y:** -44.2%  
+**24h:** +1.3%  
+**7d:** +27.6%  
+**30d:** +25.1%  
+**90d:** +20.7%  
+**1y:** -44.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.80B
+**Market Cap:** $295.27B
 Rank #2
 
-**Circulating Supply:** 120,681,537 ETH
+**Circulating Supply:** 120,681,508 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.5%
 
 **All-Time Low:** $0.43
-+566024.5%
++564892.8%
 
 ---
 
@@ -76,7 +76,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 9h ago
 
 ---
 
@@ -84,7 +84,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -160,31 +160,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Capital is voting with its feet.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum's MVRV golden cross sparks 34% rally, eyeing $5,000 if key resistance breaks](https://pluang.com/en/news-feed/ethereum-bisa-mencapai-5000-dolar-data-onchain-mendukung)**
+**[Prominent Bitcoin Miner Bets on Ethereum, Predicts ETH Will Beat BTC This Cycle](https://finance.yahoo.com/markets/crypto/articles/prominent-bitcoin-miner-bets-ethereum-003221742.html)**
 
-Ethereum's MVRV ratio formed a golden cross on August 19, triggering a 34% price surge from $1,905 to $2,547. Whale wallets holding over 10,000 ETH increased by 1.74%, with 17 new large holders joining, indicating strong buying interest. Additionally, over 180,000 ETH worth $440 million moved off exchanges, reducing selling pressure. Ethereum faces a critical resistance zone between $2,722 and $2,970; breaking this could open the path to a $5,363 target, making a $5,000 price feasible in the near term if momentum continues.
+Prominent Chinese Bitcoin miner Jiang Zhuoer plans to go all-in on Ethereum, predicting it will outperform BTC this cycle.
 
-Pluang • 1h ago
-
----
-
-**[Ethereum surges 31% as short liquidations spike and network fees rebound sharply](https://pluang.com/en/news-feed/ethereum-melonjak-31-persen-didorong-liquidasi-pendek)**
-
-Ethereum's price jumped 31% in a week, driven mainly by a massive 1,514% increase in short liquidations averaging $131 million weekly. This forced short covering boosted trading volumes and pushed network activity higher, with base fees up 189% and fees burnt rising 251%, reversing two months of low activity. Binance funding rates turned positive, signaling renewed bullish leverage, while deposit patterns showed many smaller inflows rather than large whale transfers, indicating fragmented selling pressure. The price rally reflects positioning shifts rather than fresh spot buying, with future moves depending on whether spot demand catches up or funding cools.
-
-Pluang • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
 
-Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
+Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
 
-Yahoo Finance • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -192,15 +184,7 @@ Yahoo Finance • 8h ago
 
 Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
 
-CryptoSlate • 5h ago
-
----
-
-**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
-
-Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
-
-TradingView • 11h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -208,7 +192,7 @@ TradingView • 11h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 14h ago
+CoinMarketCap • 16h ago
 
 ---
 
@@ -216,15 +200,7 @@ CoinMarketCap • 14h ago
 
 The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-Global South Opportunities • 18h ago
-
----
-
-**[Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off](https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off)**
-
-BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month
-
-Benzinga • 1d ago
+Global South Opportunities • 20h ago
 
 ---
 
@@ -234,9 +210,43 @@ Barron's • 2d ago
 
 ---
 
+**[Institutional Demand Is Back: Bitcoin and Ethereum ETF Inflows Reached 10-Month High](https://cryptopotato.com/institutional-demand-is-back-bitcoin-and-ethereum-etf-inflows-reached-10-month-high/)**
+
+The funds tracking both assets recorded a perfect week of net inflows only.
+
+CryptoPotato • 15h ago
+
+---
+
+**[Ethereum: 60% Odds to Reclaim $2,600 by August End](https://blockchain.news/flashnews/ethereum-60-odds-reclaim-2-600-august-end)**
+
+Ethereum holds 60% probability on Polymarket to reclaim $2,600 by August end at current price $2460.29 with bullish EMA structure intact.
+
+blockchain.news • 4h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion](https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/)**
+
+Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.
+
+BeInCrypto • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[The Godfather Of Crypto Trading Warns &#39;Great Bitcoin Melt Up&#39; Has Just Begun &amp; The &#39;Next&#39; Ethereum](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
+
+Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 1K • 💬 153 • ⏱️ 43:03 • 4h ago
+
+---
 
 **[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
 
@@ -244,17 +254,27 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 6K • 👍 327 • 💬 40 • ⏱️ 18:53 • 9h ago
+👁️ 8K • 👍 378 • 💬 104 • ⏱️ 18:53 • 11h ago
+
+---
+
+**[BITCOIN PULLBACK: EVERYONE IS WRONG (Here&#39;s Why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9s6VEYk4gR0)**
+
+BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 376 • 💬 219 • ⏱️ 19:11 • 6h ago
 
 ---
 
 **[THE $1 BILLION HOUR 🚨 Why BTC, ETH and XRP All Exploded Together](https://www.youtube.com/watch?v=DTYa04eKhKU)**
 
-1️⃣ *   Save 40% code LIFETIME Lifetime Membership 2 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
+1️⃣ *   Save 35% code SUMMER Lifetime Membership 20 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
 
 📺 Stock Moe
 
-👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:45 • 12h ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:45 • 14h ago
 
 ---
 
@@ -264,45 +284,7 @@ You've got Robinhood, one of the biggest exchanges in both crypto and stocks, bu
 
 📺 Crypto Archie
 
-👁️ 788 • 👍 64 • ⏱️ 1:09 • 11h ago
-
----
-
-**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
-
-Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 69K • 👍 3K • 💬 154 • ⏱️ 11:10 • 1d ago
-
----
-
-**[How to Use Ethereum (ETH) Cloud Mining in 2026: Does It Work?](https://www.youtube.com/watch?v=D6vrFcfrlSE)**
-
-lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd check before trusting any “ETH cloud mining” ...
-
-📺 Home Aura
-
-👁️ 360 • 👍 82 • 💬 71 • ⏱️ 4:20 • 17h ago
-
----
-
-**[XRP LEADS AGAIN! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=bOsFtykTjCQ)**
-
-📺 CryptoWendyO
-
-👁️ 1K • 👍 160 • 💬 6 • ⏱️ 1:00 • 4h ago
-
----
-
-**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
-
-In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 363 • 💬 19 • ⏱️ 11:12 • 1d ago
+👁️ 975 • 👍 67 • ⏱️ 1:09 • 12h ago
 
 ---
 
@@ -316,13 +298,21 @@ I mean, it cant get any more obvious than this. I dont understand at all how peo
 
 ---
 
-**[BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VbSqUAV76X4)**
+**[XRP LEADS AGAIN! #xrp #ethereum #crypto](https://www.youtube.com/watch?v=bOsFtykTjCQ)**
 
-BITCOIN SHORT SQUEEZE OVER (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+📺 CryptoWendyO
 
-📺 Crypto World
+👁️ 3K • 👍 235 • 💬 8 • ⏱️ 1:00 • 5h ago
 
-👁️ 16K • 👍 496 • 💬 189 • ⏱️ 18:21 • 1d ago
+---
+
+**[Ethereum: Is This Rally a Trap or the Real Deal?](https://www.youtube.com/watch?v=xqxdo83jt2c)**
+
+In this video I break down the current Ethereum price outlook following the recent breakout to determine if this rally is sustainable ...
+
+📺 More Crypto Online
+
+👁️ 8K • 👍 366 • 💬 19 • ⏱️ 11:12 • 1d ago
 
 ---
 
@@ -332,7 +322,17 @@ BMNR now holds approximately 5.82 million ETH and $11.4 billion of gross assets,
 
 📺 The Value Thinker
 
-👁️ 13K • 👍 882 • 💬 120 • ⏱️ 21:33 • 2d ago
+👁️ 13K • 👍 888 • 💬 121 • ⏱️ 21:33 • 2d ago
+
+---
+
+**[BE READY FOR THIS ON ETHEREUM! (ETH Prediction)](https://www.youtube.com/watch?v=5iSCXe_sknM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 3K • 👍 51 • 💬 3 • ⏱️ 4:45 • 1d ago
 
 ---
 
