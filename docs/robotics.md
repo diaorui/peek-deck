@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-24T10:10:24.833916+00:00'
+updated: '2026-08-24T11:02:12.984867+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 24, 2026 at 10:10 UTC  
+**Last Updated:** August 24, 2026 at 11:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Construyendo robot hidráulico con válvulas pepepako y sensor de posición casero](https://www.reddit.com/r/robotics/comments/1vwaea6/construyendo_robot_hidráulico_con_válvulas/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 One person, one webcam, two open source OpenCat-based quadruped robots — Quaddle Scout and Buddy, both driven live via real-time human pose tracking. Every limb movement maps directly onto the robots' joints, no AI policy running on its own. OpenCat creator RZ Li tried teaching Quaddle a few moves here — a little awkward at first, but it only takes a few minutes before Quaddle starts picking them up. It's also just as fun as playing Wii Play: Motion — this kind of hands-on teleoperation experiment isn't locked to a research lab, it's something almost anyone can go try themselves. In theory, the same captured human movement data could later be used to teach an AI more human movements — either directly, via imitation learning, or as a starting point that reinforcement learning then refines further — to expand what Quaddle can do. Not what's happening in this clip, just a potential direction. What's your experience with the latency/smoothness tradeoff in a real-time teleoperation setup like this — webcam pose estimation vs. something like a motion-capture rig or joystick? And separately, just for fun — if you had one of these on your desk, what move would you want to teach Quaddle first?
 
-🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 11h ago
+🔗 [YouTube](https://www.youtube.com/shorts/697Le5XYISc) • 12h ago
 
 ---
 
@@ -66,7 +66,7 @@ One person, one webcam, two open source OpenCat-based quadruped robots — Quadd
 
 I am developing a heavy embedded C and sensor fusion system running on low-level Linux using embedded NVIDIA Jetson modules. The core architecture involves handling low-level serial I/O (UART/SPI) to ingest raw binary data from external sensors like high-rate IMUs. The system runs on a component-based, Pub/Sub open-source navigation framework (conceptually similar to ROS). My task is writing C plugins (using OOP, templates, etc.) to ingest that raw serial IMU data, parse the payloads, and publish them to the internal message bus. We are currently porting legacy navigation filters into this framework, specifically implementing and testing Extended Kalman Filters in C. We are taking high-rate IMU data for the propagation step and joining it with slower GPS/ranging data for the measurement updates to produce a clean navigation solution. I would highly appreciate insight, articles, or practical advice on a few specific robotics engineering hurdles: What are the best resources, GitHub repositories, or books to practically understand EKFs and Sensor Fusion without getting completely bogged down in heavy academic math proofs? Any pro-tips for debugging serial (UART/SPI) data coming into a Linux environment/Jetson from a raw hardware sensor before writing the main C application? What are the most common architectural pitfalls when writing C plugins for a Pub/Sub middleware system that processes high-speed, real-time sensor data? Thanks in advance for any guidance.
 
-10h ago
+11h ago
 
 ---
 
@@ -74,13 +74,13 @@ I am developing a heavy embedded C and sensor fusion system running on low-level
 
 Very soon, it may even teach me how to play tennis :) Does it run all inference at the edge, or does it rely on the cloud?
 
-🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 16h ago
+🔗 [youtube.com](https://youtube.com/watch?v=bcVNBn5R_rY) • 17h ago
 
 ---
 
 **[I refused to let the Xbox 360 Kinect die, so I started rebuilding its software stack](https://www.reddit.com/r/robotics/comments/1vwo2qi/i_refused_to_let_the_xbox_360_kinect_die_so_i/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ It’s always them goofy robots dancing and doing these goofy stuff. Look at how
 
 I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Problem is that there is no wiring for reverse from factory. Chat GPT suggested that controller could have IO for reverse that is not wired. Has anyone played with this kind of controller before and managed to get reverse working?
 
-15h ago
+16h ago
 
 ---
 
@@ -114,15 +114,29 @@ I bought cheap Kontio motors Kruiser and goal is to use parts for a robot. Probl
 
 **[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
 
-The Economist • 20h ago
+The Economist • 21h ago
 
 ---
 
-**[AI robotics companies love San Francisco. They’re just too big to stay](https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/)**
+**[Wake Up Call from Canton High School Robotics](https://www.wcvb.com/article/wake-up-call-from-canton-high-school-robotics/73508476)**
 
-The city is still ground zero for the industry boom. But as machine companies scale up, they can’t find the space to match.
+Monday's Wake Up call comes from the Canton High School Robotics team.
 
-The San Francisco Standard • 21h ago
+WCVB • 1h ago
+
+---
+
+**[Xpeng says its robotics business raised over $900 million in first funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
+
+Reuters • 1h ago
+
+---
+
+**[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html)**
+
+Chinese automaker Xpeng said on Monday its robotics unit had raised more than $900 million ‌in its first funding round, setting a new ‌record for a single private financing in China's embodied AI sector.  The funding round, ​led by IDG Capital and backed by strategic investors Tencent and Alibaba, values the robotics business at more than $6.3 billion, Xpeng said in a statement.  The proceeds will be used to develop ‌robotics hardware and software, ⁠train and refine physical AI models, collect high-quality data, build end-to-end mass-production facilities, and support global ⁠expansion, the company said.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -130,61 +144,45 @@ The San Francisco Standard • 21h ago
 
 /PRNewswire/ -- At the 2026 World Robot Conference (WRC 2026), Galileo, a leading Chinese embodied-intelligence robotics company, unveiled the groundbreaking,...
 
-PR Newswire • 1h ago
+PR Newswire • 2h ago
 
 ---
 
 **[Hot Topics in International Trade China and Humanoid Robotics](https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-china-18618/)**
 
-JD Supra • 4h ago
+JD Supra • 5h ago
 
 ---
 
-**[Humanoid Robotics: the Future of Warehousing?](https://logisticsbusiness.com/materials-handling/robotic-picking/humanoid-robotics-the-future-of-warehousing/)**
+**[Xpeng says its robotics business raised over $900 million in first funding round](https://wkzo.com/2026/08/24/xpeng-says-its-robotics-business-raised-over-900-million-in-first-funding-round/)**
 
-Humanoid Robotics discussed by expert, concluding that they are not likely to be seen in warehouses any time soon
+BEIJING, Aug 24 (Reuters) - Chinese automaker Xpeng said on Monday its robotics unit had raised more than $900 million in its first funding ​round, setting a new record for a ‌single private financing in China's embodied AI sector. The funding round, l...
 
-Logistics Business • 1h ago
-
----
-
-**[Curious by Nature | Newswise – Benefits of Single-Port Robotic Mitral Valve Repair | Newswise](https://www.newswise.com/articles/curious-by-nature-newswise-benefits-of-single-port-robotic-mitral-valve-repair)**
-
-Up to 5% of the population lives with a leaking heart valve condition known as mitral valve prolapse, often without even realizing it. If left untreated, it can lead to heart failure, irregular heartbeats, or sudden cardiac events. While past treatments required major open-chest surgery, a breakthrough in medical robotics is offering a faster, less painful path to recovery.
-
-Newswise • 2h ago
+WKZO • 56m ago
 
 ---
 
-**[Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership](https://worldbusinessoutlook.com/faraday-future-expands-eai-robotics-through-new-u-s-distributor-partnership/)**
+**[Xpeng carves out robotics business at $6.3 billion post‑money valuation](https://cnevpost.com/2026/08/24/xpeng-carves-out-robotics-business/)**
 
-Faraday Future strengthens its robotics ecosystem through U.S. distribution, RoboShare expansion, and Embodied AI initiatives.
+Dogotix has secured $900 million in funding commitments, with $600 million from external investors including IDG Capital, Alibaba, Tencent and Gaorong Ventures.
 
-World Business Outlook • 4h ago
-
----
-
-**[One U.S. robotics distributor now covers all 50 states for Faraday Future](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-a8intlp6hpjh.html)**
-
-Zacks upgraded FFAI to Buy and says its consensus earnings estimate rose 19.9% in three months; FF will preview two robotics products Aug. 26.
-
-Stock Titan • 11h ago
+CnEVPost • 1h ago
 
 ---
 
-**[Fiscal watch tops agenda as Terra State President meets Rep. Latta](https://www.thenews-messenger.com/videos/news/local/2026/08/24/robotics-lab-a-stop-on-terra-state-tour-for-rep-bob-latta/91406449007/)**
+**[Autonomous Cleaning Robotics Pilot at New York’s LaGuardia Terminal B](https://cmmonline.com/news/autonomous-cleaning-robotics-pilot-at-new-yorks-laguardia-terminal-b)**
 
-Fiscal watch tops the agenda as new Terra State President Breeden meets with Rep. Bob Latta, R-Bowling Green, and the Sandusky County commissioners.
+This summer, ABM launched a robotics program at LaGuardia Airport’s Terminal B, introducing both autonomous inspection and cleaning robots, including one of the first robotic quadruped “dogs” to be deployed in a U.S. airport terminal.
 
-Fremont News-Messenger • 48m ago
+Cleaning & Maintenance Management • 1h ago
 
 ---
 
-**[Inside ARX Robotics: building the future of defence](https://www.nato.int/en/multimedia/multimedia/videos/2026/06/17/inside-arx-robotics-building-the-future-of-defence)**
+**[Alibaba and Tencent support XPENG's raise of over $900M for humanoid robots](https://www.stocktitan.net/news/XPEV/xpeng-robotics-business-raises-over-us-900-million-at-a-post-money-7uyylw1p98v1.html)**
 
-Inside ARX Robotics: building the future of defence
+IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026.
 
-North Atlantic Treaty Organization | NATO • 5d ago
+Stock Titan • 54m ago
 
 ---
 
@@ -198,7 +196,7 @@ Humanoid robots compete in kickboxing, sprint races, and taichi performances at 
 
 📺 DWS News
 
-👁️ 13K • 👍 70 • 💬 15 • ⏱️ 4:59 • 21h ago
+👁️ 13K • 👍 70 • 💬 15 • ⏱️ 4:59 • 22h ago
 
 ---
 
@@ -208,7 +206,7 @@ The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a hu
 
 📺 DPCcars
 
-👁️ 10K • 👍 110 • 💬 59 • ⏱️ 1:55 • 20h ago
+👁️ 10K • 👍 110 • 💬 59 • ⏱️ 1:55 • 21h ago
 
 ---
 

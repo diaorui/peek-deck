@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "MostroEuropa \u2013 A European P2P Bitcoin Coordinator Built on Lightning and Nostr",
-      "url": "https://mostroeuropa.shadowbip.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49328436",
-      "author": "shadowbip",
-      "points": 19,
-      "num_comments": 0,
-      "created_at": "2026-08-17T09:39:38Z",
-      "object_id": "49328436",
-      "image": null,
-      "description": "Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.",
-      "favicon": "https://mostroeuropa.shadowbip.com/favicon.ico",
-      "site_name": "MostroEuropa"
-    },
-    {
       "title": "Bitcoin's short squeeze traced to a Treasury bond buyback decision",
       "url": "https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze",
       "hn_url": "https://news.ycombinator.com/item?id=49385139",
@@ -89,7 +75,7 @@
       "site_name": "Strike a Block"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-08-24T09:22:25.985106+00:00"
+  "fetched_at": "2026-08-24T11:01:41.937654+00:00"
 }

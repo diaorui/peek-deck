@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T10:10:24.830761+00:00'
+updated: '2026-08-24T11:02:12.981697+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 10:10 UTC  
+**Last Updated:** August 24, 2026 at 11:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +28.3%  
-**30d:** +25.9%  
-**90d:** +21.5%  
+**24h:** +1.3%  
+**7d:** +28.2%  
+**30d:** +25.7%  
+**90d:** +21.3%  
 **1y:** -44.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 18h ago
 
 ---
 
@@ -164,9 +164,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum surges past $2,500 on strong ETF inflo...](https://pluang.com/en/news-feed/ethereum-eth-melesat-lebih-dari-2500-dolar-golden-cross-memicu-bulls-bisakah)**
+**[Ethereum rotation underway; Tom Lee predicts ET...](https://pluang.com/en/news-feed/rotasi-ethereum-takes-shape-tom-lee)**
 
-Pluang • 2h ago
+Tom Lee of Fundstrat believes a long-anticipated rotation into Ethereum has begun, with ETH potentially reaching $10,000 within the next one to two years. He argues Ethereum is undervalued compared to Bitcoin and could become the future settlement layer, boosting its importance in decentralized finance, tokenized assets, and AI. Lee's bullish outlook is supported by BitMine's aggressive Ethereum treasury strategy, where he serves as chairman. Recently, Ethereum's price surged over 32%, reflecting growing market interest.
+
+Pluang • 1h ago
 
 ---
 
@@ -174,7 +176,13 @@ Pluang • 2h ago
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
+
+CoinDesk • 4h ago
 
 ---
 
@@ -182,7 +190,15 @@ Yahoo Finance • 16h ago
 
 XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
+
+---
+
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+
+Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
+
+TradingView • 21h ago
 
 ---
 
@@ -194,17 +210,11 @@ FXStreet • 7h ago
 
 ---
 
-**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+**[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
 
-Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
+The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
 
-TradingView • 20h ago
-
----
-
-**[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
-
-CoinDesk • 3h ago
+Global South Opportunities • 1d ago
 
 ---
 
@@ -212,15 +222,7 @@ CoinDesk • 3h ago
 
 BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
 
-CoinMarketCap • 23h ago
-
----
-
-**[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
-
-The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
-
-Global South Opportunities • 1d ago
+CoinMarketCap • 1d ago
 
 ---
 
@@ -242,7 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 10K • 👍 449 • 💬 38 • ⏱️ 18:53 • 18h ago
+👁️ 10K • 👍 449 • 💬 38 • ⏱️ 18:53 • 19h ago
 
 ---
 
@@ -252,7 +254,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully pr
 
 📺 The Rollup
 
-👁️ 3K • 👍 79 • 💬 46 • ⏱️ 10:36 • 11h ago
+👁️ 3K • 👍 79 • 💬 46 • ⏱️ 10:36 • 12h ago
 
 ---
 
@@ -262,7 +264,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 120 • ⏱️ 43:03 • 11h ago
+👁️ 38K • 👍 2K • 💬 120 • ⏱️ 43:03 • 12h ago
 
 ---
 
@@ -282,7 +284,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 444 • 💬 164 • ⏱️ 19:11 • 13h ago
+👁️ 11K • 👍 444 • 💬 164 • ⏱️ 19:11 • 14h ago
 
 ---
 
@@ -292,7 +294,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Stock Moe
 
-👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 21h ago
+👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 22h ago
 
 ---
 
@@ -330,7 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 283 • 💬 8 • ⏱️ 1:00 • 13h ago
+👁️ 4K • 👍 283 • 💬 8 • ⏱️ 1:00 • 14h ago
 
 ---
 

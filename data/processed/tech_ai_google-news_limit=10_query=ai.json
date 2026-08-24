@@ -25,14 +25,54 @@
       "description": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable"
     },
     {
-      "headline": "Trump Defends AI Data Centers\u2014Says Opposing Them Is A \u2018Mistake\u2019 And \u2018Smart Ones\u2019 Want Them",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS01oYVJIMXI3SnBQcEpIamZMVmFhMThQWWhWaHZvNnNIWWVQU2ItOHFpaHNPenlWdVljT251TmpLeFJDelJzWERiQlJmbndYbll4ZG4zcXNEX2htRWMyQ2theDgxeXRRQlk5MFJCNWxOVVFTeHBQdVV6YnIzSEpIT05zOEhVcHd1eEVtQ0VPeWZTZ05YckNhdmEyVy05a1N1WlZraHBlSWFGaDZSMjRBLUg5TWlMcDNWQm9JSlc1Zm11YWh2NTBoUkZKeTlhTU5qQkVzY3BPWQ?oc=5",
-      "pub_date": 1787557182.0,
-      "article_url": "https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8bf4c06c3d29908ffea795/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties."
+      "headline": "Is Reddit still for humans?",
+      "source": "vox.com",
+      "source_url": "https://www.vox.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwQzc2djY3WTZ4R01PQkpwTzlPbGtCbzF5ZVpweUJlNGFaVzN3YXFZZmxlcGx0ZWQ1TVI4RmZjVG1MalpzLUZLOVFhd0M2ckg3X0F3cGR5M0ZOWXRDLUFCZDF1ZXptV0ExN1pCN1JQV1BOeS11N1YtNFFqMVR0dw?oc=5",
+      "pub_date": 1787568328.0,
+      "article_url": "https://www.vox.com/podcasts/499830/reddit-real-people-ai-seo-spam-brands",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/gettyimages-2249343613.jpg?quality=90&strip=all&crop=0%2C10.73828992969%2C100%2C78.523420140621&w=1200",
+      "description": "AI comes for the last real place on the internet."
+    },
+    {
+      "headline": "The Best Reinvention Consultants Can Make in the AI Era Is to Their Pricing Model",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaS1rWTdIM3ZGOTd3NVFvWnBjdndWdVFjSXdwWXlxeWlFOE1lV0Zzd2liSXgySXo3NkI2Vk1UR202cXR1eDV0cnBJY0YwQkdNNWlOU3V4NUltdGc0WVFvRV8wWTZvalg0dVozLUMtWGp5WGdhSVhFM1J3Nk9rajROR1hOZlY3N05ZaWg0VllIekplNXVITndpc1JHbw?oc=5",
+      "pub_date": 1787568630.0,
+      "article_url": "https://www.businessinsider.com/ai-consulting-industry-shift-outcome-based-pricing-model-2026-8",
+      "image": "https://i.insider.com/6a8c218e4569a4ec219f962f?width=1200&format=jpeg",
+      "description": "AI is forcing consultants to rethink their value\u2014and how they charge clients. Outcome-based pricing could be the next big shift for the industry."
+    },
+    {
+      "headline": "Companies and Recruiters Retreat to Analog in the AI Hiring Age",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWdUakRjcVZQZWswaUFCcjlCcmRaVy11Tkg5SlRyS3ZROXZiTTd1TFBGZU1GX3RuMjllZkhPNVBuaVVCRzJRc1RfcnVJTEdtTW1uUXVqaE5KMDhnYUhVVXVINGVhMnFtTHc4NDdydGFIQ3dqUUZtd0NGRGdIX3ZVLWRhMWswM0tteENzcmpZT09oM1dydEZfbmwzcTNaZTd5cDlFTFAzYUhBSXJsc1d3YWdOcHBaRmh2LWxia1dBTUQ?oc=5",
+      "pub_date": 1787567449.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-08-24/perfect-ai-resumes-lead-employers-to-prioritize-in-person-interaction",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+      "pub_date": 1787562033.0,
+      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "From AI tools to alcohol drops: The unexpected forces driving America's crime decline",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2M3E5UXlSdnBjQmxkN2EwTUdTTkRzUWR6alp0VjA2LXUya1FPMnFtWUNXcU1RUVJHazZIX3ZheW9uaGtXdk9xU25DN1FqazRRV1YzZ3ExNE1rTDBueFhmOHRJWUxhVmg3dF9qYjQ4Vko?oc=5",
+      "pub_date": 1787563429.0,
+      "article_url": "https://www.axios.com/2026/08/24/violent-crime-decline-theories",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
@@ -55,56 +95,16 @@
       "description": null
     },
     {
-      "headline": "Alibaba launches Wan3.0 AI video model after $10 billion share sale",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
-      "pub_date": 1787559824.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHAyUmN1dElmU19PWkhOTFdNbC1jTVZFMkFUQzZCenRqS2d1dVRtQi1wVVpOWmFldm9TcndrQXYxQzdKTjQ5S1d1dHJTYVFYWFd1VElxbWpPY05NWVpVRVBNclVENU1pUl9JTjlTb3lZYTQ2eWNmZzAxWGJhYWFZV0J3c2g?oc=5",
-      "pub_date": 1787562032.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Fears of AI-induced armageddon are overdone",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
-      "pub_date": 1787475182.0,
-      "article_url": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmEweklfZ3BrSW9EUVFaeWtMSm1YT1BsX0NhT1l4Nno1MkUtbWU5ZWR3TEZ5TDVHVWRBbHgzcUxsOWNvYzUyUWlZbFdZUEl4al9wVHZ6WTBReTdtR1ZzTU5hY3JUdzM0ZVZoN3Znc3Y0OTdsQ2JHdk84ZWZnYlBCZXZWdEp3NDlVcmRCN240XzI0MXhW?oc=5",
-      "pub_date": 1787503099.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/texas-welcomed-ai-boom-now-162443584.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7AB250E9BE74AE29979BBF648AE5D46E5694B44383156658AAFE9381FD0DFC55/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faxios_527%2F229053aec95a93a04a4089be9fcac027.jpg",
-      "description": "Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry, saying data center companies \"dug their own grave\" and deserve the backlash they're facing after failing to win community support."
-    },
-    {
-      "headline": "2028 Dems dodge on Bernie's push to pause AI development",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYWVU1MjJhZTR2YXNSSUpTR2pKVlJza25qOE9XYUdYcWtGNHN1eHJhMUpxMllFT1paeHdVTDBJT0dxUHFDZEJHX2FsSTljUEtuaXpZS3FJbm1PTnUtRnQtN04tSlZtb0hRTGZNQ0tnRFBzb2M?oc=5",
-      "pub_date": 1787522545.0,
-      "article_url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+      "headline": "Alibaba to Raise $10.20 Billion for AI Investment With Share Placement",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHcThnOVVNMXl1WXpmVzAycmxKN3pqdFhaa2FtUWlIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c?oc=5",
+      "pub_date": 1787543880.0,
+      "article_url": "https://www.wsj.com/tech/alibaba-to-bulk-up-ai-investment-via-10-20-billion-share-placement-72b9bdac",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T09:22:54.684408+00:00"
+  "fetched_at": "2026-08-24T11:02:09.875181+00:00"
 }

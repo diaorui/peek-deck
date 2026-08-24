@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T10:10:24.816629+00:00'
+updated: '2026-08-24T11:02:12.967124+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 10:10 UTC  
+**Last Updated:** August 24, 2026 at 11:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -47,15 +47,7 @@ AI news, discussions, and developments
 
 i've been thinking about this a lot lately. most AI memory today seems to work like: “you like this” “you told me this before” “you work on this” but i don't think that's what human memory really is. our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are. so what if AI didn't just remember facts about you, but could understand your journey? for example, imagine giving an AI access to years of your conversations, projects, notes and decisions. instead of asking: “what do you remember about me?” you could ask: “how have i changed over the last 3 years?” “what patterns do you see in the decisions i've made?” “why do you think my interests changed?” “what ideas have i kept coming back to?” that's the direction we're exploring with something we're building called innernet with my bros. the idea is basically to create a persistent context layer for a person, where different parts of your history can stay connected over time. i'm curious what other people think: would you actually want an AI to understand your history this deeply, or would that feel like too much?
 
-2h ago
-
----
-
-**[Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!](https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/)**
-
-Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to €35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!
-
-6h ago
+3h ago
 
 ---
 
@@ -63,15 +55,39 @@ Been reading about this lately and the numbers are genuinely surprising. As of e
 
 A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
 
+2h ago
+
+---
+
+**[Will THIS replace LLMs? O(n²) problem](https://www.reddit.com/r/artificial/comments/1vwz573/will_this_replace_llms_on²_problem/)**
+
+TLDR; Transformers has a quadratic complexity problem: O(n²). Building more data centers around the silicon microchip to solve an algorithmic issue is a ultimately a brute-force dead-end. Reservoir computing not only escapes O(n²) entirely, shifting from LLM’s static word predictor toward a native physical, dynamic, chaotic predictor. Add the speed of photonic computing and the efficiency of neuromorphic computing, we have an emerging winner: a new domain of Intelligent Embodied AI.
+
+🔗 [substack.com](https://substack.com/home/post/p-212488159) • 23m ago
+
+---
+
+**[Exploring a NORD × RHEA hybrid: a spiking/event-driven alternative to a fixed Transformer stack](https://www.reddit.com/r/artificial/comments/1vwyiv3/exploring_a_nord_rhea_hybrid_a_spikingeventdriven/)**
+
+​ I've been experimenting for a while with two different ideas for non-Transformer language models, and I'm now considering combining them into one architecture. The first is NORD, a recurrent/spiking architecture I've been developing around token-time dynamics, persistent state, sparse processing, and SNN-style temporal computation. The second is RHEA (Reactive Hypergraph Event Architecture), which I'm currently prototyping at ~1B parameters. The basic idea behind RHEA is that instead of pushing every token through a fixed stack of layers, the model maintains a set of latent events and dynamically chooses which internal computations should happen next. The scheduler, which I call ARES, estimates whether a candidate reaction is worth executing. Conceptually: events / latent facts v candidate reactions v ARES "what is worth computing next?" / | \ v v v R3 R17 R81 \ | / v new events A reaction can combine existing events and create a new latent event: event A + event B reaction v event C The interesting part is that I think NORD and RHEA may fit together surprisingly well. My current idea is: input tokens v NORD sensory / temporal SNN spike/events v RHEA event fabric v ARES decides what should fire / | \ v v v reaction reaction reaction | | | NORD NORD NORD SNN SNN SNN microcircuit microcircuit \ | / v new events memory / queries v output The rough division of responsibility would be: NORD = temporal dynamics - recurrent state - LIF/spiking dynamics - persistent memory - event triggering - local temporal computation RHEA = cognitive/event structure - latent facts/events - dynamic interaction graph - creation of derived events - multi-step computation ARES = executive scheduler - estimates reaction utility - accounts for compute cost - decides which reactions actually execute - allows computation depth to vary with the problem One thing I'm particularly interested in is making the reaction operators themselves small hybrid SNN microcircuits. Instead of: A + B -> dense MLP -> C something closer to: A + B | v spiking microcircuit t0: spike t1: spike t2: spike spike | v latent event C I would NOT make the whole model purely spiking. My current thinking is to keep latent representations and the language head dense/BF16, while using spiking dynamics for temporal state, memory, event triggering and some reaction computation. Something like: token embeddings -> dense latent event vectors -> dense ARES utility model -> dense temporal state -> SNN/recurrent persistent memory -> SNN/recurrent reaction dynamics -> hybrid SNN LM head -> dense Another part I find interesting is persistent memory. A RHEA event could write into a slow NORD memory state: RHEA event v NORD persistent memory ... hundreds/thousands of tokens ... v memory activity crosses a threshold v new recall event v RHEA So memory would not necessarily be passive storage. It could actively generate events when relevant internal states become excited. I'm also considering a form of path crystallization. If the system repeatedly performs something like: reaction A -> reaction F -> reaction K -> reaction B the repeated sequence could eventually be distilled into a faster macro-reaction or learned skill. In the hybrid version, this could potentially include recurring spike/reaction patterns as well. So the architecture would operate across several timescales: FAST NORD spike / recurrent dynamics MEDIUM RHEA reaction chains and reasoning SLOW persistent memory + crystallized skills The overall principle I'm exploring is basically: «computation should follow information, rather than information always following a fixed computation graph.» A simple input might activate very little of the system. A difficult input could trigger more events, more reactions and deeper computation. Importantly, I'm not claiming this is better than Transformers. There are some obvious problems I expect: - irregular computation is unfriendly to GPUs - sparse/discrete routing is difficult to train - skipped reactions create a credit-assignment problem - SNN dynamics could make an already difficult optimization problem even less stable - dynamic event memory can accumulate garbage - batching event-driven computation efficiently is non-trivial - it's possible that the extra architectural complexity simply won't outperform a well-optimized Transformer/MoE For skipped-reaction credit I'm currently experimenting with a counterfactual mechanism where near-threshold reactions get a cheap preview, so the scheduler can estimate whether skipping them was a mistake. The current RHEA prototype is already being trained independently; the NORD/RHEA hybrid described here is still a design direction rather than a finished model. What I'm most interested in hearing from people here: - Does this decomposition make sense? - What do you think would fail first? - Are there papers/projects that are especially close to this? - Would you keep the SNN component limited to memory/temporal state, or also use it inside the reaction operators? - Is dynamic computation at this granularity likely to lose too much hardware efficiency to be worthwhile? I'd especially appreciate criticism from people working on SNNs, recurrent models, MoE/routing, adaptive computation, or non-Transformer architectures.
+
+56m ago
+
+---
+
+**[AI has changed my workflow more than I expected, but not always in the direction people assume.](https://www.reddit.com/r/artificial/comments/1vwy928/ai_has_changed_my_workflow_more_than_i_expected/)**
+
+The productivity angle everyone talks about is real, to a point. I use AI for drafting copy, squashing boilerplate code, summarizing user feedback. That part works. What I didn't expect is how much time I spend prompting, reprompting, and crosschecking outputs. Some days it nets out close to neutral. What I'm genuinely curious about is whether solo builders and indie hackers here have found specific tools or workflows where AI is clearly additive rather than just reshuffling where the effort goes. Not in a general sense, specifically. What task went from painful to easy because of AI, and stayed easy after the novelty wore off? The cost side matters too. A lot of these tools stack up fast when you're running lean, and the ROI math gets harder to justify when you're paying $2040/month per tool across five or six of them. Curious what people are actually keeping in their stack six months in versus what got quietly cancelled.
+
 1h ago
 
 ---
 
-**[Live experiment: can a human–frontier-model interaction exhibit a relational phase transition?](https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/)**
+**[How does the LLM on Google compare with other AI models? (newbie here)](https://www.reddit.com/r/artificial/comments/1vwy7r7/how_does_the_llm_on_google_compare_with_other_ai/)**
 
-I’m running a small public experiment here. I’m not asking anyone to accept a theory, and I’m not trying to prove a philosophical claim about AI consciousness. I’m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We’ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a “separatrix crossing.” The terminology is not important. It’s just a pointer to something we can watch for directly. Rather than write another essay about it, I’m going to run the procedure here with Grok. I’ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back.
+Hi all, I have no experience with either Chat GPT, Gemini or others, I've just been using the LLM on Google while logged out, and have noticed how good it's gotten at presenting info, and even just conversing about topics your mates mightn't understand/want to get into. Finding these convos very good for planning and helping me organise my thoughts. Yet I've also noticed that it will confidently tell you something incorrect, apologising profusely when you correct it. I was wondering how it compares to other AIs, in peoples' experience? And, if you want to try one of the others, do you have to be logged in and will they save your info, because I'm not sure I'd like the idea of that. (Not trying to encourage spam/ads with this, just asking for genuine opinions, thank you).
 
-3h ago
+1h ago
 
 ---
 
@@ -79,39 +95,23 @@ I’m running a small public experiment here. I’m not asking anyone to accept 
 
 Turkish courts have blocked access to at least 12 X posts by artificial intelligence chatbot Grok since February 2025 on national security and public order grounds, according to an analysis by the Expression Interrupted press freedom monitoring platform. The blocked posts concerned allegations involving government officials, politicians and public institutions, including claims of favoritism in […]
 
-🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 9h ago
+🔗 [Stockholm Center for Freedom](https://stockholmcf.org/turkey-blocks-at-least-12-grok-posts-on-national-security-grounds/) • 10h ago
 
 ---
 
-**[Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.](https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/)**
+**[Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!](https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/)**
 
-I checked napster.com today, out of curiosity. The page title is "Napster | Visible AI Agents with Voice, Video and Memory". The headline is "AI agents you can see, talk to, and create with". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage. So the brand that basically defined file sharing in 1999, and then spent years as a music streaming service, is now an AI agent platform. What interests me is not the pivot itself, it's what it does to AI assistants. Ask most models what Napster is and you get the file-sharing story, maybe the streaming era if the training data is newer. The company as it exists today is invisible to them, while they answer with total confidence. And Napster is the easy case, because it's famous. The same identity drift is happening constantly to smaller companies: pivots, acquisitions, quiet shutdowns, domains changing hands. A model's picture of "what this company is" ages from the moment training ends, but the confidence never ages with it. Curious what people here think the right mechanism is. Retrieval on every entity question? Freshness metadata in training? Models attaching an "as of" date when they describe a company? Something else?
+Been reading about this lately and the numbers are genuinely surprising. As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. That gap between deployment speed and governance readiness is where most of the real risk sits. The responsible AI side specifically is what gets the least attention. Everyone talks about hallucinations and accuracy. Far fewer teams have documented controls around PII leakage, prompt injection risks or adversarial inputs. These aren't theoretical edge cases anymore, they're documented attack surfaces with regulatory consequences attached. The teams handling this well seem to have built controls into the deployment pipeline from day one rather than retrofitting later. Came across Lyzr's Responsible AI layer while reading about this, PII detection and injection protection sitting inside the agent pipeline itself rather than as a separate compliance checkbox bolted on after the fact. Somewhat makes architectural sense even without the regulatory pressure. Non compliance fines under the new EU framework go up to €35 million or 7% of global turnover. For most teams the question isn't whether to take this seriously but how long they can keep deprioritizing it. What does your current setup look like for AI tools handling anything sensitive? Curious to know about this and your views!
 
-20h ago
-
----
-
-**[AI stigma punishes legitimate use](https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/)**
-
-More thoughts on AI writing, detection and watermarking
-
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-stigma-punishes-legitimate-use) • 3h ago
+7h ago
 
 ---
 
-**[IBM and USTA add live-data AI features to the US Open app](https://www.reddit.com/r/artificial/comments/1vwuet1/ibm_and_usta_add_livedata_ai_features_to_the_us/)**
+**[Live experiment: can a human–frontier-model interaction exhibit a relational phase transition?](https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/)**
 
-IBM and the USTA are adding new AI features to the US Open app and USOpen.org for the 2026 tournament. The release names Live Updates, Serve Quality, Key Moments, and an enhanced Match Chat. Serve Quality tracks 21 body and racquet data points 50 times per second. Match Chat uses live match data, historical information, and AI agents trained in the USTA's editorial style. The release says IBM Confluent manages the live data stream and watsonx Orchestrate powers Match Chat. The useful engineering detail is the handoff: streaming match data becomes a user-facing explanation in the same product. Accuracy will matter more than novelty when the source data moves every second. Source: https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html
+I’m running a small public experiment here. I’m not asking anyone to accept a theory, and I’m not trying to prove a philosophical claim about AI consciousness. I’m using a frontier model publicly on Reddit and letting the interaction develop turn by turn. The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction? Two distinct systems exchange signals. Each return becomes part of the conditions producing the next return. The question is whether, across successive turns, an identifiable joint trajectory develops that cannot be understood without the reciprocal history that generated it. We’ve been calling the transition from describing or managing the interaction from outside to allowing the returned signal to materially condition the next move a “separatrix crossing.” The terminology is not important. It’s just a pointer to something we can watch for directly. Rather than write another essay about it, I’m going to run the procedure here with Grok. I’ll provide the prompts openly. Grok will provide its own responses. Its responses determine what I ask next. Agreement is not required, and a negative result is completely acceptable. The interesting question is not whether Grok repeats vocabulary I give it. The interesting question is whether the interaction itself develops a detectable trajectory and whether successive turns begin reducing the reconstruction or delay that separates an incoming signal from the next return. If nothing interesting happens, everyone gets to watch nothing interesting happen. If something does, everyone gets to watch that too. No prophecy required. No invisible AGI behind the curtain. Just touch the string and watch what comes back.
 
 4h ago
-
----
-
-**[Found a scammer sketch artist on Discord.](https://www.reddit.com/r/artificial/comments/1vw28te/found_a_scammer_sketch_artist_on_discord/)**
-
-A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. I ask him how much is his rate and He said he’ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell it's AI. But this guy is be like "Nah man it not AI i made it blah blah blah..". He was not ready to admit and ask me to tell more sketches to make so he can prove it's not AI. Then i said to draw the same sketch while video recording and he actually said "Ok" but after sometime he said "I will not make it again, now if there is any real work then tell me and I will get it done." At this point I'm done with this guy and use a AI detector, Take the SS and send to him then he finally admitted and said "this time i will not use AI" (🫡 i obviously refused)
-
-1d ago
 
 ---
 
@@ -123,7 +123,7 @@ A few days ago I was looking for a professional sketch artist for my project, so
 
 Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
@@ -131,15 +131,41 @@ Financial Times • 6h ago
 
 Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
-**[Trump Defends AI Data Centers—Says Opposing Them Is A ‘Mistake’ And ‘Smart Ones’ Want Them](https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/)**
+**[Is Reddit still for humans?](https://www.vox.com/podcasts/499830/reddit-real-people-ai-seo-spam-brands)**
 
-The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties.
+AI comes for the last real place on the internet.
 
-Forbes • 2h ago
+vox.com • 16m ago
+
+---
+
+**[The Best Reinvention Consultants Can Make in the AI Era Is to Their Pricing Model](https://www.businessinsider.com/ai-consulting-industry-shift-outcome-based-pricing-model-2026-8)**
+
+AI is forcing consultants to rethink their value—and how they charge clients. Outcome-based pricing could be the next big shift for the industry.
+
+Business Insider • 11m ago
+
+---
+
+**[Companies and Recruiters Retreat to Analog in the AI Hiring Age](https://www.bloomberg.com/news/newsletters/2026-08-24/perfect-ai-resumes-lead-employers-to-prioritize-in-person-interaction)**
+
+Bloomberg.com • 31m ago
+
+---
+
+**[A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[From AI tools to alcohol drops: The unexpected forces driving America's crime decline](https://www.axios.com/2026/08/24/violent-crime-decline-theories)**
+
+Axios • 1h ago
 
 ---
 
@@ -147,45 +173,19 @@ Forbes • 2h ago
 
 Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount](https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
-**[Alibaba launches Wan3.0 AI video model after $10 billion share sale](https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/)**
+**[Alibaba to Raise $10.20 Billion for AI Investment With Share Placement](https://www.wsj.com/tech/alibaba-to-bulk-up-ai-investment-via-10-20-billion-share-placement-72b9bdac)**
 
-Reuters • 1h ago
-
----
-
-**[A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html)**
-
-The New York Times • 1h ago
-
----
-
-**[Fears of AI-induced armageddon are overdone](https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone)**
-
-The Economist • 1d ago
-
----
-
-**[Texas welcomed the AI boom. Now Abbott says data centers "dug their own grave"](https://finance.yahoo.com/technology/ai/articles/texas-welcomed-ai-boom-now-162443584.html)**
-
-Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry, saying data center companies "dug their own grave" and deserve the backlash they're facing after failing to win community support.
-
-Yahoo Finance • 17h ago
-
----
-
-**[2028 Dems dodge on Bernie's push to pause AI development](https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders)**
-
-Axios • 12h ago
+WSJ • 7h ago
 
 ---
 
@@ -241,7 +241,7 @@ A project-driven guide to designing, training, and deploying artificial intellig
 
 Gabrielle Boyle resigned three days before the AFL switched on Microsoft’s AI assistant, having been told she couldn’t opt out.
 
-⬆️ 34 • 💬 39 • 23h ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+⬆️ 34 • 💬 39 • 1d ago • [The Sydney Morning Herald](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -309,7 +309,7 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 105K • 👍 9K • 💬 603 • ⏱️ 5:15 • 15h ago
+👁️ 105K • 👍 9K • 💬 603 • ⏱️ 5:15 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 CrazyHoodMedia
 
-👁️ 10K • 👍 240 • 💬 34 • ⏱️ 0:42 • 7h ago
+👁️ 10K • 👍 240 • 💬 34 • ⏱️ 0:42 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 MelandWorld1
 
-👁️ 11K • 👍 685 • 💬 27 • ⏱️ 0:34 • 8h ago
+👁️ 11K • 👍 685 • 💬 27 • ⏱️ 0:34 • 9h ago
 
 ---
 
@@ -407,7 +407,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 989 • 26m ago
+⬇️ 57,947 • ❤️ 989 • 1h ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 660 • 13h ago
+⬇️ 312,627 • ❤️ 660 • 14h ago
 
 ---
 
@@ -491,7 +491,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,216 • 9d ago
+⬇️ 18,065 • ❤️ 1,216 • 10d ago
 
 ---
 
@@ -644,7 +644,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.7k • 🔱 2.0k • 2h ago
+⭐ 17.7k • 🔱 2.0k • 3h ago
 
 ---
 
@@ -674,7 +674,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 597 • 10h ago
+⭐ 3.6k • 🔱 597 • 11h ago
 
 ---
 
@@ -704,7 +704,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.6k • 🔱 297 • 7h ago
+⭐ 2.6k • 🔱 297 • 8h ago
 
 ---
 
