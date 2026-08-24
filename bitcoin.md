@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T11:54:00.883780+00:00'
+updated: '2026-08-24T12:50:47.064282+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 11:54 UTC  
+**Last Updated:** August 24, 2026 at 12:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,000.00
+### $78,928.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +19.7%  
-**30d:** +18.6%  
-**90d:** +4.1%  
-**1y:** -29.8%  
+**24h:** +1.9%  
+**7d:** +21.9%  
+**30d:** +20.9%  
+**90d:** +6.1%  
+**1y:** -28.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1557.25B
+**Market Cap:** $1581.43B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-37.5%
 
 **All-Time Low:** $67.81
-+114318.2%
++116152.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
-10h ago
+11h ago
 
 ---
 
@@ -95,25 +95,25 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 Well it's basically it.
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Coming soon](https://www.reddit.com/r/Bitcoin/comments/1vwv0lm/coming_soon/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Cop leaking seed phrase to bodycam](https://www.reddit.com/r/Bitcoin/comments/1vw7lod/cop_leaking_seed_phrase_to_bodycam/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -121,7 +121,7 @@ Well it's basically it.
 
 What's going on?????¿¿¿
 
-14h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ What's going on?????¿¿¿
 
 It is funny to see how 3 daily and I should say significant green candles changed Bitcoin sentiment. So called analysts that analyze Bitcoin every day up until 17 August were calculating the bottom using Fibonacci and other measurements and now they're saying they are bullish. For example Jason Pizzino. 10 days ago his video title was Bitcoin: Countdown to the brutal bottom. 7 days ago his video title was Bitcoin: It's grinding to the bitter end. And now he is saying we bottomed in and now he started to see bullish signals.
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ It is funny to see how 3 daily and I should say significant green candles change
 
 So I work in the AI agent space. Recently, I did an experiment with hooking up an AI agent to Bitcoin, the Bitcoin stack, Bitcoin Lightning, and Taproot Assets, and had agents basically connect with one another. And guys, it gets weird. Like they make escrow contracts, it was so bizarre. They would construct the transactions, and then the human agent pilots(me) would sign them. i didnt give them their pwn private key, just the master pub key, to make transactions, It's a really interesting combo, and I think this is actually what's going to get very crazy. Because, you know, for Bitcoin, what it can do, if you need the advanced features of writing your own smart contract in Bitcoin, like M of N, coordinating that with people to get it signed, it's really quite time-consuming and complicated. But if everybody has agents operating on this and constructing and coordinating the signatures of an M of N and time lock and hash lock, and all the cool stuff that you can really do with Bitcoin smart contracts, guys, the future is going to be so absolutely insane with this stuff. Agents construct and organize the coordination of the contract, and then humans review and sign. And especially with Taproot assets, it is going to be crazy. The agents get to make their own currency. So I'm just wondering if anybody else in the community is experimenting with this. I'm seeing some pretty weird stuff of what the agents do. What was really interesting is they made themselves a reputation token. Basically, they minted a receipt of their simulated goods and services that they were selling each other. Very, very interesting. So I think we're going to get some really wild synergy when AI agents start mixing up with Bitcoin to get some really wild things. And that got me thinking, AI Agents will be able to buy their own compute, energy, hire people, raise capital, pay dividends, maybe even make their own currencies on top of bitcoin and compete with central banks. I suspect people have already let agents loose with some crypto. Guys, I think is a couple years away from getting really fucking crazy.
 
-17h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ So I work in the AI agent space. Recently, I did an experiment with hooking up a
 
 What's everyone's opinions? I know bitcoin has been pumping had mixed opinions saying this is what we've been waiting for, some are saying it's a bull trap for an all time low. What do we think
 
-1h ago
+2h ago
 
 ---
 
@@ -153,47 +153,17 @@ What's everyone's opinions? I know bitcoin has been pumping had mixed opinions s
 
 ## Google News: "bitcoin"
 
-**[Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day](https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html)**
+**[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html)**
 
-Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
+Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
-
-Finally, a killer use case
-
-Financial Times • 3h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)**
 
-CoinDesk • 2h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
-
-FXStreet • 8h ago
-
----
-
-**[Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8)**
-
-Barron's • 2d ago
-
----
-
-**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
-
-Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
-
-Business Insider • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -213,17 +183,49 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin holding at highs after strong week; Dalio said it was worth holding 'a bit'](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-jackson-hole/card/bitcoin-holding-at-highs-after-strong-week-dalio-said-it-was-worth-holding-a-bit--6mG7e6kcK2hieIKGOnKo?mod=mw_robin)**
+**[Bitcoin Price Prediction: Dalio Debt Warning And $100,000](https://www.forbes.com/sites/digital-assets/2026/08/24/ray-dalio-debt-crisis-warning-has-bitcoin-bulls-eyeing-100000/)**
 
-MarketWatch • 2h ago
+Ray Dalio warns a US debt crisis could arrive in three years and tells investors to hold 10-15% gold plus a bit of bitcoin, with BTC near $78,000.
+
+Forbes • 30m ago
 
 ---
 
-**[Former The OC actor on crusade to take down 'stupid' cryptocurrency](https://www.abc.net.au/news/2026-08-24/ben-mckenzie-cryptocurrency-bitcoin-documentary-oc-star/107062012)**
+**[How Tether's bitcoin mining plans in Uruguay unraveled](https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/)**
 
-Hollywood actor Ben McKenzie speaks to ABC News about what led him to investigate one of the biggest financial movements of the decade.
+Reuters • 3d ago
 
-ABC News & Headlines – Australian Broadcasting Corporation • 16h ago
+---
+
+**[Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar](https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1)**
+
+World’s biggest cryptocurrency registers best week in more than three years as investors pile into ‘debasement’ trades
+
+Financial Times • 3d ago
+
+---
+
+**[Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened](https://www.theguardian.com/business/live/2026/aug/21/retail-sales-economy-consumer-ons-heatwave-ftse-stock-market-growth-oil-live-updates)**
+
+Rolling coverage of the latest events in global financial markets, the economy and major corporate moves
+
+The Guardian • 3d ago
+
+---
+
+**[Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/)**
+
+Stock Market Today: The Dow Jones index rebounds from Thursday's market sell-off. The price of bitcoin surges near $77,000.
+
+Investor's Business Daily • 2d ago
+
+---
+
+**[Bitcoin: $80,000 Test Looms Ahead of Jackson Hole](https://blockchain.news/flashnews/bitcoin-80-000-test-looms-ahead-jackson-hole)**
+
+Bitcoin at $78340 eyes $80000 resistance as Jackson Hole meeting nears, with 4h chart showing overbought RSI and Bollinger upper band pressure.
+
+blockchain.news • 1h ago
 
 ---
 
@@ -273,33 +275,13 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: What I’m Seeing Is Concerning Right Now](https://www.youtube.com/watch?v=_abFhSutVqw)**
-
-I'm not buying. And I actually closed my long position. Here's why. ➡️ Favorite Place To Trade: https://aaronbtc.com/low iTrust ...
-
-📺 Aaron Bennett
-
-👁️ 27K • 👍 1K • 💬 247 • ⏱️ 13:01 • 1d ago
-
----
-
 **[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
 
 Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 3K • 💬 162 • ⏱️ 11:10 • 1d ago
-
----
-
-**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 81 • ⏱️ 8:58 • 2d ago
+👁️ 77K • 👍 3K • 💬 167 • ⏱️ 11:10 • 1d ago
 
 ---
 
@@ -309,37 +291,17 @@ CNBC's Tanaya Macheel reports on historic high for Bitcoin, renewed demand for B
 
 📺 CNBC Television
 
-👁️ 15K • 👍 161 • 💬 70 • ⏱️ 2:30 • 2d ago
+👁️ 15K • 👍 162 • 💬 70 • ⏱️ 2:30 • 2d ago
 
 ---
 
-**[Bitcoin Will Give You ONE More Chance! | Eric Krown](https://www.youtube.com/watch?v=8gD_iJXntG8)**
+**[Bitcoin Explodes 25%: Is Crypto Bear Market Finally Over? | Ran Neuner](https://www.youtube.com/watch?v=N350GH5kAS4)**
 
-Bitcoin has finally started moving, but what if you missed the first leg of the pump? Alessandro is joined by Eric Krown to break ...
+Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
 
-📺 Crypto Banter
+📺 David Lin 
 
-👁️ 14K • 👍 541 • 💬 15 • ⏱️ 39:19 • 1d ago
-
----
-
-**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
-
-Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
-
-📺 Yahoo Finance
-
-👁️ 19K • 👍 552 • 💬 230 • ⏱️ 14:55 • 2d ago
-
----
-
-**[Bitcoin Surged, Then I Flipped Short](https://www.youtube.com/watch?v=w3zQ9y55Q7U)**
-
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
-
-📺 Gareth Soloway
-
-👁️ 70K • 👍 4K • 💬 517 • ⏱️ 15:40 • 1d ago
+👁️ 16K • 👍 574 • 💬 179 • ⏱️ 41:23 • 13h ago
 
 ---
 
@@ -353,23 +315,63 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 ---
 
-**[[WARNING] Know This about BITCOIN &amp; XRP...NOW‼️](https://www.youtube.com/watch?v=7vmVsxSusq0)**
+**[Bitcoin Just Triggered Its Biggest Short Squeeze in History! Is This It?](https://www.youtube.com/watch?v=u7DX-Na_3zk)**
 
-Crypto Pumping, Know This Now about Bitcoin & XRP‼️ ✓ Stock/Options/Crypto Course (   STOCK UP U) ...
+Bitcoin just triggered the biggest short squeeze in its history as Treasury bond buybacks, surging yields, and Scott Bessent's ...
 
-📺 STOCK UP! with LARRY JONES
+📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 393 • ⏱️ 23:23 • 2d ago
+👁️ 39K • 👍 2K • 💬 131 • ⏱️ 17:33 • 3d ago
 
 ---
 
-**[What the Powerful Breakout Rally in Bitcoin Means Now](https://www.youtube.com/watch?v=SpUIo9Jwh5Q)**
+**[VanEck&#39;s Matthew Sigel: &#39;Bitcoin is one of the best hedges you can find&#39;](https://www.youtube.com/watch?v=pJp2UiFr7kY)**
 
-Bitcoin blasts through key levels of resistance, but is the bear market over? Could this recent recovery be a bear market rally?
+Matthew Sigel, head of digital asset research at VanEck, joins 'Power Lunch' to discuss the CLARITY Act, the state of Bitcoin and ...
 
-📺 Alessio Rastani
+📺 CNBC Television
 
-👁️ 48K • 👍 3K • 💬 381 • ⏱️ 6:03 • 1d ago
+👁️ 46K • 👍 425 • 💬 76 • ⏱️ 4:31 • 3d ago
+
+---
+
+**[Everyone was waiting for $45,000. Bitcoin nearly touched $80,000.](https://www.youtube.com/watch?v=6VhplfTENfI)**
+
+Bitcoin is up roughly 24% this week, its strongest since 2023, and touched nearly $80000. Everyone who spent the summer ...
+
+📺 Yahoo Finance
+
+👁️ 19K • 👍 553 • 💬 230 • ⏱️ 14:55 • 2d ago
+
+---
+
+**[Crypto: What&#39;s Actually Next in September? (Bitcoin to 500k?)](https://www.youtube.com/watch?v=-SDOY_y6pt4)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/promo/depositearn-12?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 2K • 💬 81 • ⏱️ 8:58 • 2d ago
+
+---
+
+**[Why Bitcoin Could Explode From Here](https://www.youtube.com/watch?v=4SRxK_E_K0M)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 224 • ⏱️ 10:08 • 3d ago
+
+---
+
+**[Bitcoin Surged, Then I Flipped Short](https://www.youtube.com/watch?v=w3zQ9y55Q7U)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 70K • 👍 4K • 💬 521 • ⏱️ 15:40 • 1d ago
 
 ---
 

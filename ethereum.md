@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T11:54:00.887966+00:00'
+updated: '2026-08-24T12:50:47.070302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 11:54 UTC  
+**Last Updated:** August 24, 2026 at 12:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,446.05
+### $2,501.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +28.2%  
-**30d:** +25.7%  
-**90d:** +21.3%  
-**1y:** -44.0%  
+**24h:** +1.9%  
+**7d:** +30.7%  
+**30d:** +28.2%  
+**90d:** +23.7%  
+**1y:** -42.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.22B
+**Market Cap:** $302.09B
 Rank #2
 
 **Circulating Supply:** 120,681,508 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.0%
+-49.4%
 
 **All-Time Low:** $0.43
-+570648.2%
++578027.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -84,7 +84,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 19h ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 20h ago
 
 ---
 
@@ -168,7 +168,23 @@ The Motley Fool • 1d ago
 
 Tom Lee of Fundstrat believes a long-anticipated rotation into Ethereum has begun, with ETH potentially reaching $10,000 within the next one to two years. He argues Ethereum is undervalued compared to Bitcoin and could become the future settlement layer, boosting its importance in decentralized finance, tokenized assets, and AI. Lee's bullish outlook is supported by BitMine's aggressive Ethereum treasury strategy, where he serves as chairman. Recently, Ethereum's price surged over 32%, reflecting growing market interest.
 
-Pluang • 1h ago
+Pluang • 2h ago
+
+---
+
+**[Ethereum gains 29.3% in a week, outperforming B...](https://pluang.com/en/news-feed/harga-ethereum-naik-29-persen-tom-lee-rotasi-ethereum-dimulai)**
+
+Ethereum's price rose 29.3% over seven days, surpassing Bitcoin's 21.4% gain, driven by increased institutional interest and ETF inflows. Fundstrat's Tom Lee predicts Ethereum could reach $10,000 within two years, citing its growing role in tokenization, stablecoins, and AI applications. U.S. Ethereum ETFs attracted $365 million in July, more than Bitcoin's $205 million, signaling a shift in investment focus. However, Ethereum still faces competition and must sustain gains to confirm a lasting rotation away from Bitcoin.
+
+Pluang • 2h ago
+
+---
+
+**[US crypto ETFs outside Bitcoin and Ethereum see $90M inflows, led by XRP and Solana gains.](https://pluang.com/en/news-feed/dana-kripto-di-luar-bitcoin-dan-ethereum-melanjutkan-aliran-masuk)**
+
+US-listed crypto ETFs excluding Bitcoin and Ethereum attracted nearly $90 million last week, driven by strong inflows into XRP and Solana funds. XRP funds led with $39.78 million, marking their best week since May and extending a six-week streak of gains. Solana funds added $28.34 million, continuing an eight-week positive run. Other smaller tokens like Chainlink and Hyperliquid also saw inflows amid rising prices and positive regulatory signals, including a White House meeting discussing legal pathways for Hyperliquid. Despite these gains, Bitcoin and Ethereum funds dominated with a combined $2.61 billion inflow, their strongest week since October 2025. This trend highlights growing investor interest in altcoins alongside the leading cryptocurrencies.
+
+Pluang • 2h ago
 
 ---
 
@@ -176,21 +192,13 @@ Pluang • 1h ago
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
 
-CoinDesk • 5h ago
-
----
-
-**[Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher](https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher/)**
-
-XRP and Solana funds posted their strongest inflows since May as altcoin prices surged during the past trading week.
-
-CryptoSlate • 14h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -202,35 +210,27 @@ TradingView • 22h ago
 
 ---
 
+**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
+
+Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
+
+Seeking Alpha • 1h ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP pause as momentum indicators signal overbought conditions, massive rallies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-pause-as-momentum-indicators-signal-overbought-conditions-massive-rallies-202608240307)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday, with a bullish bias but appearing stretched after surging over 23%, 31% and 53% in the previous week.
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
-**[Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide](https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/)**
+**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
 
-The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote
+Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
 
-Global South Opportunities • 1d ago
-
----
-
-**[Bitcoin, Ethereum Rally 20%+ — Is the Crypto Bear Market Over?](https://coinmarketcap.com/academy/article/btc-eth-rally-as-crypto-hits-key-inflection-point)**
-
-BTC and ETH gain 25%+, Strategy is back in profit and 13F filings show institutions buying IBIT and Bitcoin. Is the bear market over?
-
-CoinMarketCap • 1d ago
-
----
-
-**[Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum and Bitcoin, disclosures reveal](https://nypost.com/2026/08/22/us-news/crypto-skeptic-rep-rashida-tlaib-stashes-savings-in-bitcoin/)**
-
-She’s repeatedly voted against crypto in Congress, but “squad” member Rashida Tlaib is stocking up on it in her personal IRA, her latest financial disclosure reveals.
-
-New York Post • 1d ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -244,17 +244,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 10K • 👍 449 • 💬 38 • ⏱️ 18:53 • 20h ago
-
----
-
-**[SharpLink &amp; Lido: This Changes Everything For ETH Holders (Here&#39;s Why)](https://www.youtube.com/watch?v=YtV-z_5Rv6c)**
-
-Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully productive asset, deploying it through Lido, ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 79 • 💬 46 • ⏱️ 10:36 • 13h ago
+👁️ 10K • 👍 460 • 💬 107 • ⏱️ 18:53 • 21h ago
 
 ---
 
@@ -264,7 +254,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 120 • ⏱️ 43:03 • 13h ago
+👁️ 43K • 👍 2K • 💬 147 • ⏱️ 43:03 • 14h ago
 
 ---
 
@@ -274,7 +264,17 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 156 • ⏱️ 27:38 • 7h ago
+👁️ 51K • 👍 3K • 💬 142 • ⏱️ 27:38 • 8h ago
+
+---
+
+**[SharpLink &amp; Lido: This Changes Everything For ETH Holders (Here&#39;s Why)](https://www.youtube.com/watch?v=YtV-z_5Rv6c)**
+
+Joseph Chalom and Kean Gilbert break down why SharpLink treats ETH as a fully productive asset, deploying it through Lido, ...
+
+📺 The Rollup
+
+👁️ 3K • 👍 88 • 💬 57 • ⏱️ 10:36 • 14h ago
 
 ---
 
@@ -284,17 +284,7 @@ BITCOIN PULLBACK: EVERYONE IS WRONG (Here's Why)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 444 • 💬 164 • ⏱️ 19:11 • 15h ago
-
----
-
-**[THE $1 BILLION HOUR 🚨 Why BTC, ETH and XRP All Exploded Together](https://www.youtube.com/watch?v=DTYa04eKhKU)**
-
-1️⃣ *   Save 35% code SUMMER Lifetime Membership 20 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
-
-📺 Stock Moe
-
-👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 23h ago
+👁️ 12K • 👍 459 • 💬 184 • ⏱️ 19:11 • 16h ago
 
 ---
 
@@ -304,7 +294,17 @@ In this video I break down the current Ethereum price outlook following the rece
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 383 • 💬 19 • ⏱️ 11:12 • 1d ago
+👁️ 8K • 👍 386 • 💬 20 • ⏱️ 11:12 • 1d ago
+
+---
+
+**[THE $1 BILLION HOUR 🚨 Why BTC, ETH and XRP All Exploded Together](https://www.youtube.com/watch?v=DTYa04eKhKU)**
+
+1️⃣ *   Save 35% code SUMMER Lifetime Membership 20 ONLY* ➡https://join.stockmoeacademy.com/join-page 2️⃣ ...
+
+📺 Stock Moe
+
+👁️ 19K • 👍 1K • 💬 95 • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -314,7 +314,7 @@ BMNR now holds approximately 5.82 million ETH and $11.4 billion of gross assets,
 
 📺 The Value Thinker
 
-👁️ 13K • 👍 894 • 💬 122 • ⏱️ 21:33 • 2d ago
+👁️ 13K • 👍 898 • 💬 123 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -332,7 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 283 • 💬 8 • ⏱️ 1:00 • 14h ago
+👁️ 4K • 👍 297 • 💬 23 • ⏱️ 1:00 • 15h ago
 
 ---
 
