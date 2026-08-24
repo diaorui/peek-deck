@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T16:37:07.853519+00:00'
+updated: '2026-08-24T17:31:08.719835+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 16:37 UTC  
+**Last Updated:** August 24, 2026 at 17:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,691.32
+### $78,729.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +23.0%  
-**30d:** +21.9%  
-**90d:** +6.9%  
-**1y:** -27.9%  
+**24h:** +1.7%  
+**7d:** +21.4%  
+**30d:** +20.3%  
+**90d:** +5.6%  
+**1y:** -28.8%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-4h ago
+5h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 Was kind of worried tbh but my grandpa kept telling me scared money makes no money 😎 See y’all on the moon 🌙
 
-14h ago
+15h ago
 
 ---
 
@@ -115,7 +115,7 @@ Was kind of worried tbh but my grandpa kept telling me scared money makes no mon
 
 Then it drops back down to 62k by next week
 
-3h ago
+4h ago
 
 ---
 
@@ -123,13 +123,13 @@ Then it drops back down to 62k by next week
 
 I wonder why that is so?
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin maximalism is dead](https://www.reddit.com/r/Bitcoin/comments/1vwyu8k/bitcoin_maximalism_is_dead/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ I wonder why that is so?
 
 Well it's basically it.
 
-6h ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ Well it's basically it.
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-54m ago
+1h ago
 
 ---
 
@@ -157,35 +157,43 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 Crypto’s true believers suddenly have a spring in their step again.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Kalshi traders think the bitcoin rally could end the year near current levels](https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-163500378.html)**
 
-Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.
+If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-CNBC • 2d ago
+Yahoo Finance • 56m ago
 
 ---
 
-**[Bitcoin or gold? Deciding on the summer's top safe-haven.](https://finance.yahoo.com/video/bitcoin-or-gold-deciding-on-the-summers-top-safe-haven-143055553.html)**
+**[Bitcoin’s Bounce Is a ‘Gift to Sell,’ Mike McGlone Warns as Bond Yields Flash 2007-Level Danger](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bounce-gift-sell-mike-162625668.html)**
 
-Bianco Research President Jim Bianco and B Riley Wealth Chief Market Strategist Art Hogan talk with Yahoo Finance Executive Editor Brian Sozzi about whether investors should choose gold (GC=F) or bitcoin (BTC-USD) as their go-to asset for the summer.
+Mike McGlone says Bitcoin’s rebound may be a selling opportunity within a broader bear market. The 30-year US Treasury yield recently reached 5.31%, its highest ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 9h ago
 
 ---
 
 **[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
 **[Strategy Stock Rises More Than Bitcoin as Coinbase, Robinhood Lag](https://www.barrons.com/articles/strategy-stock-mstr-bitcoin-price-182cedb0)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -197,31 +205,23 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Jordi Visser believes bitcoin will be one of the big winners of the AI trade. Do you agree?](https://www.moomoo.com/community/feed/jordi-visser-believes-bitcoin-will-be-one-of-the-big-117151093227525)**
-
-@Anthony Pompliano 264 Views
-
-Moomoo • 1h ago
-
----
-
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
-
-Finally, a killer use case
-
-Financial Times • 8h ago
-
----
-
-**[Watch Alibaba Drops, SoftBank Bond Sale, Bitcoin Rally | Stock Movers](https://www.bloomberg.com/news/videos/2026-08-24/alibaba-drops-softbank-bond-sale-stock-movers-video)**
-
-Bloomberg • 16h ago
-
----
-
 **[Live updates: Bitcoin climbs past $79,000, with gold topping $4,700](https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+
+WSJ • 3d ago
+
+---
+
+**[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
+
+BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
+
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 128 • ⏱️ 20:21 • 17h ago
+👁️ 22K • 👍 2K • 💬 128 • ⏱️ 20:21 • 18h ago
 
 ---
 
@@ -289,7 +289,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 400 • 3h ago
+👁️ 3K • 👍 400 • 4h ago
 
 ---
 
@@ -309,7 +309,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 369 • 💬 76 • ⏱️ 15:07 • 6h ago
+👁️ 5K • 👍 369 • 💬 76 • ⏱️ 15:07 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 575 • 💬 30 • ⏱️ 1:43 • 15h ago
+👁️ 8K • 👍 575 • 💬 30 • ⏱️ 1:43 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 18K • 👍 612 • 💬 207 • ⏱️ 41:23 • 17h ago
+👁️ 18K • 👍 612 • 💬 207 • ⏱️ 41:23 • 18h ago
 
 ---
 
