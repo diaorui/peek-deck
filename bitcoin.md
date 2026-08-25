@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T01:15:49.600316+00:00'
+updated: '2026-08-25T02:39:08.405004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 01:15 UTC  
+**Last Updated:** August 25, 2026 at 02:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,822.59
+### $80,903.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +14.8%  
-**30d:** +24.9%  
-**90d:** +8.1%  
-**1y:** -28.8%  
+**24h:** +5.1%  
+**7d:** +16.7%  
+**30d:** +26.9%  
+**90d:** +9.9%  
+**1y:** -27.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1584.45B
+**Market Cap:** $1623.54B
 Rank #1
 
-**Circulating Supply:** 20,074,725 BTC
+**Circulating Supply:** 20,074,765 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.4%
+-35.9%
 
 **All-Time Low:** $67.81
-+116300.2%
++119173.0%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-12h ago
+14h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Then it drops back down to 62k by next week
 
-11h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ Then it drops back down to 62k by next week
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 I wonder why that is so?
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ I wonder why that is so?
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-9h ago
+10h ago
 
 ---
 
@@ -151,19 +151,27 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html)**
+**[Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day](https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html)**
 
-Crypto’s true believers suddenly have a spring in their step again.
+Bitcoin had its best week in more than three years — Scott Bessent helped light the match.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin is less than 1% away from reaching $80,000.](https://www.moomoo.com/community/feed/bitcoin-is-less-than-1-away-from-reaching-80-000-117153408484965)**
+**[Tether Co-Founder on Bitcoin's Bounce, Clarity Act Hopes](https://www.moomoo.com/news/video/75183297/tether-co-founder-on-bitcoin-s-bounce-clarity-act-hopes)**
 
-@AltCoin Daily 3744 Views|2 Likes
+Bill Quigley, Co-Founder of Tether and Wax, explains that Bitcoin is increasingly behaving like a gold hedge against U.S. government inflation, with its correlation to gold rising to 0.71. This shift has contributed to Bitcoin's 35% increase since June lows.
 
-Moomoo • 23m ago
+Moomoo • 52m ago
+
+---
+
+**[Webull Sees Bitcoin, ETH Buy Orders Jump Nearly 300% After Rule Repeal](https://finance.yahoo.com/markets/crypto/articles/webull-sees-bitcoin-eth-buy-012900245.html)**
+
+Webull CEO Anthony Denier says Bitcoin and ETH buy orders jumped nearly 300% after a US day-trading rule repeal.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,25 +179,7 @@ Moomoo • 23m ago
 
 The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
 
-Investopedia • 6h ago
-
----
-
-**[Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks](https://www.reuters.com/legal/transactional/strategy-earmarks-16-billion-cash-pool-treasury-operations-buybacks-2026-08-24/)**
-
-Reuters • 6h ago
-
----
-
-**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
-
-Bloomberg • 4h ago
-
----
-
-**[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
-
-CoinDesk • 12h ago
+Investopedia • 7h ago
 
 ---
 
@@ -197,7 +187,27 @@ CoinDesk • 12h ago
 
 Finally, a killer use case
 
-Financial Times • 17h ago
+Financial Times • 18h ago
+
+---
+
+**[Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks](https://www.reuters.com/legal/transactional/strategy-earmarks-16-billion-cash-pool-treasury-operations-buybacks-2026-08-24/)**
+
+Reuters • 7h ago
+
+---
+
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-sets-used-buy-bitcoin-123143159.html)**
+
+Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
+
+CoinDesk • 14h ago
 
 ---
 
@@ -205,13 +215,7 @@ Financial Times • 17h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 11h ago
-
----
-
-**[Watch Tether Co-Founder on Bitcoin's Bounce, Clarity Act Hopes](https://www.bloomberg.com/news/videos/2026-08-24/tether-co-founder-on-bitcoin-s-bounce-clarity-act-hopes-video)**
-
-Bloomberg • 1d ago
+Euronews.com • 12h ago
 
 ---
 
@@ -219,7 +223,7 @@ Bloomberg • 1d ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 10h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -231,7 +235,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 9h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 11h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -269,7 +273,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -283,7 +287,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 296 • 💬 158 • ⏱️ 14:52 • 7h ago
+👁️ 9K • 👍 338 • 💬 170 • ⏱️ 14:52 • 9h ago
 
 ---
 
@@ -293,7 +297,27 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 67 • 💬 122 • ⏱️ 0:53 • 6h ago
+👁️ 2K • 👍 90 • 💬 104 • ⏱️ 0:53 • 7h ago
+
+---
+
+**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
+
+SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
+
+📺 Verified Investing
+
+👁️ 10K • 👍 687 • 💬 83 • ⏱️ 17:09 • 8h ago
+
+---
+
+**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
+
+Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 224 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -303,45 +327,37 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 17h ago
+👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 18h ago
 
 ---
 
-**[Crypto PUMPING HARD! Altcoins Just Broke Out And This Is The Business Cycle Doing It (WHAT NEXT)](https://www.youtube.com/watch?v=iO2QATEaXDE)**
+**[Bitcoin Bulls Pushing!  Live Trading BTC XAU QQQ](https://www.youtube.com/watch?v=s4uUD6Zss2I)**
 
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Altcoins are ...
+Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading BTC, Alts. XAU GOLD, Silver, Oil, NQ, QQQ ...
 
-📺 Crypto Capital Venture
+📺 Sin City Crypto
 
-👁️ 16K • 👍 980 • 💬 264 • ⏱️ 1:18:20 • 3d ago
-
----
-
-**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
-
-Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 3K • 💬 216 • ⏱️ 43:03 • 1d ago
+👁️ 4K • 👍 351 • 5h ago
 
 ---
 
-**[Why Bitcoin Is Ripping Again](https://www.youtube.com/watch?v=47Qdz4-f97A)**
+**[Bitcoin’s Next Big Rally Has Started... And It Could Get MUCH Bigger](https://www.youtube.com/watch?v=gmpi_pv5iM0)**
 
-📺 THE JACK MALLERS SHOW
+Bitcoin just had its biggest week in years, surging roughly 24% and breaking out of a months-long consolidation. But was ...
 
-👁️ 2K • 👍 235 • 7h ago
+📺 Ross Givens
+
+👁️ 10K • 👍 608 • 💬 186 • ⏱️ 10:30 • 10h ago
 
 ---
 
-**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
+**[What the Powerful Breakout Rally in Bitcoin Means Now](https://www.youtube.com/watch?v=SpUIo9Jwh5Q)**
 
-Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+Bitcoin blasts through key levels of resistance, but is the bear market over? Could this recent recovery be a bear market rally?
 
-📺 Altcoin Daily
+📺 Alessio Rastani
 
-👁️ 82K • 👍 3K • 💬 195 • ⏱️ 11:10 • 2d ago
+👁️ 51K • 👍 3K • 💬 358 • ⏱️ 6:03 • 2d ago
 
 ---
 
@@ -351,27 +367,17 @@ Crypto News: Bitcoin pulls back due to overbought conditions and Jim Cramer turn
 
 📺 Thinking Crypto
 
-👁️ 10K • 👍 561 • 💬 184 • ⏱️ 21:25 • 1d ago
+👁️ 10K • 👍 566 • 💬 184 • ⏱️ 21:25 • 1d ago
 
 ---
 
-**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+**[The AI Crypto Macro Nexus Point: Why Bitcoin Matters to Investors](https://www.youtube.com/watch?v=FoSLsvUKvws)**
 
-When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+Visit ai.22vresearch.com or visser-labs.com for more info Email Mark Whaling mwhaling@22vresearch.com In this week's video, ...
 
-📺 Nicholas Crown
+📺 Jordi Visser
 
-👁️ 7K • 👍 345 • 💬 13 • ⏱️ 1:15 • 2d ago
-
----
-
-**[MAJOR Market Bottom For Crypto IS IN.](https://www.youtube.com/watch?v=Yaheg5RlK7c)**
-
-Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
-
-📺 Credible Crypto
-
-👁️ 24K • 👍 1K • 💬 124 • ⏱️ 1:11:06 • 2d ago
+👁️ 44K • 👍 3K • 💬 342 • ⏱️ 1:16:34 • 1d ago
 
 ---
 
