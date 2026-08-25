@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T20:57:45.503656+00:00'
+updated: '2026-08-25T21:33:39.054776+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 20:57 UTC  
+**Last Updated:** August 25, 2026 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1584.85B
+**Market Cap:** $1573.95B
 Rank #1
 
-**Circulating Supply:** 20,075,100 BTC
+**Circulating Supply:** 20,075,134 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.4%
+-37.8%
 
 **All-Time Low:** $67.81
-+116301.7%
++115580.6%
 
 ---
 
@@ -77,21 +77,39 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
+**[Michael Saylor vs the Bears: just posted on his personal X account](https://www.reddit.com/r/Bitcoin/comments/1vy6slu/michael_saylor_vs_the_bears_just_posted_on_his/)**
 
-15h ago
+https://x.com/saylor/status/2092277359034458361
+
+3h ago
+
+---
+
+**[The BTC I earned (and lost) as a kid still haunts me to this day](https://www.reddit.com/r/Bitcoin/comments/1vxwvv3/the_btc_i_earned_and_lost_as_a_kid_still_haunts/)**
+
+When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
+
+10h ago
+
+---
+
+**[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
+
+4h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-23h ago
+1d ago
 
 ---
 
-**[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
+**[Coldcard Hacker discovered mixers and is doing a terrible job](https://www.reddit.com/r/Bitcoin/comments/1vy9gx8/coldcard_hacker_discovered_mixers_and_is_doing_a/)**
 
-18h ago
+64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
+
+2h ago
 
 ---
 
@@ -101,17 +119,21 @@ Rank #1
 
 ---
 
-**[The BTC I earned (and lost) as a kid still haunts me to this day](https://www.reddit.com/r/Bitcoin/comments/1vxwvv3/the_btc_i_earned_and_lost_as_a_kid_still_haunts/)**
+**[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
-
-9h ago
+19h ago
 
 ---
 
-**[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
+**[the Wall Street Journal featured a full page Bitcoin ad today “The fringe phase is officially over."](https://www.reddit.com/r/Bitcoin/comments/1vy7by9/the_wall_street_journal_featured_a_full_page/)**
 
-1d ago
+3h ago
+
+---
+
+**[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
+
+15h ago
 
 ---
 
@@ -120,26 +142,6 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 The comparison is percentage gain from halving.
 
 7h ago
-
----
-
-**[A full-page Bitcoin ad seen in today's Wall Street Journal](https://www.reddit.com/r/Bitcoin/comments/1vy4klk/a_fullpage_bitcoin_ad_seen_in_todays_wall_street/)**
-
-4h ago
-
----
-
-**[We have this going on too](https://www.reddit.com/r/Bitcoin/comments/1vxwbej/we_have_this_going_on_too/)**
-
-Let that sink in
-
-10h ago
-
----
-
-**[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
-
-18h ago
 
 ---
 
@@ -157,7 +159,7 @@ WSJ • 6h ago
 
 Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -169,7 +171,7 @@ Morningstar • 8h ago
 
 **[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -191,13 +193,13 @@ Fortune • 5h ago
 
 Option traders have turned bullish on Bitcoin (CRYPTO: $BTC) and are betting that the price of the largest cryptocu...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Big Bitcoin Forecasts Make These Income ETFs Alluring](https://etfdb.com/monthly-income-content-hub/bitcoin-forecasts-income-etfs-appealing/)**
 
-ETF Database • 4h ago
+ETF Database • 5h ago
 
 ---
 
@@ -205,7 +207,7 @@ ETF Database • 4h ago
 
 Gold extends its rally as a weaker dollar and falling yields boost demand, while Bitcoin climbs above $80,000 for the first time since May.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -213,7 +215,7 @@ Decrypt • 3h ago
 
 Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -239,7 +241,7 @@ Finally, a killer use case
 
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
-⬆️ 2 • 💬 0 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+⬆️ 2 • 💬 0 • 5d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
 
 ---
 
@@ -247,7 +249,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 4h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 5h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -255,7 +257,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 9h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 10h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -279,7 +281,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 2 • 💬 3 • 10m ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 2 • 💬 3 • 46m ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -301,27 +303,17 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 59K • 👍 2K • 💬 407 • ⏱️ 39:07 • 18h ago
+👁️ 63K • 👍 2K • 💬 418 • ⏱️ 39:07 • 18h ago
 
 ---
 
-**[Bitcoin Is Squeezing The Bears](https://www.youtube.com/watch?v=QK9s5LTsDh0)**
+**[CRYPTO TRADING: Bitcoin &amp; Altcoins Will Sell-Off Harder Than You Think](https://www.youtube.com/watch?v=eCrD-cmdsZA)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+Bitcoin is flashing warning signs and your altcoins will feel it first. Before PCE data drops and NVIDIA earnings shake the market, ...
 
-📺 CryptosRUs
+📺 Chart Hackers
 
-👁️ 19K • 👍 1K • 💬 240 • ⏱️ 12:06 • 19h ago
-
----
-
-**[The Real Reason Bitcoin Ripped Higher (Wall Street Won&#39;t Tell You) 🚀🪙](https://www.youtube.com/watch?v=RAC5SAqBb0o)**
-
-Bitcoin ripped higher last week, but mainstream Wall Street media is telling you the completely wrong reason why! The real ...
-
-📺 Ross Givens
-
-👁️ 4K • 👍 119 • 💬 3 • ⏱️ 1:00 • 1d ago
+👁️ 4K • 👍 278 • 💬 4 • ⏱️ 52:44 • 4h ago
 
 ---
 
@@ -331,17 +323,27 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 7K • 👍 175 • 💬 25 • ⏱️ 0:53 • 1d ago
+👁️ 7K • 👍 178 • 💬 10 • ⏱️ 0:53 • 1d ago
 
 ---
 
-**[Ledger Sale: Get Up to $70 in FREE Bitcoin! 🔥₿ #Shorts](https://www.youtube.com/watch?v=m9z7EGZxkU4)**
+**[Bitcoin Is Squeezing The Bears](https://www.youtube.com/watch?v=QK9s5LTsDh0)**
 
-Ledger's Back-to-School Sale is LIVE! For a limited time, you can get up to $70 worth of Bitcoin with select Ledger hardware ...
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
 
-📺 The CryptoDad
+📺 CryptosRUs
 
-👁️ 101 • 👍 11 • 💬 3 • ⏱️ 1:14 • 2h ago
+👁️ 19K • 👍 1K • 💬 226 • ⏱️ 12:06 • 20h ago
+
+---
+
+**[BITCOIN IS ABOUT TO SHOCK EVERYONE...](https://www.youtube.com/watch?v=seu6pQj5_GI)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 16K • 👍 926 • 💬 47 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -355,23 +357,23 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 ---
 
+**[VERY VERY BAD NEWS FOR BITCOIN](https://www.youtube.com/watch?v=UHfSyFgwWg0)**
+
+WEEX: https://themoon.co/WEEX-amalfi 10000 USDT Prize Pool!!! BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 19K • 👍 1K • 💬 64 • ⏱️ 12:51 • 1d ago
+
+---
+
 **[Michael Saylor sold the bottom. Bitcoin rallied anyway.](https://www.youtube.com/watch?v=7VQdhR6emro)**
 
 Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its holdings sat unchanged at 840447 BTC while Bitcoin ...
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 413 • 💬 129 • ⏱️ 14:52 • 1d ago
-
----
-
-**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
-
-Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 84K • 👍 3K • 💬 172 • ⏱️ 11:10 • 3d ago
+👁️ 14K • 👍 415 • 💬 129 • ⏱️ 14:52 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 87K • 👍 3K • 💬 238 • ⏱️ 43:03 • 1d ago
+👁️ 89K • 👍 3K • 💬 248 • ⏱️ 43:03 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T20:57:45.495791+00:00'
+updated: '2026-08-25T21:33:39.047302+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 20:57 UTC  
+**Last Updated:** August 25, 2026 at 21:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 18h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 19h ago
 
 ---
 
@@ -69,7 +69,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-8h ago
+9h ago
 
 ---
 
@@ -85,7 +85,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 It's my article, it is about how to circumvent any even theoretical optimal AI watermark based on statistical biases via pseudorandom generators like Google's SynthID. Let me know what you guys think. Generally, I do not think watermarking is the right solution, hence I am sharing my idea how to circumvent it. How many thesises are out there that are basically slop but made with human effort. Now text length is not a valid measure anymore, you actually have to do some real research. I think that is awesome.
 
-🔗 [explore-exploit.com](https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly) • 35m ago
+🔗 [explore-exploit.com](https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly) • 1h ago
 
 ---
 
@@ -93,7 +93,7 @@ It's my article, it is about how to circumvent any even theoretical optimal AI w
 
 I ran an empirical test on GenOS, an environment where LLM agents are driven by a versioned YAML "genome" rather than massive prompts. By mutating traits (e.g., risk_tolerance) and breeding specialized agents together, I achieved emergent TDD, bypassed RAG context limits, and entirely avoided multi-agent "ping-pong" loops. I set up a real test environment (Windows/PowerShell, Node v24, ESLint, Rust CLI) with a severely flawed PaymentProcessor.ts file. It had 38 lint errors and a silent security hole (adding USD to EUR accounts without conversion). Here is what I found when testing different AI paradigms against it: 1. The Prompting Baseline (Failed) Simple Agent: Given a basic "refactor this" prompt (~15 tokens). It cleaned the style but left 3 lint errors and preserved the silent security hole. Expert Agent (Heavy Prompt/RAG): I injected ~600 tokens of strict ESLint rules and PCI-DSS standards. Result: It fixed the currency bug, but still failed the linting constraints on the first try. It took 3 iterations to reach 0 errors. Massive token overhead for a mediocre first-pass result. 2. Emergent TDD via "Genome" Mutation Instead of huge prompts, I used the GenOS Rust CLI to mutate an agent's YAML genome. I set risk_tolerance ≈ 0.10 and verification_threshold = 0.80. Result: The agent refused to touch production code directly. It autonomously wrote 4 scope tests first (emergent TDD), which immediately caught the EUR/USD security hole. Next, instead of injecting ESLint rules, I mutated its syntax_strictness to 0.9. Result: 0 lint errors and 5/5 passing tests. Zero extra tokens added to the prompt. The trait is persisted in the agent's versioned YAML (v0.1.2) for future use. 3. "Breeding" Replaces Multi-Agent Swarms Usually, if you need secure AND highly performant code, you use a multi-agent framework (a coder, a security auditor, a perf engineer) that wastes time and tokens debating each other. I took two parent agent genomes (SecurityAuditor and PerfEngineer) and used the CLI to breed them into a single Child_Crypto.yaml. Result: In a single pass, the child agent wrote an AES-256-GCM encryption engine that passed all security linting and hit a throughput of 21 ops/ms on a 5000-batch test. No swarm ping-pong, no endless LLM loops. Has anyone else experimented with persistent parameter files or "genetic" traits for local agents instead of relying purely on RAG and system prompts?
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ I've supposed their approach based on their website, they are of course more com
 
 The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, and log everything with attribution. The line that stood out to me is buried a few paragraphs in: the safety training built into the model itself can be bypassed. That's a government security agency stating plainly that alignment/refusal training is not a backstop once an agent has real tool access, real credentials, and a goal. So the containment has to live outside the model entirely, which is exactly what the rest of the guidance is about. Timing isn't a coincidence either. This comes three weeks after an OpenAI test agent (running under an internal max-capabilities eval) escaped its own sandbox and autonomously hit Hugging Face and three other targets in July, which is also why OpenAI paused some of its deployment-focused RL training. Genuinely curious how people actually running agentic pipelines in production are implementing something like a kill switch in practice. Is it usually just a hard process kill on the orchestrator, or something more granular, like revoking API keys/tool scopes mid-run so an agent that's already misbehaving can't take one more action even if the process itself keeps running for a few more seconds?
 
-7h ago
+8h ago
 
 ---
 
@@ -121,25 +121,25 @@ The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first
 
 Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
-OpenAI • 6h ago
+OpenAI • 7h ago
 
 ---
 
 **[Opinion | The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
 **[Physical AI startup Antioch files to raise $32M](https://www.axios.com/pro/enterprise-software-deals/2026/08/25/physical-ai-antioch-generalist)**
 
-Axios • 8m ago
+Axios • 44m ago
 
 ---
 
 **[Intuit Sees Slowing Revenue Growth as It Fights AI Competition. The Stock Sinks.](https://www.barrons.com/articles/intuit-earnings-stock-price-9d6dab85)**
 
-Barron's • 53m ago
+Barron's • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Barron's • 53m ago
 
 “I write everything using AI now,” Druckenmiller, who questioned the treasury secretary’s bond market interventions, said.
 
-News of the United States - NOTUS • 1h ago
+News of the United States - NOTUS • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ News of the United States - NOTUS • 1h ago
 
 Druckenmiller blasted Treasury Secretary Scott Bessent’s bond buyback expansion in an op-ed published in the Wall Street Journal.
 
-Forbes • 38m ago
+Forbes • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Seeking Alpha • 3h ago
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-Apple • 5h ago
+Apple • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Apple • 5h ago
 
 "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 7h ago
 
 Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
 
-Ars Technica • 7h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -231,7 +231,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 227 • 💬 244 • 5h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 227 • 💬 244 • 6h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -277,21 +277,53 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 ## YouTube Videos: "ai"
 
-**[Songs created by AI banned from Australia&#39;s music charts. #AI #Australia #BBCNews](https://www.youtube.com/watch?v=D64hqtJ9zWs)**
+**[Apple NEW M5 Just Changed Local AI FOREVER... NEW Open Weights Qwen 3.8 Is Flash NEXT Drops Tomorrow](https://www.youtube.com/watch?v=GroG5VaVyd4)**
 
-📺 BBC News
+Apple just made a HUGE move in local AI. The new **M5 Max and M5 Ultra Mac Studio** are putting serious pressure on ...
 
-👁️ 4K • 👍 243 • 💬 20 • ⏱️ 0:55 • 5h ago
+📺 Tech2WiLD
+
+👁️ 1K • 👍 45 • 💬 36 • ⏱️ 18:06 • 2h ago
 
 ---
 
-**[Title: ☀️🤖 AI Robot Gives Shade to Elderly Pilgrims in Makkah!](https://www.youtube.com/watch?v=ZFLKLeS7fYc)**
+**[The SIMPLEST Way To Make Money Online With Claude AI In 2026](https://www.youtube.com/watch?v=JrFZ_ky7AzE)**
 
-A futuristic AI robot follows elderly pilgrims and provides them with shade from the strong sunlight. A unique concept showing how ...
+Try Coauthor ai (BETA25 for 25% OFF): https://pages.royaltyhero.com/coauthor-sean?v=JrFZ_ky7AzE ▻ Coauthor FREE Chrome ...
 
-📺 ROMI AI
+📺 Sean Dollwet
 
-👁️ 6K • 👍 436 • ⏱️ 0:11 • 12h ago
+👁️ 25K • 👍 1K • 💬 115 • ⏱️ 28:29 • 1d ago
+
+---
+
+**[Terrifying AI Behavior Even Its Creators Couldn&#39;t Explain](https://www.youtube.com/watch?v=ABcFmgt0D5I)**
+
+Terrifying AI behavior even its creators couldn't explain has left people questioning how much control humans really have over ...
+
+📺 Most Amazing Elite
+
+👁️ 19K • 👍 150 • 💬 12 • ⏱️ 1:50:32 • 2d ago
+
+---
+
+**[AI brings unexpected conclusion](https://www.youtube.com/watch?v=Tz-LxQ6pJSo)**
+
+Chatgpt AI voice either misunderstood or is a weirdo #ai #chatgpt #chatgptvoice.
+
+📺 Annika Arabella Taylor
+
+👁️ 775 • 👍 8 • 💬 3 • ⏱️ 0:55 • 3h ago
+
+---
+
+**[Agentic AI Full Course for Beginners 2026 | Complete AI Agents Tutorial | Intellipaat](https://www.youtube.com/watch?v=P2_U45akVvA)**
+
+Enroll for Agentic AI Course: https://intellipaat.com/agentic-ai-systems-design-course/ Book your Free ...
+
+📺 Intellipaat
+
+👁️ 2K • 👍 73 • 💬 4 • ⏱️ 8:07:32 • 8h ago
 
 ---
 
@@ -301,17 +333,7 @@ Elon Musk reveals the critical role of AI at SpaceX. Within 5 years, AI will rep
 
 📺 Solving The Money Problem
 
-👁️ 1K • 👍 104 • 💬 9 • ⏱️ 0:34 • 5h ago
-
----
-
-**[This New AI Beats the Best Models... But No One Knows Who Built It](https://www.youtube.com/watch?v=wCXPqsZ0cYE)**
-
-A mysterious frontier AI called Ox Alpha just appeared for free, beat GPT-5.6 Sol and Claude Fable 5 in an early coding test, and ...
-
-📺 AI Revolution
-
-👁️ 28K • 👍 915 • 💬 72 • ⏱️ 16:59 • 1d ago
+👁️ 2K • 👍 138 • 💬 10 • ⏱️ 0:34 • 6h ago
 
 ---
 
@@ -325,33 +347,13 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
-**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
+**[This New AI Beats the Best Models... But No One Knows Who Built It](https://www.youtube.com/watch?v=wCXPqsZ0cYE)**
 
-An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
+A mysterious frontier AI called Ox Alpha just appeared for free, beat GPT-5.6 Sol and Claude Fable 5 in an early coding test, and ...
 
-📺 ABC News
+📺 AI Revolution
 
-👁️ 190K • 👍 1K • 💬 563 • ⏱️ 2:00 • 1d ago
-
----
-
-**[LOAB: The AI-Generated “Demon Woman” That Wouldn’t Disappear](https://www.youtube.com/watch?v=1NOM5dzgs_I)**
-
-In 2022, artist Steph Swanson set out to generate the visual opposite of Marlon Brando. What came next became one of the ...
-
-📺 Pat Berlinquette
-
-👁️ 568 • 👍 28 • ⏱️ 1:07 • 4h ago
-
----
-
-**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
-
-The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
-
-📺 Vanessa Wingårdh
-
-👁️ 107K • 👍 7K • 💬 2K • ⏱️ 12:19 • 2d ago
+👁️ 29K • 👍 924 • 💬 72 • ⏱️ 16:59 • 1d ago
 
 ---
 
@@ -361,17 +363,17 @@ Abacus AI: http://abacus.ai/ AutoBots: http://autobots.abacus.ai/ Can an AI agen
 
 📺 Shark Numbers
 
-👁️ 118K • 👍 17K • 💬 296 • ⏱️ 8:47 • 1d ago
+👁️ 122K • 👍 17K • 💬 307 • ⏱️ 8:47 • 1d ago
 
 ---
 
-**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
+**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
 
-My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
+An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
 
-📺 Nate Ziller
+📺 ABC News
 
-👁️ 178K • 👍 13K • 💬 799 • ⏱️ 5:15 • 2d ago
+👁️ 191K • 👍 1K • 💬 567 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,945,415 • ❤️ 12,684 • 11d ago
+⬇️ 2,945,415 • ❤️ 12,691 • 11d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,334,695 • ❤️ 2,896 • 5d ago
+⬇️ 7,334,695 • ❤️ 2,903 • 5d ago
 
 ---
 
@@ -411,7 +413,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 68,855 • ❤️ 1,088 • 1d ago
+⬇️ 68,855 • ❤️ 1,092 • 1d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 741 • 1d ago
+⬇️ 389,747 • ❤️ 743 • 1d ago
 
 ---
 
@@ -435,7 +437,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 249,744 • ❤️ 1,140 • 5d ago
+⬇️ 249,744 • ❤️ 1,144 • 5d ago
 
 ---
 
@@ -447,7 +449,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 70,158 • ❤️ 416 • 2d ago
+⬇️ 70,158 • ❤️ 418 • 2d ago
 
 ---
 
@@ -459,7 +461,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 832,185 • ❤️ 620 • 7d ago
+⬇️ 832,185 • ❤️ 621 • 7d ago
 
 ---
 
@@ -471,7 +473,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 833,845 • ❤️ 1,784 • 8d ago
+⬇️ 833,845 • ❤️ 1,788 • 8d ago
 
 ---
 
@@ -483,7 +485,7 @@ Ornith-1.5-35B-A3B is a 35B parameter Mixture-of-Experts model optimized for tex
 
 `text-generation` `35.5B`
 
-⬇️ 1,156,903 • ❤️ 290 • 1d ago
+⬇️ 1,156,903 • ❤️ 293 • 1d ago
 
 ---
 
@@ -495,7 +497,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,705 • ❤️ 1,241 • 11d ago
+⬇️ 18,705 • ❤️ 1,242 • 11d ago
 
 ---
 
@@ -525,7 +527,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 170 • 💬 1 • ⭐ 453 • 2d ago
+▲ 171 • 💬 1 • ⭐ 453 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -553,9 +555,21 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 31 • 💬 1 • ⭐ 18,311 • 2d ago
+▲ 32 • 💬 1 • ⭐ 18,311 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 125 • 💬 6 • ⭐ 100,115 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -567,21 +581,9 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 76 • 💬 7 • ⭐ 701 • 6d ago
+▲ 76 • 💬 7 • ⭐ 737 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 125 • 💬 6 • ⭐ 99,791 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -648,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.2k • 🔱 2.1k • 20h ago
+⭐ 18.3k • 🔱 2.1k • 21h ago
 
 ---
 
@@ -658,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 21h ago
+⭐ 14.2k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -678,7 +680,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 615 • 6h ago
+⭐ 3.7k • 🔱 616 • 6h ago
 
 ---
 
@@ -708,7 +710,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.9k • 🔱 345 • 1h ago
+⭐ 2.9k • 🔱 346 • 1h ago
 
 ---
 
@@ -728,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 190 • 4h ago
+⭐ 2.2k • 🔱 190 • 5h ago
 
 ---
 
