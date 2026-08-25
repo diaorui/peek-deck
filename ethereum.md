@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T13:50:40.548886+00:00'
+updated: '2026-08-25T14:44:29.250847+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 13:50 UTC  
+**Last Updated:** August 25, 2026 at 14:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-21h ago
+22h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Motley Fool • 2d ago
 
 Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1h ago
 
 In the latest Ethereum news today, Bitmine is 187,000 ETH away from owning 5% of the entire Ethereum supply, and last week’s buy closed the gap fast.The company acquired another 32,447 ETH last week, a purchase worth roughly $81 million, pushing total holdings to 5,847,611 ETH valued at around $15 ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,7 +198,7 @@ Barron's • 1h ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 1h ago
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 3h ago
+👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 587 • 💬 53 • ⏱️ 12:24 • 21h ago
+👁️ 8K • 👍 587 • 💬 53 • ⏱️ 12:24 • 22h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 333 • 💬 368 • ⏱️ 19:33 • 14h ago
+👁️ 9K • 👍 333 • 💬 368 • ⏱️ 19:33 • 15h ago
 
 ---
 
@@ -302,7 +302,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 6K • 👍 76 • 💬 7 • ⏱️ 0:43 • 18h ago
+👁️ 6K • 👍 76 • 💬 7 • ⏱️ 0:43 • 19h ago
 
 ---
 
@@ -322,7 +322,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 18h ago
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 19h ago
 
 ---
 
