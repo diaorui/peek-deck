@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T13:50:40.552111+00:00'
+updated: '2026-08-25T14:44:29.252719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 13:50 UTC  
+**Last Updated:** August 25, 2026 at 14:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 **[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-17h ago
+18h ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 23h ago
+CBS News • 1d ago
 
 ---
 
@@ -124,7 +124,7 @@ CBS News • 23h ago
 
 BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 16h ago
 
 CEO John Giamatteo cited warehouse robots, robotic forklifts, and medical robotics as key growth areas within its $950M QNX order backlog
 
-qz.com • 22m ago
+qz.com • 1h ago
 
 ---
 
@@ -140,7 +140,7 @@ qz.com • 22m ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -148,19 +148,19 @@ Business Insider • 9h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ Reuters • 1d ago
 
 Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -182,7 +182,7 @@ CNBC • 9h ago
 
 XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 49 • ⏱️ 1:18 • 14h ago
+👁️ 1K • 👍 49 • ⏱️ 1:18 • 15h ago
 
 ---
 
@@ -274,7 +274,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 Kyle Krueger
 
-👁️ 1.0M • 👍 76K • 💬 953 • ⏱️ 1:01 • 13h ago
+👁️ 1.0M • 👍 76K • 💬 953 • ⏱️ 1:01 • 14h ago
 
 ---
 
