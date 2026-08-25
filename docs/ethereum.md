@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T04:38:25.169147+00:00'
+updated: '2026-08-25T05:31:39.204105+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 04:38 UTC  
+**Last Updated:** August 25, 2026 at 05:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,481.90
+### $2,498.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +10.9%  
-**30d:** +32.0%  
-**90d:** +24.3%  
-**1y:** -45.8%  
+**24h:** +2.1%  
+**7d:** +11.4%  
+**30d:** +32.6%  
+**90d:** +24.8%  
+**1y:** -45.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.93B
+**Market Cap:** $302.45B
 Rank #2
 
 **Circulating Supply:** 120,681,303 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.1%
+-49.3%
 
 **All-Time Low:** $0.43
-+581563.3%
++578778.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -140,7 +140,7 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -156,25 +156,11 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 ## Google News: "ethereum"
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+**[Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin](https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
+Bitmine is about 187,000 Ethereum short of its 5% of supply target as the company loads up on another $81 million in ETH.
 
-PR Newswire • 16h ago
-
----
-
-**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
-
-BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
-
-CoinDesk • 15h ago
+Decrypt • 13h ago
 
 ---
 
@@ -202,27 +188,33 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 ---
 
-**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
-Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-CryptoSlate • 1d ago
+PR Newswire • 17h ago
 
 ---
 
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
+CoinDesk • 16h ago
+
+---
+
+**[Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH](https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/)**
+
+Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
 
 TradingView • 1d ago
 
 ---
 
-**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
+**[Current price of Ethereum for August 24, 2026](https://fortune.com/article/price-of-ethereum-08-24-2026/)**
 
-Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Seeking Alpha • 16h ago
+Fortune • 13h ago
 
 ---
 
@@ -230,7 +222,15 @@ Seeking Alpha • 16h ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 12h ago
+
+---
+
+**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
+
+Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
+
+Seeking Alpha • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 188 • 💬 348 • ⏱️ 19:33 • 5h ago
+👁️ 4K • 👍 263 • 💬 354 • ⏱️ 19:33 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 6K • 👍 512 • 💬 40 • ⏱️ 12:24 • 12h ago
+👁️ 7K • 👍 546 • 💬 43 • ⏱️ 12:24 • 13h ago
 
 ---
 
@@ -264,7 +264,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 33K • 👍 1K • 💬 156 • ⏱️ 1:07:49 • 18h ago
+👁️ 37K • 👍 1K • 💬 165 • ⏱️ 1:07:49 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 13K • 👍 507 • 💬 85 • ⏱️ 18:53 • 1d ago
+👁️ 13K • 👍 512 • 💬 79 • ⏱️ 18:53 • 1d ago
 
 ---
 
@@ -284,7 +284,27 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 254 • 💬 6 • ⏱️ 6:32 • 15h ago
+👁️ 6K • 👍 258 • 💬 8 • ⏱️ 6:32 • 16h ago
+
+---
+
+**[Tom Lee: Ethereum Could &quot;Easily&quot; Top $10,000](https://www.youtube.com/watch?v=CYTdFhLbN94)**
+
+Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.⁣ ⁣ Stablecoins already pushed ETH to $5000.
+
+📺 Bankless
+
+👁️ 4K • 👍 52 • 💬 5 • ⏱️ 0:43 • 10h ago
+
+---
+
+**[Bitcoin: Locking OUT The Bears (and crypto ETH, SOL, XRP)](https://www.youtube.com/watch?v=lOyhN2cfpgE)**
+
+TIA PRO LIFETIME DISCOUNT SALE → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ARE ...
+
+📺 Jason Pizzino
+
+👁️ 6K • 👍 597 • 💬 153 • ⏱️ 31:23 • 4h ago
 
 ---
 
@@ -294,7 +314,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 100K • 👍 5K • 💬 326 • ⏱️ 27:38 • 1d ago
+👁️ 105K • 👍 5K • 💬 329 • ⏱️ 27:38 • 1d ago
 
 ---
 
@@ -304,27 +324,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:31 • 8h ago
-
----
-
-**[How Ethereum Almost Broke Itself to Stop a Hack](https://www.youtube.com/watch?v=lUiwllWq9s8)**
-
-Most people know the DAO hack led to Ethereum Classic — but few know about the failed soft fork that nearly broke the entire ...
-
-📺 CoinGecko
-
-👁️ 1K • 👍 73 • 💬 110 • ⏱️ 4:22 • 18h ago
-
----
-
-**[ETHEREUM DUMP INCOMING? (ETH Prediction)](https://www.youtube.com/watch?v=t3vyqv5l5x4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 379 • 👍 19 • 💬 87 • ⏱️ 4:36 • 19h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:31 • 9h ago
 
 ---
 
@@ -334,7 +334,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 381 • 👍 83 • 💬 70 • ⏱️ 4:20 • 1d ago
+👁️ 388 • 👍 83 • 💬 70 • ⏱️ 4:20 • 1d ago
 
 ---
 

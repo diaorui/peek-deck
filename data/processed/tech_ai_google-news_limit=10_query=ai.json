@@ -5,22 +5,52 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1uQlo3ekQxaUEwY0ZuRGhjNkQxcHhwcFpKZjhJeWNwaHZaZS15Um1vaXZvWFdITnkwR3g1a2xidW9MN3hxMDJGbGlLQXRmSWFFRmhac3B0RFI5Zkx4dHlxMmplNlU4V29RSmtfU3FlZEh3UTM2S0RDcXNDVXZUYk9YTnVSWmRDMjk5MUFaWW9BNGJDalNLMjJ0WQ?oc=5",
+      "pub_date": 1787607953.0,
+      "article_url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations."
+    },
+    {
       "headline": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUlqNnp0NDlHNU4xMHZra21JUG9yR3F0SnV0Z01qSVVrTGtTU3RWSTdWUXVYZnNNb19Yc1J3SmxGMmtfa3RaeDJySUZXRkdtaHowb1BFZzFWbGxKQm4xa2N2TDlGTjVNZnpENXRVdUZVQ2hfSHlaVGJMbWtsRGotSHRHd2V0MkVEY2JCcW13?oc=5",
-      "pub_date": 1787594861.0,
+      "pub_date": 1787581234.0,
       "article_url": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
-      "pub_date": 1787562118.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html",
+      "headline": "Songs created by AI banned from Australia's music charts",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByV3JHa0VibHZPa3RUdTZPRVFBdDlwZE53Sm5nUmpyXzRENTh0ejJmbDZZTDF0LTBlYUZFZE9jdllPYXB4TDhUbW9hWFdjUHhTeklzN1EzYk85QQ?oc=5",
+      "pub_date": 1787633641.0,
+      "article_url": "https://www.bbc.com/news/articles/c20vl4vm2pno",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg",
+      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
+    },
+    {
+      "headline": "In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2J6VzJ2ZDlYdDVHWlRlbF9ycmJoQy10dFJEZTEtMndVbE0xQU1yc1I5Qk1YeVk2akJMZmFKTGhTZ2ZDOHQ3dW0yOGNwbU05X1lETWJzTmRwa0V2eGw3NTgtZk9sN1NoTmRGaThRRU4zcDlxRW9tS1duTUVrQjlLYzBnUi1CZU03UDhvTkswbFA0SHptbjlBajUzNXJ1dFB6UDdxRkRFX0drc084enVsUjM2Mkg?oc=5",
+      "pub_date": 1787630612.0,
+      "article_url": "https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2022/04/google-screensaver-gif.gif",
+      "description": "Data spanning one agency\u2019s entire client roster shows the true impact of AI search on web traffic and conversions."
+    },
+    {
+      "headline": "Waiting on Nvidia for next leg of AI rally",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRzR6dW5TVWtzeEswZlh0SHpjT09mZWlsd0VMSFRGb0dSSlJ2WXNnZ0NtYnV6STFLMkJLN3dWalhmSEtCSThLTVNIaElWR3Bld204dnExYkZNNlJtQk1qdU1XcnItQ2hQRWhpeUxET19oZ0NidDFMWm01X1ZtN2M?oc=5",
+      "pub_date": 1787632800.0,
+      "article_url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-08-25/",
       "image": null,
       "description": null
     },
@@ -35,32 +65,12 @@
       "description": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche."
     },
     {
-      "headline": "Watch How Korea's $10 Billion K-Pop Industry Is Turning to AI",
-      "source": "Bloomberg.com",
+      "headline": "AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3BLZlRXV1ZuemFLOVd0V2hhcmMwbkZNd29GbERIZjdya3I1NVRLbEEzcW1XZGprQUstaHlqU195UDE3UGRiZHc1d21DdXRuY0QyakUwQlZmcm96dTZVb0pBMVNTLWJ0aU5zX01CMVppeGdmWGZMakxGRUQxTmVFR2VKVnd4cWV6dTMyOEZVQ3VxS3M3eERyR1BkMEs2cjlvY054cVdPY2VMeUh6clE?oc=5",
-      "pub_date": 1787628358.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-08-25/how-korea-s-10-billion-k-pop-industry-is-turning-to-ai-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Superintendent: Orange Schools entering into world of AI with \u2018baby steps\u2019",
-      "source": "Cleveland.com",
-      "source_url": "https://www.cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGNZcGtBcEZ4SXJmSXdERGRYVW1MdTZBbmpaY0FVTTVxampKS09pUldYbElqVGhNRHA5bWF5Q2hyZENoRGx4Y1c1NVM1bDAzSGRXelhSRHJ0U1ZvMEdrTGpwTTV3eHVienVUSlpWYWxiR29iLVlkUjd6a3hFVnJUMmpCUDVJRENrMGVHNWlPcF9Sa2FDU0I3RDhHMUNjWW9iYUViZ0VGN1UwaE5DdVRFVXlhaTUxb193NDJRcw?oc=5",
-      "pub_date": 1787627220.0,
-      "article_url": "https://www.cleveland.com/community/2026/08/superintendent-orange-schools-entering-into-world-of-ai-with-baby-steps.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Data centers\u2019 \u2018oh s--t\u2019 moment",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclF4bTlPQkZtM0wyZmJKbmxZWkJicXZRM05ya1o2ZTZqWl9SVUxSWG5kSWtacUNwQm05bkNtZk5TMl9CUHQzd2JHclVkOTg4X3lBUGNYZE1PUU95ZTJ2Z3ZTeS1ZZDFIU0VyY1lSUDFLNDdjcGlCMmhqNkRzQkZxMFF3?oc=5",
-      "pub_date": 1787562000.0,
-      "article_url": "https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnFGMmJzb3hpNVRqTGljVGpzRmVSX3NKUEp0eHFrMlduSnpzSTRmVkFaeGxKcEh6UGhrQ1ZTMXhubTZBUXpiVUhENnJZUThIWWE3a0FtUGViMEhZWDlWYXZRQTVnNnZCNGJEWm02MzZiaFJ3T1d5bmZ4RUhMQlJZQVBCblQ2ZXhRSFJIZjdDczhTeTNIb25QaHg2RW1Oc1BxVElzcFJlUWd0ZlhVNzJvS3lB?oc=5",
+      "pub_date": 1787614925.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
       "image": null,
       "description": null
     },
@@ -75,26 +85,6 @@
       "description": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content\u2014and how difficult it was to find accountability."
     },
     {
-      "headline": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1uQlo3ekQxaUEwY0ZuRGhjNkQxcHhwcFpKZjhJeWNwaHZaZS15Um1vaXZvWFdITnkwR3g1a2xidW9MN3hxMDJGbGlLQXRmSWFFRmhac3B0RFI5Zkx4dHlxMmplNlU4V29RSmtfU3FlZEh3UTM2S0RDcXNDVXZUYk9YTnVSWmRDMjk5MUFaWW9BNGJDalNLMjJ0WQ?oc=5",
-      "pub_date": 1787607953.0,
-      "article_url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations."
-    },
-    {
-      "headline": "WikiHow sues OpenAI for copyright infringement over AI training",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
-      "pub_date": 1787608845.0,
-      "article_url": "https://www.reuters.com/legal/legalindustry/wikihow-sues-openai-copyright-infringement-over-ai-training-2026-08-24/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
       "source": "NVIDIA Blog",
       "source_url": "https://blogs.nvidia.com",
@@ -103,8 +93,18 @@
       "article_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
       "description": "New on-silicon performance data measured by NVIDIA using real-world agentic coding trajectories shows Vera Rubin NVL72 systems deliver 30x higher throughput per megawatt and 35x lower token costs than NVIDIA GB300 NVL72."
+    },
+    {
+      "headline": "The AI-related reason every billionaire suddenly wants to own a sports team",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qMFN6ZGhOd0xGaHA2WTVwYmpSSUZubDNfREcxYjlRWllzdmFPN3V1dERvd002Q1hxcmhud054MHZmVzVCaGlOQmZlSEhla05rMmZscmhWXzNyRnphTmZTYnFtdjFSU3BFRWxqVUk0V3pSUQ?oc=5",
+      "pub_date": 1787562029.0,
+      "article_url": "https://www.cnn.com/2026/08/24/business/sports-team-buying-spree",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26224547809465.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T03:49:00.646189+00:00"
+  "fetched_at": "2026-08-25T05:31:37.692519+00:00"
 }

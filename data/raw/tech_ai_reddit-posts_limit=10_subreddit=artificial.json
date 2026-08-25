@@ -35,17 +35,6 @@
       "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
     },
     {
-      "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
-      "author": "capibara13",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
-      "published": 1787574865.0,
-      "thumbnail": "https://external-preview.redd.it/KCQojI4Vvg-BSMuNWaJZs6TWLoBDakpUlsTDySeKzsU.png?width=640&crop=smart&auto=webp&s=3dc58c1059bbb33b3d498e37e7e8e5ca16f5e062",
-      "external_url": "https://rauno.ai",
-      "site_name": "Rauno",
-      "favicon": "https://rauno.ai/apple-touch-icon.png",
-      "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
-    },
-    {
       "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
       "author": "hakansan",
       "url": "https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!"
+    },
+    {
+      "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
+      "author": "capibara13",
+      "url": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
+      "published": 1787574865.0,
+      "thumbnail": "https://external-preview.redd.it/KCQojI4Vvg-BSMuNWaJZs6TWLoBDakpUlsTDySeKzsU.png?width=640&crop=smart&auto=webp&s=3dc58c1059bbb33b3d498e37e7e8e5ca16f5e062",
+      "external_url": "https://rauno.ai",
+      "site_name": "Rauno",
+      "favicon": "https://rauno.ai/apple-touch-icon.png",
+      "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
     },
     {
       "title": "AI agents are now using 5x more tokens than humans..",
@@ -112,5 +112,5 @@
       "description": "As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?"
     }
   ],
-  "fetched_at": "2026-08-25T03:48:32.449357+00:00"
+  "fetched_at": "2026-08-25T05:31:14.352726+00:00"
 }
