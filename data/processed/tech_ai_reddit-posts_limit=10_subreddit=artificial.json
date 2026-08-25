@@ -46,6 +46,17 @@
       "description": "Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!"
     },
     {
+      "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
+      "author": "BarchartNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
+      "published": 1787624843.0,
+      "thumbnail": "https://external-preview.redd.it/Tg8qFyiVCGidH4Eh7Qop5N9CuA4H7SuGhT1C6Hu41mw.jpeg?width=640&crop=smart&auto=webp&s=4a0b9fac006adf3bc0e37a686bc4852c6f53a5c7",
+      "external_url": "http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders",
+      "site_name": "barchart.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "AI agents are now using 5x more tokens than humans..",
       "author": "BrightLeopard7590",
       "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef"
-    },
-    {
-      "title": "Plato\u2019s Cave has a problem: telling someone they\u2019re seeing shadows just puts another shadow on the wall",
-      "author": "mb3rtheflame",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/",
-      "published": 1787594168.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Plato\u2019s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, \u201cThose are only shadows,\u201d what did you just give them? Another shadow. \ud83d\ude02 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you\u2019re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow \u201cescapes the Cave.\u201d Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn\u2019t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato\u2019s problem. We\u2019re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is."
     }
   ],
-  "fetched_at": "2026-08-25T01:15:24.026434+00:00"
+  "fetched_at": "2026-08-25T02:38:47.890329+00:00"
 }
