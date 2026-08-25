@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T16:37:08.324323+00:00'
+updated: '2026-08-25T17:31:45.828876+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 16:37 UTC  
+**Last Updated:** August 25, 2026 at 17:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +9.8%  
-**30d:** +30.7%  
-**90d:** +23.0%  
-**1y:** -46.3%  
+**24h:** -0.5%  
+**7d:** +9.3%  
+**30d:** +30.1%  
+**90d:** +22.5%  
+**1y:** -46.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 2d ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -168,7 +168,21 @@ The Motley Fool • 23h ago
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
+
+PR Newswire • 1d ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -180,25 +194,9 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Prices Fall Back After Crypto Surge—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
+**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-Barron's • 2h ago
-
----
-
-**[Bitmine Is 187,000 ETH Away From Owning 5% of All Ethereum, And It Just Got a Lot Closer](https://finance.yahoo.com/markets/crypto/articles/bitmine-187-000-eth-away-120739851.html)**
-
-In the latest Ethereum news today, Bitmine is 187,000 ETH away from owning 5% of the entire Ethereum supply, and last week’s buy closed the gap fast.The company acquired another 32,447 ETH last week, a purchase worth roughly $81 million, pushing total holdings to 5,847,611 ETH valued at around $15 ...
-
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
-
-Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
-
-Benzinga • 20h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -210,25 +208,25 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 ---
 
-**[Current price of Ethereum for August 25, 2026](https://fortune.com/article/price-of-ethereum-08-25-2026/)**
+**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Fortune • 14h ago
-
----
-
-**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
-
-CoinDesk • 4h ago
+Benzinga • 21h ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+**[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
 
-Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+Barron's • 2h ago
 
-CryptoSlate • 1d ago
+---
+
+**[Ethereum Cat (ethereumcat.living) price today, ECAT to USD live price, marketcap and chart](https://coinmarketcap.com/currencies/ethereumcat-living/)**
+
+The live Ethereum Cat (ethereumcat.living) price today is $0.00000004487 USD with a 24-hour trading volume of $10,315.86 USD. We update our ECAT to USD price in real-time.
+
+CoinMarketCap • 2h ago
 
 ---
 
@@ -242,7 +240,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 4 • ⏱️ 8:33 • 3h ago
+👁️ 2K • 👍 167 • 💬 4 • ⏱️ 8:33 • 4h ago
 
 ---
 
@@ -262,7 +260,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 6K • 👍 249 • 💬 115 • ⏱️ 42:25 • 21h ago
+👁️ 6K • 👍 249 • 💬 115 • ⏱️ 42:25 • 22h ago
 
 ---
 
@@ -272,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 
 
 📺 Cilinix Crypto
 
-👁️ 322 • 👍 21 • 💬 1 • ⏱️ 5:57 • 7h ago
+👁️ 322 • 👍 21 • 💬 1 • ⏱️ 5:57 • 8h ago
 
 ---
 
@@ -282,7 +280,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 359 • 💬 410 • ⏱️ 19:33 • 17h ago
+👁️ 9K • 👍 359 • 💬 410 • ⏱️ 19:33 • 18h ago
 
 ---
 
@@ -292,7 +290,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 2K • 👍 710 • 1h ago
+👁️ 2K • 👍 710 • 2h ago
 
 ---
 
@@ -322,7 +320,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 7K • 👍 90 • 💬 9 • ⏱️ 0:43 • 21h ago
+👁️ 7K • 👍 90 • 💬 9 • ⏱️ 0:43 • 22h ago
 
 ---
 
@@ -332,7 +330,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 2K • 👍 19 • 💬 1 • ⏱️ 0:31 • 20h ago
+👁️ 2K • 👍 19 • 💬 1 • ⏱️ 0:31 • 21h ago
 
 ---
 
