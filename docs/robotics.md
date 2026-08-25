@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T16:37:08.327598+00:00'
+updated: '2026-08-25T17:31:45.832154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 16:37 UTC  
+**Last Updated:** August 25, 2026 at 17:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-19h ago
+20h ago
 
 ---
 
@@ -116,7 +116,45 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 7h ago
+CNBC • 8h ago
+
+---
+
+**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
+
+NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
+
+NVIDIA Newsroom • 2h ago
+
+---
+
+**[Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/)**
+
+With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
+
+The Robot Report • 2h ago
+
+---
+
+**[Nvidia unveils new robotics computer Jetson Orin Nano 2](https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2)**
+
+On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Report: Amazon eyes ‘fully automated’ delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/)**
+
+Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
+
+GeekWire • 37m ago
+
+---
+
+**[Corvus Robotics raises $20M as co-founder takes CEO role](https://www.bizjournals.com/sanjose/news/2026/08/25/corvus-robotics-mohammed-kabir-ceo.html)**
+
+The Business Journals • 1h ago
 
 ---
 
@@ -124,23 +162,7 @@ CNBC • 7h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 18h ago
-
----
-
-**[RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China](https://www.foxbusiness.com/video/6404025127112)**
-
-RoboStore CEO Ted Haggerty discusses China’s advances in humanoid robots, America’s position in the global robotics race and potential robot soldiers on ‘Varney & Co.’
-
-Fox Business • 2h ago
-
----
-
-**[BlackBerry CEO says robotics is fastest-growing QNX segment](https://qz.com/blackberry-qnx-robotics-fastest-growing-ceo-082526)**
-
-CEO John Giamatteo cited warehouse robots, robotic forklifts, and medical robotics as key growth areas within its $950M QNX order backlog
-
-qz.com • 3h ago
+BBC • 19h ago
 
 ---
 
@@ -148,7 +170,7 @@ qz.com • 3h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -160,29 +182,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
+**[RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China](https://www.foxbusiness.com/video/6404025127112)**
 
-Axios • 4h ago
+RoboStore CEO Ted Haggerty discusses China’s advances in humanoid robots, America’s position in the global robotics race and potential robot soldiers on ‘Varney & Co.’
 
----
-
-**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
-
-WSJ • 13h ago
-
----
-
-**[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
-
-Reuters • 1d ago
-
----
-
-**[Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation](https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html)**
-
-Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
-
-CNBC • 12h ago
+Fox Business • 3h ago
 
 ---
 

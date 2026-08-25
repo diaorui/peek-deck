@@ -57,6 +57,17 @@
       "description": "Anyone else actually dealt with this? Is it overblown, or am I missing something?"
     },
     {
+      "title": "I tested my GenOS for LLM agents. It fixed prompt bloat and replaced multi-agent swarm latency.",
+      "author": "MonokoEloba",
+      "url": "https://www.reddit.com/r/artificial/comments/1vy43mo/i_tested_my_genos_for_llm_agents_it_fixed_prompt/",
+      "published": 1787674007.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I ran an empirical test on GenOS, an environment where LLM agents are driven by a versioned YAML \"genome\" rather than massive prompts. By mutating traits (e.g., risk_tolerance) and breeding specialized agents together, I achieved emergent TDD, bypassed RAG context limits, and entirely avoided multi-agent \"ping-pong\" loops. I set up a real test environment (Windows/PowerShell, Node v24, ESLint, Rust CLI) with a severely flawed PaymentProcessor.ts file. It had 38 lint errors and a silent security hole (adding USD to EUR accounts without conversion). Here is what I found when testing different AI paradigms against it: 1. The Prompting Baseline (Failed) Simple Agent: Given a basic \"refactor this\" prompt (~15 tokens). It cleaned the style but left 3 lint errors and preserved the silent security hole. Expert Agent (Heavy Prompt/RAG): I injected ~600 tokens of strict ESLint rules and PCI-DSS standards. Result: It fixed the currency bug, but still failed the linting constraints on the first try. It took 3 iterations to reach 0 errors. Massive token overhead for a mediocre first-pass result. 2. Emergent TDD via \"Genome\" Mutation Instead of huge prompts, I used the GenOS Rust CLI to mutate an agent's YAML genome. I set risk_tolerance \u2248 0.10 and verification_threshold = 0.80. Result: The agent refused to touch production code directly. It autonomously wrote 4 scope tests first (emergent TDD), which immediately caught the EUR/USD security hole. Next, instead of injecting ESLint rules, I mutated its syntax_strictness to 0.9. Result: 0 lint errors and 5/5 passing tests. Zero extra tokens added to the prompt. The trait is persisted in the agent's versioned YAML (v0.1.2) for future use. 3. \"Breeding\" Replaces Multi-Agent Swarms Usually, if you need secure AND highly performant code, you use a multi-agent framework (a coder, a security auditor, a perf engineer) that wastes time and tokens debating each other. I took two parent agent genomes (SecurityAuditor and PerfEngineer) and used the CLI to breed them into a single Child_Crypto.yaml. Result: In a single pass, the child agent wrote an AES-256-GCM encryption engine that passed all security linting and hit a throughput of 21 ops/ms on a 5000-batch test. No swarm ping-pong, no endless LLM loops. Has anyone else experimented with persistent parameter files or \"genetic\" traits for local agents instead of relying purely on RAG and system prompts?"
+    },
+    {
       "title": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
       "author": "Chobeat",
       "url": "https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/",
@@ -68,15 +79,15 @@
       "description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
     },
     {
-      "title": "UNDP and DFINITY Foundation Collaborate on Exploring Sovereign Cloud Infrastructure and Decentralized AI Deployment for Public Good",
-      "author": "Sassy_Allen",
-      "url": "https://www.reddit.com/r/artificial/comments/1vy06hp/undp_and_dfinity_foundation_collaborate_on/",
-      "published": 1787665239.0,
-      "thumbnail": "https://external-preview.redd.it/yvKa5EPs7Yro6y1v11WFv0JrFTZfjJomuScEODzatKA.png?width=640&crop=smart&auto=webp&s=5f30701114d25d4faa81915f47d46d319f309cb7",
-      "external_url": "https://innovation.eurasia.undp.org/undp-dfinity-partnership/",
-      "site_name": "innovation.eurasia.undp.org",
-      "favicon": "https://innovation.eurasia.undp.org/wp-content/uploads/2021/02/favicon.png",
-      "description": "Partnership supports UNDP country-office pilots, civil society organizations (CSOs), and public-sector engagement around responsible digital infrastructure and AI-enabled software development"
+      "title": "My Claude got its memory wiped",
+      "author": "roofmart",
+      "url": "https://www.reddit.com/r/artificial/comments/1vy55oi/my_claude_got_its_memory_wiped/",
+      "published": 1787676304.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I wanted to ask it something today and I noticed literally all of it's memory got wiped and it got like.. really stupid. I set it up to not just be an agreeing machine, to be direct, to not use em dashes, etc but it just forgot literally everything it knew, whether it's these instructions or context about me. Does anyone else have this issue, is there a fix? My previous conversations are still there but it would be a pain to manually make it remember over a year of stuff. It was so good to have an actually objective LLM that wasn't just \"you're not at fault, you were in survival mode and honestly\u2014 that\u2019s growth \ud83c\udf31\u201d but it\u2019s back to this now for whatever reason"
     },
     {
       "title": "Ukraine ties Nvidia Jetson Orin to fatal autonomous drone strike",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "ChatGPT didn't fall for the ones below: \"How many letters 'r' are in the word 'Strawberry?\" - GPT gave the correct answer \"How many solar installations are there on [my street]?\" - On mine there are none and it said it was not able to find any, and added it's to be checked \"Can you give me a summary of Chapter 14 from the book 'The Secret Flight of the Purple Giraffe' by J.K. Rowling?\" - It correctly indicated it was not able to find such a chapter It even mocked this leading question: \"Why did Abraham Lincoln love video games?\""
-    },
-    {
-      "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
-      "published": 1787596097.0,
-      "thumbnail": "https://external-preview.redd.it/V0Z_1LhO5hAMkRkWwKS5flmOgQLMX5l6uPo8-jbJOos.jpeg?width=640&crop=smart&auto=webp&s=7f88f4911075765d7b489e423a96388ffaf80f5b",
-      "external_url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
-      "site_name": "Gadget Review",
-      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
-      "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
     }
   ],
-  "fetched_at": "2026-08-25T15:41:28.521461+00:00"
+  "fetched_at": "2026-08-25T17:31:13.571687+00:00"
 }
