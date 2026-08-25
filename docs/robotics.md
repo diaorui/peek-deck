@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T05:31:39.206971+00:00'
+updated: '2026-08-25T06:48:04.615658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 05:31 UTC  
+**Last Updated:** August 25, 2026 at 06:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main biomécanique UM1-Evo à 24 degrés de liberté. Cela m'a pris 5 ans et demi de passion et de galères,mais je suis assez content du résultat. Le projet contient 25 moteurs, il est à l'échelle 1:1, l’électronique et le wifi sont embarqués et il pèse au total 1.7kg, soit le poids des caractéristiques de l’anatomie humaine. Un très gros travail de recherche biomécanique et cinématique ont été réalisées pour reproduire le plus fidèlement possible la forme organique et les mouvements d’une vraie main. J’ai conçu un script permettant de relever la main d’un patient (en moins de 30 minutes) et ainsi créer la main en 3D sur-mesure (en 10 minutes). J’ai également développé un logiciel de commande par cinématique inverse IK avec animation par clés ou en temps réel. J’ai conçu un gant avec 12 capteurs pour reproduire les mouvements de la main en temps réel en mode avatar. Pour une utilisation en prothèse de main, un système de captation innovant différents des systèmes myoélectriques, permet de manipuler la main avec une latence extrêmement basse et une prise en main instantané. (Ce système et en cours de protection) Voilà, n’hésitez pas à me dire ce que vous en pensez 😀
 
-16h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main b
 
 This article show how a robot can be trained purely on monocular video (from video to RL policy!). It's a series of articles, with open source-code, based on Unitree GO2 robot trained in Isaac Sim and Mujoco. TL;DR: I taught a quadruped robot to imitate a real dog — using nothing but a phone video. From a single monocular clip, I extract the dog's 3D skeleton, retarget its motion to the robot's joints, and train a reinforcement learning policy in a physics simulator until the robot moves like the dog it watched. It works, and it's fully open source. Because in the age of robots dancing and sprinting through forests, we shouldn't be spectators or subscribers — we should be owners. Code included. Build it yourself. https://postcapitalistrobots.substack.com/p/the-first-robot-trained-entirely
 
-20h ago
+21h ago
 
 ---
 
@@ -52,19 +52,19 @@ This article show how a robot can be trained purely on monocular video (from vid
 
 Just sharing some personal thoughts from the perspective of a casual audience. I just came back from WRC2026 this weekend, and felt things are getting more practical this year. More robots were doing actual work, tidying rooms, making coffee, retail, warehouse tasks, long-horizon manipulation, mostly with VLA or world models, which are increasingly driving hardware. Kind of happy to see some robots getting stuck and making mistakes😂 (that means luckily I didn't meet teleoperated demos) And robots can actually reason the situation and adjust strategy. https://preview.redd.it/y5aghdb93alh1.jpg?width=1343&format=pjpg&auto=webp&s=5cf1f2f34694ce49f56068e51d8ecfda3850a156 The other big theme was data. Physical world data collection seems incredibly hot. UMI, ego-centric data and teleoperation. If robots are going to generalize, real-world data is clearly becoming as important as the hardware. Still, most practical demos feel closer to “it works” than “it works reliably at scale.” Like dexterous hands can have 1500+ BOM line items, manufacturing consistency is a huge challenge. But much better, compared with robots just dancing on stage. https://reddit.com/link/1vwwatz/video/iej5848j3alh1/player I spent most of my time checking out some of less-known players and emerging startups, such as: SynapX: One of the few EMG wristbands that can be demoed live, and world-model-driven arm for tasks like folding clothes; Galaxea: visitors order on-site, and robot autonomously identify and pick items; generalized across SKUs without requiring category-specific adaptation; Morphi Robot: world model + VLA mixed architecture, empowering 15min long-duration and complete tasks; AgileX Robotics: saw its robot arms being used by several model companies on site, they also provide 1-to-n teleoperation + ego data collection; Dexforce: world model + humanoid, making coffee and more However, the industry is heavily siloed. Companies are building their own hardware and defining their own data. When will we finally see some standardization, and convergence? Human fall flat And yes, there was still a lot of weird stuff😂 Some humanoids fell down and couldn’t get back up, while staff desperately tried to figure out what went wrong. But honestly, I'm glad to see the debugging. If anything, it actually gave me more confidence.
 
-21h ago
+22h ago
 
 ---
 
 **[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in S
 
 I went through a bunch of footage from the World Robot Conference after Unitree’s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there’s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 18h ago
 
 ---
 
@@ -88,7 +88,7 @@ I went through a bunch of footage from the World Robot Conference after Unitree�
 
 I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS
 
-17h ago
+18h ago
 
 ---
 
@@ -116,29 +116,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 15h ago
+CBS News • 16h ago
 
 ---
 
-**[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
+**[BlackBerry found a second life in car software. Now it’s looking to robotics](https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html)**
 
-Reuters • 18h ago
+BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
 
----
-
-**[Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation](https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html)**
-
-Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
-
-CNBC • 1h ago
-
----
-
-**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html)**
-
-XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
-
-Yahoo Finance • 14h ago
+CNBC • 9h ago
 
 ---
 
@@ -146,27 +132,27 @@ Yahoo Finance • 14h ago
 
 More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 7h ago
-
----
-
-**[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
-
-Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
-
-Business Insider • 1h ago
+Axios • 10h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 13h ago
+WSJ • 14h ago
+
+---
+
+**[Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate](https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8)**
+
+Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed.
+
+Business Insider • 11h ago
 
 ---
 
@@ -174,13 +160,29 @@ WSJ • 13h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
-**[Robotics and the future of on-orbit labor](https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/)**
+**[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-SpaceNews • 7h ago
+Reuters • 19h ago
+
+---
+
+**[Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation](https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html)**
+
+Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
+
+CNBC • 2h ago
+
+---
+
+**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html)**
+
+XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
+
+Yahoo Finance • 16h ago
 
 ---
 
@@ -214,7 +216,7 @@ Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is
 
 📺 FUN Robotics Network
 
-👁️ 963 • 👍 38 • ⏱️ 1:18 • 6h ago
+👁️ 963 • 👍 38 • ⏱️ 1:18 • 7h ago
 
 ---
 
@@ -234,7 +236,7 @@ AI robot, robot helping human, future robot, artificial intelligence, AI generat
 
 📺 ALI HAMZA 
 
-👁️ 3.0M • 👍 132K • 💬 243 • ⏱️ 0:10 • 2d ago
+👁️ 3.0M • 👍 132K • 💬 243 • ⏱️ 0:10 • 3d ago
 
 ---
 
@@ -274,7 +276,7 @@ The Robot Olympics are here, and the future is a little messier than expected. A
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 6K • 👍 74 • 💬 12 • ⏱️ 0:56 • 11h ago
+👁️ 6K • 👍 74 • 💬 12 • ⏱️ 0:56 • 12h ago
 
 ---
 

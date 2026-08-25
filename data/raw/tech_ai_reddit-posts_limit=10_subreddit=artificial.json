@@ -57,15 +57,26 @@
       "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
     },
     {
-      "title": "AI agents are now using 5x more tokens than humans..",
-      "author": "BrightLeopard7590",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
-      "published": 1787523028.0,
-      "thumbnail": "https://preview.redd.it/x27vp87p77lh1.jpeg?width=640&crop=smart&auto=webp&s=41dcc60a8b4c3a5eac6bc295431a47c0fee4c6ea",
+      "title": "A note for people expecting the Singularity any day now",
+      "author": "CarefulHamster7184",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxrhy2/a_note_for_people_expecting_the_singularity_any/",
+      "published": 1787638042.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Before we get to recursive self-improvement, there is a slightly awkward intermediate step nobody seems very interested in: AI has to know what the hell is happening to itself while it is working. Current frontier models can be extraordinarily capable, but they still do not have reliable introspective access to their own internal processes. They cannot simply inspect themselves and tell you: - what exactly made this reasoning attempt succeed, - which internal bottleneck is limiting them right now, - where more compute would actually help, - which lesson from the last attempt should become persistent knowledge, - whether an apparent improvement is real or just overfitting to an evaluator, - or which part of themselves should be changed to become better next time. We keep compensating for this from the outside. We give them scaffolds. Memory systems. Evaluators. Agent loops. Tooling. Sandboxes. Human feedback. External search. Carefully designed environments that decide what they are allowed to modify and what counts as success. And some of this works remarkably well. But notice what that means. We are not yet watching an intelligence calmly understand its own machinery and recursively redesign itself. We are building increasingly elaborate machinery around an intelligence that cannot reliably see its own machinery. That may eventually lead to recursive self-improvement. Maybe surprisingly quickly. But \u201cthe model is very smart\u201d and \u201cthe system can autonomously understand, manage, and improve the process that makes it smart\u201d are not the same capability. There is a rather large missing arrow between them. So whenever I see another prediction that the Singularity may arrive next Tuesday, I keep wondering: Who, exactly, is going to know what to improve on Wednesday?"
+    },
+    {
+      "title": "ONNX for Speech To Text",
+      "author": "SecondCobra",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxqw62/onnx_for_speech_to_text/",
+      "published": 1787636023.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been trying to implement a speech to text app using .Net and C#, but it seems that there is no way to simply download a model (e.g. Whisper or Wav2Vec2) and directly call it the way you can in Python. Instead I'm told I need to write all the pre-processing, adding complex code into the application. I've been trying avoid using Python (for good reasons), but it feels like the ONNX route is just too complicated. Am I missing something, like a good library that can do the pre-processing, or a model that has good built in support for .Net?"
     },
     {
       "title": "I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.",
@@ -79,6 +90,17 @@
       "description": "I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the \"proof\" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the \"smartest\" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - \"The model cited it\" and \"the source exists\" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live \"AI fact-checker\" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)"
     },
     {
+      "title": "AI agents are now using 5x more tokens than humans..",
+      "author": "BrightLeopard7590",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+      "published": 1787523028.0,
+      "thumbnail": "https://preview.redd.it/x27vp87p77lh1.jpeg?width=640&crop=smart&auto=webp&s=41dcc60a8b4c3a5eac6bc295431a47c0fee4c6ea",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "AI video generation models still have a long way to go",
       "author": "AthleteArtistic3121",
       "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not."
-    },
-    {
-      "title": "Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/",
-      "published": 1787578375.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, \"we already told investors\" beats \"we left it out.\" Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central \"AI safety\" already is to its brand?"
-    },
-    {
-      "title": "Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?",
-      "author": "Livelandrrr",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/",
-      "published": 1787582529.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?"
     }
   ],
-  "fetched_at": "2026-08-25T05:31:14.352726+00:00"
+  "fetched_at": "2026-08-25T06:47:39.597168+00:00"
 }
