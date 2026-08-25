@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T11:56:07.839071+00:00'
+updated: '2026-08-25T12:49:29.791528+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 11:56 UTC  
+**Last Updated:** August 25, 2026 at 12:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main biomécanique UM1-Evo à 24 degrés de liberté. Cela m'a pris 5 ans et demi de passion et de galères,mais je suis assez content du résultat. Le projet contient 25 moteurs, il est à l'échelle 1:1, l’électronique et le wifi sont embarqués et il pèse au total 1.7kg, soit le poids des caractéristiques de l’anatomie humaine. Un très gros travail de recherche biomécanique et cinématique ont été réalisées pour reproduire le plus fidèlement possible la forme organique et les mouvements d’une vraie main. J’ai conçu un script permettant de relever la main d’un patient (en moins de 30 minutes) et ainsi créer la main en 3D sur-mesure (en 10 minutes). J’ai également développé un logiciel de commande par cinématique inverse IK avec animation par clés ou en temps réel. J’ai conçu un gant avec 12 capteurs pour reproduire les mouvements de la main en temps réel en mode avatar. Pour une utilisation en prothèse de main, un système de captation innovant différents des systèmes myoélectriques, permet de manipuler la main avec une latence extrêmement basse et une prise en main instantané. (Ce système et en cours de protection) Voilà, n’hésitez pas à me dire ce que vous en pensez 😀
 
-23h ago
+1d ago
 
 ---
 
@@ -58,13 +58,13 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 **[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in S
 
 I went through a bunch of footage from the World Robot Conference after Unitree’s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there’s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 21h ago
+CBS News • 22h ago
 
 ---
 
@@ -124,7 +124,7 @@ CBS News • 21h ago
 
 BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 14h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ IEEE Spectrum • 1h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -148,7 +148,7 @@ Business Insider • 7h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 20h ago
+TechCrunch • 21h ago
 
 ---
 
@@ -156,19 +156,19 @@ TechCrunch • 20h ago
 
 More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
@@ -182,7 +182,7 @@ Reuters • 1d ago
 
 Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -190,13 +190,13 @@ CNBC • 7h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+**[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
 
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
 
-📺 New York Post
+📺 DPCcars
 
-👁️ 35K • 👍 855 • 💬 211 • ⏱️ 0:52 • 2d ago
+👁️ 21K • 👍 214 • 💬 88 • ⏱️ 1:55 • 1d ago
 
 ---
 
@@ -206,17 +206,17 @@ A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robo
 
 📺 USA TODAY
 
-👁️ 72K • 👍 480 • 💬 89 • ⏱️ 0:31 • 1d ago
+👁️ 74K • 👍 493 • 💬 94 • ⏱️ 0:31 • 1d ago
 
 ---
 
-**[Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown](https://www.youtube.com/watch?v=3MrdXwZXTJA)**
+**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
 
-Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is supported by Kettering University: Accepted ...
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
 
-📺 FUN Robotics Network
+📺 New York Post
 
-👁️ 1K • 👍 45 • ⏱️ 1:18 • 12h ago
+👁️ 36K • 👍 857 • 💬 211 • ⏱️ 0:52 • 2d ago
 
 ---
 
@@ -226,27 +226,17 @@ A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Hu
 
 📺 DPCcars
 
-👁️ 39K • 👍 138 • 💬 35 • ⏱️ 1:40 • 1d ago
+👁️ 42K • 👍 140 • 💬 36 • ⏱️ 1:40 • 1d ago
 
 ---
 
-**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
+**[Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown](https://www.youtube.com/watch?v=3MrdXwZXTJA)**
 
-Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
+Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is supported by Kettering University: Accepted ...
 
-📺 India Today Global
+📺 FUN Robotics Network
 
-👁️ 9K • 👍 81 • 💬 7 • ⏱️ 1:11 • 22h ago
-
----
-
-**[Humanoid Robot Jumps 7.97 Meters](https://www.youtube.com/watch?v=6LdwLD3Qhy8)**
-
-A humanoid robot reached an incredible 7.97 meters in the long jump at the World Humanoid Robot Games in Beijing. Tianjiao ...
-
-📺 DPCcars
-
-👁️ 19K • 👍 90 • 💬 7 • ⏱️ 0:32 • 1d ago
+👁️ 1K • 👍 49 • ⏱️ 1:18 • 13h ago
 
 ---
 
@@ -256,7 +246,27 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 102K • 👍 740 • 💬 134 • ⏱️ 0:40 • 2d ago
+👁️ 104K • 👍 753 • 💬 134 • ⏱️ 0:40 • 2d ago
+
+---
+
+**[Pt. 3- Someone said they can’t take the turns 🧾👀  Well… you running or hiding? 🏃🏽‍♀️](https://www.youtube.com/watch?v=EzFvisyby8Q)**
+
+The Robot Olympics are here, and the future is a little messier than expected. At the World Humanoid Robot Games in Beijing, ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 8K • 👍 105 • 💬 12 • ⏱️ 0:56 • 19h ago
+
+---
+
+**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
+
+Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
+
+📺 India Today Global
+
+👁️ 11K • 👍 102 • 💬 8 • ⏱️ 1:11 • 23h ago
 
 ---
 
@@ -264,7 +274,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 Kyle Krueger
 
-👁️ 748K • 👍 60K • 💬 830 • ⏱️ 1:01 • 11h ago
+👁️ 1.0M • 👍 76K • 💬 953 • ⏱️ 1:01 • 12h ago
 
 ---
 
@@ -274,17 +284,7 @@ What happens when a luxury sports car gets transformed into a giant walking mech
 
 📺 Shelter Guide
 
-👁️ 36K • 👍 574 • 💬 4 • ⏱️ 1:08 • 23h ago
-
----
-
-**[Humanoid Robots Play LIVE Autonomous Tennis Match!](https://www.youtube.com/watch?v=dEOFpgElJKM)**
-
-Humanoid robots are getting ready to compete on the tennis court. GALBOT is preparing its autonomous tennis robots to track ...
-
-📺 DPCcars
-
-👁️ 15K • 👍 38 • 💬 6 • ⏱️ 0:28 • 3d ago
+👁️ 38K • 👍 602 • 💬 4 • ⏱️ 1:08 • 1d ago
 
 ---
 

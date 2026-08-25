@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T11:56:07.835876+00:00'
+updated: '2026-08-25T12:49:29.788645+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 11:56 UTC  
+**Last Updated:** August 25, 2026 at 12:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.70B
+**Market Cap:** $298.00B
 Rank #2
 
 **Circulating Supply:** 120,681,303 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.0%
+-50.1%
 
 **All-Time Low:** $0.43
-+571535.1%
++570080.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-19h ago
+20h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 18h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 23h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -176,7 +176,7 @@ PR Newswire • 23h ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 15h ago
+Benzinga • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ Seeking Alpha • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -238,13 +238,13 @@ Fortune • 22h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=14ofrV2WVGA)**
+**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
 
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
 
-📺 Crypto World
+📺 Ivan on Tech
 
-👁️ 8K • 👍 315 • 💬 366 • ⏱️ 19:33 • 12h ago
+👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 2h ago
 
 ---
 
@@ -254,27 +254,17 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 576 • 💬 52 • ⏱️ 12:24 • 19h ago
+👁️ 8K • 👍 587 • 💬 53 • ⏱️ 12:24 • 20h ago
 
 ---
 
-**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=14ofrV2WVGA)**
 
-Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Ivan on Tech
+📺 Crypto World
 
-👁️ 6K • 👍 661 • 💬 8 • ⏱️ 49:14 • 2h ago
-
----
-
-**[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
-
-Ethereum might be a generational opportunity right now. $20000 is a genuine target some of the biggest names in crypto are ...
-
-📺 No Bs Crypto
-
-👁️ 14K • 👍 522 • 💬 82 • ⏱️ 18:53 • 1d ago
+👁️ 9K • 👍 333 • 💬 368 • ⏱️ 19:33 • 13h ago
 
 ---
 
@@ -284,7 +274,17 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 5K • 👍 213 • 💬 124 • ⏱️ 42:25 • 17h ago
+👁️ 6K • 👍 229 • 💬 113 • ⏱️ 42:25 • 18h ago
+
+---
+
+**[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
+
+Ethereum might be a generational opportunity right now. $20000 is a genuine target some of the biggest names in crypto are ...
+
+📺 No Bs Crypto
+
+👁️ 14K • 👍 527 • 💬 83 • ⏱️ 18:53 • 1d ago
 
 ---
 
@@ -294,7 +294,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 263 • 💬 8 • ⏱️ 6:32 • 22h ago
+👁️ 6K • 👍 268 • 💬 8 • ⏱️ 6:32 • 23h ago
 
 ---
 
@@ -304,7 +304,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 5K • 👍 70 • 💬 7 • ⏱️ 0:43 • 16h ago
+👁️ 6K • 👍 76 • 💬 7 • ⏱️ 0:43 • 17h ago
 
 ---
 
@@ -314,7 +314,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 112K • 👍 5K • 💬 339 • ⏱️ 27:38 • 1d ago
+👁️ 114K • 👍 5K • 💬 340 • ⏱️ 27:38 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 16h ago
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 17h ago
 
 ---
 
@@ -334,7 +334,7 @@ lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd ch
 
 📺 Home Aura
 
-👁️ 399 • 👍 83 • 💬 70 • ⏱️ 4:20 • 2d ago
+👁️ 405 • 👍 84 • 💬 69 • ⏱️ 4:20 • 2d ago
 
 ---
 
