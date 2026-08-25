@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T12:49:29.783188+00:00'
+updated: '2026-08-25T13:50:40.542798+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 12:49 UTC  
+**Last Updated:** August 25, 2026 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,272.17
+### $78,477.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +14.0%  
-**30d:** +24.0%  
-**90d:** +7.4%  
-**1y:** -29.3%  
+**24h:** -1.3%  
+**7d:** +13.2%  
+**30d:** +23.1%  
+**90d:** +6.6%  
+**1y:** -29.8%  
 
 ---
 
@@ -79,43 +79,43 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-9h ago
+10h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-10h ago
+11h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-15h ago
+16h ago
 
 ---
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-9h ago
+10h ago
 
 ---
 
 **["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 Let that sink in
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Let that sink in
 
 There is a lot of gold left to be mined. Bitcoin? Not so much.
 
-16h ago
+17h ago
 
 ---
 
@@ -145,31 +145,11 @@ There is a lot of gold left to be mined. Bitcoin? Not so much.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin has just wiped out three months of losses in 1 week](https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html)**
+**[Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace](https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html)**
 
-The bitcoin rally continues.
+Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.
 
-Yahoo Finance • 3h ago
-
----
-
-**[The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style](https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html)**
-
-Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.
-
-CNBC • 1h ago
-
----
-
-**[Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026)**
-
-WSJ • 1h ago
-
----
-
-**[Bitcoin’s surge above $80,000 was driven by short covering, not excessive leverage](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)**
-
-CoinDesk • 1h ago
+CNBC • 10h ago
 
 ---
 
@@ -177,7 +157,35 @@ CoinDesk • 1h ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
+
+---
+
+**[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
+
+Bloomberg • 1h ago
+
+---
+
+**[The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style](https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html)**
+
+Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.
+
+CNBC • 2h ago
+
+---
+
+**[Stock Market Today: Futures Rise After Losing Day for S&P 500, Nasdaq; Oil Prices Drop; Bitcoin Briefly Tops $80K](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08252026-12067123)**
+
+Major U.S. stock indexes opened higher Tuesday, a day after the Nasdaq Composite and S&P 500 began the week with losses, as oil prices retreated and bitcoin briefly topped $80,000 for the first time in more than three months.
+
+Investopedia • 1h ago
+
+---
+
+**[Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back](https://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back)**
+
+ETF.com • 16h ago
 
 ---
 
@@ -185,15 +193,7 @@ The Motley Fool • 19h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 22h ago
-
----
-
-**[Current price of Bitcoin for August 24, 2026](https://fortune.com/article/price-of-bitcoin-08-24-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 23h ago
+Euronews.com • 23h ago
 
 ---
 
@@ -205,17 +205,19 @@ Financial Times • 1d ago
 
 ---
 
-**[U.S. widens Iran sanctions; Bitcoin tops $80,000 - what’s moving markets](https://www.investing.com/news/economy-news/us-widens-iran-sanctions-bitcoin-tops-80000--whats-moving-markets-4874596)**
-
-Investing.com • 1h ago
-
----
-
 **[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 23h ago
+
+---
+
+**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
+
+Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
+
+Business Insider • 1d ago
 
 ---
 
@@ -227,7 +229,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 21h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 22h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -249,7 +251,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 1h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 2h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -273,7 +275,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -287,7 +289,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 32K • 👍 2K • 💬 318 • ⏱️ 39:07 • 9h ago
+👁️ 32K • 👍 2K • 💬 318 • ⏱️ 39:07 • 11h ago
 
 ---
 
@@ -297,7 +299,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 151 • 💬 102 • ⏱️ 0:53 • 17h ago
+👁️ 5K • 👍 151 • 💬 102 • ⏱️ 0:53 • 18h ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitcoin ripped higher last week, but mainstream Wall Street media is telling you
 
 📺 Ross Givens
 
-👁️ 3K • 👍 110 • 💬 28 • ⏱️ 1:00 • 18h ago
+👁️ 3K • 👍 110 • 💬 28 • ⏱️ 1:00 • 19h ago
 
 ---
 
@@ -337,7 +339,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 393 • 💬 192 • ⏱️ 14:52 • 19h ago
+👁️ 12K • 👍 393 • 💬 192 • ⏱️ 14:52 • 20h ago
 
 ---
 
@@ -347,7 +349,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 2h ago
+👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 3h ago
 
 ---
 
