@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T06:48:04.612372+00:00'
+updated: '2026-08-25T07:43:12.362759+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 06:48 UTC  
+**Last Updated:** August 25, 2026 at 07:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,21 +52,29 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $302.45B
+**Market Cap:** $301.39B
 Rank #2
 
 **Circulating Supply:** 120,681,303 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.3%
+-49.5%
 
 **All-Time Low:** $0.43
-+578778.0%
++576812.5%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 25, 2026](https://www.reddit.com/r/ethereum/comments/1vxqazy/daily_general_discussion_august_25_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2h ago
+
+---
 
 **[Daily General Discussion August 24, 2026](https://www.reddit.com/r/ethereum/comments/1vwtakt/daily_general_discussion_august_24_2026/)**
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-14h ago
+15h ago
 
 ---
 
@@ -112,19 +120,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[156 - Doots Podcast with Quotient - Jordan O](https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 3d ago
-
----
-
 **[Daily messages on etherscan to my watched address](https://www.reddit.com/r/ethereum/comments/1vuyj4z/daily_messages_on_etherscan_to_my_watched_address/)**
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
 3d ago
+
+---
+
+**[156 - Doots Podcast with Quotient - Jordan O](https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 3d ago
 
 ---
 
@@ -144,14 +152,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #36 | US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31](https://www.reddit.com/r/ethereum/comments/1vulcxr/ethereal_news_weekly_36_us_sec_regulation_crypto/)**
-
-US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public testnets proposed for late September & October, focil-devnet-0 targeting August 31
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-36/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,7 +160,7 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 18h ago
+PR Newswire • 19h ago
 
 ---
 
@@ -168,13 +168,13 @@ PR Newswire • 18h ago
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Motley Fool • 2d ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 14h ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 10h ago
+Benzinga • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ Benzinga • 10h ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 21h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -230,7 +230,7 @@ Fortune • 14h ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 263 • 💬 354 • ⏱️ 19:33 • 7h ago
+👁️ 6K • 👍 303 • 💬 357 • ⏱️ 19:33 • 8h ago
 
 ---
 
@@ -254,17 +254,17 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 7K • 👍 546 • 💬 43 • ⏱️ 12:24 • 14h ago
+👁️ 8K • 👍 560 • 💬 49 • ⏱️ 12:24 • 15h ago
 
 ---
 
-**[BitMine Is About to Own 5% of ETH | Tom Lee](https://www.youtube.com/watch?v=2SgQ5kVo5v8)**
+**[Ethereum Could Be the Biggest Winner of the Next Crypto Cycle](https://www.youtube.com/watch?v=AWY7ixcceaM)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BitMine is within reach of owning ...
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
 
-📺 Bankless
+📺 Milk Road
 
-👁️ 37K • 👍 1K • 💬 165 • ⏱️ 1:07:49 • 20h ago
+👁️ 4K • 👍 206 • 💬 122 • ⏱️ 42:25 • 12h ago
 
 ---
 
@@ -274,7 +274,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 13K • 👍 512 • 💬 79 • ⏱️ 18:53 • 1d ago
+👁️ 14K • 👍 517 • 💬 80 • ⏱️ 18:53 • 1d ago
 
 ---
 
@@ -284,7 +284,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 258 • 💬 8 • ⏱️ 6:32 • 17h ago
+👁️ 6K • 👍 261 • 💬 8 • ⏱️ 6:32 • 18h ago
 
 ---
 
@@ -294,7 +294,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 4K • 👍 52 • 💬 5 • ⏱️ 0:43 • 11h ago
+👁️ 4K • 👍 59 • 💬 7 • ⏱️ 0:43 • 12h ago
 
 ---
 
@@ -304,7 +304,7 @@ TIA PRO LIFETIME DISCOUNT SALE → https://link.tiainvestor.com/jyt-checkout ➡
 
 📺 Jason Pizzino
 
-👁️ 6K • 👍 597 • 💬 153 • ⏱️ 31:23 • 5h ago
+👁️ 11K • 👍 787 • 💬 159 • ⏱️ 31:23 • 6h ago
 
 ---
 
@@ -314,7 +314,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 105K • 👍 5K • 💬 329 • ⏱️ 27:38 • 1d ago
+👁️ 108K • 👍 5K • 💬 333 • ⏱️ 27:38 • 1d ago
 
 ---
 
@@ -324,17 +324,17 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:31 • 11h ago
+👁️ 1K • 👍 17 • 💬 1 • ⏱️ 0:31 • 12h ago
 
 ---
 
-**[How to Use Ethereum (ETH) Cloud Mining in 2026: Does It Work?](https://www.youtube.com/watch?v=D6vrFcfrlSE)**
+**[How Ethereum Almost Broke Itself to Stop a Hack](https://www.youtube.com/watch?v=lUiwllWq9s8)**
 
-lnktap.cc/solidhash Can you mine Ethereum in 2026? That's the first thing I'd check before trusting any “ETH cloud mining” ...
+Most people know the DAO hack led to Ethereum Classic — but few know about the failed soft fork that nearly broke the entire ...
 
-📺 Home Aura
+📺 CoinGecko
 
-👁️ 388 • 👍 83 • 💬 70 • ⏱️ 4:20 • 1d ago
+👁️ 2K • 👍 82 • 💬 111 • ⏱️ 4:22 • 21h ago
 
 ---
 
