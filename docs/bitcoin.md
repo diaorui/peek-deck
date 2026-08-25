@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T10:33:07.221185+00:00'
+updated: '2026-08-25T11:27:26.252576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 10:33 UTC  
+**Last Updated:** August 25, 2026 at 11:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,43 +79,49 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-6h ago
+7h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-8h ago
+9h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-13h ago
+14h ago
 
 ---
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-7h ago
+8h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-23h ago
+1d ago
+
+---
+
+**["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
+
+3h ago
 
 ---
 
@@ -123,13 +129,7 @@ Rank #1
 
 There is a lot of gold left to be mined. Bitcoin? Not so much.
 
-13h ago
-
----
-
-**["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
-
-2h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ There is a lot of gold left to be mined. Bitcoin? Not so much.
 
 Don’t time the market embrace it.
 
-12h ago
+13h ago
 
 ---
 
@@ -147,19 +147,19 @@ Don’t time the market embrace it.
 
 **[Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026)**
 
-WSJ • 50m ago
+WSJ • 1h ago
 
 ---
 
 **[Bitcoin Extends Rally, Crossing Above $80,000 -- WSJ](https://www.moomoo.com/news/post/75214296/bitcoin-extends-rally-crossing-above-80000-wsj)**
 
-Moomoo • 43m ago
+Moomoo • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Moomoo • 43m ago
 
 New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 4h ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 17h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 20h ago
+Euronews.com • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 1d ago
 
 **[Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000](https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 2h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fortune • 21h ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 20h ago
 
 ---
 
@@ -225,7 +225,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 19h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 20h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -263,7 +263,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 14h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -277,7 +277,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 21K • 👍 1K • 💬 247 • ⏱️ 39:07 • 7h ago
+👁️ 21K • 👍 1K • 💬 247 • ⏱️ 39:07 • 8h ago
 
 ---
 
@@ -297,7 +297,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 137 • 💬 102 • ⏱️ 0:53 • 15h ago
+👁️ 5K • 👍 137 • 💬 102 • ⏱️ 0:53 • 16h ago
 
 ---
 
@@ -307,7 +307,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 15K • 👍 917 • 💬 46 • ⏱️ 11:48 • 23h ago
+👁️ 15K • 👍 917 • 💬 46 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin tests $80K as strong ETF inflows continue. But Nasdaq weakness, Nvidia e
 
 📺 FinScope
 
-👁️ 3K • 👍 25 • ⏱️ 1:22 • 16h ago
+👁️ 3K • 👍 25 • ⏱️ 1:22 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 384 • 💬 190 • ⏱️ 14:52 • 17h ago
+👁️ 12K • 👍 384 • 💬 190 • ⏱️ 14:52 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ FREE INVESTOR QUIZ: https://investor-profiler.investanswers.io JOIN THE FAMILY: 
 
 📺 InvestAnswers
 
-👁️ 46K • 👍 3K • 💬 290 • ⏱️ 26:21 • 14h ago
+👁️ 46K • 👍 3K • 💬 290 • ⏱️ 26:21 • 15h ago
 
 ---
 
@@ -367,7 +367,7 @@ SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and
 
 📺 Verified Investing
 
-👁️ 12K • 👍 788 • 💬 92 • ⏱️ 17:09 • 16h ago
+👁️ 12K • 👍 788 • 💬 92 • ⏱️ 17:09 • 17h ago
 
 ---
 

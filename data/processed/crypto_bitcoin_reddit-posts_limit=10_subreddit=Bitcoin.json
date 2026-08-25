@@ -79,17 +79,6 @@
       "description": null
     },
     {
-      "title": "Bitcoin vs Gold Supply",
-      "author": "Myntad_com",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vxevr8/bitcoin_vs_gold_supply/",
-      "published": 1787604180.0,
-      "thumbnail": "https://preview.redd.it/dmp8oznvwdlh1.png?width=640&crop=smart&auto=webp&s=4a25fc889ae5f48902b43135221946752c80cd37",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There is a lot of gold left to be mined. Bitcoin? Not so much."
-    },
-    {
       "title": "\"It might make sense just to get some in case it catches on.\" (turns out, it did).",
       "author": "Careless_Product_792",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Bitcoin vs Gold Supply",
+      "author": "Myntad_com",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vxevr8/bitcoin_vs_gold_supply/",
+      "published": 1787604180.0,
+      "thumbnail": "https://preview.redd.it/dmp8oznvwdlh1.png?width=640&crop=smart&auto=webp&s=4a25fc889ae5f48902b43135221946752c80cd37",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There is a lot of gold left to be mined. Bitcoin? Not so much."
     },
     {
       "title": "The best way to do BTC.",
@@ -112,5 +112,5 @@
       "description": "Don\u2019t time the market embrace it."
     }
   ],
-  "fetched_at": "2026-08-25T09:34:45.740293+00:00"
+  "fetched_at": "2026-08-25T11:27:16.760662+00:00"
 }

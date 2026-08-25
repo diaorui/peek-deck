@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T10:33:07.225324+00:00'
+updated: '2026-08-25T11:27:26.258734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 10:33 UTC  
+**Last Updated:** August 25, 2026 at 11:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion Technologies (NYSE: $BMNR) increased its purchase of Ethereum (CRYPTO: $ETH) over the past week e...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -174,7 +174,7 @@ PR Newswire • 22h ago
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Motley Fool • 2d ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 14h ago
+Benzinga • 15h ago
 
 ---
 
@@ -228,7 +228,7 @@ TradingView • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 315 • 💬 366 • ⏱️ 19:33 • 11h ago
+👁️ 8K • 👍 315 • 💬 366 • ⏱️ 19:33 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 576 • 💬 52 • ⏱️ 12:24 • 18h ago
+👁️ 8K • 👍 576 • 💬 52 • ⏱️ 12:24 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 6K • 👍 661 • 💬 8 • ⏱️ 49:14 • 38m ago
+👁️ 6K • 👍 661 • 💬 8 • ⏱️ 49:14 • 1h ago
 
 ---
 
@@ -282,7 +282,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 5K • 👍 213 • 💬 124 • ⏱️ 42:25 • 15h ago
+👁️ 5K • 👍 213 • 💬 124 • ⏱️ 42:25 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 263 • 💬 8 • ⏱️ 6:32 • 21h ago
+👁️ 6K • 👍 263 • 💬 8 • ⏱️ 6:32 • 22h ago
 
 ---
 
@@ -302,7 +302,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 5K • 👍 70 • 💬 7 • ⏱️ 0:43 • 15h ago
+👁️ 5K • 👍 70 • 💬 7 • ⏱️ 0:43 • 16h ago
 
 ---
 
@@ -322,7 +322,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 14h ago
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 15h ago
 
 ---
 
