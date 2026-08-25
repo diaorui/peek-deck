@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T14:44:29.247219+00:00'
+updated: '2026-08-25T15:41:54.973054+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 14:44 UTC  
+**Last Updated:** August 25, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,477.08
+### $79,183.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +13.2%  
-**30d:** +23.1%  
-**90d:** +6.6%  
-**1y:** -29.8%  
+**24h:** +0.3%  
+**7d:** +14.4%  
+**30d:** +24.4%  
+**90d:** +7.8%  
+**1y:** -29.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1584.49B
+**Market Cap:** $1594.12B
 Rank #1
 
-**Circulating Supply:** 20,074,975 BTC
+**Circulating Supply:** 20,075,012 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.4%
+-37.0%
 
 **All-Time Low:** $67.81
-+116282.5%
++116991.9%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-10h ago
+11h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-17h ago
+18h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
 
-3h ago
+4h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -119,19 +119,19 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 Let that sink in
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-11h ago
+12h ago
 
 ---
 
 **["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -145,11 +145,11 @@ Let that sink in
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace](https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html)**
+**[Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace](https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html)**
 
 Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -157,13 +157,23 @@ CNBC • 11h ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
+**[Bitcoin will keep going up as long as money keeps getting printed: Anthony Pompliano](https://www.foxbusiness.com/video/6404024958112)**
 
-Bloomberg • 2h ago
+ProCap Financial Chairman and CEO Anthony Pompliano analyzes the recent Bitcoin rally and cryptocurrency catalysts. Plus, a crypto advocacy group plans to spend $200 million on midterm election endorsements.
+
+Fox Business • 1h ago
+
+---
+
+**[Soluna and Bitdeer Agree 28 MW Bitcoin Co-Mining Deployment in Texas](https://finance.yahoo.com/markets/crypto/articles/soluna-bitdeer-agree-28-mw-135310990.html)**
+
+Soluna Holdings, Inc. (NASDAQ:SLNH) has signed a co-mining agreement with Dory Creek, LLC, a wholly owned subsidiary of Bitdeer Technologies Group (NASDAQ:BTDR), covering the deployment of approximately 28 MW of Bitcoin mining equipment at Soluna’s Project Kati 1 data centre in Willacy County, Texas.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,11 +181,17 @@ Bloomberg • 2h ago
 
 Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[Stock Market Today: Futures Rise After Losing Day for S&P 500, Nasdaq; Oil Prices Drop; Bitcoin Briefly Tops $80K](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08252026-12067123)**
+**[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Stock Market Today: Indexes Open Higher After Losing Day for S&P 500, Nasdaq; Oil Prices Drop; Bitcoin Briefly Tops $80K](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08252026-12067123)**
 
 Major U.S. stock indexes opened higher Tuesday, a day after the Nasdaq Composite and S&P 500 began the week with losses, as oil prices retreated and bitcoin briefly topped $80,000 for the first time in more than three months.
 
@@ -185,7 +201,7 @@ Investopedia • 2h ago
 
 **[Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back](https://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back)**
 
-ETF.com • 17h ago
+ETF.com • 18h ago
 
 ---
 
@@ -205,22 +221,6 @@ Financial Times • 1d ago
 
 ---
 
-**[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
-
-BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
-
-Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
-
-Business Insider • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -229,7 +229,7 @@ Business Insider • 1d ago
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 23h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 1d ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -251,7 +251,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 3h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 4h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -275,7 +275,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -289,47 +289,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 32K • 👍 2K • 💬 318 • ⏱️ 39:07 • 11h ago
-
----
-
-**[Bitcoin Price Volatility Just Broke Out of Historic Low](https://www.youtube.com/watch?v=IxOn3b9vnQo)**
-
-Natalie Brunell dives into a striking report from Fidelity Digital Assets revealing that Bitcoin's rolling 1-month realized volatility had ...
-
-📺 Natalie Brunell
-
-👁️ 5K • 👍 151 • 💬 102 • ⏱️ 0:53 • 19h ago
-
----
-
-**[&quot;SUPER-BULLISH! Bitcoin Just Sent a 7 Sigma SIGNAL What Happens NEXT? Jordi Visser](https://www.youtube.com/watch?v=8q9iT26pxlE)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 204 • 💬 28 • ⏱️ 16:43 • 1d ago
-
----
-
-**[The Real Reason Bitcoin Ripped Higher (Wall Street Won&#39;t Tell You) 🚀🪙](https://www.youtube.com/watch?v=RAC5SAqBb0o)**
-
-Bitcoin ripped higher last week, but mainstream Wall Street media is telling you the completely wrong reason why! The real ...
-
-📺 Ross Givens
-
-👁️ 3K • 👍 110 • 💬 28 • ⏱️ 1:00 • 20h ago
-
----
-
-**[Bitcoin Just Confirmed](https://www.youtube.com/watch?v=n5HfwQeDZsg)**
-
-Bitcoin charts confirm it! SOLANA, ETHEREUM, CASHCAT, PENGU BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 27K • 👍 1K • 💬 104 • ⏱️ 13:23 • 1d ago
+👁️ 47K • 👍 2K • 💬 362 • ⏱️ 39:07 • 12h ago
 
 ---
 
@@ -339,27 +299,17 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 393 • 💬 192 • ⏱️ 14:52 • 21h ago
+👁️ 13K • 👍 398 • 💬 191 • ⏱️ 14:52 • 22h ago
 
 ---
 
-**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
+**[Bitcoin Price Volatility Just Broke Out of Historic Low](https://www.youtube.com/watch?v=IxOn3b9vnQo)**
 
-Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
+Natalie Brunell dives into a striking report from Fidelity Digital Assets revealing that Bitcoin's rolling 1-month realized volatility had ...
 
-📺 Ivan on Tech
+📺 Natalie Brunell
 
-👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 4h ago
-
----
-
-**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
-
-Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 222 • ⏱️ 20:21 • 1d ago
+👁️ 6K • 👍 165 • 💬 114 • ⏱️ 0:53 • 20h ago
 
 ---
 
@@ -373,13 +323,63 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 ---
 
+**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
+
+Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
+
+📺 Altcoin Daily
+
+👁️ 82K • 👍 3K • 💬 236 • ⏱️ 43:03 • 1d ago
+
+---
+
+**[The Two Things Bitcoin Needs To Start A New Bull Market](https://www.youtube.com/watch?v=wAOwAT32lr4)**
+
+What does Bitcoin actually need to confirm a new bull market? It comes down to two things. The first is a break above the previous ...
+
+📺 Crypto Archie
+
+👁️ 179 • 👍 21 • ⏱️ 1:02 • 1h ago
+
+---
+
 **[Crypto is &#39;stupid&#39;, says The O.C. actor Ben McKenzie | ABC NEWS](https://www.youtube.com/watch?v=hnTcOkBG9Vc)**
 
 For many Millennials, Ben McKenzie is still best known for his role in The O.C. as Ryan Atwood, a troubled teen from the wrong ...
 
 📺 ABC News (Australia)
 
-👁️ 6K • 👍 91 • ⏱️ 2:09 • 1d ago
+👁️ 6K • 👍 94 • ⏱️ 2:09 • 1d ago
+
+---
+
+**[I might be able to hit a Bitcoin Block with this...](https://www.youtube.com/watch?v=GAViC6e6GAY)**
+
+Hammer Miner Thor X1 https://mineshop.eu/hammer-miner-bc01-pro-31ths-home-bitcoin-miner/?wpam_id=12 code RPM for 3% ...
+
+📺 Red Panda Mining
+
+👁️ 5K • 👍 401 • 💬 425 • ⏱️ 12:05 • 1d ago
+
+---
+
+**[Bitcoin ETFs Saw Their Biggest Weekly Inflow in 10 Months](https://www.youtube.com/watch?v=q0BC8iIzOac)**
+
+Bitcoin ETFs saw their biggest weekly inflow in 10 months The fact that Bitcoin started pushing towards 80 was not just because ...
+
+📺 The Wolf Of All Streets
+
+👁️ 438 • 👍 17 • 💬 37 • ⏱️ 1:00 • 5h ago
+
+---
+
+**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
+
+Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 225 • ⏱️ 20:21 • 1d ago
 
 ---
 

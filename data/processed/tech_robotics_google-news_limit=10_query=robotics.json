@@ -5,24 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVNUWTZUUFRMSWJGemltTmNtb3c2ZXFXZkNtQ25kTXhNbDZQenhuYVBEUnduQTZsRndFWnBkXzByLWJRSVF0ZXl3Zl83eDJDNXRGMG9tYkxxSnhiU253RDBldWNlQ19DQUVLZ2hNZjQydlIwTURKdWFjZnpUTFFGSzFSd2VObFNMejlDY3pTWHZ5aGhza09ISUJxbFZqbDBvVVE?oc=5",
-      "pub_date": 1787580540.0,
-      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/33c2b322-33b0-4dcd-9e2b-74f62ef32429/thumbnail/1200x630g2/c26cec570b68271f6a005a1c1f2a14c5/china-humanoid-robot-kickboxing-2291755703.jpg",
-      "description": "A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: \"It all depends on who controls them.\""
-    },
-    {
-      "headline": "BlackBerry found a second life in car software. Now it\u2019s looking to robotics",
+      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xeGI4ak5PY2dkblVwZk1XRDU1ZFFiZ083enVMa1BOUmtualBGckNoTEVCeEZKcHhPUjVwZEZNTzZxVkYwMXRVYXQ5c1lVeEtDd3o0S05VN25QM0ItNkkxeXNaTng3czdwNERaM3o2Q1p2VFRpNkJGc3VEMA?oc=5",
-      "pub_date": 1787605200.0,
-      "article_url": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
+      "pub_date": 1787649965.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
+    },
+    {
+      "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YSHJobThkT1VuRXpDWFFVU1FXZ2trVFRwVzlwYjlTck1XbElFRGhJSUtyN2xRY0hKbEtDdDVrWTIyR2ZYVjZ4dFI5RWdUMV9pak1qcFlUYk9IUQ?oc=5",
+      "pub_date": 1787609600.0,
+      "article_url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
+      "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
+    },
+    {
+      "headline": "RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MDdMZlFZTUt3VnJscHg4VE1yQ05SUG5ISEdwNmdwYUpEZ2Q1LUtud2hMal9Mb0txdHowRElNOUZKWk45OTlpbm5kQnFQdllwcjVUblpyYTB3aEU?oc=5",
+      "pub_date": 1787668221.0,
+      "article_url": "https://www.foxbusiness.com/video/6404025127112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bff52ed6-68aa-497c-99c3-92ecd2f171c8/7b394956-a988-46fe-aff1-133c3aba771c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "RoboStore CEO Ted Haggerty discusses China\u2019s advances in humanoid robots, America\u2019s position in the global robotics race and potential robot soldiers on \u2018Varney & Co.\u2019"
     },
     {
       "headline": "BlackBerry CEO says robotics is fastest-growing QNX segment",
@@ -55,22 +65,22 @@
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787658941.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Inside China\u2019s Race To Rule Robotics",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
       "pub_date": 1787626265.0,
       "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787604125.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108353647-1787624536591-gettyimages-2274268552-260505_Shopping_mall_store.jpeg?v=1787624561&w=1920&h=1080",
       "description": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business."
-    },
-    {
-      "headline": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3pua1hCWWhhUWhsaW1iLWtzdlFybVowR3lRUlRXemk2bV92dnJlVXRIbi0tVG5KbFIydS0tQUcxVE1UdEtaNW1iazZWbjZHWTJEeFpMUExScVRjZmJ6WklFOUNHSWtZbWxmMUZ6a3ctRk9aVEpiWWtEUl9YYXoyVldudmplaDFJMHhXZ3JGaw?oc=5",
-      "pub_date": 1787582164.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a245c5090fe79dadade3e63fba3fbf5a4c381d0c4bb1db19871a9fe5d47c81e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a61aaa828ab1bb61666bce552e8c313.jpg",
-      "description": "XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T13:50:27.652469+00:00"
+  "fetched_at": "2026-08-25T15:41:47.146245+00:00"
 }
