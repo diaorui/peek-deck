@@ -35,6 +35,17 @@
       "description": "Anyone else actually dealt with this? Is it overblown, or am I missing something?"
     },
     {
+      "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
+      "author": "adjohu",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
+      "published": 1787658075.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I\u2019ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They\u2019re constantly in flux too. It doesn\u2019t respond \u201cyou\u2019re absolutely right\u201d like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It\u2019s been public for 10 days and has now accumulated thousands of interactions, so it\u2019s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I\u2019m the builder, obviously, so this is self-promotion. But I\u2019d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot."
+    },
+    {
       "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
@@ -46,15 +57,37 @@
       "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
     },
     {
-      "title": "Is AI becoming the most powerful tool for democratizing knowledge in history \u2014 or the most powerful gatekeeper of knowledge we\u2019ve ever created?",
-      "author": "Chemical-Escape-5034",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxvmr2/is_ai_becoming_the_most_powerful_tool_for/",
-      "published": 1787652639.0,
+      "title": "Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it",
+      "author": "capibara13",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/",
+      "published": 1787658637.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I\u2019ve been thinking about something that worries me about the future of AI, and I think it goes beyond the usual debate about jobs or whether AI will make society more unequal. We usually talk about AI as a tool that will democratize knowledge. And in many ways, it probably will. Someone who couldn\u2019t afford tutors, consultants, expensive education, or hours of research may be able to ask an AI and get useful answers almost instantly. But what happens if AI eventually becomes the main way most people access and understand information? At that point, AI isn\u2019t just a tool anymore. It becomes a gatekeeper between us and knowledge. Today, if I want to understand something, I have many different routes. I can search the web, go to a library, read books, attend university, look through academic papers, browse forums, talk to experts, or try to find the original sources myself. Those systems aren\u2019t perfectly equal. Some information is expensive, restricted, paywalled, or geographically inaccessible. But the paths are still relatively decentralized. If one door is closed, sometimes I can find another one. Now imagine a future where most of us simply ask our AI. Different people may technically \u201chave AI,\u201d while their AIs have completely different access to knowledge. One person\u2019s AI might have access only to public information. Another might be connected to premium academic journals, legal databases, financial data, industry intelligence, proprietary research, private corporate data, and real-time information. That alone could create a huge new form of inequality. But there\u2019s something else that worries me even more. What happens when your AI doesn\u2019t have access to something \u2014 and you don\u2019t even know that information exists? Today, if a research paper is behind a paywall, I can usually still see that the paper exists. I know there is something behind the door, even if I can\u2019t enter. But if AI becomes my main interface with knowledge, it might give me a confident, coherent, seemingly complete answer based only on the information it is allowed to access. How would I know what was missing? How would I know there were other studies, arguments, evidence, databases, or perspectives that my AI simply couldn\u2019t see? Or wasn\u2019t allowed to show me? That makes me wonder if the future information divide won\u2019t just be: Who has the better AI? It might be: Who decides what your AI is allowed to know? Who decides which databases your AI can access? And maybe most importantly: How do you know what your AI doesn\u2019t know? If billions of people eventually rely on a small number of AI systems to understand the world, then whoever controls those systems, their data access, and their information boundaries may have enormous influence over what people perceive as knowable in the first place. So I\u2019m curious what people here think. Will AI become the greatest democratization of knowledge in human history? Or could it eventually become the most powerful knowledge gatekeeper we\u2019ve ever created? Maybe the most dangerous kind of restriction isn\u2019t being told: \u201cYou are not allowed to know this.\u201d Maybe it\u2019s never realizing there was something else to know."
+      "description": "Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations."
+    },
+    {
+      "title": "Nicolas Cole says his \"100x\" AI output isn't a smarter prompt \u2014 it's his entire writing process, written down until AI had nothing left to guess.",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxx90t/nicolas_cole_says_his_100x_ai_output_isnt_a/",
+      "published": 1787657644.0,
+      "thumbnail": "https://external-preview.redd.it/dnMwa3c1NHliaWxoMXMCbnqN2VgnzjMxkuYI8Cd0zjlvMjsia13RrGW6GX3t.png?width=640&crop=smart&auto=webp&s=ad3cf87ed0e6a0fcf7503e09a48e5bbeacfcb86b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: Cole's \"100x output\" is 30 hours spent once, so AI now runs 80% of every draft on its own. He edits the last 10% \u2014 the taste-level stuff, never the typing. That distinction is already showing up outside this clip. Christian Science Monitor just covered a manuscript polished enough to fool professional literary editors, pulled from sale \u2014 a multimillion-dollar bidding war between publishers \u2014 because no one could prove a human wrote it. Cole isn't describing a hypothetical ceiling \u2014 that ceiling's already been crossed, in public, in an actual publishing deal. The freelancers who feel replaceable right now are mostly the ones still handing AI a stack of old samples and hoping it infers the rules from them. Cole didn't hope. He sat down and wrote the rules out, sentence by sentence, until the model had nothing left to guess at. https://preview.redd.it/ftv0vk9vbilh1.jpg?width=1024&format=pjpg&auto=webp&s=e3e0da8c9feb5be532b32ddbe73f5dc9e08a36db Decades ago, the Malaysian construction landscape was like the wild-wild-west. I remember working as a technical engineer for one of the largest construction firms in Malaysia. The hydraulic hacking noise throughout the project site was pervasive and persistent for weeks. Grrrr\u2026. Tat-tat-tat. Grrrrrrrr. Tat-tat-tat. Grrrrrr. You get the idea. It turns out that the structural operation team went ahead and constructed floors upon floors, without waiting for the mechanical and electrical team to embed their pipe sleeves, box-ups or ductworks before concreting. And so they have to come and hack the hardened concrete to open up for the M&E items to run through. Delay and additional cost already incurred. My then project director was pissed. We all had an earful from him. Said that prevention is always better than cure. So from that day onwards, a directive came down hard \u2013 no sign-off by all concerned parties on a properly coordinated drawings, means no concreting. The coordination drawings - overlays not just the design drawings from respective Architectural/Engineering trades, but also sub-contractor specialist details, as well. Discrepancies are ironed out with all parties, well before construction is due. It parallel hard on Nicolas investing time in building an exhaustive prompt, rule-by-rule, sentence-by-sentence, microstep-by-microstep. Only then, will the output come out the way we want it to be. Like when Daniel Craig was being asked by a talk show host what would he advise his successor on being the next James Bond, Daniel said, \"Don't f\\ck it up!\"* Prevention is better than cure. ___________________ It's never the tool doing the replacing. It's the person who never got around to writing down what they already know how to do. What's the one process you already know cold but have never actually written down? Drop it below. Clip credit: Decoded Genius & Nicolas Cole \u2014 full video on their channel. DM for credit or removal requests."
+    },
+    {
+      "title": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
+      "author": "Chobeat",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/",
+      "published": 1787657526.0,
+      "thumbnail": null,
+      "external_url": "https://techworkerscoalition.org/",
+      "site_name": "techworkerscoalition.org",
+      "favicon": "https://techworkerscoalition.org/assets/favicon.png",
+      "description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
     },
     {
       "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
@@ -77,40 +110,7 @@
       "site_name": "Rauno",
       "favicon": "https://rauno.ai/apple-touch-icon.png",
       "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
-    },
-    {
-      "title": "AI video generation models still have a long way to go",
-      "author": "AthleteArtistic3121",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
-      "published": 1787619937.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not."
-    },
-    {
-      "title": "ONNX for Speech To Text",
-      "author": "SecondCobra",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxqw62/onnx_for_speech_to_text/",
-      "published": 1787636023.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been trying to implement a speech to text app using .Net and C#, but it seems that there is no way to simply download a model (e.g. Whisper or Wav2Vec2) and directly call it the way you can in Python. Instead I'm told I need to write all the pre-processing, adding complex code into the application. I've been trying avoid using Python (for good reasons), but it feels like the ONNX route is just too complicated. Am I missing something, like a good library that can do the pre-processing, or a model that has good built in support for .Net?"
-    },
-    {
-      "title": "I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.",
-      "author": "jonathancheckwise",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/",
-      "published": 1787602397.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the \"proof\" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the \"smartest\" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - \"The model cited it\" and \"the source exists\" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live \"AI fact-checker\" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)"
     }
   ],
-  "fetched_at": "2026-08-25T10:32:37.944359+00:00"
+  "fetched_at": "2026-08-25T11:55:45.860614+00:00"
 }
