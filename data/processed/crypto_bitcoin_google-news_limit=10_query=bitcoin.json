@@ -6,41 +6,31 @@
   "articles": [
     {
       "headline": "Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0RqVUhSdU5UVTZiZnh3YlJsczNTWFA0Y1NDeHpYckcxNUduaGdDRXVhSWZscGFNbTE2Y2V1YnNSVTRGclozQzBMNFY2eTlmcFNGbjFBUjA3TUJOYmx4LW9ETWRObGgtVXNKZTVjVUxkYUl4bmtoam5fdk9IRFVpTFpTcDZqeGdGWUQtTFBoekRRQXpZNjhjZjBXV05zR2FWSUJCcVdCS05aNnFwSTFSbmwwVQ?oc=5",
-      "pub_date": 1787636700.0,
+      "pub_date": 1787651042.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns",
       "image": null,
       "description": null
     },
     {
-      "headline": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1dheTJjeUJsNkFCU0NEMW1SMEdzMTV3em83Yk1uX0xNZU4wS0V0NFdQNGtXcklDcGtfM1o1OHozbmR6ZzAycDNDY0tvNDBRVUt6ZHZyMHJKU2hfbDNhYWpyOWctWWUxcWRqMkRWSzZ1dnFLVzlKY1cwTExRSnB5RmJMblVKdkZwaU5HdFVrSHliV3NoeTlXVmFsQzVlbGNYWjJxYTkyZlZwSG51YmZpUWpIOHQteFlmczdiWVdXWGtIZEgzTWtFaUhxSGUtYlVELW5GLXdkY0dHV3A5?oc=5",
-      "pub_date": 1787643619.0,
-      "article_url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "headline": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEVVNkZ0Njctcnk0WUJ0SFMxME52QTNxNXVwR0RocHNDSFFaQldMSWZwekpJVEZaVW1RSGZBY3dnMk1LaWVPM2h0aENvbDZ3UXJRRGpTNERGOElQN09mR3JOdUo3cElVcFE2cnAya2ZvUXk1S0RGSVVLc2JjTkt5clFoaTBHSWc?oc=5",
+      "pub_date": 1787650980.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026",
       "image": null,
       "description": null
     },
     {
-      "headline": "Signal Decoded | Gold and Bitcoin Rally Together - Technical Analysis & Key Levels",
+      "headline": "Bitcoin Extends Rally, Crossing Above $80,000 -- WSJ",
       "source": "Moomoo",
       "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWtvWXdvVHpVVlRIajluQlowVlEwQUF0X196TkZoUWtWdTFGTHAtZVNBd0VVRGEyWjZJd1kzY2pQWWFjS09GZWxGSThoRlQwVHpVaGp2NzJvMUYyLVRxSE1vRXMtQWthUVJrZ2VPQ2ZvTkxUMVo3N05vNl9nZU5nSUtRcVFEb0l4eG5aQ3pKTDRUOHhDMk9uQ01lQlllcGwxbnBwREZuYll5VEY5UUk1a21FSFh6R2F5NUZFRVRjaFA?oc=5",
-      "pub_date": 1787646830.0,
-      "article_url": "https://www.moomoo.com/community/feed/signal-decoded-gold-and-bitcoin-rally-together-technical-analysis-key-117155222650894",
-      "image": "https://ussnsimg.moomoo.com/sns_client_feed/71445112/20260825/web-1787646416200-d9A7JnerPO.png?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "Both Bitcoin $Bitcoin (BTC.CC)$ and Gold $XAU/USD (XAUUSD.CFD)$ have been rallying while equities sell off and Treasury yields sit at 52-week highs. That is not a coincidence \u2014 it is a message. When sovereign debt sells off and the dollar weakens simultaneously, capital rotates toward assets outside the sovereign liability structure. That rotation is visible in both charts right now. On the other hand, Treasury Secret..."
-    },
-    {
-      "headline": "MicroStrategy (MSTR.US) sees unrealized Bitcoin gains surpass $4 billion, with 840,000 BTC holdings serving as a bellwether for institutional investors",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUdwVDhSV0FleVVmRzZQd3k1M3RnV291TXdhZG9xcDY2RUNBMl9kWUtzU09UcEcxcUtENGl3aFM0dE9uTDlRSWlvQWIyeGN0VGxLa2pIVGRRNjlrYy1BTjhQakhuTGFwNEFqcTdzN1FPU3NKTTJyZXMzQkhieGROamx3ZjdPSFlHMk1FczlmVzUtWFFiY1dLeHl6MXlaWnBvYTVEdGlOdV94WW1mTXZheGR0dzFxUQ?oc=5",
-      "pub_date": 1787645840.0,
-      "article_url": "https://www.moomoo.com/news/post/75204005/microstrategy-mstrus-sees-unrealized-bitcoin-gains-surpass-4-billion-with",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTngtNE1fNUtzMElVZldVdGRwdmFzaDFMUEVJNmoyYmNKSmZKZlNQUTQ4eTRYQ1o4QXFpSUNGb0JjRGhDaGo0T3JKTTFNY0RSdmdvYkxhRjVLUzhRTHhjSHZXWmtiQkpEWWs3ejdXdXp5YjlxVTJvOWdKU19yUEs2a1F1QVp1aTlJUXk2bTlCa2Q1Zw?oc=5",
+      "pub_date": 1787651384.0,
+      "article_url": "https://www.moomoo.com/news/post/75214296/bitcoin-extends-rally-crossing-above-80000-wsj",
       "image": null,
       "description": null
     },
@@ -56,23 +46,13 @@
     },
     {
       "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDNHNHJZUGl2OFpRUVlnWnlHWWp4Z2VqS0FKZVUxOFZJVjRnVzNBYWExemlDbmRzb01sWFNTUHVVUG5RYWJLVjNpbENjdHZ5SklyS2JhbXpJRmtHZVlodFlVQnBlVEVJZkRuRnpQSWVrTndsZHFnSUFvYk9DZGJOM1VqSFJCUzBsWHRGZExlMjFaOV9ra0VEYlpqWkRXeTgwZzRxLWdn?oc=5",
-      "pub_date": 1787589300.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-163500378.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/FE4E5AA07B9025F882ADCE09D077683400E4ED77BE193EEDC02D61FAE5D63A80/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3ec0c9ec01d8db932e0524d2f5921b21.jpg",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFRc2xWUW9YUVgzcGlQc255SUNYMjFIOHUyRFoyY091c3JHN0hxbHVYWWFBMFBpRldnckM0akd3RzQybzd4Z2hBSHdDeW0wd01GUkNSc25RZDl6M0wzQk5YSnJvcHluMUItdHdoNjBNY1R5M2RhT1JVaGhxdm1kcjM3ZERfOVZERG1JZURhUExoT0pLaE1UNg?oc=5",
+      "pub_date": 1787591700.0,
+      "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
       "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
-    },
-    {
-      "headline": "Bitcoin is great (for systemic theft of aid money)",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iengtUWFDRndQVW54aTVNRDRQenZyNmJITmpZMi1lN3VoUTdhRGZ1bk1kVUtDSkZHcTl5clBjOFZMQWp4LXBlV0VKNGt3em42NVAyZGxyTF9HS1NjV3JBbDM3MFcyLXpRVFZsbTU0bmo?oc=5",
-      "pub_date": 1787558670.0,
-      "article_url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Finally, a killer use case"
     },
     {
       "headline": "As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?",
@@ -85,6 +65,36 @@
       "description": "Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews"
     },
     {
+      "headline": "Bitcoin is great (for systemic theft of aid money)",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iengtUWFDRndQVW54aTVNRDRQenZyNmJITmpZMi1lN3VoUTdhRGZ1bk1kVUtDSkZHcTl5clBjOFZMQWp4LXBlV0VKNGt3em42NVAyZGxyTF9HS1NjV3JBbDM3MFcyLXpRVFZsbTU0bmo?oc=5",
+      "pub_date": 1787558670.0,
+      "article_url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Finally, a killer use case"
+    },
+    {
+      "headline": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1dheTJjeUJsNkFCU0NEMW1SMEdzMTV3em83Yk1uX0xNZU4wS0V0NFdQNGtXcklDcGtfM1o1OHozbmR6ZzAycDNDY0tvNDBRVUt6ZHZyMHJKU2hfbDNhYWpyOWctWWUxcWRqMkRWSzZ1dnFLVzlKY1cwTExRSnB5RmJMblVKdkZwaU5HdFVrSHliV3NoeTlXVmFsQzVlbGNYWjJxYTkyZlZwSG51YmZpUWpIOHQteFlmczdiWVdXWGtIZEgzTWtFaUhxSGUtYlVELW5GLXdkY0dHV3A5?oc=5",
+      "pub_date": 1787643619.0,
+      "article_url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for August 24, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OR0F4aDlaTWFqSEVfd3FFczE4VnpyeW9wU1Nra2xkWjZncENQOXVxMEw0N3V6MDBSZ0NPXzVuZEkxN3NRUVVIS2tua1FibmpuZkxpY1YxOW8zWDJrSnZVVndLcWxYblU?oc=5",
+      "pub_date": 1787576400.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-08-24-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Bitcoin-Aug-24.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
       "headline": "BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -93,18 +103,8 @@
       "article_url": "https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/",
       "image": "https://247wallst.com/wp-content/uploads/2018/07/crypto-rect.png",
       "description": "BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely."
-    },
-    {
-      "headline": "Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFh5VlF5RmRyR2tCbFBXSTV2cU96YmpzMXBiT3gwdkNjdkg0NkFLc0tjdXIwVGNTRG5WR1RUQXNjS3pXS3kwTVZib2M0VjY3bThOVDhvcXcxQ2F1eWtVejlaVHVadzFoT2R0Xy1IMzdxZlRBY2JUeURHaDBYdGdET2IxY3VCa1hVQ3JtRHN4Nk5pSDhSMWtIa2k2cUpMam1kbkp6cDM2VUEzSXM?oc=5",
-      "pub_date": 1787565000.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8",
-      "image": "https://i.insider.com/6a8b931e8a99fa493d60f491?width=1200&format=jpeg",
-      "description": "Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T08:41:59.850352+00:00"
+  "fetched_at": "2026-08-25T10:32:57.957590+00:00"
 }

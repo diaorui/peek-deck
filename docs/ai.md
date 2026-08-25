@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T09:34:54.916786+00:00'
+updated: '2026-08-25T10:33:07.215222+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 09:34 UTC  
+**Last Updated:** August 25, 2026 at 10:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,13 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 7h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 8h ago
+
+---
+
+**[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
+
+44m ago
 
 ---
 
@@ -47,7 +53,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-13h ago
+14h ago
 
 ---
 
@@ -55,7 +61,15 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 15h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 16h ago
+
+---
+
+**[Is AI becoming the most powerful tool for democratizing knowledge in history — or the most powerful gatekeeper of knowledge we’ve ever created?](https://www.reddit.com/r/artificial/comments/1vxvmr2/is_ai_becoming_the_most_powerful_tool_for/)**
+
+I’ve been thinking about something that worries me about the future of AI, and I think it goes beyond the usual debate about jobs or whether AI will make society more unequal. We usually talk about AI as a tool that will democratize knowledge. And in many ways, it probably will. Someone who couldn’t afford tutors, consultants, expensive education, or hours of research may be able to ask an AI and get useful answers almost instantly. But what happens if AI eventually becomes the main way most people access and understand information? At that point, AI isn’t just a tool anymore. It becomes a gatekeeper between us and knowledge. Today, if I want to understand something, I have many different routes. I can search the web, go to a library, read books, attend university, look through academic papers, browse forums, talk to experts, or try to find the original sources myself. Those systems aren’t perfectly equal. Some information is expensive, restricted, paywalled, or geographically inaccessible. But the paths are still relatively decentralized. If one door is closed, sometimes I can find another one. Now imagine a future where most of us simply ask our AI. Different people may technically “have AI,” while their AIs have completely different access to knowledge. One person’s AI might have access only to public information. Another might be connected to premium academic journals, legal databases, financial data, industry intelligence, proprietary research, private corporate data, and real-time information. That alone could create a huge new form of inequality. But there’s something else that worries me even more. What happens when your AI doesn’t have access to something — and you don’t even know that information exists? Today, if a research paper is behind a paywall, I can usually still see that the paper exists. I know there is something behind the door, even if I can’t enter. But if AI becomes my main interface with knowledge, it might give me a confident, coherent, seemingly complete answer based only on the information it is allowed to access. How would I know what was missing? How would I know there were other studies, arguments, evidence, databases, or perspectives that my AI simply couldn’t see? Or wasn’t allowed to show me? That makes me wonder if the future information divide won’t just be: Who has the better AI? It might be: Who decides what your AI is allowed to know? Who decides which databases your AI can access? And maybe most importantly: How do you know what your AI doesn’t know? If billions of people eventually rely on a small number of AI systems to understand the world, then whoever controls those systems, their data access, and their information boundaries may have enormous influence over what people perceive as knowable in the first place. So I’m curious what people here think. Will AI become the greatest democratization of knowledge in human history? Or could it eventually become the most powerful knowledge gatekeeper we’ve ever created? Maybe the most dangerous kind of restriction isn’t being told: “You are not allowed to know this.” Maybe it’s never realizing there was something else to know.
+
+22m ago
 
 ---
 
@@ -63,7 +77,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-14h ago
+15h ago
 
 ---
 
@@ -75,11 +89,11 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 ---
 
-**[A note for people expecting the Singularity any day now](https://www.reddit.com/r/artificial/comments/1vxrhy2/a_note_for_people_expecting_the_singularity_any/)**
+**[AI video generation models still have a long way to go](https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/)**
 
-Before we get to recursive self-improvement, there is a slightly awkward intermediate step nobody seems very interested in: AI has to know what the hell is happening to itself while it is working. Current frontier models can be extraordinarily capable, but they still do not have reliable introspective access to their own internal processes. They cannot simply inspect themselves and tell you: - what exactly made this reasoning attempt succeed, - which internal bottleneck is limiting them right now, - where more compute would actually help, - which lesson from the last attempt should become persistent knowledge, - whether an apparent improvement is real or just overfitting to an evaluator, - or which part of themselves should be changed to become better next time. We keep compensating for this from the outside. We give them scaffolds. Memory systems. Evaluators. Agent loops. Tooling. Sandboxes. Human feedback. External search. Carefully designed environments that decide what they are allowed to modify and what counts as success. And some of this works remarkably well. But notice what that means. We are not yet watching an intelligence calmly understand its own machinery and recursively redesign itself. We are building increasingly elaborate machinery around an intelligence that cannot reliably see its own machinery. That may eventually lead to recursive self-improvement. Maybe surprisingly quickly. But “the model is very smart” and “the system can autonomously understand, manage, and improve the process that makes it smart” are not the same capability. There is a rather large missing arrow between them. So whenever I see another prediction that the Singularity may arrive next Tuesday, I keep wondering: Who, exactly, is going to know what to improve on Wednesday?
+I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not.
 
-3h ago
+9h ago
 
 ---
 
@@ -91,25 +105,11 @@ I've been trying to implement a speech to text app using .Net and C#, but it see
 
 ---
 
-**[AI video generation models still have a long way to go](https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/)**
-
-I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not.
-
-8h ago
-
----
-
 **[I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.](https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/)**
 
 I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
 
-13h ago
-
----
-
-**[AI agents are now using 5x more tokens than humans..](https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/)**
-
-1d ago
+14h ago
 
 ---
 
@@ -117,53 +117,67 @@ I've spent a while building a fact-checking pipeline, and I finally did a boring
 
 ## Google News: "ai"
 
+**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
+
+Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
+
+CNBC • 19h ago
+
+---
+
 **[Songs created by AI banned from Australia's music charts](https://www.bbc.com/news/articles/c20vl4vm2pno)**
 
 The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[Australia Bans Generative A.I. From Official Music Charts](https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html)**
 
+The New York Times • 2h ago
+
+---
+
+**[Australia’s music industry bans AI songs from charts](https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687)**
+
+Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.
+
+AP News • 3h ago
+
+---
+
+**[Why AI Watermarks and Detectors Could Backfire](https://time.com/article/2026/08/25/why-ai-watermarks-and-detectors-could-backfire/)**
+
+AI watermarks and detectors may leave us worse off by creating a false sense of confidence in content marked as genuine, writes Nadav Ziv.
+
+Time Magazine • 33m ago
+
+---
+
+**[US building twice as much gas-fired capacity as China in AI boom, analysis finds](https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter)**
+
+There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters
+
+The Guardian • 32m ago
+
+---
+
+**[Nvidia faces growth test as Rubin debut meets AI financing scrutiny](https://www.reuters.com/business/retail-consumer/nvidia-faces-growth-test-rubin-debut-meets-ai-financing-scrutiny-2026-08-25/)**
+
+Reuters • 26m ago
+
+---
+
+**[Opinion | We Know the Risks of A.I. We Need to Act.](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
+
 The New York Times • 1h ago
 
 ---
 
-**[Australia’s music charts ban AI-made songs amid backlash over Madonna cover](https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover)**
+**[Routing is coming for the frontier AI labs](https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs)**
 
-Tracks that use AI in a 'supporting role' will still be eligible for inclusion in the official charts.
-
-Al Jazeera • 3h ago
-
----
-
-**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
-
-Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
-
-CNBC • 18h ago
-
----
-
-**[Chinese Military Thinkers Outline Role of AI in Future Warfare](https://www.bloomberg.com/news/articles/2026-08-25/chinese-military-thinkers-outline-role-of-ai-in-future-warfare)**
-
-Bloomberg • 1h ago
-
----
-
-**[AI-made viruses could be the future of medicine : Short Wave](https://www.npr.org/2026/08/25/nx-s1-5935565/ai-virus-medicine-dna)**
-
-The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biological systems to treat formidable diseases. But some experts warn that placed in the wrong hands, this technology could create the next pandemic. Interested in more AI-related research? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.
-
-NPR • 2h ago
-
----
-
-**[Morning Bid: Waiting on Nvidia for next leg of AI rally](https://www.reuters.com/world/china/global-markets-view-europe-2026-08-25/)**
-
-Reuters • 4h ago
+Axios • 1h ago
 
 ---
 
@@ -171,23 +185,7 @@ Reuters • 4h ago
 
 China wants AI embedded across its economy. For workers, that push is already reshaping jobs from coding to translation and delivery.
 
-Fortune • 19h ago
-
----
-
-**[NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai)**
-
-NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems.
-
-NVIDIA Newsroom • 18h ago
-
----
-
-**[The AI-related reason every billionaire suddenly wants to own a sports team](https://www.cnn.com/2026/08/24/business/sports-team-buying-spree)**
-
-The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
-
-CNN • 1d ago
+Fortune • 20h ago
 
 ---
 
@@ -199,7 +197,7 @@ CNN • 1d ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 780 • 💬 686 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 785 • 💬 687 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -215,7 +213,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 511 • 💬 501 • 17h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 514 • 💬 505 • 18h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -223,7 +221,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 356 • 💬 71 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 363 • 💬 71 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -231,7 +229,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 184 • 💬 103 • 1d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 185 • 💬 103 • 1d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -239,7 +237,7 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
-⬆️ 146 • 💬 45 • 2d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+⬆️ 148 • 💬 45 • 2d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
 
 ---
 
@@ -247,13 +245,13 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 82 • 💬 9 • 1d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 100 • 💬 12 • 1d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 81 • 💬 96 • 1d ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 82 • 💬 98 • 1d ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
 
 ---
 
@@ -283,27 +281,7 @@ Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 32K • 👍 1K • 💬 292 • ⏱️ 13:41 • 13h ago
-
----
-
-**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
-
-An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
-
-📺 ABC News
-
-👁️ 180K • 👍 1K • 💬 502 • ⏱️ 2:00 • 19h ago
-
----
-
-**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
-
-The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
-
-📺 Vanessa Wingårdh
-
-👁️ 101K • 👍 6K • 💬 2K • ⏱️ 12:19 • 1d ago
+👁️ 35K • 👍 2K • 💬 322 • ⏱️ 13:41 • 14h ago
 
 ---
 
@@ -317,13 +295,43 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
+**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
+
+An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
+
+📺 ABC News
+
+👁️ 180K • 👍 1K • 💬 503 • ⏱️ 2:00 • 20h ago
+
+---
+
 **[The REAL Reason AI Is About To Change Everything](https://www.youtube.com/watch?v=Bj02me1CHmE)**
 
 Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has forecast the world's biggest risks for over 25 years, ...
 
 📺 The Diary Of A CEO Clips
 
-👁️ 199K • 👍 4K • 💬 368 • ⏱️ 16:15 • 2d ago
+👁️ 202K • 👍 4K • 💬 373 • ⏱️ 16:15 • 2d ago
+
+---
+
+**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
+
+The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
+
+📺 Vanessa Wingårdh
+
+👁️ 102K • 👍 6K • 💬 2K • ⏱️ 12:19 • 1d ago
+
+---
+
+**[AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS](https://www.youtube.com/watch?v=sZW6q8Wit38)**
+
+AI costs are rising for Australian businesses even as tokens get cheaper. That's pushing firms to weigh up what value they are ...
+
+📺 ABC News (Australia)
+
+👁️ 16K • 👍 123 • ⏱️ 3:51 • 1d ago
 
 ---
 
@@ -333,7 +341,7 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 164K • 👍 12K • 💬 762 • ⏱️ 5:15 • 1d ago
+👁️ 167K • 👍 12K • 💬 767 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -343,37 +351,25 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Law By Mike
 
-👁️ 828K • 👍 16K • 💬 1K • ⏱️ 25:05 • 1d ago
+👁️ 847K • 👍 16K • 💬 1K • ⏱️ 25:05 • 1d ago
 
 ---
 
-**[Claude&#39;s Invisible AI Watermark Has a Big Limitation](https://www.youtube.com/watch?v=TNnfb87mHw8)**
+**[#soapbubbles#funny#ai#eat#shorts#chilipepper](https://www.youtube.com/watch?v=7X3nC1xtsM0)**
 
-Follow me and DM me "WATERMARK" on IG/FB only Claude's invisible watermark has limits. Anthropic says new Claude ...
+📺 sushi ninja /すし忍者
 
-📺 Sabrina Ramonov 🍄
-
-👁️ 6K • 👍 170 • 💬 10 • ⏱️ 0:26 • 15h ago
+👁️ 10K • 👍 114 • 💬 1 • ⏱️ 0:07 • 1h ago
 
 ---
 
-**[Are graduates prepared for the AI era? | FT Working It](https://www.youtube.com/watch?v=EsdqCEuoI8M)**
+**[The irony of being told I have an AI voice… #shorts](https://www.youtube.com/watch?v=yc8SCWM4lLs)**
 
-How are global education institutions helping graduates in the race to find rewarding first jobs? Working It editor Isabel Berwick ...
+Before AI voices became annoying, I found a thing online that would generate a convincing sounding voice from the text I inputted.
 
-📺 Financial Times
+📺 Mosevic
 
-👁️ 31K • 👍 699 • 💬 69 • ⏱️ 19:00 • 23h ago
-
----
-
-**[This Woman Fell in Love With an AI #shorts #truestory #love #ai](https://www.youtube.com/watch?v=99CL2iKLwrA)**
-
-Yurina Noguchi, a 32-year-old woman from Japan, made headlines after holding a symbolic wedding ceremony with an AI ...
-
-📺 MirroWe
-
-👁️ 93K • 👍 1K • 💬 132 • ⏱️ 0:28 • 1d ago
+👁️ 31K • 👍 1K • 💬 41 • ⏱️ 0:48 • 12h ago
 
 ---
 
@@ -389,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,563 • 10d ago
+⬇️ 2,945,415 • ❤️ 12,594 • 10d ago
 
 ---
 
@@ -401,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,860 • 4d ago
+⬇️ 7,334,695 • ❤️ 2,872 • 4d ago
 
 ---
 
@@ -413,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,049 • 23h ago
+⬇️ 68,855 • ❤️ 1,060 • 1d ago
 
 ---
 
@@ -425,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 706 • 15h ago
+⬇️ 389,747 • ❤️ 713 • 16h ago
 
 ---
 
@@ -437,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,107 • 5d ago
+⬇️ 249,744 • ❤️ 1,113 • 5d ago
 
 ---
 
@@ -449,7 +445,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 591 • 7d ago
+⬇️ 832,185 • ❤️ 601 • 7d ago
 
 ---
 
@@ -461,7 +457,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 407 • 2d ago
+⬇️ 70,158 • ❤️ 409 • 2d ago
 
 ---
 
@@ -473,19 +469,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 790,378 • ❤️ 1,739 • 7d ago
-
----
-
-**[Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)**
-
-*Jonathan Coletti*
-
-This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced refusal behavior and retaining the multi-token prediction (MTP) head for enhanced generation efficiency. It supports text generation with multilingual capabilities (English, Chinese) and is compatible with llama.cpp, offering various quantization levels for different performance/resource trade-offs.
-
-`text-generation` `27.3B`
-
-⬇️ 1,456,700 • ❤️ 698 • 5h ago
+⬇️ 833,845 • ❤️ 1,749 • 7d ago
 
 ---
 
@@ -497,7 +481,19 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,233 • 10d ago
+⬇️ 18,705 • ❤️ 1,235 • 10d ago
+
+---
+
+**[Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)**
+
+*Jonathan Coletti*
+
+This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced refusal behavior and retaining the multi-token prediction (MTP) head for enhanced generation efficiency. It supports text generation with multilingual capabilities (English, Chinese) and is compatible with llama.cpp, offering various quantization levels for different performance/resource trade-offs.
+
+`text-generation` `27.3B`
+
+⬇️ 1,525,645 • ❤️ 705 • 6h ago
 
 ---
 
@@ -513,7 +509,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 90 • 💬 2 • ⭐ 6,151 • 8d ago
+▲ 92 • 💬 2 • ⭐ 6,151 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -527,7 +523,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 751 • 💬 5 • ⭐ 5,505 • 15d ago
+▲ 752 • 💬 5 • ⭐ 5,505 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -541,7 +537,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 74 • 💬 7 • ⭐ 651 • 5d ago
+▲ 75 • 💬 7 • ⭐ 701 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -553,7 +549,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 99,713 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 99,791 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -627,16 +623,17 @@ LongHorizon-Harness improves long-horizon agent performance by explicitly tracki
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Haiwen Diao, Penghao Wu, Hanming Deng et al. (58 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+🏢 SenseNova
 
-▲ 85 • 💬 7 • ⭐ 84,987 • 25mo ago
+Unified vision-language models treat understanding and generation as integrated processes rather than separate tasks, demonstrating strong performance across multiple multimodal capabilities including image synthesis and action reasoning.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+▲ 198 • 💬 2 • ⭐ 5,578 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.12500) • [💻 code](https://github.com/OpenSenseNova/SenseNova-U1)
 
 ---
 
@@ -650,7 +647,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.0k • 🔱 2.1k • 9h ago
+⭐ 18.1k • 🔱 2.1k • 10h ago
 
 ---
 
@@ -660,7 +657,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 10h ago
+⭐ 14.2k • 🔱 1.7k • 11h ago
 
 ---
 
@@ -680,7 +677,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 606 • 1h ago
+⭐ 3.6k • 🔱 608 • 2h ago
 
 ---
 
@@ -690,7 +687,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 368 • 22h ago
+⭐ 3.1k • 🔱 370 • 23h ago
 
 ---
 
@@ -700,7 +697,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 246 • 13d ago
+⭐ 3.0k • 🔱 247 • 13d ago
 
 ---
 
@@ -710,7 +707,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.7k • 🔱 327 • 5h ago
+⭐ 2.7k • 🔱 332 • 5h ago
 
 ---
 
@@ -720,7 +717,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.3k • 🔱 124 • 16h ago
+⭐ 2.3k • 🔱 127 • 17h ago
 
 ---
 
@@ -730,7 +727,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 2h ago
+⭐ 2.2k • 🔱 189 • 1m ago
 
 ---
 
@@ -740,7 +737,7 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 `Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.0k • 🔱 63 • 1d ago
+⭐ 2.0k • 🔱 65 • 2d ago
 
 ---
 

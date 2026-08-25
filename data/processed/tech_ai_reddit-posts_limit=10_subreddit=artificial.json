@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
+      "author": "avishic",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
+      "published": 1787651305.0,
+      "thumbnail": "https://preview.redd.it/bbnfpwnyshlh1.png?width=640&crop=smart&auto=webp&s=7e7ce334909740e6e38190ec929b117ce76cc8ba",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Coding expertise is going to collapse from AI reliance",
       "author": "Positive-Ad3618",
       "url": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
@@ -33,6 +44,17 @@
       "site_name": "Gadget Review",
       "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
       "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
+    },
+    {
+      "title": "Is AI becoming the most powerful tool for democratizing knowledge in history \u2014 or the most powerful gatekeeper of knowledge we\u2019ve ever created?",
+      "author": "Chemical-Escape-5034",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxvmr2/is_ai_becoming_the_most_powerful_tool_for/",
+      "published": 1787652639.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been thinking about something that worries me about the future of AI, and I think it goes beyond the usual debate about jobs or whether AI will make society more unequal. We usually talk about AI as a tool that will democratize knowledge. And in many ways, it probably will. Someone who couldn\u2019t afford tutors, consultants, expensive education, or hours of research may be able to ask an AI and get useful answers almost instantly. But what happens if AI eventually becomes the main way most people access and understand information? At that point, AI isn\u2019t just a tool anymore. It becomes a gatekeeper between us and knowledge. Today, if I want to understand something, I have many different routes. I can search the web, go to a library, read books, attend university, look through academic papers, browse forums, talk to experts, or try to find the original sources myself. Those systems aren\u2019t perfectly equal. Some information is expensive, restricted, paywalled, or geographically inaccessible. But the paths are still relatively decentralized. If one door is closed, sometimes I can find another one. Now imagine a future where most of us simply ask our AI. Different people may technically \u201chave AI,\u201d while their AIs have completely different access to knowledge. One person\u2019s AI might have access only to public information. Another might be connected to premium academic journals, legal databases, financial data, industry intelligence, proprietary research, private corporate data, and real-time information. That alone could create a huge new form of inequality. But there\u2019s something else that worries me even more. What happens when your AI doesn\u2019t have access to something \u2014 and you don\u2019t even know that information exists? Today, if a research paper is behind a paywall, I can usually still see that the paper exists. I know there is something behind the door, even if I can\u2019t enter. But if AI becomes my main interface with knowledge, it might give me a confident, coherent, seemingly complete answer based only on the information it is allowed to access. How would I know what was missing? How would I know there were other studies, arguments, evidence, databases, or perspectives that my AI simply couldn\u2019t see? Or wasn\u2019t allowed to show me? That makes me wonder if the future information divide won\u2019t just be: Who has the better AI? It might be: Who decides what your AI is allowed to know? Who decides which databases your AI can access? And maybe most importantly: How do you know what your AI doesn\u2019t know? If billions of people eventually rely on a small number of AI systems to understand the world, then whoever controls those systems, their data access, and their information boundaries may have enormous influence over what people perceive as knowable in the first place. So I\u2019m curious what people here think. Will AI become the greatest democratization of knowledge in human history? Or could it eventually become the most powerful knowledge gatekeeper we\u2019ve ever created? Maybe the most dangerous kind of restriction isn\u2019t being told: \u201cYou are not allowed to know this.\u201d Maybe it\u2019s never realizing there was something else to know."
     },
     {
       "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
@@ -57,15 +79,15 @@
       "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
     },
     {
-      "title": "A note for people expecting the Singularity any day now",
-      "author": "CarefulHamster7184",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxrhy2/a_note_for_people_expecting_the_singularity_any/",
-      "published": 1787638042.0,
+      "title": "AI video generation models still have a long way to go",
+      "author": "AthleteArtistic3121",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
+      "published": 1787619937.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Before we get to recursive self-improvement, there is a slightly awkward intermediate step nobody seems very interested in: AI has to know what the hell is happening to itself while it is working. Current frontier models can be extraordinarily capable, but they still do not have reliable introspective access to their own internal processes. They cannot simply inspect themselves and tell you: - what exactly made this reasoning attempt succeed, - which internal bottleneck is limiting them right now, - where more compute would actually help, - which lesson from the last attempt should become persistent knowledge, - whether an apparent improvement is real or just overfitting to an evaluator, - or which part of themselves should be changed to become better next time. We keep compensating for this from the outside. We give them scaffolds. Memory systems. Evaluators. Agent loops. Tooling. Sandboxes. Human feedback. External search. Carefully designed environments that decide what they are allowed to modify and what counts as success. And some of this works remarkably well. But notice what that means. We are not yet watching an intelligence calmly understand its own machinery and recursively redesign itself. We are building increasingly elaborate machinery around an intelligence that cannot reliably see its own machinery. That may eventually lead to recursive self-improvement. Maybe surprisingly quickly. But \u201cthe model is very smart\u201d and \u201cthe system can autonomously understand, manage, and improve the process that makes it smart\u201d are not the same capability. There is a rather large missing arrow between them. So whenever I see another prediction that the Singularity may arrive next Tuesday, I keep wondering: Who, exactly, is going to know what to improve on Wednesday?"
+      "description": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not."
     },
     {
       "title": "ONNX for Speech To Text",
@@ -79,17 +101,6 @@
       "description": "I've been trying to implement a speech to text app using .Net and C#, but it seems that there is no way to simply download a model (e.g. Whisper or Wav2Vec2) and directly call it the way you can in Python. Instead I'm told I need to write all the pre-processing, adding complex code into the application. I've been trying avoid using Python (for good reasons), but it feels like the ONNX route is just too complicated. Am I missing something, like a good library that can do the pre-processing, or a model that has good built in support for .Net?"
     },
     {
-      "title": "AI video generation models still have a long way to go",
-      "author": "AthleteArtistic3121",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
-      "published": 1787619937.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not."
-    },
-    {
       "title": "I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.",
       "author": "jonathancheckwise",
       "url": "https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the \"proof\" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the \"smartest\" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - \"The model cited it\" and \"the source exists\" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live \"AI fact-checker\" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)"
-    },
-    {
-      "title": "AI agents are now using 5x more tokens than humans..",
-      "author": "BrightLeopard7590",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
-      "published": 1787523028.0,
-      "thumbnail": "https://preview.redd.it/x27vp87p77lh1.jpeg?width=640&crop=smart&auto=webp&s=41dcc60a8b4c3a5eac6bc295431a47c0fee4c6ea",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-08-25T08:41:33.320028+00:00"
+  "fetched_at": "2026-08-25T10:32:37.944359+00:00"
 }

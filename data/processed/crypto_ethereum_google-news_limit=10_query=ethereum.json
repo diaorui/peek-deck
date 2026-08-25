@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next",
+      "headline": "Bitmine Makes Biggest Ethereum Purchase Since Early July",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9OYmZoYkVOY2FTY1JSUEhEdXpOdUhtVHZRSktsSEtvOWNPTGgzMlZxTVdZRjVlWHRCV1dHVFpwMjRLMmotTm94VXVEUVA5bGZuSWJwZ3NsUWpLNEN6OUdOTmNNWW84c2UyTC1Jd2Y0MWVVWXBXc2JUREQ3YmlfQ1RpdTJwcVhXU3RCUEg4emZuUnZOeUE?oc=5",
-      "pub_date": 1787612400.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8D32A0188490E9F6F4EED30F1A106EADA7123E7EB04219447ECF9728CC0503F9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
-      "description": "BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZW8wXzdhQUhiOXFTVzdTZTNiZGlpUmhMYWtodHBrMEtGRGk1aXh4TjdXdXczTHItUFdPNlRHaFNsYTNoaFcteTVLN2RqcDBXZnpYQ3k5aGZGX0oyT0JFVVJpNmhPbmFnS0ZjVTcxNDl1Zi1zVzFGNDlSSTVaWDFjN184Z0U3bDBLb2JtWkt1aGpZXzlJOXotYUVxdTB4XzY1bl8wNFA4WQ?oc=5",
+      "pub_date": 1787578740.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133900532.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/686186E8729E17938C87E110D12982C15F39A9C14AC42D970AE0109768906E57/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ff34cc26bcce388b1fde474eda15f2f8f.jpg",
+      "description": "Bitmine Immersion Technologies (NYSE: $BMNR) increased its purchase of Ethereum (CRYPTO: $ETH) over the past week e..."
     },
     {
       "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
@@ -43,16 +43,6 @@
       "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
       "description": "Capital is voting with its feet."
-    },
-    {
-      "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDNHNHJZUGl2OFpRUVlnWnlHWWp4Z2VqS0FKZVUxOFZJVjRnVzNBYWExemlDbmRzb01sWFNTUHVVUG5RYWJLVjNpbENjdHZ5SklyS2JhbXpJRmtHZVlodFlVQnBlVEVJZkRuRnpQSWVrTndsZHFnSUFvYk9DZGJOM1VqSFJCUzBsWHRGZExlMjFaOV9ra0VEYlpqWkRXeTgwZzRxLWdn?oc=5",
-      "pub_date": 1787589300.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-163500378.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/FE4E5AA07B9025F882ADCE09D077683400E4ED77BE193EEDC02D61FAE5D63A80/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3ec0c9ec01d8db932e0524d2f5921b21.jpg",
-      "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
     },
     {
       "headline": "Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say",
@@ -103,8 +93,18 @@
       "article_url": "https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it \"a bunch of jokers\" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc\u2026"
+    },
+    {
+      "headline": "New Crypto: Pepeto Announces Its Presale Passing $10.8M Following Shiba Inu Success While the Ethereum Price Prediction Targets $25,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbWc3cFdtMVU1c2dHSk5ralhFWnNES3ZvMTNRUkNXS2p0NzZUSGc0WlNVS2ViTEcteWdIczN0cVZMZ0VEZkRsTkstYVM4NFZnZDRZZThlelUyVTdxTU5LZlgtZlZtSnZyY2ZIQmVuN0hIbklidDd0X1liNjUxS3N6ZVVNdUpBRzlJWFNGcHZUY2MzbzNKUy1ITF95OFFZYWRwNzFDWUVKb3lUenpleDd0dWtMUkptV2IzYmN6bGRyZTBRdHktTHhhbm9ZbURnVE5hMzVHNTJ6OGVJdUF1U0JuRkFsUFo5ZkdlaXZmQVdRODBfR19Od1kzNHYtUFYxbVZpa2VJTkFGSW1yZHJuZEhvRnVyWGVRMG5kcU9z?oc=5",
+      "pub_date": 1787589573.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000-1036487279",
+      "image": "https://ml.globenewswire.com/Resource/Download/9d548e27-bb73-4eaf-adcc-320c8d2707ec/pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000.jpg",
+      "description": "DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T08:41:47.972367+00:00"
+  "fetched_at": "2026-08-25T10:32:53.411370+00:00"
 }

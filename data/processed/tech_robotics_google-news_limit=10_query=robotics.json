@@ -5,24 +5,54 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YSHJobThkT1VuRXpDWFFVU1FXZ2trVFRwVzlwYjlTck1XbElFRGhJSUtyN2xRY0hKbEtDdDVrWTIyR2ZYVjZ4dFI5RWdUMV9pak1qcFlUYk9IUQ?oc=5",
-      "pub_date": 1787609600.0,
-      "article_url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
-      "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
+      "headline": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVNUWTZUUFRMSWJGemltTmNtb3c2ZXFXZkNtQ25kTXhNbDZQenhuYVBEUnduQTZsRndFWnBkXzByLWJRSVF0ZXl3Zl83eDJDNXRGMG9tYkxxSnhiU253RDBldWNlQ19DQUVLZ2hNZjQydlIwTURKdWFjZnpUTFFGSzFSd2VObFNMejlDY3pTWHZ5aGhza09ISUJxbFZqbDBvVVE?oc=5",
+      "pub_date": 1787580540.0,
+      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/33c2b322-33b0-4dcd-9e2b-74f62ef32429/thumbnail/1200x630g2/c26cec570b68271f6a005a1c1f2a14c5/china-humanoid-robot-kickboxing-2291755703.jpg",
+      "description": "A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: \"It all depends on who controls them.\""
     },
     {
-      "headline": "BlackBerry found a second life in car software. Now it\u2019s looking to robotics",
+      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xeGI4ak5PY2dkblVwZk1XRDU1ZFFiZ083enVMa1BOUmtualBGckNoTEVCeEZKcHhPUjVwZEZNTzZxVkYwMXRVYXQ5c1lVeEtDd3o0S05VN25QM0ItNkkxeXNaTng3czdwNERaM3o2Q1p2VFRpNkJGc3VEMA?oc=5",
-      "pub_date": 1787605200.0,
-      "article_url": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
+      "pub_date": 1787649965.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
+    },
+    {
+      "headline": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Cc2NhWjVUaTdNdk5tRUNPN1BSYlRESkRhWFRNTUk2SUwwUnZFQTYzV0dmRWtkd0JHR2NrUk9RWXB4dnJ1TEU1a1dTdTBkeHN2ZExuOEYzNkxoalUwY3NxejJn?oc=5",
+      "pub_date": 1787652231.0,
+      "article_url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "description": "Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware"
+    },
+    {
+      "headline": "Unitree's Post-Listing Slump Sparks Fears of a Robotics Bubble",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXNfMzRTMmlrcmVrX0xaamx4R2RmQVRfUkVya2lFbHliUFowWW5LTjZneHZReXlCaUtIWUF4WXEzajRGamhRMVhVOF9VSEJ3cGt2aXMzQTg2Vml5UUE0eGJPblp3R2JWRURaREdHU3BkZkg5X1Z3RVJ1dzdIbzZRcmt1TV80R0NxX0tz?oc=5",
+      "pub_date": 1787649300.0,
+      "article_url": "https://www.yahoo.com/news/videos/unitrees-post-listing-slump-sparks-091500080.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7a500e0f7e5384d39c8369e09536882a7b294710dd681c294c5d9ee4e4782aff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_video_962%2F2f8f36f79e5f017adb85899686e780cd.jpg",
+      "description": "Unitree shares have plunged 45% since their Shanghai debut, raising concerns about excessive enthusiasm surrounding China's robotics industry."
+    },
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
+      "pub_date": 1787585058.0,
+      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
       "headline": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 \u2013 in pictures",
@@ -35,36 +65,6 @@
       "description": "More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry"
     },
     {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787603972.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "ADNOC, a major oil and gas producer, could use Micropolis robots for hazardous tasks",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNERCQ3NOTHpWMjFUVnVaVVdUdFBqN2RCQlVvRlhMajByMkR6ZEtxRjZSRjg1LUJTMllMNTZ1S0pBRnJ5aGd3dXB3UzZ4Mm0wYjJwd2FwdjBORTgzOG0wZnJRU19yek1hMnZVWmdtTXRrTmF2R1B4VW1haWc5MlYxMjctZzU2WXQ4T25jc1pSZjNLS1UzSGEwRHFwWTVmNS15VlJRZGRoVlJZa0x3eG9vc0tzUjEzbnVRUE00?oc=5",
-      "pub_date": 1787602500.0,
-      "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-alte0vdfox60.html",
-      "image": "https://www.stocktitan.net/news_covers/Micropolis_Robotics_Becomes_a_Robotics_and_Physical_AI_Solutions_Provider_to_ADNOC_1496559.webp",
-      "description": "Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas."
-    },
-    {
-      "headline": "AI robotics companies love San Francisco. They\u2019re just too big to stay",
-      "source": "The San Francisco Standard",
-      "source_url": "https://sfstandard.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOV81R0Y2UDVHQ0NWOU5uNTZDd3V4SzVJMjlzSXZ1STU3OUVKU3R0UHNlSGFnODJ1TENyRGRMbExBbHlsU2tsRzBFRk5uTjZHeVc5c0NXdG8yMEMtVndxanc4aEN6OFphdlpzME81V3BLZThfcm9iWEhxZVdrWnplTFFn?oc=5",
-      "pub_date": 1787490000.0,
-      "article_url": "https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_sqmg558v895ajasdsopfoius00/-C100.00%25x78.71%25%2C0.00%25%2C18.16%25-S1200x630-FPNG",
-      "description": "The city is still ground zero for the industry boom. But as machine companies scale up, they can\u2019t find the space to match."
-    },
-    {
       "headline": "Inside China\u2019s Race To Rule Robotics",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -75,6 +75,26 @@
       "description": null
     },
     {
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787607725.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
+      "pub_date": 1787599380.0,
+      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
+      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
+      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
+    },
+    {
       "headline": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pSkpUN1NXT292TGRPWkFtUHlxdTNSTUlBejk2bDNjZXhDb3pWVHVhcnkwWXBqYms5TGFnQ19haWtpcTVtX3g5Nlh6dE8ta0hKQ3VYdFZ5RjhOejBFVmtOSURXZHdDYS1oNmdlcmFISVRyY09SVlFxbUNSNNIBgAFBVV95cUxOVXZVdGx3UmJDLWhxWGVoTmpmREY1RWFrdGR4Z3NGZWJ0bVlrRzVYRlRVeXFaWjJpS0RWUFkwQ2ZQaXFHX1RaaF9lLU9VaXFnOFNrcUpXYUdPbVhDdk8zYjlFajZSSU9Ud05PVnd3MF81TGFXcEx2U1c5MGlzeGZkLQ?oc=5",
-      "pub_date": 1787630917.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353647-1787624536591-gettyimages-2274268552-260505_Shopping_mall_store.jpeg?v=1787624561&w=1920&h=1080",
-      "description": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business."
-    },
-    {
-      "headline": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3pua1hCWWhhUWhsaW1iLWtzdlFybVowR3lRUlRXemk2bV92dnJlVXRIbi0tVG5KbFIydS0tQUcxVE1UdEtaNW1iazZWbjZHWTJEeFpMUExScVRjZmJ6WklFOUNHSWtZbWxmMUZ6a3ctRk9aVEpiWWtEUl9YYXoyVldudmplaDFJMHhXZ3JGaw?oc=5",
-      "pub_date": 1787582164.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a245c5090fe79dadade3e63fba3fbf5a4c381d0c4bb1db19871a9fe5d47c81e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a61aaa828ab1bb61666bce552e8c313.jpg",
-      "description": "XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T08:41:49.286917+00:00"
+  "fetched_at": "2026-08-25T10:32:59.851621+00:00"
 }

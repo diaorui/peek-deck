@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T09:34:54.925446+00:00'
+updated: '2026-08-25T10:33:07.221185+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 09:34 UTC  
+**Last Updated:** August 25, 2026 at 10:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,134.75
+### $79,262.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +15.3%  
-**30d:** +25.4%  
-**90d:** +8.6%  
-**1y:** -28.5%  
+**24h:** +1.1%  
+**7d:** +14.4%  
+**30d:** +24.3%  
+**90d:** +7.7%  
+**1y:** -29.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1615.70B
+**Market Cap:** $1591.00B
 Rank #1
 
-**Circulating Supply:** 20,074,793 BTC
+**Circulating Supply:** 20,074,918 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.2%
+-37.1%
 
 **All-Time Low:** $67.81
-+118571.3%
++116779.5%
 
 ---
 
@@ -79,43 +79,43 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-5h ago
+6h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-7h ago
+8h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-12h ago
+13h ago
 
 ---
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-6h ago
+7h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -123,13 +123,13 @@ Rank #1
 
 There is a lot of gold left to be mined. Bitcoin? Not so much.
 
-12h ago
+13h ago
 
 ---
 
 **["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ There is a lot of gold left to be mined. Bitcoin? Not so much.
 
 Don’t time the market embrace it.
 
-11h ago
+12h ago
 
 ---
 
@@ -147,27 +147,19 @@ Don’t time the market embrace it.
 
 **[Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
 
-Bloomberg • 3h ago
+Bloomberg.com • 49m ago
 
 ---
 
-**[Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000](https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000)**
+**[Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026)**
 
-CoinDesk • 1h ago
-
----
-
-**[Signal Decoded | Gold and Bitcoin Rally Together - Technical Analysis & Key Levels](https://www.moomoo.com/community/feed/signal-decoded-gold-and-bitcoin-rally-together-technical-analysis-key-117155222650894)**
-
-Both Bitcoin $Bitcoin (BTC.CC)$ and Gold $XAU/USD (XAUUSD.CFD)$ have been rallying while equities sell off and Treasury yields sit at 52-week highs. That is not a coincidence — it is a message. When sovereign debt sells off and the dollar weakens simultaneously, capital rotates toward assets outside the sovereign liability structure. That rotation is visible in both charts right now. On the other hand, Treasury Secret...
-
-Moomoo • 1h ago
+WSJ • 50m ago
 
 ---
 
-**[MicroStrategy (MSTR.US) sees unrealized Bitcoin gains surpass $4 billion, with 840,000 BTC holdings serving as a bellwether for institutional investors](https://www.moomoo.com/news/post/75204005/microstrategy-mstrus-sees-unrealized-bitcoin-gains-surpass-4-billion-with)**
+**[Bitcoin Extends Rally, Crossing Above $80,000 -- WSJ](https://www.moomoo.com/news/post/75214296/bitcoin-extends-rally-crossing-above-80000-wsj)**
 
-Moomoo • 1h ago
+Moomoo • 43m ago
 
 ---
 
@@ -175,15 +167,23 @@ Moomoo • 1h ago
 
 New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-163500378.html)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-Yahoo Finance • 16h ago
+The Motley Fool • 17h ago
+
+---
+
+**[As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?](https://www.euronews.com/my-europe/2026/08/24/as-bitcoin-soars-people-ask-who-is-giancarlo-devasini-italys-richest-man)**
+
+Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
+
+Euronews.com • 20h ago
 
 ---
 
@@ -195,11 +195,17 @@ Financial Times • 1d ago
 
 ---
 
-**[As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?](https://www.euronews.com/my-europe/2026/08/24/as-bitcoin-soars-people-ask-who-is-giancarlo-devasini-italys-richest-man)**
+**[Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000](https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000)**
 
-Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
+CoinDesk • 2h ago
 
-Euronews.com • 19h ago
+---
+
+**[Current price of Bitcoin for August 24, 2026](https://fortune.com/article/price-of-bitcoin-08-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 21h ago
 
 ---
 
@@ -207,15 +213,7 @@ Euronews.com • 19h ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 18h ago
-
----
-
-**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
-
-Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
-
-Business Insider • 23h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -227,7 +225,7 @@ Business Insider • 23h ago
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 18h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 19h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -265,7 +263,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 14h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -273,13 +271,13 @@ Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/tra
 
 ## YouTube Videos: "bitcoin"
 
-**[Extreme Momentum: Is $85,000 Bitcoin Possible Today?](https://www.youtube.com/watch?v=WqtY597UHko)**
+**[Bitcoin Hits $80k: Is All-Time High Next? | Ben Cowen](https://www.youtube.com/watch?v=gTn7-oSb_ic)**
 
-In today's video, we go over yesterday's long trade and outline whether $85000 is possible as soon as today. Join live to find the ...
+Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code LIN to sign up and trade today! Benjamin Cowen ...
 
-📺 Crypto Banter
+📺 David Lin 
 
-👁️ 3K • 👍 313 • 4h ago
+👁️ 21K • 👍 1K • 💬 247 • ⏱️ 39:07 • 7h ago
 
 ---
 
@@ -289,7 +287,7 @@ Bitcoin ripped higher last week, but mainstream Wall Street media is telling you
 
 📺 Ross Givens
 
-👁️ 3K • 👍 99 • 💬 27 • ⏱️ 1:00 • 15h ago
+👁️ 3K • 👍 104 • 💬 28 • ⏱️ 1:00 • 16h ago
 
 ---
 
@@ -299,27 +297,37 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 126 • 💬 100 • ⏱️ 0:53 • 14h ago
+👁️ 5K • 👍 137 • 💬 102 • ⏱️ 0:53 • 15h ago
 
 ---
 
-**[BITCOIN: Buy The Breakout OR Wait For A Pullback? [My Plan]](https://www.youtube.com/watch?v=zKAbSwOuJVs)**
+**[BITCOIN IS ABOUT TO SHOCK EVERYONE...](https://www.youtube.com/watch?v=seu6pQj5_GI)**
 
-Bitcoin is breaking out and traders are split: buy right now or wait for a better entry? In today's live session, Kyle Doops maps out ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Crypto Banter
+📺 Crypto Rover
 
-👁️ 18K • 👍 1K • 💬 21 • ⏱️ 37:21 • 1d ago
+👁️ 15K • 👍 917 • 💬 46 • ⏱️ 11:48 • 23h ago
 
 ---
 
-**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
+**[Bitcoin Tests $80K! Critical Week for U.S. Stocks &amp; Crypto #crypto #bitcoin](https://www.youtube.com/watch?v=5FLwr_xOIuc)**
 
-SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
+Bitcoin tests $80K as strong ETF inflows continue. But Nasdaq weakness, Nvidia earnings, Fed signals, and PCE inflation could ...
 
-📺 Verified Investing
+📺 FinScope
 
-👁️ 11K • 👍 766 • 💬 90 • ⏱️ 17:09 • 15h ago
+👁️ 3K • 👍 25 • ⏱️ 1:22 • 16h ago
+
+---
+
+**[&quot;SUPER-BULLISH! Bitcoin Just Sent a 7 Sigma SIGNAL What Happens NEXT? Jordi Visser](https://www.youtube.com/watch?v=8q9iT26pxlE)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 204 • 💬 28 • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -329,7 +337,17 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 368 • 💬 184 • ⏱️ 14:52 • 16h ago
+👁️ 12K • 👍 384 • 💬 190 • ⏱️ 14:52 • 17h ago
+
+---
+
+**[Traders without SMC 😭 #Bitcoin #Crypto](https://www.youtube.com/watch?v=vWeSTv7lua4)**
+
+Traders without SMC #Bitcoin #Crypto Crypto Private Community (Free) https://bullscout.in/crypto Crypto Free ...
+
+📺 BullScout
+
+👁️ 16K • 👍 540 • 💬 10 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -339,37 +357,17 @@ FREE INVESTOR QUIZ: https://investor-profiler.investanswers.io JOIN THE FAMILY: 
 
 📺 InvestAnswers
 
-👁️ 38K • 👍 3K • 💬 262 • ⏱️ 26:21 • 13h ago
+👁️ 46K • 👍 3K • 💬 290 • ⏱️ 26:21 • 14h ago
 
 ---
 
-**[Bitcoin RIPS 24% as $2.6 BILLION Floods Back Into Crypto](https://www.youtube.com/watch?v=8aYhLiU4Xdk)**
+**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
 
-Bitcoin #Crypto #finance Bitcoin is coming off one of its strongest weeks in years, with ETF inflows surging, yields falling, and the ...
+SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
 
-📺 The Wolf Of All Streets
+📺 Verified Investing
 
-👁️ 25K • 👍 1K • 💬 565 • ⏱️ 1:05:21 • 16h ago
-
----
-
-**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
-
-Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
-
-📺 Altcoin Daily
-
-👁️ 73K • 👍 3K • 💬 222 • ⏱️ 43:03 • 1d ago
-
----
-
-**[Bitcoin Bulls Pushing!  Live Trading BTC XAU QQQ](https://www.youtube.com/watch?v=s4uUD6Zss2I)**
-
-Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading BTC, Alts. XAU GOLD, Silver, Oil, NQ, QQQ ...
-
-📺 Sin City Crypto
-
-👁️ 10K • 👍 548 • ⏱️ 7:02:36 • 4h ago
+👁️ 12K • 👍 788 • 💬 92 • ⏱️ 17:09 • 16h ago
 
 ---
 
