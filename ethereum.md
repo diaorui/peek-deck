@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T08:42:00.895983+00:00'
+updated: '2026-08-25T09:34:54.931718+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 08:42 UTC  
+**Last Updated:** August 25, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-16h ago
+17h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -168,13 +168,13 @@ Yahoo Finance • 9h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 20h ago
+PR Newswire • 21h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 16h ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 12h ago
+Benzinga • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 303 • 💬 357 • ⏱️ 19:33 • 9h ago
+👁️ 6K • 👍 303 • 💬 357 • ⏱️ 19:33 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 560 • 💬 49 • ⏱️ 12:24 • 16h ago
+👁️ 8K • 👍 560 • 💬 49 • ⏱️ 12:24 • 17h ago
 
 ---
 
@@ -262,7 +262,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 4K • 👍 206 • 💬 122 • ⏱️ 42:25 • 13h ago
+👁️ 4K • 👍 206 • 💬 122 • ⏱️ 42:25 • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 261 • 💬 8 • ⏱️ 6:32 • 19h ago
+👁️ 6K • 👍 261 • 💬 8 • ⏱️ 6:32 • 20h ago
 
 ---
 
@@ -292,7 +292,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 4K • 👍 59 • 💬 7 • ⏱️ 0:43 • 13h ago
+👁️ 4K • 👍 59 • 💬 7 • ⏱️ 0:43 • 14h ago
 
 ---
 
@@ -302,7 +302,7 @@ TIA PRO LIFETIME DISCOUNT SALE → https://link.tiainvestor.com/jyt-checkout ➡
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 787 • 💬 159 • ⏱️ 31:23 • 7h ago
+👁️ 11K • 👍 787 • 💬 159 • ⏱️ 31:23 • 8h ago
 
 ---
 
