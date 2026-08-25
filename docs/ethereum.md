@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T20:28:45.808286+00:00'
+updated: '2026-08-25T20:57:45.509256+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 20:28 UTC  
+**Last Updated:** August 25, 2026 at 20:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +9.3%  
-**30d:** +30.1%  
-**90d:** +22.5%  
-**1y:** -46.6%  
+**24h:** -1.9%  
+**7d:** +8.2%  
+**30d:** +28.8%  
+**90d:** +21.2%  
+**1y:** -47.1%  
 
 ---
 
@@ -164,20 +164,6 @@ Yahoo Finance • 21h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 1d ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
-
-CoinDesk • 1d ago
-
----
-
 **[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
@@ -189,6 +175,14 @@ The Motley Fool • 1d ago
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
 CoinDesk • 8h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -208,12 +202,6 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
-
-Barron's • 5h ago
-
----
-
 **[Coinbase Brings Tokenized Stocks to Ethereum L2 Base](https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum)**
 
 The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.
@@ -222,11 +210,23 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
+
+Barron's • 5h ago
+
+---
+
+**[Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins'](https://www.ccn.com/news/crypto/ethereum-250k-tom-lee-launch-point-eth-surge-rotation/)**
+
+CCN.com • 7h ago
+
+---
+
 **[Current price of Ethereum for August 25, 2026](https://fortune.com/article/price-of-ethereum-08-25-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 373 • 💬 300 • ⏱️ 19:33 • 21h ago
+👁️ 10K • 👍 373 • 💬 300 • ⏱️ 19:33 • 22h ago
 
 ---
 
@@ -330,7 +330,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 
 
 📺 Cilinix Crypto
 
-👁️ 456 • 👍 22 • 💬 2 • ⏱️ 5:57 • 11h ago
+👁️ 456 • 👍 22 • 💬 2 • ⏱️ 5:57 • 12h ago
 
 ---
 

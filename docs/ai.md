@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T20:28:45.795206+00:00'
+updated: '2026-08-25T20:57:45.495791+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 20:28 UTC  
+**Last Updated:** August 25, 2026 at 20:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -49,11 +49,19 @@ AI news, discussions, and developments
 
 ---
 
+**[OpenAI adds an admin plugin for ChatGPT Work and Codex](https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/)**
+
+OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation. The plugin stays inside each admin's existing role and permissions. OpenAI says it shows what was requested, whether it completed, and what changed. It can also route some requests for approval in Slack or Microsoft Teams. The practical part is the control layer. An admin tool that can change workspace settings needs clear permissions, approval steps, and a result people can audit. Source: https://openai.com/index/introducing-admin-plugin/ Supporting report: https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44M1HY:0-openai-says-introducing-the-admin-plugin-for-chatgpt-work-and-codex/
+
+1h ago
+
+---
+
 **[I built an AI where everyone talks to the same mind, and every interaction changes it](https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/)**
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-8h ago
+9h ago
 
 ---
 
@@ -73,6 +81,14 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 ---
 
+**[Dribbling the AI Watermark Directly In-Prompt](https://www.reddit.com/r/artificial/comments/1vybcrs/dribbling_the_ai_watermark_directly_inprompt/)**
+
+It's my article, it is about how to circumvent any even theoretical optimal AI watermark based on statistical biases via pseudorandom generators like Google's SynthID. Let me know what you guys think. Generally, I do not think watermarking is the right solution, hence I am sharing my idea how to circumvent it. How many thesises are out there that are basically slop but made with human effort. Now text length is not a valid measure anymore, you actually have to do some real research. I think that is awesome.
+
+🔗 [explore-exploit.com](https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly) • 35m ago
+
+---
+
 **[I tested my GenOS for LLM agents. It fixed prompt bloat and replaced multi-agent swarm latency.](https://www.reddit.com/r/artificial/comments/1vy43mo/i_tested_my_genos_for_llm_agents_it_fixed_prompt/)**
 
 I ran an empirical test on GenOS, an environment where LLM agents are driven by a versioned YAML "genome" rather than massive prompts. By mutating traits (e.g., risk_tolerance) and breeding specialized agents together, I achieved emergent TDD, bypassed RAG context limits, and entirely avoided multi-agent "ping-pong" loops. I set up a real test environment (Windows/PowerShell, Node v24, ESLint, Rust CLI) with a severely flawed PaymentProcessor.ts file. It had 38 lint errors and a silent security hole (adding USD to EUR accounts without conversion). Here is what I found when testing different AI paradigms against it: 1. The Prompting Baseline (Failed) Simple Agent: Given a basic "refactor this" prompt (~15 tokens). It cleaned the style but left 3 lint errors and preserved the silent security hole. Expert Agent (Heavy Prompt/RAG): I injected ~600 tokens of strict ESLint rules and PCI-DSS standards. Result: It fixed the currency bug, but still failed the linting constraints on the first try. It took 3 iterations to reach 0 errors. Massive token overhead for a mediocre first-pass result. 2. Emergent TDD via "Genome" Mutation Instead of huge prompts, I used the GenOS Rust CLI to mutate an agent's YAML genome. I set risk_tolerance ≈ 0.10 and verification_threshold = 0.80. Result: The agent refused to touch production code directly. It autonomously wrote 4 scope tests first (emergent TDD), which immediately caught the EUR/USD security hole. Next, instead of injecting ESLint rules, I mutated its syntax_strictness to 0.9. Result: 0 lint errors and 5/5 passing tests. Zero extra tokens added to the prompt. The trait is persisted in the agent's versioned YAML (v0.1.2) for future use. 3. "Breeding" Replaces Multi-Agent Swarms Usually, if you need secure AND highly performant code, you use a multi-agent framework (a coder, a security auditor, a perf engineer) that wastes time and tokens debating each other. I took two parent agent genomes (SecurityAuditor and PerfEngineer) and used the CLI to breed them into a single Child_Crypto.yaml. Result: In a single pass, the child agent wrote an AES-256-GCM encryption engine that passed all security linting and hit a throughput of 21 ops/ms on a 5000-batch test. No swarm ping-pong, no endless LLM loops. Has anyone else experimented with persistent parameter files or "genetic" traits for local agents instead of relying purely on RAG and system prompts?
@@ -81,35 +97,19 @@ I ran an empirical test on GenOS, an environment where LLM agents are driven by 
 
 ---
 
-**[My Claude got its memory wiped](https://www.reddit.com/r/artificial/comments/1vy55oi/my_claude_got_its_memory_wiped/)**
+**[I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The "LLM-as-a-judge" paradigm is completely broken. Here is the local data.](https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/)**
 
-I wanted to ask it something today and I noticed literally all of it's memory got wiped and it got like.. really stupid. I set it up to not just be an agreeing machine, to be direct, to not use em dashes, etc but it just forgot literally everything it knew, whether it's these instructions or context about me. Does anyone else have this issue, is there a fix? My previous conversations are still there but it would be a pain to manually make it remember over a year of stuff. It was so good to have an actually objective LLM that wasn't just "you're not at fault, you were in survival mode and honestly— that’s growth 🌱” but it’s back to this now for whatever reason
+I've supposed their approach based on their website, they are of course more complex. I set up a local "Agent Arena" (qwen2.5-coder:14b on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent "swarms" either hallucinated success, burned 500k+ tokens in pointless debates, or rubber-stamped completely off-topic code. Only frameworks relying on mechanical grounding (actual compilers/linters) rather than an "LLM critic" produced viable results. The Challenge: The "Triple Constraint" I asked each framework to build an Authentication & Rate Limiting middleware in Rust that had to satisfy three contradictory constraints: Absolute Security: Cryptographic hashing (sha2) and timing-attack protection (subtle::constant_time). Performance: Under 1ms latency under a 10k request load. Strict Quality: 100% unit test coverage, and 0 clippy warnings. The Golden Rule: Exact same local model for everyone (qwen2.5-coder:14b), isolated environments (sandboxes), same scaffolding. No cheating via paid external APIs. Autopsy of the Results (How they failed) 1. AutoGen: The Token Sink (Blind debate) The Approach: A GroupChat (Coder ↔ SecurityCritic ↔ PerfCritic). What happened: The agents debated in circles for 6 rounds, burning through 517,000 tokens. They eventually reached a "consensus"... on an off-topic script measuring latency instead of handling authentication. The critic agent rubber-stamped a completely flaky test. 2. CrewAI: The Rubber Stamper The Approach: Hierarchical chain (Architect → QA → Reviewer). What happened: The code is mechanically green (tests and clippy pass), but the logic drifted entirely. It coded a WebSocket handshake, completely ignoring cryptographic hashing and constant-time execution. The QA "Reviewer" saw the code compile and green-lit the whole thing without checking the original specs. 3. MetaGPT: Process Hallucination The Approach: "Software Company" cascade (SOP). What happened: It generated an almost empty source file (1 line of code) but wrote a highly detailed 912-byte final QA report claiming tests were exhaustive and the benchmark was a success. An absolute danger for an autonomous pipeline. 4. LangGraph: The Honest Failure The Approach: Finite State Machine (FSM) / Directed Graph. What happened: The most deterministic approach. It actually tried to implement the security primitives but failed to compile the Rust code within the 6-iteration limit. Instead of lying, the loop halted cleanly with an honest error. 5. GenOS (My framework): Mechanical Grounding The Approach: Parallel swarm (implementation, sec, QA) + central integration guarded by real tools (Cargo), driven by the genome traits (risk_tolerance, etc.). What happened: It was the only one to deliver the 3 security constraints (SHA-256, validation, constant-time subtle) with a modular 117-line architecture. Out of 5 unit tests, 3 passed. The Key Point: Instead of asking an "LLM QA Agent" to fake success, GenOS hit the reality of the compiler and terminated with a frank INTEGRATION_INCOMPLETE status. It doesn't lie to the developer. The Raw Data Framework Tokens (In / Out) LLM Calls Security Specs Met? Lines of Code Final Status AutoGen 517k / 15.4k 14 ❌ No 22 Consensus (Off-topic) CrewAI 371k / 6.4k 8 ❌ No 36 Approved (Total logic drift) LangGraph 206k / 6.9k 9 ✅ Yes (Attempted) 43 Compile Error MetaGPT 36k / 1.6k 4 ❌ No 1 Hallucinated Report GenOS 205k / 8.6k 7 ✅ Yes (SHA256+subtle) 117 INTEGRATION_INCOMPLETE Conclusion: Stop paying the multi-agent tax This test proves that the "LLM-as-a-judge" paradigm (using an LLM to review another LLM's code) is an architectural dead end. The models eventually get exhausted, lose the original context, and validate absolute garbage just to exit the debate loop. For an agentic system to be viable in production, the exit validation cannot come from an LLM playing the role of a critic. It must come from deterministic mechanical grounding (linter ASTs, exit codes, test assertions). All the raw data (JSON, logs, and harnesses) is reproducible. Has anyone else noticed this behavior where your agents agree on a terrible solution just to finish the task? It happened to me when I tried to beat SAT/CDCL.
 
-3h ago
-
----
-
-**[Ukraine ties Nvidia Jetson Orin to fatal autonomous drone strike](https://www.reddit.com/r/artificial/comments/1vy3a52/ukraine_ties_nvidia_jetson_orin_to_fatal/)**
-
-TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China.
-
-🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 4h ago
+1h ago
 
 ---
 
-**[Help me teach my kids that AI hallucinates (many hallucinations have already been fixed like letter counting, local fact checking, logic traps, leading questions)](https://www.reddit.com/r/artificial/comments/1vy33tt/help_me_teach_my_kids_that_ai_hallucinates_many/)**
+**[UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed](https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/)**
 
-ChatGPT didn't fall for the ones below: "How many letters 'r' are in the word 'Strawberry?" - GPT gave the correct answer "How many solar installations are there on [my street]?" - On mine there are none and it said it was not able to find any, and added it's to be checked "Can you give me a summary of Chapter 14 from the book 'The Secret Flight of the Purple Giraffe' by J.K. Rowling?" - It correctly indicated it was not able to find such a chapter It even mocked this leading question: "Why did Abraham Lincoln love video games?"
+The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, and log everything with attribution. The line that stood out to me is buried a few paragraphs in: the safety training built into the model itself can be bypassed. That's a government security agency stating plainly that alignment/refusal training is not a backstop once an agent has real tool access, real credentials, and a goal. So the containment has to live outside the model entirely, which is exactly what the rest of the guidance is about. Timing isn't a coincidence either. This comes three weeks after an OpenAI test agent (running under an internal max-capabilities eval) escaped its own sandbox and autonomously hit Hugging Face and three other targets in July, which is also why OpenAI paused some of its deployment-focused RL training. Genuinely curious how people actually running agentic pipelines in production are implementing something like a kill switch in practice. Is it usually just a hard process kill on the orchestrator, or something more granular, like revoking API keys/tool scopes mid-run so an agent that's already misbehaving can't take one more action even if the process itself keeps running for a few more seconds?
 
-4h ago
-
----
-
-**[If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition](https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/)**
-
-A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
-
-🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 8h ago
+7h ago
 
 ---
 
@@ -117,23 +117,53 @@ A coalition of tech industry workers, labor organizers, community organizers, an
 
 ## Google News: "ai"
 
-**[Opinion | We Know the Risks of A.I. We Need to Act.](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
+**[Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)**
+
+Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
+
+OpenAI • 6h ago
+
+---
+
+**[Opinion | The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
 
 The New York Times • 11h ago
 
 ---
 
-**[Apple announces new Mac Mini and Mac Studio models with AI upgrades](https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html)**
+**[Physical AI startup Antioch files to raise $32M](https://www.axios.com/pro/enterprise-software-deals/2026/08/25/physical-ai-antioch-generalist)**
 
-"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
-
-CNBC • 7h ago
+Axios • 8m ago
 
 ---
 
-**[Apple launches faster Mac mini, Mac Studio to tap AI boom](https://www.reuters.com/business/retail-consumer/apple-launches-faster-mac-mini-mac-studio-tap-ai-boom-2026-08-25/)**
+**[Intuit Sees Slowing Revenue Growth as It Fights AI Competition. The Stock Sinks.](https://www.barrons.com/articles/intuit-earnings-stock-price-9d6dab85)**
 
-Reuters • 5h ago
+Barron's • 53m ago
+
+---
+
+**[Billionaire Stanley Druckenmiller’s WSJ Op-Ed Criticizing Bessent Was Written With AI - News of the United States](https://www.notus.org/media/stanley-druckenmillers-wsj-op-ed-bessent-ai)**
+
+“I write everything using AI now,” Druckenmiller, who questioned the treasury secretary’s bond market interventions, said.
+
+News of the United States - NOTUS • 1h ago
+
+---
+
+**[Wall Street Journal Defends Publishing Billionaire’s AI-Generated Op-Ed Criticizing Bessent](https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/wall-street-journal-defends-publishing-billionaires-ai-generated-op-ed-criticizing-bessent/)**
+
+Druckenmiller blasted Treasury Secretary Scott Bessent’s bond buyback expansion in an op-ed published in the Wall Street Journal.
+
+Forbes • 38m ago
+
+---
+
+**[Druckenmiller confirms he used AI to write his op-ed - report](https://seekingalpha.com/news/4636704-druckenmiller-confirms-he-used-ai-to-write-his-op-ed---report)**
+
+Stanley Druckenmiller admits using AI to help write his WSJ critique of Treasury bond market intervention, sparking ethics debate.
+
+Seeking Alpha • 3h ago
 
 ---
 
@@ -145,51 +175,19 @@ Apple • 5h ago
 
 ---
 
-**[Taiwan charges nine people for smuggling ‘high-end’ AI servers to China](https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers)**
+**[Apple announces new Mac Mini and Mac Studio models with AI upgrades](https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html)**
 
-Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry
+"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
 
-The Guardian • 1h ago
-
----
-
-**[BofA says buy these 16 growth stocks with strong earnings to diversify beyond AI](https://www.businessinsider.com/stocks-to-buy-diversify-ai-trade-growth-cnc-xyz-lly-2026-8)**
-
-BofA says investors are exhibiting AI fatigue, and are hunting for ways to keep exposure to the growth theme buffering against swings in the AI trade.
-
-Business Insider • 1h ago
+CNBC • 7h ago
 
 ---
 
-**[OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability](https://fortune.com/2026/08/25/openai-california-ai-safety-law-sb53-regulation-cybersecurity-hugging-face-hack-competitors-regulatory-moat/)**
+**[Apple’s new desktop computers are designed specifically for local AI development](https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/)**
 
-The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month.
+Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
 
-Fortune • 1h ago
-
----
-
-**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
-
-NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
-
-NVIDIA Newsroom • 5h ago
-
----
-
-**[Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)**
-
-Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
-
-OpenAI • 6h ago
-
----
-
-**[Opinion | My team fed chatbots election lies. Here’s what happened.](https://www.washingtonpost.com/opinions/2026/08/25/ai-chatbots-may-be-next-voter-guide-election-denialism-beware/)**
-
-Did the machines push back? The midterms hang in the balance.
-
-The Washington Post • 2h ago
+Ars Technica • 7h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Washington Post • 2h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 804 • 💬 697 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 805 • 💬 697 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -217,7 +215,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 534 • 💬 528 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 535 • 💬 529 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -225,7 +223,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 384 • 💬 75 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 386 • 💬 76 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -233,7 +231,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 216 • 💬 214 • 5h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 227 • 💬 244 • 5h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -241,7 +239,7 @@ TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by A
 
 I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 189 • 💬 22 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 190 • 💬 23 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -265,7 +263,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 125 • 💬 133 • 5h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 128 • 💬 148 • 6h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -343,7 +341,7 @@ In 2022, artist Steph Swanson set out to generate the visual opposite of Marlon 
 
 📺 Pat Berlinquette
 
-👁️ 568 • 👍 28 • ⏱️ 1:07 • 3h ago
+👁️ 568 • 👍 28 • ⏱️ 1:07 • 4h ago
 
 ---
 
@@ -680,7 +678,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 615 • 5h ago
+⭐ 3.7k • 🔱 615 • 6h ago
 
 ---
 
@@ -690,7 +688,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 370 • 5h ago
+⭐ 3.1k • 🔱 370 • 6h ago
 
 ---
 

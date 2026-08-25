@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T20:28:45.802866+00:00'
+updated: '2026-08-25T20:57:45.503656+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 20:28 UTC  
+**Last Updated:** August 25, 2026 at 20:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,167.18
+### $78,528.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +13.9%  
-**30d:** +23.8%  
-**90d:** +7.2%  
-**1y:** -29.4%  
+**24h:** -1.0%  
+**7d:** +12.8%  
+**30d:** +22.6%  
+**90d:** +6.2%  
+**1y:** -30.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 The comparison is percentage gain from halving.
 
-6h ago
+7h ago
 
 ---
 
@@ -133,13 +133,13 @@ The comparison is percentage gain from halving.
 
 Let that sink in
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -147,73 +147,73 @@ Let that sink in
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
+**[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
 
-Bloomberg • 6h ago
-
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
-
-If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
-
-The Motley Fool • 1d ago
+WSJ • 6h ago
 
 ---
 
-**[Bitcoin is not overbought but isn't oversold anymore, says Fairlead Strategies' Katie Stockton](https://www.cnbc.com/video/2026/08/25/bitcoin-is-not-overbought-but-isnt-oversold-anymore-says-fairlead-strategies-katie-stockton.html)**
+**[Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-open-interest-collapses-12-201604682.html)**
 
-Katie Stockton, Fairlead Strategies managing partner, joins 'The Exchange' to discuss the recent performance in bitcoin, technical indicators moving markets and much more.
+Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.
 
-CNBC • 2h ago
-
----
-
-**[Solana Outpaces Bitcoin As Record $1.2B ETF Inflows Fuel SOL Rally Toward $100](https://finance.yahoo.com/markets/crypto/articles/solana-outpaces-bitcoin-record-1-175311525.html)**
-
-Analyst Michaël van de Poppe said the rally has barely scratched the surface of the damage, with SOL yet to recover 20% of a year-long bear market.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 41m ago
 
 ---
 
-**[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
+**[Why Bitcoin Surged to USD 80,000, and What May Come Next](https://global.morningstar.com/en-gb/markets/why-bitcoin-just-surged-back-usd-80000-what-may-come-next)**
 
-Bloomberg • 8h ago
-
----
-
-**[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
-
-WJBF • 17h ago
+Morningstar • 8h ago
 
 ---
 
-**[Stock Market Today: Major Indexes Advance After Losing Day for S&P 500, Nasdaq; Oil Prices Sink; Bitcoin Briefly Tops $80K](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08252026-12067123)**
+**[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
 
-Major U.S. stock indexes opened higher Tuesday, a day after the Nasdaq Composite and S&P 500 began the week with losses, as oil prices retreated and bitcoin briefly topped $80,000 for the first time in more than three months.
-
-Investopedia • 3h ago
-
----
-
-**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
-
-Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
-
-Business Insider • 1d ago
+Barron's • 5h ago
 
 ---
 
 **[Bitcoin’s surge above $80,000 was driven by short covering, not excessive leverage](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)**
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back](https://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back)**
+**[Current price of Bitcoin for August 25, 2026](https://fortune.com/article/price-of-bitcoin-08-25-2026/)**
 
-ETF.com • 22h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 5h ago
+
+---
+
+**[Option Traders Bet On Bitcoin’s Price Topping $82,000](https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html)**
+
+Option traders have turned bullish on Bitcoin (CRYPTO: $BTC) and are betting that the price of the largest cryptocu...
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Big Bitcoin Forecasts Make These Income ETFs Alluring](https://etfdb.com/monthly-income-content-hub/bitcoin-forecasts-income-etfs-appealing/)**
+
+ETF Database • 4h ago
+
+---
+
+**[Gold Hits Three-Month High as Bitcoin Tests $80,000](https://decrypt.co/376489/gold-price-three-month-high-bitcoin)**
+
+Gold extends its rally as a weaker dollar and falling yields boost demand, while Bitcoin climbs above $80,000 for the first time since May.
+
+Decrypt • 3h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html)**
+
+Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -247,7 +247,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 1 • 4h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 4h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -275,6 +275,14 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 ---
 
+**[vLLM-iOS: 88% Faster Multi-Agent Inference on iOS](https://news.ycombinator.com/item?id=49440382)**
+
+Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
+
+⬆️ 2 • 💬 3 • 10m ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+
+---
+
 **[Show HN: Transpose Spotify audio and isolate vocals/instruments in realtime](https://news.ycombinator.com/item?id=49425400)**
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
@@ -293,7 +301,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 59K • 👍 2K • 💬 407 • ⏱️ 39:07 • 17h ago
+👁️ 59K • 👍 2K • 💬 407 • ⏱️ 39:07 • 18h ago
 
 ---
 
@@ -333,7 +341,7 @@ Ledger's Back-to-School Sale is LIVE! For a limited time, you can get up to $70 
 
 📺 The CryptoDad
 
-👁️ 101 • 👍 11 • 💬 3 • ⏱️ 1:14 • 1h ago
+👁️ 101 • 👍 11 • 💬 3 • ⏱️ 1:14 • 2h ago
 
 ---
 
@@ -383,7 +391,7 @@ Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading
 
 📺 Sin City Crypto
 
-👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 15h ago
+👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 16h ago
 
 ---
 

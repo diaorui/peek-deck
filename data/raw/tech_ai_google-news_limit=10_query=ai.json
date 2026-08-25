@@ -5,7 +5,17 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Opinion | We Know the Risks of A.I. We Need to Act.",
+      "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
+      "pub_date": 1787668081.0,
+      "article_url": "https://openai.com/index/jalapeno-first-results/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+    },
+    {
+      "headline": "Opinion | The Warning Lights Are Blinking Again",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
@@ -15,24 +25,54 @@
       "description": null
     },
     {
-      "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG9hU01WSFg5ajRrWGFnNnJsODNjV0JFdElYMzVXczZYbzVkOWNsUk12ek4yMkRLeVlrOVVNRUxpUW1OdXdia2RQb3BQbTNzRnc5MDNmQlpmbDF2a050bXVHZlRFOEU5bkw4aG1tWDRWc19MX3FJZEdua2wtbGNUSnZpYWViVjZNUlJGZGwyWEk4X21IWUpabHJDMVJYVThFVjBZVWdjUdIBrAFBVV95cUxNQzN6R3J5dWQwRWVnWnhMSUx4QU5CY2QxSy1ncjlyTW5lUk1sVkZWcUZrMjlJUENpQ1JVSUs1UHVXaWxiTEM1cE0tX0lYcDBHYUlEekVFLWhtNGVKS2dlX1MyeUNVcTNMaW84VlBFblVRSGlnVjFleFJjRFZDQkgwYzBERmd1OHZLTllxR2x2QnJhdnB0UzZob3hLQ1k3T2FUbDNoR1RwNV95SWZw?oc=5",
-      "pub_date": 1787662801.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107032892-16476175322022-03-18t152944z_468709615_rc2z4t90ne2j_rtrmadp_0_apple-products.jpeg?v=1647617616&w=1920&h=1080",
-      "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said."
-    },
-    {
-      "headline": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVVUY3ROUk9aNVQyaWVSYzhTUGNkeWEzZlk5ZmJaUmd1U3NtdHlIQVdUWDNFOXhmcm9rV0FNRzBTWERJdlpKS2QtSGJEdF8zbWgwSk03cy1iUVRHcDZtVG52cDY0RXRmZXdaNGNaVXVaOHUzSGEweFJlRW5QOTRGTG1WWjJ6ZHc4VWxJX1BmaENzRFBSTE5Ldm80TkNMQjVZSHRwbGR3eE1mNHM0eGVJbi1xaFE?oc=5",
-      "pub_date": 1787671489.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/apple-launches-faster-mac-mini-mac-studio-tap-ai-boom-2026-08-25/",
+      "headline": "Physical AI startup Antioch files to raise $32M",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaE4waTJoaVgyQjUza3dndlZnV3J1U1lwSDNBay1LUlhnblEzek43cHdSc1dRVWtOUXhaZ3Q1TmNVNUc1eHlrcjhubV9xbElOLVdMMmNxdEg2cHZMempJeWdxeWU5QkhDT1BMWWl0bmtqM3VPdUNldkNObWxfZUpRTzFlZ0NrWUoyNVZlOWxuR1Q0bms5ZXhKcA?oc=5",
+      "pub_date": 1787690927.0,
+      "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/08/25/physical-ai-antioch-generalist",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Intuit Sees Slowing Revenue Growth as It Fights AI Competition. The Stock Sinks.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95dkgxRE9XRUdsVDg4QV90N0MySjl5TGp6cW5HdndFak00TnRzS01tbmVDdWI2R3dPVWpZdy1FdnBoWElZYUo5aGN6MjZreEhkMWNCdmpPTEFndDAxQTJIQ1lGNEVpZ0xkX1NJc0tZSFdlbU1PWDZfZQ?oc=5",
+      "pub_date": 1787688240.0,
+      "article_url": "https://www.barrons.com/articles/intuit-earnings-stock-price-9d6dab85",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Billionaire Stanley Druckenmiller\u2019s WSJ Op-Ed Criticizing Bessent Was Written With AI - News of the United States",
+      "source": "News of the United States - NOTUS",
+      "source_url": "https://www.notus.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RZC1sMHJmcjIyd2M0REdoQWdGT2NMNGMwc1RnTzE5Sm40MW8taHJjbUZFTG9id19BOEhCSzNIOGZmcE82dXR3c2RHcGU0d3dkOWc3T21PTkdjSFFfY3B0YWNhdTlmWTd5MzdZZm9ySjZwSkdaUTB2cWZXaw?oc=5",
+      "pub_date": 1787685577.0,
+      "article_url": "https://www.notus.org/media/stanley-druckenmillers-wsj-op-ed-bessent-ai",
+      "image": "https://static.notus.org/dims4/default/2f237a4/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F70%2F5ae0717b44c4863e09020f9eb5e9%2Ftreasury-24344278517456.jpg",
+      "description": "\u201cI write everything using AI now,\u201d Druckenmiller, who questioned the treasury secretary\u2019s bond market interventions, said."
+    },
+    {
+      "headline": "Wall Street Journal Defends Publishing Billionaire\u2019s AI-Generated Op-Ed Criticizing Bessent",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQlMzdjRpZjFhM20xekU0OUV3NDVwUEdmUXRNdlVUc0ZXQU4xSmlTS0tzR1BEQk1ZeUtiUXJ0R2NhcmNRVEJjMUJBeEtmR2pmRmtKbHlwQVZMdFBZYnNhclhUQ3R5TnE2VG1nMlY0M0lLTEE1cmxnakNhTDdLMEMyd0JqWm5odjNTdjNXbEdWdUxRdS03OVp1Mk5KNGxaY2JnVUwzaUhzWFh2N0dmVGxWd1BDUDFUUGNPWGkxMlFSQWJUVGV0bHh3MnVfM0ZyQjVjUUFzN0dKcE9YWmxPbEJncUNB?oc=5",
+      "pub_date": 1787689150.0,
+      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/wall-street-journal-defends-publishing-billionaires-ai-generated-op-ed-criticizing-bessent/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8ddd29a964795a0c01e9fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Druckenmiller blasted Treasury Secretary Scott Bessent\u2019s bond buyback expansion in an op-ed published in the Wall Street Journal."
+    },
+    {
+      "headline": "Druckenmiller confirms he used AI to write his op-ed - report",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelZuaXVYR290YkJBaTQ2dksxeUVweVktQTVVRjEwTVQyQUxsR2JLTU1iby10RmkwTGNyRG5oMEpsOUdKbC1xeE9MTmVqV1lRN2cyc0tjMXpHVzBuREJEbWV2aEdYenNpZnUyS0Jhbi1QYk84ZDNMR0lzOXZDUG95WXE0NFcwUmlIUlM5TEtSaGdHY0NpTzRLT09hR2MyRXJH?oc=5",
+      "pub_date": 1787679261.0,
+      "article_url": "https://seekingalpha.com/news/4636704-druckenmiller-confirms-he-used-ai-to-write-his-op-ed---report",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1327347862/image_1327347862.jpg?io=getty-c-w630",
+      "description": "Stanley Druckenmiller admits using AI to help write his WSJ critique of Treasury bond market intervention, sparking ethics debate."
     },
     {
       "headline": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
@@ -45,66 +85,26 @@
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
     },
     {
-      "headline": "Taiwan charges nine people for smuggling \u2018high-end\u2019 AI servers to China",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWEybW9zR0FwdjFZNVd0eV9NNllqdUVTVEFUM20zUFRIa1doVFV3dUg1cmZzRnpoUnNMZlRWQWNDV3ZndFhDTGJSZTJZYVEwWFIteXNraXVPNTJXemdlbDFVcDBITVNjbUVVNUNzbkVZLVctc2c2SDBJREtXTU5abExB?oc=5",
-      "pub_date": 1787684520.0,
-      "article_url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-      "image": "https://i.guim.co.uk/img/media/0fbe91525cf1b46d937c6aa22ad80106e8a4af29/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=344590bc58be169e0b2d702d72a316be",
-      "description": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry"
+      "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG9hU01WSFg5ajRrWGFnNnJsODNjV0JFdElYMzVXczZYbzVkOWNsUk12ek4yMkRLeVlrOVVNRUxpUW1OdXdia2RQb3BQbTNzRnc5MDNmQlpmbDF2a050bXVHZlRFOEU5bkw4aG1tWDRWc19MX3FJZEdua2wtbGNUSnZpYWViVjZNUlJGZGwyWEk4X21IWUpabHJDMVJYVThFVjBZVWdjUdIBrAFBVV95cUxNQzN6R3J5dWQwRWVnWnhMSUx4QU5CY2QxSy1ncjlyTW5lUk1sVkZWcUZrMjlJUENpQ1JVSUs1UHVXaWxiTEM1cE0tX0lYcDBHYUlEekVFLWhtNGVKS2dlX1MyeUNVcTNMaW84VlBFblVRSGlnVjFleFJjRFZDQkgwYzBERmd1OHZLTllxR2x2QnJhdnB0UzZob3hLQ1k3T2FUbDNoR1RwNV95SWZw?oc=5",
+      "pub_date": 1787662801.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107032892-16476175322022-03-18t152944z_468709615_rc2z4t90ne2j_rtrmadp_0_apple-products.jpeg?v=1647617616&w=1920&h=1080",
+      "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said."
     },
     {
-      "headline": "BofA says buy these 16 growth stocks with strong earnings to diversify beyond AI",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFJ5Z2Y1UWExSXRqQ2JMYUZqQmczaWlMYndiaU9iaGF1Mk1kYWZwcHppb2Z4TkpvZE5kOUszYzFuQzA3bVRTVWJsUVhuc01VakxtYUZFOXZ2X0dtUWFLNlRhNGpGdmJLSktFQW1NcnhKR0d3Wk4wV2RoTjBJbTRXSHExSWxSUVBxUHVyRXZiN1ozUEdf?oc=5",
-      "pub_date": 1787683593.0,
-      "article_url": "https://www.businessinsider.com/stocks-to-buy-diversify-ai-trade-growth-cnc-xyz-lly-2026-8",
-      "image": "https://i.insider.com/6a8ca6cd4569a4ec219f9aa6?width=1200&format=jpeg",
-      "description": "BofA says investors are exhibiting AI fatigue, and are hunting for ways to keep exposure to the growth theme buffering against swings in the AI trade."
-    },
-    {
-      "headline": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ3hEdUhxOE9RQk5LaEJtcjlRbU1FSXJ6RnRvSUZmd3o3TFBxYVAzRzVwZTJVZUdRM29tOVhDWmc4UkJONFQwb1FENlJxM2Nvc2dQajdzdHNCZXlheld1cXVQTHluV3pyNEhydDRrRVF2bVlWdk9vV3NCVHNOZ2VWb0lvUWhOZkdrbHBSS3M0YTQzdGFTMjlEN1ZKdm5PeVhaaGVRNVU2UW1OWHFaRVdtZ0NRejIwNzBWeVFzaERnSDF3RWlrcm1JZ0lZdUt1cHNjcXdNVXhB?oc=5",
-      "pub_date": 1787683980.0,
-      "article_url": "https://fortune.com/2026/08/25/openai-california-ai-safety-law-sb53-regulation-cybersecurity-hugging-face-hack-competitors-regulatory-moat/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287521404-1-e1787681889278.jpg?resize=1200,600",
-      "description": "The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month."
-    },
-    {
-      "headline": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTVNSHhYUjJUaGJPbEdBZXBvdlRWN0lYZnU1aVJGZWlEOG9Uc2c2cFZqV2NhN0EwNUlPWDdraC1mWVItZmZCMjM3dldaeTdBNGJqMXN2WV9OV0FOSTlubzVRMGJLcDI4STdRZ2pwU0NkTmUtaXl4QVctclF2V29MUGNneGpzbkNLbGlSaldDS213SHU3S3VHdVBfT0RDXzAzY0x1SHphUVIxM1p3aGV1Rm10NFVNYTA4Tk1Zcg?oc=5",
-      "pub_date": 1787670114.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "image": "https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_14abfacb-ea35-4a1f-a3d4-01693db66823-prv.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823",
-      "description": "NVIDIA today announced NVIDIA Jetson Orin Nano\u2122 2, a new robotics computer set to redefine entry-level edge AI \u2014 putting frontier-class generative AI performance in the hands of millions of developers."
-    },
-    {
-      "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "pub_date": 1787668081.0,
-      "article_url": "https://openai.com/index/jalapeno-first-results/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
-      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
-    },
-    {
-      "headline": "Opinion | My team fed chatbots election lies. Here\u2019s what happened.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVBIU3NWV0p5c2RXZnhEMXpyUG9zZ1V4WGtTWGhfYU5xQjNSRExqeHZ2Nkh0bGE0RzllZnZwTS1CdXlZOU9VcmVBQTBKWVYxQnJwVDFrTk5qMzFZZWZoUVUtSmV3dXlyc0xRTkJBZG1TNDFRb2VkVlctTHBFWXFDenRDbkI1NW1XNGIwU2xjWmVmSkRhR19pa0dweEhFZWlJbTBYR18tRktLbVh3X3MyTWpXNA?oc=5",
-      "pub_date": 1787680800.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/08/25/ai-chatbots-may-be-next-voter-guide-election-denialism-beware/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3WRHVZ2AN5HZBCVPLRROGEKEVA.jpg&w=1440",
-      "description": "Did the machines push back? The midterms hang in the balance."
+      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
+      "pub_date": 1787662811.0,
+      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
+      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T19:31:42.933314+00:00"
+  "fetched_at": "2026-08-25T20:57:43.094327+00:00"
 }
