@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T11:56:07.821366+00:00'
+updated: '2026-08-25T12:49:29.775539+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 11:56 UTC  
+**Last Updated:** August 25, 2026 at 12:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 9h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 10h ago
 
 ---
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-15h ago
+16h ago
 
 ---
 
@@ -61,7 +61,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-14m ago
+1h ago
 
 ---
 
@@ -69,7 +69,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 17h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 18h ago
 
 ---
 
@@ -77,7 +77,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations.
 
-5m ago
+58m ago
 
 ---
 
@@ -85,7 +85,7 @@ Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable d
 
 TL;DR: Cole's "100x output" is 30 hours spent once, so AI now runs 80% of every draft on its own. He edits the last 10% — the taste-level stuff, never the typing. That distinction is already showing up outside this clip. Christian Science Monitor just covered a manuscript polished enough to fool professional literary editors, pulled from sale — a multimillion-dollar bidding war between publishers — because no one could prove a human wrote it. Cole isn't describing a hypothetical ceiling — that ceiling's already been crossed, in public, in an actual publishing deal. The freelancers who feel replaceable right now are mostly the ones still handing AI a stack of old samples and hoping it infers the rules from them. Cole didn't hope. He sat down and wrote the rules out, sentence by sentence, until the model had nothing left to guess at. https://preview.redd.it/ftv0vk9vbilh1.jpg?width=1024&format=pjpg&auto=webp&s=e3e0da8c9feb5be532b32ddbe73f5dc9e08a36db Decades ago, the Malaysian construction landscape was like the wild-wild-west. I remember working as a technical engineer for one of the largest construction firms in Malaysia. The hydraulic hacking noise throughout the project site was pervasive and persistent for weeks. Grrrr…. Tat-tat-tat. Grrrrrrrr. Tat-tat-tat. Grrrrrr. You get the idea. It turns out that the structural operation team went ahead and constructed floors upon floors, without waiting for the mechanical and electrical team to embed their pipe sleeves, box-ups or ductworks before concreting. And so they have to come and hack the hardened concrete to open up for the M&E items to run through. Delay and additional cost already incurred. My then project director was pissed. We all had an earful from him. Said that prevention is always better than cure. So from that day onwards, a directive came down hard – no sign-off by all concerned parties on a properly coordinated drawings, means no concreting. The coordination drawings - overlays not just the design drawings from respective Architectural/Engineering trades, but also sub-contractor specialist details, as well. Discrepancies are ironed out with all parties, well before construction is due. It parallel hard on Nicolas investing time in building an exhaustive prompt, rule-by-rule, sentence-by-sentence, microstep-by-microstep. Only then, will the output come out the way we want it to be. Like when Daniel Craig was being asked by a talk show host what would he advise his successor on being the next James Bond, Daniel said, "Don't f\ck it up!"* Prevention is better than cure. ___________________ It's never the tool doing the replacing. It's the person who never got around to writing down what they already know how to do. What's the one process you already know cold but have never actually written down? Drop it below. Clip credit: Decoded Genius & Nicolas Cole — full video on their channel. DM for credit or removal requests.
 
-22m ago
+1h ago
 
 ---
 
@@ -93,7 +93,7 @@ TL;DR: Cole's "100x output" is 30 hours spent once, so AI now runs 80% of every 
 
 A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 
-🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 24m ago
+🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 1h ago
 
 ---
 
@@ -101,7 +101,7 @@ A coalition of tech industry workers, labor organizers, community organizers, an
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 23h ago
+🔗 [Rauno](https://rauno.ai) • 1d ago
 
 ---
 
@@ -119,7 +119,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 **[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 17h ago
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -135,13 +135,13 @@ CNBC • 20h ago
 
 New Orleans 911 uses Carbyne AI to triage repeat auto crash calls, but strict limits keep human call-takers in control of all other emergencies.
 
-Fox News • 13m ago
+Fox News • 1h ago
 
 ---
 
 **[AI Server Smuggling: Taiwan Charges Nine](https://www.wsj.com/pro/cybersecurity/ai-server-smuggling-taiwan-charges-nine-72009fad)**
 
-WSJ • 19m ago
+WSJ • 1h ago
 
 ---
 
@@ -149,19 +149,19 @@ WSJ • 19m ago
 
 See what it takes to convince an AI writing detector that AI-generated text was written by a human.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
 **[EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe](https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
 **[Routing is coming for the frontier AI labs](https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -169,13 +169,13 @@ Axios • 2h ago
 
 Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.
 
-AP News • 5h ago
+AP News • 6h ago
 
 ---
 
 **[Australia Bans Generative A.I. From Official Music Charts](https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -279,7 +279,7 @@ Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 35K • 👍 2K • 💬 322 • ⏱️ 13:41 • 15h ago
+👁️ 38K • 👍 2K • 💬 358 • ⏱️ 13:41 • 16h ago
 
 ---
 
@@ -299,7 +299,7 @@ An internal GOP memo says support for AI data centers could cost Republicans sea
 
 📺 ABC News
 
-👁️ 180K • 👍 1K • 💬 503 • ⏱️ 2:00 • 21h ago
+👁️ 181K • 👍 1K • 💬 515 • ⏱️ 2:00 • 22h ago
 
 ---
 
@@ -309,17 +309,7 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 The Diary Of A CEO Clips
 
-👁️ 202K • 👍 4K • 💬 373 • ⏱️ 16:15 • 2d ago
-
----
-
-**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
-
-The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
-
-📺 Vanessa Wingårdh
-
-👁️ 102K • 👍 6K • 💬 2K • ⏱️ 12:19 • 1d ago
+👁️ 205K • 👍 4K • 💬 374 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -329,17 +319,27 @@ AI costs are rising for Australian businesses even as tokens get cheaper. That's
 
 📺 ABC News (Australia)
 
-👁️ 16K • 👍 123 • ⏱️ 3:51 • 1d ago
+👁️ 17K • 👍 125 • ⏱️ 3:51 • 1d ago
 
 ---
 
-**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
+**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
 
-My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
+The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
 
-📺 Nate Ziller
+📺 Vanessa Wingårdh
 
-👁️ 167K • 👍 12K • 💬 767 • ⏱️ 5:15 • 1d ago
+👁️ 103K • 👍 7K • 💬 2K • ⏱️ 12:19 • 2d ago
+
+---
+
+**[The AI tax hits the Pixel Watch 5 HARD](https://www.youtube.com/watch?v=a2hhtkbcbtU)**
+
+If you want to skip the hassle of researching, buying, and building a gaming PC for yourself, buy one from one of Jawa's Verified ...
+
+📺 ShortCircuit
+
+👁️ 40K • 👍 2K • 💬 118 • ⏱️ 13:43 • 17h ago
 
 ---
 
@@ -349,25 +349,27 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Law By Mike
 
-👁️ 847K • 👍 16K • 💬 1K • ⏱️ 25:05 • 1d ago
+👁️ 861K • 👍 16K • 💬 1K • ⏱️ 25:05 • 1d ago
 
 ---
 
-**[#soapbubbles#funny#ai#eat#shorts#chilipepper](https://www.youtube.com/watch?v=7X3nC1xtsM0)**
+**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
 
-📺 sushi ninja /すし忍者
+My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
 
-👁️ 10K • 👍 114 • 💬 1 • ⏱️ 0:07 • 2h ago
+📺 Nate Ziller
+
+👁️ 169K • 👍 12K • 💬 774 • ⏱️ 5:15 • 1d ago
 
 ---
 
-**[The irony of being told I have an AI voice… #shorts](https://www.youtube.com/watch?v=yc8SCWM4lLs)**
+**[An AI-generated concept showing an advanced medical service robot helping a sick Hajj #allah #Kaaba](https://www.youtube.com/watch?v=IbHkqb1HHGY)**
 
-Before AI voices became annoying, I found a thing online that would generate a convincing sounding voice from the text I inputted.
+An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
 
-📺 Mosevic
+📺 Ibrahim Islamic Status
 
-👁️ 31K • 👍 1K • 💬 41 • ⏱️ 0:48 • 14h ago
+👁️ 2.0M • 👍 66K • 💬 108 • ⏱️ 0:11 • 2d ago
 
 ---
 
@@ -383,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,945,415 • ❤️ 12,594 • 10d ago
+⬇️ 2,945,415 • ❤️ 12,615 • 10d ago
 
 ---
 
@@ -395,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,334,695 • ❤️ 2,872 • 4d ago
+⬇️ 7,334,695 • ❤️ 2,879 • 5d ago
 
 ---
 
@@ -407,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 68,855 • ❤️ 1,060 • 1d ago
+⬇️ 68,855 • ❤️ 1,065 • 1d ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 713 • 18h ago
+⬇️ 389,747 • ❤️ 722 • 19h ago
 
 ---
 
@@ -431,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 249,744 • ❤️ 1,113 • 5d ago
+⬇️ 249,744 • ❤️ 1,123 • 5d ago
 
 ---
 
@@ -443,7 +445,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 832,185 • ❤️ 601 • 7d ago
+⬇️ 832,185 • ❤️ 604 • 7d ago
 
 ---
 
@@ -467,7 +469,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 833,845 • ❤️ 1,749 • 7d ago
+⬇️ 833,845 • ❤️ 1,754 • 7d ago
 
 ---
 
@@ -479,7 +481,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,705 • ❤️ 1,235 • 11d ago
+⬇️ 18,705 • ❤️ 1,236 • 11d ago
 
 ---
 
@@ -491,7 +493,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,525,645 • ❤️ 705 • 7h ago
+⬇️ 1,525,645 • ❤️ 708 • 8h ago
 
 ---
 
@@ -507,7 +509,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 92 • 💬 2 • ⭐ 6,151 • 8d ago
+▲ 93 • 💬 2 • ⭐ 6,151 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -573,7 +575,7 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
 
-▲ 18 • 💬 1 • ⭐ 2,797 • 1mo ago
+▲ 18 • 💬 1 • ⭐ 2,833 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
 
@@ -607,17 +609,16 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 ---
 
-**[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-🏢 alibaba
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-LongHorizon-Harness improves long-horizon agent performance by explicitly tracking verified task states outside context via a manage-execute-audit loop.
+▲ 85 • 💬 7 • ⭐ 85,053 • 25mo ago
 
-▲ 181 • 💬 3 • ⭐ 1,245 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -645,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.1k • 🔱 2.1k • 11h ago
+⭐ 18.1k • 🔱 2.1k • 12h ago
 
 ---
 
@@ -655,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 12h ago
+⭐ 14.2k • 🔱 1.7k • 13h ago
 
 ---
 
@@ -675,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 608 • 3h ago
+⭐ 3.6k • 🔱 609 • 4h ago
 
 ---
 
@@ -685,7 +686,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 370 • 1d ago
+⭐ 3.1k • 🔱 369 • 1d ago
 
 ---
 
@@ -695,7 +696,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 247 • 13d ago
+⭐ 3.1k • 🔱 247 • 13d ago
 
 ---
 
@@ -705,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.7k • 🔱 332 • 7h ago
+⭐ 2.8k • 🔱 333 • 8h ago
 
 ---
 
@@ -715,7 +716,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.3k • 🔱 127 • 19h ago
+⭐ 2.3k • 🔱 131 • 20h ago
 
 ---
 
@@ -725,7 +726,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 1h ago
+⭐ 2.2k • 🔱 189 • 26s ago
 
 ---
 

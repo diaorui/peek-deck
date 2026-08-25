@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T11:56:07.829822+00:00'
+updated: '2026-08-25T12:49:29.783188+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 11:56 UTC  
+**Last Updated:** August 25, 2026 at 12:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1591.00B
+**Market Cap:** $1584.49B
 Rank #1
 
-**Circulating Supply:** 20,074,918 BTC
+**Circulating Supply:** 20,074,975 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.1%
+-37.4%
 
 **All-Time Low:** $67.81
-+116779.5%
++116282.5%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-8h ago
+9h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-9h ago
+10h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-14h ago
+15h ago
 
 ---
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -113,15 +113,23 @@ Rank #1
 
 ---
 
-**[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
+**["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
 
-1d ago
+5h ago
 
 ---
 
-**["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
+**[We have this going on too](https://www.reddit.com/r/Bitcoin/comments/1vxwbej/we_have_this_going_on_too/)**
 
-4h ago
+Let that sink in
+
+2h ago
+
+---
+
+**[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
+
+1d ago
 
 ---
 
@@ -129,15 +137,7 @@ Rank #1
 
 There is a lot of gold left to be mined. Bitcoin? Not so much.
 
-15h ago
-
----
-
-**[The best way to do BTC.](https://www.reddit.com/r/Bitcoin/comments/1vxgnll/the_best_way_to_do_btc/)**
-
-Don’t time the market embrace it.
-
-14h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ Don’t time the market embrace it.
 
 The bitcoin rally continues.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -157,19 +157,19 @@ Yahoo Finance • 2h ago
 
 Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.
 
-CNBC • 31m ago
+CNBC • 1h ago
 
 ---
 
 **[Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026)**
 
-WSJ • 35m ago
+WSJ • 1h ago
 
 ---
 
 **[Bitcoin’s surge above $80,000 was driven by short covering, not excessive leverage](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)**
 
-CoinDesk • 59m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 59m ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 18h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 21h ago
+Euronews.com • 22h ago
 
 ---
 
@@ -193,7 +193,7 @@ Euronews.com • 21h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ Financial Times • 1d ago
 
 **[U.S. widens Iran sanctions; Bitcoin tops $80,000 - what’s moving markets](https://www.investing.com/news/economy-news/us-widens-iran-sanctions-bitcoin-tops-80000--whats-moving-markets-4874596)**
 
-Investing.com • 29m ago
+Investing.com • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Investing.com • 29m ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 21h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -227,7 +227,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 20h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 21h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -249,7 +249,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 36m ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 1h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -273,7 +273,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -287,17 +287,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 21K • 👍 1K • 💬 247 • ⏱️ 39:07 • 9h ago
-
----
-
-**[The Real Reason Bitcoin Ripped Higher (Wall Street Won&#39;t Tell You) 🚀🪙](https://www.youtube.com/watch?v=RAC5SAqBb0o)**
-
-Bitcoin ripped higher last week, but mainstream Wall Street media is telling you the completely wrong reason why! The real ...
-
-📺 Ross Givens
-
-👁️ 3K • 👍 104 • 💬 28 • ⏱️ 1:00 • 17h ago
+👁️ 32K • 👍 2K • 💬 318 • ⏱️ 39:07 • 9h ago
 
 ---
 
@@ -307,27 +297,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 137 • 💬 102 • ⏱️ 0:53 • 16h ago
-
----
-
-**[BITCOIN IS ABOUT TO SHOCK EVERYONE...](https://www.youtube.com/watch?v=seu6pQj5_GI)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 15K • 👍 917 • 💬 46 • ⏱️ 11:48 • 1d ago
-
----
-
-**[Bitcoin Tests $80K! Critical Week for U.S. Stocks &amp; Crypto #crypto #bitcoin](https://www.youtube.com/watch?v=5FLwr_xOIuc)**
-
-Bitcoin tests $80K as strong ETF inflows continue. But Nasdaq weakness, Nvidia earnings, Fed signals, and PCE inflation could ...
-
-📺 FinScope
-
-👁️ 3K • 👍 25 • ⏱️ 1:22 • 17h ago
+👁️ 5K • 👍 151 • 💬 102 • ⏱️ 0:53 • 17h ago
 
 ---
 
@@ -341,43 +311,73 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 ---
 
+**[The Real Reason Bitcoin Ripped Higher (Wall Street Won&#39;t Tell You) 🚀🪙](https://www.youtube.com/watch?v=RAC5SAqBb0o)**
+
+Bitcoin ripped higher last week, but mainstream Wall Street media is telling you the completely wrong reason why! The real ...
+
+📺 Ross Givens
+
+👁️ 3K • 👍 110 • 💬 28 • ⏱️ 1:00 • 18h ago
+
+---
+
+**[Bitcoin Just Confirmed](https://www.youtube.com/watch?v=n5HfwQeDZsg)**
+
+Bitcoin charts confirm it! SOLANA, ETHEREUM, CASHCAT, PENGU BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 27K • 👍 1K • 💬 104 • ⏱️ 13:23 • 1d ago
+
+---
+
 **[Michael Saylor sold the bottom. Bitcoin rallied anyway.](https://www.youtube.com/watch?v=7VQdhR6emro)**
 
 Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its holdings sat unchanged at 840447 BTC while Bitcoin ...
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 384 • 💬 190 • ⏱️ 14:52 • 18h ago
+👁️ 12K • 👍 393 • 💬 192 • ⏱️ 14:52 • 19h ago
 
 ---
 
-**[Traders without SMC 😭 #Bitcoin #Crypto](https://www.youtube.com/watch?v=vWeSTv7lua4)**
+**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
 
-Traders without SMC #Bitcoin #Crypto Crypto Private Community (Free) https://bullscout.in/crypto Crypto Free ...
+Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
 
-📺 BullScout
+📺 Ivan on Tech
 
-👁️ 16K • 👍 540 • 💬 10 • ⏱️ 0:21 • 2d ago
-
----
-
-**[Bitcoin Hits $80K: Why Bears Are Paralyzed &amp; $40K Trap Exposed 🚨🧠](https://www.youtube.com/watch?v=Itm_obLUaJI)**
-
-FREE INVESTOR QUIZ: https://investor-profiler.investanswers.io JOIN THE FAMILY: http://www.patreon.com/investanswers ...
-
-📺 InvestAnswers
-
-👁️ 46K • 👍 3K • 💬 290 • ⏱️ 26:21 • 15h ago
+👁️ 11K • 👍 1K • 💬 36 • ⏱️ 49:14 • 2h ago
 
 ---
 
-**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
+**[Why Bitcoin’s 22% Rise Is Just The Beginning!](https://www.youtube.com/watch?v=mcvDhvsFCzo)**
 
-SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
+Bitcoin just ripped 22%, triggering one of its rarest statistical signals of the last decade while billions flow back into ETFs. But the ...
 
-📺 Verified Investing
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 788 • 💬 92 • ⏱️ 17:09 • 18h ago
+👁️ 29K • 👍 2K • 💬 222 • ⏱️ 20:21 • 1d ago
+
+---
+
+**[BITCOIN: Buy The Breakout OR Wait For A Pullback? [My Plan]](https://www.youtube.com/watch?v=zKAbSwOuJVs)**
+
+Bitcoin is breaking out and traders are split: buy right now or wait for a better entry? In today's live session, Kyle Doops maps out ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 1K • 💬 22 • ⏱️ 37:21 • 1d ago
+
+---
+
+**[Crypto is &#39;stupid&#39;, says The O.C. actor Ben McKenzie | ABC NEWS](https://www.youtube.com/watch?v=hnTcOkBG9Vc)**
+
+For many Millennials, Ben McKenzie is still best known for his role in The O.C. as Ryan Atwood, a troubled teen from the wrong ...
+
+📺 ABC News (Australia)
+
+👁️ 6K • 👍 91 • ⏱️ 2:09 • 1d ago
 
 ---
 
