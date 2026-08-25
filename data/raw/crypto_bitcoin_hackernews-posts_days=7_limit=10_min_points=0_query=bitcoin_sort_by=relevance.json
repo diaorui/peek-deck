@@ -47,6 +47,20 @@
       "site_name": "epochbtc.github.io"
     },
     {
+      "title": "Audio-visual language For Bitcoin covenant use-cases",
+      "url": "https://getcofund.com/research/covenants-use-case-atlas",
+      "hn_url": "https://news.ycombinator.com/item?id=49432006",
+      "author": "setzeus",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-08-25T11:19:50Z",
+      "object_id": "49432006",
+      "image": "https://getcofund.com/research/covenants-use-case-atlas/og.gif?v=tkakwq",
+      "description": "Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.",
+      "favicon": "https://getcofund.com/favicon.ico",
+      "site_name": "getcofund.com"
+    },
+    {
       "title": "DEF Con 19: Skunkworks: Daniel Beckwitt on Bitcoin in 2019 [video]",
       "url": "https://www.youtube.com/watch?v=Yj2blBX2iBw",
       "hn_url": "https://news.ycombinator.com/item?id=49406156",
@@ -89,7 +103,7 @@
       "site_name": "GitHub"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-08-25T10:32:38.982926+00:00"
+  "fetched_at": "2026-08-25T11:55:44.821272+00:00"
 }

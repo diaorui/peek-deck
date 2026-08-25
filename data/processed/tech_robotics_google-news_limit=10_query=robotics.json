@@ -15,14 +15,14 @@
       "description": "A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: \"It all depends on who controls them.\""
     },
     {
-      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "headline": "BlackBerry found a second life in car software. Now it\u2019s looking to robotics",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
-      "pub_date": 1787649965.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xeGI4ak5PY2dkblVwZk1XRDU1ZFFiZ083enVMa1BOUmtualBGckNoTEVCeEZKcHhPUjVwZEZNTzZxVkYwMXRVYXQ5c1lVeEtDd3o0S05VN25QM0ItNkkxeXNaTng3czdwNERaM3o2Q1p2VFRpNkJGc3VEMA?oc=5",
+      "pub_date": 1787605200.0,
+      "article_url": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
     },
     {
       "headline": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
@@ -35,14 +35,14 @@
       "description": "Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware"
     },
     {
-      "headline": "Unitree's Post-Listing Slump Sparks Fears of a Robotics Bubble",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXNfMzRTMmlrcmVrX0xaamx4R2RmQVRfUkVya2lFbHliUFowWW5LTjZneHZReXlCaUtIWUF4WXEzajRGamhRMVhVOF9VSEJ3cGt2aXMzQTg2Vml5UUE0eGJPblp3R2JWRURaREdHU3BkZkg5X1Z3RVJ1dzdIbzZRcmt1TV80R0NxX0tz?oc=5",
-      "pub_date": 1787649300.0,
-      "article_url": "https://www.yahoo.com/news/videos/unitrees-post-listing-slump-sparks-091500080.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7a500e0f7e5384d39c8369e09536882a7b294710dd681c294c5d9ee4e4782aff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_video_962%2F2f8f36f79e5f017adb85899686e780cd.jpg",
-      "description": "Unitree shares have plunged 45% since their Shanghai debut, raising concerns about excessive enthusiasm surrounding China's robotics industry."
+      "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHFQNU1JNjdXRXduNVlRNmV2M09OdFBOa3V0Vm5FNHV5bHhpUVJYV2IwQm5vTE9NWWYwMEI0X0tYNXoza0RpcTdzdHlhSGU1SDdhYWhlRlVXbFV6aGVYT3A0UUtHN2k3SEpZWWZmcnZVbXlaQUpwcDZEc0NVSTlWRFN4RWZpOW5rb0ZZM01xeF9fQVo0NkRfUEFvNzlJWEtNb0hSTWVLOHVBOHZVcHJF?oc=5",
+      "pub_date": 1787630520.0,
+      "article_url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
+      "image": "https://i.insider.com/6a8ce6d34569a4ec219f9bf8?width=1200&format=jpeg",
+      "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
     },
     {
       "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -85,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
-      "pub_date": 1787599380.0,
-      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
-      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
-      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
-    },
-    {
       "headline": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pSkpUN1NXT292TGRPWkFtUHlxdTNSTUlBejk2bDNjZXhDb3pWVHVhcnkwWXBqYms5TGFnQ19haWtpcTVtX3g5Nlh6dE8ta0hKQ3VYdFZ5RjhOejBFVmtOSURXZHdDYS1oNmdlcmFISVRyY09SVlFxbUNSNNIBgAFBVV95cUxOVXZVdGx3UmJDLWhxWGVoTmpmREY1RWFrdGR4Z3NGZWJ0bVlrRzVYRlRVeXFaWjJpS0RWUFkwQ2ZQaXFHX1RaaF9lLU9VaXFnOFNrcUpXYUdPbVhDdk8zYjlFajZSSU9Ud05PVnd3MF81TGFXcEx2U1c5MGlzeGZkLQ?oc=5",
+      "pub_date": 1787630917.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353647-1787624536591-gettyimages-2274268552-260505_Shopping_mall_store.jpeg?v=1787624561&w=1920&h=1080",
+      "description": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T10:32:59.851621+00:00"
+  "fetched_at": "2026-08-25T11:55:58.717145+00:00"
 }

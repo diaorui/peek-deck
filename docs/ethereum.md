@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T11:27:26.258734+00:00'
+updated: '2026-08-25T11:56:07.835876+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 11:27 UTC  
+**Last Updated:** August 25, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +10.0%  
-**30d:** +30.9%  
-**90d:** +23.3%  
-**1y:** -46.2%  
+**24h:** -1.2%  
+**7d:** +10.2%  
+**30d:** +31.1%  
+**90d:** +23.4%  
+**1y:** -46.1%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-18h ago
+19h ago
 
 ---
 
@@ -156,11 +156,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitmine Makes Biggest Ethereum Purchase Since Early July](https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133900532.html)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) increased its purchase of Ethereum (CRYPTO: $ETH) over the past week e...
+If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-Yahoo Finance • 21h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -168,21 +168,7 @@ Yahoo Finance • 21h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 22h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
-
-CoinDesk • 22h ago
-
----
-
-**[Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.](https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/)**
-
-Capital is voting with its feet.
-
-The Motley Fool • 2d ago
+PR Newswire • 23h ago
 
 ---
 
@@ -228,7 +214,23 @@ TradingView • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 19h ago
+
+---
+
+**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
+
+Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Current price of Ethereum for August 24, 2026](https://fortune.com/article/price-of-ethereum-08-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
 
 ---
 
@@ -262,7 +264,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 6K • 👍 661 • 💬 8 • ⏱️ 49:14 • 1h ago
+👁️ 6K • 👍 661 • 💬 8 • ⏱️ 49:14 • 2h ago
 
 ---
 
@@ -282,7 +284,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 5K • 👍 213 • 💬 124 • ⏱️ 42:25 • 16h ago
+👁️ 5K • 👍 213 • 💬 124 • ⏱️ 42:25 • 17h ago
 
 ---
 
@@ -322,7 +324,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 15h ago
+👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:31 • 16h ago
 
 ---
 
