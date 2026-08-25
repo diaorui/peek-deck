@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T02:39:08.409353+00:00'
+updated: '2026-08-25T03:49:01.329675+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 02:39 UTC  
+**Last Updated:** August 25, 2026 at 03:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +11.8%  
-**30d:** +33.1%  
-**90d:** +25.3%  
-**1y:** -45.3%  
+**24h:** +2.5%  
+**7d:** +10.9%  
+**30d:** +32.0%  
+**90d:** +24.3%  
+**1y:** -45.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-10h ago
+11h ago
 
 ---
 
@@ -156,11 +156,25 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money](https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
-Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins getting more valuable.
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-Decrypt • 9h ago
+PR Newswire • 15h ago
+
+---
+
+**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
+
+BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+
+CoinDesk • 14h ago
 
 ---
 
@@ -172,19 +186,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-163500378.html)**
 
-BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
+If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 14h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -192,21 +198,7 @@ PR Newswire • 14h ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 17h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
-
-CoinDesk • 13h ago
-
----
-
-**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
-
-Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
-
-TradingView • 1d ago
+24/7 Wall St. • 18h ago
 
 ---
 
@@ -218,19 +210,27 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://www.tradingview.com/news/stocktwits:818da08d7094b:0-ethereum-s-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81k/)**
+
+Crypto analyst Ted Pillows said Ethereum (ETH) was having its "Netflix (NFLX) moment" and called for $10,000 Ethereum by 2029, while Michaël van de Poppe argued Bitcoin (BTC) was headed towards $81,000.On Sunday, Pillows posted a side-by-side of Netflix's monthly chart from 2003 to 2011 against Eth…
+
+TradingView • 1d ago
+
+---
+
+**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
+
+Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
+
+Seeking Alpha • 16h ago
+
+---
+
 **[New Crypto: Pepeto Announces Its Presale Passing $10.8M Following Shiba Inu Success While the Ethereum Price Prediction Targets $25,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000-1036487279)**
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 9h ago
-
----
-
-**[Current price of Ethereum for August 24, 2026](https://fortune.com/article/price-of-ethereum-08-24-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 188 • 💬 348 • ⏱️ 19:33 • 3h ago
+👁️ 2K • 👍 188 • 💬 348 • ⏱️ 19:33 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 6K • 👍 512 • 💬 40 • ⏱️ 12:24 • 10h ago
+👁️ 6K • 👍 512 • 💬 40 • ⏱️ 12:24 • 11h ago
 
 ---
 
@@ -264,7 +264,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 33K • 👍 1K • 💬 156 • ⏱️ 1:07:49 • 16h ago
+👁️ 33K • 👍 1K • 💬 156 • ⏱️ 1:07:49 • 17h ago
 
 ---
 
@@ -284,7 +284,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 254 • 💬 6 • ⏱️ 6:32 • 13h ago
+👁️ 5K • 👍 254 • 💬 6 • ⏱️ 6:32 • 14h ago
 
 ---
 
@@ -294,7 +294,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 100K • 👍 5K • 💬 326 • ⏱️ 27:38 • 22h ago
+👁️ 100K • 👍 5K • 💬 326 • ⏱️ 27:38 • 23h ago
 
 ---
 
@@ -304,7 +304,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:31 • 6h ago
+👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:31 • 8h ago
 
 ---
 
@@ -314,7 +314,7 @@ Most people know the DAO hack led to Ethereum Classic — but few know about the
 
 📺 CoinGecko
 
-👁️ 1K • 👍 73 • 💬 110 • ⏱️ 4:22 • 16h ago
+👁️ 1K • 👍 73 • 💬 110 • ⏱️ 4:22 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 379 • 👍 19 • 💬 87 • ⏱️ 4:36 • 17h ago
+👁️ 379 • 👍 19 • 💬 87 • ⏱️ 4:36 • 18h ago
 
 ---
 
