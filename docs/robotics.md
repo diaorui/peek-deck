@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T10:33:07.227517+00:00'
+updated: '2026-08-25T11:27:26.261985+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 10:33 UTC  
+**Last Updated:** August 25, 2026 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main biomécanique UM1-Evo à 24 degrés de liberté. Cela m'a pris 5 ans et demi de passion et de galères,mais je suis assez content du résultat. Le projet contient 25 moteurs, il est à l'échelle 1:1, l’électronique et le wifi sont embarqués et il pèse au total 1.7kg, soit le poids des caractéristiques de l’anatomie humaine. Un très gros travail de recherche biomécanique et cinématique ont été réalisées pour reproduire le plus fidèlement possible la forme organique et les mouvements d’une vraie main. J’ai conçu un script permettant de relever la main d’un patient (en moins de 30 minutes) et ainsi créer la main en 3D sur-mesure (en 10 minutes). J’ai également développé un logiciel de commande par cinématique inverse IK avec animation par clés ou en temps réel. J’ai conçu un gant avec 12 capteurs pour reproduire les mouvements de la main en temps réel en mode avatar. Pour une utilisation en prothèse de main, un système de captation innovant différents des systèmes myoélectriques, permet de manipuler la main avec une latence extrêmement basse et une prise en main instantané. (Ce système et en cours de protection) Voilà, n’hésitez pas à me dire ce que vous en pensez 😀
 
-21h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 **[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in S
 
 I went through a bunch of footage from the World Robot Conference after Unitree’s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there’s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 22h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 23h ago
 
 ---
 
@@ -88,7 +88,7 @@ I went through a bunch of footage from the World Robot Conference after Unitree�
 
 I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS
 
-22h ago
+23h ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
 
-CBS News • 20h ago
+CBS News • 21h ago
 
 ---
 
@@ -124,7 +124,7 @@ CBS News • 20h ago
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 1h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 29m ago
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -140,7 +140,7 @@ IEEE Spectrum • 29m ago
 
 Unitree shares have plunged 45% since their Shanghai debut, raising concerns about excessive enthusiasm surrounding China's robotics industry.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo • 1h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 19h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -156,19 +156,19 @@ TechCrunch • 19h ago
 
 More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -176,13 +176,13 @@ Axios • 12h ago
 
 Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 45 • ⏱️ 1:18 • 11h ago
+👁️ 1K • 👍 45 • ⏱️ 1:18 • 12h ago
 
 ---
 
@@ -236,7 +236,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 9K • 👍 81 • 💬 7 • ⏱️ 1:11 • 21h ago
+👁️ 9K • 👍 81 • 💬 7 • ⏱️ 1:11 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ What happens when a luxury sports car gets transformed into a giant walking mech
 
 📺 Shelter Guide
 
-👁️ 36K • 👍 574 • 💬 4 • ⏱️ 1:08 • 22h ago
+👁️ 36K • 👍 574 • 💬 4 • ⏱️ 1:08 • 23h ago
 
 ---
 
