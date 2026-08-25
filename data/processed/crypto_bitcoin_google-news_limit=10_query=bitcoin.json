@@ -5,84 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0RqVUhSdU5UVTZiZnh3YlJsczNTWFA0Y1NDeHpYckcxNUduaGdDRXVhSWZscGFNbTE2Y2V1YnNSVTRGclozQzBMNFY2eTlmcFNGbjFBUjA3TUJOYmx4LW9ETWRObGgtVXNKZTVjVUxkYUl4bmtoam5fdk9IRFVpTFpTcDZqeGdGWUQtTFBoekRRQXpZNjhjZjBXV05zR2FWSUJCcVdCS05aNnFwSTFSbmwwVQ?oc=5",
-      "pub_date": 1787666558.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns",
+      "headline": "Bitcoin Rally Pauses After Jumping to Three-Month High",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNW05dUFtdzlpWmZic2FCQ2Jab3gtbGo0T1AtdXgxbDd3cHpNZGpLaXVTWmtVQ2JQalVqYmRYTGQtdlBrWHUwU0JQQl8yNWx2TTYyQUNGNzl6T2lmUmsxaXJzV2phYXB4SXdkUmNRZFBfYlUxQ1dLcllUNURRU1pycE9WOWk2ZDl0Wjl2N2ltWHc?oc=5",
+      "pub_date": 1787669760.0,
+      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad",
       "image": null,
       "description": null
     },
     {
-      "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFRc2xWUW9YUVgzcGlQc255SUNYMjFIOHUyRFoyY091c3JHN0hxbHVYWWFBMFBpRldnckM0akd3RzQybzd4Z2hBSHdDeW0wd01GUkNSc25RZDl6M0wzQk5YSnJvcHluMUItdHdoNjBNY1R5M2RhT1JVaGhxdm1kcjM3ZERfOVZERG1JZURhUExoT0pLaE1UNg?oc=5",
-      "pub_date": 1787591700.0,
-      "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
-      "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
-    },
-    {
-      "headline": "Bitcoin is not overbought but isn't oversold anymore, says Fairlead Strategies' Katie Stockton",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUp3bmkteVluSElyYk9XSGVteFVDd0lMVzJidE1VSUJVNFBkUWtpNXhfbW9wOFJvbHF2YXUyRzNOOEpwVHE2aW9kSExOc1dFSnBrU1h4MHF5THJmWjNmTFlmWEc0aDFpUzVSS01tOGZRd0RGc2dsTURjcjRVa2FVRDVvd0V2bkJiQU5mQ3g4SG0xQVpxbzBfazVMM2N1ZmpKTWVCQ2FCU3RDcERnYWktSkhfSnpRRHk4cWw0dFpnbHJqUTdPV2RyQmVXaWpKVDA?oc=5",
-      "pub_date": 1787682232.0,
-      "article_url": "https://www.cnbc.com/video/2026/08/25/bitcoin-is-not-overbought-but-isnt-oversold-anymore-says-fairlead-strategies-katie-stockton.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354056-17876815091787681504-47980988618-1080pnbcnews.jpg?v=1787681506&w=1920&h=1080",
-      "description": "Katie Stockton, Fairlead Strategies managing partner, joins 'The Exchange' to discuss the recent performance in bitcoin, technical indicators moving markets and much more."
-    },
-    {
-      "headline": "Solana Outpaces Bitcoin As Record $1.2B ETF Inflows Fuel SOL Rally Toward $100",
+      "headline": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3N0ck16VURIYnktTkNnYlpIdGdfOUljdnh1blU3NVR6VE5uOUVoMDROcDFoU09tdXMxbWN1aVRsUWozcE5GNFNWZlE3NDFRWXpjOFNiQWNwS3FtN3hHS1ZiVmdYSFVueWg3UWpuOUtHVWhsdFZCUTk0ZVQ2eWEwNVV1THp5Y2FyejdYZGRtYmVtV3VrRWJ5M25nNWFBdw?oc=5",
-      "pub_date": 1787680391.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/solana-outpaces-bitcoin-record-1-175311525.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9dcc06d867a40f208b9773a001ff8456d8d9fe41e33786a77d1c6de42b85f223/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F46880232058cd9a556d1fb1ec27137a1.jpg",
-      "description": "Analyst Micha\u00ebl van de Poppe said the rally has barely scratched the surface of the damage, with SOL yet to recover 20% of a year-long bear market."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSExKdGVBWWtxSTRDd19FcXVnWjBRZXdiZmJwZWsyQWdtam50OVBQa00yVGFEREo1d3hIWGZPbU50RmZqeGY0aW9lRXNTUHFiTWxvcUwzRmFGRlJ4SWlMeGdGVlNXTHNCR1E5WEFoSVZQdi05aklac2E0NG9oV2czNG9OTlF0TFVJWTIxb0xHcS1FUklVMGotcDJFLTVNMEFW?oc=5",
+      "pub_date": 1787688964.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-open-interest-collapses-12-201604682.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/13847e0b69d7a286d8001f141999b814dafde252a7d6a5b12ad5f77dd73c62e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F466b8e611c9b83de10f7e8e1445cb961.jpg",
+      "description": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets."
     },
     {
-      "headline": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnppMG5uQ3NJNE9QdDdPRmU4Vlc2aGhPMFZWXzB4TmFrSmFldWdNcUpDM2VTRGIzRXVuTEQybHBoaUZKamVzU3NMZHJabzN2eTlQVGxCcWxXZGFpM1g2bzVNaFI5eEVxUVZjMVhPUGs5NGlpWjRxd0RpekRaeVJtVXZBT3ZPSTFuZTJLVWlHTnl1NnNWZGd3Vl9idFVkNDE2aHYyeWp3NmlyYUdtMHc?oc=5",
-      "pub_date": 1787660913.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger",
+      "headline": "Why Bitcoin Surged to USD 80,000, and What May Come Next",
+      "source": "Morningstar",
+      "source_url": "https://global.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUlKbmFyUWdlZXRtRng3UmVOTFBRTUE5Y2VNVk9JaXVWU1R0LURpNy1pTFpnbTdxbThBU3gwSEt2U0QzUmpnYmszLUhjU0xPQ3JIX0pvb1FVM3owNkNjY0VzUFJURjBHRFh3RjROSENMVFh6N3dLSGxxTDVERnh6eXBTc295VXk1LXF4YS1kdm5xVGFsWnYtVkR1eWVPdElWQ1YyYQ?oc=5",
+      "pub_date": 1787661524.0,
+      "article_url": "https://global.morningstar.com/en-gb/markets/why-bitcoin-just-surged-back-usd-80000-what-may-come-next",
       "image": null,
       "description": null
     },
     {
-      "headline": "CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville",
-      "source": "WJBF",
-      "source_url": "https://www.wjbf.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmJjd0w5elY0X01NRjdLYzZQaUNWYlBpeGM2NUdNLVo3MGlOekFnLXc0NUdQWmFjMjRNZFVONXljbF84TEdSSldUdVlJSEFybDdfeVZHMXpQNDlLMnFHOTRCbGRwNjBXYXNVMUNYOGdZcWZFVXhCbzhXbXFqYi1TUU1oM0RRdGMycFhDRXpWQk5UMjgxcFNka29xNThyNWFKcVQ4VlkzOWNlUjRNQk5jbFVmYzJwZXJOZUlVatIBwgFBVV95cUxPd21JMXZHT2o1Q1JvM0k2RHBNQ01JVGJ5VDlNeE9RNFlOa3VhMEEyT051RjM0cVdBb0w2LVo2RkRUZWtQSUxoYzAxc3BMejE2bG1ocDRFbE5haDlyelBzSDY4ZXVuQ1kxQVZ6UWI4bmpCSTJPNlIyZEJFTms5eFVyS2pzTkVBZk1RT2dZWUx5VXlqZEpUV0haY1djUS1ZYjVSMGtyNVBpLXJTU1NURDZ0dzVkNFB0RFRlRHFCQTUwTml1QQ?oc=5",
-      "pub_date": 1787628318.0,
-      "article_url": "https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/",
+      "headline": "Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts\u2014Where They Go Next",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZ0d082QkVoMzhpMEZFSDRsSkJ5bzdfQ194bm16X0ctUDdMMnZTdW9NRjRhTXVpOXU2LThqdWt2NlhPQ3lockhRbktucWpGNmJfQWExb0pZS09KZjFnY0psMDBINmY1TkxjSjg3YTNZRjdWT09IWnVqR01DcGxzcFd4ZU1HNHV6?oc=5",
+      "pub_date": 1787671560.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Stock Market Today: Major Indexes Advance After Losing Day for S&P 500, Nasdaq; Oil Prices Sink; Bitcoin Briefly Tops $80K",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFCUFpWelV1alQ1anRxd1VHcGZ3ajFZdTdmRFFMWWhVUURvcDE2NDJvb0YyeWhzX2pQWXNueDN2VGEyZUZHaUpZRnY4N2htRnhMQ2IwcUdpVXRLdnhQeXRhR3NReGg1bDNuc3VENXd4dTV1Q0Y5WFNzbGQ1dldoSkJpbkJ6ZzUzNXVhdURKeUQ?oc=5",
-      "pub_date": 1787677693.0,
-      "article_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08252026-12067123",
-      "image": "https://www.investopedia.com/thmb/Vhl55_J0c7O7HxbdDeumblXSXIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2291322670-ee06776df15e4f4393f6d8353b9449ee.jpg",
-      "description": "Major U.S. stock indexes opened higher Tuesday, a day after the Nasdaq Composite and S&P 500 began the week with losses, as oil prices retreated and bitcoin briefly topped $80,000 for the first time in more than three months."
-    },
-    {
-      "headline": "Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFh5VlF5RmRyR2tCbFBXSTV2cU96YmpzMXBiT3gwdkNjdkg0NkFLc0tjdXIwVGNTRG5WR1RUQXNjS3pXS3kwTVZib2M0VjY3bThOVDhvcXcxQ2F1eWtVejlaVHVadzFoT2R0Xy1IMzdxZlRBY2JUeURHaDBYdGdET2IxY3VCa1hVQ3JtRHN4Nk5pSDhSMWtIa2k2cUpMam1kbkp6cDM2VUEzSXM?oc=5",
-      "pub_date": 1787565000.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8",
-      "image": "https://i.insider.com/6a8b931e8a99fa493d60f491?width=1200&format=jpeg",
-      "description": "Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life."
     },
     {
       "headline": "Bitcoin\u2019s surge above $80,000 was driven by short covering, not excessive leverage",
@@ -95,16 +55,56 @@
       "description": null
     },
     {
-      "headline": "Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back",
-      "source": "ETF.com",
-      "source_url": "https://www.etf.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFR5aE1yVEwzZThvRi1ZdTBxNDdNTEotWWNveFNiWU9SNFpvNW1GY1JHVVFRMFhGcklOUDFjc3kxekxERFR3WURfV3FGWGM5akN2SzgzRThZUnhsMDlfTUt6T3ZQeFRndEVDRGxsU0FoYlFwYTI1Ull6M3dwT3ZhdzlUMjNkODJaTmNlUGZSUjhzM3FSckplOGZEaGw?oc=5",
-      "pub_date": 1787607003.0,
-      "article_url": "https://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back",
+      "headline": "Current price of Bitcoin for August 25, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbl9rOVdNQXN5WHJrTW1RNDl6MkVONUdGbHREYjNfNjMyZDJJS0hrX1dZcjBiWmdJSldvOU9sbGQxQlRBc1hpYzZ4RElWSkw4Q0gxQXlBRndOWDJKd2tZRS1LMWluck0?oc=5",
+      "pub_date": 1787672688.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-08-25-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Bitcoin-Aug-25.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Option Traders Bet On Bitcoin\u2019s Price Topping $82,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTdLbkNXMjNwRDYwT29QOGplUTdNTklPek4zeXZQaEN2eDc4YTZhMElqeU5JM0xZa3NBc3o2bktvMjFBMDBHOHJrb09FTjdycnpWNmJFMWdlOFdzNk9reXdKODNSMmpFM3did3ZVT2NMX2Z2SWtTdVJNLVg1YWNVa01sbHloSG1BelhrcDlmS2xzWjdKMkZnbUUzdmRxQQ?oc=5",
+      "pub_date": 1787664300.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ec303428aa76cf3898b506c45a933ace3d14637b109bb694a7f4488ae8f55058/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fa37a1f0417408e4726e790f5908be1df.jpg",
+      "description": "Option traders have turned bullish on Bitcoin (CRYPTO: $BTC) and are betting that the price of the largest cryptocu..."
+    },
+    {
+      "headline": "Big Bitcoin Forecasts Make These Income ETFs Alluring",
+      "source": "ETF Database",
+      "source_url": "https://etfdb.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzNsamZJNVNCNWJWS2xabThhQldkNUlFM0RwOG5ocnBVTS01T1g3cE5xWUxBYmVTMnF2RkR4dnVLUlhTMTI5Zng4TG8yYVRsN056Vks4YVJvX3hOS3V3R3haN3E5TjN0Nlpyek9yRGtRSkt0MzJSZkdRSHdnMzRpNlhGdjJMbldtZmd5cHF3?oc=5",
+      "pub_date": 1787673760.0,
+      "article_url": "https://etfdb.com/monthly-income-content-hub/bitcoin-forecasts-income-etfs-appealing/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsNTFMeUZSem9OY0FOMWNnRHBhdll4SVBEZWFVYkVsVThtU3VONjFCNWJvbWdyNm9GQy1ITVdvVjROSzVKMVdFeThUcWx4THdES0thLW00bk85ckthOVFaN194UGs3RjctSnp0VU5R0gF2QVVfeXFMUHNfTWJwUVVCc0tWeEttbFNjbVVXdW9aak5TSnNYYWFTT0pCY1oyWVZvZHZGdWFpSUVRQS1heGVScGpXd004RTh1M0JnR25sc2R4R3NFcHB6NUcxbzk0Z0NuN0xIMmFSZC12U2RLU3pUYXlRdGxZZw?oc=5",
+      "pub_date": 1787678694.0,
+      "article_url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin_gold2-gID_7.png",
+      "description": "Gold extends its rally as a weaker dollar and falling yields boost demand, while Bitcoin climbs above $80,000 for the first time since May."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMUx0V0kwUjdkMUJoTzlMUWZiTVA4MGZlUmRLRTNKZWY0cmRPSGJRQXc1M3B0ZV9SdEpxbVhtNGFZVU9FRWhNLUtHRW5hNjU1cXhyOEk2cGxrNW1GVzhaQXhWZEhPXzVaVC1iV2lDQWtzYzd5dy15Tl9xU2JPNVE3LTAzbGpoRzc5eGpxczFTWjNnMHRCNjU1TmUza3dzSUpiNkpmYjA5SnNaNzhJR1lsREpObFhsemxvVVg4bHRtREhBTUNjUDY2Y2JLV2h2N1pveXd6dnBpN2ZJcVR5Xzcta0JsZ2FUYk4ySUZ0eWwzeGJhUE5sSHc2TE9yTkFOZjBvbmRYNkh6MXJ5a3d3emc?oc=5",
+      "pub_date": 1787661218.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/317B38E04EC0461506CC2B542939F20BAE4E76C563803E23398C32CE1B5CA348/subgraphmysterio/resizefill_w1200_h794;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "description": "Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T19:31:43.620940+00:00"
+  "fetched_at": "2026-08-25T20:57:44.312905+00:00"
 }

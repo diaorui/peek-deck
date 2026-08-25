@@ -75,24 +75,14 @@
       "description": "Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware"
     },
     {
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
-      "pub_date": 1787585058.0,
-      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
-      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
-    },
-    {
-      "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0VycHF2TlJzSTQzVGtoa1VjOFUxU3VXQnJYSHB6ZTVaLXlKUDladm5FOGVUUTl5TU16dWNxZXRGZzVQS1RXUHFCZmE1dnBTT0VMQWNSTzhwNzlKNGdCQ1pNVmxITHVPTW1yODl5OFdaQnE1YktBS3B5TTEza3BvWjJQWnh4VkJkUjhvZm1KSzFpalpBTFh3c0o1NFAyeldmRkRja2pjNkJMZGMwdERUbg?oc=5",
-      "pub_date": 1787676835.0,
-      "article_url": "https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/zancasort-download.jpeg",
-      "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787608549.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Inside China\u2019s Race To Rule Robotics",
@@ -103,8 +93,18 @@
       "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
+      "pub_date": 1787585058.0,
+      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T19:31:42.681760+00:00"
+  "fetched_at": "2026-08-25T20:57:32.352528+00:00"
 }

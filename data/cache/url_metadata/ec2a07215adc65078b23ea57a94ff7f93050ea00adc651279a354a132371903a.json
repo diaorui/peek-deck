@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-25T20:57:20.221690+00:00",
+  "data": {
+    "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
+    "title": "vllm-ios: 88% Faster Multi-Agent Inference on iOS \u2014 Jonathon Ready",
+    "description": "Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.",
+    "image": null,
+    "favicon": "https://jonready.com/img/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}
