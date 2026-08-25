@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
-      "pub_date": 1787649965.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
-    },
-    {
       "headline": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
       "source": "NVIDIA Newsroom",
       "source_url": "https://nvidianews.nvidia.com",
@@ -45,24 +35,14 @@
       "description": "On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI."
     },
     {
-      "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0VycHF2TlJzSTQzVGtoa1VjOFUxU3VXQnJYSHB6ZTVaLXlKUDladm5FOGVUUTl5TU16dWNxZXRGZzVQS1RXUHFCZmE1dnBTT0VMQWNSTzhwNzlKNGdCQ1pNVmxITHVPTW1yODl5OFdaQnE1YktBS3B5TTEza3BvWjJQWnh4VkJkUjhvZm1KSzFpalpBTFh3c0o1NFAyeldmRkRja2pjNkJMZGMwdERUbg?oc=5",
-      "pub_date": 1787676835.0,
-      "article_url": "https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/zancasort-download.jpeg",
-      "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
-    },
-    {
-      "headline": "Corvus Robotics raises $20M as co-founder takes CEO role",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdk42ZTZpaWhCZDVkVTRsM0c0V3Jrd1VSM2FHemM5UHJpeERNQTlKR25WS1pqQllzTHV0TXlHMVZnU1JTUHprc3ZvbjFJVDVuMmR4aU8td3NTSkhFbUZ0UnEyN25QcmVmQWtWS2FyQ0c4U3FzdHRDWWJBbDRrbGozWnltUkt4VGFKUnNxNXZ3ejJ4N2xHclE?oc=5",
-      "pub_date": 1787674800.0,
-      "article_url": "https://www.bizjournals.com/sanjose/news/2026/08/25/corvus-robotics-mohammed-kabir-ceo.html",
-      "image": null,
-      "description": null
+      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
+      "pub_date": 1787649965.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
+      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
     },
     {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
@@ -85,6 +65,16 @@
       "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
     },
     {
+      "headline": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Cc2NhWjVUaTdNdk5tRUNPN1BSYlRESkRhWFRNTUk2SUwwUnZFQTYzV0dmRWtkd0JHR2NrUk9RWXB4dnJ1TEU1a1dTdTBkeHN2ZExuOEYzNkxoalUwY3NxejJn?oc=5",
+      "pub_date": 1787652273.0,
+      "article_url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "description": "Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware"
+    },
+    {
       "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -95,16 +85,26 @@
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
-      "headline": "RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MDdMZlFZTUt3VnJscHg4VE1yQ05SUG5ISEdwNmdwYUpEZ2Q1LUtud2hMal9Mb0txdHowRElNOUZKWk45OTlpbm5kQnFQdllwcjVUblpyYTB3aEU?oc=5",
-      "pub_date": 1787668221.0,
-      "article_url": "https://www.foxbusiness.com/video/6404025127112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bff52ed6-68aa-497c-99c3-92ecd2f171c8/7b394956-a988-46fe-aff1-133c3aba771c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "RoboStore CEO Ted Haggerty discusses China\u2019s advances in humanoid robots, America\u2019s position in the global robotics race and potential robot soldiers on \u2018Varney & Co.\u2019"
+      "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0VycHF2TlJzSTQzVGtoa1VjOFUxU3VXQnJYSHB6ZTVaLXlKUDladm5FOGVUUTl5TU16dWNxZXRGZzVQS1RXUHFCZmE1dnBTT0VMQWNSTzhwNzlKNGdCQ1pNVmxITHVPTW1yODl5OFdaQnE1YktBS3B5TTEza3BvWjJQWnh4VkJkUjhvZm1KSzFpalpBTFh3c0o1NFAyeldmRkRja2pjNkJMZGMwdERUbg?oc=5",
+      "pub_date": 1787676835.0,
+      "article_url": "https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/zancasort-download.jpeg",
+      "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
+    },
+    {
+      "headline": "Inside China\u2019s Race To Rule Robotics",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
+      "pub_date": 1787626265.0,
+      "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T17:31:38.722232+00:00"
+  "fetched_at": "2026-08-25T19:31:42.681760+00:00"
 }

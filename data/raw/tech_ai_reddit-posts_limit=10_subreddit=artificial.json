@@ -68,17 +68,6 @@
       "description": "I ran an empirical test on GenOS, an environment where LLM agents are driven by a versioned YAML \"genome\" rather than massive prompts. By mutating traits (e.g., risk_tolerance) and breeding specialized agents together, I achieved emergent TDD, bypassed RAG context limits, and entirely avoided multi-agent \"ping-pong\" loops. I set up a real test environment (Windows/PowerShell, Node v24, ESLint, Rust CLI) with a severely flawed PaymentProcessor.ts file. It had 38 lint errors and a silent security hole (adding USD to EUR accounts without conversion). Here is what I found when testing different AI paradigms against it: 1. The Prompting Baseline (Failed) Simple Agent: Given a basic \"refactor this\" prompt (~15 tokens). It cleaned the style but left 3 lint errors and preserved the silent security hole. Expert Agent (Heavy Prompt/RAG): I injected ~600 tokens of strict ESLint rules and PCI-DSS standards. Result: It fixed the currency bug, but still failed the linting constraints on the first try. It took 3 iterations to reach 0 errors. Massive token overhead for a mediocre first-pass result. 2. Emergent TDD via \"Genome\" Mutation Instead of huge prompts, I used the GenOS Rust CLI to mutate an agent's YAML genome. I set risk_tolerance \u2248 0.10 and verification_threshold = 0.80. Result: The agent refused to touch production code directly. It autonomously wrote 4 scope tests first (emergent TDD), which immediately caught the EUR/USD security hole. Next, instead of injecting ESLint rules, I mutated its syntax_strictness to 0.9. Result: 0 lint errors and 5/5 passing tests. Zero extra tokens added to the prompt. The trait is persisted in the agent's versioned YAML (v0.1.2) for future use. 3. \"Breeding\" Replaces Multi-Agent Swarms Usually, if you need secure AND highly performant code, you use a multi-agent framework (a coder, a security auditor, a perf engineer) that wastes time and tokens debating each other. I took two parent agent genomes (SecurityAuditor and PerfEngineer) and used the CLI to breed them into a single Child_Crypto.yaml. Result: In a single pass, the child agent wrote an AES-256-GCM encryption engine that passed all security linting and hit a throughput of 21 ops/ms on a 5000-batch test. No swarm ping-pong, no endless LLM loops. Has anyone else experimented with persistent parameter files or \"genetic\" traits for local agents instead of relying purely on RAG and system prompts?"
     },
     {
-      "title": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
-      "author": "Chobeat",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/",
-      "published": 1787657526.0,
-      "thumbnail": null,
-      "external_url": "https://techworkerscoalition.org/",
-      "site_name": "techworkerscoalition.org",
-      "favicon": "https://techworkerscoalition.org/assets/favicon.png",
-      "description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
-    },
-    {
       "title": "My Claude got its memory wiped",
       "author": "roofmart",
       "url": "https://www.reddit.com/r/artificial/comments/1vy55oi/my_claude_got_its_memory_wiped/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "ChatGPT didn't fall for the ones below: \"How many letters 'r' are in the word 'Strawberry?\" - GPT gave the correct answer \"How many solar installations are there on [my street]?\" - On mine there are none and it said it was not able to find any, and added it's to be checked \"Can you give me a summary of Chapter 14 from the book 'The Secret Flight of the Purple Giraffe' by J.K. Rowling?\" - It correctly indicated it was not able to find such a chapter It even mocked this leading question: \"Why did Abraham Lincoln love video games?\""
+    },
+    {
+      "title": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
+      "author": "Chobeat",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/",
+      "published": 1787657526.0,
+      "thumbnail": null,
+      "external_url": "https://techworkerscoalition.org/",
+      "site_name": "techworkerscoalition.org",
+      "favicon": "https://techworkerscoalition.org/assets/favicon.png",
+      "description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
     }
   ],
-  "fetched_at": "2026-08-25T17:31:13.571687+00:00"
+  "fetched_at": "2026-08-25T19:31:23.020321+00:00"
 }
