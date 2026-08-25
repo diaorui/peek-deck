@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T21:33:39.062829+00:00'
+updated: '2026-08-25T22:27:25.162644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 21:33 UTC  
+**Last Updated:** August 25, 2026 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -104,7 +104,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 1d ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 6h ago
+NVIDIA Newsroom • 7h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 6h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 6h ago
+The Robot Report • 7h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 6h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -140,7 +140,7 @@ Seeking Alpha • 6h ago
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -148,7 +148,7 @@ CNBC • 12h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ BBC • 23h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
@@ -164,19 +164,19 @@ Business Insider • 17h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 12h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 23h ago
+Axios • 4h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 6K • 👍 60 • 💬 2 • ⏱️ 0:30 • 5h ago
+👁️ 6K • 👍 60 • 💬 2 • ⏱️ 0:30 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 110K • 👍 778 • 💬 135 • ⏱️ 0:40 • 2d ago
+👁️ 110K • 👍 778 • 💬 135 • ⏱️ 0:40 • 3d ago
 
 ---
 

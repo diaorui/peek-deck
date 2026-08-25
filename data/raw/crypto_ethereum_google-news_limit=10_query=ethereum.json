@@ -75,16 +75,6 @@
       "description": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts\u2014Where They Go Next",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZ0d082QkVoMzhpMEZFSDRsSkJ5bzdfQ194bm16X0ctUDdMMnZTdW9NRjRhTXVpOXU2LThqdWt2NlhPQ3lockhRbktucWpGNmJfQWExb0pZS09KZjFnY0psMDBINmY1TkxjSjg3YTNZRjdWT09IWnVqR01DcGxzcFd4ZU1HNHV6?oc=5",
-      "pub_date": 1787671560.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Tom Lee Spots Ethereum \u2018Launch Point\u2019 After 30% ETH Surge as 'Decade-Long Rotation Begins'",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
@@ -99,12 +89,22 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEc3emdnQU1oNlltakd3NkhOT2hkUjJ2bk9DTjBaZmFiYW9qa25jQWhwUGtETUhpQ1JtSVhNZkZhczVReHJQZlR3WTdGem5lVjUwWlJVWE1YZkpRYVpicHVkQmxiX3FP?oc=5",
-      "pub_date": 1787672689.0,
+      "pub_date": 1787670889.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-08-25-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-25.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "THORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbldVT3ZEb25TaVRqaGVSTDZGTjNYOVZpcmdvUWhSWnhrS1NnS3cyakxHMDhDUkJrY3d4UkFzbDVEVFNfeDAxR0VoVGJfUUhKT3Y4R0ZVQ09hdVJnU0xZMGdzV3dZRGtBc2hDQ2plTWZfaDJwQmctYl9Wd1NvbmtBa2t3YmJEeDJTTnJTVUtHRld3TkhKaU95ZVc4Y3E0d1VXS1F3YTRDVHp1UlJuUXhvRF83WGZPWUhDM201NlZkaVlMRTFTLUpFamhQS0w?oc=5",
+      "pub_date": 1787637914.0,
+      "article_url": "https://thedefiant.io/news/press-releases/thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins",
+      "image": "https://cdn.thedefiant.io/874a9960-aaeb-487e-9386-2b09ea6524e1.jpg",
+      "description": "George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T20:57:34.976134+00:00"
+  "fetched_at": "2026-08-25T22:27:19.662987+00:00"
 }

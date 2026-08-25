@@ -59,7 +59,7 @@
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHFQNU1JNjdXRXduNVlRNmV2M09OdFBOa3V0Vm5FNHV5bHhpUVJYV2IwQm5vTE9NWWYwMEI0X0tYNXoza0RpcTdzdHlhSGU1SDdhYWhlRlVXbFV6aGVYT3A0UUtHN2k3SEpZWWZmcnZVbXlaQUpwcDZEc0NVSTlWRFN4RWZpOW5rb0ZZM01xeF9fQVo0NkRfUEFvNzlJWEtNb0hSTWVLOHVBOHZVcHJF?oc=5",
-      "pub_date": 1787630531.0,
+      "pub_date": 1787630520.0,
       "article_url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
       "image": "https://i.insider.com/6a8ce6d34569a4ec219f9bf8?width=1200&format=jpeg",
       "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
@@ -79,7 +79,7 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787608549.0,
+      "pub_date": 1787680549.0,
       "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
       "image": null,
       "description": null
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T20:57:32.352528+00:00"
+  "fetched_at": "2026-08-25T22:27:19.895911+00:00"
 }
