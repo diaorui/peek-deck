@@ -9,8 +9,8 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "hn_url": "https://news.ycombinator.com/item?id=49411102",
       "author": "naves",
-      "points": 776,
-      "num_comments": 685,
+      "points": 780,
+      "num_comments": 686,
       "created_at": "2026-08-23T18:16:37Z",
       "object_id": "49411102",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
@@ -37,8 +37,8 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "hn_url": "https://news.ycombinator.com/item?id=49421554",
       "author": "larsfaye",
-      "points": 508,
-      "num_comments": 496,
+      "points": 511,
+      "num_comments": 501,
       "created_at": "2026-08-24T15:52:33Z",
       "object_id": "49421554",
       "image": "https://larsfaye.com/opengraph-expertise.jpg",
@@ -51,8 +51,8 @@
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "hn_url": "https://news.ycombinator.com/item?id=49413561",
       "author": "pantelisk",
-      "points": 350,
-      "num_comments": 70,
+      "points": 356,
+      "num_comments": 71,
       "created_at": "2026-08-23T23:18:17Z",
       "object_id": "49413561",
       "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49415893",
       "author": "dabinat",
       "points": 184,
-      "num_comments": 102,
+      "num_comments": 103,
       "created_at": "2026-08-24T06:30:07Z",
       "object_id": "49415893",
       "image": "https://medicine.washu.edu/app/uploads/2026/08/20240918_GordonLab_0038.jpg",
@@ -87,6 +87,20 @@
       "description": "A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.",
       "favicon": "https://www.jepeake.com/favicon.ico",
       "site_name": "Jacob Peake"
+    },
+    {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "hn_url": "https://news.ycombinator.com/item?id=49411800",
+      "author": "Tiberium",
+      "points": 82,
+      "num_comments": 9,
+      "created_at": "2026-08-23T19:39:29Z",
+      "object_id": "49411800",
+      "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+      "description": "I'm a designer and creative technologist based in Brooklyn, NY.",
+      "favicon": "https://framerusercontent.com/images/eXh6BwIOH8Z95irGZfJp4.png",
+      "site_name": "surya.website"
     },
     {
       "title": "We never use AI. For anything",
@@ -117,20 +131,6 @@
       "site_name": "Omegion"
     },
     {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "hn_url": "https://news.ycombinator.com/item?id=49411800",
-      "author": "Tiberium",
-      "points": 70,
-      "num_comments": 6,
-      "created_at": "2026-08-23T19:39:29Z",
-      "object_id": "49411800",
-      "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
-      "description": "I'm a designer and creative technologist based in Brooklyn, NY.",
-      "favicon": "https://framerusercontent.com/images/eXh6BwIOH8Z95irGZfJp4.png",
-      "site_name": "surya.website"
-    },
-    {
       "title": "We must not grant AI agents legal personhood",
       "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
       "hn_url": "https://news.ycombinator.com/item?id=49410628",
@@ -145,7 +145,7 @@
       "site_name": "ft.com"
     }
   ],
-  "total_hits": 305,
+  "total_hits": 316,
   "has_metadata": true,
-  "fetched_at": "2026-08-25T06:47:39.583233+00:00"
+  "fetched_at": "2026-08-25T08:41:33.248725+00:00"
 }

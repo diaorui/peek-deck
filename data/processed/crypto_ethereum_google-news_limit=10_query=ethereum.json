@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZVMzLWNlTE1hSnZzTDBLVzRTZm5TSTUzWEF4RGxvalRTNlI2Z2llMmFFNEJ6VkVjWThUMUt6NGFHTWR0bXZ3YmVDVXV1R3ozdnZtUDFSUkJ3V1R3WlRRSjU0Y2JnVi0wY1JWeXh3TUE1NDMzRkVyYmFuS0g5MmRyeXFwUnptTGxiUGFkNjZXbndKVHR0aGRnbFdfcTNHTncwNVBKOEJpSWdUMHJlTlFtRWpjZDNxakY0V0JvMmpHZEVaM3NuQlJRN0lfV1d4cEVVUGpESmZpUzJLUnBVai1uU2hzMW9GNnBOMGo5TVVIcEVIREtIcDNTSndZVkFyZnc3a2x5MzZ3czNkZDFrZV9CcVhsU3BXS2x5bzdVLVhKY042MEU?oc=5",
-      "pub_date": 1787574600.0,
-      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html",
-      "image": "https://mmx.prnewswire.com/media/MS1974095/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA2905149&p=facebook",
-      "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past..."
-    },
-    {
       "headline": "BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -23,6 +13,16 @@
       "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html",
       "image": "https://s.yimg.com/lo/mysterio/api/8D32A0188490E9F6F4EED30F1A106EADA7123E7EB04219447ECF9728CC0503F9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
       "description": "BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy."
+    },
+    {
+      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZVMzLWNlTE1hSnZzTDBLVzRTZm5TSTUzWEF4RGxvalRTNlI2Z2llMmFFNEJ6VkVjWThUMUt6NGFHTWR0bXZ3YmVDVXV1R3ozdnZtUDFSUkJ3V1R3WlRRSjU0Y2JnVi0wY1JWeXh3TUE1NDMzRkVyYmFuS0g5MmRyeXFwUnptTGxiUGFkNjZXbndKVHR0aGRnbFdfcTNHTncwNVBKOEJpSWdUMHJlTlFtRWpjZDNxakY0V0JvMmpHZEVaM3NuQlJRN0lfV1d4cEVVUGpESmZpUzJLUnBVai1uU2hzMW9GNnBOMGo5TVVIcEVIREtIcDNTSndZVkFyZnc3a2x5MzZ3czNkZDFrZV9CcVhsU3BXS2x5bzdVLVhKY042MEU?oc=5",
+      "pub_date": 1787574600.0,
+      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html",
+      "image": "https://mmx.prnewswire.com/media/MS1974095/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA2905149&p=facebook",
+      "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past..."
     },
     {
       "headline": "Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally",
@@ -75,6 +75,26 @@
       "description": "XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here\u2019s which crypto could hit ATH first."
     },
     {
+      "headline": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdERlVGp6Y1E0QXJyVXJ3RElDMmpQcVVNR0FZM2twSFBRVXpQMkhqNnVhLXhRcmxzbGJfQ2NKc3l0ZmotQXRzSHZUSkJTUHBYTi1LZ0RsZEx3NGswZjBRTHJEY0ZLUWJqZXY4YUo1c21ReFBweVRTQXRxTGtNTmI1cVZoMTc4cTFiS09CQnJwMlUza2hCV0Z3MEdfc0NEb2JzWnVIZlpvby05V1d6YTdVeVBn?oc=5",
+      "pub_date": 1787515510.0,
+      "article_url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
+      "description": "Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze."
+    },
+    {
+      "headline": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmZNTEc1OVpMX2xFYjBQUjE4Y0t5N1VPYmpGNWlnMXlpdHhEU3BVOXRsT29JYzV2TW5QaWMxRU1vVkxyVWlYeGpkZDgxX2ZubGk5S0hOZXk0bEsxMXNLSm4xSGJNQng5RWw3Q1k0cjRieGRxVnFPZEtXT0lQUHJHbXRaVEVsODBDUFYzYzVRWWZlVTNwUzVSeGJZYXhXaHJIZGRRRDhKNC02dU9SMUZRc2hvbjJfUmM2ZFBNWVhjVkdwWnk2VHh4MkRCWQ?oc=5",
+      "pub_date": 1787552853.0,
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it \"a bunch of jokers\" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc\u2026"
-    },
-    {
-      "headline": "Current price of Ethereum for August 24, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5",
-      "pub_date": 1787587630.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-08-24-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-24.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "New Crypto: Pepeto Announces Its Presale Passing $10.8M Following Shiba Inu Success While the Ethereum Price Prediction Targets $25,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbWc3cFdtMVU1c2dHSk5ralhFWnNES3ZvMTNRUkNXS2p0NzZUSGc0WlNVS2ViTEcteWdIczN0cVZMZ0VEZkRsTkstYVM4NFZnZDRZZThlelUyVTdxTU5LZlgtZlZtSnZyY2ZIQmVuN0hIbklidDd0X1liNjUxS3N6ZVVNdUpBRzlJWFNGcHZUY2MzbzNKUy1ITF95OFFZYWRwNzFDWUVKb3lUenpleDd0dWtMUkptV2IzYmN6bGRyZTBRdHktTHhhbm9ZbURnVE5hMzVHNTJ6OGVJdUF1U0JuRkFsUFo5ZkdlaXZmQVdRODBfR19Od1kzNHYtUFYxbVZpa2VJTkFGSW1yZHJuZEhvRnVyWGVRMG5kcU9z?oc=5",
-      "pub_date": 1787589573.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000-1036487279",
-      "image": "https://ml.globenewswire.com/Resource/Download/9d548e27-bb73-4eaf-adcc-320c8d2707ec/pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000.jpg",
-      "description": "DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T06:47:55.334762+00:00"
+  "fetched_at": "2026-08-25T08:41:47.972367+00:00"
 }
