@@ -5,17 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "pub_date": 1787668081.0,
-      "article_url": "https://openai.com/index/jalapeno-first-results/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
-      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
-    },
-    {
-      "headline": "Opinion | We Know the Risks of A.I. We Need to Act.",
+      "headline": "Opinion | The Warning Lights Are Blinking Again",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
@@ -23,56 +13,6 @@
       "article_url": "https://www.nytimes.com/2026/08/25/opinion/ai-risks.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Marvell Technology earnings could be a 'shot of adrenaline' for the AI trade, says Joe Terranova",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkdVd0Nlc205NWFkb2J4azBmOHhKZW5XNFRwZXQ2YjNFODdFWE1ST0lWTkcxNnU4aGdsR2hBQmRJX18yZXBMOFJWSlZ2SG8tUVhoOGNpWWFadldfaUs1OEk3dndXUG1RTy1wWW9leWFVLU43azBLWnI2YUNVb0IxRF9wS1pPeWFJTHBTRG4xaFpvSWlac1VoSGNJb28wQ1k?oc=5",
-      "pub_date": 1787694495.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/marvell-may-offer-shot-of-adrenaline-for-ai-per-joe-terranova.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107184009-1674675695651-IMG_6422r.jpg?v=1675203905&w=1920&h=1080",
-      "description": "Marvell Technology may offer insight into the data center buildout during its earnings report this week, fueling the AI trade, said investor Joe Terranova."
-    },
-    {
-      "headline": "Trader predicts future of the AI Industrial Revolution",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1WWlEaURsUFBlNTR5QVh5WS1UaFFxYnoyYWZscGZCMHpVN0IwUFRmNXEzVUdjOU5TWVl4Mlkyb0M0MllPX3FYYUxjOTJ6RW5Sc0JXN2hzUmtJUG8?oc=5",
-      "pub_date": 1787695240.0,
-      "article_url": "https://www.foxbusiness.com/video/6404041843112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b0475d82-afec-47f8-ae19-b5bb4a7c3757/2f92ca35-36cc-43b4-b005-5e4c14fa96c7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "NYSE floor trader Peter Tuchman explains how A.I. investment is driving stock frenzies on \u2018The Claman Countdown.\u2019"
-    },
-    {
-      "headline": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVl2Q0VFclRyNEVvXzdEYVZUWFpheXFJNWhQUTFpeUlBQWxzbkttR3A4T242bUlEVW5Rbll4RWZIdUxNWkphcVJYcGdiUklSejVZMFRPTGdiaEF1WXdfV25LQldrcDNEQ2V2bnltNmFreVlZdDJiU1gydEptZnV3WDc3VGNtWUhsNUhJV0lObVlXaTJwdS1NU0pmTkRXV2s?oc=5",
-      "pub_date": 1787657404.0,
-      "article_url": "https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTJjQWtwZl96QnZuLWJWUHRSVmVEekpxWk9KR083cm84QUFaX3h3VVNMWE54SkZjSUVtSnh0Wi1XOTJxQVJZMUFtaTNuTXhyZnVqV2hNXzk1d2JCMWhKbE16WnR5Tk1CdWpCXzIzd0p1Q0tsZEcwYjVkNU0zVVNxU0dVSnBJS0k?oc=5",
-      "pub_date": 1787663520.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
-      "image": "https://i.guim.co.uk/img/media/eefa8d1f22850faaa1e33b76f97897de676682e5/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=676c37813552814568c199f33a79da54",
-      "description": "There has been a 76% increase in under-construction gas-fired projects amid \u2018frenzy\u2019 to build more datacenters"
-    },
-    {
-      "headline": "Column: The freak-out over AI data centers is creating a moral panic",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SU1FldjZvWHZEZlNTSkZrVmlHSG9yNXlxR0ZZQ0Vkd0NBVVg5bW42T1ZwSjJuQUd3WTc3U0stSlFOdUg4c011Wk9ndTNFdFQ5WEEwR3lQa3FCSHhaS1BDX1ItZ1BTX2dOa0wxRU5kVFo2QXc?oc=5",
-      "pub_date": 1787695200.0,
-      "article_url": "https://www.latimes.com/opinion/story/2026-08-25/next-moral-panic",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/b2716ef/2147483647/strip/true/crop/5941x3119+0+421/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F43%2Fb3%2Fe36fb0d144aa90f6a501bac06e2a%2Faws-data-center-72948.jpg",
-      "description": "It's no surprise that Republicans and Democrats alike are racing to get on the \u201cright\u201d side of the issue."
     },
     {
       "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
@@ -85,6 +25,16 @@
       "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said."
     },
     {
+      "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2JQRHZDbndfVlgxZUFEZk5WNmlCakRteGJFMEthY0R1ajlWTHZ4QkVvVGJ0QURaM0xoLUtXZmlGTXZMY1J6dmVNSlVuOXQwcWhSaWZoTFR4X1I0M1NmdzlzaldHaDVwa2pPenF0VUhFeFpMSjJHbjNDSXhkWXl2RUZzVjNNd29hWmpTLVNEeVMzNkoyUnNUTnVCczhIYVlqQkhhRmdpZzMyNkd1c0tqVEZQWVpwUQ?oc=5",
+      "pub_date": 1787697923.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/08/25/can-apples-new-mac-ultra-replace-your-200month-ai-coding-bill/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
       "source": "Apple",
       "source_url": "https://www.apple.com",
@@ -95,16 +45,66 @@
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
     },
     {
-      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
-      "pub_date": 1787662811.0,
-      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
-      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
+      "headline": "Record Short Bets Hit China\u2019s AI Model Duo on Fierce Competition",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0ltRHUtSmZSTFV2cVlTbHlqMFdlU1kzT2NOcGFnc1VFVVdXMy13NzFJR1ktWEJ6d19GV090ZGV1YWV0bXpKMzM0ZVJFOEJ3dDdKWHdDX3RVd09Nc0ZZS1JZTl9fallEdmU0ZE8teGpKcDNDdU5zR2NiM2RaV3p4NEhaRS1jcE5wX0VlTzVLNGJ2VEZRcWVtalZBSXJ1bkktbTdCU1IyWWdXOFVfR1NVTkFOVGh2Zw?oc=5",
+      "pub_date": 1787700600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/record-short-bets-hit-china-s-ai-model-duo-on-fierce-competition",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Earnings: A Scorecard For The AI Boom",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEE2SkRaTHZfU2x4SkJTRVoxa1YxenJlcWtta2JLZzJNSVQyVGNwejhvZ3V4Y0Y0TkxSbGZLNEsxbi1BNTVtLUEtbmxPZ28yYU84S0xLbWlzbU0xelJaVTgzNl81dlJwcWFIbHVpdEM5M2ZWVDVqVnRwbDBIalFDVU9KdEpQaXJiS3dXWF81TGJxX0pKb3FaYzNMWWk?oc=5",
+      "pub_date": 1787697908.0,
+      "article_url": "https://www.forbes.com/sites/paulocarvao/2026/08/25/nvidia-earnings-a-scorecard-for-the-ai-boom/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8e188c078909ea9a840364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "NVIDIA earnings will test the AI boom as investors assess data-center revenue, Rubin demand, customer concentration and mounting infrastructure financing risks."
+    },
+    {
+      "headline": "Readers Write: Minnesota governance, Amy Klobuchar, Flock cameras, AI grading, books",
+      "source": "Star Tribune",
+      "source_url": "https://www.startribune.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRV9tM05DQ3prQzFkaTNmQkdkSTNnMEk4UV84VGhwdDRhWndFaGNSWlZQeC01aEZnazhPVF9ZYm9oV0lCdHpvMEwzR21MWU5VbXlwZVNuS1F2Q1hMMkJ4VEdxUXNGcDRndkFBa2hQd0RVLWdGV1ctV29YeC1saXRKRkRzakl1UWE5WDFUOFNNejVBYXZfNTBWaERMblhjajZ5bGd1TENxQS05dVQwY3FnTEhJWlBMTUhI?oc=5",
+      "pub_date": 1787698800.0,
+      "article_url": "https://www.startribune.com/readers-write-minnesota-governance-amy-klobuchar-flock-cameras-ai-grading-books/601881984",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Try to beat this AI writing detector",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
+      "pub_date": 1787673600.0,
+      "article_url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLQW6FG2TFHBPLCXKGQTTJRM7I.jpg&w=1200",
+      "description": "See what it takes to convince an AI writing detector that AI-generated text was written by a human."
+    },
+    {
+      "headline": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN?oc=5",
+      "pub_date": 1787673480.0,
+      "article_url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Google Bid $10 Million for a Failed Airline\u2019s Data",
+      "source": "Time Magazine",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hV3lxQnRya1d6YnJwVUFFUjlONTFxQXpSbS1NV0dqUEFkSFBjT29iQkd3TUJLLTY3T0tEMUttVGVZRzJfTUdYZ2VESHJJT2NrU05MZFR3TW5sX0pNRE04QVZPTGlKak55aDQtOXRMYUFseVo4U0c4bEJn?oc=5",
+      "pub_date": 1787669507.0,
+      "article_url": "https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdaf32b96f226041e/6a8d925a81fdab45890021b7/GettyImages-2274586386.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+      "description": "The Spirit Airlines deal points to AI companies\u2019 growing ambitions to automate white-collar work."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T22:27:24.027595+00:00"
+  "fetched_at": "2026-08-25T23:50:03.444992+00:00"
 }

@@ -79,10 +79,20 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787680549.0,
+      "pub_date": 1787658941.0,
       "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGRjQ0pfMFFFVnc0RExXSExyZDltY09fWHJlcGQtLVlwM29QZ0xfWXNBeUJtQlJqUl9LV2Rpc1BkS1Q3QWhDU2lEdmpBZW1Zdkd2OE83WDFTTlVuUmIwVG9jeHJQSVZlSC1QR0JXVm1GTjRjQWpHSzNPUlZWX3FBdk83cWdRX3JMdlRWY00yRlc0N1NlYXBXQ0JGblRhUlM3Q2lqMEZfNWdYcWs?oc=5",
+      "pub_date": 1787665631.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-134711860.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/067ddae47ee9ed18103cb07e354858b7ed9b1a4c5e4bcba45cbd2d79345b79d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBenzinga%2F6ba734f56cf75074c9cf8884872e9a44.png",
+      "description": "When investors think about Tesla Inc\u2018s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they\u2019re looking in the wrong place. Tesla\u2019s greatest long-term advantage is something far less glamorous, he says. \u201cIt is their manufacturing competency and resources,\u201d Kang told Benzinga in an email. Tesla\u2019s Manufacturing Scale Could Become Its Biggest Moat Kang\u2019s thesis stands in contrast to t"
     },
     {
       "headline": "Inside China\u2019s Race To Rule Robotics",
@@ -93,18 +103,8 @@
       "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
-      "pub_date": 1787585058.0,
-      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
-      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T22:27:19.895911+00:00"
+  "fetched_at": "2026-08-25T23:49:52.451004+00:00"
 }
