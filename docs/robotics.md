@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T17:31:45.832154+00:00'
+updated: '2026-08-25T19:31:46.048102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 17:31 UTC  
+**Last Updated:** August 25, 2026 at 19:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-20h ago
+22h ago
 
 ---
 
@@ -112,19 +112,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
-
-BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
-
-CNBC • 8h ago
-
----
-
 **[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 2h ago
+NVIDIA Newsroom • 4h ago
 
 ---
 
@@ -132,7 +124,7 @@ NVIDIA Newsroom • 2h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 2h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -140,21 +132,15 @@ The Robot Report • 2h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 4h ago
 
 ---
 
-**[Report: Amazon eyes ‘fully automated’ delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/)**
+**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
 
-Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
+BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-GeekWire • 37m ago
-
----
-
-**[Corvus Robotics raises $20M as co-founder takes CEO role](https://www.bizjournals.com/sanjose/news/2026/08/25/corvus-robotics-mohammed-kabir-ceo.html)**
-
-The Business Journals • 1h ago
+CNBC • 10h ago
 
 ---
 
@@ -162,7 +148,7 @@ The Business Journals • 1h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 19h ago
+BBC • 21h ago
 
 ---
 
@@ -170,7 +156,15 @@ BBC • 19h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 13h ago
+Business Insider • 15h ago
+
+---
+
+**[AI Companion Robots Are Closing the Human Connection in Modern Homes](https://spectrum.ieee.org/ollobot-ai-companion-robot)**
+
+Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
+
+IEEE Spectrum • 9h ago
 
 ---
 
@@ -182,11 +176,17 @@ TechCrunch • 1d ago
 
 ---
 
-**[RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China](https://www.foxbusiness.com/video/6404025127112)**
+**[Report: Amazon eyes ‘fully automated’ delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/)**
 
-RoboStore CEO Ted Haggerty discusses China’s advances in humanoid robots, America’s position in the global robotics race and potential robot soldiers on ‘Varney & Co.’
+Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
 
-Fox Business • 3h ago
+GeekWire • 2h ago
+
+---
+
+**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
+
+WSJ • 16h ago
 
 ---
 
@@ -194,33 +194,33 @@ Fox Business • 3h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots break Usain Bolt&#39;s record at World Humanoid Games | The Morning Show](https://www.youtube.com/watch?v=aP41sTTwA-U)**
+**[World Humanoid Robot Games: You won&#39;t believe how this robot won the obstacle race](https://www.youtube.com/watch?v=8r88UWX9Kbo)**
 
-The second World Humanoid Games is taking place in Beijing, featuring more than 2000 robots from 16 countries competing ...
+The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on Monday night, with AgiBot X2 clinching the ...
 
-📺 Sunrise
+📺 CGTN Frontline
 
-👁️ 4K • 👍 38 • ⏱️ 5:49 • 15h ago
-
----
-
-**[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
-
-A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
-
-📺 BBC News
-
-👁️ 1.5M • 👍 16K • 💬 8K • ⏱️ 2:30 • 2d ago
+👁️ 4K • 👍 51 • 💬 1 • ⏱️ 0:30 • 3h ago
 
 ---
 
-**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
+**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
 
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
+A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
 
-📺 Associated Press
+📺 USA TODAY
 
-👁️ 10K • 👍 43 • 💬 8 • ⏱️ 0:54 • 5d ago
+👁️ 84K • 👍 540 • 💬 104 • ⏱️ 0:31 • 2d ago
+
+---
+
+**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+
+📺 New York Post
+
+👁️ 37K • 👍 857 • 💬 209 • ⏱️ 0:52 • 2d ago
 
 ---
 
@@ -230,27 +230,7 @@ The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a hu
 
 📺 DPCcars
 
-👁️ 22K • 👍 218 • 💬 91 • ⏱️ 1:55 • 2d ago
-
----
-
-**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
-
-China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
-
-📺 AI Revolution
-
-👁️ 52K • 👍 1K • 💬 128 • ⏱️ 14:10 • 6d ago
-
----
-
-**[Robots Beat Usain Bolt, Then Fall Apart, Inside China&#39;s Wild Robot Olympics](https://www.youtube.com/watch?v=3oUAWwjWMDA)**
-
-Robots Beat Usain Bolt, Then Fall Apart, Inside China's Wild Robot Olympics China hosted the World Humanoid Robot Games in ...
-
-📺 Republic World
-
-👁️ 80K • 💬 308 • ⏱️ 4:58 • 2d ago
+👁️ 24K • 👍 227 • 💬 92 • ⏱️ 1:55 • 2d ago
 
 ---
 
@@ -260,37 +240,57 @@ A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Hu
 
 📺 DPCcars
 
-👁️ 46K • 👍 149 • 💬 38 • ⏱️ 1:40 • 1d ago
+👁️ 51K • 👍 158 • 💬 43 • ⏱️ 1:40 • 1d ago
 
 ---
 
-**[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
+**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
 
-Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
+Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
 
-📺 New York Post
+📺 India Today Global
 
-👁️ 52K • 👍 856 • 💬 368 • ⏱️ 4:07 • 5d ago
+👁️ 16K • 👍 122 • 💬 9 • ⏱️ 1:11 • 1d ago
 
 ---
 
-**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
+**[Meet Beni - The Toughest Tracking Camera Robot on the Planet!](https://www.youtube.com/watch?v=eu4MC59MINw)**
 
-Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
+Don't worry, he's durable! Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing ...
+
+📺 51 Drones
+
+👁️ 1K • 👍 58 • 💬 6 • ⏱️ 1:21 • 5h ago
+
+---
+
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+
+📺 ABC News
+
+👁️ 109K • 👍 775 • 💬 135 • ⏱️ 0:40 • 2d ago
+
+---
+
+**[Humanoid Robot Jumps 7.97 Meters](https://www.youtube.com/watch?v=6LdwLD3Qhy8)**
+
+A humanoid robot reached an incredible 7.97 meters in the long jump at the World Humanoid Robot Games in Beijing. Tianjiao ...
 
 📺 DPCcars
 
-👁️ 23K • 👍 475 • 💬 89 • ⏱️ 2:12 • 5d ago
+👁️ 21K • 👍 93 • 💬 11 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
+**[They Turned a Sports Car Into an INSANE Mech! 🤯🤖 #Robot #DIY](https://www.youtube.com/watch?v=KcGAFGa8Bo0)**
 
-The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
+What happens when a luxury sports car gets transformed into a giant walking mech? Watch this incredible futuristic build ...
 
-📺 NBC News
+📺 Shelter Guide
 
-👁️ 66K • 👍 471 • 💬 242 • ⏱️ 4:05 • 4d ago
+👁️ 44K • 👍 688 • 💬 4 • ⏱️ 1:08 • 1d ago
 
 ---
 
