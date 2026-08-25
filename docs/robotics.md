@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T20:57:45.512255+00:00'
+updated: '2026-08-25T21:33:39.062829+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 20:57 UTC  
+**Last Updated:** August 25, 2026 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 5h ago
+NVIDIA Newsroom • 6h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 5h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 5h ago
+The Robot Report • 6h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 5h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ Seeking Alpha • 5h ago
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -148,7 +148,7 @@ CNBC • 11h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ BBC • 22h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 16h ago
+Business Insider • 17h ago
 
 ---
 
@@ -164,7 +164,7 @@ Business Insider • 16h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 10h ago
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -192,53 +192,13 @@ TechCrunch • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[World Humanoid Robot Games: You won&#39;t believe how this robot won the obstacle race](https://www.youtube.com/watch?v=8r88UWX9Kbo)**
-
-The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on Monday night, with AgiBot X2 clinching the ...
-
-📺 CGTN Frontline
-
-👁️ 4K • 👍 51 • 💬 1 • ⏱️ 0:30 • 5h ago
-
----
-
 **[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
 
 A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
 
 📺 USA TODAY
 
-👁️ 84K • 👍 540 • 💬 104 • ⏱️ 0:31 • 2d ago
-
----
-
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
-
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
-
-📺 New York Post
-
-👁️ 37K • 👍 857 • 💬 209 • ⏱️ 0:52 • 2d ago
-
----
-
-**[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
-
-The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
-
-📺 DPCcars
-
-👁️ 24K • 👍 227 • 💬 92 • ⏱️ 1:55 • 2d ago
-
----
-
-**[Robot Jumps 7.97 Meters, Nearly Reaching Human World Record](https://www.youtube.com/watch?v=_NPz4EzQOfI)**
-
-A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Humanoid Robot Games in Beijing.
-
-📺 DPCcars
-
-👁️ 51K • 👍 158 • 💬 43 • ⏱️ 1:40 • 1d ago
+👁️ 87K • 👍 558 • 💬 106 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -248,17 +208,47 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 16K • 👍 122 • 💬 9 • ⏱️ 1:11 • 1d ago
+👁️ 17K • 👍 124 • 💬 9 • ⏱️ 1:11 • 1d ago
 
 ---
 
-**[Meet Beni - The Toughest Tracking Camera Robot on the Planet!](https://www.youtube.com/watch?v=eu4MC59MINw)**
+**[World Humanoid Robot Games: You won&#39;t believe how this robot won the obstacle race](https://www.youtube.com/watch?v=8r88UWX9Kbo)**
 
-Don't worry, he's durable! Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing ...
+The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on Monday night, with AgiBot X2 clinching the ...
 
-📺 51 Drones
+📺 CGTN Frontline
 
-👁️ 1K • 👍 58 • 💬 6 • ⏱️ 1:21 • 6h ago
+👁️ 6K • 👍 60 • 💬 2 • ⏱️ 0:30 • 5h ago
+
+---
+
+**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+
+📺 New York Post
+
+👁️ 37K • 👍 858 • 💬 209 • ⏱️ 0:52 • 2d ago
+
+---
+
+**[Robot Jumps 7.97 Meters, Nearly Reaching Human World Record](https://www.youtube.com/watch?v=_NPz4EzQOfI)**
+
+A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Humanoid Robot Games in Beijing.
+
+📺 DPCcars
+
+👁️ 54K • 👍 165 • 💬 45 • ⏱️ 1:40 • 1d ago
+
+---
+
+**[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
+
+The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
+
+📺 DPCcars
+
+👁️ 25K • 👍 228 • 💬 93 • ⏱️ 1:55 • 2d ago
 
 ---
 
@@ -268,7 +258,7 @@ Humanoid robots competed in various events on day one of the World Robot Games, 
 
 📺 ABC News
 
-👁️ 109K • 👍 775 • 💬 135 • ⏱️ 0:40 • 2d ago
+👁️ 110K • 👍 778 • 💬 135 • ⏱️ 0:40 • 2d ago
 
 ---
 
@@ -278,7 +268,17 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 21K • 👍 93 • 💬 11 • ⏱️ 0:32 • 1d ago
+👁️ 22K • 👍 94 • 💬 11 • ⏱️ 0:32 • 1d ago
+
+---
+
+**[Unitree’s Superman Robot Runs Faster Than Usain Bolt! 🦾🔥 #Robotics #Unitree](https://www.youtube.com/watch?v=gEk9ijXGX-o)**
+
+China's Unitree has reportedly introduced an incredible humanoid robot nicknamed “Superman,” pushing robotic speed to a ...
+
+📺 The Intel Inn
+
+👁️ 48K • 👍 171 • 💬 10 • ⏱️ 0:09 • 4d ago
 
 ---
 
@@ -288,7 +288,7 @@ What happens when a luxury sports car gets transformed into a giant walking mech
 
 📺 Shelter Guide
 
-👁️ 44K • 👍 688 • 💬 4 • ⏱️ 1:08 • 1d ago
+👁️ 44K • 👍 700 • 💬 4 • ⏱️ 1:08 • 1d ago
 
 ---
 
