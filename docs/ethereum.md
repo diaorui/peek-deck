@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T23:26:47.882945+00:00'
+updated: '2026-08-25T23:50:05.028205+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 23:26 UTC  
+**Last Updated:** August 25, 2026 at 23:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,426.52
+### $2,453.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +8.6%  
-**30d:** +29.2%  
-**90d:** +21.7%  
-**1y:** -46.9%  
+**24h:** -2.0%  
+**7d:** +8.5%  
+**30d:** +29.1%  
+**90d:** +21.5%  
+**1y:** -47.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.60B
+**Market Cap:** $294.68B
 Rank #2
 
 **Circulating Supply:** 120,681,303 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-50.6%
 
 **All-Time Low:** $0.43
-+561784.1%
++563851.1%
 
 ---
 
@@ -172,12 +172,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
-
-CoinDesk • 11h ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
@@ -186,11 +180,25 @@ PR Newswire • 1d ago
 
 ---
 
+**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
+
+CoinDesk • 11h ago
+
+---
+
 **[XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?](https://247wallst.com/investing/cryptocurrency/2026/08/24/xrp-vs-ethereum-which-crypto-will-reach-its-all-time-high-first/)**
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
 24/7 Wall St. • 1d ago
+
+---
+
+**[Glamsterdam Repricing Impact for Smart Contract Developers](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing)**
+
+The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
+
+ethereum.org • 1d ago
 
 ---
 
@@ -210,25 +218,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins'](https://www.ccn.com/news/crypto/ethereum-250k-tom-lee-launch-point-eth-surge-rotation/)**
-
-CCN.com • 9h ago
-
----
-
 **[Current price of Ethereum for August 25, 2026](https://fortune.com/article/price-of-ethereum-08-25-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 11h ago
 
 ---
 
-**[THORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins](https://thedefiant.io/news/press-releases/thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins)**
+**[Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins'](https://www.ccn.com/news/crypto/ethereum-250k-tom-lee-launch-point-eth-surge-rotation/)**
 
-George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
-
-The Defiant • 17h ago
+CCN.com • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 357 • 👍 52 • 💬 34 • ⏱️ 6:53 • 4h ago
+👁️ 654 • 👍 69 • 💬 34 • ⏱️ 6:53 • 4h ago
 
 ---
 
@@ -252,17 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 619 • 💬 53 • ⏱️ 12:24 • 1d ago
-
----
-
-**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 251 • 💬 10 • ⏱️ 8:33 • 10h ago
+👁️ 9K • 👍 622 • 💬 53 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -272,7 +262,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 375 • 💬 275 • ⏱️ 19:33 • 1d ago
+👁️ 10K • 👍 381 • 💬 352 • ⏱️ 19:33 • 1d ago
 
 ---
 
@@ -282,27 +272,17 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 7K • 👍 266 • 💬 109 • ⏱️ 42:25 • 1d ago
+👁️ 7K • 👍 268 • 💬 109 • ⏱️ 42:25 • 1d ago
 
 ---
 
-**[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
+**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
 
-Ethereum might be a generational opportunity right now. $20000 is a genuine target some of the biggest names in crypto are ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 No Bs Crypto
+📺 More Crypto Online
 
-👁️ 15K • 👍 539 • 💬 52 • ⏱️ 18:53 • 2d ago
-
----
-
-**[BitMine Is About to Own 5% of ETH | Tom Lee](https://www.youtube.com/watch?v=2SgQ5kVo5v8)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BitMine is within reach of owning ...
-
-📺 Bankless
-
-👁️ 48K • 👍 1K • 💬 197 • ⏱️ 1:07:49 • 1d ago
+👁️ 5K • 👍 257 • 💬 10 • ⏱️ 8:33 • 10h ago
 
 ---
 
@@ -312,7 +292,37 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 121K • 👍 5K • 💬 233 • ⏱️ 27:38 • 1d ago
+👁️ 122K • 👍 5K • 💬 232 • ⏱️ 27:38 • 1d ago
+
+---
+
+**[BitMine Is About to Own 5% of ETH | Tom Lee](https://www.youtube.com/watch?v=2SgQ5kVo5v8)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BitMine is within reach of owning ...
+
+📺 Bankless
+
+👁️ 49K • 👍 1K • 💬 196 • ⏱️ 1:07:49 • 1d ago
+
+---
+
+**[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
+
+Ethereum might be a generational opportunity right now. $20000 is a genuine target some of the biggest names in crypto are ...
+
+📺 No Bs Crypto
+
+👁️ 15K • 👍 541 • 💬 69 • ⏱️ 18:53 • 2d ago
+
+---
+
+**[MAJOR MOVE COMING FOR ETHEREUM! (ETH Update)](https://www.youtube.com/watch?v=KH7BLZXPEnQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 rules, payouts on demand.
+
+📺 Cilinix Crypto
+
+👁️ 535 • 👍 23 • 💬 4 • ⏱️ 5:57 • 14h ago
 
 ---
 
@@ -322,17 +332,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 9K • 👍 109 • 💬 13 • ⏱️ 0:43 • 1d ago
-
----
-
-**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
-
-Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
-
-📺 Ivan on Tech
-
-👁️ 28K • 👍 2K • 💬 68 • ⏱️ 49:14 • 13h ago
+👁️ 10K • 👍 113 • 💬 14 • ⏱️ 0:43 • 1d ago
 
 ---
 

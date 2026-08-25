@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T23:26:47.876711+00:00'
+updated: '2026-08-25T23:50:05.022838+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 23:26 UTC  
+**Last Updated:** August 25, 2026 at 23:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,928.55
+### $78,630.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +13.6%  
-**30d:** +23.6%  
-**90d:** +7.0%  
-**1y:** -29.5%  
+**24h:** -1.7%  
+**7d:** +13.1%  
+**30d:** +23.0%  
+**90d:** +6.5%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1573.95B
+**Market Cap:** $1576.57B
 Rank #1
 
-**Circulating Supply:** 20,075,134 BTC
+**Circulating Supply:** 20,075,175 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.8%
+-37.7%
 
 **All-Time Low:** $67.81
-+115580.6%
++115644.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://x.com/saylor/status/2092277359034458361
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 The comparison is percentage gain from halving.
 
-9h ago
+10h ago
 
 ---
 
@@ -157,25 +157,41 @@ WSJ • 8h ago
 
 ---
 
-**[Anthony Pompliano breaks down Bitcoin rally](https://www.foxnews.com/video/6404039696112)**
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
 
-ProCap Financial chairman and CEO Anthony Pompliano analyzes the massive Bitcoin rally on 'Varney & Co.'
+Finally, a killer use case
 
-Fox News • 2h ago
-
----
-
-**[Bitcoin’s 10 Best Days Expose Punishing Cost of Missing Rebounds](https://www.bloomberg.com/news/newsletters/2026-08-25/bitcoin-s-best-days-expose-punishing-cost-of-missing-rebounds)**
-
-Bloomberg • 2h ago
+Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-open-interest-collapses-12-201604682.html)**
+**[Iconic Bitcoin mine pivots to AI as industry turns back on crypto](https://www.bbc.com/news/articles/c07ler8x9kpo)**
 
-Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.
+The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-Yahoo Finance • 3h ago
+BBC • 39m ago
+
+---
+
+**[Arthur Hayes calls a new Bitcoin bull market as dollar liquidity surges](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-calls-bitcoin-bull-221359024.html)**
+
+The BitMEX co-founder says the mechanism driving Bitcoin higher today is identical to what drove it higher in late 2023, and the rally is not over.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Block (XYZ) Stock May Be 19% Undervalued On Bitcoin Payments Rollout](https://sg.finance.yahoo.com/news/block-xyz-stock-may-19-221812476.html)**
+
+Block stock has delivered a decline of 69.1% over the past five years, yet the latest intrinsic value work using an Excess Returns model points to meaningful upside while traditional earnings multiples flag the shares as expensive. This leaves investors with a split valuation picture. Over five years, Block shareholders have seen the stock fall 69.1%. Any case for upside now relies heavily on how today’s valuation links to future cash generation rather than past returns. New developments...
+
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
+
+Bloomberg • 11h ago
 
 ---
 
@@ -193,35 +209,19 @@ WJBF • 20h ago
 
 ---
 
+**[Amarillo man accused of using Bitcoin to access child porn on dark web arrested by FBI](https://abc7amarillo.com/news/local/amarillo-man-accused-of-using-bitcoin-to-access-child-pornography-on-dark-web-arrested-by-fbi-jose-adrian-bosquez-access-with-intent-to-view-tor-network-larget-open-libary-free-videos-images-subscription)**
+
+An Amarillo man accused of using Bitcoin to access to child porn on the dark web was arrested by the FBI.Jose Adrian Bosquez, 39, is charged with access with in
+
+KVII • 7h ago
+
+---
+
 **[Current price of Bitcoin for August 25, 2026](https://fortune.com/article/price-of-bitcoin-08-25-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 8h ago
-
----
-
-**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
-
-Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
-
-Business Insider • 1d ago
-
----
-
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
-
-Finally, a killer use case
-
-Financial Times • 1d ago
-
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
-
-If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
-
-The Motley Fool • 1d ago
+Fortune • 11h ago
 
 ---
 
@@ -255,7 +255,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 6h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 7h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -287,7 +287,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 2 • 💬 3 • 2h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 3 • 💬 3 • 3h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -303,13 +303,23 @@ Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/tra
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Hits $80k: Is All-Time High Next? | Ben Cowen](https://www.youtube.com/watch?v=gTn7-oSb_ic)**
+**[Bitcoin $80k, &#39;HYPE&#39; Grows | Bloomberg Crypto 8/25/2026](https://www.youtube.com/watch?v=wMSZRbTyUTQ)**
 
-Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code LIN to sign up and trade today! Benjamin Cowen ...
+"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
 
-📺 David Lin 
+📺 Bloomberg Television
 
-👁️ 63K • 👍 2K • 💬 418 • ⏱️ 39:07 • 20h ago
+👁️ 1K • 👍 48 • 💬 2 • ⏱️ 44:11 • 5h ago
+
+---
+
+**[Bitcoin Full Bull? $600BN Created in 8 Days + Nvidia’s 30x Power Cheat 👀🚀](https://www.youtube.com/watch?v=dUB5sY_1zCI)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 14K • 👍 2K • 💬 84 • ⏱️ 25:34 • 3h ago
 
 ---
 
@@ -319,7 +329,17 @@ Bitcoin is flashing warning signs and your altcoins will feel it first. Before P
 
 📺 Chart Hackers
 
-👁️ 4K • 👍 278 • 💬 4 • ⏱️ 52:44 • 6h ago
+👁️ 4K • 👍 295 • 💬 6 • ⏱️ 52:44 • 7h ago
+
+---
+
+**[The Real Reason Bitcoin Ripped Higher (Wall Street Won&#39;t Tell You) 🚀🪙](https://www.youtube.com/watch?v=RAC5SAqBb0o)**
+
+Bitcoin ripped higher last week, but mainstream Wall Street media is telling you the completely wrong reason why! The real ...
+
+📺 Ross Givens
+
+👁️ 4K • 👍 124 • 💬 3 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -329,7 +349,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 7K • 👍 178 • 💬 10 • ⏱️ 0:53 • 1d ago
+👁️ 7K • 👍 191 • 💬 11 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -339,17 +359,27 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 226 • ⏱️ 12:06 • 22h ago
+👁️ 19K • 👍 1K • 💬 368 • ⏱️ 12:06 • 22h ago
 
 ---
 
-**[BITCOIN IS ABOUT TO SHOCK EVERYONE...](https://www.youtube.com/watch?v=seu6pQj5_GI)**
+**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
 
-📺 Crypto Rover
+📺 Verified Investing
 
-👁️ 16K • 👍 926 • 💬 47 • ⏱️ 11:48 • 1d ago
+👁️ 14K • 👍 856 • 💬 116 • ⏱️ 17:09 • 1d ago
+
+---
+
+**[Michael Saylor sold the bottom. Bitcoin rallied anyway.](https://www.youtube.com/watch?v=7VQdhR6emro)**
+
+Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its holdings sat unchanged at 840447 BTC while Bitcoin ...
+
+📺 Yahoo Finance
+
+👁️ 14K • 👍 421 • 💬 129 • ⏱️ 14:52 • 1d ago
 
 ---
 
@@ -363,43 +393,13 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 ---
 
-**[VERY VERY BAD NEWS FOR BITCOIN](https://www.youtube.com/watch?v=UHfSyFgwWg0)**
+**[Why $83,000 Changes Everything for Bitcoin](https://www.youtube.com/watch?v=yalc51p7uCQ)**
 
-WEEX: https://themoon.co/WEEX-amalfi 10000 USDT Prize Pool!!! BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+The last weekly lower high from the failed May rally sits at 83K. Reclaim it and the weekly timeframe prints a confirmed reversal ...
 
-📺 The Moon Show
+📺 Krown
 
-👁️ 19K • 👍 1K • 💬 64 • ⏱️ 12:51 • 1d ago
-
----
-
-**[Michael Saylor sold the bottom. Bitcoin rallied anyway.](https://www.youtube.com/watch?v=7VQdhR6emro)**
-
-Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its holdings sat unchanged at 840447 BTC while Bitcoin ...
-
-📺 Yahoo Finance
-
-👁️ 14K • 👍 415 • 💬 129 • ⏱️ 14:52 • 1d ago
-
----
-
-**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
-
-Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
-
-📺 Altcoin Daily
-
-👁️ 89K • 👍 3K • 💬 248 • ⏱️ 43:03 • 2d ago
-
----
-
-**[Bitcoin Bulls Pushing!  Live Trading BTC XAU QQQ](https://www.youtube.com/watch?v=s4uUD6Zss2I)**
-
-Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading BTC, Alts. XAU GOLD, Silver, Oil, NQ, QQQ ...
-
-📺 Sin City Crypto
-
-👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 18h ago
+👁️ 407 • 👍 19 • 💬 108 • ⏱️ 0:29 • 1h ago
 
 ---
 

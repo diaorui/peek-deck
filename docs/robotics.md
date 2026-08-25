@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T23:26:47.886177+00:00'
+updated: '2026-08-25T23:50:05.031072+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 23:26 UTC  
+**Last Updated:** August 25, 2026 at 23:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -170,21 +170,21 @@ IEEE Spectrum • 13h ago
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 5h ago
+Axios • 11h ago
+
+---
+
+**[EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says](https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-134711860.html)**
+
+When investors think about Tesla Inc‘s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says. “It is their manufacturing competency and resources,” Kang told Benzinga in an email. Tesla’s Manufacturing Scale Could Become Its Biggest Moat Kang’s thesis stands in contrast to t
+
+Yahoo Finance • 10h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
 WSJ • 20h ago
-
----
-
-**[Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/)**
-
-General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
-
-TechCrunch • 1d ago
 
 ---
 
@@ -198,27 +198,7 @@ A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robo
 
 📺 USA TODAY
 
-👁️ 87K • 👍 558 • 💬 106 • ⏱️ 0:31 • 2d ago
-
----
-
-**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
-
-Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
-
-📺 India Today Global
-
-👁️ 17K • 👍 124 • 💬 9 • ⏱️ 1:11 • 1d ago
-
----
-
-**[World Humanoid Robot Games: You won&#39;t believe how this robot won the obstacle race](https://www.youtube.com/watch?v=8r88UWX9Kbo)**
-
-The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on Monday night, with AgiBot X2 clinching the ...
-
-📺 CGTN Frontline
-
-👁️ 6K • 👍 60 • 💬 2 • ⏱️ 0:30 • 7h ago
+👁️ 89K • 👍 564 • 💬 106 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -228,17 +208,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 37K • 👍 858 • 💬 209 • ⏱️ 0:52 • 2d ago
-
----
-
-**[Robot Jumps 7.97 Meters, Nearly Reaching Human World Record](https://www.youtube.com/watch?v=_NPz4EzQOfI)**
-
-A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Humanoid Robot Games in Beijing.
-
-📺 DPCcars
-
-👁️ 54K • 👍 165 • 💬 45 • ⏱️ 1:40 • 1d ago
+👁️ 37K • 👍 859 • 💬 209 • ⏱️ 0:52 • 2d ago
 
 ---
 
@@ -248,17 +218,37 @@ The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a hu
 
 📺 DPCcars
 
-👁️ 25K • 👍 228 • 💬 93 • ⏱️ 1:55 • 2d ago
+👁️ 25K • 👍 230 • 💬 93 • ⏱️ 1:55 • 2d ago
 
 ---
 
-**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+**[World Humanoid Robot Games: You won&#39;t believe how this robot won the obstacle race](https://www.youtube.com/watch?v=8r88UWX9Kbo)**
 
-Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on Monday night, with AgiBot X2 clinching the ...
 
-📺 ABC News
+📺 CGTN Frontline
 
-👁️ 110K • 👍 778 • 💬 135 • ⏱️ 0:40 • 3d ago
+👁️ 9K • 👍 84 • 💬 3 • ⏱️ 0:30 • 8h ago
+
+---
+
+**[Robot Jumps 7.97 Meters, Nearly Reaching Human World Record](https://www.youtube.com/watch?v=_NPz4EzQOfI)**
+
+A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Humanoid Robot Games in Beijing.
+
+📺 DPCcars
+
+👁️ 56K • 👍 170 • 💬 50 • ⏱️ 1:40 • 2d ago
+
+---
+
+**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
+
+Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
+
+📺 India Today Global
+
+👁️ 17K • 👍 127 • 💬 9 • ⏱️ 1:11 • 1d ago
 
 ---
 
@@ -268,17 +258,17 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 22K • 👍 94 • 💬 11 • ⏱️ 0:32 • 1d ago
+👁️ 23K • 👍 95 • 💬 12 • ⏱️ 0:32 • 2d ago
 
 ---
 
-**[Unitree’s Superman Robot Runs Faster Than Usain Bolt! 🦾🔥 #Robotics #Unitree](https://www.youtube.com/watch?v=gEk9ijXGX-o)**
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
 
-China's Unitree has reportedly introduced an incredible humanoid robot nicknamed “Superman,” pushing robotic speed to a ...
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
 
-📺 The Intel Inn
+📺 ABC News
 
-👁️ 48K • 👍 171 • 💬 10 • ⏱️ 0:09 • 4d ago
+👁️ 111K • 👍 780 • 💬 135 • ⏱️ 0:40 • 3d ago
 
 ---
 
@@ -288,7 +278,15 @@ What happens when a luxury sports car gets transformed into a giant walking mech
 
 📺 Shelter Guide
 
-👁️ 44K • 👍 700 • 💬 4 • ⏱️ 1:08 • 1d ago
+👁️ 45K • 👍 708 • 💬 4 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[I Bought a $7,000 Iron Man Robot](https://www.youtube.com/watch?v=Z1XrFFH3OFQ)**
+
+📺 Kyle Krueger
+
+👁️ 2.1M • 👍 120K • 💬 1K • ⏱️ 1:01 • 23h ago
 
 ---
 

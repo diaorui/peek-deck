@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T23:26:47.868219+00:00'
+updated: '2026-08-25T23:50:05.014984+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 23:26 UTC  
+**Last Updated:** August 25, 2026 at 23:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,18 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
-
-13h ago
-
----
-
-**[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
-
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 20h ago
-
----
-
 **[CEO fired developers to make room for AI. Developers respond by creating open source AI CEO](https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/)**
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
@@ -57,11 +45,39 @@ I hope this is okay to share since it is not self promotion and it is open sourc
 
 ---
 
+**[Join a community-run AI Discord: open discussion, transparent moderation, local model quants](https://www.reddit.com/r/artificial/comments/1vyfbad/join_a_communityrun_ai_discord_open_discussion/)**
+
+I made a Discord for people who are genuinely into AI and want a decent place to talk about it. It’s still new, but the idea is to build a large community without arbitrary bans, hidden moderation decisions, or people getting shut down for disagreeing. Rules should be clear, moderation should be explainable, and members should have a real say in how the server develops. There are channels for local models, research, tools, startups, personal projects, technical help, showcases, and general discussion. Share what you’re building, get feedback, find people to work with, or just talk AI. We’re also going to publish our own local model quants, starting with Qwen 3.8 27B. And I don’t just mean “another high quality quant.” The goal is actual SOTA. Our Qwen quant is already beating the current best Unsloth quants in our testing, using the same KLD ruler and benchmark setup so it’s an apples-to-apples comparison. We’ll publish the results alongside the release so people can verify it themselves. We’re small right now, so early members will have a lot of influence over what the community becomes. Join: https://discord.gg/HqWF7R5R9E
+
+56m ago
+
+---
+
+**[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
+
+14h ago
+
+---
+
+**[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
+
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 21h ago
+
+---
+
+**[Truck Driver Builds AI News Aggregator](https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/)**
+
+Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look — no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)
+
+2h ago
+
+---
+
 **[OpenAI adds an admin plugin for ChatGPT Work and Codex](https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/)**
 
 OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation. The plugin stays inside each admin's existing role and permissions. OpenAI says it shows what was requested, whether it completed, and what changed. It can also route some requests for approval in Slack or Microsoft Teams. The practical part is the control layer. An admin tool that can change workspace settings needs clear permissions, approval steps, and a result people can audit. Source: https://openai.com/index/introducing-admin-plugin/ Supporting report: https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44M1HY:0-openai-says-introducing-the-admin-plugin-for-chatgpt-work-and-codex/
 
-3h ago
+4h ago
 
 ---
 
@@ -69,7 +85,7 @@ OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets worksp
 
 About energy use and other topics. He has lots of supporting links. https://youtu.be/Kf4ivd0THb0 https://youtu.be/ny_3PRz6Zeg
 
-1h ago
+2h ago
 
 ---
 
@@ -85,7 +101,7 @@ It's my article, it is about how to circumvent any even theoretical optimal AI w
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-11h ago
+12h ago
 
 ---
 
@@ -97,75 +113,13 @@ I hope someone reads all this. Mainly because it would be nice to know whether a
 
 ---
 
-**[Truck Driver Builds AI News Aggregator](https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/)**
-
-Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look — no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)
-
-2h ago
-
----
-
-**[For a €6k portable AI/development setup, prioritize 64–128GB unified memory or CUDA compatibility?](https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/)**
-
-I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)**
-
-Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
-
-OpenAI • 8h ago
-
----
-
-**[Opinion | We Know the Risks of A.I. We Need to Act.](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
+**[Opinion | The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
 
 The New York Times • 14h ago
-
----
-
-**[Marvell Technology earnings could be a 'shot of adrenaline' for the AI trade, says Joe Terranova](https://www.cnbc.com/2026/08/25/marvell-may-offer-shot-of-adrenaline-for-ai-per-joe-terranova.html)**
-
-Marvell Technology may offer insight into the data center buildout during its earnings report this week, fueling the AI trade, said investor Joe Terranova.
-
-CNBC • 1h ago
-
----
-
-**[Trader predicts future of the AI Industrial Revolution](https://www.foxbusiness.com/video/6404041843112)**
-
-NYSE floor trader Peter Tuchman explains how A.I. investment is driving stock frenzies on ‘The Claman Countdown.’
-
-Fox Business • 1h ago
-
----
-
-**[This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers](https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html)**
-
-The New York Times • 11h ago
-
----
-
-**[US building twice as much gas-fired capacity as China in AI boom, analysis finds](https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter)**
-
-There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters
-
-The Guardian • 10h ago
-
----
-
-**[Column: The freak-out over AI data centers is creating a moral panic](https://www.latimes.com/opinion/story/2026-08-25/next-moral-panic)**
-
-It's no surprise that Republicans and Democrats alike are racing to get on the “right” side of the issue.
-
-Los Angeles Times • 1h ago
 
 ---
 
@@ -177,6 +131,12 @@ CNBC • 10h ago
 
 ---
 
+**[Can Apple’s New Mac Ultra Replace Your $200/Month AI Coding Bill?](https://www.forbes.com/sites/johnkoetsier/2026/08/25/can-apples-new-mac-ultra-replace-your-200month-ai-coding-bill/)**
+
+Forbes • 1h ago
+
+---
+
 **[Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)**
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
@@ -185,11 +145,45 @@ Apple • 8h ago
 
 ---
 
-**[Apple’s new desktop computers are designed specifically for local AI development](https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/)**
+**[Record Short Bets Hit China’s AI Model Duo on Fierce Competition](https://www.bloomberg.com/news/articles/2026-08-25/record-short-bets-hit-china-s-ai-model-duo-on-fierce-competition)**
 
-Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
+Bloomberg • 20m ago
 
-Ars Technica • 10h ago
+---
+
+**[Nvidia Earnings: A Scorecard For The AI Boom](https://www.forbes.com/sites/paulocarvao/2026/08/25/nvidia-earnings-a-scorecard-for-the-ai-boom/)**
+
+NVIDIA earnings will test the AI boom as investors assess data-center revenue, Rubin demand, customer concentration and mounting infrastructure financing risks.
+
+Forbes • 1h ago
+
+---
+
+**[Readers Write: Minnesota governance, Amy Klobuchar, Flock cameras, AI grading, books](https://www.startribune.com/readers-write-minnesota-governance-amy-klobuchar-flock-cameras-ai-grading-books/601881984)**
+
+Star Tribune • 50m ago
+
+---
+
+**[Try to beat this AI writing detector](https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/)**
+
+See what it takes to convince an AI writing detector that AI-generated text was written by a human.
+
+The Washington Post • 7h ago
+
+---
+
+**[Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)**
+
+WSJ • 7h ago
+
+---
+
+**[Why Google Bid $10 Million for a Failed Airline’s Data](https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/)**
+
+The Spirit Airlines deal points to AI companies’ growing ambitions to automate white-collar work.
+
+Time Magazine • 8h ago
 
 ---
 
@@ -201,7 +195,7 @@ Ars Technica • 10h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 805 • 💬 697 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 805 • 💬 698 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -217,7 +211,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 536 • 💬 532 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 536 • 💬 533 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -233,7 +227,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 238 • 💬 267 • 8h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 243 • 💬 280 • 8h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -241,7 +235,7 @@ TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by A
 
 I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 191 • 💬 23 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 194 • 💬 23 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -257,7 +251,7 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
-⬆️ 154 • 💬 46 • 2d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+⬆️ 155 • 💬 46 • 2d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
 
 ---
 
@@ -265,7 +259,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 132 • 💬 153 • 8h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 134 • 💬 154 • 9h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -285,37 +279,7 @@ Apple just made a HUGE move in local AI. The new **M5 Max and M5 Ultra Mac Studi
 
 📺 Tech2WiLD
 
-👁️ 1K • 👍 45 • 💬 36 • ⏱️ 18:06 • 4h ago
-
----
-
-**[The SIMPLEST Way To Make Money Online With Claude AI In 2026](https://www.youtube.com/watch?v=JrFZ_ky7AzE)**
-
-Try Coauthor ai (BETA25 for 25% OFF): https://pages.royaltyhero.com/coauthor-sean?v=JrFZ_ky7AzE ▻ Coauthor FREE Chrome ...
-
-📺 Sean Dollwet
-
-👁️ 25K • 👍 1K • 💬 115 • ⏱️ 28:29 • 1d ago
-
----
-
-**[Terrifying AI Behavior Even Its Creators Couldn&#39;t Explain](https://www.youtube.com/watch?v=ABcFmgt0D5I)**
-
-Terrifying AI behavior even its creators couldn't explain has left people questioning how much control humans really have over ...
-
-📺 Most Amazing Elite
-
-👁️ 19K • 👍 150 • 💬 12 • ⏱️ 1:50:32 • 2d ago
-
----
-
-**[AI brings unexpected conclusion](https://www.youtube.com/watch?v=Tz-LxQ6pJSo)**
-
-Chatgpt AI voice either misunderstood or is a weirdo #ai #chatgpt #chatgptvoice.
-
-📺 Annika Arabella Taylor
-
-👁️ 775 • 👍 8 • 💬 3 • ⏱️ 0:55 • 5h ago
+👁️ 3K • 👍 95 • 💬 59 • ⏱️ 18:06 • 4h ago
 
 ---
 
@@ -325,17 +289,67 @@ Enroll for Agentic AI Course: https://intellipaat.com/agentic-ai-systems-design-
 
 📺 Intellipaat
 
-👁️ 2K • 👍 73 • 💬 4 • ⏱️ 8:07:32 • 9h ago
+👁️ 2K • 👍 78 • 💬 4 • ⏱️ 8:07:32 • 10h ago
 
 ---
 
-**[&quot;99% of the value of SpaceX&quot; - Elon Musk&#39;s AI Prediction](https://www.youtube.com/watch?v=GT8acGFiq24)**
+**[Terrifying AI Behavior Even Its Creators Couldn&#39;t Explain](https://www.youtube.com/watch?v=ABcFmgt0D5I)**
 
-Elon Musk reveals the critical role of AI at SpaceX. Within 5 years, AI will represent 99% of SpaceX's value, driving the future of ...
+Terrifying AI behavior even its creators couldn't explain has left people questioning how much control humans really have over ...
 
-📺 Solving The Money Problem
+📺 Most Amazing Elite
 
-👁️ 2K • 👍 138 • 💬 10 • ⏱️ 0:34 • 8h ago
+👁️ 20K • 👍 155 • 💬 12 • ⏱️ 1:50:32 • 2d ago
+
+---
+
+**[`His Courtroom Defense: The AI Wrote That`](https://www.youtube.com/watch?v=AFH550siaEQ)**
+
+Subscribe for two of these every day. Axon's Draft One is the most widely used AI tool for writing police reports in the country, and ...
+
+📺 Understanding Your AI
+
+👁️ 490 • 👍 52 • 💬 9 • ⏱️ 2:42 • 1h ago
+
+---
+
+**[This New AI Beats the Best Models... But No One Knows Who Built It](https://www.youtube.com/watch?v=wCXPqsZ0cYE)**
+
+A mysterious frontier AI called Ox Alpha just appeared for free, beat GPT-5.6 Sol and Claude Fable 5 in an early coding test, and ...
+
+📺 AI Revolution
+
+👁️ 29K • 👍 933 • 💬 72 • ⏱️ 16:59 • 1d ago
+
+---
+
+**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
+
+An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
+
+📺 ABC News
+
+👁️ 192K • 👍 1K • 💬 572 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[The AI That Comes Back Better Without a Better Prompt - Abacus AI AutoBots](https://www.youtube.com/watch?v=u-ObVnUaQeI)**
+
+Abacus AI: http://abacus.ai/ AutoBots: http://autobots.abacus.ai/ Can an AI agent actually learn from its previous results and ...
+
+📺 Shark Numbers
+
+👁️ 129K • 👍 17K • 💬 316 • ⏱️ 8:47 • 1d ago
+
+---
+
+**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
+
+My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
+
+📺 Nate Ziller
+
+👁️ 184K • 👍 13K • 💬 812 • ⏱️ 5:15 • 2d ago
 
 ---
 
@@ -349,33 +363,13 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
-**[This New AI Beats the Best Models... But No One Knows Who Built It](https://www.youtube.com/watch?v=wCXPqsZ0cYE)**
+**[A jury just found out what AI is actually for](https://www.youtube.com/watch?v=w2fv664Ndf4)**
 
-A mysterious frontier AI called Ox Alpha just appeared for free, beat GPT-5.6 Sol and Claude Fable 5 in an early coding test, and ...
+Part 2 of this video is live on my other channel: https://youtu.be/lQIfkCeJKss Please subscribe there as well AI is making ...
 
-📺 AI Revolution
+📺 Mo Bitar
 
-👁️ 29K • 👍 924 • 💬 72 • ⏱️ 16:59 • 1d ago
-
----
-
-**[The AI That Comes Back Better Without a Better Prompt - Abacus AI AutoBots](https://www.youtube.com/watch?v=u-ObVnUaQeI)**
-
-Abacus AI: http://abacus.ai/ AutoBots: http://autobots.abacus.ai/ Can an AI agent actually learn from its previous results and ...
-
-📺 Shark Numbers
-
-👁️ 122K • 👍 17K • 💬 307 • ⏱️ 8:47 • 1d ago
-
----
-
-**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
-
-An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
-
-📺 ABC News
-
-👁️ 191K • 👍 1K • 💬 567 • ⏱️ 2:00 • 1d ago
+👁️ 434K • 👍 22K • 💬 2K • ⏱️ 8:14 • 1d ago
 
 ---
 
@@ -391,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,945,415 • ❤️ 12,691 • 11d ago
+⬇️ 2,945,415 • ❤️ 12,705 • 11d ago
 
 ---
 
@@ -403,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,334,695 • ❤️ 2,903 • 5d ago
+⬇️ 7,334,695 • ❤️ 2,914 • 5d ago
 
 ---
 
@@ -415,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 68,855 • ❤️ 1,092 • 1d ago
+⬇️ 68,855 • ❤️ 1,094 • 1d ago
 
 ---
 
@@ -427,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 743 • 1d ago
+⬇️ 389,747 • ❤️ 747 • 1d ago
 
 ---
 
@@ -439,7 +433,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 249,744 • ❤️ 1,144 • 5d ago
+⬇️ 249,744 • ❤️ 1,147 • 5d ago
 
 ---
 
@@ -451,7 +445,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 70,158 • ❤️ 418 • 2d ago
+⬇️ 70,158 • ❤️ 419 • 2d ago
 
 ---
 
@@ -463,7 +457,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 832,185 • ❤️ 621 • 8d ago
+⬇️ 832,185 • ❤️ 623 • 8d ago
 
 ---
 
@@ -475,7 +469,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 833,845 • ❤️ 1,788 • 8d ago
+⬇️ 833,845 • ❤️ 1,796 • 8d ago
 
 ---
 
@@ -487,7 +481,7 @@ Ornith-1.5-35B-A3B is a 35B parameter Mixture-of-Experts model optimized for tex
 
 `text-generation` `35.5B`
 
-⬇️ 1,156,903 • ❤️ 293 • 1d ago
+⬇️ 1,156,903 • ❤️ 297 • 1d ago
 
 ---
 
@@ -499,7 +493,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,705 • ❤️ 1,242 • 11d ago
+⬇️ 18,705 • ❤️ 1,245 • 11d ago
 
 ---
 
@@ -529,7 +523,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 171 • 💬 1 • ⭐ 453 • 2d ago
+▲ 172 • 💬 1 • ⭐ 453 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -609,7 +603,7 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
 
-▲ 18 • 💬 1 • ⭐ 2,833 • 1mo ago
+▲ 18 • 💬 1 • ⭐ 2,851 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
 
@@ -636,7 +630,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 85 • 💬 7 • ⭐ 85,053 • 25mo ago
+▲ 85 • 💬 7 • ⭐ 85,095 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -662,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 3h ago
+⭐ 14.2k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -682,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 616 • 8h ago
+⭐ 3.7k • 🔱 616 • 9h ago
 
 ---
 
@@ -692,7 +686,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 370 • 8h ago
+⭐ 3.1k • 🔱 371 • 9h ago
 
 ---
 
@@ -702,7 +696,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.1k • 🔱 247 • 14d ago
+⭐ 3.1k • 🔱 248 • 14d ago
 
 ---
 
@@ -712,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.9k • 🔱 346 • 3h ago
+⭐ 2.9k • 🔱 349 • 42m ago
 
 ---
 

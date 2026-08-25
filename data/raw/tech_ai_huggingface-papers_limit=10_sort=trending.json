@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 171,
+      "upvotes": 172,
       "num_comments": 1,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
@@ -149,7 +149,7 @@
       "num_comments": 1,
       "published_at": "2026-07-05T20:00:00.000Z",
       "github_repo": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-      "github_stars": 2833,
+      "github_stars": 2851,
       "project_page": "https://llm-as-a-verifier.com/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 85053,
+      "github_stars": 85095,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-25T21:33:35.740125+00:00"
+  "fetched_at": "2026-08-25T23:49:43.103223+00:00"
 }
