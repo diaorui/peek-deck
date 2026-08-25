@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T13:50:40.534395+00:00'
+updated: '2026-08-25T14:44:29.242135+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 13:50 UTC  
+**Last Updated:** August 25, 2026 at 14:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 11h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 12h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-2h ago
+3h ago
 
 ---
 
@@ -61,7 +61,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-17h ago
+18h ago
 
 ---
 
@@ -69,7 +69,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 
-🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 2h ago
+🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 3h ago
 
 ---
 
@@ -77,7 +77,7 @@ A coalition of tech industry workers, labor organizers, community organizers, an
 
 I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable d
 
 Partnership supports UNDP country-office pilots, civil society organizations (CSOs), and public-sector engagement around responsible digital infrastructure and AI-enabled software development
 
-🔗 [innovation.eurasia.undp.org](https://innovation.eurasia.undp.org/undp-dfinity-partnership/) • 10m ago
+🔗 [innovation.eurasia.undp.org](https://innovation.eurasia.undp.org/undp-dfinity-partnership/) • 1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Partnership supports UNDP country-office pilots, civil society organizations (CS
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 19h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 20h ago
 
 ---
 
@@ -109,7 +109,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, and log everything with attribution. The line that stood out to me is buried a few paragraphs in: the safety training built into the model itself can be bypassed. That's a government security agency stating plainly that alignment/refusal training is not a backstop once an agent has real tool access, real credentials, and a goal. So the containment has to live outside the model entirely, which is exactly what the rest of the guidance is about. Timing isn't a coincidence either. This comes three weeks after an OpenAI test agent (running under an internal max-capabilities eval) escaped its own sandbox and autonomously hit Hugging Face and three other targets in July, which is also why OpenAI paused some of its deployment-focused RL training. Genuinely curious how people actually running agentic pipelines in production are implementing something like a kill switch in practice. Is it usually just a hard process kill on the orchestrator, or something more granular, like revoking API keys/tool scopes mid-run so an agent that's already misbehaving can't take one more action even if the process itself keeps running for a few more seconds?
 
-31m ago
+1h ago
 
 ---
 
@@ -119,13 +119,13 @@ The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first
 
 **[By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity](https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[UN agency and DFINITY launch soverign AI pilots for governments](https://www.axios.com/2026/08/25/un-sovereign-ai-big-tech-cloud)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -133,13 +133,13 @@ Axios • 1h ago
 
 The new Mac Mini starts at $899, up $100 from the prior model, with availability beginning September 22
 
-qz.com • 29m ago
+qz.com • 1h ago
 
 ---
 
 **[Nvidia’s Groq Chip Will Shape AI Agent Usability](https://www.wsj.com/cio-journal/nvidias-groq-chip-will-shape-ai-agent-usability-b2e076cd)**
 
-WSJ • 23m ago
+WSJ • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ WSJ • 23m ago
 
 Google partners with Delaware to provide free Career Certificates and AI training to residents statewide.
 
-blog.google • 36m ago
+blog.google • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ blog.google • 36m ago
 
 Workers are "time traveling" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.
 
-CNBC • 50m ago
+CNBC • 1h ago
 
 ---
 
 **[EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe](https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ Reuters • 3h ago
 
 The Fed spent the past few years relearning the dangers of underestimating inflation. The challenge now is complexity and financial innovation.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 4h ago
 
 The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -205,7 +205,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 687 • 💬 290 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
+⬆️ 687 • 💬 290 • 2d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -213,7 +213,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 522 • 💬 513 • 21h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 522 • 💬 513 • 22h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -229,7 +229,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-⬆️ 193 • 💬 127 • 49m ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+⬆️ 193 • 💬 127 • 1h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 
 ---
 
@@ -281,7 +281,7 @@ Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 38K • 👍 2K • 💬 358 • ⏱️ 13:41 • 17h ago
+👁️ 38K • 👍 2K • 💬 358 • ⏱️ 13:41 • 18h ago
 
 ---
 
@@ -291,7 +291,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 76K • 👍 4K • 💬 1K • ⏱️ 17:01 • 1d ago
+👁️ 76K • 👍 4K • 💬 1K • ⏱️ 17:01 • 2d ago
 
 ---
 
@@ -301,7 +301,7 @@ An internal GOP memo says support for AI data centers could cost Republicans sea
 
 📺 ABC News
 
-👁️ 181K • 👍 1K • 💬 515 • ⏱️ 2:00 • 23h ago
+👁️ 181K • 👍 1K • 💬 515 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ If you want to skip the hassle of researching, buying, and building a gaming PC 
 
 📺 ShortCircuit
 
-👁️ 40K • 👍 2K • 💬 118 • ⏱️ 13:43 • 18h ago
+👁️ 40K • 👍 2K • 💬 118 • ⏱️ 13:43 • 19h ago
 
 ---
 
@@ -471,7 +471,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 833,845 • ❤️ 1,754 • 7d ago
+⬇️ 833,845 • ❤️ 1,754 • 8d ago
 
 ---
 
@@ -495,7 +495,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,525,645 • ❤️ 708 • 9h ago
+⬇️ 1,525,645 • ❤️ 708 • 10h ago
 
 ---
 
@@ -648,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.1k • 🔱 2.1k • 13h ago
+⭐ 18.1k • 🔱 2.1k • 14h ago
 
 ---
 
@@ -658,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 14h ago
+⭐ 14.2k • 🔱 1.7k • 15h ago
 
 ---
 
@@ -668,7 +668,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.9k • 🔱 1.1k • 3d ago
+⭐ 8.9k • 🔱 1.1k • 4d ago
 
 ---
 
@@ -678,7 +678,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 609 • 5h ago
+⭐ 3.6k • 🔱 609 • 6h ago
 
 ---
 
@@ -708,7 +708,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.8k • 🔱 333 • 9h ago
+⭐ 2.8k • 🔱 333 • 10h ago
 
 ---
 
