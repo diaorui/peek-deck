@@ -8,9 +8,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 17900,
+      "stars": 17943,
       "stars_display": "17.9k",
-      "forks": 2068,
+      "forks": 2071,
       "forks_display": "2.1k",
       "language": "Python",
       "topics": [
@@ -20,7 +20,7 @@
         "c2pa",
         "chatgpt"
       ],
-      "updated_at": "2026-08-24T20:29:22Z"
+      "updated_at": "2026-08-25T00:10:07Z"
     },
     {
       "full_name": "yc-software/qm",
@@ -30,9 +30,9 @@
       "description": "Multiplayer agent harness for work.",
       "url": "https://github.com/yc-software/qm",
       "preview_image": "https://opengraph.githubassets.com/887bf85742203fa8808db62121e36bc760e48eb0ad5d019d92213579f6783d17/yc-software/qm",
-      "stars": 14156,
+      "stars": 14161,
       "stars_display": "14.2k",
-      "forks": 1694,
+      "forks": 1695,
       "forks_display": "1.7k",
       "language": "TypeScript",
       "topics": [
@@ -51,7 +51,7 @@
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
       "preview_image": "https://opengraph.githubassets.com/5305664a3ce9d3527c0a67961dc30b9df9a72bd0919701974a2d9d7dab71b195/trycompai/crm",
-      "stars": 8887,
+      "stars": 8888,
       "stars_display": "8.9k",
       "forks": 1092,
       "forks_display": "1.1k",
@@ -67,10 +67,10 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux \u2014 Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "url": "https://github.com/genspark-ai/genoffice",
       "preview_image": "https://opengraph.githubassets.com/5df04bb07da1dd2c9dc1104beb608b684873ef61b19ddde71a49b2b32231f5dd/genspark-ai/genoffice",
-      "stars": 3574,
+      "stars": 3583,
       "stars_display": "3.6k",
-      "forks": 600,
-      "forks_display": "600",
+      "forks": 601,
+      "forks_display": "601",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -89,10 +89,10 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3033,
-      "stars_display": "3.0k",
-      "forks": 363,
-      "forks_display": "363",
+      "stars": 3053,
+      "stars_display": "3.1k",
+      "forks": 364,
+      "forks_display": "364",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-24T11:08:25Z"
@@ -105,7 +105,7 @@
       "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
       "url": "https://github.com/KKKKhazix/human-writing",
       "preview_image": "https://opengraph.githubassets.com/20e5fc64ef497059a980340c4c1db067b1ba00310c81a7f62835117e0d543438/KKKKhazix/human-writing",
-      "stars": 3030,
+      "stars": 3032,
       "stars_display": "3.0k",
       "forks": 244,
       "forks_display": "244",
@@ -126,10 +126,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 2656,
+      "stars": 2685,
       "stars_display": "2.7k",
-      "forks": 313,
-      "forks_display": "313",
+      "forks": 319,
+      "forks_display": "319",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -138,7 +138,29 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-08-24T20:28:49Z"
+      "updated_at": "2026-08-25T02:21:53Z"
+    },
+    {
+      "full_name": "Leonxlnx/unlazy",
+      "name": "unlazy",
+      "owner": "Leonxlnx",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+      "url": "https://github.com/Leonxlnx/unlazy",
+      "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
+      "stars": 2251,
+      "stars_display": "2.3k",
+      "forks": 121,
+      "forks_display": "121",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "llm",
+        "productivity"
+      ],
+      "updated_at": "2026-08-24T16:46:40Z"
     },
     {
       "full_name": "QwenAudio/qwen-audio-agent",
@@ -148,7 +170,7 @@
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "preview_image": "https://opengraph.githubassets.com/8e95171195a018fd832e6521e559733d18cee62728e379914b39dd1928c39280/QwenAudio/qwen-audio-agent",
-      "stars": 2231,
+      "stars": 2232,
       "stars_display": "2.2k",
       "forks": 189,
       "forks_display": "189",
@@ -163,28 +185,6 @@
       "updated_at": "2026-08-24T17:25:19Z"
     },
     {
-      "full_name": "Leonxlnx/unlazy",
-      "name": "unlazy",
-      "owner": "Leonxlnx",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-      "url": "https://github.com/Leonxlnx/unlazy",
-      "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
-      "stars": 2226,
-      "stars_display": "2.2k",
-      "forks": 119,
-      "forks_display": "119",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "llm",
-        "productivity"
-      ],
-      "updated_at": "2026-08-24T16:46:40Z"
-    },
-    {
       "full_name": "ShawnPana/phone-harness",
       "name": "phone-harness",
       "owner": "ShawnPana",
@@ -192,10 +192,10 @@
       "description": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
       "preview_image": "https://opengraph.githubassets.com/f10f616db61a209c7bf07ed5482e12f64531619706c47ae3c1babe45b03fcc41/ShawnPana/phone-harness",
-      "stars": 2003,
+      "stars": 2006,
       "stars_display": "2.0k",
-      "forks": 185,
-      "forks_display": "185",
+      "forks": 186,
+      "forks_display": "186",
       "language": "Python",
       "topics": [
         "agent",
@@ -207,9 +207,9 @@
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2026-07-25",
+  "search_query": "ai created:>2026-07-26",
   "days": 30,
   "limit": 10,
-  "total_count": 462009,
-  "fetched_at": "2026-08-24T23:46:51.023753+00:00"
+  "total_count": 447796,
+  "fetched_at": "2026-08-25T02:38:43.263760+00:00"
 }

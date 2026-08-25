@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 88,
+      "upvotes": 89,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-06-29T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/AI-Infra-Guard",
-      "github_stars": 5726,
+      "github_stars": 5774,
       "project_page": "https://matrix.tencent.com/clawscan/"
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 3,
       "published_at": "2026-05-28T20:00:00.000Z",
       "github_repo": "https://github.com/titanwings/colleague-skill",
-      "github_stars": 23902,
+      "github_stars": 23924,
       "project_page": null
     },
     {
@@ -164,11 +164,11 @@
       "hf_url": "https://huggingface.co/papers/2608.01964",
       "arxiv_url": "https://arxiv.org/abs/2608.01964",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.01964.png",
-      "upvotes": 180,
+      "upvotes": 181,
       "num_comments": 3,
       "published_at": "2026-08-02T20:00:00.000Z",
       "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "github_stars": 1195,
+      "github_stars": 1245,
       "project_page": "https://lh-harness.pages.dev"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 84944,
+      "github_stars": 84987,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-24T23:47:02.322181+00:00"
+  "fetched_at": "2026-08-25T02:38:54.396717+00:00"
 }
