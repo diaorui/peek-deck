@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T19:31:46.044805+00:00'
+updated: '2026-08-25T20:28:45.808286+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 19:31 UTC  
+**Last Updated:** August 25, 2026 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Motley Fool • 1d ago
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -204,13 +204,13 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 23h ago
+Benzinga • 1d ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -218,7 +218,7 @@ Barron's • 4h ago
 
 The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ Decrypt • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -240,7 +240,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 111 • 👍 21 • 💬 3 • ⏱️ 6:53 • 30m ago
+👁️ 111 • 👍 21 • 💬 3 • ⏱️ 6:53 • 1h ago
 
 ---
 
@@ -250,7 +250,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 238 • 💬 8 • ⏱️ 8:33 • 6h ago
+👁️ 4K • 👍 238 • 💬 8 • ⏱️ 8:33 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 373 • 💬 300 • ⏱️ 19:33 • 20h ago
+👁️ 10K • 👍 373 • 💬 300 • ⏱️ 19:33 • 21h ago
 
 ---
 
@@ -330,7 +330,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 
 
 📺 Cilinix Crypto
 
-👁️ 456 • 👍 22 • 💬 2 • ⏱️ 5:57 • 10h ago
+👁️ 456 • 👍 22 • 💬 2 • ⏱️ 5:57 • 11h ago
 
 ---
 
