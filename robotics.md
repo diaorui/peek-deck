@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T19:31:46.048102+00:00'
+updated: '2026-08-25T20:28:45.811187+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 19:31 UTC  
+**Last Updated:** August 25, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-22h ago
+23h ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 4h ago
+NVIDIA Newsroom • 5h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 4h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 4h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -140,7 +140,7 @@ Seeking Alpha • 4h ago
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -148,7 +148,7 @@ CNBC • 10h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -156,7 +156,7 @@ BBC • 21h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Business Insider • 15h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 10h ago
 
 ---
 
@@ -180,13 +180,13 @@ TechCrunch • 1d ago
 
 Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
 
-GeekWire • 2h ago
+GeekWire • 3h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -200,7 +200,7 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 4K • 👍 51 • 💬 1 • ⏱️ 0:30 • 3h ago
+👁️ 4K • 👍 51 • 💬 1 • ⏱️ 0:30 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ Don't worry, he's durable! Beni from Mondo Robotics is an autonomous tracking ca
 
 📺 51 Drones
 
-👁️ 1K • 👍 58 • 💬 6 • ⏱️ 1:21 • 5h ago
+👁️ 1K • 👍 58 • 💬 6 • ⏱️ 1:21 • 6h ago
 
 ---
 

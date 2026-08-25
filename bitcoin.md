@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T19:31:46.038585+00:00'
+updated: '2026-08-25T20:28:45.802866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 19:31 UTC  
+**Last Updated:** August 25, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-13h ago
+14h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-22h ago
+23h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
 
-8h ago
+9h ago
 
 ---
 
@@ -119,13 +119,13 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 The comparison is percentage gain from halving.
 
-5h ago
+6h ago
 
 ---
 
 **[A full-page Bitcoin ad seen in today's Wall Street Journal](https://www.reddit.com/r/Bitcoin/comments/1vy4klk/a_fullpage_bitcoin_ad_seen_in_todays_wall_street/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +133,13 @@ The comparison is percentage gain from halving.
 
 Let that sink in
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -149,7 +149,7 @@ Let that sink in
 
 **[Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
 
-Bloomberg • 5h ago
+Bloomberg • 6h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Motley Fool • 1d ago
 
 Katie Stockton, Fairlead Strategies managing partner, joins 'The Exchange' to discuss the recent performance in bitcoin, technical indicators moving markets and much more.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -173,19 +173,19 @@ CNBC • 1h ago
 
 Analyst Michaël van de Poppe said the rally has barely scratched the surface of the damage, with SOL yet to recover 20% of a year-long bear market.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
 
-Bloomberg • 7h ago
+Bloomberg • 8h ago
 
 ---
 
 **[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
 
-WJBF • 16h ago
+WJBF • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ WJBF • 16h ago
 
 Major U.S. stock indexes opened higher Tuesday, a day after the Nasdaq Composite and S&P 500 began the week with losses, as oil prices retreated and bitcoin briefly topped $80,000 for the first time in more than three months.
 
-Investopedia • 2h ago
+Investopedia • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ Business Insider • 1d ago
 
 **[Bitcoin’s surge above $80,000 was driven by short covering, not excessive leverage](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)**
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -247,7 +247,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 1 • 3h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 1 • 4h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -255,7 +255,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 8h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 9h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -279,7 +279,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -293,7 +293,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 59K • 👍 2K • 💬 407 • ⏱️ 39:07 • 16h ago
+👁️ 59K • 👍 2K • 💬 407 • ⏱️ 39:07 • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 240 • ⏱️ 12:06 • 18h ago
+👁️ 19K • 👍 1K • 💬 240 • ⏱️ 12:06 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ Ledger's Back-to-School Sale is LIVE! For a limited time, you can get up to $70 
 
 📺 The CryptoDad
 
-👁️ 101 • 👍 11 • 💬 3 • ⏱️ 1:14 • 57m ago
+👁️ 101 • 👍 11 • 💬 3 • ⏱️ 1:14 • 1h ago
 
 ---
 
@@ -383,7 +383,7 @@ Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading
 
 📺 Sin City Crypto
 
-👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 14h ago
+👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 15h ago
 
 ---
 
