@@ -5,6 +5,36 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZOTNnNnd5QTRfazR6WDV1dFZKWHNZUG9PVDJnc2pvc0VxU2phY185UVdFY1hBMmE4OEpvMlF0dlJaNGo4MWtKWVFnSnhyWk1SbWdwb3lOOVRHTDhJS1VvRzMydGl3ZUpUbDROYlEwYjlvem5qWDJKUlpR0gGCAUFVX3lxTE5KWHFfOExVYzc1dHpzUHBoNFpSWkZYRlctcG94cVpNeWJMWG1MMEoweU5FWVNENTNoTmpHZDRha2VEa29zSE9GdnpYWThLanF5cElTM0E2ZFhJMDJVMjFYRE8zMVFqTktBcHRHQ3g0LVJpZmNVN3dWTHgzWWcyQkNWemc?oc=5",
+      "pub_date": 1787591252.0,
+      "article_url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg",
+      "description": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins getting more valuable."
+    },
+    {
+      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
+      "pub_date": 1787451420.0,
+      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
+      "description": "Capital is voting with its feet."
+    },
+    {
+      "headline": "Ethereum\u2019s \u2018Netflix Moment\u2019 Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVJhWTh3UWlscWJBRS1aenhGQU0wdnNkYUZaREhjel9JOENoZUVpYm53QWNEWXU3LVBfQUdCZGxxY0tfVFZ5SE1PZ0ItQl9abkJOaHpIb1BjbE5hVEdtSGVuUXU3WnZYYTJON2FTeVJyQkQ0QmtDYnBRZ0RQQ2N4R2hUaFcwWUVhcTREZkNPMUdnMlNpZnNkZ0pTZkU5OWU3?oc=5",
+      "pub_date": 1787505336.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/87B6D9B8D98407E5BC65F426C6C0D6603B6DCB475EE52D06054C0D1D4851786B/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faaedc71c4e6c0ee88d07d33df3bbd3d7",
+      "description": "Micha\u00ebl Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level."
+    },
+    {
       "headline": "Bitmine Makes Biggest Ethereum Purchase Since Early July",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,34 +65,14 @@
       "description": null
     },
     {
-      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
-      "pub_date": 1787451420.0,
-      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
-      "description": "Capital is voting with its feet."
-    },
-    {
-      "headline": "Ethereum rises 2.69% amid strong buying and sel...",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSElUZngwTnI0ZzNTWlJqOUJJM3JOZ2NvdDlCWkZsYjZUM0twck9KdFQ3S2NpQlA3SS1hcDZROG9hN2xkNEIyMFBmNHlycFdYUmFVc1dfekwxdS1QUHdEODFuYVRfXy1jdnNOMHV5bHJkU3kwSzhtdDZySEJXM0F5b19saFZ5MU5QVmRXQWtUcXRTUQ?oc=5",
-      "pub_date": 1787606980.0,
-      "article_url": "https://pluang.com/en/news-feed/abraxas-capital-short-eth-dan-beli-hedge-eth-target-2-8k",
-      "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
-      "description": "Ethereum (ETH) is trading around $2,452, up 2.69% daily and extending a 29% weekly gain. Abraxas Capital bought $173 million worth of ETH recently, balancing its large short positions with spot purchases to manage risk. Despite increased selling pressure indicated by rising exchange inflows and supply, strong demand from major buyers like Abraxas is stabilizing the market. Technical indicators suggest bullish momentum, with Ethereum likely to break above its current range and target $2,800, though a drop to $2,200 remains possible if selling intensifies."
-    },
-    {
-      "headline": "Ethereum\u2019s \u2018Netflix Moment\u2019 Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVJhWTh3UWlscWJBRS1aenhGQU0wdnNkYUZaREhjel9JOENoZUVpYm53QWNEWXU3LVBfQUdCZGxxY0tfVFZ5SE1PZ0ItQl9abkJOaHpIb1BjbE5hVEdtSGVuUXU3WnZYYTJON2FTeVJyQkQ0QmtDYnBRZ0RQQ2N4R2hUaFcwWUVhcTREZkNPMUdnMlNpZnNkZ0pTZkU5OWU3?oc=5",
-      "pub_date": 1787505336.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/87B6D9B8D98407E5BC65F426C6C0D6603B6DCB475EE52D06054C0D1D4851786B/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faaedc71c4e6c0ee88d07d33df3bbd3d7",
-      "description": "Micha\u00ebl Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level."
+      "headline": "XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkV4bWRIOUY2ZDdMaDRvcjl0UW1iYW9QZ3pXM0VVWURWd3RuZmRpQ1NrdG5fbjNGYzQ1bFBOOEhzNWJJanZPVnBQemxleEtHT3lmdUlGRWxSOFZVT1JIajFOVWJ2MGdMNnF5SnpYQ2w5M2oyTHZ2VFhCaVpuY2VQVlc0bUc2Y2tzSWhEMk5uNXAzNkk1Mm1KSVJEYkd6SC0ySXQtam9GdkdLaFpQcG9iRGdxMkFLZXlmSWs0OW1aSQ?oc=5",
+      "pub_date": 1787564147.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/08/24/xrp-vs-ethereum-which-crypto-will-reach-its-all-time-high-first/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/03/shutterstock-2681318597-huge-licensed-scaled.jpg",
+      "description": "XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here\u2019s which crypto could hit ATH first."
     },
     {
       "headline": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
@@ -73,16 +83,6 @@
       "article_url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
       "description": "Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze."
-    },
-    {
-      "headline": "XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkV4bWRIOUY2ZDdMaDRvcjl0UW1iYW9QZ3pXM0VVWURWd3RuZmRpQ1NrdG5fbjNGYzQ1bFBOOEhzNWJJanZPVnBQemxleEtHT3lmdUlGRWxSOFZVT1JIajFOVWJ2MGdMNnF5SnpYQ2w5M2oyTHZ2VFhCaVpuY2VQVlc0bUc2Y2tzSWhEMk5uNXAzNkk1Mm1KSVJEYkd6SC0ySXQtam9GdkdLaFpQcG9iRGdxMkFLZXlmSWs0OW1aSQ?oc=5",
-      "pub_date": 1787564147.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/08/24/xrp-vs-ethereum-which-crypto-will-reach-its-all-time-high-first/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/03/shutterstock-2681318597-huge-licensed-scaled.jpg",
-      "description": "XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here\u2019s which crypto could hit ATH first."
     },
     {
       "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T22:54:09.965106+00:00"
+  "fetched_at": "2026-08-25T01:15:40.062080+00:00"
 }

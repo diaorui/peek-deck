@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-24T23:47:05.154817+00:00'
+updated: '2026-08-25T01:15:49.591347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 24, 2026 at 23:47 UTC  
+**Last Updated:** August 25, 2026 at 01:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-3h ago
-
----
-
-**[I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating](https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/)**
-
-You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
-
-🔗 [Rauno](https://rauno.ai) • 11h ago
-
----
-
-**[How could I help my parents (in their 50s/60s) better recognize AI content?](https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/)**
-
-Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
-
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +49,23 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 5h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 6h ago
+
+---
+
+**[I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating](https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/)**
+
+You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
+
+🔗 [Rauno](https://rauno.ai) • 12h ago
+
+---
+
+**[How could I help my parents (in their 50s/60s) better recognize AI content?](https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/)**
+
+Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
+
+6h ago
 
 ---
 
@@ -75,11 +75,11 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 ---
 
-**[Explore any moment in history as a short, visual documentary made around your curiosity](https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/)**
+**[AI video generation models still have a long way to go](https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/)**
 
-A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
+I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not.
 
-7h ago
+10m ago
 
 ---
 
@@ -87,15 +87,7 @@ A project I've been working on, pick any topic and within 1-2 min the app will r
 
 CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, "we already told investors" beats "we left it out." Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central "AI safety" already is to its brand?
 
-10h ago
-
----
-
-**[Plato’s Cave has a problem: telling someone they’re seeing shadows just puts another shadow on the wall](https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/)**
-
-Plato’s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, “Those are only shadows,” what did you just give them? Another shadow. 😂 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you’re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow “escapes the Cave.” Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn’t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato’s problem. We’re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is.
-
-5h ago
+11h ago
 
 ---
 
@@ -103,15 +95,23 @@ Plato’s Cave has a funny problem. If someone is staring at shadows on the wall
 
 As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
 
+10h ago
+
+---
+
+**[Explore any moment in history as a short, visual documentary made around your curiosity](https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/)**
+
+A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef
+
 9h ago
 
 ---
 
-**[A new approach to building smarter more capable AI](https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/)**
+**[Plato’s Cave has a problem: telling someone they’re seeing shadows just puts another shadow on the wall](https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/)**
 
-A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level
+Plato’s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, “Those are only shadows,” what did you just give them? Another shadow. 😂 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you’re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow “escapes the Cave.” Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn’t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato’s problem. We’re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is.
 
-14h ago
+7h ago
 
 ---
 
@@ -121,59 +121,47 @@ A new approach to building smarter more capable AI We seem to be in a situation 
 
 **[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
 
-The New York Times • 9h ago
+The New York Times • 7h ago
 
 ---
 
-**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
+**[Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html)**
 
-Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
-
-CNBC • 8h ago
+The New York Times • 16h ago
 
 ---
 
-**[NVIDIA is the benchmark for AI builds, strategist says](https://www.foxnews.com/video/6403978982112)**
+**[AI flooding public bodies with complaints and requests](https://www.bbc.com/news/articles/c2dk6wzjw23o)**
 
-Baird managing director and tech strategist Ted Mortonson discusses upcoming NVIDIA earnings on 'Making Money.'
-
-Fox News • 2h ago
+BBC • 1h ago
 
 ---
 
-**[Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks](https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks)**
+**[Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages](https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1)**
 
-Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ...
-
-The Information • 1h ago
+WSJ • 1h ago
 
 ---
 
-**[Discovery of 'thousands' of AI-generated child pornography images leads to man's arrest in Humble, Pct. 1 says](https://abc13.com/post/discovery-thousands-ai-generated-child-pornography-images-leads-mans-arrest-humble-pct-1-says/19728054/)**
+**[Cramer says this stock tied to the AI data center trade may be up next for a trim](https://www.cnbc.com/2026/08/24/cramer-says-this-stock-tied-to-the-ai-data-center-trade-may-be-up-next-for-a-trim.html)**
 
-Deputies said "thousands of AI-generated images of child pornography" were found on a computer and hard drive at the man's home.
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-ABC13 Houston • 4h ago
-
----
-
-**[Humble man accused of having thousands of AI-generated child pornography images](https://www.khou.com/article/news/local/houston-humble-ai-generated-child-pornography-charge/285-2527322c-110c-469f-bb19-85622c1fa386)**
-
-KHOU • 1h ago
-
----
-
-**[Houston-area man arrested for thousands of AI-generated child pornography](https://www.fox26houston.com/news/houston-area-man-arrested-thousands-ai-generated-child-pornography)**
-
-A Houston-area man was arrested after detectives found what they describe as thousands of images of AI-generated child pornography at his home, according to authorities.
-
-FOX 26 Houston • 1h ago
+CNBC • 9h ago
 
 ---
 
 **[Data centers’ ‘oh s--t’ moment](https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465)**
 
-Politico • 14h ago
+Politico • 16h ago
+
+---
+
+**[Trump Defends AI Data Centers—Says Opposing Them Is A ‘Mistake’ And ‘Smart Ones’ Want Them](https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/)**
+
+The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties.
+
+Forbes • 17h ago
 
 ---
 
@@ -181,13 +169,21 @@ Politico • 14h ago
 
 The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
 
-CNN • 14h ago
+CNN • 16h ago
 
 ---
 
-**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
+**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
 
-Axios • 2h ago
+Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
+
+CNBC • 10h ago
+
+---
+
+**[UAW and Deere are set to clash amid AI sales boom](https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai)**
+
+Axios • 6h ago
 
 ---
 
@@ -199,7 +195,7 @@ Axios • 2h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 758 • 💬 664 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 762 • 💬 672 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -207,7 +203,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 678 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
+⬆️ 680 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -215,7 +211,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 398 • 💬 409 • 7h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 448 • 💬 453 • 9h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -223,7 +219,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 331 • 💬 69 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 339 • 💬 69 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -231,7 +227,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 177 • 💬 91 • 17h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 179 • 💬 99 • 18h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -239,13 +235,13 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
-⬆️ 139 • 💬 45 • 1d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+⬆️ 144 • 💬 45 • 1d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
 
 ---
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 80 • 💬 95 • 14h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 81 • 💬 95 • 15h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
 
 ---
 
@@ -253,7 +249,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 How I actually use AI in day-to-day infrastructure work, and why I think it's the next layer of abstraction rather than a replacement for the engineer - the same way Kubernetes was for Ansible.
 
-⬆️ 70 • 💬 38 • 1d ago • [Omegion](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
+⬆️ 71 • 💬 39 • 1d ago • [Omegion](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
 
 ---
 
@@ -283,7 +279,7 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 📺 Fox News
 
-👁️ 9K • 👍 421 • 💬 166 • ⏱️ 9:28 • 32m ago
+👁️ 9K • 👍 421 • 💬 166 • ⏱️ 9:28 • 2h ago
 
 ---
 
@@ -293,7 +289,7 @@ Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 11K • 👍 1K • 💬 204 • ⏱️ 13:41 • 3h ago
+👁️ 11K • 👍 1K • 💬 204 • ⏱️ 13:41 • 5h ago
 
 ---
 
@@ -323,7 +319,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 194K • 👍 4K • 💬 718 • ⏱️ 3:27:05 • 2d ago
+👁️ 194K • 👍 4K • 💬 718 • ⏱️ 3:27:05 • 3d ago
 
 ---
 
@@ -353,7 +349,7 @@ Follow me and DM me "WATERMARK" on IG/FB only Claude's invisible watermark has l
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 3K • 👍 108 • 💬 4 • ⏱️ 0:26 • 5h ago
+👁️ 3K • 👍 108 • 💬 4 • ⏱️ 0:26 • 6h ago
 
 ---
 
@@ -363,7 +359,7 @@ Dr. Dre just entered the AI music debate, and this could be one of the biggest c
 
 📺 CrazyHoodMedia
 
-👁️ 20K • 👍 408 • 💬 45 • ⏱️ 0:42 • 21h ago
+👁️ 20K • 👍 408 • 💬 45 • ⏱️ 0:42 • 23h ago
 
 ---
 
@@ -373,7 +369,7 @@ A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Rob
 
 📺 Makkah madina shorts
 
-👁️ 14K • 👍 568 • 💬 1 • ⏱️ 0:11 • 10h ago
+👁️ 14K • 👍 568 • 💬 1 • ⏱️ 0:11 • 11h ago
 
 ---
 
@@ -413,7 +409,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,026 • 14h ago
+⬇️ 57,947 • ❤️ 1,026 • 15h ago
 
 ---
 
@@ -425,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 693 • 5h ago
+⬇️ 312,627 • ❤️ 693 • 7h ago
 
 ---
 
@@ -650,7 +646,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.9k • 🔱 2.1k • 3h ago
+⭐ 17.9k • 🔱 2.1k • 4h ago
 
 ---
 
@@ -660,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 24m ago
+⭐ 14.2k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -680,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 600 • 8h ago
+⭐ 3.6k • 🔱 600 • 9h ago
 
 ---
 
@@ -690,7 +686,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 363 • 12h ago
+⭐ 3.0k • 🔱 363 • 14h ago
 
 ---
 
@@ -710,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.7k • 🔱 313 • 3h ago
+⭐ 2.7k • 🔱 313 • 4h ago
 
 ---
 
@@ -720,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 6h ago
+⭐ 2.2k • 🔱 189 • 7h ago
 
 ---
 
@@ -730,7 +726,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.2k • 🔱 119 • 7h ago
+⭐ 2.2k • 🔱 119 • 8h ago
 
 ---
 

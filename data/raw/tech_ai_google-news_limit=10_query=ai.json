@@ -9,70 +9,50 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
-      "pub_date": 1787580273.0,
+      "pub_date": 1787594955.0,
       "article_url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUhxcnhmTUVlMTRPYUM1TXZvY3RabEEtcDl5b3lnazJoYlZoNFhQZTVPa1ZnNG1lSTk3TVNfcjFXcjdUeERhMVV2dTEzMWxiN2g5YWY0SG5MWkpVSFhLR1p5RndmYWlxcUNxTVhzSU92dlBIbzJUcnNlWU9QV1JJS9IBhgFBVV95cUxQQnpMUGI2d3JsZF83ZGJBYVhaeFMtQmVUY1dQSjF4Y2t1S3R6RUg4ZUQxSjdKLWhfLUJ3NHd6VjhBeTFsY1B1aVNFb1Z1bFByeTZUYVBnUG9ZdFRKYzRHSy1xdl9iQkk4a09CdnFSREwzS20tUVlWczNVaEFFRmM4dGJNek9XZw?oc=5",
-      "pub_date": 1787583601.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
-      "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers."
-    },
-    {
-      "headline": "NVIDIA is the benchmark for AI builds, strategist says",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qLTlxN29LVndjYkdNTGVSRTRRZElES2dvZG5SOFNtSFZHeXZPMm1lbUtvY3ZXaXVfSWxUX0ZNVnl5ZmRfdDB0SXBaZ1BGVWk3a0RXWjhn?oc=5",
-      "pub_date": 1787607541.0,
-      "article_url": "https://www.foxnews.com/video/6403978982112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51ed2d0f-0ea4-433d-9b3e-f09f9823a480/4895b8b0-fb6e-479d-9fa3-3470853b9658/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Baird managing director and tech strategist Ted Mortonson discusses upcoming NVIDIA earnings on 'Making Money.'"
-    },
-    {
-      "headline": "Meta Plans to Launch \u2018Hatch\u2019 AI Agent Platform in Coming Weeks",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
-      "pub_date": 1787611200.0,
-      "article_url": "https://www.theinformation.com/articles/meta-plans-launch-hatch-ai-agent-platform-coming-weeks",
-      "image": "https://tii.imgix.net/production/articles/17702/efa54ab7-86a8-437a-884f-4e430218ef47.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ..."
-    },
-    {
-      "headline": "Discovery of 'thousands' of AI-generated child pornography images leads to man's arrest in Humble, Pct. 1 says",
-      "source": "ABC13 Houston",
-      "source_url": "https://abc13.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVl0M29pTlU4UDJPdkY0cXFxWjAxOXh6N0FqcFlSaEFrVkJ6cDgtYWdfRzlMdEpVWGdGazdIU0F6ZExTQjhvbzZfY1JvSlFYOGgyaHRuNzJMcWh4Mk5XYkZHQTAzbUlIYkRGRHRMUWNobmJCNDIxMW9wekdHLU9fRTFJOHFCZkxZMmtaR3R1aEd5c0xiMnNjbnV0QzVqdFg0aUlnc2JWUDlTQ3c4MEtRZGJlMmNPZFA3U3g2OUNvMDdKeExV0gHKAUFVX3lxTE1aTFhQM1dQUGVoSjdzSWpqYlpJR1Fwd0tGNG9HeVg5WkZkU2FnbC1tOTVSZ25EWkxpT0ZfLVpOT1BoUDh3VHRlRDh1N29talhMVC1VZzNvWXVyTDA2UXBtaF92X1ppal9rc2trNDl1UTlDMlBWM2VJc1lvY096WHViM3BHSEN0S25jc0lKX1RCRnkwcHZqOXp4akZXMzBIc2xKQml1MkQwR0kycE9qQlpIQzl1TVhnVzdFc1dvZlZCNXd0d29HQXYwdGc?oc=5",
-      "pub_date": 1787599877.0,
-      "article_url": "https://abc13.com/post/discovery-thousands-ai-generated-child-pornography-images-leads-mans-arrest-humble-pct-1-says/19728054/",
-      "image": "https://cdn.abcotvs.com/dip/images/13971418_102523-ktrk-pct-1-img.jpg?w=1600",
-      "description": "Deputies said \"thousands of AI-generated images of child pornography\" were found on a computer and hard drive at the man's home."
-    },
-    {
-      "headline": "Humble man accused of having thousands of AI-generated child pornography images",
-      "source": "KHOU",
-      "source_url": "https://www.khou.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2dUQmFxdmtrTFV6UVVpUjNobVI0eGNrQTFnRmpxLXI1VG1qRlc1NkYzd0dJNmlTcjRaZkttekNiRm50VEcxZUhhYTZNeWdQVDhfUEg2SV93ZXBqbndpWHRUN05NQ2txTXZ5a2dndWJIR3VMS0ZqbjBCUXNnUFdPVkxrSVlTeXVzMHpZN1pBbEtVeDRWRHdSQkZDNDMtQVdQMmpoSTM0OVlCcF9HSFllaXlxQjV4QllLemNFbEZtSVhtbGNSeXV1eEdONzlEdw?oc=5",
-      "pub_date": 1787610960.0,
-      "article_url": "https://www.khou.com/article/news/local/houston-humble-ai-generated-child-pornography-charge/285-2527322c-110c-469f-bb19-85622c1fa386",
+      "headline": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+      "pub_date": 1787562118.0,
+      "article_url": "https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Houston-area man arrested for thousands of AI-generated child pornography",
-      "source": "FOX 26 Houston",
-      "source_url": "https://www.fox26houston.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVc5eXpHdkJBbVN6cjl6ZDU4SENka000aDFIMzdMS25mTkxoMzE2Z0xEWk0xOWQxenlZanJqYklhS2hjckpKVGlTcmF1Vlkwd0FnYmktd0g2ZG5VRDBtZFQ1UnhSMEhrM0gwSFpDd3RIRlBTRjRPYzRVLWR6UEpqZWFZbzhrRHE5NzdCYldWMEhZcEZsUTI2WGswS1ppZkZRbFE?oc=5",
-      "pub_date": 1787608475.0,
-      "article_url": "https://www.fox26houston.com/news/houston-area-man-arrested-thousands-ai-generated-child-pornography",
-      "image": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2026/08/1200/630/screenshot-2026-08-24-165057.png?ve=1&tl=1",
-      "description": "A Houston-area man was arrested after detectives found what they describe as thousands of images of AI-generated child pornography at his home, according to authorities."
+      "headline": "AI flooding public bodies with complaints and requests",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OWXNaNmpqakc5VDhmZXpvUHl1ekw0Nm5aOGhFSmEtbUxZUWh6eUlhTURfQTZrVnVVckhRNHdFeUx4MGF0aENFNGpEaVpRZm9aZG43VURTengtdw?oc=5",
+      "pub_date": 1787615660.0,
+      "article_url": "https://www.bbc.com/news/articles/c2dk6wzjw23o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d33/live/8bab51a0-9fdf-11f1-9c90-a93a719154c7.jpg",
+      "description": null
+    },
+    {
+      "headline": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFFPeDl5ZzlTOVhRMk9tSGJFSHNuSWdGandFazFPZTUwaGhYdDJRZzEwc09QMzljUktBUWljSWZNaTliZnAwX2t2MG5tckRYaG1rM2YxTTkwd2diaElZX013UmZzdjRSNzd5Uk9wZDlSSWl5SUlTT2RNV01mS3FZeC13TGRTM2lHbEZLenlHekw3Zm9KZlc5V2ZORkEtcncxeWNB?oc=5",
+      "pub_date": 1787616000.0,
+      "article_url": "https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Cramer says this stock tied to the AI data center trade may be up next for a trim",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjlrQm9VYU5QemdiQ0htRkVnSXp1VGxNQU4tczJ0NFUwV0JXam5za0xiQ2JOX1VwYjFyYzFReDdqbkFFSl84Q2hTdE9Dc25qT1lsYlUxNVhIYjRMcGRQc0d2OGZLZVctLXZmci1UeENkcVpoS2xwdlM3UHRMZUlsZXFwUVpOSXlpQ01zbzZWQWtpSHNnQ1dPdUE2WkI3R09lOVYzVEJmMEhoUHJMSGZNTlNLWnI4Q2szMlE?oc=5",
+      "pub_date": 1787587795.0,
+      "article_url": "https://www.cnbc.com/2026/08/24/cramer-says-this-stock-tied-to-the-ai-data-center-trade-may-be-up-next-for-a-trim.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1770838644&w=1920&h=1080",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
     },
     {
       "headline": "Data centers\u2019 \u2018oh s--t\u2019 moment",
@@ -85,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Trump Defends AI Data Centers\u2014Says Opposing Them Is A \u2018Mistake\u2019 And \u2018Smart Ones\u2019 Want Them",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS01oYVJIMXI3SnBQcEpIamZMVmFhMThQWWhWaHZvNnNIWWVQU2ItOHFpaHNPenlWdVljT251TmpLeFJDelJzWERiQlJmbndYbll4ZG4zcXNEX2htRWMyQ2theDgxeXRRQlk5MFJCNWxOVVFTeHBQdVV6YnIzSEpIT05zOEhVcHd1eEVtQ0VPeWZTZ05YckNhdmEyVy05a1N1WlZraHBlSWFGaDZSMjRBLUg5TWlMcDNWQm9JSlc1Zm11YWh2NTBoUkZKeTlhTU5qQkVzY3BPWQ?oc=5",
+      "pub_date": 1787557182.0,
+      "article_url": "https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8bf4c06c3d29908ffea795/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties."
+    },
+    {
       "headline": "The AI-related reason every billionaire suddenly wants to own a sports team",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -95,16 +85,26 @@
       "description": "The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights."
     },
     {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUhxcnhmTUVlMTRPYUM1TXZvY3RabEEtcDl5b3lnazJoYlZoNFhQZTVPa1ZnNG1lSTk3TVNfcjFXcjdUeERhMVV2dTEzMWxiN2g5YWY0SG5MWkpVSFhLR1p5RndmYWlxcUNxTVhzSU92dlBIbzJUcnNlWU9QV1JJS9IBhgFBVV95cUxQQnpMUGI2d3JsZF83ZGJBYVhaeFMtQmVUY1dQSjF4Y2t1S3R6RUg4ZUQxSjdKLWhfLUJ3NHd6VjhBeTFsY1B1aVNFb1Z1bFByeTZUYVBnUG9ZdFRKYzRHSy1xdl9iQkk4a09CdnFSREwzS20tUVlWczNVaEFFRmM4dGJNek9XZw?oc=5",
+      "pub_date": 1787583601.0,
+      "article_url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
+      "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers."
+    },
+    {
+      "headline": "UAW and Deere are set to clash amid AI sales boom",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787604840.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZzF6TmVqek8xYUdHY3doRTN3WllFRmNUZUJZcHNCcmZIUGdVQXVUS3VRN1F6Y2hHSXVMb2p2OW12QmE0RU42bHZVVzNFU3JPZFNKVklyVkhHVHZ1QkNhdUNDMnBEWWM?oc=5",
+      "pub_date": 1787598000.0,
+      "article_url": "https://www.axios.com/2026/08/24/uaw-deere-shawn-fain-ai",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T22:54:16.800406+00:00"
+  "fetched_at": "2026-08-25T01:15:43.162192+00:00"
 }

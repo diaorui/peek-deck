@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-24T23:47:05.169619+00:00'
+updated: '2026-08-25T01:15:49.606504+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 23:47 UTC  
+**Last Updated:** August 25, 2026 at 01:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,481.99
+### $2,481.90
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +29.3%  
-**30d:** +26.8%  
-**90d:** +22.4%  
-**1y:** -43.5%  
+**24h:** +1.9%  
+**7d:** +10.4%  
+**30d:** +31.4%  
+**90d:** +23.8%  
+**1y:** -46.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-7h ago
+8h ago
 
 ---
 
@@ -124,7 +124,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-2d ago
+3d ago
 
 ---
 
@@ -156,25 +156,11 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 ## Google News: "ethereum"
 
-**[Bitmine Makes Biggest Ethereum Purchase Since Early July](https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133900532.html)**
+**[Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money](https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) increased its purchase of Ethereum (CRYPTO: $ETH) over the past week e...
+Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins getting more valuable.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 11h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
-
-CoinDesk • 10h ago
+Decrypt • 8h ago
 
 ---
 
@@ -186,14 +172,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum rises 2.69% amid strong buying and sel...](https://pluang.com/en/news-feed/abraxas-capital-short-eth-dan-beli-hedge-eth-target-2-8k)**
-
-Ethereum (ETH) is trading around $2,452, up 2.69% daily and extending a 29% weekly gain. Abraxas Capital bought $173 million worth of ETH recently, balancing its large short positions with spot purchases to manage risk. Despite increased selling pressure indicated by rising exchange inflows and supply, strong demand from major buyers like Abraxas is stabilizing the market. Technical indicators suggest bullish momentum, with Ethereum likely to break above its current range and target $2,800, though a drop to $2,200 remains possible if selling intensifies.
-
-Pluang • 2h ago
-
----
-
 **[Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K](https://finance.yahoo.com/markets/crypto/articles/ethereum-netflix-moment-could-send-171536509.html)**
 
 Michaël Van de Poppe said that cryptocurrencies "haven't seen any moves at all," with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.
@@ -202,11 +180,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+**[Bitmine Makes Biggest Ethereum Purchase Since Early July](https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133900532.html)**
 
-Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+Bitmine Immersion Technologies (NYSE: $BMNR) increased its purchase of Ethereum (CRYPTO: $ETH) over the past week e...
 
-CryptoSlate • 1d ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
+
+PR Newswire • 12h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+
+CoinDesk • 12h ago
 
 ---
 
@@ -214,7 +206,15 @@ CryptoSlate • 1d ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 15h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+
+Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ TradingView • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 247 • 💬 6 • ⏱️ 6:32 • 10h ago
+👁️ 5K • 👍 247 • 💬 6 • ⏱️ 6:32 • 11h ago
 
 ---
 
@@ -264,7 +264,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 94K • 👍 4K • 💬 268 • ⏱️ 27:38 • 19h ago
+👁️ 94K • 👍 4K • 💬 268 • ⏱️ 27:38 • 21h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 352 • 👍 17 • 💬 87 • ⏱️ 4:36 • 14h ago
+👁️ 352 • 👍 17 • 💬 87 • ⏱️ 4:36 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ Most people know the DAO hack led to Ethereum Classic — but few know about the
 
 📺 CoinGecko
 
-👁️ 1K • 👍 70 • 💬 110 • ⏱️ 4:22 • 13h ago
+👁️ 1K • 👍 70 • 💬 110 • ⏱️ 4:22 • 14h ago
 
 ---
 
@@ -294,7 +294,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 809 • 👍 13 • 💬 1 • ⏱️ 0:31 • 4h ago
+👁️ 809 • 👍 13 • 💬 1 • ⏱️ 0:31 • 5h ago
 
 ---
 
@@ -304,7 +304,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 23 • 👍 1 • ⏱️ 1:12 • 46m ago
+👁️ 23 • 👍 1 • ⏱️ 1:12 • 2h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin y Ethereum vienen de una semana espectacular. ¿Pueden mantener el impul
 
 📺 Diego Gutiérrez Pérez
 
-👁️ 317 • 👍 37 • 💬 13 • ⏱️ 6:49 • 12h ago
+👁️ 317 • 👍 37 • 💬 13 • ⏱️ 6:49 • 14h ago
 
 ---
 

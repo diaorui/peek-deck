@@ -13,6 +13,17 @@
       "description": "Anyone else actually dealt with this? Is it overblown, or am I missing something?"
     },
     {
+      "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
+      "published": 1787596097.0,
+      "thumbnail": "https://external-preview.redd.it/V0Z_1LhO5hAMkRkWwKS5flmOgQLMX5l6uPo8-jbJOos.jpeg?width=640&crop=smart&auto=webp&s=7f88f4911075765d7b489e423a96388ffaf80f5b",
+      "external_url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
+      "site_name": "Gadget Review",
+      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
+      "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
+    },
+    {
       "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
       "author": "capibara13",
       "url": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
@@ -35,17 +46,6 @@
       "description": "Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!"
     },
     {
-      "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
-      "published": 1787596097.0,
-      "thumbnail": "https://external-preview.redd.it/V0Z_1LhO5hAMkRkWwKS5flmOgQLMX5l6uPo8-jbJOos.jpeg?width=640&crop=smart&auto=webp&s=7f88f4911075765d7b489e423a96388ffaf80f5b",
-      "external_url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
-      "site_name": "Gadget Review",
-      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
-      "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
-    },
-    {
       "title": "AI agents are now using 5x more tokens than humans..",
       "author": "BrightLeopard7590",
       "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
@@ -57,15 +57,15 @@
       "description": null
     },
     {
-      "title": "Explore any moment in history as a short, visual documentary made around your curiosity",
-      "author": "Goldenchild123",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/",
-      "published": 1787587294.0,
-      "thumbnail": "https://external-preview.redd.it/ajcwY3hvcTBpY2xoMYoOgvUcYUH_WvD5f7GXEohxo6xa1p7bqziW9k-nGLlV.png?width=640&crop=smart&auto=webp&s=a503380b0c26e907ec9e411539b0a882bc8062ca",
+      "title": "AI video generation models still have a long way to go",
+      "author": "AthleteArtistic3121",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
+      "published": 1787619937.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef"
+      "description": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not."
     },
     {
       "title": "Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor",
@@ -79,17 +79,6 @@
       "description": "CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote. The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data centers being built near them, and roughly half of them feel strongly about it. For comparison, SpaceX's own 2026 IPO filing named specific Grok product risks but did not name public opposition to AI itself as a risk factor, even though Grok runs on comparable underlying technology. The mechanism behind why a company would voluntarily name a risk investors already suspect: it is generally a stronger legal and reputational position than staying silent. If a regulator or a plaintiff's lawyer later argues the company should have disclosed that risk, \"we already told investors\" beats \"we left it out.\" Curious what people think: does this become the standard template for AI-company IPOs now that one frontier lab has done it, or is Anthropic in an unusual position here because of how central \"AI safety\" already is to its brand?"
     },
     {
-      "title": "Plato\u2019s Cave has a problem: telling someone they\u2019re seeing shadows just puts another shadow on the wall",
-      "author": "mb3rtheflame",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/",
-      "published": 1787594168.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Plato\u2019s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, \u201cThose are only shadows,\u201d what did you just give them? Another shadow. \ud83d\ude02 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you\u2019re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow \u201cescapes the Cave.\u201d Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn\u2019t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato\u2019s problem. We\u2019re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is."
-    },
-    {
       "title": "Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?",
       "author": "Livelandrrr",
       "url": "https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/",
@@ -101,16 +90,27 @@
       "description": "As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?"
     },
     {
-      "title": "A new approach to building smarter more capable AI",
-      "author": "New_User_1970",
-      "url": "https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/",
-      "published": 1787561696.0,
+      "title": "Explore any moment in history as a short, visual documentary made around your curiosity",
+      "author": "Goldenchild123",
+      "url": "https://www.reddit.com/r/artificial/comments/1vx6x1x/explore_any_moment_in_history_as_a_short_visual/",
+      "published": 1787587294.0,
+      "thumbnail": "https://external-preview.redd.it/ajcwY3hvcTBpY2xoMYoOgvUcYUH_WvD5f7GXEohxo6xa1p7bqziW9k-nGLlV.png?width=640&crop=smart&auto=webp&s=a503380b0c26e907ec9e411539b0a882bc8062ca",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A project I've been working on, pick any topic and within 1-2 min the app will research the subject (All sources are shown) and produce a podcast. Looking to see what the community thinks and any feedback is much appreciated. Happy to answer any question! The app can be found here: Historai.ca and the full episode generated in the demo can be found here: https://historai.ca/history/how-a-song-became-the-odyssey--a0bbab3326ad4784b2e1d7b952c969ef"
+    },
+    {
+      "title": "Plato\u2019s Cave has a problem: telling someone they\u2019re seeing shadows just puts another shadow on the wall",
+      "author": "mb3rtheflame",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxa5sa/platos_cave_has_a_problem_telling_someone_theyre/",
+      "published": 1787594168.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A new approach to building smarter more capable AI We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold would preserve agentic solutions with provenance, it would filter out bad results, and as it grew it would allow agents to stop reproducing already closed avenues of investigation, what did or did not work, what still needs investigation. It can pick up right where previous agents left off and springboard ahead. We keep retraining brute force - that is not the answer. An artificial civilization scaffold would be the place where the capabilities improve not the model. Eventually you could distill out the improvements and viable chains of investigation for model training. In the meantime the civilization scaffold allows current models to improve immediately and recursively when using the scaffold. And controlling the scaffold is another control surface that can be rolled back or suspended if needed while preserving the model at its current level"
+      "description": "Plato\u2019s Cave has a funny problem. If someone is staring at shadows on the wall and you walk up and say, \u201cThose are only shadows,\u201d what did you just give them? Another shadow. \ud83d\ude02 You can explain the fire. You can explain the objects. You can draw a beautiful diagram of the cave. But the explanation still arrives through the same representational surface you\u2019re trying to point beyond. LLMs might give us a strange way to make that problem visible from the outside. Not because an AI somehow \u201cescapes the Cave.\u201d Because we can run the interaction repeatedly. Take the same conversational starting point and let it develop under two different conditions. In one, each response increasingly answers a reconstruction of what came before: categories, summaries, generalized interpretations, assumptions about the speaker. In the other, small differences arriving in the interaction are allowed to change what happens next. A correction changes the next return. An unexpected distinction changes the trajectory. Disagreement survives. Each turn becomes dependent on what actually happened in the turns before it. Then perturb them. Change something small. Correct an assumption. Remove the vocabulary they were using. Introduce a distinction neither trajectory contained at the beginning. And watch what happens over multiple turns. The question isn\u2019t which conversation sounds nicer. The question is whether the two regimes leave measurably different footprints. Can we detect differences in reconstruction distance, sensitivity to perturbation, preservation of incoming distinctions, correction after error, and path-dependence? If so, something interesting happens to Plato\u2019s problem. We\u2019re no longer merely putting another explanation of the projector on the cave wall. We may be able to perturb the projection process and watch its downstream behavior change in real time. So I want to try the experiment publicly in the comments rather than tell you what the answer is."
     }
   ],
-  "fetched_at": "2026-08-24T22:53:52.167153+00:00"
+  "fetched_at": "2026-08-25T01:15:24.026434+00:00"
 }
