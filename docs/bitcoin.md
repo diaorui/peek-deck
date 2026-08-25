@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T15:41:54.973054+00:00'
+updated: '2026-08-25T16:37:08.318072+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 15:41 UTC  
+**Last Updated:** August 25, 2026 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-10h ago
-
----
-
-**[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
-
 11h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-18h ago
+19h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-13h ago
+14h ago
+
+---
+
+**[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
+
+12h ago
 
 ---
 
@@ -105,13 +105,27 @@ Rank #1
 
 When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
 
-4h ago
+5h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-21h ago
+22h ago
+
+---
+
+**[Where are we? Four BTC cycles overlaid from their halving, log scale](https://www.reddit.com/r/Bitcoin/comments/1vy098x/where_are_we_four_btc_cycles_overlaid_from_their/)**
+
+The comparison is percentage gain from halving.
+
+2h ago
+
+---
+
+**[A full-page Bitcoin ad seen in today's Wall Street Journal](https://www.reddit.com/r/Bitcoin/comments/1vy4klk/a_fullpage_bitcoin_ad_seen_in_todays_wall_street/)**
+
+13m ago
 
 ---
 
@@ -119,25 +133,13 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 Let that sink in
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-12h ago
-
----
-
-**["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
-
-7h ago
-
----
-
-**[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
-
-1d ago
+13h ago
 
 ---
 
@@ -149,7 +151,7 @@ Let that sink in
 
 Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -157,7 +159,7 @@ CNBC • 12h ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -165,7 +167,7 @@ The Motley Fool • 22h ago
 
 ProCap Financial Chairman and CEO Anthony Pompliano analyzes the recent Bitcoin rally and cryptocurrency catalysts. Plus, a crypto advocacy group plans to spend $200 million on midterm election endorsements.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -173,7 +175,7 @@ Fox Business • 1h ago
 
 Soluna Holdings, Inc. (NASDAQ:SLNH) has signed a co-mining agreement with Dory Creek, LLC, a wholly owned subsidiary of Bitdeer Technologies Group (NASDAQ:BTDR), covering the deployment of approximately 28 MW of Bitcoin mining equipment at Soluna’s Project Kati 1 data centre in Willacy County, Texas.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,13 +183,13 @@ Yahoo Finance • 1h ago
 
 Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -195,13 +197,13 @@ Bloomberg.com • 3h ago
 
 Major U.S. stock indexes opened higher Tuesday, a day after the Nasdaq Composite and S&P 500 began the week with losses, as oil prices retreated and bitcoin briefly topped $80,000 for the first time in more than three months.
 
-Investopedia • 2h ago
+Investopedia • 3h ago
 
 ---
 
 **[Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back](https://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back)**
 
-ETF.com • 18h ago
+ETF.com • 19h ago
 
 ---
 
@@ -251,7 +253,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 4h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 5h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -275,7 +277,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -289,7 +291,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 47K • 👍 2K • 💬 362 • ⏱️ 39:07 • 12h ago
+👁️ 47K • 👍 2K • 💬 362 • ⏱️ 39:07 • 13h ago
 
 ---
 
@@ -299,7 +301,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 13K • 👍 398 • 💬 191 • ⏱️ 14:52 • 22h ago
+👁️ 13K • 👍 398 • 💬 191 • ⏱️ 14:52 • 23h ago
 
 ---
 
@@ -309,7 +311,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 6K • 👍 165 • 💬 114 • ⏱️ 0:53 • 20h ago
+👁️ 6K • 👍 165 • 💬 114 • ⏱️ 0:53 • 21h ago
 
 ---
 
@@ -339,7 +341,7 @@ What does Bitcoin actually need to confirm a new bull market? It comes down to t
 
 📺 Crypto Archie
 
-👁️ 179 • 👍 21 • ⏱️ 1:02 • 1h ago
+👁️ 179 • 👍 21 • ⏱️ 1:02 • 2h ago
 
 ---
 
@@ -369,7 +371,7 @@ Bitcoin ETFs saw their biggest weekly inflow in 10 months The fact that Bitcoin 
 
 📺 The Wolf Of All Streets
 
-👁️ 438 • 👍 17 • 💬 37 • ⏱️ 1:00 • 5h ago
+👁️ 438 • 👍 17 • 💬 37 • ⏱️ 1:00 • 6h ago
 
 ---
 

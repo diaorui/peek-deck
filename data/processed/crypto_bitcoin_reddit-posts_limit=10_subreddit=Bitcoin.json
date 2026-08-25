@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "Still waiting for 40K? \ud83d\ude1c",
-      "author": "isrox",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/",
-      "published": 1787629670.0,
-      "thumbnail": "https://preview.redd.it/cfsqd0ps0glh1.jpeg?width=640&crop=smart&auto=webp&s=452583ce8a4aee5cf0ae21c06cda511b6dc31384",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.",
       "author": "Paiden1",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/",
@@ -40,6 +29,17 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/",
       "published": 1787624769.0,
       "thumbnail": "https://preview.redd.it/ns424f17mflh1.png?width=640&crop=smart&auto=webp&s=c8cc1fba5ed37c1e6c949f23cabc8784b2c3765e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Still waiting for 40K? \ud83d\ude1c",
+      "author": "isrox",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/",
+      "published": 1787629670.0,
+      "thumbnail": "https://preview.redd.it/cfsqd0ps0glh1.jpeg?width=640&crop=smart&auto=webp&s=452583ce8a4aee5cf0ae21c06cda511b6dc31384",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -68,6 +68,28 @@
       "description": null
     },
     {
+      "title": "Where are we? Four BTC cycles overlaid from their halving, log scale",
+      "author": "cban_3489",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vy098x/where_are_we_four_btc_cycles_overlaid_from_their/",
+      "published": 1787665419.0,
+      "thumbnail": "https://preview.redd.it/9j2r1j1lyilh1.png?width=640&crop=smart&auto=webp&s=2117301798278593246c9c573b978cc290b6c423",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The comparison is percentage gain from halving."
+    },
+    {
+      "title": "A full-page Bitcoin ad seen in today's Wall Street Journal",
+      "author": "True-Lychee",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vy4klk/a_fullpage_bitcoin_ad_seen_in_todays_wall_street/",
+      "published": 1787675026.0,
+      "thumbnail": "https://preview.redd.it/xfskrff4rjlh1.jpeg?width=640&crop=smart&auto=webp&s=0864f5784155a9408c2ab976bab583a5c86590fa",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "We have this going on too",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vxwbej/we_have_this_going_on_too/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "\"It might make sense just to get some in case it catches on.\" (turns out, it did).",
-      "author": "Careless_Product_792",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/",
-      "published": 1787643957.0,
-      "thumbnail": "https://preview.redd.it/rbhuhzca7hlh1.png?width=640&crop=smart&auto=webp&s=f53cf2ce4f11dc7cd4159e4320d34b234f4ec28f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "\ud83d\udc80",
-      "author": "Reasonable_Band1536",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/",
-      "published": 1787568744.0,
-      "thumbnail": "https://preview.redd.it/z3fbd04nzalh1.jpeg?width=640&crop=smart&auto=webp&s=f6202933d31ccf8602fbc3038a4e943d6959f865",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-08-25T14:44:19.868725+00:00"
+  "fetched_at": "2026-08-25T16:36:57.461591+00:00"
 }
