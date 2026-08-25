@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T15:41:54.979593+00:00'
+updated: '2026-08-25T16:37:08.324323+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 15:41 UTC  
+**Last Updated:** August 25, 2026 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-23h ago
+1d ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 22h ago
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -176,13 +176,13 @@ Yahoo Finance • 16h ago
 
 Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Prices Fall Back After Crypto Surge—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -190,7 +190,7 @@ Barron's • 1h ago
 
 In the latest Ethereum news today, Bitmine is 187,000 ETH away from owning 5% of the entire Ethereum supply, and last week’s buy closed the gap fast.The company acquired another 32,447 ETH last week, a purchase worth roughly $81 million, pushing total holdings to 5,847,611 ETH valued at around $15 ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 19h ago
+Benzinga • 20h ago
 
 ---
 
@@ -214,13 +214,13 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 4 • ⏱️ 8:33 • 2h ago
+👁️ 2K • 👍 167 • 💬 4 • ⏱️ 8:33 • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 602 • 💬 53 • ⏱️ 12:24 • 23h ago
+👁️ 9K • 👍 602 • 💬 53 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 6K • 👍 249 • 💬 115 • ⏱️ 42:25 • 20h ago
+👁️ 6K • 👍 249 • 💬 115 • ⏱️ 42:25 • 21h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 
 
 📺 Cilinix Crypto
 
-👁️ 322 • 👍 21 • 💬 1 • ⏱️ 5:57 • 6h ago
+👁️ 322 • 👍 21 • 💬 1 • ⏱️ 5:57 • 7h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 359 • 💬 410 • ⏱️ 19:33 • 16h ago
+👁️ 9K • 👍 359 • 💬 410 • ⏱️ 19:33 • 17h ago
 
 ---
 
@@ -292,7 +292,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 2K • 👍 710 • 29m ago
+👁️ 2K • 👍 710 • 1h ago
 
 ---
 
@@ -322,7 +322,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 7K • 👍 90 • 💬 9 • ⏱️ 0:43 • 20h ago
+👁️ 7K • 👍 90 • 💬 9 • ⏱️ 0:43 • 21h ago
 
 ---
 

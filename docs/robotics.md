@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T15:41:54.982782+00:00'
+updated: '2026-08-25T16:37:08.327598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 15:41 UTC  
+**Last Updated:** August 25, 2026 at 16:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -124,7 +124,7 @@ CNBC • 6h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 17h ago
 
 RoboStore CEO Ted Haggerty discusses China’s advances in humanoid robots, America’s position in the global robotics race and potential robot soldiers on ‘Varney & Co.’
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fox Business • 1h ago
 
 CEO John Giamatteo cited warehouse robots, robotic forklifts, and medical robotics as key growth areas within its $950M QNX order backlog
 
-qz.com • 2h ago
+qz.com • 3h ago
 
 ---
 
@@ -148,7 +148,7 @@ qz.com • 2h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -162,13 +162,13 @@ TechCrunch • 1d ago
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
@@ -182,7 +182,7 @@ Reuters • 1d ago
 
 Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ The second World Humanoid Games is taking place in Beijing, featuring more than 
 
 📺 Sunrise
 
-👁️ 4K • 👍 38 • ⏱️ 5:49 • 14h ago
+👁️ 4K • 👍 38 • ⏱️ 5:49 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Robots Beat Usain Bolt, Then Fall Apart, Inside China's Wild Robot Olympics Chin
 
 📺 Republic World
 
-👁️ 80K • 💬 308 • ⏱️ 4:58 • 1d ago
+👁️ 80K • 💬 308 • ⏱️ 4:58 • 2d ago
 
 ---
 

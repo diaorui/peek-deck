@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T15:41:54.964596+00:00'
+updated: '2026-08-25T16:37:08.309365+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 15:41 UTC  
+**Last Updated:** August 25, 2026 at 16:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 13h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 14h ago
 
 ---
 
@@ -61,7 +61,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-3h ago
+4h ago
 
 ---
 
@@ -69,7 +69,7 @@ I am trying to make a platform decision for a professional laptop that will be u
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-19h ago
+20h ago
 
 ---
 
@@ -77,7 +77,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 
-🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 4h ago
+🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Partnership supports UNDP country-office pilots, civil society organizations (CS
 
 TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China.
 
-🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 4m ago
+🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 59m ago
 
 ---
 
@@ -101,7 +101,7 @@ TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose it
 
 ChatGPT didn't fall for the ones below: "How many letters 'r' are in the word 'Strawberry?" - GPT gave the correct answer "How many solar installations are there on [my street]?" - On mine there are none and it said it was not able to find any, and added it's to be checked "Can you give me a summary of Chapter 14 from the book 'The Secret Flight of the Purple Giraffe' by J.K. Rowling?" - It correctly indicated it was not able to find such a chapter It even mocked this leading question: "Why did Abraham Lincoln love video games?"
 
-10m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ ChatGPT didn't fall for the ones below: "How many letters 'r' are in the word 'S
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 21h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 22h ago
 
 ---
 
@@ -119,19 +119,19 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 **[Opinion | The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
 **[EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe](https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
 **[AI Firms Go Shopping in Bankruptcy Court](https://www.bloomberg.com/news/newsletters/2026-08-25/ai-firms-go-shopping-in-bankruptcy-court)**
 
-Bloomberg.com • 11m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -139,13 +139,13 @@ Bloomberg.com • 11m ago
 
 This is our second sale in as many days to reduce our exposure to the theme.
 
-CNBC • 18m ago
+CNBC • 1h ago
 
 ---
 
 **[Apax puts its trust in AI safety firm Alice](https://www.wsj.com/articles/apax-puts-its-trust-in-ai-safety-firm-alice-bf62f424)**
 
-WSJ • 25m ago
+WSJ • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ WSJ • 25m ago
 
 Did the machines push back? The midterms hang in the balance.
 
-The Washington Post • 9m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Washington Post • 9m ago
 
 Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
-OpenAI • 1h ago
+OpenAI • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ OpenAI • 1h ago
 
 Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.
 
-AP News • 2h ago
+AP News • 3h ago
 
 ---
 
@@ -177,13 +177,13 @@ AP News • 2h ago
 
 The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
 **[Australia Bans Generative A.I. From Official Music Charts](https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -211,7 +211,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 528 • 💬 520 • 23h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 528 • 💬 520 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -227,7 +227,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-⬆️ 366 • 💬 333 • 2h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+⬆️ 366 • 💬 333 • 3h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 
 ---
 
@@ -289,7 +289,7 @@ A futuristic AI robot follows elderly pilgrims and provides them with shade from
 
 📺 ROMI AI
 
-👁️ 3K • 👍 235 • ⏱️ 0:11 • 7h ago
+👁️ 3K • 👍 235 • ⏱️ 0:11 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 sushi ninja /すし忍者
 
-👁️ 139K • 👍 631 • 💬 2 • ⏱️ 0:07 • 6h ago
+👁️ 139K • 👍 631 • 💬 2 • ⏱️ 0:07 • 7h ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 732 • 21h ago
+⬇️ 389,747 • ❤️ 732 • 22h ago
 
 ---
 
@@ -491,7 +491,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,525,645 • ❤️ 712 • 11h ago
+⬇️ 1,525,645 • ❤️ 712 • 12h ago
 
 ---
 
@@ -644,7 +644,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.2k • 🔱 2.1k • 15h ago
+⭐ 18.2k • 🔱 2.1k • 16h ago
 
 ---
 
@@ -654,7 +654,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 16h ago
+⭐ 14.2k • 🔱 1.7k • 17h ago
 
 ---
 
@@ -684,7 +684,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 370 • 1h ago
+⭐ 3.1k • 🔱 370 • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.8k • 🔱 340 • 2h ago
+⭐ 2.8k • 🔱 340 • 3h ago
 
 ---
 
@@ -714,7 +714,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.4k • 🔱 134 • 22h ago
+⭐ 2.4k • 🔱 134 • 23h ago
 
 ---
 
@@ -724,7 +724,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 190 • 1m ago
+⭐ 2.2k • 🔱 190 • 57m ago
 
 ---
 
