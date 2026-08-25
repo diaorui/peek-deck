@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T11:27:26.252576+00:00'
+updated: '2026-08-25T11:56:07.829822+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 11:27 UTC  
+**Last Updated:** August 25, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,262.92
+### $79,272.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +14.4%  
-**30d:** +24.3%  
-**90d:** +7.7%  
-**1y:** -29.1%  
+**24h:** -0.1%  
+**7d:** +14.0%  
+**30d:** +24.0%  
+**90d:** +7.4%  
+**1y:** -29.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Rank #1
 
 **["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Rank #1
 
 There is a lot of gold left to be mined. Bitcoin? Not so much.
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ There is a lot of gold left to be mined. Bitcoin? Not so much.
 
 Don’t time the market embrace it.
 
-13h ago
+14h ago
 
 ---
 
@@ -145,29 +145,31 @@ Don’t time the market embrace it.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
+**[Bitcoin has just wiped out three months of losses in 1 week](https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html)**
 
-Bloomberg.com • 1h ago
+The bitcoin rally continues.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style](https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html)**
+
+Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.
+
+CNBC • 31m ago
 
 ---
 
 **[Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026)**
 
-WSJ • 1h ago
+WSJ • 35m ago
 
 ---
 
-**[Bitcoin Extends Rally, Crossing Above $80,000 -- WSJ](https://www.moomoo.com/news/post/75214296/bitcoin-extends-rally-crossing-above-80000-wsj)**
+**[Bitcoin’s surge above $80,000 was driven by short covering, not excessive leverage](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)**
 
-Moomoo • 1h ago
-
----
-
-**[CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy](https://www.cnbc.com/2026/08/25/cnbc-daily-open-china-bitcoin-dragon-ball-z.html)**
-
-New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
-
-CNBC • 5h ago
+CoinDesk • 59m ago
 
 ---
 
@@ -187,20 +189,6 @@ Euronews.com • 21h ago
 
 ---
 
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
-
-Finally, a killer use case
-
-Financial Times • 1d ago
-
----
-
-**[Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000](https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000)**
-
-CoinDesk • 3h ago
-
----
-
 **[Current price of Bitcoin for August 24, 2026](https://fortune.com/article/price-of-bitcoin-08-24-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
@@ -209,11 +197,25 @@ Fortune • 22h ago
 
 ---
 
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 1d ago
+
+---
+
+**[U.S. widens Iran sanctions; Bitcoin tops $80,000 - what’s moving markets](https://www.investing.com/news/economy-news/us-widens-iran-sanctions-bitcoin-tops-80000--whats-moving-markets-4874596)**
+
+Investing.com • 29m ago
+
+---
+
 **[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 20h ago
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -240,6 +242,14 @@ Finally, a killer use case
 A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
 
 ⬆️ 2 • 💬 0 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+
+---
+
+**[Audio-visual language For Bitcoin covenant use-cases](https://news.ycombinator.com/item?id=49432006)**
+
+Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
+
+⬆️ 1 • 💬 1 • 36m ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -277,7 +287,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 21K • 👍 1K • 💬 247 • ⏱️ 39:07 • 8h ago
+👁️ 21K • 👍 1K • 💬 247 • ⏱️ 39:07 • 9h ago
 
 ---
 
@@ -287,7 +297,7 @@ Bitcoin ripped higher last week, but mainstream Wall Street media is telling you
 
 📺 Ross Givens
 
-👁️ 3K • 👍 104 • 💬 28 • ⏱️ 1:00 • 16h ago
+👁️ 3K • 👍 104 • 💬 28 • ⏱️ 1:00 • 17h ago
 
 ---
 
@@ -367,7 +377,7 @@ SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and
 
 📺 Verified Investing
 
-👁️ 12K • 👍 788 • 💬 92 • ⏱️ 17:09 • 17h ago
+👁️ 12K • 👍 788 • 💬 92 • ⏱️ 17:09 • 18h ago
 
 ---
 
