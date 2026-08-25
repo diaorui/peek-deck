@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFRc2xWUW9YUVgzcGlQc255SUNYMjFIOHUyRFoyY091c3JHN0hxbHVYWWFBMFBpRldnckM0akd3RzQybzd4Z2hBSHdDeW0wd01GUkNSc25RZDl6M0wzQk5YSnJvcHluMUItdHdoNjBNY1R5M2RhT1JVaGhxdm1kcjM3ZERfOVZERG1JZURhUExoT0pLaE1UNg?oc=5",
-      "pub_date": 1787591700.0,
-      "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
-      "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
-    },
-    {
       "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
@@ -23,6 +13,46 @@
       "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html",
       "image": "https://mmx.prnewswire.com/media/MS1974095/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA2905149&p=facebook",
       "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past..."
+    },
+    {
+      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
+      "pub_date": 1787451420.0,
+      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
+      "description": "Capital is voting with its feet."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMUx0V0kwUjdkMUJoTzlMUWZiTVA4MGZlUmRLRTNKZWY0cmRPSGJRQXc1M3B0ZV9SdEpxbVhtNGFZVU9FRWhNLUtHRW5hNjU1cXhyOEk2cGxrNW1GVzhaQXhWZEhPXzVaVC1iV2lDQWtzYzd5dy15Tl9xU2JPNVE3LTAzbGpoRzc5eGpxczFTWjNnMHRCNjU1TmUza3dzSUpiNkpmYjA5SnNaNzhJR1lsREpObFhsemxvVVg4bHRtREhBTUNjUDY2Y2JLV2h2N1pveXd6dnBpN2ZJcVR5Xzcta0JsZ2FUYk4ySUZ0eWwzeGJhUE5sSHc2TE9yTkFOZjBvbmRYNkh6MXJ5a3d3emc?oc=5",
+      "pub_date": 1787661218.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/317B38E04EC0461506CC2B542939F20BAE4E76C563803E23398C32CE1B5CA348/subgraphmysterio/resizefill_w1200_h794;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "description": "Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET."
+    },
+    {
+      "headline": "Bitmine Is 187,000 ETH Away From Owning 5% of All Ethereum, And It Just Got a Lot Closer",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOU84LXVQOUl0YWxwXzJmSU4tbjFidk5tYVpCdDZqZmJVeEpZbjJ0UzRHQURkZWNhajN5M0JxcjJCbzlDclYtMTRXUFBlM2JEVnI3eEREa0gyN3FTaE9vV2lWWHVEYzlTbnp1NVExMk8zYlZBSUhDWnowS2dkc3YwUmRTZmJwTjNSdGF1emliTW9lRzQ?oc=5",
+      "pub_date": 1787659659.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-187-000-eth-away-120739851.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0072e980f3964a85de7be9479ebdaa8171d614673b9a651c4c2dd67ca08505ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F2be95df24dc3ea8ebdbea9d95a3d5b8a",
+      "description": "In the latest Ethereum news today, Bitmine is 187,000 ETH away from owning 5% of the entire Ethereum supply, and last week\u2019s buy closed the gap fast.The company acquired another 32,447 ETH last week, a purchase worth roughly $81 million, pushing total holdings to 5,847,611 ETH valued at around $15 ..."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Prices Fall Back After Crypto Surge\u2014Where They Go Next",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZ0d082QkVoMzhpMEZFSDRsSkJ5bzdfQ194bm16X0ctUDdMMnZTdW9NRjRhTXVpOXU2LThqdWt2NlhPQ3lockhRbktucWpGNmJfQWExb0pZS09KZjFnY0psMDBINmY1TkxjSjg3YTNZRjdWT09IWnVqR01DcGxzcFd4ZU1HNHV6?oc=5",
+      "pub_date": 1787662080.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say",
@@ -45,6 +75,26 @@
       "description": "XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here\u2019s which crypto could hit ATH first."
     },
     {
+      "headline": "Current price of Ethereum for August 25, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WeEc3emdnQU1oNlltakd3NkhOT2hkUjJ2bk9DTjBaZmFiYW9qa25jQWhwUGtETUhpQ1JtSVhNZkZhczVReHJQZlR3WTdGem5lVjUwWlJVWE1YZkpRYVpicHVkQmxiX3FP?oc=5",
+      "pub_date": 1787661876.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-08-25-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-25.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2pTdUczUnhjYURPT0F0eTFDekZxbktWTE9LaXp6Tktzb2p5blRvQ3J3bk94QVZSaGJVMkRqOXo0dWk2MWNaZklFMjlIbkhyQjlucW9YTmc3cF9FbVhqX3UycnpqOXZUeEVuR0tQaTZKZXMwUHQ0SEJfSVREUlo2MVVsV1hVSXNXakU0cTM4YzJiTzlVc2xtekdicVJrREVQeXJVeHdmSWpyUzI5NTItZVdDM1E?oc=5",
+      "pub_date": 1787659435.0,
+      "article_url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -53,58 +103,8 @@
       "article_url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-etf-bull-rally.jpg",
       "description": "Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze."
-    },
-    {
-      "headline": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmZNTEc1OVpMX2xFYjBQUjE4Y0t5N1VPYmpGNWlnMXlpdHhEU3BVOXRsT29JYzV2TW5QaWMxRU1vVkxyVWlYeGpkZDgxX2ZubGk5S0hOZXk0bEsxMXNLSm4xSGJNQng5RWw3Q1k0cjRieGRxVnFPZEtXT0lQUHJHbXRaVEVsODBDUFYzYzVRWWZlVTNwUzVSeGJZYXhXaHJIZGRRRDhKNC02dU9SMUZRc2hvbjJfUmM2ZFBNWVhjVkdwWnk2VHh4MkRCWQ?oc=5",
-      "pub_date": 1787552853.0,
-      "article_url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNTVtN2hYX2MwckF2dmpDc0ZzV1RhNFcxMFB4YWE4dktRQ01WSzBKNUVNV1hERUI0MHIwN3lBMXIwZllaRk9vVU9CMWJ0dThWRmgzVnRoSk0xZWN4UlhJdktndVRIdFJBM1ZMOVV1SnNSbzN4bEs3dW1PTGRPb0pyb3M2cE91TUM1NmZYeUV4NGhmbWQtdW1KTlRMYWNVTFN6dEh1QjFPbHZ2Vzd4ZHNXM0FnNWdjbEhWNFlSMi1fV2t2Y3Mya3BZbVhPcXJxdU5qalV2ZlRKOUZBX0xtblNXV3cwN0NLaHowbTFV?oc=5",
-      "pub_date": 1787493225.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:a41465bdf094b:0-arthur-hayes-calls-ethereum-foundation-a-bunch-of-jokers-in-a-blunt-take-but-is-bullish-on-eth/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it \"a bunch of jokers\" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc\u2026"
-    },
-    {
-      "headline": "New Crypto: Pepeto Announces Its Presale Passing $10.8M Following Shiba Inu Success While the Ethereum Price Prediction Targets $25,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbWc3cFdtMVU1c2dHSk5ralhFWnNES3ZvMTNRUkNXS2p0NzZUSGc0WlNVS2ViTEcteWdIczN0cVZMZ0VEZkRsTkstYVM4NFZnZDRZZThlelUyVTdxTU5LZlgtZlZtSnZyY2ZIQmVuN0hIbklidDd0X1liNjUxS3N6ZVVNdUpBRzlJWFNGcHZUY2MzbzNKUy1ITF95OFFZYWRwNzFDWUVKb3lUenpleDd0dWtMUkptV2IzYmN6bGRyZTBRdHktTHhhbm9ZbURnVE5hMzVHNTJ6OGVJdUF1U0JuRkFsUFo5ZkdlaXZmQVdRODBfR19Od1kzNHYtUFYxbVZpa2VJTkFGSW1yZHJuZEhvRnVyWGVRMG5kcU9z?oc=5",
-      "pub_date": 1787589573.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000-1036487279",
-      "image": "https://ml.globenewswire.com/Resource/Download/9d548e27-bb73-4eaf-adcc-320c8d2707ec/pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000.jpg",
-      "description": "DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its..."
-    },
-    {
-      "headline": "ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUJ2bEVnREtYTHc0bVZkbGJ3cDdQdk9TM3hzXzFDVm9uWW1Vc0IxemZfdGNHWDFCMk1fUDhPeGJnWF9ta0IwSkJxWFJXX3oyUWhvZmZhLWFWRW5YWEpCbGh0WHMySXFTZDJJY3czb3VXMGVlWjFoZUdrVDg3OUZVOGYwZGN1RE5kbEl2WGVuQzhaUmRvYS1UU3BRYndsSXlyU294MGwySDJ4R3FjZFY0d0FueVlndw?oc=5",
-      "pub_date": 1787571600.0,
-      "article_url": "https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336958337/image_1336958337.jpg?io=getty-c-w1536",
-      "description": "Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target."
-    },
-    {
-      "headline": "Current price of Ethereum for August 24, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM0JuMEhlUUhuTnQzZFhaX19PSDh1QTlsbjJuTEx5elplRy1vYm9oLVdlb29sbWtJZmZxVEJHVW16NkJmU0NwVHdGRzdjUDNmOUFsTzJqdzJXazduN3U2SERmXzBBbzhp?oc=5",
-      "pub_date": 1787576400.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-08-24-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-24.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T11:55:57.241241+00:00"
+  "fetched_at": "2026-08-25T13:50:37.266427+00:00"
 }

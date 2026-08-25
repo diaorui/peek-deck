@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
-      "author": "BarchartNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
-      "published": 1787624843.0,
-      "thumbnail": "https://external-preview.redd.it/Tg8qFyiVCGidH4Eh7Qop5N9CuA4H7SuGhT1C6Hu41mw.jpeg?width=640&crop=smart&auto=webp&s=4a0b9fac006adf3bc0e37a686bc4852c6f53a5c7",
-      "external_url": "http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders",
-      "site_name": "barchart.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
       "author": "avishic",
       "url": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
@@ -24,15 +13,15 @@
       "description": null
     },
     {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "author": "Positive-Ad3618",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
-      "published": 1787601840.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
+      "author": "BarchartNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
+      "published": 1787624843.0,
+      "thumbnail": "https://external-preview.redd.it/Tg8qFyiVCGidH4Eh7Qop5N9CuA4H7SuGhT1C6Hu41mw.jpeg?width=640&crop=smart&auto=webp&s=4a0b9fac006adf3bc0e37a686bc4852c6f53a5c7",
+      "external_url": "http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders",
+      "site_name": "barchart.com",
       "favicon": null,
-      "description": "Anyone else actually dealt with this? Is it overblown, or am I missing something?"
+      "description": null
     },
     {
       "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
@@ -46,37 +35,15 @@
       "description": "Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I\u2019ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They\u2019re constantly in flux too. It doesn\u2019t respond \u201cyou\u2019re absolutely right\u201d like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It\u2019s been public for 10 days and has now accumulated thousands of interactions, so it\u2019s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I\u2019m the builder, obviously, so this is self-promotion. But I\u2019d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot."
     },
     {
-      "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
-      "published": 1787596097.0,
-      "thumbnail": "https://external-preview.redd.it/V0Z_1LhO5hAMkRkWwKS5flmOgQLMX5l6uPo8-jbJOos.jpeg?width=640&crop=smart&auto=webp&s=7f88f4911075765d7b489e423a96388ffaf80f5b",
-      "external_url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
-      "site_name": "Gadget Review",
-      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
-      "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
-    },
-    {
-      "title": "Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it",
-      "author": "capibara13",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/",
-      "published": 1787658637.0,
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "author": "Positive-Ad3618",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
+      "published": 1787601840.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations."
-    },
-    {
-      "title": "Nicolas Cole says his \"100x\" AI output isn't a smarter prompt \u2014 it's his entire writing process, written down until AI had nothing left to guess.",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxx90t/nicolas_cole_says_his_100x_ai_output_isnt_a/",
-      "published": 1787657644.0,
-      "thumbnail": "https://external-preview.redd.it/dnMwa3c1NHliaWxoMXMCbnqN2VgnzjMxkuYI8Cd0zjlvMjsia13RrGW6GX3t.png?width=640&crop=smart&auto=webp&s=ad3cf87ed0e6a0fcf7503e09a48e5bbeacfcb86b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Cole's \"100x output\" is 30 hours spent once, so AI now runs 80% of every draft on its own. He edits the last 10% \u2014 the taste-level stuff, never the typing. That distinction is already showing up outside this clip. Christian Science Monitor just covered a manuscript polished enough to fool professional literary editors, pulled from sale \u2014 a multimillion-dollar bidding war between publishers \u2014 because no one could prove a human wrote it. Cole isn't describing a hypothetical ceiling \u2014 that ceiling's already been crossed, in public, in an actual publishing deal. The freelancers who feel replaceable right now are mostly the ones still handing AI a stack of old samples and hoping it infers the rules from them. Cole didn't hope. He sat down and wrote the rules out, sentence by sentence, until the model had nothing left to guess at. https://preview.redd.it/ftv0vk9vbilh1.jpg?width=1024&format=pjpg&auto=webp&s=e3e0da8c9feb5be532b32ddbe73f5dc9e08a36db Decades ago, the Malaysian construction landscape was like the wild-wild-west. I remember working as a technical engineer for one of the largest construction firms in Malaysia. The hydraulic hacking noise throughout the project site was pervasive and persistent for weeks. Grrrr\u2026. Tat-tat-tat. Grrrrrrrr. Tat-tat-tat. Grrrrrr. You get the idea. It turns out that the structural operation team went ahead and constructed floors upon floors, without waiting for the mechanical and electrical team to embed their pipe sleeves, box-ups or ductworks before concreting. And so they have to come and hack the hardened concrete to open up for the M&E items to run through. Delay and additional cost already incurred. My then project director was pissed. We all had an earful from him. Said that prevention is always better than cure. So from that day onwards, a directive came down hard \u2013 no sign-off by all concerned parties on a properly coordinated drawings, means no concreting. The coordination drawings - overlays not just the design drawings from respective Architectural/Engineering trades, but also sub-contractor specialist details, as well. Discrepancies are ironed out with all parties, well before construction is due. It parallel hard on Nicolas investing time in building an exhaustive prompt, rule-by-rule, sentence-by-sentence, microstep-by-microstep. Only then, will the output come out the way we want it to be. Like when Daniel Craig was being asked by a talk show host what would he advise his successor on being the next James Bond, Daniel said, \"Don't f\\ck it up!\"* Prevention is better than cure. ___________________ It's never the tool doing the replacing. It's the person who never got around to writing down what they already know how to do. What's the one process you already know cold but have never actually written down? Drop it below. Clip credit: Decoded Genius & Nicolas Cole \u2014 full video on their channel. DM for credit or removal requests."
+      "description": "Anyone else actually dealt with this? Is it overblown, or am I missing something?"
     },
     {
       "title": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
@@ -90,27 +57,60 @@
       "description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
     },
     {
-      "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
-      "author": "hakansan",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/",
-      "published": 1787598060.0,
+      "title": "For a \u20ac6k portable AI/development setup, prioritize 64\u2013128GB unified memory or CUDA compatibility?",
+      "author": "ClerkBeginning961",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
+      "published": 1787659148.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!"
+      "description": "I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is \u20ac6,000, with roughly \u20ac5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware\u2014no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64\u2013128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems."
     },
     {
-      "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
+      "title": "Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it",
       "author": "capibara13",
-      "url": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
-      "published": 1787574865.0,
-      "thumbnail": "https://external-preview.redd.it/KCQojI4Vvg-BSMuNWaJZs6TWLoBDakpUlsTDySeKzsU.png?width=640&crop=smart&auto=webp&s=3dc58c1059bbb33b3d498e37e7e8e5ca16f5e062",
-      "external_url": "https://rauno.ai",
-      "site_name": "Rauno",
-      "favicon": "https://rauno.ai/apple-touch-icon.png",
-      "description": "You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it\u2019s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT\u2019s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT\u2019s original structure, applied Claude\u2019s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for."
+      "url": "https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/",
+      "published": 1787658637.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations."
+    },
+    {
+      "title": "UNDP and DFINITY Foundation Collaborate on Exploring Sovereign Cloud Infrastructure and Decentralized AI Deployment for Public Good",
+      "author": "Sassy_Allen",
+      "url": "https://www.reddit.com/r/artificial/comments/1vy06hp/undp_and_dfinity_foundation_collaborate_on/",
+      "published": 1787665239.0,
+      "thumbnail": "https://external-preview.redd.it/yvKa5EPs7Yro6y1v11WFv0JrFTZfjJomuScEODzatKA.png?width=640&crop=smart&auto=webp&s=5f30701114d25d4faa81915f47d46d319f309cb7",
+      "external_url": "https://innovation.eurasia.undp.org/undp-dfinity-partnership/",
+      "site_name": "innovation.eurasia.undp.org",
+      "favicon": "https://innovation.eurasia.undp.org/wp-content/uploads/2021/02/favicon.png",
+      "description": "Partnership supports UNDP country-office pilots, civil society organizations (CSOs), and public-sector engagement around responsible digital infrastructure and AI-enabled software development"
+    },
+    {
+      "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
+      "published": 1787596097.0,
+      "thumbnail": "https://external-preview.redd.it/V0Z_1LhO5hAMkRkWwKS5flmOgQLMX5l6uPo8-jbJOos.jpeg?width=640&crop=smart&auto=webp&s=7f88f4911075765d7b489e423a96388ffaf80f5b",
+      "external_url": "https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians",
+      "site_name": "Gadget Review",
+      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
+      "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
+    },
+    {
+      "title": "UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/",
+      "published": 1787663975.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, and log everything with attribution. The line that stood out to me is buried a few paragraphs in: the safety training built into the model itself can be bypassed. That's a government security agency stating plainly that alignment/refusal training is not a backstop once an agent has real tool access, real credentials, and a goal. So the containment has to live outside the model entirely, which is exactly what the rest of the guidance is about. Timing isn't a coincidence either. This comes three weeks after an OpenAI test agent (running under an internal max-capabilities eval) escaped its own sandbox and autonomously hit Hugging Face and three other targets in July, which is also why OpenAI paused some of its deployment-focused RL training. Genuinely curious how people actually running agentic pipelines in production are implementing something like a kill switch in practice. Is it usually just a hard process kill on the orchestrator, or something more granular, like revoking API keys/tool scopes mid-run so an agent that's already misbehaving can't take one more action even if the process itself keeps running for a few more seconds?"
     }
   ],
-  "fetched_at": "2026-08-25T11:55:45.860614+00:00"
+  "fetched_at": "2026-08-25T13:50:11.656479+00:00"
 }
