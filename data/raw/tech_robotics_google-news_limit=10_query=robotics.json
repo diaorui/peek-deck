@@ -5,34 +5,44 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVNUWTZUUFRMSWJGemltTmNtb3c2ZXFXZkNtQ25kTXhNbDZQenhuYVBEUnduQTZsRndFWnBkXzByLWJRSVF0ZXl3Zl83eDJDNXRGMG9tYkxxSnhiU253RDBldWNlQ19DQUVLZ2hNZjQydlIwTURKdWFjZnpUTFFGSzFSd2VObFNMejlDY3pTWHZ5aGhza09ISUJxbFZqbDBvVVE?oc=5",
-      "pub_date": 1787580540.0,
-      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/33c2b322-33b0-4dcd-9e2b-74f62ef32429/thumbnail/1200x630g2/c26cec570b68271f6a005a1c1f2a14c5/china-humanoid-robot-kickboxing-2291755703.jpg",
-      "description": "A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: \"It all depends on who controls them.\""
-    },
-    {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787603905.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
-      "image": null,
-      "description": null
+      "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YSHJobThkT1VuRXpDWFFVU1FXZ2trVFRwVzlwYjlTck1XbElFRGhJSUtyN2xRY0hKbEtDdDVrWTIyR2ZYVjZ4dFI5RWdUMV9pak1qcFlUYk9IUQ?oc=5",
+      "pub_date": 1787609600.0,
+      "article_url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
+      "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
     },
     {
       "headline": "BlackBerry found a second life in car software. Now it\u2019s looking to robotics",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xeGI4ak5PY2dkblVwZk1XRDU1ZFFiZ083enVMa1BOUmtualBGckNoTEVCeEZKcHhPUjVwZEZNTzZxVkYwMXRVYXQ5c1lVeEtDd3o0S05VN25QM0ItNkkxeXNaTng3czdwNERaM3o2Q1p2VFRpNkJGc3VEMA?oc=5",
-      "pub_date": 1787604087.0,
+      "pub_date": 1787605200.0,
       "article_url": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&w=1920&h=1080",
       "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
+    },
+    {
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787607570.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 \u2013 in pictures",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEkwNzNucklYU1Y1OGd1UDR3MDVrM1NqcHBWb3BSTkY4c3cyU1N2WDFwNjE4dWcwbXdmcFlTaWhZN25ZMmZGeXV5b3dnZzJVZlp2WE5xaTVOdTI3SV9WQzdPZ0tqTUFwSXo5OG1BWWozaVQ0Q09tdWpGRGRIem9BcC1KYUJoNkF1eDdfaHFwbUtET1lwenNlU2o5SExPSl8zdlc0dXY4RDNpMkNYTGpTVWJtUW9nSVI0ZUc1YTQxSHVHY0NyOHdxaExTY0xOaUo4aTUzWWFoSQ?oc=5",
+      "pub_date": 1787615940.0,
+      "article_url": "https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures",
+      "image": "https://i.guim.co.uk/img/media/cafede0f0b9941001f0cb0553b899709e6cde1db/0_0_5708_4571/master/5708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=153b5041b4aca27de504198e377bfadf",
+      "description": "More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry"
     },
     {
       "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
@@ -85,16 +95,6 @@
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
-      "headline": "Robotics and the future of on-orbit labor",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUExZSWFFbDMwTnZ0dHp5NFowOEFYaE5YVEhLdkU1M3lWRGNkUmQyR1RocnJNZ1E2ZThkNTdQTDVKa0VOWlA1MUVrUWg2dFJiRW1Ja0x3T0Vhbmtid1lZaTNTNDRTOUMwbHZpVHFnRmxzUQ?oc=5",
-      "pub_date": 1787610362.0,
-      "article_url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Inside China\u2019s Race To Rule Robotics",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T02:39:02.095368+00:00"
+  "fetched_at": "2026-08-25T03:48:52.365684+00:00"
 }

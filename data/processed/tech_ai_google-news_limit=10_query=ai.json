@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
-      "pub_date": 1787594955.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,22 +15,42 @@
       "description": null
     },
     {
-      "headline": "AI-generated endorsement depicting late activist outrages Hawaiian community",
-      "source": "Hawaii News Now",
-      "source_url": "https://www.hawaiinewsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3JRM3QxY3JXaFlSOFltSmY0c21kcDBlWHVTamNGcTJOZ2xBdXl0MXl4eDBBcFNHT1FnVUlvVEJLT1lSNHQ4MWJsN0xraW8td1p0U3piekxIZ0lrTTJDaGN3QjBPdE1EZlFOQndwRE1ZRlRSSm04S0JBc1RSUFB1X3F4aGctQW1PSUF0ZmxQV0ZjZGljM2Ixak8zWUkxTmZ5N3ZXazc2V2Y3OF9Uc3lIVUdEUTNuWWhkS1HSAc4BQVVfeXFMUGFPcUdGMkxBVjRrdnp0OVVUQ0FLellsZHdmVVlla3JMVUt0SnFUWXFCV3AyckZPSWpKVktveHE3MEVsZmR0aVdCU1lhRnJpYU8tRktCQ1NYdlFCNGZheTg2Z1ZFMnBXT0o0RjR3czNHQ3hIb09WWjB4SUJyTUt2dE1KYkZyUEEydzR6MU9ULXM0VktjZFNsYW1iYnNRM3ZFRVphaWtfdnZTYnZNMmZfSlYxaW5XZUtjYlk2a3ZRQjQwc3gxNmZGbWx2N2doekE?oc=5",
-      "pub_date": 1787622540.0,
-      "article_url": "https://www.hawaiinewsnow.com/2026/08/25/ai-generated-endorsement-depicting-late-activist-outrages-hawaiian-community/",
-      "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/H72UYXUIAFF6NFRLQSJYSHG3QY.JPG?auth=e0fd9eaaeb440a4986bb82f867e6396d2b25b0d27559dc2184efd816b677f0dc&width=1200&height=600&smart=true",
-      "description": "Congressional candidate Nathan Berning is apologizing after using artificial intelligence to create a false endorsement from the late Native Hawaiian activist and professor Haunani-Kay Trask in a campaign ad."
+      "headline": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+      "pub_date": 1787562118.0,
+      "article_url": "https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI giant Anthropic in talks to lease massive Bastrop County data center, sources said",
-      "source": "KXAN Austin",
-      "source_url": "https://www.kxan.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlVUWGdCV3hiNFdydVphZlpwYXctSHAzRnZ3SzNMTmVxQm9QcVpkS0F4WVdQcGtYb1pGNXdnMjRHVVlHUlBFZ2JRdkU4eV9pQWduaXlWV1lneXJkMFNrZkhmTmI1czhGOUhFbjJ1U1VOcXgzMFhMMjl0WnphbXFEMXZGSzNuU1VONDBrNXhhRHRGVEY2R0V1SFNDSV9GbnNRUDN0OVlzYW1EQnpiQU01NVJrYkU4MEF00gG-AUFVX3lxTE5takJHbTd3Y1FjNjg4SVl2dEJNdHp6b2ZySVVsbnlzZXFBZ0YwVHgwUmdvQXN0RmtQbEJfNzRoNVhCeWl4bWU0ZFliOE54TVZINHBmN2s4QVpRNHI0NkFIUWY0VzA3WWx2aHJmOThNSDRQYUNuZVpINU9CdVFaSnZkZVd0cVZBNUZDWkZVWjFfWjRLYkNfNG5WSFlDd01ZNmNzX2lQZ3Z0bFRiTVlIZk5oTVdrYzhRaXk0d1V4anc?oc=5",
-      "pub_date": 1787620966.0,
-      "article_url": "https://www.kxan.com/news/local/ai-giant-anthropic-in-talks-to-lease-massive-bastrop-county-data-center-sources-said/",
+      "headline": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWlhoM1hsTlFFU1Y1blFjS25lYnNKemdoWjMzSGM1NGRrdC05bHRHa3hiTnVwOW9fSU4wTUhCNkhlWHc2b014ZkdCVkZoNHhjY2ctMTZJUExiOXR5dnRlNzQ2NVBFYXdJeWVGWTZHMzd5Y2MxWXJjMHliUXMyR2l3OHhxWEjSAYoBQVVfeXFMTkY5eHZ1ZzlZUEl3Skt3SHJnTHBuV045QTR3aUJQWGJDMHQzRGstSklJYnU1Qmk3YXdkU29RcENjcERrSlVPMHhXWXhHVFJhMW43dUE1UW52Vk1pYlN6NVN2RUMzRUVGUnVCMnFiOEkzM2JocGFVNjN0YUdORWtURUVDMHFDRGhza25R?oc=5",
+      "pub_date": 1787626860.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108287624-1775513335373-NYIAS_04022026_DeVries-139.jpg?v=1775513990&w=1920&h=1080",
+      "description": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche."
+    },
+    {
+      "headline": "Watch How Korea's $10 Billion K-Pop Industry Is Turning to AI",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3BLZlRXV1ZuemFLOVd0V2hhcmMwbkZNd29GbERIZjdya3I1NVRLbEEzcW1XZGprQUstaHlqU195UDE3UGRiZHc1d21DdXRuY0QyakUwQlZmcm96dTZVb0pBMVNTLWJ0aU5zX01CMVppeGdmWGZMakxGRUQxTmVFR2VKVnd4cWV6dTMyOEZVQ3VxS3M3eERyR1BkMEs2cjlvY054cVdPY2VMeUh6clE?oc=5",
+      "pub_date": 1787628358.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-08-25/how-korea-s-10-billion-k-pop-industry-is-turning-to-ai-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Superintendent: Orange Schools entering into world of AI with \u2018baby steps\u2019",
+      "source": "Cleveland.com",
+      "source_url": "https://www.cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGNZcGtBcEZ4SXJmSXdERGRYVW1MdTZBbmpaY0FVTTVxampKS09pUldYbElqVGhNRHA5bWF5Q2hyZENoRGx4Y1c1NVM1bDAzSGRXelhSRHJ0U1ZvMEdrTGpwTTV3eHVienVUSlpWYWxiR29iLVlkUjd6a3hFVnJUMmpCUDVJRENrMGVHNWlPcF9Sa2FDU0I3RDhHMUNjWW9iYUViZ0VGN1UwaE5DdVRFVXlhaTUxb193NDJRcw?oc=5",
+      "pub_date": 1787627220.0,
+      "article_url": "https://www.cleveland.com/community/2026/08/superintendent-orange-schools-entering-into-world-of-ai-with-baby-steps.html",
       "image": null,
       "description": null
     },
@@ -55,44 +65,24 @@
       "description": null
     },
     {
-      "headline": "Trump Defends AI Data Centers\u2014Says Opposing Them Is A \u2018Mistake\u2019 And \u2018Smart Ones\u2019 Want Them",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS01oYVJIMXI3SnBQcEpIamZMVmFhMThQWWhWaHZvNnNIWWVQU2ItOHFpaHNPenlWdVljT251TmpLeFJDelJzWERiQlJmbndYbll4ZG4zcXNEX2htRWMyQ2theDgxeXRRQlk5MFJCNWxOVVFTeHBQdVV6YnIzSEpIT05zOEhVcHd1eEVtQ0VPeWZTZ05YckNhdmEyVy05a1N1WlZraHBlSWFGaDZSMjRBLUg5TWlMcDNWQm9JSlc1Zm11YWh2NTBoUkZKeTlhTU5qQkVzY3BPWQ?oc=5",
-      "pub_date": 1787557182.0,
-      "article_url": "https://www.forbes.com/sites/siladityaray/2026/08/24/trump-defends-ai-data-centers-says-opposing-them-is-a-mistake-and-smart-ones-want-them/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8bf4c06c3d29908ffea795/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "The president's embrace of data centers comes amid growing backlash over their impact on communities and pushback from governors from both parties."
+      "headline": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjdXdnay1kRWtnRGxoUE03WjR2WDBlYlJpdWxnX3dHckw5dWNNQldWcDNhUjRfVXRVSFBRYld3NlRyU0xUaUJmd1dfNHdjdFNVSWc3VUdPeGJnQ2JfQnAyTWJPZkxiNkJUMjJVM1dVdENRM3dI?oc=5",
+      "pub_date": 1787563800.0,
+      "article_url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "image": "https://media.wired.com/photos/6a765908081b1adce8ee2226/191:100/w_1280,c_limit/080726-teachers-deepfakes-ai.jpg",
+      "description": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content\u2014and how difficult it was to find accountability."
     },
     {
-      "headline": "Opinion | MAHA activists urge Trump to reverse course on AI data centers",
-      "source": "MS NOW",
-      "source_url": "https://www.ms.now",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDZfTE94UzFPV2J1N3BBTURSeHlKazNRcGtZcDE0Z2JxM3VscGd4YUQ3cnVOSjU2eDZHRzhHY0NBeG1FREc4UlVMbmJGN0FMcUVUa2h5MHFjZndtX0RMTWtfZllhcWJZemhQdVBadmM5SmNnelkwX0ZqNkFBUjJhRW5WazV6MkNKQ0NxLW1scHJORVo1cVE?oc=5",
-      "pub_date": 1787607147.0,
-      "article_url": "https://www.ms.now/opinion/maha-letter-trump-data-centers-health-ai-artificial-intelligence",
-      "image": "https://www.ms.now/wp-content/uploads/2026/08/260824-maha-activists-data-center-zz.webp?w=1200&h=630&crop=1",
-      "description": "The president\u2019s push to build data centers has members of his \u201cMake America Healthy Again\u201d movement urgently pressing him to reconsider."
-    },
-    {
-      "headline": "The AI-related reason every billionaire suddenly wants to own a sports team",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qMFN6ZGhOd0xGaHA2WTVwYmpSSUZubDNfREcxYjlRWllzdmFPN3V1dERvd002Q1hxcmhud054MHZmVzVCaGlOQmZlSEhla05rMmZscmhWXzNyRnphTmZTYnFtdjFSU3BFRWxqVUk0V3pSUQ?oc=5",
-      "pub_date": 1787562029.0,
-      "article_url": "https://www.cnn.com/2026/08/24/business/sports-team-buying-spree",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26224547809465.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights."
-    },
-    {
-      "headline": "We're downgrading 2 AI stocks \u2014 plus, what we need to see to turn more positive",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckZRUFU1V3ZKQ1dKNVdwc0FTQkpObDVEbmsxVVFueUZKRlIyakliREFIek9hQW1vMzU5NzlaLWZyVlNVSWFoSlNyY3pnRWt4R2dRYjkwNWhSaE1JbTlvckxBVHlwOERSdm1rdkltOE1IUlNXSW5ieFJCRnpLX3VXR2N2SV9hRmpHUGlJWkhPZ2pPcnJMYnc?oc=5",
-      "pub_date": 1787596856.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/were-downgrading-2-ai-stocks-plus-what-we-need-to-see-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353365-17875852502026-08-24t152601z_2128899164_rc225na4wxtj_rtrmadp_0_usa-stocks.jpeg?v=1787585353&w=1920&h=1080",
-      "description": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading."
+      "headline": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1uQlo3ekQxaUEwY0ZuRGhjNkQxcHhwcFpKZjhJeWNwaHZaZS15Um1vaXZvWFdITnkwR3g1a2xidW9MN3hxMDJGbGlLQXRmSWFFRmhac3B0RFI5Zkx4dHlxMmplNlU4V29RSmtfU3FlZEh3UTM2S0RDcXNDVXZUYk9YTnVSWmRDMjk5MUFaWW9BNGJDalNLMjJ0WQ?oc=5",
+      "pub_date": 1787607953.0,
+      "article_url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+      "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations."
     },
     {
       "headline": "WikiHow sues OpenAI for copyright infringement over AI training",
@@ -103,8 +93,18 @@
       "article_url": "https://www.reuters.com/legal/legalindustry/wikihow-sues-openai-copyright-infringement-over-ai-training-2026-08-24/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1abDNiV1R3b1JKQ01wRmJYVFdkMVVGempWd3hYQlFhRl9ZdG9ONjB0eXhNS2REdk9sZk43Q0V4eE9fa09KSm11UUJvck00eGNCWUFRdXZsLXVIU3dfbWNqOFNTekN6dmR3Z0JTTTdvZm1kbWxGS0ZJ?oc=5",
+      "pub_date": 1787584206.0,
+      "article_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
+      "description": "New on-silicon performance data measured by NVIDIA using real-world agentic coding trajectories shows Vera Rubin NVL72 systems deliver 30x higher throughput per megawatt and 35x lower token costs than NVIDIA GB300 NVL72."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T02:39:07.194358+00:00"
+  "fetched_at": "2026-08-25T03:49:00.646189+00:00"
 }
