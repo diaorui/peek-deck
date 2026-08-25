@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787604840.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
-      "pub_date": 1787585058.0,
-      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
-      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
-    },
-    {
       "headline": "Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
@@ -35,54 +15,34 @@
       "description": "A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: \"It all depends on who controls them.\""
     },
     {
+      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+      "pub_date": 1787603905.0,
+      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "BlackBerry found a second life in car software. Now it\u2019s looking to robotics",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xeGI4ak5PY2dkblVwZk1XRDU1ZFFiZ083enVMa1BOUmtualBGckNoTEVCeEZKcHhPUjVwZEZNTzZxVkYwMXRVYXQ5c1lVeEtDd3o0S05VN25QM0ItNkkxeXNaTng3czdwNERaM3o2Q1p2VFRpNkJGc3VEMA?oc=5",
-      "pub_date": 1787604086.0,
+      "pub_date": 1787603852.0,
       "article_url": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&w=1920&h=1080",
       "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
     },
     {
-      "headline": "Robotics and the future of on-orbit labor",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUExZSWFFbDMwTnZ0dHp5NFowOEFYaE5YVEhLdkU1M3lWRGNkUmQyR1RocnJNZ1E2ZThkNTdQTDVKa0VOWlA1MUVrUWg2dFJiRW1Ja0x3T0Vhbmtid1lZaTNTNDRTOUMwbHZpVHFnRmxzUQ?oc=5",
-      "pub_date": 1787610362.0,
-      "article_url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
-      "pub_date": 1787599433.0,
-      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
-      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
-      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
-    },
-    {
-      "headline": "ADNOC, a major oil and gas producer, could use Micropolis robots for hazardous tasks",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNERCQ3NOTHpWMjFUVnVaVVdUdFBqN2RCQlVvRlhMajByMkR6ZEtxRjZSRjg1LUJTMllMNTZ1S0pBRnJ5aGd3dXB3UzZ4Mm0wYjJwd2FwdjBORTgzOG0wZnJRU19yek1hMnZVWmdtTXRrTmF2R1B4VW1haWc5MlYxMjctZzU2WXQ4T25jc1pSZjNLS1UzSGEwRHFwWTVmNS15VlJRZGRoVlJZa0x3eG9vc0tzUjEzbnVRUE00?oc=5",
-      "pub_date": 1787602500.0,
-      "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-robotics-becomes-a-robotics-and-physical-ai-solutions-alte0vdfox60.html",
-      "image": "https://www.stocktitan.net/news_covers/Micropolis_Robotics_Becomes_a_Robotics_and_Physical_AI_Solutions_Provider_to_ADNOC_1496559.webp",
-      "description": "Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas."
-    },
-    {
-      "headline": "The \u201cGPT moment\u201d for robots is already here. It\u2019s just not in your home yet",
-      "source": "The Next Web",
-      "source_url": "https://thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VZTdEamcya0lvcjNPR3BHdVlpUDhjai04aklXRTEzWm5lTUdRZ3VFd1BYWFJCMFpRSXJwcjY0SktrNDhrTUZXc0VxSzVPN1F3N3VPMjRDQlV3QTAxYzdEbG5BOUNBeC1mNnJoY0FwRGpUd3BLUW53?oc=5",
-      "pub_date": 1787589918.0,
-      "article_url": "https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta",
-      "image": "https://media.thenextweb.com/2026/08/Abhinav-Gupta-Skild-AI-Anna-Tutova.jpg",
-      "description": "Skild AI is valued at $14B and already has hundreds of robots running in factories. Co-founder Abhinav Gupta explains why the robotics \"ChatGPT moment\" is real but will arrive one deployment at a time."
+      "headline": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 \u2013 in pictures",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEkwNzNucklYU1Y1OGd1UDR3MDVrM1NqcHBWb3BSTkY4c3cyU1N2WDFwNjE4dWcwbXdmcFlTaWhZN25ZMmZGeXV5b3dnZzJVZlp2WE5xaTVOdTI3SV9WQzdPZ0tqTUFwSXo5OG1BWWozaVQ0Q09tdWpGRGRIem9BcC1KYUJoNkF1eDdfaHFwbUtET1lwenNlU2o5SExPSl8zdlc0dXY4RDNpMkNYTGpTVWJtUW9nSVI0ZUc1YTQxSHVHY0NyOHdxaExTY0xOaUo4aTUzWWFoSQ?oc=5",
+      "pub_date": 1787615940.0,
+      "article_url": "https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures",
+      "image": "https://i.guim.co.uk/img/media/cafede0f0b9941001f0cb0553b899709e6cde1db/0_0_5708_4571/master/5708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=153b5041b4aca27de504198e377bfadf",
+      "description": "More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry"
     },
     {
       "headline": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
@@ -96,15 +56,55 @@
     },
     {
       "headline": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVpLUTlBQ1BNVlBMbE5BNDVwcWhDa3hQNEFOWWZqQnFEYzR4VnhGSGE5UkVPUGszbUJHbzZwRk5sckZEZ3hDYl94WmJ3UkFoR0ptTXU5U2JMbGk5N21ESzVSNjBzakEzeG56dWViNmpYWkxsek5ZU2ZMOXV4aFd0MjRzUkxQckZHdS1ZSlB2bXFhOG1NdkwzckRBTHR5MEdQUGNNWUJjbmFlcDFnQUgxeExRVlNjUUlYZ3BYa0NOdEVsZ2xCVV9V?oc=5",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3pua1hCWWhhUWhsaW1iLWtzdlFybVowR3lRUlRXemk2bV92dnJlVXRIbi0tVG5KbFIydS0tQUcxVE1UdEtaNW1iazZWbjZHWTJEeFpMUExScVRjZmJ6WklFOUNHSWtZbWxmMUZ6a3ctRk9aVEpiWWtEUl9YYXoyVldudmplaDFJMHhXZ3JGaw?oc=5",
       "pub_date": 1787582164.0,
-      "article_url": "https://247wallst.com/investing/2026/08/24/xpeng-sinks-7-as-q2-miss-overshadows-6-3b-robotics-valuation-nio-drops-4-tesla-slips/",
-      "image": "https://247wallst.com/wp-content/uploads/2023/04/Xpeng-G6-4-2023.jpg",
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a245c5090fe79dadade3e63fba3fbf5a4c381d0c4bb1db19871a9fe5d47c81e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a61aaa828ab1bb61666bce552e8c313.jpg",
       "description": "XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure."
+    },
+    {
+      "headline": "Alibaba and Tencent support XPENG's raise of over $900M for humanoid robots",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWxkdjRtN0doMVR2RUtfMlpuemxoeUt3cTFxd2h3UFpyQmtleHlsZjlKaDd4SGlRUkVUYkgxSWNmbThSYkJYNE1SSGVBMFpST2lUUHVpUmtfTHN6X2t2dmdGZlROYjBaZnpfaFo0ZGQ5azJpR2V6ZlAwMm1haExCZ1VaMDZzR1RvRU9MTTB2aWNEVjFsUUdMakRYRHRmb3BCMlRZWHctVEl2UWFoSkFONEs3bExDZVROaXR2em13?oc=5",
+      "pub_date": 1787566080.0,
+      "article_url": "https://www.stocktitan.net/news/XPEV/xpeng-robotics-business-raises-over-us-900-million-at-a-post-money-7uyylw1p98v1.html",
+      "image": "https://www.stocktitan.net/news_covers/XPENG_robotics_business_raises_over_US_900_million_at_a_post_money_valuation_of_over_US_6_3_billion__1496209.webp",
+      "description": "IRON has 76 degrees of freedom and three Turing chips delivering up to 2,250 TOPS for autonomous tasks; mass production is expected by end-2026."
+    },
+    {
+      "headline": "Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFdRODdHTFBxUzNMZ0xQbXpiRTI2aWFSQzBLLVI0SC1ad2p0RS1ab1JqcDFucE55VHJjdDJ2TFJlenV5a0NwNzZMZExwVVVQNWFFZG90ZVBqbDJtSTR5VVlQa1FxSnN5VlpZUS1feFdXYjE0X1VrcnBKS0RzRUZFQ1RncTFCbkZDdm5obm9MUjFBWFd1NWNRb3E4TnpISlJfNlhENEpIYw?oc=5",
+      "pub_date": 1787599433.0,
+      "article_url": "https://www.businessinsider.com/amazon-tetromino-project-aims-to-fully-automate-delivery-stations-2026-8",
+      "image": "https://i.insider.com/6a8c8d471d1a1d028ba12675?width=1200&format=jpeg",
+      "description": "Amazon's Tetromino project aims to automate delivery stations using AI and robotics, significantly enhancing package processing speed."
+    },
+    {
+      "headline": "Robotics and the future of on-orbit labor",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oUExZSWFFbDMwTnZ0dHp5NFowOEFYaE5YVEhLdkU1M3lWRGNkUmQyR1RocnJNZ1E2ZThkNTdQTDVKa0VOWlA1MUVrUWg2dFJiRW1Ja0x3T0Vhbmtid1lZaTNTNDRTOUMwbHZpVHFnRmxzUQ?oc=5",
+      "pub_date": 1787610362.0,
+      "article_url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5",
+      "pub_date": 1787585058.0,
+      "article_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T22:54:12.841000+00:00"
+  "fetched_at": "2026-08-25T01:15:41.668919+00:00"
 }

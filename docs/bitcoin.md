@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-24T23:47:05.163402+00:00'
+updated: '2026-08-25T01:15:49.600316+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 24, 2026 at 23:47 UTC  
+**Last Updated:** August 25, 2026 at 01:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,725.56
+### $79,822.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +21.8%  
-**30d:** +20.6%  
-**90d:** +5.9%  
-**1y:** -28.6%  
+**24h:** +2.8%  
+**7d:** +14.8%  
+**30d:** +24.9%  
+**90d:** +8.1%  
+**1y:** -28.8%  
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
 
-11h ago
+12h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Then it drops back down to 62k by next week
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Then it drops back down to 62k by next week
 
 Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
 
-10h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ Amount of signatures for the petition against abolishing the one-year tax-free h
 
 I wonder why that is so?
 
-8h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ I wonder why that is so?
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-6h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I
 
 I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
 
-8h ago
+9h ago
 
 ---
 
@@ -151,33 +151,45 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 ## Google News: "bitcoin"
 
-**[Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html)**
+**[Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html)**
 
-Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
+Crypto’s true believers suddenly have a spring in their step again.
 
-CNBC • 9h ago
-
----
-
-**[Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners](https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51)**
-
-Barron's • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Books Best Week Since 2023 and Its Largest Dollar Gain Ever](https://finance.yahoo.com/markets/crypto/articles/bitcoin-books-best-week-since-220919390.html)**
+**[Bitcoin is less than 1% away from reaching $80,000.](https://www.moomoo.com/community/feed/bitcoin-is-less-than-1-away-from-reaching-80-000-117153408484965)**
 
-Bitcoin booked its best week since 2023 and a record dollar gain. See the levels that decide the next move.
+@AltCoin Daily 3744 Views|2 Likes
 
-Yahoo Finance • 1h ago
+Moomoo • 23m ago
 
 ---
 
-**[Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08242026-12066087)**
+**[Markets News, Aug. 24, 2026: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08242026-12066087)**
 
 The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
 
-Investopedia • 4h ago
+Investopedia • 6h ago
+
+---
+
+**[Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks](https://www.reuters.com/legal/transactional/strategy-earmarks-16-billion-cash-pool-treasury-operations-buybacks-2026-08-24/)**
+
+Reuters • 6h ago
+
+---
+
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
+
+Bloomberg • 4h ago
+
+---
+
+**[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
+
+CoinDesk • 12h ago
 
 ---
 
@@ -185,27 +197,7 @@ Investopedia • 4h ago
 
 Finally, a killer use case
 
-Financial Times • 15h ago
-
----
-
-**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
-
-CoinDesk • 11h ago
-
----
-
-**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-sets-used-buy-bitcoin-123143159.html)**
-
-Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
-
-Yahoo Finance • 11h ago
+Financial Times • 17h ago
 
 ---
 
@@ -213,13 +205,21 @@ Yahoo Finance • 11h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 9h ago
+Euronews.com • 11h ago
 
 ---
 
-**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+**[Watch Tether Co-Founder on Bitcoin's Bounce, Clarity Act Hopes](https://www.bloomberg.com/news/videos/2026-08-24/tether-co-founder-on-bitcoin-s-bounce-clarity-act-hopes-video)**
 
-WSJ • 3d ago
+Bloomberg • 1d ago
+
+---
+
+**[BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K](https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/)**
+
+BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
+
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -231,7 +231,7 @@ WSJ • 3d ago
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 8h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 9h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -269,7 +269,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -283,7 +283,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 296 • 💬 158 • ⏱️ 14:52 • 6h ago
+👁️ 7K • 👍 296 • 💬 158 • ⏱️ 14:52 • 7h ago
 
 ---
 
@@ -293,7 +293,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 67 • 💬 122 • ⏱️ 0:53 • 4h ago
+👁️ 2K • 👍 67 • 💬 122 • ⏱️ 0:53 • 6h ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 15h ago
+👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 17h ago
 
 ---
 
@@ -313,7 +313,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 16K • 👍 980 • 💬 264 • ⏱️ 1:18:20 • 2d ago
+👁️ 16K • 👍 980 • 💬 264 • ⏱️ 1:18:20 • 3d ago
 
 ---
 
@@ -331,7 +331,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 THE JACK MALLERS SHOW
 
-👁️ 2K • 👍 235 • 5h ago
+👁️ 2K • 👍 235 • 7h ago
 
 ---
 

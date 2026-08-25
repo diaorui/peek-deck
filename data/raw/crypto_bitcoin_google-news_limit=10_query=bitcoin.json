@@ -5,37 +5,27 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Crypto extends gains after biggest 3-day rally since 2023",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2taT3BZSUl5LTZSSVJ5ZEtlSjR1N1NsdmRldjNBaWhfeWtBSVBqR0xFR0pKVjZLUW50RkF6VnVBMVJLWjZrYVhUZEpXakg2Q29jQXA3R3BQQ2hla1ZWZ0VHd05Jc1ptdmZhWTZxazFJRWZPME1lVTZfQzNoV1c2OFNjcGVTaFBnQ3dOVFVSWEV4RXhTNEh1YzVB0gGfAUFVX3lxTFA0RUhQT3dVbUo4OTA3azBmRHFRV1lCYXhlb2pJQzRDV2o5N2lpSWlwamoyeGRLclFReHJMZ1V5NldQUTNvQWhpc1dCLTAwNVFMUkpvRmhyVG1qbjVYZGxpdjExdHh6SndiU2dBNzNIMm1lS1VRYnV2QXc4cmo3RW9IdjdRS0dhdjRRbjBxRElaamV5clp2eEpTSVJWNU40OA?oc=5",
-      "pub_date": 1787580174.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108292486-1776347446692-gettyimages-2226264533-img_9818.jpeg?v=1776347467&w=1920&h=1080",
-      "description": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range."
-    },
-    {
-      "headline": "Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtSXlHQjdVa3NZV28zWVROYnAzU2pabU96TFFETGVEamZXbzBzRXlBYUFzbjJ6b3NGTmVmRHZ3dlhXcjhMVUZwNGdTYU1rQnZMdU1wd19TVEN0azAxV1dyTVY2WWh3eVJ0bHlwangwcEUtNUpsTHVyZG00NEo?oc=5",
-      "pub_date": 1787607780.0,
-      "article_url": "https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Books Best Week Since 2023 and Its Largest Dollar Gain Ever",
+      "headline": "Bitcoin\u2019s Rally Leans on Fears That Fiscal Strains Are Mounting",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUxHdW03dWpmMjlBRkkxdE5VR3VZS2lOUFlIcWtkaTltMjJVQzJUenljY3lmR3dtR05tLXJDODZLQXpKQ2NPbFlYeGRiU3o1eXNWUjRqS1lPNDJabUIzeU1iTXAybTdUcU9iSFRWeG5RWVJIYUNzSWk3b0x6eHJsRFFkUEU1RW5HMXpRY1d3NWVIdFJwWWJkSXd3?oc=5",
-      "pub_date": 1787609359.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-books-best-week-since-220919390.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/593D3B41F40311F213DB70D674BD6C8E2372B578A412514B35F8197283A2436E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F16ac789813e71577b2b45b8f02104f3b.jpg",
-      "description": "Bitcoin booked its best week since 2023 and a record dollar gain. See the levels that decide the next move."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTFDZWg1b0ktRHpYVU9nRDd1ZUIzSjJDa04xZzlhelgyQ0ZvVFVWWFowd1JyWjR1NlZHcDQzNGZnVFY5UHJWMWI1VTloTHlETEIyYk16aDZBbDlxd25JQnotN2ZIUUlPVkpUcy01b3loVFhpbGg4eDhvYkNmQTc4bGdtOXp0RDZ5MWFucnF5dmJ0Znp0R0NmcEY4SzZGZw?oc=5",
+      "pub_date": 1787508000.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/AE3B5D59BE40597CDAAB09EA751D5497A5FB360CE6D298CF08DC48F5050650D2/subgraphmysterio/resizefill_w1200_h863;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F571443e3f808ddc400c3c3a1b9aaca25.jpg",
+      "description": "Crypto\u2019s true believers suddenly have a spring in their step again."
     },
     {
-      "headline": "Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000",
+      "headline": "Bitcoin is less than 1% away from reaching $80,000.",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0tXaGsxVjRWM0pPWndLdzF4Q0hSU0ltVVVDejBNMzNTUmpHdmtmcFI3SzFwSzBmMUdaMUxMVEV1WmFKdU9NN2IwcFdQQm8zd1kxMUZQcmZFV0JsVzV5cHZJaU16NkNucXM4Y05kNWZaOHAxYU00ajlLaDQxakp5QXpxZjJhWVJaQWVDZTEzQkdKNEo0aVdRSmtUMkExbFJwWExXXw?oc=5",
+      "pub_date": 1787619148.0,
+      "article_url": "https://www.moomoo.com/community/feed/bitcoin-is-less-than-1-away-from-reaching-80-000-117153408484965",
+      "image": "https://ussnsimg.moomoo.com/sns_client_feed/105928452/20260825/public/NN-DataMarket/8515/2092050827594863096-photo-0cf027d4f3c3b6db2be32ec4ab6f82636.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "@AltCoin Daily 3744 Views|2 Likes"
+    },
+    {
+      "headline": "Markets News, Aug. 24, 2026: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000",
       "source": "Investopedia",
       "source_url": "https://www.investopedia.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXd4eU5QWGZRV3Y2ZUtpNUdUZEh1WE9hY0doLTVhVlViZktwZnE2YjFpUDVIenZ5SDlHTy1YTmVOQlM3allHbWM4WmxhNW9xbXBBNGhGdHZLbm9TZ0NkWldwUVpxQXd6dG80SS1lV0dNY19ETzQtZWhXZ2ZMLUR1MkFndFR1cDROWVp6NXRUTnc?oc=5",
@@ -45,18 +35,18 @@
       "description": "The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran."
     },
     {
-      "headline": "Bitcoin is great (for systemic theft of aid money)",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iengtUWFDRndQVW54aTVNRDRQenZyNmJITmpZMi1lN3VoUTdhRGZ1bk1kVUtDSkZHcTl5clBjOFZMQWp4LXBlV0VKNGt3em42NVAyZGxyTF9HS1NjV3JBbDM3MFcyLXpRVFZsbTU0bmo?oc=5",
-      "pub_date": 1787558670.0,
-      "article_url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Finally, a killer use case"
+      "headline": "Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2dmNThNdjdKdFk3N0NTcS13MUJKVkFwQ0c2YWttQVc0N3hJYWk1RExfRTIzczNYQndhb29yRy1pOU54NGhWaFBwdVBGNXQ5TlBYTVlfd1QwdHNOVFhyb2U2Ul9ZV244RDljdHZ3N2xXb196REJFdzdaMmpCdWxMMGxFdUZqall0UUxQMkNxcFJYNlVaQjJtMzE0QnoxRVBHV1VjT2lkLUxvaUdLLS1qc2ptbkVXT2trN3NCZ2RRV1Q?oc=5",
+      "pub_date": 1787597900.0,
+      "article_url": "https://www.reuters.com/legal/transactional/strategy-earmarks-16-billion-cash-pool-treasury-operations-buybacks-2026-08-24/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpCZVZ5aDFjUGxxZkJkMVZieTZhcFNvWG1VaExvdEd2VmxKMzBvdGxTbzR4bUc5U2FPdkhDeHdGOFhDOHE1Smc3Y2FQZ0lfV1d3OXQzZWhUZkVvWV96djJ3VEY1VU02N0NrOXQwUmVUdTh2d09Rci1zRWI1SGRwZ2YtQVZXdFdrMV9ISnZDOTZKVUVGeWNTbTlzb2t1MTdBY240QjlJbk1xRTdaU2E4cA?oc=5",
       "pub_date": 1787604396.0,
@@ -75,14 +65,14 @@
       "description": null
     },
     {
-      "headline": "Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0d1Vk1Jb3RxZ2tnTVphV3BOMWUtOFZqU0c4cmUxSWZRcjdEbElfemhNNXlUckFYMUNKUnE0eW5wbU56eUs3UnZialh4cVdfQUo5aUNwaDd4eWlRSV9FcEtFbEppejhSTEtFclJ1cFNCZDNBN3BaOHhIRWdOSlNNRGI2dWpyM1dzek9BUkVRZkloTjBpX012WUJNSQ?oc=5",
-      "pub_date": 1787574703.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-sets-used-buy-bitcoin-123143159.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/131C96865FDDC465B16901751056E304FDC67D9C1D4584D2758D433E368810C5/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F6f1fb08356f8359cec01747718fb51e3.jpg",
-      "description": "Michael Saylor\u2019s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure."
+      "headline": "Bitcoin is great (for systemic theft of aid money)",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iengtUWFDRndQVW54aTVNRDRQenZyNmJITmpZMi1lN3VoUTdhRGZ1bk1kVUtDSkZHcTl5clBjOFZMQWp4LXBlV0VKNGt3em42NVAyZGxyTF9HS1NjV3JBbDM3MFcyLXpRVFZsbTU0bmo?oc=5",
+      "pub_date": 1787558670.0,
+      "article_url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Finally, a killer use case"
     },
     {
       "headline": "As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?",
@@ -95,16 +85,26 @@
       "description": "Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews"
     },
     {
-      "headline": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVg0QkZmc3p2MENoYl9xejdUYzd2NmxxWERxaWl2VGJNSTFIaVVQZzNOYS1fYVA4X0Y4RVc4QnR3ZjdCaGktTEtuSld3R2tQQ3ZGX19fc2YxcVZNRE1jd0kyOVlpNGZoYXVYVHRUNGt5Z0ZQWHNpUnFEMF8tVHI4N1Z0M2hvNXMteEd0T3g1NDVlSHNQZmRlSzNJNXg0eGNuajBXdzVRdmYzOVNnY2V1bkVUZlJwYXRyYlBMel9yR042VTRJMTlXTm01dw?oc=5",
-      "pub_date": 1787317740.0,
-      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
+      "headline": "Watch Tether Co-Founder on Bitcoin's Bounce, Clarity Act Hopes",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUdIazJnMnRDRXVkMk51azNySGRaaUo0WTE3LWNQLUN0TnczUE9ITGtmekZueEs5TEZnZk5OdTQzZ2VsUkVSWHREWTBFUmpKVU1PRlhVOFprRnBGZzBRdFNsSGFoOFRuWlVZWElrNEdleWNmN0thQmtwekV3cjdDTVd3cUw1MGliNnV1bnRfQmhFNGlLTDVDX2RVOHFZOXVPdTVTSzB3bHZ3NUJ3NU9N?oc=5",
+      "pub_date": 1787529600.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-08-24/tether-co-founder-on-bitcoin-s-bounce-clarity-act-hopes-video",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "BlackRock's Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaS1zb013ZkgyZGZpWVRaMEgtRjJsVDRmUEMzbVNZU1ppLUN1R0xSWHFhNlQ5cDA1azh4UXZidWxMUHNlZF9mcVZ6ZG5zaVNSNW1NZVlqSE4yUUppN3FYQjY5S1lHX01GN1dRcVFKYjQ0WVo4b2R2Smg0WEdMdHFRSDVHaS1OTF9scWRuWThuOWxuQUN6ejVzUjc0Yk00UlpIWnp5Z2hzVWV4cENmMG1zdTA0SFlxVkZ0cjVTTjVJbVI2Tm9TZDhVOUJXWjNXRlhWcm45Snd3RQ?oc=5",
+      "pub_date": 1787582195.0,
+      "article_url": "https://247wallst.com/investing/2026/08/24/blackrocks-bitcoin-fund-just-paid-its-first-dividend-18-5-annualized-while-bitcoin-sleeps-at-65k/",
+      "image": "https://247wallst.com/wp-content/uploads/2018/07/crypto-rect.png",
+      "description": "BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-24T22:54:16.667144+00:00"
+  "fetched_at": "2026-08-25T01:15:48.386420+00:00"
 }
