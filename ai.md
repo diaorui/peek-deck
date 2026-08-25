@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T10:33:07.215222+00:00'
+updated: '2026-08-25T11:27:26.244115+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 10:33 UTC  
+**Last Updated:** August 25, 2026 at 11:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 8h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 9h ago
 
 ---
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-14h ago
+15h ago
 
 ---
 
@@ -69,7 +69,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 I’ve been thinking about something that worries me about the future of AI, and I think it goes beyond the usual debate about jobs or whether AI will make society more unequal. We usually talk about AI as a tool that will democratize knowledge. And in many ways, it probably will. Someone who couldn’t afford tutors, consultants, expensive education, or hours of research may be able to ask an AI and get useful answers almost instantly. But what happens if AI eventually becomes the main way most people access and understand information? At that point, AI isn’t just a tool anymore. It becomes a gatekeeper between us and knowledge. Today, if I want to understand something, I have many different routes. I can search the web, go to a library, read books, attend university, look through academic papers, browse forums, talk to experts, or try to find the original sources myself. Those systems aren’t perfectly equal. Some information is expensive, restricted, paywalled, or geographically inaccessible. But the paths are still relatively decentralized. If one door is closed, sometimes I can find another one. Now imagine a future where most of us simply ask our AI. Different people may technically “have AI,” while their AIs have completely different access to knowledge. One person’s AI might have access only to public information. Another might be connected to premium academic journals, legal databases, financial data, industry intelligence, proprietary research, private corporate data, and real-time information. That alone could create a huge new form of inequality. But there’s something else that worries me even more. What happens when your AI doesn’t have access to something — and you don’t even know that information exists? Today, if a research paper is behind a paywall, I can usually still see that the paper exists. I know there is something behind the door, even if I can’t enter. But if AI becomes my main interface with knowledge, it might give me a confident, coherent, seemingly complete answer based only on the information it is allowed to access. How would I know what was missing? How would I know there were other studies, arguments, evidence, databases, or perspectives that my AI simply couldn’t see? Or wasn’t allowed to show me? That makes me wonder if the future information divide won’t just be: Who has the better AI? It might be: Who decides what your AI is allowed to know? Who decides which databases your AI can access? And maybe most importantly: How do you know what your AI doesn’t know? If billions of people eventually rely on a small number of AI systems to understand the world, then whoever controls those systems, their data access, and their information boundaries may have enormous influence over what people perceive as knowable in the first place. So I’m curious what people here think. Will AI become the greatest democratization of knowledge in human history? Or could it eventually become the most powerful knowledge gatekeeper we’ve ever created? Maybe the most dangerous kind of restriction isn’t being told: “You are not allowed to know this.” Maybe it’s never realizing there was something else to know.
 
-22m ago
+1h ago
 
 ---
 
@@ -77,7 +77,7 @@ I’ve been thinking about something that worries me about the future of AI, and
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-15h ago
+16h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 21h ago
+🔗 [Rauno](https://rauno.ai) • 22h ago
 
 ---
 
@@ -93,7 +93,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not.
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ I have been using video generation models for a long time, especially Seedance 2
 
 I've been trying to implement a speech to text app using .Net and C#, but it seems that there is no way to simply download a model (e.g. Whisper or Wav2Vec2) and directly call it the way you can in Python. Instead I'm told I need to write all the pre-processing, adding complex code into the application. I've been trying avoid using Python (for good reasons), but it feels like the ONNX route is just too complicated. Am I missing something, like a good library that can do the pre-processing, or a model that has good built in support for .Net?
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ I've been trying to implement a speech to text app using .Net and C#, but it see
 
 I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ I've spent a while building a fact-checking pipeline, and I finally did a boring
 
 Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -129,13 +129,13 @@ CNBC • 19h ago
 
 The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
 **[Australia Bans Generative A.I. From Official Music Charts](https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -143,7 +143,7 @@ The New York Times • 2h ago
 
 Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.
 
-AP News • 3h ago
+AP News • 4h ago
 
 ---
 
@@ -151,7 +151,7 @@ AP News • 3h ago
 
 AI watermarks and detectors may leave us worse off by creating a false sense of confidence in content marked as genuine, writes Nadav Ziv.
 
-Time Magazine • 33m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -159,25 +159,25 @@ Time Magazine • 33m ago
 
 There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters
 
-The Guardian • 32m ago
+The Guardian • 1h ago
 
 ---
 
 **[Nvidia faces growth test as Rubin debut meets AI financing scrutiny](https://www.reuters.com/business/retail-consumer/nvidia-faces-growth-test-rubin-debut-meets-ai-financing-scrutiny-2026-08-25/)**
 
-Reuters • 26m ago
+Reuters • 1h ago
 
 ---
 
 **[Opinion | We Know the Risks of A.I. We Need to Act.](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Routing is coming for the frontier AI labs](https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 1h ago
 
 China wants AI embedded across its economy. For workers, that push is already reshaping jobs from coding to translation and delivery.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -213,7 +213,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 514 • 💬 505 • 18h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 514 • 💬 505 • 19h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -281,7 +281,7 @@ Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 35K • 👍 2K • 💬 322 • ⏱️ 13:41 • 14h ago
+👁️ 35K • 👍 2K • 💬 322 • ⏱️ 13:41 • 15h ago
 
 ---
 
@@ -301,7 +301,7 @@ An internal GOP memo says support for AI data centers could cost Republicans sea
 
 📺 ABC News
 
-👁️ 180K • 👍 1K • 💬 503 • ⏱️ 2:00 • 20h ago
+👁️ 180K • 👍 1K • 💬 503 • ⏱️ 2:00 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ Before AI voices became annoying, I found a thing online that would generate a c
 
 📺 Mosevic
 
-👁️ 31K • 👍 1K • 💬 41 • ⏱️ 0:48 • 12h ago
+👁️ 31K • 👍 1K • 💬 41 • ⏱️ 0:48 • 13h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 713 • 16h ago
+⬇️ 389,747 • ❤️ 713 • 17h ago
 
 ---
 
@@ -481,7 +481,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,705 • ❤️ 1,235 • 10d ago
+⬇️ 18,705 • ❤️ 1,235 • 11d ago
 
 ---
 
@@ -493,7 +493,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,525,645 • ❤️ 705 • 6h ago
+⬇️ 1,525,645 • ❤️ 705 • 7h ago
 
 ---
 
@@ -647,7 +647,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.1k • 🔱 2.1k • 10h ago
+⭐ 18.1k • 🔱 2.1k • 11h ago
 
 ---
 
@@ -657,7 +657,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 11h ago
+⭐ 14.2k • 🔱 1.7k • 12h ago
 
 ---
 
@@ -677,7 +677,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 608 • 2h ago
+⭐ 3.6k • 🔱 608 • 3h ago
 
 ---
 
@@ -687,7 +687,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 370 • 23h ago
+⭐ 3.1k • 🔱 370 • 1d ago
 
 ---
 
@@ -707,7 +707,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.7k • 🔱 332 • 5h ago
+⭐ 2.7k • 🔱 332 • 6h ago
 
 ---
 
@@ -717,7 +717,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.3k • 🔱 127 • 17h ago
+⭐ 2.3k • 🔱 127 • 18h ago
 
 ---
 
@@ -727,7 +727,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 1m ago
+⭐ 2.2k • 🔱 189 • 55m ago
 
 ---
 
