@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T04:38:25.158949+00:00'
+updated: '2026-08-25T05:31:39.190964+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 04:38 UTC  
+**Last Updated:** August 25, 2026 at 05:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 2h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 3h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-8h ago
+9h ago
 
 ---
 
@@ -55,7 +55,15 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 10h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 11h ago
+
+---
+
+**[How could I help my parents (in their 50s/60s) better recognize AI content?](https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/)**
+
+Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
+
+10h ago
 
 ---
 
@@ -64,14 +72,6 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
 🔗 [Rauno](https://rauno.ai) • 16h ago
-
----
-
-**[How could I help my parents (in their 50s/60s) better recognize AI content?](https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/)**
-
-Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
-
-9h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ I've spent a while building a fact-checking pipeline, and I finally did a boring
 
 I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ CNBC reported this week that Anthropic's confidential IPO filing (filed back in 
 
 As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighteningly efficient with small tasks, good old divide and conquer, if you separate tasks and create modular and abstract enough architecture, that even newbie will understand, LLM can create perfect, edge-case proof code. Does that mean, that we went full cycle and returned back to need of software engineering, instead of direct code writing?
 
-13h ago
+14h ago
 
 ---
 
@@ -117,15 +117,39 @@ As people created the most abstract way of programming, syntax knowledge of prog
 
 ## Google News: "ai"
 
-**[After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade](https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html)**
+**[AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)**
 
-The New York Times • 10h ago
+Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
+
+Ars Technica • 7h ago
 
 ---
 
-**[Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html)**
+**[After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade](https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html)**
 
-The New York Times • 19h ago
+The New York Times • 15h ago
+
+---
+
+**[Songs created by AI banned from Australia's music charts](https://www.bbc.com/news/articles/c20vl4vm2pno)**
+
+The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
+
+BBC • 37m ago
+
+---
+
+**[In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers](https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/)**
+
+Data spanning one agency’s entire client roster shows the true impact of AI search on web traffic and conversions.
+
+Digiday • 1h ago
+
+---
+
+**[Waiting on Nvidia for next leg of AI rally](https://www.reuters.com/world/china/global-markets-view-europe-2026-08-25/)**
+
+Reuters • 51m ago
 
 ---
 
@@ -133,25 +157,13 @@ The New York Times • 19h ago
 
 Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Watch How Korea's $10 Billion K-Pop Industry Is Turning to AI](https://www.bloomberg.com/news/videos/2026-08-25/how-korea-s-10-billion-k-pop-industry-is-turning-to-ai-video)**
+**[AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round](https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Superintendent: Orange Schools entering into world of AI with ‘baby steps’](https://www.cleveland.com/community/2026/08/superintendent-orange-schools-entering-into-world-of-ai-with-baby-steps.html)**
-
-Cleveland.com • 1h ago
-
----
-
-**[Data centers’ ‘oh s--t’ moment](https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465)**
-
-Politico • 19h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -159,21 +171,7 @@ Politico • 19h ago
 
 The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.
 
-WIRED • 19h ago
-
----
-
-**[AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)**
-
-Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
-
-Ars Technica • 6h ago
-
----
-
-**[WikiHow sues OpenAI for copyright infringement over AI training](https://www.reuters.com/legal/legalindustry/wikihow-sues-openai-copyright-infringement-over-ai-training-2026-08-24/)**
-
-Reuters • 6h ago
+WIRED • 20h ago
 
 ---
 
@@ -181,7 +179,15 @@ Reuters • 6h ago
 
 New on-silicon performance data measured by NVIDIA using real-world agentic coding trajectories shows Vera Rubin NVL72 systems deliver 30x higher throughput per megawatt and 35x lower token costs than NVIDIA GB300 NVL72.
 
-NVIDIA Blog • 13h ago
+NVIDIA Blog • 14h ago
+
+---
+
+**[The AI-related reason every billionaire suddenly wants to own a sports team](https://www.cnn.com/2026/08/24/business/sports-team-buying-spree)**
+
+The Los Angeles Lakers, the Super Bowl champion Seattle Seahawks, a chunk of the New York Yankees. Teams are turning over at a rapid pace, driving the values to stratospheric heights.
+
+CNN • 20h ago
 
 ---
 
@@ -193,7 +199,7 @@ NVIDIA Blog • 13h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 769 • 💬 678 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 774 • 💬 682 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -201,7 +207,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 684 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
+⬆️ 686 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -209,7 +215,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 495 • 💬 484 • 12h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 501 • 💬 493 • 13h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -217,7 +223,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 345 • 💬 69 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 348 • 💬 69 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -225,7 +231,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 183 • 💬 102 • 22h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 183 • 💬 102 • 23h ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -255,15 +261,15 @@ How I actually use AI in day-to-day infrastructure work, and why I think it's th
 
 What kind of sanctions could keep a non-human corporation in check?
 
-⬆️ 62 • 💬 111 • 1d ago • [ft.com](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
+⬆️ 62 • 💬 112 • 1d ago • [ft.com](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
 
 ---
 
-**[Digging the grave of my skills: Hollywood creatives training AI to do their jobs](https://news.ycombinator.com/item?id=49399941)**
+**[Training AI to Paint with Code](https://news.ycombinator.com/item?id=49411800)**
 
-Amid a jobs slump, award-winning writers, directors and producers taking on sometimes lucrative temp work teaching AI skills such as screenwriting and production
+I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 57 • 💬 70 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+⬆️ 58 • 💬 5 • 1d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -271,33 +277,23 @@ Amid a jobs slump, award-winning writers, directors and producers taking on some
 
 ## YouTube Videos: "ai"
 
-**[Amazon BUSTED Burning Rare Books After Feeding Them Into Ai](https://www.youtube.com/watch?v=sQdKJamsilE)**
+**[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
 
-Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
+The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
 
-📺 The Majority Report w/ Sam Seder
+📺 Vanessa Wingårdh
 
-👁️ 22K • 👍 1K • 💬 242 • ⏱️ 13:41 • 8h ago
-
----
-
-**[The AI tax hits the Pixel Watch 5 HARD](https://www.youtube.com/watch?v=a2hhtkbcbtU)**
-
-If you want to skip the hassle of researching, buying, and building a gaming PC for yourself, buy one from one of Jawa's Verified ...
-
-📺 ShortCircuit
-
-👁️ 20K • 👍 964 • 💬 84 • ⏱️ 13:43 • 9h ago
+👁️ 100K • 👍 6K • 💬 2K • ⏱️ 12:19 • 1d ago
 
 ---
 
-**[Yuval Noah Harari on the dangers of an AI future | The Economist](https://www.youtube.com/watch?v=ARdnl2kjmRU)**
+**[The big AI lie](https://www.youtube.com/watch?v=50ss5THm79A)**
 
-Yuval Noah Harari says an AI takeover is likely but not “inevitable” if humans act now. In an interview Zanny Minton Beddoes, The ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 The Economist
+📺 Chris Norlund
 
-👁️ 111K • 👍 3K • 💬 246 • ⏱️ 12:28 • 2d ago
+👁️ 76K • 👍 4K • 💬 1K • ⏱️ 17:01 • 1d ago
 
 ---
 
@@ -307,7 +303,7 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 The Diary Of A CEO Clips
 
-👁️ 189K • 👍 4K • 💬 362 • ⏱️ 16:15 • 2d ago
+👁️ 195K • 👍 4K • 💬 366 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -317,17 +313,7 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Law By Mike
 
-👁️ 782K • 👍 15K • 💬 1K • ⏱️ 25:05 • 1d ago
-
----
-
-**[Claude&#39;s Invisible AI Watermark Has a Big Limitation](https://www.youtube.com/watch?v=TNnfb87mHw8)**
-
-Follow me and DM me "WATERMARK" on IG/FB only Claude's invisible watermark has limits. Anthropic says new Claude ...
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 4K • 👍 128 • 💬 5 • ⏱️ 0:26 • 10h ago
+👁️ 812K • 👍 15K • 💬 1K • ⏱️ 25:05 • 1d ago
 
 ---
 
@@ -337,7 +323,27 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 156K • 👍 12K • 💬 744 • ⏱️ 5:15 • 1d ago
+👁️ 161K • 👍 12K • 💬 758 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[Claude&#39;s Invisible AI Watermark Has a Big Limitation](https://www.youtube.com/watch?v=TNnfb87mHw8)**
+
+Follow me and DM me "WATERMARK" on IG/FB only Claude's invisible watermark has limits. Anthropic says new Claude ...
+
+📺 Sabrina Ramonov 🍄
+
+👁️ 5K • 👍 157 • 💬 8 • ⏱️ 0:26 • 11h ago
+
+---
+
+**[Are graduates prepared for the AI era? | FT Working It](https://www.youtube.com/watch?v=EsdqCEuoI8M)**
+
+How are global education institutions helping graduates in the race to find rewarding first jobs? Working It editor Isabel Berwick ...
+
+📺 Financial Times
+
+👁️ 29K • 👍 640 • 💬 66 • ⏱️ 19:00 • 19h ago
 
 ---
 
@@ -347,7 +353,7 @@ Tim Pool is joined by Nate Soares to discuss the rapid development of AI & the p
 
 📺 Tim Pool Show
 
-👁️ 69K • 👍 3K • 💬 653 • ⏱️ 1:51:29 • 1d ago
+👁️ 72K • 👍 3K • 💬 658 • ⏱️ 1:51:29 • 1d ago
 
 ---
 
@@ -357,17 +363,17 @@ An AI-generated concept showing an advanced medical service robot helping a sick
 
 📺 Ibrahim Islamic Status
 
-👁️ 1.9M • 👍 63K • 💬 101 • ⏱️ 0:11 • 2d ago
+👁️ 1.9M • 👍 64K • 💬 101 • ⏱️ 0:11 • 2d ago
 
 ---
 
-**[Frontier AI sales are stalling | Eli the Computer Guy](https://www.youtube.com/watch?v=X1NRlRnrt7o)**
+**[🌴 A Robot Serving Dates in Makkah?! | AI Future Concept 🕋#Makkah #AI #Robot #FutureTechnology](https://www.youtube.com/watch?v=u3HdVj5OP_M)**
 
-It may not be feasible of them to say that they're wrong.” Eli the Computer Guy joins The Tech Report's Isaac Pound to talk about ...
+A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Robot #FutureTechnology #AIVideo ...
 
-📺 The Tech Report
+📺 Makkah madina shorts
 
-👁️ 47K • 👍 2K • 💬 498 • ⏱️ 25:21 • 10h ago
+👁️ 33K • 👍 1K • 💬 3 • ⏱️ 0:11 • 15h ago
 
 ---
 
@@ -383,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,523 • 10d ago
+⬇️ 2,645,226 • ❤️ 12,544 • 10d ago
 
 ---
 
@@ -395,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,841 • 4d ago
+⬇️ 7,009,063 • ❤️ 2,847 • 4d ago
 
 ---
 
@@ -407,7 +413,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,033 • 18h ago
+⬇️ 57,947 • ❤️ 1,040 • 19h ago
 
 ---
 
@@ -419,7 +425,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 698 • 10h ago
+⬇️ 312,627 • ❤️ 702 • 11h ago
 
 ---
 
@@ -431,7 +437,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,100 • 4d ago
+⬇️ 224,114 • ❤️ 1,102 • 4d ago
 
 ---
 
@@ -443,19 +449,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 584 • 7d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 790,378 • ❤️ 1,726 • 7d ago
+⬇️ 761,975 • ❤️ 588 • 7d ago
 
 ---
 
@@ -467,7 +461,19 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 399 • 2d ago
+⬇️ 60,294 • ❤️ 404 • 2d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 790,378 • ❤️ 1,729 • 7d ago
 
 ---
 
@@ -479,7 +485,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,456,700 • ❤️ 691 • 9d ago
+⬇️ 1,456,700 • ❤️ 692 • 1h ago
 
 ---
 
@@ -491,7 +497,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,228 • 10d ago
+⬇️ 18,065 • ❤️ 1,229 • 10d ago
 
 ---
 
@@ -507,7 +513,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 89 • 💬 2 • ⭐ 5,004 • 8d ago
+▲ 90 • 💬 2 • ⭐ 5,004 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -521,7 +527,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 751 • 💬 5 • ⭐ 5,349 • 15d ago
+▲ 751 • 💬 5 • ⭐ 5,505 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -535,7 +541,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 73 • 💬 7 • ⭐ 651 • 5d ago
+▲ 74 • 💬 7 • ⭐ 651 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -644,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 17.9k • 🔱 2.1k • 4h ago
+⭐ 18.0k • 🔱 2.1k • 5h ago
 
 ---
 
@@ -654,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 5h ago
+⭐ 14.2k • 🔱 1.7k • 6h ago
 
 ---
 
@@ -674,7 +680,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 601 • 13h ago
+⭐ 3.6k • 🔱 604 • 1h ago
 
 ---
 
@@ -684,7 +690,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 364 • 17h ago
+⭐ 3.1k • 🔱 368 • 18h ago
 
 ---
 
@@ -694,7 +700,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 244 • 13d ago
+⭐ 3.0k • 🔱 245 • 13d ago
 
 ---
 
@@ -704,7 +710,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.7k • 🔱 319 • 2h ago
+⭐ 2.7k • 🔱 325 • 56m ago
 
 ---
 
@@ -714,7 +720,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.3k • 🔱 121 • 11h ago
+⭐ 2.3k • 🔱 124 • 12h ago
 
 ---
 
@@ -724,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 11h ago
+⭐ 2.2k • 🔱 189 • 20m ago
 
 ---
 
