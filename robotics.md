@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T22:27:25.162644+00:00'
+updated: '2026-08-25T23:26:47.886177+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 22:27 UTC  
+**Last Updated:** August 25, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 7h ago
+NVIDIA Newsroom • 8h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 7h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 7h ago
+The Robot Report • 8h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 7h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -140,7 +140,7 @@ Seeking Alpha • 7h ago
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -156,7 +156,7 @@ BBC • 1d ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -164,19 +164,19 @@ Business Insider • 18h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 12h ago
+IEEE Spectrum • 13h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 6K • 👍 60 • 💬 2 • ⏱️ 0:30 • 6h ago
+👁️ 6K • 👍 60 • 💬 2 • ⏱️ 0:30 • 7h ago
 
 ---
 
