@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T05:31:39.204105+00:00'
+updated: '2026-08-25T06:48:04.612372+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 05:31 UTC  
+**Last Updated:** August 25, 2026 at 06:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +11.4%  
-**30d:** +32.6%  
-**90d:** +24.8%  
-**1y:** -45.5%  
+**24h:** +2.0%  
+**7d:** +11.1%  
+**30d:** +32.3%  
+**90d:** +24.6%  
+**1y:** -45.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-12h ago
+14h ago
 
 ---
 
@@ -156,11 +156,25 @@ US SEC Regulation Crypto Assets proposed rules, Glamsterdam upgrade on public te
 
 ## Google News: "ethereum"
 
-**[Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin](https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
-Bitmine is about 187,000 Ethereum short of its 5% of supply target as the company loads up on another $81 million in ETH.
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-Decrypt • 13h ago
+PR Newswire • 18h ago
+
+---
+
+**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
+
+BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
+
+CoinDesk • 17h ago
 
 ---
 
@@ -176,7 +190,15 @@ The Motley Fool • 2d ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
+
+Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
+
+Benzinga • 10h ago
 
 ---
 
@@ -184,21 +206,7 @@ Yahoo Finance • 12h ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 19h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 17h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
-
-CoinDesk • 16h ago
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -214,7 +222,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -222,15 +230,7 @@ Fortune • 13h ago
 
 DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
 
-markets.businessinsider.com • 12h ago
-
----
-
-**[ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely (NASDAQ:ETHA)](https://seekingalpha.com/article/4939465-etha-ethereum-outperforms-amid-dualing-bullish-catalysts-more-gains-likely)**
-
-Bullish outlook for iShares Ethereum Trust ETF (ETHA): 29% surge, strong liquidity and RSI, $21 target.
-
-Seeking Alpha • 17h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 263 • 💬 354 • ⏱️ 19:33 • 6h ago
+👁️ 4K • 👍 263 • 💬 354 • ⏱️ 19:33 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 7K • 👍 546 • 💬 43 • ⏱️ 12:24 • 13h ago
+👁️ 7K • 👍 546 • 💬 43 • ⏱️ 12:24 • 14h ago
 
 ---
 
@@ -264,7 +264,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 37K • 👍 1K • 💬 165 • ⏱️ 1:07:49 • 19h ago
+👁️ 37K • 👍 1K • 💬 165 • ⏱️ 1:07:49 • 20h ago
 
 ---
 
@@ -284,7 +284,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 258 • 💬 8 • ⏱️ 6:32 • 16h ago
+👁️ 6K • 👍 258 • 💬 8 • ⏱️ 6:32 • 17h ago
 
 ---
 
@@ -294,7 +294,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 4K • 👍 52 • 💬 5 • ⏱️ 0:43 • 10h ago
+👁️ 4K • 👍 52 • 💬 5 • ⏱️ 0:43 • 11h ago
 
 ---
 
@@ -304,7 +304,7 @@ TIA PRO LIFETIME DISCOUNT SALE → https://link.tiainvestor.com/jyt-checkout ➡
 
 📺 Jason Pizzino
 
-👁️ 6K • 👍 597 • 💬 153 • ⏱️ 31:23 • 4h ago
+👁️ 6K • 👍 597 • 💬 153 • ⏱️ 31:23 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:31 • 9h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:31 • 11h ago
 
 ---
 
