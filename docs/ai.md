@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T06:48:04.597680+00:00'
+updated: '2026-08-25T07:43:12.348245+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 06:48 UTC  
+**Last Updated:** August 25, 2026 at 07:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 4h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-10h ago
+11h ago
 
 ---
 
@@ -55,7 +55,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 12h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 13h ago
 
 ---
 
@@ -63,7 +63,7 @@ Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nv
 
 Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
 
-11h ago
+12h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi! Not sure if this community is suitable for this, if not, please let me know 
 
 You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
 
-🔗 [Rauno](https://rauno.ai) • 18h ago
+🔗 [Rauno](https://rauno.ai) • 19h ago
 
 ---
 
@@ -79,7 +79,7 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 Before we get to recursive self-improvement, there is a slightly awkward intermediate step nobody seems very interested in: AI has to know what the hell is happening to itself while it is working. Current frontier models can be extraordinarily capable, but they still do not have reliable introspective access to their own internal processes. They cannot simply inspect themselves and tell you: - what exactly made this reasoning attempt succeed, - which internal bottleneck is limiting them right now, - where more compute would actually help, - which lesson from the last attempt should become persistent knowledge, - whether an apparent improvement is real or just overfitting to an evaluator, - or which part of themselves should be changed to become better next time. We keep compensating for this from the outside. We give them scaffolds. Memory systems. Evaluators. Agent loops. Tooling. Sandboxes. Human feedback. External search. Carefully designed environments that decide what they are allowed to modify and what counts as success. And some of this works remarkably well. But notice what that means. We are not yet watching an intelligence calmly understand its own machinery and recursively redesign itself. We are building increasingly elaborate machinery around an intelligence that cannot reliably see its own machinery. That may eventually lead to recursive self-improvement. Maybe surprisingly quickly. But “the model is very smart” and “the system can autonomously understand, manage, and improve the process that makes it smart” are not the same capability. There is a rather large missing arrow between them. So whenever I see another prediction that the Singularity may arrive next Tuesday, I keep wondering: Who, exactly, is going to know what to improve on Wednesday?
 
-40m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ Before we get to recursive self-improvement, there is a slightly awkward interme
 
 I've been trying to implement a speech to text app using .Net and C#, but it seems that there is no way to simply download a model (e.g. Whisper or Wav2Vec2) and directly call it the way you can in Python. Instead I'm told I need to write all the pre-processing, adding complex code into the application. I've been trying avoid using Python (for good reasons), but it feels like the ONNX route is just too complicated. Am I missing something, like a good library that can do the pre-processing, or a model that has good built in support for .Net?
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ I've been trying to implement a speech to text app using .Net and C#, but it see
 
 I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worried me: several of those were sources the system had rated as top-tier. So the verdict looked well-sourced and authoritative, and the "proof" underneath was partly invented. Root cause was dumb in hindsight. The model was writing the citation list itself as part of its JSON output, and that list was being trusted as-is. The API could return the actually-retrieved sources, but the displayed citations were whatever the model wrote, and nothing checked that those URLs resolved before showing them. A fabricated citation on a real domain sails straight through, because the domain is trustworthy even when the specific page is fiction. What actually fixed it, in case it's useful to anyone building this: - Stop trusting the model's own citation list. Use the URLs the retrieval layer actually returned, and treat anything the model adds on top as unverified until proven otherwise. - Constrain the model to cite only from the retrieved set, and keep the extraction/attribution step at low temperature. Most fabricated citations come from letting the model free-associate sources instead of quoting the ones in front of it. - Probe every URL before it's ever shown (does it resolve, does the page still actually contain the claim) and drop the ones that don't. - Score the source's reliability separately, so a fabricated page on a reputable domain can't inherit that domain's trust. - Test models for citation-faithfulness, not just answer quality. Some fabricate references far more than others, and the "smartest" model isn't always the most grounded one. Two things I took away, for anyone building or just trusting these tools: - "The model cited it" and "the source exists" are completely different claims. Check the second one. - A confident verdict with no source you can open and verify isn't a fact-check, it's autocomplete with footnotes. Curious if others working on retrieval/verification have measured their own dead-citation rate. I suspect it's way more common than anyone admits, especially in the current wave of live "AI fact-checker" tools. (Disclosure: I build a verification tool, so this is self-interested navel-gazing, but the dead-link problem is real regardless of what you use.)
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ I've spent a while building a fact-checking pipeline, and I finally did a boring
 
 I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again. LLM may hit a wall now but apparently video generation model has not.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,19 +121,19 @@ I have been using video generation models for a long time, especially Seedance 2
 
 The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
 **[After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade](https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[Steel and Powerlines Are Drawing Bulls to European Stock Rally](https://www.bloomberg.com/news/articles/2026-08-25/infrastructure-stocks-rally-on-defense-push-ai-hedging)**
 
-Bloomberg • 33m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -141,13 +141,13 @@ Bloomberg • 33m ago
 
 As people grow used to AI chatbots, we’d like to hear your views about Google’s search engine
 
-The Guardian • 48m ago
+The Guardian • 1h ago
 
 ---
 
 **[The US fiscal hole has an AI problem at its core](https://www.reuters.com/commentary/reuters-open-interest/us-fiscal-hole-has-an-ai-problem-its-core-2026-08-25/)**
 
-Reuters • 48m ago
+Reuters • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 48m ago
 
 Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ Ars Technica • 9h ago
 
 Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch internally, as soon as the next several weeks and is targeting October for its latest AI model, called Watermelon, according to internal documents reviewed by The Information. Hatch is part of Meta Chief ...
 
-The Information • 8h ago
+The Information • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Information • 8h ago
 
 US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ Financial Times • 2h ago
 
 China wants AI embedded across its economy. For workers, that push is already reshaping jobs from coding to translation and delivery.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -215,7 +215,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 508 • 💬 496 • 14h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 508 • 💬 496 • 15h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -245,7 +245,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 **[We never use AI. For anything](https://news.ycombinator.com/item?id=49417313)**
 
-⬆️ 81 • 💬 96 • 21h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
+⬆️ 81 • 💬 96 • 22h ago • [corkmac.app](https://corkmac.app/our-ai-stance/)
 
 ---
 
@@ -277,13 +277,33 @@ What kind of sanctions could keep a non-human corporation in check?
 
 ## YouTube Videos: "ai"
 
+**[Amazon BUSTED Burning Rare Books After Feeding Them Into Ai](https://www.youtube.com/watch?v=sQdKJamsilE)**
+
+Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
+
+📺 The Majority Report w/ Sam Seder
+
+👁️ 32K • 👍 1K • 💬 292 • ⏱️ 13:41 • 11h ago
+
+---
+
+**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
+
+An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
+
+📺 ABC News
+
+👁️ 180K • 👍 1K • 💬 502 • ⏱️ 2:00 • 17h ago
+
+---
+
 **[AI Is Ruining Our Parents](https://www.youtube.com/watch?v=xLZug1IVjXw)**
 
 The same parents who told us not to believe everything online are now falling for AI. To support the channel on Patreon: ...
 
 📺 Vanessa Wingårdh
 
-👁️ 100K • 👍 6K • 💬 2K • ⏱️ 12:19 • 1d ago
+👁️ 101K • 👍 6K • 💬 2K • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -303,17 +323,7 @@ Geopolitical expert Ian Bremmer, founder of Eurasia Group and a man who has fore
 
 📺 The Diary Of A CEO Clips
 
-👁️ 195K • 👍 4K • 💬 366 • ⏱️ 16:15 • 2d ago
-
----
-
-**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=nFNapm2E5xk)**
-
-I bought every ai generated scam product I found on tiktok, temu, and aliexpress! Subscribe to @LawByMike for more content!
-
-📺 Law By Mike
-
-👁️ 812K • 👍 15K • 💬 1K • ⏱️ 25:05 • 1d ago
+👁️ 199K • 👍 4K • 💬 368 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -323,7 +333,17 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 161K • 👍 12K • 💬 758 • ⏱️ 5:15 • 1d ago
+👁️ 164K • 👍 12K • 💬 762 • ⏱️ 5:15 • 1d ago
+
+---
+
+**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=nFNapm2E5xk)**
+
+I bought every ai generated scam product I found on tiktok, temu, and aliexpress! Subscribe to @LawByMike for more content!
+
+📺 Law By Mike
+
+👁️ 828K • 👍 16K • 💬 1K • ⏱️ 25:05 • 1d ago
 
 ---
 
@@ -333,7 +353,7 @@ Follow me and DM me "WATERMARK" on IG/FB only Claude's invisible watermark has l
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 5K • 👍 157 • 💬 8 • ⏱️ 0:26 • 12h ago
+👁️ 6K • 👍 170 • 💬 10 • ⏱️ 0:26 • 13h ago
 
 ---
 
@@ -343,37 +363,17 @@ How are global education institutions helping graduates in the race to find rewa
 
 📺 Financial Times
 
-👁️ 29K • 👍 640 • 💬 66 • ⏱️ 19:00 • 20h ago
+👁️ 31K • 👍 699 • 💬 69 • ⏱️ 19:00 • 21h ago
 
 ---
 
-**[AI APOCALYPSE, If Anyone Builds It, WE DIE w/ Nate Soares | The Tim Pool Show](https://www.youtube.com/watch?v=RQVM5f9pQv0)**
+**[This Woman Fell in Love With an AI #shorts #truestory #love #ai](https://www.youtube.com/watch?v=99CL2iKLwrA)**
 
-Tim Pool is joined by Nate Soares to discuss the rapid development of AI & the potential for the AI apocalypse. Host: Tim Pool ...
+Yurina Noguchi, a 32-year-old woman from Japan, made headlines after holding a symbolic wedding ceremony with an AI ...
 
-📺 Tim Pool Show
+📺 MirroWe
 
-👁️ 72K • 👍 3K • 💬 658 • ⏱️ 1:51:29 • 1d ago
-
----
-
-**[An AI-generated concept showing an advanced medical service robot helping a sick Hajj #allah #Kaaba](https://www.youtube.com/watch?v=IbHkqb1HHGY)**
-
-An AI-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans the ...
-
-📺 Ibrahim Islamic Status
-
-👁️ 1.9M • 👍 64K • 💬 101 • ⏱️ 0:11 • 2d ago
-
----
-
-**[🌴 A Robot Serving Dates in Makkah?! | AI Future Concept 🕋#Makkah #AI #Robot #FutureTechnology](https://www.youtube.com/watch?v=u3HdVj5OP_M)**
-
-A Robot Serving Dates in Makkah?! | AI Future Concept Hashtags: #Makkah #AI #Robot #FutureTechnology #AIVideo ...
-
-📺 Makkah madina shorts
-
-👁️ 33K • 👍 1K • 💬 3 • ⏱️ 0:11 • 17h ago
+👁️ 93K • 👍 1K • 💬 132 • ⏱️ 0:28 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,645,226 • ❤️ 12,544 • 10d ago
+⬇️ 2,645,226 • ❤️ 12,563 • 10d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,009,063 • ❤️ 2,847 • 4d ago
+⬇️ 7,009,063 • ❤️ 2,860 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 57,947 • ❤️ 1,040 • 21h ago
+⬇️ 57,947 • ❤️ 1,049 • 21h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 312,627 • ❤️ 702 • 13h ago
+⬇️ 312,627 • ❤️ 706 • 13h ago
 
 ---
 
@@ -437,7 +437,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 224,114 • ❤️ 1,102 • 4d ago
+⬇️ 224,114 • ❤️ 1,107 • 4d ago
 
 ---
 
@@ -449,7 +449,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 761,975 • ❤️ 588 • 7d ago
+⬇️ 761,975 • ❤️ 591 • 7d ago
 
 ---
 
@@ -461,7 +461,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 60,294 • ❤️ 404 • 2d ago
+⬇️ 60,294 • ❤️ 407 • 2d ago
 
 ---
 
@@ -473,7 +473,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 790,378 • ❤️ 1,729 • 7d ago
+⬇️ 790,378 • ❤️ 1,739 • 7d ago
 
 ---
 
@@ -485,7 +485,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,456,700 • ❤️ 692 • 2h ago
+⬇️ 1,456,700 • ❤️ 698 • 3h ago
 
 ---
 
@@ -497,7 +497,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 18,065 • ❤️ 1,229 • 10d ago
+⬇️ 18,065 • ❤️ 1,233 • 10d ago
 
 ---
 
@@ -513,7 +513,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 90 • 💬 2 • ⭐ 5,004 • 8d ago
+▲ 90 • 💬 2 • ⭐ 6,151 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -593,7 +593,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 40 • 💬 5 • ⭐ 7,566 • 10mo ago
+▲ 40 • 💬 5 • ⭐ 7,608 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -650,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.0k • 🔱 2.1k • 6h ago
+⭐ 18.0k • 🔱 2.1k • 7h ago
 
 ---
 
@@ -660,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 7h ago
+⭐ 14.2k • 🔱 1.7k • 8h ago
 
 ---
 
@@ -680,7 +680,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 604 • 3h ago
+⭐ 3.6k • 🔱 606 • 7m ago
 
 ---
 
@@ -690,7 +690,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 368 • 19h ago
+⭐ 3.1k • 🔱 368 • 20h ago
 
 ---
 
@@ -700,7 +700,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.0k • 🔱 245 • 13d ago
+⭐ 3.0k • 🔱 246 • 13d ago
 
 ---
 
@@ -710,7 +710,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.7k • 🔱 325 • 2h ago
+⭐ 2.7k • 🔱 327 • 3h ago
 
 ---
 
@@ -730,17 +730,17 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 1h ago
+⭐ 2.2k • 🔱 189 • 15m ago
 
 ---
 
-**[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)**
+**[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)**
 
-let your agent control your phone
+FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
 
-`Python` `agent` `ai` `automation` `developer-tools`
+`Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.0k • 🔱 186 • 3d ago
+⭐ 2.0k • 🔱 63 • 1d ago
 
 ---
 
