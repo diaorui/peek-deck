@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T14:44:29.252719+00:00'
+updated: '2026-08-25T15:41:54.982782+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 14:44 UTC  
+**Last Updated:** August 25, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 **[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-18h ago
+19h ago
 
 ---
 
@@ -112,19 +112,27 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News](https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/)**
+**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
 
-A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
+BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CBS News • 1d ago
+CNBC • 6h ago
 
 ---
 
-**[BlackBerry found a second life in car software. Now it’s looking to robotics](https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html)**
+**[China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding](https://www.bbc.com/news/articles/c62m4zn1q6mo)**
 
-BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
+There are more than two million robots working in China's factories - and they are scaling up fast.
 
-CNBC • 17h ago
+BBC • 17h ago
+
+---
+
+**[RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China](https://www.foxbusiness.com/video/6404025127112)**
+
+RoboStore CEO Ted Haggerty discusses China’s advances in humanoid robots, America’s position in the global robotics race and potential robot soldiers on ‘Varney & Co.’
+
+Fox Business • 1h ago
 
 ---
 
@@ -132,7 +140,7 @@ CNBC • 17h ago
 
 CEO John Giamatteo cited warehouse robots, robotic forklifts, and medical robotics as key growth areas within its $950M QNX order backlog
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -140,7 +148,7 @@ qz.com • 1h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -148,19 +156,19 @@ Business Insider • 10h ago
 
 General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.
 
-TechCrunch • 23h ago
-
----
-
-**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
-
-WSJ • 11h ago
+TechCrunch • 1d ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 18h ago
+Axios • 3h ago
+
+---
+
+**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
+
+WSJ • 12h ago
 
 ---
 
@@ -174,15 +182,7 @@ Reuters • 1d ago
 
 Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
 
-CNBC • 10h ago
-
----
-
-**[XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips](https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html)**
-
-XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure.
-
-Yahoo Finance • 1d ago
+CNBC • 11h ago
 
 ---
 
@@ -190,33 +190,63 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Robots break Usain Bolt&#39;s record at World Humanoid Games | The Morning Show](https://www.youtube.com/watch?v=aP41sTTwA-U)**
+
+The second World Humanoid Games is taking place in Beijing, featuring more than 2000 robots from 16 countries competing ...
+
+📺 Sunrise
+
+👁️ 4K • 👍 38 • ⏱️ 5:49 • 14h ago
+
+---
+
+**[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
+
+A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
+
+📺 BBC News
+
+👁️ 1.5M • 👍 16K • 💬 8K • ⏱️ 2:30 • 2d ago
+
+---
+
+**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
+
+China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
+
+📺 Associated Press
+
+👁️ 10K • 👍 43 • 💬 8 • ⏱️ 0:54 • 5d ago
+
+---
+
 **[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
 
 The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
 
 📺 DPCcars
 
-👁️ 21K • 👍 214 • 💬 88 • ⏱️ 1:55 • 2d ago
+👁️ 22K • 👍 218 • 💬 91 • ⏱️ 1:55 • 2d ago
 
 ---
 
-**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
+**[China Just Dropped Superman - AI Robot With Superhuman Abilities](https://www.youtube.com/watch?v=ubMtxGD7QZ4)**
 
-A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
+China's Unitree just unveiled Superman, a humanoid robot that runs faster than Usain Bolt and jumps 2 meters from a standstill.
 
-📺 USA TODAY
+📺 AI Revolution
 
-👁️ 74K • 👍 493 • 💬 94 • ⏱️ 0:31 • 1d ago
+👁️ 52K • 👍 1K • 💬 128 • ⏱️ 14:10 • 6d ago
 
 ---
 
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+**[Robots Beat Usain Bolt, Then Fall Apart, Inside China&#39;s Wild Robot Olympics](https://www.youtube.com/watch?v=3oUAWwjWMDA)**
 
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+Robots Beat Usain Bolt, Then Fall Apart, Inside China's Wild Robot Olympics China hosted the World Humanoid Robot Games in ...
 
-📺 New York Post
+📺 Republic World
 
-👁️ 36K • 👍 857 • 💬 211 • ⏱️ 0:52 • 2d ago
+👁️ 80K • 💬 308 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -226,65 +256,37 @@ A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Hu
 
 📺 DPCcars
 
-👁️ 42K • 👍 140 • 💬 36 • ⏱️ 1:40 • 1d ago
+👁️ 46K • 👍 149 • 💬 38 • ⏱️ 1:40 • 1d ago
 
 ---
 
-**[Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown](https://www.youtube.com/watch?v=3MrdXwZXTJA)**
+**[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
 
-Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is supported by Kettering University: Accepted ...
+Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
 
-📺 FUN Robotics Network
+📺 New York Post
 
-👁️ 1K • 👍 49 • ⏱️ 1:18 • 15h ago
-
----
-
-**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
-
-Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
-
-📺 ABC News
-
-👁️ 104K • 👍 753 • 💬 134 • ⏱️ 0:40 • 2d ago
+👁️ 52K • 👍 856 • 💬 368 • ⏱️ 4:07 • 5d ago
 
 ---
 
-**[Pt. 3- Someone said they can’t take the turns 🧾👀  Well… you running or hiding? 🏃🏽‍♀️](https://www.youtube.com/watch?v=EzFvisyby8Q)**
+**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
-The Robot Olympics are here, and the future is a little messier than expected. At the World Humanoid Robot Games in Beijing, ...
+Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
-📺 BI️ Studio of Emotional Intelligence 
+📺 DPCcars
 
-👁️ 8K • 👍 105 • 💬 12 • ⏱️ 0:56 • 20h ago
-
----
-
-**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
-
-Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
-
-📺 India Today Global
-
-👁️ 11K • 👍 102 • 💬 8 • ⏱️ 1:11 • 1d ago
+👁️ 23K • 👍 475 • 💬 89 • ⏱️ 2:12 • 5d ago
 
 ---
 
-**[I Bought a $7,000 Iron Man Robot](https://www.youtube.com/watch?v=Z1XrFFH3OFQ)**
+**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
 
-📺 Kyle Krueger
+The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
 
-👁️ 1.0M • 👍 76K • 💬 953 • ⏱️ 1:01 • 14h ago
+📺 NBC News
 
----
-
-**[They Turned a Sports Car Into an INSANE Mech! 🤯🤖 #Robot #DIY](https://www.youtube.com/watch?v=KcGAFGa8Bo0)**
-
-What happens when a luxury sports car gets transformed into a giant walking mech? Watch this incredible futuristic build ...
-
-📺 Shelter Guide
-
-👁️ 38K • 👍 602 • 💬 4 • ⏱️ 1:08 • 1d ago
+👁️ 66K • 👍 471 • 💬 242 • ⏱️ 4:05 • 4d ago
 
 ---
 

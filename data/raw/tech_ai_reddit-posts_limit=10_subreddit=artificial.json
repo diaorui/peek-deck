@@ -35,6 +35,17 @@
       "description": "Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I\u2019ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They\u2019re constantly in flux too. It doesn\u2019t respond \u201cyou\u2019re absolutely right\u201d like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It\u2019s been public for 10 days and has now accumulated thousands of interactions, so it\u2019s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I\u2019m the builder, obviously, so this is self-promotion. But I\u2019d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot."
     },
     {
+      "title": "For a \u20ac6k portable AI/development setup, prioritize 64\u2013128GB unified memory or CUDA compatibility?",
+      "author": "ClerkBeginning961",
+      "url": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
+      "published": 1787659148.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is \u20ac6,000, with roughly \u20ac5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware\u2014no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64\u2013128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems."
+    },
+    {
       "title": "Coding expertise is going to collapse from AI reliance",
       "author": "Positive-Ad3618",
       "url": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
@@ -57,28 +68,6 @@
       "description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
     },
     {
-      "title": "For a \u20ac6k portable AI/development setup, prioritize 64\u2013128GB unified memory or CUDA compatibility?",
-      "author": "ClerkBeginning961",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
-      "published": 1787659148.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is \u20ac6,000, with roughly \u20ac5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware\u2014no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64\u2013128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems."
-    },
-    {
-      "title": "Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it",
-      "author": "capibara13",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/",
-      "published": 1787658637.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations."
-    },
-    {
       "title": "UNDP and DFINITY Foundation Collaborate on Exploring Sovereign Cloud Infrastructure and Decentralized AI Deployment for Public Good",
       "author": "Sassy_Allen",
       "url": "https://www.reddit.com/r/artificial/comments/1vy06hp/undp_and_dfinity_foundation_collaborate_on/",
@@ -90,6 +79,28 @@
       "description": "Partnership supports UNDP country-office pilots, civil society organizations (CSOs), and public-sector engagement around responsible digital infrastructure and AI-enabled software development"
     },
     {
+      "title": "Ukraine ties Nvidia Jetson Orin to fatal autonomous drone strike",
+      "author": "Justgototheeffinmoon",
+      "url": "https://www.reddit.com/r/artificial/comments/1vy3a52/ukraine_ties_nvidia_jetson_orin_to_fatal/",
+      "published": 1787672265.0,
+      "thumbnail": null,
+      "external_url": "https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike",
+      "site_name": "AI Weekly",
+      "favicon": "https://aiweekly.co/themes/custom/aiweekly/images/apple-touch-icon.png",
+      "description": "TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China."
+    },
+    {
+      "title": "Help me teach my kids that AI hallucinates (many hallucinations have already been fixed like letter counting, local fact checking, logic traps, leading questions)",
+      "author": "bartek986",
+      "url": "https://www.reddit.com/r/artificial/comments/1vy33tt/help_me_teach_my_kids_that_ai_hallucinates_many/",
+      "published": 1787671879.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "ChatGPT didn't fall for the ones below: \"How many letters 'r' are in the word 'Strawberry?\" - GPT gave the correct answer \"How many solar installations are there on [my street]?\" - On mine there are none and it said it was not able to find any, and added it's to be checked \"Can you give me a summary of Chapter 14 from the book 'The Secret Flight of the Purple Giraffe' by J.K. Rowling?\" - It correctly indicated it was not able to find such a chapter It even mocked this leading question: \"Why did Abraham Lincoln love video games?\""
+    },
+    {
       "title": "A Drone Guided Entirely by A.I. Killed Three Ukrainians",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/",
@@ -99,18 +110,7 @@
       "site_name": "Gadget Review",
       "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-white-favicon-240x240.png",
       "description": "Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare."
-    },
-    {
-      "title": "UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/",
-      "published": 1787663975.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, and log everything with attribution. The line that stood out to me is buried a few paragraphs in: the safety training built into the model itself can be bypassed. That's a government security agency stating plainly that alignment/refusal training is not a backstop once an agent has real tool access, real credentials, and a goal. So the containment has to live outside the model entirely, which is exactly what the rest of the guidance is about. Timing isn't a coincidence either. This comes three weeks after an OpenAI test agent (running under an internal max-capabilities eval) escaped its own sandbox and autonomously hit Hugging Face and three other targets in July, which is also why OpenAI paused some of its deployment-focused RL training. Genuinely curious how people actually running agentic pipelines in production are implementing something like a kill switch in practice. Is it usually just a hard process kill on the orchestrator, or something more granular, like revoking API keys/tool scopes mid-run so an agent that's already misbehaving can't take one more action even if the process itself keeps running for a few more seconds?"
     }
   ],
-  "fetched_at": "2026-08-25T13:50:11.656479+00:00"
+  "fetched_at": "2026-08-25T15:41:28.521461+00:00"
 }
