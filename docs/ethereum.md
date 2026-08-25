@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T21:33:39.060110+00:00'
+updated: '2026-08-25T22:27:25.159431+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 21:33 UTC  
+**Last Updated:** August 25, 2026 at 22:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,462.13
+### $2,426.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +8.2%  
-**30d:** +28.8%  
-**90d:** +21.2%  
-**1y:** -47.1%  
+**24h:** -1.5%  
+**7d:** +8.6%  
+**30d:** +29.2%  
+**90d:** +21.7%  
+**1y:** -46.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -160,7 +160,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Motley Fool • 1d ago
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -210,15 +210,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Prices Fall as Crypto Surge Halts—Where They Go Next](https://www.barrons.com/articles/bitcoin-xrp-ethereum-price-crypto-surge-16a9095f)**
-
-Barron's • 6h ago
-
----
-
 **[Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins'](https://www.ccn.com/news/crypto/ethereum-250k-tom-lee-launch-point-eth-surge-rotation/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -226,7 +220,15 @@ CCN.com • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
+
+---
+
+**[THORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins](https://thedefiant.io/news/press-releases/thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins)**
+
+George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
+
+The Defiant • 16h ago
 
 ---
 
@@ -240,7 +242,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 357 • 👍 52 • 💬 34 • ⏱️ 6:53 • 2h ago
+👁️ 357 • 👍 52 • 💬 34 • ⏱️ 6:53 • 3h ago
 
 ---
 
@@ -260,7 +262,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 251 • 💬 10 • ⏱️ 8:33 • 8h ago
+👁️ 4K • 👍 251 • 💬 10 • ⏱️ 8:33 • 9h ago
 
 ---
 
@@ -270,7 +272,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 10K • 👍 375 • 💬 275 • ⏱️ 19:33 • 22h ago
+👁️ 10K • 👍 375 • 💬 275 • ⏱️ 19:33 • 23h ago
 
 ---
 
@@ -330,7 +332,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 28K • 👍 2K • 💬 68 • ⏱️ 49:14 • 11h ago
+👁️ 28K • 👍 2K • 💬 68 • ⏱️ 49:14 • 12h ago
 
 ---
 
