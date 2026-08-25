@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T22:27:25.153331+00:00'
+updated: '2026-08-25T23:26:47.876711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 22:27 UTC  
+**Last Updated:** August 25, 2026 at 23:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,21 +81,21 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-4h ago
+5h ago
 
 ---
 
-**[The BTC I earned (and lost) as a kid still haunts me to this day](https://www.reddit.com/r/Bitcoin/comments/1vxwvv3/the_btc_i_earned_and_lost_as_a_kid_still_haunts/)**
+**[Coldcard Hacker discovered mixers and is doing a terrible job](https://www.reddit.com/r/Bitcoin/comments/1vy9gx8/coldcard_hacker_discovered_mixers_and_is_doing_a/)**
 
-When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
+64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-11h ago
+4h ago
 
 ---
 
 **[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,35 +105,37 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 ---
 
-**[Coldcard Hacker discovered mixers and is doing a terrible job](https://www.reddit.com/r/Bitcoin/comments/1vy9gx8/coldcard_hacker_discovered_mixers_and_is_doing_a/)**
-
-64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
-
-3h ago
-
----
-
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-18h ago
+19h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-20h ago
+21h ago
+
+---
+
+**[Does anyone else just really love Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vycu7q/does_anyone_else_just_really_love_bitcoin/)**
+
+I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
+
+2h ago
+
+---
+
+**[The BTC I earned (and lost) as a kid still haunts me to this day](https://www.reddit.com/r/Bitcoin/comments/1vxwvv3/the_btc_i_earned_and_lost_as_a_kid_still_haunts/)**
+
+When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
+
+12h ago
 
 ---
 
 **[the Wall Street Journal featured a full page Bitcoin ad today “The fringe phase is officially over."](https://www.reddit.com/r/Bitcoin/comments/1vy7by9/the_wall_street_journal_featured_a_full_page/)**
 
-4h ago
-
----
-
-**[BItcoin hitting 80K for the first time since May 🚀](https://www.reddit.com/r/Bitcoin/comments/1vxqxei/bitcoin_hitting_80k_for_the_first_time_since_may/)**
-
-16h ago
+5h ago
 
 ---
 
@@ -141,7 +143,7 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 The comparison is percentage gain from halving.
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +153,7 @@ The comparison is percentage gain from halving.
 
 **[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
@@ -159,13 +161,13 @@ WSJ • 7h ago
 
 ProCap Financial chairman and CEO Anthony Pompliano analyzes the massive Bitcoin rally on 'Varney & Co.'
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
 **[Bitcoin’s 10 Best Days Expose Punishing Cost of Missing Rebounds](https://www.bloomberg.com/news/newsletters/2026-08-25/bitcoin-s-best-days-expose-punishing-cost-of-missing-rebounds)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -173,7 +175,7 @@ Bloomberg • 1h ago
 
 Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -181,13 +183,13 @@ Yahoo Finance • 2h ago
 
 New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
 
-WJBF • 19h ago
+WJBF • 20h ago
 
 ---
 
@@ -195,7 +197,7 @@ WJBF • 19h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -253,7 +255,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 5h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 6h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -261,7 +263,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 11h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 12h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -285,7 +287,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 2 • 💬 3 • 1h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 2 • 💬 3 • 2h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -307,7 +309,7 @@ Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code L
 
 📺 David Lin 
 
-👁️ 63K • 👍 2K • 💬 418 • ⏱️ 39:07 • 19h ago
+👁️ 63K • 👍 2K • 💬 418 • ⏱️ 39:07 • 20h ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitcoin is flashing warning signs and your altcoins will feel it first. Before P
 
 📺 Chart Hackers
 
-👁️ 4K • 👍 278 • 💬 4 • ⏱️ 52:44 • 5h ago
+👁️ 4K • 👍 278 • 💬 4 • ⏱️ 52:44 • 6h ago
 
 ---
 
@@ -337,7 +339,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 226 • ⏱️ 12:06 • 21h ago
+👁️ 19K • 👍 1K • 💬 226 • ⏱️ 12:06 • 22h ago
 
 ---
 
@@ -387,7 +389,7 @@ Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ 
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 3K • 💬 248 • ⏱️ 43:03 • 1d ago
+👁️ 89K • 👍 3K • 💬 248 • ⏱️ 43:03 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading
 
 📺 Sin City Crypto
 
-👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 17h ago
+👁️ 11K • 👍 546 • ⏱️ 7:02:36 • 18h ago
 
 ---
 
