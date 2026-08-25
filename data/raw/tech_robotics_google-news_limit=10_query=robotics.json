@@ -15,6 +15,56 @@
       "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
     },
     {
+      "headline": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTVNSHhYUjJUaGJPbEdBZXBvdlRWN0lYZnU1aVJGZWlEOG9Uc2c2cFZqV2NhN0EwNUlPWDdraC1mWVItZmZCMjM3dldaeTdBNGJqMXN2WV9OV0FOSTlubzVRMGJLcDI4STdRZ2pwU0NkTmUtaXl4QVctclF2V29MUGNneGpzbkNLbGlSaldDS213SHU3S3VHdVBfT0RDXzAzY0x1SHphUVIxM1p3aGV1Rm10NFVNYTA4Tk1Zcg?oc=5",
+      "pub_date": 1787670114.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+      "image": "https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_14abfacb-ea35-4a1f-a3d4-01693db66823-prv.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823",
+      "description": "NVIDIA today announced NVIDIA Jetson Orin Nano\u2122 2, a new robotics computer set to redefine entry-level edge AI \u2014 putting frontier-class generative AI performance in the hands of millions of developers."
+    },
+    {
+      "headline": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3NfVjNnNHZtMTVGdFZPZFBjYnQzTkpobF93ZFFmd29WNTkzWXVVSUN4MUZaa0QtNUJRVGhtdnV5MmJkWWdQbEtKZlJsSi1UMDFjc1dXd3E2SjdGS2ZoYkV5cHNPYzFXYXlGY29Dd09NbWN6UWlJaEVaeEdOUkl5VWpXSWdmUGZYLWxfdVlZUVNhc2ZYdURQTzVTdm1yZldleFc4dlVCMzhJUQ?oc=5",
+      "pub_date": 1787670133.0,
+      "article_url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Jetson-Orin-Nano-2.jpg",
+      "description": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time."
+    },
+    {
+      "headline": "Nvidia unveils new robotics computer Jetson Orin Nano 2",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMnBfT0p5SXZkZlJ2NkVJVG5tby1QUExqaDdRVHBvNVhDY1o5MDlFalFRLXRWaEdjVnFsQkF0WGpJODhRRE84em5mcFlDRWE3cnR0VHctQ01lbTRfUHpCZ0Z6U1haY3U0MmZkN2R1Q0xYdjM2Y0tjNXVLcldSWDBmdTMzVkNVdVlGME5oSUV2a3BsRWNTS01sQQ?oc=5",
+      "pub_date": 1787671605.0,
+      "article_url": "https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214434126/image_2214434126.jpg?io=getty-c-w630",
+      "description": "On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI."
+    },
+    {
+      "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0VycHF2TlJzSTQzVGtoa1VjOFUxU3VXQnJYSHB6ZTVaLXlKUDladm5FOGVUUTl5TU16dWNxZXRGZzVQS1RXUHFCZmE1dnBTT0VMQWNSTzhwNzlKNGdCQ1pNVmxITHVPTW1yODl5OFdaQnE1YktBS3B5TTEza3BvWjJQWnh4VkJkUjhvZm1KSzFpalpBTFh3c0o1NFAyeldmRkRja2pjNkJMZGMwdERUbg?oc=5",
+      "pub_date": 1787676835.0,
+      "article_url": "https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/zancasort-download.jpeg",
+      "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
+    },
+    {
+      "headline": "Corvus Robotics raises $20M as co-founder takes CEO role",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdk42ZTZpaWhCZDVkVTRsM0c0V3Jrd1VSM2FHemM5UHJpeERNQTlKR25WS1pqQllzTHV0TXlHMVZnU1JTUHprc3ZvbjFJVDVuMmR4aU8td3NTSkhFbUZ0UnEyN25QcmVmQWtWS2FyQ0c4U3FzdHRDWWJBbDRrbGozWnltUkt4VGFKUnNxNXZ3ejJ4N2xHclE?oc=5",
+      "pub_date": 1787674800.0,
+      "article_url": "https://www.bizjournals.com/sanjose/news/2026/08/25/corvus-robotics-mohammed-kabir-ceo.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -23,26 +73,6 @@
       "article_url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
-    },
-    {
-      "headline": "RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MDdMZlFZTUt3VnJscHg4VE1yQ05SUG5ISEdwNmdwYUpEZ2Q1LUtud2hMal9Mb0txdHowRElNOUZKWk45OTlpbm5kQnFQdllwcjVUblpyYTB3aEU?oc=5",
-      "pub_date": 1787668221.0,
-      "article_url": "https://www.foxbusiness.com/video/6404025127112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bff52ed6-68aa-497c-99c3-92ecd2f171c8/7b394956-a988-46fe-aff1-133c3aba771c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "RoboStore CEO Ted Haggerty discusses China\u2019s advances in humanoid robots, America\u2019s position in the global robotics race and potential robot soldiers on \u2018Varney & Co.\u2019"
-    },
-    {
-      "headline": "BlackBerry CEO says robotics is fastest-growing QNX segment",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zTTVZc0RqaWFSOHhfVEJkOE1jU1R4cTVlS1NqR2NWLUtsaWx3MmpZY3pmeFBBT1AyMGN3LVk1b3BDTEZyajR4TFBESFVQc0RiNklGOVhiT2pWUkNMdFJSZExOdHlDbXQ4Zkc4NG1sX3Jibmc?oc=5",
-      "pub_date": 1787664495.0,
-      "article_url": "https://qz.com/blackberry-qnx-robotics-fastest-growing-ceo-082526",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2207049128-300x200.jpg",
-      "description": "CEO John Giamatteo cited warehouse robots, robotic forklifts, and medical robotics as key growth areas within its $950M QNX order backlog"
     },
     {
       "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
@@ -65,46 +95,16 @@
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
-      "headline": "Scoop: Generalist raises another $200 million for AI robotics",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787658941.0,
-      "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Inside China\u2019s Race To Rule Robotics",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
-      "pub_date": 1787626265.0,
-      "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTdWSHNoT0NwMlpUaHAxc3lWV2FnTW9hcW9SNVlLZWR0STRRYVlZSGREZUI4c181empUQ3NZc3AxOW9heVhMR0xuVUJsZV9YZlhPdWVkbkNvNkJaSS1KQ3ktSk12RkVsQ09tZG5WN0dwYmRFV05RVTdSVUZNSFdaSlNKYld3ZTMxOU91Mk9yb2V1cWwyVnhVemN2cm9OLXNrenZyX2tQRE9neV9nX29ydUJyQk95WW14dFJ4bE5ER1NfS0dCdHFkTWxJWlFCMWZNSUFZ?oc=5",
-      "pub_date": 1787570638.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pSkpUN1NXT292TGRPWkFtUHlxdTNSTUlBejk2bDNjZXhDb3pWVHVhcnkwWXBqYms5TGFnQ19haWtpcTVtX3g5Nlh6dE8ta0hKQ3VYdFZ5RjhOejBFVmtOSURXZHdDYS1oNmdlcmFISVRyY09SVlFxbUNSNNIBgAFBVV95cUxOVXZVdGx3UmJDLWhxWGVoTmpmREY1RWFrdGR4Z3NGZWJ0bVlrRzVYRlRVeXFaWjJpS0RWUFkwQ2ZQaXFHX1RaaF9lLU9VaXFnOFNrcUpXYUdPbVhDdk8zYjlFajZSSU9Ud05PVnd3MF81TGFXcEx2U1c5MGlzeGZkLQ?oc=5",
-      "pub_date": 1787630917.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353647-1787624536591-gettyimages-2274268552-260505_Shopping_mall_store.jpeg?v=1787624561&w=1920&h=1080",
-      "description": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business."
+      "headline": "RoboStore CEO Ted Haggerty on humanoid robots and the robotics race with China",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MDdMZlFZTUt3VnJscHg4VE1yQ05SUG5ISEdwNmdwYUpEZ2Q1LUtud2hMal9Mb0txdHowRElNOUZKWk45OTlpbm5kQnFQdllwcjVUblpyYTB3aEU?oc=5",
+      "pub_date": 1787668221.0,
+      "article_url": "https://www.foxbusiness.com/video/6404025127112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bff52ed6-68aa-497c-99c3-92ecd2f171c8/7b394956-a988-46fe-aff1-133c3aba771c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "RoboStore CEO Ted Haggerty discusses China\u2019s advances in humanoid robots, America\u2019s position in the global robotics race and potential robot soldiers on \u2018Varney & Co.\u2019"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T15:41:47.146245+00:00"
+  "fetched_at": "2026-08-25T17:31:38.722232+00:00"
 }

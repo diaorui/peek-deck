@@ -5,7 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Opinion | The Warning Lights Are Blinking Again",
+      "headline": "Opinion | We Know the Risks of A.I. We Need to Act.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
@@ -13,6 +13,76 @@
       "article_url": "https://www.nytimes.com/2026/08/25/opinion/ai-risks.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG9hU01WSFg5ajRrWGFnNnJsODNjV0JFdElYMzVXczZYbzVkOWNsUk12ek4yMkRLeVlrOVVNRUxpUW1OdXdia2RQb3BQbTNzRnc5MDNmQlpmbDF2a050bXVHZlRFOEU5bkw4aG1tWDRWc19MX3FJZEdua2wtbGNUSnZpYWViVjZNUlJGZGwyWEk4X21IWUpabHJDMVJYVThFVjBZVWdjUdIBrAFBVV95cUxNQzN6R3J5dWQwRWVnWnhMSUx4QU5CY2QxSy1ncjlyTW5lUk1sVkZWcUZrMjlJUENpQ1JVSUs1UHVXaWxiTEM1cE0tX0lYcDBHYUlEekVFLWhtNGVKS2dlX1MyeUNVcTNMaW84VlBFblVRSGlnVjFleFJjRFZDQkgwYzBERmd1OHZLTllxR2x2QnJhdnB0UzZob3hLQ1k3T2FUbDNoR1RwNV95SWZw?oc=5",
+      "pub_date": 1787662801.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107032892-16476175322022-03-18t152944z_468709615_rc2z4t90ne2j_rtrmadp_0_apple-products.jpeg?v=1647617616&w=1920&h=1080",
+      "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said."
+    },
+    {
+      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
+      "pub_date": 1787662811.0,
+      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
+      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
+    },
+    {
+      "headline": "Why Apple\u2019s New AI-Powered Mac Mini is Crucial for the Stock",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5VlEtMHR2T2JnOUhNTmoyZVNmd2lqblJOMGpETC1ZbzFiNWpXaGdvdzZkc2hNeEFnOTVoUm4xMUtjUEhsdHoyYlhRY1A5TEFDWVdobGpmUl9NcDlUT1pBOFhmRndHYUd5Zm9jYjF0anQ2ejZxTUhCS3FWSQ?oc=5",
+      "pub_date": 1787677980.0,
+      "article_url": "https://www.barrons.com/articles/apple-stock-price-mac-mini-ai-dbd82dff",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI is making critical infrastructure easier to attack",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1POXZOTVpmMzNiQkdpeHJQQnZlY3lYUlkzM3dPZEl2bHZRNVl1VUZTOFJ3UVhsWU9TNjgtYmxub0drUXpiMlE3MXZabll1U3VOcVVsdGtqbFMwbi1EOGxwazFKeElVU1hLbGsxR251b1Zqb3BZVGpfUVpBelI?oc=5",
+      "pub_date": 1787678431.0,
+      "article_url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why the threat from the rampaging AI machine went ignored | Letters",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3gydlVRbUt4UjhSX3JKc25hSzdBY3JSd0pTeGdxak81cjZGci1lMk5uekNGLVJNZmNyMURWMEt4S20wMWhlQ00yQ2JBSlZDOUNqQ2RDaE9JTFdHQVdUWWdMVko5SDJLRXN5amFTYkRvYUlUSEJnRlpVYXJYQ3dJZ3dHc2MtYk9mbnlBX1FFSXN5cVNRaExYQzBVeW1kakNJeFFod3FYbWVTQWU2?oc=5",
+      "pub_date": 1787676900.0,
+      "article_url": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
+      "image": "https://i.guim.co.uk/img/media/86a03a966ce87d89abd38660797306a09552ea83/0_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54fd95419addaff68948013906775cab",
+      "description": "Letters: Jonathan Michie on his father\u2019s efforts in the 1970s to map out concerns regarding widespread social coercion driven by automation. Plus a letter from Callum Brown"
+    },
+    {
+      "headline": "Former Google Researchers Want to Keep Humans in AI Driver\u2019s Seat",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0hkXzViY3hSTDB4S0tYam9LcXpDYW0yMjNXLVA3TkZsLXItTUh3OWI2VnBGaGt4VlBvRTFySWxDRnA0MWhkMXZxTy1oRThVSGo1OEVMb21wdFpzSWxpaWFxUDFBVDc1eVVqLWZndTNXdm81NW1RODRpWE03ckxDOE5QQjI2TjI4RkZZRDNuYVpxTVF3MEJjUTBnbThnYWExSUdrLUdNRmxCdmFnbkJsWnFFWFRybVE?oc=5",
+      "pub_date": 1787677202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | My team fed chatbots election lies. Here\u2019s what happened.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVBIU3NWV0p5c2RXZnhEMXpyUG9zZ1V4WGtTWGhfYU5xQjNSRExqeHZ2Nkh0bGE0RzllZnZwTS1CdXlZOU9VcmVBQTBKWVYxQnJwVDFrTk5qMzFZZWZoUVUtSmV3dXlyc0xRTkJBZG1TNDFRb2VkVlctTHBFWXFDenRDbkI1NW1XNGIwU2xjWmVmSkRhR19pa0dweEhFZWlJbTBYR18tRktLbVh3X3MyTWpXNA?oc=5",
+      "pub_date": 1787677370.0,
+      "article_url": "https://www.washingtonpost.com/opinions/2026/08/25/ai-chatbots-may-be-next-voter-guide-election-denialism-beware/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3WRHVZ2AN5HZBCVPLRROGEKEVA.jpg&w=1440",
+      "description": "Did the machines push back? The midterms hang in the balance."
     },
     {
       "headline": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe",
@@ -25,46 +95,6 @@
       "description": null
     },
     {
-      "headline": "AI Firms Go Shopping in Bankruptcy Court",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeGZQVTl0c2VnRllQODY2dWZjTGRseUI1dmJPdFdjZU1KcDdnSzhXSHYyYXNIZVpvNDBMaWY1MGZKSmxlU2VpcWtYNDZRdTdEbWNxeVVvdkNoMnY4N3kzMDhyNTFHbXFGR2cwX0xyYVNXdjY5d3lCVVRvOUhRQnhYOExEX1JIOUxZb3RtR09xanBHMkZVMDRtcnRn?oc=5",
-      "pub_date": 1787671806.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-08-25/ai-firms-go-shopping-in-bankruptcy-court",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "We're trimming our position in an AI stock to protect our profits",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUE3Q191aGl2MGRjXzltSmhoeEVmTUJMb21LU0VpbFE3bXFVLVlWcC10cEhXSHFVT0hETE5jMml0VTUwYV9VQlBNaTNqOUI0QU1odi10dUxDSk9OdGJNamNKeWVsNGNzWk85ckZyVFdjV1lsckVPaGJWODM3YmRpVXlRcXE4a2gxNE9PaUNJQk5DS196aExTSTJjakRPWWJxMGh1QQ?oc=5",
-      "pub_date": 1787671403.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/were-trimming-our-position-in-an-ai-stock-to-protect-our-profits-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080",
-      "description": "This is our second sale in as many days to reduce our exposure to the theme."
-    },
-    {
-      "headline": "Apax puts its trust in AI safety firm Alice",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2lvZVBMS2RfOHNVb0dKSmlYU2l4OTIwUmhFU3dVUDFLUFhtZ0FKN3RsbnpTRWRoYzR3QzVGYkNON3l0cGNodS1idXlnV3JaM2w0NUlYODZ2UTA1b0JYeWVaQ3djNFRNSXk0NHhXWWFNOUVuNUNEYXZzcWxieDhUR0xDNjVBYjA00gGSAUFVX3lxTFAxb0RzMDZTdzhGUTBkNXp2bXdzclJSV3lkWWxiV1NVTTE5ZTVRc1BLcDh3YjA4bHlTd1pSbHFjSXFhR2lDanR2NXFnNGo3V280THRseXN3djhzcWd4M3AtVzVhN1Flb0IzUHlQYkpITmxlZE9zMDNSZjRqcXNkYVRqai1LdF8yaDhPSEYybEhTOUJB?oc=5",
-      "pub_date": 1787670964.0,
-      "article_url": "https://www.wsj.com/articles/apax-puts-its-trust-in-ai-safety-firm-alice-bf62f424",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | My team fed chatbots election lies. Here\u2019s what happened.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVBIU3NWV0p5c2RXZnhEMXpyUG9zZ1V4WGtTWGhfYU5xQjNSRExqeHZ2Nkh0bGE0RzllZnZwTS1CdXlZOU9VcmVBQTBKWVYxQnJwVDFrTk5qMzFZZWZoUVUtSmV3dXlyc0xRTkJBZG1TNDFRb2VkVlctTHBFWXFDenRDbkI1NW1XNGIwU2xjWmVmSkRhR19pa0dweEhFZWlJbTBYR18tRktLbVh3X3MyTWpXNA?oc=5",
-      "pub_date": 1787671970.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/08/25/ai-chatbots-may-be-next-voter-guide-election-denialism-beware/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3WRHVZ2AN5HZBCVPLRROGEKEVA.jpg&w=1440",
-      "description": "Did the machines push back? The midterms hang in the balance."
-    },
-    {
       "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -73,38 +103,8 @@
       "article_url": "https://openai.com/index/jalapeno-first-results/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
       "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
-    },
-    {
-      "headline": "Australia\u2019s music industry bans AI songs from charts",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
-      "pub_date": 1787662200.0,
-      "article_url": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
-      "image": "https://dims.apnews.com/dims4/default/bce902c/2147483647/strip/true/crop/4746x3162+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fab%2Fb36be075b7ec7d126714d246b6c6%2F9a539b41cc0543da9b26795b203176a7",
-      "description": "Australia\u2019s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists\u2019 livelihoods."
-    },
-    {
-      "headline": "Songs created by AI banned from Australia's music charts",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByV3JHa0VibHZPa3RUdTZPRVFBdDlwZE53Sm5nUmpyXzRENTh0ejJmbDZZTDF0LTBlYUZFZE9jdllPYXB4TDhUbW9hWFdjUHhTeklzN1EzYk85QQ?oc=5",
-      "pub_date": 1787633641.0,
-      "article_url": "https://www.bbc.com/news/articles/c20vl4vm2pno",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg",
-      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
-    },
-    {
-      "headline": "Australia Bans Generative A.I. From Official Music Charts",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lIMXdTUWVicGpiek1qLUdheVN1d3FNNmwwVDdFdjluY0xpT1F3OG13RmZwTWJPZ25tSDBjUWJ2eVN0VmR0RUVTZml6WjdKWWNySDh4Y1p4blh1X3RyNG01WWdmWUZ1T0pqaFQzQXp1aVFaRnRtY0NuaExXb2ROTUl5Zy1MNXBoZlI2bA?oc=5",
-      "pub_date": 1787645089.0,
-      "article_url": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T15:41:53.414585+00:00"
+  "fetched_at": "2026-08-25T17:31:44.550751+00:00"
 }

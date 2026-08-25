@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-25T17:31:15.676449+00:00",
+  "data": {
+    "url": "https://krackpot.io/kangaroo",
+    "title": "Recover a Bitcoin private key from its public key, in your browser",
+    "description": "How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.",
+    "image": "https://krackpot.io/icons/kangaroo-og.png",
+    "favicon": "https://krackpot.io/favicon.ico",
+    "site_name": "Krackpot",
+    "author": "Simon Males",
+    "keywords": null
+  }
+}
