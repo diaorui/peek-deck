@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T08:42:00.891813+00:00'
+updated: '2026-08-25T09:34:54.925446+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 08:42 UTC  
+**Last Updated:** August 25, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,27 +79,19 @@ Rank #1
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-4h ago
+5h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-6h ago
+7h ago
 
 ---
 
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-11h ago
-
----
-
-**[Bitcoin vs Gold Supply](https://www.reddit.com/r/Bitcoin/comments/1vxevr8/bitcoin_vs_gold_supply/)**
-
-There is a lot of gold left to be mined. Bitcoin? Not so much.
-
-11h ago
+12h ago
 
 ---
 
@@ -111,19 +103,33 @@ There is a lot of gold left to be mined. Bitcoin? Not so much.
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
 
-5h ago
+6h ago
 
 ---
 
 **[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-21h ago
+22h ago
+
+---
+
+**[Bitcoin vs Gold Supply](https://www.reddit.com/r/Bitcoin/comments/1vxevr8/bitcoin_vs_gold_supply/)**
+
+There is a lot of gold left to be mined. Bitcoin? Not so much.
+
+12h ago
+
+---
+
+**["It might make sense just to get some in case it catches on." (turns out, it did).](https://www.reddit.com/r/Bitcoin/comments/1vxt6sx/it_might_make_sense_just_to_get_some_in_case_it/)**
+
+1h ago
 
 ---
 
@@ -131,13 +137,7 @@ There is a lot of gold left to be mined. Bitcoin? Not so much.
 
 Don’t time the market embrace it.
 
-10h ago
-
----
-
-**[How owning ibit shares in my tfsa feels right now!](https://www.reddit.com/r/Bitcoin/comments/1vxoz2n/how_owning_ibit_shares_in_my_tfsa_feels_right_now/)**
-
-4h ago
+11h ago
 
 ---
 
@@ -147,7 +147,7 @@ Don’t time the market embrace it.
 
 **[Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -161,13 +161,13 @@ CoinDesk • 1h ago
 
 Both Bitcoin $Bitcoin (BTC.CC)$ and Gold $XAU/USD (XAUUSD.CFD)$ have been rallying while equities sell off and Treasury yields sit at 52-week highs. That is not a coincidence — it is a message. When sovereign debt sells off and the dollar weakens simultaneously, capital rotates toward assets outside the sovereign liability structure. That rotation is visible in both charts right now. On the other hand, Treasury Secret...
 
-Moomoo • 8m ago
+Moomoo • 1h ago
 
 ---
 
 **[MicroStrategy (MSTR.US) sees unrealized Bitcoin gains surpass $4 billion, with 840,000 BTC holdings serving as a bellwether for institutional investors](https://www.moomoo.com/news/post/75204005/microstrategy-mstrus-sees-unrealized-bitcoin-gains-surpass-4-billion-with)**
 
-Moomoo • 24m ago
+Moomoo • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Moomoo • 24m ago
 
 New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Financial Times • 1d ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 18h ago
+Euronews.com • 19h ago
 
 ---
 
@@ -215,7 +215,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -227,7 +227,7 @@ Business Insider • 22h ago
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 17h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 18h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -265,7 +265,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 12h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -279,7 +279,7 @@ In today's video, we go over yesterday's long trade and outline whether $85000 i
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 313 • 3h ago
+👁️ 3K • 👍 313 • 4h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin ripped higher last week, but mainstream Wall Street media is telling you
 
 📺 Ross Givens
 
-👁️ 3K • 👍 99 • 💬 27 • ⏱️ 1:00 • 14h ago
+👁️ 3K • 👍 99 • 💬 27 • ⏱️ 1:00 • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 126 • 💬 100 • ⏱️ 0:53 • 13h ago
+👁️ 4K • 👍 126 • 💬 100 • ⏱️ 0:53 • 14h ago
 
 ---
 
@@ -319,7 +319,7 @@ SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and
 
 📺 Verified Investing
 
-👁️ 11K • 👍 766 • 💬 90 • ⏱️ 17:09 • 14h ago
+👁️ 11K • 👍 766 • 💬 90 • ⏱️ 17:09 • 15h ago
 
 ---
 
@@ -329,7 +329,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 368 • 💬 184 • ⏱️ 14:52 • 15h ago
+👁️ 12K • 👍 368 • 💬 184 • ⏱️ 14:52 • 16h ago
 
 ---
 
@@ -339,7 +339,7 @@ FREE INVESTOR QUIZ: https://investor-profiler.investanswers.io JOIN THE FAMILY: 
 
 📺 InvestAnswers
 
-👁️ 38K • 👍 3K • 💬 262 • ⏱️ 26:21 • 12h ago
+👁️ 38K • 👍 3K • 💬 262 • ⏱️ 26:21 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin #Crypto #finance Bitcoin is coming off one of its strongest weeks in yea
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 1K • 💬 565 • ⏱️ 1:05:21 • 15h ago
+👁️ 25K • 👍 1K • 💬 565 • ⏱️ 1:05:21 • 16h ago
 
 ---
 
@@ -369,7 +369,7 @@ Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading
 
 📺 Sin City Crypto
 
-👁️ 10K • 👍 548 • ⏱️ 7:02:36 • 3h ago
+👁️ 10K • 👍 548 • ⏱️ 7:02:36 • 4h ago
 
 ---
 

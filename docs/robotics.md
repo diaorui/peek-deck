@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T08:42:00.898195+00:00'
+updated: '2026-08-25T09:34:54.935051+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 08:42 UTC  
+**Last Updated:** August 25, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main b
 
 This article show how a robot can be trained purely on monocular video (from video to RL policy!). It's a series of articles, with open source-code, based on Unitree GO2 robot trained in Isaac Sim and Mujoco. TL;DR: I taught a quadruped robot to imitate a real dog — using nothing but a phone video. From a single monocular clip, I extract the dog's 3D skeleton, retarget its motion to the robot's joints, and train a reinforcement learning policy in a physics simulator until the robot moves like the dog it watched. It works, and it's fully open source. Because in the age of robots dancing and sprinting through forests, we shouldn't be spectators or subscribers — we should be owners. Code included. Build it yourself. https://postcapitalistrobots.substack.com/p/the-first-robot-trained-entirely
 
-23h ago
+1d ago
 
 ---
 
@@ -58,13 +58,13 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 **[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in S
 
 I went through a bunch of footage from the World Robot Conference after Unitree’s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there’s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 21h ago
 
 ---
 
@@ -88,7 +88,7 @@ I went through a bunch of footage from the World Robot Conference after Unitree�
 
 I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS
 
-20h ago
+21h ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -124,7 +124,7 @@ BBC • 10h ago
 
 BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 11h ago
 
 More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -146,7 +146,7 @@ Axios • 12h ago
 
 Its UAE-developed robots can support remote inspection, surveillance and environmental monitoring across ADNOC assets as Micropolis expands into oil and gas.
 
-Stock Titan • 12h ago
+Stock Titan • 13h ago
 
 ---
 
@@ -160,13 +160,13 @@ The San Francisco Standard • 1d ago
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
 **[Xpeng's robotics unit valued at over $6.3 billion after record funding round](https://www.reuters.com/business/retail-consumer/xpeng-says-its-robotics-business-raised-over-900-million-first-funding-round-2026-08-24/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ Reuters • 21h ago
 
 Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots are no longer just walking in laboratories — they are now comp
 
 📺 India Today Global
 
-👁️ 8K • 👍 65 • 💬 7 • ⏱️ 1:11 • 19h ago
+👁️ 8K • 👍 65 • 💬 7 • ⏱️ 1:11 • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground rob
 
 📺 EcoZora
 
-👁️ 83K • 👍 568 • 💬 10 • ⏱️ 0:07 • 2d ago
+👁️ 83K • 👍 568 • 💬 10 • ⏱️ 0:07 • 3d ago
 
 ---
 
@@ -256,7 +256,7 @@ Push and Pull Roller Mech | 8110S Subzero | Override Robot Rundown This video is
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 42 • ⏱️ 1:18 • 9h ago
+👁️ 1K • 👍 42 • ⏱️ 1:18 • 10h ago
 
 ---
 
