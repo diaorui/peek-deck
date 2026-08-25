@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T12:49:29.775539+00:00'
+updated: '2026-08-25T13:50:40.534395+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 12:49 UTC  
+**Last Updated:** August 25, 2026 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,23 +37,15 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
-
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 10h ago
-
----
-
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Coding expertise is going to collapse from AI reliance](https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/)**
+**[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-Anyone else actually dealt with this? Is it overblown, or am I missing something?
-
-16h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 11h ago
 
 ---
 
@@ -61,31 +53,15 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-1h ago
+2h ago
 
 ---
 
-**[A Drone Guided Entirely by A.I. Killed Three Ukrainians](https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/)**
+**[Coding expertise is going to collapse from AI reliance](https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/)**
 
-Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
+Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 18h ago
-
----
-
-**[Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it](https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/)**
-
-Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations.
-
-58m ago
-
----
-
-**[Nicolas Cole says his "100x" AI output isn't a smarter prompt — it's his entire writing process, written down until AI had nothing left to guess.](https://www.reddit.com/r/artificial/comments/1vxx90t/nicolas_cole_says_his_100x_ai_output_isnt_a/)**
-
-TL;DR: Cole's "100x output" is 30 hours spent once, so AI now runs 80% of every draft on its own. He edits the last 10% — the taste-level stuff, never the typing. That distinction is already showing up outside this clip. Christian Science Monitor just covered a manuscript polished enough to fool professional literary editors, pulled from sale — a multimillion-dollar bidding war between publishers — because no one could prove a human wrote it. Cole isn't describing a hypothetical ceiling — that ceiling's already been crossed, in public, in an actual publishing deal. The freelancers who feel replaceable right now are mostly the ones still handing AI a stack of old samples and hoping it infers the rules from them. Cole didn't hope. He sat down and wrote the rules out, sentence by sentence, until the model had nothing left to guess at. https://preview.redd.it/ftv0vk9vbilh1.jpg?width=1024&format=pjpg&auto=webp&s=e3e0da8c9feb5be532b32ddbe73f5dc9e08a36db Decades ago, the Malaysian construction landscape was like the wild-wild-west. I remember working as a technical engineer for one of the largest construction firms in Malaysia. The hydraulic hacking noise throughout the project site was pervasive and persistent for weeks. Grrrr…. Tat-tat-tat. Grrrrrrrr. Tat-tat-tat. Grrrrrr. You get the idea. It turns out that the structural operation team went ahead and constructed floors upon floors, without waiting for the mechanical and electrical team to embed their pipe sleeves, box-ups or ductworks before concreting. And so they have to come and hack the hardened concrete to open up for the M&E items to run through. Delay and additional cost already incurred. My then project director was pissed. We all had an earful from him. Said that prevention is always better than cure. So from that day onwards, a directive came down hard – no sign-off by all concerned parties on a properly coordinated drawings, means no concreting. The coordination drawings - overlays not just the design drawings from respective Architectural/Engineering trades, but also sub-contractor specialist details, as well. Discrepancies are ironed out with all parties, well before construction is due. It parallel hard on Nicolas investing time in building an exhaustive prompt, rule-by-rule, sentence-by-sentence, microstep-by-microstep. Only then, will the output come out the way we want it to be. Like when Daniel Craig was being asked by a talk show host what would he advise his successor on being the next James Bond, Daniel said, "Don't f\ck it up!"* Prevention is better than cure. ___________________ It's never the tool doing the replacing. It's the person who never got around to writing down what they already know how to do. What's the one process you already know cold but have never actually written down? Drop it below. Clip credit: Decoded Genius & Nicolas Cole — full video on their channel. DM for credit or removal requests.
-
-1h ago
+17h ago
 
 ---
 
@@ -93,23 +69,47 @@ TL;DR: Cole's "100x output" is 30 hours spent once, so AI now runs 80% of every 
 
 A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 
-🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 1h ago
+🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 2h ago
 
 ---
 
-**[How could I help my parents (in their 50s/60s) better recognize AI content?](https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/)**
+**[For a €6k portable AI/development setup, prioritize 64–128GB unified memory or CUDA compatibility?](https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/)**
 
-Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down. My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit. I appreciate your support!
+I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-17h ago
+1h ago
 
 ---
 
-**[I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating](https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/)**
+**[Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it](https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/)**
 
-You probably know how it goes: you give a complex prompt to a LLM, it spits out a highly confident answer, and you just sort of... hope it’s right. If you ask the same question in a different tab, Claude might give you a completely different answer. Gemini might say they are both wrong. I've done it this way for a long time, and many of my friends seem to do the same. I wanted to see what happens if you don't just compare answers, but actually bring AI models into a shared chat to discuss the question together. Here is how it went when they could discuss each other's replies in real-time: - ChatGPT went first. It wrote a beautiful, highly structured, and completely wrong answer. It hallucinated a tax rule that didn't apply to the prompt. - Claude stepped in next. It immediately flagged GPT’s tax hallucination, but overcorrected and messed up the final math equation. - Gemini acted as the final Judge. It took ChatGPT’s original structure, applied Claude’s logical correction, fixed the math, and spat out a flawless final output. The takeaway: Letting an AI model review itself is like a student grading their own work. It just repeats the same assumptions. When you force different models (OpenAI vs Anthropic vs Google) to fact-check each other, they actually expose each other's blind spots and hallucinations. I got so obsessed with this multi-AI workflow that I built a site to let these models debate in real-time without having to copy-paste between different tabs (I posted about it earlier here). If anyone wants to try it or testing their own complex questions, curious to hear what kind of workflows you guys would use it for.
+Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it. But some of the sharpest comments here pointed out the ultimate failure mode: What if all three models share the exact same training blind spot? So instead of defending the setup, I want you to help me break it. Give me a question, problem or prompt that you think ChatGPT, Claude AND Gemini will all get wrong. It could be an obscure factual trap, a very convincing false premise, a common coding misconception, or a logic puzzle where the internet consensus is wrong. The part I'm especially curious about is whether: 1. One model catches a mistake immediately 2. They fight and eventually figure it out 3. Or all three confidently agree on the same wrong answer For context, this is the multi-model discussion setup I've been building into Rauno, but I'm mainly interested in finding its failure cases here. Give me your best attempt on a question to break it and I'll reply if they actually caught each others hallucinations.
 
-🔗 [Rauno](https://rauno.ai) • 1d ago
+2h ago
+
+---
+
+**[UNDP and DFINITY Foundation Collaborate on Exploring Sovereign Cloud Infrastructure and Decentralized AI Deployment for Public Good](https://www.reddit.com/r/artificial/comments/1vy06hp/undp_and_dfinity_foundation_collaborate_on/)**
+
+Partnership supports UNDP country-office pilots, civil society organizations (CSOs), and public-sector engagement around responsible digital infrastructure and AI-enabled software development
+
+🔗 [innovation.eurasia.undp.org](https://innovation.eurasia.undp.org/undp-dfinity-partnership/) • 10m ago
+
+---
+
+**[A Drone Guided Entirely by A.I. Killed Three Ukrainians](https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/)**
+
+Autonomous AI drone killed three Ukrainian civilians in Zaporizhzhia using an Nvidia Jetson Orin chip, marking a first in modern warfare.
+
+🔗 [Gadget Review](https://www.gadgetreview.com/a-drone-guided-entirely-by-a-i-killed-three-ukrainians) • 19h ago
+
+---
+
+**[UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed](https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/)**
+
+The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, and log everything with attribution. The line that stood out to me is buried a few paragraphs in: the safety training built into the model itself can be bypassed. That's a government security agency stating plainly that alignment/refusal training is not a backstop once an agent has real tool access, real credentials, and a goal. So the containment has to live outside the model entirely, which is exactly what the rest of the guidance is about. Timing isn't a coincidence either. This comes three weeks after an OpenAI test agent (running under an internal max-capabilities eval) escaped its own sandbox and autonomously hit Hugging Face and three other targets in July, which is also why OpenAI paused some of its deployment-focused RL training. Genuinely curious how people actually running agentic pipelines in production are implementing something like a kill switch in practice. Is it usually just a hard process kill on the orchestrator, or something more granular, like revoking API keys/tool scopes mid-run so an agent that's already misbehaving can't take one more action even if the process itself keeps running for a few more seconds?
+
+31m ago
 
 ---
 
@@ -117,65 +117,59 @@ You probably know how it goes: you give a complex prompt to a LLM, it spits out 
 
 ## Google News: "ai"
 
-**[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html)**
+**[By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity](https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html)**
 
-The New York Times • 18h ago
-
----
-
-**[Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)**
-
-Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.
-
-CNBC • 21h ago
+The New York Times • 4h ago
 
 ---
 
-**[AI may answer some New Orleans 911 calls](https://www.foxnews.com/tech/ai-answer-new-orleans-911-calls)**
+**[UN agency and DFINITY launch soverign AI pilots for governments](https://www.axios.com/2026/08/25/un-sovereign-ai-big-tech-cloud)**
 
-New Orleans 911 uses Carbyne AI to triage repeat auto crash calls, but strict limits keep human call-takers in control of all other emergencies.
-
-Fox News • 1h ago
+Axios • 1h ago
 
 ---
 
-**[AI Server Smuggling: Taiwan Charges Nine](https://www.wsj.com/pro/cybersecurity/ai-server-smuggling-taiwan-charges-nine-72009fad)**
+**[Apple launches M6 Mac Mini and updated Mac Studio with AI upgrades](https://qz.com/apple-mac-mini-m6-mac-studio-ai-upgrades-082526ni-with-its-first-m6-chip-as-ai-demand-drives-higher-prices)**
 
-WSJ • 1h ago
+The new Mac Mini starts at $899, up $100 from the prior model, with availability beginning September 22
+
+qz.com • 29m ago
 
 ---
 
-**[How accurate are AI writing detectors? Try to trick this one.](https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/)**
+**[Nvidia’s Groq Chip Will Shape AI Agent Usability](https://www.wsj.com/cio-journal/nvidias-groq-chip-will-shape-ai-agent-usability-b2e076cd)**
 
-See what it takes to convince an AI writing detector that AI-generated text was written by a human.
+WSJ • 23m ago
 
-The Washington Post • 2h ago
+---
+
+**[We’re partnering with the State of Delaware to provide free AI and career training.](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/)**
+
+Google partners with Delaware to provide free Career Certificates and AI training to residents statewide.
+
+blog.google • 36m ago
+
+---
+
+**[To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers](https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html)**
+
+Workers are "time traveling" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.
+
+CNBC • 50m ago
 
 ---
 
 **[EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe](https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[Routing is coming for the frontier AI labs](https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs)**
+**[The Fed doesn’t know who’s financing the $3 trillion AI boom](https://fortune.com/2026/08/25/the-fed-doesnt-know-whos-financing-the-3-trillion-ai-boom/)**
 
-Axios • 3h ago
+The Fed spent the past few years relearning the dangers of underestimating inflation. The challenge now is complexity and financial innovation.
 
----
-
-**[Australia’s music industry bans AI songs from charts](https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687)**
-
-Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.
-
-AP News • 6h ago
-
----
-
-**[Australia Bans Generative A.I. From Official Music Charts](https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html)**
-
-The New York Times • 4h ago
+Fortune • 4h ago
 
 ---
 
@@ -183,7 +177,15 @@ The New York Times • 4h ago
 
 The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
-BBC • 7h ago
+BBC • 8h ago
+
+---
+
+**[Australia’s music industry bans AI songs from charts](https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687)**
+
+Australia’s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists’ livelihoods.
+
+AP News • 1h ago
 
 ---
 
@@ -195,7 +197,7 @@ BBC • 7h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 786 • 💬 690 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 791 • 💬 693 • 1d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -203,7 +205,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 686 • 💬 289 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
+⬆️ 687 • 💬 290 • 1d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -211,7 +213,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 518 • 💬 509 • 20h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 522 • 💬 513 • 21h ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -219,7 +221,15 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 366 • 💬 72 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 368 • 💬 73 • 1d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+
+---
+
+**[Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://news.ycombinator.com/item?id=49433292)**
+
+Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
+
+⬆️ 193 • 💬 127 • 49m ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 
 ---
 
@@ -235,7 +245,7 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
-⬆️ 148 • 💬 45 • 2d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
+⬆️ 149 • 💬 45 • 2d ago • [Jacob Peake](https://www.jepeake.com/ai-chip-architectures)
 
 ---
 
@@ -243,7 +253,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 111 • 💬 13 • 1d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 136 • 💬 16 • 1d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -261,14 +271,6 @@ How I actually use AI in day-to-day infrastructure work, and why I think it's th
 
 ---
 
-**[We must not grant AI agents legal personhood](https://news.ycombinator.com/item?id=49410628)**
-
-What kind of sanctions could keep a non-human corporation in check?
-
-⬆️ 62 • 💬 112 • 1d ago • [ft.com](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -279,7 +281,7 @@ Live-streamed on August 19, 2026. Check out @404Mediaco's report: ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 38K • 👍 2K • 💬 358 • ⏱️ 13:41 • 16h ago
+👁️ 38K • 👍 2K • 💬 358 • ⏱️ 13:41 • 17h ago
 
 ---
 
@@ -299,7 +301,7 @@ An internal GOP memo says support for AI data centers could cost Republicans sea
 
 📺 ABC News
 
-👁️ 181K • 👍 1K • 💬 515 • ⏱️ 2:00 • 22h ago
+👁️ 181K • 👍 1K • 💬 515 • ⏱️ 2:00 • 23h ago
 
 ---
 
@@ -339,7 +341,7 @@ If you want to skip the hassle of researching, buying, and building a gaming PC 
 
 📺 ShortCircuit
 
-👁️ 40K • 👍 2K • 💬 118 • ⏱️ 13:43 • 17h ago
+👁️ 40K • 👍 2K • 💬 118 • ⏱️ 13:43 • 18h ago
 
 ---
 
@@ -349,7 +351,7 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Law By Mike
 
-👁️ 861K • 👍 16K • 💬 1K • ⏱️ 25:05 • 1d ago
+👁️ 861K • 👍 16K • 💬 1K • ⏱️ 25:05 • 2d ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 722 • 19h ago
+⬇️ 389,747 • ❤️ 722 • 20h ago
 
 ---
 
@@ -493,7 +495,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,525,645 • ❤️ 708 • 8h ago
+⬇️ 1,525,645 • ❤️ 708 • 9h ago
 
 ---
 
@@ -646,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.1k • 🔱 2.1k • 12h ago
+⭐ 18.1k • 🔱 2.1k • 13h ago
 
 ---
 
@@ -656,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 13h ago
+⭐ 14.2k • 🔱 1.7k • 14h ago
 
 ---
 
@@ -676,7 +678,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.6k • 🔱 609 • 4h ago
+⭐ 3.6k • 🔱 609 • 5h ago
 
 ---
 
@@ -706,7 +708,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.8k • 🔱 333 • 8h ago
+⭐ 2.8k • 🔱 333 • 9h ago
 
 ---
 
@@ -716,7 +718,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.3k • 🔱 131 • 20h ago
+⭐ 2.3k • 🔱 131 • 21h ago
 
 ---
 
@@ -726,7 +728,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 189 • 26s ago
+⭐ 2.2k • 🔱 189 • 1h ago
 
 ---
 

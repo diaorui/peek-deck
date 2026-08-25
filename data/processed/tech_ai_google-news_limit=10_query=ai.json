@@ -5,54 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
+      "headline": "By Opening a Model, a Chinese A.I. Lab May Test the World\u2019s Cybersecurity",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
-      "pub_date": 1787594955.0,
-      "article_url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjdBMzBkZWNObjNqUzhDbXN5VTZtTkpOeXNyd2RmN1BaNHQ5S2ZCLXBhNGswZzBodUlFNTJVWW13VVFsdnE2bGxFQ3BUQW1ZTS1mYTlDU3RxbkJBbkhDRk9hbmhZSFNCaGM2eE9ULVRQTlR4QlBMRUI1S2J3cElDVWdiOU8?oc=5",
+      "pub_date": 1787648558.0,
+      "article_url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUhxcnhmTUVlMTRPYUM1TXZvY3RabEEtcDl5b3lnazJoYlZoNFhQZTVPa1ZnNG1lSTk3TVNfcjFXcjdUeERhMVV2dTEzMWxiN2g5YWY0SG5MWkpVSFhLR1p5RndmYWlxcUNxTVhzSU92dlBIbzJUcnNlWU9QV1JJS9IBhgFBVV95cUxQQnpMUGI2d3JsZF83ZGJBYVhaeFMtQmVUY1dQSjF4Y2t1S3R6RUg4ZUQxSjdKLWhfLUJ3NHd6VjhBeTFsY1B1aVNFb1Z1bFByeTZUYVBnUG9ZdFRKYzRHSy1xdl9iQkk4a09CdnFSREwzS20tUVlWczNVaEFFRmM4dGJNek9XZw?oc=5",
-      "pub_date": 1787583601.0,
-      "article_url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108142522-17466508042025-05-07t204524z_1758890738_rc28deam98qs_rtrmadp_0_usa-stocks.jpeg?v=1746650891&w=1920&h=1080",
-      "description": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers."
+      "headline": "UN agency and DFINITY launch soverign AI pilots for governments",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wc0xpbEhneHlGaDhKU0gxY1lzOXVKV2NuZFNXdUxXSk1sWTM4eThXMjE4bDFsM01mcC1EM0NRQlMtY1ZuOUlDOXB2cm1FTFJTNVBCeWNTUWlIM2k4SUxZWGZTNEdPeE11R2tYMlBfSzk?oc=5",
+      "pub_date": 1787659641.0,
+      "article_url": "https://www.axios.com/2026/08/25/un-sovereign-ai-big-tech-cloud",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI may answer some New Orleans 911 calls",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mclFoLUdRMURPcHhfeWNjM0JqejQxc1Q3czJSVzJac3ZWR2tEZ1NrRnJzRjNRMlREeC1RenZsNjJNYVlzNDVvTW5sdkM5RHM3Y2RLWk1vSk4xWFFSZVJmNzkzQXo3VlJKQWdIVdIBckFVX3lxTE9KbWlCQWp4TjdmUmZWMnduWVJ3eklkU09EMVd1Q2t0c2pYbm5mSzhIb2ZTQ3EwdF9CM0hLLS1CaVJrdW1EeUVGRU5nb2JfVTNNRWVlai14b0ZtdHNPa192eG5qamVBUXltU3Y1Z2pLR09iQQ?oc=5",
-      "pub_date": 1787658167.0,
-      "article_url": "https://www.foxnews.com/tech/ai-answer-new-orleans-911-calls",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/1-AI-may-answer-some-New-Orleans-911-calls.jpg",
-      "description": "New Orleans 911 uses Carbyne AI to triage repeat auto crash calls, but strict limits keep human call-takers in control of all other emergencies."
+      "headline": "Apple launches M6 Mac Mini and updated Mac Studio with AI upgrades",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2xUOUtXNUp1QWFkR0FVNVUtUzBfTldOV19sbEFQZ0tmazgwRmtpRjgwSVhVbUNpelF5S2h5NF8tbFhWWnR0cFdVeXJvY1hpQlkzSUJwUkNLdUFuclNqWHNIQUNTSHgtNTNuNkdxRThuSl9lbGRib2pxbzNPWld4SWcyWnBCcmR3bTJWUm5qS1FfOE1OSHFoQ05nV1NvcWxNbVVOY0pGTUhwVGI0NDB0Qnd6c2QyY1JubUtCOWt3?oc=5",
+      "pub_date": 1787664045.0,
+      "article_url": "https://qz.com/apple-mac-mini-m6-mac-studio-ai-upgrades-082526ni-with-its-first-m6-chip-as-ai-demand-drives-higher-prices",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2257911741-300x200.jpg",
+      "description": "The new Mac Mini starts at $899, up $100 from the prior model, with availability beginning September 22"
     },
     {
-      "headline": "AI Server Smuggling: Taiwan Charges Nine",
+      "headline": "Nvidia\u2019s Groq Chip Will Shape AI Agent Usability",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOW0wMlBWTGpmQkZ6VVVBM21rTlZWdWRLd1Jrd3FMR0FpQlMyaU0way0xQ2YzUFFIczNqUHFlejNUeEFNWVNOVmNKb2Z4MGlSNGNuRHdPdV9kYklMSGdoMUI1XzlGa3lmSVJzbnBHQUhZVjk3YnUtWm55dnpKWlItMHNfaFdOUUQ0RlFjdHlnSQ?oc=5",
-      "pub_date": 1787657820.0,
-      "article_url": "https://www.wsj.com/pro/cybersecurity/ai-server-smuggling-taiwan-charges-nine-72009fad",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFZ5Vm9DUWpmc0YzbE0xaDhUVE1na3hGdGlObWdGS3pNbU1BRVlBTjRDVXExWFJZcDJMSGFudU5Na3V4bWhXclhDMk1lNnhTeWJpNXpHUG9CcDI4R1hRMG9xVmxUQUhzc3NLNmFDcjNHV2tnVzNYZ1RsMV9oQ2hYa0ZEbUtWSnktbGpSNjB1WlRqdw?oc=5",
+      "pub_date": 1787664420.0,
+      "article_url": "https://www.wsj.com/cio-journal/nvidias-groq-chip-will-shape-ai-agent-usability-b2e076cd",
       "image": null,
       "description": null
     },
     {
-      "headline": "How accurate are AI writing detectors? Try to trick this one.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
-      "pub_date": 1787653968.0,
-      "article_url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLQW6FG2TFHBPLCXKGQTTJRM7I.jpg&w=1200",
-      "description": "See what it takes to convince an AI writing detector that AI-generated text was written by a human."
+      "headline": "We\u2019re partnering with the State of Delaware to provide free AI and career training.",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS21Ec0hKRDBJeXhMaWljZnc5RnhaaGZsRkZlS28wTXdpZ3UwUU9mWjE5azZ6djBfclV6SEdmSGxUTDJxVUpSN2E3Y2FuMkhMS1hrdGxRaUN3VHBzcUwwckloQnFLdi16dlV1OWdJdUhTN3BubkdJMFU4bmFySW5uR19JNlNMUlFndDczYjY2cDUtQmZ3cjMydXBxSlIyUTJpYVNB?oc=5",
+      "pub_date": 1787663663.0,
+      "article_url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaware_Tpb3p79.max-1440x810.png",
+      "description": "Google partners with Delaware to provide free Career Certificates and AI training to residents statewide."
+    },
+    {
+      "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXF0MDNkdDAtYUE1andpWjR6U25iYmFrYVhNcC1TeklKajROa3RkeDhRbE4wazcxSUpPTnlYTktFV2doZFFjZFd6cU94Q1k3Um4yYko3d0NTZF9WcnNLdkdfaS1yQ0QtUnZOcXhXWmNRYUF4cy1kT1RFcWJGWWdfa2MybWNvQThJajF0ZDUyMVlUSTBjbXdaaVVMb3lFbE9DUjV1eXdobGRicGRCdllOamtCd1VwVGoxOS1yVUVlLVR2Z9IBxwFBVV95cUxQbF9pd2UxRDZHSTVyOHJSbEV5NkxCQzBHX2JlQTlqYVZFWGcwdnUwN01nVGdiU3cyUUlZTXJuei10a241eUdwMXlwUjJJNTBaN1RNMlZTSE1SaW1mSDZIa2k0ckdrNWd5MzNhNEJBVnQtR0ViaTZmbEZrbTd2bEhEeVRmcVBlZGExMGFjQXF5aFF1NzlBcXROT0RRajZIUmxRUTJkSnV4eW5HeEtGMHRpN3FJOWQ0TkN2ZWxrUm16aUszSTVnNTJF?oc=5",
+      "pub_date": 1787662817.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266498-1771360417667-gettyimages-2220623510-dsc05609.jpeg?v=1771360560&w=1920&h=1080",
+      "description": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say."
     },
     {
       "headline": "EXCLUSIVE: The AI founders who walked away from Bezos-backed Prometheus to model the universe",
@@ -65,34 +75,14 @@
       "description": null
     },
     {
-      "headline": "Routing is coming for the frontier AI labs",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEtCMUNQQkI1MTgwX2luZVFla3pySXEyQlgwcHhhT0NuMlF6eV9yZjFpUlhPaXBQdmdVNktvMGFhR3ZSZG55Z3pheUpZcUp1WlZ6ZW5ELWJpTl9mWlFaU2EybmdWTTUyaEd0Ym5jX3g5c0JZbDdUWnZXdDJlSUstRQ?oc=5",
-      "pub_date": 1787648581.0,
-      "article_url": "https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Australia\u2019s music industry bans AI songs from charts",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
-      "pub_date": 1787640120.0,
-      "article_url": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
-      "image": "https://dims.apnews.com/dims4/default/bce902c/2147483647/strip/true/crop/4746x3162+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fab%2Fb36be075b7ec7d126714d246b6c6%2F9a539b41cc0543da9b26795b203176a7",
-      "description": "Australia\u2019s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists\u2019 livelihoods."
-    },
-    {
-      "headline": "Australia Bans Generative A.I. From Official Music Charts",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lIMXdTUWVicGpiek1qLUdheVN1d3FNNmwwVDdFdjluY0xpT1F3OG13RmZwTWJPZ25tSDBjUWJ2eVN0VmR0RUVTZml6WjdKWWNySDh4Y1p4blh1X3RyNG01WWdmWUZ1T0pqaFQzQXp1aVFaRnRtY0NuaExXb2ROTUl5Zy1MNXBoZlI2bA?oc=5",
-      "pub_date": 1787645089.0,
-      "article_url": "https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html",
-      "image": null,
-      "description": null
+      "headline": "The Fed doesn\u2019t know who\u2019s financing the $3 trillion AI boom",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWlzS0QySnhtQWZXeUpBVTV4cFBkaWxwNDhpbFpnUGdMYUhVeXRjakhzdE5fODhEVTJzRFMwd194QlN1dnM1aFJQUEItUkx5TGVnYnZmQzI0NjFWam9NNDYtNkRyV182bzczUmlENVJMZVFMakRIOHlhUE9aUHlSSkM0OVpoUVFFNWp6TXdpNzh3dlE?oc=5",
+      "pub_date": 1787648400.0,
+      "article_url": "https://fortune.com/2026/08/25/the-fed-doesnt-know-whos-financing-the-3-trillion-ai-boom/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2288187032-e1787593348709.jpg?resize=1200,600",
+      "description": "The Fed spent the past few years relearning the dangers of underestimating inflation. The challenge now is complexity and financial innovation."
     },
     {
       "headline": "Songs created by AI banned from Australia's music charts",
@@ -103,8 +93,18 @@
       "article_url": "https://www.bbc.com/news/articles/c20vl4vm2pno",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg",
       "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
+    },
+    {
+      "headline": "Australia\u2019s music industry bans AI songs from charts",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
+      "pub_date": 1787662200.0,
+      "article_url": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
+      "image": "https://dims.apnews.com/dims4/default/bce902c/2147483647/strip/true/crop/4746x3162+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fab%2Fb36be075b7ec7d126714d246b6c6%2F9a539b41cc0543da9b26795b203176a7",
+      "description": "Australia\u2019s recorded music industry says tracks wholly generated by AI will be barred from official charts as burgeoning generative technologies threaten artists\u2019 livelihoods."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T11:56:05.543107+00:00"
+  "fetched_at": "2026-08-25T13:50:39.366385+00:00"
 }

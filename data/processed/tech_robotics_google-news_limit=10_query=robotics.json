@@ -25,21 +25,21 @@
       "description": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company \u2014 and why it sees robotics as a major growth opportunity."
     },
     {
-      "headline": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Cc2NhWjVUaTdNdk5tRUNPN1BSYlRESkRhWFRNTUk2SUwwUnZFQTYzV0dmRWtkd0JHR2NrUk9RWXB4dnJ1TEU1a1dTdTBkeHN2ZExuOEYzNkxoalUwY3NxejJn?oc=5",
-      "pub_date": 1787652231.0,
-      "article_url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "description": "Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware"
+      "headline": "BlackBerry CEO says robotics is fastest-growing QNX segment",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zTTVZc0RqaWFSOHhfVEJkOE1jU1R4cTVlS1NqR2NWLUtsaWx3MmpZY3pmeFBBT1AyMGN3LVk1b3BDTEZyajR4TFBESFVQc0RiNklGOVhiT2pWUkNMdFJSZExOdHlDbXQ4Zkc4NG1sX3Jibmc?oc=5",
+      "pub_date": 1787664495.0,
+      "article_url": "https://qz.com/blackberry-qnx-robotics-fastest-growing-ceo-082526",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2207049128-300x200.jpg",
+      "description": "CEO John Giamatteo cited warehouse robots, robotic forklifts, and medical robotics as key growth areas within its $950M QNX order backlog"
     },
     {
       "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHFQNU1JNjdXRXduNVlRNmV2M09OdFBOa3V0Vm5FNHV5bHhpUVJYV2IwQm5vTE9NWWYwMEI0X0tYNXoza0RpcTdzdHlhSGU1SDdhYWhlRlVXbFV6aGVYT3A0UUtHN2k3SEpZWWZmcnZVbXlaQUpwcDZEc0NVSTlWRFN4RWZpOW5rb0ZZM01xeF9fQVo0NkRfUEFvNzlJWEtNb0hSTWVLOHVBOHZVcHJF?oc=5",
-      "pub_date": 1787630520.0,
+      "pub_date": 1787630531.0,
       "article_url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
       "image": "https://i.insider.com/6a8ce6d34569a4ec219f9bf8?width=1200&format=jpeg",
       "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
@@ -55,21 +55,11 @@
       "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
     },
     {
-      "headline": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 \u2013 in pictures",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEkwNzNucklYU1Y1OGd1UDR3MDVrM1NqcHBWb3BSTkY4c3cyU1N2WDFwNjE4dWcwbXdmcFlTaWhZN25ZMmZGeXV5b3dnZzJVZlp2WE5xaTVOdTI3SV9WQzdPZ0tqTUFwSXo5OG1BWWozaVQ0Q09tdWpGRGRIem9BcC1KYUJoNkF1eDdfaHFwbUtET1lwenNlU2o5SExPSl8zdlc0dXY4RDNpMkNYTGpTVWJtUW9nSVI0ZUc1YTQxSHVHY0NyOHdxaExTY0xOaUo4aTUzWWFoSQ?oc=5",
-      "pub_date": 1787615940.0,
-      "article_url": "https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures",
-      "image": "https://i.guim.co.uk/img/media/cafede0f0b9941001f0cb0553b899709e6cde1db/0_0_5708_4571/master/5708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=153b5041b4aca27de504198e377bfadf",
-      "description": "More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry"
-    },
-    {
       "headline": "Inside China\u2019s Race To Rule Robotics",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
-      "pub_date": 1787588750.0,
+      "pub_date": 1787626265.0,
       "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
       "image": null,
       "description": null
@@ -79,7 +69,7 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
-      "pub_date": 1787607725.0,
+      "pub_date": 1787604125.0,
       "article_url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
       "image": null,
       "description": null
@@ -103,8 +93,18 @@
       "article_url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108353647-1787624536591-gettyimages-2274268552-260505_Shopping_mall_store.jpeg?v=1787624561&w=1920&h=1080",
       "description": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business."
+    },
+    {
+      "headline": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3pua1hCWWhhUWhsaW1iLWtzdlFybVowR3lRUlRXemk2bV92dnJlVXRIbi0tVG5KbFIydS0tQUcxVE1UdEtaNW1iazZWbjZHWTJEeFpMUExScVRjZmJ6WklFOUNHSWtZbWxmMUZ6a3ctRk9aVEpiWWtEUl9YYXoyVldudmplaDFJMHhXZ3JGaw?oc=5",
+      "pub_date": 1787582164.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a245c5090fe79dadade3e63fba3fbf5a4c381d0c4bb1db19871a9fe5d47c81e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a61aaa828ab1bb61666bce552e8c313.jpg",
+      "description": "XPeng's robotics unit just attracted Tencent and Alibaba in China's largest embodied AI funding round, yet the stock is tanking anyway as a revenue miss and a conservative outlook raise questions about whether humanoid robots can rescue an EV business under pressure."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T11:55:58.717145+00:00"
+  "fetched_at": "2026-08-25T13:50:27.652469+00:00"
 }
