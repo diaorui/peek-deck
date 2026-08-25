@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-25T19:31:46.029316+00:00'
+updated: '2026-08-25T20:28:45.795206+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 25, 2026 at 19:31 UTC  
+**Last Updated:** August 25, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is ‘Terrible at Retraining’ Workers… ‘The Coal Miners Did Not Become Coders’](https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 17h ago
+🔗 [barchart.com](http://barchart.com/story/news/4004959/andrew-yang-warns-that-ai-is-set-to-displace-millions-of-workers-america-is-terrible-at-retraining-workers-the-coal-miners-did-not-become-coders) • 18h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-7h ago
+8h ago
 
 ---
 
@@ -61,7 +61,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-7h ago
+8h ago
 
 ---
 
@@ -69,7 +69,7 @@ I am trying to make a platform decision for a professional laptop that will be u
 
 Anyone else actually dealt with this? Is it overblown, or am I missing something?
 
-23h ago
+1d ago
 
 ---
 
@@ -77,7 +77,7 @@ Anyone else actually dealt with this? Is it overblown, or am I missing something
 
 I ran an empirical test on GenOS, an environment where LLM agents are driven by a versioned YAML "genome" rather than massive prompts. By mutating traits (e.g., risk_tolerance) and breeding specialized agents together, I achieved emergent TDD, bypassed RAG context limits, and entirely avoided multi-agent "ping-pong" loops. I set up a real test environment (Windows/PowerShell, Node v24, ESLint, Rust CLI) with a severely flawed PaymentProcessor.ts file. It had 38 lint errors and a silent security hole (adding USD to EUR accounts without conversion). Here is what I found when testing different AI paradigms against it: 1. The Prompting Baseline (Failed) Simple Agent: Given a basic "refactor this" prompt (~15 tokens). It cleaned the style but left 3 lint errors and preserved the silent security hole. Expert Agent (Heavy Prompt/RAG): I injected ~600 tokens of strict ESLint rules and PCI-DSS standards. Result: It fixed the currency bug, but still failed the linting constraints on the first try. It took 3 iterations to reach 0 errors. Massive token overhead for a mediocre first-pass result. 2. Emergent TDD via "Genome" Mutation Instead of huge prompts, I used the GenOS Rust CLI to mutate an agent's YAML genome. I set risk_tolerance ≈ 0.10 and verification_threshold = 0.80. Result: The agent refused to touch production code directly. It autonomously wrote 4 scope tests first (emergent TDD), which immediately caught the EUR/USD security hole. Next, instead of injecting ESLint rules, I mutated its syntax_strictness to 0.9. Result: 0 lint errors and 5/5 passing tests. Zero extra tokens added to the prompt. The trait is persisted in the agent's versioned YAML (v0.1.2) for future use. 3. "Breeding" Replaces Multi-Agent Swarms Usually, if you need secure AND highly performant code, you use a multi-agent framework (a coder, a security auditor, a perf engineer) that wastes time and tokens debating each other. I took two parent agent genomes (SecurityAuditor and PerfEngineer) and used the CLI to breed them into a single Child_Crypto.yaml. Result: In a single pass, the child agent wrote an AES-256-GCM encryption engine that passed all security linting and hit a throughput of 21 ops/ms on a 5000-batch test. No swarm ping-pong, no endless LLM loops. Has anyone else experimented with persistent parameter files or "genetic" traits for local agents instead of relying purely on RAG and system prompts?
 
-3h ago
+4h ago
 
 ---
 
@@ -85,7 +85,7 @@ I ran an empirical test on GenOS, an environment where LLM agents are driven by 
 
 I wanted to ask it something today and I noticed literally all of it's memory got wiped and it got like.. really stupid. I set it up to not just be an agreeing machine, to be direct, to not use em dashes, etc but it just forgot literally everything it knew, whether it's these instructions or context about me. Does anyone else have this issue, is there a fix? My previous conversations are still there but it would be a pain to manually make it remember over a year of stuff. It was so good to have an actually objective LLM that wasn't just "you're not at fault, you were in survival mode and honestly— that’s growth 🌱” but it’s back to this now for whatever reason
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ I wanted to ask it something today and I noticed literally all of it's memory go
 
 TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China.
 
-🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 3h ago
+🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 4h ago
 
 ---
 
@@ -109,7 +109,7 @@ ChatGPT didn't fall for the ones below: "How many letters 'r' are in the word 'S
 
 A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech.
 
-🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 7h ago
+🔗 [techworkerscoalition.org](https://techworkerscoalition.org/) • 8h ago
 
 ---
 
@@ -119,7 +119,7 @@ A coalition of tech industry workers, labor organizers, community organizers, an
 
 **[Opinion | We Know the Risks of A.I. We Need to Act.](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -127,13 +127,13 @@ The New York Times • 10h ago
 
 "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Apple launches faster Mac mini, Mac Studio to tap AI boom](https://www.reuters.com/business/retail-consumer/apple-launches-faster-mac-mini-mac-studio-tap-ai-boom-2026-08-25/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Reuters • 4h ago
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-Apple • 4h ago
+Apple • 5h ago
 
 ---
 
@@ -149,7 +149,7 @@ Apple • 4h ago
 
 Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry
 
-The Guardian • 29m ago
+The Guardian • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 29m ago
 
 BofA says investors are exhibiting AI fatigue, and are hunting for ways to keep exposure to the growth theme buffering against swings in the AI trade.
 
-Business Insider • 45m ago
+Business Insider • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Business Insider • 45m ago
 
 The company wants California to strengthen its landmark AI safety law following the Hugging Face incident its models executed last month.
 
-Fortune • 38m ago
+Fortune • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Fortune • 38m ago
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 4h ago
+NVIDIA Newsroom • 5h ago
 
 ---
 
@@ -181,7 +181,7 @@ NVIDIA Newsroom • 4h ago
 
 Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
-OpenAI • 5h ago
+OpenAI • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ OpenAI • 5h ago
 
 Did the machines push back? The midterms hang in the balance.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -233,7 +233,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 216 • 💬 214 • 4h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 216 • 💬 214 • 5h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -241,7 +241,7 @@ TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by A
 
 I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 189 • 💬 22 • 1d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 189 • 💬 22 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -265,7 +265,7 @@ A look at AI Chip Architectures. NVIDIA, AMD, TPUs, Trainium, Groq, Cerebras.
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 125 • 💬 133 • 4h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 125 • 💬 133 • 5h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -283,7 +283,7 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 📺 BBC News
 
-👁️ 4K • 👍 243 • 💬 20 • ⏱️ 0:55 • 4h ago
+👁️ 4K • 👍 243 • 💬 20 • ⏱️ 0:55 • 5h ago
 
 ---
 
@@ -293,7 +293,7 @@ A futuristic AI robot follows elderly pilgrims and provides them with shade from
 
 📺 ROMI AI
 
-👁️ 6K • 👍 436 • ⏱️ 0:11 • 11h ago
+👁️ 6K • 👍 436 • ⏱️ 0:11 • 12h ago
 
 ---
 
@@ -303,7 +303,7 @@ Elon Musk reveals the critical role of AI at SpaceX. Within 5 years, AI will rep
 
 📺 Solving The Money Problem
 
-👁️ 1K • 👍 104 • 💬 9 • ⏱️ 0:34 • 4h ago
+👁️ 1K • 👍 104 • 💬 9 • ⏱️ 0:34 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ In 2022, artist Steph Swanson set out to generate the visual opposite of Marlon 
 
 📺 Pat Berlinquette
 
-👁️ 568 • 👍 28 • ⏱️ 1:07 • 2h ago
+👁️ 568 • 👍 28 • ⏱️ 1:07 • 3h ago
 
 ---
 
@@ -513,7 +513,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 93 • 💬 2 • ⭐ 7,304 • 8d ago
+▲ 93 • 💬 2 • ⭐ 7,304 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -527,7 +527,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 170 • 💬 1 • ⭐ 453 • 1d ago
+▲ 170 • 💬 1 • ⭐ 453 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -541,7 +541,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 752 • 💬 5 • ⭐ 5,892 • 15d ago
+▲ 752 • 💬 5 • ⭐ 5,892 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -555,7 +555,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 31 • 💬 1 • ⭐ 18,311 • 1d ago
+▲ 31 • 💬 1 • ⭐ 18,311 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -569,7 +569,7 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 76 • 💬 7 • ⭐ 701 • 5d ago
+▲ 76 • 💬 7 • ⭐ 701 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
@@ -650,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.2k • 🔱 2.1k • 19h ago
+⭐ 18.2k • 🔱 2.1k • 20h ago
 
 ---
 
@@ -660,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 20h ago
+⭐ 14.2k • 🔱 1.7k • 21h ago
 
 ---
 
@@ -680,7 +680,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 615 • 4h ago
+⭐ 3.7k • 🔱 615 • 5h ago
 
 ---
 
@@ -690,7 +690,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 370 • 4h ago
+⭐ 3.1k • 🔱 370 • 5h ago
 
 ---
 
@@ -710,7 +710,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.9k • 🔱 345 • 20m ago
+⭐ 2.9k • 🔱 345 • 1h ago
 
 ---
 
@@ -730,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 190 • 3h ago
+⭐ 2.2k • 🔱 190 • 4h ago
 
 ---
 
