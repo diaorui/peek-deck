@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T07:43:12.362759+00:00'
+updated: '2026-08-25T08:42:00.895983+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 07:43 UTC  
+**Last Updated:** August 25, 2026 at 08:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +11.1%  
-**30d:** +32.3%  
-**90d:** +24.6%  
-**1y:** -45.7%  
+**24h:** +1.0%  
+**7d:** +10.4%  
+**30d:** +31.4%  
+**90d:** +23.7%  
+**1y:** -46.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-15h ago
+16h ago
 
 ---
 
@@ -156,25 +156,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 19h ago
-
----
-
 **[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
 
 BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
+
+PR Newswire • 20h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) buys $81 million in ETH amid crypto rally](https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july)**
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Motley Fool • 2d ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 15h ago
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
-Benzinga • 11h ago
+Benzinga • 12h ago
 
 ---
 
@@ -206,7 +206,21 @@ Benzinga • 11h ago
 
 XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,953, respectively. Here’s which crypto could hit ATH first.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 23h ago
+
+---
+
+**[Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher](https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/)**
+
+Bitcoin and Ethereum funds posted their biggest inflow week of 2026 as fresh capital arrived alongside the short squeeze.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power](https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -215,22 +229,6 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 Maelstrom Chief Investment Officer (CIO) Arthur Hayes dismissed the Ethereum Foundation, calling it "a bunch of jokers" while explaining why he was bullish on Ethereum (ETH), saying the network's technology and its stewards have nothing to do with his investment case.When Hayes was asked on the Unc…
 
 TradingView • 1d ago
-
----
-
-**[Current price of Ethereum for August 24, 2026](https://fortune.com/article/price-of-ethereum-08-24-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 15h ago
-
----
-
-**[New Crypto: Pepeto Announces Its Presale Passing $10.8M Following Shiba Inu Success While the Ethereum Price Prediction Targets $25,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-its-presale-passing-10-8m-following-shiba-inu-success-while-the-ethereum-price-prediction-targets-25-000-1036487279)**
-
-DUBAI, United Arab Emirates, Aug.  24, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto following Shiba Inu's path on Ethereum, has announced its...
-
-markets.businessinsider.com • 15h ago
 
 ---
 
@@ -244,7 +242,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 303 • 💬 357 • ⏱️ 19:33 • 8h ago
+👁️ 6K • 👍 303 • 💬 357 • ⏱️ 19:33 • 9h ago
 
 ---
 
@@ -254,7 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 560 • 💬 49 • ⏱️ 12:24 • 15h ago
+👁️ 8K • 👍 560 • 💬 49 • ⏱️ 12:24 • 16h ago
 
 ---
 
@@ -264,7 +262,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 4K • 👍 206 • 💬 122 • ⏱️ 42:25 • 12h ago
+👁️ 4K • 👍 206 • 💬 122 • ⏱️ 42:25 • 13h ago
 
 ---
 
@@ -284,7 +282,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 261 • 💬 8 • ⏱️ 6:32 • 18h ago
+👁️ 6K • 👍 261 • 💬 8 • ⏱️ 6:32 • 19h ago
 
 ---
 
@@ -294,7 +292,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 4K • 👍 59 • 💬 7 • ⏱️ 0:43 • 12h ago
+👁️ 4K • 👍 59 • 💬 7 • ⏱️ 0:43 • 13h ago
 
 ---
 
@@ -304,7 +302,7 @@ TIA PRO LIFETIME DISCOUNT SALE → https://link.tiainvestor.com/jyt-checkout ➡
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 787 • 💬 159 • ⏱️ 31:23 • 6h ago
+👁️ 11K • 👍 787 • 💬 159 • ⏱️ 31:23 • 7h ago
 
 ---
 
@@ -324,7 +322,7 @@ Why I am holding a massive Ethereum long position targeting $5000. I am breaking
 
 📺 Gabbie Trades
 
-👁️ 1K • 👍 17 • 💬 1 • ⏱️ 0:31 • 12h ago
+👁️ 1K • 👍 17 • 💬 1 • ⏱️ 0:31 • 13h ago
 
 ---
 
@@ -334,7 +332,7 @@ Most people know the DAO hack led to Ethereum Classic — but few know about the
 
 📺 CoinGecko
 
-👁️ 2K • 👍 82 • 💬 111 • ⏱️ 4:22 • 21h ago
+👁️ 2K • 👍 82 • 💬 111 • ⏱️ 4:22 • 22h ago
 
 ---
 
