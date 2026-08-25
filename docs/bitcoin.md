@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T03:49:01.326354+00:00'
+updated: '2026-08-25T04:38:25.164939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 03:49 UTC  
+**Last Updated:** August 25, 2026 at 04:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,57 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
+
+2h ago
+
+---
+
 **[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
 
-9h ago
-
----
-
-**[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
-
-15h ago
-
----
-
-**[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
-
-16h ago
-
----
-
-**[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
-
-15h ago
-
----
-
-**[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vx2nam/bitcoin_right_now/)**
-
-Then it drops back down to 62k by next week
-
-14h ago
-
----
-
-**[German petition against abolishing the one-year tax-free holding period for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vx238r/german_petition_against_abolishing_the_oneyear/)**
-
-Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
-
-14h ago
-
----
-
-**[Coinbase really wants your coin](https://www.reddit.com/r/Bitcoin/comments/1vx5m9b/coinbase_really_wants_your_coin/)**
-
-I wonder why that is so?
-
-12h ago
+10h ago
 
 ---
 
@@ -135,15 +99,47 @@ I wonder why that is so?
 
 Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
 
-10h ago
+11h ago
 
 ---
 
-**[What's your message to people who are still waiting for 40k entry?](https://www.reddit.com/r/Bitcoin/comments/1vx6dvd/whats_your_message_to_people_who_are_still/)**
+**[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
 
-I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
+17h ago
 
-12h ago
+---
+
+**[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
+
+50m ago
+
+---
+
+**[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vxnsh6/bitcoin_right_now/)**
+
+1h ago
+
+---
+
+**[Bitcoin vs Gold Supply](https://www.reddit.com/r/Bitcoin/comments/1vxevr8/bitcoin_vs_gold_supply/)**
+
+There is a lot of gold left to be mined. Bitcoin? Not so much.
+
+7h ago
+
+---
+
+**[The best way to do BTC.](https://www.reddit.com/r/Bitcoin/comments/1vxgnll/the_best_way_to_do_btc/)**
+
+Don’t time the market embrace it.
+
+6h ago
+
+---
+
+**[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
+
+16h ago
 
 ---
 
@@ -155,7 +151,7 @@ I'm just wondering for everyone who's now on their way to the moon, what's exact
 
 Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.
 
-CNBC • 44m ago
+CNBC • 1h ago
 
 ---
 
@@ -163,7 +159,7 @@ CNBC • 44m ago
 
 @73694015 3626 Views|3 Likes
 
-Moomoo • 23m ago
+Moomoo • 1h ago
 
 ---
 
@@ -171,7 +167,7 @@ Moomoo • 23m ago
 
 SANDERSVILLE, Ga. (WJBF) — CleanSpark is preparing for a major change at its Sandersville campus as the company moves toward high-performance computing under a new multibillion-dollar agreement. CleanSpark recently announced a 20-year lease with an unnamed global technology company for its Sandersville data center. The company says the agreement is expected to generate approximately $6.6 billion […]
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +175,7 @@ Yahoo Finance • 24m ago
 
 The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
 
-Investopedia • 8h ago
+Investopedia • 9h ago
 
 ---
 
@@ -187,19 +183,19 @@ Investopedia • 8h ago
 
 Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks](https://www.reuters.com/legal/transactional/strategy-earmarks-16-billion-cash-pool-treasury-operations-buybacks-2026-08-24/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
 **[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -207,7 +203,7 @@ CoinDesk • 15h ago
 
 Finally, a killer use case
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -215,7 +211,7 @@ Financial Times • 19h ago
 
 Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
 
-Euronews.com • 13h ago
+Euronews.com • 14h ago
 
 ---
 
@@ -223,7 +219,7 @@ Euronews.com • 13h ago
 
 BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.
 
-24/7 Wall St. • 13h ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -235,7 +231,7 @@ BlackRock just launched a Bitcoin fund that writes covered calls to generate mon
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 12h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 13h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -273,7 +269,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/evanhu1/transposify)
+⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/evanhu1/transposify)
 
 ---
 
@@ -287,7 +283,7 @@ Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its h
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 338 • 💬 170 • ⏱️ 14:52 • 10h ago
+👁️ 9K • 👍 338 • 💬 170 • ⏱️ 14:52 • 11h ago
 
 ---
 
@@ -297,7 +293,7 @@ Natalie Brunell dives into a striking report from Fidelity Digital Assets reveal
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 90 • 💬 104 • ⏱️ 0:53 • 8h ago
+👁️ 2K • 👍 90 • 💬 104 • ⏱️ 0:53 • 9h ago
 
 ---
 
@@ -307,7 +303,7 @@ SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and
 
 📺 Verified Investing
 
-👁️ 10K • 👍 687 • 💬 83 • ⏱️ 17:09 • 9h ago
+👁️ 10K • 👍 687 • 💬 83 • ⏱️ 17:09 • 10h ago
 
 ---
 
@@ -327,7 +323,7 @@ Bitcoin is breaking out and traders are split: buy right now or wait for a bette
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 19h ago
+👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 20h ago
 
 ---
 
@@ -337,7 +333,7 @@ Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading
 
 📺 Sin City Crypto
 
-👁️ 4K • 👍 351 • 6h ago
+👁️ 4K • 👍 351 • 7h ago
 
 ---
 
@@ -347,7 +343,7 @@ Bitcoin just had its biggest week in years, surging roughly 24% and breaking out
 
 📺 Ross Givens
 
-👁️ 10K • 👍 608 • 💬 186 • ⏱️ 10:30 • 11h ago
+👁️ 10K • 👍 608 • 💬 186 • ⏱️ 10:30 • 12h ago
 
 ---
 
