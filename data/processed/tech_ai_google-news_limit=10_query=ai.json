@@ -5,54 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Opinion | We Know the Risks of A.I. We Need to Act.",
+      "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
+      "pub_date": 1787668081.0,
+      "article_url": "https://openai.com/index/jalapeno-first-results/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+    },
+    {
+      "headline": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
-      "pub_date": 1787648553.0,
-      "article_url": "https://www.nytimes.com/2026/08/25/opinion/ai-risks.html",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
+      "pub_date": 1787695179.0,
+      "article_url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Funding better evaluations of AI\u2019s impact on wellbeing",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
-      "pub_date": 1787674244.0,
-      "article_url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&backgroundColor=heather",
-      "description": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users\u2019 wellbeing."
-    },
-    {
-      "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
-      "pub_date": 1787704440.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
-      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
-    },
-    {
-      "headline": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWRsS2stazVTeW1fVTFxbHE1MXFqU3RXN0RsV2JsNlRqZzIzaGNFMzNQYkNPT0pOZGpOV3dnanFCRXg4TnV1NHAxU0ZaenZ2bkRZaWNlQlFEakxyU3RDeU1DS0V1Tzl2YzRqWG1tbzZpamlwamFxdzMzeUJ1UzdUVmlCbXl6OHRfOFdkal9Lc0trSFRHTUloMVVuNU8xTjVIbEhyOUM3cHRtZw?oc=5",
-      "pub_date": 1787705280.0,
-      "article_url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-      "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fd31519098f19cec1512068a71377c",
-      "description": "Companion bots are being regulated over worries they foster \u2018emotional dependence\u2019 and young people could stop marrying and having families"
-    },
-    {
-      "headline": "AI Revamp at WiseTech Leads to Output Surge, End of Manual Code",
-      "source": "Bloomberg.com",
+      "headline": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGxMMFFrTlhhVnY0MzljSGdjdHZLWlpjQUwtSG93c1hhaXRTZ0N1Tk9zb2J2blBTb2J4a3VIX3dGbDNBdHFSYWFCMnUyVU5GbWppUFZramdVd2Jqa2RPMHBOWXJFcGVsdXR0czlWRi1XUEJrbGdIVExJSXVFRlNEeklVcE0tWlluekJsNnFERFF1WlNCSUVSb3dCRzJCMVpVM1NMTjVLYVJOV3dVb0FnZHM1RQ?oc=5",
-      "pub_date": 1787704980.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/ai-revamp-at-wisetech-leads-to-output-surge-end-of-manual-code",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGlDT3d1c202TGV2ZlF2X0w5dFdxbHNHUUdldkZ4MERwWHVKUVowVll6V3lxQzZRUUZwUjBwSklNNlZBZEowbUsyVlBFcTZFbkpFMzkyZnVYejJBTG8zSktRdWJWeVVvdlRaNDkyTUZ6ODhRaHRRamxjT0RSc1RWc3NvdW9SeW9GTE9jUk14cGluR2hSMDlvUmdRRkp4VW5DMGtHeHViclBoTUNKdzJCNlZYczNEUTJ6b0UxWUZxRVprWkNHb1ZB?oc=5",
+      "pub_date": 1787707800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/ai-will-deflate-value-of-it-work-by-up-to-25-hexaware-ceo-says?srnd=phx-india",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Parents push for AI guardrails after son's death by suicide blamed on chatbot",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN21qN1dpQWxBUDVwZmZxbW0yZWVnYmFETXlPZG1zY054Tk9KdXg5SWk4YXh3azNiZGtVV3dnUzdOVEtfZTV3Qy0zS0EzNUFqTlJ0cTNmNGxEajY1bHloNXdKR2ZBWVdfS1BhSVN4cXpTOGk2Wm5FSEg0LXQwYlRxbW0yWUhRNnE1dHo0NGlHUjFscF9pOEc4bHhqMXg0Nlhlc3RhX1NfRjVoOExIT2tSSFlTZ2l2V19GdFo3Mw?oc=5",
+      "pub_date": 1787709060.0,
+      "article_url": "https://www.cbsnews.com/sanfrancisco/video/parents-push-for-ai-guardrails-after-sons-death-by-suicide-blamed-on-chatbot/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/26/adf87730-9944-4dc4-82ca-477a9f65cae5/thumbnail/1200x630/e460204000a3af492bc3612862e8585a/861f8b8a6189a742d96a7bd1f20f3d16.jpg",
+      "description": "Adam Raine was 16 years old when he took his own life after his parent say an AI chatbot guided him to the decision. Max Darrow reports."
+    },
+    {
+      "headline": "AI Made Expertise Cheap. Judgment Is The New Competitive Advantage",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNklWVWxDTm9RRURMRGxiNExQZHRFYkZzOWcyN08yeU1la1kxV0xzTnNpVmtBdk1OUUlHN2dpX0toY2RfalREdkJFNnZjZ0FnMk1fUldaVEtBckZNM0w2QmJFaGhNOUUzWENROU1XOERqb01FREFBaGpkSFFtMjRMSHFGX2ZHaXRyaW93R2x2NjhDVF9hQ3cxYWkxTlFXb3JEMlRRUE5vMURySlVtU2ZWMkFjY2xJc3Y5RUpPd3FB?oc=5",
+      "pub_date": 1787708903.0,
+      "article_url": "https://www.forbes.com/sites/shannonmckeen/2026/08/25/ai-made-expertise-cheap--judgment-is-the-new-competitive-advantage/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8e4156bd4d674f0912c2d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "AI has made polished work abundant and less meaningful. Employers must look beyond outputs and hire for judgment, reasoning and accountability."
+    },
+    {
+      "headline": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFU5TUdKYzd1SDNVT1dpeGFLbGJXUUZiTF9VdEczbkVQM0hWazZVVUFkYkExZFJRc1hzazM4aUpZQkdFT21rd3Bjc000cHdaMWY1dHhrVms5Q2VIOWJ2MnB6cVk5VTdrMGpGZDZWa0FIOC1KVmlEWkIyUWIySnJLQ3FrOXd2dTRQaFk5TnJyUl9IYms1eTJPaF9SRDBjYldpamg3WmFwaGZRVnR0MlpB?oc=5",
+      "pub_date": 1787688485.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/15cdb77c351d6abc06fd69d8456d5bef5a73b9321690300bf455b631777dae80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+      "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26."
     },
     {
       "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
@@ -65,16 +75,6 @@
       "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said."
     },
     {
-      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
-      "pub_date": 1787662811.0,
-      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
-      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
-    },
-    {
       "headline": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
       "source": "Apple",
       "source_url": "https://www.apple.com",
@@ -85,26 +85,26 @@
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
     },
     {
-      "headline": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN?oc=5",
-      "pub_date": 1787673480.0,
-      "article_url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
-      "image": null,
-      "description": null
+      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
+      "pub_date": 1787662811.0,
+      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
+      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
     },
     {
-      "headline": "Why Google Bid $10 Million for a Failed Airline\u2019s Data",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hV3lxQnRya1d6YnJwVUFFUjlONTFxQXpSbS1NV0dqUEFkSFBjT29iQkd3TUJLLTY3T0tEMUttVGVZRzJfTUdYZ2VESHJJT2NrU05MZFR3TW5sX0pNRE04QVZPTGlKak55aDQtOXRMYUFseVo4U0c4bEJn?oc=5",
-      "pub_date": 1787669507.0,
-      "article_url": "https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdaf32b96f226041e/6a8d925a81fdab45890021b7/GettyImages-2274586386.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
-      "description": "The Spirit Airlines deal points to AI companies\u2019 growing ambitions to automate white-collar work."
+      "headline": "Try to beat this AI writing detector",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
+      "pub_date": 1787673600.0,
+      "article_url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLQW6FG2TFHBPLCXKGQTTJRM7I.jpg&w=1200",
+      "description": "See what it takes to convince an AI writing detector that AI-generated text was written by a human."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T01:18:31.432383+00:00"
+  "fetched_at": "2026-08-26T02:47:21.449445+00:00"
 }

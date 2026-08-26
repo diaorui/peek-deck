@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T01:18:32.630203+00:00'
+updated: '2026-08-26T02:47:22.672373+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 01:18 UTC  
+**Last Updated:** August 26, 2026 at 02:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 1d ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 37m ago
+TechCrunch • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 37m ago
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 10h ago
+NVIDIA Newsroom • 11h ago
 
 ---
 
@@ -148,7 +148,7 @@ NVIDIA Newsroom • 10h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 10h ago
+The Robot Report • 11h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Robot Report • 10h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ Seeking Alpha • 9h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Business Insider • 21h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 15h ago
+IEEE Spectrum • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ IEEE Spectrum • 15h ago
 
 When investors think about Tesla Inc‘s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says. “It is their manufacturing competency and resources,” Kang told Benzinga in an email. Tesla’s Manufacturing Scale Could Become Its Biggest Moat Kang’s thesis stands in contrast to t
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 11h ago
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 10h ago
+x.com • 12h ago
 
 ---
 
@@ -196,33 +196,31 @@ x.com • 10h ago
 
 ## YouTube Videos: "robotics"
 
-**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
+**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
 
-A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
+Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
 
-📺 USA TODAY
+📺 India Today Global
 
-👁️ 89K • 👍 564 • 💬 106 • ⏱️ 0:31 • 2d ago
-
----
-
-**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
-
-China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
-
-📺 New York Post
-
-👁️ 37K • 👍 859 • 💬 209 • ⏱️ 0:52 • 3d ago
+👁️ 18K • 👍 133 • 💬 9 • ⏱️ 1:11 • 1d ago
 
 ---
 
-**[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
+**[This Breakthrough Material Lets Robots “See” What They Feel. Here&#39;s How #robot #shorts #engineering](https://www.youtube.com/watch?v=BHDwhPXIr5c)**
 
-The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
+This Smart Hydrogel Changes Color When You Stretch It—and Could Give Robots a Sense of Touch Scientists have developed a ...
 
-📺 DPCcars
+📺 uncover reality
 
-👁️ 25K • 👍 230 • 💬 93 • ⏱️ 1:55 • 2d ago
+👁️ 174K • 👍 1K • 💬 19 • ⏱️ 0:06 • 1d ago
+
+---
+
+**[🔥🤖 The 2nd Humanoid Olympics is HERE! 2,056 robots, 51 events! #humanoidrobot  #robotics #ai](https://www.youtube.com/watch?v=MvrrCIH7zBg)**
+
+📺 XRoboHub
+
+👁️ 3K • 👍 92 • 💬 3 • ⏱️ 0:38 • 11h ago
 
 ---
 
@@ -232,7 +230,57 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 9K • 👍 84 • 💬 3 • ⏱️ 0:30 • 9h ago
+👁️ 12K • 👍 120 • 💬 3 • ⏱️ 0:30 • 11h ago
+
+---
+
+**[This Robot Turns Walls Into Roads 🤖 #robotics #technology #innovation #tech](https://www.youtube.com/watch?v=N2lAMtEY0HM)**
+
+Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground robots have one major limitation: when the floor ...
+
+📺 EcoZora
+
+👁️ 83K • 👍 568 • 💬 10 • ⏱️ 0:07 • 3d ago
+
+---
+
+**[Remote-Controlled Guava Harvesting Robot 🍐🤖 | Smart Fruit Picking Machine #shorts](https://www.youtube.com/watch?v=WdRWq4IBUQg)**
+
+Remote-Controlled Guava Harvesting Robot Title: Remote-Controlled Guava Harvesting Robot | Smart Fruit Picking ...
+
+📺 MP Bundelkhand 
+
+👁️ 67K • 👍 118 • ⏱️ 0:07 • 12h ago
+
+---
+
+**[Humanoid Robot Runs 100m Faster Than Usain Bolt 🤯🤖](https://www.youtube.com/watch?v=R7KxqUgrPZU)**
+
+Chinese Humanoid Robot Runs 100m in 9.39 Seconds, Faster Than Usain Bolt's 9.58s World Record ⚡ A humanoid robot just ...
+
+📺 Techie Sapien
+
+👁️ 226K • 💬 93 • ⏱️ 0:10 • 2d ago
+
+---
+
+**[UBTech just launched its U1 companion robot | Pushpendra](https://www.youtube.com/watch?v=BPFI3IcXZco)**
+
+UBTech just launched its U1 companion robot. Humanoid robots aren't just being built for factories anymore. They're being sold ...
+
+📺 Pushpendra Singh
+
+👁️ 33K • 💬 18 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[Unitree’s Superman Robot Runs Faster Than Usain Bolt! 🦾🔥 #Robotics #Unitree](https://www.youtube.com/watch?v=gEk9ijXGX-o)**
+
+China's Unitree has reportedly introduced an incredible humanoid robot nicknamed “Superman,” pushing robotic speed to a ...
+
+📺 The Intel Inn
+
+👁️ 49K • 👍 173 • 💬 10 • ⏱️ 0:09 • 4d ago
 
 ---
 
@@ -242,55 +290,7 @@ A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Hu
 
 📺 DPCcars
 
-👁️ 56K • 👍 170 • 💬 50 • ⏱️ 1:40 • 2d ago
-
----
-
-**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
-
-Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
-
-📺 India Today Global
-
-👁️ 17K • 👍 127 • 💬 9 • ⏱️ 1:11 • 1d ago
-
----
-
-**[Humanoid Robot Jumps 7.97 Meters](https://www.youtube.com/watch?v=6LdwLD3Qhy8)**
-
-A humanoid robot reached an incredible 7.97 meters in the long jump at the World Humanoid Robot Games in Beijing. Tianjiao ...
-
-📺 DPCcars
-
-👁️ 23K • 👍 95 • 💬 12 • ⏱️ 0:32 • 2d ago
-
----
-
-**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
-
-Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
-
-📺 ABC News
-
-👁️ 111K • 👍 780 • 💬 135 • ⏱️ 0:40 • 3d ago
-
----
-
-**[They Turned a Sports Car Into an INSANE Mech! 🤯🤖 #Robot #DIY](https://www.youtube.com/watch?v=KcGAFGa8Bo0)**
-
-What happens when a luxury sports car gets transformed into a giant walking mech? Watch this incredible futuristic build ...
-
-📺 Shelter Guide
-
-👁️ 45K • 👍 708 • 💬 4 • ⏱️ 1:08 • 1d ago
-
----
-
-**[I Bought a $7,000 Iron Man Robot](https://www.youtube.com/watch?v=Z1XrFFH3OFQ)**
-
-📺 Kyle Krueger
-
-👁️ 2.1M • 👍 120K • 💬 1K • ⏱️ 1:01 • 1d ago
+👁️ 59K • 👍 175 • 💬 51 • ⏱️ 1:40 • 2d ago
 
 ---
 
