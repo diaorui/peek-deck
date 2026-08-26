@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T03:53:37.580992+00:00'
+updated: '2026-08-26T04:39:30.595866+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 03:53 UTC  
+**Last Updated:** August 26, 2026 at 04:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
 
-5h ago
+6h ago
 
 ---
 
@@ -55,7 +55,7 @@ I hope this is okay to share since it is not self promotion and it is open sourc
 
 Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look — no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ I've supposed their approach based on their website, they are of course more com
 
 TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China.
 
-🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 12h ago
+🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 13h ago
 
 ---
 
@@ -109,7 +109,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ I am trying to make a platform decision for a professional laptop that will be u
 
 Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
-OpenAI • 13h ago
+OpenAI • 14h ago
 
 ---
 
@@ -129,7 +129,7 @@ OpenAI • 13h ago
 
 Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -137,19 +137,19 @@ CNBC • 3h ago
 
 Ringg has raised $10 million from Peak XV as a part of its Series A extension.
 
-TechCrunch • 23m ago
+TechCrunch • 1h ago
 
 ---
 
 **[Exclusive | OpenAI’s Head of Data Centers Has Left the Company](https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
 **[This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers](https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 16h ago
 
 Texas Gov. Greg Abbott (R) is taking a harder line on AI data centers as growing public opposition forces politicians to confront concerns over electricity, water, infrastructure and local development...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo • 1h ago
 
 AI tools in healthcare may add value in novel and non-traditional ways.
 
-Forbes • 52m ago
+Forbes • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 52m ago
 
 "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 14h ago
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-Apple • 12h ago
+Apple • 13h ago
 
 ---
 
@@ -189,7 +189,7 @@ Apple • 12h ago
 
 Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
 
-Ars Technica • 14h ago
+Ars Technica • 15h ago
 
 ---
 
@@ -233,7 +233,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 253 • 💬 305 • 12h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 253 • 💬 305 • 13h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -265,7 +265,7 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
 
-⬆️ 116 • 💬 29 • 12h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
+⬆️ 116 • 💬 29 • 13h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
 
 ---
 
@@ -295,7 +295,7 @@ Get more AI tips that don't make it into videos https://parker-prompts.com/join 
 
 📺 Parker Prompts
 
-👁️ 11K • 💬 4 • ⏱️ 8:01 • 15h ago
+👁️ 11K • 💬 4 • ⏱️ 8:01 • 16h ago
 
 ---
 
@@ -305,7 +305,7 @@ Learn how to move past generic AI-generated interfaces and ship high-end, produc
 
 📺 freeCodeCamp.org
 
-👁️ 15K • 👍 727 • 💬 35 • ⏱️ 1:04:16 • 15h ago
+👁️ 15K • 👍 727 • 💬 35 • ⏱️ 1:04:16 • 16h ago
 
 ---
 
@@ -315,7 +315,7 @@ Elon Musk reveals the critical role of AI at SpaceX. Within 5 years, AI will rep
 
 📺 Solving The Money Problem
 
-👁️ 5K • 👍 202 • 💬 25 • ⏱️ 0:34 • 12h ago
+👁️ 5K • 👍 202 • 💬 25 • ⏱️ 0:34 • 13h ago
 
 ---
 
@@ -345,7 +345,7 @@ shorts #mystery #ai #nestle #ecosystem #unknownfacts.
 
 📺 ​The Mystery Hub
 
-👁️ 5K • 💬 30 • ⏱️ 0:07 • 6h ago
+👁️ 5K • 💬 30 • ⏱️ 0:07 • 7h ago
 
 ---
 
@@ -499,7 +499,7 @@ This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced re
 
 `text-generation` `27.3B`
 
-⬇️ 1,525,645 • ❤️ 724 • 3h ago
+⬇️ 1,525,645 • ❤️ 724 • 4h ago
 
 ---
 
@@ -662,7 +662,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 5h ago
+⭐ 14.2k • 🔱 1.7k • 6h ago
 
 ---
 
@@ -682,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 619 • 13h ago
+⭐ 3.7k • 🔱 619 • 14h ago
 
 ---
 
@@ -692,7 +692,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 373 • 13h ago
+⭐ 3.1k • 🔱 373 • 14h ago
 
 ---
 
@@ -712,7 +712,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.9k • 🔱 353 • 2h ago
+⭐ 2.9k • 🔱 353 • 3h ago
 
 ---
 
