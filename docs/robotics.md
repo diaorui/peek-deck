@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T11:29:58.530720+00:00'
+updated: '2026-08-26T11:59:02.739627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 11:29 UTC  
+**Last Updated:** August 26, 2026 at 11:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ I went through a bunch of footage from the World Robot Conference after Unitree�
 
 I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS
 
-1d ago
+2d ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 20h ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 10h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -148,7 +148,7 @@ BBC • 1d ago
 
 As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -184,9 +184,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Watch Zero Zero Robotics on Business Strategy](https://www.bloomberg.com/news/videos/2026-08-26/zero-zero-robotics-on-business-strategy-video)**
+**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-Bloomberg.com • 11h ago
+WSJ • 2d ago
 
 ---
 

@@ -5,34 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
-      "pub_date": 1787727667.0,
-      "article_url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
+      "headline": "The choices we make about AI now are critical | Bill Gates",
+      "source": "gatesnotes.com",
+      "source_url": "https://www.gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPak55VEI5Y2NVRTBrajRrWmFQMDkyLTdUaUwtTG1DQlVzUmc0YXFzVk1wUzY2TXhLU043TlI0aEIwYmUwWVEwSVB1RExBeFFSZFV2Sk4tTGlCLVhzLThXVXl2bWFSemRtQ00tZWpuQnh0ZW1fbU5JSkFsMHQ1S0ppZEU0V1hJZmpjY2pqOGNJTG5wVzBod2RaVDZCbWhrSTNnN09FOTJ4cjh2dE1HYmpwTzQ4NTFBVEJaV1hDX2d2REYzMTZFVVlOZ0d0QXlXLWl4ejBfS3hYRElxYnlxTlkyVGtSVF9VRXYwM040?oc=5",
+      "pub_date": 1787727946.0,
+      "article_url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bill Gates was an AI optimist. Now he\u2019s scared of what could go wrong.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5",
-      "pub_date": 1787738678.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/26/bill-gates-says-he-worried-ai-will-harm-workers-kids-society/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/L3PDXJXBJUEEICT7XWN6L3ZTNI.jpg&w=1440",
-      "description": "In an essay, the Microsoft co-founder sounds the alarm about artificial intelligence\u2019s risks to safety and security, jobs and children\u2019s well-being."
-    },
-    {
-      "headline": "3 Key Takeaways From Bill Gates' Stark Warning About AI and Jobs",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEVNMnBRNWJXUTFkOWZQVWFWdWQxRThzYjBhVTkzOUx4MmdITUFDZTR5VGJyQ2h1cFlGS0NTUnNrZ3pRX3dXQkdQZEpPOFdZaVItNVh6NEdnaFVMR0dRdXo5UDB4YV9KWFdmaWc0OGtEXzQwenJpRk9ycG5KNlJ5SFpnR0M2QXEtbHZKajVBdDlFZVU5dTVPVkVBQUQ?oc=5",
-      "pub_date": 1787735151.0,
-      "article_url": "https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8",
-      "image": "https://i.insider.com/6a8ea43645e6f385a5168ed6?width=1200&format=jpeg",
-      "description": "Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract."
     },
     {
       "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
@@ -45,42 +25,72 @@
       "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
     },
     {
-      "headline": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
-      "pub_date": 1787738820.0,
-      "article_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
-      "image": null,
-      "description": null
+      "headline": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFU5TUdKYzd1SDNVT1dpeGFLbGJXUUZiTF9VdEczbkVQM0hWazZVVUFkYkExZFJRc1hzazM4aUpZQkdFT21rd3Bjc000cHdaMWY1dHhrVms5Q2VIOWJ2MnB6cVk5VTdrMGpGZDZWa0FIOC1KVmlEWkIyUWIySnJLQ3FrOXd2dTRQaFk5TnJyUl9IYms1eTJPaF9SRDBjYldpamg3WmFwaGZRVnR0MlpB?oc=5",
+      "pub_date": 1787688485.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/15cdb77c351d6abc06fd69d8456d5bef5a73b9321690300bf455b631777dae80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+      "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26."
     },
     {
-      "headline": "Stanley Druckenmiller makes AI writing a billionaire flex",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHY5SGZoSlpqNHk0bENEdXByVWdBakxBNUJTRXk2RjZFbWNiWWYwTkp1QmxJOWhuaXVVRkRXSTRGbGwzendOUDNfcktWTHRlVXFsM1QzdkVDczB0VXRTcXJZNGJWVXRwS3JQLW5QZUhjLWlPNHlxcmlCQkZULXp1dQ?oc=5",
-      "pub_date": 1787736145.0,
-      "article_url": "https://www.axios.com/2026/08/26/stanley-druckenmiller-ai-writing-wsj-op-ed",
-      "image": null,
-      "description": null
+      "headline": "Cramer says Nvidia has become 'all-important' to the AI trade. Here's what to watch beyond the numbers",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iY2luWmgzY0d3bldwd1dTZEVyNFE0S3BocnFRT1BYeFYyNVY4QTVCdXpxUHNxWEp6czRvM2VGWGRGQ0tycURqZ3MyYmR4U1hMVFFBdDdRMzVxU3hDQ3phSFhnWFZTTDM3aGZ1V0NnZlR0VklwWnJHUjFRWXIxZw?oc=5",
+      "pub_date": 1787698534.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/cramer-nvidia-all-important-ai-trade.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353905-1787669145319-gettyimages-2290111293-vcg111659504825.jpeg?v=1787669186&w=1920&h=1080",
+      "description": "CNBC's Jim Cramer said Nvidia has become so central to the AI ecosystem that its earnings are effectively a referendum on the entire AI trade."
     },
     {
-      "headline": "MiniMax Sales Nearly Quadruple in Crowded Race for China AI Lead",
+      "headline": "Jim Cramer calls Nvidia earnings a referendum on AI trade",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55aEZaWGxOTXBIdDdNNEk2WEZCLUR1ZW5SOGhqcXZ1RkVGYS1RbTlVRXRoMzNVV2NWVTJfWmJBc0hzWTFuZFNhZWlIemwwVnhreHIxdXEtV3A1ZEF5Sk9Bckc3RXFWb2xJOXg2eGM4M3FTbGlMR0JR?oc=5",
+      "pub_date": 1787745034.0,
+      "article_url": "https://qz.com/jim-cramer-nvidia-earnings-ai-trade-referendum-082626",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239548176-300x200.jpg",
+      "description": "The CNBC host said Nvidia has grown so central to the AI ecosystem that its quarterly results carry implications beyond the company itself"
+    },
+    {
+      "headline": "Saudi Brothers Mint Billion-Dollar Fortune From AI Boom",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2hEMUdRRG1hMWJDd1hhUXlPVGczb1U0cUlncV9Pb3UyMXVSdm9vdkx1ZmU3WG40V1laSnR1elZmd3RlaGE3ZHNQVE5pMEREeG03Zl9pQnBQM0Y1Rk9jMlZVc1J5QVNFSzFiV2FCUjBCTVRXbDlRcHNmWWlwbl9KVzllTDhvbHMxNXg5Z3hTc280UXRheTJhVEo0Z1gxZEFXWDNUQ1hDSjktZk55NjJwanZPSXI?oc=5",
-      "pub_date": 1787738177.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/minimax-sales-nearly-quadruple-in-crowded-race-for-chinaai-lead",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTNkR2pBQUEtTC1aS2Y5dHFCUEwwNm5uYXQ1Q0ZjeGgzTVp5c0o1elVPd0hzdnZpWXA1dEthdVBmenpZQUJlb2dMNlNVUHZvU2sxVFVqT0JYRlN3YVVXYV9xQVJONlRsU2RkZ1hQV3p1OGY4ZnFWSkNtVGNhSGVaazBzUHdFUElRYi1kd3lJcW4zQ0doR0R4dzBRNEl4T1hqaFNVV1c5N3dEQQ?oc=5",
+      "pub_date": 1787743346.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/saudi-brothers-mint-billion-dollar-fortune-from-ai-boom",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Gamescom highlights gaming boom amid AI concerns",
+      "source": "DW.com",
+      "source_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkJTRG5XZEp3c3JUTWZzZFlIcGpSVzU4MHAtYlVVa1FOLXpYeWs4M1FTcVJXUzdlZGt2dWl4UjRLOEdoc0Rma1V1NFZ0a3AwMmZqZEUxNzRld2ZjY19MWEZOQjNJenFWUURzQkJjT29RWEJfRm42OENfclF4eHJuWmtOZTlqSlJaYTJSZ3VHX1JfZjkzUGd1b0JtZjBKUdIBngFBVV95cUxQSjYyU09GbkF2QkZaOFhGalNSYXVEU2NHZFVIdjl5eW01WGN3US1scGNCN1pQM0hGcjduaGlvWTQxM3IzazZHODQyamhhM05lSzc4NFU1MTdJRTFfdEstdXRlVUlLSVZqYzVERFpPbmVKS2l2OUZTSXpLczVySnNVNDl1LTBuS29fYTNxODVyU25JU2FBRUJJR3FRWWFqdw?oc=5",
+      "pub_date": 1787743233.0,
+      "article_url": "https://www.dw.com/en/gamescom-2026-highlights-gaming-industrys-strength-ai-challenges/a-78502849",
+      "image": "https://static.dw.com/image/78506367_6.jpg",
+      "description": "Gamescom 2026 opens in Cologne as the global gaming industry continues to grow. But rising hardware costs, AI concerns and slowing user growth all pose challenges."
     },
     {
       "headline": "The Connections That Turned a Precocious Teen Into the Fallen \u2018Nostradamus of AI\u2019",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3FKTTFuZFd3UFZyQ1Jpd2R3NUlfY1VkTU0yVm1VY1RXc0h2RXc4TVZmbUlXa05zMEI5VW9penlpWGM4UzN3WTl5R1ZTRHZpaTN4NVJJVllvbzNvZWdqemM1bkNUdXdMcVJwVDZOOTJ2d2QtV1hneTMxRUNGYzV6Qy1JVHJheERrSGJIZXBVQ3A3Zw?oc=5",
-      "pub_date": 1787706000.0,
+      "pub_date": 1787706097.0,
       "article_url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
+      "pub_date": 1787738820.0,
+      "article_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251301",
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
-    },
-    {
-      "headline": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWRsS2stazVTeW1fVTFxbHE1MXFqU3RXN0RsV2JsNlRqZzIzaGNFMzNQYkNPT0pOZGpOV3dnanFCRXg4TnV1NHAxU0ZaenZ2bkRZaWNlQlFEakxyU3RDeU1DS0V1Tzl2YzRqWG1tbzZpamlwamFxdzMzeUJ1UzdUVmlCbXl6OHRfOFdkal9Lc0trSFRHTUloMVVuNU8xTjVIbEhyOUM3cHRtZw?oc=5",
-      "pub_date": 1787705280.0,
-      "article_url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-      "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fd31519098f19cec1512068a71377c",
-      "description": "Companion bots are being regulated over worries they foster \u2018emotional dependence\u2019 and young people could stop marrying and having families"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T10:35:17.931555+00:00"
+  "fetched_at": "2026-08-26T11:59:01.461708+00:00"
 }

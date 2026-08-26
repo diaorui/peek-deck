@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T11:29:58.527869+00:00'
+updated: '2026-08-26T11:59:02.736250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 11:29 UTC  
+**Last Updated:** August 26, 2026 at 11:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,446.90
+### $2,464.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +5.6%  
-**30d:** +27.8%  
-**90d:** +21.9%  
-**1y:** -45.5%  
+**24h:** -0.4%  
+**7d:** +5.9%  
+**30d:** +28.2%  
+**90d:** +22.3%  
+**1y:** -45.3%  
 
 ---
 
@@ -180,17 +180,17 @@ ethereum.org • 2d ago
 
 ---
 
-**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
+**[Current price of Ethereum for August 26, 2026](https://fortune.com/article/price-of-ethereum-08-26-2026/)**
 
-CoinDesk • 23h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 44m ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 1d ago
+CoinDesk • 23h ago
 
 ---
 
@@ -202,11 +202,11 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 ---
 
-**[Current price of Ethereum for Aug. 25, 2026](https://fortune.com/article/price-of-ethereum-08-25-2026/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-Fortune • 23h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -218,19 +218,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
-
-Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
-
-Benzinga • 1d ago
-
----
-
 **[THORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins](https://thedefiant.io/news/press-releases/thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins)**
 
 George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
 
 The Defiant • 20h ago
+
+---
+
+**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
+
+Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
+
+Benzinga • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 295 • 💬 92 • ⏱️ 18:28 • 9h ago
+👁️ 7K • 👍 295 • 💬 92 • ⏱️ 18:28 • 10h ago
 
 ---
 
