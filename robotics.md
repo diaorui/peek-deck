@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T02:47:22.672373+00:00'
+updated: '2026-08-26T03:53:37.598646+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 02:47 UTC  
+**Last Updated:** August 26, 2026 at 03:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -128,19 +128,11 @@ BBC • 1d ago
 
 ---
 
-**[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
-
-The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
-
-TechCrunch • 2h ago
-
----
-
 **[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 11h ago
+NVIDIA Newsroom • 12h ago
 
 ---
 
@@ -148,7 +140,7 @@ NVIDIA Newsroom • 11h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 11h ago
+The Robot Report • 12h ago
 
 ---
 
@@ -156,7 +148,15 @@ The Robot Report • 11h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
+
+---
+
+**[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
+
+The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
+
+TechCrunch • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Seeking Alpha • 11h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Business Insider • 22h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 16h ago
+IEEE Spectrum • 17h ago
 
 ---
 
@@ -180,15 +180,15 @@ IEEE Spectrum • 16h ago
 
 When investors think about Tesla Inc‘s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says. “It is their manufacturing competency and resources,” Kang told Benzinga in an email. Tesla’s Manufacturing Scale Could Become Its Biggest Moat Kang’s thesis stands in contrast to t
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Somnia Lab Trains Intimacy Robots with Human Motion-Capture](https://x.com/i/trending/2092257575261901104)**
+**[Somnia Lab Trains Intimacy Robots with Motion-Capture Demos](https://x.com/i/trending/2092257575261901104)**
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 12h ago
+x.com • 13h ago
 
 ---
 
@@ -220,7 +220,7 @@ This Smart Hydrogel Changes Color When You Stretch It—and Could Give Robots a 
 
 📺 XRoboHub
 
-👁️ 3K • 👍 92 • 💬 3 • ⏱️ 0:38 • 11h ago
+👁️ 3K • 👍 92 • 💬 3 • ⏱️ 0:38 • 12h ago
 
 ---
 
@@ -230,7 +230,7 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 12K • 👍 120 • 💬 3 • ⏱️ 0:30 • 11h ago
+👁️ 12K • 👍 120 • 💬 3 • ⏱️ 0:30 • 12h ago
 
 ---
 
@@ -250,7 +250,7 @@ Remote-Controlled Guava Harvesting Robot Title: Remote-Controlled Guava Harvesti
 
 📺 MP Bundelkhand 
 
-👁️ 67K • 👍 118 • ⏱️ 0:07 • 12h ago
+👁️ 67K • 👍 118 • ⏱️ 0:07 • 13h ago
 
 ---
 
