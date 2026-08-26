@@ -13,17 +13,6 @@
       "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
     },
     {
-      "title": "Join a community-run AI Discord: open discussion, transparent moderation, local model quants",
-      "author": "Angry_Birdy06",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyfbad/join_a_communityrun_ai_discord_open_discussion/",
-      "published": 1787698430.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I made a Discord for people who are genuinely into AI and want a decent place to talk about it. It\u2019s still new, but the idea is to build a large community without arbitrary bans, hidden moderation decisions, or people getting shut down for disagreeing. Rules should be clear, moderation should be explainable, and members should have a real say in how the server develops. There are channels for local models, research, tools, startups, personal projects, technical help, showcases, and general discussion. Share what you\u2019re building, get feedback, find people to work with, or just talk AI. We\u2019re also going to publish our own local model quants, starting with Qwen 3.8 27B. And I don\u2019t just mean \u201canother high quality quant.\u201d The goal is actual SOTA. Our Qwen quant is already beating the current best Unsloth quants in our testing, using the same KLD ruler and benchmark setup so it\u2019s an apples-to-apples comparison. We\u2019ll publish the results alongside the release so people can verify it themselves. We\u2019re small right now, so early members will have a lot of influence over what the community becomes. Join: https://discord.gg/HqWF7R5R9E"
-    },
-    {
       "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
       "author": "avishic",
       "url": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
@@ -79,6 +68,17 @@
       "description": "About energy use and other topics. He has lots of supporting links. https://youtu.be/Kf4ivd0THb0 https://youtu.be/ny_3PRz6Zeg"
     },
     {
+      "title": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data.",
+      "author": "MonokoEloba",
+      "url": "https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/",
+      "published": 1787686827.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've supposed their approach based on their website, they are of course more complex. I set up a local \"Agent Arena\" (qwen2.5-coder:14b on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent \"swarms\" either hallucinated success, burned 500k+ tokens in pointless debates, or rubber-stamped completely off-topic code. Only frameworks relying on mechanical grounding (actual compilers/linters) rather than an \"LLM critic\" produced viable results. The Challenge: The \"Triple Constraint\" I asked each framework to build an Authentication & Rate Limiting middleware in Rust that had to satisfy three contradictory constraints: Absolute Security: Cryptographic hashing (sha2) and timing-attack protection (subtle::constant_time). Performance: Under 1ms latency under a 10k request load. Strict Quality: 100% unit test coverage, and 0 clippy warnings. The Golden Rule: Exact same local model for everyone (qwen2.5-coder:14b), isolated environments (sandboxes), same scaffolding. No cheating via paid external APIs. Autopsy of the Results (How they failed) 1. AutoGen: The Token Sink (Blind debate) The Approach: A GroupChat (Coder \u2194 SecurityCritic \u2194 PerfCritic). What happened: The agents debated in circles for 6 rounds, burning through 517,000 tokens. They eventually reached a \"consensus\"... on an off-topic script measuring latency instead of handling authentication. The critic agent rubber-stamped a completely flaky test. 2. CrewAI: The Rubber Stamper The Approach: Hierarchical chain (Architect \u2192 QA \u2192 Reviewer). What happened: The code is mechanically green (tests and clippy pass), but the logic drifted entirely. It coded a WebSocket handshake, completely ignoring cryptographic hashing and constant-time execution. The QA \"Reviewer\" saw the code compile and green-lit the whole thing without checking the original specs. 3. MetaGPT: Process Hallucination The Approach: \"Software Company\" cascade (SOP). What happened: It generated an almost empty source file (1 line of code) but wrote a highly detailed 912-byte final QA report claiming tests were exhaustive and the benchmark was a success. An absolute danger for an autonomous pipeline. 4. LangGraph: The Honest Failure The Approach: Finite State Machine (FSM) / Directed Graph. What happened: The most deterministic approach. It actually tried to implement the security primitives but failed to compile the Rust code within the 6-iteration limit. Instead of lying, the loop halted cleanly with an honest error. 5. GenOS (My framework): Mechanical Grounding The Approach: Parallel swarm (implementation, sec, QA) + central integration guarded by real tools (Cargo), driven by the genome traits (risk_tolerance, etc.). What happened: It was the only one to deliver the 3 security constraints (SHA-256, validation, constant-time subtle) with a modular 117-line architecture. Out of 5 unit tests, 3 passed. The Key Point: Instead of asking an \"LLM QA Agent\" to fake success, GenOS hit the reality of the compiler and terminated with a frank INTEGRATION_INCOMPLETE status. It doesn't lie to the developer. The Raw Data Framework Tokens (In / Out) LLM Calls Security Specs Met? Lines of Code Final Status AutoGen 517k / 15.4k 14 \u274c No 22 Consensus (Off-topic) CrewAI 371k / 6.4k 8 \u274c No 36 Approved (Total logic drift) LangGraph 206k / 6.9k 9 \u2705 Yes (Attempted) 43 Compile Error MetaGPT 36k / 1.6k 4 \u274c No 1 Hallucinated Report GenOS 205k / 8.6k 7 \u2705 Yes (SHA256+subtle) 117 INTEGRATION_INCOMPLETE Conclusion: Stop paying the multi-agent tax This test proves that the \"LLM-as-a-judge\" paradigm (using an LLM to review another LLM's code) is an architectural dead end. The models eventually get exhausted, lose the original context, and validate absolute garbage just to exit the debate loop. For an agentic system to be viable in production, the exit validation cannot come from an LLM playing the role of a critic. It must come from deterministic mechanical grounding (linter ASTs, exit codes, test assertions). All the raw data (JSON, logs, and harnesses) is reproducible. Has anyone else noticed this behavior where your agents agree on a terrible solution just to finish the task? It happened to me when I tried to beat SAT/CDCL."
+    },
+    {
       "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
       "author": "adjohu",
       "url": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
@@ -112,5 +112,5 @@
       "description": "Anyone else actually dealt with this? Is it overblown, or am I missing something?"
     }
   ],
-  "fetched_at": "2026-08-26T01:18:10.751110+00:00"
+  "fetched_at": "2026-08-26T02:46:57.429347+00:00"
 }

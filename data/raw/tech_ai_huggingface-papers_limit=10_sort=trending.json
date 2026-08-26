@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 93,
+      "upvotes": 94,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 172,
-      "num_comments": 1,
+      "upvotes": 173,
+      "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 453,
+      "github_stars": 583,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 752,
+      "upvotes": 753,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 5892,
+      "github_stars": 6057,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -70,10 +70,10 @@
       "arxiv_url": "https://arxiv.org/abs/2608.23552",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
       "upvotes": 32,
-      "num_comments": 1,
+      "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 18311,
+      "github_stars": 18415,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 2,
       "published_at": "2026-06-29T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/AI-Infra-Guard",
-      "github_stars": 5838,
+      "github_stars": 5889,
       "project_page": "https://matrix.tencent.com/clawscan/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-25T23:49:43.103223+00:00"
+  "fetched_at": "2026-08-26T02:47:09.427600+00:00"
 }
