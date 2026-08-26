@@ -5,12 +5,52 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Opinion | The Warning Lights Are Blinking Again",
+      "headline": "Opinion | We Know the Risks of A.I. We Need to Act.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
       "pub_date": 1787648553.0,
       "article_url": "https://www.nytimes.com/2026/08/25/opinion/ai-risks.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Funding better evaluations of AI\u2019s impact on wellbeing",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
+      "pub_date": 1787674244.0,
+      "article_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&backgroundColor=heather",
+      "description": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users\u2019 wellbeing."
+    },
+    {
+      "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
+      "pub_date": 1787704440.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
+      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
+    },
+    {
+      "headline": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWRsS2stazVTeW1fVTFxbHE1MXFqU3RXN0RsV2JsNlRqZzIzaGNFMzNQYkNPT0pOZGpOV3dnanFCRXg4TnV1NHAxU0ZaenZ2bkRZaWNlQlFEakxyU3RDeU1DS0V1Tzl2YzRqWG1tbzZpamlwamFxdzMzeUJ1UzdUVmlCbXl6OHRfOFdkal9Lc0trSFRHTUloMVVuNU8xTjVIbEhyOUM3cHRtZw?oc=5",
+      "pub_date": 1787705280.0,
+      "article_url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fd31519098f19cec1512068a71377c",
+      "description": "Companion bots are being regulated over worries they foster \u2018emotional dependence\u2019 and young people could stop marrying and having families"
+    },
+    {
+      "headline": "AI Revamp at WiseTech Leads to Output Surge, End of Manual Code",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGxMMFFrTlhhVnY0MzljSGdjdHZLWlpjQUwtSG93c1hhaXRTZ0N1Tk9zb2J2blBTb2J4a3VIX3dGbDNBdHFSYWFCMnUyVU5GbWppUFZramdVd2Jqa2RPMHBOWXJFcGVsdXR0czlWRi1XUEJrbGdIVExJSXVFRlNEeklVcE0tWlluekJsNnFERFF1WlNCSUVSb3dCRzJCMVpVM1NMTjVLYVJOV3dVb0FnZHM1RQ?oc=5",
+      "pub_date": 1787704980.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/ai-revamp-at-wisetech-leads-to-output-surge-end-of-manual-code",
       "image": null,
       "description": null
     },
@@ -25,14 +65,14 @@
       "description": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said."
     },
     {
-      "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2JQRHZDbndfVlgxZUFEZk5WNmlCakRteGJFMEthY0R1ajlWTHZ4QkVvVGJ0QURaM0xoLUtXZmlGTXZMY1J6dmVNSlVuOXQwcWhSaWZoTFR4X1I0M1NmdzlzaldHaDVwa2pPenF0VUhFeFpMSjJHbjNDSXhkWXl2RUZzVjNNd29hWmpTLVNEeVMzNkoyUnNUTnVCczhIYVlqQkhhRmdpZzMyNkd1c0tqVEZQWVpwUQ?oc=5",
-      "pub_date": 1787697923.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/08/25/can-apples-new-mac-ultra-replace-your-200month-ai-coding-bill/",
-      "image": null,
-      "description": null
+      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
+      "pub_date": 1787662811.0,
+      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
+      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
     },
     {
       "headline": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
@@ -43,46 +83,6 @@
       "article_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251301",
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
-    },
-    {
-      "headline": "Record Short Bets Hit China\u2019s AI Model Duo on Fierce Competition",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0ltRHUtSmZSTFV2cVlTbHlqMFdlU1kzT2NOcGFnc1VFVVdXMy13NzFJR1ktWEJ6d19GV090ZGV1YWV0bXpKMzM0ZVJFOEJ3dDdKWHdDX3RVd09Nc0ZZS1JZTl9fallEdmU0ZE8teGpKcDNDdU5zR2NiM2RaV3p4NEhaRS1jcE5wX0VlTzVLNGJ2VEZRcWVtalZBSXJ1bkktbTdCU1IyWWdXOFVfR1NVTkFOVGh2Zw?oc=5",
-      "pub_date": 1787700600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/record-short-bets-hit-china-s-ai-model-duo-on-fierce-competition",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Earnings: A Scorecard For The AI Boom",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEE2SkRaTHZfU2x4SkJTRVoxa1YxenJlcWtta2JLZzJNSVQyVGNwejhvZ3V4Y0Y0TkxSbGZLNEsxbi1BNTVtLUEtbmxPZ28yYU84S0xLbWlzbU0xelJaVTgzNl81dlJwcWFIbHVpdEM5M2ZWVDVqVnRwbDBIalFDVU9KdEpQaXJiS3dXWF81TGJxX0pKb3FaYzNMWWk?oc=5",
-      "pub_date": 1787697908.0,
-      "article_url": "https://www.forbes.com/sites/paulocarvao/2026/08/25/nvidia-earnings-a-scorecard-for-the-ai-boom/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8e188c078909ea9a840364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "NVIDIA earnings will test the AI boom as investors assess data-center revenue, Rubin demand, customer concentration and mounting infrastructure financing risks."
-    },
-    {
-      "headline": "Readers Write: Minnesota governance, Amy Klobuchar, Flock cameras, AI grading, books",
-      "source": "Star Tribune",
-      "source_url": "https://www.startribune.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRV9tM05DQ3prQzFkaTNmQkdkSTNnMEk4UV84VGhwdDRhWndFaGNSWlZQeC01aEZnazhPVF9ZYm9oV0lCdHpvMEwzR21MWU5VbXlwZVNuS1F2Q1hMMkJ4VEdxUXNGcDRndkFBa2hQd0RVLWdGV1ctV29YeC1saXRKRkRzakl1UWE5WDFUOFNNejVBYXZfNTBWaERMblhjajZ5bGd1TENxQS05dVQwY3FnTEhJWlBMTUhI?oc=5",
-      "pub_date": 1787698800.0,
-      "article_url": "https://www.startribune.com/readers-write-minnesota-governance-amy-klobuchar-flock-cameras-ai-grading-books/601881984",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Try to beat this AI writing detector",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
-      "pub_date": 1787673600.0,
-      "article_url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLQW6FG2TFHBPLCXKGQTTJRM7I.jpg&w=1200",
-      "description": "See what it takes to convince an AI writing detector that AI-generated text was written by a human."
     },
     {
       "headline": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-25T23:50:03.444992+00:00"
+  "fetched_at": "2026-08-26T01:18:31.432383+00:00"
 }

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-25T23:50:05.022838+00:00'
+updated: '2026-08-26T01:18:32.620652+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 23:50 UTC  
+**Last Updated:** August 26, 2026 at 01:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,630.98
+### $78,862.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +13.1%  
-**30d:** +23.0%  
-**90d:** +6.5%  
-**1y:** -29.8%  
+**24h:** -2.2%  
+**7d:** +8.0%  
+**30d:** +23.3%  
+**90d:** +7.3%  
+**1y:** -29.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-6h ago
+7h ago
 
 ---
 
@@ -89,13 +89,13 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-4h ago
+6h ago
 
 ---
 
 **[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -107,13 +107,13 @@ https://x.com/saylor/status/2092277359034458361
 
 **[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
 
-20h ago
+21h ago
 
 ---
 
 **[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://x.com/saylor/status/2092277359034458361
 
 I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
 
-2h ago
+4h ago
 
 ---
 
@@ -129,13 +129,13 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
 
-12h ago
+14h ago
 
 ---
 
 **[the Wall Street Journal featured a full page Bitcoin ad today “The fringe phase is officially over."](https://www.reddit.com/r/Bitcoin/comments/1vy7by9/the_wall_street_journal_featured_a_full_page/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 The comparison is percentage gain from halving.
 
-10h ago
+11h ago
 
 ---
 
@@ -153,7 +153,7 @@ The comparison is percentage gain from halving.
 
 **[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
 
-WSJ • 8h ago
+WSJ • 10h ago
 
 ---
 
@@ -169,29 +169,29 @@ Financial Times • 1d ago
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 39m ago
+BBC • 2h ago
 
 ---
 
-**[Arthur Hayes calls a new Bitcoin bull market as dollar liquidity surges](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-calls-bitcoin-bull-221359024.html)**
+**[Can Bitdeer (BTDR) Turn Wind-Powered Bitcoin Co-Mining into a Scalable AI Infrastructure Edge?](https://sg.finance.yahoo.com/news/bitdeer-btdr-turn-wind-powered-002035490.html)**
 
-The BitMEX co-founder says the mechanism driving Bitcoin higher today is identical to what drove it higher in late 2023, and the rally is not over.
+Soluna Holdings recently announced that its subsidiary signed a co-mining agreement with Bitdeer’s Dory Creek unit to deploy about 28 MW of Sealminer A2 Pro Air Bitcoin mining equipment, adding roughly 1.93 EH/s of hash rate at the wind-powered Project Kati 1 data center in South Texas under a shared-proceeds model. Alongside this, Bitdeer AI is working toward 350 MW of AI cloud data center capacity by early 2028, backed by contracted demand and a pipeline for AI infrastructure exceeding...
 
-Yahoo Finance • 1h ago
+Yahoo Finance Singapore • 58m ago
 
 ---
 
-**[Block (XYZ) Stock May Be 19% Undervalued On Bitcoin Payments Rollout](https://sg.finance.yahoo.com/news/block-xyz-stock-may-19-221812476.html)**
+**[Top analyst spots a rare window for Bitcoin buyers](https://au.finance.yahoo.com/news/top-analyst-spots-rare-window-001917939.html)**
 
-Block stock has delivered a decline of 69.1% over the past five years, yet the latest intrinsic value work using an Excess Returns model points to meaningful upside while traditional earnings multiples flag the shares as expensive. This leaves investors with a split valuation picture. Over five years, Block shareholders have seen the stock fall 69.1%. Any case for upside now relies heavily on how today’s valuation links to future cash generation rather than past returns. New developments...
+Analyst Michaël van de Poppe says buying Bitcoin at $80,000 now is like buying at $20,000 last cycle, as the rally draws record ETF inflows.
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance Australia • 59m ago
 
 ---
 
 **[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
 
-Bloomberg • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -199,21 +199,7 @@ Bloomberg • 11h ago
 
 New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
 
-CNBC • 17h ago
-
----
-
-**[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
-
-WJBF • 20h ago
-
----
-
-**[Amarillo man accused of using Bitcoin to access child porn on dark web arrested by FBI](https://abc7amarillo.com/news/local/amarillo-man-accused-of-using-bitcoin-to-access-child-pornography-on-dark-web-arrested-by-fbi-jose-adrian-bosquez-access-with-intent-to-view-tor-network-larget-open-libary-free-videos-images-subscription)**
-
-An Amarillo man accused of using Bitcoin to access to child porn on the dark web was arrested by the FBI.Jose Adrian Bosquez, 39, is charged with access with in
-
-KVII • 7h ago
+CNBC • 19h ago
 
 ---
 
@@ -221,7 +207,21 @@ KVII • 7h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 11h ago
+Fortune • 13h ago
+
+---
+
+**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
+
+Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
+
+Business Insider • 1d ago
+
+---
+
+**[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
+
+WJBF • 21h ago
 
 ---
 
@@ -255,7 +255,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 7h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 8h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -263,7 +263,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 12h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 13h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -287,7 +287,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 3 • 💬 3 • 3h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 3 • 💬 3 • 4h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -309,7 +309,7 @@ Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/tra
 
 📺 Bloomberg Television
 
-👁️ 1K • 👍 48 • 💬 2 • ⏱️ 44:11 • 5h ago
+👁️ 1K • 👍 48 • 💬 2 • ⏱️ 44:11 • 6h ago
 
 ---
 
@@ -319,7 +319,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 14K • 👍 2K • 💬 84 • ⏱️ 25:34 • 3h ago
+👁️ 14K • 👍 2K • 💬 84 • ⏱️ 25:34 • 4h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is flashing warning signs and your altcoins will feel it first. Before P
 
 📺 Chart Hackers
 
-👁️ 4K • 👍 295 • 💬 6 • ⏱️ 52:44 • 7h ago
+👁️ 4K • 👍 295 • 💬 6 • ⏱️ 52:44 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 368 • ⏱️ 12:06 • 22h ago
+👁️ 19K • 👍 1K • 💬 368 • ⏱️ 12:06 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ The last weekly lower high from the failed May rally sits at 83K. Reclaim it and
 
 📺 Krown
 
-👁️ 407 • 👍 19 • 💬 108 • ⏱️ 0:29 • 1h ago
+👁️ 407 • 👍 19 • 💬 108 • ⏱️ 0:29 • 3h ago
 
 ---
 
