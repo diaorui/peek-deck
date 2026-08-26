@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T06:50:00.079641+00:00'
+updated: '2026-08-26T07:46:22.645074+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 06:50 UTC  
+**Last Updated:** August 26, 2026 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1586.57B
+**Market Cap:** $1585.47B
 Rank #1
 
-**Circulating Supply:** 20,075,262 BTC
+**Circulating Supply:** 20,075,275 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.3%
+-37.4%
 
 **All-Time Low:** $67.81
-+116502.3%
++116362.2%
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
+
+3h ago
+
+---
+
 **[Michael Saylor vs the Bears: just posted on his personal X account](https://www.reddit.com/r/Bitcoin/comments/1vy6slu/michael_saylor_vs_the_bears_just_posted_on_his/)**
 
 https://x.com/saylor/status/2092277359034458361
 
-13h ago
+14h ago
 
 ---
 
-**[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
+**[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
 
-13h ago
+5h ago
 
 ---
 
@@ -95,19 +101,13 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-11h ago
+12h ago
 
 ---
 
-**[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
+**[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-4h ago
-
----
-
-**[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
-
-2h ago
+14h ago
 
 ---
 
@@ -121,19 +121,7 @@ https://x.com/saylor/status/2092277359034458361
 
 I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
 
-9h ago
-
----
-
-**[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
-
-1d ago
-
----
-
-**[the Wall Street Journal featured a full page Bitcoin ad today “The fringe phase is officially over."](https://www.reddit.com/r/Bitcoin/comments/1vy7by9/the_wall_street_journal_featured_a_full_page/)**
-
-12h ago
+10h ago
 
 ---
 
@@ -141,7 +129,21 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 its not going lower. buy in now
 
-5h ago
+6h ago
+
+---
+
+**[16 volunteers pointed AI models at 390 Bitcoin repos in 27 hours after the Coldcard hack. They found 85 critical bugs, and one of them got exploited anyway before it was fully patched.](https://www.reddit.com/r/Bitcoin/comments/1vyph21/16_volunteers_pointed_ai_models_at_390_bitcoin/)**
+
+Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai
+
+54m ago
+
+---
+
+**[Still waiting for 40K? 😜](https://www.reddit.com/r/Bitcoin/comments/1vxowkr/still_waiting_for_40k/)**
+
+1d ago
 
 ---
 
@@ -153,19 +155,19 @@ its not going lower. buy in now
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
 **[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
 
-WSJ • 15h ago
+WSJ • 16h ago
 
 ---
 
 **[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -181,13 +183,13 @@ CNBC • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains](https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains)**
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -229,7 +231,7 @@ Financial Times • 1d ago
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 4 • 💬 0 • 4h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 4 • 💬 0 • 5h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -259,7 +261,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 14h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 15h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -267,7 +269,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 19h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 20h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -313,7 +315,7 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 967 • 💬 42 • ⏱️ 52:01 • 9h ago
+👁️ 27K • 👍 1K • 💬 41 • ⏱️ 52:01 • 10h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin just crossed a critical moving average as trouble builds inside the worl
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 141 • ⏱️ 14:53 • 8h ago
+👁️ 15K • 👍 1K • 💬 150 • ⏱️ 14:53 • 9h ago
 
 ---
 
@@ -333,37 +335,27 @@ Zen Master JP Brings Accurate Trade Alerts & Live TA to Sin City Crypto. Trading
 
 📺 Sin City Crypto
 
-👁️ 11K • 👍 547 • ⏱️ 7:02:36 • 1d ago
+👁️ 11K • 👍 548 • ⏱️ 7:02:36 • 1d ago
 
 ---
 
-**[Brand NEW 10TH/s BM1373 Solo BITCOIN Miner!](https://www.youtube.com/watch?v=8Rm8tv0xu1o)**
+**[What’s behind the Bitcoin rally? Expert weighs in](https://www.youtube.com/watch?v=w1dEEumcZHw)**
 
-Checkout the Hammer Miner Thor P2 from Today's Video ➡ https://geni.us/HammerMinerThorP2 Use Checkout Code ...
+ProCap Financial Chairman and CEO Anthony Pompliano analyzes the recent Bitcoin rally and cryptocurrency catalysts. Plus ...
 
-📺 The Hobbyist Miner
+📺 Fox Business Clips
 
-👁️ 2K • 👍 138 • 💬 116 • ⏱️ 14:36 • 18h ago
-
----
-
-**[Is This The Best Way To Use Excess Solar? #bitcoin #solarenergy #diy](https://www.youtube.com/watch?v=LVSnUADqAow)**
-
-Antminer S19 Pro used in my Solar Shed: https://amzn.to/4y2suN0 What do I do with EXTRA solar power? ☀️ I put it to work!
-
-📺 MattMan’s Solar 
-
-👁️ 322 • 👍 6 • ⏱️ 1:17 • 3h ago
+👁️ 15K • 👍 293 • 💬 208 • ⏱️ 3:53 • 17h ago
 
 ---
 
-**[Bitcoin Is Squeezing The Bears](https://www.youtube.com/watch?v=QK9s5LTsDh0)**
+**[Bitcoin Hits $80k: Is All-Time High Next? | Ben Cowen](https://www.youtube.com/watch?v=gTn7-oSb_ic)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code LIN to sign up and trade today! Benjamin Cowen ...
 
-📺 CryptosRUs
+📺 David Lin 
 
-👁️ 19K • 👍 1K • 💬 492 • ⏱️ 12:06 • 1d ago
+👁️ 73K • 👍 3K • 💬 465 • ⏱️ 39:07 • 1d ago
 
 ---
 
@@ -377,33 +369,43 @@ SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and
 
 ---
 
-**[ARE YOU READY? THE CRYPTO BULL MARKET IS HERE!? BITCOIN &amp; ALTCOINS TO SURGE!](https://www.youtube.com/watch?v=EwDSTwJBqhI)**
+**[Extreme Momentum: Is $85,000 Bitcoin Possible Today?](https://www.youtube.com/watch?v=WqtY597UHko)**
 
-Crypto News: Bitcoin rallies to $80000 and altcoins are on the move with may signals flashing the crypto bull market is here.
-
-📺 Thinking Crypto
-
-👁️ 12K • 👍 822 • 💬 279 • ⏱️ 23:50 • 1d ago
-
----
-
-**[BITCOIN: Buy The Breakout OR Wait For A Pullback? [My Plan]](https://www.youtube.com/watch?v=zKAbSwOuJVs)**
-
-Bitcoin is breaking out and traders are split: buy right now or wait for a better entry? In today's live session, Kyle Doops maps out ...
+Bitcoin is printing relentless bull momentum while sidelining traders with no clean entry. Kyle breaks down the TD Sequential 9 ...
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 22 • ⏱️ 37:21 • 1d ago
+👁️ 21K • 👍 1K • 💬 34 • ⏱️ 41:47 • 23h ago
 
 ---
 
-**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
+**[Bitcoin Is Squeezing The Bears](https://www.youtube.com/watch?v=QK9s5LTsDh0)**
 
-Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 96K • 👍 4K • 💬 264 • ⏱️ 43:03 • 2d ago
+👁️ 19K • 👍 1K • 💬 496 • ⏱️ 12:06 • 1d ago
+
+---
+
+**[CRYPTO Holder: Proof The Real Altcoin Cycle Is Starting (You&#39;re Watching The Wrong Bitcoin Chart!)](https://www.youtube.com/watch?v=o9-MleDREqg)**
+
+The first real bull market in 6 years is approaching! The 2025 Bitcoin ATH looked like a bull market, but it wasn't THE bull market.
+
+📺 Crypto Capital Venture
+
+👁️ 16K • 👍 983 • 💬 426 • ⏱️ 7:46 • 1d ago
+
+---
+
+**[Bitcoin Hits $80K: Why Bears Are Paralyzed &amp; $40K Trap Exposed 🚨🧠](https://www.youtube.com/watch?v=Itm_obLUaJI)**
+
+FREE INVESTOR QUIZ: https://investor-profiler.investanswers.io JOIN THE FAMILY: http://www.patreon.com/investanswers ...
+
+📺 InvestAnswers
+
+👁️ 61K • 👍 4K • 💬 347 • ⏱️ 26:21 • 1d ago
 
 ---
 
