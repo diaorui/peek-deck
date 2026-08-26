@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T15:59:50.288558+00:00'
+updated: '2026-08-26T16:53:40.274761+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 15:59 UTC  
+**Last Updated:** August 26, 2026 at 16:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 14h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 2d ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 3d ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 1d ago
 
 Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 3h ago
 
 Tom Lee said Ethereum could “easily” trade above $10,000 in 2027 or 2028. The BitMine chairman believes a new crypto bull cycle, Wall Street tokenization, ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin dominance remains above 60%, which a crypto commentator says leaves a broader altcoin rotation unconfirmed.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ PR Newswire • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 205 • 💬 29 • ⏱️ 16:00 • 1h ago
+👁️ 2K • 👍 205 • 💬 29 • ⏱️ 16:00 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 2K • 👍 119 • 💬 16 • ⏱️ 6:53 • 20h ago
+👁️ 2K • 👍 119 • 💬 16 • ⏱️ 6:53 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 639 • 💬 62 • ⏱️ 12:24 • 1d ago
+👁️ 9K • 👍 639 • 💬 62 • ⏱️ 12:24 • 2d ago
 
 ---
 
