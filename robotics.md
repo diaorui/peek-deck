@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T19:01:56.348256+00:00'
+updated: '2026-08-26T22:24:25.155951+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 19:01 UTC  
+**Last Updated:** August 26, 2026 at 22:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Just sharing some personal thoughts from the perspective of a casual audience. I
 
 Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ I have now finished wiring the legs mostly, i still have to connect the power ca
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 2d ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 3d ago
 
 ---
 
@@ -120,19 +120,27 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
+**[Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/)**
+
+With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
+
+The Robot Report • 1d ago
+
+---
+
+**[Nvidia unveils new robotics computer Jetson Orin Nano 2](https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2)**
+
+On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
+
+Seeking Alpha • 1d ago
+
+---
+
 **[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 18h ago
-
----
-
-**[Hyundai CEO says your local car dealership could sell you a humanoid robot](https://www.businessinsider.com/hyundai-ceo-humanoid-robot-dealership-boston-dynamics-2026-8)**
-
-Hyundai's robotics company, Boston Dynamics, could sell humanoid and dog-like bots at car dealerships, the CEO said.
-
-Business Insider • 1h ago
+TechCrunch • 21h ago
 
 ---
 
@@ -140,43 +148,15 @@ Business Insider • 1h ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
-**[World humanoid robot games show runners breaking records, bursting into flames](https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/)**
+**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
 
-Record-breaking robot races are less substantial than household chore challenges.
+BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-Ars Technica • 22h ago
-
----
-
-**[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
-
-The Economist • 3d ago
-
----
-
-**[Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.](https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html)**
-
-As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
-
-CNBC • 12h ago
-
----
-
-**[ScaFi: A robot that grows like a fish, not a machine—from 2 feet to nearly 10](https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html)**
-
-Tech Xplore • 6h ago
-
----
-
-**[The U.S. Can’t Catch Up to China’s Robots by Banning Them](https://foreignpolicy.com/2026/08/25/china-robot-race-humanoids-drones-us-ban-restrictions/)**
-
-Rather than learn from its rival, Washington is trying to shut the door.
-
-Foreign Policy • 15h ago
+CNBC • 1d ago
 
 ---
 
@@ -185,6 +165,28 @@ Foreign Policy • 15h ago
 Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
 
 GeekWire • 1d ago
+
+---
+
+**[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
+
+Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
+
+Business Insider • 1d ago
+
+---
+
+**[ScaFi: A robot that grows like a fish, not a machine—from 2 feet to nearly 10](https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html)**
+
+Tech Xplore • 9h ago
+
+---
+
+**[Should You Buy, Sell or Hold Serve Robotics Stock Post Q2 Earnings?](https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-serve-robotics-153400111.html)**
+
+Can SERV overcome its Q2 setbacks as new partnerships and diversified revenues reshape its growth prospects?
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -208,7 +210,7 @@ A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary hea
 
 📺 BBC News
 
-👁️ 1.6M • 👍 17K • 💬 8K • ⏱️ 2:30 • 3d ago
+👁️ 1.6M • 👍 17K • 💬 8K • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -218,7 +220,7 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 📺 DPCcars
 
-👁️ 23K • 👍 476 • 💬 87 • ⏱️ 2:12 • 6d ago
+👁️ 23K • 👍 478 • 💬 87 • ⏱️ 2:12 • 6d ago
 
 ---
 
@@ -228,7 +230,7 @@ The five-day games, now in its second year, are a spectacle demonstrating China'
 
 📺 Associated Press
 
-👁️ 458K • 👍 5K • 💬 2K • ⏱️ 1:24 • 3d ago
+👁️ 463K • 👍 5K • 💬 2K • ⏱️ 1:24 • 4d ago
 
 ---
 
@@ -248,7 +250,7 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 📺 CNA
 
-👁️ 429K • 👍 6K • 💬 1K • ⏱️ 4:29 • 1d ago
+👁️ 492K • 👍 7K • 💬 1K • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -258,7 +260,7 @@ The second annual World Humanoid Games are set to take place in Beijing. It come
 
 📺 NBC News
 
-👁️ 67K • 👍 482 • 💬 248 • ⏱️ 4:05 • 5d ago
+👁️ 68K • 👍 482 • 💬 248 • ⏱️ 4:05 • 5d ago
 
 ---
 
@@ -268,7 +270,17 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 46K • 👍 706 • 💬 502 • ⏱️ 2:16 • 4d ago
+👁️ 46K • 👍 707 • 💬 503 • ⏱️ 2:16 • 4d ago
+
+---
+
+**[THE FUTURE IS HERE! Best Moments from the WORLD HUMANOID ROBOT GAMES](https://www.youtube.com/watch?v=D9XApebDAm0)**
+
+Humanoid robots take center stage at the WORLD HUMANOID ROBOT GAMES, showcasing the latest advances in robotics and ...
+
+📺 Diario AS
+
+👁️ 71K • 👍 825 • 💬 217 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -279,16 +291,6 @@ Human-like androids have wowed crowds at the World Robot Conference in Beijing, 
 📺 ABC News (Australia)
 
 👁️ 21K • 👍 139 • ⏱️ 7:11 • 5d ago
-
----
-
-**[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
-
-Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
-
-📺 New York Post
-
-👁️ 57K • 👍 899 • 💬 383 • ⏱️ 4:07 • 6d ago
 
 ---
 
