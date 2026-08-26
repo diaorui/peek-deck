@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T05:34:29.314618+00:00'
+updated: '2026-08-26T06:50:00.071907+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 05:34 UTC  
+**Last Updated:** August 26, 2026 at 06:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
 
-7h ago
+8h ago
 
 ---
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -55,7 +55,7 @@ I hope this is okay to share since it is not self promotion and it is open sourc
 
 Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look — no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)
 
-8h ago
+9h ago
 
 ---
 
@@ -65,11 +65,19 @@ Truck driver here, zero coding background. I Built an AI news aggregator over a 
 
 ---
 
+**[Why should I care about using Muse Spark Contributor?](https://www.reddit.com/r/artificial/comments/1vyo7em/why_should_i_care_about_using_muse_spark/)**
+
+In case you don't know, Muse Spark Contributor is a very cheap (.10 in, .20 out) version of Muse Spark 1.2. They achieve this price by training on the data you give it. I simply don't understand why I should care if a model is training on data I give it. I mostly only use it for research and small programming projects. The only thing I'd be worried about is if, somehow, through prompt injection, Muse's next model could reveal personal info. Should I be concerned, or just use it? I'm very, very tight on cash, so the only other options for me are really DeepSeek v4 flash (which just got a price increase), or GPT Luna.
+
+1h ago
+
+---
+
 **[OpenAI adds an admin plugin for ChatGPT Work and Codex](https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/)**
 
 OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation. The plugin stays inside each admin's existing role and permissions. OpenAI says it shows what was requested, whether it completed, and what changed. It can also route some requests for approval in Slack or Microsoft Teams. The practical part is the control layer. An admin tool that can change workspace settings needs clear permissions, approval steps, and a result people can audit. Source: https://openai.com/index/introducing-admin-plugin/ Supporting report: https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44M1HY:0-openai-says-introducing-the-admin-plugin-for-chatgpt-work-and-codex/
 
-9h ago
+11h ago
 
 ---
 
@@ -77,7 +85,7 @@ OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets worksp
 
 About energy use and other topics. He has lots of supporting links. https://youtu.be/Kf4ivd0THb0 https://youtu.be/ny_3PRz6Zeg
 
-7h ago
+9h ago
 
 ---
 
@@ -85,7 +93,7 @@ About energy use and other topics. He has lots of supporting links. https://yout
 
 I've supposed their approach based on their website, they are of course more complex. I set up a local "Agent Arena" (qwen2.5-coder:14b on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent "swarms" either hallucinated success, burned 500k+ tokens in pointless debates, or rubber-stamped completely off-topic code. Only frameworks relying on mechanical grounding (actual compilers/linters) rather than an "LLM critic" produced viable results. The Challenge: The "Triple Constraint" I asked each framework to build an Authentication & Rate Limiting middleware in Rust that had to satisfy three contradictory constraints: Absolute Security: Cryptographic hashing (sha2) and timing-attack protection (subtle::constant_time). Performance: Under 1ms latency under a 10k request load. Strict Quality: 100% unit test coverage, and 0 clippy warnings. The Golden Rule: Exact same local model for everyone (qwen2.5-coder:14b), isolated environments (sandboxes), same scaffolding. No cheating via paid external APIs. Autopsy of the Results (How they failed) 1. AutoGen: The Token Sink (Blind debate) The Approach: A GroupChat (Coder ↔ SecurityCritic ↔ PerfCritic). What happened: The agents debated in circles for 6 rounds, burning through 517,000 tokens. They eventually reached a "consensus"... on an off-topic script measuring latency instead of handling authentication. The critic agent rubber-stamped a completely flaky test. 2. CrewAI: The Rubber Stamper The Approach: Hierarchical chain (Architect → QA → Reviewer). What happened: The code is mechanically green (tests and clippy pass), but the logic drifted entirely. It coded a WebSocket handshake, completely ignoring cryptographic hashing and constant-time execution. The QA "Reviewer" saw the code compile and green-lit the whole thing without checking the original specs. 3. MetaGPT: Process Hallucination The Approach: "Software Company" cascade (SOP). What happened: It generated an almost empty source file (1 line of code) but wrote a highly detailed 912-byte final QA report claiming tests were exhaustive and the benchmark was a success. An absolute danger for an autonomous pipeline. 4. LangGraph: The Honest Failure The Approach: Finite State Machine (FSM) / Directed Graph. What happened: The most deterministic approach. It actually tried to implement the security primitives but failed to compile the Rust code within the 6-iteration limit. Instead of lying, the loop halted cleanly with an honest error. 5. GenOS (My framework): Mechanical Grounding The Approach: Parallel swarm (implementation, sec, QA) + central integration guarded by real tools (Cargo), driven by the genome traits (risk_tolerance, etc.). What happened: It was the only one to deliver the 3 security constraints (SHA-256, validation, constant-time subtle) with a modular 117-line architecture. Out of 5 unit tests, 3 passed. The Key Point: Instead of asking an "LLM QA Agent" to fake success, GenOS hit the reality of the compiler and terminated with a frank INTEGRATION_INCOMPLETE status. It doesn't lie to the developer. The Raw Data Framework Tokens (In / Out) LLM Calls Security Specs Met? Lines of Code Final Status AutoGen 517k / 15.4k 14 ❌ No 22 Consensus (Off-topic) CrewAI 371k / 6.4k 8 ❌ No 36 Approved (Total logic drift) LangGraph 206k / 6.9k 9 ✅ Yes (Attempted) 43 Compile Error MetaGPT 36k / 1.6k 4 ❌ No 1 Hallucinated Report GenOS 205k / 8.6k 7 ✅ Yes (SHA256+subtle) 117 INTEGRATION_INCOMPLETE Conclusion: Stop paying the multi-agent tax This test proves that the "LLM-as-a-judge" paradigm (using an LLM to review another LLM's code) is an architectural dead end. The models eventually get exhausted, lose the original context, and validate absolute garbage just to exit the debate loop. For an agentic system to be viable in production, the exit validation cannot come from an LLM playing the role of a critic. It must come from deterministic mechanical grounding (linter ASTs, exit codes, test assertions). All the raw data (JSON, logs, and harnesses) is reproducible. Has anyone else noticed this behavior where your agents agree on a terrible solution just to finish the task? It happened to me when I tried to beat SAT/CDCL.
 
-9h ago
+11h ago
 
 ---
 
@@ -93,7 +101,7 @@ I've supposed their approach based on their website, they are of course more com
 
 Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
 
-17h ago
+19h ago
 
 ---
 
@@ -101,15 +109,7 @@ Most AI memory is private: an LLM gradually learns about a user. I wanted to see
 
 I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
 
-17h ago
-
----
-
-**[Ukraine ties Nvidia Jetson Orin to fatal autonomous drone strike](https://www.reddit.com/r/artificial/comments/1vy3a52/ukraine_ties_nvidia_jetson_orin_to_fatal/)**
-
-TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China.
-
-🔗 [AI Weekly](https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike) • 13h ago
+18h ago
 
 ---
 
@@ -117,35 +117,27 @@ TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose it
 
 ## Google News: "ai"
 
-**[Amazon service Bezos once called 'artificial artificial intelligence' is shutting down](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html)**
-
-Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
-
-CNBC • 5h ago
-
----
-
 **[Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)**
 
 Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
-OpenAI • 15h ago
+OpenAI • 16h ago
 
 ---
 
-**[OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)**
+**[Amazon service Bezos once called 'artificial artificial intelligence' is shutting down](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html)**
 
-Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.
+Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
 
-TechCrunch • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026](https://www.servethehome.com/openai-jalapeno-asic-at-hot-chips-2026/)**
+**[Nvidia Earnings Today: What Its Earnings Will Reveal About AI Bubble Risk](https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-today-earnings-reveal-060000174.html)**
 
-We got a deep-dive on OpenAI Jalapeño at Hot Chips 2026 as the company rapidly built its own competitive AI accelerator
+Nvidia's Q2 earnings today reveal whether AI spending is broadening or concentrated among a few giant buyers.
 
-ServeTheHome • 4h ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -153,21 +145,21 @@ ServeTheHome • 4h ago
 
 Judith Butterfield from Doncaster says she could not get past the AI service EMMA.
 
-BBC • 20m ago
+BBC • 1h ago
 
 ---
 
-**[California family pushes for AI chatbot protections after son's death: "There needs to be guardrails"](https://www.cbsnews.com/sanfrancisco/news/ai-guardrails-california-adam-raine/)**
+**[5 Real-World Vibe Coding Success Stories That Show What AI Can Really Do](https://www.forbes.com/sites/bernardmarr/2026/08/26/5-real-world-vibe-coding-success-stories-that-show-what-ai-can-really-do/)**
 
-Adam Raine was 16 years old when he died by suicide. His parents say an AI chatbot guided him to the decision.
+Vibe coding is moving rapidly from AI hype to real-world business results, helping companies build software faster and boosting developer productivity.
 
-CBS News • 50m ago
+Forbes • 1h ago
 
 ---
 
-**[Salesforce Earnings Come as AI Prompts Self-Disruption](https://www.barrons.com/articles/salesforce-earnings-stock-price-74e0e769)**
+**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
 
-Barron's • 4m ago
+WSJ • 5h ago
 
 ---
 
@@ -175,7 +167,7 @@ Barron's • 4m ago
 
 "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -183,15 +175,21 @@ CNBC • 16h ago
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-Apple • 1h ago
+Apple • 2h ago
 
 ---
 
-**[Apple’s new desktop computers are designed specifically for local AI development](https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/)**
+**[Can Apple’s New Mac Ultra Replace Your $200/Month AI Coding Bill?](https://www.forbes.com/sites/johnkoetsier/2026/08/25/can-apples-new-mac-ultra-replace-your-200month-ai-coding-bill/)**
 
-Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
+Forbes • 8h ago
 
-Ars Technica • 16h ago
+---
+
+**[In China, talking to AI is normal. Now the government fears it might replace human intimacy](https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern)**
+
+Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having families
+
+The Guardian • 6h ago
 
 ---
 
@@ -203,7 +201,7 @@ Ars Technica • 16h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 809 • 💬 698 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 811 • 💬 698 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -219,7 +217,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 544 • 💬 537 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 548 • 💬 537 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -227,7 +225,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 391 • 💬 76 • 2d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 392 • 💬 76 • 2d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -235,7 +233,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 254 • 💬 306 • 14h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 259 • 💬 312 • 15h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -243,7 +241,7 @@ TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by A
 
 I'm a designer and creative technologist based in Brooklyn, NY.
 
-⬆️ 199 • 💬 22 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 201 • 💬 22 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -251,7 +249,7 @@ I'm a designer and creative technologist based in Brooklyn, NY.
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 187 • 💬 105 • 1d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 187 • 💬 105 • 2d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
@@ -259,7 +257,7 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 137 • 💬 162 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 138 • 💬 163 • 16h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -267,7 +265,7 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
 
-⬆️ 119 • 💬 33 • 14h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
+⬆️ 127 • 💬 34 • 15h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
 
 ---
 
@@ -287,7 +285,7 @@ Apple just made a HUGE move in local AI. The new **M5 Max and M5 Ultra Mac Studi
 
 📺 Tech2WiLD
 
-👁️ 6K • 👍 125 • 💬 64 • ⏱️ 18:06 • 10h ago
+👁️ 6K • 👍 125 • 💬 64 • ⏱️ 18:06 • 11h ago
 
 ---
 
@@ -297,7 +295,7 @@ Elon Musk reveals the critical role of AI at SpaceX. Within 5 years, AI will rep
 
 📺 Solving The Money Problem
 
-👁️ 6K • 👍 228 • 💬 31 • ⏱️ 0:34 • 14h ago
+👁️ 6K • 👍 228 • 💬 31 • ⏱️ 0:34 • 15h ago
 
 ---
 
@@ -327,7 +325,7 @@ shorts #mystery #ai #nestle #ecosystem #unknownfacts.
 
 📺 ​The Mystery Hub
 
-👁️ 8K • 💬 45 • ⏱️ 0:07 • 8h ago
+👁️ 8K • 💬 45 • ⏱️ 0:07 • 9h ago
 
 ---
 
@@ -347,7 +345,7 @@ shorts #facts #food #ai.
 
 📺 FAL-TV
 
-👁️ 16K • 👍 2K • 💬 7 • ⏱️ 0:21 • 13h ago
+👁️ 16K • 👍 2K • 💬 7 • ⏱️ 0:21 • 14h ago
 
 ---
 
@@ -664,7 +662,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 2h ago
+⭐ 14.2k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -684,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 619 • 1h ago
+⭐ 3.7k • 🔱 619 • 3h ago
 
 ---
 
@@ -694,7 +692,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 375 • 15h ago
+⭐ 3.1k • 🔱 375 • 16h ago
 
 ---
 
@@ -714,7 +712,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.9k • 🔱 355 • 4h ago
+⭐ 2.9k • 🔱 355 • 5h ago
 
 ---
 
@@ -734,7 +732,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.2k • 🔱 33 • 31m ago
+⭐ 2.2k • 🔱 33 • 1h ago
 
 ---
 

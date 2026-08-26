@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T05:34:29.323079+00:00'
+updated: '2026-08-26T06:50:00.079641+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 05:34 UTC  
+**Last Updated:** August 26, 2026 at 06:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,970.35
+### $78,871.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +8.3%  
-**30d:** +23.7%  
-**90d:** +7.6%  
-**1y:** -29.0%  
+**24h:** -1.1%  
+**7d:** +8.0%  
+**30d:** +23.3%  
+**90d:** +7.3%  
+**1y:** -29.3%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-11h ago
+13h ago
 
 ---
 
 **[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -95,19 +95,19 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-10h ago
+11h ago
 
 ---
 
 **[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
 
-2h ago
+4h ago
 
 ---
 
 **[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://x.com/saylor/status/2092277359034458361
 
 I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 **[the Wall Street Journal featured a full page Bitcoin ad today “The fringe phase is officially over."](https://www.reddit.com/r/Bitcoin/comments/1vy7by9/the_wall_street_journal_featured_a_full_page/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 its not going lower. buy in now
 
-4h ago
+5h ago
 
 ---
 
@@ -153,41 +153,19 @@ its not going lower. buy in now
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
 
-WSJ • 14h ago
-
----
-
-**[Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains](https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains)**
-
-CoinDesk • 1h ago
-
----
-
-**[Coinbase Stock Surges as Bitcoin Rallied to $80,000: How Tight Is the Link?](https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-surges-bitcoin-rallied-043500199.html)**
-
-Coinbase stock's correlation with Bitcoin's price is back in focus as Bitcoin nears $80,000 and COIN rallies further.
-
-Yahoo Finance • 59m ago
-
----
-
-**[Amarillo man accused of using Bitcoin to access child porn on dark web arrested by FBI](https://abc7amarillo.com/news/local/amarillo-man-accused-of-using-bitcoin-to-access-child-pornography-on-dark-web-arrested-by-fbi-jose-adrian-bosquez-access-with-intent-to-view-tor-network-larget-open-libary-free-videos-images-subscription)**
-
-An Amarillo man accused of using Bitcoin to access to child porn on the dark web was arrested by the FBI.Jose Adrian Bosquez, 39, is charged with access with in
-
-KVII • 12h ago
+WSJ • 15h ago
 
 ---
 
 **[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
 
-Bloomberg • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -195,7 +173,7 @@ Bloomberg • 17h ago
 
 New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -203,13 +181,13 @@ CNBC • 23h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
-**[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
+**[Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains](https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains)**
 
-WJBF • 1d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -221,6 +199,28 @@ The Motley Fool • 1d ago
 
 ---
 
+**[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
+
+WJBF • 1d ago
+
+---
+
+**[Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.](https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8)**
+
+Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life.
+
+Business Insider • 1d ago
+
+---
+
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -229,7 +229,7 @@ The Motley Fool • 1d ago
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 4 • 💬 0 • 2h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 4 • 💬 0 • 4h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -259,7 +259,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 13h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 14h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -267,7 +267,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 18h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 19h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -283,7 +283,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
 
-⬆️ 1 • 💬 0 • 5d ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 0 • 6d ago • [Strike a Block](https://strikeablock.com/)
 
 ---
 
@@ -291,7 +291,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 4 • 💬 3 • 8h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 4 • 💬 3 • 10h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -313,7 +313,7 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 967 • 💬 42 • ⏱️ 52:01 • 8h ago
+👁️ 23K • 👍 967 • 💬 42 • ⏱️ 52:01 • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin just crossed a critical moving average as trouble builds inside the worl
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 141 • ⏱️ 14:53 • 6h ago
+👁️ 12K • 👍 1K • 💬 141 • ⏱️ 14:53 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Checkout the Hammer Miner Thor P2 from Today's Video ➡ https://geni.us/HammerM
 
 📺 The Hobbyist Miner
 
-👁️ 2K • 👍 138 • 💬 116 • ⏱️ 14:36 • 17h ago
+👁️ 2K • 👍 138 • 💬 116 • ⏱️ 14:36 • 18h ago
 
 ---
 
@@ -353,7 +353,7 @@ Antminer S19 Pro used in my Solar Shed: https://amzn.to/4y2suN0 What do I do wit
 
 📺 MattMan’s Solar 
 
-👁️ 322 • 👍 6 • ⏱️ 1:17 • 2h ago
+👁️ 322 • 👍 6 • ⏱️ 1:17 • 3h ago
 
 ---
 

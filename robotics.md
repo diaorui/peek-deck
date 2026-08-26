@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T05:34:29.332422+00:00'
+updated: '2026-08-26T06:50:00.087895+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 05:34 UTC  
+**Last Updated:** August 26, 2026 at 06:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,15 +116,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 14h ago
+NVIDIA Newsroom • 15h ago
 
 ---
 
-**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
+**[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
 
-BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
+The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-CNBC • 20h ago
+TechCrunch • 6h ago
+
+---
+
+**[Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.](https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html)**
+
+As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
+
+CNBC • 19m ago
 
 ---
 
@@ -136,19 +144,11 @@ BBC • 1d ago
 
 ---
 
-**[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
+**[What Is Tencent Holdings (SEHK:700) Looking For In Humanoid Robotics?](https://finance.yahoo.com/technology/ai/articles/tencent-holdings-sehk-700-looking-070514779.html)**
 
-The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
+Tencent Holdings (SEHK:700) has joined Alibaba as a lead investor in Xpeng's humanoid robotics spin out Dogotix, backing a US$900 million funding round. The deal marks Tencent's entry into a standalone humanoid robotics venture outside its existing software, platform and cloud operations. Tencent's move highlights growing interest from large Chinese tech companies in AI enabled hardware and robotics projects. For readers who want to look beyond consumer platforms and explore listed...
 
-TechCrunch • 4h ago
-
----
-
-**[Qualcomm Launches Comprehensive Robotics Investment Initiative in Japan, Anchored by New Qualcomm Japan Robotics Center](https://www.qualcomm.com/news/releases/2026/08/qualcomm-launches-comprehensive-robotics-investment-initiative-i)**
-
-Qualcomm has launched a robotics investment initiative in Japan, anchored by the new Qualcomm Japan Robotics Center. Working with leading robotics, automation, research, and technology organizations, the initiative aims to advance an open physical AI ecosystem through innovation, ecosystem development, commercialization, and deployment, helping accelerate next-generation robotics solutions in Japan and globally.
-
-Qualcomm • 23h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -160,31 +160,31 @@ Business Insider • 1d ago
 
 ---
 
+**[Somnia Lab Trains Intimacy Robots with Motion-Capture Poses](https://x.com/i/trending/2092257575261901104)**
+
+Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
+
+x.com • 16h ago
+
+---
+
 **[AI Companion Robots Are Closing the Human Connection in Modern Homes](https://spectrum.ieee.org/ollobot-ai-companion-robot)**
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 19h ago
-
----
-
-**[Somnia Lab Trains Intimacy Robots with Motion-Capture Demos](https://x.com/i/trending/2092257575261901104)**
-
-Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
-
-x.com • 15h ago
+IEEE Spectrum • 20h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 16h ago
+WSJ • 18h ago
 
 ---
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 11h ago
+Axios • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 15K • 👍 168 • 💬 4 • ⏱️ 0:30 • 13h ago
+👁️ 15K • 👍 168 • 💬 4 • ⏱️ 0:30 • 15h ago
 
 ---
 
