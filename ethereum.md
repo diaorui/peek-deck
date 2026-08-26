@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T04:39:30.606666+00:00'
+updated: '2026-08-26T05:34:29.329201+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 04:39 UTC  
+**Last Updated:** August 26, 2026 at 05:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,460.18
+### $2,458.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +5.9%  
-**30d:** +28.2%  
-**90d:** +22.3%  
+**24h:** -1.2%  
+**7d:** +6.0%  
+**30d:** +28.3%  
+**90d:** +22.4%  
 **1y:** -45.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.70B
+**Market Cap:** $297.34B
 Rank #2
 
 **Circulating Supply:** 120,681,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.1%
+-50.2%
 
 **All-Time Low:** $0.43
-+569608.9%
++569193.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -148,21 +148,13 @@ Probably unpopular here but crypto payments might be too focused on replacing ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
-
-BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
-
-Yahoo Finance • 1d ago
-
----
 
 **[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
 
@@ -172,9 +164,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
+
+BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -230,7 +230,7 @@ Fortune • 16h ago
 
 George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
 
-The Defiant • 13h ago
+The Defiant • 14h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 1K • 👍 87 • 💬 37 • ⏱️ 6:53 • 9h ago
+👁️ 2K • 👍 97 • 💬 38 • ⏱️ 6:53 • 10h ago
 
 ---
 
@@ -254,17 +254,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 628 • 💬 74 • ⏱️ 12:24 • 1d ago
-
----
-
-**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 260 • 💬 10 • ⏱️ 8:33 • 15h ago
+👁️ 9K • 👍 630 • 💬 74 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -274,7 +264,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 11K • 👍 383 • 💬 366 • ⏱️ 19:33 • 1d ago
+👁️ 11K • 👍 386 • 💬 371 • ⏱️ 19:33 • 1d ago
 
 ---
 
@@ -284,17 +274,17 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 7K • 👍 270 • 💬 114 • ⏱️ 42:25 • 1d ago
+👁️ 7K • 👍 272 • 💬 114 • ⏱️ 42:25 • 1d ago
 
 ---
 
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
+**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
 
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 Benjamin Cowen
+📺 More Crypto Online
 
-👁️ 124K • 👍 5K • 💬 232 • ⏱️ 27:38 • 2d ago
+👁️ 5K • 👍 264 • 💬 10 • ⏱️ 8:33 • 16h ago
 
 ---
 
@@ -304,7 +294,7 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 15K • 👍 544 • 💬 77 • ⏱️ 18:53 • 2d ago
+👁️ 15K • 👍 547 • 💬 77 • ⏱️ 18:53 • 2d ago
 
 ---
 
@@ -314,7 +304,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 51K • 👍 1K • 💬 200 • ⏱️ 1:07:49 • 1d ago
+👁️ 52K • 👍 1K • 💬 197 • ⏱️ 1:07:49 • 1d ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
+
+Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 124K • 👍 5K • 💬 248 • ⏱️ 27:38 • 2d ago
+
+---
+
+**[Tom Lee: Ethereum Could &quot;Easily&quot; Top $10,000](https://www.youtube.com/watch?v=CYTdFhLbN94)**
+
+Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.⁣ ⁣ Stablecoins already pushed ETH to $5000.
+
+📺 Bankless
+
+👁️ 11K • 👍 126 • 💬 17 • ⏱️ 0:43 • 1d ago
 
 ---
 
@@ -324,17 +334,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 30K • 👍 2K • 💬 71 • ⏱️ 49:14 • 18h ago
-
----
-
-**[MAJOR MOVE COMING FOR ETHEREUM! (ETH Update)](https://www.youtube.com/watch?v=KH7BLZXPEnQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 rules, payouts on demand.
-
-📺 Cilinix Crypto
-
-👁️ 552 • 👍 25 • 💬 4 • ⏱️ 5:57 • 19h ago
+👁️ 30K • 👍 2K • 💬 123 • ⏱️ 49:14 • 19h ago
 
 ---
 

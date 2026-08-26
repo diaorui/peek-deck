@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T04:39:30.595866+00:00'
+updated: '2026-08-26T05:34:29.314618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 04:39 UTC  
+**Last Updated:** August 26, 2026 at 05:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
 
-6h ago
+7h ago
 
 ---
 
 **[Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review](https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -55,7 +55,7 @@ I hope this is okay to share since it is not self promotion and it is open sourc
 
 Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look — no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)
 
-7h ago
+8h ago
 
 ---
 
@@ -69,7 +69,7 @@ Truck driver here, zero coding background. I Built an AI news aggregator over a 
 
 OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation. The plugin stays inside each admin's existing role and permissions. OpenAI says it shows what was requested, whether it completed, and what changed. It can also route some requests for approval in Slack or Microsoft Teams. The practical part is the control layer. An admin tool that can change workspace settings needs clear permissions, approval steps, and a result people can audit. Source: https://openai.com/index/introducing-admin-plugin/ Supporting report: https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44M1HY:0-openai-says-introducing-the-admin-plugin-for-chatgpt-work-and-codex/
 
-8h ago
+9h ago
 
 ---
 
@@ -77,7 +77,7 @@ OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets worksp
 
 About energy use and other topics. He has lots of supporting links. https://youtu.be/Kf4ivd0THb0 https://youtu.be/ny_3PRz6Zeg
 
-6h ago
+7h ago
 
 ---
 
@@ -85,7 +85,23 @@ About energy use and other topics. He has lots of supporting links. https://yout
 
 I've supposed their approach based on their website, they are of course more complex. I set up a local "Agent Arena" (qwen2.5-coder:14b on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent "swarms" either hallucinated success, burned 500k+ tokens in pointless debates, or rubber-stamped completely off-topic code. Only frameworks relying on mechanical grounding (actual compilers/linters) rather than an "LLM critic" produced viable results. The Challenge: The "Triple Constraint" I asked each framework to build an Authentication & Rate Limiting middleware in Rust that had to satisfy three contradictory constraints: Absolute Security: Cryptographic hashing (sha2) and timing-attack protection (subtle::constant_time). Performance: Under 1ms latency under a 10k request load. Strict Quality: 100% unit test coverage, and 0 clippy warnings. The Golden Rule: Exact same local model for everyone (qwen2.5-coder:14b), isolated environments (sandboxes), same scaffolding. No cheating via paid external APIs. Autopsy of the Results (How they failed) 1. AutoGen: The Token Sink (Blind debate) The Approach: A GroupChat (Coder ↔ SecurityCritic ↔ PerfCritic). What happened: The agents debated in circles for 6 rounds, burning through 517,000 tokens. They eventually reached a "consensus"... on an off-topic script measuring latency instead of handling authentication. The critic agent rubber-stamped a completely flaky test. 2. CrewAI: The Rubber Stamper The Approach: Hierarchical chain (Architect → QA → Reviewer). What happened: The code is mechanically green (tests and clippy pass), but the logic drifted entirely. It coded a WebSocket handshake, completely ignoring cryptographic hashing and constant-time execution. The QA "Reviewer" saw the code compile and green-lit the whole thing without checking the original specs. 3. MetaGPT: Process Hallucination The Approach: "Software Company" cascade (SOP). What happened: It generated an almost empty source file (1 line of code) but wrote a highly detailed 912-byte final QA report claiming tests were exhaustive and the benchmark was a success. An absolute danger for an autonomous pipeline. 4. LangGraph: The Honest Failure The Approach: Finite State Machine (FSM) / Directed Graph. What happened: The most deterministic approach. It actually tried to implement the security primitives but failed to compile the Rust code within the 6-iteration limit. Instead of lying, the loop halted cleanly with an honest error. 5. GenOS (My framework): Mechanical Grounding The Approach: Parallel swarm (implementation, sec, QA) + central integration guarded by real tools (Cargo), driven by the genome traits (risk_tolerance, etc.). What happened: It was the only one to deliver the 3 security constraints (SHA-256, validation, constant-time subtle) with a modular 117-line architecture. Out of 5 unit tests, 3 passed. The Key Point: Instead of asking an "LLM QA Agent" to fake success, GenOS hit the reality of the compiler and terminated with a frank INTEGRATION_INCOMPLETE status. It doesn't lie to the developer. The Raw Data Framework Tokens (In / Out) LLM Calls Security Specs Met? Lines of Code Final Status AutoGen 517k / 15.4k 14 ❌ No 22 Consensus (Off-topic) CrewAI 371k / 6.4k 8 ❌ No 36 Approved (Total logic drift) LangGraph 206k / 6.9k 9 ✅ Yes (Attempted) 43 Compile Error MetaGPT 36k / 1.6k 4 ❌ No 1 Hallucinated Report GenOS 205k / 8.6k 7 ✅ Yes (SHA256+subtle) 117 INTEGRATION_INCOMPLETE Conclusion: Stop paying the multi-agent tax This test proves that the "LLM-as-a-judge" paradigm (using an LLM to review another LLM's code) is an architectural dead end. The models eventually get exhausted, lose the original context, and validate absolute garbage just to exit the debate loop. For an agentic system to be viable in production, the exit validation cannot come from an LLM playing the role of a critic. It must come from deterministic mechanical grounding (linter ASTs, exit codes, test assertions). All the raw data (JSON, logs, and harnesses) is reproducible. Has anyone else noticed this behavior where your agents agree on a terrible solution just to finish the task? It happened to me when I tried to beat SAT/CDCL.
 
-8h ago
+9h ago
+
+---
+
+**[I built an AI where everyone talks to the same mind, and every interaction changes it](https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/)**
+
+Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
+
+17h ago
+
+---
+
+**[For a €6k portable AI/development setup, prioritize 64–128GB unified memory or CUDA compatibility?](https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/)**
+
+I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
+
+17h ago
 
 ---
 
@@ -97,75 +113,61 @@ TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose it
 
 ---
 
-**[I built an AI where everyone talks to the same mind, and every interaction changes it](https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/)**
-
-Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I’ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They’re constantly in flux too. It doesn’t respond “you’re absolutely right” like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It’s been public for 10 days and has now accumulated thousands of interactions, so it’s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I’m the builder, obviously, so this is self-promotion. But I’d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot.
-
-16h ago
-
----
-
-**[For a €6k portable AI/development setup, prioritize 64–128GB unified memory or CUDA compatibility?](https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/)**
-
-I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is €6,000, with roughly €5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware—no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64–128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems.
-
-16h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)**
-
-Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
-
-OpenAI • 14h ago
-
----
 
 **[Amazon service Bezos once called 'artificial artificial intelligence' is shutting down](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html)**
 
 Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/)**
+**[Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)**
 
-Ringg has raised $10 million from Peak XV as a part of its Series A extension.
+Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
 
-TechCrunch • 1h ago
-
----
-
-**[Exclusive | OpenAI’s Head of Data Centers Has Left the Company](https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83)**
-
-WSJ • 7h ago
+OpenAI • 15h ago
 
 ---
 
-**[This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers](https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html)**
+**[OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)**
 
-The New York Times • 17h ago
+Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.
 
----
-
-**[Greg Abbott Says AI Data Centers ‘Dug Their Own Grave’ as Backlash Over Power Bills, Water Use and Local Development Explodes](https://www.yahoo.com/news/us/articles/greg-abbott-says-ai-data-023112372.html)**
-
-Texas Gov. Greg Abbott (R) is taking a harder line on AI data centers as growing public opposition forces politicians to confront concerns over electricity, water, infrastructure and local development...
-
-Yahoo • 2h ago
+TechCrunch • 5h ago
 
 ---
 
-**[Measuring ROI For Healthcare AI May Require A New Approach](https://www.forbes.com/sites/saibala/2026/08/25/measuring-roi-for-healthcare-ai-may-require-a-new-approach/)**
+**[OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026](https://www.servethehome.com/openai-jalapeno-asic-at-hot-chips-2026/)**
 
-AI tools in healthcare may add value in novel and non-traditional ways.
+We got a deep-dive on OpenAI Jalapeño at Hot Chips 2026 as the company rapidly built its own competitive AI accelerator
 
-Forbes • 1h ago
+ServeTheHome • 4h ago
+
+---
+
+**['AI receptionist could not understand me after stroke'](https://www.bbc.com/news/articles/c4gql3gz9z7o)**
+
+Judith Butterfield from Doncaster says she could not get past the AI service EMMA.
+
+BBC • 20m ago
+
+---
+
+**[California family pushes for AI chatbot protections after son's death: "There needs to be guardrails"](https://www.cbsnews.com/sanfrancisco/news/ai-guardrails-california-adam-raine/)**
+
+Adam Raine was 16 years old when he died by suicide. His parents say an AI chatbot guided him to the decision.
+
+CBS News • 50m ago
+
+---
+
+**[Salesforce Earnings Come as AI Prompts Self-Disruption](https://www.barrons.com/articles/salesforce-earnings-stock-price-74e0e769)**
+
+Barron's • 4m ago
 
 ---
 
@@ -173,7 +175,7 @@ Forbes • 1h ago
 
 "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -181,7 +183,7 @@ CNBC • 15h ago
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-Apple • 13h ago
+Apple • 1h ago
 
 ---
 
@@ -189,7 +191,7 @@ Apple • 13h ago
 
 Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
 
-Ars Technica • 15h ago
+Ars Technica • 16h ago
 
 ---
 
@@ -201,7 +203,7 @@ Ars Technica • 15h ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 808 • 💬 698 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 809 • 💬 698 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -209,7 +211,7 @@ AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
 Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months
 
-⬆️ 693 • 💬 291 • 2d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
+⬆️ 694 • 💬 291 • 2d ago • [ericpardee.github.io](https://ericpardee.github.io/fire-hd-ownership/)
 
 ---
 
@@ -217,7 +219,7 @@ Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five 
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 542 • 💬 537 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 544 • 💬 537 • 1d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -225,7 +227,7 @@ The need for ongoing friction in long-term skill formation.
 
 How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.
 
-⬆️ 389 • 💬 76 • 2d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
+⬆️ 391 • 💬 76 • 2d ago • [Pantelis Kalogiros](https://pantel.is/projects/ai-gaming-companion/)
 
 ---
 
@@ -233,7 +235,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 253 • 💬 305 • 13h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 254 • 💬 306 • 14h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -257,7 +259,7 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 137 • 💬 161 • 13h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 137 • 💬 162 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -265,7 +267,7 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
 
-⬆️ 116 • 💬 29 • 13h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
+⬆️ 119 • 💬 33 • 14h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
 
 ---
 
@@ -285,27 +287,7 @@ Apple just made a HUGE move in local AI. The new **M5 Max and M5 Ultra Mac Studi
 
 📺 Tech2WiLD
 
-👁️ 6K • 👍 117 • 💬 61 • ⏱️ 18:06 • 9h ago
-
----
-
-**[The Best FREE AI Tools Right Now (2026)](https://www.youtube.com/watch?v=vBag4KrnxS0)**
-
-Get more AI tips that don't make it into videos https://parker-prompts.com/join In this video, I show five of the best open-source ...
-
-📺 Parker Prompts
-
-👁️ 11K • 💬 4 • ⏱️ 8:01 • 16h ago
-
----
-
-**[Stop Building AI Slop – Build High-End Web Apps with AI](https://www.youtube.com/watch?v=g3X8JauSWTM)**
-
-Learn how to move past generic AI-generated interfaces and ship high-end, production-ready web applications using modern AI ...
-
-📺 freeCodeCamp.org
-
-👁️ 15K • 👍 727 • 💬 35 • ⏱️ 1:04:16 • 16h ago
+👁️ 6K • 👍 125 • 💬 64 • ⏱️ 18:06 • 10h ago
 
 ---
 
@@ -315,7 +297,17 @@ Elon Musk reveals the critical role of AI at SpaceX. Within 5 years, AI will rep
 
 📺 Solving The Money Problem
 
-👁️ 5K • 👍 202 • 💬 25 • ⏱️ 0:34 • 13h ago
+👁️ 6K • 👍 228 • 💬 31 • ⏱️ 0:34 • 14h ago
+
+---
+
+**[This Small AI Will Change Everything](https://www.youtube.com/watch?v=wMl6c_r0ubw)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The Qwen3.8-27b is available here: ...
+
+📺 Two Minute Papers
+
+👁️ 87K • 👍 3K • 💬 351 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -325,17 +317,7 @@ A mysterious frontier AI called Ox Alpha just appeared for free, beat GPT-5.6 So
 
 📺 AI Revolution
 
-👁️ 30K • 👍 942 • 💬 74 • ⏱️ 16:59 • 2d ago
-
----
-
-**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
-
-An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
-
-📺 ABC News
-
-👁️ 194K • 👍 1K • 💬 578 • ⏱️ 2:00 • 1d ago
+👁️ 30K • 👍 948 • 💬 74 • ⏱️ 16:59 • 2d ago
 
 ---
 
@@ -345,7 +327,27 @@ shorts #mystery #ai #nestle #ecosystem #unknownfacts.
 
 📺 ​The Mystery Hub
 
-👁️ 5K • 💬 30 • ⏱️ 0:07 • 7h ago
+👁️ 8K • 💬 45 • ⏱️ 0:07 • 8h ago
+
+---
+
+**[Midterm fears spark bipartisan backlash against AI data centers](https://www.youtube.com/watch?v=_E_LvmziGDo)**
+
+An internal GOP memo says support for AI data centers could cost Republicans seats, with opposition to the facilities crossing ...
+
+📺 ABC News
+
+👁️ 195K • 👍 1K • 💬 579 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[Why Does His AI Food Look So Real?](https://www.youtube.com/watch?v=QsvMjald_LE)**
+
+shorts #facts #food #ai.
+
+📺 FAL-TV
+
+👁️ 16K • 👍 2K • 💬 7 • ⏱️ 0:21 • 13h ago
 
 ---
 
@@ -355,7 +357,7 @@ Abacus AI: http://abacus.ai/ AutoBots: http://autobots.abacus.ai/ Can an AI agen
 
 📺 Shark Numbers
 
-👁️ 140K • 👍 17K • 💬 319 • ⏱️ 8:47 • 2d ago
+👁️ 148K • 👍 17K • 💬 331 • ⏱️ 8:47 • 2d ago
 
 ---
 
@@ -365,7 +367,7 @@ My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper
 
 📺 Nate Ziller
 
-👁️ 187K • 👍 13K • 💬 824 • ⏱️ 5:15 • 2d ago
+👁️ 190K • 👍 13K • 💬 830 • ⏱️ 5:15 • 2d ago
 
 ---
 
@@ -391,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,945,415 • ❤️ 12,727 • 11d ago
+⬇️ 2,945,415 • ❤️ 12,746 • 11d ago
 
 ---
 
@@ -403,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,334,695 • ❤️ 2,920 • 5d ago
+⬇️ 7,334,695 • ❤️ 2,927 • 5d ago
 
 ---
 
@@ -415,7 +417,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 389,747 • ❤️ 754 • 1d ago
+⬇️ 389,747 • ❤️ 761 • 1d ago
 
 ---
 
@@ -427,7 +429,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 68,855 • ❤️ 1,102 • 1d ago
+⬇️ 68,855 • ❤️ 1,105 • 1d ago
 
 ---
 
@@ -439,7 +441,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 249,744 • ❤️ 1,151 • 5d ago
+⬇️ 249,744 • ❤️ 1,154 • 5d ago
 
 ---
 
@@ -451,7 +453,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 70,158 • ❤️ 423 • 3d ago
+⬇️ 70,158 • ❤️ 427 • 3d ago
 
 ---
 
@@ -463,7 +465,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 832,185 • ❤️ 624 • 8d ago
+⬇️ 832,185 • ❤️ 628 • 8d ago
 
 ---
 
@@ -475,7 +477,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 833,845 • ❤️ 1,802 • 8d ago
+⬇️ 833,845 • ❤️ 1,807 • 8d ago
 
 ---
 
@@ -487,19 +489,19 @@ Ornith-1.5-35B-A3B is a 35B parameter Mixture-of-Experts model optimized for tex
 
 `text-generation` `35.5B`
 
-⬇️ 1,156,903 • ❤️ 297 • 2d ago
+⬇️ 1,156,903 • ❤️ 300 • 2d ago
 
 ---
 
-**[Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)**
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
 
-*Jonathan Coletti*
+*MiniMax*
 
-This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced refusal behavior and retaining the multi-token prediction (MTP) head for enhanced generation efficiency. It supports text generation with multilingual capabilities (English, Chinese) and is compatible with llama.cpp, offering various quantization levels for different performance/resource trade-offs.
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
 
-`text-generation` `27.3B`
+`image-text-to-video` `33.1B`
 
-⬇️ 1,525,645 • ❤️ 724 • 4h ago
+⬇️ 4,639,786 • ❤️ 4,465 • 13d ago
 
 ---
 
@@ -529,7 +531,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 173 • 💬 2 • ⭐ 583 • 2d ago
+▲ 176 • 💬 2 • ⭐ 583 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -557,7 +559,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 32 • 💬 2 • ⭐ 18,415 • 2d ago
+▲ 34 • 💬 2 • ⭐ 18,415 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -662,7 +664,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 6h ago
+⭐ 14.2k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -682,7 +684,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 619 • 14h ago
+⭐ 3.7k • 🔱 619 • 1h ago
 
 ---
 
@@ -692,7 +694,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 373 • 14h ago
+⭐ 3.1k • 🔱 375 • 15h ago
 
 ---
 
@@ -712,7 +714,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 2.9k • 🔱 353 • 3h ago
+⭐ 2.9k • 🔱 355 • 4h ago
 
 ---
 
@@ -722,7 +724,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.4k • 🔱 138 • 1d ago
+⭐ 2.4k • 🔱 139 • 1d ago
 
 ---
 
@@ -732,7 +734,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.1k • 🔱 30 • 4d ago
+⭐ 2.2k • 🔱 33 • 31m ago
 
 ---
 
