@@ -5,25 +5,11 @@
   "days": 3,
   "posts": [
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "hn_url": "https://news.ycombinator.com/item?id=49411102",
-      "author": "naves",
-      "points": 813,
-      "num_comments": 700,
-      "created_at": "2026-08-23T18:16:37Z",
-      "object_id": "49411102",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients",
-      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
-      "site_name": "ft.com"
-    },
-    {
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "hn_url": "https://news.ycombinator.com/item?id=49421554",
       "author": "larsfaye",
-      "points": 552,
+      "points": 554,
       "num_comments": 540,
       "created_at": "2026-08-24T15:52:33Z",
       "object_id": "49421554",
@@ -51,8 +37,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "hn_url": "https://news.ycombinator.com/item?id=49446422",
       "author": "garo-pro",
-      "points": 357,
-      "num_comments": 126,
+      "points": 392,
+      "num_comments": 136,
       "created_at": "2026-08-26T10:04:55Z",
       "object_id": "49446422",
       "image": null,
@@ -66,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49435728",
       "author": "surprisetalk",
       "points": 272,
-      "num_comments": 335,
+      "num_comments": 340,
       "created_at": "2026-08-25T15:23:41Z",
       "object_id": "49435728",
       "image": "https://substackcdn.com/image/fetch/$s_!uOdH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53eb781a-accb-4de0-9d65-7cc0ea08f1b7_2437x1746.png",
@@ -75,26 +61,12 @@
       "site_name": "blog.coredump.cx"
     },
     {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "hn_url": "https://news.ycombinator.com/item?id=49411800",
-      "author": "Tiberium",
-      "points": 215,
-      "num_comments": 27,
-      "created_at": "2026-08-23T19:39:29Z",
-      "object_id": "49411800",
-      "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
-      "description": "I'm a designer and creative technologist based in Brooklyn, NY.",
-      "favicon": "https://framerusercontent.com/images/eXh6BwIOH8Z95irGZfJp4.png",
-      "site_name": "surya.website"
-    },
-    {
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "hn_url": "https://news.ycombinator.com/item?id=49447600",
       "author": "n1b0m",
-      "points": 214,
-      "num_comments": 37,
+      "points": 226,
+      "num_comments": 40,
       "created_at": "2026-08-26T12:11:19Z",
       "object_id": "49447600",
       "image": "https://i.guim.co.uk/img/media/4c5be9b6f1682a9aafe9cbdc94c89a258fa5cec5/999_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4f8b5b0eb4778568ef5affd89f99ad4",
@@ -103,11 +75,25 @@
       "site_name": "the Guardian"
     },
     {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "hn_url": "https://news.ycombinator.com/item?id=49411800",
+      "author": "Tiberium",
+      "points": 215,
+      "num_comments": 28,
+      "created_at": "2026-08-23T19:39:29Z",
+      "object_id": "49411800",
+      "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+      "description": "I'm a designer and creative technologist based in Brooklyn, NY.",
+      "favicon": "https://framerusercontent.com/images/eXh6BwIOH8Z95irGZfJp4.png",
+      "site_name": "surya.website"
+    },
+    {
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "hn_url": "https://news.ycombinator.com/item?id=49415893",
       "author": "dabinat",
-      "points": 188,
+      "points": 189,
       "num_comments": 105,
       "created_at": "2026-08-24T06:30:07Z",
       "object_id": "49415893",
@@ -115,6 +101,20 @@
       "description": "The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.",
       "favicon": "https://medicine.washu.edu/app/themes/medicine/_/img/apple-touch-icon.png",
       "site_name": "WashU Medicine"
+    },
+    {
+      "title": "Bill Gates: The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "hn_url": "https://news.ycombinator.com/item?id=49448137",
+      "author": "ilamont",
+      "points": 145,
+      "num_comments": 205,
+      "created_at": "2026-08-26T12:47:47Z",
+      "object_id": "49448137",
+      "image": null,
+      "description": null,
+      "favicon": "https://www.gatesnotes.com/favicon.ico",
+      "site_name": "gatesnotes.com"
     },
     {
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
@@ -135,8 +135,8 @@
       "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
       "hn_url": "https://news.ycombinator.com/item?id=49435147",
       "author": "Brajeshwar",
-      "points": 142,
-      "num_comments": 166,
+      "points": 143,
+      "num_comments": 169,
       "created_at": "2026-08-25T14:48:58Z",
       "object_id": "49435147",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
@@ -145,7 +145,7 @@
       "site_name": "Ars Technica"
     }
   ],
-  "total_hits": 498,
+  "total_hits": 526,
   "has_metadata": true,
-  "fetched_at": "2026-08-26T15:59:24.447816+00:00"
+  "fetched_at": "2026-08-26T19:01:32.592423+00:00"
 }

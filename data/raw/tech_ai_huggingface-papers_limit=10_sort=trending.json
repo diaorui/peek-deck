@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 7805,
+      "github_stars": 8271,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 180,
+      "upvotes": 181,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 754,
+      "upvotes": 755,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23552",
       "arxiv_url": "https://arxiv.org/abs/2608.23552",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
-      "upvotes": 37,
+      "upvotes": 38,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-26T15:59:35.403371+00:00"
+  "fetched_at": "2026-08-26T19:01:38.640020+00:00"
 }
