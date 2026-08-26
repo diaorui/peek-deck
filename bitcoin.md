@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T11:59:02.729898+00:00'
+updated: '2026-08-26T13:07:37.578365+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 11:59 UTC  
+**Last Updated:** August 26, 2026 at 13:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,696.99
+### $78,082.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +7.5%  
-**30d:** +22.8%  
-**90d:** +6.8%  
-**1y:** -29.6%  
+**24h:** -1.3%  
+**7d:** +7.1%  
+**30d:** +22.3%  
+**90d:** +6.5%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1577.95B
+**Market Cap:** $1571.41B
 Rank #1
 
-**Circulating Supply:** 20,075,340 BTC
+**Circulating Supply:** 20,075,378 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.7%
+-37.9%
 
 **All-Time Low:** $67.81
-+115782.6%
++115362.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
 
-9h ago
+10h ago
 
 ---
 
 **[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-18h ago
+19h ago
 
 ---
 
 **[Oh you poor poor fiat boy](https://www.reddit.com/r/Bitcoin/comments/1vyqfmf/oh_you_poor_poor_fiat_boy/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-16h ago
+17h ago
 
 ---
 
@@ -115,7 +115,7 @@ https://x.com/saylor/status/2092277359034458361
 
 Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Been following the Coldcard fallout closely and this is the most interesting res
 
 “Recent dust attacks from HTX-owned wallets appear to be an attempt to spread UK- and EU-sanctioned funds to other platforms in order to discredit the broader industry,” the Kraken spokesperson continued. When a dust attack sats land in my wallet, I can simply decide what to do about them. If they land in an exchange account, the exchange block your bitcoin. "it triggers a full account lock, causing operational disruption for a large number of users,” a Kraken spokesperson said. Never forget, not your keys, not your cheese.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked) • 2h ago
 
 ---
 
@@ -131,13 +131,13 @@ Been following the Coldcard fallout closely and this is the most interesting res
 
 These guys are another shitcoin test for the protocol. One dev thinking that a proposal is an enforcement and if not he and his delusional guys start calling bitcoin "pedocoin" "spamchain", "scammers"... They should simply stop talking and show their dump of what they are insulting and show all their fiat ready to be placed on their "real bitcoin"....why all the noise? Just shut up and let consensus decide, they are 24/7 barking because they know they will be another altcoin that will fail miserably, and maybe a self healing test, an arrogant dev confusing the term "proposal" with "I want it yes or yes implemented or I will try to fork, split chain, change algo" and seeing the dumbass leave the ship without any effect...well, that is Bitcoin self healing right there more and more. 😂 They should stop talking and more showing their bitcoin selloff for the "all in" into "biplukcoin" shit.
 
-4h ago
+5h ago
 
 ---
 
 **[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -151,14 +151,6 @@ These guys are another shitcoin test for the protocol. One dev thinking that a p
 
 ## Google News: "bitcoin"
 
-**[AI build out: AI gold rush draws crypto firms away from Bitcoin](https://www.bbc.com/news/articles/c07ler8x9kpo)**
-
-The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
-
-BBC • 12h ago
-
----
-
 **[Bitcoin has just wiped out three months of losses in 1 week](https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html)**
 
 The bitcoin rally continues.
@@ -167,37 +159,39 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Arthur Hayes Says Bitcoin Can Hit $250,000 Without A Credit Crisis – But Warns Of 75% Crash](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-bitcoin-hit-114450538.html)**
+**[AI build out: AI gold rush draws crypto firms away from Bitcoin](https://www.bbc.com/news/articles/c07ler8x9kpo)**
 
-AI took the marginal dollar, leaving Bitcoin behind,” Hayes said, and expected the flow to reverse as liquidity is used to roll over AI debt.
+The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-Yahoo Finance • 14m ago
+BBC • 13h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html)**
+
+Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET.
+
+Yahoo Finance • 24m ago
+
+---
+
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117161878291237)**
+
+@DVWC  ⁰⁰7 2204 Views
+
+Moomoo • 21m ago
 
 ---
 
 **[Bitcoin’s Bessent Bounce Doesn’t Tell the Full Story](https://www.bloomberg.com/opinion/articles/2026-08-26/bitcoin-the-bessent-bounce-does-not-tell-the-full-story)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains](https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains)**
+**[Gold & Bitcoin Rally Together as the Debasement Trade Returns](https://www.etf.com/sections/features/gold-bitcoin-rally-together-debasement-trade-returns)**
 
-CoinDesk • 7h ago
-
----
-
-**[A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.](https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next)**
-
-Barchart.com • 15h ago
-
----
-
-**[Current price of Bitcoin for August 25, 2026](https://fortune.com/article/price-of-bitcoin-08-25-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 23h ago
+ETF.com • 13h ago
 
 ---
 
@@ -205,7 +199,19 @@ Fortune • 23h ago
 
 Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029.
 
-The Block • 1h ago
+The Block • 2h ago
+
+---
+
+**[The 3 catalysts that could define bitcoin's next move: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move)**
+
+CoinDesk • 2h ago
+
+---
+
+**[A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.](https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next)**
+
+Barchart.com • 16h ago
 
 ---
 
@@ -217,14 +223,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
-
-Finally, a killer use case
-
-Financial Times • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -233,7 +231,7 @@ Financial Times • 2d ago
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 4 • 💬 0 • 9h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 4 • 💬 0 • 10h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -263,7 +261,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 3 • 19h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 3 • 20h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -295,7 +293,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 4 • 💬 3 • 15h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 4 • 💬 3 • 16h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -317,7 +315,7 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • 💬 41 • ⏱️ 52:01 • 14h ago
+👁️ 35K • 👍 1K • 💬 40 • ⏱️ 52:01 • 16h ago
 
 ---
 
@@ -327,17 +325,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 53K • 👍 4K • 💬 269 • ⏱️ 10:39 • 18h ago
-
----
-
-**[Why Bitcoin’s $80K Breakout Is Front-Running a $1 Trillion Treasury Intervention!](https://www.youtube.com/watch?v=gzwWoUm4B4o)**
-
-Bitcoin just crossed a critical moving average as trouble builds inside the world's most important financial market. Treasury ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 1K • 💬 156 • ⏱️ 14:53 • 13h ago
+👁️ 56K • 👍 4K • 💬 294 • ⏱️ 10:39 • 19h ago
 
 ---
 
@@ -347,7 +335,17 @@ This is not the time to aggressively buy. You had 6 months to do that. Here's wh
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 315 • 💬 72 • ⏱️ 10:15 • 6h ago
+👁️ 5K • 👍 481 • 💬 109 • ⏱️ 10:15 • 7h ago
+
+---
+
+**[Why Bitcoin’s $80K Breakout Is Front-Running a $1 Trillion Treasury Intervention!](https://www.youtube.com/watch?v=gzwWoUm4B4o)**
+
+Bitcoin just crossed a critical moving average as trouble builds inside the world's most important financial market. Treasury ...
+
+📺 Simply Bitcoin
+
+👁️ 18K • 👍 1K • 💬 191 • ⏱️ 14:53 • 14h ago
 
 ---
 
@@ -361,23 +359,43 @@ Bitcoin is printing relentless bull momentum while sidelining traders with no cl
 
 ---
 
-**[&quot;MASSIVE EXPLOSION AHEAD! They JUST UNLEASHED $1 TRILLION for BTC&quot; - Jack Mallers](https://www.youtube.com/watch?v=eLm9iQLUk1c)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=YekXR2vuqYw)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Savvy Finance
+📺 Adaisha Miriam
 
-👁️ 4K • 👍 235 • 💬 95 • ⏱️ 21:29 • 16h ago
+👁️ 3K • 👍 1K • 22m ago
 
 ---
 
-**[What’s behind the Bitcoin rally? Expert weighs in](https://www.youtube.com/watch?v=w1dEEumcZHw)**
+**[Michael Saylor :&quot;Why you NEED To Own At Least 0.1 Bitcoin In 2026&quot; | New Update 2026](https://www.youtube.com/watch?v=9pXsVGV07Yc)**
 
-ProCap Financial Chairman and CEO Anthony Pompliano analyzes the recent Bitcoin rally and cryptocurrency catalysts. Plus ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Fox Business Clips
+📺 Crypto Nutshell
 
-👁️ 16K • 👍 296 • 💬 211 • ⏱️ 3:53 • 21h ago
+👁️ 4K • 👍 155 • 💬 20 • ⏱️ 25:05 • 20h ago
+
+---
+
+**[Bitcoin Hits $80K: Cory Klippsten on Crypto&#39;s New Bull Run &amp; Resistance Ahead](https://www.youtube.com/watch?v=9QdryeQVkvg)**
+
+After Bitcoin touched $80000 for the first time since May, Cory Klippsten believes this uptrend signals the start of crypto's next bull ...
+
+📺 Schwab Network
+
+👁️ 5K • 👍 68 • 💬 11 • ⏱️ 10:29 • 22h ago
+
+---
+
+**[Bitcoin Bull Market INCOMING! - How &amp; WHEN We&#39;ll KNOW It&#39;s Started!](https://www.youtube.com/watch?v=fxqkUh78jR0)**
+
+Bitcoin's next bull market is getting closer — but most people will only recognize it after it's already underway. In this video I break ...
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 271 • 💬 167 • ⏱️ 14:39 • 19h ago
 
 ---
 
@@ -387,27 +405,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.as
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 475 • ⏱️ 12:06 • 1d ago
-
----
-
-**[Mark Yusko :“People Don’t REALIZE How Big Bitcoin’s About to Get&quot; | BTC Update 2026](https://www.youtube.com/watch?v=CyaOyEtypKg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 483 • 💬 69 • ⏱️ 16:59 • 1d ago
-
----
-
-**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
-
-SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
-
-📺 Verified Investing
-
-👁️ 14K • 👍 858 • 💬 116 • ⏱️ 17:09 • 1d ago
+👁️ 19K • 👍 1K • 💬 474 • ⏱️ 12:06 • 1d ago
 
 ---
 
