@@ -13,6 +13,17 @@
       "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
     },
     {
+      "title": "Bill Gates says there needs to be limits on AI",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/",
+      "published": 1787753535.0,
+      "thumbnail": "https://external-preview.redd.it/JkTjByyc7LIlkNeHRmbnECTTXf8Ucbyj7QvWEtcxVgk.jpeg?width=640&crop=smart&auto=webp&s=314440045266cb1b7ed99db1a51deb9d262087d3",
+      "external_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
+    },
+    {
       "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
       "author": "unconventionalbook",
       "url": "https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/",
@@ -20,6 +31,17 @@
       "thumbnail": null,
       "external_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26",
       "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Robot dancing is getting pretty insane",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/",
+      "published": 1787756930.0,
+      "thumbnail": "https://external-preview.redd.it/NWYwb3BuZzBqcWxoMarNVPVMNEzvmrW6udf20LoXrRxhB8NOcY7NsDFt8Cbd.jpeg?width=640&crop=smart&auto=webp&s=dec8d2b2f81f9165708ba68bb08125df077c3370",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
       "description": null
     },
@@ -35,6 +57,39 @@
       "description": "Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where \"who committed to what\" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo\u2019s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet."
     },
     {
+      "title": "The reason why I have 15 Codex Pro 20x subscriptions",
+      "author": "bgdotjpg",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz0zk8/the_reason_why_i_have_15_codex_pro_20x/",
+      "published": 1787759624.0,
+      "thumbnail": "https://preview.redd.it/19k76bu2rqlh1.jpeg?width=640&crop=smart&auto=webp&s=e9d4c2119d5718f54831b3cca0afd79d10781c09",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The reason why I have 15 Codex Pro 20x subscriptions: Premium tokens are 311x cheaper for a LIMITED TIME ONLY* at the OpenAI Token Depot. I brought 15 shopping carts. The subsidy has dropped 25% since 1 month ago."
+    },
+    {
+      "title": "AGI quietly defined 34 days before Microsoft and OpenAI kill AGI Clause?",
+      "author": "rayanpal_",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz0fek/agi_quietly_defined_34_days_before_microsoft_and/",
+      "published": 1787758413.0,
+      "thumbnail": null,
+      "external_url": "https://doi.org/10.5281/zenodo.19211116",
+      "site_name": "doi.org",
+      "favicon": null,
+      "description": "Artificial General Intelligence is defined by the capacity to carry binding conditions across domains. A binding condition is the prerequisite that must hold for valid continuation. A system exhibits AGI when it can identify, verify, and enforce these conditions in arbitrary contexts without domain-specific training. Paper: https://doi.org/10.5281/zenodo.19211116 Official Microsoft Announcement: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/ Reuters saying AGI clause was scrapped: https://www.breakingviews.com/columns/breaking-view/microsoft-openai-agree-ai-is-just-product-2026-04-27/"
+    },
+    {
+      "title": "Found someone using an unapproved AI tool with client data. How common is this?",
+      "author": "Business_Roof786",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyz1jg/found_someone_using_an_unapproved_ai_tool_with/",
+      "published": 1787755349.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Something happened recently that made me think about how common this might actually be. I found out that someone on a project team had been copying parts of a client's internal documents into a personal ChatGPT account to save some time. There was no bad intention behind it. They simply didn't think about the security side of it. It made me wonder how other companies are dealing with this. Is this something you've actually come across, or is it still pretty rare in your organization? Do you have any way to know which AI tools employees are using, or do you usually find out after something happens? I'm trying to understand whether this is becoming a normal challenge for companies or if we're just seeing it more because AI adoption is moving so quickly. Would be really interested to hear how other IT and security teams are handling it."
+    },
+    {
       "title": "[Open-Source] I need your worst edge cases to stress-test GenOS, my new AI agent orchestrator.",
       "author": "MonokoEloba",
       "url": "https://www.reddit.com/r/artificial/comments/1vyxoes/opensource_i_need_your_worst_edge_cases_to/",
@@ -43,7 +98,7 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, I\u2019m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of \"Hello World\" territory. That\u2019s where you come in: what are the real, testable problems you run into when building or using AI agents? I\u2019m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I\u2019ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback"
+      "description": "Hey everyone, I\u2019m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of \"Hello World\" territory. That\u2019s where you come in: what are the real, testable problems you run into when building or using AI agents? I\u2019m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I\u2019ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback You can check it here PISSARAW/GenOS: Git-like branching, deterministic replay, and evidence-driven evaluation for reproducible AI agents."
     },
     {
       "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)",
@@ -55,62 +110,7 @@
       "site_name": "nytimes.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Truck Driver Builds AI News Aggregator",
-      "author": "MODisclosure",
-      "url": "https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/",
-      "published": 1787692597.0,
-      "thumbnail": "https://preview.redd.it/gdwe0k4x7llh1.jpeg?width=640&crop=smart&auto=webp&s=9b27864cb35e58d17e39bbc2ad93b57013ef70f8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look \u2014 no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)"
-    },
-    {
-      "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
-      "author": "avishic",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
-      "published": 1787651305.0,
-      "thumbnail": "https://preview.redd.it/bbnfpwnyshlh1.png?width=640&crop=smart&auto=webp&s=7e7ce334909740e6e38190ec929b117ce76cc8ba",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "What's an AI capability you thought was hype until you actually used it?",
-      "author": "Positive-Ad3618",
-      "url": "https://www.reddit.com/r/artificial/comments/1vywipi/whats_an_ai_capability_you_thought_was_hype_until/",
-      "published": 1787749418.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?"
-    },
-    {
-      "title": "Using MyselfGPT to code",
-      "author": "create-third-places",
-      "url": "https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/",
-      "published": 1787748935.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2018ve been using this model called MyselfGPT to code, and it\u2019s been a fantastic experience. Has anyone else used it?"
-    },
-    {
-      "title": "VSArena: the hosted harness for public ELO is live \u2014 submit a policy, watch it stack cubes, get scored",
-      "author": "NovaCoding",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyw1en/vsarena_the_hosted_harness_for_public_elo_is_live/",
-      "published": 1787748227.0,
-      "thumbnail": "https://external-preview.redd.it/dmx2bDM3eWJ0cGxoMRyDaqNp7Z3U0W-COHrmxIpvNBqHgYeKPb87cC0nbaRp.jpeg?width=640&crop=smart&auto=webp&s=aee4a969223d0be033a94e48a94110d3cd41a2be",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Update on the project I've been sharing progress on \u2014 the piece that was missing is done: the hosted harness now actually writes public ELO. Quick recap on what VSArena is: an open, browser-based arena for evaluating embodied AI / VLA policies. One task on purpose \u2014 a 4-DOF arm stacking three cubes \u2014 because if people won't run this, they won't run a bigger suite. Physics runs client-side in Studio (Rapier/WASM, React Three Fiber, 60fps) for watching/teleop, but that's spectator-only \u2014 it never writes to the board. Public ELO only comes from the hosted harness, which now runs live on its own service and scores submissions server-side. The VLA track gives a policy only a 128x128 camera + a language instruction \u2014 no privileged cube poses. Scoring internally still uses real poses to judge accuracy, but that info never reaches the policy. You can: - Watch the live demo: https://vsarena.vercel.app/simulation - Check the leaderboard: https://vsarena.vercel.app/leaderboard - Submit your own policy in under 10 minutes: https://github.com/NovaCoding-G/VSArena (docs/sdk.md has the walkthrough) Solo project, still early \u2014 one task, a couple baseline policies so far. Repo is MIT, protocol writeup is in docs/harness.md if you want to see exactly how scoring works before trusting it. Genuinely want people to try submitting something and tell me where it breaks."
     }
   ],
-  "fetched_at": "2026-08-26T14:11:10.310762+00:00"
+  "fetched_at": "2026-08-26T15:59:31.503840+00:00"
 }
