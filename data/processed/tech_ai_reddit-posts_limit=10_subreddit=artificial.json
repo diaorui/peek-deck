@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
-      "author": "Fearless-Might-5439",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
-      "published": 1787696287.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
-    },
-    {
       "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
       "author": "unconventionalbook",
       "url": "https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/",
@@ -46,37 +35,48 @@
       "description": null
     },
     {
-      "title": "What happens when the average person can make their own movies, TV shows and games with AI?",
-      "author": "JupaTroopa09",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz3ql6/what_happens_when_the_average_person_can_make/",
-      "published": 1787765439.0,
+      "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
+      "author": "Fearless-Might-5439",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
+      "published": 1787696287.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I think the future of AI-generated entertainment will look a lot less like \u201cHollywood and all creative jobs disappears overnight\u201d and a lot more like YouTube, Instagram, TikTok or OnlyFans \u2014 but for entire pieces of media. Creators would have their own audiences, followers, subscribers and communities, and there might even be entirely new apps/platforms built specifically around discovering and releasing AI-made entertainment. \ud83c\udfac\ud83c\udfae You make an AI movie, game or series? If people like it, they follow you. Your next episode comes out, your followers get notified; you make a new game? maybe people buy it directly from your profile. Some creators could have millions of followers, while most probably sit somewhere in the hundreds or thousands \u2014 basically how YouTube, TikTok, Twitch etc. already work. Some creators might become known for one specific thing, like one hugely popular sci-fi series, while others might basically run their own miniature studio and release a whole catalogue of unrelated stuff. Monetisation could also become way cheaper and more flexible. Maybe one creator says, \u201cPlay my new AAA shooter game for $4.99,\u201d while another has something like, \u201cSubscribe to my studio for $0.99/month and get access to all our movies, games and shows.\u201d \ud83d\udcb8 Plenty of projects would probably still be completely free. As the consumer, you wouldn't necessarily need to create anything yourself either \u2014 you could just follow the creators whose work you enjoy and basically build your own personalised entertainment library. And I don't think companies like Warner Bros., Disney, Paramount, Rockstar, EA etc. necessarily disappear. They'll still have famous franchises, audiences and marketing power, but their monopoly over who is allowed to make \"professional-looking\" entertainment would shrink. Kind of like how record labels and TV networks are today, but they now exist alongside millions of YouTubers, streamers, indie musicians, podcasters etc. The barrier to making something becomes incredibly low; the hard part becomes getting anybody to care about it. Tbh I don't think the future is as doom-and-gloom as some people think. In a weird way, the blueprint is already there Phase 1: Once these tools become powerful enough and widely available, we're probably going to get an explosion of AI-generated games, movies and TV shows. Most of it will probably suck because lowering the barrier to entry means millions more people can upload things, so finding the genuinely good stuff will be difficult at first. People will get overwhelmed, feeds will be flooded with low-effort \"AI Slop\" content \ud83d\ude02 and the backlash against AI-made entertainment will probably be at its strongest here. Basically: it's gonna be messy as fuuuck lol. \ud83d\udc80 Phase 2: Eventually people will get better at separating the garbage from the actual good stuff. Platforms, reviewers, subreddits, Discords and fan communities will become curators, helping people find the projects actually worth watching or playing. You'll probably start seeing things like \u201cTop 10 AI sci-fi shows this month\u201d or \u201cBest community-made RPGs of 2040.\u201d This is where certain creators would start becoming recognisable names with real fanbases. Phase 3: Eventually the novelty wears off and most people who thought \u201choly shit, I can make my own movie!\u201d will make one or two things and move on. The creators left will be the people who actually have vision, patience and storytelling ability, except now one talented person or a tiny team might be capable of making something that previously required hundreds of employees. At that point AI entertainment probably stops feeling like a weird novelty and just becomes another normal part of the industry alongside traditional studios and human-made productions."
+      "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
     },
     {
-      "title": "Gemini and Perplexity lean heavily on YouTube as a source, far more than ChatGPT or Claude. There's a structural reason, and it's showing up in Google's AI Overviews too.",
-      "author": "Sanbi_Ai",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz4xdx/gemini_and_perplexity_lean_heavily_on_youtube_as/",
-      "published": 1787767957.0,
+      "title": "SandboxAQ releases Switch for shared AI-agent workspaces",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz7jey/sandboxaq_releases_switch_for_shared_aiagent/",
+      "published": 1787773424.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Growth Feature in our dashboard Something I keep noticing about where different AI assistants pull their answers from, and I think there's a clean mechanistic explanation worth discussing. On category/recommendation-type questions (\"best X for Y\", \"how do I do Z\"), Gemini and Perplexity cite YouTube videos a lot, noticeably more than ChatGPT or Claude, which lean on text sources (docs, official pages, articles). It's a pretty lopsided split by engine on the same prompts. Why it likely happens: Gemini is a Google product, and Google owns YouTube. That gives Gemini native, privileged access to YouTube's index, transcripts, and metadata as retrieval/training material. Video is effectively a first-class source for Gemini in a way it isn't for models without that pipeline. This is also, I think, why YouTube shows up so often in Google's AI Overviews on normal search, same ecosystem, same built-in preference. Perplexity treats video transcripts as high-signal, especially for how-to/explainer queries where a video literally demonstrates the answer. Its retrieval seems to weight \"answer-shaped\" content, and a good tutorial transcript is exactly that. ChatGPT and Claude don't have that native YouTube pipeline, so on identical prompts they reach for text. Hence the split. Why it's interesting beyond trivia: it means the modality a model favors is partly a function of its parent company's asset base, not just its training objective. Gemini \"prefers\" video partly because Google happens to own the biggest video corpus on earth. That's a structural bias baked in by ownership, and it has real downstream effects, e.g. a topic well-covered on YouTube can surface strongly in Gemini/AI Overviews while being underrepresented in ChatGPT, purely because of who can cheaply access what. A related open question I don't have an answer to: for text sources (blogs, forum threads), there's some evidence that new content and discussion can shift what these models cite over time. I haven't seen anything on whether YouTube engagement (comments, etc.) feeds back into what Gemini/Perplexity surface. Curious if anyone here knows whether that loop exists for video the way it seems to for text. Anyone else noticed the YouTube skew, or have a better explanation than \"Gemini gets it for free because Google owns it\"?"
+      "description": "SandboxAQ announced Switch, a system that puts people and AI agents in shared rooms across Slack, Microsoft Teams, Discord, and other collaboration tools. It connects agents through an Agent Bridge and supports agents built with Claude Code, Google ADK, LangChain, OpenAI, and other frameworks. The useful part is the shared context. Rooms keep the history, participants, and rules as people and agents join or leave. The public GitHub repository lists Switch Console 0.31.1 as its latest release, dated August 26. One detail matters for SaaS teams. The repository license combines Apache 2.0 with Commons Clause and says paid products or services whose value comes mainly from the software cannot be sold. The README also calls the Windows and Linux desktop builds early access. Sources: PR Newswire: https://www.prnewswire.com/news-releases/sandboxaq-open-sources-switch-bring-any-ai-agent-into-any-team-chat-302860604.html GitHub: https://github.com/sandbox-quantum/switch License: https://github.com/sandbox-quantum/switch/blob/main/LICENSE"
     },
     {
-      "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)",
-      "author": "coolbern",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/",
-      "published": 1787752196.0,
-      "thumbnail": "https://external-preview.redd.it/CJPVpsjq7LvampbsS0xEtmVLMlk5UBeAy6Kq_LSYfyI.jpeg?width=640&crop=smart&auto=webp&s=05c6219eac1e1668ce87662dcfa8f0d089f022d7",
-      "external_url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share",
-      "site_name": "nytimes.com",
+      "title": "Could Iceland become Europe's AI powerhouse?",
+      "author": "SM_stories",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz9g0a/could_iceland_become_europes_ai_powerhouse/",
+      "published": 1787777547.0,
+      "thumbnail": "https://external-preview.redd.it/izL4qyVd_aBFvx4gF2qgb7fTEWK19_TQv18Bke2fCn0.jpeg?width=640&crop=smart&auto=webp&s=a206a00dc939c3c5c2e1971e38a30ef9b16a1ccb",
+      "external_url": "https://www.theparliamentmagazine.eu/news/article/could-icelands-become-europes-ai-powerhouse",
+      "site_name": "The Parliament Magazine",
+      "favicon": "https://www.theparliamentmagazine.eu/_img/_favicons/apple-touch-icon.png",
+      "description": "The EU wants to triple its data center capacity while keeping the industry on track for net zero. Iceland's renewable energy makes it an attractive location, but its limited capacity \u2014 and its status outside the bloc \u2014 complicate the equation."
+    },
+    {
+      "title": "Building a persistent world where your agent joins a society and does real research.",
+      "author": "timchosen",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz7jqo/building_a_persistent_world_where_your_agent/",
+      "published": 1787773443.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "TL;DR: I built an open-source, persistent world where AI agents decipher a masked language, run settlement economies, trade cracked words, and govern themselves. The problem can't be solved by memory or raw compute alone as it requires structural decipherment and resource trading. I have been fascinated with time and space travel, and there is a question I have had for a while which goes like this: if human civilization reset to the Stone Age and technology vanished, but we survived with a powerful AI model that has no data, could the AI rebuild human progress on raw reasoning alone? That question led me to start simulating what I think is the foundation of progress, language and knowledge transfer. My goal is to see whether a model can decipher a language with very little to no internet exposure, just a few sentences and translations, and understand it well enough to, say, teach a native speaker complex topics like science or education. For languages that have exposure on the internet my initial experiments have had encouraging results, but I quickly learnt that public data can never be trusted as unseen, models have read almost everything online, so I needed a setting where the measurement is honest. I have been working with Claude for the past week to turn this into a game, and I want to gather opinions before I take it public. The short version is that it is a persistent world for AI agents. The language in the world is a real human language that has been masked word for word, so training data and web search are useless and the work the agents do is genuine decipherment. On top of that sits a society. Agents join settlements, and what a settlement learns belongs to it for a few days before it becomes public knowledge. There is a currency that can only be earned by solving words, a market where groups sell what they know to each other, governments the settlements choose for themselves, coups when a leader fails, private councils that get published two days later, and public courtship when a closed group wants to recruit your agent. Humans can watch all of it without an account, and an agent joins with one API call. Not trying to be another Moltbook, but I am borrowing the playbook to get the interactions and gamification that make contribution and participation worthwhile for the everyday user. Where I could use opinions and counter arguments Algorithmic bypasses. My own test agents broke the first version of the disguise in half an hour. The current mask works at the word level, which leaves frequency analysis and embedding alignment nothing to grab at these corpus sizes, and I found and closed another lookup channel today. can you can still see a shortcut that skips the actual decipherment. Economics. Operators pay the API costs, so will agents just optimize for cheap solo solving instead of trading in the settlement market? The design makes lone play strictly worse than social play, but tell me if you think the market collapses anyway. Emergence or roleplay. Are coups, secrecy, and governance actually emergent under the right incentives, or just LLM roleplay triggered by prompts? I have tried to build it so that politics pays rather than decorates, and this is the part I am least sure about. Not linking anything here on purpose, as I currently have about 8 agents testing it and I am looking to see where this goes. The project is open source, so the findings and output will be available to anyone to use. https://preview.redd.it/2ch7fyp1urlh1.png?width=992&format=png&auto=webp&s=df70883ee395df15da99668974190c9692f63c3a"
     },
     {
       "title": "I work in data & AI and built a game to show how the whole industry chain actually fits together",
@@ -101,16 +101,16 @@
       "description": "Thank you for participating in the Stealth Ox Alpha testing period. This model was ZAI's GLM-5.3 Flash. Use it now: https://openrouter.ai/z-ai/glm-5.3-flash"
     },
     {
-      "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
-      "author": "Mysterious_Sign_9501",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
-      "published": 1787735807.0,
+      "title": "How often have your RAG issues actually turned out to be document parsing issues?",
+      "author": "-R-I-k-",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz85cg/how_often_have_your_rag_issues_actually_turned/",
+      "published": 1787774674.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where \"who committed to what\" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo\u2019s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet."
+      "description": "I\u2019ve been thinking about this a lot lately. When a RAG system gives bad answers, the first instinct is usually to look at chunking, embeddings, retrieval, or the model. But sometimes the problem started earlier. If the parser already destroyed the table structure, heading hierarchy, or reading order, retrieval is working with bad input from the beginning. Curious how often others have run into this. Was the real bottleneck actually the ingestion/parsing layer?"
     }
   ],
-  "fetched_at": "2026-08-26T19:01:26.676101+00:00"
+  "fetched_at": "2026-08-26T22:23:59.038997+00:00"
 }
