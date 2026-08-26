@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
-      "pub_date": 1787704440.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
-      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
-    },
-    {
       "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -25,24 +15,24 @@
       "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
     },
     {
-      "headline": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnZDYTNQU016aGJnVUljb0VNRXQtd2ExUzBuSl9ZZE5XVWtwUG5kY2RpVmZqcGs5cHpTUjhuakFnVFRkRFhQaE5BRDhXbGdCSnRVbVhhYm4zNEJSLWpQR0lodzE2YzBUODkwUnNLd2FBSWZWYnozcDBYd1FxTG1GNlVCOFdjUnpKM0hvRnZNM1ljSkx1UThVWDg3dU45eE1BSGV2M0VjSk9tS2tIRW51VTF5TlBzOFJG?oc=5",
-      "pub_date": 1787702780.0,
-      "article_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-      "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+      "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
+      "pub_date": 1787704440.0,
+      "article_url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
+      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
     },
     {
-      "headline": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026",
-      "source": "ServeTheHome",
-      "source_url": "https://www.servethehome.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WSGhkZ3l5ZkJpdklTaHFuVlBCcElvcWxaME9wc1ZNeU5XRzVxU3JueGI2dnhYU3llYm9MZlN0S1pLekhSMHhjTXlqSk5oZ2dEXy11Nk1qR2lhWXIzazFyUlY0OFR0aXQ2RzRObjR3T0xGbEpISVE0?oc=5",
-      "pub_date": 1787705145.0,
-      "article_url": "https://www.servethehome.com/openai-jalapeno-asic-at-hot-chips-2026/",
-      "image": "https://www.servethehome.com/wp-content/uploads/2026/08/OpenAI-Jalapeno-chip-final.jpg",
-      "description": "We got a deep-dive on OpenAI Jalape\u00f1o at Hot Chips 2026 as the company rapidly built its own competitive AI accelerator"
+      "headline": "Nvidia Earnings Today: What Its Earnings Will Reveal About AI Bubble Risk",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjlyX3JCVEhRZ2twUjhfYkZxMzJPX2JnNzhvSkVFSG1jekFhWkw5ZlZWRTl4T2ZsdHRXdjZGU2p5RFRpdWoxMWUzbUFFdTBoTzFSOGFTN1ozV18zb3JUUk9fbW5jbmlmTnRzbWtFYnVQeW1YaTNxRGZ4dTVrOTB5SzdITVRZWm9ydml0ZFc0eU4xdEhFYWN4YXRsWWtrUFVoaDBRMw?oc=5",
+      "pub_date": 1787724000.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-today-earnings-reveal-060000174.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/715b0b5f59def00c577a4bd482653f7525a62bc6ecce5d3fd009d733892a7070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F042f2d67c0b128b27b2bb45eeea1dcfb.jpg",
+      "description": "Nvidia's Q2 earnings today reveal whether AI spending is broadening or concentrated among a few giant buyers."
     },
     {
       "headline": "'AI receptionist could not understand me after stroke'",
@@ -55,22 +45,22 @@
       "description": "Judith Butterfield from Doncaster says she could not get past the AI service EMMA."
     },
     {
-      "headline": "California family pushes for AI chatbot protections after son's death: \"There needs to be guardrails\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXhMRExCYlczaVh2Szh2bHdfeHBycTdmb3I4MlhLaUZQTHlyNlBHbkZBSk05OEhzd1BBQTBNNDRyQTJkMHBtbkhXYjYwVlZMbTl1NVNDWG9IOVpYcVFVREozcGhWcnMzWF9uVVFjR09TUGNVLXBZbFR6QzItSUhUTVBxRW0?oc=5",
-      "pub_date": 1787719437.0,
-      "article_url": "https://www.cbsnews.com/sanfrancisco/news/ai-guardrails-california-adam-raine/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/9068cbbd-5553-43c4-a2dd-b8499107d4f3/thumbnail/1200x630/d2e3b73b7bdfd604ee0874b88fb938f1/adam-raine-photos.jpg",
-      "description": "Adam Raine was 16 years old when he died by suicide. His parents say an AI chatbot guided him to the decision."
+      "headline": "5 Real-World Vibe Coding Success Stories That Show What AI Can Really Do",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkJ5cmRqT0oyMGxqY0xGUXdFVk43aHZBZTRRNG1iNGtRZmt4dkM2YTR5V2p4Q1JwUWd0WHNrUV8wcWkzRWhPUDI5dEVENHF6Vkp0ODlsS1ZmNTJHME1odWkxejF3VV81ZzE2elJGamFkX2IzVEpQckFHM0VVVTVKb3ozMXQ0UDBCZjVieVNraXJKNVB1Sjdjc2hpUkFwZFlBTzR5OVFSQUFPUTBUb1dYcFZCdnpEeGhtMVVLbGllanFXOVk?oc=5",
+      "pub_date": 1787721951.0,
+      "article_url": "https://www.forbes.com/sites/bernardmarr/2026/08/26/5-real-world-vibe-coding-success-stories-that-show-what-ai-can-really-do/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8e78414f8568998879493c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Vibe coding is moving rapidly from AI hype to real-world business results, helping companies build software faster and boosting developer productivity."
     },
     {
-      "headline": "Salesforce Earnings Come as AI Prompts Self-Disruption",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6cEV3dWlHeTFSU1NlNVh5QmZkSlpNNVI0S0NIMFRLNTZPZWFTRzl2RFU2ZXZwaWxwR21aQk9VMC15Ym5NbXhQcGNVRG1QMUxRa19pc244cGFDRll5elluWXhMTENNVUtibWFwb3U4QTF1U3BZNW1FWWtaQ2RMUQ?oc=5",
-      "pub_date": 1787722200.0,
-      "article_url": "https://www.barrons.com/articles/salesforce-earnings-stock-price-74e0e769",
+      "headline": "The Connections That Turned a Precocious Teen Into the Fallen \u2018Nostradamus of AI\u2019",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3FKTTFuZFd3UFZyQ1Jpd2R3NUlfY1VkTU0yVm1VY1RXc0h2RXc4TVZmbUlXa05zMEI5VW9penlpWGM4UzN3WTl5R1ZTRHZpaTN4NVJJVllvbzNvZWdqemM1bkNUdXdMcVJwVDZOOTJ2d2QtV1hneTMxRUNGYzV6Qy1JVHJheERrSGJIZXBVQ3A3Zw?oc=5",
+      "pub_date": 1787706000.0,
+      "article_url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
       "image": null,
       "description": null
     },
@@ -95,16 +85,26 @@
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
     },
     {
-      "headline": "Apple\u2019s new desktop computers are designed specifically for local AI development",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU9McVo0bUR4NjlSM0VpYTBYSk04NmNZZWlyYlJqd0dyRzdLVFlMcnhCT3g3VlZPRWM3eTB0UGdQTzZ0emFhUTZLcExLM2FtQk42dER6SjFYWGhJWE9pLXpTR3hoVTE0a2x4YVJzZnFpQUxTVXlScEIzcURaVDEwQ05nVUN0RVdVaG4yTlRBN2VlUHVpVFBtcnRieDZlLVlyTFEtSm9SS0VaZmhTUVltSzF3?oc=5",
-      "pub_date": 1787662811.0,
-      "article_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
-      "description": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind."
+      "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2JQRHZDbndfVlgxZUFEZk5WNmlCakRteGJFMEthY0R1ajlWTHZ4QkVvVGJ0QURaM0xoLUtXZmlGTXZMY1J6dmVNSlVuOXQwcWhSaWZoTFR4X1I0M1NmdzlzaldHaDVwa2pPenF0VUhFeFpMSjJHbjNDSXhkWXl2RUZzVjNNd29hWmpTLVNEeVMzNkoyUnNUTnVCczhIYVlqQkhhRmdpZzMyNkd1c0tqVEZQWVpwUQ?oc=5",
+      "pub_date": 1787697923.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/08/25/can-apples-new-mac-ultra-replace-your-200month-ai-coding-bill/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWRsS2stazVTeW1fVTFxbHE1MXFqU3RXN0RsV2JsNlRqZzIzaGNFMzNQYkNPT0pOZGpOV3dnanFCRXg4TnV1NHAxU0ZaenZ2bkRZaWNlQlFEakxyU3RDeU1DS0V1Tzl2YzRqWG1tbzZpamlwamFxdzMzeUJ1UzdUVmlCbXl6OHRfOFdkal9Lc0trSFRHTUloMVVuNU8xTjVIbEhyOUM3cHRtZw?oc=5",
+      "pub_date": 1787705280.0,
+      "article_url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fd31519098f19cec1512068a71377c",
+      "description": "Companion bots are being regulated over worries they foster \u2018emotional dependence\u2019 and young people could stop marrying and having families"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T05:34:27.580606+00:00"
+  "fetched_at": "2026-08-26T06:49:58.880669+00:00"
 }

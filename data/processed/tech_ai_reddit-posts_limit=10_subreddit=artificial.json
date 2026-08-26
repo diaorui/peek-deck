@@ -46,6 +46,17 @@
       "description": null
     },
     {
+      "title": "Why should I care about using Muse Spark Contributor?",
+      "author": "AkindaGood_programer",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyo7em/why_should_i_care_about_using_muse_spark/",
+      "published": 1787722929.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In case you don't know, Muse Spark Contributor is a very cheap (.10 in, .20 out) version of Muse Spark 1.2. They achieve this price by training on the data you give it. I simply don't understand why I should care if a model is training on data I give it. I mostly only use it for research and small programming projects. The only thing I'd be worried about is if, somehow, through prompt injection, Muse's next model could reveal personal info. Should I be concerned, or just use it? I'm very, very tight on cash, so the only other options for me are really DeepSeek v4 flash (which just got a price increase), or GPT Luna."
+    },
+    {
       "title": "OpenAI adds an admin plugin for ChatGPT Work and Codex",
       "author": "Codeblix_Ltd",
       "url": "https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable. High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life. Typical work includes Docker-based web development, Python/Jupyter/Conda, dataset work, ML experiments and local inference. Large training jobs can use cloud GPUs, but I want the laptop to remain useful offline and for private/local models. The full laptop-and-monitor budget is \u20ac6,000, with roughly \u20ac5,000 available for the laptop. I am in Croatia/EU and will buy only brand-new, factory-sealed hardware\u2014no refurbished, used, returned, display or open-box units. I am interested in the architectural tradeoff rather than a brand argument: - For local inference, when does a 64\u2013128 GB unified-memory pool outweigh CUDA's faster and broader software ecosystem? - Which real development workflows still make a local NVIDIA GPU essential? - How much friction is involved in developing on MPS/MLX locally and moving training to remote CUDA? - Does a mobile NVIDIA GPU provide enough VRAM and sustained performance to justify its battery, noise and thermal compromises? - Is a strong daily-driver laptop plus rented/cloud CUDA more flexible than trying to put all compute in one portable machine? - Which platform is likely to retain more practical usefulness as local models and agent workflows evolve? I would especially value answers from people who actively use both Apple silicon and CUDA systems."
-    },
-    {
-      "title": "Ukraine ties Nvidia Jetson Orin to fatal autonomous drone strike",
-      "author": "Justgototheeffinmoon",
-      "url": "https://www.reddit.com/r/artificial/comments/1vy3a52/ukraine_ties_nvidia_jetson_orin_to_fatal/",
-      "published": 1787672265.0,
-      "thumbnail": null,
-      "external_url": "https://aiweekly.co/alerts/ukraine-ties-nvidia-jetson-orin-to-fatal-autonomous-drone-strike",
-      "site_name": "AI Weekly",
-      "favicon": "https://aiweekly.co/themes/custom/aiweekly/images/apple-touch-icon.png",
-      "description": "TL;DR A Russian Molniya drone with an onboard Nvidia Jetson Orin module chose its own target at a Zaporizhzhia gas station on July 6, killing three civilians. The wreckage carried no radio antennas and its code was unencrypted, letting Ukrainian officials read the drone's terrain imagery and target-selection software. Nvidia said the Jetson Orin is a consumer-grade module not sold in Russia; the board recovered in the wreckage was stamped Made in China."
     }
   ],
-  "fetched_at": "2026-08-26T05:34:05.373433+00:00"
+  "fetched_at": "2026-08-26T06:49:37.598784+00:00"
 }

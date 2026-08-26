@@ -15,14 +15,24 @@
       "description": "NVIDIA today announced NVIDIA Jetson Orin Nano\u2122 2, a new robotics computer set to redefine entry-level edge AI \u2014 putting frontier-class generative AI performance in the hands of millions of developers."
     },
     {
-      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5",
+      "pub_date": 1787704859.0,
+      "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+    },
+    {
+      "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5Umc?oc=5",
-      "pub_date": 1787649965.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpldERNcWQyTnJ5SzgxaUJMdWcxREdNRmtDNm5vWXNwZWVfMS15SWhINzg5eTlJRnBFVUtoOGViUTZQVFhNSDBVbndGRWFiTmxjTFowWDJtdmFrVHFiT0hzbDFqNXBQaUtTWmtwLVAxZTJWVjhJZUdDdnNvdmgtcGRIeDR2VDVyRkHSAY8BQVVfeXFMTzlCeDRLZ241c2ZQaDd6a2phNzNQelk2UzUzMWNXZDZ0NExuci1LOWRhUTY2WlhmaFFvekl2dks3YkF0djY3cVk2S0lBR2lMb1BlWjZoUDdWRGVYbVJuekk3R21COE93eDlzVkFyRkI1NmFzRkdyblFFb3NxZTJvRGpGTHhQMUNCNDlidnhRQ0E?oc=5",
+      "pub_date": 1787725845.0,
+      "article_url": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354283-1787711877050-60089527-216a-4aec-b652-9e04dec5afd7.jpg?v=1787712197&w=1920&h=1080",
+      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers."
     },
     {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
@@ -35,24 +45,14 @@
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
     },
     {
-      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5",
-      "pub_date": 1787704859.0,
-      "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-    },
-    {
-      "headline": "Qualcomm Launches Comprehensive Robotics Investment Initiative in Japan, Anchored by New Qualcomm Japan Robotics Center",
-      "source": "Qualcomm",
-      "source_url": "https://www.qualcomm.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGlVS0phYnhtOXpNYVpWV2dlcHRCOUVHVUhxS0QwMHZRbENZU1NYbUlQOEJ4eWxmdGFKbjZJUHJSTUdTbmZ4bFUyeTAwQVMxYmlZeTRUMmlvTHhwSG4xczlyTUdQbDR4Z1BiQkFaQnZncjdycDhlN2E5X0hhUzZDQ0FxaDlDOVFnSXpuRmtMckY1Q2NadzcwcG82TlllbjBJcVFlTUVZdm52UjRxeUl5Mg?oc=5",
-      "pub_date": 1787636586.0,
-      "article_url": "https://www.qualcomm.com/news/releases/2026/08/qualcomm-launches-comprehensive-robotics-investment-initiative-i",
-      "image": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/images/press-releases/managed-images/JapanRoboticsCenter1.png",
-      "description": "Qualcomm has launched a robotics investment initiative in Japan, anchored by the new Qualcomm Japan Robotics Center. Working with leading robotics, automation, research, and technology organizations, the initiative aims to advance an open physical AI ecosystem through innovation, ecosystem development, commercialization, and deployment, helping accelerate next-generation robotics solutions in Japan and globally."
+      "headline": "What Is Tencent Holdings (SEHK:700) Looking For In Humanoid Robotics?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkZBZGN4alpoZ0RlN3Jxamx4aldTa3ZqS0xTcmFDaHUwX016eGJ0a3hpNHVVd3NIUVZSLUN2OXNLTXhlb2llMUMtWTFXLVdKeFJ1dXRiUmdyYTF6dERzbERpRGNHX1Nnb09laS1KWGY4eHFfYjVpNkluRUFSZ3JLM1NEajRJQ1d2TjdTYUZRTC1WZVVYbXY5MWVncHMwQQ?oc=5",
+      "pub_date": 1787641514.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/tencent-holdings-sehk-700-looking-070514779.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ee263fa88249d3ee8b4389c4f9edb8d573e1683c96df56d38ed91ad0213dba95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F7cd227f8d0d6c5f1f91c43c05edf831f.jpg",
+      "description": "Tencent Holdings (SEHK:700) has joined Alibaba as a lead investor in Xpeng's humanoid robotics spin out Dogotix, backing a US$900 million funding round. The deal marks Tencent's entry into a standalone humanoid robotics venture outside its existing software, platform and cloud operations. Tencent's move highlights growing interest from large Chinese tech companies in AI enabled hardware and robotics projects. For readers who want to look beyond consumer platforms and explore listed..."
     },
     {
       "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
@@ -65,6 +65,16 @@
       "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
     },
     {
+      "headline": "Somnia Lab Trains Intimacy Robots with Motion-Capture Poses",
+      "source": "x.com",
+      "source_url": "https://x.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGZpOXR4UFktUEdPRjZYRVJVaUFKazhKcU9XOUxrTU9yRTJvN2FvdFpNbDRRcWhlTmVUblhCcVJGS0ZYMDBtODhDaGlvT0Ffa043R21ORQ?oc=5",
+      "pub_date": 1787668052.0,
+      "article_url": "https://x.com/i/trending/2092257575261901104",
+      "image": "https://pbs.twimg.com/media/HQku-uaXgAEqs2e.jpg?name=orig",
+      "description": "Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027."
+    },
+    {
       "headline": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -73,16 +83,6 @@
       "article_url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
       "description": "Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware"
-    },
-    {
-      "headline": "Somnia Lab Trains Intimacy Robots with Motion-Capture Demos",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGZpOXR4UFktUEdPRjZYRVJVaUFKazhKcU9XOUxrTU9yRTJvN2FvdFpNbDRRcWhlTmVUblhCcVJGS0ZYMDBtODhDaGlvT0Ffa043R21ORQ?oc=5",
-      "pub_date": 1787668052.0,
-      "article_url": "https://x.com/i/trending/2092257575261901104",
-      "image": "https://pbs.twimg.com/media/HQku-uaXgAEqs2e.jpg?name=orig",
-      "description": "Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027."
     },
     {
       "headline": "Inside China\u2019s Race To Rule Robotics",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T05:34:26.049265+00:00"
+  "fetched_at": "2026-08-26T06:49:56.509540+00:00"
 }
