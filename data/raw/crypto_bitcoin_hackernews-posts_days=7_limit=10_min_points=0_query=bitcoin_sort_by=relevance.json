@@ -19,6 +19,20 @@
       "site_name": "ft.com"
     },
     {
+      "title": "Bitcoin's $80k Test: A Renewed Rally Puts Prediction Markets on Alert",
+      "url": "https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6",
+      "hn_url": "https://news.ycombinator.com/item?id=49443597",
+      "author": "joeymabia1",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-08-26T02:45:02Z",
+      "object_id": "49443597",
+      "image": "https://images.fika.bar/post/01M0VF5CMNQS1QF9HRPHP6E8T6/a128f5d567e617845f1f75e623720cd1/ChatGPT-Image-Aug-25-2026-11-35-28-AM.png",
+      "description": "A Sharp Rebound Brings Bitcoin Back Into the Spotlight",
+      "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
+      "site_name": "predx-article"
+    },
+    {
       "title": "Bitcoin's short squeeze traced to a Treasury bond buyback decision",
       "url": "https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze",
       "hn_url": "https://news.ycombinator.com/item?id=49385139",
@@ -89,20 +103,6 @@
       "site_name": "youtube.com"
     },
     {
-      "title": "Bitcoin's $80k Test: A Renewed Rally Puts Prediction Markets on Alert",
-      "url": "https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6",
-      "hn_url": "https://news.ycombinator.com/item?id=49443597",
-      "author": "joeymabia1",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-08-26T02:45:02Z",
-      "object_id": "49443597",
-      "image": "https://images.fika.bar/post/01M0VF5CMNQS1QF9HRPHP6E8T6/a128f5d567e617845f1f75e623720cd1/ChatGPT-Image-Aug-25-2026-11-35-28-AM.png",
-      "description": "A Sharp Rebound Brings Bitcoin Back Into the Spotlight",
-      "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
-      "site_name": "predx-article"
-    },
-    {
       "title": "Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words",
       "url": "https://strikeablock.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49370845",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-08-26T02:47:00.027920+00:00"
+  "fetched_at": "2026-08-26T03:53:15.812188+00:00"
 }

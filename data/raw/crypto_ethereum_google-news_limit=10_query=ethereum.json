@@ -35,16 +35,6 @@
       "description": null
     },
     {
-      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZVMzLWNlTE1hSnZzTDBLVzRTZm5TSTUzWEF4RGxvalRTNlI2Z2llMmFFNEJ6VkVjWThUMUt6NGFHTWR0bXZ3YmVDVXV1R3ozdnZtUDFSUkJ3V1R3WlRRSjU0Y2JnVi0wY1JWeXh3TUE1NDMzRkVyYmFuS0g5MmRyeXFwUnptTGxiUGFkNjZXbndKVHR0aGRnbFdfcTNHTncwNVBKOEJpSWdUMHJlTlFtRWpjZDNxakY0V0JvMmpHZEVaM3NuQlJRN0lfV1d4cEVVUGpESmZpUzJLUnBVai1uU2hzMW9GNnBOMGo5TVVIcEVIREtIcDNTSndZVkFyZnc3a2x5MzZ3czNkZDFrZV9CcVhsU3BXS2x5bzdVLVhKY042MEU?oc=5",
-      "pub_date": 1787574600.0,
-      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html",
-      "image": "https://mmx.prnewswire.com/media/MS1974095/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA2905149&p=facebook",
-      "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past..."
-    },
-    {
       "headline": "XRP vs Ethereum: Which Crypto Will Reach Its All-Time High First?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -63,6 +53,16 @@
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say",
       "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/24/Bitcoin-and-Ethereum.jpg",
       "description": "Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000."
+    },
+    {
+      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZVMzLWNlTE1hSnZzTDBLVzRTZm5TSTUzWEF4RGxvalRTNlI2Z2llMmFFNEJ6VkVjWThUMUt6NGFHTWR0bXZ3YmVDVXV1R3ozdnZtUDFSUkJ3V1R3WlRRSjU0Y2JnVi0wY1JWeXh3TUE1NDMzRkVyYmFuS0g5MmRyeXFwUnptTGxiUGFkNjZXbndKVHR0aGRnbFdfcTNHTncwNVBKOEJpSWdUMHJlTlFtRWpjZDNxakY0V0JvMmpHZEVaM3NuQlJRN0lfV1d4cEVVUGpESmZpUzJLUnBVai1uU2hzMW9GNnBOMGo5TVVIcEVIREtIcDNTSndZVkFyZnc3a2x5MzZ3czNkZDFrZV9CcVhsU3BXS2x5bzdVLVhKY042MEU?oc=5",
+      "pub_date": 1787574600.0,
+      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html",
+      "image": "https://mmx.prnewswire.com/media/MS1974095/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA2905149&p=facebook",
+      "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past..."
     },
     {
       "headline": "Glamsterdam Repricing Impact for Smart Contract Developers",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T02:47:14.115032+00:00"
+  "fetched_at": "2026-08-26T03:53:29.971261+00:00"
 }

@@ -25,16 +25,6 @@
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
     },
     {
-      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5",
-      "pub_date": 1787704859.0,
-      "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-    },
-    {
       "headline": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
       "source": "NVIDIA Newsroom",
       "source_url": "https://nvidianews.nvidia.com",
@@ -63,6 +53,16 @@
       "article_url": "https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2",
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214434126/image_2214434126.jpg?io=getty-c-w630",
       "description": "On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI."
+    },
+    {
+      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5",
+      "pub_date": 1787704859.0,
+      "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
     },
     {
       "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
@@ -95,7 +95,7 @@
       "description": "When investors think about Tesla Inc\u2018s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they\u2019re looking in the wrong place. Tesla\u2019s greatest long-term advantage is something far less glamorous, he says. \u201cIt is their manufacturing competency and resources,\u201d Kang told Benzinga in an email. Tesla\u2019s Manufacturing Scale Could Become Its Biggest Moat Kang\u2019s thesis stands in contrast to t"
     },
     {
-      "headline": "Somnia Lab Trains Intimacy Robots with Human Motion-Capture",
+      "headline": "Somnia Lab Trains Intimacy Robots with Motion-Capture Demos",
       "source": "x.com",
       "source_url": "https://x.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGZpOXR4UFktUEdPRjZYRVJVaUFKazhKcU9XOUxrTU9yRTJvN2FvdFpNbDRRcWhlTmVUblhCcVJGS0ZYMDBtODhDaGlvT0Ffa043R21ORQ?oc=5",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T02:47:16.578214+00:00"
+  "fetched_at": "2026-08-26T03:53:31.674234+00:00"
 }

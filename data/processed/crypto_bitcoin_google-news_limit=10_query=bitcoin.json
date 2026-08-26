@@ -5,56 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Rally Pauses After Jumping to Three-Month High",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNW05dUFtdzlpWmZic2FCQ2Jab3gtbGo0T1AtdXgxbDd3cHpNZGpLaXVTWmtVQ2JQalVqYmRYTGQtdlBrWHUwU0JQQl8yNWx2TTYyQUNGNzl6T2lmUmsxaXJzV2phYXB4SXdkUmNRZFBfYlUxQ1dLcllUNURRU1pycE9WOWk2ZDl0Wjl2N2ltWHc?oc=5",
-      "pub_date": 1787669760.0,
-      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnppMG5uQ3NJNE9QdDdPRmU4Vlc2aGhPMFZWXzB4TmFrSmFldWdNcUpDM2VTRGIzRXVuTEQybHBoaUZKamVzU3NMZHJabzN2eTlQVGxCcWxXZGFpM1g2bzVNaFI5eEVxUVZjMVhPUGs5NGlpWjRxd0RpekRaeVJtVXZBT3ZPSTFuZTJLVWlHTnl1NnNWZGd3Vl9idFVkNDE2aHYyeWp3NmlyYUdtMHc?oc=5",
-      "pub_date": 1787660913.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Can Bitdeer (BTDR) Turn Wind-Powered Bitcoin Co-Mining into a Scalable AI Infrastructure Edge?",
-      "source": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXVLdjBtcUlTQWppTmZJNUdsRzhjaVF3Tlpta2pMX1RTMXFscU1mVl9Da3lJYUwwMGxuTS0zYk44dEpmbDcxbDBrNnFVVjdaSGQyRkoxMnlnZEU4YkMxdHNpTkRsZW02RUI3UEVBeTBNSTFXajlpZUtWc2NsQm9vYWVkSU14QQ?oc=5",
-      "pub_date": 1787703600.0,
-      "article_url": "https://sg.finance.yahoo.com/news/bitdeer-btdr-turn-wind-powered-002035490.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bbeae43820b61826d97507da7830832d2475a38054322187e61c6281182fc876/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0fe4d5d105492213ce106a92b49639d4.jpg",
-      "description": "Soluna Holdings recently announced that its subsidiary signed a co-mining agreement with Bitdeer\u2019s Dory Creek unit to deploy about 28 MW of Sealminer A2 Pro Air Bitcoin mining equipment, adding roughly 1.93 EH/s of hash rate at the wind-powered Project Kati 1 data center in South Texas under a shared-proceeds model. Alongside this, Bitdeer AI is working toward 350 MW of AI cloud data center capacity by early 2028, backed by contracted demand and a pipeline for AI infrastructure exceeding..."
-    },
-    {
-      "headline": "Fairlead Strategies Founder Says Bitcoin's Rally Has More Room Than Gold's",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczk2QllMRDhFQ2x0SnNHa2NOamtvRjlJMWd2UVpTaWhEZF9OaEIyNjVBYTZVZmxkNmc1ZnVrTUNUNDZpTTNQbjdoTjBvaFF3Q2dCazFaWjJ3Z2JLQVRaZzZna2ZMS05xZmd1SmV3NGJXN0xrRFdGTV9ORGZFZndSOTM2OVVjTlQtU2NQTzB5TTV6Zjl2OWtDd1g1RFd4eVZQajBpWkhfNXM3dw?oc=5",
-      "pub_date": 1787705280.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/fairlead-strategies-founder-says-bitcoins-004836216.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5ecf1ebee0b60fa7099013e62af7cab491274f853057a7874c17fdcb8234cced/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F16ac789813e71577b2b45b8f02104f3b.jpg",
-      "description": "Fairlead Strategies founder Katie Stockton says Bitcoin's breakout has more room to run than gold's rally right now."
-    },
-    {
-      "headline": "Top analyst spots a rare window for Bitcoin buyers",
-      "source": "Yahoo Finance Australia",
-      "source_url": "https://au.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2Z1VVh5LTJzNHdjX3FDUk56M21QRXA2WWxmT2dQOW1uN3FTdVhtQ3VJVUFCMzBPOTlseGdzVjNDOW1oaXhEckJFc0VmWnZGNEhCcUdXb2JYVDVCTE5VUjM5QnFmTXhsYlVzcm51V1RxRjVudlNWak41Ujc2RXRZOE5TUms?oc=5",
-      "pub_date": 1787703540.0,
-      "article_url": "https://au.finance.yahoo.com/news/top-analyst-spots-rare-window-001917939.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1710a3705512c796b095f07135d33e907d3a115ca5854bc698b5b6dd8d345111/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F22238ec6652ba2c919a5f7d495700c74.jpg",
-      "description": "Analyst Micha\u00ebl van de Poppe says buying Bitcoin at $80,000 now is like buying at $20,000 last cycle, as the rally draws record ETF inflows."
-    },
-    {
       "headline": "Iconic Bitcoin mine pivots to AI as industry turns back on crypto",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -65,14 +15,54 @@
       "description": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines."
     },
     {
-      "headline": "CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy",
+      "headline": "Bitcoin Rally Pauses After Jumping to Three-Month High",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNW05dUFtdzlpWmZic2FCQ2Jab3gtbGo0T1AtdXgxbDd3cHpNZGpLaXVTWmtVQ2JQalVqYmRYTGQtdlBrWHUwU0JQQl8yNWx2TTYyQUNGNzl6T2lmUmsxaXJzV2phYXB4SXdkUmNRZFBfYlUxQ1dLcllUNURRU1pycE9WOWk2ZDl0Wjl2N2ltWHc?oc=5",
+      "pub_date": 1787669760.0,
+      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A potential Democrat administration won't hurt Bitcoin: VanEck",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDFFemZJTkg5ZWxOTGxZa3FBMDRNNUVscTE4RmwwUG96YUNYVlBIX1V3eGYxRnI0V0QyRHdkYVA2N3NBQzRGYUhXQmpaWHdVWlRSTlNWTk1UczlyUGpaVExGSXBxTVhsU3J6NHlwdEl4SWVyTkpRclc5Vk9NcDhESmdCdndCQ2PSAYwBQVVfeXFMT0prNG1jb01XTzlTbWxwZVBjOVlUVUFCUW1oLTAtamx2TExQRHNHMlEzXzFQWGRuZS0zU2tUQTFxaDFxcDBTYmhJYjEzR1liMVNWM1NMN3ZJVGhKU205cHZ3YmszNndxNWtFSEVaUUg3cEFPay10dkVlcmI5Ql85ckpwUmVBTDRYZjVDS0s?oc=5",
-      "pub_date": 1787637808.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/cnbc-daily-open-china-bitcoin-dragon-ball-z.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353431-17875924282026-08-24t172356z_1251564812_rc255nanc00z_rtrmadp_0_usa-treasury-bessent.jpeg?v=1787592491&w=1920&h=1080",
-      "description": "New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns."
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FR0t1T1dncF95SElibjZxZERzQUlPX2JVb1dKTUNmX0pfS01iWWJBQjJ1V1JieFgzZnB5NF8yUVBvWjJsOUUzcVBmTDBDbFNvN2JlTC1nbUJ0S0g2R21tU3hJX3dCUnM?oc=5",
+      "pub_date": 1787711602.0,
+      "article_url": "https://www.cnbc.com/video/2026/08/26/matthew-sigel.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354268-17877059641787705960-47986733136-1080pnbcnews.jpg?v=1787705963&w=1920&h=1080",
+      "description": "VanEck's Matthew Sigel says Democrat's victory in the midterm elections would not hurt Bitcoin, but could be a problem for other cryptocurrencies. He says President Trump\u2019s support for Bitcoin, along with his family\u2019s stake in World Liberty Financial is positive for the U.S. economy because digital assets have the potential to unleash productivity gains."
+    },
+    {
+      "headline": "As AI trading recedes, gold and Bitcoin ETFs return to the top ten by daily volume",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0ItNndaS1VGMUIyM3BmNlBmaVcxM1BGMDU4b2RERWVuWVI1UFUyaTB4eEZiZG52YnhxR2s4SmNyZGxZOUVxTVp5SFQ4NWljS3NHdGRKak9HM0Zhdko0VzNGcU5oMFVkVXpXaXdnYnotMFRfUU9XRFpGOFl0czlzd2EyaGM3bTIwTTNZZTBsMGlQT1JqU0xHanV4RQ?oc=5",
+      "pub_date": 1787712142.0,
+      "article_url": "https://www.moomoo.com/news/post/75253707/as-ai-trading-recedes-gold-and-bitcoin-etfs-return-to",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Analysis: Bitcoin Above $81,000 Faces a Major Macro Test This Week",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHFfWlNBU3lYWVNtVWFfajNvQS1XWmtvNi1PbnJ1UkZ5LTlwUUw1ejhNMTVYMVotZHF3cDBkdndIck9qbEhteVFGb25Fa1FsM2NWSmRyNzhtcXFiX09GamRHaENLdkZ1ekdJQXIwTmZqdmtnMXFwWkNWVmhfQm83b0hUY2JrVGowclZ5cDFNUE5hQTVzUTc4TGkzN2ZfdUZwS01XbGpjeldRUUcw?oc=5",
+      "pub_date": 1787710769.0,
+      "article_url": "https://www.moomoo.com/community/feed/analysis-bitcoin-above-81-000-faces-a-major-macro-test-117159412957190",
+      "image": "https://ussnsimg.moomoo.com/sns_client_feed/77770322/20260826/web-1787710681304-Mf5pRfSJP2.png?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "After a sharp rebound, $Bitcoin (BTC.CC)$ is entering a more delicate stage of the rally. $Ethereum (ETH.CC)$, \u00a0$Ripple (XRP.CC)$ and $Dogecoin (DOGE.CC)$ also rebounded sharply. The question is no longer simply whether buyers are willing to return. Traders are now watching whether BTC can hold recent gains as several major macro catalysts approach, including $NVIDIA (NVDA.US)$ earnings and the Jackson Hole Economic Policy Symposium. C..."
+    },
+    {
+      "headline": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnppMG5uQ3NJNE9QdDdPRmU4Vlc2aGhPMFZWXzB4TmFrSmFldWdNcUpDM2VTRGIzRXVuTEQybHBoaUZKamVzU3NMZHJabzN2eTlQVGxCcWxXZGFpM1g2bzVNaFI5eEVxUVZjMVhPUGs5NGlpWjRxd0RpekRaeVJtVXZBT3ZPSTFuZTJLVWlHTnl1NnNWZGd3Vl9idFVkNDE2aHYyeWp3NmlyYUdtMHc?oc=5",
+      "pub_date": 1787660913.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Current price of Bitcoin for August 25, 2026",
@@ -83,6 +73,16 @@
       "article_url": "https://fortune.com/article/price-of-bitcoin-08-25-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Bitcoin-Aug-25.jpg?resize=1200,600",
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin\u2019s surge above $80,000 was driven by short covering, not excessive leverage",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3BNRV81ZmQ4ZDJwZGotRUw3YmRHeC1zMndpblgwcWV6U2JSeWZyNVFBT3pST1Q0bGNNYmpPVllfeTR6dGI1X3UxNjM4WHE0WW9IdnYxX0d3LVJaaV9nSFF0dWlFWmlTN2dvN0pTX1RqQlRHSVVNc2lJN1dCMmhFTi1SdlRKaHNwVDYxYjVMYlJFbUN5VG43X3haRXZLOUdRdWdPTWFHU0RSMk5vMXN2a3VPb3RtQQ?oc=5",
+      "pub_date": 1787655422.0,
+      "article_url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+      "image": null,
+      "description": null
     },
     {
       "headline": "CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T02:47:12.246126+00:00"
+  "fetched_at": "2026-08-26T03:53:32.539472+00:00"
 }
