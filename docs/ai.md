@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T15:59:50.273765+00:00'
+updated: '2026-08-26T16:53:40.260274+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 15:59 UTC  
+**Last Updated:** August 26, 2026 at 16:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
 
-17h ago
+18h ago
 
 ---
 
@@ -49,19 +49,19 @@ I hope this is okay to share since it is not self promotion and it is open sourc
 
 Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
 
-🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
+🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
 
 ---
 
 **[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/)**
 
-🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 4h ago
 
 ---
 
 **[Robot dancing is getting pretty insane](https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -69,7 +69,7 @@ Microsoft co-founder Bill Gates says there need to be significant limits placed 
 
 Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where "who committed to what" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo’s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet.
 
-6h ago
+7h ago
 
 ---
 
@@ -77,7 +77,7 @@ Been testing a few AI transcription setups for work over the past couple months 
 
 The reason why I have 15 Codex Pro 20x subscriptions: Premium tokens are 311x cheaper for a LIMITED TIME ONLY* at the OpenAI Token Depot. I brought 15 shopping carts. The subsidy has dropped 25% since 1 month ago.
 
-6m ago
+59m ago
 
 ---
 
@@ -85,7 +85,7 @@ The reason why I have 15 Codex Pro 20x subscriptions: Premium tokens are 311x ch
 
 Artificial General Intelligence is defined by the capacity to carry binding conditions across domains. A binding condition is the prerequisite that must hold for valid continuation. A system exhibits AGI when it can identify, verify, and enforce these conditions in arbitrary contexts without domain-specific training. Paper: https://doi.org/10.5281/zenodo.19211116 Official Microsoft Announcement: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/ Reuters saying AGI clause was scrapped: https://www.breakingviews.com/columns/breaking-view/microsoft-openai-agree-ai-is-just-product-2026-04-27/
 
-🔗 [doi.org](https://doi.org/10.5281/zenodo.19211116) • 26m ago
+🔗 [doi.org](https://doi.org/10.5281/zenodo.19211116) • 1h ago
 
 ---
 
@@ -93,7 +93,7 @@ Artificial General Intelligence is defined by the capacity to carry binding cond
 
 Something happened recently that made me think about how common this might actually be. I found out that someone on a project team had been copying parts of a client's internal documents into a personal ChatGPT account to save some time. There was no bad intention behind it. They simply didn't think about the security side of it. It made me wonder how other companies are dealing with this. Is this something you've actually come across, or is it still pretty rare in your organization? Do you have any way to know which AI tools employees are using, or do you usually find out after something happens? I'm trying to understand whether this is becoming a normal challenge for companies or if we're just seeing it more because AI adoption is moving so quickly. Would be really interested to hear how other IT and security teams are handling it.
 
-1h ago
+2h ago
 
 ---
 
@@ -101,13 +101,13 @@ Something happened recently that made me think about how common this might actua
 
 Hey everyone, I’m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of "Hello World" territory. That’s where you come in: what are the real, testable problems you run into when building or using AI agents? I’m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I’ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback You can check it here PISSARAW/GenOS: Git-like branching, deterministic replay, and evidence-driven evaluation for reproducible AI agents.
 
-2h ago
+3h ago
 
 ---
 
 **[Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share) • 2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share) • 3h ago
 
 ---
 
@@ -119,13 +119,13 @@ Hey everyone, I’m currently working on GenOS, an open-source framework for mul
 
 Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
 **[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Reuters • 5h ago
 
 Louisiana Gov. Jeff Landry joins ‘Fox & Friends’ to discuss SpaceX’s massive $100 billion Starbase project and efforts to turn the state into an AI data center hub.
 
-Fox News • 44m ago
+Fox News • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fox News • 44m ago
 
 Jeff deGraaf, Renaissance Macro Research chairman and head of technical research, joins 'Squawk on the Street' to discuss the broader markets, what the technicals are telling us, and why he says Republican control of Senate and AI performance seem increasingly linked.
 
-CNBC • 35m ago
+CNBC • 1h ago
 
 ---
 
@@ -149,13 +149,13 @@ CNBC • 35m ago
 
 Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.
 
-TechCrunch • 59m ago
+TechCrunch • 1h ago
 
 ---
 
 **[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ WSJ • 14h ago
 
 Nvidia will report its Q2 earnings after the bell on Aug. 26.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 6h ago
 
 Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
 
-Apple • 12h ago
+Apple • 13h ago
 
 ---
 
 **[Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI](https://www.wsj.com/tech/ai/druckenmillers-surprising-critique-of-bessent-was-delivered-with-the-help-of-ai-9dd0a4fd)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -185,7 +185,7 @@ WSJ • 17h ago
 
 Investor Stanley Druckenmiller said he used artificial intelligence to pen an op-ed. The newspaper’s opinion editor says that’s okay.
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 **[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
 
-⬆️ 357 • 💬 126 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+⬆️ 357 • 💬 126 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 
 ---
 
@@ -243,7 +243,7 @@ I'm a designer and creative technologist based in Brooklyn, NY.
 
 In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
 
-⬆️ 214 • 💬 37 • 3h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+⬆️ 214 • 💬 37 • 4h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
 
 ---
 
@@ -291,7 +291,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 90K • 👍 4K • 💬 355 • ⏱️ 3:21 • 1d ago
+👁️ 90K • 👍 4K • 💬 355 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -311,7 +311,7 @@ shorts #facts #food #ai.
 
 📺 FAL-TV
 
-👁️ 36K • 👍 2K • 💬 9 • ⏱️ 0:21 • 23h ago
+👁️ 36K • 👍 2K • 💬 9 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Linda McMahon called AI “A1” not too long ago, btw.
 
 📺 NowThis Impact
 
-👁️ 96K • 👍 5K • 💬 937 • ⏱️ 0:20 • 18h ago
+👁️ 96K • 👍 5K • 💬 937 • ⏱️ 0:20 • 19h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 2,551 • ❤️ 3,372 • 3h ago
+⬇️ 2,551 • ❤️ 3,372 • 4h ago
 
 ---
 
@@ -447,7 +447,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 0 • ❤️ 476 • 2h ago
+⬇️ 0 • ❤️ 476 • 3h ago
 
 ---
 
@@ -656,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 12h ago
+⭐ 14.2k • 🔱 1.7k • 13h ago
 
 ---
 
@@ -676,7 +676,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.8k • 🔱 622 • 6h ago
+⭐ 3.8k • 🔱 622 • 7h ago
 
 ---
 
@@ -706,7 +706,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.0k • 🔱 362 • 35m ago
+⭐ 3.0k • 🔱 362 • 1h ago
 
 ---
 
@@ -716,7 +716,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.5k • 🔱 142 • 1d ago
+⭐ 2.5k • 🔱 142 • 2d ago
 
 ---
 
@@ -726,7 +726,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.2k • 🔱 108 • 8h ago
+⭐ 2.2k • 🔱 108 • 9h ago
 
 ---
 
@@ -736,7 +736,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 267 • 1h ago
+⭐ 2.1k • 🔱 267 • 2h ago
 
 ---
 
