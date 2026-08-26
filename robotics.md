@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T07:46:22.654494+00:00'
+updated: '2026-08-26T08:43:15.750298+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 07:46 UTC  
+**Last Updated:** August 26, 2026 at 08:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ This article show how a robot can be trained purely on monocular video (from vid
 
 Just sharing some personal thoughts from the perspective of a casual audience. I just came back from WRC2026 this weekend, and felt things are getting more practical this year. More robots were doing actual work, tidying rooms, making coffee, retail, warehouse tasks, long-horizon manipulation, mostly with VLA or world models, which are increasingly driving hardware. Kind of happy to see some robots getting stuck and making mistakes😂 (that means luckily I didn't meet teleoperated demos) And robots can actually reason the situation and adjust strategy. https://preview.redd.it/y5aghdb93alh1.jpg?width=1343&format=pjpg&auto=webp&s=5cf1f2f34694ce49f56068e51d8ecfda3850a156 The other big theme was data. Physical world data collection seems incredibly hot. UMI, ego-centric data and teleoperation. If robots are going to generalize, real-world data is clearly becoming as important as the hardware. Still, most practical demos feel closer to “it works” than “it works reliably at scale.” Like dexterous hands can have 1500+ BOM line items, manufacturing consistency is a huge challenge. But much better, compared with robots just dancing on stage. https://reddit.com/link/1vwwatz/video/iej5848j3alh1/player I spent most of my time checking out some of less-known players and emerging startups, such as: SynapX: One of the few EMG wristbands that can be demoed live, and world-model-driven arm for tasks like folding clothes; Galaxea: visitors order on-site, and robot autonomously identify and pick items; generalized across SKUs without requiring category-specific adaptation; Morphi Robot: world model + VLA mixed architecture, empowering 15min long-duration and complete tasks; AgileX Robotics: saw its robot arms being used by several model companies on site, they also provide 1-to-n teleoperation + ego data collection; Dexforce: world model + humanoid, making coffee and more However, the industry is heavily siloed. Companies are building their own hardware and defining their own data. When will we finally see some standardization, and convergence? Human fall flat And yes, there was still a lot of weird stuff😂 Some humanoids fell down and couldn’t get back up, while staff desperately tried to figure out what went wrong. But honestly, I'm glad to see the debugging. If anything, it actually gave me more confidence.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 16h ago
+NVIDIA Newsroom • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 16h ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 7h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 7h ago
 
 As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -144,14 +144,6 @@ BBC • 1d ago
 
 ---
 
-**[What Is Tencent Holdings (SEHK:700) Looking For In Humanoid Robotics?](https://finance.yahoo.com/technology/ai/articles/tencent-holdings-sehk-700-looking-070514779.html)**
-
-Tencent Holdings (SEHK:700) has joined Alibaba as a lead investor in Xpeng's humanoid robotics spin out Dogotix, backing a US$900 million funding round. The deal marks Tencent's entry into a standalone humanoid robotics venture outside its existing software, platform and cloud operations. Tencent's move highlights growing interest from large Chinese tech companies in AI enabled hardware and robotics projects. For readers who want to look beyond consumer platforms and explore listed...
-
-Yahoo Finance • 1d ago
-
----
-
 **[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
@@ -160,11 +152,19 @@ Business Insider • 1d ago
 
 ---
 
+**[Qualcomm Launches Comprehensive Robotics Investment Initiative in Japan, Anchored by New Qualcomm Japan Robotics Center](https://www.qualcomm.com/news/releases/2026/08/qualcomm-launches-comprehensive-robotics-investment-initiative-i)**
+
+Qualcomm has launched a robotics investment initiative in Japan, anchored by the new Qualcomm Japan Robotics Center. Working with leading robotics, automation, research, and technology organizations, the initiative aims to advance an open physical AI ecosystem through innovation, ecosystem development, commercialization, and deployment, helping accelerate next-generation robotics solutions in Japan and globally.
+
+Qualcomm • 1d ago
+
+---
+
 **[Somnia Lab Trains Intimacy Robots with Motion-Capture Poses](https://x.com/i/trending/2092257575261901104)**
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 17h ago
+x.com • 18h ago
 
 ---
 
@@ -172,19 +172,21 @@ x.com • 17h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 21h ago
+IEEE Spectrum • 22h ago
+
+---
+
+**[EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says](https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-134711860.html)**
+
+When investors think about Tesla Inc‘s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says. “It is their manufacturing competency and resources,” Kang told Benzinga in an email. Tesla’s Manufacturing Scale Could Become Its Biggest Moat Kang’s thesis stands in contrast to t
+
+Yahoo Finance • 18h ago
 
 ---
 
 **[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
 
-WSJ • 18h ago
-
----
-
-**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
-
-Axios • 13h ago
+WSJ • 19h ago
 
 ---
 
