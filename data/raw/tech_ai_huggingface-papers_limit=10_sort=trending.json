@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 94,
+      "upvotes": 95,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 7304,
+      "github_stars": 7805,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 176,
+      "upvotes": 177,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
@@ -58,6 +58,25 @@
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 125,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 100489,
+      "project_page": null
+    },
+    {
       "id": "2608.23552",
       "title": "Prime Agent: A Self-Improving RLM Harness",
       "authors": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. (11 authors)",
@@ -75,25 +94,6 @@
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
       "github_stars": 18415,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
-    },
-    {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 125,
-      "num_comments": 6,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 100115,
-      "project_page": null
     },
     {
       "id": "2608.20335",
@@ -153,25 +153,6 @@
       "project_page": "https://llm-as-a-verifier.com/"
     },
     {
-      "id": "2510.22200",
-      "title": "LongCat-Video Technical Report",
-      "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
-      "organization_name": "meituan-longcat",
-      "organization_fullname": "LongCat",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68a2a29ab9d4c5698e02c747/CDCAx7X7rXDt7xjI-DoxG.png",
-      "summary": "Video generation is a critical pathway toward world models, with efficient\nlong video inference as a key capability. Toward this end, we introduce\nLongCat-Video, a foundational video generation model with 13.6B parameters,\ndelivering strong performance across multiple video generation tasks. It\nparticularly excels in efficient and high-quality long video generation,\nrepresenting our first step toward world models. Key features include: Unified\narchitecture for multiple tasks: Built on the Diffusion Transformer (DiT)\nframework, LongCat-Video supports Text-to-Video, Image-to-Video, and\nVideo-Continuation tasks with a single model; Long video generation:\nPretraining on Video-Continuation tasks enables LongCat-Video to maintain high\nquality and temporal coherence in the generation of minutes-long videos;\nEfficient inference: LongCat-Video generates 720p, 30fps videos within minutes\nby employing a coarse-to-fine generation strategy along both the temporal and\nspatial axes. Block Sparse Attention further enhances efficiency, particularly\nat high resolutions; Strong performance with multi-reward RLHF: Multi-reward\nRLHF training enables LongCat-Video to achieve performance on par with the\nlatest closed-source and leading open-source models. Code and model weights are\npublicly available to accelerate progress in the field.",
-      "ai_summary": "LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.",
-      "hf_url": "https://huggingface.co/papers/2510.22200",
-      "arxiv_url": "https://arxiv.org/abs/2510.22200",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
-      "upvotes": 40,
-      "num_comments": 5,
-      "published_at": "2025-10-25T03:41:02.000Z",
-      "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-      "github_stars": 7644,
-      "project_page": null
-    },
-    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/opendevin/opendevin",
       "github_stars": 85095,
       "project_page": null
+    },
+    {
+      "id": "2510.22200",
+      "title": "LongCat-Video Technical Report",
+      "authors": "Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)",
+      "organization_name": "meituan-longcat",
+      "organization_fullname": "LongCat",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68a2a29ab9d4c5698e02c747/CDCAx7X7rXDt7xjI-DoxG.png",
+      "summary": "Video generation is a critical pathway toward world models, with efficient\nlong video inference as a key capability. Toward this end, we introduce\nLongCat-Video, a foundational video generation model with 13.6B parameters,\ndelivering strong performance across multiple video generation tasks. It\nparticularly excels in efficient and high-quality long video generation,\nrepresenting our first step toward world models. Key features include: Unified\narchitecture for multiple tasks: Built on the Diffusion Transformer (DiT)\nframework, LongCat-Video supports Text-to-Video, Image-to-Video, and\nVideo-Continuation tasks with a single model; Long video generation:\nPretraining on Video-Continuation tasks enables LongCat-Video to maintain high\nquality and temporal coherence in the generation of minutes-long videos;\nEfficient inference: LongCat-Video generates 720p, 30fps videos within minutes\nby employing a coarse-to-fine generation strategy along both the temporal and\nspatial axes. Block Sparse Attention further enhances efficiency, particularly\nat high resolutions; Strong performance with multi-reward RLHF: Multi-reward\nRLHF training enables LongCat-Video to achieve performance on par with the\nlatest closed-source and leading open-source models. Code and model weights are\npublicly available to accelerate progress in the field.",
+      "ai_summary": "LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.",
+      "hf_url": "https://huggingface.co/papers/2510.22200",
+      "arxiv_url": "https://arxiv.org/abs/2510.22200",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22200.png",
+      "upvotes": 40,
+      "num_comments": 5,
+      "published_at": "2025-10-25T03:41:02.000Z",
+      "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
+      "github_stars": 7654,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-26T05:34:17.157022+00:00"
+  "fetched_at": "2026-08-26T07:46:19.975233+00:00"
 }
