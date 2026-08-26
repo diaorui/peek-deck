@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "Using MyselfGPT to code",
-      "author": "create-third-places",
-      "url": "https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/",
-      "published": 1787748935.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2018ve been using this model called MyselfGPT to code, and it\u2019s been a fantastic experience. Has anyone else used it?"
-    },
-    {
       "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
       "author": "Mysterious_Sign_9501",
       "url": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
@@ -44,6 +33,28 @@
       "site_name": null,
       "favicon": null,
       "description": "Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where \"who committed to what\" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo\u2019s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet."
+    },
+    {
+      "title": "[Open-Source] I need your worst edge cases to stress-test GenOS, my new AI agent orchestrator.",
+      "author": "MonokoEloba",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyxoes/opensource_i_need_your_worst_edge_cases_to/",
+      "published": 1787752210.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I\u2019m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of \"Hello World\" territory. That\u2019s where you come in: what are the real, testable problems you run into when building or using AI agents? I\u2019m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I\u2019ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback"
+    },
+    {
+      "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/",
+      "published": 1787752196.0,
+      "thumbnail": "https://external-preview.redd.it/CJPVpsjq7LvampbsS0xEtmVLMlk5UBeAy6Kq_LSYfyI.jpeg?width=640&crop=smart&auto=webp&s=05c6219eac1e1668ce87662dcfa8f0d089f022d7",
+      "external_url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Truck Driver Builds AI News Aggregator",
@@ -79,6 +90,17 @@
       "description": "What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?"
     },
     {
+      "title": "Using MyselfGPT to code",
+      "author": "create-third-places",
+      "url": "https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/",
+      "published": 1787748935.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2018ve been using this model called MyselfGPT to code, and it\u2019s been a fantastic experience. Has anyone else used it?"
+    },
+    {
       "title": "VSArena: the hosted harness for public ELO is live \u2014 submit a policy, watch it stack cubes, get scored",
       "author": "NovaCoding",
       "url": "https://www.reddit.com/r/artificial/comments/1vyw1en/vsarena_the_hosted_harness_for_public_elo_is_live/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Update on the project I've been sharing progress on \u2014 the piece that was missing is done: the hosted harness now actually writes public ELO. Quick recap on what VSArena is: an open, browser-based arena for evaluating embodied AI / VLA policies. One task on purpose \u2014 a 4-DOF arm stacking three cubes \u2014 because if people won't run this, they won't run a bigger suite. Physics runs client-side in Studio (Rapier/WASM, React Three Fiber, 60fps) for watching/teleop, but that's spectator-only \u2014 it never writes to the board. Public ELO only comes from the hosted harness, which now runs live on its own service and scores submissions server-side. The VLA track gives a policy only a 128x128 camera + a language instruction \u2014 no privileged cube poses. Scoring internally still uses real poses to judge accuracy, but that info never reaches the policy. You can: - Watch the live demo: https://vsarena.vercel.app/simulation - Check the leaderboard: https://vsarena.vercel.app/leaderboard - Submit your own policy in under 10 minutes: https://github.com/NovaCoding-G/VSArena (docs/sdk.md has the walkthrough) Solo project, still early \u2014 one task, a couple baseline policies so far. Repo is MIT, protocol writeup is in docs/harness.md if you want to see exactly how scoring works before trusting it. Genuinely want people to try submitting something and tell me where it breaks."
-    },
-    {
-      "title": "Finally, a proper UI for skills",
-      "author": "Acceptable-Object390",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyuv28/finally_a_proper_ui_for_skills/",
-      "published": 1787745065.0,
-      "thumbnail": "https://preview.redd.it/wil6sbvrjplh1.png?width=640&crop=smart&auto=webp&s=203e1b8c96eab66dcbd671a6354cd99c38bbc101",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Using skills in Row-Bot is super easy: - Auto skill discovery based on your prompt - Get visual skill suggestions as you type the prompt - Skills UI to show active/suggested/available skills - Same skills UI in the mobile app. Yes we have a full mobile app - Slash(/) command for skills that opens a visual picker"
-    },
-    {
-      "title": "[ Removed by Reddit ]",
-      "author": "BriefHillEncounter",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyt6jq/removed_by_reddit/",
-      "published": 1787739927.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "[ Removed by Reddit on account of violating the content policy. ]"
     }
   ],
-  "fetched_at": "2026-08-26T13:07:11.978061+00:00"
+  "fetched_at": "2026-08-26T14:11:10.310762+00:00"
 }

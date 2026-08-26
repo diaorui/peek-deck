@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T13:07:37.586366+00:00'
+updated: '2026-08-26T14:11:39.606386+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 13:07 UTC  
+**Last Updated:** August 26, 2026 at 14:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ I have bought this wave share driver with esp32, for st3215 motor actuation. I w
 
 I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
 
-2d ago
+3d ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 22h ago
+NVIDIA Newsroom • 23h ago
 
 ---
 
@@ -124,21 +124,21 @@ NVIDIA Newsroom • 22h ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 12h ago
-
----
-
-**[World’s Largest Trial of Robotic Knee Surgery Delivers a Surprising Result](https://scitechdaily.com/worlds-largest-trial-of-robotic-knee-surgery-delivers-a-surprising-result/)**
-
-Robot-assisted knee replacement surgery is more precise than surgery performed without robotic assistance, but it does not currently improve patient outcomes.
-
-SciTechDaily • 1h ago
+TechCrunch • 13h ago
 
 ---
 
 **[ScaFi: A robot that grows like a fish, not a machine—from 2 feet to nearly 10](https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html)**
 
-Tech Xplore • 7m ago
+Tech Xplore • 1h ago
+
+---
+
+**[Robot brain builders are pushing out of their GPT-2 era](https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/)**
+
+Robot bodies are waiting for their AI brains to catch up.
+
+TechCrunch • 41m ago
 
 ---
 
@@ -150,27 +150,27 @@ BBC • 1d ago
 
 ---
 
+**[Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.](https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html)**
+
+As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
+
+CNBC • 7h ago
+
+---
+
 **[Report: Amazon eyes ‘fully automated’ delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/)**
 
 Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
 
-GeekWire • 20h ago
+GeekWire • 21h ago
 
 ---
 
-**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
+**[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
 
-BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
+Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-CNBC • 1d ago
-
----
-
-**[3 Key Takeaways From Bill Gates' Stark Warning About AI and Jobs](https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8)**
-
-Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract.
-
-Business Insider • 4h ago
+Business Insider • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Watch live coverage of the final day of the Olympics-like World Humanoid Robot G
 
 📺 Associated Press
 
-👁️ 19K • 👍 262 • 💬 11 • ⏱️ 2:47:51 • 4h ago
+👁️ 19K • 👍 262 • 💬 11 • ⏱️ 2:47:51 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ Chinese robot makers showed off robots sorting packages, arranging flowers and h
 
 📺 New York Post
 
-👁️ 56K • 👍 890 • 💬 382 • ⏱️ 4:07 • 5d ago
+👁️ 56K • 👍 890 • 💬 382 • ⏱️ 4:07 • 6d ago
 
 ---
 

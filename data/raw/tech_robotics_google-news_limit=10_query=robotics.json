@@ -25,16 +25,6 @@
       "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
     },
     {
-      "headline": "World\u2019s Largest Trial of Robotic Knee Surgery Delivers a Surprising Result",
-      "source": "SciTechDaily",
-      "source_url": "https://scitechdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2QyZEpRMkhONkVSRDYtaHhrOGFpcDRhTU5aM1UxajJkRnVlUTktLVRMV21sRlB0eFVlSDYxcjg4enI3bzBDUVhSLW1ONW1SN1l6SU5xN0NUSzB1ckJEdDlGRS1kdGZzNjZLbngzSXBQMFdmWHUwUTJDSXdSb1ZmOVFhUGdYQU1QLURXZ0xHRU1fTmpVXzd5XzlYR0d5bG5o?oc=5",
-      "pub_date": 1787743630.0,
-      "article_url": "https://scitechdaily.com/worlds-largest-trial-of-robotic-knee-surgery-delivers-a-surprising-result/",
-      "image": null,
-      "description": "Robot-assisted knee replacement surgery is more precise than surgery performed without robotic assistance, but it does not currently improve patient outcomes."
-    },
-    {
       "headline": "ScaFi: A robot that grows like a fish, not a machine\u2014from 2 feet to nearly 10",
       "source": "Tech Xplore",
       "source_url": "https://techxplore.com",
@@ -43,6 +33,16 @@
       "article_url": "https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Robot brain builders are pushing out of their GPT-2 era",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGxjU25yTnJSQzZDdlB0ZVdBOUo3NkkzU1ppblRhUmpZYTdmVW93Z2EzbzRORHVZYWJ6RUppTVBUZGwzbzZ0cUVHTFVzb2lCMVp0ME1CaEsyc0h0dnA4NzA5ZW84UHVnX2prdnczNFNXakJ2cHpkSkV3d3FMZThFczFrRWVqbmpvNjZPQUM0b0NIV3Zq?oc=5",
+      "pub_date": 1787751000.0,
+      "article_url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "description": "Robot bodies are waiting for their AI brains to catch up."
     },
     {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
@@ -55,6 +55,16 @@
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
     },
     {
+      "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpldERNcWQyTnJ5SzgxaUJMdWcxREdNRmtDNm5vWXNwZWVfMS15SWhINzg5eTlJRnBFVUtoOGViUTZQVFhNSDBVbndGRWFiTmxjTFowWDJtdmFrVHFiT0hzbDFqNXBQaUtTWmtwLVAxZTJWVjhJZUdDdnNvdmgtcGRIeDR2VDVyRkHSAY8BQVVfeXFMTzlCeDRLZ241c2ZQaDd6a2phNzNQelk2UzUzMWNXZDZ0NExuci1LOWRhUTY2WlhmaFFvekl2dks3YkF0djY3cVk2S0lBR2lMb1BlWjZoUDdWRGVYbVJuekk3R21COE93eDlzVkFyRkI1NmFzRkdyblFFb3NxZTJvRGpGTHhQMUNCNDlidnhRQ0E?oc=5",
+      "pub_date": 1787725845.0,
+      "article_url": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354283-1787711877050-60089527-216a-4aec-b652-9e04dec5afd7.jpg?v=1787712197&w=1920&h=1080",
+      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers."
+    },
+    {
       "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
       "source": "GeekWire",
       "source_url": "https://www.geekwire.com",
@@ -65,24 +75,14 @@
       "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
     },
     {
-      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
-      "pub_date": 1787649965.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
-    },
-    {
-      "headline": "3 Key Takeaways From Bill Gates' Stark Warning About AI and Jobs",
+      "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEVNMnBRNWJXUTFkOWZQVWFWdWQxRThzYjBhVTkzOUx4MmdITUFDZTR5VGJyQ2h1cFlGS0NTUnNrZ3pRX3dXQkdQZEpPOFdZaVItNVh6NEdnaFVMR0dRdXo5UDB4YV9KWFdmaWc0OGtEXzQwenJpRk9ycG5KNlJ5SFpnR0M2QXEtbHZKajVBdDlFZVU5dTVPVkVBQUQ?oc=5",
-      "pub_date": 1787735151.0,
-      "article_url": "https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8",
-      "image": "https://i.insider.com/6a8ea43645e6f385a5168ed6?width=1200&format=jpeg",
-      "description": "Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract."
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHFQNU1JNjdXRXduNVlRNmV2M09OdFBOa3V0Vm5FNHV5bHhpUVJYV2IwQm5vTE9NWWYwMEI0X0tYNXoza0RpcTdzdHlhSGU1SDdhYWhlRlVXbFV6aGVYT3A0UUtHN2k3SEpZWWZmcnZVbXlaQUpwcDZEc0NVSTlWRFN4RWZpOW5rb0ZZM01xeF9fQVo0NkRfUEFvNzlJWEtNb0hSTWVLOHVBOHZVcHJF?oc=5",
+      "pub_date": 1787630520.0,
+      "article_url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
+      "image": "https://i.insider.com/6a8ce6d34569a4ec219f9bf8?width=1200&format=jpeg",
+      "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
     },
     {
       "headline": "What Is Tencent Holdings (SEHK:700) Looking For In Humanoid Robotics?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T13:07:35.023780+00:00"
+  "fetched_at": "2026-08-26T14:11:25.280795+00:00"
 }

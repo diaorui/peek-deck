@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T13:07:37.570746+00:00'
+updated: '2026-08-26T14:11:39.589818+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 13:07 UTC  
+**Last Updated:** August 26, 2026 at 14:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,13 @@ AI news, discussions, and developments
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
 
-14h ago
+15h ago
 
 ---
 
 **[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/)**
 
-🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 28m ago
-
----
-
-**[Using MyselfGPT to code](https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/)**
-
-I‘ve been using this model called MyselfGPT to code, and it’s been a fantastic experience. Has anyone else used it?
-
-12m ago
+🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 1h ago
 
 ---
 
@@ -63,7 +55,21 @@ I‘ve been using this model called MyselfGPT to code, and it’s been a fantast
 
 Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where "who committed to what" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo’s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet.
 
-3h ago
+4h ago
+
+---
+
+**[[Open-Source] I need your worst edge cases to stress-test GenOS, my new AI agent orchestrator.](https://www.reddit.com/r/artificial/comments/1vyxoes/opensource_i_need_your_worst_edge_cases_to/)**
+
+Hey everyone, I’m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of "Hello World" territory. That’s where you come in: what are the real, testable problems you run into when building or using AI agents? I’m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I’ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback
+
+21m ago
+
+---
+
+**[Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share) • 21m ago
 
 ---
 
@@ -71,7 +77,7 @@ Been testing a few AI transcription setups for work over the past couple months 
 
 Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look — no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)
 
-15h ago
+16h ago
 
 ---
 
@@ -85,7 +91,15 @@ Truck driver here, zero coding background. I Built an AI news aggregator over a 
 
 What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
 
-3m ago
+1h ago
+
+---
+
+**[Using MyselfGPT to code](https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/)**
+
+I‘ve been using this model called MyselfGPT to code, and it’s been a fantastic experience. Has anyone else used it?
+
+1h ago
 
 ---
 
@@ -93,23 +107,7 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 Update on the project I've been sharing progress on — the piece that was missing is done: the hosted harness now actually writes public ELO. Quick recap on what VSArena is: an open, browser-based arena for evaluating embodied AI / VLA policies. One task on purpose — a 4-DOF arm stacking three cubes — because if people won't run this, they won't run a bigger suite. Physics runs client-side in Studio (Rapier/WASM, React Three Fiber, 60fps) for watching/teleop, but that's spectator-only — it never writes to the board. Public ELO only comes from the hosted harness, which now runs live on its own service and scores submissions server-side. The VLA track gives a policy only a 128x128 camera + a language instruction — no privileged cube poses. Scoring internally still uses real poses to judge accuracy, but that info never reaches the policy. You can: - Watch the live demo: https://vsarena.vercel.app/simulation - Check the leaderboard: https://vsarena.vercel.app/leaderboard - Submit your own policy in under 10 minutes: https://github.com/NovaCoding-G/VSArena (docs/sdk.md has the walkthrough) Solo project, still early — one task, a couple baseline policies so far. Repo is MIT, protocol writeup is in docs/harness.md if you want to see exactly how scoring works before trusting it. Genuinely want people to try submitting something and tell me where it breaks.
 
-23m ago
-
----
-
-**[Finally, a proper UI for skills](https://www.reddit.com/r/artificial/comments/1vyuv28/finally_a_proper_ui_for_skills/)**
-
-Using skills in Row-Bot is super easy: - Auto skill discovery based on your prompt - Get visual skill suggestions as you type the prompt - Skills UI to show active/suggested/available skills - Same skills UI in the mobile app. Yes we have a full mobile app - Slash(/) command for skills that opens a visual picker
-
 1h ago
-
----
-
-**[[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1vyt6jq/removed_by_reddit/)**
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-2h ago
 
 ---
 
@@ -119,71 +117,71 @@ Using skills in Row-Bot is super easy: - Auto skill discovery based on your prom
 
 **[Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
-**[Amazon service Bezos once called 'artificial artificial intelligence' is shutting down](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html)**
+**[Exclusive: Google targets AI sticker shock with suite of new tools](https://www.axios.com/2026/08/26/exclusive-google-targets-ai-sticker-shock-with-new-tools)**
 
-Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.
-
-CNBC • 12h ago
+Axios • 39m ago
 
 ---
 
-**[Alibaba Releases Smaller, Cost-Effective Qwen AI Model](https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model)**
+**[OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground](https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html)**
 
-Bloomberg.com • 31m ago
+OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.
 
----
-
-**[Why Most Brands Vanish On At Least One AI Platform](https://www.forbes.com/sites/quora/2026/08/26/why-most-brands-vanish-on-at-least-one-ai-platform/)**
-
-Semrush analyzed 126 million prompts across ChatGPT, Gemini, AI Mode and AI Overviews. Almost every brand had a gap on at least one.
-
-Forbes • 15m ago
-
----
-
-**[Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google](https://qz.com/moonshot-ai-kimi-k3-revenue-sharing-microsoft-amazon-google-082626)**
-
-The Beijing-based startup wants up to 30% of revenue from Kimi K3-related services on Azure, AWS, and Google Cloud, unnamed sources say
-
-qz.com • 49m ago
-
----
-
-**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
-
-WSJ • 12h ago
-
----
-
-**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)**
-
-Reuters • 3h ago
-
----
-
-**[Nvidia's Q2 earnings to test resurgent AI trade](https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html)**
-
-Nvidia will report its Q2 earnings after the bell on Aug. 26.
-
-Yahoo Finance • 16h ago
+CNBC • 44m ago
 
 ---
 
 **[Nvidia Earnings Give Investors a Barometer for State of AI Trade](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[OpenAI Jalapeño chip beats Nvidia GB300 in benchmark tests](https://qz.com/openai-jalapeno-chip-nvidia-benchmark-results-082626)**
+**[Nvidia earnings: Wall Street hopes the chip titan can keep carrying the AI trade, with the stock up 14% in 2026](https://www.businessinsider.com/nvidia-earnings-report-nvda-stock-ai-chips-jensen-huang-2026-8)**
 
-The custom inference chip, built with Broadcom, led on tokens per user and throughput per kilowatt in third-party tests
+Investors wants clarity on the strength of AI demand, with NVDA stock up 14% YTD. The call with analysts will begin at 5 p.m. ET.
 
-qz.com • 24m ago
+Business Insider • 41m ago
+
+---
+
+**[AI billionaires could drive African aid surge](https://www.yahoo.com/news/world/articles/ai-billionaires-could-drive-african-133308944.html)**
+
+AI firms’ record-breaking IPOs could generate a pool of philanthropic wealth potentially worth up to $100 billion a year.
+
+Yahoo • 38m ago
+
+---
+
+**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
+
+WSJ • 13h ago
+
+---
+
+**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)**
+
+Reuters • 4h ago
+
+---
+
+**[Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)**
+
+Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
+
+Apple • 10h ago
+
+---
+
+**[Billionaire Stanley Druckenmiller’s WSJ Op-Ed Criticizing Bessent Was Written With AI - News of the United States](https://www.notus.org/media/stanley-druckenmillers-wsj-op-ed-bessent-ai)**
+
+“I write everything using AI now,” Druckenmiller, who questioned the treasury secretary’s bond market interventions, said.
+
+News of the United States - NOTUS • 16h ago
 
 ---
 
@@ -195,7 +193,7 @@ qz.com • 24m ago
 
 AI lab’s Fable 5 has met with sluggish demand from corporate clients
 
-⬆️ 813 • 💬 698 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+⬆️ 813 • 💬 700 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 
 ---
 
@@ -223,17 +221,17 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 ---
 
+**[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
+
+⬆️ 274 • 💬 107 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+
+---
+
 **[How much of HN is AI?](https://news.ycombinator.com/item?id=49435728)**
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 270 • 💬 329 • 21h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
-
----
-
-**[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
-
-⬆️ 215 • 💬 89 • 3h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+⬆️ 271 • 💬 331 • 22h ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -253,19 +251,19 @@ The blood-based biomarker test is based on technology developed at WashU Medicin
 
 ---
 
+**[Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://news.ycombinator.com/item?id=49447600)**
+
+In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
+
+⬆️ 166 • 💬 25 • 2h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+
+---
+
 **[Show HN: I made a Raspberry with Qwen my local car AI](https://news.ycombinator.com/item?id=49435675)**
 
 Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
 
-⬆️ 143 • 💬 45 • 21h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
-
----
-
-**[AI is hitting entry-level jobs hardest, Stanford study finds](https://news.ycombinator.com/item?id=49435147)**
-
-Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
-
-⬆️ 142 • 💬 166 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 143 • 💬 45 • 22h ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
 
 ---
 
@@ -279,7 +277,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 11K • 👍 549 • 💬 159 • ⏱️ 17:41 • 12h ago
+👁️ 11K • 👍 549 • 💬 159 • ⏱️ 17:41 • 13h ago
 
 ---
 
@@ -319,7 +317,7 @@ shorts #mystery #ai #nestle #ecosystem #unknownfacts.
 
 📺 ​The Mystery Hub
 
-👁️ 27K • 💬 100 • ⏱️ 0:07 • 16h ago
+👁️ 27K • 💬 100 • ⏱️ 0:07 • 17h ago
 
 ---
 
@@ -385,7 +383,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 2,551 • ❤️ 3,045 • 37m ago
+⬇️ 2,551 • ❤️ 3,045 • 1h ago
 
 ---
 
@@ -469,7 +467,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 894,094 • ❤️ 1,823 • 8d ago
+⬇️ 894,094 • ❤️ 1,823 • 9d ago
 
 ---
 
@@ -655,7 +653,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 9h ago
+⭐ 14.2k • 🔱 1.7k • 10h ago
 
 ---
 
@@ -675,7 +673,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.7k • 🔱 622 • 3h ago
+⭐ 3.7k • 🔱 622 • 4h ago
 
 ---
 
@@ -685,7 +683,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 376 • 22h ago
+⭐ 3.1k • 🔱 376 • 23h ago
 
 ---
 
@@ -705,7 +703,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.0k • 🔱 360 • 1h ago
+⭐ 3.0k • 🔱 360 • 2h ago
 
 ---
 
@@ -725,7 +723,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.2k • 🔱 72 • 5h ago
+⭐ 2.2k • 🔱 72 • 6h ago
 
 ---
 
@@ -735,7 +733,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 264 • 3h ago
+⭐ 2.1k • 🔱 264 • 4h ago
 
 ---
 
