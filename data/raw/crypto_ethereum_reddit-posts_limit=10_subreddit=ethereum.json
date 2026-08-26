@@ -2,10 +2,10 @@
   "subreddit": "ethereum",
   "posts": [
     {
-      "title": "Daily General Discussion August 25, 2026",
+      "title": "Daily General Discussion August 26, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vxqazy/daily_general_discussion_august_25_2026/",
-      "published": 1787634076.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1vynfyc/daily_general_discussion_august_26_2026/",
+      "published": 1787720470.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -13,10 +13,21 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Daily General Discussion August 24, 2026",
+      "title": "Glamsterdam Repricing Impact for Smart Contract Developers",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1vyia30/glamsterdam_repricing_impact_for_smart_contract/",
+      "published": 1787706006.0,
+      "thumbnail": "https://external-preview.redd.it/Q97mt0WIMih-z-EKSckDTauT-C0XkvSptylgaab_PNU.png?width=640&crop=smart&auto=webp&s=b38683f2cf7f26a53637592aaea7a2802d704df3",
+      "external_url": "https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing",
+      "site_name": "Ethereum Foundation Blog",
+      "favicon": "https://blog.ethereum.org/images/favicon.png",
+      "description": "The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts."
+    },
+    {
+      "title": "Daily General Discussion August 25, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vwtakt/daily_general_discussion_august_24_2026/",
-      "published": 1787547689.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1vxqazy/daily_general_discussion_august_25_2026/",
+      "published": 1787634076.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -33,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20"
+    },
+    {
+      "title": "Daily General Discussion August 24, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1vwtakt/daily_general_discussion_august_24_2026/",
+      "published": 1787547689.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
       "title": "\ud83d\udea8Every Ledger running the Ethereum app is vulnerable to signature substitution",
@@ -88,29 +110,7 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Stablecoins need Visa more than Visa needs stablecoins",
-      "author": "Frosty_Actuator_5047",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vug531/stablecoins_need_visa_more_than_visa_needs/",
-      "published": 1787318262.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Probably unpopular here but crypto payments might be too focused on replacing existing payment rails instead of using them. Stablecoins already move globally and settle fast. The problem is spending them. Most merchants don't care about USDT or USDC. They just want to get paid. Maybe mass adoption isn't about convincing every merchant to accept crypto. Maybe it's about making crypto work wherever people already pay. Necessary bridge or against the whole point of crypto?"
-    },
-    {
-      "title": "Daily General Discussion August 21, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vu6rb8/daily_general_discussion_august_21_2026/",
-      "published": 1787288475.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     }
   ],
-  "fetched_at": "2026-08-25T20:28:36.511993+00:00"
+  "fetched_at": "2026-08-26T09:41:02.217071+00:00"
 }
