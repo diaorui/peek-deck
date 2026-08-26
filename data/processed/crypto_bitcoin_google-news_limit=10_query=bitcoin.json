@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "AI build out: AI gold rush draws crypto firms away from Bitcoin",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yYWtGUnpGOGhrOFpvX2E3N3lFQW9OZWVaNU50V1hmY3B4MVRVZVhNd1ZhVkR2Smd3S0k5ZUhrdUhRQ3pfWFZXTTNxbUVKTkNtMVhKd1lTNlhrUQ?oc=5",
-      "pub_date": 1787699462.0,
-      "article_url": "https://www.bbc.com/news/articles/c07ler8x9kpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
-      "description": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines."
-    },
-    {
       "headline": "Bitcoin has just wiped out three months of losses in 1 week",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,14 +15,34 @@
       "description": "The bitcoin rally continues."
     },
     {
-      "headline": "Arthur Hayes Says Bitcoin Can Hit $250,000 Without A Credit Crisis \u2013 But Warns Of 75% Crash",
+      "headline": "AI build out: AI gold rush draws crypto firms away from Bitcoin",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yYWtGUnpGOGhrOFpvX2E3N3lFQW9OZWVaNU50V1hmY3B4MVRVZVhNd1ZhVkR2Smd3S0k5ZUhrdUhRQ3pfWFZXTTNxbUVKTkNtMVhKd1lTNlhrUQ?oc=5",
+      "pub_date": 1787699462.0,
+      "article_url": "https://www.bbc.com/news/articles/c07ler8x9kpo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
+      "description": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWZFQ3BMRUVEYnR6ZmRNYU05NDZlcHFBbkJWNUxxSkdYbUJFYjhWNzJxaFExVE5OR25EckctcmJEVGJJMENSR2VnLVpsWXJobFFzUXAzeU0xU194QmE4RHM4XzJaN0ZPSVBhRVZ5a0N4Ukw2LVVmeGlOeHcwQ1dJN2FvZk15VFYwR2F3NWJSbEN5ZUgxWXBCTGpR?oc=5",
-      "pub_date": 1787744690.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-bitcoin-hit-114450538.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d52cef48dd86304ac8b86fe6c47a626029ab01ed8668943d9a83018f84e17242/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F699d015ebeb09fdce1ce6219ef8128df",
-      "description": "AI took the marginal dollar, leaving Bitcoin behind,\u201d Hayes said, and expected the flow to reverse as liquidity is used to roll over AI debt."
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUFdVMXRRckpyUkhmSWpSM1lyZEVzZjJSNFpSV0lQYlM3T3EyYV9uU3RyLUpYLWxNNEtQc2FjM1lDU1NpcEhUUlJqRTZ0eWYwZ3ZnUzlURnlSV1RTb3JsVUl4QS0xSjFMT2NDR0x0WkZhemRBOTFMMHZFc29SX19JRUlkM3ppT1hTaUM3OW9HTHNuaHJuSnlERFFYUXI0Q0ZCaGM1WnEyRVBXSGtCQWZ6S2tJWXpIcUR4THVnYzJfRXpnc1hzU3FPazRrU3h4QXJrYmp4VnVUTGkta05tbzllcEs0d0R6RUhTaUhxMDFwUEFDajA0NFNtM0lVOC0wS0tQNGdRMFVReUFZQUdxM2VvN212ZXFLdw?oc=5",
+      "pub_date": 1787748174.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
+      "description": "Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET."
+    },
+    {
+      "headline": "$Bitcoin (BTC.CC)$",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01ZTN5eTV1UW5QY0hTUFM5UU82dzh3cW5BLWZiTy1CTW5HTVJoUUYzc1NtZFZETi1KVXhuNWUtdEZzb0F4REFRZk1RNG83YjVYakZicHZIaExJMlBJNEhSU3VoRzBsUGxHZGZvdkMycUlqY3ZWb2Yw?oc=5",
+      "pub_date": 1787748387.0,
+      "article_url": "https://www.moomoo.com/community/feed/bitcoin-btc-cc-117161878291237",
+      "image": "https://ussnsimg.moomoo.com/sns_client_feed/71887509/20260826/1787748386461-random4516-71887509-android-org.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "@DVWC  \u2070\u20707 2204 Views"
     },
     {
       "headline": "Bitcoin\u2019s Bessent Bounce Doesn\u2019t Tell the Full Story",
@@ -45,12 +55,32 @@
       "description": null
     },
     {
-      "headline": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "headline": "Gold & Bitcoin Rally Together as the Debasement Trade Returns",
+      "source": "ETF.com",
+      "source_url": "https://www.etf.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0sxT1JjZGpacEdSUnBtVlZrMDlGbURZVkpya0NDanhpY0pxMXpISlNxRS14V2k0WS1BbloyYXlMeW5hdTFNLW54Tk9vdzNDbURfd0x4UGhMTTFqYUc0R0FYTEg2TjB2X05DYmcwWUtGZHJHRk5SVzlsb1NMd2stdHRCc3doN2lQbUptaHVmQzlSY0hw?oc=5",
+      "pub_date": 1787700982.0,
+      "article_url": "https://www.etf.com/sections/features/gold-bitcoin-rally-together-debasement-trade-returns",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid 'debasement trade,' but cuts Strategy target to $350",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOU15aTBkZ2lUUHhRcGRxdjdsOGM0TUZWZEx3bTR1VnNYbEtSTEV2TGFZc09FdHJSeEh5SmdzcTI0WExydERlVWQ0V0lOWTRCMEhsdG1hTGVqbk9pU1Y5LWhsU2o5N3FGdTIyM0ZMRnlrUktSTlhrZUdLamw5d2tnczZKdWJSc0dyT3hpRDllclI3YndNSks0ZGwyWXByYl9HeVpsbld2N1RaeUxGZmU0cThqbG05VVBYY3NsVGpyaVVwdVFNSE5jQ1poOXRTZk1oNTVNM05SMGw1a1ZGYzFHemlRT0dvOG9pN2hjRERLdUQ?oc=5",
+      "pub_date": 1787739678.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778",
+      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-1200x675.jpg",
+      "description": "Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029."
+    },
+    {
+      "headline": "The 3 catalysts that could define bitcoin's next move: Crypto Daily",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGppTTZpN00xWi13S3R4TWFKZFJUSTJMaHNyUEJ0c2F4ZDdXRUtnbkhfWm9vRXU5SUxoNWZPS1B0WnZUODVKVW1wYW1fUlFvYjRjQ3VOM3JDcnRVeUtkd3NReGxPcDhoZExfV3E3OHFEVWhwV1F6Q2hOZzhyVmhtYnY2N0FlR2tvZThWRmtEUllhNDdvR2hVVVlVY2t6OVVmN1VmbEV2Z2YxcTcyUW1FZmhCZVlxLTAwN1ln?oc=5",
-      "pub_date": 1787717590.0,
-      "article_url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXZvSV9fSzFpMWwwVng3cUFGa0ZkQ3E5LWtxTlp1X3NIZ3kyY2ZKcmxxV3ZSaE1IX1dNb3hZSDlWVGRqSElGT3ZfU1dMUnY2RWxJSnJlR2VYQ1RfOUp1M2l2a3ZHa3VqX3JtbVc2cDNlNklVdkpfWnF5NWdlLVFmNFVpRVRKQ0NuY0ZtcU5WN1l4Y2d4ajhjV1NsZkQxaDhxTHc?oc=5",
+      "pub_date": 1787742153.0,
+      "article_url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
       "image": null,
       "description": null
     },
@@ -65,26 +95,6 @@
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for August 25, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbl9rOVdNQXN5WHJrTW1RNDl6MkVONUdGbHREYjNfNjMyZDJJS0hrX1dZcjBiWmdJSldvOU9sbGQxQlRBc1hpYzZ4RElWSkw4Q0gxQXlBRndOWDJKd2tZRS1LMWluck0?oc=5",
-      "pub_date": 1787659200.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-08-25-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Bitcoin-Aug-25.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid 'debasement trade,' but cuts Strategy target to $350",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOU15aTBkZ2lUUHhRcGRxdjdsOGM0TUZWZEx3bTR1VnNYbEtSTEV2TGFZc09FdHJSeEh5SmdzcTI0WExydERlVWQ0V0lOWTRCMEhsdG1hTGVqbk9pU1Y5LWhsU2o5N3FGdTIyM0ZMRnlrUktSTlhrZUdLamw5d2tnczZKdWJSc0dyT3hpRDllclI3YndNSks0ZGwyWXByYl9HeVpsbld2N1RaeUxGZmU0cThqbG05VVBYY3NsVGpyaVVwdVFNSE5jQ1poOXRTZk1oNTVNM05SMGw1a1ZGYzFHemlRT0dvOG9pN2hjRERLdUQ?oc=5",
-      "pub_date": 1787739678.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778",
-      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-1200x675.jpg",
-      "description": "Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029."
-    },
-    {
       "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
       "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
-    },
-    {
-      "headline": "Bitcoin is great (for systemic theft of aid money)",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iengtUWFDRndQVW54aTVNRDRQenZyNmJITmpZMi1lN3VoUTdhRGZ1bk1kVUtDSkZHcTl5clBjOFZMQWp4LXBlV0VKNGt3em42NVAyZGxyTF9HS1NjV3JBbDM3MFcyLXpRVFZsbTU0bmo?oc=5",
-      "pub_date": 1787558670.0,
-      "article_url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Finally, a killer use case"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T11:58:56.033549+00:00"
+  "fetched_at": "2026-08-26T13:07:35.427017+00:00"
 }
