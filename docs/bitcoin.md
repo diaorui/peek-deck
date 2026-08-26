@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T07:46:22.645074+00:00'
+updated: '2026-08-26T08:43:15.740524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 07:46 UTC  
+**Last Updated:** August 26, 2026 at 08:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,871.24
+### $78,993.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +8.0%  
-**30d:** +23.3%  
-**90d:** +7.3%  
-**1y:** -29.3%  
+**24h:** -0.3%  
+**7d:** +8.1%  
+**30d:** +23.5%  
+**90d:** +7.4%  
+**1y:** -29.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-14h ago
+15h ago
 
 ---
 
@@ -101,13 +101,13 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-12h ago
+13h ago
 
 ---
 
 **[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://x.com/saylor/status/2092277359034458361
 
 I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 its not going lower. buy in now
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ its not going lower. buy in now
 
 Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai
 
-54m ago
+1h ago
 
 ---
 
@@ -155,41 +155,35 @@ Been following the Coldcard fallout closely and this is the most interesting res
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
-**[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
+**[Bitcoin Reaches Three-Month High of $80,000 as Momentum Returns](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns)**
 
-WSJ • 16h ago
-
----
-
-**[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
-
-Bloomberg.com • 19h ago
+Bloomberg • 12h ago
 
 ---
 
-**[CNBC Daily Open: China in the crosshairs, Bitcoin is back and Dragon Ball Z diplomacy](https://www.cnbc.com/2026/08/25/cnbc-daily-open-china-bitcoin-dragon-ball-z.html)**
+**[Why Bitcoin Just Surged Back to $80,000, and What May Come Next](https://www.morningstar.com/alternative-investments/why-bitcoin-just-surged-back-80000-what-may-come-next)**
 
-New sanctions against Iran could stoke tensions between the U.S. and China, while risk appetite for Bitcoin returns.
+US debt worries, inflows into ETFs, and a weaker dollar have triggered bitcoin’s latest rebound.
 
-CNBC • 1d ago
-
----
-
-**[Current price of Bitcoin for August 25, 2026](https://fortune.com/article/price-of-bitcoin-08-25-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 14h ago
+Morningstar • 27m ago
 
 ---
 
 **[Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains](https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains)**
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[Current price of Bitcoin for Aug. 25, 2026](https://fortune.com/article/price-of-bitcoin-08-25-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 20h ago
 
 ---
 
@@ -198,6 +192,14 @@ CoinDesk • 3h ago
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 2d ago
 
 ---
 
@@ -215,11 +217,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+**[Wintermute: Bitcoin, XRP, Gold Benefited From 'Debasement Board' Last Week](https://www.tradingview.com/news/benzinga:4f9667d6a094b:0-wintermute-bitcoin-xrp-gold-benefited-from-debasement-board-last-week/)**
 
-Finally, a killer use case
+Crypto and gold surged together last week while equities fell, prompting quant trading firm Wintermute to call Bitcoin‘s (CRYPTO: BTC) best week since March 2024 “a debasement board.”Wintermute’s weekly market update on X broke down the split between assets outside the fiscal complex and those pric…
 
-Financial Times • 1d ago
+TradingView • 12h ago
 
 ---
 
@@ -245,7 +247,7 @@ Finally, a killer use case
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 4d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 5d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -261,7 +263,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 15h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 3 • 16h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -269,7 +271,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 20h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 21h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -293,7 +295,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 4 • 💬 3 • 10h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 4 • 💬 3 • 11h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -315,7 +317,7 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 1K • 💬 41 • ⏱️ 52:01 • 10h ago
+👁️ 27K • 👍 1K • 💬 41 • ⏱️ 52:01 • 11h ago
 
 ---
 
@@ -325,7 +327,7 @@ Bitcoin just crossed a critical moving average as trouble builds inside the worl
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 150 • ⏱️ 14:53 • 9h ago
+👁️ 15K • 👍 1K • 💬 150 • ⏱️ 14:53 • 10h ago
 
 ---
 
@@ -345,7 +347,7 @@ ProCap Financial Chairman and CEO Anthony Pompliano analyzes the recent Bitcoin 
 
 📺 Fox Business Clips
 
-👁️ 15K • 👍 293 • 💬 208 • ⏱️ 3:53 • 17h ago
+👁️ 15K • 👍 293 • 💬 208 • ⏱️ 3:53 • 18h ago
 
 ---
 
@@ -375,7 +377,7 @@ Bitcoin is printing relentless bull momentum while sidelining traders with no cl
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 1K • 💬 34 • ⏱️ 41:47 • 23h ago
+👁️ 21K • 👍 1K • 💬 34 • ⏱️ 41:47 • 1d ago
 
 ---
 
