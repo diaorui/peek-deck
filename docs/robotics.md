@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T15:59:50.291775+00:00'
+updated: '2026-08-26T16:53:40.277945+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 15:59 UTC  
+**Last Updated:** August 26, 2026 at 16:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 1d ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -140,7 +140,7 @@ BBC • 1d ago
 
 As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ Zacks Investment Research • 1d ago
 
 Robot-assisted knee replacement surgery is more precise than surgery performed without robotic assistance, but it does not currently improve patient outcomes.
 
-SciTechDaily • 4h ago
+SciTechDaily • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Watch live coverage of the final day of the Olympics-like World Humanoid Robot G
 
 📺 Associated Press
 
-👁️ 24K • 👍 288 • 💬 13 • ⏱️ 2:47:51 • 6h ago
+👁️ 24K • 👍 288 • 💬 13 • ⏱️ 2:47:51 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ A humanoid robot developed by China's Beijing Innovation Center of Humanoid Robo
 
 📺 XRoboHub
 
-👁️ 574 • 👍 15 • 💬 1 • ⏱️ 0:16 • 51m ago
+👁️ 574 • 👍 15 • 💬 1 • ⏱️ 0:16 • 1h ago
 
 ---
 
