@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49436662",
       "author": "simonmales",
       "points": 1,
-      "num_comments": 2,
+      "num_comments": 3,
       "created_at": "2026-08-25T16:28:08Z",
       "object_id": "49436662",
       "image": "https://krackpot.io/icons/kangaroo-og.png",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-08-26T06:49:38.614952+00:00"
+  "fetched_at": "2026-08-26T08:42:46.114240+00:00"
 }

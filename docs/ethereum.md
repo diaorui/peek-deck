@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T07:46:22.651226+00:00'
+updated: '2026-08-26T08:43:15.746701+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 07:46 UTC  
+**Last Updated:** August 26, 2026 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,458.12
+### $2,460.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +5.7%  
-**30d:** +27.9%  
-**90d:** +22.1%  
+**24h:** -0.4%  
+**7d:** +5.8%  
+**30d:** +28.1%  
+**90d:** +22.2%  
 **1y:** -45.4%  
 
 ---
@@ -182,7 +182,7 @@ ethereum.org • 2d ago
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ Benzinga • 1d ago
 
 George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
 
-The Defiant • 16h ago
+The Defiant • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 2K • 👍 103 • 💬 12 • ⏱️ 6:53 • 12h ago
+👁️ 2K • 👍 103 • 💬 12 • ⏱️ 6:53 • 13h ago
 
 ---
 
@@ -294,7 +294,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 264 • 💬 10 • ⏱️ 8:33 • 18h ago
+👁️ 5K • 👍 264 • 💬 10 • ⏱️ 8:33 • 19h ago
 
 ---
 
