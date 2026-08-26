@@ -68,6 +68,28 @@
       "description": "Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai"
     },
     {
+      "title": "Kraken Says Users Received 'Dust' From Sanctioned HTX Wallet",
+      "author": "TheresNoSecondBest",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vysxt4/kraken_says_users_received_dust_from_sanctioned/",
+      "published": 1787739147.0,
+      "thumbnail": "https://external-preview.redd.it/6wyERXJCE8mVFS5HMbNHcw40mCvLKwB7nUMfjTjhzjo.jpeg?width=640&crop=smart&auto=webp&s=c8903e71ef6cd4a699fda26778aaa86c7d39a909",
+      "external_url": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
+      "site_name": "Bitcoin Magazine",
+      "favicon": "https://cdn-ileamcn.nitrocdn.com/BngESKHdyFjXuZbvyAhEMmtQtwLKSKkU/assets/images/optimized/rev-a8f02c0/bitcoinmagazine.com/wp-content/uploads/2024/09/cropped-Bitcoin-Magazine-glyph-black-01-180x180.png",
+      "description": "\u201cRecent dust attacks from HTX-owned wallets appear to be an attempt to spread UK- and EU-sanctioned funds to other platforms in order to discredit the broader industry,\u201d the Kraken spokesperson continued. When a dust attack sats land in my wallet, I can simply decide what to do about them. If they land in an exchange account, the exchange block your bitcoin. \"it triggers a full account lock, causing operational disruption for a large number of users,\u201d a Kraken spokesperson said. Never forget, not your keys, not your cheese."
+    },
+    {
+      "title": "\"Put your money where your mouth is\". Do you really think Bip110ers will dump all bitcoin for their lukecoin? They do not.",
+      "author": "Careless_Product_792",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vyq49g/put_your_money_where_your_mouth_is_do_you_really/",
+      "published": 1787729347.0,
+      "thumbnail": "https://preview.redd.it/nd0h18479olh1.jpeg?width=640&crop=smart&auto=webp&s=c19da5dc63ddfabd62a2f29f53414c3832cfa2bc",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "These guys are another shitcoin test for the protocol. One dev thinking that a proposal is an enforcement and if not he and his delusional guys start calling bitcoin \"pedocoin\" \"spamchain\", \"scammers\"... They should simply stop talking and show their dump of what they are insulting and show all their fiat ready to be placed on their \"real bitcoin\"....why all the noise? Just shut up and let consensus decide, they are 24/7 barking because they know they will be another altcoin that will fail miserably, and maybe a self healing test, an arrogant dev confusing the term \"proposal\" with \"I want it yes or yes implemented or I will try to fork, split chain, change algo\" and seeing the dumbass leave the ship without any effect...well, that is Bitcoin self healing right there more and more. \ud83d\ude02 They should stop talking and more showing their bitcoin selloff for the \"all in\" into \"biplukcoin\" shit."
+    },
+    {
       "title": "1 in 10,000 people own one whole bitcoin.",
       "author": "RiverOfficial",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "\"Put your money where your mouth is\". Do you really think Bip110ers will dump all bitcoin for their lukecoin? They do not.",
-      "author": "Careless_Product_792",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vyq49g/put_your_money_where_your_mouth_is_do_you_really/",
-      "published": 1787729347.0,
-      "thumbnail": "https://preview.redd.it/nd0h18479olh1.jpeg?width=640&crop=smart&auto=webp&s=c19da5dc63ddfabd62a2f29f53414c3832cfa2bc",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "These guys are another shitcoin test for the protocol. One dev thinking that a proposal is an enforcement and if not he and his delusional guys start calling bitcoin \"pedocoin\" \"spamchain\", \"scammers\"... They should simply stop talking and show their dump of what they are insulting and show all their fiat ready to be placed on their \"real bitcoin\"....why all the noise? Just shut up and let consensus decide, they are 24/7 barking because they know they will be another altcoin that will fail miserably, and maybe a self healing test, an arrogant dev confusing the term \"proposal\" with \"I want it yes or yes implemented or I will try to fork, split chain, change algo\" and seeing the dumbass leave the ship without any effect...well, that is Bitcoin self healing right there more and more. \ud83d\ude02 They should stop talking and more showing their bitcoin selloff for the \"all in\" into \"biplukcoin\" shit."
-    },
-    {
-      "title": "Does anyone else just really love Bitcoin?",
-      "author": "TerminatedPotato",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vycu7q/does_anyone_else_just_really_love_bitcoin/",
-      "published": 1787692565.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!"
     }
   ],
-  "fetched_at": "2026-08-26T09:40:52.322303+00:00"
+  "fetched_at": "2026-08-26T11:29:50.665522+00:00"
 }
