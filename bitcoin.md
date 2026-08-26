@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T11:29:58.522373+00:00'
+updated: '2026-08-26T11:59:02.729898+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 11:29 UTC  
+**Last Updated:** August 26, 2026 at 11:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,630.10
+### $78,696.99
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.6%  
-**7d:** +7.7%  
-**30d:** +23.0%  
-**90d:** +7.0%  
-**1y:** -29.5%  
+**7d:** +7.5%  
+**30d:** +22.8%  
+**90d:** +6.8%  
+**1y:** -29.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-17h ago
+18h ago
 
 ---
 
 **[Oh you poor poor fiat boy](https://www.reddit.com/r/Bitcoin/comments/1vyqfmf/oh_you_poor_poor_fiat_boy/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ https://x.com/saylor/status/2092277359034458361
 
 Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai
 
-4h ago
+5h ago
 
 ---
 
@@ -159,31 +159,25 @@ BBC • 12h ago
 
 ---
 
-**[Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-at-80000-as-traders-await-inflation-data-082152117.html)**
+**[Bitcoin has just wiped out three months of losses in 1 week](https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html)**
 
-Bitcoin's rally is running into resistance at the psychologically important $80,000 level as traders await key US monetary policy signals to gauge whether the past week's gains have room to run.
+The bitcoin rally continues.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Here's when bitcoin may hit $500,000](https://finance.yahoo.com/markets/crypto/article/heres-when-bitcoin-may-hit-500000-091129598.html)**
+**[Arthur Hayes Says Bitcoin Can Hit $250,000 Without A Credit Crisis – But Warns Of 75% Crash](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-bitcoin-hit-114450538.html)**
 
-Bitcoin is having a price gusher to close out August.
+AI took the marginal dollar, leaving Bitcoin behind,” Hayes said, and expected the flow to reverse as liquidity is used to roll over AI debt.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 14m ago
 
 ---
 
 **[Bitcoin’s Bessent Bounce Doesn’t Tell the Full Story](https://www.bloomberg.com/opinion/articles/2026-08-26/bitcoin-the-bessent-bounce-does-not-tell-the-full-story)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Crypto Weekly: Bitcoin's rise, crypto-backed midterms](https://www.reuters.com/video/watch/idRW791526082026RP1/)**
-
-Reuters • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -195,7 +189,7 @@ CoinDesk • 7h ago
 
 **[A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.](https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next)**
 
-Barchart.com • 14h ago
+Barchart.com • 15h ago
 
 ---
 
@@ -207,11 +201,11 @@ Fortune • 23h ago
 
 ---
 
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+**[Bernstein sees bitcoin reaching $150,000 by mid-2027 amid 'debasement trade,' but cuts Strategy target to $350](https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778)**
 
-Finally, a killer use case
+Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029.
 
-Financial Times • 2d ago
+The Block • 1h ago
 
 ---
 
@@ -223,6 +217,14 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,7 +233,7 @@ The Motley Fool • 1d ago
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 4 • 💬 0 • 8h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 4 • 💬 0 • 9h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -293,7 +295,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 4 • 💬 3 • 14h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 4 • 💬 3 • 15h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -325,7 +327,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 53K • 👍 4K • 💬 269 • ⏱️ 10:39 • 17h ago
+👁️ 53K • 👍 4K • 💬 269 • ⏱️ 10:39 • 18h ago
 
 ---
 
@@ -335,7 +337,7 @@ Bitcoin just crossed a critical moving average as trouble builds inside the worl
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 156 • ⏱️ 14:53 • 12h ago
+👁️ 17K • 👍 1K • 💬 156 • ⏱️ 14:53 • 13h ago
 
 ---
 
@@ -345,7 +347,7 @@ This is not the time to aggressively buy. You had 6 months to do that. Here's wh
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 315 • 💬 72 • ⏱️ 10:15 • 5h ago
+👁️ 3K • 👍 315 • 💬 72 • ⏱️ 10:15 • 6h ago
 
 ---
 
@@ -365,7 +367,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 235 • 💬 95 • ⏱️ 21:29 • 15h ago
+👁️ 4K • 👍 235 • 💬 95 • ⏱️ 21:29 • 16h ago
 
 ---
 
