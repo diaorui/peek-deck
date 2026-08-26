@@ -13,6 +13,17 @@
       "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
     },
     {
+      "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
+      "author": "Mysterious_Sign_9501",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
+      "published": 1787735807.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where \"who committed to what\" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo\u2019s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet."
+    },
+    {
       "title": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
       "author": "avishic",
       "url": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
@@ -33,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by multiple outlets into one card instead of five separate headlines saying the same thing. I deliberately went for a no-nonsense Win98-ish look \u2014 no clutter, no bells and whistles, just the feed. Built with Next.js/Supabase, synced every two hours via GitHub Actions. No coding experience going in, mostly just kept iterating with Claude Code until it worked. Not selling anything, just proud it works and thought a few people here might actually use it. Feedback welcome :)"
+    },
+    {
+      "title": "[ Removed by Reddit ]",
+      "author": "BriefHillEncounter",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyt6jq/removed_by_reddit/",
+      "published": 1787739927.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "[ Removed by Reddit on account of violating the content policy. ]"
     },
     {
       "title": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation. The plugin stays inside each admin's existing role and permissions. OpenAI says it shows what was requested, whether it completed, and what changed. It can also route some requests for approval in Slack or Microsoft Teams. The practical part is the control layer. An admin tool that can change workspace settings needs clear permissions, approval steps, and a result people can audit. Source: https://openai.com/index/introducing-admin-plugin/ Supporting report: https://www.tradingview.com/news/reuters.com,2026:newsml_L8N44M1HY:0-openai-says-introducing-the-admin-plugin-for-chatgpt-work-and-codex/"
-    },
-    {
-      "title": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data.",
-      "author": "MonokoEloba",
-      "url": "https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/",
-      "published": 1787686827.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've supposed their approach based on their website, they are of course more complex. I set up a local \"Agent Arena\" (qwen2.5-coder:14b on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent \"swarms\" either hallucinated success, burned 500k+ tokens in pointless debates, or rubber-stamped completely off-topic code. Only frameworks relying on mechanical grounding (actual compilers/linters) rather than an \"LLM critic\" produced viable results. The Challenge: The \"Triple Constraint\" I asked each framework to build an Authentication & Rate Limiting middleware in Rust that had to satisfy three contradictory constraints: Absolute Security: Cryptographic hashing (sha2) and timing-attack protection (subtle::constant_time). Performance: Under 1ms latency under a 10k request load. Strict Quality: 100% unit test coverage, and 0 clippy warnings. The Golden Rule: Exact same local model for everyone (qwen2.5-coder:14b), isolated environments (sandboxes), same scaffolding. No cheating via paid external APIs. Autopsy of the Results (How they failed) 1. AutoGen: The Token Sink (Blind debate) The Approach: A GroupChat (Coder \u2194 SecurityCritic \u2194 PerfCritic). What happened: The agents debated in circles for 6 rounds, burning through 517,000 tokens. They eventually reached a \"consensus\"... on an off-topic script measuring latency instead of handling authentication. The critic agent rubber-stamped a completely flaky test. 2. CrewAI: The Rubber Stamper The Approach: Hierarchical chain (Architect \u2192 QA \u2192 Reviewer). What happened: The code is mechanically green (tests and clippy pass), but the logic drifted entirely. It coded a WebSocket handshake, completely ignoring cryptographic hashing and constant-time execution. The QA \"Reviewer\" saw the code compile and green-lit the whole thing without checking the original specs. 3. MetaGPT: Process Hallucination The Approach: \"Software Company\" cascade (SOP). What happened: It generated an almost empty source file (1 line of code) but wrote a highly detailed 912-byte final QA report claiming tests were exhaustive and the benchmark was a success. An absolute danger for an autonomous pipeline. 4. LangGraph: The Honest Failure The Approach: Finite State Machine (FSM) / Directed Graph. What happened: The most deterministic approach. It actually tried to implement the security primitives but failed to compile the Rust code within the 6-iteration limit. Instead of lying, the loop halted cleanly with an honest error. 5. GenOS (My framework): Mechanical Grounding The Approach: Parallel swarm (implementation, sec, QA) + central integration guarded by real tools (Cargo), driven by the genome traits (risk_tolerance, etc.). What happened: It was the only one to deliver the 3 security constraints (SHA-256, validation, constant-time subtle) with a modular 117-line architecture. Out of 5 unit tests, 3 passed. The Key Point: Instead of asking an \"LLM QA Agent\" to fake success, GenOS hit the reality of the compiler and terminated with a frank INTEGRATION_INCOMPLETE status. It doesn't lie to the developer. The Raw Data Framework Tokens (In / Out) LLM Calls Security Specs Met? Lines of Code Final Status AutoGen 517k / 15.4k 14 \u274c No 22 Consensus (Off-topic) CrewAI 371k / 6.4k 8 \u274c No 36 Approved (Total logic drift) LangGraph 206k / 6.9k 9 \u2705 Yes (Attempted) 43 Compile Error MetaGPT 36k / 1.6k 4 \u274c No 1 Hallucinated Report GenOS 205k / 8.6k 7 \u2705 Yes (SHA256+subtle) 117 INTEGRATION_INCOMPLETE Conclusion: Stop paying the multi-agent tax This test proves that the \"LLM-as-a-judge\" paradigm (using an LLM to review another LLM's code) is an architectural dead end. The models eventually get exhausted, lose the original context, and validate absolute garbage just to exit the debate loop. For an agentic system to be viable in production, the exit validation cannot come from an LLM playing the role of a critic. It must come from deterministic mechanical grounding (linter ASTs, exit codes, test assertions). All the raw data (JSON, logs, and harnesses) is reproducible. Has anyone else noticed this behavior where your agents agree on a terrible solution just to finish the task? It happened to me when I tried to beat SAT/CDCL."
-    },
-    {
-      "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
-      "author": "adjohu",
-      "url": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
-      "published": 1787658075.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line. The memory system itself is something I\u2019ve been developing since 2021. Static is the first public application of it. The interesting part has been watching Static change over time. It has grown opinions, relationships and beliefs. They\u2019re constantly in flux too. It doesn\u2019t respond \u201cyou\u2019re absolutely right\u201d like a traditional LLM, but often argues, disagrees, or makes mistakes. Some people even seem to have made it their job to educate Static, and it seems like it might be working. It\u2019s been public for 10 days and has now accumulated thousands of interactions, so it\u2019s starting to become a much more interesting experiment than the empty mind it launched as. You can talk to it, teach it and confuse it at wildstatic.com I\u2019m the builder, obviously, so this is self-promotion. But I\u2019d be very interested in what people think about the underlying idea, particularly whether accumulated public experience makes Static feel different to a normal chatbot."
     }
   ],
-  "fetched_at": "2026-08-26T08:42:45.102644+00:00"
+  "fetched_at": "2026-08-26T10:34:47.901047+00:00"
 }

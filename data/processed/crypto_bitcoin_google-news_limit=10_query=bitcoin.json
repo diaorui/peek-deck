@@ -5,7 +5,7 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Iconic Bitcoin mine pivots to AI as industry turns back on crypto",
+      "headline": "AI build out: AI gold rush draws crypto firms away from Bitcoin",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yYWtGUnpGOGhrOFpvX2E3N3lFQW9OZWVaNU50V1hmY3B4MVRVZVhNd1ZhVkR2Smd3S0k5ZUhrdUhRQ3pfWFZXTTNxbUVKTkNtMVhKd1lTNlhrUQ?oc=5",
@@ -15,24 +15,44 @@
       "description": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines."
     },
     {
-      "headline": "Bitcoin Reaches Three-Month High of $80,000 as Momentum Returns",
-      "source": "Bloomberg",
+      "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVJxSFNSdkloT0t2Q0l2dG5lQUJsT2hQZERGdTNNaVBzdlJDdElWVWRLU3g5XzJqWnJGX2tXWlhpc3FUZWFPekJPaW5lcjdYWXZ5ekI1bmVnTUVzNzBhS2RVRTFHRTYyb042dG1pWEh1VnpwZDFWbVVYZW1VcTYtNU42WmNBRWRVOWZvb0l0Rk02TklxYkkzV1ZidVZEd0E4RU9tZXlXbTdmeGp4Ml9WU04zSmVpc0F2bEZBeThqZ05mN0NG?oc=5",
+      "pub_date": 1787732512.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-at-80000-as-traders-await-inflation-data-082152117.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/293293f9cb8d8e64f2a96e5f290b586bacb0835d8b2af6042fe01620de18faa1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fad0f9edc074a9511270aa2d82bf6a6e3.jpg",
+      "description": "Bitcoin's rally is running into resistance at the psychologically important $80,000 level as traders await key US monetary policy signals to gauge whether the past week's gains have room to run."
+    },
+    {
+      "headline": "Here's when bitcoin may hit $500,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVZPemdKcFJwU0IxNHkwS1VWbG8xUVNwZlJoTDg4R29meFJkalFYSng5b19SVjdKMEFXb1NPRWd3OVVCN0tSbWRhQkdlQVFLN0pCeUpOOFhUOGVyTE41WWhuQ0tuUERnT3lEQ2FjMWdMUnp2X0VlSWJ5aS1EbDJGaklCbXNoT3YtUzhKVlhqQkxVckVGN1JHVFBUUWZtUQ?oc=5",
+      "pub_date": 1787735489.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/article/heres-when-bitcoin-may-hit-500000-091129598.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0ffd091d8ddc08690c5aef8ca29b3fab75fd08edb6720dfd180c6a6233ada900/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-07%2F6b61c590-ed48-11eb-8fb5-7700c383fa70",
+      "description": "Bitcoin is having a price gusher to close out August."
+    },
+    {
+      "headline": "Bitcoin\u2019s Bessent Bounce Doesn\u2019t Tell the Full Story",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0RqVUhSdU5UVTZiZnh3YlJsczNTWFA0Y1NDeHpYckcxNUduaGdDRXVhSWZscGFNbTE2Y2V1YnNSVTRGclozQzBMNFY2eTlmcFNGbjFBUjA3TUJOYmx4LW9ETWRObGgtVXNKZTVjVUxkYUl4bmtoam5fdk9IRFVpTFpTcDZqeGdGWUQtTFBoekRRQXpZNjhjZjBXV05zR2FWSUJCcVdCS05aNnFwSTFSbmwwVQ?oc=5",
-      "pub_date": 1787690053.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-reaches-three-month-high-of-80-000-as-momentum-returns",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVNrMUFtYUMzZUtCeXd0ZEFHUXNJY3RLdXhzMUlSUk9qTDQ3SDV4cXpjaDhHMGJyWDR6MGxrdE5ma1UycXByTlBrTV9hU3dfYjJEbnFlNUVqZ1ZCOUNWbjMyd0tZMmhObUU1NlZ6ekRnVWFCQm1sVVlsZ0h4dDZPY1NvSVlqRTAzaVdndFlWQ0cxenVNN1diYU11N3RSZlpPYllnWFlVdnlObTVaV2c?oc=5",
+      "pub_date": 1787736618.0,
+      "article_url": "https://www.bloomberg.com/opinion/articles/2026-08-26/bitcoin-the-bessent-bounce-does-not-tell-the-full-story",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why Bitcoin Just Surged Back to $80,000, and What May Come Next",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeE0tT2VaWmNGbFVud2k5MDFQQ1FuU25VQTZ3RHh4X2VqTktJbmxRUXRrUzVOOGZDQzM0SzRuaWZJVml2VG9tdXM4VjZ4VkRkandUbU1EU3VTblczV0dmNG4wOU1GaTR0WlR5QWViYnZmS0JYNExUSEFTOUdLWW84WUs1STVFbHduQ0oyQThtdHl0WklEMlZjOU9FZEhoNERSYk80LTgyeWc?oc=5",
-      "pub_date": 1787732140.0,
-      "article_url": "https://www.morningstar.com/alternative-investments/why-bitcoin-just-surged-back-80000-what-may-come-next",
-      "image": "https://media.morningstar.com/resizer/v2/6ELBFFVRKNCKPABHPHRUUQY36E.png?auth=a0c51462a1636b18c7f7b7fbb93c40c5313959ad0a2a39eaadc82bfffcf2e38d&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
-      "description": "US debt worries, inflows into ETFs, and a weaker dollar have triggered bitcoin\u2019s latest rebound."
+      "headline": "Crypto Weekly: Bitcoin's rise, crypto-backed midterms",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbDNIeUNnS2M2cTE1NDZOLWh5QmgyQ2tlVmYyLVhkSW0wZTNNbEtuRmM2elBlZFBVTklDTXdvYURrbVBaeG9VbjZMZUJRY19nRkYwSm8zOHloTWpjbGdPY0FsWWJXMm8?oc=5",
+      "pub_date": 1787738619.0,
+      "article_url": "https://www.reuters.com/video/watch/idRW791526082026RP1/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
@@ -45,7 +65,17 @@
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for Aug. 25, 2026",
+      "headline": "A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGpTbTdKN0NQdzB1MlZTOWljTHFKUFVicWVOTXp4OEVnYUthTTB1SlpvY0pxcEpwQ001OEttVXFDQmJlcV81ZGJOdjlNVzFlUVpvVUJEeURiUjdmTm05TjNxQUZZak9MTGVRSnRPTmZMeWpUN2lkbGRDZmFEOC05eWZzbG01Smp2OFczQ0EwWHkzXzlocktoOXBza2tCamVDczJMN2RPWWhLeU9CUno2QTNkNy03czNhVUhoVXdNTnpYNVdF?oc=5",
+      "pub_date": 1787691019.0,
+      "article_url": "https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Current price of Bitcoin for August 25, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbl9rOVdNQXN5WHJrTW1RNDl6MkVONUdGbHREYjNfNjMyZDJJS0hrX1dZcjBiWmdJSldvOU9sbGQxQlRBc1hpYzZ4RElWSkw4Q0gxQXlBRndOWDJKd2tZRS1LMWluck0?oc=5",
@@ -53,16 +83,6 @@
       "article_url": "https://fortune.com/article/price-of-bitcoin-08-25-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Bitcoin-Aug-25.jpg?resize=1200,600",
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFRc2xWUW9YUVgzcGlQc255SUNYMjFIOHUyRFoyY091c3JHN0hxbHVYWWFBMFBpRldnckM0akd3RzQybzd4Z2hBSHdDeW0wd01GUkNSc25RZDl6M0wzQk5YSnJvcHluMUItdHdoNjBNY1R5M2RhT1JVaGhxdm1kcjM3ZERfOVZERG1JZURhUExoT0pLaE1UNg?oc=5",
-      "pub_date": 1787591700.0,
-      "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
-      "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
     },
     {
       "headline": "Bitcoin is great (for systemic theft of aid money)",
@@ -75,36 +95,16 @@
       "description": "Finally, a killer use case"
     },
     {
-      "headline": "CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville",
-      "source": "WJBF",
-      "source_url": "https://www.wjbf.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmJjd0w5elY0X01NRjdLYzZQaUNWYlBpeGM2NUdNLVo3MGlOekFnLXc0NUdQWmFjMjRNZFVONXljbF84TEdSSldUdVlJSEFybDdfeVZHMXpQNDlLMnFHOTRCbGRwNjBXYXNVMUNYOGdZcWZFVXhCbzhXbXFqYi1TUU1oM0RRdGMycFhDRXpWQk5UMjgxcFNka29xNThyNWFKcVQ4VlkzOWNlUjRNQk5jbFVmYzJwZXJOZUlVatIBwgFBVV95cUxPd21JMXZHT2o1Q1JvM0k2RHBNQ01JVGJ5VDlNeE9RNFlOa3VhMEEyT051RjM0cVdBb0w2LVo2RkRUZWtQSUxoYzAxc3BMejE2bG1ocDRFbE5haDlyelBzSDY4ZXVuQ1kxQVZ6UWI4bmpCSTJPNlIyZEJFTms5eFVyS2pzTkVBZk1RT2dZWUx5VXlqZEpUV0haY1djUS1ZYjVSMGtyNVBpLXJTU1NURDZ0dzVkNFB0RFRlRHFCQTUwTml1QQ?oc=5",
-      "pub_date": 1787628318.0,
-      "article_url": "https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin just surged 23% in 5 days. Let's handicap whether its monster rally can last.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFh5VlF5RmRyR2tCbFBXSTV2cU96YmpzMXBiT3gwdkNjdkg0NkFLc0tjdXIwVGNTRG5WR1RUQXNjS3pXS3kwTVZib2M0VjY3bThOVDhvcXcxQ2F1eWtVejlaVHVadzFoT2R0Xy1IMzdxZlRBY2JUeURHaDBYdGdET2IxY3VCa1hVQ3JtRHN4Nk5pSDhSMWtIa2k2cUpMam1kbkp6cDM2VUEzSXM?oc=5",
-      "pub_date": 1787565000.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-rally-surge-outlook-trump-bessent-dollar-short-squeeze-2026-8",
-      "image": "https://i.insider.com/6a8b931e8a99fa493d60f491?width=1200&format=jpeg",
-      "description": "Trump, Treasury intervention, a weaker dollar, and a short squeeze have combined to bring bitcoin roaring back to life."
-    },
-    {
-      "headline": "Wintermute: Bitcoin, XRP, Gold Benefited From 'Debasement Board' Last Week",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjRrTXNOOVlhSUJ1bnJNNVVvNFdnTGdyMEtGejJDMWN3RWY4RF9iSkkwOHRsdE1jMnBwdTAwXy1sZnh3eTVXY09IMktpZWFqVGRfdnQ0dElvS1dkQUdNa3g5eUJDTm5Ja0JUdUVtUFhYUlNPUFlWV0J1TUFwcHJRTVExcEhHWXB4dGV5VlA2bzgzTHZmQm92aXdLME9UWjF3VjhQcUNPbTYyRnE3WFZIRXNhOWFweHFhNE1PTGdLNExENmVFMVVF?oc=5",
-      "pub_date": 1787688382.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:4f9667d6a094b:0-wintermute-bitcoin-xrp-gold-benefited-from-debasement-board-last-week/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Crypto and gold surged together last week while equities fell, prompting quant trading firm Wintermute to call Bitcoin\u2018s (CRYPTO: BTC) best week since March 2024 \u201ca debasement board.\u201dWintermute\u2019s weekly market update on X broke down the split between assets outside the fiscal complex and those pric\u2026"
+      "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFRc2xWUW9YUVgzcGlQc255SUNYMjFIOHUyRFoyY091c3JHN0hxbHVYWWFBMFBpRldnckM0akd3RzQybzd4Z2hBSHdDeW0wd01GUkNSc25RZDl6M0wzQk5YSnJvcHluMUItdHdoNjBNY1R5M2RhT1JVaGhxdm1kcjM3ZERfOVZERG1JZURhUExoT0pLaE1UNg?oc=5",
+      "pub_date": 1787591700.0,
+      "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
+      "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T08:43:01.289445+00:00"
+  "fetched_at": "2026-08-26T10:35:17.997941+00:00"
 }
