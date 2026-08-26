@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T10:35:19.567437+00:00'
+updated: '2026-08-26T11:29:58.530720+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 10:35 UTC  
+**Last Updated:** August 26, 2026 at 11:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 19h ago
+NVIDIA Newsroom • 20h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 19h ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 9h ago
+TechCrunch • 10h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 9h ago
 
 Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ Qualcomm • 1d ago
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 20h ago
+x.com • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ IEEE Spectrum • 1d ago
 
 **[Watch Zero Zero Robotics on Business Strategy](https://www.bloomberg.com/news/videos/2026-08-26/zero-zero-robotics-on-business-strategy-video)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -200,7 +200,7 @@ Watch live coverage of the final day of the Olympics-like World Humanoid Robot G
 
 📺 Associated Press
 
-👁️ 13K • 👍 231 • 💬 2 • ⏱️ 2:47:51 • 1h ago
+👁️ 13K • 👍 231 • 💬 2 • ⏱️ 2:47:51 • 2h ago
 
 ---
 

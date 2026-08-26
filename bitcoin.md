@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T10:35:19.559100+00:00'
+updated: '2026-08-26T11:29:58.522373+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 10:35 UTC  
+**Last Updated:** August 26, 2026 at 11:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
 
-7h ago
+8h ago
 
 ---
 
 **[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 https://x.com/saylor/status/2092277359034458361
 
-16h ago
+17h ago
 
 ---
 
 **[Oh you poor poor fiat boy](https://www.reddit.com/r/Bitcoin/comments/1vyqfmf/oh_you_poor_poor_fiat_boy/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-15h ago
+16h ago
 
 ---
 
@@ -115,19 +115,15 @@ https://x.com/saylor/status/2092277359034458361
 
 Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai
 
-3h ago
+4h ago
 
 ---
 
-**[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
+**[Kraken Says Users Received 'Dust' From Sanctioned HTX Wallet](https://www.reddit.com/r/Bitcoin/comments/1vysxt4/kraken_says_users_received_dust_from_sanctioned/)**
 
-17h ago
+“Recent dust attacks from HTX-owned wallets appear to be an attempt to spread UK- and EU-sanctioned funds to other platforms in order to discredit the broader industry,” the Kraken spokesperson continued. When a dust attack sats land in my wallet, I can simply decide what to do about them. If they land in an exchange account, the exchange block your bitcoin. "it triggers a full account lock, causing operational disruption for a large number of users,” a Kraken spokesperson said. Never forget, not your keys, not your cheese.
 
----
-
-**[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
-
-1d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked) • 1h ago
 
 ---
 
@@ -135,15 +131,19 @@ Been following the Coldcard fallout closely and this is the most interesting res
 
 These guys are another shitcoin test for the protocol. One dev thinking that a proposal is an enforcement and if not he and his delusional guys start calling bitcoin "pedocoin" "spamchain", "scammers"... They should simply stop talking and show their dump of what they are insulting and show all their fiat ready to be placed on their "real bitcoin"....why all the noise? Just shut up and let consensus decide, they are 24/7 barking because they know they will be another altcoin that will fail miserably, and maybe a self healing test, an arrogant dev confusing the term "proposal" with "I want it yes or yes implemented or I will try to fork, split chain, change algo" and seeing the dumbass leave the ship without any effect...well, that is Bitcoin self healing right there more and more. 😂 They should stop talking and more showing their bitcoin selloff for the "all in" into "biplukcoin" shit.
 
-3h ago
+4h ago
 
 ---
 
-**[Does anyone else just really love Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vycu7q/does_anyone_else_just_really_love_bitcoin/)**
+**[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
+18h ago
 
-13h ago
+---
+
+**[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
+
+1d ago
 
 ---
 
@@ -155,7 +155,7 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -163,7 +163,7 @@ BBC • 11h ago
 
 Bitcoin's rally is running into resistance at the psychologically important $80,000 level as traders await key US monetary policy signals to gauge whether the past week's gains have room to run.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin is having a price gusher to close out August.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,19 +183,19 @@ Bloomberg.com • 1h ago
 
 **[Crypto Weekly: Bitcoin's rise, crypto-backed midterms](https://www.reuters.com/video/watch/idRW791526082026RP1/)**
 
-Reuters • 31m ago
+Reuters • 1h ago
 
 ---
 
 **[Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains](https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains)**
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.](https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next)**
 
-Barchart.com • 13h ago
+Barchart.com • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ Barchart.com • 13h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Motley Fool • 1d ago
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 4 • 💬 0 • 7h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 4 • 💬 0 • 8h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -261,7 +261,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 3 • 18h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 3 • 19h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -269,7 +269,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 23h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 1d ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -293,7 +293,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 4 • 💬 3 • 13h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 4 • 💬 3 • 14h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -315,7 +315,7 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • 💬 41 • ⏱️ 52:01 • 13h ago
+👁️ 32K • 👍 1K • 💬 41 • ⏱️ 52:01 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin just crossed a critical moving average as trouble builds inside the worl
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 156 • ⏱️ 14:53 • 11h ago
+👁️ 17K • 👍 1K • 💬 156 • ⏱️ 14:53 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ This is not the time to aggressively buy. You had 6 months to do that. Here's wh
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 315 • 💬 72 • ⏱️ 10:15 • 4h ago
+👁️ 3K • 👍 315 • 💬 72 • ⏱️ 10:15 • 5h ago
 
 ---
 
@@ -365,7 +365,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 235 • 💬 95 • ⏱️ 21:29 • 14h ago
+👁️ 4K • 👍 235 • 💬 95 • ⏱️ 21:29 • 15h ago
 
 ---
 
@@ -375,7 +375,7 @@ ProCap Financial Chairman and CEO Anthony Pompliano analyzes the recent Bitcoin 
 
 📺 Fox Business Clips
 
-👁️ 16K • 👍 296 • 💬 211 • ⏱️ 3:53 • 20h ago
+👁️ 16K • 👍 296 • 💬 211 • ⏱️ 3:53 • 21h ago
 
 ---
 
