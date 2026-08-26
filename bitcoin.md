@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T03:53:37.589382+00:00'
+updated: '2026-08-26T04:39:30.601933+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 03:53 UTC  
+**Last Updated:** August 26, 2026 at 04:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ https://x.com/saylor/status/2092277359034458361
 
 **[1 in 10,000 people own one whole bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vy5s6t/1_in_10000_people_own_one_whole_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,19 @@ https://x.com/saylor/status/2092277359034458361
 
 64.90373154 BTC walks into a 324-in / 382-out coinjoin 54.31783009 BTC walks straight back out the other side. in one piece. with a bow on it. about 10 BTC actually got mixed. the rest just went for a walk. bc1qajcrhj3s2x0yfcj54emjukghv93su80svp2d3t then he does it AGAIN 54 → 47.12126860 BTC, now in tidy 1 BTC slices bc1qq6s7wsmf6an78xyjkst707x32nyakj3u4jy2fr then AGAIN, 454 in / 502 out, this time 7.74840978 BTC chunks ser you are not mixing. you are queuing. on-chain anons: has any other ColdCard drainer peeled this loudly? https://preview.redd.it/itgaw31amklh1.png?width=900&format=png&auto=webp&s=eba0a958aa0b409ca05eafb37e013eb89e53dec2 https://preview.redd.it/ylhdihyamklh1.png?width=900&format=png&auto=webp&s=6351dd355fa8980b52037b1aa2ae594ae77b4f48 https://preview.redd.it/ft1addvbmklh1.png?width=1200&format=png&auto=webp&s=2825c8a493c879a446087d76d4e131cab82466d0
 
-8h ago
+9h ago
+
+---
+
+**[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
+
+1h ago
+
+---
+
+**[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
+
+23m ago
 
 ---
 
@@ -109,7 +121,7 @@ https://x.com/saylor/status/2092277359034458361
 
 I don't know what this post is supposed to be about. I'm pretty new to crypto and investing and I was just thinking about Bitcoin. I don't think crypto really appeals to me. But I'm totally sold on Bitcoin with the decentralized nature of it and the scarcity. That's all. Just a Bitcoin appreciation post. Go Bitcoin!
 
-6h ago
+7h ago
 
 ---
 
@@ -119,23 +131,9 @@ I don't know what this post is supposed to be about. I'm pretty new to crypto an
 
 ---
 
-**[80k](https://www.reddit.com/r/Bitcoin/comments/1vxn706/80k/)**
-
-1d ago
-
----
-
-**[The BTC I earned (and lost) as a kid still haunts me to this day](https://www.reddit.com/r/Bitcoin/comments/1vxwvv3/the_btc_i_earned_and_lost_as_a_kid_still_haunts/)**
-
-When I was a kid, I wanted to buy in-game currency for a game I played, so I downloaded Bitcoin-Qt at an internet café, I tried mining but didn't understand a thing, so I turned to those survey/offer sites that paid 0.25 BTC per completed survey. I installed a few programs and Firefox extensions, and after a few hours managed to accumulate 1.75 BTC, but I got bored because the amount was nowhere near what I needed, and I ended up forgetting all about it. A few years later, BTC started skyrocketing in value, which devastated me. I decided never to chase after BTC again, yet that childhood memory kept popping into my mind every now and then. That’s why I decided to give it another shot. I’m not overly confident, knowing I missed my big chance, but I know that I won't be able to rest until I give it a shot. Just a silly vent, but I really hope I'm not the only person who's been through this lmao
-
-16h ago
-
----
-
 **[the Wall Street Journal featured a full page Bitcoin ad today “The fringe phase is officially over."](https://www.reddit.com/r/Bitcoin/comments/1vy7by9/the_wall_street_journal_featured_a_full_page/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +141,7 @@ When I was a kid, I wanted to buy in-game currency for a game I played, so I dow
 
 its not going lower. buy in now
 
-2h ago
+3h ago
 
 ---
 
@@ -155,13 +153,13 @@ its not going lower. buy in now
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[Bitcoin Rally Pauses After Jumping to Three-Month High](https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
@@ -169,7 +167,7 @@ WSJ • 12h ago
 
 VanEck's Matthew Sigel says Democrat's victory in the midterm elections would not hurt Bitcoin, but could be a problem for other cryptocurrencies. He says President Trump’s support for Bitcoin, along with his family’s stake in World Liberty Financial is positive for the U.S. economy because digital assets have the potential to unleash productivity gains.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -183,13 +181,13 @@ Moomoo • 1h ago
 
 After a sharp rebound, $Bitcoin (BTC.CC)$ is entering a more delicate stage of the rally. $Ethereum (ETH.CC)$,  $Ripple (XRP.CC)$ and $Dogecoin (DOGE.CC)$ also rebounded sharply. The question is no longer simply whether buyers are willing to return. Traders are now watching whether BTC can hold recent gains as several major macro catalysts approach, including $NVIDIA (NVDA.US)$ earnings and the Jackson Hole Economic Policy Symposium. C...
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
 **[BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street](https://www.bloomberg.com/news/articles/2026-08-25/bitcoin-s-wall-street-migration-gets-cheaper-easier-bigger)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -197,13 +195,13 @@ Bloomberg.com • 15h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
 **[Bitcoin’s surge above $80,000 was driven by short covering, not excessive leverage](https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses)**
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -259,7 +257,7 @@ A guided, code-level tour of the satd codebase: every major module with real sou
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 2 • 11h ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 2 • 12h ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -267,7 +265,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 16h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 17h ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -333,7 +331,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 9K • 👍 996 • 💬 382 • ⏱️ 12:03 • 13h ago
+👁️ 9K • 👍 996 • 💬 382 • ⏱️ 12:03 • 14h ago
 
 ---
 
@@ -383,7 +381,7 @@ The last weekly lower high from the failed May rally sits at 83K. Reclaim it and
 
 📺 Krown
 
-👁️ 773 • 👍 30 • 💬 160 • ⏱️ 0:29 • 5h ago
+👁️ 773 • 👍 30 • 💬 160 • ⏱️ 0:29 • 6h ago
 
 ---
 

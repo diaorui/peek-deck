@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T03:53:37.598646+00:00'
+updated: '2026-08-26T04:39:30.608934+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 03:53 UTC  
+**Last Updated:** August 26, 2026 at 04:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 1d ago
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 12h ago
+NVIDIA Newsroom • 13h ago
 
 ---
 
@@ -140,7 +140,7 @@ NVIDIA Newsroom • 12h ago
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
 
-The Robot Report • 12h ago
+The Robot Report • 13h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Robot Report • 12h ago
 
 On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ TechCrunch • 3h ago
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ Business Insider • 23h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 14h ago
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 13h ago
+x.com • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ Remote-Controlled Guava Harvesting Robot Title: Remote-Controlled Guava Harvesti
 
 📺 MP Bundelkhand 
 
-👁️ 67K • 👍 118 • ⏱️ 0:07 • 13h ago
+👁️ 67K • 👍 118 • ⏱️ 0:07 • 14h ago
 
 ---
 
