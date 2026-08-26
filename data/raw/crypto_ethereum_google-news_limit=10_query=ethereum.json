@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9OYmZoYkVOY2FTY1JSUEhEdXpOdUhtVHZRSktsSEtvOWNPTGgzMlZxTVdZRjVlWHRCV1dHVFpwMjRLMmotTm94VXVEUVA5bGZuSWJwZ3NsUWpLNEN6OUdOTmNNWW84c2UyTC1Jd2Y0MWVVWXBXc2JUREQ3YmlfQ1RpdTJwcVhXU3RCUEg4emZuUnZOeUE?oc=5",
-      "pub_date": 1787612400.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8D32A0188490E9F6F4EED30F1A106EADA7123E7EB04219447ECF9728CC0503F9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
-      "description": "BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy."
-    },
-    {
       "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883674%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
       "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
+    },
+    {
+      "headline": "BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9OYmZoYkVOY2FTY1JSUEhEdXpOdUhtVHZRSktsSEtvOWNPTGgzMlZxTVdZRjVlWHRCV1dHVFpwMjRLMmotTm94VXVEUVA5bGZuSWJwZ3NsUWpLNEN6OUdOTmNNWW84c2UyTC1Jd2Y0MWVVWXBXc2JUREQ3YmlfQ1RpdTJwcVhXU3RCUEg4emZuUnZOeUE?oc=5",
+      "pub_date": 1787612400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8D32A0188490E9F6F4EED30F1A106EADA7123E7EB04219447ECF9728CC0503F9/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6bc853e80fa2268a922d0ec75ed8e3f0.png",
+      "description": "BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy."
     },
     {
       "headline": "ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T03:53:29.971261+00:00"
+  "fetched_at": "2026-08-26T05:34:21.594079+00:00"
 }

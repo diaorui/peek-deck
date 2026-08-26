@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T04:39:30.608934+00:00'
+updated: '2026-08-26T05:34:29.332422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 04:39 UTC  
+**Last Updated:** August 26, 2026 at 05:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,11 +112,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
+**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
+
+NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
+
+NVIDIA Newsroom • 14h ago
+
+---
+
 **[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -128,35 +136,19 @@ BBC • 1d ago
 
 ---
 
-**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
-
-NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
-
-NVIDIA Newsroom • 13h ago
-
----
-
-**[Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/)**
-
-With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
-
-The Robot Report • 13h ago
-
----
-
-**[Nvidia unveils new robotics computer Jetson Orin Nano 2](https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2)**
-
-On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
-
-Seeking Alpha • 13h ago
-
----
-
 **[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
+
+---
+
+**[Qualcomm Launches Comprehensive Robotics Investment Initiative in Japan, Anchored by New Qualcomm Japan Robotics Center](https://www.qualcomm.com/news/releases/2026/08/qualcomm-launches-comprehensive-robotics-investment-initiative-i)**
+
+Qualcomm has launched a robotics investment initiative in Japan, anchored by the new Qualcomm Japan Robotics Center. Working with leading robotics, automation, research, and technology organizations, the initiative aims to advance an open physical AI ecosystem through innovation, ecosystem development, commercialization, and deployment, helping accelerate next-generation robotics solutions in Japan and globally.
+
+Qualcomm • 23h ago
 
 ---
 
@@ -172,15 +164,7 @@ Business Insider • 1d ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 18h ago
-
----
-
-**[EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says](https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-134711860.html)**
-
-When investors think about Tesla Inc‘s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says. “It is their manufacturing competency and resources,” Kang told Benzinga in an email. Tesla’s Manufacturing Scale Could Become Its Biggest Moat Kang’s thesis stands in contrast to t
-
-Yahoo Finance • 14h ago
+IEEE Spectrum • 19h ago
 
 ---
 
@@ -188,7 +172,19 @@ Yahoo Finance • 14h ago
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 14h ago
+x.com • 15h ago
+
+---
+
+**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
+
+WSJ • 16h ago
+
+---
+
+**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
+
+Axios • 11h ago
 
 ---
 
@@ -196,31 +192,23 @@ x.com • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Take Over Sports: World Robot Games Test Agility, Balance &amp; Intelligence](https://www.youtube.com/watch?v=GU4Hm7zjh9U)**
+**[Woman hires humanoid robot to clean SF home for $30](https://www.youtube.com/watch?v=zd7b9nZh1mE)**
 
-Humanoid robots are no longer just walking in laboratories — they are now competing in sports. The World Humanoid Robot ...
+Would you hire a robot to clean your home? One woman in San Francisco hired a humanoid robot from Tau Robotics to complete ...
 
-📺 India Today Global
+📺 ABC7 News Bay Area
 
-👁️ 18K • 👍 133 • 💬 9 • ⏱️ 1:11 • 1d ago
-
----
-
-**[This Breakthrough Material Lets Robots “See” What They Feel. Here&#39;s How #robot #shorts #engineering](https://www.youtube.com/watch?v=BHDwhPXIr5c)**
-
-This Smart Hydrogel Changes Color When You Stretch It—and Could Give Robots a Sense of Touch Scientists have developed a ...
-
-📺 uncover reality
-
-👁️ 174K • 👍 1K • 💬 19 • ⏱️ 0:06 • 1d ago
+👁️ 210K • 👍 2K • 💬 1K • ⏱️ 0:50 • 1d ago
 
 ---
 
-**[🔥🤖 The 2nd Humanoid Olympics is HERE! 2,056 robots, 51 events! #humanoidrobot  #robotics #ai](https://www.youtube.com/watch?v=MvrrCIH7zBg)**
+**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
 
-📺 XRoboHub
+A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
 
-👁️ 3K • 👍 92 • 💬 3 • ⏱️ 0:38 • 12h ago
+📺 USA TODAY
+
+👁️ 95K • 👍 592 • 💬 108 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -230,47 +218,37 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 12K • 👍 120 • 💬 3 • ⏱️ 0:30 • 12h ago
+👁️ 15K • 👍 168 • 💬 4 • ⏱️ 0:30 • 13h ago
 
 ---
 
-**[This Robot Turns Walls Into Roads 🤖 #robotics #technology #innovation #tech](https://www.youtube.com/watch?v=N2lAMtEY0HM)**
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
 
-Engineers Built A Robot That Refuses To Treat Walls As Obstacles Most ground robots have one major limitation: when the floor ...
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
 
-📺 EcoZora
+📺 ABC News
 
-👁️ 83K • 👍 568 • 💬 10 • ⏱️ 0:07 • 3d ago
-
----
-
-**[Remote-Controlled Guava Harvesting Robot 🍐🤖 | Smart Fruit Picking Machine #shorts](https://www.youtube.com/watch?v=WdRWq4IBUQg)**
-
-Remote-Controlled Guava Harvesting Robot Title: Remote-Controlled Guava Harvesting Robot | Smart Fruit Picking ...
-
-📺 MP Bundelkhand 
-
-👁️ 67K • 👍 118 • ⏱️ 0:07 • 14h ago
+👁️ 114K • 👍 796 • 💬 138 • ⏱️ 0:40 • 3d ago
 
 ---
 
-**[Humanoid Robot Runs 100m Faster Than Usain Bolt 🤯🤖](https://www.youtube.com/watch?v=R7KxqUgrPZU)**
+**[Robot Jumps 7.97 Meters, Nearly Reaching Human World Record](https://www.youtube.com/watch?v=_NPz4EzQOfI)**
 
-Chinese Humanoid Robot Runs 100m in 9.39 Seconds, Faster Than Usain Bolt's 9.58s World Record ⚡ A humanoid robot just ...
+A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Humanoid Robot Games in Beijing.
 
-📺 Techie Sapien
+📺 DPCcars
 
-👁️ 226K • 💬 93 • ⏱️ 0:10 • 2d ago
+👁️ 60K • 👍 180 • 💬 52 • ⏱️ 1:40 • 2d ago
 
 ---
 
-**[UBTech just launched its U1 companion robot | Pushpendra](https://www.youtube.com/watch?v=BPFI3IcXZco)**
+**[Humanoid Robot Jumps 7.97 Meters](https://www.youtube.com/watch?v=6LdwLD3Qhy8)**
 
-UBTech just launched its U1 companion robot. Humanoid robots aren't just being built for factories anymore. They're being sold ...
+A humanoid robot reached an incredible 7.97 meters in the long jump at the World Humanoid Robot Games in Beijing. Tianjiao ...
 
-📺 Pushpendra Singh
+📺 DPCcars
 
-👁️ 33K • 💬 18 • ⏱️ 0:36 • 1d ago
+👁️ 26K • 👍 96 • 💬 15 • ⏱️ 0:32 • 2d ago
 
 ---
 
@@ -284,13 +262,33 @@ China's Unitree has reportedly introduced an incredible humanoid robot nicknamed
 
 ---
 
-**[Robot Jumps 7.97 Meters, Nearly Reaching Human World Record](https://www.youtube.com/watch?v=_NPz4EzQOfI)**
+**[Humanoid robots compete in weight lifting challenge at World Humanoid Robot Games](https://www.youtube.com/watch?v=wVbssAPXYTw)**
 
-A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Humanoid Robot Games in Beijing.
+Humanoid robots compete in weight lifting challenge as the World Humanoid Robot Games continues. Robots are competing in: ...
+
+📺 Peter Kappes
+
+👁️ 201K • 👍 2K • 💬 459 • ⏱️ 2:36 • 1d ago
+
+---
+
+**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
+
+Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
 📺 DPCcars
 
-👁️ 59K • 👍 175 • 💬 51 • ⏱️ 1:40 • 2d ago
+👁️ 23K • 👍 480 • 💬 87 • ⏱️ 2:12 • 5d ago
+
+---
+
+**[Autonomous Robots Are Taking Over the Tennis Court](https://www.youtube.com/watch?v=SiQx5ZrKnD8)**
+
+GALBOT humanoid robots are preparing for an autonomous tennis match that could mark an important moment for robotics and ...
+
+📺 DPCcars
+
+👁️ 20K • 👍 203 • 💬 61 • ⏱️ 1:19 • 4d ago
 
 ---
 

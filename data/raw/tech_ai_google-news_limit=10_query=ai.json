@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "pub_date": 1787668081.0,
-      "article_url": "https://openai.com/index/jalapeno-first-results/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
-      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
-    },
-    {
       "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,54 +15,64 @@
       "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
     },
     {
-      "headline": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "headline": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
+      "pub_date": 1787668081.0,
+      "article_url": "https://openai.com/index/jalapeno-first-results/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5OsuPfmq6Km8mvw4podaWa/be9c8ec1bc37f6a3bd177da03a7fe03f/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+    },
+    {
+      "headline": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTVFNHF0YUNMaFBZdkRiS0hfQW4wUUVZTmJ1UDB5Z3IxdTdWb1RxNUJsOWxoX3RyMkwxQ1VnRG9JeExzek1XSlhaaTgtTkhueS1NdWd6ZklhbDRscDdneEctenhjcFJfVEd4ZmxrLWJpSzVZZTNiUWJYUUR2U0Y3ZDJsS1Y1cnJUc3I1bGwtYmw5TVpFSEdBVkFnZy1hdlZDelNVVVFkNWxDM3JFTHVMeHp4WDBxUQ?oc=5",
-      "pub_date": 1787715000.0,
-      "article_url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
-      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnZDYTNQU016aGJnVUljb0VNRXQtd2ExUzBuSl9ZZE5XVWtwUG5kY2RpVmZqcGs5cHpTUjhuakFnVFRkRFhQaE5BRDhXbGdCSnRVbVhhYm4zNEJSLWpQR0lodzE2YzBUODkwUnNLd2FBSWZWYnozcDBYd1FxTG1GNlVCOFdjUnpKM0hvRnZNM1ljSkx1UThVWDg3dU45eE1BSGV2M0VjSk9tS2tIRW51VTF5TlBzOFJG?oc=5",
+      "pub_date": 1787702780.0,
+      "article_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+      "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
     },
     {
-      "headline": "Exclusive | OpenAI\u2019s Head of Data Centers Has Left the Company",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
-      "pub_date": 1787693400.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "headline": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026",
+      "source": "ServeTheHome",
+      "source_url": "https://www.servethehome.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WSGhkZ3l5ZkJpdklTaHFuVlBCcElvcWxaME9wc1ZNeU5XRzVxU3JueGI2dnhYU3llYm9MZlN0S1pLekhSMHhjTXlqSk5oZ2dEXy11Nk1qR2lhWXIzazFyUlY0OFR0aXQ2RzRObjR3T0xGbEpISVE0?oc=5",
+      "pub_date": 1787705145.0,
+      "article_url": "https://www.servethehome.com/openai-jalapeno-asic-at-hot-chips-2026/",
+      "image": "https://www.servethehome.com/wp-content/uploads/2026/08/OpenAI-Jalapeno-chip-final.jpg",
+      "description": "We got a deep-dive on OpenAI Jalape\u00f1o at Hot Chips 2026 as the company rapidly built its own competitive AI accelerator"
+    },
+    {
+      "headline": "'AI receptionist could not understand me after stroke'",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMzAyTTJCY2ZHZ1Uwb3dNUkhfeXpTNVZ5VmF1Yi1fRHVOaHhNbkx0cTZRbk1KUm5TY3lvbVpWeC1SY0FGMHdoaFVUNDNpcENZQTkydkNlRVlNdw?oc=5",
+      "pub_date": 1787721254.0,
+      "article_url": "https://www.bbc.com/news/articles/c4gql3gz9z7o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/061e/live/4382d580-a07d-11f1-bfeb-dfb02ea642ef.jpg",
+      "description": "Judith Butterfield from Doncaster says she could not get past the AI service EMMA."
+    },
+    {
+      "headline": "California family pushes for AI chatbot protections after son's death: \"There needs to be guardrails\"",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXhMRExCYlczaVh2Szh2bHdfeHBycTdmb3I4MlhLaUZQTHlyNlBHbkZBSk05OEhzd1BBQTBNNDRyQTJkMHBtbkhXYjYwVlZMbTl1NVNDWG9IOVpYcVFVREozcGhWcnMzWF9uVVFjR09TUGNVLXBZbFR6QzItSUhUTVBxRW0?oc=5",
+      "pub_date": 1787719437.0,
+      "article_url": "https://www.cbsnews.com/sanfrancisco/news/ai-guardrails-california-adam-raine/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/9068cbbd-5553-43c4-a2dd-b8499107d4f3/thumbnail/1200x630/d2e3b73b7bdfd604ee0874b88fb938f1/adam-raine-photos.jpg",
+      "description": "Adam Raine was 16 years old when he died by suicide. His parents say an AI chatbot guided him to the decision."
+    },
+    {
+      "headline": "Salesforce Earnings Come as AI Prompts Self-Disruption",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6cEV3dWlHeTFSU1NlNVh5QmZkSlpNNVI0S0NIMFRLNTZPZWFTRzl2RFU2ZXZwaWxwR21aQk9VMC15Ym5NbXhQcGNVRG1QMUxRa19pc244cGFDRll5elluWXhMTENNVUtibWFwb3U4QTF1U3BZNW1FWWtaQ2RMUQ?oc=5",
+      "pub_date": 1787722200.0,
+      "article_url": "https://www.barrons.com/articles/salesforce-earnings-stock-price-74e0e769",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVl2Q0VFclRyNEVvXzdEYVZUWFpheXFJNWhQUTFpeUlBQWxzbkttR3A4T242bUlEVW5Rbll4RWZIdUxNWkphcVJYcGdiUklSejVZMFRPTGdiaEF1WXdfV25LQldrcDNEQ2V2bnltNmFreVlZdDJiU1gydEptZnV3WDc3VGNtWUhsNUhJV0lObVlXaTJwdS1NU0pmTkRXV2s?oc=5",
-      "pub_date": 1787657404.0,
-      "article_url": "https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Greg Abbott Says AI Data Centers \u2018Dug Their Own Grave\u2019 as Backlash Over Power Bills, Water Use and Local Development Explodes",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmRzTHF5VGhkME9NbUpNYk1sQy0zU19tMXdzVnR3ZTEtbFJhd083c3BFcjNCR2FjbW5lSUJqSWNZbnZlTXNKak1YSEhVRlRrWGFaNHE2dlFvTkNMRENWX1lhZGJzQ3BLajVzM1hCTFQzaGQ2QkJ6MlBMdFA1VHNnVnN5b2I?oc=5",
-      "pub_date": 1787711460.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/greg-abbott-says-ai-data-023112372.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/521c027cef915a41515d1c3283045377ad7f4b8e2a875d82793c6336e24b51ab/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F0e2423784ef2c7a83f4794ee550bd9bd.jpg",
-      "description": "Texas Gov. Greg Abbott (R) is taking a harder line on AI data centers as growing public opposition forces politicians to confront concerns over electricity, water, infrastructure and local development..."
-    },
-    {
-      "headline": "Measuring ROI For Healthcare AI May Require A New Approach",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORU1CcW05dkh0cTVQdndaWWthT0swOG84MzY1ZVBkbkpFaV8yN2Z4Rm1sQnpiZkpuQ18wZFE1OURrZXpRSnh4Vk12QnBsT1psNm14QW5LQ0NCUHZTMHg4M0lacXBIcVVEcHJqQUZ6aG8zR1R3RnBweU5YMFAzcGQ4engxemVNdlUzV0lMZHc5ajFUR3VqV25xMVoydmpPa2huNWV1Sk9Ma0lLUWM?oc=5",
-      "pub_date": 1787713259.0,
-      "article_url": "https://www.forbes.com/sites/saibala/2026/08/25/measuring-roi-for-healthcare-ai-may-require-a-new-approach/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/682b46aacfc0ca615608af55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "AI tools in healthcare may add value in novel and non-traditional ways."
     },
     {
       "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
@@ -89,7 +89,7 @@
       "source": "Apple",
       "source_url": "https://www.apple.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x?oc=5",
-      "pub_date": 1787671123.0,
+      "pub_date": 1787716276.0,
       "article_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251301",
       "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T03:53:36.438788+00:00"
+  "fetched_at": "2026-08-26T05:34:27.580606+00:00"
 }
