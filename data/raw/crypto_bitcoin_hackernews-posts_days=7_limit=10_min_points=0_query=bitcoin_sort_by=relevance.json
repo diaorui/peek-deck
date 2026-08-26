@@ -103,6 +103,20 @@
       "site_name": "youtube.com"
     },
     {
+      "title": "Man reunited with \u00a33.3M lost Bitcoin after 12 years",
+      "url": "https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49451347",
+      "author": "EndXA",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-08-26T15:57:04Z",
+      "object_id": "49451347",
+      "image": "https://images.globalplayer.com/images/837622?crop=16_9&width=1200&signature=VJFnNFMP60N85P6Es_ty7hB_ZNE=",
+      "description": "Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial \u00a31,500 investment turning into a multi-million-pound fortune",
+      "favicon": "https://www.lbc.co.uk/apple-touch-icon.png",
+      "site_name": "LBC"
+    },
+    {
       "title": "Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words",
       "url": "https://strikeablock.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49370845",
@@ -129,23 +143,9 @@
       "description": "Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.",
       "favicon": "https://jonready.com/img/apple-touch-icon.png",
       "site_name": "jonready.com"
-    },
-    {
-      "title": "Show HN: Transpose Spotify audio and isolate vocals/instruments in realtime",
-      "url": "https://github.com/evanhu1/transposify",
-      "hn_url": "https://news.ycombinator.com/item?id=49425400",
-      "author": "evanhu_",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-08-24T20:26:28Z",
-      "object_id": "49425400",
-      "image": "https://opengraph.githubassets.com/0934ecb1185238d96ff15cef58ce8c221855ab6c334960490ee3d428db729f32/evanhu1/transposify",
-      "description": "Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-08-26T14:11:07.332895+00:00"
+  "fetched_at": "2026-08-26T15:59:27.832846+00:00"
 }
