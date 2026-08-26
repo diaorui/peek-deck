@@ -9,7 +9,7 @@
       "url": "https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6",
       "hn_url": "https://news.ycombinator.com/item?id=49443597",
       "author": "joeymabia1",
-      "points": 4,
+      "points": 5,
       "num_comments": 0,
       "created_at": "2026-08-26T02:45:02Z",
       "object_id": "49443597",
@@ -17,6 +17,20 @@
       "description": "A Sharp Rebound Brings Bitcoin Back Into the Spotlight",
       "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
       "site_name": "predx-article"
+    },
+    {
+      "title": "Man reunited with \u00a33.3M lost Bitcoin after 12 years",
+      "url": "https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49451347",
+      "author": "EndXA",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-08-26T15:57:04Z",
+      "object_id": "49451347",
+      "image": "https://images.globalplayer.com/images/837622?crop=16_9&width=1200&signature=VJFnNFMP60N85P6Es_ty7hB_ZNE=",
+      "description": "Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial \u00a31,500 investment turning into a multi-million-pound fortune",
+      "favicon": "https://www.lbc.co.uk/apple-touch-icon.png",
+      "site_name": "LBC"
     },
     {
       "title": "Bitcoin is great (for systemic theft of aid money)",
@@ -31,20 +45,6 @@
       "description": "Finally, a killer use case",
       "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
       "site_name": "ft.com"
-    },
-    {
-      "title": "Man reunited with \u00a33.3M lost Bitcoin after 12 years",
-      "url": "https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/",
-      "hn_url": "https://news.ycombinator.com/item?id=49451347",
-      "author": "EndXA",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-08-26T15:57:04Z",
-      "object_id": "49451347",
-      "image": "https://images.globalplayer.com/images/837622?crop=16_9&width=1200&signature=VJFnNFMP60N85P6Es_ty7hB_ZNE=",
-      "description": "Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial \u00a31,500 investment turning into a multi-million-pound fortune",
-      "favicon": "https://www.lbc.co.uk/apple-touch-icon.png",
-      "site_name": "LBC"
     },
     {
       "title": "Bitcoin's short squeeze traced to a Treasury bond buyback decision",
@@ -135,7 +135,7 @@
       "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
       "hn_url": "https://news.ycombinator.com/item?id=49440382",
       "author": "mips_avatar",
-      "points": 4,
+      "points": 5,
       "num_comments": 3,
       "created_at": "2026-08-25T20:47:00Z",
       "object_id": "49440382",
@@ -145,7 +145,7 @@
       "site_name": "jonready.com"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-08-26T19:01:32.772581+00:00"
+  "fetched_at": "2026-08-26T22:23:59.040696+00:00"
 }

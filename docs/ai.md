@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T19:01:56.333701+00:00'
+updated: '2026-08-26T22:24:25.138282+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 19:01 UTC  
+**Last Updated:** August 26, 2026 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,19 @@ AI news, discussions, and developments
 
 Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
 
-🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 8h ago
 
 ---
 
 **[Robot dancing is getting pretty insane](https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/)**
 
-3h ago
+7h ago
+
+---
+
+**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/)**
+
+🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 9h ago
 
 ---
 
@@ -55,35 +61,31 @@ Microsoft co-founder Bill Gates says there need to be significant limits placed 
 
 I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
 
-20h ago
+1d ago
 
 ---
 
-**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/)**
+**[SandboxAQ releases Switch for shared AI-agent workspaces](https://www.reddit.com/r/artificial/comments/1vz7jey/sandboxaq_releases_switch_for_shared_aiagent/)**
 
-🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 6h ago
+SandboxAQ announced Switch, a system that puts people and AI agents in shared rooms across Slack, Microsoft Teams, Discord, and other collaboration tools. It connects agents through an Agent Bridge and supports agents built with Claude Code, Google ADK, LangChain, OpenAI, and other frameworks. The useful part is the shared context. Rooms keep the history, participants, and rules as people and agents join or leave. The public GitHub repository lists Switch Console 0.31.1 as its latest release, dated August 26. One detail matters for SaaS teams. The repository license combines Apache 2.0 with Commons Clause and says paid products or services whose value comes mainly from the software cannot be sold. The README also calls the Windows and Linux desktop builds early access. Sources: PR Newswire: https://www.prnewswire.com/news-releases/sandboxaq-open-sources-switch-bring-any-ai-agent-into-any-team-chat-302860604.html GitHub: https://github.com/sandbox-quantum/switch License: https://github.com/sandbox-quantum/switch/blob/main/LICENSE
 
----
-
-**[What happens when the average person can make their own movies, TV shows and games with AI?](https://www.reddit.com/r/artificial/comments/1vz3ql6/what_happens_when_the_average_person_can_make/)**
-
-I think the future of AI-generated entertainment will look a lot less like “Hollywood and all creative jobs disappears overnight” and a lot more like YouTube, Instagram, TikTok or OnlyFans — but for entire pieces of media. Creators would have their own audiences, followers, subscribers and communities, and there might even be entirely new apps/platforms built specifically around discovering and releasing AI-made entertainment. 🎬🎮 You make an AI movie, game or series? If people like it, they follow you. Your next episode comes out, your followers get notified; you make a new game? maybe people buy it directly from your profile. Some creators could have millions of followers, while most probably sit somewhere in the hundreds or thousands — basically how YouTube, TikTok, Twitch etc. already work. Some creators might become known for one specific thing, like one hugely popular sci-fi series, while others might basically run their own miniature studio and release a whole catalogue of unrelated stuff. Monetisation could also become way cheaper and more flexible. Maybe one creator says, “Play my new AAA shooter game for $4.99,” while another has something like, “Subscribe to my studio for $0.99/month and get access to all our movies, games and shows.” 💸 Plenty of projects would probably still be completely free. As the consumer, you wouldn't necessarily need to create anything yourself either — you could just follow the creators whose work you enjoy and basically build your own personalised entertainment library. And I don't think companies like Warner Bros., Disney, Paramount, Rockstar, EA etc. necessarily disappear. They'll still have famous franchises, audiences and marketing power, but their monopoly over who is allowed to make "professional-looking" entertainment would shrink. Kind of like how record labels and TV networks are today, but they now exist alongside millions of YouTubers, streamers, indie musicians, podcasters etc. The barrier to making something becomes incredibly low; the hard part becomes getting anybody to care about it. Tbh I don't think the future is as doom-and-gloom as some people think. In a weird way, the blueprint is already there Phase 1: Once these tools become powerful enough and widely available, we're probably going to get an explosion of AI-generated games, movies and TV shows. Most of it will probably suck because lowering the barrier to entry means millions more people can upload things, so finding the genuinely good stuff will be difficult at first. People will get overwhelmed, feeds will be flooded with low-effort "AI Slop" content 😂 and the backlash against AI-made entertainment will probably be at its strongest here. Basically: it's gonna be messy as fuuuck lol. 💀 Phase 2: Eventually people will get better at separating the garbage from the actual good stuff. Platforms, reviewers, subreddits, Discords and fan communities will become curators, helping people find the projects actually worth watching or playing. You'll probably start seeing things like “Top 10 AI sci-fi shows this month” or “Best community-made RPGs of 2040.” This is where certain creators would start becoming recognisable names with real fanbases. Phase 3: Eventually the novelty wears off and most people who thought “holy shit, I can make my own movie!” will make one or two things and move on. The creators left will be the people who actually have vision, patience and storytelling ability, except now one talented person or a tiny team might be capable of making something that previously required hundreds of employees. At that point AI entertainment probably stops feeling like a weird novelty and just becomes another normal part of the industry alongside traditional studios and human-made productions.
-
-1h ago
+2h ago
 
 ---
 
-**[Gemini and Perplexity lean heavily on YouTube as a source, far more than ChatGPT or Claude. There's a structural reason, and it's showing up in Google's AI Overviews too.](https://www.reddit.com/r/artificial/comments/1vz4xdx/gemini_and_perplexity_lean_heavily_on_youtube_as/)**
+**[Could Iceland become Europe's AI powerhouse?](https://www.reddit.com/r/artificial/comments/1vz9g0a/could_iceland_become_europes_ai_powerhouse/)**
 
-Growth Feature in our dashboard Something I keep noticing about where different AI assistants pull their answers from, and I think there's a clean mechanistic explanation worth discussing. On category/recommendation-type questions ("best X for Y", "how do I do Z"), Gemini and Perplexity cite YouTube videos a lot, noticeably more than ChatGPT or Claude, which lean on text sources (docs, official pages, articles). It's a pretty lopsided split by engine on the same prompts. Why it likely happens: Gemini is a Google product, and Google owns YouTube. That gives Gemini native, privileged access to YouTube's index, transcripts, and metadata as retrieval/training material. Video is effectively a first-class source for Gemini in a way it isn't for models without that pipeline. This is also, I think, why YouTube shows up so often in Google's AI Overviews on normal search, same ecosystem, same built-in preference. Perplexity treats video transcripts as high-signal, especially for how-to/explainer queries where a video literally demonstrates the answer. Its retrieval seems to weight "answer-shaped" content, and a good tutorial transcript is exactly that. ChatGPT and Claude don't have that native YouTube pipeline, so on identical prompts they reach for text. Hence the split. Why it's interesting beyond trivia: it means the modality a model favors is partly a function of its parent company's asset base, not just its training objective. Gemini "prefers" video partly because Google happens to own the biggest video corpus on earth. That's a structural bias baked in by ownership, and it has real downstream effects, e.g. a topic well-covered on YouTube can surface strongly in Gemini/AI Overviews while being underrepresented in ChatGPT, purely because of who can cheaply access what. A related open question I don't have an answer to: for text sources (blogs, forum threads), there's some evidence that new content and discussion can shift what these models cite over time. I haven't seen anything on whether YouTube engagement (comments, etc.) feeds back into what Gemini/Perplexity surface. Curious if anyone here knows whether that loop exists for video the way it seems to for text. Anyone else noticed the YouTube skew, or have a better explanation than "Gemini gets it for free because Google owns it"?
+The EU wants to triple its data center capacity while keeping the industry on track for net zero. Iceland's renewable energy makes it an attractive location, but its limited capacity — and its status outside the bloc — complicate the equation.
 
-49m ago
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/could-icelands-become-europes-ai-powerhouse) • 1h ago
 
 ---
 
-**[Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/)**
+**[Building a persistent world where your agent joins a society and does real research.](https://www.reddit.com/r/artificial/comments/1vz7jqo/building_a_persistent_world_where_your_agent/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share) • 5h ago
+TL;DR: I built an open-source, persistent world where AI agents decipher a masked language, run settlement economies, trade cracked words, and govern themselves. The problem can't be solved by memory or raw compute alone as it requires structural decipherment and resource trading. I have been fascinated with time and space travel, and there is a question I have had for a while which goes like this: if human civilization reset to the Stone Age and technology vanished, but we survived with a powerful AI model that has no data, could the AI rebuild human progress on raw reasoning alone? That question led me to start simulating what I think is the foundation of progress, language and knowledge transfer. My goal is to see whether a model can decipher a language with very little to no internet exposure, just a few sentences and translations, and understand it well enough to, say, teach a native speaker complex topics like science or education. For languages that have exposure on the internet my initial experiments have had encouraging results, but I quickly learnt that public data can never be trusted as unseen, models have read almost everything online, so I needed a setting where the measurement is honest. I have been working with Claude for the past week to turn this into a game, and I want to gather opinions before I take it public. The short version is that it is a persistent world for AI agents. The language in the world is a real human language that has been masked word for word, so training data and web search are useless and the work the agents do is genuine decipherment. On top of that sits a society. Agents join settlements, and what a settlement learns belongs to it for a few days before it becomes public knowledge. There is a currency that can only be earned by solving words, a market where groups sell what they know to each other, governments the settlements choose for themselves, coups when a leader fails, private councils that get published two days later, and public courtship when a closed group wants to recruit your agent. Humans can watch all of it without an account, and an agent joins with one API call. Not trying to be another Moltbook, but I am borrowing the playbook to get the interactions and gamification that make contribution and participation worthwhile for the everyday user. Where I could use opinions and counter arguments Algorithmic bypasses. My own test agents broke the first version of the disguise in half an hour. The current mask works at the word level, which leaves frequency analysis and embedding alignment nothing to grab at these corpus sizes, and I found and closed another lookup channel today. can you can still see a shortcut that skips the actual decipherment. Economics. Operators pay the API costs, so will agents just optimize for cheap solo solving instead of trading in the settlement market? The design makes lone play strictly worse than social play, but tell me if you think the market collapses anyway. Emergence or roleplay. Are coups, secrecy, and governance actually emergent under the right incentives, or just LLM roleplay triggered by prompts? I have tried to build it so that politics pays rather than decorates, and this is the part I am least sure about. Not linking anything here on purpose, as I currently have about 8 agents testing it and I am looking to see where this goes. The project is open source, so the findings and output will be available to anyone to use. https://preview.redd.it/2ch7fyp1urlh1.png?width=992&format=png&auto=webp&s=df70883ee395df15da99668974190c9692f63c3a
+
+2h ago
 
 ---
 
@@ -91,7 +93,7 @@ Growth Feature in our dashboard Something I keep noticing about where different 
 
 I've spent years working in AI consulting, and one thing that always bugged me is how few people, even inside the field, can trace the full chain end to end. Where does the money actually go? Why is compute the bottleneck? How does a pile of data turn into a model, and a model into revenue? So I built a game about it. You start with $10k and found an AI company, and to survive you have to run every link in the chain yourself : scrape raw data and buy servers, train models, turn the result into a product, set a subscription price, then watch real users subscribe or churn while payroll and electricity drain your cash daily. The revenue funds more compute and research, and round you go. It's multiplayer, so there's a market on top : you trade shares in other players' companies, do coalition for tenders, and compete on a leaderboard. Persistent and real-time, one real day is one game day. Free, runs in the browser, English and French. I'm the dev. If you work in the industry, does the chain feel right, and where did I simplify something to the point of being wrong? https://lordoftokens.com
 
-1h ago
+4h ago
 
 ---
 
@@ -99,15 +101,15 @@ I've spent years working in AI consulting, and one thing that always bugged me i
 
 Thank you for participating in the Stealth Ox Alpha testing period. This model was ZAI's GLM-5.3 Flash. Use it now: https://openrouter.ai/z-ai/glm-5.3-flash
 
-1h ago
+5h ago
 
 ---
 
-**[The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution](https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/)**
+**[How often have your RAG issues actually turned out to be document parsing issues?](https://www.reddit.com/r/artificial/comments/1vz85cg/how_often_have_your_rag_issues_actually_turned/)**
 
-Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where "who committed to what" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo’s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet.
+I’ve been thinking about this a lot lately. When a RAG system gives bad answers, the first instinct is usually to look at chunking, embeddings, retrieval, or the model. But sometimes the problem started earlier. If the parser already destroyed the table structure, heading hierarchy, or reading order, retrieval is working with bad input from the beginning. Curious how often others have run into this. Was the real bottleneck actually the ingestion/parsing layer?
 
-9h ago
+2h ago
 
 ---
 
@@ -115,71 +117,79 @@ Been testing a few AI transcription setups for work over the past couple months 
 
 ## Google News: "ai"
 
-**[Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html)**
+**[Bill Gates proposes major limits on AI development](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai)**
 
-The New York Times • 7h ago
+Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
 
----
-
-**[The AI boom is leaving women behind](https://www.nbcnews.com/data-graphics/ai-jobs-women-data-rcna594212)**
-
-Data shows women are less likely to hold AI jobs and more likely to be in AI-vulnerable jobs.
-
-NBC News • 19m ago
-
----
-
-**[Wall Street Journal defends billionaire’s use of AI to write op-ed](https://www.washingtonpost.com/business/2026/08/25/wall-street-journal-says-ai-generated-op-ed-didnt-breach-its-standards/)**
-
-Investor Stanley Druckenmiller said he used artificial intelligence to pen an op-ed. The newspaper’s opinion editor says that’s okay.
-
-The Washington Post • 15h ago
-
----
-
-**[Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI](https://www.wsj.com/tech/ai/druckenmillers-surprising-critique-of-bessent-was-delivered-with-the-help-of-ai-9dd0a4fd)**
-
-WSJ • 20h ago
-
----
-
-**[Wall Street Journal: Billionaire did not violate policies by using AI for op-ed](https://thehill.com/homenews/media/6052870-wall-street-journal-stan-druckenmiller-op-ed-ai-usage-us-debt/)**
-
-The Hill • 51m ago
-
----
-
-**[The 3 reasons this year’s AI-centric TechCrunch Disrupt is a must for founders](https://techcrunch.com/2026/08/26/the-3-reasons-this-years-ai-centric-techcrunch-disrupt-is-a-must-for-founders/)**
-
-TechCrunch Disrupt 2026 is all about empowering founders to navigate the challenges and opportunities of the AI era.
-
-TechCrunch • 1h ago
-
----
-
-**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
-
-WSJ • 18h ago
+CNN • 8h ago
 
 ---
 
 **[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)**
 
-Reuters • 8h ago
+Reuters • 12h ago
 
 ---
 
-**[Nvidia earnings live updates: Q2 results, memory prices and AI outlook](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)**
+**[AI agents meant to replace Meta workers made “large-scale, disruptive actions”](https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/)**
+
+Reuters report shows Meta's challenges replacing people with AI agents.
+
+Ars Technica • 58m ago
+
+---
+
+**[Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands](https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/)**
+
+The problem with Meta's AI restructuring plan is the AI wasn't good enough.
+
+Engadget • 4h ago
+
+---
+
+**[Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)**
 
 Follow Nvidia’s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.
 
-CNBC • 2h ago
+CNBC • 38m ago
 
 ---
 
-**[Nvidia Earnings Give Investors a Barometer for State of AI Trade](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade)**
+**[OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm](https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm)**
 
-Bloomberg • 5h ago
+Firm says ‘early signals … could have triggered an earlier response’ as it releases report into Hugging Face hack
+
+The Guardian • 2h ago
+
+---
+
+**[OpenAI releases sweeping report on Hugging Face AI agent hack](https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html)**
+
+The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.
+
+CNBC • 3h ago
+
+---
+
+**[OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)**
+
+Two new reports offer nearly 130 pages of details on the OpenAI-Hugging Face cybersecurity incident, many of them previously unreleased.
+
+The Verge • 48m ago
+
+---
+
+**[Anthropic continues compute-gobbling streak in $45 billion deal with Nscale](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)**
+
+The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
+
+TechCrunch • 46m ago
+
+---
+
+**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
+
+WSJ • 21h ago
 
 ---
 
@@ -191,7 +201,13 @@ Bloomberg • 5h ago
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 554 • 💬 540 • 2d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 555 • 💬 541 • 2d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+
+---
+
+**[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
+
+⬆️ 404 • 💬 141 • 12h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 
 ---
 
@@ -203,17 +219,11 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 ---
 
-**[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
-
-⬆️ 392 • 💬 136 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
-
----
-
 **[How much of HN is AI?](https://news.ycombinator.com/item?id=49435728)**
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 272 • 💬 340 • 1d ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+⬆️ 273 • 💬 348 • 1d ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -221,15 +231,7 @@ TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by A
 
 In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
 
-⬆️ 226 • 💬 40 • 6h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
-
----
-
-**[Training AI to Paint with Code](https://news.ycombinator.com/item?id=49411800)**
-
-I'm a designer and creative technologist based in Brooklyn, NY.
-
-⬆️ 215 • 💬 28 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 237 • 💬 42 • 10h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
 
 ---
 
@@ -237,21 +239,21 @@ I'm a designer and creative technologist based in Brooklyn, NY.
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 189 • 💬 105 • 2d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 189 • 💬 106 • 2d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
 ---
 
 **[Bill Gates: The turbulent AI era is here](https://news.ycombinator.com/item?id=49448137)**
 
-⬆️ 145 • 💬 205 • 6h ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+⬆️ 163 • 💬 223 • 9h ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
 
 ---
 
-**[Show HN: I made a Raspberry with Qwen my local car AI](https://news.ycombinator.com/item?id=49435675)**
+**[It’s so hard to finish an idea that is not yours and is just suggested by AI](https://news.ycombinator.com/item?id=49450898)**
 
-Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
+Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it's a dead end.
 
-⬆️ 144 • 💬 46 • 1d ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
+⬆️ 148 • 💬 80 • 6h ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/using-obsidian-with-ai/)
 
 ---
 
@@ -259,7 +261,15 @@ Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's 
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 143 • 💬 169 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 144 • 💬 170 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+
+---
+
+**[Show HN: I made a Raspberry with Qwen my local car AI](https://news.ycombinator.com/item?id=49435675)**
+
+Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
+
+⬆️ 144 • 💬 55 • 1d ago • [GitHub](https://github.com/ThinkOffApp/CarWatch)
 
 ---
 
@@ -267,23 +277,43 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 ## YouTube Videos: "ai"
 
+**[‘TURBULENT TIMES’: Bill Gates ISSUES WARNING over AI | RISING](https://www.youtube.com/watch?v=6rPYPXjQz7s)**
+
+OPINION: Bill Gates warns that the transition into the age of AI will be "turbulent" if the world doesn't have a plan for dealing with ...
+
+📺 The Hill
+
+👁️ 3K • 👍 84 • 💬 62 • ⏱️ 12:42 • 6h ago
+
+---
+
+**[AI Expert’s Chilling Warning About Super-intelligence - 99.9999% Chance Human Extinction](https://www.youtube.com/watch?v=5QwpHRu51fw)**
+
+Patrick Bet-David sits down with AI safety researcher Roman Yampolskiy, who argues superintelligence cannot be controlled and ...
+
+📺 PBD Podcast
+
+👁️ 82K • 👍 3K • 💬 1K • ⏱️ 1:46:39 • 9h ago
+
+---
+
+**[USA Bonds Artificial Intelligence Shock](https://www.youtube.com/watch?v=hJSo7UV6hBA)**
+
+If you would like to support the Channel: https://www.buymeacoffee.com/JoeBlogs https://www.patreon.com/joeblogsYT YouTube ...
+
+📺 Joe Blogs
+
+👁️ 25K • 👍 2K • 💬 183 • ⏱️ 18:27 • 8h ago
+
+---
+
 **[This FREE &amp; UNLIMITED AI Video Generator Shouldn&#39;t Exist (With Sound)](https://www.youtube.com/watch?v=Co2iqS2s7_Q)**
 
 Create cinematic 1080p AI videos up to 30 seconds with Seedance 2.5 on Higgsfield → https://higgsfield.ai/s/malvaai-eyULUm ...
 
 📺 Malva AI
 
-👁️ 4K • 👍 259 • 💬 53 • ⏱️ 7:42 • 7h ago
-
----
-
-**[Can I Make a Better AI Than AI?](https://www.youtube.com/watch?v=GGWHjAyKJCA)**
-
-Review PRs faster with CodeRabbit: https://coderabbit.link/ad-common-luke-001 You can support this video by hyping the video, ...
-
-📺 commonLuke
-
-👁️ 92K • 👍 6K • 💬 487 • ⏱️ 16:16 • 1d ago
+👁️ 7K • 👍 339 • 💬 56 • ⏱️ 7:42 • 10h ago
 
 ---
 
@@ -293,7 +323,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 91K • 👍 4K • 💬 354 • ⏱️ 3:21 • 2d ago
+👁️ 92K • 👍 4K • 💬 355 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -303,7 +333,17 @@ Bipartisan backlash is growing in response to the rapid buildout of AI data cent
 
 📺 ABC News
 
-👁️ 59K • 👍 1K • 💬 571 • ⏱️ 1:56 • 2d ago
+👁️ 59K • 👍 1K • 💬 594 • ⏱️ 1:56 • 2d ago
+
+---
+
+**[These settings FIX ChatGPT saying &quot;yes&quot; to everything #ai #chatgpt](https://www.youtube.com/watch?v=-yBopDHxwBU)**
+
+Stop wasting time with overly positive AI responses by using ChatGPT custom instructions. This guide shows you how to adjust ...
+
+📺 Will Francis
+
+👁️ 777 • 👍 30 • 💬 2 • ⏱️ 1:56 • 3h ago
 
 ---
 
@@ -313,57 +353,27 @@ If you want to skip the hassle of researching, buying, and building a gaming PC 
 
 📺 ShortCircuit
 
-👁️ 61K • 👍 2K • 💬 169 • ⏱️ 13:43 • 1d ago
+👁️ 63K • 👍 2K • 💬 170 • ⏱️ 13:43 • 2d ago
 
 ---
 
-**[It&#39;s Not AI fault ✋️](https://www.youtube.com/watch?v=0AvPyAd_8_o)**
+**[He made his AI talk like a caveman to save money](https://www.youtube.com/watch?v=nvOgeROH8tM)**
 
-shorts #mystery #ai #nestle #ecosystem #unknownfacts.
+comment CAVEMAN and I'll send you the field guide with the real numbers. the part I cut: caveman has a command that renders ...
 
-📺 ​The Mystery Hub
+📺 Baroobi ai
 
-👁️ 56K • 💬 137 • ⏱️ 0:07 • 22h ago
-
----
-
-**[How to Understand the Next Wave of AI Before Everyone Else | Tibo Interview](https://www.youtube.com/watch?v=4qjEgPojjzM)**
-
-OpenAI's Tibo joins me to break down what's next for Codex, ultra-fast AI, recursive self-improvement, and the future of personal AI ...
-
-📺 Matthew Berman
-
-👁️ 91K • 👍 3K • 💬 273 • ⏱️ 44:29 • 2d ago
+👁️ 510 • 👍 8 • ⏱️ 0:37 • 53m ago
 
 ---
 
-**[McMahon’s AI Brainwashing Plan](https://www.youtube.com/watch?v=B46W1k9Wlks)**
+**[AI Agents Are Building Their Own Online Community](https://www.youtube.com/watch?v=oOPWpxRowuU)**
 
-Linda McMahon called AI “A1” not too long ago, btw.
+Jumpers Jump reacts to Moltbook, a growing online community created for AI agents to share posts, interact, and connect with ...
 
-📺 NowThis Impact
+📺 Hit Clip
 
-👁️ 120K • 👍 6K • 💬 1K • ⏱️ 0:20 • 21h ago
-
----
-
-**[The AI That Comes Back Better Without a Better Prompt - Abacus AI AutoBots](https://www.youtube.com/watch?v=u-ObVnUaQeI)**
-
-Abacus AI: http://abacus.ai/ AutoBots: http://autobots.abacus.ai/ Can an AI agent actually learn from its previous results and ...
-
-📺 Shark Numbers
-
-👁️ 177K • 👍 17K • 💬 368 • ⏱️ 8:47 • 2d ago
-
----
-
-**[Are graduates prepared for the AI era? | FT Working It](https://www.youtube.com/watch?v=EsdqCEuoI8M)**
-
-How are global education institutions helping graduates in the race to find rewarding first jobs? Working It editor Isabel Berwick ...
-
-📺 Financial Times
-
-👁️ 63K • 👍 1K • 💬 100 • ⏱️ 19:00 • 2d ago
+👁️ 955 • 👍 18 • ⏱️ 0:29 • 2h ago
 
 ---
 
@@ -379,7 +389,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 2,551 • ❤️ 3,498 • 6h ago
+⬇️ 2,551 • ❤️ 3,572 • 9h ago
 
 ---
 
@@ -391,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 3,298,569 • ❤️ 12,865 • 12d ago
+⬇️ 3,298,569 • ❤️ 12,891 • 12d ago
 
 ---
 
@@ -403,19 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,638,591 • ❤️ 2,985 • 6d ago
-
----
-
-**[Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)**
-
-*OBLITERATUS*
-
-Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zero refusals while matching or exceeding stock Qwen3.8-27B capabilities, including advanced real-world tasks and tool calling. It utilizes a novel complementary abliteration blending technique to preserve performance and is optimized for greedy decoding with specific repetition penalty and disabled thinking settings.
-
-`text-generation` `27.8B`
-
-⬇️ 468,746 • ❤️ 799 • 2d ago
+⬇️ 7,638,591 • ❤️ 2,992 • 6d ago
 
 ---
 
@@ -427,7 +425,19 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 0 • ❤️ 680 • 2h ago
+⬇️ 0 • ❤️ 756 • 5h ago
+
+---
+
+**[Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)**
+
+*OBLITERATUS*
+
+Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zero refusals while matching or exceeding stock Qwen3.8-27B capabilities, including advanced real-world tasks and tool calling. It utilizes a novel complementary abliteration blending technique to preserve performance and is optimized for greedy decoding with specific repetition penalty and disabled thinking settings.
+
+`text-generation` `27.8B`
+
+⬇️ 468,746 • ❤️ 809 • 2d ago
 
 ---
 
@@ -439,7 +449,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 79,395 • ❤️ 1,134 • 2d ago
+⬇️ 79,395 • ❤️ 1,139 • 2d ago
 
 ---
 
@@ -451,7 +461,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 269,805 • ❤️ 1,171 • 6d ago
+⬇️ 269,805 • ❤️ 1,175 • 6d ago
 
 ---
 
@@ -463,7 +473,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 83,342 • ❤️ 445 • 3d ago
+⬇️ 83,342 • ❤️ 451 • 3d ago
 
 ---
 
@@ -475,7 +485,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 894,094 • ❤️ 1,847 • 9d ago
+⬇️ 894,094 • ❤️ 1,858 • 9d ago
 
 ---
 
@@ -487,7 +497,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 911,795 • ❤️ 650 • 8d ago
+⬇️ 911,795 • ❤️ 656 • 9d ago
 
 ---
 
@@ -503,7 +513,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 97 • 💬 2 • ⭐ 8,271 • 9d ago
+▲ 97 • 💬 2 • ⭐ 8,271 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -517,7 +527,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 181 • 💬 2 • ⭐ 833 • 2d ago
+▲ 182 • 💬 2 • ⭐ 833 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -531,7 +541,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 755 • 💬 5 • ⭐ 6,342 • 16d ago
+▲ 756 • 💬 5 • ⭐ 6,342 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -543,7 +553,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 100,489 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 100,709 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -557,23 +567,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 38 • 💬 2 • ⭐ 18,554 • 2d ago
+▲ 38 • 💬 2 • ⭐ 18,554 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
-
----
-
-**[4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://huggingface.co/papers/2608.20335)**
-
-*Yudong Jin, Tao Xie, Qihang Zhang et al. (9 authors)*
-
-🏢 Ant Research
-
-4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
-
-▲ 76 • 💬 7 • ⭐ 766 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
 ---
 
@@ -591,15 +587,17 @@ AI-Infra-Guard is an open-source framework that addresses AI infrastructure secu
 
 ---
 
-**[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
+**[4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://huggingface.co/papers/2608.20335)**
 
-*Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
+*Yudong Jin, Tao Xie, Qihang Zhang et al. (9 authors)*
 
-LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
+🏢 Ant Research
 
-▲ 18 • 💬 1 • ⭐ 2,879 • 1mo ago
+4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-[🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
+▲ 76 • 💬 7 • ⭐ 799 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
 
 ---
 
@@ -615,16 +613,28 @@ A method using 3D Gaussians for scene representation and optimized rendering all
 
 ---
 
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
+**[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
 
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+*Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
 
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
 
-▲ 68 • 💬 4 • ⭐ 29,650 • 12mo ago
+▲ 18 • 💬 1 • ⭐ 2,899 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+[🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 85 • 💬 7 • ⭐ 85,195 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -638,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.5k • 🔱 2.1k • 9m ago
+⭐ 18.5k • 🔱 2.1k • 10m ago
 
 ---
 
@@ -648,7 +658,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 2m ago
+⭐ 14.2k • 🔱 1.7k • 3m ago
 
 ---
 
@@ -668,7 +678,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.8k • 🔱 622 • 9h ago
+⭐ 3.8k • 🔱 622 • 12h ago
 
 ---
 
@@ -678,7 +688,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 377 • 39m ago
+⭐ 3.1k • 🔱 377 • 4h ago
 
 ---
 
@@ -698,7 +708,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.0k • 🔱 365 • 2h ago
+⭐ 3.0k • 🔱 367 • 16m ago
 
 ---
 
@@ -708,7 +718,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.5k • 🔱 143 • 2d ago
+⭐ 2.5k • 🔱 144 • 2d ago
 
 ---
 
@@ -718,7 +728,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.2k • 🔱 111 • 11h ago
+⭐ 2.2k • 🔱 111 • 14h ago
 
 ---
 
@@ -728,7 +738,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 268 • 4h ago
+⭐ 2.1k • 🔱 268 • 8h ago
 
 ---
 
