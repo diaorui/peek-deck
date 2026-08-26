@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-26T16:53:40.260274+00:00'
+updated: '2026-08-26T19:01:56.333701+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 26, 2026 at 16:53 UTC  
+**Last Updated:** August 26, 2026 at 19:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,29 +37,67 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[CEO fired developers to make room for AI. Developers respond by creating open source AI CEO](https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/)**
-
-I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
-
-18h ago
-
----
-
 **[Bill Gates says there needs to be limits on AI](https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/)**
 
 Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
 
-🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+
+---
+
+**[Robot dancing is getting pretty insane](https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/)**
+
+3h ago
+
+---
+
+**[CEO fired developers to make room for AI. Developers respond by creating open source AI CEO](https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/)**
+
+I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an "AI Transformation". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive
+
+20h ago
 
 ---
 
 **[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/)**
 
-🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 6h ago
 
 ---
 
-**[Robot dancing is getting pretty insane](https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/)**
+**[What happens when the average person can make their own movies, TV shows and games with AI?](https://www.reddit.com/r/artificial/comments/1vz3ql6/what_happens_when_the_average_person_can_make/)**
+
+I think the future of AI-generated entertainment will look a lot less like “Hollywood and all creative jobs disappears overnight” and a lot more like YouTube, Instagram, TikTok or OnlyFans — but for entire pieces of media. Creators would have their own audiences, followers, subscribers and communities, and there might even be entirely new apps/platforms built specifically around discovering and releasing AI-made entertainment. 🎬🎮 You make an AI movie, game or series? If people like it, they follow you. Your next episode comes out, your followers get notified; you make a new game? maybe people buy it directly from your profile. Some creators could have millions of followers, while most probably sit somewhere in the hundreds or thousands — basically how YouTube, TikTok, Twitch etc. already work. Some creators might become known for one specific thing, like one hugely popular sci-fi series, while others might basically run their own miniature studio and release a whole catalogue of unrelated stuff. Monetisation could also become way cheaper and more flexible. Maybe one creator says, “Play my new AAA shooter game for $4.99,” while another has something like, “Subscribe to my studio for $0.99/month and get access to all our movies, games and shows.” 💸 Plenty of projects would probably still be completely free. As the consumer, you wouldn't necessarily need to create anything yourself either — you could just follow the creators whose work you enjoy and basically build your own personalised entertainment library. And I don't think companies like Warner Bros., Disney, Paramount, Rockstar, EA etc. necessarily disappear. They'll still have famous franchises, audiences and marketing power, but their monopoly over who is allowed to make "professional-looking" entertainment would shrink. Kind of like how record labels and TV networks are today, but they now exist alongside millions of YouTubers, streamers, indie musicians, podcasters etc. The barrier to making something becomes incredibly low; the hard part becomes getting anybody to care about it. Tbh I don't think the future is as doom-and-gloom as some people think. In a weird way, the blueprint is already there Phase 1: Once these tools become powerful enough and widely available, we're probably going to get an explosion of AI-generated games, movies and TV shows. Most of it will probably suck because lowering the barrier to entry means millions more people can upload things, so finding the genuinely good stuff will be difficult at first. People will get overwhelmed, feeds will be flooded with low-effort "AI Slop" content 😂 and the backlash against AI-made entertainment will probably be at its strongest here. Basically: it's gonna be messy as fuuuck lol. 💀 Phase 2: Eventually people will get better at separating the garbage from the actual good stuff. Platforms, reviewers, subreddits, Discords and fan communities will become curators, helping people find the projects actually worth watching or playing. You'll probably start seeing things like “Top 10 AI sci-fi shows this month” or “Best community-made RPGs of 2040.” This is where certain creators would start becoming recognisable names with real fanbases. Phase 3: Eventually the novelty wears off and most people who thought “holy shit, I can make my own movie!” will make one or two things and move on. The creators left will be the people who actually have vision, patience and storytelling ability, except now one talented person or a tiny team might be capable of making something that previously required hundreds of employees. At that point AI entertainment probably stops feeling like a weird novelty and just becomes another normal part of the industry alongside traditional studios and human-made productions.
+
+1h ago
+
+---
+
+**[Gemini and Perplexity lean heavily on YouTube as a source, far more than ChatGPT or Claude. There's a structural reason, and it's showing up in Google's AI Overviews too.](https://www.reddit.com/r/artificial/comments/1vz4xdx/gemini_and_perplexity_lean_heavily_on_youtube_as/)**
+
+Growth Feature in our dashboard Something I keep noticing about where different AI assistants pull their answers from, and I think there's a clean mechanistic explanation worth discussing. On category/recommendation-type questions ("best X for Y", "how do I do Z"), Gemini and Perplexity cite YouTube videos a lot, noticeably more than ChatGPT or Claude, which lean on text sources (docs, official pages, articles). It's a pretty lopsided split by engine on the same prompts. Why it likely happens: Gemini is a Google product, and Google owns YouTube. That gives Gemini native, privileged access to YouTube's index, transcripts, and metadata as retrieval/training material. Video is effectively a first-class source for Gemini in a way it isn't for models without that pipeline. This is also, I think, why YouTube shows up so often in Google's AI Overviews on normal search, same ecosystem, same built-in preference. Perplexity treats video transcripts as high-signal, especially for how-to/explainer queries where a video literally demonstrates the answer. Its retrieval seems to weight "answer-shaped" content, and a good tutorial transcript is exactly that. ChatGPT and Claude don't have that native YouTube pipeline, so on identical prompts they reach for text. Hence the split. Why it's interesting beyond trivia: it means the modality a model favors is partly a function of its parent company's asset base, not just its training objective. Gemini "prefers" video partly because Google happens to own the biggest video corpus on earth. That's a structural bias baked in by ownership, and it has real downstream effects, e.g. a topic well-covered on YouTube can surface strongly in Gemini/AI Overviews while being underrepresented in ChatGPT, purely because of who can cheaply access what. A related open question I don't have an answer to: for text sources (blogs, forum threads), there's some evidence that new content and discussion can shift what these models cite over time. I haven't seen anything on whether YouTube engagement (comments, etc.) feeds back into what Gemini/Perplexity surface. Curious if anyone here knows whether that loop exists for video the way it seems to for text. Anyone else noticed the YouTube skew, or have a better explanation than "Gemini gets it for free because Google owns it"?
+
+49m ago
+
+---
+
+**[Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share) • 5h ago
+
+---
+
+**[I work in data & AI and built a game to show how the whole industry chain actually fits together](https://www.reddit.com/r/artificial/comments/1vz3o6r/i_work_in_data_ai_and_built_a_game_to_show_how/)**
+
+I've spent years working in AI consulting, and one thing that always bugged me is how few people, even inside the field, can trace the full chain end to end. Where does the money actually go? Why is compute the bottleneck? How does a pile of data turn into a model, and a model into revenue? So I built a game about it. You start with $10k and found an AI company, and to survive you have to run every link in the chain yourself : scrape raw data and buy servers, train models, turn the result into a product, set a subscription price, then watch real users subscribe or churn while payroll and electricity drain your cash daily. The revenue funds more compute and research, and round you go. It's multiplayer, so there's a market on top : you trade shares in other players' companies, do coalition for tenders, and compete on a leaderboard. Persistent and real-time, one real day is one game day. Free, runs in the browser, English and French. I'm the dev. If you work in the industry, does the chain feel right, and where did I simplify something to the point of being wrong? https://lordoftokens.com
+
+1h ago
+
+---
+
+**[Thank you for participating in the Stealth Ox Alpha testing period.](https://www.reddit.com/r/artificial/comments/1vz32jh/thank_you_for_participating_in_the_stealth_ox/)**
+
+Thank you for participating in the Stealth Ox Alpha testing period. This model was ZAI's GLM-5.3 Flash. Use it now: https://openrouter.ai/z-ai/glm-5.3-flash
 
 1h ago
 
@@ -69,45 +107,7 @@ Microsoft co-founder Bill Gates says there need to be significant limits placed 
 
 Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where "who committed to what" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo’s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet.
 
-7h ago
-
----
-
-**[The reason why I have 15 Codex Pro 20x subscriptions](https://www.reddit.com/r/artificial/comments/1vz0zk8/the_reason_why_i_have_15_codex_pro_20x/)**
-
-The reason why I have 15 Codex Pro 20x subscriptions: Premium tokens are 311x cheaper for a LIMITED TIME ONLY* at the OpenAI Token Depot. I brought 15 shopping carts. The subsidy has dropped 25% since 1 month ago.
-
-59m ago
-
----
-
-**[AGI quietly defined 34 days before Microsoft and OpenAI kill AGI Clause?](https://www.reddit.com/r/artificial/comments/1vz0fek/agi_quietly_defined_34_days_before_microsoft_and/)**
-
-Artificial General Intelligence is defined by the capacity to carry binding conditions across domains. A binding condition is the prerequisite that must hold for valid continuation. A system exhibits AGI when it can identify, verify, and enforce these conditions in arbitrary contexts without domain-specific training. Paper: https://doi.org/10.5281/zenodo.19211116 Official Microsoft Announcement: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/ Reuters saying AGI clause was scrapped: https://www.breakingviews.com/columns/breaking-view/microsoft-openai-agree-ai-is-just-product-2026-04-27/
-
-🔗 [doi.org](https://doi.org/10.5281/zenodo.19211116) • 1h ago
-
----
-
-**[Found someone using an unapproved AI tool with client data. How common is this?](https://www.reddit.com/r/artificial/comments/1vyz1jg/found_someone_using_an_unapproved_ai_tool_with/)**
-
-Something happened recently that made me think about how common this might actually be. I found out that someone on a project team had been copying parts of a client's internal documents into a personal ChatGPT account to save some time. There was no bad intention behind it. They simply didn't think about the security side of it. It made me wonder how other companies are dealing with this. Is this something you've actually come across, or is it still pretty rare in your organization? Do you have any way to know which AI tools employees are using, or do you usually find out after something happens? I'm trying to understand whether this is becoming a normal challenge for companies or if we're just seeing it more because AI adoption is moving so quickly. Would be really interested to hear how other IT and security teams are handling it.
-
-2h ago
-
----
-
-**[[Open-Source] I need your worst edge cases to stress-test GenOS, my new AI agent orchestrator.](https://www.reddit.com/r/artificial/comments/1vyxoes/opensource_i_need_your_worst_edge_cases_to/)**
-
-Hey everyone, I’m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of "Hello World" territory. That’s where you come in: what are the real, testable problems you run into when building or using AI agents? I’m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I’ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback You can check it here PISSARAW/GenOS: Git-like branching, deterministic replay, and evidence-driven evaluation for reproducible AI agents.
-
-3h ago
-
----
-
-**[Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?unlocked_article_code=1.8VA.zpoD.QLh0Y1YB-Ym7&smid=url-share) • 3h ago
+9h ago
 
 ---
 
@@ -115,69 +115,17 @@ Hey everyone, I’m currently working on GenOS, an open-source framework for mul
 
 ## Google News: "ai"
 
-**[Bill Gates proposes major limits on AI development](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai)**
+**[Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html)**
 
-Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
-
-CNN • 2h ago
+The New York Times • 7h ago
 
 ---
 
-**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)**
+**[The AI boom is leaving women behind](https://www.nbcnews.com/data-graphics/ai-jobs-women-data-rcna594212)**
 
-Reuters • 6h ago
+Data shows women are less likely to hold AI jobs and more likely to be in AI-vulnerable jobs.
 
----
-
-**[Gov Jeff Landry details Elon Musk’s $100 billion SpaceX Starbase, Louisiana AI plans](https://www.foxnews.com/video/6404078139112)**
-
-Louisiana Gov. Jeff Landry joins ‘Fox & Friends’ to discuss SpaceX’s massive $100 billion Starbase project and efforts to turn the state into an AI data center hub.
-
-Fox News • 1h ago
-
----
-
-**[Renaissance Macro’s deGraaf: GOP control of Senate and performance of AI appear increasingly linked](https://www.cnbc.com/video/2026/08/26/renaissance-macroas-degraaf-gop-control-of-senate-and-performance-of-ai-appear-increasingly-linked.html)**
-
-Jeff deGraaf, Renaissance Macro Research chairman and head of technical research, joins 'Squawk on the Street' to discuss the broader markets, what the technicals are telling us, and why he says Republican control of Senate and AI performance seem increasingly linked.
-
-CNBC • 1h ago
-
----
-
-**[Ex-Meta scientists want to bring visual AI to the factory floor](https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/)**
-
-Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.
-
-TechCrunch • 1h ago
-
----
-
-**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
-
-WSJ • 15h ago
-
----
-
-**[Nvidia's Q2 earnings to test resurgent AI trade](https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html)**
-
-Nvidia will report its Q2 earnings after the bell on Aug. 26.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)**
-
-Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
-
-Apple • 13h ago
-
----
-
-**[Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI](https://www.wsj.com/tech/ai/druckenmillers-surprising-critique-of-bessent-was-delivered-with-the-help-of-ai-9dd0a4fd)**
-
-WSJ • 18h ago
+NBC News • 19m ago
 
 ---
 
@@ -185,7 +133,53 @@ WSJ • 18h ago
 
 Investor Stanley Druckenmiller said he used artificial intelligence to pen an op-ed. The newspaper’s opinion editor says that’s okay.
 
-The Washington Post • 13h ago
+The Washington Post • 15h ago
+
+---
+
+**[Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI](https://www.wsj.com/tech/ai/druckenmillers-surprising-critique-of-bessent-was-delivered-with-the-help-of-ai-9dd0a4fd)**
+
+WSJ • 20h ago
+
+---
+
+**[Wall Street Journal: Billionaire did not violate policies by using AI for op-ed](https://thehill.com/homenews/media/6052870-wall-street-journal-stan-druckenmiller-op-ed-ai-usage-us-debt/)**
+
+The Hill • 51m ago
+
+---
+
+**[The 3 reasons this year’s AI-centric TechCrunch Disrupt is a must for founders](https://techcrunch.com/2026/08/26/the-3-reasons-this-years-ai-centric-techcrunch-disrupt-is-a-must-for-founders/)**
+
+TechCrunch Disrupt 2026 is all about empowering founders to navigate the challenges and opportunities of the AI era.
+
+TechCrunch • 1h ago
+
+---
+
+**[The Connections That Turned a Precocious Teen Into the Fallen ‘Nostradamus of AI’](https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4)**
+
+WSJ • 18h ago
+
+---
+
+**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)**
+
+Reuters • 8h ago
+
+---
+
+**[Nvidia earnings live updates: Q2 results, memory prices and AI outlook](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)**
+
+Follow Nvidia’s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.
+
+CNBC • 2h ago
+
+---
+
+**[Nvidia Earnings Give Investors a Barometer for State of AI Trade](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade)**
+
+Bloomberg • 5h ago
 
 ---
 
@@ -193,19 +187,11 @@ The Washington Post • 13h ago
 
 ## HackerNews: "ai"
 
-**[Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://news.ycombinator.com/item?id=49411102)**
-
-AI lab’s Fable 5 has met with sluggish demand from corporate clients
-
-⬆️ 813 • 💬 700 • 2d ago • [ft.com](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-
----
-
 **[Coding expertise is going to collapse from AI reliance](https://news.ycombinator.com/item?id=49421554)**
 
 The need for ongoing friction in long-term skill formation.
 
-⬆️ 552 • 💬 540 • 2d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 554 • 💬 540 • 2d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
@@ -219,7 +205,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 **[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
 
-⬆️ 357 • 💬 126 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+⬆️ 392 • 💬 136 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 
 ---
 
@@ -227,15 +213,7 @@ How Varkos was built: a low-latency AI companion that plays Skyrim with you, fol
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 272 • 💬 335 • 1d ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
-
----
-
-**[Training AI to Paint with Code](https://news.ycombinator.com/item?id=49411800)**
-
-I'm a designer and creative technologist based in Brooklyn, NY.
-
-⬆️ 215 • 💬 27 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
+⬆️ 272 • 💬 340 • 1d ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -243,7 +221,15 @@ I'm a designer and creative technologist based in Brooklyn, NY.
 
 In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
 
-⬆️ 214 • 💬 37 • 4h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+⬆️ 226 • 💬 40 • 6h ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+
+---
+
+**[Training AI to Paint with Code](https://news.ycombinator.com/item?id=49411800)**
+
+I'm a designer and creative technologist based in Brooklyn, NY.
+
+⬆️ 215 • 💬 28 • 2d ago • [surya.website](https://surya.website/rling-qwen-to-paint-with-code)
 
 ---
 
@@ -251,7 +237,13 @@ In effort to prime chatbots to make pro-Israel arguments the site published 124 
 
 The blood-based biomarker test is based on technology developed at WashU Medicine by Randall Bateman, MD, and David Holtzman, MD.
 
-⬆️ 188 • 💬 105 • 2d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+⬆️ 189 • 💬 105 • 2d ago • [WashU Medicine](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+
+---
+
+**[Bill Gates: The turbulent AI era is here](https://news.ycombinator.com/item?id=49448137)**
+
+⬆️ 145 • 💬 205 • 6h ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
 
 ---
 
@@ -267,7 +259,7 @@ Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's 
 
 Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
 
-⬆️ 142 • 💬 166 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 143 • 💬 169 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -275,13 +267,23 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 ## YouTube Videos: "ai"
 
+**[This FREE &amp; UNLIMITED AI Video Generator Shouldn&#39;t Exist (With Sound)](https://www.youtube.com/watch?v=Co2iqS2s7_Q)**
+
+Create cinematic 1080p AI videos up to 30 seconds with Seedance 2.5 on Higgsfield → https://higgsfield.ai/s/malvaai-eyULUm ...
+
+📺 Malva AI
+
+👁️ 4K • 👍 259 • 💬 53 • ⏱️ 7:42 • 7h ago
+
+---
+
 **[Can I Make a Better AI Than AI?](https://www.youtube.com/watch?v=GGWHjAyKJCA)**
 
 Review PRs faster with CodeRabbit: https://coderabbit.link/ad-common-luke-001 You can support this video by hyping the video, ...
 
 📺 commonLuke
 
-👁️ 76K • 👍 5K • 💬 440 • ⏱️ 16:16 • 22h ago
+👁️ 92K • 👍 6K • 💬 487 • ⏱️ 16:16 • 1d ago
 
 ---
 
@@ -291,7 +293,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 90K • 👍 4K • 💬 355 • ⏱️ 3:21 • 2d ago
+👁️ 91K • 👍 4K • 💬 354 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -301,27 +303,27 @@ Bipartisan backlash is growing in response to the rapid buildout of AI data cent
 
 📺 ABC News
 
-👁️ 57K • 👍 1K • 💬 551 • ⏱️ 1:56 • 2d ago
+👁️ 59K • 👍 1K • 💬 571 • ⏱️ 1:56 • 2d ago
 
 ---
 
-**[Why Does His AI Food Look So Real?](https://www.youtube.com/watch?v=QsvMjald_LE)**
+**[The AI tax hits the Pixel Watch 5 HARD](https://www.youtube.com/watch?v=a2hhtkbcbtU)**
 
-shorts #facts #food #ai.
+If you want to skip the hassle of researching, buying, and building a gaming PC for yourself, buy one from one of Jawa's Verified ...
 
-📺 FAL-TV
+📺 ShortCircuit
 
-👁️ 36K • 👍 2K • 💬 9 • ⏱️ 0:21 • 1d ago
+👁️ 61K • 👍 2K • 💬 169 • ⏱️ 13:43 • 1d ago
 
 ---
 
-**[AI Jobs](https://www.youtube.com/watch?v=KixsIL38wkY)**
+**[It&#39;s Not AI fault ✋️](https://www.youtube.com/watch?v=0AvPyAd_8_o)**
 
-My Patreon: https://www.patreon.com/cw/nateziller This episode brings back Paper as he tries to find a job with the help of AI.
+shorts #mystery #ai #nestle #ecosystem #unknownfacts.
 
-📺 Nate Ziller
+📺 ​The Mystery Hub
 
-👁️ 195K • 👍 14K • 💬 846 • ⏱️ 5:15 • 2d ago
+👁️ 56K • 💬 137 • ⏱️ 0:07 • 22h ago
 
 ---
 
@@ -331,7 +333,7 @@ OpenAI's Tibo joins me to break down what's next for Codex, ultra-fast AI, recur
 
 📺 Matthew Berman
 
-👁️ 88K • 👍 3K • 💬 268 • ⏱️ 44:29 • 1d ago
+👁️ 91K • 👍 3K • 💬 273 • ⏱️ 44:29 • 2d ago
 
 ---
 
@@ -341,7 +343,17 @@ Linda McMahon called AI “A1” not too long ago, btw.
 
 📺 NowThis Impact
 
-👁️ 96K • 👍 5K • 💬 937 • ⏱️ 0:20 • 19h ago
+👁️ 120K • 👍 6K • 💬 1K • ⏱️ 0:20 • 21h ago
+
+---
+
+**[The AI That Comes Back Better Without a Better Prompt - Abacus AI AutoBots](https://www.youtube.com/watch?v=u-ObVnUaQeI)**
+
+Abacus AI: http://abacus.ai/ AutoBots: http://autobots.abacus.ai/ Can an AI agent actually learn from its previous results and ...
+
+📺 Shark Numbers
+
+👁️ 177K • 👍 17K • 💬 368 • ⏱️ 8:47 • 2d ago
 
 ---
 
@@ -351,27 +363,7 @@ How are global education institutions helping graduates in the race to find rewa
 
 📺 Financial Times
 
-👁️ 60K • 👍 1K • 💬 98 • ⏱️ 19:00 • 2d ago
-
----
-
-**[&#39;The Five&#39;: Raging against AI data centers becomes all the rage](https://www.youtube.com/watch?v=aolQYQYISfw)**
-
-'The Five' co-hosts discuss the growing political and public backlash against A.I. data centers, analyzing President Donald ...
-
-📺 Fox News
-
-👁️ 123K • 👍 3K • 💬 828 • ⏱️ 9:28 • 1d ago
-
----
-
-**[This AI Smart Pen Can Read Handwriting and Answer Questions Instantly #pen #ai #technology #shorts](https://www.youtube.com/watch?v=R0JMY8Ug4mI)**
-
-This AI Smart Pen Can Read Handwriting and Answer Questions Instantly ✍️   What if a pen could read your handwritten ...
-
-📺 Future Lens Pi
-
-👁️ 83K • 💬 21 • ⏱️ 0:07 • 2d ago
+👁️ 63K • 👍 1K • 💬 100 • ⏱️ 19:00 • 2d ago
 
 ---
 
@@ -387,7 +379,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 2,551 • ❤️ 3,372 • 4h ago
+⬇️ 2,551 • ❤️ 3,498 • 6h ago
 
 ---
 
@@ -399,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 3,298,569 • ❤️ 12,846 • 12d ago
+⬇️ 3,298,569 • ❤️ 12,865 • 12d ago
 
 ---
 
@@ -411,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,638,591 • ❤️ 2,967 • 6d ago
+⬇️ 7,638,591 • ❤️ 2,985 • 6d ago
 
 ---
 
@@ -423,19 +415,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 468,746 • ❤️ 790 • 1d ago
-
----
-
-**[Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)**
-
-*OrcaRouter*
-
-An uncensored, MLX-quantized 27B parameter vision-language model optimized for Apple Silicon, supporting 2-8 bit precisions. It performs image-text-to-text tasks and is intended for AI safety research and red-teaming due to its removed safety alignment.
-
-`image-text-to-text` `4.7B`
-
-⬇️ 79,395 • ❤️ 1,131 • 2d ago
+⬇️ 468,746 • ❤️ 799 • 2d ago
 
 ---
 
@@ -447,7 +427,19 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 0 • ❤️ 476 • 3h ago
+⬇️ 0 • ❤️ 680 • 2h ago
+
+---
+
+**[Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)**
+
+*OrcaRouter*
+
+An uncensored, MLX-quantized 27B parameter vision-language model optimized for Apple Silicon, supporting 2-8 bit precisions. It performs image-text-to-text tasks and is intended for AI safety research and red-teaming due to its removed safety alignment.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 79,395 • ❤️ 1,134 • 2d ago
 
 ---
 
@@ -459,7 +451,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 269,805 • ❤️ 1,168 • 6d ago
+⬇️ 269,805 • ❤️ 1,171 • 6d ago
 
 ---
 
@@ -471,7 +463,7 @@ Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B paramete
 
 `text-generation` `36.0B`
 
-⬇️ 83,342 • ❤️ 441 • 3d ago
+⬇️ 83,342 • ❤️ 445 • 3d ago
 
 ---
 
@@ -483,7 +475,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 894,094 • ❤️ 1,833 • 9d ago
+⬇️ 894,094 • ❤️ 1,847 • 9d ago
 
 ---
 
@@ -495,7 +487,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 911,795 • ❤️ 640 • 8d ago
+⬇️ 911,795 • ❤️ 650 • 8d ago
 
 ---
 
@@ -511,7 +503,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 97 • 💬 2 • ⭐ 7,805 • 9d ago
+▲ 97 • 💬 2 • ⭐ 8,271 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -525,7 +517,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 180 • 💬 2 • ⭐ 833 • 2d ago
+▲ 181 • 💬 2 • ⭐ 833 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -539,7 +531,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 754 • 💬 5 • ⭐ 6,342 • 16d ago
+▲ 755 • 💬 5 • ⭐ 6,342 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -565,7 +557,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 37 • 💬 2 • ⭐ 18,554 • 2d ago
+▲ 38 • 💬 2 • ⭐ 18,554 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -646,7 +638,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.5k • 🔱 2.1k • 1d ago
+⭐ 18.5k • 🔱 2.1k • 9m ago
 
 ---
 
@@ -656,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 14.2k • 🔱 1.7k • 13h ago
+⭐ 14.2k • 🔱 1.7k • 2m ago
 
 ---
 
@@ -676,7 +668,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.8k • 🔱 622 • 7h ago
+⭐ 3.8k • 🔱 622 • 9h ago
 
 ---
 
@@ -686,7 +678,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 377 • 1d ago
+⭐ 3.1k • 🔱 377 • 39m ago
 
 ---
 
@@ -706,7 +698,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.0k • 🔱 362 • 1h ago
+⭐ 3.0k • 🔱 365 • 2h ago
 
 ---
 
@@ -716,7 +708,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.5k • 🔱 142 • 2d ago
+⭐ 2.5k • 🔱 143 • 2d ago
 
 ---
 
@@ -726,7 +718,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.2k • 🔱 108 • 9h ago
+⭐ 2.2k • 🔱 111 • 11h ago
 
 ---
 
@@ -736,7 +728,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 267 • 2h ago
+⭐ 2.1k • 🔱 268 • 4h ago
 
 ---
 
