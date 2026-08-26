@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-26T13:07:36.791980+00:00",
+  "data": "Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.",
+  "model_id": "Qwen/Qwen3.8-Flash-Next"
+}

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T11:59:02.739627+00:00'
+updated: '2026-08-26T13:07:37.586366+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 11:59 UTC  
+**Last Updated:** August 26, 2026 at 13:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main biomécanique UM1-Evo à 24 degrés de liberté. Cela m'a pris 5 ans et demi de passion et de galères,mais je suis assez content du résultat. Le projet contient 25 moteurs, il est à l'échelle 1:1, l’électronique et le wifi sont embarqués et il pèse au total 1.7kg, soit le poids des caractéristiques de l’anatomie humaine. Un très gros travail de recherche biomécanique et cinématique ont été réalisées pour reproduire le plus fidèlement possible la forme organique et les mouvements d’une vraie main. J’ai conçu un script permettant de relever la main d’un patient (en moins de 30 minutes) et ainsi créer la main en 3D sur-mesure (en 10 minutes). J’ai également développé un logiciel de commande par cinématique inverse IK avec animation par clés ou en temps réel. J’ai conçu un gant avec 12 capteurs pour reproduire les mouvements de la main en temps réel en mode avatar. Pour une utilisation en prothèse de main, un système de captation innovant différents des systèmes myoélectriques, permet de manipuler la main avec une latence extrêmement basse et une prise en main instantané. (Ce système et en cours de protection) Voilà, n’hésitez pas à me dire ce que vous en pensez 😀
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in S
 
 I went through a bunch of footage from the World Robot Conference after Unitree’s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there’s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 20h ago
+NVIDIA Newsroom • 22h ago
 
 ---
 
@@ -124,15 +124,21 @@ NVIDIA Newsroom • 20h ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
-**[3 Key Takeaways From Bill Gates' Stark Warning About AI and Jobs](https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8)**
+**[World’s Largest Trial of Robotic Knee Surgery Delivers a Surprising Result](https://scitechdaily.com/worlds-largest-trial-of-robotic-knee-surgery-delivers-a-surprising-result/)**
 
-Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract.
+Robot-assisted knee replacement surgery is more precise than surgery performed without robotic assistance, but it does not currently improve patient outcomes.
 
-Business Insider • 2h ago
+SciTechDaily • 1h ago
+
+---
+
+**[ScaFi: A robot that grows like a fish, not a machine—from 2 feet to nearly 10](https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html)**
+
+Tech Xplore • 7m ago
 
 ---
 
@@ -144,11 +150,27 @@ BBC • 1d ago
 
 ---
 
-**[Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.](https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html)**
+**[Report: Amazon eyes ‘fully automated’ delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/)**
 
-As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
+Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
 
-CNBC • 5h ago
+GeekWire • 20h ago
+
+---
+
+**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
+
+BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
+
+CNBC • 1d ago
+
+---
+
+**[3 Key Takeaways From Bill Gates' Stark Warning About AI and Jobs](https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8)**
+
+Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract.
+
+Business Insider • 4h ago
 
 ---
 
@@ -168,39 +190,17 @@ Qualcomm • 1d ago
 
 ---
 
-**[Motion-Capture Suit Teaches Robots Human Positions](https://x.com/i/trending/2092257575261901104)**
-
-Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
-
-x.com • 21h ago
-
----
-
-**[AI Companion Robots Are Closing the Human Connection in Modern Homes](https://spectrum.ieee.org/ollobot-ai-companion-robot)**
-
-Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
-
-WSJ • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[LIVE: World Humanoid Robot Games 2026 in China (Final day)](https://www.youtube.com/watch?v=Iq7v54MvjzY)**
+**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
 
-Watch live coverage of the final day of the Olympics-like World Humanoid Robot Games in Beijing where more than 2000 robots ...
+China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
 
 📺 Associated Press
 
-👁️ 13K • 👍 231 • 💬 2 • ⏱️ 2:47:51 • 2h ago
+👁️ 10K • 👍 43 • 💬 8 • ⏱️ 0:54 • 6d ago
 
 ---
 
@@ -214,13 +214,23 @@ A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary hea
 
 ---
 
-**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
+**[Robot conference offers glimpse of the future in China | The World | ABC NEWS](https://www.youtube.com/watch?v=NCtEc6gSCsE)**
 
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
+The World Robot Conference is underway in Beijing, showcasing the latest technological advancements in the industry.
+
+📺 ABC News (Australia)
+
+👁️ 20K • 👍 205 • ⏱️ 7:18 • 6d ago
+
+---
+
+**[LIVE: World Humanoid Robot Games 2026 in China (Final day)](https://www.youtube.com/watch?v=Iq7v54MvjzY)**
+
+Watch live coverage of the final day of the Olympics-like World Humanoid Robot Games in Beijing where more than 2000 robots ...
 
 📺 Associated Press
 
-👁️ 10K • 👍 43 • 💬 8 • ⏱️ 0:54 • 6d ago
+👁️ 19K • 👍 262 • 💬 11 • ⏱️ 2:47:51 • 4h ago
 
 ---
 
@@ -230,27 +240,7 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 71K • 👍 592 • 💬 229 • ⏱️ 4:02 • 1d ago
-
----
-
-**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
-
-📺 South China Morning Post
-
-👁️ 43K • 👍 642 • 💬 150 • ⏱️ 2:14 • 1d ago
-
----
-
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
-
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 272K • 👍 4K • 💬 852 • ⏱️ 4:29 • 1d ago
+👁️ 78K • 👍 663 • 💬 270 • ⏱️ 4:02 • 1d ago
 
 ---
 
@@ -264,33 +254,43 @@ Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, le
 
 ---
 
-**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
-
-The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
-
-📺 NBC News
-
-👁️ 67K • 👍 480 • 💬 247 • ⏱️ 4:05 • 5d ago
-
----
-
 **[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
 
 Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
 
 📺 New York Post
 
-👁️ 56K • 👍 886 • 💬 381 • ⏱️ 4:07 • 5d ago
+👁️ 56K • 👍 890 • 💬 382 • ⏱️ 4:07 • 5d ago
 
 ---
 
-**[Robot beats Usain Bolt&#39;s 100m world record](https://www.youtube.com/watch?v=Zbkqhor3EKI)**
+**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
 
-Chinese humanoid robots broke records set by humans, including Usain Bolt's 100-meter sprint world record, on the opening day ...
+The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
 
-📺 Sky News
+📺 NBC News
 
-👁️ 221K • 👍 1K • 💬 513 • ⏱️ 2:00 • 3d ago
+👁️ 67K • 👍 480 • 💬 248 • ⏱️ 4:05 • 5d ago
+
+---
+
+**[Robots jump 2 metres, sprint faster than Usain Bolt in Beijing | Asia News Week | ABC NEWS](https://www.youtube.com/watch?v=eZ8XEUvlxt8)**
+
+Human-like androids have wowed crowds at the World Robot Conference in Beijing, with models boxing, folding clothes, and ...
+
+📺 ABC News (Australia)
+
+👁️ 21K • 👍 139 • ⏱️ 7:11 • 5d ago
+
+---
+
+**[Humanoid robots perform tasks at the World Robot Conference in China](https://www.youtube.com/watch?v=2caAJ_o9IqU)**
+
+China kicked off the 2026 World Robot Conference with companies showcasing the country's expanding robotics industry.
+
+📺 Associated Press
+
+👁️ 22K • 👍 77 • 💬 24 • ⏱️ 1:34 • 6d ago
 
 ---
 

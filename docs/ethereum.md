@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T11:59:02.736250+00:00'
+updated: '2026-08-26T13:07:37.583373+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 11:59 UTC  
+**Last Updated:** August 26, 2026 at 13:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +5.9%  
-**30d:** +28.2%  
-**90d:** +22.3%  
-**1y:** -45.3%  
+**24h:** -0.9%  
+**7d:** +5.4%  
+**30d:** +27.6%  
+**90d:** +21.7%  
+**1y:** -45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.14B
+**Market Cap:** $296.06B
 Rank #2
 
 **Circulating Supply:** 120,681,271 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.4%
 
 **All-Time Low:** $0.43
-+566641.1%
++566537.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 10h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 12h ago
 
 ---
 
@@ -164,11 +164,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[BitMine Is About to Own 5% of Ethereum, Tom Lee Reveals What Comes Next](https://finance.yahoo.com/markets/crypto/articles/bitmine-own-5-ethereum-tom-230000123.html)**
+**[Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html)**
 
-BitMine owns 4.79% of all ethereum. Tom Lee wants 5%, but Ethereum supply is growing faster than he can buy.
+Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -180,17 +180,17 @@ ethereum.org • 2d ago
 
 ---
 
+**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
+
+CoinDesk • 1d ago
+
+---
+
 **[Current price of Ethereum for August 26, 2026](https://fortune.com/article/price-of-ethereum-08-26-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 44m ago
-
----
-
-**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
-
-CoinDesk • 23h ago
+Fortune • 59m ago
 
 ---
 
@@ -206,7 +206,7 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
-PR Newswire • 1d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -218,19 +218,17 @@ Decrypt • 1d ago
 
 ---
 
+**[Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins'](https://www.ccn.com/news/crypto/ethereum-250k-tom-lee-launch-point-eth-surge-rotation/)**
+
+CCN.com • 23h ago
+
+---
+
 **[THORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins](https://thedefiant.io/news/press-releases/thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins)**
 
 George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
 
-The Defiant • 20h ago
-
----
-
-**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
-
-Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
-
-Benzinga • 1d ago
+The Defiant • 22h ago
 
 ---
 
@@ -244,7 +242,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 2K • 👍 108 • 💬 13 • ⏱️ 6:53 • 16h ago
+👁️ 2K • 👍 114 • 💬 15 • ⏱️ 6:53 • 18h ago
 
 ---
 
@@ -254,7 +252,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 635 • 💬 63 • ⏱️ 12:24 • 1d ago
+👁️ 9K • 👍 635 • 💬 62 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -264,27 +262,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 53K • 👍 1K • 💬 200 • ⏱️ 1:07:49 • 2d ago
-
----
-
-**[BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_rtU_oirTWo)**
-
-BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 295 • 💬 92 • ⏱️ 18:28 • 10h ago
-
----
-
-**[Ethereum Could Be the Biggest Winner of the Next Crypto Cycle](https://www.youtube.com/watch?v=AWY7ixcceaM)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 277 • 💬 115 • ⏱️ 42:25 • 1d ago
+👁️ 54K • 👍 1K • 💬 200 • ⏱️ 1:07:49 • 2d ago
 
 ---
 
@@ -294,7 +272,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 126K • 👍 5K • 💬 229 • ⏱️ 27:38 • 2d ago
+👁️ 126K • 👍 5K • 💬 230 • ⏱️ 27:38 • 2d ago
 
 ---
 
@@ -314,27 +292,47 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 11K • 👍 136 • 💬 18 • ⏱️ 0:43 • 1d ago
+👁️ 12K • 👍 140 • 💬 18 • ⏱️ 0:43 • 1d ago
 
 ---
 
-**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
+**[Ethereum Could Be the Biggest Winner of the Next Crypto Cycle](https://www.youtube.com/watch?v=AWY7ixcceaM)**
 
-Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
 
-📺 Ivan on Tech
+📺 Milk Road
 
-👁️ 31K • 👍 2K • 💬 72 • ⏱️ 49:14 • 1d ago
+👁️ 8K • 👍 280 • 💬 16 • ⏱️ 42:25 • 1d ago
 
 ---
 
-**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=14ofrV2WVGA)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 5K • 👍 268 • 💬 10 • ⏱️ 8:33 • 22h ago
+👁️ 11K • 👍 387 • 💬 391 • ⏱️ 19:33 • 1d ago
+
+---
+
+**[MAJOR MOVE COMING FOR ETHEREUM! (ETH Update)](https://www.youtube.com/watch?v=KH7BLZXPEnQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 rules, payouts on demand.
+
+📺 Cilinix Crypto
+
+👁️ 620 • 👍 25 • 💬 4 • ⏱️ 5:57 • 1d ago
+
+---
+
+**[Ethereum - Most People Will Miss This Generational Opportunity.](https://www.youtube.com/watch?v=HTALVxR6aiI)**
+
+Ethereum might be a generational opportunity right now. $20000 is a genuine target some of the biggest names in crypto are ...
+
+📺 No Bs Crypto
+
+👁️ 15K • 👍 554 • 💬 77 • ⏱️ 18:53 • 2d ago
 
 ---
 

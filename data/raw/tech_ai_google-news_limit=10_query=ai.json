@@ -5,12 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The choices we make about AI now are critical | Bill Gates",
-      "source": "gatesnotes.com",
-      "source_url": "https://www.gatesnotes.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPak55VEI5Y2NVRTBrajRrWmFQMDkyLTdUaUwtTG1DQlVzUmc0YXFzVk1wUzY2TXhLU043TlI0aEIwYmUwWVEwSVB1RExBeFFSZFV2Sk4tTGlCLVhzLThXVXl2bWFSemRtQ00tZWpuQnh0ZW1fbU5JSkFsMHQ1S0ppZEU0V1hJZmpjY2pqOGNJTG5wVzBod2RaVDZCbWhrSTNnN09FOTJ4cjh2dE1HYmpwTzQ4NTFBVEJaV1hDX2d2REYzMTZFVVlOZ0d0QXlXLWl4ejBfS3hYRElxYnlxTlkyVGtSVF9VRXYwM040?oc=5",
-      "pub_date": 1787727946.0,
-      "article_url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "headline": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
+      "pub_date": 1787742411.0,
+      "article_url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
       "image": null,
       "description": null
     },
@@ -25,61 +25,41 @@
       "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
     },
     {
-      "headline": "Nvidia's Q2 earnings to test resurgent AI trade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFU5TUdKYzd1SDNVT1dpeGFLbGJXUUZiTF9VdEczbkVQM0hWazZVVUFkYkExZFJRc1hzazM4aUpZQkdFT21rd3Bjc000cHdaMWY1dHhrVms5Q2VIOWJ2MnB6cVk5VTdrMGpGZDZWa0FIOC1KVmlEWkIyUWIySnJLQ3FrOXd2dTRQaFk5TnJyUl9IYms1eTJPaF9SRDBjYldpamg3WmFwaGZRVnR0MlpB?oc=5",
-      "pub_date": 1787688485.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/15cdb77c351d6abc06fd69d8456d5bef5a73b9321690300bf455b631777dae80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
-      "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26."
-    },
-    {
-      "headline": "Cramer says Nvidia has become 'all-important' to the AI trade. Here's what to watch beyond the numbers",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iY2luWmgzY0d3bldwd1dTZEVyNFE0S3BocnFRT1BYeFYyNVY4QTVCdXpxUHNxWEp6czRvM2VGWGRGQ0tycURqZ3MyYmR4U1hMVFFBdDdRMzVxU3hDQ3phSFhnWFZTTDM3aGZ1V0NnZlR0VklwWnJHUjFRWXIxZw?oc=5",
-      "pub_date": 1787698534.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/cramer-nvidia-all-important-ai-trade.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353905-1787669145319-gettyimages-2290111293-vcg111659504825.jpeg?v=1787669186&w=1920&h=1080",
-      "description": "CNBC's Jim Cramer said Nvidia has become so central to the AI ecosystem that its earnings are effectively a referendum on the entire AI trade."
-    },
-    {
-      "headline": "Jim Cramer calls Nvidia earnings a referendum on AI trade",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55aEZaWGxOTXBIdDdNNEk2WEZCLUR1ZW5SOGhqcXZ1RkVGYS1RbTlVRXRoMzNVV2NWVTJfWmJBc0hzWTFuZFNhZWlIemwwVnhreHIxdXEtV3A1ZEF5Sk9Bckc3RXFWb2xJOXg2eGM4M3FTbGlMR0JR?oc=5",
-      "pub_date": 1787745034.0,
-      "article_url": "https://qz.com/jim-cramer-nvidia-earnings-ai-trade-referendum-082626",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239548176-300x200.jpg",
-      "description": "The CNBC host said Nvidia has grown so central to the AI ecosystem that its quarterly results carry implications beyond the company itself"
-    },
-    {
-      "headline": "Saudi Brothers Mint Billion-Dollar Fortune From AI Boom",
+      "headline": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTNkR2pBQUEtTC1aS2Y5dHFCUEwwNm5uYXQ1Q0ZjeGgzTVp5c0o1elVPd0hzdnZpWXA1dEthdVBmenpZQUJlb2dMNlNVUHZvU2sxVFVqT0JYRlN3YVVXYV9xQVJONlRsU2RkZ1hQV3p1OGY4ZnFWSkNtVGNhSGVaazBzUHdFUElRYi1kd3lJcW4zQ0doR0R4dzBRNEl4T1hqaFNVV1c5N3dEQQ?oc=5",
-      "pub_date": 1787743346.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/saudi-brothers-mint-billion-dollar-fortune-from-ai-boom",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
+      "pub_date": 1787747750.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model",
       "image": null,
       "description": null
     },
     {
-      "headline": "Gamescom highlights gaming boom amid AI concerns",
-      "source": "DW.com",
-      "source_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkJTRG5XZEp3c3JUTWZzZFlIcGpSVzU4MHAtYlVVa1FOLXpYeWs4M1FTcVJXUzdlZGt2dWl4UjRLOEdoc0Rma1V1NFZ0a3AwMmZqZEUxNzRld2ZjY19MWEZOQjNJenFWUURzQkJjT29RWEJfRm42OENfclF4eHJuWmtOZTlqSlJaYTJSZ3VHX1JfZjkzUGd1b0JtZjBKUdIBngFBVV95cUxQSjYyU09GbkF2QkZaOFhGalNSYXVEU2NHZFVIdjl5eW01WGN3US1scGNCN1pQM0hGcjduaGlvWTQxM3IzazZHODQyamhhM05lSzc4NFU1MTdJRTFfdEstdXRlVUlLSVZqYzVERFpPbmVKS2l2OUZTSXpLczVySnNVNDl1LTBuS29fYTNxODVyU25JU2FBRUJJR3FRWWFqdw?oc=5",
-      "pub_date": 1787743233.0,
-      "article_url": "https://www.dw.com/en/gamescom-2026-highlights-gaming-industrys-strength-ai-challenges/a-78502849",
-      "image": "https://static.dw.com/image/78506367_6.jpg",
-      "description": "Gamescom 2026 opens in Cologne as the global gaming industry continues to grow. But rising hardware costs, AI concerns and slowing user growth all pose challenges."
+      "headline": "Why Most Brands Vanish On At Least One AI Platform",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXk3OGxPXzh4YmU4WG13UDk2QnFabG1JNEY3aEgzcjlXdUotRk1MMWhxTkV3QkQ2Mk5JblhNbk5mck1kdnliTlJPVnk0djlIWHYtTEkzdTFuQmwwV081T1BsWkFLc2NGWlQwSWphTzl0Q01YMEtaY2txR29kNE4tTXJWeUZleUZNdmhOX1FhajNaNUZOTVF0ajkxdkFNQQ?oc=5",
+      "pub_date": 1787748704.0,
+      "article_url": "https://www.forbes.com/sites/quora/2026/08/26/why-most-brands-vanish-on-at-least-one-ai-platform/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8edec60a90c3868807dc4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Semrush analyzed 126 million prompts across ChatGPT, Gemini, AI Mode and AI Overviews. Almost every brand had a gap on at least one."
+    },
+    {
+      "headline": "Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2x3THU4S191S0dDU0N1Q242S29SZzEyemRJcUtLRjdENTJFUUpyeV9sYkVhMzRNRkhhQXlCYTRxSXY0M0YzRFZLVV9vZlhLWUFjY0FiQVVfaC1Hal95ZFR4NjdNRjRSeHUzbE9WZXpTNDR6UlpRRlRTUEpzVzVHdUN5T0tMMVlU?oc=5",
+      "pub_date": 1787746703.0,
+      "article_url": "https://qz.com/moonshot-ai-kimi-k3-revenue-sharing-microsoft-amazon-google-082626",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/what-is-moonshot-ai-qz-300x169.jpg",
+      "description": "The Beijing-based startup wants up to 30% of revenue from Kimi K3-related services on Azure, AWS, and Google Cloud, unnamed sources say"
     },
     {
       "headline": "The Connections That Turned a Precocious Teen Into the Fallen \u2018Nostradamus of AI\u2019",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3FKTTFuZFd3UFZyQ1Jpd2R3NUlfY1VkTU0yVm1VY1RXc0h2RXc4TVZmbUlXa05zMEI5VW9penlpWGM4UzN3WTl5R1ZTRHZpaTN4NVJJVllvbzNvZWdqemM1bkNUdXdMcVJwVDZOOTJ2d2QtV1hneTMxRUNGYzV6Qy1JVHJheERrSGJIZXBVQ3A3Zw?oc=5",
-      "pub_date": 1787706097.0,
+      "pub_date": 1787706000.0,
       "article_url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
       "image": null,
       "description": null
@@ -95,16 +75,36 @@
       "description": null
     },
     {
-      "headline": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "source": "Apple",
-      "source_url": "https://www.apple.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x?oc=5",
-      "pub_date": 1787716276.0,
-      "article_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251301",
-      "description": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
+      "headline": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFU5TUdKYzd1SDNVT1dpeGFLbGJXUUZiTF9VdEczbkVQM0hWazZVVUFkYkExZFJRc1hzazM4aUpZQkdFT21rd3Bjc000cHdaMWY1dHhrVms5Q2VIOWJ2MnB6cVk5VTdrMGpGZDZWa0FIOC1KVmlEWkIyUWIySnJLQ3FrOXd2dTRQaFk5TnJyUl9IYms1eTJPaF9SRDBjYldpamg3WmFwaGZRVnR0MlpB?oc=5",
+      "pub_date": 1787688485.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/15cdb77c351d6abc06fd69d8456d5bef5a73b9321690300bf455b631777dae80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+      "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26."
+    },
+    {
+      "headline": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHFPRUhKd213R2xSRkU5X3dOZFNaNE9XWEFnMDRtamExT3FVUkJhdGFkMnBHb0pUQjVDWFU3eXFqRUtKWllEcW9fRlRhZWs5bmpGdFlZOVVzaDRWVGZ0bTdfdmJoVzlBVGdoRmpkLVVqOF8wTEVjVmhrdG43bUVxNnFoaVVhNFFfMkhaT2RUUnZhaHh3ajdkU2t5QThtRVM0REs0dHlzNzJPamY4UndTLVVBLW5ZQQ?oc=5",
+      "pub_date": 1787730536.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI Jalape\u00f1o chip beats Nvidia GB300 in benchmark tests",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TelBBQU9BX1p6azRjVEtiMTlKd0NDUzNMbzljZnhkS0dxRk96cDNiYTI2STc4M0MxS3hudTBJRjViLVBwY3JISXdZVFVqc00zQVhYOWEyWjFyUldwRnNoWl82OEZiakx5cEhUeU0tdGRJSktRZ2c?oc=5",
+      "pub_date": 1787748181.0,
+      "article_url": "https://qz.com/openai-jalapeno-chip-nvidia-benchmark-results-082626",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Jalapeno-chip-final-300x225.webp",
+      "description": "The custom inference chip, built with Broadcom, led on tokens per user and throughput per kilowatt in third-party tests"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T11:59:01.461708+00:00"
+  "fetched_at": "2026-08-26T13:07:34.640889+00:00"
 }
