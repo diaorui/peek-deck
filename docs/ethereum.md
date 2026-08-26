@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T16:53:40.274761+00:00'
+updated: '2026-08-26T19:01:56.345689+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 16:53 UTC  
+**Last Updated:** August 26, 2026 at 19:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,464.41
+### $2,443.10
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +5.3%  
-**30d:** +27.5%  
-**90d:** +21.6%  
-**1y:** -45.6%  
+**24h:** +1.5%  
+**7d:** +6.2%  
+**30d:** +28.6%  
+**90d:** +22.7%  
+**1y:** -45.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.81B
+**Market Cap:** $298.42B
 Rank #2
 
 **Circulating Supply:** 120,681,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.0%
 
 **All-Time Low:** $0.43
-+566022.1%
++570895.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 15h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 18h ago
 
 ---
 
@@ -148,7 +148,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 4d ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 5d ago
 
 ---
 
@@ -160,31 +160,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html)**
+**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Ethereum is Going to $10,000, Says Tom Lee — Why He Claims It Is 'Easily' Coming by 2028](https://finance.yahoo.com/markets/crypto/articles/ethereum-going-10-000-says-133215275.html)**
-
-Tom Lee said Ethereum could “easily” trade above $10,000 in 2027 or 2028. The BitMine chairman believes a new crypto bull cycle, Wall Street tokenization, ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Tom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto’s ‘AI Downstream’ Story](https://finance.yahoo.com/markets/crypto/articles/tom-lee-led-bitmine-reportedly-131136816.html)**
-
-Bitcoin dominance remains above 60%, which a crypto commentator says leaves a broader altcoin rotation unconfirmed.
-
-Yahoo Finance • 3h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -196,9 +178,19 @@ ethereum.org • 2d ago
 
 ---
 
-**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
+**[Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html)**
 
-CoinDesk • 1d ago
+Bitcoin opened at $78,982.27 on Tuesday, August 25, 2026, 1.6% higher than Monday's opening price. As of 8:17 a.m. ET, the price of bitcoin rose further  to $79,038.31. Ethereum opened at $2,482.37 today, up 0.8% from Monday's opening price. The price of ethereum moved to $2,475.53 as of 8:17 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto’s ‘AI Downstream’ Story](https://www.tradingview.com/news/stocktwits:bf8e037ad094b:0-tom-lee-led-bitmine-reportedly-scoops-up-48-89-million-of-ethereum-during-crypto-s-ai-downstream-story/)**
+
+BitMine Immersion Technologies Inc (BMNR) continues to bet big on Ethereum (ETH), with the Tom Lee-led firm reportedly purchasing 20,000 ETH on Tuesday and moving closer to its goal of owning 5% of all Ether as demand for AI stocks cools within the market.On-chain tracker Lookonchain reported in a…
+
+TradingView • 5h ago
 
 ---
 
@@ -218,11 +210,11 @@ PR Newswire • 2d ago
 
 ---
 
-**[Current price of Ethereum for August 26, 2026](https://fortune.com/article/price-of-ethereum-08-26-2026/)**
+**[New Crypto: Pepeto Presale Announces $10.85M As the Ethereum Price Prediction Calls $7,500](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500-1036494746)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil...
 
-Fortune • 5h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -231,6 +223,14 @@ Fortune • 5h ago
 The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.
 
 Decrypt • 1d ago
+
+---
+
+**[Ethereum: Devs Propose Quantum-Proof Staking Overhaul](https://blockchain.news/flashnews/ethereum-devs-propose-quantum-proof-staking-overhaul)**
+
+Ethereum developers propose deposit contract overhaul to quantum-proof staking with ETH at $2453 amid neutral RSI and bullish EMA structure.
+
+blockchain.news • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 205 • 💬 29 • ⏱️ 16:00 • 2h ago
+👁️ 7K • 👍 397 • 💬 25 • ⏱️ 16:00 • 5h ago
 
 ---
 
@@ -254,7 +254,17 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 2K • 👍 119 • 💬 16 • ⏱️ 6:53 • 21h ago
+👁️ 3K • 👍 124 • 💬 35 • ⏱️ 6:53 • 1d ago
+
+---
+
+**[ETHEREUM ABOUT TO RALLY HIGHER? (ETH Update)](https://www.youtube.com/watch?v=pkIAmMQvZyY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 382 • 👍 34 • 💬 2 • ⏱️ 5:02 • 9h ago
 
 ---
 
@@ -264,7 +274,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 639 • 💬 62 • ⏱️ 12:24 • 2d ago
+👁️ 10K • 👍 640 • 💬 62 • ⏱️ 12:24 • 2d ago
 
 ---
 
@@ -274,7 +284,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 54K • 👍 1K • 💬 201 • ⏱️ 1:07:49 • 2d ago
+👁️ 55K • 👍 1K • 💬 201 • ⏱️ 1:07:49 • 2d ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
+
+Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 128K • 👍 5K • 💬 229 • ⏱️ 27:38 • 2d ago
 
 ---
 
@@ -288,13 +308,23 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 ---
 
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=14ofrV2WVGA)**
+**[Ethereum Could Be the Biggest Winner of the Next Crypto Cycle](https://www.youtube.com/watch?v=AWY7ixcceaM)**
 
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
+
+📺 Milk Road
+
+👁️ 8K • 👍 285 • 💬 17 • ⏱️ 42:25 • 2d ago
+
+---
+
+**[BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_rtU_oirTWo)**
+
+BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 11K • 👍 387 • 💬 370 • ⏱️ 19:33 • 1d ago
+👁️ 9K • 👍 339 • 💬 133 • ⏱️ 18:28 • 17h ago
 
 ---
 
@@ -304,37 +334,7 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 12K • 👍 140 • 💬 18 • ⏱️ 0:43 • 1d ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=w1lRJhw37h4)**
-
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 127K • 👍 5K • 💬 228 • ⏱️ 27:38 • 2d ago
-
----
-
-**[Ethereum Could Be the Biggest Winner of the Next Crypto Cycle](https://www.youtube.com/watch?v=AWY7ixcceaM)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 284 • 💬 16 • ⏱️ 42:25 • 1d ago
-
----
-
-**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
-
-Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
-
-📺 Ivan on Tech
-
-👁️ 32K • 👍 2K • 💬 74 • ⏱️ 49:14 • 1d ago
+👁️ 12K • 👍 143 • 💬 18 • ⏱️ 0:43 • 1d ago
 
 ---
 

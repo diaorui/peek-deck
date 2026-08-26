@@ -25,6 +25,16 @@
       "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
     },
     {
+      "headline": "Hyundai CEO says your local car dealership could sell you a humanoid robot",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUElRanMwMXdCRUtrZlZ2NnpwWk1IbmNuUTE2Z1NyanV3emxOQWhUTUhCVmlEbmVsZ2duRnJuNmJBenZaNDVqSldvTnhHeWxCMVItdWd5cjZpeEd5TzRvOVQ2MmMwRFpoNmlVbVV4TGk5am5INzU4ek1DMEhXQldJeGkxTmpEd080RUpVaHFSLXRjN1VSOGhR?oc=5",
+      "pub_date": 1787766647.0,
+      "article_url": "https://www.businessinsider.com/hyundai-ceo-humanoid-robot-dealership-boston-dynamics-2026-8",
+      "image": "https://i.insider.com/6a8eea8779f11f0a89f90dad?width=1200&format=jpeg",
+      "description": "Hyundai's robotics company, Boston Dynamics, could sell humanoid and dog-like bots at car dealerships, the CEO said."
+    },
+    {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -33,6 +43,26 @@
       "article_url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
+    },
+    {
+      "headline": "World humanoid robot games show runners breaking records, bursting into flames",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVprLWQ5ZENrejg3TEpFcXVFc3ZYb2wwQmlYWXF4RVRpTXJsWmNHVy1YanFHdlhHcTFzUzBYdWhlaDNBakNfUy1qczlVc2lPZ292MlpTWXdyUUpNZjQtSExLcnZ6RElGS2dHRE95b2lsOGpNMGtNZExTREJhU1NoLWVPVGVhMnRXck1NNXd3MEc2alUxcVJMaEN1YUVxNGV5akVpc2dxU1JOOTkyMVVrdkx5TQ?oc=5",
+      "pub_date": 1787691543.0,
+      "article_url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
+      "description": "Record-breaking robot races are less substantial than household chore challenges."
+    },
+    {
+      "headline": "China will struggle to make money from humanoid robots",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtYRnNON1pEMV9mM3dBNlQtV2dqQlhlQWRlYW5PcGdQQTRPQUpET1pfS0k1OXpvS3dkZjkxQ0ZRMHJ5b3M2bVl6US1LQzJXWTRPTVJycnFJWWtaRzdlMlVBd1R0S0ZDVVNSS1JBUEg3aGkwT2liNU5qYzlLU2wySkgtRkJibHB5TFFuQ0RJU081c1JKeC1EUEo5MktyY0xSSnc?oc=5",
+      "pub_date": 1787493165.0,
+      "article_url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
@@ -45,6 +75,26 @@
       "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers."
     },
     {
+      "headline": "ScaFi: A robot that grows like a fish, not a machine\u2014from 2 feet to nearly 10",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vQU1rcC1nSVZodEJlclFUYzNFUTI3VFFPNzhoaFhzZnNaQkJ5WjlwRmdfZVl0a1YwRlQ1elg5NWQxWHZaRTZ4RjU1THVSbEQ3aVZUelBJV2hpNUlsVGlBOVB0SGN4R01kckwzLW0xY3ljNmZyM2hZTjdR?oc=5",
+      "pub_date": 1787749203.0,
+      "article_url": "https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The U.S. Can\u2019t Catch Up to China\u2019s Robots by Banning Them",
+      "source": "Foreign Policy",
+      "source_url": "https://foreignpolicy.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHdPTkxoRzdYYUJRcmlrS3ZYSWtJN0tFUnpKZmd1NFAyTFREM0tqcGZFMUxoLXROYjd4dHRTc2puNG9VRWNqQTFwZUhEWlRPWmJudkJsckwzZ2xRVkpUZ0VDclNrMGpBU2Q1RHJYSE5FWHRUeWl3RkJCT1l1OVFMZUhwLV85aENCaTU4T2QyMXNMdWwyNHc?oc=5",
+      "pub_date": 1787714418.0,
+      "article_url": "https://foreignpolicy.com/2026/08/25/china-robot-race-humanoids-drones-us-ban-restrictions/",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/china-robotics-GettyImages-2291565794.jpg",
+      "description": "Rather than learn from its rival, Washington is trying to shut the door."
+    },
+    {
       "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
       "source": "GeekWire",
       "source_url": "https://www.geekwire.com",
@@ -53,58 +103,8 @@
       "article_url": "https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/",
       "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/zancasort-download.jpeg",
       "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
-    },
-    {
-      "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHFQNU1JNjdXRXduNVlRNmV2M09OdFBOa3V0Vm5FNHV5bHhpUVJYV2IwQm5vTE9NWWYwMEI0X0tYNXoza0RpcTdzdHlhSGU1SDdhYWhlRlVXbFV6aGVYT3A0UUtHN2k3SEpZWWZmcnZVbXlaQUpwcDZEc0NVSTlWRFN4RWZpOW5rb0ZZM01xeF9fQVo0NkRfUEFvNzlJWEtNb0hSTWVLOHVBOHZVcHJF?oc=5",
-      "pub_date": 1787630520.0,
-      "article_url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
-      "image": "https://i.insider.com/6a8ce6d34569a4ec219f9bf8?width=1200&format=jpeg",
-      "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
-    },
-    {
-      "headline": "Qualcomm Launches Comprehensive Robotics Investment Initiative in Japan, Anchored by New Qualcomm Japan Robotics Center",
-      "source": "Qualcomm",
-      "source_url": "https://www.qualcomm.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGlVS0phYnhtOXpNYVpWV2dlcHRCOUVHVUhxS0QwMHZRbENZU1NYbUlQOEJ4eWxmdGFKbjZJUHJSTUdTbmZ4bFUyeTAwQVMxYmlZeTRUMmlvTHhwSG4xczlyTUdQbDR4Z1BiQkFaQnZncjdycDhlN2E5X0hhUzZDQ0FxaDlDOVFnSXpuRmtMckY1Q2NadzcwcG82TlllbjBJcVFlTUVZdm52UjRxeUl5Mg?oc=5",
-      "pub_date": 1787636586.0,
-      "article_url": "https://www.qualcomm.com/news/releases/2026/08/qualcomm-launches-comprehensive-robotics-investment-initiative-i",
-      "image": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/images/press-releases/managed-images/JapanRoboticsCenter1.png",
-      "description": "Qualcomm has launched a robotics investment initiative in Japan, anchored by the new Qualcomm Japan Robotics Center. Working with leading robotics, automation, research, and technology organizations, the initiative aims to advance an open physical AI ecosystem through innovation, ecosystem development, commercialization, and deployment, helping accelerate next-generation robotics solutions in Japan and globally."
-    },
-    {
-      "headline": "Should You Buy, Sell or Hold Serve Robotics Stock Post Q2 Earnings?",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0E0SkttNlVQb2JJWUJ1NHdWdGpJQWJVRHlzZU5EMVNCRHFrQm5aV21ZUmpsSWk1czNwZFNaMWRNRG85OGUzMmk1bHJyX3ZwQVhaM3FhdFU5TmllZ2ZHSVMwbjFodllZNkNtdi1EdzB5bjFkYWtJRFZxeUJSczFnSXVDdEJWbHk4ZEYwNHJPZENCQ1dIWnB2M1pNd1dva2tnd3lfWE5sVk5qdw?oc=5",
-      "pub_date": 1787670362.0,
-      "article_url": "https://www.zacks.com/stock/news/2979859/should-you-buy-sell-or-hold-serve-robotics-stock-post-q2-earnings",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "World\u2019s Largest Trial of Robotic Knee Surgery Delivers a Surprising Result",
-      "source": "SciTechDaily",
-      "source_url": "https://scitechdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2QyZEpRMkhONkVSRDYtaHhrOGFpcDRhTU5aM1UxajJkRnVlUTktLVRMV21sRlB0eFVlSDYxcjg4enI3bzBDUVhSLW1ONW1SN1l6SU5xN0NUSzB1ckJEdDlGRS1kdGZzNjZLbngzSXBQMFdmWHUwUTJDSXdSb1ZmOVFhUGdYQU1QLURXZ0xHRU1fTmpVXzd5XzlYR0d5bG5o?oc=5",
-      "pub_date": 1787743630.0,
-      "article_url": "https://scitechdaily.com/worlds-largest-trial-of-robotic-knee-surgery-delivers-a-surprising-result/",
-      "image": null,
-      "description": "Robot-assisted knee replacement surgery is more precise than surgery performed without robotic assistance, but it does not currently improve patient outcomes."
-    },
-    {
-      "headline": "Inside China\u2019s Race To Rule Robotics",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnBKUUFPcmdOWEcwQmo3Vl9fVGk3T1MyR25jZlFNZHFMRVlYdlhNUXMwckEzUkhjMUtPVTAwaWlWNjl2eldnQTBnRXljYUVrYXVITkhfc0Z4TkFUM2pqeFpKN0hRRVFuM25OeUtCd3BSSzI1LWw2c1VFbkZFa3gwN1VpMkpaOXBlbzhXak05SnZhWFFINExIRUJyRTdpV2c?oc=5",
-      "pub_date": 1787553420.0,
-      "article_url": "https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T15:59:47.866430+00:00"
+  "fetched_at": "2026-08-26T19:01:54.418410+00:00"
 }

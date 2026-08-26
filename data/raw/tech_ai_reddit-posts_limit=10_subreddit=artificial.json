@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
-      "author": "Fearless-Might-5439",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
-      "published": 1787696287.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
-    },
-    {
       "title": "Bill Gates says there needs to be limits on AI",
       "author": "cnn",
       "url": "https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/",
@@ -22,17 +11,6 @@
       "site_name": "CNN",
       "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
       "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
-    },
-    {
-      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/",
-      "published": 1787747930.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Robot dancing is getting pretty insane",
@@ -46,59 +24,48 @@
       "description": null
     },
     {
-      "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
-      "author": "Mysterious_Sign_9501",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
-      "published": 1787735807.0,
+      "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
+      "author": "Fearless-Might-5439",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
+      "published": 1787696287.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where \"who committed to what\" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo\u2019s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet."
+      "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
     },
     {
-      "title": "The reason why I have 15 Codex Pro 20x subscriptions",
-      "author": "bgdotjpg",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz0zk8/the_reason_why_i_have_15_codex_pro_20x/",
-      "published": 1787759624.0,
-      "thumbnail": "https://preview.redd.it/19k76bu2rqlh1.jpeg?width=640&crop=smart&auto=webp&s=e9d4c2119d5718f54831b3cca0afd79d10781c09",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The reason why I have 15 Codex Pro 20x subscriptions: Premium tokens are 311x cheaper for a LIMITED TIME ONLY* at the OpenAI Token Depot. I brought 15 shopping carts. The subsidy has dropped 25% since 1 month ago."
-    },
-    {
-      "title": "AGI quietly defined 34 days before Microsoft and OpenAI kill AGI Clause?",
-      "author": "rayanpal_",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz0fek/agi_quietly_defined_34_days_before_microsoft_and/",
-      "published": 1787758413.0,
+      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
+      "author": "unconventionalbook",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/",
+      "published": 1787747930.0,
       "thumbnail": null,
-      "external_url": "https://doi.org/10.5281/zenodo.19211116",
-      "site_name": "doi.org",
+      "external_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26",
+      "site_name": "reuters.com",
       "favicon": null,
-      "description": "Artificial General Intelligence is defined by the capacity to carry binding conditions across domains. A binding condition is the prerequisite that must hold for valid continuation. A system exhibits AGI when it can identify, verify, and enforce these conditions in arbitrary contexts without domain-specific training. Paper: https://doi.org/10.5281/zenodo.19211116 Official Microsoft Announcement: https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/ Reuters saying AGI clause was scrapped: https://www.breakingviews.com/columns/breaking-view/microsoft-openai-agree-ai-is-just-product-2026-04-27/"
+      "description": null
     },
     {
-      "title": "Found someone using an unapproved AI tool with client data. How common is this?",
-      "author": "Business_Roof786",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyz1jg/found_someone_using_an_unapproved_ai_tool_with/",
-      "published": 1787755349.0,
+      "title": "What happens when the average person can make their own movies, TV shows and games with AI?",
+      "author": "JupaTroopa09",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz3ql6/what_happens_when_the_average_person_can_make/",
+      "published": 1787765439.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Something happened recently that made me think about how common this might actually be. I found out that someone on a project team had been copying parts of a client's internal documents into a personal ChatGPT account to save some time. There was no bad intention behind it. They simply didn't think about the security side of it. It made me wonder how other companies are dealing with this. Is this something you've actually come across, or is it still pretty rare in your organization? Do you have any way to know which AI tools employees are using, or do you usually find out after something happens? I'm trying to understand whether this is becoming a normal challenge for companies or if we're just seeing it more because AI adoption is moving so quickly. Would be really interested to hear how other IT and security teams are handling it."
+      "description": "I think the future of AI-generated entertainment will look a lot less like \u201cHollywood and all creative jobs disappears overnight\u201d and a lot more like YouTube, Instagram, TikTok or OnlyFans \u2014 but for entire pieces of media. Creators would have their own audiences, followers, subscribers and communities, and there might even be entirely new apps/platforms built specifically around discovering and releasing AI-made entertainment. \ud83c\udfac\ud83c\udfae You make an AI movie, game or series? If people like it, they follow you. Your next episode comes out, your followers get notified; you make a new game? maybe people buy it directly from your profile. Some creators could have millions of followers, while most probably sit somewhere in the hundreds or thousands \u2014 basically how YouTube, TikTok, Twitch etc. already work. Some creators might become known for one specific thing, like one hugely popular sci-fi series, while others might basically run their own miniature studio and release a whole catalogue of unrelated stuff. Monetisation could also become way cheaper and more flexible. Maybe one creator says, \u201cPlay my new AAA shooter game for $4.99,\u201d while another has something like, \u201cSubscribe to my studio for $0.99/month and get access to all our movies, games and shows.\u201d \ud83d\udcb8 Plenty of projects would probably still be completely free. As the consumer, you wouldn't necessarily need to create anything yourself either \u2014 you could just follow the creators whose work you enjoy and basically build your own personalised entertainment library. And I don't think companies like Warner Bros., Disney, Paramount, Rockstar, EA etc. necessarily disappear. They'll still have famous franchises, audiences and marketing power, but their monopoly over who is allowed to make \"professional-looking\" entertainment would shrink. Kind of like how record labels and TV networks are today, but they now exist alongside millions of YouTubers, streamers, indie musicians, podcasters etc. The barrier to making something becomes incredibly low; the hard part becomes getting anybody to care about it. Tbh I don't think the future is as doom-and-gloom as some people think. In a weird way, the blueprint is already there Phase 1: Once these tools become powerful enough and widely available, we're probably going to get an explosion of AI-generated games, movies and TV shows. Most of it will probably suck because lowering the barrier to entry means millions more people can upload things, so finding the genuinely good stuff will be difficult at first. People will get overwhelmed, feeds will be flooded with low-effort \"AI Slop\" content \ud83d\ude02 and the backlash against AI-made entertainment will probably be at its strongest here. Basically: it's gonna be messy as fuuuck lol. \ud83d\udc80 Phase 2: Eventually people will get better at separating the garbage from the actual good stuff. Platforms, reviewers, subreddits, Discords and fan communities will become curators, helping people find the projects actually worth watching or playing. You'll probably start seeing things like \u201cTop 10 AI sci-fi shows this month\u201d or \u201cBest community-made RPGs of 2040.\u201d This is where certain creators would start becoming recognisable names with real fanbases. Phase 3: Eventually the novelty wears off and most people who thought \u201choly shit, I can make my own movie!\u201d will make one or two things and move on. The creators left will be the people who actually have vision, patience and storytelling ability, except now one talented person or a tiny team might be capable of making something that previously required hundreds of employees. At that point AI entertainment probably stops feeling like a weird novelty and just becomes another normal part of the industry alongside traditional studios and human-made productions."
     },
     {
-      "title": "[Open-Source] I need your worst edge cases to stress-test GenOS, my new AI agent orchestrator.",
-      "author": "MonokoEloba",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyxoes/opensource_i_need_your_worst_edge_cases_to/",
-      "published": 1787752210.0,
+      "title": "Gemini and Perplexity lean heavily on YouTube as a source, far more than ChatGPT or Claude. There's a structural reason, and it's showing up in Google's AI Overviews too.",
+      "author": "Sanbi_Ai",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz4xdx/gemini_and_perplexity_lean_heavily_on_youtube_as/",
+      "published": 1787767957.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, I\u2019m currently working on GenOS, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing. The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms) look amazing in demos, but often trip over their own feet the second you take them out of \"Hello World\" territory. That\u2019s where you come in: what are the real, testable problems you run into when building or using AI agents? I\u2019m looking for concrete, reproducible scenarios to see how GenOS handles them (or if it fails miserably, which will help me iterate). What I'm specifically looking for: Infinite loops & derailments: Tasks where the agent starts hallucinating code execution and just won't stop. State & context management: Swarm scenarios where Agent A forgets to pass crucial info to Agent B, or completely overwrites its work. Isolation issues: Cases where an agent corrupts its workspace by modifying or deleting the wrong files. Complex multi-step tasks: Long workflows where the agent eventually loses track of its initial objective. Drop your use cases, your biggest frustrations with existing frameworks (like LangChain, AutoGen, CrewAI, etc.), or even specific prompts that consistently break your setups. I\u2019ll take the most interesting cases, code them into GenOS to see if the Rust/Git architecture offers a cleaner solution, and I'll report back with the results! Thanks in advance for the feedback You can check it here PISSARAW/GenOS: Git-like branching, deterministic replay, and evidence-driven evaluation for reproducible AI agents."
+      "description": "Growth Feature in our dashboard Something I keep noticing about where different AI assistants pull their answers from, and I think there's a clean mechanistic explanation worth discussing. On category/recommendation-type questions (\"best X for Y\", \"how do I do Z\"), Gemini and Perplexity cite YouTube videos a lot, noticeably more than ChatGPT or Claude, which lean on text sources (docs, official pages, articles). It's a pretty lopsided split by engine on the same prompts. Why it likely happens: Gemini is a Google product, and Google owns YouTube. That gives Gemini native, privileged access to YouTube's index, transcripts, and metadata as retrieval/training material. Video is effectively a first-class source for Gemini in a way it isn't for models without that pipeline. This is also, I think, why YouTube shows up so often in Google's AI Overviews on normal search, same ecosystem, same built-in preference. Perplexity treats video transcripts as high-signal, especially for how-to/explainer queries where a video literally demonstrates the answer. Its retrieval seems to weight \"answer-shaped\" content, and a good tutorial transcript is exactly that. ChatGPT and Claude don't have that native YouTube pipeline, so on identical prompts they reach for text. Hence the split. Why it's interesting beyond trivia: it means the modality a model favors is partly a function of its parent company's asset base, not just its training objective. Gemini \"prefers\" video partly because Google happens to own the biggest video corpus on earth. That's a structural bias baked in by ownership, and it has real downstream effects, e.g. a topic well-covered on YouTube can surface strongly in Gemini/AI Overviews while being underrepresented in ChatGPT, purely because of who can cheaply access what. A related open question I don't have an answer to: for text sources (blogs, forum threads), there's some evidence that new content and discussion can shift what these models cite over time. I haven't seen anything on whether YouTube engagement (comments, etc.) feeds back into what Gemini/Perplexity surface. Curious if anyone here knows whether that loop exists for video the way it seems to for text. Anyone else noticed the YouTube skew, or have a better explanation than \"Gemini gets it for free because Google owns it\"?"
     },
     {
       "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)",
@@ -110,7 +77,40 @@
       "site_name": "nytimes.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "I work in data & AI and built a game to show how the whole industry chain actually fits together",
+      "author": "Charlotte1309",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz3o6r/i_work_in_data_ai_and_built_a_game_to_show_how/",
+      "published": 1787765294.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've spent years working in AI consulting, and one thing that always bugged me is how few people, even inside the field, can trace the full chain end to end. Where does the money actually go? Why is compute the bottleneck? How does a pile of data turn into a model, and a model into revenue? So I built a game about it. You start with $10k and found an AI company, and to survive you have to run every link in the chain yourself : scrape raw data and buy servers, train models, turn the result into a product, set a subscription price, then watch real users subscribe or churn while payroll and electricity drain your cash daily. The revenue funds more compute and research, and round you go. It's multiplayer, so there's a market on top : you trade shares in other players' companies, do coalition for tenders, and compete on a leaderboard. Persistent and real-time, one real day is one game day. Free, runs in the browser, English and French. I'm the dev. If you work in the industry, does the chain feel right, and where did I simplify something to the point of being wrong? https://lordoftokens.com"
+    },
+    {
+      "title": "Thank you for participating in the Stealth Ox Alpha testing period.",
+      "author": "paulrich_nb",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz32jh/thank_you_for_participating_in_the_stealth_ox/",
+      "published": 1787764025.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Thank you for participating in the Stealth Ox Alpha testing period. This model was ZAI's GLM-5.3 Flash. Use it now: https://openrouter.ai/z-ai/glm-5.3-flash"
+    },
+    {
+      "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
+      "author": "Mysterious_Sign_9501",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
+      "published": 1787735807.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other. Feels like an underrated problem compared to how much attention pure transcription accuracy gets. A transcript that's 99% accurate but has the wrong person attributed to a key statement is arguably more useless than one that's 90% accurate with correct speaker labels, at least for anything where \"who committed to what\" matters. Tried a handful of tools chasing this Otter, a couple others, and more recently Vomo ai which does speaker labeling automatically. Vomo\u2019s noticeably better on 3+ person calls than what I was using before,though overlapping speech is still the one case where it takes a bit more attention to double-check, so more of an improvement than a full fix. Wondering if this is a known hard problem in the diarization research or if it's more of an engineering/product prioritization gap that just hasn't been addressed yet."
     }
   ],
-  "fetched_at": "2026-08-26T15:59:31.503840+00:00"
+  "fetched_at": "2026-08-26T19:01:26.676101+00:00"
 }

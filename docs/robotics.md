@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T16:53:40.277945+00:00'
+updated: '2026-08-26T19:01:56.348256+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 16:53 UTC  
+**Last Updated:** August 26, 2026 at 19:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,7 +124,15 @@ NVIDIA Newsroom • 1d ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 16h ago
+TechCrunch • 18h ago
+
+---
+
+**[Hyundai CEO says your local car dealership could sell you a humanoid robot](https://www.businessinsider.com/hyundai-ceo-humanoid-robot-dealership-boston-dynamics-2026-8)**
+
+Hyundai's robotics company, Boston Dynamics, could sell humanoid and dog-like bots at car dealerships, the CEO said.
+
+Business Insider • 1h ago
 
 ---
 
@@ -136,11 +144,39 @@ BBC • 1d ago
 
 ---
 
+**[World humanoid robot games show runners breaking records, bursting into flames](https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/)**
+
+Record-breaking robot races are less substantial than household chore challenges.
+
+Ars Technica • 22h ago
+
+---
+
+**[China will struggle to make money from humanoid robots](https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots)**
+
+The Economist • 3d ago
+
+---
+
 **[Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.](https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html)**
 
 As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
 
-CNBC • 10h ago
+CNBC • 12h ago
+
+---
+
+**[ScaFi: A robot that grows like a fish, not a machine—from 2 feet to nearly 10](https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html)**
+
+Tech Xplore • 6h ago
+
+---
+
+**[The U.S. Can’t Catch Up to China’s Robots by Banning Them](https://foreignpolicy.com/2026/08/25/china-robot-race-humanoids-drones-us-ban-restrictions/)**
+
+Rather than learn from its rival, Washington is trying to shut the door.
+
+Foreign Policy • 15h ago
 
 ---
 
@@ -148,43 +184,7 @@ CNBC • 10h ago
 
 Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
 
-GeekWire • 23h ago
-
----
-
-**[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
-
-Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
-
-Business Insider • 1d ago
-
----
-
-**[Qualcomm Launches Comprehensive Robotics Investment Initiative in Japan, Anchored by New Qualcomm Japan Robotics Center](https://www.qualcomm.com/news/releases/2026/08/qualcomm-launches-comprehensive-robotics-investment-initiative-i)**
-
-Qualcomm has launched a robotics investment initiative in Japan, anchored by the new Qualcomm Japan Robotics Center. Working with leading robotics, automation, research, and technology organizations, the initiative aims to advance an open physical AI ecosystem through innovation, ecosystem development, commercialization, and deployment, helping accelerate next-generation robotics solutions in Japan and globally.
-
-Qualcomm • 1d ago
-
----
-
-**[Should You Buy, Sell or Hold Serve Robotics Stock Post Q2 Earnings?](https://www.zacks.com/stock/news/2979859/should-you-buy-sell-or-hold-serve-robotics-stock-post-q2-earnings)**
-
-Zacks Investment Research • 1d ago
-
----
-
-**[World’s Largest Trial of Robotic Knee Surgery Delivers a Surprising Result](https://scitechdaily.com/worlds-largest-trial-of-robotic-knee-surgery-delivers-a-surprising-result/)**
-
-Robot-assisted knee replacement surgery is more precise than surgery performed without robotic assistance, but it does not currently improve patient outcomes.
-
-SciTechDaily • 5h ago
-
----
-
-**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
-
-WSJ • 2d ago
+GeekWire • 1d ago
 
 ---
 
@@ -212,43 +212,43 @@ A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary hea
 
 ---
 
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
-
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 370K • 👍 5K • 💬 1K • ⏱️ 4:29 • 1d ago
-
----
-
-**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
-
-Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
-
-📺 news.com.au
-
-👁️ 88K • 👍 752 • 💬 300 • ⏱️ 4:02 • 1d ago
-
----
-
 **[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
 Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
 📺 DPCcars
 
-👁️ 23K • 👍 480 • 💬 87 • ⏱️ 2:12 • 6d ago
+👁️ 23K • 👍 476 • 💬 87 • ⏱️ 2:12 • 6d ago
 
 ---
 
-**[LIVE: World Humanoid Robot Games 2026 in China (Final day)](https://www.youtube.com/watch?v=Iq7v54MvjzY)**
+**[Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games](https://www.youtube.com/watch?v=CHjdtTROPZg)**
 
-Watch live coverage of the final day of the Olympics-like World Humanoid Robot Games in Beijing where more than 2000 robots ...
+The five-day games, now in its second year, are a spectacle demonstrating China's rapid progress in advanced robotics as the ...
 
 📺 Associated Press
 
-👁️ 24K • 👍 288 • 💬 13 • ⏱️ 2:47:51 • 7h ago
+👁️ 458K • 👍 5K • 💬 2K • ⏱️ 1:24 • 3d ago
+
+---
+
+**[Robot conference offers glimpse of the future in China | The World | ABC NEWS](https://www.youtube.com/watch?v=NCtEc6gSCsE)**
+
+The World Robot Conference is underway in Beijing, showcasing the latest technological advancements in the industry.
+
+📺 ABC News (Australia)
+
+👁️ 20K • 👍 206 • ⏱️ 7:18 • 6d ago
+
+---
+
+**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
+
+The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
+
+📺 CNA
+
+👁️ 429K • 👍 6K • 💬 1K • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -258,35 +258,37 @@ The second annual World Humanoid Games are set to take place in Beijing. It come
 
 📺 NBC News
 
-👁️ 67K • 👍 481 • 💬 248 • ⏱️ 4:05 • 5d ago
+👁️ 67K • 👍 482 • 💬 248 • ⏱️ 4:05 • 5d ago
 
 ---
 
-**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
+**[Humanoid Robot Demolishes Usain Bolt’s Record](https://www.youtube.com/watch?v=p-Ua-Tb980M)**
 
-8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
 
-📺 XRoboHub
+📺 New York Post
 
-👁️ 5K • 👍 113 • 💬 14 • ⏱️ 0:16 • 2h ago
-
----
-
-**[Chinese robot beats Usain Bolt&#39;s 100m world record](https://www.youtube.com/watch?v=rsI6I86yBsc)**
-
-A humanoid robot developed by China's Beijing Innovation Center of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
-
-📺 Reuters
-
-👁️ 90K • 👍 130 • 💬 113 • ⏱️ 0:24 • 3d ago
+👁️ 46K • 👍 706 • 💬 502 • ⏱️ 2:16 • 4d ago
 
 ---
 
-**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot #robotics](https://www.youtube.com/watch?v=itMRcXCDZbA)**
+**[Robots jump 2 metres, sprint faster than Usain Bolt in Beijing | Asia News Week | ABC NEWS](https://www.youtube.com/watch?v=eZ8XEUvlxt8)**
 
-📺 XRoboHub
+Human-like androids have wowed crowds at the World Robot Conference in Beijing, with models boxing, folding clothes, and ...
 
-👁️ 574 • 👍 15 • 💬 1 • ⏱️ 0:16 • 1h ago
+📺 ABC News (Australia)
+
+👁️ 21K • 👍 139 • ⏱️ 7:11 • 5d ago
+
+---
+
+**[Humanoid Robots Battle in Intense 1-on-1 Fight in China](https://www.youtube.com/watch?v=snEFSqlUdlE)**
+
+Chinese robot makers showed off robots sorting packages, arranging flowers and helping with chores at a Beijing conference.
+
+📺 New York Post
+
+👁️ 57K • 👍 899 • 💬 383 • ⏱️ 4:07 • 6d ago
 
 ---
 

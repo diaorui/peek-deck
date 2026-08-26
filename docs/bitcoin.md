@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-26T16:53:40.268650+00:00'
+updated: '2026-08-26T19:01:56.340678+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 16:53 UTC  
+**Last Updated:** August 26, 2026 at 19:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,110.33
+### $78,472.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +6.8%  
-**30d:** +22.0%  
-**90d:** +6.1%  
-**1y:** -30.0%  
+**24h:** +0.4%  
+**7d:** +7.5%  
+**30d:** +22.7%  
+**90d:** +6.8%  
+**1y:** -29.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1567.05B
+**Market Cap:** $1575.09B
 Rank #1
 
-**Circulating Supply:** 20,075,412 BTC
+**Circulating Supply:** 20,075,546 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.1%
+-37.8%
 
 **All-Time Low:** $67.81
-+115018.7%
++115621.9%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Oh you poor poor fiat boy](https://www.reddit.com/r/Bitcoin/comments/1vyqfmf/oh_you_poor_poor_fiat_boy/)**
 
-9h ago
+11h ago
 
 ---
 
 **[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
 
-12h ago
+14h ago
 
 ---
 
 **[EVERYONE: SELL! ME: HODL.](https://www.reddit.com/r/Bitcoin/comments/1vz18wm/everyone_sell_me_hodl/)**
 
-50m ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF conversions after lowering the minimum transaction size from $25 million to $1 million. Separate ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 1h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 4h ago
 
 ---
 
@@ -107,13 +107,13 @@ BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF c
 
 https://x.com/saylor/status/2092277359034458361
 
-23h ago
+1d ago
 
 ---
 
 **[I’ve been buying crypto for this long](https://www.reddit.com/r/Bitcoin/comments/1vyknbm/ive_been_buying_crypto_for_this_long/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://x.com/saylor/status/2092277359034458361
 
 For years the idea was that crypto would replace traditional payment rails and let people transact without relying on the same old financial system but now it seems like the most practical path to adoption is connecting crypto to the infrastructure we already use. Maybe that’s actually a good thing. People get to use crypto without merchants changing anything but if mass adoption still depends on Visa and banks in the background, did crypto actually change the system or did it just become another layer on top of it? Curious what people here think
 
-1h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ For years the idea was that crypto would replace traditional payment rails and l
 
 “Recent dust attacks from HTX-owned wallets appear to be an attempt to spread UK- and EU-sanctioned funds to other platforms in order to discredit the broader industry,” the Kraken spokesperson continued. When a dust attack sats land in my wallet, I can simply decide what to do about them. If they land in an exchange account, the exchange block your bitcoin. "it triggers a full account lock, causing operational disruption for a large number of users,” a Kraken spokesperson said. Never forget, not your keys, not your cheese.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked) • 6h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked) • 8h ago
 
 ---
 
@@ -137,7 +137,7 @@ For years the idea was that crypto would replace traditional payment rails and l
 
 I don’t mean just hold it long term, I mean like I’m going to die with it. I look at my stack and I think, I’m selling that bit on X date or X price or, I’m selling that to buy X. But then I look at a bit of my stack and I’m thinking I’m not selling that ever. Anyone else the same? I’m curious because if this is the norm, bitcoin is a lot scarcer than we might think it is.
 
-2h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ I don’t mean just hold it long term, I mean like I’m going to die with it. I
 
 Been following the Coldcard fallout closely and this is the most interesting response to it so far. After Coldcard losses climbed past 100 million, developer Calle and AnchorWatch CEO Rob Hamilton organized the Bitcoin Red Team, 16 volunteers globally, pointing frontier AI models at as much of Bitcoin's open source codebase as possible. OpenSats funded the compute, roughly 10k a day, AI developer Moonshot provided model access including Kimi K3. Results from a 27.5 hour sprint starting August 4: 4,962 total findings across 390 projects. 85 critical, 635 high severity. Project owners confirmed most of the critical reports, and researchers rebuilt working proofs of concept before alerting maintainers, not just AI flagging something suspicious. The bottleneck isn't discovery anymore according to the team, it's verification and routing. Only about 21 percent of findings had been independently reproduced by the 30 hour mark, fewer than 5 percent of projects had gotten formal disclosure. Here's the part that makes it concrete instead of abstract. During this same window, attackers exploited a critical BTCPay Server vulnerability, draining Lightning nodes running behind it by stealing macaroon credential files. Foundation, the hardware wallet company, had its own BTCPay Lightning node drained overnight. This specific vulnerability had already been reported to BTCPay by Red Team members. It got found, reported, and exploited anyway before the fix was fully deployed everywhere. Full writeup on the whole sequence: https://davidebtc186.substack.com/p/16-volunteers-27-hours-40000-in-ai
 
-10h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ Been following the Coldcard fallout closely and this is the most interesting res
 
 Bitcoin is having a price gusher to close out August.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -165,63 +165,61 @@ Yahoo Finance • 7h ago
 
 The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
-BBC • 17h ago
+BBC • 19h ago
 
 ---
 
-**[A breakout is brewing in this bitcoin-linked stock. How to trade it](https://www.cnbc.com/2026/08/26/a-breakout-is-brewing-in-this-bitcoin-linked-stock-how-to-trade-it.html)**
+**[BlackRock's Robert Mitchnick on bitcoin's comeback and what's next for institutional adoption](https://www.cnbc.com/video/2026/08/26/blackrocks-robert-mitchnick-bitcoin-comeback-institutional-adoption.html)**
 
-Tony Zhang of OptionsPlay breaks down how he's trading this name.
+Robbie Mitchnick, BlackRock’s head of digital assets, joins CNBC's Tanaya Macheel for an exclusive interview about what’s driving crypto's rebound, whether bitcoin’s role as a portfolio diversifier is changing, and whether growing concerns over U.S. debt and currency debasement strengthen the long-term case for the asset.
 
-CNBC • 2h ago
-
----
-
-**[Live updates: Bitcoin flat near $78,500 ahead of inflation data, Nvidia earnings](https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally)**
-
-CoinDesk • 2h ago
+CNBC • 1h ago
 
 ---
 
-**[A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.](https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next)**
+**[Bitcoin rebound comes at pivotal moment as debasement trade gains steam](https://www.cnbc.com/video/2026/08/26/bitcoin-rebound-comes-at-pivotal-moment-as-debasement-trade-gains-steam.html)**
 
-Barchart.com • 20h ago
+CNBC's Tanaya Macheel reports on the recent rally in bitcoin.
 
----
-
-**[Bernstein sees bitcoin reaching $150,000 by mid-2027 amid 'debasement trade,' but cuts Strategy target to $350](https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778)**
-
-Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029.
-
-The Block • 6h ago
+CNBC • 41m ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
+**[Bitcoin and Gold Funds Draw $7 Billion as Scarcity Trade Surges](https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-and-gold-etfs-draw-7-billion-as-scarcity-trade-surges)**
 
-If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
-
-The Motley Fool • 1d ago
+Bloomberg • 2h ago
 
 ---
 
-**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+**[Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-at-80000-as-traders-await-inflation-data-082152117.html)**
 
-Finally, a killer use case
+Bitcoin's rally is running into resistance at the psychologically important $80,000 level as traders await key US monetary policy signals to gauge whether the past week's gains have room to run.
 
-Financial Times • 2d ago
+Yahoo Finance • 10h ago
+
+---
+
+**[Live updates: Bitcoin adds to early losses, slipping to $78,000](https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally)**
+
+CoinDesk • 12m ago
+
+---
+
+**[Bitcoin edges down to $78k as rebound rally cools after U.S. inflation data](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-79k-as-rebound-rally-cools-ahead-of-us-inflation-data-4876359)**
+
+Investing.com • 4h ago
+
+---
+
+**[Bitcoin returns to $80,000 as MSCI raises fresh concerns; Strategy’s prized financing flywheel faces an “index eligibility test”](https://www.moomoo.com/news/post/75306139/bitcoin-returns-to-80000-as-msci-raises-fresh-concerns-strategy)**
+
+Moomoo • 5h ago
 
 ---
 
 **[‘It’s Going To Keep Growing’—BlackRock Just Confirmed A Bitcoin Price Bombshell](https://www.forbes.com/sites/digital-assets/2026/08/26/its-going-to-keep-growing-blackrock-just-confirmed-a-bitcoin-price-bombshell/)**
 
-Forbes • 1h ago
-
----
-
-**[CleanSpark plans transition from Bitcoin mining to high-performance computing in Sandersville](https://www.wjbf.com/news/cleanspark-plans-transition-from-bitcoin-mining-to-high-performance-computing-in-sandersville/)**
-
-WJBF • 1d ago
+Forbes • 8h ago
 
 ---
 
@@ -233,7 +231,7 @@ WJBF • 1d ago
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 4 • 💬 0 • 14h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 4 • 💬 0 • 16h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -242,6 +240,14 @@ A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 Finally, a killer use case
 
 ⬆️ 4 • 💬 0 • 2d ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+
+---
+
+**[Man reunited with £3.3M lost Bitcoin after 12 years](https://news.ycombinator.com/item?id=49451347)**
+
+Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial £1,500 investment turning into a multi-million-pound fortune
+
+⬆️ 3 • 💬 0 • 3h ago • [LBC](https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/)
 
 ---
 
@@ -283,14 +289,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Man reunited with £3.3M lost Bitcoin after 12 years](https://news.ycombinator.com/item?id=49451347)**
-
-Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial £1,500 investment turning into a multi-million-pound fortune
-
-⬆️ 1 • 💬 0 • 56m ago • [LBC](https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/)
-
----
-
 **[Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words](https://news.ycombinator.com/item?id=49370845)**
 
 Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
@@ -303,7 +301,7 @@ Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis
 
 Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.
 
-⬆️ 4 • 💬 3 • 20h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
+⬆️ 4 • 💬 3 • 22h ago • [jonready.com](https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html)
 
 ---
 
@@ -317,47 +315,7 @@ This is not the time to aggressively buy. You had 6 months to do that. Here's wh
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 595 • 💬 122 • ⏱️ 10:15 • 11h ago
-
----
-
-**[BITCOIN: There Are TWO Traps Here! (watch out) - BTC Price Prediction Today](https://www.youtube.com/watch?v=CuPX5QzZ8Vk)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 3K • 👍 358 • 💬 21 • ⏱️ 14:14 • 6h ago
-
----
-
-**[If You Hold Crypto Or Bitcoin This Is Something You Need To Hear BTC Is Going To Crush The Dollar](https://www.youtube.com/watch?v=5bPQ6uff-x4)**
-
-Things are about to get volatile in the cryptocurrency space and this could bode extremely well for people holding Bitcoin and ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 5K • 👍 1K • 💬 180 • ⏱️ 18:23 • 5h ago
-
----
-
-**[Bitcoin is not overbought but isn&#39;t oversold anymore, says Fairlead Strategies&#39; Katie Stockton](https://www.youtube.com/watch?v=fa3CcX0JxUc)**
-
-Katie Stockton, Fairlead Strategies managing partner, joins 'The Exchange' to discuss the recent performance in bitcoin, technical ...
-
-📺 CNBC Television
-
-👁️ 10K • 👍 120 • 💬 64 • ⏱️ 3:09 • 21h ago
-
----
-
-**[Why Bitcoin’s $80K Breakout Is Front-Running a $1 Trillion Treasury Intervention!](https://www.youtube.com/watch?v=gzwWoUm4B4o)**
-
-Bitcoin just crossed a critical moving average as trouble builds inside the world's most important financial market. Treasury ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 165 • ⏱️ 14:53 • 18h ago
+👁️ 10K • 👍 647 • 💬 141 • ⏱️ 10:15 • 13h ago
 
 ---
 
@@ -367,37 +325,17 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 1K • 💬 62 • ⏱️ 52:01 • 19h ago
+👁️ 45K • 👍 1K • 💬 62 • ⏱️ 52:01 • 22h ago
 
 ---
 
-**[Bitcoin Live Trading: Bullish or Bearish, We Get The Gains! EP2103](https://www.youtube.com/watch?v=AoYFwzG1RP4)**
+**[Bitcoin Surges To $80K: New Bull Market Or Trap?](https://www.youtube.com/watch?v=6Gpzyx504Ug)**
 
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
 
-📺 Crypto Lifer
+📺 Gareth Soloway
 
-👁️ 3K • 👍 392 • 3h ago
-
----
-
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=0lBaaFNh17s)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Vantage Markets
-
-👁️ 5K • 👍 6 • 3h ago
-
----
-
-**[Bitcoin Full Bull? $600BN Created in 8 Days + Nvidia’s 30x Power Cheat 👀🚀](https://www.youtube.com/watch?v=dUB5sY_1zCI)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 39K • 👍 3K • 💬 81 • ⏱️ 25:34 • 20h ago
+👁️ 60K • 👍 4K • 💬 308 • ⏱️ 10:39 • 1d ago
 
 ---
 
@@ -407,7 +345,67 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 255 • 💬 107 • ⏱️ 21:29 • 21h ago
+👁️ 5K • 👍 265 • 💬 74 • ⏱️ 21:29 • 23h ago
+
+---
+
+**[Bitcoin Is Squeezing The Bears](https://www.youtube.com/watch?v=QK9s5LTsDh0)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto & Markets* ▻ https://www.askclash.ai/ Play Frontline ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 1K • 💬 474 • ⏱️ 12:06 • 1d ago
+
+---
+
+**[Bitcoin Full Bull? $600BN Created in 8 Days + Nvidia’s 30x Power Cheat 👀🚀](https://www.youtube.com/watch?v=dUB5sY_1zCI)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 41K • 👍 3K • 💬 91 • ⏱️ 25:34 • 22h ago
+
+---
+
+**[BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_rtU_oirTWo)**
+
+BITCOIN WARNING CONFIRMED (Not What You Think)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 339 • 💬 133 • ⏱️ 18:28 • 17h ago
+
+---
+
+**[HUGE Bitcoin Bull Trap Dead Ahead... how to manage it!](https://www.youtube.com/watch?v=eL4Vs9O2bco)**
+
+Bitcoin has surged back to $80000, and mainstream headlines are suddenly telling everyone they are “not bullish enough.
+
+📺 Davinci Jeremie
+
+👁️ 6K • 👍 391 • 💬 152 • ⏱️ 9:01 • 19h ago
+
+---
+
+**[ARE YOU READY? THE CRYPTO BULL MARKET IS HERE!? BITCOIN &amp; ALTCOINS TO SURGE!](https://www.youtube.com/watch?v=EwDSTwJBqhI)**
+
+Crypto News: Bitcoin rallies to $80000 and altcoins are on the move with may signals flashing the crypto bull market is here.
+
+📺 Thinking Crypto
+
+👁️ 13K • 👍 821 • 💬 257 • ⏱️ 23:50 • 1d ago
+
+---
+
+**[Ben Cowen: One More Bitcoin Crash Before 2027?](https://www.youtube.com/watch?v=kRz73Qmzk40)**
+
+Market analyst Benjamin Cowen reveals his Bitcoin strategy for the rest of 2026, explaining why he started buying BTC again in ...
+
+📺 Cointelegraph
+
+👁️ 52K • 👍 2K • 💬 388 • ⏱️ 24:26 • 1d ago
 
 ---
 
