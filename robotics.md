@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T06:50:00.087895+00:00'
+updated: '2026-08-26T07:46:22.654494+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 06:50 UTC  
+**Last Updated:** August 26, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
 
-NVIDIA Newsroom • 15h ago
+NVIDIA Newsroom • 16h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 15h ago
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 6h ago
 
 As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
 
-CNBC • 19m ago
+CNBC • 1h ago
 
 ---
 
@@ -148,7 +148,7 @@ BBC • 1d ago
 
 Tencent Holdings (SEHK:700) has joined Alibaba as a lead investor in Xpeng's humanoid robotics spin out Dogotix, backing a US$900 million funding round. The deal marks Tencent's entry into a standalone humanoid robotics venture outside its existing software, platform and cloud operations. Tencent's move highlights growing interest from large Chinese tech companies in AI enabled hardware and robotics projects. For readers who want to look beyond consumer platforms and explore listed...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ Business Insider • 1d ago
 
 Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
 
-x.com • 16h ago
+x.com • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ x.com • 16h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 20h ago
+IEEE Spectrum • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ WSJ • 18h ago
 
 **[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -192,23 +192,13 @@ Axios • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Woman hires humanoid robot to clean SF home for $30](https://www.youtube.com/watch?v=zd7b9nZh1mE)**
+**[Clumsy Run, Epic Jump! This Humanoid Shocked Everyone 🤖💨 #robot #humanoid #robotics](https://www.youtube.com/watch?v=9WOzAbnl5bI)**
 
-Would you hire a robot to clean your home? One woman in San Francisco hired a humanoid robot from Tau Robotics to complete ...
+It looked like it was about to wipe out... until it launched into the air! Watch this humanoid robot pull off an insane long jump at the ...
 
-📺 ABC7 News Bay Area
+📺 向量未来 VectFuture
 
-👁️ 210K • 👍 2K • 💬 1K • ⏱️ 0:50 • 1d ago
-
----
-
-**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
-
-A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
-
-📺 USA TODAY
-
-👁️ 95K • 👍 592 • 💬 108 • ⏱️ 0:31 • 2d ago
+👁️ 34K • 👍 120 • 💬 11 • ⏱️ 0:12 • 1d ago
 
 ---
 
@@ -218,17 +208,37 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 15K • 👍 168 • 💬 4 • ⏱️ 0:30 • 15h ago
+👁️ 20K • 👍 249 • 💬 4 • ⏱️ 0:30 • 16h ago
 
 ---
 
-**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
 
-Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
 
-📺 ABC News
+📺 USA TODAY
 
-👁️ 114K • 👍 796 • 💬 138 • ⏱️ 0:40 • 3d ago
+👁️ 96K • 👍 597 • 💬 108 • ⏱️ 0:31 • 2d ago
+
+---
+
+**[Robot Helps a Man by Giving Water 🤖💧 | Amazing AI Video | Future Technology   #AIRobot #Robot #viral](https://www.youtube.com/watch?v=LljQrF2H_z0)**
+
+AI robot, robot helping human, future robot, artificial intelligence, AI generated video, cinematic AI video, realistic robot video, robot ...
+
+📺 ALI HAMZA 
+
+👁️ 3.1M • 👍 134K • 💬 244 • ⏱️ 0:10 • 4d ago
+
+---
+
+**[Humanoid Robot Demolishes Usain Bolt’s Record #shorts](https://www.youtube.com/watch?v=A1vAQ20dyz4)**
+
+China's Beijing Innovation Centre of Humanoid Robotics developed a robot that can run faster than Olympian Usain Bolt.
+
+📺 New York Post
+
+👁️ 37K • 👍 862 • 💬 212 • ⏱️ 0:52 • 3d ago
 
 ---
 
@@ -238,7 +248,7 @@ A humanoid robot has recorded a massive 7.97 meter long jump at the 2nd World Hu
 
 📺 DPCcars
 
-👁️ 60K • 👍 180 • 💬 52 • ⏱️ 1:40 • 2d ago
+👁️ 61K • 👍 182 • 💬 55 • ⏱️ 1:40 • 2d ago
 
 ---
 
@@ -248,47 +258,35 @@ A humanoid robot reached an incredible 7.97 meters in the long jump at the World
 
 📺 DPCcars
 
-👁️ 26K • 👍 96 • 💬 15 • ⏱️ 0:32 • 2d ago
+👁️ 27K • 👍 97 • 💬 15 • ⏱️ 0:32 • 2d ago
 
 ---
 
-**[Unitree’s Superman Robot Runs Faster Than Usain Bolt! 🦾🔥 #Robotics #Unitree](https://www.youtube.com/watch?v=gEk9ijXGX-o)**
+**[I Bought a $7,000 Iron Man Robot](https://www.youtube.com/watch?v=Z1XrFFH3OFQ)**
 
-China's Unitree has reportedly introduced an incredible humanoid robot nicknamed “Superman,” pushing robotic speed to a ...
+📺 Kyle Krueger
 
-📺 The Intel Inn
-
-👁️ 49K • 👍 173 • 💬 10 • ⏱️ 0:09 • 4d ago
+👁️ 2.4M • 👍 130K • 💬 1K • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[Humanoid robots compete in weight lifting challenge at World Humanoid Robot Games](https://www.youtube.com/watch?v=wVbssAPXYTw)**
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
 
-Humanoid robots compete in weight lifting challenge as the World Humanoid Robot Games continues. Robots are competing in: ...
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
 
-📺 Peter Kappes
+📺 ABC News
 
-👁️ 201K • 👍 2K • 💬 459 • ⏱️ 2:36 • 1d ago
+👁️ 114K • 👍 808 • 💬 139 • ⏱️ 0:40 • 3d ago
 
 ---
 
-**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
+**[Robot Beats Usain Bolt’s 100M Record With 9.39 Seconds](https://www.youtube.com/watch?v=OaYocGzirlA)**
 
-Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
+Humanoid robots are getting faster at an incredible pace, and Tian Gong Ultra just delivered a performance that puts that progress ...
 
 📺 DPCcars
 
-👁️ 23K • 👍 480 • 💬 87 • ⏱️ 2:12 • 5d ago
-
----
-
-**[Autonomous Robots Are Taking Over the Tennis Court](https://www.youtube.com/watch?v=SiQx5ZrKnD8)**
-
-GALBOT humanoid robots are preparing for an autonomous tennis match that could mark an important moment for robotics and ...
-
-📺 DPCcars
-
-👁️ 20K • 👍 203 • 💬 61 • ⏱️ 1:19 • 4d ago
+👁️ 59K • 👍 198 • 💬 107 • ⏱️ 1:38 • 3d ago
 
 ---
 

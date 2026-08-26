@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T06:50:00.085051+00:00'
+updated: '2026-08-26T07:46:22.651226+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 06:50 UTC  
+**Last Updated:** August 26, 2026 at 07:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.34B
+**Market Cap:** $297.50B
 Rank #2
 
 **Circulating Supply:** 120,681,271 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.2%
 
 **All-Time Low:** $0.43
-+569193.2%
++569214.0%
 
 ---
 
@@ -176,13 +176,13 @@ Yahoo Finance • 1d ago
 
 The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
 
 ---
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -214,7 +214,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -230,7 +230,7 @@ Benzinga • 1d ago
 
 George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
 
-The Defiant • 15h ago
+The Defiant • 16h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 2K • 👍 97 • 💬 38 • ⏱️ 6:53 • 11h ago
+👁️ 2K • 👍 103 • 💬 12 • ⏱️ 6:53 • 12h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 630 • 💬 74 • ⏱️ 12:24 • 1d ago
+👁️ 9K • 👍 631 • 💬 63 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 11K • 👍 386 • 💬 371 • ⏱️ 19:33 • 1d ago
+👁️ 11K • 👍 387 • 💬 380 • ⏱️ 19:33 • 1d ago
 
 ---
 
@@ -274,17 +274,7 @@ Melvin's portfolio is up 45% since February. Want to see what he's buying next? 
 
 📺 Milk Road
 
-👁️ 7K • 👍 272 • 💬 114 • ⏱️ 42:25 • 1d ago
-
----
-
-**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 264 • 💬 10 • ⏱️ 8:33 • 17h ago
+👁️ 7K • 👍 274 • 💬 114 • ⏱️ 42:25 • 1d ago
 
 ---
 
@@ -294,7 +284,17 @@ Ethereum might be a generational opportunity right now. $20000 is a genuine targ
 
 📺 No Bs Crypto
 
-👁️ 15K • 👍 547 • 💬 77 • ⏱️ 18:53 • 2d ago
+👁️ 15K • 👍 550 • 💬 77 • ⏱️ 18:53 • 2d ago
+
+---
+
+**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=VRZT8Q0myg4)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 264 • 💬 10 • ⏱️ 8:33 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 124K • 👍 5K • 💬 248 • ⏱️ 27:38 • 2d ago
+👁️ 125K • 👍 5K • 💬 229 • ⏱️ 27:38 • 2d ago
 
 ---
 
@@ -324,17 +324,17 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 11K • 👍 126 • 💬 17 • ⏱️ 0:43 • 1d ago
+👁️ 11K • 👍 133 • 💬 17 • ⏱️ 0:43 • 1d ago
 
 ---
 
-**[BITCOIN, SOLANA, ETHEREUM: NOOWW!!!!!!!!](https://www.youtube.com/watch?v=4FoCQP2wBu8)**
+**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=amJgzcV2ag8)**
 
-Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bullmania.com/ EXCHANGES I USE (bybit, ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 Ivan on Tech
+📺 More Crypto Online
 
-👁️ 30K • 👍 2K • 💬 123 • ⏱️ 49:14 • 20h ago
+👁️ 6K • 👍 270 • 💬 8 • ⏱️ 6:32 • 1d ago
 
 ---
 
