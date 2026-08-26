@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-26T03:53:37.595431+00:00'
+updated: '2026-08-26T04:39:30.606666+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 26, 2026 at 03:53 UTC  
+**Last Updated:** August 26, 2026 at 04:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Motley Fool • 1d ago
 
 **[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -230,7 +230,7 @@ Fortune • 15h ago
 
 George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
 
-The Defiant • 12h ago
+The Defiant • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 1K • 👍 87 • 💬 37 • ⏱️ 6:53 • 8h ago
+👁️ 1K • 👍 87 • 💬 37 • ⏱️ 6:53 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 260 • 💬 10 • ⏱️ 8:33 • 14h ago
+👁️ 5K • 👍 260 • 💬 10 • ⏱️ 8:33 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 124K • 👍 5K • 💬 232 • ⏱️ 27:38 • 1d ago
+👁️ 124K • 👍 5K • 💬 232 • ⏱️ 27:38 • 2d ago
 
 ---
 
@@ -324,7 +324,7 @@ Newsletter: https://bullmania.com/subscribe JOIN BULLMANIA WAITLIST: https://bul
 
 📺 Ivan on Tech
 
-👁️ 30K • 👍 2K • 💬 71 • ⏱️ 49:14 • 17h ago
+👁️ 30K • 👍 2K • 💬 71 • ⏱️ 49:14 • 18h ago
 
 ---
 
