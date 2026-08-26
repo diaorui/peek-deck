@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-25T23:50:05.028205+00:00'
+updated: '2026-08-26T01:18:32.626906+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 25, 2026 at 23:50 UTC  
+**Last Updated:** August 26, 2026 at 01:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,453.62
+### $2,448.81
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -2.0%  
-**7d:** +8.5%  
-**30d:** +29.1%  
-**90d:** +21.5%  
-**1y:** -47.0%  
+**7d:** +5.6%  
+**30d:** +27.8%  
+**90d:** +21.9%  
+**1y:** -45.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-3d ago
+4d ago
 
 ---
 
@@ -172,17 +172,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
+
+CoinDesk • 13h ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
 
 PR Newswire • 1d ago
-
----
-
-**[ETH news: A 3% token move just triggered $36 million in Ethereum DeFi liquidations](https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations)**
-
-CoinDesk • 11h ago
 
 ---
 
@@ -194,19 +194,19 @@ XRP and Ethereum need to rally above 100% to reclaim their ATH of $3.84 and $4,9
 
 ---
 
-**[Glamsterdam Repricing Impact for Smart Contract Developers](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing)**
-
-The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
-
-ethereum.org • 1d ago
-
----
-
 **[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
 
 Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
 
 Benzinga • 1d ago
+
+---
+
+**[Glamsterdam Repricing Impact for Smart Contract Developers](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing)**
+
+The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
+
+ethereum.org • 1d ago
 
 ---
 
@@ -222,13 +222,15 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
-**[Tom Lee Spots Ethereum ‘Launch Point’ After 30% ETH Surge as 'Decade-Long Rotation Begins'](https://www.ccn.com/news/crypto/ethereum-250k-tom-lee-launch-point-eth-surge-rotation/)**
+**[THORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins](https://thedefiant.io/news/press-releases/thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins)**
 
-CCN.com • 10h ago
+George Town, Cayman Islands, August 25th, 2026, Chainwire. THORChain, a decentralized exchange, announced the launch of THORChain 3.20, an upgrade introducing native support for Monero (XMR) and Zcash (ZEC) swaps.Until now, moving between privacy coin...
+
+The Defiant • 19h ago
 
 ---
 
@@ -242,7 +244,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 654 • 👍 69 • 💬 34 • ⏱️ 6:53 • 4h ago
+👁️ 654 • 👍 69 • 💬 34 • ⏱️ 6:53 • 6h ago
 
 ---
 
@@ -282,7 +284,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 257 • 💬 10 • ⏱️ 8:33 • 10h ago
+👁️ 5K • 👍 257 • 💬 10 • ⏱️ 8:33 • 12h ago
 
 ---
 
@@ -322,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Get funded up to $100K with Breakout. Only 2 
 
 📺 Cilinix Crypto
 
-👁️ 535 • 👍 23 • 💬 4 • ⏱️ 5:57 • 14h ago
+👁️ 535 • 👍 23 • 💬 4 • ⏱️ 5:57 • 16h ago
 
 ---
 

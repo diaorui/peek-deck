@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-25T23:50:05.031072+00:00'
+updated: '2026-08-26T01:18:32.630203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 25, 2026 at 23:50 UTC  
+**Last Updated:** August 26, 2026 at 01:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,35 +112,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
-
-NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
-
-NVIDIA Newsroom • 8h ago
-
----
-
-**[Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/)**
-
-With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
-
-The Robot Report • 8h ago
-
----
-
-**[Nvidia unveils new robotics computer Jetson Orin Nano 2](https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2)**
-
-On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
-
-Seeking Alpha • 8h ago
-
----
-
 **[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
 
 BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -152,11 +128,43 @@ BBC • 1d ago
 
 ---
 
+**[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
+
+The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
+
+TechCrunch • 37m ago
+
+---
+
+**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
+
+NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
+
+NVIDIA Newsroom • 10h ago
+
+---
+
+**[Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/)**
+
+With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
+
+The Robot Report • 10h ago
+
+---
+
+**[Nvidia unveils new robotics computer Jetson Orin Nano 2](https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2)**
+
+On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
+
+Seeking Alpha • 9h ago
+
+---
+
 **[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
 
 Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
 
-Business Insider • 19h ago
+Business Insider • 21h ago
 
 ---
 
@@ -164,13 +172,7 @@ Business Insider • 19h ago
 
 Advances in multimodal AI and robotics are making companion robots more personal and emotionally aware
 
-IEEE Spectrum • 13h ago
-
----
-
-**[Scoop: Generalist raises another $200 million for AI robotics](https://www.axios.com/2026/08/24/robotics-ai-generalist-200m)**
-
-Axios • 11h ago
+IEEE Spectrum • 15h ago
 
 ---
 
@@ -178,13 +180,15 @@ Axios • 11h ago
 
 When investors think about Tesla Inc‘s (NASDAQ:TSLA) humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc. (NASDAQ:BOT), argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says. “It is their manufacturing competency and resources,” Kang told Benzinga in an email. Tesla’s Manufacturing Scale Could Become Its Biggest Moat Kang’s thesis stands in contrast to t
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Inside China’s Race To Rule Robotics](https://www.wsj.com/video/inside-chinas-race-to-rule-robotics/C683C6CA-0073-4AF3-A87C-4C98CB03C8BC)**
+**[Somnia Lab Trains Intimacy Robots with Human Motion-Capture](https://x.com/i/trending/2092257575261901104)**
 
-WSJ • 20h ago
+Somnia Lab, a Shenzhen-based robotics company, uses motion-capture suits on humans to teach their upcoming intimacy robot 165 distinct poses for lifelike movements, warmth, touch response, and memory of interactions. The video, shared by the company and news outlet RT, shows the process and has drawn views along with jokes, surprise, and thoughts on loneliness and relationships. Independent reports confirm the method trains the robot's 24 degrees of freedom for smooth, natural transitions, with deliveries planned for late 2027.
+
+x.com • 10h ago
 
 ---
 
@@ -208,7 +212,7 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 37K • 👍 859 • 💬 209 • ⏱️ 0:52 • 2d ago
+👁️ 37K • 👍 859 • 💬 209 • ⏱️ 0:52 • 3d ago
 
 ---
 
@@ -228,7 +232,7 @@ The 100-meter obstacle race at the 2nd World Humanoid Robot Games concluded on M
 
 📺 CGTN Frontline
 
-👁️ 9K • 👍 84 • 💬 3 • ⏱️ 0:30 • 8h ago
+👁️ 9K • 👍 84 • 💬 3 • ⏱️ 0:30 • 9h ago
 
 ---
 
@@ -286,7 +290,7 @@ What happens when a luxury sports car gets transformed into a giant walking mech
 
 📺 Kyle Krueger
 
-👁️ 2.1M • 👍 120K • 💬 1K • ⏱️ 1:01 • 23h ago
+👁️ 2.1M • 👍 120K • 💬 1K • ⏱️ 1:01 • 1d ago
 
 ---
 
