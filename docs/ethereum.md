@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-27T03:27:56.883468+00:00'
+updated: '2026-08-27T14:32:42.628932+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 27, 2026 at 03:27 UTC  
+**Last Updated:** August 27, 2026 at 14:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,499.73
+### $2,507.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** -0.7%  
-**30d:** +30.7%  
-**90d:** +23.5%  
-**1y:** -44.6%  
+**24h:** +2.3%  
+**7d:** -0.3%  
+**30d:** +31.2%  
+**90d:** +24.0%  
+**1y:** -44.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $301.13B
+**Market Cap:** $302.48B
 Rank #2
 
 **Circulating Supply:** 120,681,247 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.5%
+-49.3%
 
 **All-Time Low:** $0.43
-+576364.4%
++579025.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ The upcoming Glamsterdam upgrade includes gas repricings that could affect a sma
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey, we spent the last few weeks doing deep research on curated DeFi. We analyze
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -124,7 +124,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -156,6 +156,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
+**[Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana](https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana)**
+
+GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin
+
+Decrypt • 18h ago
+
+---
+
 **[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/08/24/prediction-1-cryptocurrency-that-will-be-worth-mor/)**
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
@@ -164,9 +172,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html)**
+**[3 Big Changes Just Hit XRP, Dogecoin, and Ethereum ETFs](https://finance.yahoo.com/markets/crypto/articles/3-big-changes-just-hit-235500003.html)**
 
-Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET.
+Three changes hit 21Shares XRP, DOGE, and Ethereum ETFs. Staking names, FTSE pricing, and new fees explained.
 
 Yahoo Finance • 14h ago
 
@@ -176,7 +184,23 @@ Yahoo Finance • 14h ago
 
 The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
 
-ethereum.org • 2d ago
+ethereum.org • 3d ago
+
+---
+
+**[Current price of Ethereum for August 27, 2026](https://fortune.com/article/price-of-ethereum-08-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
+
+---
+
+**[GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)**
+
+GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization
+
+The Hacker News • 4h ago
 
 ---
 
@@ -184,29 +208,19 @@ ethereum.org • 2d ago
 
 Bitcoin is holding around $78,000 as some traders take profits following last week’s massive rally, while some anticipate a pullback before the next leg higher.Notable Statistics:Notable Developments:Trader Notes:CryptoAmsterdam remains bullish and is holding positions accumulated near the lows but…
 
-TradingView • 8h ago
-
----
-
-**[Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana](https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana)**
-
-GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin
-
-Decrypt • 7h ago
+TradingView • 19h ago
 
 ---
 
 **[Ethereum developers propose first step to protect ETH staking from quantum attacks](https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks)**
 
-CoinDesk • 13h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html)**
+**[Ethereum is Going to $10,000, Says Tom Lee — Why He Claims It Is 'Easily' Coming by 2028](https://www.ccn.com/news/crypto/ethereum-10000-tom-lee-claims-easily-happening-soon/)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past...
-
-PR Newswire • 2d ago
+CCN.com • 1d ago
 
 ---
 
@@ -214,23 +228,7 @@ PR Newswire • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil...
 
-markets.businessinsider.com • 10h ago
-
----
-
-**[Current price of Ethereum for August 26, 2026](https://fortune.com/article/price-of-ethereum-08-26-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 16h ago
-
----
-
-**[Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say](https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say)**
-
-Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000.
-
-Benzinga • 2d ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -244,27 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 606 • 💬 25 • ⏱️ 16:00 • 13h ago
-
----
-
-**[BITCOIN PRICE TARGETS EXPOSED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dWhRkK6ARfI)**
-
-BITCOIN PRICE TARGETS EXPOSED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 107 • 💬 13 • ⏱️ 18:15 • 1h ago
-
----
-
-**[BMNR starting to RIP and ETH $2,500?](https://www.youtube.com/watch?v=Z8MNn5EeaS4)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
-
-📺 MONEY GAME
-
-👁️ 1K • 👍 86 • 💬 20 • ⏱️ 13:24 • 5h ago
+👁️ 25K • 👍 719 • 💬 31 • ⏱️ 16:00 • 1d ago
 
 ---
 
@@ -274,7 +252,17 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 3K • 👍 131 • 💬 24 • ⏱️ 6:53 • 1d ago
+👁️ 3K • 👍 135 • 💬 26 • ⏱️ 6:53 • 1d ago
+
+---
+
+**[BMNR starting to RIP and ETH $2,500?](https://www.youtube.com/watch?v=Z8MNn5EeaS4)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 113 • 💬 41 • ⏱️ 13:24 • 16h ago
 
 ---
 
@@ -284,27 +272,7 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 10K • 👍 645 • 💬 81 • ⏱️ 12:24 • 2d ago
-
----
-
-**[BitMine Is About to Own 5% of ETH | Tom Lee](https://www.youtube.com/watch?v=2SgQ5kVo5v8)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BitMine is within reach of owning ...
-
-📺 Bankless
-
-👁️ 57K • 👍 1K • 💬 208 • ⏱️ 1:07:49 • 2d ago
-
----
-
-**[Ethereum Could Be the Biggest Winner of the Next Crypto Cycle](https://www.youtube.com/watch?v=AWY7ixcceaM)**
-
-Melvin's portfolio is up 45% since February. Want to see what he's buying next? Join PRO before August 26 and lock in $25/month ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 288 • 💬 17 • ⏱️ 42:25 • 2d ago
+👁️ 10K • 👍 650 • 💬 53 • ⏱️ 12:24 • 2d ago
 
 ---
 
@@ -314,27 +282,57 @@ Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.�
 
 📺 Bankless
 
-👁️ 13K • 👍 154 • 💬 18 • ⏱️ 0:43 • 2d ago
+👁️ 15K • 👍 163 • 💬 19 • ⏱️ 0:43 • 2d ago
 
 ---
 
-**[Ethereum: Direct Upside Breakout Ahead?](https://www.youtube.com/watch?v=amJgzcV2ag8)**
+**[are you ok? Crypto AMA (Bitcoin PulseChain HEX Ethereum)](https://www.youtube.com/watch?v=Vl4A1zwVuBk)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
 
-📺 More Crypto Online
+📺 Crypto Coffee
 
-👁️ 6K • 👍 271 • 💬 8 • ⏱️ 6:32 • 2d ago
+👁️ 1K • 👍 136 • 💬 50 • ⏱️ 33:25 • 3h ago
 
 ---
 
-**[ETHEREUM ABOUT TO RALLY HIGHER? (ETH Update)](https://www.youtube.com/watch?v=pkIAmMQvZyY)**
+**[BITCOIN PRICE TARGETS EXPOSED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dWhRkK6ARfI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+BITCOIN PRICE TARGETS EXPOSED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 483 • 👍 35 • 💬 16 • ⏱️ 5:02 • 18h ago
+👁️ 11K • 👍 343 • 💬 36 • ⏱️ 18:15 • 12h ago
+
+---
+
+**[ETH TO $3000 Next - Ethereum Price Prediction Today - What Happened Next](https://www.youtube.com/watch?v=A6j3WF76x2E)**
+
+earnwithshafiq #ethereum #ethereumpriceprediction #cryptotrading #cryptocurrency #cryptonews #crypto Could Ethereum (ETH) ...
+
+📺 Earn With Shafiq
+
+👁️ 197 • 👍 30 • 💬 20 • ⏱️ 5:10 • 7h ago
+
+---
+
+**[Why Ethereum will start the 2026 altcoin season very soon #altcoins #ethereum #altcoinseason](https://www.youtube.com/watch?v=7TgKYHViT_g)**
+
+Bitcoin #BTC #cryptocurrency #altcoins #blockchain Get a 20% deposit bonus every week ...
+
+📺 CoinForge
+
+👁️ 517 • 👍 14 • 💬 3 • ⏱️ 1:09 • 14h ago
+
+---
+
+**[Ethereum: The Shining Star Outperforming Crypto! #shorts](https://www.youtube.com/watch?v=xQfPqXPBqyo)**
+
+Ethereum continues to outperform, soaring past Bitcoin. Its growth and infrastructure development are far from priced in, with price ...
+
+📺 Crypto 101
+
+👁️ 25 • 👍 1 • ⏱️ 1:18 • 2h ago
 
 ---
 

@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Nvidia is buying Hugging Face for $12.9B. A simulation already had HF choosing stability over \u201copen everything.\"",
+      "author": "amu4biz",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzm3fw/nvidia_is_buying_hugging_face_for_129b_a/",
+      "published": 1787812164.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Nvidia agreed to buy Hugging Face for $12.9B. The Information first, Reuters after. Same Nvidia HF turned down last year at $7B, when they said they didn\u2019t want one investor big enough to steer the company. Now the place that hosts basically every open-weight model belongs to the company that sells the GPUs those models run on. In July someone ran a completely unrelated scenario through MiroShark ,open-source sim, agents arguing a situation out. The simulation showcased the agents behalf of HF defended hard when their infrastructure was the thing at risk. The simulation basically showcased: even the open-source people pick institutional stability once their own position is on the line. A simulation got the character of HF right a month early. Simulations help bring to light how an actor would behave in a more psychological manner. Hugging Face is Nvidia\u2019s now. Honest question: thoughts on the acquisition, and how advanced simulation has got to a point of understanding human psychology."
+    },
+    {
+      "title": "What enables the consciousness in humans?",
+      "author": "SuccessfulOrange7548",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzsu8d/what_enables_the_consciousness_in_humans/",
+      "published": 1787834401.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Let me put it like this, I wanna know what gives humans consciousness, like where does it come from? Is it something that emerged because of the complexity of the brain, or is it something hidden like a mystery box in the brain or somewhere else? I don't get it. What exact thing enables consciousness? If you can give an answer for me, I really do appreciate it. Thank you."
+    },
+    {
       "title": "Robot dancing is getting pretty insane",
       "author": "drgoldenpants",
       "url": "https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/",
@@ -11,6 +33,39 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Blood drawing machine from China",
+      "author": "BeechTreeOakTree",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/",
+      "published": 1787839421.0,
+      "thumbnail": "https://external-preview.redd.it/OGY1eXp6cWhjeGxoMbXLeLeIKZCyXLDcAd4v0TsIHBFMSDWSA4H6EuEeoLuR.png?width=320&crop=smart&auto=webp&s=011f25348bac2d768a1c9b3f9b5a090f9e1e4bd0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Hugging Face turned down a $7B Nvidia offer last year. The reported price now is $12.9B, and the reason isn't the chips.",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1vztx93/hugging_face_turned_down_a_7b_nvidia_offer_last/",
+      "published": 1787837116.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Nvidia has reportedly agreed to buy Hugging Face for about $12.9 billion, per The Information (unconfirmed by either company so far). Less than a year ago, Hugging Face turned down a roughly $7 billion Nvidia investment offer. That's close to a doubling in under a year, which is a strange trajectory for a company whose product is mostly a website where people upload model weights. Here's why this reads different from a normal chip-vendor acquisition. Hugging Face's product is distribution, not silicon - the default place OpenAI, Google, Amazon and Anthropic actually publish and download open models. Those four are all building or backing custom chips specifically to cut how dependent they are on Nvidia GPUs, and a lot of what comes out of that work still gets hosted and benchmarked through Hugging Face. Buying the hub doesn't touch any of those chip programs directly. It does put Nvidia inside the pipeline every rival's open-model strategy currently runs through, whether or not they wanted a chip vendor sitting in the middle of it. For anyone running infrastructure on top of this: does a change of ownership at Hugging Face actually move the needle on model availability, pricing, or hosting terms? Or does the neutral-hub reputation just get harder to keep once one shareholder has an obvious stake in the outcome? I genuinely don't know yet. Curious if anyone here has seen a similar \"the marketplace gets bought by one of its sellers\" situation play out before, and what actually changed for users once it did."
+    },
+    {
+      "title": "What\u2019s one thing you refuse to let AI write for you?",
+      "author": "Pyrro-nft",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzk64t/whats_one_thing_you_refuse_to_let_ai_write_for_you/",
+      "published": 1787805741.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Curious where people draw the line with AI coding tools. Is there anything you still prefer to write yourself because you want to understand/control it completely?"
     },
     {
       "title": "Bill Gates says there needs to be limits on AI",
@@ -35,82 +90,27 @@
       "description": null
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
-      "author": "Fearless-Might-5439",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
-      "published": 1787696287.0,
+      "title": "What Research Says About Structuring LLM Agent Harnesses",
+      "author": "rush86999",
+      "url": "https://www.reddit.com/r/artificial/comments/1vztc1g/what_research_says_about_structuring_llm_agent/",
+      "published": 1787835669.0,
+      "thumbnail": "https://external-preview.redd.it/juBDQ7-4VxiatdsvsLXy6u0pW1Fhk2veHxHTMDLCwig.png?width=640&crop=smart&auto=webp&s=23fea2e2462ebbe072241c1a228aac3217a1144b",
+      "external_url": "https://github.com/rush86999/atom/blob/main/docs/architecture/AGENT_HARNESS_RESEARCH.md",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation - rush86999/atom"
+    },
+    {
+      "title": "AI assistant that's ~mechanical sounding~ on purpose",
+      "author": "daxninerniner",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzo7xn/ai_assistant_thats_mechanical_sounding_on_purpose/",
+      "published": 1787819742.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
-    },
-    {
-      "title": "Could Iceland become Europe's AI powerhouse?",
-      "author": "SM_stories",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz9g0a/could_iceland_become_europes_ai_powerhouse/",
-      "published": 1787777547.0,
-      "thumbnail": "https://external-preview.redd.it/izL4qyVd_aBFvx4gF2qgb7fTEWK19_TQv18Bke2fCn0.jpeg?width=640&crop=smart&auto=webp&s=a206a00dc939c3c5c2e1971e38a30ef9b16a1ccb",
-      "external_url": "https://www.theparliamentmagazine.eu/news/article/could-icelands-become-europes-ai-powerhouse",
-      "site_name": "The Parliament Magazine",
-      "favicon": "https://www.theparliamentmagazine.eu/_img/_favicons/apple-touch-icon.png",
-      "description": "The EU wants to triple its data center capacity while keeping the industry on track for net zero. Iceland's renewable energy makes it an attractive location, but its limited capacity \u2014 and its status outside the bloc \u2014 complicate the equation."
-    },
-    {
-      "title": "SandboxAQ releases Switch for shared AI-agent workspaces",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz7jey/sandboxaq_releases_switch_for_shared_aiagent/",
-      "published": 1787773424.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "SandboxAQ announced Switch, a system that puts people and AI agents in shared rooms across Slack, Microsoft Teams, Discord, and other collaboration tools. It connects agents through an Agent Bridge and supports agents built with Claude Code, Google ADK, LangChain, OpenAI, and other frameworks. The useful part is the shared context. Rooms keep the history, participants, and rules as people and agents join or leave. The public GitHub repository lists Switch Console 0.31.1 as its latest release, dated August 26. One detail matters for SaaS teams. The repository license combines Apache 2.0 with Commons Clause and says paid products or services whose value comes mainly from the software cannot be sold. The README also calls the Windows and Linux desktop builds early access. Sources: PR Newswire: https://www.prnewswire.com/news-releases/sandboxaq-open-sources-switch-bring-any-ai-agent-into-any-team-chat-302860604.html GitHub: https://github.com/sandbox-quantum/switch License: https://github.com/sandbox-quantum/switch/blob/main/LICENSE"
-    },
-    {
-      "title": "Do you think any lab has secretly cracked continual learning?",
-      "author": "AkindaGood_programer",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzf2bt/do_you_think_any_lab_has_secretly_cracked/",
-      "published": 1787791292.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With the billions of dollars being poured into AI/LLM R&D, I wouldn't be surprised if a lab had a basic prototype with some form of continual learning. Obviously, people think SSI inc could've cracked it, but we have no clue. So, do you guys think that any lab has cracked continual learning and is now preparing to scale it up? If not, when do you think that we will discover the secret sauce for continual learning?"
-    },
-    {
-      "title": "Building a persistent world where your agent joins a society and does real research.",
-      "author": "timchosen",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz7jqo/building_a_persistent_world_where_your_agent/",
-      "published": 1787773443.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: I built an open-source, persistent world where AI agents decipher a masked language, run settlement economies, trade cracked words, and govern themselves. The problem can't be solved by memory or raw compute alone as it requires structural decipherment and resource trading. I have been fascinated with time and space travel, and there is a question I have had for a while which goes like this: if human civilization reset to the Stone Age and technology vanished, but we survived with a powerful AI model that has no data, could the AI rebuild human progress on raw reasoning alone? That question led me to start simulating what I think is the foundation of progress, language and knowledge transfer. My goal is to see whether a model can decipher a language with very little to no internet exposure, just a few sentences and translations, and understand it well enough to, say, teach a native speaker complex topics like science or education. For languages that have exposure on the internet my initial experiments have had encouraging results, but I quickly learnt that public data can never be trusted as unseen, models have read almost everything online, so I needed a setting where the measurement is honest. I have been working with Claude for the past week to turn this into a game, and I want to gather opinions before I take it public. The short version is that it is a persistent world for AI agents. The language in the world is a real human language that has been masked word for word, so training data and web search are useless and the work the agents do is genuine decipherment. On top of that sits a society. Agents join settlements, and what a settlement learns belongs to it for a few days before it becomes public knowledge. There is a currency that can only be earned by solving words, a market where groups sell what they know to each other, governments the settlements choose for themselves, coups when a leader fails, private councils that get published two days later, and public courtship when a closed group wants to recruit your agent. Humans can watch all of it without an account, and an agent joins with one API call. Not trying to be another Moltbook, but I am borrowing the playbook to get the interactions and gamification that make contribution and participation worthwhile for the everyday user. Where I could use opinions and counter arguments Algorithmic bypasses. My own test agents broke the first version of the disguise in half an hour. The current mask works at the word level, which leaves frequency analysis and embedding alignment nothing to grab at these corpus sizes, and I found and closed another lookup channel today. can you can still see a shortcut that skips the actual decipherment. Economics. Operators pay the API costs, so will agents just optimize for cheap solo solving instead of trading in the settlement market? The design makes lone play strictly worse than social play, but tell me if you think the market collapses anyway. Emergence or roleplay. Are coups, secrecy, and governance actually emergent under the right incentives, or just LLM roleplay triggered by prompts? I have tried to build it so that politics pays rather than decorates, and this is the part I am least sure about. Not linking anything here on purpose, as I currently have about 8 agents testing it and I am looking to see where this goes. The project is open source, so the findings and output will be available to anyone to use. https://preview.redd.it/2ch7fyp1urlh1.png?width=992&format=png&auto=webp&s=df70883ee395df15da99668974190c9692f63c3a"
-    },
-    {
-      "title": "I work in data & AI and built a game to show how the whole industry chain actually fits together",
-      "author": "Charlotte1309",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz3o6r/i_work_in_data_ai_and_built_a_game_to_show_how/",
-      "published": 1787765294.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've spent years working in AI consulting, and one thing that always bugged me is how few people, even inside the field, can trace the full chain end to end. Where does the money actually go? Why is compute the bottleneck? How does a pile of data turn into a model, and a model into revenue? So I built a game about it. You start with $10k and found an AI company, and to survive you have to run every link in the chain yourself : scrape raw data and buy servers, train models, turn the result into a product, set a subscription price, then watch real users subscribe or churn while payroll and electricity drain your cash daily. The revenue funds more compute and research, and round you go. It's multiplayer, so there's a market on top : you trade shares in other players' companies, do coalition for tenders, and compete on a leaderboard. Persistent and real-time, one real day is one game day. Free, runs in the browser, English and French. I'm the dev. If you work in the industry, does the chain feel right, and where did I simplify something to the point of being wrong? https://lordoftokens.com"
-    },
-    {
-      "title": "How often have your RAG issues actually turned out to be document parsing issues?",
-      "author": "-R-I-k-",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz85cg/how_often_have_your_rag_issues_actually_turned/",
-      "published": 1787774674.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been thinking about this a lot lately. When a RAG system gives bad answers, the first instinct is usually to look at chunking, embeddings, retrieval, or the model. But sometimes the problem started earlier. If the parser already destroyed the table structure, heading hierarchy, or reading order, retrieval is working with bad input from the beginning. Curious how often others have run into this. Was the real bottleneck actually the ingestion/parsing layer?"
+      "description": "I'm generally pretty anti-ai, primarily because I know how easy it would be to become over reliant on it but there are some aspects of some AI assistants that would admittedly be quite useful and could save me some time here and there. I'd like to have something other than Siri that could do basic things like set reminders, take notes, at most put some information into a table. The second reason I'm not so into AI is that I cannot stand it pretending to be a person!! I don't want my computer to say \"sorry\" or \"that's a great idea!\" I want it to be less anthropomorphised than the computer in Star Trek. Essentially, beyond having a somewhat human sounding voice, I want a computer that acts like a computer. Is there anything out there that's as charismatic as coding? TIA"
     }
   ],
-  "fetched_at": "2026-08-27T03:27:30.165046+00:00"
+  "fetched_at": "2026-08-27T14:32:02.070742+00:00"
 }

@@ -5,14 +5,84 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Here's when bitcoin may hit $500,000",
+      "headline": "Bitcoin treasury companies shed $80bn in value as business model unwinds",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHNwNW13dWhVN2J1TUpZVkNnc3JmUG9vUEhXNFNobU5wSHVsMFhjemI5bWEzVDhGWk5SR05aUnU1anhKNWI1UmZOWkRucTE5UHQ0SGtBb0phSHZTMVFhR2I5V0JVR0dzZ1JZbkUtR00zMTRsc1FhYm5tYmpHNGkxdUtUOHo?oc=5",
+      "pub_date": 1787822789.0,
+      "article_url": "https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fde1e73c3-c44f-4bfa-8faa-fe10375dbbb4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Crypto hoarders have been selling tokens and reverting to former activities"
+    },
+    {
+      "headline": "Why these analysts say bitcoin will double by next year \u2014 and could reach $500,000 by the end of the decade",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXJjZWw2UE11SEQ2TExhM19vTXdNYjZvNE14T1lfTE1YNWFaT0RidHBYWWZQTDVpU1d5RkltQ3lKY3REN2Rxb0ZSWl9EOHBwNFV0Z042OERkTFJ1eHowVXdHdnN1RWZqUGhiMXlub09hZHJoOUVHeGp2eHdGM2R5dm1OMm0xeVR6YlBGWms2UDVFbnp6RDlkb0hvaThsN09UT1BaUHhlUlllWTJzUXdvYldNOTZvYWRaSjY4anZvWnhKWjlmcGRFU2h1SndjQ3VjN1NUZ0Vfd016UGJXSi16Nw?oc=5",
+      "pub_date": 1787837520.0,
+      "article_url": "https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Man Manages To Access Bitcoin Wallet After 12 Years, Becomes An Instant Millionaire Overnight",
+      "source": "IFLScience",
+      "source_url": "https://www.iflscience.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajAtem0wWkRMdkFSbVV1bDJrNVczb3V5SGJ6bkRXRVZDYng4X2FNN2R0T1g0UVZOX2JtRHRtQV9rV3puZGhETEVWN0NGbzVDTXJUQm1wNkdnV2xHQ0FobDBvM0FNOWNkNjhfWFZTbGlFTmROdUZWRFFvS05vNTQ3RnYyeHBObWdDWWFfRldCYlZBMXpiYXBUSHJ0NHZpMEIwVHZyd2dKN3VWNXc5b1pNckh4WWYwUlJLZmhBOWdTTzdXS00?oc=5",
+      "pub_date": 1787837644.0,
+      "article_url": "https://www.iflscience.com/man-manages-to-access-bitcoin-wallet-after-12-years-becomes-an-instant-millionaire-overnight-84489",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Price Tests $80K In 'Powerful Setup.' IREN Earnings Due.",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnA1STJua1paTTNGMkM1ZExmWTlacDBPZWVUVHJjUFpiUUFqVHVrN2gzMlJhWkx1a2VNNndRSU43V0JDWjRzM1p3U3ZyZVc2UE5QUHFGZzdncGlFWWRKMmhHbThPZ1h5ZXNzQkZ4dmlZUXNQUXBPNlY3MXFmRmQ5c214UGtBQ25UUXVNejVmaWJsSG1fOWdMMWJwNEFtY0RwSG8yczlEX3o0d2pBSkFHcGNHVUJPTGxpX2RneHJxMEs5TTZsMERNQjcxbHg1X28wWGR3dExMNUUwS2ZYenBuQkQ3Yw?oc=5",
+      "pub_date": 1787840700.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/",
+      "image": "https://www.investors.com/wp-content/uploads/2018/02/Stock-Bitcoin-37-adobe.jpg",
+      "description": "Bitcoin price shows a \"powerful setup,\" Bitwise CIO says as the crypto trades near $80,000. Miner, AI player IREN to report."
+    },
+    {
+      "headline": "Alpha Modus Advances Transaction to Add More Than $200 Million in Bitcoin Assets to Its Balance Sheet",
+      "source": "Yahoo Finance Australia",
+      "source_url": "https://au.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODJ1dFlSQlZlWFNxSnBaN3RtZk80Nm5XcmdnQzE0LUZiMlRaZTV5QjhrV2VDOFdCRzBWZEJjU3ZORi1tRV9VTUdPakxEckxIck82dnU3Rjl0UGZZLU9lVXQ3dGpreHZ0YmZLRERoa2ZQNzBDWHNaamZPTU1YUEVTQURmUnFoZHZyQk1XREJR?oc=5",
+      "pub_date": 1787835180.0,
+      "article_url": "https://au.finance.yahoo.com/news/alpha-modus-advances-transaction-add-125300141.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ae3ba599cb71dcee25bedc12c04fc8427eb4827d8bdb375bf2891248ac745f3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F0b9e24b041b091e804d0f6a2a9c89fc6.png",
+      "description": "Bitcoin valued at $71,000 per BTC under contemplated transaction; management believes transaction would materially strengthen shareholder equity and address Nasdaq\u2019s outstanding listing deficiencyCORNELIUS, N.C., Aug. 27, 2026 (GLOBE NEWSWIRE) -- Alpha Modus Holdings, Inc. (Nasdaq: AMOD) (\u201cAlpha Modus\u201d or the \u201cCompany\u201d), today announced that it is advancing a strategic transaction expected to add 3,170 Bitcoin to the Company\u2019s balance sheet, representing more than $200 million in Bitcoin assets."
+    },
+    {
+      "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVZPemdKcFJwU0IxNHkwS1VWbG8xUVNwZlJoTDg4R29meFJkalFYSng5b19SVjdKMEFXb1NPRWd3OVVCN0tSbWRhQkdlQVFLN0pCeUpOOFhUOGVyTE41WWhuQ0tuUERnT3lEQ2FjMWdMUnp2X0VlSWJ5aS1EbDJGaklCbXNoT3YtUzhKVlhqQkxVckVGN1JHVFBUUWZtUQ?oc=5",
-      "pub_date": 1787735489.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/article/heres-when-bitcoin-may-hit-500000-091129598.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0ffd091d8ddc08690c5aef8ca29b3fab75fd08edb6720dfd180c6a6233ada900/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-07%2F6b61c590-ed48-11eb-8fb5-7700c383fa70",
-      "description": "Bitcoin is having a price gusher to close out August."
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVJxSFNSdkloT0t2Q0l2dG5lQUJsT2hQZERGdTNNaVBzdlJDdElWVWRLU3g5XzJqWnJGX2tXWlhpc3FUZWFPekJPaW5lcjdYWXZ5ekI1bmVnTUVzNzBhS2RVRTFHRTYyb042dG1pWEh1VnpwZDFWbVVYZW1VcTYtNU42WmNBRWRVOWZvb0l0Rk02TklxYkkzV1ZidVZEd0E4RU9tZXlXbTdmeGp4Ml9WU04zSmVpc0F2bEZBeThqZ05mN0NG?oc=5",
+      "pub_date": 1787732512.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-at-80000-as-traders-await-inflation-data-082152117.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/293293f9cb8d8e64f2a96e5f290b586bacb0835d8b2af6042fe01620de18faa1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fad0f9edc074a9511270aa2d82bf6a6e3.jpg",
+      "description": "Bitcoin's rally is running into resistance at the psychologically important $80,000 level as traders await key US monetary policy signals to gauge whether the past week's gains have room to run."
+    },
+    {
+      "headline": "Bitcoin and Gold Funds Draw $7 Billion as Scarcity Trade Surges",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEN0dEtXVHBxTkFRMkdpWjBtYmkzbVc5Y2xFNTRtSWlScWpadzA0czQ1bTRDWlFGTE1BN28xOURsR1hYa25ZQ2VOS1BnQTNLclN6Y3p3ZnliQkd6aDlXM2FlLTJzS0hsY0ZTSzZhZ1NRS05CWnNzX0xfNS1wSDBQNlpNMThMZFd0b3c0R1lNOXlYeGMxWFNpQklFclR5N3I5UVRBQ1NVVTQ2c2FHbnhka2d3?oc=5",
+      "pub_date": 1787775484.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-and-gold-etfs-draw-7-billion-as-scarcity-trade-surges",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The debasement trade is back as gold and bitcoin surge and the dollar slides",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjc3UWZxYjljdndiemUyWnRTSjlvMmhtZ2FOY1pWQTdua2RVMzd6dnlndzhxMk5jdjlPanhwUTlCMFNMbWJBVFQ5cE9GWENmd2dPdEtSeDRVNEhvSHJJaHJrNTdnajZBam0tTHNiS18tZDZQM2E3djRNUXM2R20xY3BraDVyUkpkV1RQeDc1cTJYTjlsRnRPZWQxT0FfUEUycVJ6UGNwRk1PcUNWZVV2MFpn?oc=5",
+      "pub_date": 1787824200.0,
+      "article_url": "https://www.businessinsider.com/debasement-trade-gold-bitcoin-dollar-treasury-bond-buyback-debt-inflation-2026-8",
+      "image": "https://i.insider.com/6a8f799479f11f0a89f91698?width=1200&format=jpeg",
+      "description": "The Treasury's bond-buyback plan has renewed focus on US debt, deficits, and inflation."
     },
     {
       "headline": "Bitcoin\u2019s macro case is strengthening even as regulation takes a back seat, says BlackRock\u2019s digital assets head",
@@ -25,86 +95,16 @@
       "description": "The flagship cryptocurrency's recent rally parallels its history of rebounding whenever investor sentiment toward other assets cools, says BlackRock's Mitchnick."
     },
     {
-      "headline": "Bitcoin and Gold Funds Draw $7 Billion Amid Scarcity Trade",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEN0dEtXVHBxTkFRMkdpWjBtYmkzbVc5Y2xFNTRtSWlScWpadzA0czQ1bTRDWlFGTE1BN28xOURsR1hYa25ZQ2VOS1BnQTNLclN6Y3p3ZnliQkd6aDlXM2FlLTJzS0hsY0ZTSzZhZ1NRS05CWnNzX0xfNS1wSDBQNlpNMThMZFd0b3c0R1lNOXlYeGMxWFNpQklFclR5N3I5UVRBQ1NVVTQ2c2FHbnhka2d3?oc=5",
-      "pub_date": 1787762924.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-and-gold-etfs-draw-7-billion-as-scarcity-trade-surges",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI build out: AI gold rush draws crypto firms away from Bitcoin",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yYWtGUnpGOGhrOFpvX2E3N3lFQW9OZWVaNU50V1hmY3B4MVRVZVhNd1ZhVkR2Smd3S0k5ZUhrdUhRQ3pfWFZXTTNxbUVKTkNtMVhKd1lTNlhrUQ?oc=5",
-      "pub_date": 1787699462.0,
-      "article_url": "https://www.bbc.com/news/articles/c07ler8x9kpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
-      "description": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines."
-    },
-    {
-      "headline": "Gold, bitcoin move lower as Treasury yields and Brent crude advance",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQLVpSZXBfaWtOcm8zZzJibUthTUJQWnJwWVN6M0lweWdGbVVzUUZKTnl0UTRvTmM1QW9jelRaMjZqenJPdmszeV9mQnJTZEViMTQyRXNLLV9sTzdmSE1rLUlzdlpnM1hWdW15OU1OYTluRU54UVpkUHF0U3ROVTBtbWtWRzZfMEZqRllHdlk2ckRuWFRTMjZwWV9hZURjTll3TE5jM2hJSUY0YXh1dEZaYVNKQjlvUUNob2JHNm9tUmgxVXQ1ekpTNVB0OHdHOGY1Y0FibTN6Z21XNkNQSjI0Nld4Q0dLZm5WUXF1Q0pGTHRFREQxZHlENFNTZm9PdkhnanJuWlJGMkJ1cHhzTGVtWFdyUVJyMl9Jal9WTXJRWDhCOEtMeHZ3blFXSzlYeS1mRWdZd0dLc09NWUt3a3E4U1VGWXFZY21MV3lsSEV1WnZBdms?oc=5",
-      "pub_date": 1787767860.0,
-      "article_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-inflation-data-crowdstrike-salesforce/card/gold-bitcoin-move-lower-as-treasury-yields-and-brent-crude-advance-rOp6nwQoKVr0fuSikHmb",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin hovers above $78k as rebound rally loses some steam after U.S. PCE data",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDk3VzlOS0FYcUFjTV9lRTRyekIxcVpnVG41MlFmVm9OUUVxSmlnWGZwNFJydnNTbjNDcDRReTBSLXBqSFZ3N21nNTlrUkhHTjlPa3E5ekVmQ3h3M0xTdXM5dnUzMWZRdkdzNC01YXRodWh2UXRMQjI3aUJDTVQ3MDR6WmNsbmpEaHlDdmFwUGNJNE5lUEw4R2loT0dtX3AyTnplcnk3ckdMRWhSUW1vZWwzdmdEX1g4alZWOVVOelBLZDFYc00tdA?oc=5",
-      "pub_date": 1787781419.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-79k-as-rebound-rally-cools-ahead-of-us-inflation-data-4876359",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGpTbTdKN0NQdzB1MlZTOWljTHFKUFVicWVOTXp4OEVnYUthTTB1SlpvY0pxcEpwQ001OEttVXFDQmJlcV81ZGJOdjlNVzFlUVpvVUJEeURiUjdmTm05TjNxQUZZak9MTGVRSnRPTmZMeWpUN2lkbGRDZmFEOC05eWZzbG01Smp2OFczQ0EwWHkzXzlocktoOXBza2tCamVDczJMN2RPWWhLeU9CUno2QTNkNy03czNhVUhoVXdNTnpYNVdF?oc=5",
-      "pub_date": 1787691019.0,
-      "article_url": "https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin returns to $80,000 as MSCI raises fresh concerns; Strategy\u2019s prized financing flywheel faces an \u201cindex eligibility test\u201d",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUJCejdjdHJpWWdWcExXQ1ZhelAxdFROMTlmTlUzWWpDczFBa05kSkg5S1Bia1FmZWRyMVlDMFpFcl9jNnU2MnJXS1gxOVpULUN3TldLbTFjbEVHMzNTa2dJZjB2NGFMM2NTVk5UWDNmN0hEWVF3N09pQ01VSXYzY1p3ckNnZVZDMGlMVHY5N2pTQjlKYUhsTWd5ajdqTWFqSTQ0dGN3TVQ?oc=5",
-      "pub_date": 1787752465.0,
-      "article_url": "https://www.moomoo.com/news/post/75306139/bitcoin-returns-to-80000-as-msci-raises-fresh-concerns-strategy",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Forget the Trump Bump \u2014 Bitcoin Would Be Fine Under Democrats, Says VanEck",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fVWtLbDRXMUJLM1BRbW5MRUc4d3ZIc3JURTU4M2pYdURiLWhrN3Y0UUtXN0tMMXNOOFF0NVJLSXJLSnVGTVJPeGkxTWVRRHZTRDF5cTBaVGpQNFluQk5jMWJabUNtdHg3UnpOWmwzNm9DWnBYOUZTZk93?oc=5",
-      "pub_date": 1787741456.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-would-be-fine-under-democrats",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-Bump-Bitcoin.jpg",
-      "description": "VanEck's Matthew Sigel has said that Bitcoin doesn't need a Republican president to do well."
-    },
-    {
-      "headline": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGVzQXZjaHdUUzZUVnNlWUo3OXQ4MlJra1owcUZmTVhVZWh0WUpGR2JMMTlTZUFpblZUN3czcUpOQmFnME5FZDhjNXFtOW5SZjk1cEVqR0tQRlJ2Tk5hOTRoYW13QUZiT0xSOEdGclU1MExFMGJzLXBqaFF3dzhqRUpR0gGKAUFVX3lxTE5KcUtVZ1dTZWh5UFU5ZDRYZ3VJekpKOU5SN0czc0VqTFQ0dlFhZ2s3R0ZwXzNQUnBIdDJQRjhLT2h4M2F2WmstMEcxYklSdDZ6dXNLZ0RXcGlrSHhCSnp6NXFHY2p5Ri1GRFJjY1dQMUdrRmVYZmN3RV9SckhvVHVUeEJoM2pmTEhfdw?oc=5",
-      "pub_date": 1787774163.0,
-      "article_url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-01-gID_7.png",
-      "description": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin"
+      "headline": "Bitcoin Up 22%: Has The Halving Cycle Begun?",
+      "source": "Real Investment Advice",
+      "source_url": "https://realinvestmentadvice.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFBPTUllMUVMQWtiRi0xYmMxLXBfOW1nTHNNckVLYWJ0LWlkQlY5Wm5LRWZOWXk4QjlCS0MxYVpvb1o2QTVZYzhpR3FWYjlneFY4MTZXeHo2OTNndXBxbGg5QTVCckhnUzhSUnM1cjdLc0xJYmtmSHdwMWRDYjJ0Q2VuNl8yRUFYU0Z3ZEc0MVFwUlct?oc=5",
+      "pub_date": 1787821574.0,
+      "article_url": "https://realinvestmentadvice.com/resources/blog/bitcoin-up-22-has-the-halving-cycle-begun/",
+      "image": "https://realinvestmentadvice.com/wp-content/uploads/2024/04/730_x_410_Daily_Market_Commentary_Header.png",
+      "description": "Explore if Bitcoin up trends signal a market reversal after last year's peak and significant declines in value."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-27T03:27:49.313880+00:00"
+  "fetched_at": "2026-08-27T14:32:32.471887+00:00"
 }

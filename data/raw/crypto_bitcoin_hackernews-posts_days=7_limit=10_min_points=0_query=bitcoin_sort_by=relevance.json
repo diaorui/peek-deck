@@ -117,20 +117,6 @@
       "site_name": "youtube.com"
     },
     {
-      "title": "Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words",
-      "url": "https://strikeablock.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49370845",
-      "author": "laksgandikota",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-08-20T05:51:55Z",
-      "object_id": "49370845",
-      "image": "https://strikeablock.com/assets/og-image.png",
-      "description": "Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.",
-      "favicon": "https://strikeablock.com/assets/apple-touch-icon.png",
-      "site_name": "Strike a Block"
-    },
-    {
       "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
       "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
       "hn_url": "https://news.ycombinator.com/item?id=49440382",
@@ -143,9 +129,23 @@
       "description": "Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on MLX, no Python. 88% faster than llama.cpp at 8 concurrent streams with identical weights.",
       "favicon": "https://jonready.com/img/apple-touch-icon.png",
       "site_name": "jonready.com"
+    },
+    {
+      "title": "Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth",
+      "url": "https://www.apple.com/mac-studio/",
+      "hn_url": "https://news.ycombinator.com/item?id=49444661",
+      "author": "itchingsphynx",
+      "points": 7,
+      "num_comments": 4,
+      "created_at": "2026-08-26T06:06:04Z",
+      "object_id": "49444661",
+      "image": "https://www.apple.com/v/mac-studio/n/images/meta/mac-studio_overview__eedzbosm1t26_og.png?202608202102",
+      "description": "Mac Studio with M5 Max and M5 Ultra. The ultimate pro desktop. Exceptional performance. Extensive connectivity. Runs powerful AI on device.",
+      "favicon": "https://www.apple.com/favicon.ico",
+      "site_name": "Apple"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-08-27T03:27:31.371778+00:00"
+  "fetched_at": "2026-08-27T14:32:04.179788+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "China\u2019s humanoid robots aren\u2019t smart enough to take your job \u2013 yet",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTJ2ay1qRWJVMWZvZGExU0JfeWpqQ0tfRUNrNU5TZ3JzOUIyZGl5WnQ3VVJZMHdaT2hteV9IUkV1NHVMXzVqUGI1QlNoeFFibFUzVnR2bXV5WmFQYzFYb2RaX1N3RWVQVTJsYmFMdlQ1c2daSTVkejk5bG5nYWxkQ0k2OWxsc3ZXTGpyaXNaclNuLXF6RkZCbWV3SWZ3dFNsQWUyQ3lkdURQdkVVZXNz?oc=5",
+      "pub_date": 1787806800.0,
+      "article_url": "https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
       "source": "NVIDIA Newsroom",
       "source_url": "https://nvidianews.nvidia.com",
@@ -13,46 +23,6 @@
       "article_url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
       "image": "https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_14abfacb-ea35-4a1f-a3d4-01693db66823-prv.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823",
       "description": "NVIDIA today announced NVIDIA Jetson Orin Nano\u2122 2, a new robotics computer set to redefine entry-level edge AI \u2014 putting frontier-class generative AI performance in the hands of millions of developers."
-    },
-    {
-      "headline": "NVIDIA Introduces Jetson Orin Nano 2 Robotics Computer",
-      "source": "TechPowerUp",
-      "source_url": "https://www.techpowerup.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzlrTWVtbHJrampBVC14QUFfM3FDa0xDdkxRTk95aWNGZzh3bmlzZi05TjFqakk0VjJHbGIxQTdkV1g0dFpyUTk0RzhjTFljaF9JdUFFclhhUkpmSEJYdks4dldqNG5sSzA5M0Z4S2FmV1p2UFE2TjhaT3ZaVV9GeEtkblBib08wSFF4Uy1JY3V2ZVnSAZgBQVVfeXFMT3JoVU5ySnpVRjJqSHBILTFYZXk1UXNLNW1PTFdsbUs2cXM1TXU4aURaSzJOWVVhRjgtdTBlZk0wVy1NX1ZscUlmcFVIaW5rWEw3STA5Y21FZl9rRlR1QUV6cEtwNUlhRUlkb1lKeUtOeVVWQ1VJUThZeWRYc0lpMnhLT3ZZRHVOZzNKNFVOTGVoMUFUeXkyTlA?oc=5",
-      "pub_date": 1787770238.0,
-      "article_url": "https://www.techpowerup.com/351998/nvidia-introduces-jetson-orin-nano-2-robotics-computer",
-      "image": "https://www.techpowerup.com/img/eUwZYfWEopt6bwsa.jpg",
-      "description": "NVIDIA today announced NVIDIA Jetson Orin Nano 2, a new robotics computer set to redefine entry-level edge AI\u2014putting frontier-class generative AI performance in the hands of millions of developers.\r\n\r\nAs AI models grow smaller and more efficient, more edge devices can become autonomous systems..."
-    },
-    {
-      "headline": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3NfVjNnNHZtMTVGdFZPZFBjYnQzTkpobF93ZFFmd29WNTkzWXVVSUN4MUZaa0QtNUJRVGhtdnV5MmJkWWdQbEtKZlJsSi1UMDFjc1dXd3E2SjdGS2ZoYkV5cHNPYzFXYXlGY29Dd09NbWN6UWlJaEVaeEdOUkl5VWpXSWdmUGZYLWxfdVlZUVNhc2ZYdURQTzVTdm1yZldleFc4dlVCMzhJUQ?oc=5",
-      "pub_date": 1787670133.0,
-      "article_url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Jetson-Orin-Nano-2.jpg",
-      "description": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time."
-    },
-    {
-      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5",
-      "pub_date": 1787704859.0,
-      "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-    },
-    {
-      "headline": "Bill Gates says some jobs should be reserved for humans: 3 takeaways from his AI warning",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEVNMnBRNWJXUTFkOWZQVWFWdWQxRThzYjBhVTkzOUx4MmdITUFDZTR5VGJyQ2h1cFlGS0NTUnNrZ3pRX3dXQkdQZEpPOFdZaVItNVh6NEdnaFVMR0dRdXo5UDB4YV9KWFdmaWc0OGtEXzQwenJpRk9ycG5KNlJ5SFpnR0M2QXEtbHZKajVBdDlFZVU5dTVPVkVBQUQ?oc=5",
-      "pub_date": 1787735100.0,
-      "article_url": "https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8",
-      "image": "https://i.insider.com/6a8ea43645e6f385a5168ed6?width=1200&format=jpeg",
-      "description": "Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract."
     },
     {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
@@ -65,46 +35,76 @@
       "description": "There are more than two million robots working in China's factories - and they are scaling up fast."
     },
     {
-      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcnFUTTY4SVctMzlKZGNDSExrRi1YQ2pXU0Y1b3RvQTdkYm44SktobkJ5YVdaUHBZSEZZeTVrU2FLZDZaQm9Ba01SR1hqRTRaeFhrSGpOanBJRy1zZXFMLU9NeWVTV3dhNkcyTUZxTnhtSzRzSXdJWkQ5UmfSAYIBQVVfeXFMTXA2bTc4bkFKWmJXeUNhQ01TczdXMHZfazJDOE9GQm10MlJ6RTJjRW1Yb2dSTU9iWTRIS0tIMWZUWjhBUk5SblhIS1BzaUZ3VGdrcVVvY2dtd3lVd0MxVDBhaGlaTm1xZ0xFQ2RkVmpWQ2lHZTdoOU1nTDg1Sy0yMEZFQQ?oc=5",
-      "pub_date": 1787649965.0,
-      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX\u2019s fastest-growing businesses as the company expands its software beyond cars."
-    },
-    {
-      "headline": "Report: Amazon eyes \u2018fully automated\u2019 delivery stations to bring robotics to the last mile",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0VycHF2TlJzSTQzVGtoa1VjOFUxU3VXQnJYSHB6ZTVaLXlKUDladm5FOGVUUTl5TU16dWNxZXRGZzVQS1RXUHFCZmE1dnBTT0VMQWNSTzhwNzlKNGdCQ1pNVmxITHVPTW1yODl5OFdaQnE1YktBS3B5TTEza3BvWjJQWnh4VkJkUjhvZm1KSzFpalpBTFh3c0o1NFAyeldmRkRja2pjNkJMZGMwdERUbg?oc=5",
-      "pub_date": 1787676835.0,
-      "article_url": "https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/zancasort-download.jpeg",
-      "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
-    },
-    {
-      "headline": "ScaFi: A robot that grows like a fish, not a machine\u2014from 2 feet to nearly 10",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vQU1rcC1nSVZodEJlclFUYzNFUTI3VFFPNzhoaFhzZnNaQkJ5WjlwRmdfZVl0a1YwRlQ1elg5NWQxWHZaRTZ4RjU1THVSbEQ3aVZUelBJV2hpNUlsVGlBOVB0SGN4R01kckwzLW0xY3ljNmZyM2hZTjdR?oc=5",
-      "pub_date": 1787749203.0,
-      "article_url": "https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html",
+      "headline": "Hugging Face Unveils $400 Singing, Skating Duck-Like Robot",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1Rlbkh1elEtREhHc3ZZZTF1cDlWZFFWckVTRlBrTVh5QXdXX2ZTbjc3aXpqWWMzTms4NWVYUHlrT3JKWTg3TmZBLWhaOUdqdWhKZTVGNzNzb3FSOVkwbHdBaUhia0dkWU9kYkxsMnBkWVJpeXpNODYwSU93dzZOaFVVYlhJbmtCM0lqQjFjMGVpLXlyX2NkalNscE15LVFMSkdPMnZiSmQ5ZUU?oc=5",
+      "pub_date": 1787824810.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/hugging-face-unveils-400-singing-skating-duck-like-robot",
       "image": null,
       "description": null
     },
     {
-      "headline": "Should You Buy, Sell or Hold Serve Robotics Stock Post Q2 Earnings?",
+      "headline": "The U.S. Can\u2019t Catch Up to China\u2019s Robots by Banning Them",
+      "source": "Foreign Policy",
+      "source_url": "https://foreignpolicy.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHdPTkxoRzdYYUJRcmlrS3ZYSWtJN0tFUnpKZmd1NFAyTFREM0tqcGZFMUxoLXROYjd4dHRTc2puNG9VRWNqQTFwZUhEWlRPWmJudkJsckwzZ2xRVkpUZ0VDclNrMGpBU2Q1RHJYSE5FWHRUeWl3RkJCT1l1OVFMZUhwLV85aENCaTU4T2QyMXNMdWwyNHc?oc=5",
+      "pub_date": 1787714418.0,
+      "article_url": "https://foreignpolicy.com/2026/08/25/china-robot-race-humanoids-drones-us-ban-restrictions/",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/china-robotics-GettyImages-2291565794.jpg",
+      "description": "Rather than learn from its rival, Washington is trying to shut the door."
+    },
+    {
+      "headline": "Hugging Face debuts Microduck, an adorable $399 waddling robot",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVLWU1bGZDNlBhckRsbHZxbUR6ZXNaN0ZJN25YSnJGYThkbHh5Y2hWNVF4RFhuRl91VHVvVEcxb0tYUGJnUGRyQy02X2s0RWxMbXJSSjNQTFViLUdxUVFIZHNtTWpZbE5aYlV1VnhsUnU0M0h1Rk1CS0RQNXRtNUU?oc=5",
+      "pub_date": 1787825039.0,
+      "article_url": "https://www.axios.com/2026/08/27/hugging-face-debuts-microduck-a-399-robot",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpldERNcWQyTnJ5SzgxaUJMdWcxREdNRmtDNm5vWXNwZWVfMS15SWhINzg5eTlJRnBFVUtoOGViUTZQVFhNSDBVbndGRWFiTmxjTFowWDJtdmFrVHFiT0hzbDFqNXBQaUtTWmtwLVAxZTJWVjhJZUdDdnNvdmgtcGRIeDR2VDVyRkHSAY8BQVVfeXFMTzlCeDRLZ241c2ZQaDd6a2phNzNQelk2UzUzMWNXZDZ0NExuci1LOWRhUTY2WlhmaFFvekl2dks3YkF0djY3cVk2S0lBR2lMb1BlWjZoUDdWRGVYbVJuekk3R21COE93eDlzVkFyRkI1NmFzRkdyblFFb3NxZTJvRGpGTHhQMUNCNDlidnhRQ0E?oc=5",
+      "pub_date": 1787725845.0,
+      "article_url": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354283-1787711877050-60089527-216a-4aec-b652-9e04dec5afd7.jpg?v=1787712197&w=1920&h=1080",
+      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers."
+    },
+    {
+      "headline": "EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzRYWVRWRkV6M3FmV3JlckdYQWFIalh3bUtWd1NIZldnbXZKaXQ0UXRpRk4wYUpCRVUzUFNmTEJJaVg2N25KbGMyNDVGR19rejl1ODVkT0JIZXA3OHNpWU9ybzlwMHhja1BRZE1fMU9COWtyNkJvZnhDOVVqVTdpcGRHbmhPUmZTVER2ZzJxRGlfejJndVp4bg?oc=5",
-      "pub_date": 1787672040.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-serve-robotics-153400111.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/84155b49caf4ce53a6fbfede3661c703d4d4e3544608b2b532e293f03ea40b59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F83db6284a05b409d97ccee659956da1a.jpg",
-      "description": "Can SERV overcome its Q2 setbacks as new partnerships and diversified revenues reshape its growth prospects?"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWNOMUlCUkVUMnEwalJQQlprRnU1WDRVOHRYQzB4SlR4VjNGSGMtb2RuNzF1UjJYckcyd1cyWGtTQkNDVVJ6V3poeE5nczZKOEFkZTBHWW56YUJlWGdfWTlZQ2U1UnFZSFN1WGl0dWVMV205OXB0RmM0VlNsTHdBekc4a25NVThsYmN0MG94aENmUmgyUUg1RDVGbFBqMHlSUkhPNG9zUFJwZXM?oc=5",
+      "pub_date": 1787738474.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-100114948.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2e5d386a599ea3f8d7267b0aa3054868892c38ca0f2671938e3b300683b8a539/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fec2937f566038781271cfbf894db07f6.png",
+      "description": "When investors think about Tesla Inc\u2018s humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc., argues they\u2019re looking in the wrong place. Tesla\u2019s greatest long-term advantage is something far less glamorous, he says...."
+    },
+    {
+      "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkd5SE9nM3B6NWtJNnRDY2ZuRjhsMk5LYWxpRGdCQTNEa1c5enhFWmxOSEJTeXpTZC1hTkYxdzFIeEZrZ0xlTWJodUJEWlJyTkMzX2tKcHBPWU8wbFlsRkNsaFQySWRUMlNnWFNtc0NJSGxGM0I4cDVncVBhTVZDMF9XckY1MWhFVnNlZ3E1LVNJQnVRLXlaaUEyYw?oc=5",
+      "pub_date": 1787704859.0,
+      "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+    },
+    {
+      "headline": "Unitree\u2019s stock slump begs question: is there a bubble in humanoid robotics?",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVG1Md29BVnl6V2JmMURqeUJHR2FSV0puVWg4VlVBbEdZc1g2bVc4cUY1UW5rNnJiN3poaFNQN1FxNFZfUE55NDhaQzhIMndzQ20zYUlRQi1QT0J2RmlBRDB1OS1OYWEyZThzS2lzRXBfMjU1SmVkTmVCbnJNREtJdTdrSC14MzliYnRCamI1QW1qUGQtTHB4c3JFclZUSGRiMk9mcUx4UmRuTWRoQ1gyUS1JM2RNX1VrTzN0Mk9EaUZBZ9IBwgFBVV95cUxQc3ZndEVjSXZ1YnBRN1NkLWo2djFtTXFRZ2RiYW9TTmNRVDVlbWNvTXAzcldSX0hseDR0Z21BMFNOVmI4eGwtN3VqWTJzbFZaN1VoVHYtZTZPLXNwc0VSNC1yNmQ1bjVERzZ6dVVEMEtXZmJXcUZwSlAzRGZrZk5aZldUVjNqbkVidmIwZ1ItMkcyU01Ub180WHpnZHNCemNsS2poWFY2WWM4RHdqbTRkTWhvTGd0YmN0dkdXVURDNGR0dw?oc=5",
+      "pub_date": 1787823006.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-27T03:27:50.972055+00:00"
+  "fetched_at": "2026-08-27T14:32:41.003788+00:00"
 }

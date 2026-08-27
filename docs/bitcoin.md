@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-27T03:27:56.878026+00:00'
+updated: '2026-08-27T14:32:42.622641+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 27, 2026 at 03:27 UTC  
+**Last Updated:** August 27, 2026 at 14:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,62 +38,90 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,901.89
+### $79,822.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.7%  
-**30d:** +23.3%  
-**90d:** +6.8%  
-**1y:** -29.9%  
+**24h:** +2.5%  
+**7d:** +2.1%  
+**30d:** +24.9%  
+**90d:** +8.2%  
+**1y:** -29.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1583.50B
+**Market Cap:** $1602.27B
 Rank #1
 
-**Circulating Supply:** 20,075,700 BTC
+**Circulating Supply:** 20,075,925 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.4%
+-36.7%
 
 **All-Time Low:** $67.81
-+116236.8%
++117592.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 65
+### 71
 **GREED**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[The only right way to play Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vzo1pv/the_only_right_way_to_play_bitcoin/)**
+
+6h ago
+
+---
+
+**[this is why Bitcoin was created](https://www.reddit.com/r/Bitcoin/comments/1vzl0jd/this_is_why_bitcoin_was_created/)**
+
+9h ago
+
+---
+
+**[FUD is over, BTC to moon!!!! Lets gooo....](https://www.reddit.com/r/Bitcoin/comments/1vzqfjw/fud_is_over_btc_to_moon_lets_gooo/)**
+
+https://x.com/BitcoinMagazine/status/2092846329424925077
+
+3h ago
+
+---
+
+**[Buy house buy more bitcoin now!](https://www.reddit.com/r/Bitcoin/comments/1vzqi7d/buy_house_buy_more_bitcoin_now/)**
+
+3h ago
+
+---
+
+**[My first bitcoin wallet.](https://www.reddit.com/r/Bitcoin/comments/1vzk84m/my_first_bitcoin_wallet/)**
+
+This is my first bitcoin wallet aka my laptop that I bought in 2011 with my own money, the one that made me start into bitcoin and helped me get my first btc. It has seen good and bad days but even after 15 years it's running perfectly. No matter what it's hard to replace this with any hardware wallet out there. It served me well and did so much for me and my family. ❤️
+
+9h ago
+
+---
+
 **[EVERYONE: SELL! ME: HODL.](https://www.reddit.com/r/Bitcoin/comments/1vz18wm/everyone_sell_me_hodl/)**
 
-11h ago
+22h ago
 
 ---
 
-**[BlackRock has now pulled more than $5 BILLION of BTC into its ETF system](https://www.reddit.com/r/Bitcoin/comments/1vyze7i/blackrock_has_now_pulled_more_than_5_billion_of/)**
+**[URGENT: Critical vulnerability in Core Lightning! Blockstream developers urge users to shut down CLN Lightning nodes right NOW!](https://www.reddit.com/r/Bitcoin/comments/1vzb1an/urgent_critical_vulnerability_in_core_lightning/)**
 
-BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF conversions after lowering the minimum transaction size from $25 million to $1 million. Separate ...
+More info: https://stacker.news/items/1555439?commentId=1555585
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 12h ago
-
----
-
-**[Fiat is rigged.](https://www.reddit.com/r/Bitcoin/comments/1vz366t/fiat_is_rigged/)**
-
-10h ago
+16h ago
 
 ---
 
@@ -101,49 +129,23 @@ BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF c
 
 Considering the catastrophic event with the Coldcard devices I decided to try to redefine the value of that piece of plastic that I ended up having in my hand after withdraw all my bitcoin from there. So I came up with this sculpture resembling the feeling of the victims. I know it's not a topic to make fun of but I'm a positivist and tend to have fun creating with a little bit of sense of humor and always with a message that speaks for itself. Hope the Bitcoin Reddit community enjoy it.
 
-6h ago
+17h ago
 
 ---
 
-**[Every $1,000 Bitcoin Move Now Swings Strategy’s Fortune by $840 Million](https://www.reddit.com/r/Bitcoin/comments/1vz3yk0/every_1000_bitcoin_move_now_swings_strategys/)**
+**[BlackRock has now pulled more than $5 BILLION of BTC into its ETF system](https://www.reddit.com/r/Bitcoin/comments/1vyze7i/blackrock_has_now_pulled_more_than_5_billion_of/)**
 
-🔗 [barchart.com](http://barchart.com/story/news/4110633/every-1-000-bitcoin-move-now-swings-strategys-fortune-by-840-million) • 9h ago
+BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF conversions after lowering the minimum transaction size from $25 million to $1 million. Separate ...
 
----
-
-**[TRAGIC: 16 years ago, 'Stone Man' formatted his hard drive and lost 9,000 Bitcoins. BTC remain frozen there, worth $700M. Pour one out for a legend!](https://www.reddit.com/r/Bitcoin/comments/1vymjx8/tragic_16_years_ago_stone_man_formatted_his_hard/)**
-
-23h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 23h ago
 
 ---
 
-**[Oh you poor poor fiat boy](https://www.reddit.com/r/Bitcoin/comments/1vyqfmf/oh_you_poor_poor_fiat_boy/)**
+**[Blockchain.com app every single transaction stuck pending and wallet locked down for 3 and half months. Support are useless.](https://www.reddit.com/r/Bitcoin/comments/1vzurdt/blockchaincom_app_every_single_transaction_stuck/)**
 
-19h ago
+Don't know if anyone can help me but I've had an issue now with blockchain app for 3 and a half months, I have significant amount of funds and I am just locked out of them. I can't send coin, can't withdraw or deposit. Everything just gets stuck in pending until it eventually times out after like 45 days. Support are absolutely useless and only sending generic responses and thanking me for my patience LOL Please someone help
 
----
-
-**[I painted the r/bitcoin magic internet money wizard](https://www.reddit.com/r/Bitcoin/comments/1vz6izk/i_painted_the_rbitcoin_magic_internet_money_wizard/)**
-
-Hey guys, i just wanted to share a painting i just finished inspired by the old "magic internet money" meme from r/bitcoin in a bit more mature and fine art style. And because i love LoTR i used Gandalf as the wizard while making his Staff have a Bitcoin B on top. Old meme on the back. Enjoy :)
-
-8h ago
-
----
-
-**[Michael Saylor vs the Bears: just posted on his personal X account](https://www.reddit.com/r/Bitcoin/comments/1vy6slu/michael_saylor_vs_the_bears_just_posted_on_his/)**
-
-https://x.com/saylor/status/2092277359034458361
-
-1d ago
-
----
-
-**[Does anyone else have a portion of their bitcoin that they never intend to sell?](https://www.reddit.com/r/Bitcoin/comments/1vyysry/does_anyone_else_have_a_portion_of_their_bitcoin/)**
-
-I don’t mean just hold it long term, I mean like I’m going to die with it. I look at my stack and I think, I’m selling that bit on X date or X price or, I’m selling that to buy X. But then I look at a bit of my stack and I’m thinking I’m not selling that ever. Anyone else the same? I’m curious because if this is the norm, bitcoin is a lot scarcer than we might think it is.
-
-12h ago
+34m ago
 
 ---
 
@@ -151,11 +153,61 @@ I don’t mean just hold it long term, I mean like I’m going to die with it. I
 
 ## Google News: "bitcoin"
 
-**[Here's when bitcoin may hit $500,000](https://finance.yahoo.com/markets/crypto/article/heres-when-bitcoin-may-hit-500000-091129598.html)**
+**[Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1)**
 
-Bitcoin is having a price gusher to close out August.
+Crypto hoarders have been selling tokens and reverting to former activities
 
-Yahoo Finance • 18h ago
+Financial Times • 5h ago
+
+---
+
+**[Why these analysts say bitcoin will double by next year — and could reach $500,000 by the end of the decade](https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3)**
+
+MarketWatch • 1h ago
+
+---
+
+**[Man Manages To Access Bitcoin Wallet After 12 Years, Becomes An Instant Millionaire Overnight](https://www.iflscience.com/man-manages-to-access-bitcoin-wallet-after-12-years-becomes-an-instant-millionaire-overnight-84489)**
+
+IFLScience • 58m ago
+
+---
+
+**[Bitcoin Price Tests $80K In 'Powerful Setup.' IREN Earnings Due.](https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/)**
+
+Bitcoin price shows a "powerful setup," Bitwise CIO says as the crypto trades near $80,000. Miner, AI player IREN to report.
+
+Investor's Business Daily • 7m ago
+
+---
+
+**[Alpha Modus Advances Transaction to Add More Than $200 Million in Bitcoin Assets to Its Balance Sheet](https://au.finance.yahoo.com/news/alpha-modus-advances-transaction-add-125300141.html)**
+
+Bitcoin valued at $71,000 per BTC under contemplated transaction; management believes transaction would materially strengthen shareholder equity and address Nasdaq’s outstanding listing deficiencyCORNELIUS, N.C., Aug. 27, 2026 (GLOBE NEWSWIRE) -- Alpha Modus Holdings, Inc. (Nasdaq: AMOD) (“Alpha Modus” or the “Company”), today announced that it is advancing a strategic transaction expected to add 3,170 Bitcoin to the Company’s balance sheet, representing more than $200 million in Bitcoin assets.
+
+Yahoo Finance Australia • 1h ago
+
+---
+
+**[Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-at-80000-as-traders-await-inflation-data-082152117.html)**
+
+Bitcoin's rally is running into resistance at the psychologically important $80,000 level as traders await key US monetary policy signals to gauge whether the past week's gains have room to run.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin and Gold Funds Draw $7 Billion as Scarcity Trade Surges](https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-and-gold-etfs-draw-7-billion-as-scarcity-trade-surges)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[The debasement trade is back as gold and bitcoin surge and the dollar slides](https://www.businessinsider.com/debasement-trade-gold-bitcoin-dollar-treasury-bond-buyback-debt-inflation-2026-8)**
+
+The Treasury's bond-buyback plan has renewed focus on US debt, deficits, and inflation.
+
+Business Insider • 4h ago
 
 ---
 
@@ -163,61 +215,15 @@ Yahoo Finance • 18h ago
 
 The flagship cryptocurrency's recent rally parallels its history of rebounding whenever investor sentiment toward other assets cools, says BlackRock's Mitchnick.
 
-CNBC • 7h ago
+CNBC • 18h ago
 
 ---
 
-**[Bitcoin and Gold Funds Draw $7 Billion Amid Scarcity Trade](https://www.bloomberg.com/news/articles/2026-08-26/bitcoin-and-gold-etfs-draw-7-billion-as-scarcity-trade-surges)**
+**[Bitcoin Up 22%: Has The Halving Cycle Begun?](https://realinvestmentadvice.com/resources/blog/bitcoin-up-22-has-the-halving-cycle-begun/)**
 
-Bloomberg • 10h ago
+Explore if Bitcoin up trends signal a market reversal after last year's peak and significant declines in value.
 
----
-
-**[AI build out: AI gold rush draws crypto firms away from Bitcoin](https://www.bbc.com/news/articles/c07ler8x9kpo)**
-
-The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
-
-BBC • 1d ago
-
----
-
-**[Gold, bitcoin move lower as Treasury yields and Brent crude advance](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-inflation-data-crowdstrike-salesforce/card/gold-bitcoin-move-lower-as-treasury-yields-and-brent-crude-advance-rOp6nwQoKVr0fuSikHmb)**
-
-MarketWatch • 9h ago
-
----
-
-**[Bitcoin hovers above $78k as rebound rally loses some steam after U.S. PCE data](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-79k-as-rebound-rally-cools-ahead-of-us-inflation-data-4876359)**
-
-Investing.com • 5h ago
-
----
-
-**[A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.](https://www.barchart.com/story/news/4032948/a-major-bitcoin-short-squeeze-is-taking-microstrategy-stock-higher-what-comes-next)**
-
-Barchart.com • 1d ago
-
----
-
-**[Bitcoin returns to $80,000 as MSCI raises fresh concerns; Strategy’s prized financing flywheel faces an “index eligibility test”](https://www.moomoo.com/news/post/75306139/bitcoin-returns-to-80000-as-msci-raises-fresh-concerns-strategy)**
-
-Moomoo • 13h ago
-
----
-
-**[Forget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck](https://bitcoinmagazine.com/news/bitcoin-would-be-fine-under-democrats)**
-
-VanEck's Matthew Sigel has said that Bitcoin doesn't need a Republican president to do well.
-
-Bitcoin Magazine • 16h ago
-
----
-
-**[Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana](https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana)**
-
-GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin
-
-Decrypt • 7h ago
+Real Investment Advice • 5h ago
 
 ---
 
@@ -237,7 +243,7 @@ A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
 Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial £1,500 investment turning into a multi-million-pound fortune
 
-⬆️ 4 • 💬 0 • 11h ago • [LBC](https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/)
+⬆️ 4 • 💬 0 • 22h ago • [LBC](https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/)
 
 ---
 
@@ -251,7 +257,7 @@ Finally, a killer use case
 
 **[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
 
-⬆️ 2 • 💬 1 • 5d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+⬆️ 2 • 💬 1 • 6d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
 
 ---
 
@@ -275,7 +281,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 1d ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 2d ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -283,15 +289,7 @@ Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 3d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
-
----
-
-**[Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words](https://news.ycombinator.com/item?id=49370845)**
-
-Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
-
-⬆️ 1 • 💬 0 • 6d ago • [Strike a Block](https://strikeablock.com/)
+⬆️ 1 • 💬 1 • 4d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -303,17 +301,25 @@ Announcing vllm-ios: vLLM-style continuous batching for iPhone, native Swift on 
 
 ---
 
+**[Apple Mac Studio M5 Ultra with 1.2TB/S Memory Bandwidth](https://news.ycombinator.com/item?id=49444661)**
+
+Mac Studio with M5 Max and M5 Ultra. The ultimate pro desktop. Exceptional performance. Extensive connectivity. Runs powerful AI on device.
+
+⬆️ 7 • 💬 4 • 1d ago • [Apple](https://www.apple.com/mac-studio/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: This Is Why I&#39;m NOT Buying Right Now](https://www.youtube.com/watch?v=CZV_H9toHh8)**
+**[Did the Treasury Just Make a $1M Bitcoin Mistake?](https://www.youtube.com/watch?v=q5fL7mAt5vo)**
 
-This is not the time to aggressively buy. You had 6 months to do that. Here's why: ➡️ iTrust Capital – $100 Bonus (Crypto IRA) ...
+Bitcoin just broke $80000 as gold surges, the dollar weakens, and the Treasury signals it may step deeper into the bond market.
 
-📺 Aaron Bennett
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 743 • 💬 261 • ⏱️ 10:15 • 21h ago
+👁️ 13K • 👍 1K • 💬 97 • ⏱️ 37:51 • 13h ago
 
 ---
 
@@ -323,7 +329,35 @@ Arthur Hayes is the CEO of Flop Labs and CIO of Maelstrom. In this conversation,
 
 📺 Anthony Pompliano
 
-👁️ 52K • 👍 2K • 💬 58 • ⏱️ 52:01 • 1d ago
+👁️ 58K • 👍 2K • 💬 58 • ⏱️ 52:01 • 1d ago
+
+---
+
+**[Last Chance To Buy Bitcoin Under $100K? (Professor Sina)](https://www.youtube.com/watch?v=ZbD6OJMwmm0)**
+
+Sina on Bitcoin's current momentum! If you want a 1on1 call with me: https://cal.com/robinseyr/bitcoinstrategy Take your ...
+
+📺 Robin Seyr
+
+👁️ 9K • 👍 237 • 💬 85 • ⏱️ 52:49 • 23h ago
+
+---
+
+**[Bitcoin: This Is Why I&#39;m NOT Buying Right Now](https://www.youtube.com/watch?v=CZV_H9toHh8)**
+
+This is not the time to aggressively buy. You had 6 months to do that. Here's why: ➡️ iTrust Capital – $100 Bonus (Crypto IRA) ...
+
+📺 Aaron Bennett
+
+👁️ 16K • 👍 782 • 💬 280 • ⏱️ 10:15 • 1d ago
+
+---
+
+**[Massive BTC and XRP Liquidity Prolbem Coming](https://www.youtube.com/watch?v=SwnFQYMRym4)**
+
+📺 The Economic Ninja
+
+👁️ 17K • 👍 792 • 💬 74 • ⏱️ 3:01 • 2d ago
 
 ---
 
@@ -333,77 +367,47 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 16K • 👍 954 • 💬 283 • ⏱️ 8:18 • 11h ago
+👁️ 23K • 👍 1K • 💬 93 • ⏱️ 8:18 • 22h ago
 
 ---
 
-**[BITCOIN IS IN A RAGING BULL MARKET - THIS COULD GET VIOLENT](https://www.youtube.com/watch?v=XCHXK56qPvI)**
+**[Bitcoin Bulls Are Getting TRAPPED: The Charts Flashing Danger](https://www.youtube.com/watch?v=B99-pPVyk_A)**
 
-Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
+SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
 
-📺 Adam Livingston
+📺 Verified Investing
 
-👁️ 6K • 👍 726 • 💬 112 • ⏱️ 23:09 • 1d ago
-
----
-
-**[Bitcoin Surges To $80K: New Bull Market Or Trap?](https://www.youtube.com/watch?v=6Gpzyx504Ug)**
-
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
-
-📺 Gareth Soloway
-
-👁️ 63K • 👍 4K • 💬 259 • ⏱️ 10:39 • 1d ago
+👁️ 14K • 👍 866 • 💬 120 • ⏱️ 17:09 • 2d ago
 
 ---
 
-**[Why Nobody Can Value Bitcoin](https://www.youtube.com/watch?v=peBCWTKKi-Y)**
+**[A TSUNAMI is about To Hit Crypto... 🌪️](https://www.youtube.com/watch?v=hojYE0ZxeLM)**
 
-Is Bitcoin cheap at $80000? How do you value Bitcoin at all? Cory Klippsten explains why the honest answer is that nobody ...
+History is REPEATING!! Crypto Entering "March 2023 Moment!" TRADE on WEEX - WIN THE AMALFI COAST GETAWAY: ...
 
-📺 Swan Bitcoin
+📺 Altcoin Daily
 
-👁️ 12K • 👍 320 • 💬 69 • ⏱️ 2:28 • 1d ago
-
----
-
-**[Bitcoin Price Volatility Just Broke Out of Historic Low](https://www.youtube.com/watch?v=IxOn3b9vnQo)**
-
-Natalie Brunell dives into a striking report from Fidelity Digital Assets revealing that Bitcoin's rolling 1-month realized volatility had ...
-
-📺 Natalie Brunell
-
-👁️ 9K • 👍 219 • 💬 14 • ⏱️ 0:53 • 2d ago
+👁️ 61K • 👍 3K • 💬 174 • ⏱️ 10:34 • 2d ago
 
 ---
 
-**[BITCOIN: Buy The Breakout OR Wait For A Pullback? [My Plan]](https://www.youtube.com/watch?v=zKAbSwOuJVs)**
+**[Matthew Kratter: “Bitcoin Has Been Captured”](https://www.youtube.com/watch?v=TbutpAc4eZU)**
 
-Bitcoin is breaking out and traders are split: buy right now or wait for a better entry? In today's live session, Kyle Doops maps out ...
+Is Bitcoin being captured — and if so, who actually controls it? In this episode of To The Moon with the Lunas, we sit down with ...
 
-📺 Crypto Banter
+📺 The Luna’s 
 
-👁️ 18K • 👍 1K • 💬 22 • ⏱️ 37:21 • 2d ago
-
----
-
-**[Extreme Momentum: Is $85,000 Bitcoin Possible Today?](https://www.youtube.com/watch?v=WqtY597UHko)**
-
-Bitcoin is printing relentless bull momentum while sidelining traders with no clean entry. Kyle breaks down the TD Sequential 9 ...
-
-📺 Crypto Banter
-
-👁️ 21K • 👍 1K • 💬 34 • ⏱️ 41:47 • 1d ago
+👁️ 4K • 👍 284 • 💬 159 • ⏱️ 1:19:05 • 1d ago
 
 ---
 
-**[Bitcoin Hits $80K: Why Bears Are Paralyzed &amp; $40K Trap Exposed 🚨🧠](https://www.youtube.com/watch?v=Itm_obLUaJI)**
+**[Ben Cowen: One More Bitcoin Crash Before 2027?](https://www.youtube.com/watch?v=kRz73Qmzk40)**
 
-FREE INVESTOR QUIZ: https://investor-profiler.investanswers.io JOIN THE FAMILY: http://www.patreon.com/investanswers ...
+Market analyst Benjamin Cowen reveals his Bitcoin strategy for the rest of 2026, explaining why he started buying BTC again in ...
 
-📺 InvestAnswers
+📺 Cointelegraph
 
-👁️ 65K • 👍 4K • 💬 375 • ⏱️ 26:21 • 2d ago
+👁️ 75K • 👍 2K • 💬 350 • ⏱️ 24:26 • 2d ago
 
 ---
 
