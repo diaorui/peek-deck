@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGVzQXZjaHdUUzZUVnNlWUo3OXQ4MlJra1owcUZmTVhVZWh0WUpGR2JMMTlTZUFpblZUN3czcUpOQmFnME5FZDhjNXFtOW5SZjk1cEVqR0tQRlJ2Tk5hOTRoYW13QUZiT0xSOEdGclU1MExFMGJzLXBqaFF3dzhqRUpR0gGKAUFVX3lxTE5KcUtVZ1dTZWh5UFU5ZDRYZ3VJekpKOU5SN0czc0VqTFQ0dlFhZ2s3R0ZwXzNQUnBIdDJQRjhLT2h4M2F2WmstMEcxYklSdDZ6dXNLZ0RXcGlrSHhCSnp6NXFHY2p5Ri1GRFJjY1dQMUdrRmVYZmN3RV9SckhvVHVUeEJoM2pmTEhfdw?oc=5",
+      "pub_date": 1787774163.0,
+      "article_url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-01-gID_7.png",
+      "description": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin"
+    },
+    {
       "headline": "Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -15,14 +25,14 @@
       "description": "If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana."
     },
     {
-      "headline": "Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'",
+      "headline": "3 Big Changes Just Hit XRP, Dogecoin, and Ethereum ETFs",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUFdVMXRRckpyUkhmSWpSM1lyZEVzZjJSNFpSV0lQYlM3T3EyYV9uU3RyLUpYLWxNNEtQc2FjM1lDU1NpcEhUUlJqRTZ0eWYwZ3ZnUzlURnlSV1RTb3JsVUl4QS0xSjFMT2NDR0x0WkZhemRBOTFMMHZFc29SX19JRUlkM3ppT1hTaUM3OW9HTHNuaHJuSnlERFFYUXI0Q0ZCaGM1WnEyRVBXSGtCQWZ6S2tJWXpIcUR4THVnYzJfRXpnc1hzU3FPazRrU3h4QXJrYmp4VnVUTGkta05tbzllcEs0d0R6RUhTaUhxMDFwUEFDajA0NFNtM0lVOC0wS0tQNGdRMFVReUFZQUdxM2VvN212ZXFLdw?oc=5",
-      "pub_date": 1787748174.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-26-2026-bitcoin-is-having-a-price-gusher-to-close-out-august-124254461.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
-      "description": "Bitcoin opened at $78,528.41 on Wednesday, August 26, 2026. As of 8:25 a.m. ET, the price of bitcoin moved up to $78,585.58. Ethereum opened at $2,442.30, down 1.6% from Tuesday's opening price. Ethereum moved higher to $2,469.90 as of 8:25 a.m. ET."
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblVnazF1N3VESmtiOUlKQTV5clNqb2hKb1VjeGVkV0RGOEREenlIVnltWk44aGRWVzMzaFlpT0M2X2lRWTRaUnRIaDVSX0VBTnRvNnVlYVU2UkNlb3B2LXNHTUFyMGNJOVd5Nl9BTHN6Z1BWV1A3V0gwdjRrejZaMkFxa0xHZm1TMXhUc3FNd2w?oc=5",
+      "pub_date": 1787788500.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/3-big-changes-just-hit-235500003.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a1165f99bb9e4e5bfbb278578d43e3e9b60133a9d61436424be9f117d08170b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcb304460232752ef04772a37ed860ba6.png",
+      "description": "Three changes hit 21Shares XRP, DOGE, and Ethereum ETFs. Staking names, FTSE pricing, and new fees explained."
     },
     {
       "headline": "Glamsterdam Repricing Impact for Smart Contract Developers",
@@ -35,6 +45,26 @@
       "description": "The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts."
     },
     {
+      "headline": "Current price of Ethereum for August 27, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JQ3JGbmhyMlJrT1F3RldKdHRPbUVCNUNOdnNXam9SR1NyRDJvM1lIRGpjc1BsYkd3UkJZRG9FUkVPSmFDMVRRQlVJR3FnaU9lQnNPZzBqeXlxcUpVYkh5eVZLVWM4UjFR?oc=5",
+      "pub_date": 1787830200.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-08-27-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-27.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEFhd0h3bjZ0V1E1N1VBeGczaWRwTVY4VWpfaTY0R0lBVUZjbVRKb0J5aUN4M0lKV1hlZGJFUGhua2habzVwbVBKdGUwb21zYzRTandHeXIyVEZaZ290N3lFVVNsSEtJb0tsYUFlazFEZ0VhT2NtMEhoWHN4UDM5bWVR?oc=5",
+      "pub_date": 1787823180.0,
+      "article_url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1700-e365/go.jpg",
+      "description": "GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization"
+    },
+    {
       "headline": "Bitcoin, Ethereum, XRP, Dogecoin Hold Ground as Traders Brace for Dip",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -43,16 +73,6 @@
       "article_url": "https://www.tradingview.com/news/benzinga:03092069b094b:0-bitcoin-ethereum-xrp-dogecoin-hold-ground-as-traders-brace-for-dip/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Bitcoin is holding around $78,000 as some traders take profits following last week\u2019s massive rally, while some anticipate a pullback before the next leg higher.Notable Statistics:Notable Developments:Trader Notes:CryptoAmsterdam remains bullish and is holding positions accumulated near the lows but\u2026"
-    },
-    {
-      "headline": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGVzQXZjaHdUUzZUVnNlWUo3OXQ4MlJra1owcUZmTVhVZWh0WUpGR2JMMTlTZUFpblZUN3czcUpOQmFnME5FZDhjNXFtOW5SZjk1cEVqR0tQRlJ2Tk5hOTRoYW13QUZiT0xSOEdGclU1MExFMGJzLXBqaFF3dzhqRUpR0gGKAUFVX3lxTE5KcUtVZ1dTZWh5UFU5ZDRYZ3VJekpKOU5SN0czc0VqTFQ0dlFhZ2s3R0ZwXzNQUnBIdDJQRjhLT2h4M2F2WmstMEcxYklSdDZ6dXNLZ0RXcGlrSHhCSnp6NXFHY2p5Ri1GRFJjY1dQMUdrRmVYZmN3RV9SckhvVHVUeEJoM2pmTEhfdw?oc=5",
-      "pub_date": 1787774163.0,
-      "article_url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-01-gID_7.png",
-      "description": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin"
     },
     {
       "headline": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
@@ -65,14 +85,14 @@
       "description": null
     },
     {
-      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZVMzLWNlTE1hSnZzTDBLVzRTZm5TSTUzWEF4RGxvalRTNlI2Z2llMmFFNEJ6VkVjWThUMUt6NGFHTWR0bXZ3YmVDVXV1R3ozdnZtUDFSUkJ3V1R3WlRRSjU0Y2JnVi0wY1JWeXh3TUE1NDMzRkVyYmFuS0g5MmRyeXFwUnptTGxiUGFkNjZXbndKVHR0aGRnbFdfcTNHTncwNVBKOEJpSWdUMHJlTlFtRWpjZDNxakY0V0JvMmpHZEVaM3NuQlJRN0lfV1d4cEVVUGpESmZpUzJLUnBVai1uU2hzMW9GNnBOMGo5TVVIcEVIREtIcDNTSndZVkFyZnc3a2x5MzZ3czNkZDFrZV9CcVhsU3BXS2x5bzdVLVhKY042MEU?oc=5",
-      "pub_date": 1787574600.0,
-      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html",
-      "image": "https://mmx.prnewswire.com/media/MS1974095/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA2905149&p=facebook",
-      "description": "Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 14 months ETH gained 30% in the past..."
+      "headline": "Ethereum is Going to $10,000, Says Tom Lee \u2014 Why He Claims It Is 'Easily' Coming by 2028",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlJFb3VxRjlJZHdDZnUyQkNIWkg4RFZySWphcE9hbk5mTks4QmZzQlRmaWRfVXdnQXJ3ZnZVSHZqZk9iU01OWUZwSmtHZzd6RWJUWjdlQnJCcm5pUWVPbWdEenUxQU9pblZXTC1fR19OMjZ3VlhvRjRteXI5ODc5d04yM21zTURGbUxIZg?oc=5",
+      "pub_date": 1787751152.0,
+      "article_url": "https://www.ccn.com/news/crypto/ethereum-10000-tom-lee-claims-easily-happening-soon/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "New Crypto: Pepeto Presale Announces $10.85M As the Ethereum Price Prediction Calls $7,500",
@@ -83,28 +103,8 @@
       "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500-1036494746",
       "image": "https://ml.globenewswire.com/Resource/Download/9ffab985-b118-4906-8b2e-3d500c9765fe/pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500.jpg",
       "description": "DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil..."
-    },
-    {
-      "headline": "Current price of Ethereum for August 26, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Kam1wMmRPT0dPMUhXeExRWjlVbTBHU0FtTEhaNG9YLWlsa2hJXzg4ZVozNUx1dXdJNkkzZ1F3N1NQYm9YSGpQYkVzSmxDTVkwblVKYkY3Z3RxenpQUGJ6QVl4clNzaGZR?oc=5",
-      "pub_date": 1787742900.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-08-26-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-26.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Bitcoin Could 'Teleport' to $90,000 but Ethereum Is Still the More Interesting Coin, Traders Say",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT3ZyS0JYaGZZdVNrOTIzTUNVRk8xa3pFWVVINzBHMkw4LU9wWk9kb0dYM0tkVVBKNlNrOU12TXAtbjVfLVNLOWpMQmJsT3FGbi1icm5KTUtFTm9DU3dHWjdvdVVIM29LTDgtUUVCeXBHWU1BQm44dGtoMjliY0lLUjlIbnRKSXFXdzU5QWlMVElWLVQ0UUhUbmpLZnB4ZVlKWVp4bkhobXV0V2ZBUlBqd3hWc2JQWTZoZ1M0UEdGaGNqZ0lFbnRrN0pEamRIOVBFS2lnNEFfelBpSHVsWGR6TnFIU1Y3OGxs?oc=5",
-      "pub_date": 1787602942.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/08/61396390/bitcoin-could-teleport-to-90000-but-ethereum-is-still-the-more-interesting-coin-traders-say",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/24/Bitcoin-and-Ethereum.jpg",
-      "description": "Bitcoin breakout could reach $90,000 with help from Ethereum. Sellers exhausted, fresh demand driving rally. ETH leading, target at $4,000."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-27T03:27:51.395463+00:00"
+  "fetched_at": "2026-08-27T14:32:28.534146+00:00"
 }

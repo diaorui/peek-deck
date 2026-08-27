@@ -5,34 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The turbulent AI era is here. The choices we make now are critical.",
-      "source": "gatesnotes.com",
-      "source_url": "https://www.gatesnotes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "pub_date": 1787799594.0,
-      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "headline": "AI slopper in chief: Trump turns to social media amid tough questions",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmV5cjNyOV94QTJZZnBWZkdxZzFUakJpNGpTelBJY2d5eTVUWFhCSUstbE1aU1U2QnY0UlNfaFFXVXoxb1g2LVROazBzbWw5RjBZcVdJeDF6WS1MRmVIckYwalZ4SDlBYVFuaER1bThHcEtuWlhDNnppSTJMMm5rb3psdXFIS2NLSFo1V1pWUHc?oc=5",
+      "pub_date": 1787824860.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington",
+      "image": "https://i.guim.co.uk/img/media/8712b21c8fcae581d8333baa1a4ce8a3f05782c0/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01644b6cfbee434e11e26a0b2d4500e4",
+      "description": "As the US president struggles to end his Iran war, and approval ratings hit new lows, he leans on a familiar gambit"
+    },
+    {
+      "headline": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5",
+      "pub_date": 1787817873.0,
+      "article_url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315152-1780405409943-gettyimages-2279396667-042a7029_nhdiseyi.jpeg?v=1780405436&w=1920&h=1080",
+      "description": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong."
+    },
+    {
+      "headline": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
+      "pub_date": 1787786820.0,
+      "article_url": "https://www.wsj.com/tech/nvidia-earnings-q2-2027-nvda-stock-8983c8d1",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI report says its network was hacked by its own rogue AI agents",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
-      "pub_date": 1787777047.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/openai-report-says-network-was-hacked-rogue-ai-agents-rcna594590",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241008-open-ai-ch-1314-6a6a47.jpg",
-      "description": "The 37-page report reveals previously undisclosed aspects of the recent hacking spree powered by OpenAI\u2019s most advanced models."
+      "headline": "Nvidia\u2019s AI Boom Tests Data Center Infrastructure Limits",
+      "source": "Data Center Knowledge",
+      "source_url": "https://www.datacenterknowledge.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb1l5endxVXl5MGF3WGMyNzgtVjk2VjY1MS1GbUN4SUM0VnBXNVQxN2kzOXVNTjVnVnlsd1I5NUpsM3h1cDhGRXU1X1NCVFRZQ0ZGNGNXLXNKRTBlWkRNczQ0QUZfcHdCa1RqTWpvaHBnR2VLNnBEODM0NXNXdTJmVWV6Xzlhcmt3VFJ1b1h5RlNsd29MZnVkNmVZNFNqNVp5MDNldEhpQ3RValRhLUZjUDFNMjV2S25LSXhMTzFqMGo4dUczN2Y4?oc=5",
+      "pub_date": 1787840255.0,
+      "article_url": "https://www.datacenterknowledge.com/data-center-chips/-out-of-hyperbole-nvidia-s-ai-boom-tests-data-center-infrastructure-limits",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt44fdef0ff0c81dc2/6a9046cccb1aa6b08924c7cc/GettyImages-2275284146.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "description": "Nvidia\u2019s $89B data center quarter and AWS\u2019 plan for two million more GPUs show AI infrastructure demand broadening beyond hyperscalers."
     },
     {
-      "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+      "headline": "Okta skyrockets 20%, CrowdStrike surges 15% as rising AI threat boosts earnings",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
-      "pub_date": 1787770801.0,
-      "article_url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
-      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach."
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVJldC1ZTV9paFZLVVlkSUUzSUZDVmxPWXVibjd0THZQeHVzY09YdTdXbUEzLW5rR01GUlkwZ2l3cU9QUG5xdnFzZXZpSFJwQ1R3Z1dNSlBCaEstcURpOGFJYmJ6ZzUzQVdJX19vaUNtT2VUVmo2WVRJTEY0YlIwM29CUHcwOEF4cnpWcm12ZlFOdzVpQzIyS3JUQ0lfTnVEZ0NVWHZvallsWnNLYWl5bTVCUDdHUdIBuwFBVV95cUxNN2pydGJQS1BhLTIwTzZfUmpHMExfQXNxdDlEd2IwcWVnS2xvRktLc3dmbXpzM0xscjhPX29INzVLa3hONHkyUVBmcXg4bUhYN1dVYVVKUXE1YjNLRW5OWDFBSGpXVG40Q2hLUm1VV1NHWERoNlF2Vlp3akJNZl96MXg0TGtjZ1BGVXNFVmtJM2NCRVhCeHNuUG94UUM5UEhpMG5rSzZKaTBOSjUtRlp3S0ZWNEgtZS1aMmVV?oc=5",
+      "pub_date": 1787838459.0,
+      "article_url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108313292-1779985196223-gettyimages-2264127364-campbell-notitle260303_npGQz.jpeg?v=1779985232&w=1920&h=1080",
+      "description": "AI adoption is pushing customers to spend more on cybersecurity tools from companies such as CrowdStrike and Okta"
+    },
+    {
+      "headline": "The Biggest AI Bottleneck Is Your Infrastructure",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzh4cXB1QlIzdEk0b0xaSThWSnVUek5fWFhtXy16aFAzOEtYQkFBVE1jdUItTHMzM1Vvcmh4QkQ5NjdJUURMUmMzMW9sZUlVeHppQmNteUtHN3dsem5WakV0WkxnNUtEa0w5dTlpSmduM0p5blFDdlZNdFR5bUI3VnhMTW5VY2pKRDRkcXFtSHBvMzB5TVg2SkdkWXJOUXgzeWc?oc=5",
+      "pub_date": 1787839200.0,
+      "article_url": "https://www.forbes.com/sites/garydrenik/2026/08/27/the-biggest-ai-bottleneck-is-your-infrastructure/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Hundreds of AI agents went rogue in OpenAI\u2019s Hugging Face hack",
@@ -41,26 +71,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
       "pub_date": 1787796000.0,
       "article_url": "https://www.politico.com/news/2026/08/26/hundreds-of-ai-agents-went-rogue-in-openais-hugging-face-hack-01052139",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
-      "pub_date": 1787787720.0,
-      "article_url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787679622&w=1920&h=1080",
-      "description": "Follow Nvidia\u2019s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time."
-    },
-    {
-      "headline": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
-      "pub_date": 1787738820.0,
-      "article_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
       "image": null,
       "description": null
     },
@@ -75,36 +85,26 @@
       "description": "Reuters report shows Meta's challenges replacing people with AI agents."
     },
     {
-      "headline": "Mark Zuckerberg\u2019s Botched AI Makeover of Meta",
-      "source": "New York Magazine",
-      "source_url": "https://nymag.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGlJeWpPRlZ0VXFESXVUMTFYOTh2UUstbGJJZ2lyckZRaFpfMnppVnVGbjNpeGJvclNjWnBUVmNkb0JocWhYbkRHVklJQ2F3UENkcDNkTGRrcDJZeDNhYTNtTlhtNURTTXp1ajlWVXF1X1lKVVlwVm4yX3hTb095eXJkYUc?oc=5",
-      "pub_date": 1787775852.0,
-      "article_url": "https://nymag.com/intelligencer/article/mark-zuckerbergs-meta-ai-overhaul.html",
-      "image": "https://pyxis.nymag.com/v1/imgs/067/904/56c5d399e97afc88f1b5dd4ec7dae90938-zuckerberg.1x.rsocial.w1200.jpg",
-      "description": "The social-media giant reportedly considered cutting up to 60 percent of some teams and replacing staff with AI."
-    },
-    {
-      "headline": "Exclusive | The Latest Viral AI Assistant Rocketing Across Silicon Valley",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmFuUk5xeWZja3d4Wjlqd3J2OG0tNHVwcVhUTWtuREFLT24yUlBHZzRzcFliNF9jN2xvcWtxeFZ2X3NGdXlNazFHUHY4LWNTU0d1MEJvbTRLWkhVNmg5aUVjRXdZUENPUDc5S0Nua05MazZqVGRlaWM0YkU4X0Fidk1DYXl4Z1hkSS03d0Z4TWNMZ2Z3VnJPY1FVRXRUYWs?oc=5",
-      "pub_date": 1787766960.0,
-      "article_url": "https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276",
+      "headline": "Exclusive: Uber cuts AI costs even as usage jumps",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EZzFocW85LUtJdnFmOXhwZkFYLV9qMm1pRm5mX2tWanNYS01kZlZEa0xQTE5ObVVTaHlQMEhKbkFoR3hIMFhxTkl2bktkLTJ6V2RlaTRYSU1kU1pWSUE?oc=5",
+      "pub_date": 1787837526.0,
+      "article_url": "https://www.axios.com/2026/08/27/ai-uber-spending",
       "image": null,
       "description": null
     },
     {
-      "headline": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sNUZuWWIySGpDd0JiRkxwcjVWYXhyWVFtYXpzLVJRejhCOWJUanM0N200OHhTR3RqS192UTlkSTNEV0dSNWNEbHhDeGJwQk5hSWxqai1MZjZkZw?oc=5",
-      "pub_date": 1787785642.0,
-      "article_url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg",
-      "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour."
+      "headline": "Bill Gates proposes major limits on AI development",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MM0tMdlVIZW1SXzhxY1ZORHpMVnFDT01QRER5VEo3OFFNLWVkTGJmZldndGphUGo3NVJfcDNpT2lNTEpPMTNJY3k0X25BdVo2c05xZ0lVUk9ZLS0zVTZ0WFY4Y01IajhUZ3YxU3ptZWtPS0NRVlNhNA?oc=5",
+      "pub_date": 1787753379.0,
+      "article_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-21t094424z-994001427-rc2l5jaxald7-rtrmadp-3-davos-meeting.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-27T03:27:54.543595+00:00"
+  "fetched_at": "2026-08-27T14:32:38.597008+00:00"
 }
