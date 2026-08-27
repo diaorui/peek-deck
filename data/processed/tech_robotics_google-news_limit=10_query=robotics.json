@@ -15,6 +15,16 @@
       "description": "NVIDIA today announced NVIDIA Jetson Orin Nano\u2122 2, a new robotics computer set to redefine entry-level edge AI \u2014 putting frontier-class generative AI performance in the hands of millions of developers."
     },
     {
+      "headline": "NVIDIA Introduces Jetson Orin Nano 2 Robotics Computer",
+      "source": "TechPowerUp",
+      "source_url": "https://www.techpowerup.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzlrTWVtbHJrampBVC14QUFfM3FDa0xDdkxRTk95aWNGZzh3bmlzZi05TjFqakk0VjJHbGIxQTdkV1g0dFpyUTk0RzhjTFljaF9JdUFFclhhUkpmSEJYdks4dldqNG5sSzA5M0Z4S2FmV1p2UFE2TjhaT3ZaVV9GeEtkblBib08wSFF4Uy1JY3V2ZVnSAZgBQVVfeXFMT3JoVU5ySnpVRjJqSHBILTFYZXk1UXNLNW1PTFdsbUs2cXM1TXU4aURaSzJOWVVhRjgtdTBlZk0wVy1NX1ZscUlmcFVIaW5rWEw3STA5Y21FZl9rRlR1QUV6cEtwNUlhRUlkb1lKeUtOeVVWQ1VJUThZeWRYc0lpMnhLT3ZZRHVOZzNKNFVOTGVoMUFUeXkyTlA?oc=5",
+      "pub_date": 1787770238.0,
+      "article_url": "https://www.techpowerup.com/351998/nvidia-introduces-jetson-orin-nano-2-robotics-computer",
+      "image": "https://www.techpowerup.com/img/eUwZYfWEopt6bwsa.jpg",
+      "description": "NVIDIA today announced NVIDIA Jetson Orin Nano 2, a new robotics computer set to redefine entry-level edge AI\u2014putting frontier-class generative AI performance in the hands of millions of developers.\r\n\r\nAs AI models grow smaller and more efficient, more edge devices can become autonomous systems..."
+    },
+    {
       "headline": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -25,16 +35,6 @@
       "description": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time."
     },
     {
-      "headline": "Nvidia unveils new robotics computer Jetson Orin Nano 2",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMnBfT0p5SXZkZlJ2NkVJVG5tby1QUExqaDdRVHBvNVhDY1o5MDlFalFRLXRWaEdjVnFsQkF0WGpJODhRRE84em5mcFlDRWE3cnR0VHctQ01lbTRfUHpCZ0Z6U1haY3U0MmZkN2R1Q0xYdjM2Y0tjNXVLcldSWDBmdTMzVkNVdVlGME5oSUV2a3BsRWNTS01sQQ?oc=5",
-      "pub_date": 1787671605.0,
-      "article_url": "https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214434126/image_2214434126.jpg?io=getty-c-w630",
-      "description": "On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI."
-    },
-    {
       "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -43,6 +43,16 @@
       "article_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
       "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+    },
+    {
+      "headline": "Bill Gates says some jobs should be reserved for humans: 3 takeaways from his AI warning",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEVNMnBRNWJXUTFkOWZQVWFWdWQxRThzYjBhVTkzOUx4MmdITUFDZTR5VGJyQ2h1cFlGS0NTUnNrZ3pRX3dXQkdQZEpPOFdZaVItNVh6NEdnaFVMR0dRdXo5UDB4YV9KWFdmaWc0OGtEXzQwenJpRk9ycG5KNlJ5SFpnR0M2QXEtbHZKajVBdDlFZVU5dTVPVkVBQUQ?oc=5",
+      "pub_date": 1787735100.0,
+      "article_url": "https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8",
+      "image": "https://i.insider.com/6a8ea43645e6f385a5168ed6?width=1200&format=jpeg",
+      "description": "Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract."
     },
     {
       "headline": "China's humanoid robots are stealing the show, but a quieter machine revolution is unfolding",
@@ -75,16 +85,6 @@
       "description": "Amazon is developing an internal initiative called Project Tetromino to build \"fully automated\" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading."
     },
     {
-      "headline": "The US wants to lead the robotics race. Its hardware still leans on China.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHFQNU1JNjdXRXduNVlRNmV2M09OdFBOa3V0Vm5FNHV5bHhpUVJYV2IwQm5vTE9NWWYwMEI0X0tYNXoza0RpcTdzdHlhSGU1SDdhYWhlRlVXbFV6aGVYT3A0UUtHN2k3SEpZWWZmcnZVbXlaQUpwcDZEc0NVSTlWRFN4RWZpOW5rb0ZZM01xeF9fQVo0NkRfUEFvNzlJWEtNb0hSTWVLOHVBOHZVcHJF?oc=5",
-      "pub_date": 1787630520.0,
-      "article_url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8",
-      "image": "https://i.insider.com/6a8ce6d34569a4ec219f9bf8?width=1200&format=jpeg",
-      "description": "Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China."
-    },
-    {
       "headline": "ScaFi: A robot that grows like a fish, not a machine\u2014from 2 feet to nearly 10",
       "source": "Tech Xplore",
       "source_url": "https://techxplore.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T22:24:23.513314+00:00"
+  "fetched_at": "2026-08-27T03:27:50.972055+00:00"
 }

@@ -5,14 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Bill Gates proposes major limits on AI development",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MM0tMdlVIZW1SXzhxY1ZORHpMVnFDT01QRER5VEo3OFFNLWVkTGJmZldndGphUGo3NVJfcDNpT2lNTEpPMTNJY3k0X25BdVo2c05xZ0lVUk9ZLS0zVTZ0WFY4Y01IajhUZ3YxU3ptZWtPS0NRVlNhNA?oc=5",
-      "pub_date": 1787753379.0,
-      "article_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-21t094424z-994001427-rc2l5jaxald7-rtrmadp-3-davos-meeting.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
+      "headline": "The turbulent AI era is here. The choices we make now are critical.",
+      "source": "gatesnotes.com",
+      "source_url": "https://www.gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "pub_date": 1787799594.0,
+      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI report says its network was hacked by its own rogue AI agents",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
+      "pub_date": 1787777047.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/openai-report-says-network-was-hacked-rogue-ai-agents-rcna594590",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241008-open-ai-ch-1314-6a6a47.jpg",
+      "description": "The 37-page report reveals previously undisclosed aspects of the recent hacking spree powered by OpenAI\u2019s most advanced models."
+    },
+    {
+      "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
+      "pub_date": 1787770801.0,
+      "article_url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
+      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach."
+    },
+    {
+      "headline": "Hundreds of AI agents went rogue in OpenAI\u2019s Hugging Face hack",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
+      "pub_date": 1787796000.0,
+      "article_url": "https://www.politico.com/news/2026/08/26/hundreds-of-ai-agents-went-rogue-in-openais-hugging-face-hack-01052139",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
+      "pub_date": 1787787720.0,
+      "article_url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787679622&w=1920&h=1080",
+      "description": "Follow Nvidia\u2019s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time."
     },
     {
       "headline": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
@@ -35,76 +75,36 @@
       "description": "Reuters report shows Meta's challenges replacing people with AI agents."
     },
     {
-      "headline": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmhYcnZfVXc0SEJ2YUR2Yk5BcTlBSjViZ0hGQVJYNHFmeGRHRDhKTklOTVN5cDdNMzZvTTV1ODRHQll5UGJtTG4yUTBIZmlxbDE3VHZKNGZuREdsNGtDVm15enJ4cENicl84czVsOWlhNEZxMy1VSTVWdmptekhLWWR0XzlfTHVubkpWcnM2LWZILVcxa2xv?oc=5",
-      "pub_date": 1787765801.0,
-      "article_url": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/",
-      "image": "https://www.engadget.com/img/gallery/meta-reportedly-abandoned-an-ai-focused-restructuring-plan-that-would-have-laid-off-thousands/l-intro-1787765724.jpg",
-      "description": "The problem with Meta's AI restructuring plan is the AI wasn't good enough."
+      "headline": "Mark Zuckerberg\u2019s Botched AI Makeover of Meta",
+      "source": "New York Magazine",
+      "source_url": "https://nymag.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGlJeWpPRlZ0VXFESXVUMTFYOTh2UUstbGJJZ2lyckZRaFpfMnppVnVGbjNpeGJvclNjWnBUVmNkb0JocWhYbkRHVklJQ2F3UENkcDNkTGRrcDJZeDNhYTNtTlhtNURTTXp1ajlWVXF1X1lKVVlwVm4yX3hTb095eXJkYUc?oc=5",
+      "pub_date": 1787775852.0,
+      "article_url": "https://nymag.com/intelligencer/article/mark-zuckerbergs-meta-ai-overhaul.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/067/904/56c5d399e97afc88f1b5dd4ec7dae90938-zuckerberg.1x.rsocial.w1200.jpg",
+      "description": "The social-media giant reportedly considered cutting up to 60 percent of some teams and replacing staff with AI."
     },
     {
-      "headline": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
-      "pub_date": 1787780760.0,
-      "article_url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787679622&w=1920&h=1080",
-      "description": "Follow Nvidia\u2019s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time."
-    },
-    {
-      "headline": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
-      "pub_date": 1787774280.0,
-      "article_url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
-      "image": "https://i.guim.co.uk/img/media/238c3c82293141aeb4acaf7913508adf85b78126/483_0_2674_2138/master/2674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5250da062b91ecae0de1bd64d76438fc",
-      "description": "Firm says \u2018early signals \u2026 could have triggered an earlier response\u2019 as it releases report into Hugging Face hack"
-    },
-    {
-      "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
-      "pub_date": 1787770801.0,
-      "article_url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
-      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach."
-    },
-    {
-      "headline": "OpenAI\u2019s rogue AI model incident was worse than we thought",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1plTFExM3lLRkRCZ3ZLb0FobHM5R1ZyTVREaWxOWnJfcG5ZRlE4NHpXNjBQRTl3ZTVKQkVfWUY0YjhsMnIyUnRTZlBZNm0yTVQ4Z1dhZkU3TVc2eWFuNnF4N1hZSHhwTGNFaFh6M0c3em9qWnpxd1NJS3J0TWh2U0wtcHRGNmlFV3MyTU1iYTJuLXlETUl6Mi04VVZvZS03TXRud1NsUk1GZk9QNm9YMGxxQ1ladHpUbnlrVFlQcVBFY3BRamNRakVn?oc=5",
-      "pub_date": 1787780166.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Two new reports offer nearly 130 pages of details on the OpenAI-Hugging Face cybersecurity incident, many of them previously unreleased."
-    },
-    {
-      "headline": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUpMbGpJbTJGckNGSTcwdkNsaFpZV0RPSWk0QWRoLVFRb0lEWGxqTHNsQnF6WDRRX2hjMlFNcmRhek92S00xTUV3eEVUOFVoMUtqVEVycUZYNWNBZFlBZVV3QWxBc1BWdmZEOWt0ODg3MkRKYkdPUVliMkZ4S0E1NGxMSFRUYmpLamp4dlJ6cmFzeXpFeHlMbkZUdGV3bWlYYXZfZEN3QVVaaUF4OXc?oc=5",
-      "pub_date": 1787780259.0,
-      "article_url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-    },
-    {
-      "headline": "The Connections That Turned a Precocious Teen Into the Fallen \u2018Nostradamus of AI\u2019",
+      "headline": "Exclusive | The Latest Viral AI Assistant Rocketing Across Silicon Valley",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3FKTTFuZFd3UFZyQ1Jpd2R3NUlfY1VkTU0yVm1VY1RXc0h2RXc4TVZmbUlXa05zMEI5VW9penlpWGM4UzN3WTl5R1ZTRHZpaTN4NVJJVllvbzNvZWdqemM1bkNUdXdMcVJwVDZOOTJ2d2QtV1hneTMxRUNGYzV6Qy1JVHJheERrSGJIZXBVQ3A3Zw?oc=5",
-      "pub_date": 1787706000.0,
-      "article_url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmFuUk5xeWZja3d4Wjlqd3J2OG0tNHVwcVhUTWtuREFLT24yUlBHZzRzcFliNF9jN2xvcWtxeFZ2X3NGdXlNazFHUHY4LWNTU0d1MEJvbTRLWkhVNmg5aUVjRXdZUENPUDc5S0Nua05MazZqVGRlaWM0YkU4X0Fidk1DYXl4Z1hkSS03d0Z4TWNMZ2Z3VnJPY1FVRXRUYWs?oc=5",
+      "pub_date": 1787766960.0,
+      "article_url": "https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sNUZuWWIySGpDd0JiRkxwcjVWYXhyWVFtYXpzLVJRejhCOWJUanM0N200OHhTR3RqS192UTlkSTNEV0dSNWNEbHhDeGJwQk5hSWxqai1MZjZkZw?oc=5",
+      "pub_date": 1787785642.0,
+      "article_url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg",
+      "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-26T22:24:19.911227+00:00"
+  "fetched_at": "2026-08-27T03:27:54.543595+00:00"
 }

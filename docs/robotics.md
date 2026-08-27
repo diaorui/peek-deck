@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-26T22:24:25.155951+00:00'
+updated: '2026-08-27T03:27:56.886319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 26, 2026 at 22:24 UTC  
+**Last Updated:** August 27, 2026 at 03:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,6 +120,16 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
+**[NVIDIA Introduces Jetson Orin Nano 2 Robotics Computer](https://www.techpowerup.com/351998/nvidia-introduces-jetson-orin-nano-2-robotics-computer)**
+
+NVIDIA today announced NVIDIA Jetson Orin Nano 2, a new robotics computer set to redefine entry-level edge AI—putting frontier-class generative AI performance in the hands of millions of developers.
+
+As AI models grow smaller and more efficient, more edge devices can become autonomous systems...
+
+TechPowerUp • 8h ago
+
+---
+
 **[Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/)**
 
 With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time.
@@ -128,19 +138,19 @@ The Robot Report • 1d ago
 
 ---
 
-**[Nvidia unveils new robotics computer Jetson Orin Nano 2](https://seekingalpha.com/news/4636646-nvidia-unveils-new-robotics-computer-jetson-orin-nano-2)**
-
-On Tuesday, Nvidia (NVDA) launched Jetson Orin Nano 2, a new robotics computer for entry-level edge AI.
-
-Seeking Alpha • 1d ago
-
----
-
 **[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
 
 The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
 
-TechCrunch • 21h ago
+TechCrunch • 1d ago
+
+---
+
+**[Bill Gates says some jobs should be reserved for humans: 3 takeaways from his AI warning](https://www.businessinsider.com/bill-gates-ai-jobs-warning-robots-blue-collar-human-roles-2026-8)**
+
+Bill Gates warned in a new essay that a coming robotics boom could reshape construction, hospitality, and the social contract.
+
+Business Insider • 18h ago
 
 ---
 
@@ -168,17 +178,9 @@ GeekWire • 1d ago
 
 ---
 
-**[The US wants to lead the robotics race. Its hardware still leans on China.](https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8)**
-
-Physical Intelligence cofounder Sergey Levine said US robotics research relies on outsourcing cheap but reliable parts from China.
-
-Business Insider • 1d ago
-
----
-
 **[ScaFi: A robot that grows like a fish, not a machine—from 2 feet to nearly 10](https://techxplore.com/news/2026-08-scafi-robot-fish-machine-feet.html)**
 
-Tech Xplore • 9h ago
+Tech Xplore • 14h ago
 
 ---
 
@@ -194,16 +196,6 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid robots perform tasks at the 2026 World Robot Conference in China](https://www.youtube.com/watch?v=1HR7DzSnRUM)**
-
-China kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country's expanding robotics ...
-
-📺 Associated Press
-
-👁️ 10K • 👍 44 • 💬 8 • ⏱️ 0:54 • 6d ago
-
----
-
 **[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
 
 A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
@@ -214,13 +206,13 @@ A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary hea
 
 ---
 
-**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
+**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
 
-Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
+Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
 
-📺 DPCcars
+📺 news.com.au
 
-👁️ 23K • 👍 478 • 💬 87 • ⏱️ 2:12 • 6d ago
+👁️ 131K • 👍 1K • 💬 362 • ⏱️ 4:02 • 1d ago
 
 ---
 
@@ -230,27 +222,27 @@ The five-day games, now in its second year, are a spectacle demonstrating China'
 
 📺 Associated Press
 
-👁️ 463K • 👍 5K • 💬 2K • ⏱️ 1:24 • 4d ago
+👁️ 466K • 👍 5K • 💬 2K • ⏱️ 1:24 • 4d ago
 
 ---
 
-**[Robot conference offers glimpse of the future in China | The World | ABC NEWS](https://www.youtube.com/watch?v=NCtEc6gSCsE)**
+**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
 
-The World Robot Conference is underway in Beijing, showcasing the latest technological advancements in the industry.
+Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
 
-📺 ABC News (Australia)
+📺 DPCcars
 
-👁️ 20K • 👍 206 • ⏱️ 7:18 • 6d ago
+👁️ 23K • 👍 478 • 💬 84 • ⏱️ 2:12 • 6d ago
 
 ---
 
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
+**[Robots compete in football, boxing and sprinting at World Humanoid Games in China | BBC News](https://www.youtube.com/watch?v=eiR-sEmDWu4)**
 
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
+The second edition of the World Humanoid Games kicked off in China on Saturday. The competition will run for five days and has ...
 
-📺 CNA
+📺 BBC News
 
-👁️ 492K • 👍 7K • 💬 1K • ⏱️ 4:29 • 1d ago
+👁️ 223K • 👍 2K • 💬 708 • ⏱️ 5:30 • 3d ago
 
 ---
 
@@ -260,7 +252,7 @@ The second annual World Humanoid Games are set to take place in Beijing. It come
 
 📺 NBC News
 
-👁️ 68K • 👍 482 • 💬 248 • ⏱️ 4:05 • 5d ago
+👁️ 68K • 👍 484 • 💬 248 • ⏱️ 4:05 • 6d ago
 
 ---
 
@@ -270,27 +262,37 @@ China's Beijing Innovation Centre of Humanoid Robotics developed a robot that ca
 
 📺 New York Post
 
-👁️ 46K • 👍 707 • 💬 503 • ⏱️ 2:16 • 4d ago
+👁️ 46K • 👍 709 • 💬 503 • ⏱️ 2:16 • 4d ago
 
 ---
 
-**[THE FUTURE IS HERE! Best Moments from the WORLD HUMANOID ROBOT GAMES](https://www.youtube.com/watch?v=D9XApebDAm0)**
+**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
 
-Humanoid robots take center stage at the WORLD HUMANOID ROBOT GAMES, showcasing the latest advances in robotics and ...
+8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
 
-📺 Diario AS
+📺 XRoboHub
 
-👁️ 71K • 👍 825 • 💬 217 • ⏱️ 20:43 • 1d ago
+👁️ 194K • 👍 810 • 💬 120 • ⏱️ 0:16 • 13h ago
 
 ---
 
-**[Robots jump 2 metres, sprint faster than Usain Bolt in Beijing | Asia News Week | ABC NEWS](https://www.youtube.com/watch?v=eZ8XEUvlxt8)**
+**[Chinese robot beats Usain Bolt&#39;s 100m world record](https://www.youtube.com/watch?v=rsI6I86yBsc)**
 
-Human-like androids have wowed crowds at the World Robot Conference in Beijing, with models boxing, folding clothes, and ...
+A humanoid robot developed by China's Beijing Innovation Center of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
 
-📺 ABC News (Australia)
+📺 Reuters
 
-👁️ 21K • 👍 139 • ⏱️ 7:11 • 5d ago
+👁️ 90K • 👍 130 • 💬 113 • ⏱️ 0:24 • 4d ago
+
+---
+
+**[What you missed at this year’s World Humanoid Robot Games](https://www.youtube.com/watch?v=CeFoRUQGce0)**
+
+A humanoid robot has completed a 100-meter sprint in 9.32 seconds, beating the world record set by sprinter Usain Bolt. Named ...
+
+📺 The Independent
+
+👁️ 27K • 👍 101 • 💬 27 • ⏱️ 1:34 • 3d ago
 
 ---
 

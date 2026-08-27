@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Bill Gates says there needs to be limits on AI",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/",
-      "published": 1787753535.0,
-      "thumbnail": "https://external-preview.redd.it/JkTjByyc7LIlkNeHRmbnECTTXf8Ucbyj7QvWEtcxVgk.jpeg?width=640&crop=smart&auto=webp&s=314440045266cb1b7ed99db1a51deb9d262087d3",
-      "external_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
-    },
-    {
       "title": "Robot dancing is getting pretty insane",
       "author": "drgoldenpants",
       "url": "https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Bill Gates says there needs to be limits on AI",
+      "author": "cnn",
+      "url": "https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/",
+      "published": 1787753535.0,
+      "thumbnail": "https://external-preview.redd.it/JkTjByyc7LIlkNeHRmbnECTTXf8Ucbyj7QvWEtcxVgk.jpeg?width=640&crop=smart&auto=webp&s=314440045266cb1b7ed99db1a51deb9d262087d3",
+      "external_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
+      "site_name": "CNN",
+      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
     },
     {
       "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
@@ -46,6 +46,17 @@
       "description": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. It is free and available here: https://github.com/SenteLabsAI/OpenExecutive"
     },
     {
+      "title": "Could Iceland become Europe's AI powerhouse?",
+      "author": "SM_stories",
+      "url": "https://www.reddit.com/r/artificial/comments/1vz9g0a/could_iceland_become_europes_ai_powerhouse/",
+      "published": 1787777547.0,
+      "thumbnail": "https://external-preview.redd.it/izL4qyVd_aBFvx4gF2qgb7fTEWK19_TQv18Bke2fCn0.jpeg?width=640&crop=smart&auto=webp&s=a206a00dc939c3c5c2e1971e38a30ef9b16a1ccb",
+      "external_url": "https://www.theparliamentmagazine.eu/news/article/could-icelands-become-europes-ai-powerhouse",
+      "site_name": "The Parliament Magazine",
+      "favicon": "https://www.theparliamentmagazine.eu/_img/_favicons/apple-touch-icon.png",
+      "description": "The EU wants to triple its data center capacity while keeping the industry on track for net zero. Iceland's renewable energy makes it an attractive location, but its limited capacity \u2014 and its status outside the bloc \u2014 complicate the equation."
+    },
+    {
       "title": "SandboxAQ releases Switch for shared AI-agent workspaces",
       "author": "Codeblix_Ltd",
       "url": "https://www.reddit.com/r/artificial/comments/1vz7jey/sandboxaq_releases_switch_for_shared_aiagent/",
@@ -57,15 +68,15 @@
       "description": "SandboxAQ announced Switch, a system that puts people and AI agents in shared rooms across Slack, Microsoft Teams, Discord, and other collaboration tools. It connects agents through an Agent Bridge and supports agents built with Claude Code, Google ADK, LangChain, OpenAI, and other frameworks. The useful part is the shared context. Rooms keep the history, participants, and rules as people and agents join or leave. The public GitHub repository lists Switch Console 0.31.1 as its latest release, dated August 26. One detail matters for SaaS teams. The repository license combines Apache 2.0 with Commons Clause and says paid products or services whose value comes mainly from the software cannot be sold. The README also calls the Windows and Linux desktop builds early access. Sources: PR Newswire: https://www.prnewswire.com/news-releases/sandboxaq-open-sources-switch-bring-any-ai-agent-into-any-team-chat-302860604.html GitHub: https://github.com/sandbox-quantum/switch License: https://github.com/sandbox-quantum/switch/blob/main/LICENSE"
     },
     {
-      "title": "Could Iceland become Europe's AI powerhouse?",
-      "author": "SM_stories",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz9g0a/could_iceland_become_europes_ai_powerhouse/",
-      "published": 1787777547.0,
-      "thumbnail": "https://external-preview.redd.it/izL4qyVd_aBFvx4gF2qgb7fTEWK19_TQv18Bke2fCn0.jpeg?width=640&crop=smart&auto=webp&s=a206a00dc939c3c5c2e1971e38a30ef9b16a1ccb",
-      "external_url": "https://www.theparliamentmagazine.eu/news/article/could-icelands-become-europes-ai-powerhouse",
-      "site_name": "The Parliament Magazine",
-      "favicon": "https://www.theparliamentmagazine.eu/_img/_favicons/apple-touch-icon.png",
-      "description": "The EU wants to triple its data center capacity while keeping the industry on track for net zero. Iceland's renewable energy makes it an attractive location, but its limited capacity \u2014 and its status outside the bloc \u2014 complicate the equation."
+      "title": "Do you think any lab has secretly cracked continual learning?",
+      "author": "AkindaGood_programer",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzf2bt/do_you_think_any_lab_has_secretly_cracked/",
+      "published": 1787791292.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "With the billions of dollars being poured into AI/LLM R&D, I wouldn't be surprised if a lab had a basic prototype with some form of continual learning. Obviously, people think SSI inc could've cracked it, but we have no clue. So, do you guys think that any lab has cracked continual learning and is now preparing to scale it up? If not, when do you think that we will discover the secret sauce for continual learning?"
     },
     {
       "title": "Building a persistent world where your agent joins a society and does real research.",
@@ -90,17 +101,6 @@
       "description": "I've spent years working in AI consulting, and one thing that always bugged me is how few people, even inside the field, can trace the full chain end to end. Where does the money actually go? Why is compute the bottleneck? How does a pile of data turn into a model, and a model into revenue? So I built a game about it. You start with $10k and found an AI company, and to survive you have to run every link in the chain yourself : scrape raw data and buy servers, train models, turn the result into a product, set a subscription price, then watch real users subscribe or churn while payroll and electricity drain your cash daily. The revenue funds more compute and research, and round you go. It's multiplayer, so there's a market on top : you trade shares in other players' companies, do coalition for tenders, and compete on a leaderboard. Persistent and real-time, one real day is one game day. Free, runs in the browser, English and French. I'm the dev. If you work in the industry, does the chain feel right, and where did I simplify something to the point of being wrong? https://lordoftokens.com"
     },
     {
-      "title": "Thank you for participating in the Stealth Ox Alpha testing period.",
-      "author": "paulrich_nb",
-      "url": "https://www.reddit.com/r/artificial/comments/1vz32jh/thank_you_for_participating_in_the_stealth_ox/",
-      "published": 1787764025.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Thank you for participating in the Stealth Ox Alpha testing period. This model was ZAI's GLM-5.3 Flash. Use it now: https://openrouter.ai/z-ai/glm-5.3-flash"
-    },
-    {
       "title": "How often have your RAG issues actually turned out to be document parsing issues?",
       "author": "-R-I-k-",
       "url": "https://www.reddit.com/r/artificial/comments/1vz85cg/how_often_have_your_rag_issues_actually_turned/",
@@ -112,5 +112,5 @@
       "description": "I\u2019ve been thinking about this a lot lately. When a RAG system gives bad answers, the first instinct is usually to look at chunking, embeddings, retrieval, or the model. But sometimes the problem started earlier. If the parser already destroyed the table structure, heading hierarchy, or reading order, retrieval is working with bad input from the beginning. Curious how often others have run into this. Was the real bottleneck actually the ingestion/parsing layer?"
     }
   ],
-  "fetched_at": "2026-08-26T22:23:59.038997+00:00"
+  "fetched_at": "2026-08-27T03:27:30.165046+00:00"
 }
