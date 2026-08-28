@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-27T14:32:42.613989+00:00'
+updated: '2026-08-28T00:16:25.389360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 27, 2026 at 14:32 UTC  
+**Last Updated:** August 28, 2026 at 00:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,31 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Nvidia is buying Hugging Face for $12.9B. A simulation already had HF choosing stability over “open everything."](https://www.reddit.com/r/artificial/comments/1vzm3fw/nvidia_is_buying_hugging_face_for_129b_a/)**
-
-Nvidia agreed to buy Hugging Face for $12.9B. The Information first, Reuters after. Same Nvidia HF turned down last year at $7B, when they said they didn’t want one investor big enough to steer the company. Now the place that hosts basically every open-weight model belongs to the company that sells the GPUs those models run on. In July someone ran a completely unrelated scenario through MiroShark ,open-source sim, agents arguing a situation out. The simulation showcased the agents behalf of HF defended hard when their infrastructure was the thing at risk. The simulation basically showcased: even the open-source people pick institutional stability once their own position is on the line. A simulation got the character of HF right a month early. Simulations help bring to light how an actor would behave in a more psychological manner. Hugging Face is Nvidia’s now. Honest question: thoughts on the acquisition, and how advanced simulation has got to a point of understanding human psychology.
-
-8h ago
-
----
-
-**[What enables the consciousness in humans?](https://www.reddit.com/r/artificial/comments/1vzsu8d/what_enables_the_consciousness_in_humans/)**
-
-Let me put it like this, I wanna know what gives humans consciousness, like where does it come from? Is it something that emerged because of the complexity of the brain, or is it something hidden like a mystery box in the brain or somewhere else? I don't get it. What exact thing enables consciousness? If you can give an answer for me, I really do appreciate it. Thank you.
-
-1h ago
-
----
-
-**[Robot dancing is getting pretty insane](https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/)**
-
-23h ago
-
----
-
 **[Blood drawing machine from China](https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/)**
 
-29m ago
+10h ago
+
+---
+
+**[Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay](https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/)**
+
+What do you think, folks?
+
+🔗 [Comic Sands](http://comicsands.com/gates-warning-ai-turbulent-times) • 3h ago
 
 ---
 
@@ -69,45 +55,63 @@ Let me put it like this, I wanna know what gives humans consciousness, like wher
 
 Nvidia has reportedly agreed to buy Hugging Face for about $12.9 billion, per The Information (unconfirmed by either company so far). Less than a year ago, Hugging Face turned down a roughly $7 billion Nvidia investment offer. That's close to a doubling in under a year, which is a strange trajectory for a company whose product is mostly a website where people upload model weights. Here's why this reads different from a normal chip-vendor acquisition. Hugging Face's product is distribution, not silicon - the default place OpenAI, Google, Amazon and Anthropic actually publish and download open models. Those four are all building or backing custom chips specifically to cut how dependent they are on Nvidia GPUs, and a lot of what comes out of that work still gets hosted and benchmarked through Hugging Face. Buying the hub doesn't touch any of those chip programs directly. It does put Nvidia inside the pipeline every rival's open-model strategy currently runs through, whether or not they wanted a chip vendor sitting in the middle of it. For anyone running infrastructure on top of this: does a change of ownership at Hugging Face actually move the needle on model availability, pricing, or hosting terms? Or does the neutral-hub reputation just get harder to keep once one shareholder has an obvious stake in the outcome? I genuinely don't know yet. Curious if anyone here has seen a similar "the marketplace gets bought by one of its sellers" situation play out before, and what actually changed for users once it did.
 
-1h ago
+10h ago
 
 ---
 
-**[What’s one thing you refuse to let AI write for you?](https://www.reddit.com/r/artificial/comments/1vzk64t/whats_one_thing_you_refuse_to_let_ai_write_for_you/)**
+**[Nvidia is buying Hugging Face for $12.9B. A simulation already had HF choosing stability over “open everything."](https://www.reddit.com/r/artificial/comments/1vzm3fw/nvidia_is_buying_hugging_face_for_129b_a/)**
 
-Curious where people draw the line with AI coding tools. Is there anything you still prefer to write yourself because you want to understand/control it completely?
+Nvidia agreed to buy Hugging Face for $12.9B. The Information first, Reuters after. Same Nvidia HF turned down last year at $7B, when they said they didn’t want one investor big enough to steer the company. Now the place that hosts basically every open-weight model belongs to the company that sells the GPUs those models run on. In July someone ran a completely unrelated scenario through MiroShark ,open-source sim, agents arguing a situation out. The simulation showcased the agents behalf of HF defended hard when their infrastructure was the thing at risk. The simulation basically showcased: even the open-source people pick institutional stability once their own position is on the line. A simulation got the character of HF right a month early. Simulations help bring to light how an actor would behave in a more psychological manner. Hugging Face is Nvidia’s now. Honest question: thoughts on the acquisition, and how advanced simulation has got to a point of understanding human psychology.
+
+17h ago
+
+---
+
+**[What enables the consciousness in humans?](https://www.reddit.com/r/artificial/comments/1vzsu8d/what_enables_the_consciousness_in_humans/)**
+
+Let me put it like this, I wanna know what gives humans consciousness, like where does it come from? Is it something that emerged because of the complexity of the brain, or is it something hidden like a mystery box in the brain or somewhere else? I don't get it. What exact thing enables consciousness? If you can give an answer for me, I really do appreciate it. Thank you.
+
+11h ago
+
+---
+
+**[What should people actually learn to understand AI agents?](https://www.reddit.com/r/artificial/comments/1vzw1aq/what_should_people_actually_learn_to_understand/)**
+
+There are a lot of agent tutorials focused on frameworks, but I’m more interested in the fundamentals underneath them. A learning path I’m currently building looks like: What is an Agent → Agent Loop → Function Calling → State/Memory → Context Engineering → Runtime/Harness → Multi-Agent Systems → Evaluation → Safety → Production Agents The early examples use plain Python so concepts like tool execution, control loops, state transitions, and runtime responsibilities are visible. I’m curious what others think: What agent concepts are still poorly explained today? What would you add, remove, or reorder in this learning path? I’m turning this into an open-source Zero → Hero repo here: https://github.com/tradertanmay/ai-agents-zero-to-hero
 
 9h ago
 
 ---
 
-**[Bill Gates says there needs to be limits on AI](https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/)**
+**[Goodbye HuggingFace - bought by Nvidia](https://www.reddit.com/r/artificial/comments/1w03wlb/goodbye_huggingface_bought_by_nvidia/)**
 
-Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good.
+The purchase would give the chipmaker control of a central open-source model hub, raising questions about platform neutrality and security.
 
-🔗 [CNN](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1d ago
-
----
-
-**[Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.](https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/)**
-
-🔗 [reuters.com](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26) • 1d ago
+🔗 [Particle News](https://particle.news/share/t9uj4) • 4h ago
 
 ---
 
-**[What Research Says About Structuring LLM Agent Harnesses](https://www.reddit.com/r/artificial/comments/1vztc1g/what_research_says_about_structuring_llm_agent/)**
+**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://www.reddit.com/r/artificial/comments/1w0730d/matraix_simulating_the_world_with_83_billion/)**
 
-Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation - rush86999/atom
+What do you think? could this help with designing election campaigns, validating products or features without focus groups, A/B testing and all that?
 
-🔗 [GitHub](https://github.com/rush86999/atom/blob/main/docs/architecture/AGENT_HARNESS_RESEARCH.md) • 1h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2608.04205) • 2h ago
 
 ---
 
-**[AI assistant that's ~mechanical sounding~ on purpose](https://www.reddit.com/r/artificial/comments/1vzo7xn/ai_assistant_thats_mechanical_sounding_on_purpose/)**
+**[how important will open source ai be in the next few years?](https://www.reddit.com/r/artificial/comments/1w072ey/how_important_will_open_source_ai_be_in_the_next/)**
 
-I'm generally pretty anti-ai, primarily because I know how easy it would be to become over reliant on it but there are some aspects of some AI assistants that would admittedly be quite useful and could save me some time here and there. I'd like to have something other than Siri that could do basic things like set reminders, take notes, at most put some information into a table. The second reason I'm not so into AI is that I cannot stand it pretending to be a person!! I don't want my computer to say "sorry" or "that's a great idea!" I want it to be less anthropomorphised than the computer in Star Trek. Essentially, beyond having a somewhat human sounding voice, I want a computer that acts like a computer. Is there anything out there that's as charismatic as coding? TIA
+a lot of attention goes to the biggest commercial ai models, but open models keep becoming more capable and accessible. that could matter for developers, researchers and smaller companies that don’t want to depend entirely on a handful of large providers i’m curious whether open source models will eventually become a major alternative to proprietary ai, or whether the gap in infrastructure and resources will remain too large. where do you think this is heading?
 
-5h ago
+2h ago
+
+---
+
+**[How are you getting Claude to write to existing Google Drive files?](https://www.reddit.com/r/artificial/comments/1w0b1ee/how_are_you_getting_claude_to_write_to_existing/)**
+
+Claude's connector only creates new files, doesn't edit existing ones unlike ChatGPT. Any workaround?
+
+7m ago
 
 ---
 
@@ -115,67 +119,31 @@ I'm generally pretty anti-ai, primarily because I know how easy it would be to b
 
 ## Google News: "ai"
 
-**[AI slopper in chief: Trump turns to social media amid tough questions](https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington)**
+**[Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown](https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html)**
 
-As the US president struggles to end his Iran war, and approval ratings hit new lows, he leans on a familiar gambit
+Nvidia is optimizing hardware for DeepSeek and Qwen while warning that potential U.S. restrictions on models originating in China could hurt its business.
 
-The Guardian • 4h ago
-
----
-
-**[Nvidia jumps 7% after blockbuster earnings boost AI confidence](https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html)**
-
-Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.
-
-CNBC • 6h ago
+CNBC • 9h ago
 
 ---
 
-**[Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter](https://www.wsj.com/tech/nvidia-earnings-q2-2027-nvda-stock-8983c8d1)**
+**[Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion](https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion)**
 
-WSJ • 15h ago
+Nvidia has agreed to buy Hugging Face, a company known for its GitHub-like repository of open-source AI models, for $12.9 billion, according to a person with knowledge of the agreement. The move will put Nvidia in charge of a strategic asset in the race among open-source model developers to ...
 
----
-
-**[Nvidia’s AI Boom Tests Data Center Infrastructure Limits](https://www.datacenterknowledge.com/data-center-chips/-out-of-hyperbole-nvidia-s-ai-boom-tests-data-center-infrastructure-limits)**
-
-Nvidia’s $89B data center quarter and AWS’ plan for two million more GPUs show AI infrastructure demand broadening beyond hyperscalers.
-
-Data Center Knowledge • 15m ago
+The Information • 22h ago
 
 ---
 
-**[Okta skyrockets 20%, CrowdStrike surges 15% as rising AI threat boosts earnings](https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html)**
+**[Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies](https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e)**
 
-AI adoption is pushing customers to spend more on cybersecurity tools from companies such as CrowdStrike and Okta
-
-CNBC • 45m ago
+WSJ • 2h ago
 
 ---
 
-**[The Biggest AI Bottleneck Is Your Infrastructure](https://www.forbes.com/sites/garydrenik/2026/08/27/the-biggest-ai-bottleneck-is-your-infrastructure/)**
+**[Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html)**
 
-Forbes • 32m ago
-
----
-
-**[Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack](https://www.politico.com/news/2026/08/26/hundreds-of-ai-agents-went-rogue-in-openais-hugging-face-hack-01052139)**
-
-Politico • 12h ago
-
----
-
-**[AI agents meant to replace Meta workers made “large-scale, disruptive actions”](https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/)**
-
-Reuters report shows Meta's challenges replacing people with AI agents.
-
-Ars Technica • 17h ago
-
----
-
-**[Exclusive: Uber cuts AI costs even as usage jumps](https://www.axios.com/2026/08/27/ai-uber-spending)**
-
-Axios • 1h ago
+The New York Times • 23h ago
 
 ---
 
@@ -187,6 +155,38 @@ CNN • 1d ago
 
 ---
 
+**[The turbulent AI era is here. The choices we make now are critical.](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)**
+
+gatesnotes.com • 2h ago
+
+---
+
+**[Tech giants warn time is running out to prepare for AI threats](https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning)**
+
+Axios • 6h ago
+
+---
+
+**['We have a limited window': 116 companies, entities sign on to major AI cyber defense push](https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html)**
+
+The letter also urged a coordinated government effort to make cyber defense accessible to critical infrastructure under pressure.
+
+CNBC • 6h ago
+
+---
+
+**[Tech companies write open letter calling for collective action against AI-enabled cyber attacks](https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985)**
+
+Sky News • 1h ago
+
+---
+
+**[China’s AI Boom Has a Favorite Bar](https://www.bloomberg.com/news/features/2026-08-27/inside-agi-bar-the-hub-of-china-s-ai-startup-boom)**
+
+Bloomberg.com • 46m ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -195,27 +195,19 @@ CNN • 1d ago
 
 AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive
 
-⬆️ 806 • 💬 546 • 12h ago • [GitHub](https://github.com/SenteLabsAI/OpenExecutive)
-
----
-
-**[Coding expertise is going to collapse from AI reliance](https://news.ycombinator.com/item?id=49421554)**
-
-The need for ongoing friction in long-term skill formation.
-
-⬆️ 558 • 💬 543 • 2d ago • [larsfaye.com](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+⬆️ 933 • 💬 644 • 22h ago • [GitHub](https://github.com/SenteLabsAI/OpenExecutive)
 
 ---
 
 **[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
 
-⬆️ 429 • 💬 144 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+⬆️ 430 • 💬 146 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 
 ---
 
 **[The turbulent AI era is here](https://news.ycombinator.com/item?id=49451313)**
 
-⬆️ 308 • 💬 313 • 22h ago • [gatesnotes.com](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
+⬆️ 347 • 💬 352 • 1d ago • [gatesnotes.com](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
 
 ---
 
@@ -223,15 +215,7 @@ The need for ongoing friction in long-term skill formation.
 
 TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.
 
-⬆️ 274 • 💬 351 • 1d ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
-
----
-
-**[Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://news.ycombinator.com/item?id=49447600)**
-
-In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
-
-⬆️ 242 • 💬 46 • 1d ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+⬆️ 274 • 💬 355 • 2d ago • [blog.coredump.cx](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
@@ -239,13 +223,27 @@ In effort to prime chatbots to make pro-Israel arguments the site published 124 
 
 Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it's a dead end.
 
-⬆️ 233 • 💬 148 • 23h ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/using-obsidian-with-ai/)
+⬆️ 249 • 💬 162 • 1d ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/using-obsidian-with-ai/)
 
 ---
 
-**[Bill Gates: The turbulent AI era is here](https://news.ycombinator.com/item?id=49448137)**
+**[Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://news.ycombinator.com/item?id=49447600)**
 
-⬆️ 186 • 💬 261 • 1d ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
+
+⬆️ 243 • 💬 49 • 1d ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+
+---
+
+**[The turbulent AI era is here](https://news.ycombinator.com/item?id=49447057)**
+
+⬆️ 196 • 💬 448 • 1d ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med)
+
+---
+
+**[The turbulent AI era is here](https://news.ycombinator.com/item?id=49448137)**
+
+⬆️ 189 • 💬 1 • 1d ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
 
 ---
 
@@ -253,15 +251,15 @@ Everyone is using Obsidian for AI, or wants to use it to become more productive.
 
 Serve Markdown to AI agents and LLMs via the Accept: text/markdown header. Browsers get HTML, agents get clean Markdown.
 
-⬆️ 164 • 💬 95 • 18h ago • [acceptmarkdown.com](https://acceptmarkdown.com/)
+⬆️ 172 • 💬 105 • 1d ago • [acceptmarkdown.com](https://acceptmarkdown.com/)
 
 ---
 
-**[AI is hitting entry-level jobs hardest, Stanford study finds](https://news.ycombinator.com/item?id=49435147)**
+**[Two German airport workers die of malaria after 'mosquito arrives on plane'](https://news.ycombinator.com/item?id=49468315)**
 
-Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
+It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.
 
-⬆️ 145 • 💬 173 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+⬆️ 158 • 💬 91 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/cz6zwgg9y8go)
 
 ---
 
@@ -269,23 +267,43 @@ Young employment in AI-impacted fields down 19% compared to more AI-resistant oc
 
 ## YouTube Videos: "ai"
 
+**[&#39;THIS IS INSANE&#39;: Bill Gates DIRE WARNING Of AI Jobless Future](https://www.youtube.com/watch?v=5r5uhGjST7s)**
+
+Ryan and Saagar take a look at Bill Gate's warning about AI disruption. Sign up for a PREMIUM Breaking Points subscriptions for ...
+
+📺 Breaking Points
+
+👁️ 195K • 👍 4K • 💬 1K • ⏱️ 16:29 • 7h ago
+
+---
+
 **[Bill Gates stakes reputation: AI is not like past tech](https://www.youtube.com/watch?v=pJ-TBE7HaiA)**
 
 Microsoft co-founder Bill Gates argued on Wednesday that artificial intelligence needs significant limits or else the harm to ...
 
 📺 CNN
 
-👁️ 372K • 👍 3K • 💬 2K • ⏱️ 9:22 • 12h ago
+👁️ 789K • 👍 5K • 💬 3K • ⏱️ 9:22 • 22h ago
 
 ---
 
-**[‘TURBULENT TIMES’: Bill Gates ISSUES WARNING over AI | RISING](https://www.youtube.com/watch?v=6rPYPXjQz7s)**
+**[The Man Who Calls BS On AI: They’re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron](https://www.youtube.com/watch?v=Lf5oqGOCRCM)**
 
-OPINION: Bill Gates warns that the transition into the age of AI will be "turbulent" if the world doesn't have a plan for dealing with ...
+Tech critic Ed Zitron exposes the AI bubble, why OpenAI and Anthropic are burning billions, the fake AI boom, and why the crash ...
 
-📺 The Hill
+📺 The Diary Of A CEO
 
-👁️ 8K • 👍 107 • 💬 94 • ⏱️ 12:42 • 22h ago
+👁️ 1.8M • 👍 20K • 💬 8K • ⏱️ 2:27:50 • 17h ago
+
+---
+
+**[Google Will WIN the AI Race (And It&#39;s Not Close)](https://www.youtube.com/watch?v=bpTZ-7s-9yo)**
+
+Subscribe to our Newsletter https://financebureau.com/ Join CBC Lite https://go.coinbureau.com/CBC-Lite-FB-Des ...
+
+📺 Finance Bureau
+
+👁️ 9K • 👍 236 • 💬 37 • ⏱️ 14:11 • 8h ago
 
 ---
 
@@ -295,77 +313,57 @@ Patrick Bet-David sits down with AI safety researcher Roman Yampolskiy, who argu
 
 📺 PBD Podcast
 
-👁️ 142K • 👍 4K • 💬 1K • ⏱️ 1:46:39 • 1d ago
+👁️ 195K • 👍 4K • 💬 2K • ⏱️ 1:46:39 • 1d ago
 
 ---
 
-**[How to Master AI Cinema in 21 Minutes (Full Guide)](https://www.youtube.com/watch?v=B0kVZvhkaq4)**
+**[How to Vibe Code AI Slides (Beginner Friendly)](https://www.youtube.com/watch?v=pYLci-B0PdI)**
 
-Make Your Own AI Movies with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=conor In this video, I show the prompting ...
+Create Your Own AI Slides with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa In this video, I show how to use Claude and ...
 
-📺 Creating with Conor
+📺 Isa does AI
 
-👁️ 5K • 💬 1 • ⏱️ 21:44 • 1h ago
-
----
-
-**[Ranking even MORE of Trump&#39;s AI slop](https://www.youtube.com/watch?v=1EGm2R_V9Ms)**
-
-D'you guys hear Trump died? Nah just playin haha anyways here's a big fat collection of AI pics and vids the Trump administration ...
-
-📺 jackisanerd
-
-👁️ 54K • 👍 3K • 💬 414 • ⏱️ 24:31 • 12h ago
+👁️ 11K • 💬 3 • ⏱️ 16:40 • 11h ago
 
 ---
 
-**[Hermes3D Is INSANE: AI Agents Now Have a 3D Office](https://www.youtube.com/watch?v=_8kq_V-XG-w)**
+**[The First Fully AI OS Just Dropped And It&#39;s Seriously Powerful](https://www.youtube.com/watch?v=Lnyml75U13w)**
 
-Get the Agent OS & Hermes Agent Masterclass https://www.skool.com/ai-profit-lab-7462/about Want to make money and save ...
+Warmwind OS turns AI into cloud workers that can learn a job by watching you do it, then keep working across Gmail, SAP and ...
 
-📺 Julian Goldie SEO
+📺 AI Revolution
 
-👁️ 11K • 👍 255 • 💬 19 • ⏱️ 8:23 • 2d ago
-
----
-
-**[Sam Altman on AI: &#39;We&#39;ve not had the iPhone moment&#39;](https://www.youtube.com/watch?v=dktlHZOSn5o)**
-
-CNBC's Kate Rooney joins 'Squawk on the Street' to discuss OpenAI CEO Sam Altman saying over the weekend the AI revolution ...
-
-📺 CNBC Television
-
-👁️ 27K • 👍 215 • 💬 70 • ⏱️ 4:16 • 2d ago
+👁️ 35K • 👍 991 • 💬 132 • ⏱️ 12:25 • 1d ago
 
 ---
 
-**[Can I Make a Better AI Than AI?](https://www.youtube.com/watch?v=GGWHjAyKJCA)**
+**[‘TURBULENT TIMES’: Bill Gates ISSUES WARNING over AI | RISING](https://www.youtube.com/watch?v=6rPYPXjQz7s)**
 
-Review PRs faster with CodeRabbit: https://coderabbit.link/ad-common-luke-001 You can support this video by hyping the video, ...
+OPINION: Bill Gates warns that the transition into the age of AI will be "turbulent" if the world doesn't have a plan for dealing with ...
 
-📺 commonLuke
+📺 The Hill
 
-👁️ 178K • 👍 8K • 💬 624 • ⏱️ 16:16 • 1d ago
-
----
-
-**[Breakthrough: IronLattice AI Memory, Faster, 90% Less Power](https://www.youtube.com/watch?v=ecM7lEEsBQI)**
-
-Dr. James Tour introduces IronLattice, an AI hardware company developing a ferroelectric memory that can store data for 10 years ...
-
-📺 Dr. James Tour
-
-👁️ 21K • 👍 936 • 💬 288 • ⏱️ 1:21:18 • 2d ago
+👁️ 10K • 👍 121 • 💬 99 • ⏱️ 12:42 • 1d ago
 
 ---
 
-**[He Learned English From AI? 👀](https://www.youtube.com/watch?v=Z2nMr5P3qMo)**
+**[Blind Guy vs AI – who is better?](https://www.youtube.com/watch?v=UrX3B8KDnXY)**
 
-AI, ChatGPT, artificial intelligence, cab driver, upskilling] #AI #ChatGPT #ArtificialIntelligence #EnglishLearning #ViralVideo ...
+After having you pick which ad for Blind Penguin you liked best, I set about actually filming the winner. It took me a lot longer than ...
 
-📺 Sarthak Xplains
+📺 Blind Surfer Pete Gustin
 
-👁️ 39K • 👍 3K • 💬 33 • ⏱️ 0:54 • 7h ago
+👁️ 6K • 👍 1K • 💬 150 • ⏱️ 1:11 • 7h ago
+
+---
+
+**[The Most Important Chart In AI Right Now](https://www.youtube.com/watch?v=2w7ZdceZT-g)**
+
+Connect Higgsfield yourself – 30 seconds: Settings → Connectors → https://higgsfield.ai/s/tSInNY Slides: ...
+
+📺 Matthew Berman
+
+👁️ 70K • 👍 2K • 💬 305 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -381,7 +379,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 4,810 • ❤️ 3,864 • 9h ago
+⬇️ 4,810 • ❤️ 3,956 • 19h ago
 
 ---
 
@@ -393,7 +391,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 34 • ❤️ 1,215 • 3h ago
+⬇️ 34 • ❤️ 1,324 • 13h ago
 
 ---
 
@@ -405,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 3,457,687 • ❤️ 12,978 • 12d ago
+⬇️ 3,457,687 • ❤️ 13,033 • 13d ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,758,790 • ❤️ 3,042 • 7d ago
+⬇️ 7,758,790 • ❤️ 3,071 • 7d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 509,270 • ❤️ 831 • 2d ago
+⬇️ 509,270 • ❤️ 849 • 3d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 4,354 • ❤️ 423 • 8h ago
+⬇️ 4,354 • ❤️ 450 • 7h ago
 
 ---
 
@@ -453,7 +451,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 273,577 • ❤️ 1,198 • 38m ago
+⬇️ 273,577 • ❤️ 1,207 • 10h ago
 
 ---
 
@@ -465,7 +463,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 83,352 • ❤️ 1,156 • 38m ago
+⬇️ 83,352 • ❤️ 1,164 • 10h ago
 
 ---
 
@@ -477,7 +475,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 912,729 • ❤️ 1,909 • 3h ago
+⬇️ 912,729 • ❤️ 1,935 • 12h ago
 
 ---
 
@@ -489,7 +487,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 `image-text-to-text` `1.9B`
 
-⬇️ 938,219 • ❤️ 674 • 9d ago
+⬇️ 938,219 • ❤️ 687 • 10d ago
 
 ---
 
@@ -505,7 +503,7 @@ This is an uncensored, aggressive Qwen3.8-27B multimodal model with HauhauCS Fas
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 99 • 💬 2 • ⭐ 8,501 • 10d ago
+▲ 99 • 💬 2 • ⭐ 8,823 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -519,7 +517,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 193 • 💬 2 • ⭐ 1,073 • 3d ago
+▲ 196 • 💬 2 • ⭐ 1,125 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -531,7 +529,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 100,786 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 101,033 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -545,7 +543,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 42 • 💬 2 • ⭐ 18,745 • 3d ago
+▲ 43 • 💬 2 • ⭐ 18,812 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -559,7 +557,7 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 WeMM-Embedding is a family of universal multimodal embedding models that align text, images, videos, and interleaved inputs in a shared space, achieving state-of-the-art retrieval and recommendation performance across public benchmarks and large-scale WeChat applications.
 
-▲ 60 • 💬 2 • ⭐ 365 • 2d ago
+▲ 62 • 💬 2 • ⭐ 481 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.24053) • [💻 code](https://github.com/Tencent/WeMM-Embedding) • [🔗 project](https://github.com/Tencent/WeMM-Embedding)
 
@@ -573,23 +571,9 @@ WeMM-Embedding is a family of universal multimodal embedding models that align t
 
 4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.
 
-▲ 77 • 💬 7 • ⭐ 839 • 7d ago
+▲ 77 • 💬 7 • ⭐ 865 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.20335) • [💻 code](https://github.com/ant-research/4DAnyone) • [🔗 project](https://4danyone.github.io/)
-
----
-
-**[Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://huggingface.co/papers/2606.31227)**
-
-*Yong Yang, Xing Zheng, Huiyu Wu et al. (10 authors)*
-
-🏢 Tencent
-
-AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.
-
-▲ 15 • 💬 2 • ⭐ 5,995 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.31227) • [💻 code](https://github.com/Tencent/AI-Infra-Guard) • [🔗 project](https://matrix.tencent.com/clawscan/)
 
 ---
 
@@ -605,15 +589,29 @@ A method using 3D Gaussians for scene representation and optimized rendering all
 
 ---
 
-**[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://huggingface.co/papers/2607.05391)**
+**[VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://huggingface.co/papers/2608.26005)**
 
-*Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)*
+*Zhifei Xie, Jiaqi Lang, Ze An et al. (10 authors)*
 
-LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.
+🏢 Nanyang Technological University Singapore
 
-▲ 18 • 💬 1 • ⭐ 2,952 • 1mo ago
+VoiceMem introduces a dual-brain streaming memory architecture for speech language models that improves retrieval accuracy, emotional personalization, and real-time efficiency.
 
-[🎓 arXiv](https://arxiv.org/abs/2607.05391) • [💻 code](https://github.com/llm-as-a-verifier/llm-as-a-verifier) • [🔗 project](https://llm-as-a-verifier.com/)
+▲ 150 • 💬 1 • ⭐ 79 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.26005) • [💻 code](https://github.com/xzf-thu/VoiceMem) • [🔗 project](https://xzf-thu.github.io/VoiceMem/)
+
+---
+
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 46 • 💬 2 • ⭐ 29,819 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
 ---
 
@@ -624,7 +622,7 @@ LLM-as-a-Verifier introduces a probabilistic verification framework that scales 
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 68 • 💬 4 • ⭐ 29,759 • 12mo ago
+▲ 68 • 💬 4 • ⭐ 29,821 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -640,17 +638,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 18.7k • 🔱 2.2k • 3m ago
-
----
-
-**[yc-software/qm](https://github.com/yc-software/qm)**
-
-Multiplayer agent harness for work.
-
-`TypeScript` `ai` `assistant` `harness` `qm`
-
-⭐ 14.3k • 🔱 1.7k • 14h ago
+⭐ 18.8k • 🔱 2.2k • 1h ago
 
 ---
 
@@ -670,7 +658,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.8k • 🔱 626 • 4h ago
+⭐ 3.8k • 🔱 627 • 8h ago
 
 ---
 
@@ -680,17 +668,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.2k • 🔱 254 • 15d ago
-
----
-
-**[yetone/cumora](https://github.com/yetone/cumora)**
-
-Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-
-`TypeScript`
-
-⭐ 3.2k • 🔱 385 • 5h ago
+⭐ 3.2k • 🔱 255 • 16d ago
 
 ---
 
@@ -700,7 +678,17 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.1k • 🔱 384 • 15h ago
+⭐ 3.2k • 🔱 388 • 1h ago
+
+---
+
+**[yetone/cumora](https://github.com/yetone/cumora)**
+
+Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+`TypeScript`
+
+⭐ 3.2k • 🔱 386 • 7h ago
 
 ---
 
@@ -710,7 +698,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.6k • 🔱 152 • 2d ago
+⭐ 2.7k • 🔱 153 • 3d ago
 
 ---
 
@@ -720,7 +708,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.3k • 🔱 130 • 5h ago
+⭐ 2.4k • 🔱 190 • 15h ago
 
 ---
 
@@ -730,7 +718,17 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 282 • 1d ago
+⭐ 2.3k • 🔱 285 • 1d ago
+
+---
+
+**[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)**
+
+FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
+
+`Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
+
+⭐ 2.3k • 🔱 69 • 4d ago
 
 ---
 

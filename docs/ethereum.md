@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-27T14:32:42.628932+00:00'
+updated: '2026-08-28T00:16:25.403872+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 27, 2026 at 14:32 UTC  
+**Last Updated:** August 28, 2026 at 00:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,507.63
+### $2,508.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** -0.3%  
-**30d:** +31.2%  
-**90d:** +24.0%  
-**1y:** -44.4%  
+**24h:** +0.4%  
+**7d:** +3.5%  
+**30d:** +30.7%  
+**90d:** +25.0%  
+**1y:** -42.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $302.48B
+**Market Cap:** $302.76B
 Rank #2
 
 **Circulating Supply:** 120,681,247 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.3%
 
 **All-Time Low:** $0.43
-+579025.1%
++579329.9%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
 
-2d ago
+3d ago
 
 ---
 
@@ -116,7 +116,7 @@ A malicious dApp with WebHID access could race an APDU during your transaction r
 
 Here's what you need to know:
 
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 3d ago
+🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 4d ago
 
 ---
 
@@ -148,7 +148,7 @@ Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got h
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 5d ago
+🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 6d ago
 
 ---
 
@@ -160,7 +160,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin
 
-Decrypt • 18h ago
+Decrypt • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 18h ago
 
 If there's one cryptocurrency with a chance of outpacing Bitcoin and Ethereum over the next five years, it's Solana.
 
-The Motley Fool • 2d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -176,7 +176,21 @@ The Motley Fool • 2d ago
 
 Three changes hit 21Shares XRP, DOGE, and Ethereum ETFs. Staking names, FTSE pricing, and new fees explained.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
+
+CoinDesk • 9h ago
+
+---
+
+**[Tom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto’s ‘AI Downstream’ Story](https://www.tradingview.com/news/stocktwits:bf8e037ad094b:0-tom-lee-led-bitmine-reportedly-scoops-up-48-89-million-of-ethereum-during-crypto-s-ai-downstream-story/)**
+
+BitMine Immersion Technologies Inc (BMNR) continues to bet big on Ethereum (ETH), with the Tom Lee-led firm reportedly purchasing 20,000 ETH on Tuesday and moving closer to its goal of owning 5% of all Ether as demand for AI stocks cools within the market.On-chain tracker Lookonchain reported in a…
+
+TradingView • 1d ago
 
 ---
 
@@ -192,29 +206,15 @@ ethereum.org • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 12h ago
 
 ---
 
-**[GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)**
+**[Staking Ethereum could soon look entirely different under a new deposit proposal](https://cryptoslate.com/staking-ethereum-could-soon-look-entirely-different-under-a-new-deposit-proposal/)**
 
-GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization
+The Ethereum proposal opens staking to future key formats, but replacing validator signatures still requires separate protocol upgrades.
 
-The Hacker News • 4h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Hold Ground as Traders Brace for Dip](https://www.tradingview.com/news/benzinga:03092069b094b:0-bitcoin-ethereum-xrp-dogecoin-hold-ground-as-traders-brace-for-dip/)**
-
-Bitcoin is holding around $78,000 as some traders take profits following last week’s massive rally, while some anticipate a pullback before the next leg higher.Notable Statistics:Notable Developments:Trader Notes:CryptoAmsterdam remains bullish and is holding positions accumulated near the lows but…
-
-TradingView • 19h ago
-
----
-
-**[Ethereum developers propose first step to protect ETH staking from quantum attacks](https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks)**
-
-CoinDesk • 1d ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -224,11 +224,11 @@ CCN.com • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Presale Announces $10.85M As the Ethereum Price Prediction Calls $7,500](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500-1036494746)**
+**[Ethereum Whale: Accumulates 6000 ETH Since Aug 17](https://blockchain.news/flashnews/ethereum-whale-accumulates-6000-eth-since-aug-17)**
 
-DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil...
+Ethereum whale 0xa69Cbb8Cafb5609EF5B4DE3D26C2067ca4149eAd buys 6000 ETH from $1894, now holds $14.56M at $2427 average with $130K unrealized gain.
 
-markets.businessinsider.com • 21h ago
+blockchain.news • 1d ago
 
 ---
 
@@ -236,13 +236,93 @@ markets.businessinsider.com • 21h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee: The Next 5 Years of Crypto Will Be About Ethereum](https://www.youtube.com/watch?v=fAHBWqUmjcg)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 18K • 👍 568 • 💬 165 • ⏱️ 38:19 • 5h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE LOADING (Happening Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nBb7_B32Yj8)**
+
+BITCOIN SHORT SQUEEZE LOADING (Happening Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 100 • 💬 107 • ⏱️ 22:06 • 1h ago
+
+---
+
+**[🔥 The Ethereum Effect On Altcoins](https://www.youtube.com/watch?v=GbHnQ6QJcVw)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 100 • 💬 14 • ⏱️ 7:40 • 12h ago
+
+---
+
+**[Why Wall Street Still Can’t Fully Use Ethereum](https://www.youtube.com/watch?v=3xYjCDPZ5DU)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Wall Street wants to come ...
+
+📺 Bankless
+
+👁️ 10K • 👍 107 • 💬 3 • ⏱️ 53:13 • 13h ago
+
+---
+
 **[What Really Caused Ethereum&#39;s EPIC Rally](https://www.youtube.com/watch?v=xe8XiN5Zt4Y)**
 
 Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 719 • 💬 31 • ⏱️ 16:00 • 1d ago
+👁️ 30K • 👍 753 • 💬 33 • ⏱️ 16:00 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Ceiling Is $84,000 — Here&#39;s Why](https://www.youtube.com/watch?v=MQxowXa0ySE)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 723 • 👍 51 • 💬 5 • ⏱️ 12:50 • 2h ago
+
+---
+
+**[Why only Bitcoin and Ethereum matter now #shorts](https://www.youtube.com/watch?v=XvZd4mTKTBM)**
+
+I think institutional crypto is becoming a two asset market, Bitcoin and Ethereum. Once regulation opens the door to more ...
+
+📺 Kevin O'Leary
+
+👁️ 1K • 👍 36 • 💬 9 • ⏱️ 1:24 • 1h ago
+
+---
+
+**[POTENTIAL ETHEREUM BREAKOUT NOW! (ETH Update)](https://www.youtube.com/watch?v=1p5HRG8Jrg4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 4K • 👍 29 • 💬 4 • ⏱️ 5:07 • 14h ago
+
+---
+
+**[BMNR’s End Game: Own ETH, Earn ETH, Build Ethereum](https://www.youtube.com/watch?v=axBKoO71KD4)**
+
+In this week's update, we break down the cash raise, the balance sheet and look at a model to evaluate BMNR's future share price ...
+
+📺 The Value Thinker
+
+👁️ 14K • 👍 657 • 💬 77 • ⏱️ 23:13 • 11h ago
 
 ---
 
@@ -252,87 +332,7 @@ Bitunix 20% Deposit Bonus : https://themangoway.com/bitunix Mango Lifeline Indic
 
 📺 Mango Research
 
-👁️ 3K • 👍 135 • 💬 26 • ⏱️ 6:53 • 1d ago
-
----
-
-**[BMNR starting to RIP and ETH $2,500?](https://www.youtube.com/watch?v=Z8MNn5EeaS4)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 113 • 💬 41 • ⏱️ 13:24 • 16h ago
-
----
-
-**[Bitcoin Is PUMPING. Is Ethereum Next?](https://www.youtube.com/watch?v=9PjpPuLBtUw)**
-
-FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
-
-📺 Crypto Tips
-
-👁️ 10K • 👍 650 • 💬 53 • ⏱️ 12:24 • 2d ago
-
----
-
-**[Tom Lee: Ethereum Could &quot;Easily&quot; Top $10,000](https://www.youtube.com/watch?v=CYTdFhLbN94)**
-
-Tom Lee says Ethereum “could easily be over $10000” in the next 1-2 years.⁣ ⁣ Stablecoins already pushed ETH to $5000.
-
-📺 Bankless
-
-👁️ 15K • 👍 163 • 💬 19 • ⏱️ 0:43 • 2d ago
-
----
-
-**[are you ok? Crypto AMA (Bitcoin PulseChain HEX Ethereum)](https://www.youtube.com/watch?v=Vl4A1zwVuBk)**
-
-public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
-
-📺 Crypto Coffee
-
-👁️ 1K • 👍 136 • 💬 50 • ⏱️ 33:25 • 3h ago
-
----
-
-**[BITCOIN PRICE TARGETS EXPOSED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dWhRkK6ARfI)**
-
-BITCOIN PRICE TARGETS EXPOSED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 343 • 💬 36 • ⏱️ 18:15 • 12h ago
-
----
-
-**[ETH TO $3000 Next - Ethereum Price Prediction Today - What Happened Next](https://www.youtube.com/watch?v=A6j3WF76x2E)**
-
-earnwithshafiq #ethereum #ethereumpriceprediction #cryptotrading #cryptocurrency #cryptonews #crypto Could Ethereum (ETH) ...
-
-📺 Earn With Shafiq
-
-👁️ 197 • 👍 30 • 💬 20 • ⏱️ 5:10 • 7h ago
-
----
-
-**[Why Ethereum will start the 2026 altcoin season very soon #altcoins #ethereum #altcoinseason](https://www.youtube.com/watch?v=7TgKYHViT_g)**
-
-Bitcoin #BTC #cryptocurrency #altcoins #blockchain Get a 20% deposit bonus every week ...
-
-📺 CoinForge
-
-👁️ 517 • 👍 14 • 💬 3 • ⏱️ 1:09 • 14h ago
-
----
-
-**[Ethereum: The Shining Star Outperforming Crypto! #shorts](https://www.youtube.com/watch?v=xQfPqXPBqyo)**
-
-Ethereum continues to outperform, soaring past Bitcoin. Its growth and infrastructure development are far from priced in, with price ...
-
-📺 Crypto 101
-
-👁️ 25 • 👍 1 • ⏱️ 1:18 • 2h ago
+👁️ 3K • 👍 137 • 💬 26 • ⏱️ 6:53 • 2d ago
 
 ---
 

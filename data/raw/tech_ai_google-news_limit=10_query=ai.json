@@ -5,92 +5,42 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI slopper in chief: Trump turns to social media amid tough questions",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmV5cjNyOV94QTJZZnBWZkdxZzFUakJpNGpTelBJY2d5eTVUWFhCSUstbE1aU1U2QnY0UlNfaFFXVXoxb1g2LVROazBzbWw5RjBZcVdJeDF6WS1MRmVIckYwalZ4SDlBYVFuaER1bThHcEtuWlhDNnppSTJMMm5rb3psdXFIS2NLSFo1V1pWUHc?oc=5",
-      "pub_date": 1787824860.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/aug/27/trump-truth-social-ai-george-washington",
-      "image": "https://i.guim.co.uk/img/media/8712b21c8fcae581d8333baa1a4ce8a3f05782c0/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01644b6cfbee434e11e26a0b2d4500e4",
-      "description": "As the US president struggles to end his Iran war, and approval ratings hit new lows, he leans on a familiar gambit"
-    },
-    {
-      "headline": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "headline": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5",
-      "pub_date": 1787817873.0,
-      "article_url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108315152-1780405409943-gettyimages-2279396667-042a7029_nhdiseyi.jpeg?v=1780405436&w=1920&h=1080",
-      "description": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong."
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5",
+      "pub_date": 1787841085.0,
+      "article_url": "https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108168723-1751964494910-gettyimages-2198288472-widak-photoill250210_npye7.jpeg?v=1751965792&w=1920&h=1080",
+      "description": "Nvidia is optimizing hardware for DeepSeek and Qwen while warning that potential U.S. restrictions on models originating in China could hurt its business."
     },
     {
-      "headline": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter",
+      "headline": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
+      "pub_date": 1787793960.0,
+      "article_url": "https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion",
+      "image": "https://tii.imgix.net/production/articles/17723/ee855d19-00fd-4897-8069-51a139de33cf.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "Nvidia has agreed to buy Hugging Face, a company known for its GitHub-like repository of open-source AI models, for $12.9 billion, according to a person with knowledge of the agreement. The move will put Nvidia in charge of a strategic asset in the race among open-source model developers to ..."
+    },
+    {
+      "headline": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
-      "pub_date": 1787786820.0,
-      "article_url": "https://www.wsj.com/tech/nvidia-earnings-q2-2027-nvda-stock-8983c8d1",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5",
+      "pub_date": 1787867160.0,
+      "article_url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia\u2019s AI Boom Tests Data Center Infrastructure Limits",
-      "source": "Data Center Knowledge",
-      "source_url": "https://www.datacenterknowledge.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb1l5endxVXl5MGF3WGMyNzgtVjk2VjY1MS1GbUN4SUM0VnBXNVQxN2kzOXVNTjVnVnlsd1I5NUpsM3h1cDhGRXU1X1NCVFRZQ0ZGNGNXLXNKRTBlWkRNczQ0QUZfcHdCa1RqTWpvaHBnR2VLNnBEODM0NXNXdTJmVWV6Xzlhcmt3VFJ1b1h5RlNsd29MZnVkNmVZNFNqNVp5MDNldEhpQ3RValRhLUZjUDFNMjV2S25LSXhMTzFqMGo4dUczN2Y4?oc=5",
-      "pub_date": 1787840255.0,
-      "article_url": "https://www.datacenterknowledge.com/data-center-chips/-out-of-hyperbole-nvidia-s-ai-boom-tests-data-center-infrastructure-limits",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt44fdef0ff0c81dc2/6a9046cccb1aa6b08924c7cc/GettyImages-2275284146.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "description": "Nvidia\u2019s $89B data center quarter and AWS\u2019 plan for two million more GPUs show AI infrastructure demand broadening beyond hyperscalers."
-    },
-    {
-      "headline": "Okta skyrockets 20%, CrowdStrike surges 15% as rising AI threat boosts earnings",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVJldC1ZTV9paFZLVVlkSUUzSUZDVmxPWXVibjd0THZQeHVzY09YdTdXbUEzLW5rR01GUlkwZ2l3cU9QUG5xdnFzZXZpSFJwQ1R3Z1dNSlBCaEstcURpOGFJYmJ6ZzUzQVdJX19vaUNtT2VUVmo2WVRJTEY0YlIwM29CUHcwOEF4cnpWcm12ZlFOdzVpQzIyS3JUQ0lfTnVEZ0NVWHZvallsWnNLYWl5bTVCUDdHUdIBuwFBVV95cUxNN2pydGJQS1BhLTIwTzZfUmpHMExfQXNxdDlEd2IwcWVnS2xvRktLc3dmbXpzM0xscjhPX29INzVLa3hONHkyUVBmcXg4bUhYN1dVYVVKUXE1YjNLRW5OWDFBSGpXVG40Q2hLUm1VV1NHWERoNlF2Vlp3akJNZl96MXg0TGtjZ1BGVXNFVmtJM2NCRVhCeHNuUG94UUM5UEhpMG5rSzZKaTBOSjUtRlp3S0ZWNEgtZS1aMmVV?oc=5",
-      "pub_date": 1787838459.0,
-      "article_url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108313292-1779985196223-gettyimages-2264127364-campbell-notitle260303_npGQz.jpeg?v=1779985232&w=1920&h=1080",
-      "description": "AI adoption is pushing customers to spend more on cybersecurity tools from companies such as CrowdStrike and Okta"
-    },
-    {
-      "headline": "The Biggest AI Bottleneck Is Your Infrastructure",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzh4cXB1QlIzdEk0b0xaSThWSnVUek5fWFhtXy16aFAzOEtYQkFBVE1jdUItTHMzM1Vvcmh4QkQ5NjdJUURMUmMzMW9sZUlVeHppQmNteUtHN3dsem5WakV0WkxnNUtEa0w5dTlpSmduM0p5blFDdlZNdFR5bUI3VnhMTW5VY2pKRDRkcXFtSHBvMzB5TVg2SkdkWXJOUXgzeWc?oc=5",
-      "pub_date": 1787839200.0,
-      "article_url": "https://www.forbes.com/sites/garydrenik/2026/08/27/the-biggest-ai-bottleneck-is-your-infrastructure/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Hundreds of AI agents went rogue in OpenAI\u2019s Hugging Face hack",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
-      "pub_date": 1787796000.0,
-      "article_url": "https://www.politico.com/news/2026/08/26/hundreds-of-ai-agents-went-rogue-in-openais-hugging-face-hack-01052139",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdNYUZDU2EtMHktQkxKaGw4YXp6S1JPYkIwMnlrQzM0T3h0T3dUdkllNmlUam5lblhLbjNmNE0zMjhzZ1JoeEp1c1pyR3NZbkNDYUgyTUhvRzNUU25ubXBuaVIySzZfMExJYVg0Q01kWDVEVDFlbGdrNTBCZFp2Mm1XTndJaGZiWEJnbk1nUFcwV2JWOThRTkRwV3d0WEowbnIxdWVZWnFpWXUzN0xB?oc=5",
-      "pub_date": 1787779527.0,
-      "article_url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
-      "description": "Reuters report shows Meta's challenges replacing people with AI agents."
-    },
-    {
-      "headline": "Exclusive: Uber cuts AI costs even as usage jumps",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EZzFocW85LUtJdnFmOXhwZkFYLV9qMm1pRm5mX2tWanNYS01kZlZEa0xQTE5ObVVTaHlQMEhKbkFoR3hIMFhxTkl2bktkLTJ6V2RlaTRYSU1kU1pWSUE?oc=5",
-      "pub_date": 1787837526.0,
-      "article_url": "https://www.axios.com/2026/08/27/ai-uber-spending",
+      "headline": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
+      "pub_date": 1787790244.0,
+      "article_url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
       "image": null,
       "description": null
     },
@@ -103,8 +53,58 @@
       "article_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-21t094424z-994001427-rc2l5jaxald7-rtrmadp-3-davos-meeting.jpg?c=16x9&q=w_800,c_fill",
       "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
+    },
+    {
+      "headline": "The turbulent AI era is here. The choices we make now are critical.",
+      "source": "gatesnotes.com",
+      "source_url": "https://www.gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "pub_date": 1787866115.0,
+      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech giants warn time is running out to prepare for AI threats",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZjbXVGeWV6Uk82dmM1SDlhMml2dEFiVTdjdHJYenNYXzVKZ2MzdkxxVVYyTWN5a3Y3alo3NHFfU2NfT3pjeC1aR2VVT0UtcThKb2MycDljNVg1OTFYblFvU1BmVS1aR2IwSldCclZfTHNKNVg2bUU4N0c5UEdjSWpOTzJLNEJW?oc=5",
+      "pub_date": 1787851418.0,
+      "article_url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'We have a limited window': 116 companies, entities sign on to major AI cyber defense push",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5",
+      "pub_date": 1787852900.0,
+      "article_url": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108227989-1763533629489-gettyimages-2242189230-20090101251022-99-402650.jpeg?v=1773154443&w=1920&h=1080",
+      "description": "The letter also urged a coordinated government effort to make cyber defense accessible to critical infrastructure under pressure."
+    },
+    {
+      "headline": "Tech companies write open letter calling for collective action against AI-enabled cyber attacks",
+      "source": "Sky News",
+      "source_url": "https://news.sky.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQU5UZjROS2dKeFYtbEVnSWdSVXFHQVlMLVJ5TVRDcDVBbU5pVzl1b0pwSUZXV0JoamVnVXUtWjExQkJFcURFbzl6UkhxYnRRczFoTFlfZS1WTzJSTml0MlVEaC02R3JIeU9MbGk4OUs1cjNYSEhDdGQ0S291WVJsRGExQ3hCRDhwTDRXbnNPdHRfSnBnc2VZVzBObVJ3bWI1azVSelZ1TXZNQUVyNEk2bDEyWjJhcnNIdjVmaVpvdFl0ZUhoeVYwbzRjaw?oc=5",
+      "pub_date": 1787869873.0,
+      "article_url": "https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China\u2019s AI Boom Has a Favorite Bar",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3g0UnAtc1YtSWJTM3RuMWNmLVpLSDA3UUFsZUNNeDNMbV9RNTlFVzdGX09iQWlYY3pZVGFoNnEtOXFESWk5Rl9HaUtGZ3M0S1JkZm9sNURSVklyS0M4bDhMaVhsRFBiUUNVdGN1dUdDQkUxRXpUd1prQTZRNGtTWS01aHJqMXZSS21HQzk3WWN2NEtlYVlGT1h3dTFRZV8xRlE?oc=5",
+      "pub_date": 1787873401.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-08-27/inside-agi-bar-the-hub-of-china-s-ai-startup-boom",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-27T14:32:38.597008+00:00"
+  "fetched_at": "2026-08-28T00:16:23.817179+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-27T14:32:42.632219+00:00'
+updated: '2026-08-28T00:16:25.407105+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 27, 2026 at 14:32 UTC  
+**Last Updated:** August 28, 2026 at 00:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,79 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Bras robotique fait maison](https://www.reddit.com/r/robotics/comments/1vx1kcv/bras_robotique_fait_maison/)**
+**[We built an open-source biped robot with a working sim2real pipeline (Microduck)](https://www.reddit.com/r/robotics/comments/1vzzr4r/we_built_an_opensource_biped_robot_with_a_working/)**
 
-J’ai le plaisir de vous présenter mon projet solo en autodidacte de la main biomécanique UM1-Evo à 24 degrés de liberté. Cela m'a pris 5 ans et demi de passion et de galères,mais je suis assez content du résultat. Le projet contient 25 moteurs, il est à l'échelle 1:1, l’électronique et le wifi sont embarqués et il pèse au total 1.7kg, soit le poids des caractéristiques de l’anatomie humaine. Un très gros travail de recherche biomécanique et cinématique ont été réalisées pour reproduire le plus fidèlement possible la forme organique et les mouvements d’une vraie main. J’ai conçu un script permettant de relever la main d’un patient (en moins de 30 minutes) et ainsi créer la main en 3D sur-mesure (en 10 minutes). J’ai également développé un logiciel de commande par cinématique inverse IK avec animation par clés ou en temps réel. J’ai conçu un gant avec 12 capteurs pour reproduire les mouvements de la main en temps réel en mode avatar. Pour une utilisation en prothèse de main, un système de captation innovant différents des systèmes myoélectriques, permet de manipuler la main avec une latence extrêmement basse et une prise en main instantané. (Ce système et en cours de protection) Voilà, n’hésitez pas à me dire ce que vous en pensez 😀
+Hello, Pollen Robotics engineer here. I know some will see this as a toy (and that’s fine, go have fun!) but I think it’s important to keep in mind that this thing is a full-on biped humanoid robot with an open-source software stack and a sim2real pipeline that works surprisingly well. Maybe it’s not impressive for some people because there are spectacular videos of Chinese robots doing karate every week, but I’ve done 10+ years of robotics competitions and getting your biped to stand up, walk and even roller skate by yourself is no small task. Knowing that thousands of enthusiasts will be able to try their hand at reinforcement learning on a biped is insane to me. I would have loved to have this when I started in 2010. The mobility capabilities of this robot are already decent (still improvable) but the next big challenge is getting to autonomous behaviors. Natural language, SLAM, navigation and grasping will be cool subjects to explore on this platform. Also a big shoutout to team Rhoban for their contributions to the project and one of the best-named repos I’ve seen: BAM! The sim2real dream would not have worked without excellent actuator models. Please give them a star here: https://github.com/Rhoban/bam I hope people will have fun with it, learn a lot, or both! Feel free to ask any questions, I’ll do my best to answer.
 
-3d ago
-
----
-
-**[A Robot Dog Trained Entirely on Dog's Video](https://www.reddit.com/r/robotics/comments/1vwxjok/a_robot_dog_trained_entirely_on_dogs_video/)**
-
-This article show how a robot can be trained purely on monocular video (from video to RL policy!). It's a series of articles, with open source-code, based on Unitree GO2 robot trained in Isaac Sim and Mujoco. TL;DR: I taught a quadruped robot to imitate a real dog — using nothing but a phone video. From a single monocular clip, I extract the dog's 3D skeleton, retarget its motion to the robot's joints, and train a reinforcement learning policy in a physics simulator until the robot moves like the dog it watched. It works, and it's fully open source. Because in the age of robots dancing and sprinting through forests, we shouldn't be spectators or subscribers — we should be owners. Code included. Build it yourself. https://postcapitalistrobots.substack.com/p/the-first-robot-trained-entirely
-
-3d ago
+7h ago
 
 ---
 
-**[Some personal thoughts after WRC2026](https://www.reddit.com/r/robotics/comments/1vwwatz/some_personal_thoughts_after_wrc2026/)**
+**[What is this man even doing?](https://www.reddit.com/r/robotics/comments/1w0490o/what_is_this_man_even_doing/)**
 
-Just sharing some personal thoughts from the perspective of a casual audience. I just came back from WRC2026 this weekend, and felt things are getting more practical this year. More robots were doing actual work, tidying rooms, making coffee, retail, warehouse tasks, long-horizon manipulation, mostly with VLA or world models, which are increasingly driving hardware. Kind of happy to see some robots getting stuck and making mistakes😂 (that means luckily I didn't meet teleoperated demos) And robots can actually reason the situation and adjust strategy. https://preview.redd.it/y5aghdb93alh1.jpg?width=1343&format=pjpg&auto=webp&s=5cf1f2f34694ce49f56068e51d8ecfda3850a156 The other big theme was data. Physical world data collection seems incredibly hot. UMI, ego-centric data and teleoperation. If robots are going to generalize, real-world data is clearly becoming as important as the hardware. Still, most practical demos feel closer to “it works” than “it works reliably at scale.” Like dexterous hands can have 1500+ BOM line items, manufacturing consistency is a huge challenge. But much better, compared with robots just dancing on stage. https://reddit.com/link/1vwwatz/video/iej5848j3alh1/player I spent most of my time checking out some of less-known players and emerging startups, such as: SynapX: One of the few EMG wristbands that can be demoed live, and world-model-driven arm for tasks like folding clothes; Galaxea: visitors order on-site, and robot autonomously identify and pick items; generalized across SKUs without requiring category-specific adaptation; Morphi Robot: world model + VLA mixed architecture, empowering 15min long-duration and complete tasks; AgileX Robotics: saw its robot arms being used by several model companies on site, they also provide 1-to-n teleoperation + ego data collection; Dexforce: world model + humanoid, making coffee and more However, the industry is heavily siloed. Companies are building their own hardware and defining their own data. When will we finally see some standardization, and convergence? Human fall flat And yes, there was still a lot of weird stuff😂 Some humanoids fell down and couldn’t get back up, while staff desperately tried to figure out what went wrong. But honestly, I'm glad to see the debugging. If anything, it actually gave me more confidence.
+If it's to "cool down" then it's quite useless if a robot wasn't built any sort of cooling system in the first place. Why build a bot when it needs constant extenal cooling?
 
-3d ago
-
----
-
-**[Finally project continued](https://www.reddit.com/r/robotics/comments/1vx62m0/finally_project_continued/)**
-
-2d ago
+4h ago
 
 ---
 
-**[Putting Vastnaut exoskeleton on ski board](https://www.reddit.com/r/robotics/comments/1vx59ha/putting_vastnaut_exoskeleton_on_ski_board/)**
+**[Pollen Robotics/Hugging Face debuts Microduck, an $399 waddling robot](https://www.reddit.com/r/robotics/comments/1vzqdwr/pollen_roboticshugging_face_debuts_microduck_an/)**
 
-2d ago
+Website: https://pollen-robotics.com/microduck GitHub: https://github.com/pollen-robotics/microduck From Pollen Robotics on 𝕏: https://x.com/pollenrobotics/status/2092915032052879425
 
----
-
-**[Trossen X ROS Industry Night this Tuesday, August 25th in San Francisco](https://www.reddit.com/r/robotics/comments/1vxeum5/trossen_x_ros_industry_night_this_tuesday_august/)**
-
-Please join us this Tuesday, August 25th, at the Trossen Robotics Residence in San Francisco's Mission District for our ROS Industry Night. RSVP Here.
-
-2d ago
+13h ago
 
 ---
 
-**[The World Robot Conference made humanoid robotics look simultaneously impressive and very weird](https://www.reddit.com/r/robotics/comments/1vx19qf/the_world_robot_conference_made_humanoid_robotics/)**
+**[Unitree’s still got it](https://www.reddit.com/r/robotics/comments/1w09jat/unitrees_still_got_it/)**
 
-I went through a bunch of footage from the World Robot Conference after Unitree’s IPO and came away with two completely opposite impressions. The progress is real. There are far more functional humanoids, robot dogs, and general-purpose platforms than there were even a few years ago. But there’s also an enormous amount of demo theater... Dancing robots, robot boxing, robot musicians, costumes, choreographed routines. It can be genuinely difficult to tell which demonstrations represent useful technical progress and which ones are mostly designed to go viral. That seems particularly relevant now that companies like Unitree are becoming publicly traded businesses. What do you guys actually use as the benchmark for separating impressive robotics from impressive demonstrations? Link to video here if anyone's interested! https://www.youtube.com/watch?v=RVKX12O-ub4
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=RVKX12O-ub4) • 3d ago
+1h ago
 
 ---
 
-**[Waveshare driver with ESP32](https://www.reddit.com/r/robotics/comments/1vx0l0l/waveshare_driver_with_esp32/)**
+**[I went to the 2026 World Humanoid Robot Games in Beijing 🤖](https://www.reddit.com/r/robotics/comments/1vzzgzt/i_went_to_the_2026_world_humanoid_robot_games_in/)**
 
-I have bought this wave share driver with esp32, for st3215 motor actuation. I wanted to write custom code with position and effort feedback, however I'm not able to get any repository for ut to work in Linux and python, my servo is detected by esp32 but after usb connection to my laptop I'm not able to detect it using laptop. Help anyone please? https://www.waveshare.com/servo-driver-with-esp32.htm?srsltid=AfmBOorgzBgQ3gfHSEjAkzxsIRgF4Xo8F9lCHLM0Ss5Y1vIA1xLXuTjS
+More than 2,000 humanoid robots were competing in everything from running and long jump to football, table tennis, fighting, weightlifting and obstacle courses. I was invited by Huawei to experience the event and also got to see how 5G-A and low-latency connectivity are being used to support large-scale robotics. Some of these robots are seriously impressive.
 
-3d ago
-
----
-
-**[Humanoid Robot Update](https://www.reddit.com/r/robotics/comments/1vw7let/humanoid_robot_update/)**
-
-I have now finished wiring the legs mostly, i still have to connect the power cables. Once that is done i’m gonna need to test if everything is connected and works properly, then the physical body will be fully finished. Next step will be trying to see if i can make it walk. For anyone interested here’s some of Astrix’s specs: -Weight ~15kg -Height 1.65m -DOF’s 23 and besides 7 canceled dof’s -Has a camera, speaker and later i will add a microphone -The body is fully designed and 3d printed -Runs on a raspberry pi 4 -Fingers and the neck use servos, the rest of the joints use linear actuators This project starter a little while after i got my first 3d printer and it was a interesting idea to try out.
-
-4d ago
+7h ago
 
 ---
 
-**[Long Jump Final at the 2026 World Humanoid Robot Games](https://www.reddit.com/r/robotics/comments/1vwkdu0/long_jump_final_at_the_2026_world_humanoid_robot/)**
+**[Micipsa - ROS2 Jazzy Autonomous Mobile Robot](https://www.reddit.com/r/robotics/comments/1w04bi7/micipsa_ros2_jazzy_autonomous_mobile_robot/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=p0ONR6lnlxw&pp=ygUvMjAyNiB3b3JsZCBodW1hbm9pZCBsb25nIGp1bXAgZmluYWwgaGlnaGxpZ2h0cyA%3D) • 3d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=u8_zb52qbGM) • 4h ago
+
+---
+
+**[Need an Aldebaran Nao robot?](https://www.reddit.com/r/robotics/comments/1w02hca/need_an_aldebaran_nao_robot/)**
+
+This was donated to our school, but needs some help getting fully resurrected (battery no longer holds a charge). We have no documentation or bandwidth to make it live, let me know if you want it and can pick it up in San Francisco. Comes with the power supply. Gentoo-based Linux OS running the proprietary NAOqi middleware, exposing control APIs for C++, Python, Java, and ROS (Robot Operating System).
+
+5h ago
+
+---
+
+**[I built a Raspberry Pi robot that turns book pages — it has now scanned 10+ books in real homes](https://www.reddit.com/r/robotics/comments/1vzlhe7/i_built_a_raspberry_pi_robot_that_turns_book/)**
+
+https://preview.redd.it/sr8qsyw3xulh1.png?width=1448&format=png&auto=webp&s=affdd7706b16d84f2c3f4c89ead9df29d1e5d1d6 I just wanted to show off a robot I’ve been slightly obsessed with building. It automatically turns and captures pages from bound books without cutting or removing the binding. The current prototype uses a Raspberry Pi 3 Model B+, a Camera Module 3 Wide, servo-driven arms, a vacuum pump and airflow. The suction cup lifts the top page, airflow helps separate it, and the arms move and hold the page before the next spread is captured. Making it turn one page was relatively easy. Making it turn hundreds of pages without skipping one, grabbing two at once or losing alignment has been the real robotics problem. Two people in Korea are currently using the prototypes in their homes, and together they’ve already scanned and converted more than 10 books. We also redesigned the machine into five modules so it can be shipped and assembled by the user. It is definitely still a prototype. A 400-page book takes about 3 hours, coated or damaged paper can be difficult, and some books still need occasional checks or retries. But watching something that used to barely work on my desk leave the workshop and turn hundreds of pages in someone else’s home feels pretty surreal. Here’s one actual page-turning cycle. https://reddit.com/link/1vzlhe7/video/fbh9a2o5xulh1/player Happy to talk about the mechanism, control logic or all the strange ways paper can refuse to behave like a predictable robotic object.
+
+18h ago
+
+---
+
+**[Testing Robot Head](https://www.reddit.com/r/robotics/comments/1w045ba/testing_robot_head/)**
+
+4h ago
+
+---
+
+**[I'm silly but heres the idea](https://www.reddit.com/r/robotics/comments/1w0ao7x/im_silly_but_heres_the_idea/)**
+
+Idk if this is cool to post this here if so thx for the read idk what I'm doing but I'm silly right? But someone needs to make the action figure robot soon I want one
+
+🔗 [Gemini](https://share.gemini.google/xPMSNE6kblwQ) • 22m ago
 
 ---
 
@@ -112,17 +112,17 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[China’s humanoid robots aren’t smart enough to take your job – yet](https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/)**
+**[China can build kung fu-fighting robots. But it can’t get them to do factory work](https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/)**
 
-Reuters • 9h ago
+Reuters • 19h ago
 
 ---
 
-**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
+**[Hugging Face And Pollen Robotics Open Pre-Orders For The $399 Microduck](https://www.engadget.com/2245407/huggingface-and-pollen-robotics-opn-pre-orders-for-the-microduck-robot/)**
 
-NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
+If you've ever wanted a robotic duck as a companion, now's your chance.
 
-NVIDIA Newsroom • 1d ago
+Engadget • 9h ago
 
 ---
 
@@ -130,13 +130,37 @@ NVIDIA Newsroom • 1d ago
 
 There are more than two million robots working in China's factories - and they are scaling up fast.
 
-BBC • 2d ago
+BBC • 3d ago
+
+---
+
+**[NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai)**
+
+NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.
+
+NVIDIA Newsroom • 2d ago
 
 ---
 
 **[Hugging Face Unveils $400 Singing, Skating Duck-Like Robot](https://www.bloomberg.com/news/articles/2026-08-27/hugging-face-unveils-400-singing-skating-duck-like-robot)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 7h ago
+
+---
+
+**[BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html)**
+
+BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.
+
+CNBC • 2d ago
+
+---
+
+**[Report: Amazon eyes ‘fully automated’ delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/)**
+
+Amazon is developing an internal initiative called Project Tetromino to build "fully automated" delivery stations, according to an internal planning document obtained by Business Insider. The effort could rely on technology from Boxbot, a robotics startup that uses AI-driven storage trays to sequence packages for vehicle loading.
+
+GeekWire • 2d ago
 
 ---
 
@@ -148,39 +172,17 @@ Foreign Policy • 1d ago
 
 ---
 
-**[Hugging Face debuts Microduck, an adorable $399 waddling robot](https://www.axios.com/2026/08/27/hugging-face-debuts-microduck-a-399-robot)**
+**[XPeng Bets Robots Will Be More Profitable Than Its Cars](https://www.wsj.com/business/autos/xpeng-bets-robots-will-be-more-profitable-than-its-cars-c946383e)**
 
-Axios • 4h ago
-
----
-
-**[Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.](https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html)**
-
-As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.
-
-CNBC • 1d ago
+WSJ • 57m ago
 
 ---
 
-**[EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says](https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-100114948.html)**
+**[Meet The 7-Year-Old Who Just Completed A Robotics Program At MIT](https://www.yahoo.com/lifestyle/articles/meet-7-old-just-completed-135037459.html)**
 
-When investors think about Tesla Inc‘s humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc., argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says....
+The future is limitless for seven-year-old Jules Zion.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)**
-
-The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
-
-TechCrunch • 1d ago
-
----
-
-**[Unitree’s stock slump begs question: is there a bubble in humanoid robotics?](https://www.scmp.com/tech/tech-trends/article/3365459/unitrees-stock-slump-ipo-stokes-fears-bubble-chinese-humanoid-robotics)**
-
-South China Morning Post • 5h ago
+Yahoo • 10h ago
 
 ---
 
@@ -188,53 +190,13 @@ South China Morning Post • 5h ago
 
 ## YouTube Videos: "robotics"
 
-**[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
+**[The Wildest Camera Robot](https://www.youtube.com/watch?v=v-_d2e7x4KA)**
 
-A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
+It can do flips, etc.
 
-📺 BBC News
+📺 Marques Brownlee
 
-👁️ 1.6M • 👍 17K • 💬 8K • ⏱️ 2:30 • 4d ago
-
----
-
-**[This New Humanoid Robot Learns by Watching Humans](https://www.youtube.com/watch?v=YJSw0Jf8DZ0)**
-
-Galbot ET1 Galaxy Star is a humanoid robot designed to watch human movements, learn them in real time, and reproduce what it ...
-
-📺 DPCcars
-
-👁️ 23K • 👍 481 • 💬 85 • ⏱️ 2:12 • 6d ago
-
----
-
-**[Humanoid Robots Spar, Sprint and Perform Tai Chi at China’s Robot Olympics](https://www.youtube.com/watch?v=-SuVw7ViUJg)**
-
-Humanoid robots competed in kickboxing, sprinting and tai chi at the World Humanoid Robot Games in Beijing, where machines ...
-
-📺 New York Post
-
-👁️ 20K • 👍 129 • 💬 114 • ⏱️ 3:08 • 3d ago
-
----
-
-**[Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games](https://www.youtube.com/watch?v=CHjdtTROPZg)**
-
-The five-day games, now in its second year, are a spectacle demonstrating China's rapid progress in advanced robotics as the ...
-
-📺 Associated Press
-
-👁️ 478K • 👍 5K • 💬 2K • ⏱️ 1:24 • 4d ago
-
----
-
-**[DaxAI Qiji X1 Robot Horse Has 1,400 Nm of Torque](https://www.youtube.com/watch?v=hHEd_f949ro)**
-
-The DaxAI Qiji X1 is a giant 4-legged robotic horse that can actually carry a human rider. Its electric joint actuators can reportedly ...
-
-📺 DPCcars
-
-👁️ 28K • 👍 251 • 💬 96 • ⏱️ 1:55 • 4d ago
+👁️ 2.3M • 👍 112K • 💬 2K • ⏱️ 1:23 • 2d ago
 
 ---
 
@@ -244,17 +206,65 @@ Would you hire a robot to clean your home? One woman in San Francisco hired a hu
 
 📺 ABC7 News Bay Area
 
-👁️ 246K • 👍 3K • 💬 2K • ⏱️ 0:50 • 2d ago
+👁️ 255K • 👍 3K • 💬 2K • ⏱️ 0:50 • 2d ago
 
 ---
 
-**[Robots compete in football, boxing and sprinting at World Humanoid Games in China | BBC News](https://www.youtube.com/watch?v=eiR-sEmDWu4)**
+**[Humanoid robot leaps 7.97 meters to win long jump gold](https://www.youtube.com/watch?v=Yqbkdh55_DA)**
 
-The second edition of the World Humanoid Games kicked off in China on Saturday. The competition will run for five days and has ...
+A truly impressive leap for humanoid robotics! #TiangongUltra reached an impressive 7.97-meter long jump, winning first place in ...
 
-📺 BBC News
+📺 China.org.cn
 
-👁️ 224K • 👍 2K • 💬 713 • ⏱️ 5:30 • 4d ago
+👁️ 177K • 👍 330 • 💬 11 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[Sprinting robot breaks Usain Bolt&#39;s 100-meter world record](https://www.youtube.com/watch?v=xa8N5MAc_sY)**
+
+A humanoid robot developed by China's Beijing Innovation Centre of Humanoid Robotics ran 100 meters in 9.39 seconds, ...
+
+📺 USA TODAY
+
+👁️ 122K • 👍 732 • 💬 130 • ⏱️ 0:31 • 4d ago
+
+---
+
+**[I Bought a $7,000 Iron Man Robot](https://www.youtube.com/watch?v=Z1XrFFH3OFQ)**
+
+📺 Kyle Krueger
+
+👁️ 3.1M • 👍 160K • 💬 2K • ⏱️ 1:01 • 2d ago
+
+---
+
+**[This Robot Has The WEIRDEST Running Style 😂🤖 #robot](https://www.youtube.com/watch?v=m7Oa4PvF-VM)**
+
+Robots are getting faster, smarter… and apparently, much funnier. This robot's unique running style might be the funniest ...
+
+📺 TheRobotReports
+
+👁️ 167K • 👍 2K • 💬 264 • ⏱️ 0:40 • 4d ago
+
+---
+
+**[Humanoid robots compete on day one of World Robot Games](https://www.youtube.com/watch?v=AerpY_g67m8)**
+
+Humanoid robots competed in various events on day one of the World Robot Games, with one even breaking Usain Bolt's world ...
+
+📺 ABC News
+
+👁️ 127K • 👍 861 • 💬 150 • ⏱️ 0:40 • 5d ago
+
+---
+
+**[#robot #olympics #siuuuuu](https://www.youtube.com/watch?v=654joWehTr0)**
+
+The robots are coming for our Olympic medals. #humanoidrobot #robotics #technology #olympicgames #robotgames.
+
+📺 Soon
+
+👁️ 584 • 👍 29 • 💬 4 • ⏱️ 1:09 • 4h ago
 
 ---
 
@@ -264,27 +274,17 @@ Bloomberg's Yvonne Man and David Ingles share their takes on how robots performe
 
 📺 Bloomberg Television
 
-👁️ 58K • 👍 289 • 💬 111 • ⏱️ 4:55 • 3d ago
+👁️ 62K • 👍 294 • 💬 111 • ⏱️ 4:55 • 3d ago
 
 ---
 
-**[Skild S1: ChatGPT Moment for Robotics?](https://www.youtube.com/watch?v=Oz5ilpXIBq0)**
+**[This Robot Works Where Humans Can’t](https://www.youtube.com/watch?v=n3NL9ZuKOVU)**
 
-The ChatGPT Moment for Robotics @SkildAI released S1. You show a robot one video of a person doing a task (even a ...
+This rescue robot can enter dangerous areas safely. It helps humans during fires and building collapses. A new step toward safer ...
 
-📺 ZAUEY (Claire Zau)
+📺 The Manav Podcast
 
-👁️ 4K • 👍 238 • 💬 10 • ⏱️ 2:50 • 10h ago
-
----
-
-**[Robots in China gear up for 2nd annual World Humanoid Games](https://www.youtube.com/watch?v=V9z-kLwst90)**
-
-The second annual World Humanoid Games are set to take place in Beijing. It comes as tension continues to build between China ...
-
-📺 NBC News
-
-👁️ 69K • 👍 487 • 💬 248 • ⏱️ 4:05 • 6d ago
+👁️ 4K • 👍 228 • 💬 15 • ⏱️ 0:27 • 1d ago
 
 ---
 
