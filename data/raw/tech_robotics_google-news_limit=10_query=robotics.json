@@ -15,6 +15,26 @@
       "description": null
     },
     {
+      "headline": "Humanoid robots will be useful, just not as we imagined",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBQRERfTmYzaVJJYjM1X19Sa0ctSlVtVTlvZ2pwNmplMmhXblVkQXNhaXpVVWxzVUVrVG9fdjFGZ2hwYzdxSjJINkw0WlpFNTRoOFR6anFSdWdmLWJJbUVucjl0N0hER2lYaGtBd3VOR0hKaFotZjVYYVRFMDBaampWUEg?oc=5",
+      "pub_date": 1787837771.0,
+      "article_url": "https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb92c317c-b829-4189-ae57-b27237e811f8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Bipedal robots may look impressive doing tricks on YouTube, but the real value lies with their less flashy, highly functional industrial cousins"
+    },
+    {
+      "headline": "XPeng Bets Robots Will Be More Profitable Than Its Cars",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVFoOFFWM3lxR29jSjcxVVhiWW12STNfanpEcnBXd2hqeHVEMEZ6UklRZU05b3haRjl5Z29WVW9sZVBFNm0xTzZZbnFtWkZWQ2l4bHFhQ3ZqaXJsV2tOWUpuY0RVVFREUlFpTG5QbEd2SVBISExGa3JFdk1wV05scFdTX3pFZ2tldGhKUW00bDdjV2xBSUtEdjd6YzlQV19N?oc=5",
+      "pub_date": 1787715960.0,
+      "article_url": "https://www.wsj.com/business/autos/xpeng-bets-robots-will-be-more-profitable-than-its-cars-c946383e",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Hugging Face And Pollen Robotics Open Pre-Orders For The $399 Microduck",
       "source": "Engadget",
       "source_url": "https://www.engadget.com",
@@ -23,6 +43,16 @@
       "article_url": "https://www.engadget.com/2245407/huggingface-and-pollen-robotics-opn-pre-orders-for-the-microduck-robot/",
       "image": "https://www.engadget.com/img/gallery/huggingface-and-pollen-robotics-open-pre-orders-for-the-399-microduck/l-intro-1787840652.jpg",
       "description": "If you've ever wanted a robotic duck as a companion, now's your chance."
+    },
+    {
+      "headline": "DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXYmNUOXVzeDZDai04NkJUTEdXa2pkQTN6R25uLW9MMmJaOGNhTW00dXN1OHJJN2F0WTRySWlaTXhZYlNZLVhEV25USXRnRy0yVkpmdFpZS29sOEVDQWs4cHNod0pqSjhUYTFJQ3BfY0VrNGh5eEhxenNR?oc=5",
+      "pub_date": 1787922035.0,
+      "article_url": "https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272104482-300x200.jpg",
+      "description": "High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts"
     },
     {
       "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
@@ -35,44 +65,34 @@
       "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
     },
     {
-      "headline": "Humanoid robots will be useful, just not as we imagined",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBQRERfTmYzaVJJYjM1X19Sa0ctSlVtVTlvZ2pwNmplMmhXblVkQXNhaXpVVWxzVUVrVG9fdjFGZ2hwYzdxSjJINkw0WlpFNTRoOFR6anFSdWdmLWJJbUVucjl0N0hER2lYaGtBd3VOR0hKaFotZjVYYVRFMDBaampWUEg?oc=5",
-      "pub_date": 1787837771.0,
-      "article_url": "https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb92c317c-b829-4189-ae57-b27237e811f8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Bipedal robots may look impressive doing tricks on YouTube, but the real value lies with their less flashy, highly functional industrial cousins"
+      "headline": "Adorable Microduck Robot Roller Skates and Plays Soccer",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aU083cmhsT09VR0dEWEdBUW9hczZQVGU2SDI1MGxITnlZQVpYaU9sUGhUN3oxR3NOM2ZxNjFnaDI1R0s5U05BUGJ4S1N1Ull2dUVMSjVTekRDR3BFeEhTWGd1ckM?oc=5",
+      "pub_date": 1787933013.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67687638&width=1200&height=600&coordinates=0%2C5%2C0%2C6",
+      "description": "In this week\u2019s selection of awesome robot videos, you\u2019ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo"
     },
     {
-      "headline": "China\u2019s record robotic strides show the limits of human speed",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5",
-      "pub_date": 1787896080.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/",
-      "image": null,
-      "description": null
+      "headline": "Teradyne Robotics ramps up fight against cobot copycats",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0lvZWR4RFZRR2NKY204RTl0NzRkLWc0UUxoRkxfcnh2NUx5c21nSWpFRC1nTlVaT1kxZ1liYkZ5MDNjNDVLWUpON0pJQkJYU2NocERWNnNmNW1mRGh1OThuZ3kyQ3VMTkVkdmMwNG1KbjBoX2Z2NGZxVWF0V0JPNVN4TERQREZnT0E?oc=5",
+      "pub_date": 1787862940.0,
+      "article_url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/jaka-teradyne-lawsuit.jpg",
+      "description": "Teradyne Robotics sued cobot maker JAKA over alleged patent infringement, marking its second battle with a Chinese cobot company in 2026."
     },
     {
-      "headline": "Survivor's Christian Hubicki marvels at China's robotics games records: 'Willing to break the robots to do it'",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS01nOXdNNk82RmhUVVNoaHktLXUxLTNNT3dMUlNETU91VEV1YnBLb1VDaE5ua2hjbjFVeU00TGxUM29XM2JfTjExdUlhMVVYcVFKdlpXWXdoV192cDdFeEtrcmlEcTR3aVdCWDU0MjZKNWV6VnU2WklWd2YxZ00tQ2FzWXdIOC1kV0kweG4yZ3BhRW9vUHlYZDBaUGFDS0F4Tm03ZDFfM3ZCQWh3OE1tZG1VRmpZQdIBuwFBVV95cUxQTWxQdWh3Ui16cUFvdndFM0R6N1o1ei1Pd2hIYlhwYVJfSm5EejRweHJFcnlPY0Jrc3dBeUpFVDg1ZURJcTF2VF9ZdHo5dy1tQURmVjJuQkJrQTR3RkRvanZyUDJyMzlqWGxmbHNWQ09wSG9lN0pJckhXSTZ5RWVwSHJWTU1IcEg0ek1ydGt6NnlmT00yNEFvQWZLeXRic0daaWFDUzd1X2lQNkpJZG1OWlBLbGZYTXlGV29V?oc=5",
-      "pub_date": 1787850243.0,
-      "article_url": "https://www.foxnews.com/tech/survivors-christian-hubicki-marvels-chinas-robotics-games-records-willing-break-robots",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/robo-crash-gif-2.gif",
-      "description": "The World Humanoid Robot Games' crashes show how far the technology still needs to go to be useful, \"Survivor\" reality TV star and robotics scientist Christian Hubicki says."
-    },
-    {
-      "headline": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTVNSHhYUjJUaGJPbEdBZXBvdlRWN0lYZnU1aVJGZWlEOG9Uc2c2cFZqV2NhN0EwNUlPWDdraC1mWVItZmZCMjM3dldaeTdBNGJqMXN2WV9OV0FOSTlubzVRMGJLcDI4STdRZ2pwU0NkTmUtaXl4QVctclF2V29MUGNneGpzbkNLbGlSaldDS213SHU3S3VHdVBfT0RDXzAzY0x1SHphUVIxM1p3aGV1Rm10NFVNYTA4Tk1Zcg?oc=5",
-      "pub_date": 1787670114.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "image": "https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_14abfacb-ea35-4a1f-a3d4-01693db66823-prv.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823",
-      "description": "NVIDIA today announced NVIDIA Jetson Orin Nano\u2122 2, a new robotics computer set to redefine entry-level edge AI \u2014 putting frontier-class generative AI performance in the hands of millions of developers."
+      "headline": "Hugging Face says sales for its robot ducks topped $2.6 million in 24 hours. Now there's a backlog.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEpwWFRSNXF4QzFUbmxmSWJXYnB3STdTTkhvS0I0S0M2YzNYTFdUQXJsQVZnSjBFRzREZFU3VGtlbmR5RHVtZGZEaExBcm1VNlZjdWRJdE1jOTc5NXgxd0RfcXl0b1FxYUwzTmI0cVhkVXprS1hZenp4SlhSWW5CVmxPdHhRY0dCYjU4UThlOG0?oc=5",
+      "pub_date": 1787940323.0,
+      "article_url": "https://www.businessinsider.com/hugging-faces-duck-robot-hits-sales-roller-skate-2026-8",
+      "image": "https://i.insider.com/6a91a75679f11f0a89f9214a?width=1200&format=jpeg",
+      "description": "The future of robotics can waddle. Hugging Face said its bot-maker, Pollen Robotics, recorded over $2.6 million in sales of Microducks in 24 hours."
     },
     {
       "headline": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
@@ -83,28 +103,8 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpldERNcWQyTnJ5SzgxaUJMdWcxREdNRmtDNm5vWXNwZWVfMS15SWhINzg5eTlJRnBFVUtoOGViUTZQVFhNSDBVbndGRWFiTmxjTFowWDJtdmFrVHFiT0hzbDFqNXBQaUtTWmtwLVAxZTJWVjhJZUdDdnNvdmgtcGRIeDR2VDVyRkHSAY8BQVVfeXFMTzlCeDRLZ241c2ZQaDd6a2phNzNQelk2UzUzMWNXZDZ0NExuci1LOWRhUTY2WlhmaFFvekl2dks3YkF0djY3cVk2S0lBR2lMb1BlWjZoUDdWRGVYbVJuekk3R21COE93eDlzVkFyRkI1NmFzRkdyblFFb3NxZTJvRGpGTHhQMUNCNDlidnhRQ0E?oc=5",
-      "pub_date": 1787725845.0,
-      "article_url": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354283-1787711877050-60089527-216a-4aec-b652-9e04dec5afd7.jpg?v=1787712197&w=1920&h=1080",
-      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers."
-    },
-    {
-      "headline": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbDl6bUNMdUxCcnlRTU5md3F1eVdWTFlsTXFHLW4xVTZRd3IxNmNpRzJtNUk4WUFGVW9CRHBSSDdjZUxrN1B6LUZqdjdDNF9XMUk2RWhfUEUwZjVpTlJVZkM5bjNDMHA5TDdDb0hjVmZMQU4ycVp6czhMYzRDR2M5MGcycHRueE0tSDQ4cW9Cc0VVSDZvVDVoR29LOVpaSDhGUldsWA?oc=5",
-      "pub_date": 1787842612.0,
-      "article_url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750",
-      "description": "Clem Delangue, CEO of Hugging Face, said the Microduck is an \u201copen-source robot you can teach new tricks with reinforcement learning.\u201d"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-28T11:39:50.189905+00:00"
+  "fetched_at": "2026-08-28T21:46:14.887786+00:00"
 }

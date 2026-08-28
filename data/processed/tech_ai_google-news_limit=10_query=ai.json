@@ -5,94 +5,74 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Some Scientists Have \u2018Magic Hands\u2019 in the Lab. This A.I. Is Learning Why.",
+      "headline": "What if the A.I. Stock Market Rally Is Just Getting Started?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlJGVXBLc3hNRmt6N0laMG5iY2V3aDB1OXpJYmpKbEl2Xy00SjBPRlZMZUVnb1hwNHVkYURvN2pSS0k2TW1SQ1ZaYUxPaUhBaC1iZjR4azc0ZUNYQzY3clg5X3JLWnI0RDRLQ1J3YXBobTRhMEx4V2JKdjhTbS1MVmQtVkVGZTM5bWo5NWpB?oc=5",
-      "pub_date": 1787821262.0,
-      "article_url": "https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5",
+      "pub_date": 1787922006.0,
+      "article_url": "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Cisco Gave All 90,000 Employees Their Own AI Agent",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHNfQUdwUDdSMlFWRVB1M2FDWXc0YUFPSWV1LUxnNnJCS1JfOC1xYlZnMHNJU2VPZ1ppZ1lPVi1pdnV6eGdmcEs4aklhUnBKZlg3eWdtRFNic3d1YUdva280TWl0bDE1TElFRkJIZWYwQzhPRW56NE5SdXZIUHV6ZlFId2ZTTExQcGU4el94UjBySkg4WXc?oc=5",
-      "pub_date": 1787836140.0,
-      "article_url": "https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc",
-      "image": null,
-      "description": null
+      "headline": "Paul Claude Gigot: Why I Am Right About AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUFrQWNKdVVFWi1fTWpCQ3A2RlBzWXNMMEJWZEd2UmxsUnQ0cTdleWNHVEQwV3dfV2dmbDNIdkR4YTU1WFB1OFVTdUM4ZmZDWDFQei00eG9aQlhEamV3bHlqNTMyc0s2RDY4ZXlwaWFNVl8tc0d2bjdMRFc1SHpJNzV6WUVOZkRMNU9sWkVHMmZodzFHQkcxeUFTZGM?oc=5",
+      "pub_date": 1787865088.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
+      "image": "https://cdn.theatlantic.com/thumbor/ZIZxaEjS7Ng0nUlP2__2fqelK6c=/0x28:1400x757/1200x625/media/img/mt/2026/08/2026_08_27_note_mpg/original.gif",
+      "description": "Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union."
     },
     {
-      "headline": "Anthropic pushes into physical world with new standard to help AI agents operate machines",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRE9pN0ZXS1ItNVdDQmJZbGtPYzdQRUJtaEF5cU8yajZGRkFzUC11WXlqSDViZS1feTJ2a05iQTNveG1UeThiNVNKUFU0d21NMkFiWTVFQjdHbDBhVzlEbEp6d2FvQVVVR3VwWnJIUGV4U0p6VlR0U0dhYWhFSm1rMUZJbzhiT0V3TVlSeGFMZVhzSlVzSXVwYkpUVlNqZjhSX3JwZ2hLRmRrZVJldm5qcFh3b3dIVWtycWJXTXRQaG1IcFFs0gHKAUFVX3lxTFA4X09HaXl2TVgxZWVFWkxZZmU0UC1RUXB1cEkwZFRPNkIweVh5b2J2aHlhRFludUpfMU9SdHpqdkItVUV4OUdnaU54UkpiWnhXVVNXUEZpNl8wNkkwdUNGalRTSzFhdnE0WjN0dmotV25QQVRwcnhZVERwMkdNUDZ0X0NGZWdIYm9oc3B4YmRXd1puNXpwY2p1MFpKRU9FbnBPNzBhODNraS1EeFRRbzZCaWZTY2R3aVcteG1LY1VXcmtJSlE4dkZOOXc?oc=5",
-      "pub_date": 1787853613.0,
-      "article_url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342840-1785448082345-gettyimages-2280291202-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
-      "description": "The Model Hardware Standard is initially available in a research preview, but Anthropic plans to open source it in the future."
+      "headline": "X reveals foreign adversary behind fake accounts disseminating anti-data center messaging",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3psRk5oSmxYMndac1dkMU1ZcXF6clBkOXpVdVA0TUF1VDVNSGtMejM5dkJKX3pVTlU3aGswOWlLR1NwSzJXc2Z0ZHI4YkRnbGdKUXl4RDY1QVhxczNsZ2NKVUpORExIaF9FQ3dxREZfUkFoUld2MnBrdGduT3VYU05SRTJQVFFROXcwY2hOSkNDSUNFZTZHcUJrUGxjaF9YeU5xWG5LTGo4YTlZeGNEZURhRm5DM0tUV2JDQllialowbUxFSUxhN2Fma9IB0AFBVV95cUxObmFkNmlJMlAxRWNFNEJwVW5IanhpcjdfQ3I4REV5RmFFWVhoRjk5c0UxOXhfRk1tQzVFYVg3UFVoSXVRa0VMVi1xMGpJTF9HR2lOQzF4TEpCbTU5eXVCU05pWDJmN1hPZ2lqXzIxSDM5UkhOSks2X2syN2hNVllfTzctQ0Q5QzJwdFlkejN3TndRaEV0Wkt4X3Frcy1sT0t6YWJSdi1LaHJjd1hNVzY3WklfSTBERkdzX3gxajlfNDM2MXhVUUFhRmp6MmlGM3dR?oc=5",
+      "pub_date": 1787934120.0,
+      "article_url": "https://www.foxbusiness.com/fox-news-tech/x-reveals-foreign-adversary-behind-fake-accounts-disseminating-anti-data-center-messaging",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/chinese-misinformation-data-centre.gif?ve=1&tl=1",
+      "description": "X announced that it performed a probe \"into suspected Chinese inauthentic accounts involved in influence operations\" and uncovered some anti-data center accounts within a bot farm."
     },
     {
-      "headline": "Previewing the Model Hardware Standard",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
-      "pub_date": 1787853491.0,
-      "article_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/5008271abbababe59f4fbb01998697f7dd0b5b60-1280x720.jpg",
-      "description": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
-    },
-    {
-      "headline": "AI is changing how Chicago singles find dates",
+      "headline": "China is secretly fueling America's data center rage",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNjU1NFdja0E4MnA0bGlxV0tRek1ndmxUeXh6TEhNMkJxZnA5aENSSDNWQUIzSlNNRVRPb3hMd29ZSUlwYVlqbjA0YXZ1eE0wdFZYTkRkSFZ0U1J5TkZqaXVDLTREZUNJbERzQV9acmtwNmdjRTk3X2pNTGJPRzdzX0V5OFVGSG1hMVFzeHZTU3o?oc=5",
-      "pub_date": 1787915960.0,
-      "article_url": "https://www.axios.com/local/chicago/2026/08/28/ai-dating-apps-matchmakers-relationships",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?oc=5",
+      "pub_date": 1787941821.0,
+      "article_url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
       "image": null,
       "description": null
     },
     {
-      "headline": "One of the world's hottest industries is sparking a blue-collar jobs boom",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGRldlhyYjdtRTk5YjQwT1lKbUtET3UxUjIzVFkwUEFwNWZvTm1ESHQwY3B2cTRtaUNJcWJDTy1qSDB6UFprWEVBb2ZqSmdILUYtLUlKQ3dNb1V2YzJDdDB0S2lTZVE3azBHTXpiMGxnWmcwdzFjd0J5WmhQVktVRUIyektpcTQ0akpmR1NsZFBkMmfSAZgBQVVfeXFMT1haX05EM2dvTGtCNEVHX1BuWm9Na2w5aEd2WFlFN2UwcjhybDZab0JiVERQRnIzYmNDSmRCTnRZN1N1Vm1jWm4zNU43a2c5UmJPdUs5azRLUVJkMGl1SjlrQkRsWTE4MkdlMVc0cTZfZjQ4Q0kzVTlCRVVfQ0JJYWRWclRpNWNmakVvYXl5TDMzYVpxMjNYLU4?oc=5",
-      "pub_date": 1787913197.0,
-      "article_url": "https://www.foxnews.com/politics/worlds-hottest-industries-sparking-blue-collar-jobs-boom",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/construction-workers-american-flag-site.png",
-      "description": "AI infrastructure spending is projected to drive U.S. industrial construction to $684 billion by 2031, creating massive demand for skilled trades workers."
+      "headline": "How AI Data Centers Are Making Everything More Expensive",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFFXa3I5ZW1jaGNEclFFNWF6MF92d21COTBKQ1BjN1diUTlfelJ4RnJtSXJkRTlJVy13UmRiekxLdVlKaGZLRnROVUJjelZwUTQwemlOOGYtSzZGVm9IVXFhYnJlMzdsNnQ5dzhXMTM5REZQb3o0MkNRSnM3cThQTDljVERqdDZZREtUQzlHc0Mtd0FIbklfSEFwaw?oc=5",
+      "pub_date": 1787952392.0,
+      "article_url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8",
+      "image": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+      "description": "AI data centers are causing a memory chip shortage, which is making phones, laptops, cameras, and consoles more expensive."
     },
     {
-      "headline": "Chinese Chipmaker CXMT\u2019s Sales Jump 10-Fold As AI Demand Soars",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTYybXY0Nng3bERaOXItYlNBbHhRTnJSTWpmRmkwUTNydlJ3TXpaTWVyN0RmSF91SGV1UXRHenVLMnNQMUJIWWRtcnlHVmwxSDNQdlBGN1RWSTExOHBNaGNWUHJvbldHVzE1alViZVlHbWxlcG8td21XWnJjbGdpWW10c2tTcDZ5bDdJUTZyTmNWVkl4WHVCN0ZnX2x2MDZOV1NwRUJ0MW9vNF8yQk5XcDdqYw?oc=5",
-      "pub_date": 1787912673.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-chipmaker-cxmt-s-sales-jump-10-fold-as-ai-demand-soars",
+      "headline": "Why the tween years are a good time to talk to your kids about AI",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGNBTy05OW10Q1BleDA5X3VpQms5VzFqQ0J0X1M2NHlWbFZaTm9yMjBXVWVKVlRxRDFoS2NLcHZwR1RmdTlfX1lLVHRSRkptYWhPaWNpNHRtMUdHREhQWUYxQlRVSF9qRXRaeGxLMVQxOVlINFZvWEhyMFJma3k0VVlsSzVSRmZlQVJUX0FSMklmYVlaQVI5UF9EeHY4b2pnSjgw?oc=5",
+      "pub_date": 1787952156.0,
+      "article_url": "https://www.pbs.org/newshour/nation/why-the-tween-years-are-a-good-time-to-talk-to-your-kids-about-ai",
       "image": null,
       "description": null
     },
     {
-      "headline": "3 new ways to plan and book travel in Search",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2R2VDlFTzNETmpKV29RTFBkajAyVHZpQ292QVQ3eldjbFdPSGdLQ2dvUjc3NHRSME1IWHRUNVZnWUZhR3ZaUm5xaHM1VDZBU042SzlfUDE1R0N3SGdPOUx1YjRVSUc3cWlwazZuZmItQXllREZ5Zzk2b1FsLU5FQ3JHeDUxUQ?oc=5",
-      "pub_date": 1787847478.0,
-      "article_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.width-1300.png",
-      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
-    },
-    {
-      "headline": "AI is changing religion and religions are trying to change AI",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcC1NRzIxOHVUSldTRF9wT1NRUHFQT2Riam1GYkNCWDU3b3pTekpBeU5iZDB3VWY4OGdfc3VwMTJCbHJsMG01dDJYVlZBeWs0cDhUcmtkOXYtZ3NtZXpDQzBlNG1ady1CNW9naUtmeDRvbDFkLVVpQmhkdU05ZFNUNkl2UUNCdmZDNldaUG9taDY2WTNSWTBSZ3dfY0JUelA0ZlZwUmQxbXN1S0Zpb2lQM3p3?oc=5",
-      "pub_date": 1787839338.0,
-      "article_url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-      "image": null,
-      "description": null
+      "headline": "Another View: Take Humans OUT Of The AI Loop",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnM0NTh3WDZzYi1CRF93bmVIUUxGUmo1bi1zS1FMM3Jza0llQlRteTJuM3U2NUlSWmRtcjVmZlRSYmZOaWtqU2tUVGFKU3BaOEZkQ2pjMTk2dmJ3YXh5ZDluQmNLOVpKZmZiY2s1RGFTOGdyRGFZNkRUNTc2SXBBYlJTTkpHSWk3NENUc2RuZmw0STNkQTMwcWI2b184dGs?oc=5",
+      "pub_date": 1787950959.0,
+      "article_url": "https://www.forbes.com/sites/joemckendrick/2026/08/28/another-view-take-humans-out-of-the-ai-loop/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a91f563dc73a1d4d4d13696/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "The delay inherent in human decision-making can have its costs from a corporate or economic perspective."
     },
     {
       "headline": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount",
@@ -103,8 +83,28 @@
       "article_url": "https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The turbulent AI era is here. The choices we make now are critical.",
+      "source": "gatesnotes.com",
+      "source_url": "https://www.gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "pub_date": 1787935253.0,
+      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "He Scraped All of Their Art for AI. Now He\u2019s Collaborating on a Tool to Help Them",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1FnWWJEU2VmbjJqMEx3WGZ0Nkl2Q1lscHVKb1gzZ19wMlZ6dFZBLVRrUVVEY1V0YVNtb0Y0UThVcmdudHlpZ1U0MExFOW5Fb2xRQXd3QjlhSEZkVHUyakNYUTFVNTZIV0lKdk0tNDRaNERyTmloSS1rRDVraU1RX3Q3VDBsSHAzUEtReEVUVHdRMkNkU3ZPWkRQUmZ1S29kUjMwS0t4d0d5Qk0?oc=5",
+      "pub_date": 1787914800.0,
+      "article_url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "image": "https://media.wired.com/photos/6a8f719f1780b42ea22395f3/191:100/w_1280,c_limit/Anti-AI-Artists-Gathered-to-Share-Their-Handmade-Work-Culture.jpg",
+      "description": "The art portfolio platform Cara, designed for creators who don\u2019t want their work used to train AI, has been under assault by trolls seizing and publishing its data."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-28T11:40:02.790412+00:00"
+  "fetched_at": "2026-08-28T21:46:19.275064+00:00"
 }

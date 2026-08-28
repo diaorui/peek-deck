@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 758,
+      "upvotes": 760,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 7740,
+      "github_stars": 8077,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 99,
+      "upvotes": 100,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 9023,
+      "github_stars": 9251,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 101338,
+      "github_stars": 101558,
       "project_page": null
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 198,
+      "upvotes": 200,
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-08-24T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeMM-Embedding",
-      "github_stars": 721,
+      "github_stars": 806,
       "project_page": "https://github.com/Tencent/WeMM-Embedding"
     },
     {
@@ -130,45 +130,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 85371,
-      "project_page": null
-    },
-    {
-      "id": "2608.20335",
-      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-      "authors": "Yudong Jin, Tao Xie, Qihang Zhang et al. (9 authors)",
-      "organization_name": "Robbyant-Research",
-      "organization_fullname": "Robbyant Research",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67aeffda7330db26f93cd62f/sGSUfQbY1ezHjHO7mgSXL.png",
-      "summary": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Splatting (4DGS). Existing camera-controlled video diffusion models synthesize plausible novel-view videos but fail to maintain consistency when scaled to the tens of target views required for 4DGS reconstruction. We identify this failure as a bounded-attention-context problem: when target views exceed the capacity of a single DiT forward pass, they must be split into groups, exposing two coupled bottlenecks. On the reference-context side, conditioning on all previously generated views grows as O(N), weakening cross-view appearance guidance. On the target-context side, disjoint groups cannot directly exchange information, causing global structural drift. 4DAnyone addresses both bottlenecks with two complementary designs: Reference Context Packing (RCP) compresses growing reference views into a fixed-length mixed-resolution context with O(1) reference-context complexity, while Target Context Routing (TCR) rotates target-view groupings during denoising to share context across groups at high-noise steps and stabilize details at low-noise steps. We further build the MVGameHuman dataset using our in-house game engine and combine it with light-stage and in-the-wild video datasets for training. Experiments on DNA-Rendering and DyMVHumans show that 4DAnyone outperforms prior methods in both novel-view video quality and downstream 4DGS reconstruction, with robust in-the-wild generalization. See our project page for video results and source code: https://4danyone.github.io.",
-      "ai_summary": "4DAnyone reconstructs 4D humans from monocular video by generating multiview-consistent videos and lifting them into 4D Gaussian Splatting, using reference and target context designs to overcome scaling bottlenecks.",
-      "hf_url": "https://huggingface.co/papers/2608.20335",
-      "arxiv_url": "https://arxiv.org/abs/2608.20335",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.20335.png",
-      "upvotes": 78,
-      "num_comments": 7,
-      "published_at": "2026-08-19T20:00:00.000Z",
-      "github_repo": "https://github.com/ant-research/4DAnyone",
-      "github_stars": 885,
-      "project_page": "https://4danyone.github.io/"
-    },
-    {
-      "id": "2508.16279",
-      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
-      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
-      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
-      "hf_url": "https://huggingface.co/papers/2508.16279",
-      "arxiv_url": "https://arxiv.org/abs/2508.16279",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
-      "upvotes": 68,
-      "num_comments": 4,
-      "published_at": "2025-08-22T06:35:56.000Z",
-      "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 29871,
+      "github_stars": 85449,
       "project_page": null
     },
     {
@@ -187,11 +149,49 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 29865,
+      "github_stars": 29928,
+      "project_page": null
+    },
+    {
+      "id": "2508.16279",
+      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
+      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
+      "hf_url": "https://huggingface.co/papers/2508.16279",
+      "arxiv_url": "https://arxiv.org/abs/2508.16279",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
+      "upvotes": 68,
+      "num_comments": 4,
+      "published_at": "2025-08-22T06:35:56.000Z",
+      "github_repo": "https://github.com/agentscope-ai/agentscope",
+      "github_stars": 29931,
+      "project_page": null
+    },
+    {
+      "id": "2308.04079",
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "authors": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimk\u00fchler et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Radiance Field methods have recently revolutionized novel-view synthesis of\nscenes captured with multiple photos or videos. However, achieving high visual\nquality still requires neural networks that are costly to train and render,\nwhile recent faster methods inevitably trade off speed for quality. For\nunbounded and complete scenes (rather than isolated objects) and 1080p\nresolution rendering, no current method can achieve real-time display rates. We\nintroduce three key elements that allow us to achieve state-of-the-art visual\nquality while maintaining competitive training times and importantly allow\nhigh-quality real-time (>= 30 fps) novel-view synthesis at 1080p resolution.\nFirst, starting from sparse points produced during camera calibration, we\nrepresent the scene with 3D Gaussians that preserve desirable properties of\ncontinuous volumetric radiance fields for scene optimization while avoiding\nunnecessary computation in empty space; Second, we perform interleaved\noptimization/density control of the 3D Gaussians, notably optimizing\nanisotropic covariance to achieve an accurate representation of the scene;\nThird, we develop a fast visibility-aware rendering algorithm that supports\nanisotropic splatting and both accelerates training and allows realtime\nrendering. We demonstrate state-of-the-art visual quality and real-time\nrendering on several established datasets.",
+      "ai_summary": "A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.",
+      "hf_url": "https://huggingface.co/papers/2308.04079",
+      "arxiv_url": "https://arxiv.org/abs/2308.04079",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2308.04079.png",
+      "upvotes": 203,
+      "num_comments": 13,
+      "published_at": "2023-08-08T02:37:06.000Z",
+      "github_repo": "https://github.com/graphdeco-inria/gaussian-splatting",
+      "github_stars": 23559,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-28T11:39:28.320737+00:00"
+  "fetched_at": "2026-08-28T21:46:00.835936+00:00"
 }
