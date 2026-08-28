@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 8501,
+      "github_stars": 8823,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 193,
+      "upvotes": 196,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 1073,
+      "github_stars": 1125,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 100786,
+      "github_stars": 101033,
       "project_page": null
     },
     {
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2608.23552",
       "arxiv_url": "https://arxiv.org/abs/2608.23552",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
-      "upvotes": 42,
+      "upvotes": 43,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 18745,
+      "github_stars": 18812,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
@@ -88,11 +88,11 @@
       "hf_url": "https://huggingface.co/papers/2608.24053",
       "arxiv_url": "https://arxiv.org/abs/2608.24053",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.24053.png",
-      "upvotes": 60,
+      "upvotes": 62,
       "num_comments": 2,
       "published_at": "2026-08-24T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeMM-Embedding",
-      "github_stars": 365,
+      "github_stars": 481,
       "project_page": "https://github.com/Tencent/WeMM-Embedding"
     },
     {
@@ -111,27 +111,8 @@
       "num_comments": 7,
       "published_at": "2026-08-19T20:00:00.000Z",
       "github_repo": "https://github.com/ant-research/4DAnyone",
-      "github_stars": 839,
+      "github_stars": 865,
       "project_page": "https://4danyone.github.io/"
-    },
-    {
-      "id": "2606.31227",
-      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
-      "authors": "Yong Yang, Xing Zheng, Huiyu Wu et al. (10 authors)",
-      "organization_name": "tencent",
-      "organization_fullname": "Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
-      "summary": "The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the security tooling available to defend it. We present AI-Infra-Guard, an open-source framework that organizes AI red teaming around a single observation: the attack surface of an AI agent is stratified across layers (infrastructure, protocol/tool, agent behavior, and model), and no single detection paradigm fits all of them. The framework therefore matches a paradigm to each layer, from deterministic rule matching over 75+ AI components and 1{,}400+ vulnerability rules, through LLM-driven agentic auditing of MCP servers and agent-skill packages and multi-turn black-box agent red teaming, to a jailbreak harness with 26+ attack operators over sixteen datasets. To our knowledge it is the only open-source framework to span all of these, including supply-chain auditing of the agent skills that increasingly extend AI agents. We release AI-Infra-Guard as open source so that layer-paradigm matching can serve as a practical foundation for agent security and a shared base for the community to build on.",
-      "ai_summary": "AI-Infra-Guard is an open-source framework that addresses AI infrastructure security through layered detection paradigms spanning infrastructure, protocol, agent behavior, and model layers.",
-      "hf_url": "https://huggingface.co/papers/2606.31227",
-      "arxiv_url": "https://arxiv.org/abs/2606.31227",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.31227.png",
-      "upvotes": 15,
-      "num_comments": 2,
-      "published_at": "2026-06-29T20:00:00.000Z",
-      "github_repo": "https://github.com/Tencent/AI-Infra-Guard",
-      "github_stars": 5995,
-      "project_page": "https://matrix.tencent.com/clawscan/"
     },
     {
       "id": "2308.04079",
@@ -153,23 +134,42 @@
       "project_page": null
     },
     {
-      "id": "2607.05391",
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "authors": "Jacky Kwok, Shulu Li, Pranav Atreya et al. (9 authors)",
+      "id": "2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "authors": "Zhifei Xie, Jiaqi Lang, Ze An et al. (10 authors)",
+      "organization_name": "nanyang-technological-university-singapore",
+      "organization_fullname": "Nanyang Technological University Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/637146c5afbe42caa5a75e1b/sZyHSA1AQaAS4nrGan682.png",
+      "summary": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain, an emotional right brain, and streaming memory I/O mechanisms. We further build a complete pipeline for memory-aware SLM training, long-horizon evaluation, and decoupled deployment with interchangeable memory backends. Experiments and real-world deployment show three advantages: i) Accuracy: under top-5 retrieval, the left brain outperforms classical systems such as Mem0 at top-200 by nearly 30 points; ii) Emotional & Personal: the right brain, with short- and long-horizon affective attribution and dual-node persona modeling, achieves state-of-the-art performance across three persona benchmarks and improves the aggregate score by 4.29 points over the previous best system; and iii) Real-Time & Cheap: VoiceMem completes retrieval in 134 ms, well within standard VAD latency, adding no extra conversational delay while maintaining high accuracy and low cost. These results show that VoiceMem provides a practical memory foundation for real-time, personalized, and emotionally aware speech interaction.",
+      "ai_summary": "VoiceMem introduces a dual-brain streaming memory architecture for speech language models that improves retrieval accuracy, emotional personalization, and real-time efficiency.",
+      "hf_url": "https://huggingface.co/papers/2608.26005",
+      "arxiv_url": "https://arxiv.org/abs/2608.26005",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.26005.png",
+      "upvotes": 150,
+      "num_comments": 1,
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "github_repo": "https://github.com/xzf-thu/VoiceMem",
+      "github_stars": 79,
+      "project_page": "https://xzf-thu.github.io/VoiceMem/"
+    },
+    {
+      "id": "2407.17789",
+      "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+      "authors": "Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)",
       "organization_name": null,
       "organization_fullname": null,
       "organization_avatar": null,
-      "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that prompt LLMs to produce discrete scores for candidate solutions, LLM-as-a-Verifier computes the expectation over the distribution of scoring token logits to generate continuous scores. This probabilistic formulation enables verification to scale along multiple dimensions: (1) score granularity, (2) repeated evaluation, and (3) criteria decomposition. In particular, we show that scaling the scoring granularity leads to better separation between positive and negative solutions, resulting in more calibrated comparisons. Moreover, scaling repeated evaluation and criteria decomposition consistently lead to additional gains in verification accuracy through variance and complexity reduction. We further introduce a cost-efficient ranking algorithm for selecting the best solution among candidates using the verifier's continuous scores. LLM-as-a-Verifier achieves state-of-the-art performance on Terminal-Bench V2 (86.5%), SWE-Bench Verified (78.2%), RoboRewardBench (87.4%), and MedAgentBench (73.3%). Beyond verification, the fine-grained signals from LLM-as-a-Verifier can also serve as a proxy for estimating task progress. We build an extension for Claude Code, enabling developers to monitor and improve their own agentic systems. Finally, we show that LLM-as-a-Verifier can provide dense feedback for RL, improving the sample efficiency of SAC and GRPO on robotics and mathematical reasoning benchmarks.",
-      "ai_summary": "LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2607.05391",
-      "arxiv_url": "https://arxiv.org/abs/2607.05391",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2607.05391.png",
-      "upvotes": 18,
-      "num_comments": 1,
-      "published_at": "2026-07-05T20:00:00.000Z",
-      "github_repo": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-      "github_stars": 2952,
-      "project_page": "https://llm-as-a-verifier.com/"
+      "summary": "Recent advances in large language models (LLMs) have opened new avenues for\napplying multi-agent systems in very large-scale simulations. However, there\nremain several challenges when conducting multi-agent simulations with existing\nplatforms, such as limited scalability and low efficiency, unsatisfied agent\ndiversity, and effort-intensive management processes. To address these\nchallenges, we develop several new features and components for AgentScope, a\nuser-friendly multi-agent platform, enhancing its convenience and flexibility\nfor supporting very large-scale multi-agent simulations. Specifically, we\npropose an actor-based distributed mechanism as the underlying technological\ninfrastructure towards great scalability and high efficiency, and provide\nflexible environment support for simulating various real-world scenarios, which\nenables parallel execution of multiple agents, centralized workflow\norchestration, and both inter-agent and agent-environment interactions among\nagents. Moreover, we integrate an easy-to-use configurable tool and an\nautomatic background generation pipeline in AgentScope, simplifying the process\nof creating agents with diverse yet detailed background settings. Last but not\nleast, we provide a web-based interface for conveniently monitoring and\nmanaging a large number of agents that might deploy across multiple devices. We\nconduct a comprehensive simulation to demonstrate the effectiveness of the\nproposed enhancements in AgentScope, and provide detailed observations and\ndiscussions to highlight the great potential of applying multi-agent systems in\nlarge-scale simulations. The source code is released on GitHub at\nhttps://github.com/modelscope/agentscope to inspire further research and\ndevelopment in large-scale multi-agent simulations.",
+      "ai_summary": "Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.",
+      "hf_url": "https://huggingface.co/papers/2407.17789",
+      "arxiv_url": "https://arxiv.org/abs/2407.17789",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.17789.png",
+      "upvotes": 46,
+      "num_comments": 2,
+      "published_at": "2024-07-25T01:50:46.000Z",
+      "github_repo": "https://github.com/modelscope/agentscope",
+      "github_stars": 29819,
+      "project_page": null
     },
     {
       "id": "2508.16279",
@@ -187,11 +187,11 @@
       "num_comments": 4,
       "published_at": "2025-08-22T06:35:56.000Z",
       "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 29759,
+      "github_stars": 29821,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-27T14:32:12.182770+00:00"
+  "fetched_at": "2026-08-28T00:16:02.793377+00:00"
 }

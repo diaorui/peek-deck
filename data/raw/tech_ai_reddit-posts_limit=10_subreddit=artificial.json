@@ -2,6 +2,39 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Blood drawing machine from China",
+      "author": "BeechTreeOakTree",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/",
+      "published": 1787839421.0,
+      "thumbnail": "https://external-preview.redd.it/OGY1eXp6cWhjeGxoMbXLeLeIKZCyXLDcAd4v0TsIHBFMSDWSA4H6EuEeoLuR.png?width=320&crop=smart&auto=webp&s=011f25348bac2d768a1c9b3f9b5a090f9e1e4bd0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay",
+      "author": "ComicSandsNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/",
+      "published": 1787863008.0,
+      "thumbnail": "https://external-preview.redd.it/84vHDM80MB9vT8X6h964oP2HSVz5AeT7rLKpOaXADjE.jpeg?width=640&crop=smart&auto=webp&s=251da94a71f3727f612783c1ccf450dfe7eb03fa",
+      "external_url": "http://comicsands.com/gates-warning-ai-turbulent-times",
+      "site_name": "Comic Sands",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mjg2MTAzOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDUyNDU5Nn0.Zb681IaCL4Eaf0rs43in9Fp5Ixl9xt5R3z68ket-VzY/img.png?width=192&height=192",
+      "description": "What do you think, folks?"
+    },
+    {
+      "title": "Hugging Face turned down a $7B Nvidia offer last year. The reported price now is $12.9B, and the reason isn't the chips.",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1vztx93/hugging_face_turned_down_a_7b_nvidia_offer_last/",
+      "published": 1787837116.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Nvidia has reportedly agreed to buy Hugging Face for about $12.9 billion, per The Information (unconfirmed by either company so far). Less than a year ago, Hugging Face turned down a roughly $7 billion Nvidia investment offer. That's close to a doubling in under a year, which is a strange trajectory for a company whose product is mostly a website where people upload model weights. Here's why this reads different from a normal chip-vendor acquisition. Hugging Face's product is distribution, not silicon - the default place OpenAI, Google, Amazon and Anthropic actually publish and download open models. Those four are all building or backing custom chips specifically to cut how dependent they are on Nvidia GPUs, and a lot of what comes out of that work still gets hosted and benchmarked through Hugging Face. Buying the hub doesn't touch any of those chip programs directly. It does put Nvidia inside the pipeline every rival's open-model strategy currently runs through, whether or not they wanted a chip vendor sitting in the middle of it. For anyone running infrastructure on top of this: does a change of ownership at Hugging Face actually move the needle on model availability, pricing, or hosting terms? Or does the neutral-hub reputation just get harder to keep once one shareholder has an obvious stake in the outcome? I genuinely don't know yet. Curious if anyone here has seen a similar \"the marketplace gets bought by one of its sellers\" situation play out before, and what actually changed for users once it did."
+    },
+    {
       "title": "Nvidia is buying Hugging Face for $12.9B. A simulation already had HF choosing stability over \u201copen everything.\"",
       "author": "amu4biz",
       "url": "https://www.reddit.com/r/artificial/comments/1vzm3fw/nvidia_is_buying_hugging_face_for_129b_a/",
@@ -24,93 +57,60 @@
       "description": "Let me put it like this, I wanna know what gives humans consciousness, like where does it come from? Is it something that emerged because of the complexity of the brain, or is it something hidden like a mystery box in the brain or somewhere else? I don't get it. What exact thing enables consciousness? If you can give an answer for me, I really do appreciate it. Thank you."
     },
     {
-      "title": "Robot dancing is getting pretty insane",
-      "author": "drgoldenpants",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyzr8c/robot_dancing_is_getting_pretty_insane/",
-      "published": 1787756930.0,
-      "thumbnail": "https://external-preview.redd.it/NWYwb3BuZzBqcWxoMarNVPVMNEzvmrW6udf20LoXrRxhB8NOcY7NsDFt8Cbd.jpeg?width=640&crop=smart&auto=webp&s=dec8d2b2f81f9165708ba68bb08125df077c3370",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Blood drawing machine from China",
-      "author": "BeechTreeOakTree",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/",
-      "published": 1787839421.0,
-      "thumbnail": "https://external-preview.redd.it/OGY1eXp6cWhjeGxoMbXLeLeIKZCyXLDcAd4v0TsIHBFMSDWSA4H6EuEeoLuR.png?width=320&crop=smart&auto=webp&s=011f25348bac2d768a1c9b3f9b5a090f9e1e4bd0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Hugging Face turned down a $7B Nvidia offer last year. The reported price now is $12.9B, and the reason isn't the chips.",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1vztx93/hugging_face_turned_down_a_7b_nvidia_offer_last/",
-      "published": 1787837116.0,
+      "title": "What should people actually learn to understand AI agents?",
+      "author": "AccomplishedLeg1508",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzw1aq/what_should_people_actually_learn_to_understand/",
+      "published": 1787842014.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Nvidia has reportedly agreed to buy Hugging Face for about $12.9 billion, per The Information (unconfirmed by either company so far). Less than a year ago, Hugging Face turned down a roughly $7 billion Nvidia investment offer. That's close to a doubling in under a year, which is a strange trajectory for a company whose product is mostly a website where people upload model weights. Here's why this reads different from a normal chip-vendor acquisition. Hugging Face's product is distribution, not silicon - the default place OpenAI, Google, Amazon and Anthropic actually publish and download open models. Those four are all building or backing custom chips specifically to cut how dependent they are on Nvidia GPUs, and a lot of what comes out of that work still gets hosted and benchmarked through Hugging Face. Buying the hub doesn't touch any of those chip programs directly. It does put Nvidia inside the pipeline every rival's open-model strategy currently runs through, whether or not they wanted a chip vendor sitting in the middle of it. For anyone running infrastructure on top of this: does a change of ownership at Hugging Face actually move the needle on model availability, pricing, or hosting terms? Or does the neutral-hub reputation just get harder to keep once one shareholder has an obvious stake in the outcome? I genuinely don't know yet. Curious if anyone here has seen a similar \"the marketplace gets bought by one of its sellers\" situation play out before, and what actually changed for users once it did."
+      "description": "There are a lot of agent tutorials focused on frameworks, but I\u2019m more interested in the fundamentals underneath them. A learning path I\u2019m currently building looks like: What is an Agent \u2192 Agent Loop \u2192 Function Calling \u2192 State/Memory \u2192 Context Engineering \u2192 Runtime/Harness \u2192 Multi-Agent Systems \u2192 Evaluation \u2192 Safety \u2192 Production Agents The early examples use plain Python so concepts like tool execution, control loops, state transitions, and runtime responsibilities are visible. I\u2019m curious what others think: What agent concepts are still poorly explained today? What would you add, remove, or reorder in this learning path? I\u2019m turning this into an open-source Zero \u2192 Hero repo here: https://github.com/tradertanmay/ai-agents-zero-to-hero"
     },
     {
-      "title": "What\u2019s one thing you refuse to let AI write for you?",
-      "author": "Pyrro-nft",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzk64t/whats_one_thing_you_refuse_to_let_ai_write_for_you/",
-      "published": 1787805741.0,
+      "title": "Goodbye HuggingFace - bought by Nvidia",
+      "author": "-Old-School-Cool-",
+      "url": "https://www.reddit.com/r/artificial/comments/1w03wlb/goodbye_huggingface_bought_by_nvidia/",
+      "published": 1787859106.0,
+      "thumbnail": "https://external-preview.redd.it/5a9MTkfj9XU_nDN45UYfAR4xkff44oAXihCs4BqxVZw.jpeg?width=640&crop=smart&auto=webp&s=a60723587792550b972871f7ffd4e3cbf7dcd201",
+      "external_url": "https://particle.news/share/t9uj4",
+      "site_name": "Particle News",
+      "favicon": "https://storage.googleapis.com/uploads.mongoosehq.com/icons/apple-touch-icon.png",
+      "description": "The purchase would give the chipmaker control of a central open-source model hub, raising questions about platform neutrality and security."
+    },
+    {
+      "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+      "author": "hakansan",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0730d/matraix_simulating_the_world_with_83_billion/",
+      "published": 1787866063.0,
+      "thumbnail": null,
+      "external_url": "https://arxiv.org/pdf/2608.04205",
+      "site_name": "arxiv.org",
+      "favicon": "https://arxiv.org/favicon.ico",
+      "description": "What do you think? could this help with designing election campaigns, validating products or features without focus groups, A/B testing and all that?"
+    },
+    {
+      "title": "how important will open source ai be in the next few years?",
+      "author": "Frosty_Dog_1560",
+      "url": "https://www.reddit.com/r/artificial/comments/1w072ey/how_important_will_open_source_ai_be_in_the_next/",
+      "published": 1787866023.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Curious where people draw the line with AI coding tools. Is there anything you still prefer to write yourself because you want to understand/control it completely?"
+      "description": "a lot of attention goes to the biggest commercial ai models, but open models keep becoming more capable and accessible. that could matter for developers, researchers and smaller companies that don\u2019t want to depend entirely on a handful of large providers i\u2019m curious whether open source models will eventually become a major alternative to proprietary ai, or whether the gap in infrastructure and resources will remain too large. where do you think this is heading?"
     },
     {
-      "title": "Bill Gates says there needs to be limits on AI",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/",
-      "published": 1787753535.0,
-      "thumbnail": "https://external-preview.redd.it/JkTjByyc7LIlkNeHRmbnECTTXf8Ucbyj7QvWEtcxVgk.jpeg?width=640&crop=smart&auto=webp&s=314440045266cb1b7ed99db1a51deb9d262087d3",
-      "external_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
-    },
-    {
-      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here\u2019s how it imploded.",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/",
-      "published": 1787747930.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "What Research Says About Structuring LLM Agent Harnesses",
-      "author": "rush86999",
-      "url": "https://www.reddit.com/r/artificial/comments/1vztc1g/what_research_says_about_structuring_llm_agent/",
-      "published": 1787835669.0,
-      "thumbnail": "https://external-preview.redd.it/juBDQ7-4VxiatdsvsLXy6u0pW1Fhk2veHxHTMDLCwig.png?width=640&crop=smart&auto=webp&s=23fea2e2462ebbe072241c1a228aac3217a1144b",
-      "external_url": "https://github.com/rush86999/atom/blob/main/docs/architecture/AGENT_HARNESS_RESEARCH.md",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation - rush86999/atom"
-    },
-    {
-      "title": "AI assistant that's ~mechanical sounding~ on purpose",
-      "author": "daxninerniner",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzo7xn/ai_assistant_thats_mechanical_sounding_on_purpose/",
-      "published": 1787819742.0,
+      "title": "How are you getting Claude to write to existing Google Drive files?",
+      "author": "assistir_cps",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0b1ee/how_are_you_getting_claude_to_write_to_existing/",
+      "published": 1787875722.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I'm generally pretty anti-ai, primarily because I know how easy it would be to become over reliant on it but there are some aspects of some AI assistants that would admittedly be quite useful and could save me some time here and there. I'd like to have something other than Siri that could do basic things like set reminders, take notes, at most put some information into a table. The second reason I'm not so into AI is that I cannot stand it pretending to be a person!! I don't want my computer to say \"sorry\" or \"that's a great idea!\" I want it to be less anthropomorphised than the computer in Star Trek. Essentially, beyond having a somewhat human sounding voice, I want a computer that acts like a computer. Is there anything out there that's as charismatic as coding? TIA"
+      "description": "Claude's connector only creates new files, doesn't edit existing ones unlike ChatGPT. Any workaround?"
     }
   ],
-  "fetched_at": "2026-08-27T14:32:02.070742+00:00"
+  "fetched_at": "2026-08-28T00:15:57.498270+00:00"
 }

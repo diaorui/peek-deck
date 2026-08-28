@@ -61,18 +61,18 @@
       "site_name": "davidebtc186.substack.com"
     },
     {
-      "title": "Satd (Full Bitcoin Node in Rust): Guided Code Tour",
-      "url": "https://epochbtc.github.io/satd/tour.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49380553",
-      "author": "epochbtc",
+      "title": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
+      "url": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
+      "hn_url": "https://news.ycombinator.com/item?id=49472609",
+      "author": "Jimmc414",
       "points": 2,
       "num_comments": 0,
-      "created_at": "2026-08-20T21:32:05Z",
-      "object_id": "49380553",
-      "image": null,
-      "description": "A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.",
-      "favicon": "https://epochbtc.github.io/favicon.ico",
-      "site_name": "epochbtc.github.io"
+      "created_at": "2026-08-27T23:31:16Z",
+      "object_id": "49472609",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png",
+      "description": "The Bitcoin Lightning software project said it is preparing fixes after confirming that several AI-made vulnerability reports were accurate.",
+      "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-96x96.png",
+      "site_name": "Decrypt"
     },
     {
       "title": "Recover a Bitcoin private key from its public key, in the browser",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-08-27T14:32:04.179788+00:00"
+  "fetched_at": "2026-08-28T00:15:54.707331+00:00"
 }

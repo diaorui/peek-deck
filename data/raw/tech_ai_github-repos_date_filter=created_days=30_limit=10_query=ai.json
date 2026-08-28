@@ -8,9 +8,9 @@
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 18684,
-      "stars_display": "18.7k",
-      "forks": 2172,
+      "stars": 18768,
+      "stars_display": "18.8k",
+      "forks": 2179,
       "forks_display": "2.2k",
       "language": "Python",
       "topics": [
@@ -20,28 +20,7 @@
         "c2pa",
         "chatgpt"
       ],
-      "updated_at": "2026-08-27T14:29:32Z"
-    },
-    {
-      "full_name": "yc-software/qm",
-      "name": "qm",
-      "owner": "yc-software",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4",
-      "description": "Multiplayer agent harness for work.",
-      "url": "https://github.com/yc-software/qm",
-      "preview_image": "https://opengraph.githubassets.com/887bf85742203fa8808db62121e36bc760e48eb0ad5d019d92213579f6783d17/yc-software/qm",
-      "stars": 14257,
-      "stars_display": "14.3k",
-      "forks": 1707,
-      "forks_display": "1.7k",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "assistant",
-        "harness",
-        "qm"
-      ],
-      "updated_at": "2026-08-27T00:13:51Z"
+      "updated_at": "2026-08-27T22:57:57Z"
     },
     {
       "full_name": "trycompai/crm",
@@ -51,9 +30,9 @@
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
       "preview_image": "https://opengraph.githubassets.com/5305664a3ce9d3527c0a67961dc30b9df9a72bd0919701974a2d9d7dab71b195/trycompai/crm",
-      "stars": 8987,
+      "stars": 9015,
       "stars_display": "9.0k",
-      "forks": 1106,
+      "forks": 1110,
       "forks_display": "1.1k",
       "language": "TypeScript",
       "topics": [],
@@ -67,10 +46,10 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux \u2014 Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "url": "https://github.com/genspark-ai/genoffice",
       "preview_image": "https://opengraph.githubassets.com/5df04bb07da1dd2c9dc1104beb608b684873ef61b19ddde71a49b2b32231f5dd/genspark-ai/genoffice",
-      "stars": 3803,
+      "stars": 3816,
       "stars_display": "3.8k",
-      "forks": 626,
-      "forks_display": "626",
+      "forks": 627,
+      "forks_display": "627",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -79,7 +58,7 @@
         "electron",
         "excel"
       ],
-      "updated_at": "2026-08-27T10:14:38Z"
+      "updated_at": "2026-08-27T15:17:01Z"
     },
     {
       "full_name": "KKKKhazix/human-writing",
@@ -89,10 +68,10 @@
       "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
       "url": "https://github.com/KKKKhazix/human-writing",
       "preview_image": "https://opengraph.githubassets.com/20e5fc64ef497059a980340c4c1db067b1ba00310c81a7f62835117e0d543438/KKKKhazix/human-writing",
-      "stars": 3186,
+      "stars": 3196,
       "stars_display": "3.2k",
-      "forks": 254,
-      "forks_display": "254",
+      "forks": 255,
+      "forks_display": "255",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -103,22 +82,6 @@
       "updated_at": "2026-08-11T15:07:45Z"
     },
     {
-      "full_name": "yetone/cumora",
-      "name": "cumora",
-      "owner": "yetone",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "url": "https://github.com/yetone/cumora",
-      "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3174,
-      "stars_display": "3.2k",
-      "forks": 385,
-      "forks_display": "385",
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-08-27T09:00:23Z"
-    },
-    {
       "full_name": "CopilotKit/OpenBot",
       "name": "OpenBot",
       "owner": "CopilotKit",
@@ -126,10 +89,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 3141,
-      "stars_display": "3.1k",
-      "forks": 384,
-      "forks_display": "384",
+      "stars": 3183,
+      "stars_display": "3.2k",
+      "forks": 388,
+      "forks_display": "388",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -138,7 +101,23 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-08-26T23:04:25Z"
+      "updated_at": "2026-08-27T23:14:29Z"
+    },
+    {
+      "full_name": "yetone/cumora",
+      "name": "cumora",
+      "owner": "yetone",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
+      "stars": 3175,
+      "stars_display": "3.2k",
+      "forks": 386,
+      "forks_display": "386",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-08-27T16:56:54Z"
     },
     {
       "full_name": "Leonxlnx/unlazy",
@@ -148,10 +127,10 @@
       "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
       "url": "https://github.com/Leonxlnx/unlazy",
       "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
-      "stars": 2624,
-      "stars_display": "2.6k",
-      "forks": 152,
-      "forks_display": "152",
+      "stars": 2652,
+      "stars_display": "2.7k",
+      "forks": 153,
+      "forks_display": "153",
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -170,10 +149,10 @@
       "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "preview_image": "https://opengraph.githubassets.com/399f89e2d856a4b1ed13c2aecdf78e0fab60f9aff9777e31d743d9d64abebd79/wang2122/sprix-sage-router",
-      "stars": 2330,
-      "stars_display": "2.3k",
-      "forks": 130,
-      "forks_display": "130",
+      "stars": 2371,
+      "stars_display": "2.4k",
+      "forks": 190,
+      "forks_display": "190",
       "language": "Python",
       "topics": [
         "a2a",
@@ -192,19 +171,41 @@
       "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "preview_image": "https://opengraph.githubassets.com/3b6110394ae25749201c1dbfcc512023efe7d25a9c1e888851850c99c7ae752b/eternityspring/shuohao-skills",
-      "stars": 2263,
+      "stars": 2290,
       "stars_display": "2.3k",
-      "forks": 282,
-      "forks_display": "282",
+      "forks": 285,
+      "forks_display": "285",
       "language": "JavaScript",
       "topics": [],
       "updated_at": "2026-08-26T14:20:50Z"
+    },
+    {
+      "full_name": "fuxicodex/Fuxi",
+      "name": "Fuxi",
+      "owner": "fuxicodex",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/292959175?v=4",
+      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "preview_image": "https://repository-images.githubusercontent.com/1322651268/b2b9520d-603d-4bbe-99cb-8fef2039d97a",
+      "stars": 2275,
+      "stars_display": "2.3k",
+      "forks": 69,
+      "forks_display": "69",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "autonomous-agent"
+      ],
+      "updated_at": "2026-08-23T10:16:40Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2026-07-28",
+  "search_query": "ai created:>2026-07-29",
   "days": 30,
   "limit": 10,
-  "total_count": 453827,
-  "fetched_at": "2026-08-27T14:32:00.794390+00:00"
+  "total_count": 443222,
+  "fetched_at": "2026-08-28T00:15:51.959387+00:00"
 }
