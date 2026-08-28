@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5",
-      "pub_date": 1787841085.0,
-      "article_url": "https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108168723-1751964494910-gettyimages-2198288472-widak-photoill250210_npye7.jpeg?v=1751965792&w=1920&h=1080",
-      "description": "Nvidia is optimizing hardware for DeepSeek and Qwen while warning that potential U.S. restrictions on models originating in China could hurt its business."
-    },
-    {
-      "headline": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
-      "pub_date": 1787793960.0,
-      "article_url": "https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion",
-      "image": "https://tii.imgix.net/production/articles/17723/ee855d19-00fd-4897-8069-51a139de33cf.jpg?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "Nvidia has agreed to buy Hugging Face, a company known for its GitHub-like repository of open-source AI models, for $12.9 billion, according to a person with knowledge of the agreement. The move will put Nvidia in charge of a strategic asset in the race among open-source model developers to ..."
-    },
-    {
-      "headline": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5",
-      "pub_date": 1787867160.0,
-      "article_url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
+      "headline": "Some Scientists Have \u2018Magic Hands\u2019 in the Lab. This A.I. Is Learning Why.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
-      "pub_date": 1787790244.0,
-      "article_url": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlJGVXBLc3hNRmt6N0laMG5iY2V3aDB1OXpJYmpKbEl2Xy00SjBPRlZMZUVnb1hwNHVkYURvN2pSS0k2TW1SQ1ZaYUxPaUhBaC1iZjR4azc0ZUNYQzY3clg5X3JLWnI0RDRLQ1J3YXBobTRhMEx4V2JKdjhTbS1MVmQtVkVGZTM5bWo5NWpB?oc=5",
+      "pub_date": 1787821262.0,
+      "article_url": "https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bill Gates proposes major limits on AI development",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MM0tMdlVIZW1SXzhxY1ZORHpMVnFDT01QRER5VEo3OFFNLWVkTGJmZldndGphUGo3NVJfcDNpT2lNTEpPMTNJY3k0X25BdVo2c05xZ0lVUk9ZLS0zVTZ0WFY4Y01IajhUZ3YxU3ptZWtPS0NRVlNhNA?oc=5",
-      "pub_date": 1787753379.0,
-      "article_url": "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-21t094424z-994001427-rc2l5jaxald7-rtrmadp-3-davos-meeting.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Microsoft co-founder Bill Gates says there need to be significant limits placed on artificial intelligence or else the harm to humans will outweigh any potential good."
-    },
-    {
-      "headline": "The turbulent AI era is here. The choices we make now are critical.",
-      "source": "gatesnotes.com",
-      "source_url": "https://www.gatesnotes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "pub_date": 1787866115.0,
-      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "headline": "Cisco Gave All 90,000 Employees Their Own AI Agent",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHNfQUdwUDdSMlFWRVB1M2FDWXc0YUFPSWV1LUxnNnJCS1JfOC1xYlZnMHNJU2VPZ1ppZ1lPVi1pdnV6eGdmcEs4aklhUnBKZlg3eWdtRFNic3d1YUdva280TWl0bDE1TElFRkJIZWYwQzhPRW56NE5SdXZIUHV6ZlFId2ZTTExQcGU4el94UjBySkg4WXc?oc=5",
+      "pub_date": 1787836140.0,
+      "article_url": "https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc",
       "image": null,
       "description": null
     },
     {
-      "headline": "Tech giants warn time is running out to prepare for AI threats",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZjbXVGeWV6Uk82dmM1SDlhMml2dEFiVTdjdHJYenNYXzVKZ2MzdkxxVVYyTWN5a3Y3alo3NHFfU2NfT3pjeC1aR2VVT0UtcThKb2MycDljNVg1OTFYblFvU1BmVS1aR2IwSldCclZfTHNKNVg2bUU4N0c5UEdjSWpOTzJLNEJW?oc=5",
-      "pub_date": 1787851418.0,
-      "article_url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'We have a limited window': 116 companies, entities sign on to major AI cyber defense push",
+      "headline": "Anthropic pushes into physical world with new standard to help AI agents operate machines",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5",
-      "pub_date": 1787852900.0,
-      "article_url": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108227989-1763533629489-gettyimages-2242189230-20090101251022-99-402650.jpeg?v=1773154443&w=1920&h=1080",
-      "description": "The letter also urged a coordinated government effort to make cyber defense accessible to critical infrastructure under pressure."
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRE9pN0ZXS1ItNVdDQmJZbGtPYzdQRUJtaEF5cU8yajZGRkFzUC11WXlqSDViZS1feTJ2a05iQTNveG1UeThiNVNKUFU0d21NMkFiWTVFQjdHbDBhVzlEbEp6d2FvQVVVR3VwWnJIUGV4U0p6VlR0U0dhYWhFSm1rMUZJbzhiT0V3TVlSeGFMZVhzSlVzSXVwYkpUVlNqZjhSX3JwZ2hLRmRrZVJldm5qcFh3b3dIVWtycWJXTXRQaG1IcFFs0gHKAUFVX3lxTFA4X09HaXl2TVgxZWVFWkxZZmU0UC1RUXB1cEkwZFRPNkIweVh5b2J2aHlhRFludUpfMU9SdHpqdkItVUV4OUdnaU54UkpiWnhXVVNXUEZpNl8wNkkwdUNGalRTSzFhdnE0WjN0dmotV25QQVRwcnhZVERwMkdNUDZ0X0NGZWdIYm9oc3B4YmRXd1puNXpwY2p1MFpKRU9FbnBPNzBhODNraS1EeFRRbzZCaWZTY2R3aVcteG1LY1VXcmtJSlE4dkZOOXc?oc=5",
+      "pub_date": 1787853613.0,
+      "article_url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342840-1785448082345-gettyimages-2280291202-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+      "description": "The Model Hardware Standard is initially available in a research preview, but Anthropic plans to open source it in the future."
     },
     {
-      "headline": "Tech companies write open letter calling for collective action against AI-enabled cyber attacks",
-      "source": "Sky News",
-      "source_url": "https://news.sky.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQU5UZjROS2dKeFYtbEVnSWdSVXFHQVlMLVJ5TVRDcDVBbU5pVzl1b0pwSUZXV0JoamVnVXUtWjExQkJFcURFbzl6UkhxYnRRczFoTFlfZS1WTzJSTml0MlVEaC02R3JIeU9MbGk4OUs1cjNYSEhDdGQ0S291WVJsRGExQ3hCRDhwTDRXbnNPdHRfSnBnc2VZVzBObVJ3bWI1azVSelZ1TXZNQUVyNEk2bDEyWjJhcnNIdjVmaVpvdFl0ZUhoeVYwbzRjaw?oc=5",
-      "pub_date": 1787869873.0,
-      "article_url": "https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985",
+      "headline": "Previewing the Model Hardware Standard",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
+      "pub_date": 1787853491.0,
+      "article_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/5008271abbababe59f4fbb01998697f7dd0b5b60-1280x720.jpg",
+      "description": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
+    },
+    {
+      "headline": "AI is changing how Chicago singles find dates",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNjU1NFdja0E4MnA0bGlxV0tRek1ndmxUeXh6TEhNMkJxZnA5aENSSDNWQUIzSlNNRVRPb3hMd29ZSUlwYVlqbjA0YXZ1eE0wdFZYTkRkSFZ0U1J5TkZqaXVDLTREZUNJbERzQV9acmtwNmdjRTk3X2pNTGJPRzdzX0V5OFVGSG1hMVFzeHZTU3o?oc=5",
+      "pub_date": 1787915960.0,
+      "article_url": "https://www.axios.com/local/chicago/2026/08/28/ai-dating-apps-matchmakers-relationships",
       "image": null,
       "description": null
     },
     {
-      "headline": "China\u2019s AI Boom Has a Favorite Bar",
+      "headline": "One of the world's hottest industries is sparking a blue-collar jobs boom",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGRldlhyYjdtRTk5YjQwT1lKbUtET3UxUjIzVFkwUEFwNWZvTm1ESHQwY3B2cTRtaUNJcWJDTy1qSDB6UFprWEVBb2ZqSmdILUYtLUlKQ3dNb1V2YzJDdDB0S2lTZVE3azBHTXpiMGxnWmcwdzFjd0J5WmhQVktVRUIyektpcTQ0akpmR1NsZFBkMmfSAZgBQVVfeXFMT1haX05EM2dvTGtCNEVHX1BuWm9Na2w5aEd2WFlFN2UwcjhybDZab0JiVERQRnIzYmNDSmRCTnRZN1N1Vm1jWm4zNU43a2c5UmJPdUs5azRLUVJkMGl1SjlrQkRsWTE4MkdlMVc0cTZfZjQ4Q0kzVTlCRVVfQ0JJYWRWclRpNWNmakVvYXl5TDMzYVpxMjNYLU4?oc=5",
+      "pub_date": 1787913197.0,
+      "article_url": "https://www.foxnews.com/politics/worlds-hottest-industries-sparking-blue-collar-jobs-boom",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/construction-workers-american-flag-site.png",
+      "description": "AI infrastructure spending is projected to drive U.S. industrial construction to $684 billion by 2031, creating massive demand for skilled trades workers."
+    },
+    {
+      "headline": "Chinese Chipmaker CXMT\u2019s Sales Jump 10-Fold As AI Demand Soars",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3g0UnAtc1YtSWJTM3RuMWNmLVpLSDA3UUFsZUNNeDNMbV9RNTlFVzdGX09iQWlYY3pZVGFoNnEtOXFESWk5Rl9HaUtGZ3M0S1JkZm9sNURSVklyS0M4bDhMaVhsRFBiUUNVdGN1dUdDQkUxRXpUd1prQTZRNGtTWS01aHJqMXZSS21HQzk3WWN2NEtlYVlGT1h3dTFRZV8xRlE?oc=5",
-      "pub_date": 1787873401.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-08-27/inside-agi-bar-the-hub-of-china-s-ai-startup-boom",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTYybXY0Nng3bERaOXItYlNBbHhRTnJSTWpmRmkwUTNydlJ3TXpaTWVyN0RmSF91SGV1UXRHenVLMnNQMUJIWWRtcnlHVmwxSDNQdlBGN1RWSTExOHBNaGNWUHJvbldHVzE1alViZVlHbWxlcG8td21XWnJjbGdpWW10c2tTcDZ5bDdJUTZyTmNWVkl4WHVCN0ZnX2x2MDZOV1NwRUJ0MW9vNF8yQk5XcDdqYw?oc=5",
+      "pub_date": 1787912673.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-chipmaker-cxmt-s-sales-jump-10-fold-as-ai-demand-soars",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "3 new ways to plan and book travel in Search",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2R2VDlFTzNETmpKV29RTFBkajAyVHZpQ292QVQ3eldjbFdPSGdLQ2dvUjc3NHRSME1IWHRUNVZnWUZhR3ZaUm5xaHM1VDZBU042SzlfUDE1R0N3SGdPOUx1YjRVSUc3cWlwazZuZmItQXllREZ5Zzk2b1FsLU5FQ3JHeDUxUQ?oc=5",
+      "pub_date": 1787847478.0,
+      "article_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.width-1300.png",
+      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
+    },
+    {
+      "headline": "AI is changing religion and religions are trying to change AI",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcC1NRzIxOHVUSldTRF9wT1NRUHFQT2Riam1GYkNCWDU3b3pTekpBeU5iZDB3VWY4OGdfc3VwMTJCbHJsMG01dDJYVlZBeWs0cDhUcmtkOXYtZ3NtZXpDQzBlNG1ady1CNW9naUtmeDRvbDFkLVVpQmhkdU05ZFNUNkl2UUNCdmZDNldaUG9taDY2WTNSWTBSZ3dfY0JUelA0ZlZwUmQxbXN1S0Zpb2lQM3p3?oc=5",
+      "pub_date": 1787839338.0,
+      "article_url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlZJbi1FeDJrVHdzOGFoVWNKTG5MNFpVVDFyc0ZDM3RfYmVXZWtDMlZlYzVLelZ6MVliWGlqYlR5U2hPZGhDXzcyMEsxTU5VbF9UeExqLXBaTF9aVnZsNndBNXMtNUpqazNVcjFlQW5aUUJ4TDR1dm5mbnVDMFkxQzFXQUtjZHM5Y01ndTZBb2M?oc=5",
+      "pub_date": 1787907600.0,
+      "article_url": "https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-28T00:16:23.817179+00:00"
+  "fetched_at": "2026-08-28T11:40:02.790412+00:00"
 }

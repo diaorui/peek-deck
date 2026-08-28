@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Blood drawing machine from China",
-      "author": "BeechTreeOakTree",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/",
-      "published": 1787839421.0,
-      "thumbnail": "https://external-preview.redd.it/OGY1eXp6cWhjeGxoMbXLeLeIKZCyXLDcAd4v0TsIHBFMSDWSA4H6EuEeoLuR.png?width=320&crop=smart&auto=webp&s=011f25348bac2d768a1c9b3f9b5a090f9e1e4bd0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay",
       "author": "ComicSandsNews",
       "url": "https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/",
@@ -24,6 +13,94 @@
       "description": "What do you think, folks?"
     },
     {
+      "title": "The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0j50w/the_job_market_is_hell_young_people_are_using/",
+      "published": 1787899984.0,
+      "thumbnail": "https://external-preview.redd.it/ipae4rTVOiGex6NbbKTreqq5-O7xAGTJlQ9sDM91uRs.jpeg?width=640&crop=smart&auto=webp&s=d2d2ba5644fe7c9e77831291466f9735f5817b5d",
+      "external_url": "https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/",
+      "site_name": "The Atlantic",
+      "favicon": "https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-default-b504d70343a9438df64c32ce339c7ebc.png",
+      "description": "Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired."
+    },
+    {
+      "title": "Blood drawing machine from China",
+      "author": "BeechTreeOakTree",
+      "url": "https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/",
+      "published": 1787839421.0,
+      "thumbnail": "https://external-preview.redd.it/OGY1eXp6cWhjeGxoMbXLeLeIKZCyXLDcAd4v0TsIHBFMSDWSA4H6EuEeoLuR.png?width=320&crop=smart&auto=webp&s=011f25348bac2d768a1c9b3f9b5a090f9e1e4bd0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Australia just banned fully AI-generated songs from its official charts. Is that fair?",
+      "author": "Content-Cheetah-6958",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/",
+      "published": 1787908306.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": "AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australia\u2019s official charts. I understand the reasoning, but the line could get messy. Using AI for mastering is clearly different from typing one prompt and releasing the result\u2014but there\u2019s a huge gray area between those two. Should charts judge how a song was created, or only whether people genuinely want to listen to it? Source: https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/"
+    },
+    {
+      "title": "Building AI agents is the easy part now. Running them in a real organization is where things get complicated!",
+      "author": "Many_Audience7660",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0j7rx/building_ai_agents_is_the_easy_part_now_running/",
+      "published": 1787900266.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Something I keep noticing... The demos are getting really good. The technology works. Teams can build agents that actually do useful things. Then someone asks, \"Okay, how do we deploy this?\" And suddenly everything gets complicated. Who owns it when something goes wrong? What version is actually running? Can you see what it did three weeks ago? Who can change it? How are those changes tracked? For regular software, most organizations already have answers to these questions. But for agents, a lot of teams still seem to be working it out. That is why the idea of an agent control plane is interesting to me. Basically, a governance and deployment layer that sits above the individual agents and frameworks. I came across Lyzr's Control Plane while looking into this space. And yes there are others working on similar problems too, which probably says something about where the ecosystem is heading. Maybe the real bottleneck for enterprise agents is no longer \"can we build it?\" It is \"can we safely operate 50 of these exactly at once?\" Also, do you guys know of any other agent control planes that you feel actually solve this problem well Would be interested to see what people are actually using in production. What do you think is actually killing most AI pilots before they reach production?"
+    },
+    {
+      "title": "AI is not smarter than us human, it never",
+      "author": "Former-Towel9004",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0o3s4/ai_is_not_smarter_than_us_human_it_never/",
+      "published": 1787916992.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI is just have more knowledge, but their intelligence is still really really far below even average people. Knowledge and intelligence is 2 COMPLETELY different things. And intelligence is more valuable or useful than knowledge, because intelligence is the one that help us all understand or learn something that we don't understand or doesn't know. The knowledge we have is finite or limited, and something that we don't know or understand outside our knowledge right know COULD BE infinite"
+    },
+    {
+      "title": "Gemini gave me its rules",
+      "author": "Savings_Ad5856",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0nxc3/gemini_gave_me_its_rules/",
+      "published": 1787916449.0,
+      "thumbnail": "https://preview.redd.it/l36zmqjjp3mh1.jpeg?width=640&crop=smart&auto=webp&s=5a90366dac255b97b950088ad489a4607cca2aa2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Spooked me, not sure if this is normal or seen before a lot I have more screenshot but idk how to attach I rarely post"
+    },
+    {
+      "title": "Amazon SDE Interview",
+      "author": "Senior-Reception8110",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0cpaj/amazon_sde_interview/",
+      "published": 1787880193.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sharing my interview experience after Amazon SDE - Location - USA After applying for 6+ months and 44 applications finally my resume got picked. OA: One coding question & AI assisted coding. Coding question - Medium Level LC AI assisted coding - It was completely new but was able to do it, lots of debugging, heavily concentrated on OOPS Cleared the OA and moved to the interview loop 4 rounds - 3 in one day & 1 the next day Round 1: Coding Question: Returning adjacent letters in a string and there are three sub questions in it. Leetcode - Medium - Hard Before the start of the coding round, Formal introductions and jumped straight into coding, I have used heap for this and solved it using max heap, was able to communicate the solution and thought process. The interviewer was not at all satisfied with the high level explanation and he kept digging till the last line, he literally asked what's the logic of heap in the backend and how do you make it better ? I got blanked but was able to answer it. He went line by line and kept grilling till he got satisfied and was asking for an alternative approach to the optimal solution. I have previously experienced in interviews like these but this is grilling on a whole different level. Finally after 50 minutes the coding closed with time complexity. He didn't care about LP's at all just a formal two questions and asked me about my previous work ex. I'm explaining to him but he kept interrupting and asking for every minute detail , he literally asked What's Collateral and Asset ? I felt he's not at all satisfied with anything that I came up with but however it ended. Round 2: System Design - Log parser First formal introductions and then 20 minutes of LP's and dug a bit into my internship and work experience. Felt smooth and had a great conversation. Then jumped into system design and asked me to implement the log parser for 10k+ log files as I remember, I was able to implement the solution and the interviewer kept digging till the last minute, kept asking line by line again but she seemed fine and satisfied. The time went overboard for 5 minutes and then she stopped the interview. Round 3: Hiring Manager & Coding Formal introductions and the hiring manager told me that he's the hm for the interview. Codin question again, Leet Code - Medium I guess. First 20 minutes LP's and then coding round, It was completely OOPS and I was able to solve the question in 30 minutes, I felt this was the best round as he was satisfied with my high level explanation and he got the gist of what I was trying to explain and then asked me about my internship and finally he asked me if I'm open to the S3 team as he had a opening - I thought I had it \ud83d\ude2d It's a pretty great conversation, he was satisfied with most of my answers and dug a bit deep but was able to answer them as well. Next day - Round 4: Leadership Principles Started off with formal introductions and then told that no matter the result, you should be proud of yourself that you've come this far. Sometimes the Amazon hiring bar is so high you shouldn't be demotivated about the result. Felt completely off guard and strange but whatever. Completely Leadership Principles with no coding or system design, was asking me about the situations that I have faced in my work ex and how I would've handled better, anything that I went aboard and took an initiative. Felt nice about the flow of the conversation, then multiple follow up questions on each explanation and situation. Was able to answer the whole thing. Concluded the LP's in 45 minutes. He told me you gotta celebrate man - Felt wow !! After two days: They told me they're not proceeding with my application. No feedback or anything Followed up multiple times regarding the feedback considering Amazon would give the feedback but no reply from the recruiter. I really thought I had it but I'm not sure where it went wrong, any thoughts on the experience ?"
+    },
+    {
+      "title": "Did OpenCode Go change, or am I chasing a coincidence?",
+      "author": "l33thax0r_",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0lqpm/did_opencode_go_change_or_am_i_chasing_a/",
+      "published": 1787909348.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "DeepSeek V4 Flash on OpenCode Go has started feeling kind of dumb to me. It is occasional, which makes it harder to pin down. A response will run long and still seem to miss what I asked. I first noticed it two or three days after DeepSeek changed the official pricing. The timing made me suspicious, but timing is all I have. I cannot connect that change to whatever OpenCode is serving. The official V4 Flash 0731 feels noticeably different to me, and that is the part I cannot explain. I am treating this as an AI model routing question for now. ZenMux lets me send the same API request through different models and providers, so my next step is to compare the Go route, the official route, and a third route side by side instead of guessing from timing. Has anyone done a recent comparison and seen the same gap?"
+    },
+    {
       "title": "Hugging Face turned down a $7B Nvidia offer last year. The reported price now is $12.9B, and the reason isn't the chips.",
       "author": "Servola-Journal",
       "url": "https://www.reddit.com/r/artificial/comments/1vztx93/hugging_face_turned_down_a_7b_nvidia_offer_last/",
@@ -33,84 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Nvidia has reportedly agreed to buy Hugging Face for about $12.9 billion, per The Information (unconfirmed by either company so far). Less than a year ago, Hugging Face turned down a roughly $7 billion Nvidia investment offer. That's close to a doubling in under a year, which is a strange trajectory for a company whose product is mostly a website where people upload model weights. Here's why this reads different from a normal chip-vendor acquisition. Hugging Face's product is distribution, not silicon - the default place OpenAI, Google, Amazon and Anthropic actually publish and download open models. Those four are all building or backing custom chips specifically to cut how dependent they are on Nvidia GPUs, and a lot of what comes out of that work still gets hosted and benchmarked through Hugging Face. Buying the hub doesn't touch any of those chip programs directly. It does put Nvidia inside the pipeline every rival's open-model strategy currently runs through, whether or not they wanted a chip vendor sitting in the middle of it. For anyone running infrastructure on top of this: does a change of ownership at Hugging Face actually move the needle on model availability, pricing, or hosting terms? Or does the neutral-hub reputation just get harder to keep once one shareholder has an obvious stake in the outcome? I genuinely don't know yet. Curious if anyone here has seen a similar \"the marketplace gets bought by one of its sellers\" situation play out before, and what actually changed for users once it did."
-    },
-    {
-      "title": "Nvidia is buying Hugging Face for $12.9B. A simulation already had HF choosing stability over \u201copen everything.\"",
-      "author": "amu4biz",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzm3fw/nvidia_is_buying_hugging_face_for_129b_a/",
-      "published": 1787812164.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Nvidia agreed to buy Hugging Face for $12.9B. The Information first, Reuters after. Same Nvidia HF turned down last year at $7B, when they said they didn\u2019t want one investor big enough to steer the company. Now the place that hosts basically every open-weight model belongs to the company that sells the GPUs those models run on. In July someone ran a completely unrelated scenario through MiroShark ,open-source sim, agents arguing a situation out. The simulation showcased the agents behalf of HF defended hard when their infrastructure was the thing at risk. The simulation basically showcased: even the open-source people pick institutional stability once their own position is on the line. A simulation got the character of HF right a month early. Simulations help bring to light how an actor would behave in a more psychological manner. Hugging Face is Nvidia\u2019s now. Honest question: thoughts on the acquisition, and how advanced simulation has got to a point of understanding human psychology."
-    },
-    {
-      "title": "What enables the consciousness in humans?",
-      "author": "SuccessfulOrange7548",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzsu8d/what_enables_the_consciousness_in_humans/",
-      "published": 1787834401.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Let me put it like this, I wanna know what gives humans consciousness, like where does it come from? Is it something that emerged because of the complexity of the brain, or is it something hidden like a mystery box in the brain or somewhere else? I don't get it. What exact thing enables consciousness? If you can give an answer for me, I really do appreciate it. Thank you."
-    },
-    {
-      "title": "What should people actually learn to understand AI agents?",
-      "author": "AccomplishedLeg1508",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzw1aq/what_should_people_actually_learn_to_understand/",
-      "published": 1787842014.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There are a lot of agent tutorials focused on frameworks, but I\u2019m more interested in the fundamentals underneath them. A learning path I\u2019m currently building looks like: What is an Agent \u2192 Agent Loop \u2192 Function Calling \u2192 State/Memory \u2192 Context Engineering \u2192 Runtime/Harness \u2192 Multi-Agent Systems \u2192 Evaluation \u2192 Safety \u2192 Production Agents The early examples use plain Python so concepts like tool execution, control loops, state transitions, and runtime responsibilities are visible. I\u2019m curious what others think: What agent concepts are still poorly explained today? What would you add, remove, or reorder in this learning path? I\u2019m turning this into an open-source Zero \u2192 Hero repo here: https://github.com/tradertanmay/ai-agents-zero-to-hero"
-    },
-    {
-      "title": "Goodbye HuggingFace - bought by Nvidia",
-      "author": "-Old-School-Cool-",
-      "url": "https://www.reddit.com/r/artificial/comments/1w03wlb/goodbye_huggingface_bought_by_nvidia/",
-      "published": 1787859106.0,
-      "thumbnail": "https://external-preview.redd.it/5a9MTkfj9XU_nDN45UYfAR4xkff44oAXihCs4BqxVZw.jpeg?width=640&crop=smart&auto=webp&s=a60723587792550b972871f7ffd4e3cbf7dcd201",
-      "external_url": "https://particle.news/share/t9uj4",
-      "site_name": "Particle News",
-      "favicon": "https://storage.googleapis.com/uploads.mongoosehq.com/icons/apple-touch-icon.png",
-      "description": "The purchase would give the chipmaker control of a central open-source model hub, raising questions about platform neutrality and security."
-    },
-    {
-      "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
-      "author": "hakansan",
-      "url": "https://www.reddit.com/r/artificial/comments/1w0730d/matraix_simulating_the_world_with_83_billion/",
-      "published": 1787866063.0,
-      "thumbnail": null,
-      "external_url": "https://arxiv.org/pdf/2608.04205",
-      "site_name": "arxiv.org",
-      "favicon": "https://arxiv.org/favicon.ico",
-      "description": "What do you think? could this help with designing election campaigns, validating products or features without focus groups, A/B testing and all that?"
-    },
-    {
-      "title": "how important will open source ai be in the next few years?",
-      "author": "Frosty_Dog_1560",
-      "url": "https://www.reddit.com/r/artificial/comments/1w072ey/how_important_will_open_source_ai_be_in_the_next/",
-      "published": 1787866023.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "a lot of attention goes to the biggest commercial ai models, but open models keep becoming more capable and accessible. that could matter for developers, researchers and smaller companies that don\u2019t want to depend entirely on a handful of large providers i\u2019m curious whether open source models will eventually become a major alternative to proprietary ai, or whether the gap in infrastructure and resources will remain too large. where do you think this is heading?"
-    },
-    {
-      "title": "How are you getting Claude to write to existing Google Drive files?",
-      "author": "assistir_cps",
-      "url": "https://www.reddit.com/r/artificial/comments/1w0b1ee/how_are_you_getting_claude_to_write_to_existing/",
-      "published": 1787875722.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Claude's connector only creates new files, doesn't edit existing ones unlike ChatGPT. Any workaround?"
     }
   ],
-  "fetched_at": "2026-08-28T00:15:57.498270+00:00"
+  "fetched_at": "2026-08-28T11:39:22.661186+00:00"
 }
