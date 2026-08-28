@@ -1,5 +1,0 @@
-{
-  "cached_at": "2026-07-29T14:41:26.506316+00:00",
-  "data": "Fara1.5-27B is a 27B multimodal computer use agent (CUA) that performs end-to-end web task completion using vision-only perception from screenshots and coordinate-grounded actions. It's designed for browser automation, with key capabilities including form filling, booking, and shopping, while prioritizing safety through critical-points pausing for irreversible actions.",
-  "model_id": "microsoft/Fara1.5-27B"
-}

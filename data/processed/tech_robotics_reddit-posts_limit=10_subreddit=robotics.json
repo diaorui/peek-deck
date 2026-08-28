@@ -2,37 +2,15 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "We built an open-source biped robot with a working sim2real pipeline (Microduck)",
-      "author": "LKama07",
-      "url": "https://www.reddit.com/r/robotics/comments/1vzzr4r/we_built_an_opensource_biped_robot_with_a_working/",
-      "published": 1787850177.0,
-      "thumbnail": "https://external-preview.redd.it/bmljYXpyZ3g2eWxoMQaXNe-Z6aENYr2xRkN_SFZrM47WOCjJky_cho8ckvNn.png?width=640&crop=smart&auto=webp&s=aa62f8ab1719f4b3f82f60a3b5c96152c35b7d27",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello, Pollen Robotics engineer here. I know some will see this as a toy (and that\u2019s fine, go have fun!) but I think it\u2019s important to keep in mind that this thing is a full-on biped humanoid robot with an open-source software stack and a sim2real pipeline that works surprisingly well. Maybe it\u2019s not impressive for some people because there are spectacular videos of Chinese robots doing karate every week, but I\u2019ve done 10+ years of robotics competitions and getting your biped to stand up, walk and even roller skate by yourself is no small task. Knowing that thousands of enthusiasts will be able to try their hand at reinforcement learning on a biped is insane to me. I would have loved to have this when I started in 2010. The mobility capabilities of this robot are already decent (still improvable) but the next big challenge is getting to autonomous behaviors. Natural language, SLAM, navigation and grasping will be cool subjects to explore on this platform. Also a big shoutout to team Rhoban for their contributions to the project and one of the best-named repos I\u2019ve seen: BAM! The sim2real dream would not have worked without excellent actuator models. Please give them a star here: https://github.com/Rhoban/bam I hope people will have fun with it, learn a lot, or both! Feel free to ask any questions, I\u2019ll do my best to answer."
-    },
-    {
-      "title": "What is this man even doing?",
-      "author": "strange_omelet",
-      "url": "https://www.reddit.com/r/robotics/comments/1w0490o/what_is_this_man_even_doing/",
-      "published": 1787859834.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If it's to \"cool down\" then it's quite useless if a robot wasn't built any sort of cooling system in the first place. Why build a bot when it needs constant extenal cooling?"
-    },
-    {
-      "title": "Pollen Robotics/Hugging Face debuts Microduck, an $399 waddling robot",
+      "title": "Hugging Face: $2.6M of Microducks ordered in the first 24h",
       "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1vzqdwr/pollen_roboticshugging_face_debuts_microduck_an/",
-      "published": 1787827287.0,
-      "thumbnail": "https://external-preview.redd.it/MTg4OHFuZWhid2xoMcTFA3q0HLBN_G8tTaM9NnOlY9jZ0ho5boZnTgbHrTmZ.png?width=640&crop=smart&auto=webp&s=00027576b6ec33dec294573787a69caa29cf9920",
+      "url": "https://www.reddit.com/r/robotics/comments/1w0oepb/hugging_face_26m_of_microducks_ordered_in_the/",
+      "published": 1787917892.0,
+      "thumbnail": "https://preview.redd.it/kl7u1vvkt3mh1.jpeg?width=640&crop=smart&auto=webp&s=b8e29e6f1e8d8f0ddf4bae0772cbf5054af4c513",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Website: https://pollen-robotics.com/microduck GitHub: https://github.com/pollen-robotics/microduck From Pollen Robotics on \ud835\udd4f: https://x.com/pollenrobotics/status/2092915032052879425"
+      "description": "From Thomas Wolf on \ud835\udd4f: https://x.com/Thom_Wolf/status/2093295950605279501"
     },
     {
       "title": "Unitree\u2019s still got it",
@@ -46,71 +24,93 @@
       "description": null
     },
     {
-      "title": "I went to the 2026 World Humanoid Robot Games in Beijing \ud83e\udd16",
-      "author": "Friendly_Mood1792",
-      "url": "https://www.reddit.com/r/robotics/comments/1vzzgzt/i_went_to_the_2026_world_humanoid_robot_games_in/",
-      "published": 1787849568.0,
-      "thumbnail": "https://external-preview.redd.it/bjAxcnpvMTY2eWxoMUrbAgctkdJgY4FLEFZ-dJ_Asg0tnSmo3QnnIVIth61q.png?width=640&crop=smart&auto=webp&s=e1e7e404b72ce9e1bef01e37b2d0b495b64f52c9",
+      "title": "First finger movement test on my InMoov based humanoid hand",
+      "author": "TheTeaBagParty",
+      "url": "https://www.reddit.com/r/robotics/comments/1w10t6g/first_finger_movement_test_on_my_inmoov_based/",
+      "published": 1787946499.0,
+      "thumbnail": "https://external-preview.redd.it/M2kwNTlkcHE2Nm1oMdS-mmD-PT8XazYtZ4kYWSdBzyL4kZ_FhHVA4oq8AmB_.png?width=640&crop=smart&auto=webp&s=b9e2f5bc58664616ba1d8105a049a20c4ee5bb67",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "More than 2,000 humanoid robots were competing in everything from running and long jump to football, table tennis, fighting, weightlifting and obstacle courses. I was invited by Huawei to experience the event and also got to see how 5G-A and low-latency connectivity are being used to support large-scale robotics. Some of these robots are seriously impressive."
+      "description": "I have been slowly building my InMoov based humanoid robot for the past two years. I have made lots of tweaks, and the software is fully custom. This is an old video from the first time I tested the fingers. If you see an inappropriate accidental gesture, you don\u2019t. The fingers still don\u2019t have force sensors, here, so you can see wires sticking out of them. I\u2019ll share random videos from different stages of the build, with no particular timeline, together with what I am working on now."
     },
     {
-      "title": "Micipsa - ROS2 Jazzy Autonomous Mobile Robot",
-      "author": "Any_Virus_7988",
-      "url": "https://www.reddit.com/r/robotics/comments/1w04bi7/micipsa_ros2_jazzy_autonomous_mobile_robot/",
-      "published": 1787859983.0,
-      "thumbnail": "https://external-preview.redd.it/ctq5G1IjeP_DY-BvHkCRp3LGPsOgQKWvNdbQNAb4Gw0.jpeg?width=320&crop=smart&auto=webp&s=a61cdbb29becb8f43e89fa7d867f0e16442c29d5",
-      "external_url": "https://www.youtube.com/watch?v=u8_zb52qbGM",
+      "title": "I built a 3D printed, walking Arduino Hexapod!",
+      "author": "tennis-637",
+      "url": "https://www.reddit.com/r/robotics/comments/1w0ft3m/i_built_a_3d_printed_walking_arduino_hexapod/",
+      "published": 1787889041.0,
+      "thumbnail": "https://external-preview.redd.it/bDl6bWUzYnVkMW1oMWwOoyq49yuG_59NAXSCho5uKY6P_H7j22tqwpWbA-rP.jpeg?width=640&crop=smart&auto=webp&s=c593671c2814fe9adbddb57135c4f8dd1ca911b1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Printed from PLA, powered from a 3s LiPo and controlled with Arduino UNO. It had adjustable walking speed, stride length, and can turn in place or while walking (not sure how that would be useful since it is omnidirectional)."
+    },
+    {
+      "title": "We built an open-source biped robot with a working sim2real pipeline (Microduck)",
+      "author": "LKama07",
+      "url": "https://www.reddit.com/r/robotics/comments/1vzzr4r/we_built_an_opensource_biped_robot_with_a_working/",
+      "published": 1787850177.0,
+      "thumbnail": "https://external-preview.redd.it/bmljYXpyZ3g2eWxoMQaXNe-Z6aENYr2xRkN_SFZrM47WOCjJky_cho8ckvNn.png?width=640&crop=smart&auto=webp&s=aa62f8ab1719f4b3f82f60a3b5c96152c35b7d27",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello, Pollen Robotics engineer here. I know some will see this as a toy (and that\u2019s fine, go have fun!) but I think it\u2019s important to keep in mind that this thing is a full-on biped humanoid robot with an open-source software stack and a sim2real pipeline that works surprisingly well. Maybe it\u2019s not impressive for some people because there are spectacular videos of Chinese robots doing karate every week, but I\u2019ve done 10+ years of robotics competitions and getting your biped to stand up, walk and even roller skate by yourself is no small task. Knowing that thousands of enthusiasts will be able to try their hand at reinforcement learning on a biped is insane to me. I would have loved to have this when I started in 2010. The mobility capabilities of this robot are already decent (still improvable) but the next big challenge is getting to autonomous behaviors. Natural language, SLAM, navigation and grasping will be cool subjects to explore on this platform. Also a big shoutout to team Rhoban for their contributions to the project and one of the best-named repos I\u2019ve seen: BAM! The sim2real dream would not have worked without excellent actuator models. Please give them a star here: https://github.com/Rhoban/bam I hope people will have fun with it, learn a lot, or both! Feel free to ask any questions, I\u2019ll do my best to answer."
+    },
+    {
+      "title": "ROS and Open Source Robotics News for the week of August 24th",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1w10n75/ros_and_open_source_robotics_news_for_the_week_of/",
+      "published": 1787946127.0,
+      "thumbnail": "https://preview.redd.it/n6lzreze56mh1.gif?frame=1&width=140&height=72&auto=webp&s=afd85d672584224b5cadb13f9df0c6974fd53bd4",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Get all of the ROS and open source robotics news on Open Robotics Discourse."
+    },
+    {
+      "title": "Rodney Brooks on the Realities of Deploying Robots",
+      "author": "Responsible-Grass452",
+      "url": "https://www.reddit.com/r/robotics/comments/1w0ugms/rodney_brooks_on_the_realities_of_deploying_robots/",
+      "published": 1787932554.0,
+      "thumbnail": null,
+      "external_url": "https://www.automate.org/robotics/industry-insights/rodney-brooks-on-the-realities-of-deploying-robots",
+      "site_name": "Automate",
+      "favicon": "https://www.automate.org/favicon.ico",
+      "description": "Robust AI has deployed its 100th Carter robot and named former Fox Robotics CEO Marin Tchakarov as its new CEO. CTO Rodney Brooks says a robot only counts as deployed when customers rely on it in daily operations and the company has the support infrastructure to keep it running. He also discusses what separates working deployments from \u201chumanoid deployment theater\u201d and why scaling from 100 robots to 1,000 requires more service and support staff."
+    },
+    {
+      "title": "We Took Our Homemade AUV From Bangladesh to Singapore",
+      "author": "Heavy_Sea5596",
+      "url": "https://www.reddit.com/r/robotics/comments/1w11ro2/we_took_our_homemade_auv_from_bangladesh_to/",
+      "published": 1787948633.0,
+      "thumbnail": "https://external-preview.redd.it/IwGvz8EvxZv1JSgHWpoKF4mjMVldZFt0DwWnNwf-3O8.png?width=640&crop=smart&auto=webp&s=8744b19a1f5c34872d6886930136558cd21b02b8",
+      "external_url": "https://adnansabbir.com/writing/we-took-our-homemade-auv-to-singapore/?utm_source=redit&utm_medium=referral&utm_campaign=the-years-i-built-robots",
+      "site_name": "Adnan Sabbir",
+      "favicon": "https://adnansabbir.com/apple-touch-icon.png",
+      "description": "How we took BRACU Duburi, Bangladesh's first autonomous underwater vehicle (AUV), to SAUVC in Singapore and improvised our way into the final."
+    },
+    {
+      "title": "What is this man even doing?",
+      "author": "strange_omelet",
+      "url": "https://www.reddit.com/r/robotics/comments/1w0490o/what_is_this_man_even_doing/",
+      "published": 1787859834.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If it's to \"cool down\" then it's quite useless if a robot wasn't built any sort of cooling system in the first place. Why build a bot when it needs constant extenal cooling?"
+    },
+    {
+      "title": "d22 Raspberry pi c++ 2dof object tracking robot tutorial english",
+      "author": "Guilty_Question_6914",
+      "url": "https://www.reddit.com/r/robotics/comments/1w0zkdr/d22_raspberry_pi_c_2dof_object_tracking_robot/",
+      "published": 1787943742.0,
+      "thumbnail": "https://external-preview.redd.it/Wo2tPWQl3IzEpASoeYOdGCkQPAJfIEdzo6I3asfSrpI.jpeg?width=320&crop=smart&auto=webp&s=02017d56cc0deac5358a47bd6ac24b8caa7a4b16",
+      "external_url": "https://youtube.com/watch?v=UmCWkWiB-DA&si=Cm-SsSToxDRVssy2",
       "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/ee8698c4/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Need an Aldebaran Nao robot?",
-      "author": "GeverTulley",
-      "url": "https://www.reddit.com/r/robotics/comments/1w02hca/need_an_aldebaran_nao_robot/",
-      "published": 1787856003.0,
-      "thumbnail": "https://preview.redd.it/ey6q9u4tpylh1.jpeg?width=640&crop=smart&auto=webp&s=13c3d9b5ded088adb747b2dba513b35f3647145d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This was donated to our school, but needs some help getting fully resurrected (battery no longer holds a charge). We have no documentation or bandwidth to make it live, let me know if you want it and can pick it up in San Francisco. Comes with the power supply. Gentoo-based Linux OS running the proprietary NAOqi middleware, exposing control APIs for C++, Python, Java, and ROS (Robot Operating System)."
-    },
-    {
-      "title": "I built a Raspberry Pi robot that turns book pages \u2014 it has now scanned 10+ books in real homes",
-      "author": "adldotori",
-      "url": "https://www.reddit.com/r/robotics/comments/1vzlhe7/i_built_a_raspberry_pi_robot_that_turns_book/",
-      "published": 1787810086.0,
-      "thumbnail": "https://preview.redd.it/sr8qsyw3xulh1.png?width=140&height=105&auto=webp&s=b5be475243ca9a66bd05d6c4fcde5a49f250e7c0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/sr8qsyw3xulh1.png?width=1448&format=png&auto=webp&s=affdd7706b16d84f2c3f4c89ead9df29d1e5d1d6 I just wanted to show off a robot I\u2019ve been slightly obsessed with building. It automatically turns and captures pages from bound books without cutting or removing the binding. The current prototype uses a Raspberry Pi 3 Model B+, a Camera Module 3 Wide, servo-driven arms, a vacuum pump and airflow. The suction cup lifts the top page, airflow helps separate it, and the arms move and hold the page before the next spread is captured. Making it turn one page was relatively easy. Making it turn hundreds of pages without skipping one, grabbing two at once or losing alignment has been the real robotics problem. Two people in Korea are currently using the prototypes in their homes, and together they\u2019ve already scanned and converted more than 10 books. We also redesigned the machine into five modules so it can be shipped and assembled by the user. It is definitely still a prototype. A 400-page book takes about 3 hours, coated or damaged paper can be difficult, and some books still need occasional checks or retries. But watching something that used to barely work on my desk leave the workshop and turn hundreds of pages in someone else\u2019s home feels pretty surreal. Here\u2019s one actual page-turning cycle. https://reddit.com/link/1vzlhe7/video/fbh9a2o5xulh1/player Happy to talk about the mechanism, control logic or all the strange ways paper can refuse to behave like a predictable robotic object."
-    },
-    {
-      "title": "Testing Robot Head",
-      "author": "Personal-Wear1442",
-      "url": "https://www.reddit.com/r/robotics/comments/1w045ba/testing_robot_head/",
-      "published": 1787859615.0,
-      "thumbnail": "https://external-preview.redd.it/emN1YnllOGkwemxoMRqB0uOrM3fjf_z5upA358WDH0FAD8umqGg3UNp3O866.jpeg?width=640&crop=smart&auto=webp&s=446b8d8c57073b0ebb8555b6448068cca1280daf",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "I'm silly but heres the idea",
-      "author": "FallenAngel9812",
-      "url": "https://www.reddit.com/r/robotics/comments/1w0ao7x/im_silly_but_heres_the_idea/",
-      "published": 1787874838.0,
-      "thumbnail": "https://external-preview.redd.it/3zLZPAqpuh3kPgTUMeK-vgJ6skSQCNWqIm0HbDxDO-M.png?width=640&crop=smart&auto=webp&s=8878815ad4fcdaad8efb90ea4f5f2c3df6fbfaa7",
-      "external_url": "https://share.gemini.google/xPMSNE6kblwQ",
-      "site_name": "Gemini",
-      "favicon": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png",
-      "description": "Idk if this is cool to post this here if so thx for the read idk what I'm doing but I'm silly right? But someone needs to make the action figure robot soon I want one"
+      "favicon": "https://www.youtube.com/s/desktop/f13793d9/img/favicon.ico",
+      "description": "I am a little bit late but my video on how to build a 2dof raspberry pi object tracking robot in c++ tutorial is published on youtube currently.I post mostly my c/c++ exclusive on other video platforms a month earlier.The code is made so that it can be used in other projects if you do not wanna use the cad parts in the projects.I post this for people if anybody is interested in trying out.If there is anything wrong with the video or the repo.Please reply.I very much appreciate it"
     }
   ],
-  "fetched_at": "2026-08-28T00:16:06.546102+00:00"
+  "fetched_at": "2026-08-28T21:46:07.590047+00:00"
 }
