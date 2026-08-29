@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-29T19:14:57.901796+00:00'
+updated: '2026-08-29T21:53:19.214091+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 29, 2026 at 19:14 UTC  
+**Last Updated:** August 29, 2026 at 21:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,46 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[MechSoul Tutorial Part 2: Controlling your MechSoul with Bluetooth](https://www.reddit.com/r/robotics/comments/1w1tn2m/mechsoul_tutorial_part_2_controlling_your/)**
+
+In this tutorial we go over how to control your MechSoul with Bluetooth. What is a MechSoul? A MechSoul is to a robot, what a CyberDeck is to a computer. It's a robot that you build, customize, and personalize yourself. It's the freedom of owning your own code, hardware, and having the right to build and repair it. And it's the pride of creativity, skill, and self expression. In this part 2 in Arduino IDE we combine the Raspberry Pi Pico's board manager's SerialBLE library with the Serial_Control example in Takamori Robot's HIRO library to control your robot over Bluetooth. To follow along with our code and reference material check out the tutorial GitHub.
+
+3h ago
+
+---
+
+**[What are some of the reliable motor drivers for robotic projects?](https://www.reddit.com/r/robotics/comments/1w1m7qd/what_are_some_of_the_reliable_motor_drivers_for/)**
+
+Guys, can I get recommendations on motor drivers. It's for a new build I'm working on and I'm looking for something that can handle sustained high-torque loads without running into thermal limits. Small form-factor StepStick modules (like TMC2209s or TMC2208s) work great for low-load positioning, but at 2A+ RMS under continuous holding torque, thermal dissipation becomes a major bottleneck. I did check out some options online, mostly on alibaba actually but I'm not sure yet how to proceed. I’m weighing a few paths and would love to hear what has worked best in your builds.
+
+8h ago
+
+---
+
+**[Logs says they wanted to go under the chair but wasn't sure they'd fit](https://www.reddit.com/r/robotics/comments/1w180yf/logs_says_they_wanted_to_go_under_the_chair_but/)**
+
+I've been doing a lot of work over the past few years building perception and embodiment frameworks for robots. The latest version is very curious. I hadn't gotten the speaker working yet so it wasn't very chatty (although it was trying to from what the logs said) Anyways, this is Meco, say hi Meco!
+
+21h ago
+
+---
+
+**[I Built a another 4 leg Grasshopper mechanical walking Robot With Just ONE Motor completely from scratch! What do you guys think of mechanism? [OC]](https://www.reddit.com/r/robotics/comments/1w1scfm/i_built_a_another_4_leg_grasshopper_mechanical/)**
+
+I wanted to see if I could build a robot that walks like a little grasshopper… using just ONE gear motor. 🦗🤖So I built the body and legs using simple mater...
+
+🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 4h ago
+
+---
+
+**[Válvulas pepepako](https://www.reddit.com/r/robotics/comments/1w1uzcx/válvulas_pepepako/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 2h ago
+
+---
+
 **[Hugging Face: $2.6M of Microducks ordered in the first 24h](https://www.reddit.com/r/robotics/comments/1w0oepb/hugging_face_26m_of_microducks_ordered_in_the/)**
 
 From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
@@ -40,9 +80,25 @@ From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
 ---
 
-**[Unitree’s still got it](https://www.reddit.com/r/robotics/comments/1w09jat/unitrees_still_got_it/)**
+**[What is this INA219 actually reporting?](https://www.reddit.com/r/robotics/comments/1w1k72c/what_is_this_ina219_actually_reporting/)**
 
-1d ago
+10h ago
+
+---
+
+**[Robotic Trash Can Ideation](https://www.reddit.com/r/robotics/comments/1w1b59o/robotic_trash_can_ideation/)**
+
+Me and my 2 cs roomates at GT want to build a cool, practical robot for our apartment. We came together and thought of a project where we turn our trash can into a mobile unit, able to navigate our apartment / hallway as a first step without bumping into obstacles, maybe having my friend create some app to where we can "summon" the trash can when needed and hard code its default positon. The ultimate goal would to be having it leave our apartment and enter the trash room across the hall and dump its contents out to then return to out room. I am unsure if this is feasible as there are so many challenges: how will it open a door, how will it raise itself to empty, how will it even be able to generate the force to lift itself / open a door without tipping. Any tips / similar projects to mirror would be greatly helpful.
+
+18h ago
+
+---
+
+**[From 5-Digit Recognition to Water Meter Reading with ESP32-P4](https://www.reddit.com/r/robotics/comments/1w1htg7/from_5digit_recognition_to_water_meter_reading/)**
+
+A while ago, I built a 5-digit number recognition system on the ESP32-S3 using a lightweight AI model. The project was mainly a proof of concept for running image recognition directly on an embedded device. This time, I wanted to take that idea into a more practical, real-world application: reading a water meter. For this update, I still used the Makerfabs ESP32-P4 board with an autofocus camera. We also collected new images from a real water meter, focusing on the pointer and digit-reading area, and trained a dedicated recognition model based on this new dataset. The goal was not simply to recognize a fixed set of five numbers, but to make the model capable of identifying the actual reading shown on a water meter. After training and deploying the model, we tested it with real water meter images, and it correctly recognized the meter reading. This project is essentially the next step from our previous 5-digit recognition experiment—moving from a simple number-recognition demo to a more practical edge AI vision application. Would be interested to hear what other real-world applications you think could be built on top of this kind of embedded AI vision system.
+
+12h ago
 
 ---
 
@@ -50,63 +106,7 @@ From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
 I have been slowly building my InMoov based humanoid robot for the past two years. I have made lots of tweaks, and the software is fully custom. This is an old video from the first time I tested the fingers. If you see an inappropriate accidental gesture, you don’t. The fingers still don’t have force sensors, here, so you can see wires sticking out of them. I’ll share random videos from different stages of the build, with no particular timeline, together with what I am working on now.
 
-23h ago
-
----
-
-**[I built a 3D printed, walking Arduino Hexapod!](https://www.reddit.com/r/robotics/comments/1w0ft3m/i_built_a_3d_printed_walking_arduino_hexapod/)**
-
-Printed from PLA, powered from a 3s LiPo and controlled with Arduino UNO. It had adjustable walking speed, stride length, and can turn in place or while walking (not sure how that would be useful since it is omnidirectional).
-
 1d ago
-
----
-
-**[We built an open-source biped robot with a working sim2real pipeline (Microduck)](https://www.reddit.com/r/robotics/comments/1vzzr4r/we_built_an_opensource_biped_robot_with_a_working/)**
-
-Hello, Pollen Robotics engineer here. I know some will see this as a toy (and that’s fine, go have fun!) but I think it’s important to keep in mind that this thing is a full-on biped humanoid robot with an open-source software stack and a sim2real pipeline that works surprisingly well. Maybe it’s not impressive for some people because there are spectacular videos of Chinese robots doing karate every week, but I’ve done 10+ years of robotics competitions and getting your biped to stand up, walk and even roller skate by yourself is no small task. Knowing that thousands of enthusiasts will be able to try their hand at reinforcement learning on a biped is insane to me. I would have loved to have this when I started in 2010. The mobility capabilities of this robot are already decent (still improvable) but the next big challenge is getting to autonomous behaviors. Natural language, SLAM, navigation and grasping will be cool subjects to explore on this platform. Also a big shoutout to team Rhoban for their contributions to the project and one of the best-named repos I’ve seen: BAM! The sim2real dream would not have worked without excellent actuator models. Please give them a star here: https://github.com/Rhoban/bam I hope people will have fun with it, learn a lot, or both! Feel free to ask any questions, I’ll do my best to answer.
-
-2d ago
-
----
-
-**[ROS and Open Source Robotics News for the week of August 24th](https://www.reddit.com/r/robotics/comments/1w10n75/ros_and_open_source_robotics_news_for_the_week_of/)**
-
-Get all of the ROS and open source robotics news on Open Robotics Discourse.
-
-23h ago
-
----
-
-**[Rodney Brooks on the Realities of Deploying Robots](https://www.reddit.com/r/robotics/comments/1w0ugms/rodney_brooks_on_the_realities_of_deploying_robots/)**
-
-Robust AI has deployed its 100th Carter robot and named former Fox Robotics CEO Marin Tchakarov as its new CEO. CTO Rodney Brooks says a robot only counts as deployed when customers rely on it in daily operations and the company has the support infrastructure to keep it running. He also discusses what separates working deployments from “humanoid deployment theater” and why scaling from 100 robots to 1,000 requires more service and support staff.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/rodney-brooks-on-the-realities-of-deploying-robots) • 1d ago
-
----
-
-**[We Took Our Homemade AUV From Bangladesh to Singapore](https://www.reddit.com/r/robotics/comments/1w11ro2/we_took_our_homemade_auv_from_bangladesh_to/)**
-
-How we took BRACU Duburi, Bangladesh's first autonomous underwater vehicle (AUV), to SAUVC in Singapore and improvised our way into the final.
-
-🔗 [Adnan Sabbir](https://adnansabbir.com/writing/we-took-our-homemade-auv-to-singapore/?utm_source=redit&utm_medium=referral&utm_campaign=the-years-i-built-robots) • 22h ago
-
----
-
-**[What is this man even doing?](https://www.reddit.com/r/robotics/comments/1w0490o/what_is_this_man_even_doing/)**
-
-If it's to "cool down" then it's quite useless if a robot wasn't built any sort of cooling system in the first place. Why build a bot when it needs constant extenal cooling?
-
-1d ago
-
----
-
-**[d22 Raspberry pi c++ 2dof object tracking robot tutorial english](https://www.reddit.com/r/robotics/comments/1w0zkdr/d22_raspberry_pi_c_2dof_object_tracking_robot/)**
-
-I am a little bit late but my video on how to build a 2dof raspberry pi object tracking robot in c++ tutorial is published on youtube currently.I post mostly my c/c++ exclusive on other video platforms a month earlier.The code is made so that it can be used in other projects if you do not wanna use the cad parts in the projects.I post this for people if anybody is interested in trying out.If there is anything wrong with the video or the repo.Please reply.I very much appreciate it
-
-🔗 [youtube.com](https://youtube.com/watch?v=UmCWkWiB-DA&si=Cm-SsSToxDRVssy2) • 1d ago
 
 ---
 
@@ -128,11 +128,17 @@ Tech Xplore • 1d ago
 
 ---
 
+**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
+
+WSJ • 6h ago
+
+---
+
 **[Faster, higher, funnier: what we learned from China’s robot games](https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race)**
 
 World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches
 
-The Guardian • 8h ago
+The Guardian • 10h ago
 
 ---
 
@@ -154,7 +160,7 @@ Fox News • 2d ago
 
 These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered.
 
-NBC News • 18h ago
+NBC News • 20h ago
 
 ---
 
@@ -168,21 +174,15 @@ Reuters • 2d ago
 
 The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers.
 
-Business Insider • 10h ago
+Business Insider • 12h ago
 
 ---
 
-**[DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom](https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826)**
+**[Adorable Microduck Robot Roller Skates and Plays Soccer](https://spectrum.ieee.org/video-friday-microduck-robot)**
 
-High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts
+In this week’s selection of awesome robot videos, you’ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo
 
-qz.com • 1d ago
-
----
-
-**[Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools](https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools)**
-
-Bloomberg.com • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -190,23 +190,23 @@ Bloomberg.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
-
-A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary heat at the World Humanoid Robot Games in ...
-
-📺 BBC News
-
-👁️ 1.7M • 👍 17K • 💬 8K • ⏱️ 2:30 • 6d ago
-
----
-
 **[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
 From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
 📺 fastwit
 
-👁️ 12K • 👍 359 • ⏱️ 1:01 • 5h ago
+👁️ 18K • 👍 467 • ⏱️ 1:01 • 7h ago
+
+---
+
+**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
+
+Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
+
+📺 Bloomberg Tech
+
+👁️ 70K • 👍 573 • 💬 63 • ⏱️ 7:51 • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 📺 CrowderBits
 
-👁️ 58K • 👍 3K • 💬 314 • ⏱️ 4:11 • 3d ago
+👁️ 59K • 👍 3K • 💬 315 • ⏱️ 4:11 • 3d ago
 
 ---
 
@@ -226,7 +226,7 @@ Humanoid robots competed in kickboxing, sprinting and tai chi at the World Human
 
 📺 New York Post
 
-👁️ 29K • 👍 147 • 💬 120 • ⏱️ 3:08 • 5d ago
+👁️ 29K • 👍 147 • 💬 121 • ⏱️ 3:08 • 5d ago
 
 ---
 
@@ -236,37 +236,7 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 518K • 👍 3K • 💬 833 • ⏱️ 4:02 • 4d ago
-
----
-
-**[China&#39;s &#39;robot Olympic Games&#39; | ABC NEWS](https://www.youtube.com/watch?v=3evKmC2De8k)**
-
-The World Humanoid Robot Games have kicked off in China, showcasing the progress of robotics through a variety of sporting ...
-
-📺 ABC News (Australia)
-
-👁️ 85K • 👍 857 • ⏱️ 1:28 • 4d ago
-
----
-
-**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
-
-There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
-
-📺 BBC News
-
-👁️ 253K • 👍 2K • 💬 772 • ⏱️ 6:19 • 4d ago
-
----
-
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
-
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 3.1M • 👍 18K • 💬 4K • ⏱️ 4:29 • 4d ago
+👁️ 533K • 👍 3K • 💬 842 • ⏱️ 4:02 • 4d ago
 
 ---
 
@@ -276,17 +246,47 @@ These Unreal AI Robots take a Walk with Pets, The future isn't coming—it's alr
 
 📺 ejunky66
 
-👁️ 948 • 👍 27 • 💬 4 • ⏱️ 0:59 • 2h ago
+👁️ 2K • 👍 58 • 💬 11 • ⏱️ 0:59 • 4h ago
 
 ---
 
-**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
+**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
+There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
 
-📺 South China Morning Post
+📺 BBC News
 
-👁️ 521K • 👍 2K • 💬 373 • ⏱️ 2:14 • 4d ago
+👁️ 255K • 👍 2K • 💬 772 • ⏱️ 6:19 • 4d ago
+
+---
+
+**[China flexes technological muscle at World Humanoid Robot Games | ABC NEWS](https://www.youtube.com/watch?v=751GBaDJqEc)**
+
+China has displayed its advancements in robotics and AI at the World Humanoid Robot Games in Beijing. The event saw a robot ...
+
+📺 ABC News (Australia)
+
+👁️ 38K • 👍 181 • 💬 11 • ⏱️ 1:50 • 4d ago
+
+---
+
+**[Google’s New Robot Will Steal Your Job](https://www.youtube.com/watch?v=RjNkFd4w88M)**
+
+Google just made an AI robot that's more expensive and stupider than a human employee and… companies are gonna love it.
+
+📺 SAMTIME
+
+👁️ 165K • 👍 8K • 💬 699 • ⏱️ 3:16 • 3d ago
+
+---
+
+**[Humanoid Robot Race on Humanoid Robot Games in Beijing China #humanoidrobot #robotics #robot #robots](https://www.youtube.com/watch?v=8NpZcYjXJHk)**
+
+A few videos from the Robot Games in Beijing. The first video is the cutest one. The mini humanoid robot race. The rest of the ...
+
+📺 Code by Nadiia
+
+👁️ 47K • 👍 332 • 💬 8 • ⏱️ 0:15 • 17h ago
 
 ---
 

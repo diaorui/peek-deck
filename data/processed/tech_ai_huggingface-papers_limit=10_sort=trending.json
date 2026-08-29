@@ -73,7 +73,7 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 1247,
+      "github_stars": 1266,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-08-24T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeMM-Embedding",
-      "github_stars": 806,
+      "github_stars": 901,
       "project_page": "https://github.com/Tencent/WeMM-Embedding"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 18987,
+      "github_stars": 19041,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-29T19:14:34.933290+00:00"
+  "fetched_at": "2026-08-29T21:52:53.590762+00:00"
 }

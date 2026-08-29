@@ -8,9 +8,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 19216,
+      "stars": 19234,
       "stars_display": "19.2k",
-      "forks": 2238,
+      "forks": 2241,
       "forks_display": "2.2k",
       "language": "Python",
       "topics": [
@@ -30,9 +30,9 @@
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
       "preview_image": "https://opengraph.githubassets.com/5305664a3ce9d3527c0a67961dc30b9df9a72bd0919701974a2d9d7dab71b195/trycompai/crm",
-      "stars": 9088,
+      "stars": 9097,
       "stars_display": "9.1k",
-      "forks": 1125,
+      "forks": 1126,
       "forks_display": "1.1k",
       "language": "TypeScript",
       "topics": [],
@@ -46,7 +46,7 @@
       "description": "Free, open-source AI office suite for macOS, Windows & Linux \u2014 Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "url": "https://github.com/genspark-ai/genoffice",
       "preview_image": "https://opengraph.githubassets.com/5df04bb07da1dd2c9dc1104beb608b684873ef61b19ddde71a49b2b32231f5dd/genspark-ai/genoffice",
-      "stars": 3947,
+      "stars": 3948,
       "stars_display": "3.9k",
       "forks": 637,
       "forks_display": "637",
@@ -68,10 +68,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 3416,
+      "stars": 3431,
       "stars_display": "3.4k",
-      "forks": 424,
-      "forks_display": "424",
+      "forks": 427,
+      "forks_display": "427",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -111,35 +111,13 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3245,
+      "stars": 3247,
       "stars_display": "3.2k",
       "forks": 396,
       "forks_display": "396",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-29T18:55:07Z"
-    },
-    {
-      "full_name": "Leonxlnx/unlazy",
-      "name": "unlazy",
-      "owner": "Leonxlnx",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-      "url": "https://github.com/Leonxlnx/unlazy",
-      "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
-      "stars": 2768,
-      "stars_display": "2.8k",
-      "forks": 163,
-      "forks_display": "163",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "llm",
-        "productivity"
-      ],
-      "updated_at": "2026-08-29T11:41:46Z"
     },
     {
       "full_name": "fuxicodex/Fuxi",
@@ -149,7 +127,7 @@
       "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
       "url": "https://github.com/fuxicodex/Fuxi",
       "preview_image": "https://repository-images.githubusercontent.com/1322651268/b2b9520d-603d-4bbe-99cb-8fef2039d97a",
-      "stars": 2757,
+      "stars": 2772,
       "stars_display": "2.8k",
       "forks": 174,
       "forks_display": "174",
@@ -162,6 +140,28 @@
         "autonomous-agent"
       ],
       "updated_at": "2026-08-23T10:16:40Z"
+    },
+    {
+      "full_name": "Leonxlnx/unlazy",
+      "name": "unlazy",
+      "owner": "Leonxlnx",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+      "url": "https://github.com/Leonxlnx/unlazy",
+      "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
+      "stars": 2772,
+      "stars_display": "2.8k",
+      "forks": 164,
+      "forks_display": "164",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "llm",
+        "productivity"
+      ],
+      "updated_at": "2026-08-29T11:41:46Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -206,6 +206,6 @@
   "search_query": "ai created:>2026-07-30",
   "days": 30,
   "limit": 10,
-  "total_count": 453076,
-  "fetched_at": "2026-08-29T19:14:22.878577+00:00"
+  "total_count": 454171,
+  "fetched_at": "2026-08-29T21:52:54.088401+00:00"
 }

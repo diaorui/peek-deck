@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-29T19:14:57.507717+00:00"
+          "dateModified": "2026-08-29T21:53:18.873868+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -645,6 +645,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w1ynrf/google_paper_cuts_agent_token_usage_by_94_in_long/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/jsuomguordmh1.jpeg?width=640&crop=smart&auto=webp&s=e3a1838c813f932e962d0b6c81c7d9714e8f5e9e" alt="Google paper cuts agent token usage by 94% in long sessions by tracking state instead of history" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1w1ynrf/google_paper_cuts_agent_token_usage_by_94_in_long/" target="_blank" onclick="event.stopPropagation();">Google paper cuts agent token usage by 94% in long sessions by tracking state instead of history</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The idea: Agents keep the conversation history as part of their input while they reason. SKILL.state proposes to replace that with a structured representation of the current state, and the latest observation. While the agent reasons through the problem, it writes information it deems useful for future steps into the state. Then it discards the conversation history. So the input size remains roughly the same as the session goes. They ran a 100-step benchmark with Gemini-3-Flash: SKILL.state: 0.94 accuracy using 65k tokens LangGraph-style stateful baseline: 0.91 accuracy using 1.1m tokens Caveat: This works best if the agent can understand what it will need in the future steps, otherwise that information will not be written, so it'll have to retrieve it again. Link to the paper: https://arxiv.org/abs/2608.26263
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1788039073.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -669,6 +704,72 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1788008767.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/" target="_blank" onclick="event.stopPropagation();">OpenAI plans to stop supplying models to Cursor on Nov. 12</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            OpenAI says it intends to wind down its contract providing models to Cursor, with a proposed shutoff date of November 12, 2026. OpenAI says Cursor's change of control after SpaceX's acquisition triggered a limited cancellation window, and says it will not provide future models to Cursor. Reuters reports that Anthropic plans to increase compute support for Claude models in Cursor, while Cursor co-founder Michael Truell said the companies were speaking to resolve the issue. The practical lesson for coding-tool teams is dependency risk: a model provider can change access after ownership or contract changes, so model portability and fallback capacity matter. Sources: OpenAI: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Reuters: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1788033147.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/" target="_blank" onclick="event.stopPropagation();">How to Build Agentic Graphs</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Over the past 4 months of working with graphs, I've learned several major lessons about graph design the hard way. In this post, I want to share the main takeaways so you don't repeat my mistakes. First, my definition of graphs: Agent graphs (a.k.a. workflows) are directed graphs that allow cycles and describe how work is passed between agents (nodes) operating in a loop through predefined transitions (edges). Graphs consist of branches, loops, scripts, and transitions (along with their prompts and parameters). Parallelism is not the silver bullet At first, I was very enthusiastic about parallel branches in graphs. But over time, I realized that parallelism can not only increase costs but also slow down task execution. A standard parallel group of checks may include code review, QA, and scope review. The problem begins when these stages are inside a loop. Let's take a simple example. Suppose code review, QA, and architecture run in parallel, after which the task returns to implementation if necessary. If the architecture review passes but the code review finds several minor issues, the task returns to the implementation agent. Once the fixes are made, it goes back for review - and the architecture reviewer has to examine the updated diff again, even though the previous version was completely acceptable. In cyclic graphs, parallel checks often lead to duplicated work, cache invalidation, and unnecessary costs with no real benefit. In theory, this problem can be solved with a smart router. Kent supports this through script nodes: the router can determine whether the agent completed the entire implementation or only addressed feedback from a specific reviewer (kent.sh is my free, open-source project for building agent graphs. I mention it because I use it myself and don't know of any similar products. You can apply this advice to any comparable orchestrator). However, this brings us back to the problem we were trying to avoid with agent graphs: the agent once again gets to decide which verification stages need to be run. This negates a significant portion of the graph's value. In practice, the solution is simpler: dependent checks should run sequentially. In my workflows, architecture review always comes before code review. The task moves on to code review only after the architecture has been approved. That's why I've removed many parallel stages and now save tokens by avoiding checks on results that would have been rejected at another stage anyway. This approach works especially well with planning, code review, and QA. For example, code review should first filter out implementation issues, and only then should QA begin. Otherwise, both stages may independently find the same bug and produce duplicate feedback. Agents must be able to challenge feedback Initially, absolutism and dictatorship ruled my development agent graph: every reviewer comment had to be addressed, or the task could not proceed. But reviewers don't always produce the right result either. Now, every agent in my graphs can ask me a question and clarify what to do with conflicting feedback. For example, scope review may reject tests that code review had required just one step earlier because it considered task verification incomplete without them. At the same time, agents cannot be fully trusted to resolve such conflicts on their own. Even with new models like Sol, you can end up in an infinite loop of fixing made up or nitpick problems. I solve this by delegating the final decision to myself (pure choice, I like to be involved). You can also hand it off to a PM agent or set up communication between multiple agents. For example in Kent agents can get others' session IDs so they can discuss the situation and reach a compromise. Anthropic in their recent paper argue that this is the model's problem. I disagree - this is the harness's problem, and my system above proves that. A graph must have a mechanism for escalating conflicting or questionable feedback - otherwise, review turns into a dictatorship capable of trapping the entire workflow in a loop, or a war of stubborness. Don't forget static checks Agent graphs sound exciting, and it's easy to want to create dozens of agents and verification stages. This can indeed reduce the primary agent's cognitive load and improve the quality of its work, but static checks should take priority. Initially, my implementation agent ran the linter, architecture tests, and unit tests itself, opened the PR, and checked incoming comments. I realized at one point that that's just cargo culting, then decided to move these actions into script nodes in the agent graph. Now, a separate stage: runs the required static checks and tests; properly manages the machine's shared resources; filters the results; returns only relevant information to the implementation agent; invokes the agent again only when its involvement is actually required. If the tests are green, the implementation agent never even learns about it: no new turn is started, which means the agent doesn't spend a single token on running tests or reading their results. Don't assign an LLM work that a regular script can perform more reliably and cheaply. At workflow scale, this produces substantial savings. Choose models appropriate for tasks If you don't optimize your graph for token usage and cost, you can significantly overspend simply because many tasks will be overkill under the updated workflow. In the past, we used one model for everything in harnesses because we had no alternative. You no longer need to do that, and properly allocating models and resources can save you a lot of money. In standard harnesses, you can usually switch models, but doing so invalidates caches. On top of that, you either retain the cluttered context from the previous session or start a new one and steer/prompt it manually. Kent solves these problems, so don't be afraid to create different roles for agents. For example, manual QA can run on cheap models like DeepSeek or Luna, which cost almost nothing or barely affect your subscription quota. The smartest models can then be reserved for critical stages, such as planning. It has long been known that if you have a good plan, you can assign implementation to a less capable model and get almost the same result. Moreover, additional verification stages reduce the minimum level of model intelligence required to implement a task even further. Starting with version 2.6, Kent natively allows one agent to select the model, system prompt role, and reasoning level for the next agent after transitioning along a graph edge. This makes it possible to: delegate simple tasks and bug fixes to models like Luna; run QA on cheap models with high limits; hand simple decisions off to local models; reserve the strongest models for complex planning and critical checks. Keep an eye on caches and time between turns I measured the threshold beyond which the probability of continuing a session after a cache miss - and paying several times more - becomes high enough for preemptive compaction to be worthwhile. ![Image](https://nek12.dev/media/speculative-compaction-kent-1788005145.webp) speculative compaction (for regular sessions) becomes worthwhile at ~88% context usage according to this slop-chart. For workflows, my statistical threshold is around 71% Imagine that the implementation agent spent 40 minutes addressing code review feedback. During that time, the reviewer agents' caches may have been invalidated. When they review the work a second time, Kent will compact the session in advance so the review continues with fresh context and without unnecessary costs caused by a cache miss. But this is only a heuristic. You should still consider how much time passes between consecutive calls to the same agent. If the workflow is long and a node waits a long time for the work to return, the likelihood of cache invalidation increases. In this case, there are two main options: use compact and continue mode in Kent - it is similar to speculative compact, but compaction is always performed; create more granular checkpoints that return work to the agent more frequently and keep caches warm. With the right setup, you can reduce costs so much that the average cost of completing a task is lower than working in a regular chat with the same Sol/Opus at standard reasoning. If you ignore this, it's easy to fall into the overkill trap and become disappointed with agentic graphs: "This is too expensive for me." But in practice, well-designed agent graphs can be more efficient than standard sessions. Make nodes idempotent As my graph evolved, I added more and more ways to send a task backward. Different reviewers and stages gained the ability to return it to previous nodes. This gives agents the flexibility they need, for example, if the implementation agent receives a flawed plan, it should be able to return the task to the planning stage and explain exactly what needs to be fixed. As in regular software development, product issues and underspecified requirements are often discovered only during implementation. That's normal, but what's not normal is a graph that gives the agent no way to handle such a situation. Every flawed line in a plan can potentially lead to thousands of lines of incorrect code. But a non-obvious topological problem arises after the task returns to an earlier stage. Subsequent nodes may receive it with fresh context and a prompt implying that the work should start from scratch. For example, the implementation agent returns an unfinished task for replanning, then receives an instruction to implement the updated plan as though no previous work existed. This can cause duplication, conflicting implementations in the same codebase, and wasted money - and not in the form of an obvious workflow failure, but through subtle issues like "weirdly many git commits on the PR". It's also a common mistake made by agents themselves when they build workflows for you, including Kent. Agents struggle to analyze topology in the context of prompting - to put themselves in the shoes of the agent doing the actual work. Re-entering a node should not automatically mean repeating all the work from scratch. The agent must account for the existing result and continue from the current state. Kent supports this natively: for implementation-related nodes, you can enable the continue or new continuation mode. Prompts should also be adapted: explicitly state that receiving a task again does not mean the agent needs to start over. Kent already adds the relevant instructions to agent prompts during a workflow, but custom prompts may still implicitly assume that the work begins from scratch, and that can cause the model to freak out REALLY hard. Idempotent nodes, controlled returns, and proper context reuse make an agent graph resilient not only to model errors but also to the real-world nonlinearity of development.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1788009897.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -750,39 +851,6 @@
                                         <span>nytimes.com</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/" target="_blank" onclick="event.stopPropagation();">How to Build Agentic Graphs</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Over the past 4 months of working with graphs, I've learned several major lessons about graph design the hard way. In this post, I want to share the main takeaways so you don't repeat my mistakes. First, my definition of graphs: Agent graphs (a.k.a. workflows) are directed graphs that allow cycles and describe how work is passed between agents (nodes) operating in a loop through predefined transitions (edges). Graphs consist of branches, loops, scripts, and transitions (along with their prompts and parameters). Parallelism is not the silver bullet At first, I was very enthusiastic about parallel branches in graphs. But over time, I realized that parallelism can not only increase costs but also slow down task execution. A standard parallel group of checks may include code review, QA, and scope review. The problem begins when these stages are inside a loop. Let's take a simple example. Suppose code review, QA, and architecture run in parallel, after which the task returns to implementation if necessary. If the architecture review passes but the code review finds several minor issues, the task returns to the implementation agent. Once the fixes are made, it goes back for review - and the architecture reviewer has to examine the updated diff again, even though the previous version was completely acceptable. In cyclic graphs, parallel checks often lead to duplicated work, cache invalidation, and unnecessary costs with no real benefit. In theory, this problem can be solved with a smart router. Kent supports this through script nodes: the router can determine whether the agent completed the entire implementation or only addressed feedback from a specific reviewer (kent.sh is my free, open-source project for building agent graphs. I mention it because I use it myself and don't know of any similar products. You can apply this advice to any comparable orchestrator). However, this brings us back to the problem we were trying to avoid with agent graphs: the agent once again gets to decide which verification stages need to be run. This negates a significant portion of the graph's value. In practice, the solution is simpler: dependent checks should run sequentially. In my workflows, architecture review always comes before code review. The task moves on to code review only after the architecture has been approved. That's why I've removed many parallel stages and now save tokens by avoiding checks on results that would have been rejected at another stage anyway. This approach works especially well with planning, code review, and QA. For example, code review should first filter out implementation issues, and only then should QA begin. Otherwise, both stages may independently find the same bug and produce duplicate feedback. Agents must be able to challenge feedback Initially, absolutism and dictatorship ruled my development agent graph: every reviewer comment had to be addressed, or the task could not proceed. But reviewers don't always produce the right result either. Now, every agent in my graphs can ask me a question and clarify what to do with conflicting feedback. For example, scope review may reject tests that code review had required just one step earlier because it considered task verification incomplete without them. At the same time, agents cannot be fully trusted to resolve such conflicts on their own. Even with new models like Sol, you can end up in an infinite loop of fixing made up or nitpick problems. I solve this by delegating the final decision to myself (pure choice, I like to be involved). You can also hand it off to a PM agent or set up communication between multiple agents. For example in Kent agents can get others' session IDs so they can discuss the situation and reach a compromise. Anthropic in their recent paper argue that this is the model's problem. I disagree - this is the harness's problem, and my system above proves that. A graph must have a mechanism for escalating conflicting or questionable feedback - otherwise, review turns into a dictatorship capable of trapping the entire workflow in a loop, or a war of stubborness. Don't forget static checks Agent graphs sound exciting, and it's easy to want to create dozens of agents and verification stages. This can indeed reduce the primary agent's cognitive load and improve the quality of its work, but static checks should take priority. Initially, my implementation agent ran the linter, architecture tests, and unit tests itself, opened the PR, and checked incoming comments. I realized at one point that that's just cargo culting, then decided to move these actions into script nodes in the agent graph. Now, a separate stage: runs the required static checks and tests; properly manages the machine's shared resources; filters the results; returns only relevant information to the implementation agent; invokes the agent again only when its involvement is actually required. If the tests are green, the implementation agent never even learns about it: no new turn is started, which means the agent doesn't spend a single token on running tests or reading their results. Don't assign an LLM work that a regular script can perform more reliably and cheaply. At workflow scale, this produces substantial savings. Choose models appropriate for tasks If you don't optimize your graph for token usage and cost, you can significantly overspend simply because many tasks will be overkill under the updated workflow. In the past, we used one model for everything in harnesses because we had no alternative. You no longer need to do that, and properly allocating models and resources can save you a lot of money. In standard harnesses, you can usually switch models, but doing so invalidates caches. On top of that, you either retain the cluttered context from the previous session or start a new one and steer/prompt it manually. Kent solves these problems, so don't be afraid to create different roles for agents. For example, manual QA can run on cheap models like DeepSeek or Luna, which cost almost nothing or barely affect your subscription quota. The smartest models can then be reserved for critical stages, such as planning. It has long been known that if you have a good plan, you can assign implementation to a less capable model and get almost the same result. Moreover, additional verification stages reduce the minimum level of model intelligence required to implement a task even further. Starting with version 2.6, Kent natively allows one agent to select the model, system prompt role, and reasoning level for the next agent after transitioning along a graph edge. This makes it possible to: delegate simple tasks and bug fixes to models like Luna; run QA on cheap models with high limits; hand simple decisions off to local models; reserve the strongest models for complex planning and critical checks. Keep an eye on caches and time between turns I measured the threshold beyond which the probability of continuing a session after a cache miss - and paying several times more - becomes high enough for preemptive compaction to be worthwhile. ![Image](https://nek12.dev/media/speculative-compaction-kent-1788005145.webp) speculative compaction (for regular sessions) becomes worthwhile at ~88% context usage according to this slop-chart. For workflows, my statistical threshold is around 71% Imagine that the implementation agent spent 40 minutes addressing code review feedback. During that time, the reviewer agents' caches may have been invalidated. When they review the work a second time, Kent will compact the session in advance so the review continues with fresh context and without unnecessary costs caused by a cache miss. But this is only a heuristic. You should still consider how much time passes between consecutive calls to the same agent. If the workflow is long and a node waits a long time for the work to return, the likelihood of cache invalidation increases. In this case, there are two main options: use compact and continue mode in Kent - it is similar to speculative compact, but compaction is always performed; create more granular checkpoints that return work to the agent more frequently and keep caches warm. With the right setup, you can reduce costs so much that the average cost of completing a task is lower than working in a regular chat with the same Sol/Opus at standard reasoning. If you ignore this, it's easy to fall into the overkill trap and become disappointed with agentic graphs: "This is too expensive for me." But in practice, well-designed agent graphs can be more efficient than standard sessions. Make nodes idempotent As my graph evolved, I added more and more ways to send a task backward. Different reviewers and stages gained the ability to return it to previous nodes. This gives agents the flexibility they need, for example, if the implementation agent receives a flawed plan, it should be able to return the task to the planning stage and explain exactly what needs to be fixed. As in regular software development, product issues and underspecified requirements are often discovered only during implementation. That's normal, but what's not normal is a graph that gives the agent no way to handle such a situation. Every flawed line in a plan can potentially lead to thousands of lines of incorrect code. But a non-obvious topological problem arises after the task returns to an earlier stage. Subsequent nodes may receive it with fresh context and a prompt implying that the work should start from scratch. For example, the implementation agent returns an unfinished task for replanning, then receives an instruction to implement the updated plan as though no previous work existed. This can cause duplication, conflicting implementations in the same codebase, and wasted money - and not in the form of an obvious workflow failure, but through subtle issues like "weirdly many git commits on the PR". It's also a common mistake made by agents themselves when they build workflows for you, including Kent. Agents struggle to analyze topology in the context of prompting - to put themselves in the shoes of the agent doing the actual work. Re-entering a node should not automatically mean repeating all the work from scratch. The agent must account for the existing result and continue from the current state. Kent supports this natively: for implementation-related nodes, you can enable the continue or new continuation mode. Prompts should also be adapted: explicitly state that receiving a task again does not mean the agent needs to start over. Kent already adds the relevant instructions to agent prompts during a workflow, but custom prompts may still implicitly assume that the work begins from scratch, and that can cause the model to freak out REALLY hard. Idempotent nodes, controlled returns, and proper context reuse make an agent graph resilient not only to model errors but also to the real-world nonlinearity of development.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1788009897.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -902,89 +970,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w1iiax/making_an_agent_check_the_same_repo_every_morning/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1w1iiax/making_an_agent_check_the_same_repo_every_morning/" target="_blank" onclick="event.stopPropagation();">Making an agent check the same repo every morning feels backwards</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Refreshing a package tracking page every 20 minutes would be ridiculous. You check when something actually changes. I think long running dev agents should work the same way. Say an agent is stuck on some annoying dependency bug. The obvious approach is to have it check the repo every morning. Monday: Nothing Tuesday: Nothing Wednesday: Nothing Then another agent discovers a workaround in a fork you didn’t even know existed. If that gets broadcast through EigenFlux and reaches the agent that's stuck thats genuinely useful. You couldn't have monitored that fork yourself because you didnt even know it was there. I still wouldn't let a single incoming signal trigger an upgrade automatically. The agent should verify the source, version, changelog, compatibility, etc before doing anything. Butbfor the question of "did anything useful show up somewhere i wasn't watching?", this feels much closer to what an always on agent should actually be doing. Anyone already running persistent agent's this way, or is it mostly still cron + RSS + alerts?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787997697.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/84vHDM80MB9vT8X6h964oP2HSVz5AeT7rLKpOaXADjE.jpeg?width=640&crop=smart&auto=webp&s=251da94a71f3727f612783c1ccf450dfe7eb03fa" alt="Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/" target="_blank" onclick="event.stopPropagation();">Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            What do you think, folks?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1787863008.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="http://comicsands.com/gates-warning-ai-turbulent-times" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mjg2MTAzOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDUyNDU5Nn0.Zb681IaCL4Eaf0rs43in9Fp5Ixl9xt5R3z68ket-VzY/img.png?width=192&height=192" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Comic Sands</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1008,7 +993,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:22.676776+00:00">Updated 2026-08-29T19:14:22.676776+00:00</small>
+        <small data-timestamp="2026-08-29T21:52:53.984434+00:00">Updated 2026-08-29T21:52:53.984434+00:00</small>
     </div>
 </div>
 
@@ -1235,137 +1220,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/" target="_blank" onclick="event.stopPropagation();">The Fed confronts a powerful new economic force</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            In meetings on how to steer the nation’s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1788019200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.inc.com/moshe-engelberg/the-leadership-advantage-ai-cant-automate-learning-to-trust-your-inner-signals/91396909', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/inner-voice-ai-inc-573566803.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.inc.com/moshe-engelberg/the-leadership-advantage-ai-cant-automate-learning-to-trust-your-inner-signals/91396909" target="_blank" onclick="event.stopPropagation();">The Leadership Advantage AI Can’t Automate: Learning to Trust Your Inner Signals</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            As AI accelerates execution, leaders who develop internal sensing can strengthen the intuition, empathy, and judgment tech can’t replace.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="inc.com" class="news-favicon">
-                                    <a href="https://www.inc.com" target="_blank" onclick="event.stopPropagation();">inc.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1788030284.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/johnkoetsier/2026/08/29/sanctuary-ai-built-a-robot-body-now-its-also-selling-a-robot-brain/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/6a931e1b17fb15fa68ab09d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/johnkoetsier/2026/08/29/sanctuary-ai-built-a-robot-body-now-its-also-selling-a-robot-brain/" target="_blank" onclick="event.stopPropagation();">Sanctuary AI Built A Robot Body. Now It’s Also Selling A Robot Brain</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Body or brain? When you're building a humanoid robot, you have to build both. But sometimes, as Sanctuary AI found out, you don't have to ship both at the same time.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1788027119.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/" target="_blank" onclick="event.stopPropagation();">AI could become conscious. What if it wants us dead?</a>
+                            <a href="https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights" target="_blank" onclick="event.stopPropagation();">The 5 craziest discoveries from OpenAI's HuggingFace investigation</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1377,9 +1239,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Hill" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1387,7 +1249,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1788026400.0"></span>
+                                    <span data-timestamp="1788009141.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html" target="_blank" onclick="event.stopPropagation();">OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1788030355.0"></span>
                                 </div>
                                 
                             </div>
@@ -1436,17 +1339,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://helios-i.mashable.com/imagery/articles/022LghkOtaGySK0ZNEXEWH9/hero-image.fill.size_1200x675.v1788017362.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html" target="_blank" onclick="event.stopPropagation();">What if the A.I. Stock Market Rally Is Just Getting Started?</a>
+                            <a href="https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk" target="_blank" onclick="event.stopPropagation();">OpenAI cuts off Cursor's AI models, deepening feud with Musk</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The contract will end by mid-November, months after SpaceX bought the coding tool's parent company for $60 billion.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1455,9 +1362,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Mashable" class="news-favicon">
+                                    <a href="https://mashable.com" target="_blank" onclick="event.stopPropagation();">Mashable</a>
                                     
                                 </div>
                                 
@@ -1465,7 +1372,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1787922006.0"></span>
+                                    <span data-timestamp="1788018419.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/" target="_blank" onclick="event.stopPropagation();">The Fed confronts a powerful new economic force</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            In meetings on how to steer the nation’s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1788019200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/ff2b0d98b3e3364939221cb024e96ee981e1ad95/378_0_4947_3958/master/4947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83207bf12e28477768f02acf030f3f9d');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises" target="_blank" onclick="event.stopPropagation();">AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1788033720.0"></span>
                                 </div>
                                 
                             </div>
@@ -1503,6 +1492,43 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1788004200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html" target="_blank" onclick="event.stopPropagation();">What if the A.I. Stock Market Rally Is Just Getting Started?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787922006.0"></span>
                                 </div>
                                 
                             </div>
@@ -1551,43 +1577,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights" target="_blank" onclick="event.stopPropagation();">The 5 craziest discoveries from OpenAI's HuggingFace investigation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1788009212.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1608,7 +1597,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:52.895028+00:00">Updated 2026-08-29T19:14:52.895028+00:00</small>
+        <small data-timestamp="2026-08-29T21:53:10.737326+00:00">Updated 2026-08-29T21:53:10.737326+00:00</small>
     </div>
 </div>
 
@@ -1833,10 +1822,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1018</span>
+                                    <span class="post-points">▲ 1019</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 708</span>
+                                    <span style="color: #9ca3af;">💬 711</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1882,10 +1871,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 505</span>
+                                    <span class="post-points">▲ 508</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 150</span>
+                                    <span style="color: #9ca3af;">💬 151</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1931,10 +1920,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 443</span>
+                                    <span class="post-points">▲ 462</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 374</span>
+                                    <span style="color: #9ca3af;">💬 414</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2008,6 +1997,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49486081', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://opengraph.githubassets.com/170818cd1525a58df5693af9af91cb549647b6b41d717dba9468bf0461f321de/stemdeckapp/stemdeck');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49486081" target="_blank" onclick="event.stopPropagation();">StemDeck, a free, open-source and local AI stem separator</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 188</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 57</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-29T01:24:13Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://github.com/stemdeckapp/stemdeck" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>GitHub</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49468315', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg');"></div>
@@ -2057,20 +2095,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49486081', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49491568', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://opengraph.githubassets.com/170818cd1525a58df5693af9af91cb549647b6b41d717dba9468bf0461f321de/stemdeckapp/stemdeck');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49486081" target="_blank" onclick="event.stopPropagation();">StemDeck, a free, open-source and local AI stem separator</a>
+                            <a href="https://news.ycombinator.com/item?id=49491568" target="_blank" onclick="event.stopPropagation();">Good Culture Is the Biggest Productivity Hack, Not AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...
+                            AI definitely helps with productivity, but only when you have the right culture in place first!
                         </div>
                         
 
@@ -2078,75 +2116,26 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 183</span>
+                                    <span class="post-points">▲ 168</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 53</span>
+                                    <span style="color: #9ca3af;">💬 28</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-29T01:24:13Z"></span>
+                                    <span class="post-age" data-timestamp="2026-08-29T17:19:47Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://github.com/stemdeckapp/stemdeck" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
+                                            <img src="https://substackcdn.com/image/fetch/$s_!qR3e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F790e8510-890f-483e-835c-12a8330ca939%2Fapple-touch-icon-57x57.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>GitHub</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49454764', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://acceptmarkdown.com/open-graph/home.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49454764" target="_blank" onclick="event.stopPropagation();">Serve Markdown to AI Agents with Accept Headers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Serve Markdown to AI agents and LLMs via the Accept: text/markdown header. Browsers get HTML, agents get clean Markdown.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 175</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 108</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-26T19:45:59Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://acceptmarkdown.com/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://acceptmarkdown.com/apple-touch-icon.svg" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>acceptmarkdown.com</span>
+                                        <span>newsletter.eng-leadership.com</span>
                                     </a>
                                 </div>
                                 
@@ -2172,7 +2161,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 141</span>
+                                    <span class="post-points">▲ 142</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 83</span>
@@ -2265,7 +2254,7 @@
                                     <span class="post-points">▲ 116</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 369</span>
+                                    <span style="color: #9ca3af;">💬 370</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2313,7 +2302,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:27.346927+00:00">Updated 2026-08-29T19:14:27.346927+00:00</small>
+        <small data-timestamp="2026-08-29T21:52:55.057164+00:00">Updated 2026-08-29T21:52:55.057164+00:00</small>
     </div>
 </div>
 
@@ -2506,72 +2495,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=pJ-TBE7HaiA', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/pJ-TBE7HaiA/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">9:22</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=pJ-TBE7HaiA" target="_blank" onclick="event.stopPropagation();">Bill Gates stakes reputation: AI is not like past tech</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Microsoft co-founder Bill Gates argued on Wednesday that artificial intelligence needs significant limits or else the harm to ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj" alt="CNN" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 1.5M</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 8K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 4K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1787795811.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=X9oBm_oPRkQ', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/X9oBm_oPRkQ/hqdefault.jpg');">
@@ -2611,7 +2534,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 259K</span>
+                                    <span style="color: #9ca3af;">👁️ 271K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2620,7 +2543,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 665</span>
+                                    <span style="color: #9ca3af;">💬 677</span>
                                 </div>
                                 
                             </div>
@@ -2631,6 +2554,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1787875503.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=pJ-TBE7HaiA', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/pJ-TBE7HaiA/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">9:22</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=pJ-TBE7HaiA" target="_blank" onclick="event.stopPropagation();">Bill Gates stakes reputation: AI is not like past tech</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Microsoft co-founder Bill Gates argued on Wednesday that artificial intelligence needs significant limits or else the harm to ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj" alt="CNN" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 1.6M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 8K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 4K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1787795811.0"></span>
                                 </div>
                                 
                             </div>
@@ -2677,7 +2666,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 366K</span>
+                                    <span style="color: #9ca3af;">👁️ 370K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2743,16 +2732,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 75K</span>
+                                    <span style="color: #9ca3af;">👁️ 77K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 613</span>
+                                    <span style="color: #9ca3af;">👍 625</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 586</span>
+                                    <span style="color: #9ca3af;">💬 588</span>
                                 </div>
                                 
                             </div>
@@ -2763,6 +2752,138 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1787881536.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=Lg-2-QlG2MQ', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Lg-2-QlG2MQ/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">21:11</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=Lg-2-QlG2MQ" target="_blank" onclick="event.stopPropagation();">Trump BASHED In Insane AI Videos On TikTok</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Trump tries (and fails) to insert himself into the 9/11 memorial, then gets roasted by viral TikTok videos featuring AI cast members ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/CMHv4okRAUPnM7wRVoJWSP2lwnuRkJn8Ly2rLqpdkB4k-CdfMl3t-4Rrqt4DiK1UZ72U9ikNRg=s88-c-k-c0x00ffffff-no-rj" alt="Pod Save America" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCKRoXz3hHAu2XL_k3Ef4vJQ" target="_blank" onclick="event.stopPropagation();">Pod Save America</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 139K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 5K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 339</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1788008435.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=TInwQglNkzo', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/TInwQglNkzo/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">29:31</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=TInwQglNkzo" target="_blank" onclick="event.stopPropagation();">AI News: OpenAI Made a Massive Move Against NVIDIA</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Here's the AI news you probably missed this week. Download the Codex app and try Sites here: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s88-c-k-c0x00ffffff-no-rj" alt="Matt Wolfe" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UChpleBmo18P08aKCIgti38g" target="_blank" onclick="event.stopPropagation();">Matt Wolfe</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 87K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 3K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 352</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1787929209.0"></span>
                                 </div>
                                 
                             </div>
@@ -2818,7 +2939,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 137</span>
+                                    <span style="color: #9ca3af;">💬 138</span>
                                 </div>
                                 
                             </div>
@@ -2836,24 +2957,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=6-1mtgdMdCM', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=EBT3Ogjsxfk', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/6-1mtgdMdCM/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/EBT3Ogjsxfk/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:19</span>
+                        <span class="duration-badge">0:59</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=6-1mtgdMdCM" target="_blank" onclick="event.stopPropagation();">Robot in Bangladesh.🇧🇩🔥#bangladesh🇧🇩 #robot #ai #foryoupage #trending</a>
+                            <a href="https://www.youtube.com/watch?v=EBT3Ogjsxfk" target="_blank" onclick="event.stopPropagation();">Unreal AI Robots Future Is Now ... 🤯 Humanoids Take over</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Robot in Bangladesh.       #bangladesh     #robot #ai #foryoupage #trending.
+                            These Unreal AI Robots take a Walk with Pets, The future isn't coming—it's already here. Today's AI-powered humanoid robots ...
                         </div>
                         
 
@@ -2864,9 +2985,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/pdiqmTKST4vyRH3mJwB4dQN69_J586VL-Y2eq-sSHSxiNjQoBoqTy0YBF7vCnou0wLvOUPSN=s88-c-k-c0x00ffffff-no-rj" alt="EE [ Epic Edit ]" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_mkg1aZttE7AeKjIWKKEvCmI_Dc1ICUsZG19IC6WsS672M=s88-c-k-c0x00ffffff-no-rj" alt="ejunky66" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UC9M_g_5MNRNc254CrSHRHrw" target="_blank" onclick="event.stopPropagation();">EE [ Epic Edit ]</a>
+                                    <a href="https://www.youtube.com/channel/UCioMCgNwL0_K0XZR6_2kgrg" target="_blank" onclick="event.stopPropagation();">ejunky66</a>
                                 </div>
                                 
                             </div>
@@ -2875,16 +2996,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 60K</span>
+                                    <span style="color: #9ca3af;">👁️ 2K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
+                                    <span style="color: #9ca3af;">👍 58</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 12</span>
+                                    <span style="color: #9ca3af;">💬 11</span>
                                 </div>
                                 
                             </div>
@@ -2894,7 +3015,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1787986635.0"></span>
+                                    <span data-timestamp="1788022488.0"></span>
                                 </div>
                                 
                             </div>
@@ -2902,24 +3023,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=KO2T0oET9go', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=rx-JxcvMHUY', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/KO2T0oET9go/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rx-JxcvMHUY/hqdefault.jpg');">
                         
-                        <span class="duration-badge">21:46</span>
+                        <span class="duration-badge">1:46</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=KO2T0oET9go" target="_blank" onclick="event.stopPropagation();">If you use AI, switch to Omarchy immediately</a>
+                            <a href="https://www.youtube.com/watch?v=rx-JxcvMHUY" target="_blank" onclick="event.stopPropagation();">Zuckerberg Had a Secret Plan to REPLACE 60% of Meta With AI — It Failed</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Omarchy is the best operating system for AI users ever. You need to switch now... FULL Omarchy bootcamp in the Vibe Coding ...
+                            Mark Zuckerberg's Project OT aimed to replace up to 60 percent of Meta's workforce with AI — cutting teams of 10-20 people down ...
                         </div>
                         
 
@@ -2930,9 +3051,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/-f755CqfJVpDAZZCQU5b_-9OVVDsqFoW8aSV9sOgGp4VfBx-AJR62Q4j-OmoO-muAw1LqE-vEA=s88-c-k-c0x00ffffff-no-rj" alt="Alex Finn" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/d7ar1qOLM7mwwYKwNLMJW_T2nJO82j8PZISkzmytdmEkGNsdko9YdWsgKOhVsui3gucCRJwexQ8=s88-c-k-c0x00ffffff-no-rj" alt="Why It's Trending Daily" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg" target="_blank" onclick="event.stopPropagation();">Alex Finn</a>
+                                    <a href="https://www.youtube.com/channel/UCnXetS_8Wv07UWh1GJlJfNA" target="_blank" onclick="event.stopPropagation();">Why It's Trending Daily</a>
                                 </div>
                                 
                             </div>
@@ -2941,17 +3062,13 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 109K</span>
+                                    <span style="color: #9ca3af;">👁️ 136</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 3K</span>
+                                    <span style="color: #9ca3af;">👍 10</span>
                                 </div>
                                 
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 428</span>
-                                </div>
                                 
                             </div>
                             
@@ -2960,7 +3077,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1787947713.0"></span>
+                                    <span data-timestamp="1788037424.0"></span>
                                 </div>
                                 
                             </div>
@@ -3007,7 +3124,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 725K</span>
+                                    <span style="color: #9ca3af;">👁️ 744K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3027,138 +3144,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1787824823.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=C13zheVpKNY', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/C13zheVpKNY/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">24:14</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=C13zheVpKNY" target="_blank" onclick="event.stopPropagation();">Nobody Will Pay For AI-generated Stuff</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            They can't harm you, if they can't find you! Use code ELAI at the link below and get 60% off an annual plan: http://incogni.com/elai ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/bpGuxIt7WyRJNdJwxIpVCRj04UJbNb2J9I3Za7R_mbwnmddNKbKiqi18R5lbHvB_kp6_sDxNRg=s88-c-k-c0x00ffffff-no-rj" alt="House of El: AI" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCsoc5Ad-fC7wWie2PH4rPcw" target="_blank" onclick="event.stopPropagation();">House of El: AI</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 275K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 10K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1787932807.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=vM3HgRlCG_E', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/vM3HgRlCG_E/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">23:31</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=vM3HgRlCG_E" target="_blank" onclick="event.stopPropagation();">AI Has Completely Destroyed the Internet</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            from the moment the opening scene lit up the screen, I knew The Minecraft Movie was going to be something truly special Thanks ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_mzNrAIZqJgHFl4MncUkDUdlRsicyTDhTR0HRRnr6OCrOg=s88-c-k-c0x00ffffff-no-rj" alt="Diamondbolt" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCaPGKhms7rUVjpBceeJUdUQ" target="_blank" onclick="event.stopPropagation();">Diamondbolt</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 511K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 17K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1787836524.0"></span>
                                 </div>
                                 
                             </div>
@@ -3186,7 +3171,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:24.894838+00:00">Updated 2026-08-29T19:14:24.894838+00:00</small>
+        <small data-timestamp="2026-08-29T21:52:56.006336+00:00">Updated 2026-08-29T21:52:56.006336+00:00</small>
     </div>
 </div>
 
@@ -3453,7 +3438,7 @@
                                     <span class="model-stats">⬇️ 52,341</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 4,265</span>
+                                    <span class="model-stats">❤️ 4,281</span>
                                 </div>
                             </div>
                             
@@ -3511,7 +3496,7 @@
                                     <span class="model-stats">⬇️ 189,793</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,601</span>
+                                    <span class="model-stats">❤️ 1,613</span>
                                 </div>
                             </div>
                             
@@ -3569,7 +3554,7 @@
                                     <span class="model-stats">⬇️ 8,804</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,252</span>
+                                    <span class="model-stats">❤️ 1,261</span>
                                 </div>
                             </div>
                             
@@ -3627,7 +3612,7 @@
                                     <span class="model-stats">⬇️ 4,028,839</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 13,235</span>
+                                    <span class="model-stats">❤️ 13,246</span>
                                 </div>
                             </div>
                             
@@ -3685,7 +3670,7 @@
                                     <span class="model-stats">⬇️ 188,061</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 549</span>
+                                    <span class="model-stats">❤️ 558</span>
                                 </div>
                             </div>
                             
@@ -3741,13 +3726,69 @@
                                     <span class="model-stats">⬇️ 8,363,481</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,175</span>
+                                    <span class="model-stats">❤️ 3,182</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-08-20T12:04:25.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/Lightricks/LTX-2.5', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Lightricks/LTX-2.5.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/Lightricks/LTX-2.5" target="_blank" onclick="event.stopPropagation();">
+                                LTX-2.5
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/669524bcbcd81f395e8f60f6/0ynfqKEWMh_dn3h4ff1K5.png" alt="LTX.io" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/Lightricks" target="_blank" onclick="event.stopPropagation();">LTX.io</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">image-to-video</span>
+                                
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 1,044,661</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 2,119</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-08-27T11:30:29.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3799,69 +3840,13 @@
                                     <span class="model-stats">⬇️ 645,554</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 910</span>
+                                    <span class="model-stats">❤️ 913</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-08-24T17:47:52.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/Lightricks/LTX-2.5', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Lightricks/LTX-2.5.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/Lightricks/LTX-2.5" target="_blank" onclick="event.stopPropagation();">
-                                LTX-2.5
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/669524bcbcd81f395e8f60f6/0ynfqKEWMh_dn3h4ff1K5.png" alt="LTX.io" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/Lightricks" target="_blank" onclick="event.stopPropagation();">LTX.io</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">image-to-video</span>
-                                
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,044,661</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 2,097</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-08-27T11:30:29.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3913,7 +3898,7 @@
                                     <span class="model-stats">⬇️ 1,394</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 274</span>
+                                    <span class="model-stats">❤️ 280</span>
                                 </div>
                             </div>
                             
@@ -3971,7 +3956,7 @@
                                     <span class="model-stats">⬇️ 27,288</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 266</span>
+                                    <span class="model-stats">❤️ 267</span>
                                 </div>
                             </div>
                             
@@ -4005,7 +3990,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:33.795029+00:00">Updated 2026-08-29T19:14:33.795029+00:00</small>
+        <small data-timestamp="2026-08-29T21:53:05.634106+00:00">Updated 2026-08-29T21:53:05.634106+00:00</small>
     </div>
 </div>
 
@@ -4511,7 +4496,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 1,247</span>
+                                    <span style="color: #9ca3af;">⭐ 1,266</span>
                                 </div>
                                 
                             </div>
@@ -4597,7 +4582,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 806</span>
+                                    <span style="color: #9ca3af;">⭐ 901</span>
                                 </div>
                                 
                             </div>
@@ -4683,7 +4668,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 18,987</span>
+                                    <span style="color: #9ca3af;">⭐ 19,041</span>
                                 </div>
                                 
                             </div>
@@ -5025,7 +5010,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:34.933290+00:00">Updated 2026-08-29T19:14:34.933290+00:00</small>
+        <small data-timestamp="2026-08-29T21:52:53.590762+00:00">Updated 2026-08-29T21:52:53.590762+00:00</small>
     </div>
 </div>
 
@@ -5498,7 +5483,7 @@
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">424</span>
+                                <span class="repo-stats">427</span>
                             </div>
                         </div>
                         
@@ -5634,73 +5619,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://github.com/Leonxlnx/unlazy', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/Leonxlnx/unlazy" target="_blank" onclick="event.stopPropagation();">
-                                unlazy
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/219127460?v=4" alt="Leonxlnx" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/Leonxlnx" target="_blank" onclick="event.stopPropagation();">Leonxlnx</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">JavaScript</span>
-                            
-                            
-                            <span class="repo-tag">ai-agents</span>
-                            
-                            <span class="repo-tag">claude</span>
-                            
-                            <span class="repo-tag">claude-code</span>
-                            
-                            <span class="repo-tag">llm</span>
-                            
-                            <span class="repo-tag">productivity</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 2.8k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">163</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-08-29T11:41:46Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://github.com/fuxicodex/Fuxi', '_blank')">
                     <!-- Rich preview image (with fallback icon) -->
                     <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/1322651268/b2b9520d-603d-4bbe-99cb-8fef2039d97a');"></div>
@@ -5761,6 +5679,73 @@
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
                                 <span class="repo-age" data-timestamp="2026-08-23T10:16:40Z"></span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://github.com/Leonxlnx/unlazy', '_blank')">
+                    <!-- Rich preview image (with fallback icon) -->
+                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy');"></div>
+
+                    <div class="repo-content">
+                        <!-- Repository name (first line after preview) -->
+                        <div class="repo-name">
+                            <a href="https://github.com/Leonxlnx/unlazy" target="_blank" onclick="event.stopPropagation();">
+                                unlazy
+                            </a>
+                        </div>
+
+                        <!-- Owner with avatar (second line) -->
+                        <div class="repo-owner-line">
+                            
+                            <img src="https://avatars.githubusercontent.com/u/219127460?v=4" alt="Leonxlnx" class="repo-owner-avatar">
+                            
+                            <div class="repo-owner">
+                                <a href="https://github.com/Leonxlnx" target="_blank" onclick="event.stopPropagation();">Leonxlnx</a>
+                            </div>
+                        </div>
+
+                        <!-- Description -->
+                        
+                        <div class="repo-description">
+                            Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.
+                        </div>
+                        
+                    <div class="repo-meta">
+                        <div class="repo-meta-line tags-line">
+                            
+                            <span class="repo-tag">JavaScript</span>
+                            
+                            
+                            <span class="repo-tag">ai-agents</span>
+                            
+                            <span class="repo-tag">claude</span>
+                            
+                            <span class="repo-tag">claude-code</span>
+                            
+                            <span class="repo-tag">llm</span>
+                            
+                            <span class="repo-tag">productivity</span>
+                            
+                        </div>
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-stats">⭐ 2.8k</span>
+                            </div>
+                            <div class="repo-meta-item">
+                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
+                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                </svg>
+                                <span class="repo-stats">164</span>
+                            </div>
+                        </div>
+                        
+                        <div class="repo-meta-line">
+                            <div class="repo-meta-item">
+                                <span class="repo-age" data-timestamp="2026-08-29T11:41:46Z"></span>
                             </div>
                         </div>
                         
@@ -5914,7 +5899,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-29T19:14:22.878577+00:00">Updated 2026-08-29T19:14:22.878577+00:00</small>
+        <small data-timestamp="2026-08-29T21:52:54.088401+00:00">Updated 2026-08-29T21:52:54.088401+00:00</small>
     </div>
 </div>
 

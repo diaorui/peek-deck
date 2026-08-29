@@ -25,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
+      "pub_date": 1788015600.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Faster, higher, funnier: what we learned from China\u2019s robot games",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -79,32 +89,22 @@
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5",
-      "pub_date": 1787994084.0,
+      "pub_date": 1787994060.0,
       "article_url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8",
       "image": "https://i.insider.com/6a885c948a99fa493d60ec36?width=1200&format=jpeg",
       "description": "The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers."
     },
     {
-      "headline": "DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXYmNUOXVzeDZDai04NkJUTEdXa2pkQTN6R25uLW9MMmJaOGNhTW00dXN1OHJJN2F0WTRySWlaTXhZYlNZLVhEV25USXRnRy0yVkpmdFpZS29sOEVDQWs4cHNod0pqSjhUYTFJQ3BfY0VrNGh5eEhxenNR?oc=5",
-      "pub_date": 1787922035.0,
-      "article_url": "https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272104482-300x200.jpg",
-      "description": "High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts"
-    },
-    {
-      "headline": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnU3QkdiNk1jYklqWmJZWXlJbGlCWUhjTEM5REpHcFJxX0c0ZndUZUFnTDJVNWJKQ1dnN2Z6QkxJSHdhYmlkN2p5blZUUFUxaTdBWXJUcl9WaHNyVjN3M0N3RzBPZUNRaHBZdkU0YmtvRDc1MzBkME9EamdoYTEwYlU3QTJ5RmtmV2dKdHpWMm9EY3hURkFhYS1DSWVmSVVPS28xaEEwbklDMTU5Yk1kM2RjZHZveVhhV1pUTF90R0ZWaE9pcUkwSXNn?oc=5",
-      "pub_date": 1787859062.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
-      "image": null,
-      "description": null
+      "headline": "Adorable Microduck Robot Roller Skates and Plays Soccer",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aU083cmhsT09VR0dEWEdBUW9hczZQVGU2SDI1MGxITnlZQVpYaU9sUGhUN3oxR3NOM2ZxNjFnaDI1R0s5U05BUGJ4S1N1Ull2dUVMSjVTekRDR3BFeEhTWGd1ckM?oc=5",
+      "pub_date": 1787933013.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67687638&width=1200&height=600&coordinates=0%2C5%2C0%2C6",
+      "description": "In this week\u2019s selection of awesome robot videos, you\u2019ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T19:14:44.268226+00:00"
+  "fetched_at": "2026-08-29T21:53:17.927396+00:00"
 }
