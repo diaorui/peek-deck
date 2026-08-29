@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-29T15:31:11.807266+00:00'
+updated: '2026-08-29T19:14:57.894400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 15:31 UTC  
+**Last Updated:** August 29, 2026 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,836.07
+### $78,172.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.3%  
-**30d:** +24.0%  
-**90d:** +9.2%  
-**1y:** -28.3%  
+**24h:** +1.1%  
+**7d:** +0.7%  
+**30d:** +24.5%  
+**90d:** +9.6%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1564.29B
+**Market Cap:** $1570.92B
 Rank #1
 
-**Circulating Supply:** 20,076,759 BTC
+**Circulating Supply:** 20,076,853 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.2%
+-37.9%
 
 **All-Time Low:** $67.81
-+114803.4%
++115301.9%
 
 ---
 
@@ -113,7 +113,7 @@ This is my first bitcoin wallet aka my laptop that I bought in 2011 with my own 
 
 **[EVERYONE: SELL! ME: HODL.](https://www.reddit.com/r/Bitcoin/comments/1vz18wm/everyone_sell_me_hodl/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -155,59 +155,55 @@ Don't know if anyone can help me but I've had an issue now with blockchain app f
 
 **[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
-KFOR.com • 17h ago
+KFOR • 20h ago
 
 ---
 
-**[Bitcoin Price Tests $80,000 In 'Powerful Setup.' IREN Tops Sales Views.](https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/)**
+**[‘Get Ready’—Bitcoin Is Suddenly Hurtling Toward A ‘Huge’ Money Printing Price Shock](https://www.forbes.com/sites/digital-assets/2026/08/29/get-ready-bitcoin-is-suddenly-hurtling-toward-a-huge-money-printing-price-shock/)**
 
-Bitcoin price shows a "powerful setup," Bitwise CIO says as the crypto trades near $80,000. Miner, AI player IREN to report.
+Bitcoin has added 20% since mid-August, rocketing higher as the so-called debasement trade that see investors bet against the U.S. dollar returns...
 
-Investor's Business Daily • 1d ago
-
----
-
-**[Hackers demand 30 bitcoin from Berlin as sensitive data breach widens](https://www.yahoo.com/news/us/articles/hackers-demand-30-bitcoin-berlin-124831460.html)**
-
-The Berlin state government has declined to comment on the demands made by hackers who targeted the city's administrative data network two weeks ago, a spokeswoman said on Saturday. The government is ...
-
-Yahoo • 2h ago
+Forbes • 6h ago
 
 ---
 
-**[Smart Investor: Warsh Talks Tough, Bitcoin’s Bounce, Top Managers’ Stock Picks](https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks)**
+**[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-crypto-best-163039694.html)**
 
-We wrap up our coverage of the markets and the week.
+Bitcoin, Ethereum, and XRP have each staged a sharp two-week comeback after months of losses, but the catalysts driving each coin point in very different directions for the year ahead.
 
-Morningstar • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Is Bitcoin a 'Buy' Right Now? BlackRock Slashes ETF Swap Minimum 96% From $25M to $1M](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-blackrock-slashes-150215484.html)**
+**[The U.S. National Debt Just Topped $40 Trillion. Here's What That Could Mean for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/u-national-debt-just-topped-161300727.html)**
 
-BlackRock has cut the minimum Bitcoin-to-IBIT in-kind conversion from $25 million to $1 million, a 96% reduction. IBIT has already processed more than $5 billion ...
+Bitcoin has a key advantage in the context of rising government debt.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Why Bitcoin wallets untouched for more than 10 years are moving millions worth of BTC](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
 
-CoinDesk • 10h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Warsh Leans Hawkish, And Markets Like It](https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/)**
+**[Why Bitcoin Surged to USD 80,000, and What May Come Next](https://global.morningstar.com/en-ca/markets/why-bitcoin-surged-usd-80000-what-may-come-next)**
 
-Stocks rise while long-term yields are flat to lower. Rate hike odds climb.
-
-Investor's Business Daily • 22h ago
+Morningstar • 2d ago
 
 ---
 
 **[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 22h ago
+
+---
+
+**[Warsh’s Jackson Hole speech could make or break the bitcoin and gold rally](https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -219,9 +215,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Man Manages To Access Bitcoin Wallet After 12 Years, Becomes An Instant Millionaire Overnight](https://www.iflscience.com/man-manages-to-access-bitcoin-wallet-after-12-years-becomes-an-instant-millionaire-overnight-84489)**
+**[Bitcoin price slips below $78,000 as ‘digital gold’ narrative faces fresh test](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-slips-below-78000-as-digital-gold-narrative-faces-fresh-test-4881960)**
 
-IFLScience • 2d ago
+Investing.com • 9h ago
 
 ---
 
@@ -237,19 +233,19 @@ The Bitcoin Lightning software project said it is preparing fixes after confirmi
 
 ---
 
+**[Bitcoin is great (for systemic theft of aid money)](https://news.ycombinator.com/item?id=49481598)**
+
+Finally, a killer use case
+
+⬆️ 5 • 💬 0 • 1d ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+
+---
+
 **[Bitcoin's $80k Test: A Renewed Rally Puts Prediction Markets on Alert](https://news.ycombinator.com/item?id=49443597)**
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
 ⬆️ 5 • 💬 0 • 3d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
-
----
-
-**[Bitcoin is great (for systemic theft of aid money)](https://news.ycombinator.com/item?id=49481598)**
-
-Finally, a killer use case
-
-⬆️ 4 • 💬 0 • 22h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -265,7 +261,7 @@ The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin A
 
 Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial £1,500 investment turning into a multi-million-pound fortune
 
-⬆️ 4 • 💬 0 • 2d ago • [LBC](https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/)
+⬆️ 4 • 💬 0 • 3d ago • [LBC](https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/)
 
 ---
 
@@ -289,7 +285,7 @@ Could old coins that have not moved for years help pay Bitcoin miners without cr
 
 How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.
 
-⬆️ 1 • 💬 3 • 3d ago • [Krackpot](https://krackpot.io/kangaroo)
+⬆️ 1 • 💬 3 • 4d ago • [Krackpot](https://krackpot.io/kangaroo)
 
 ---
 
@@ -313,13 +309,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Just Failed Three Times](https://www.youtube.com/watch?v=OV3kIBe9aps)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=BL3BIQLyDfw)**
 
-CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this video, Nik covers the market reaction to Kevin Warsh's Jackson Hole ...
+Bitcoin is once again in the spotlight as traders and investors watch for the next major BTC move. Could Bitcoin reach $100K this ...
 
-📺 The Bitcoin Layer
+📺 Ify Yvonne
 
-👁️ 13K • 👍 205 • 💬 23 • ⏱️ 18:34 • 17h ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 
@@ -329,27 +325,45 @@ The Fed is trapped between inflation, rising debt costs and a bond market it can
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 1K • 💬 68 • ⏱️ 12:31 • 19h ago
+👁️ 29K • 👍 1K • 💬 69 • ⏱️ 12:31 • 22h ago
 
 ---
 
-**[Bitcoin Is About To Blindside Every Investor [Things Are Just Getting Started] | Michael Howell](https://www.youtube.com/watch?v=1Wu4wPb2-4k)**
+**[Bitcoin Just Failed Three Times](https://www.youtube.com/watch?v=OV3kIBe9aps)**
 
-Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then he told us why that is exactly the setup that catches ...
+CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this video, Nik covers the market reaction to Kevin Warsh's Jackson Hole ...
 
-📺 Rob Wallace | Bitcoin News
+📺 The Bitcoin Layer
 
-👁️ 13K • 👍 93 • 💬 14 • ⏱️ 14:16 • 2d ago
+👁️ 14K • 👍 211 • 💬 25 • ⏱️ 18:34 • 21h ago
 
 ---
 
-**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
+**[FINAL BITCOIN DUMP BEFORE $200,000? FEDS HAWKISH SPEECH SENDS CRYPTO LOWER #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=aKeWHjEbdfY)**
 
-CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
+📺 CryptoWendyO
 
-📺 The Iced Coffee Hour
+👁️ 10K • 👍 434 • 💬 32 • ⏱️ 2:18 • 18h ago
 
-👁️ 20K • 👍 228 • 💬 12 • ⏱️ 0:24 • 20h ago
+---
+
+**[DANGER FOR ALL BITCOIN BULLS !!!!](https://www.youtube.com/watch?v=8lQB147I9N0)**
+
+TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $25 BONUS WEEX: https://cryptokid.io/WEEX-Bonus ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 164 • 💬 31 • ⏱️ 9:07 • 5h ago
+
+---
+
+**[&quot;The Point Of No Return&quot; Bitcoin Is About To Do The Unthinkable And Crypto Investors Aren&#39;t Ready](https://www.youtube.com/watch?v=lo0IYvAR0t4)**
+
+We have officially reached the tipping point everyone and theres no more going back from here. U.S. debt levels will never come ...
+
+📺 The Modern Investor
+
+👁️ 17K • 👍 869 • 💬 318 • ⏱️ 28:53 • 2d ago
 
 ---
 
@@ -359,57 +373,35 @@ Bitcoin is down today but the reason might surprise you because the next move mi
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 299 • 💬 18 • ⏱️ 1:11:58 • 20h ago
+👁️ 14K • 👍 305 • 💬 19 • ⏱️ 1:11:58 • 1d ago
 
 ---
 
-**[Gold Dumps, Bitcoin Cracks As Rate Hike Odds Flip - Trades And Analysis](https://www.youtube.com/watch?v=_0ngHNrJO6c)**
+**[🚨 THE FED JUST LOST CONTROL OF BITCOIN?!?!?](https://www.youtube.com/watch?v=weqtmS8C_3o)**
 
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+📺 BRITISH HODL
 
-📺 Gareth Soloway
-
-👁️ 147K • 👍 5K • 💬 361 • ⏱️ 13:50 • 22h ago
+👁️ 5K • 👍 167 • 💬 7 • ⏱️ 0:31 • 9h ago
 
 ---
 
-**[Bitcoin Just Broke a 5-Year Trend vs Gold That Could Send it to $500K Fast!](https://www.youtube.com/watch?v=-NVMKIiY2Yc)**
+**[Big News! Bitcoin Has Never Done This Before In History](https://www.youtube.com/watch?v=VCKfZXt_jBc)**
 
-Bitcoin just broke a major 5-year trend against gold as institutional capital, family offices, and global liquidity begin rotating into ...
+Latest Bitcoin, Ethereum, Solana, TAO, LINK News Jarsy EXCLUSIVE Invite: https://app.jarsy.com/?invite_code=5ookhf ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 2K • 💬 100 • ⏱️ 9:36 • 1d ago
+
+---
+
+**[Bitcoin Price Prediction: Bernstein&#39;s $1 Million Target!](https://www.youtube.com/watch?v=l-_Uy-dzSxY)**
+
+Hurley talks about Bitcoin Price Prediction: Bernstein's $1 Million Target! Brought to you by Bitcoinwell.com a bitcoin-only platform ...
 
 📺 Simply Bitcoin
 
-👁️ 74K • 👍 2K • 💬 288 • ⏱️ 18:21 • 1d ago
-
----
-
-**[Bitcoin Rejection Confirmed? Live Trading &amp; TA](https://www.youtube.com/watch?v=4aYDvqGFd4o)**
-
-Zen Master JP Washes his Face & His Feet after a Narrative Changing BTC Rejection. Live Trading BTC, Alts, XAU Gold, Silver, ...
-
-📺 Sin City Crypto
-
-👁️ 15K • 👍 309 • 💬 4 • ⏱️ 3:12:35 • 14h ago
-
----
-
-**[Bitcoin Slides After Kevin Warsh&#39;s First Jackson Hole Speech](https://www.youtube.com/watch?v=juqfQF2Ja4g)**
-
-Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today, and crypto traders are watching for whether the ...
-
-📺 CoinDesk
-
-👁️ 9K • 👍 58 • 💬 10 • ⏱️ 1:45 • 23h ago
-
----
-
-**[Bitcoin and the 50 Week Moving Average](https://www.youtube.com/watch?v=X2ztVVyfgQU)**
-
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 201K • 👍 8K • 💬 372 • ⏱️ 12:41 • 1d ago
+👁️ 1K • 👍 54 • 💬 6 • ⏱️ 0:19 • 4h ago
 
 ---
 

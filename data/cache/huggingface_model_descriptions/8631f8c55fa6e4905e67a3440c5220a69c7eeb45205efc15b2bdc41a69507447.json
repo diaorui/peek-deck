@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-29T19:14:57.109230+00:00",
+  "data": "GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capability, featuring a hybrid sparse/linear attention architecture. It excels in long-context tasks, coding, and agentic benchmarks, offering performance competitive with leading models at a fraction of the cost, suitable for advanced AI applications.",
+  "model_id": "unsloth/GLM-5.3-Flash-GGUF"
+}
