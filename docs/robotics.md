@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-29T15:31:11.813607+00:00'
+updated: '2026-08-29T19:14:57.901796+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 29, 2026 at 15:31 UTC  
+**Last Updated:** August 29, 2026 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
 I have been slowly building my InMoov based humanoid robot for the past two years. I have made lots of tweaks, and the software is fully custom. This is an old video from the first time I tested the fingers. If you see an inappropriate accidental gesture, you don’t. The fingers still don’t have force sensors, here, so you can see wires sticking out of them. I’ll share random videos from different stages of the build, with no particular timeline, together with what I am working on now.
 
-19h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ Printed from PLA, powered from a 3s LiPo and controlled with Arduino UNO. It had
 
 Hello, Pollen Robotics engineer here. I know some will see this as a toy (and that’s fine, go have fun!) but I think it’s important to keep in mind that this thing is a full-on biped humanoid robot with an open-source software stack and a sim2real pipeline that works surprisingly well. Maybe it’s not impressive for some people because there are spectacular videos of Chinese robots doing karate every week, but I’ve done 10+ years of robotics competitions and getting your biped to stand up, walk and even roller skate by yourself is no small task. Knowing that thousands of enthusiasts will be able to try their hand at reinforcement learning on a biped is insane to me. I would have loved to have this when I started in 2010. The mobility capabilities of this robot are already decent (still improvable) but the next big challenge is getting to autonomous behaviors. Natural language, SLAM, navigation and grasping will be cool subjects to explore on this platform. Also a big shoutout to team Rhoban for their contributions to the project and one of the best-named repos I’ve seen: BAM! The sim2real dream would not have worked without excellent actuator models. Please give them a star here: https://github.com/Rhoban/bam I hope people will have fun with it, learn a lot, or both! Feel free to ask any questions, I’ll do my best to answer.
 
-1d ago
+2d ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, Pollen Robotics engineer here. I know some will see this as a toy (and th
 
 Get all of the ROS and open source robotics news on Open Robotics Discourse.
 
-19h ago
+23h ago
 
 ---
 
@@ -82,7 +82,7 @@ Get all of the ROS and open source robotics news on Open Robotics Discourse.
 
 Robust AI has deployed its 100th Carter robot and named former Fox Robotics CEO Marin Tchakarov as its new CEO. CTO Rodney Brooks says a robot only counts as deployed when customers rely on it in daily operations and the company has the support infrastructure to keep it running. He also discusses what separates working deployments from “humanoid deployment theater” and why scaling from 100 robots to 1,000 requires more service and support staff.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/rodney-brooks-on-the-realities-of-deploying-robots) • 23h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/rodney-brooks-on-the-realities-of-deploying-robots) • 1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Robust AI has deployed its 100th Carter robot and named former Fox Robotics CEO 
 
 How we took BRACU Duburi, Bangladesh's first autonomous underwater vehicle (AUV), to SAUVC in Singapore and improvised our way into the final.
 
-🔗 [Adnan Sabbir](https://adnansabbir.com/writing/we-took-our-homemade-auv-to-singapore/?utm_source=redit&utm_medium=referral&utm_campaign=the-years-i-built-robots) • 19h ago
+🔗 [Adnan Sabbir](https://adnansabbir.com/writing/we-took-our-homemade-auv-to-singapore/?utm_source=redit&utm_medium=referral&utm_campaign=the-years-i-built-robots) • 22h ago
 
 ---
 
@@ -106,7 +106,7 @@ If it's to "cool down" then it's quite useless if a robot wasn't built any sort 
 
 I am a little bit late but my video on how to build a 2dof raspberry pi object tracking robot in c++ tutorial is published on youtube currently.I post mostly my c/c++ exclusive on other video platforms a month earlier.The code is made so that it can be used in other projects if you do not wanna use the cad parts in the projects.I post this for people if anybody is interested in trying out.If there is anything wrong with the video or the repo.Please reply.I very much appreciate it
 
-🔗 [youtube.com](https://youtube.com/watch?v=UmCWkWiB-DA&si=Cm-SsSToxDRVssy2) • 20h ago
+🔗 [youtube.com](https://youtube.com/watch?v=UmCWkWiB-DA&si=Cm-SsSToxDRVssy2) • 1d ago
 
 ---
 
@@ -132,7 +132,7 @@ Tech Xplore • 1d ago
 
 World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches
 
-The Guardian • 4h ago
+The Guardian • 8h ago
 
 ---
 
@@ -142,11 +142,11 @@ Reuters • 1d ago
 
 ---
 
-**[Humanoid robots will be useful, just not as we imagined](https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1)**
+**[Survivor's Christian Hubicki marvels at China's robotics games records: 'Willing to break the robots to do it'](https://www.foxnews.com/tech/survivors-christian-hubicki-marvels-chinas-robotics-games-records-willing-break-robots)**
 
-Bipedal robots may look impressive doing tricks on YouTube, but the real value lies with their less flashy, highly functional industrial cousins
+The World Humanoid Robot Games' crashes show how far the technology still needs to go to be useful, "Survivor" reality TV star and robotics scientist Christian Hubicki says.
 
-Financial Times • 2d ago
+Fox News • 2d ago
 
 ---
 
@@ -154,7 +154,21 @@ Financial Times • 2d ago
 
 These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered.
 
-NBC News • 14h ago
+NBC News • 18h ago
+
+---
+
+**[China can build kung fu-fighting robots. But it can’t get them to do factory work](https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/)**
+
+Reuters • 2d ago
+
+---
+
+**[A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers](https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8)**
+
+The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers.
+
+Business Insider • 10h ago
 
 ---
 
@@ -166,41 +180,15 @@ qz.com • 1d ago
 
 ---
 
-**[Hugging Face says sales for its robot ducks topped $2.6 million in 24 hours. Now there's a backlog.](https://www.businessinsider.com/hugging-faces-duck-robot-hits-sales-roller-skate-2026-8)**
-
-The future of robotics can waddle. Hugging Face said its bot-maker, Pollen Robotics, recorded over $2.6 million in sales of Microducks in 24 hours.
-
-Business Insider • 22h ago
-
----
-
 **[Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools](https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)**
-
-Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
-
-TechCrunch • 16h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
-
-RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, America's position in the global robotics race and ...
-
-📺 Fox Business Clips
-
-👁️ 180K • 👍 2K • 💬 1K • ⏱️ 4:19 • 3d ago
-
----
 
 **[Historic first as Chinese robot beats Usain Bolt&#39;s 100m world record at Beijing games | BBC News](https://www.youtube.com/watch?v=FGBLzMESBAo)**
 
@@ -212,13 +200,23 @@ A Chinese humanoid robot has run 100 metres in 9.39 seconds in a preliminary hea
 
 ---
 
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 12K • 👍 359 • ⏱️ 1:01 • 5h ago
+
+---
+
 **[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
 
 China showcased its robotics at this year's World Humanoid Robot Games in Beijing, and the results are less than impressive.
 
 📺 CrowderBits
 
-👁️ 58K • 👍 3K • 💬 312 • ⏱️ 4:11 • 3d ago
+👁️ 58K • 👍 3K • 💬 314 • ⏱️ 4:11 • 3d ago
 
 ---
 
@@ -228,7 +226,7 @@ Humanoid robots competed in kickboxing, sprinting and tai chi at the World Human
 
 📺 New York Post
 
-👁️ 28K • 👍 147 • 💬 120 • ⏱️ 3:08 • 5d ago
+👁️ 29K • 👍 147 • 💬 120 • ⏱️ 3:08 • 5d ago
 
 ---
 
@@ -238,17 +236,17 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 502K • 👍 3K • 💬 821 • ⏱️ 4:02 • 4d ago
+👁️ 518K • 👍 3K • 💬 833 • ⏱️ 4:02 • 4d ago
 
 ---
 
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+**[China&#39;s &#39;robot Olympic Games&#39; | ABC NEWS](https://www.youtube.com/watch?v=3evKmC2De8k)**
 
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+The World Humanoid Robot Games have kicked off in China, showcasing the progress of robotics through a variety of sporting ...
 
-📺 fastwit
+📺 ABC News (Australia)
 
-👁️ 3K • 👍 118 • ⏱️ 1:01 • 1h ago
+👁️ 85K • 👍 857 • ⏱️ 1:28 • 4d ago
 
 ---
 
@@ -258,27 +256,7 @@ There are more than two million robots working in China's factories - which is m
 
 📺 BBC News
 
-👁️ 250K • 👍 2K • 💬 768 • ⏱️ 6:19 • 4d ago
-
----
-
-**[Humanoid Robot Race on Humanoid Robot Games in Beijing China #humanoidrobot #robotics #robot #robots](https://www.youtube.com/watch?v=8NpZcYjXJHk)**
-
-A few videos from the Robot Games in Beijing. The first video is the cutest one. The mini humanoid robot race. The rest of the ...
-
-📺 Code by Nadiia
-
-👁️ 14K • 👍 132 • 💬 4 • ⏱️ 0:15 • 11h ago
-
----
-
-**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
-
-📺 South China Morning Post
-
-👁️ 502K • 👍 2K • 💬 370 • ⏱️ 2:14 • 4d ago
+👁️ 253K • 👍 2K • 💬 772 • ⏱️ 6:19 • 4d ago
 
 ---
 
@@ -288,7 +266,27 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 📺 CNA
 
-👁️ 3.0M • 👍 18K • 💬 4K • ⏱️ 4:29 • 4d ago
+👁️ 3.1M • 👍 18K • 💬 4K • ⏱️ 4:29 • 4d ago
+
+---
+
+**[Unreal AI Robots Future Is Now ... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=EBT3Ogjsxfk)**
+
+These Unreal AI Robots take a Walk with Pets, The future isn't coming—it's already here. Today's AI-powered humanoid robots ...
+
+📺 ejunky66
+
+👁️ 948 • 👍 27 • 💬 4 • ⏱️ 0:59 • 2h ago
+
+---
+
+**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
+
+📺 South China Morning Post
+
+👁️ 521K • 👍 2K • 💬 373 • ⏱️ 2:14 • 4d ago
 
 ---
 

@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 101,
+      "upvotes": 102,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
@@ -130,7 +130,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 85493,
+      "github_stars": 85561,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 4,
       "published_at": "2025-08-22T06:35:56.000Z",
       "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 29976,
+      "github_stars": 30036,
       "project_page": null
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 29967,
+      "github_stars": 30030,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-29T15:30:54.337757+00:00"
+  "fetched_at": "2026-08-29T19:14:34.933290+00:00"
 }

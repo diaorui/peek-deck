@@ -9,8 +9,8 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "hn_url": "https://news.ycombinator.com/item?id=49458418",
       "author": "GrumpySciGuy",
-      "points": 1012,
-      "num_comments": 707,
+      "points": 1018,
+      "num_comments": 708,
       "created_at": "2026-08-27T01:46:22Z",
       "object_id": "49458418",
       "image": "https://opengraph.githubassets.com/00ed13f1d915ebca45a24b7399bded749cfc01949db405ac46ab6295f8438b16/SenteLabsAI/OpenExecutive",
@@ -23,7 +23,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49475079",
       "author": "miniBill",
-      "points": 496,
+      "points": 505,
       "num_comments": 150,
       "created_at": "2026-08-28T06:33:57Z",
       "object_id": "49475079",
@@ -33,18 +33,18 @@
       "site_name": "Luanti Blog"
     },
     {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "hn_url": "https://news.ycombinator.com/item?id=49451313",
-      "author": "LVB",
-      "points": 361,
-      "num_comments": 6,
-      "created_at": "2026-08-26T15:55:15Z",
-      "object_id": "49451313",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "hn_url": "https://news.ycombinator.com/item?id=49489982",
+      "author": "pluc",
+      "points": 443,
+      "num_comments": 374,
+      "created_at": "2026-08-29T14:02:10Z",
+      "object_id": "49489982",
       "image": null,
-      "description": null,
-      "favicon": "https://www.gatesnotes.com/favicon.ico",
-      "site_name": "gatesnotes.com"
+      "description": "The results of the Debian general-resolution vote on the use of large language models have been [...]",
+      "favicon": "https://static.lwn.net/images/favicon.png",
+      "site_name": "LWN.net"
     },
     {
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49474143",
       "author": "signa11",
       "points": 212,
-      "num_comments": 141,
+      "num_comments": 142,
       "created_at": "2026-08-28T03:49:33Z",
       "object_id": "49474143",
       "image": null,
@@ -75,6 +75,20 @@
       "site_name": "bbc.com"
     },
     {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "hn_url": "https://news.ycombinator.com/item?id=49486081",
+      "author": "thclpr",
+      "points": 183,
+      "num_comments": 53,
+      "created_at": "2026-08-29T01:24:13Z",
+      "object_id": "49486081",
+      "image": "https://opengraph.githubassets.com/170818cd1525a58df5693af9af91cb549647b6b41d717dba9468bf0461f321de/stemdeckapp/stemdeck",
+      "description": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Serve Markdown to AI Agents with Accept Headers",
       "url": "https://acceptmarkdown.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49454764",
@@ -89,40 +103,12 @@
       "site_name": "acceptmarkdown.com"
     },
     {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "hn_url": "https://news.ycombinator.com/item?id=49489982",
-      "author": "pluc",
-      "points": 162,
-      "num_comments": 104,
-      "created_at": "2026-08-29T14:02:10Z",
-      "object_id": "49489982",
-      "image": null,
-      "description": "The results of the Debian general-resolution vote on the use of large language models have been [...]",
-      "favicon": "https://static.lwn.net/images/favicon.png",
-      "site_name": "LWN.net"
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "hn_url": "https://news.ycombinator.com/item?id=49486081",
-      "author": "thclpr",
-      "points": 162,
-      "num_comments": 45,
-      "created_at": "2026-08-29T01:24:13Z",
-      "object_id": "49486081",
-      "image": "https://opengraph.githubassets.com/170818cd1525a58df5693af9af91cb549647b6b41d717dba9468bf0461f321de/stemdeckapp/stemdeck",
-      "description": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
       "url": "https://aiandeducation.mit.edu/report/",
       "hn_url": "https://news.ycombinator.com/item?id=49464314",
       "author": "pbui",
       "points": 141,
-      "num_comments": 82,
+      "num_comments": 83,
       "created_at": "2026-08-27T13:07:45Z",
       "object_id": "49464314",
       "image": null,
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": "https://humanprogress.org/wp-content/uploads/2022/06/cropped-humanprogress-2022-favicon-180x180.png",
       "site_name": "Human Progress"
+    },
+    {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "hn_url": "https://news.ycombinator.com/item?id=49458875",
+      "author": "semiquaver",
+      "points": 116,
+      "num_comments": 369,
+      "created_at": "2026-08-27T02:37:07Z",
+      "object_id": "49458875",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "economist.com"
     }
   ],
-  "total_hits": 619,
+  "total_hits": 575,
   "has_metadata": true,
-  "fetched_at": "2026-08-29T15:30:48.346620+00:00"
+  "fetched_at": "2026-08-29T19:14:27.346927+00:00"
 }
