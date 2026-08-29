@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-29T21:53:19.211896+00:00'
+updated: '2026-08-29T23:55:32.234205+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 21:53 UTC  
+**Last Updated:** August 29, 2026 at 23:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,453.82
+### $2,454.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.5%  
-**30d:** +31.6%  
-**90d:** +22.3%  
-**1y:** -44.0%  
+**24h:** +0.6%  
+**7d:** -0.2%  
+**30d:** +32.0%  
+**90d:** +22.7%  
+**1y:** -43.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.87B
+**Market Cap:** $296.73B
 Rank #2
 
 **Circulating Supply:** 120,681,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.3%
 
 **All-Time Low:** $0.43
-+566139.9%
++567761.3%
 
 ---
 
@@ -164,11 +164,11 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-crypto-best-163039694.html)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-continues-buy-125400722.html)**
 
-Bitcoin, Ethereum, and XRP have each staged a sharp two-week comeback after months of losses, but the catalysts driving each coin point in very different directions for the year ahead.
+Tom Lee's bet on Ethereum keeps getting bigger.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 5h ago
 
 Charles Schwab (SCHW) Director of Equity Research Adam Lynch believes that investors worried about currency debasement have an increasing range of crypto assets to choose from, ranging from Bitcoin (BTC) to Hyperliquid (HYPE), and the mix mattered more than the pick.Bitcoin, however, remained the a…
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -188,11 +188,9 @@ The Hacker News • 2d ago
 
 ---
 
-**[Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?](https://www.fool.com/investing/2026/08/29/tom-lees-bitmine-continues-to-buy-ethereum-hand-ov/)**
+**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
 
-Tom Lee's bet on Ethereum keeps getting bigger.
-
-The Motley Fool • 8h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -200,21 +198,7 @@ The Motley Fool • 8h ago
 
 MONACO, Aug.  29, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to its 4th CEX reveal on Aug...
 
-markets.businessinsider.com • 10h ago
-
----
-
-**[ETHB Emerges as a Favorite Among Ethereum ETFs](https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs)**
-
-ETF.com • 21h ago
-
----
-
-**[Ethereum Weekly Price Forecast: Profit-taking slows rally as network activity lags](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-profit-taking-slows-rally-as-network-activity-lags-202608290345)**
-
-Ethereum (ETH) has held firmly above $2,400 and traded near $2,500 this week after a sharp rally last week. However, upward momentum has slowed as investors appear to be taking profits after ETH moved above its average on-chain cost basis.
-
-FXStreet • 18h ago
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -226,9 +210,25 @@ Coinpedia • 1d ago
 
 ---
 
-**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
+**[Ethereum Weekly Price Forecast: Profit-taking slows rally as network activity lags](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-profit-taking-slows-rally-as-network-activity-lags-202608290345)**
 
-CoinDesk • 2d ago
+Ethereum (ETH) has held firmly above $2,400 and traded near $2,500 this week after a sharp rally last week. However, upward momentum has slowed as investors appear to be taking profits after ETH moved above its average on-chain cost basis.
+
+FXStreet • 20h ago
+
+---
+
+**[ETHB Emerges as a Favorite Among Ethereum ETFs](https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs)**
+
+ETF.com • 23h ago
+
+---
+
+**[Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand](https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/)**
+
+Paymasters and sponsors can keep native tokens out of sight, but Ethereum and Solana still require fees funded in ETH or SOL.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 145 • 💬 111 • ⏱️ 15:06 • 8h ago
+👁️ 7K • 👍 155 • 💬 142 • ⏱️ 15:06 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ Alessandro goes deep on the one chart every altcoin holder needs to understand r
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 151 • 💬 5 • ⏱️ 16:35 • 3h ago
+👁️ 7K • 👍 181 • 💬 6 • ⏱️ 16:35 • 5h ago
 
 ---
 
@@ -272,7 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 299 • 💬 59 • ⏱️ 15:34 • 1d ago
+👁️ 16K • 👍 311 • 💬 61 • ⏱️ 15:34 • 1d ago
 
 ---
 
@@ -282,17 +282,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 100K • 👍 1K • 💬 441 • ⏱️ 38:19 • 2d ago
-
----
-
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=PBGoPjgGcjw)**
-
-Ethereum Elliott Wave analysis for August 28, 2026, focuses on the $2178 support level which marks the invalidation for the ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 152 • 💬 11 • ⏱️ 8:05 • 22h ago
+👁️ 102K • 👍 2K • 💬 445 • ⏱️ 38:19 • 2d ago
 
 ---
 
@@ -302,7 +292,27 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 113 • ⏱️ 17:22 • 1d ago
+👁️ 6K • 👍 116 • ⏱️ 17:22 • 1d ago
+
+---
+
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=PBGoPjgGcjw)**
+
+Ethereum Elliott Wave analysis for August 28, 2026, focuses on the $2178 support level which marks the invalidation for the ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 155 • 💬 11 • ⏱️ 8:05 • 1d ago
+
+---
+
+**[BMNR Stock: Could Ethereum Send BitMine to $100, $500 or $1,000?](https://www.youtube.com/watch?v=37hCtT5lyoA)**
+
+BMNR stock price prediction and analysis: Could BitMine Immersion Technologies (BMNR) reach several hundred dollars per ...
+
+📺 BiGB Stcok
+
+👁️ 294 • 👍 24 • 💬 38 • ⏱️ 14:55 • 6h ago
 
 ---
 
@@ -316,23 +326,13 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=IktF2o-Gbi0)**
+**[Matt Hougan &amp; Ryan Rasmussen: Ethereum &amp; Solana Will Both Explode (Institutional Mindset Explained)](https://www.youtube.com/watch?v=TdtKgBrx1RU)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Matt Hougan and Ryan Rasmussen go head to head in a rapid-fire over/under session on price targets for Bitcoin, Ethereum, ...
 
-📺 Profit First
+📺 The Rollup
 
-👁️ 1K • 👍 56 • ⏱️ 5:54 • 8h ago
-
----
-
-**[BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5l9GDMf_d90)**
-
-BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 17K • 👍 359 • 💬 308 • ⏱️ 16:59 • 19h ago
+👁️ 8K • 👍 91 • 💬 20 • ⏱️ 8:36 • 2d ago
 
 ---
 
