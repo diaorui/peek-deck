@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-28T21:46:21.438554+00:00'
+updated: '2026-08-29T03:32:36.970220+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 28, 2026 at 21:46 UTC  
+**Last Updated:** August 29, 2026 at 03:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,406.24
+### $77,675.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** +0.5%  
-**30d:** +19.6%  
-**90d:** +5.1%  
+**24h:** -2.5%  
+**7d:** -0.1%  
+**30d:** +23.5%  
+**90d:** +8.8%  
 **1y:** -28.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1555.25B
+**Market Cap:** $1559.54B
 Rank #1
 
-**Circulating Supply:** 20,076,462 BTC
+**Circulating Supply:** 20,076,553 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.4%
 
 **All-Time Low:** $67.81
-+114113.2%
++114448.0%
 
 ---
 
@@ -121,7 +121,7 @@ This is my first bitcoin wallet aka my laptop that I bought in 2011 with my own 
 
 More info: https://stacker.news/items/1555439?commentId=1555585
 
-1d ago
+2d ago
 
 ---
 
@@ -161,17 +161,25 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
+**[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
-Bloomberg.com • 1h ago
+KFOR • 5h ago
 
 ---
 
-**[Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-long-term-211604920.html)**
+**[Middlesex sheriff warns of bitcoin scam after Medford resident loses $7,500](https://www.bostonglobe.com/2026/08/28/metro/koutoujian-middlesex-sheriffs-department-scam/)**
 
-BTC gave back some of its gains after Fed Chair Kevin Warsh talked tough on inflation, but prediction market traders are still leaning bullish.
+The scammer said they were from the sheriff's department, and claimed to have an arrest warrant for the victim, officials said.
 
-Yahoo Finance • 30m ago
+The Boston Globe • 50m ago
+
+---
+
+**[Tom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K](https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-ethereum-6k-021000271.html)**
+
+Fundstrat’s Tom Lee says Ethereum (CRYPTO: $ETH) remains “vastly undervalued” even after its rece...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,51 +191,37 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin ETF inflows, crypto narratives begin to brighten amid win streak](https://finance.yahoo.com/video/bitcoin-etf-inflows-crypto-narratives-173000102.html)**
-
-Scott Melker discusses bitcoin (BTC-USD) steadying above $79,000 — also crossing back above $80,000 per token on Thursday — as bitcoin ETF inflows extend gains for the eighth straight day and narratives around the cryptocurrency begin to brighten.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
-
----
-
-**[ETFs to Watch After Revival of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/etfs-watch-revival-bitcoin-141800012.html)**
-
-Bitcoin reclaims $80K as Treasury liquidity and ETF inflows fuel its 2026 comeback. Can IBIT, FBTC, BITB and ARKB ride the rally?
-
-Yahoo Finance • 1d ago
-
----
-
 **[Why Bitcoin Surged to USD 80,000, and What May Come Next](https://global.morningstar.com/en-ca/markets/why-bitcoin-surged-usd-80000-what-may-come-next)**
 
 Morningstar • 1d ago
 
 ---
 
-**[Prediction Markets Think Bitcoin Will End the Year Near $75,000. Here's the Most Likely Scenario for Bitcoin in 2026.](https://www.fool.com/investing/2026/08/28/prediction-markets-bitcoin-end-the-year-75000/)**
+**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
 
-Prediction markets may not be far off.
-
-The Motley Fool • 4h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Investors Are Piling Into Bitcoin Again](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/investors-are-piling-into-bitcoin-again-88r02djwTF9qOQUgJ88J)**
+**[Bitcoin Price Tests $80,000 In 'Powerful Setup.' IREN Tops Sales Views.](https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/)**
 
-WSJ • 1d ago
+Bitcoin price shows a "powerful setup," Bitwise CIO says as the crypto trades near $80,000. Miner, AI player IREN to report.
+
+Investor's Business Daily • 1d ago
 
 ---
 
-**[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
+**[Bitcoin Is Back. Buy at Your Own Risk.](https://www.barrons.com/articles/bitcoin-price-buy-risk-crypto-717b94e0)**
 
-Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
+Barron's • 23h ago
 
-Decrypt • 5h ago
+---
+
+**[Bitcoin is having a great month—but Solana is doing even better as coin soars above $100](https://fortune.com/2026/08/27/bitcoin-great-month-solana-soars-above-100/)**
+
+Investors have found fresh reasons to buy Solana beyond Bitcoin’s comeback.
+
+Fortune • 1d ago
 
 ---
 
@@ -239,7 +233,7 @@ Decrypt • 5h ago
 
 The Bitcoin Lightning software project said it is preparing fixes after confirming that several AI-made vulnerability reports were accurate.
 
-⬆️ 9 • 💬 2 • 22h ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
+⬆️ 9 • 💬 2 • 1d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
 
 ---
 
@@ -247,7 +241,7 @@ The Bitcoin Lightning software project said it is preparing fixes after confirmi
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 5 • 💬 0 • 2d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 5 • 💬 0 • 3d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -255,7 +249,7 @@ A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 4h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 10h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -263,7 +257,7 @@ Finally, a killer use case
 
 The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done.
 
-⬆️ 4 • 💬 0 • 9h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
+⬆️ 4 • 💬 0 • 15h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
 
 ---
 
@@ -287,7 +281,7 @@ Finally, a killer use case
 
 Could old coins that have not moved for years help pay Bitcoin miners without creating new coins?
 
-⬆️ 2 • 💬 0 • 6h ago • [organicbitcoin.org](https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html)
+⬆️ 2 • 💬 0 • 12h ago • [organicbitcoin.org](https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html)
 
 ---
 
@@ -325,17 +319,7 @@ Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today,
 
 📺 CoinDesk
 
-👁️ 3K • 👍 35 • 💬 2 • ⏱️ 1:45 • 5h ago
-
----
-
-**[Foreign Central Banks Chose Physical Gold Over Bitcoin | Jim Bullard  #gold #Bitcoin #Fed](https://www.youtube.com/watch?v=5X3tbMt7hrc)**
-
-Former St. Louis Fed President Jim Bullard says that over the past year, foreign central banks found physical gold more desirable ...
-
-📺 Kitco NEWS
-
-👁️ 392 • 👍 21 • ⏱️ 1:40 • 46m ago
+👁️ 6K • 👍 44 • 💬 9 • ⏱️ 1:45 • 11h ago
 
 ---
 
@@ -345,17 +329,15 @@ Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then
 
 📺 Rob Wallace | Bitcoin News
 
-👁️ 12K • 👍 89 • 💬 15 • ⏱️ 14:16 • 1d ago
+👁️ 12K • 👍 91 • 💬 13 • ⏱️ 14:16 • 1d ago
 
 ---
 
-**[The Fed Could Blow Up Bitcoin’s Breakout Today](https://www.youtube.com/watch?v=aHDXptru4Wc)**
+**[FINAL BITCOIN DUMP BEFORE $200,000? FEDS HAWKISH SPEECH SENDS CRYPTO LOWER #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=aKeWHjEbdfY)**
 
-Bitcoin #Crypto #finance Bitcoin is back near $80K as markets brace for Kevin Warsh's Jackson Hole speech, with U.S. demand ...
+📺 CryptoWendyO
 
-📺 The Wolf Of All Streets
-
-👁️ 19K • 👍 480 • 💬 108 • ⏱️ 1:00:18 • 7h ago
+👁️ 1K • 👍 178 • 💬 4 • ⏱️ 2:18 • 2h ago
 
 ---
 
@@ -365,7 +347,37 @@ Bitcoin, Robinhood Chain, BITUNIX TRADE THE TOP COINS (available everywhere) htt
 
 📺 Lark Davis
 
-👁️ 37K • 👍 798 • 💬 78 • ⏱️ 24:34 • 9h ago
+👁️ 43K • 👍 878 • 💬 99 • ⏱️ 24:34 • 15h ago
+
+---
+
+**[Bitcoin Just Broke a 5-Year Trend vs Gold That Could Send it to $500K Fast!](https://www.youtube.com/watch?v=-NVMKIiY2Yc)**
+
+Bitcoin just broke a major 5-year trend against gold as institutional capital, family offices, and global liquidity begin rotating into ...
+
+📺 Simply Bitcoin
+
+👁️ 71K • 👍 2K • 💬 286 • ⏱️ 18:21 • 1d ago
+
+---
+
+**[Fed Warsh Speech Shakes Markets, Gold, Silver, Bitcoin, Yields...Here Comes The Earthquake!](https://www.youtube.com/watch?v=dWbVXjDj-rA)**
+
+20% off Smart Money Crypto with discount code SMC20. New Members Only. Offer ends 8/30/26 at 11:59 PM ET: Crypto Signals ...
+
+📺 Verified Investing
+
+👁️ 106K • 👍 4K • 💬 96 • ⏱️ 15:22 • 14h ago
+
+---
+
+**[The Fed Could Blow Up Bitcoin’s Breakout Today](https://www.youtube.com/watch?v=aHDXptru4Wc)**
+
+Bitcoin #Crypto #finance Bitcoin is back near $80K as markets brace for Kevin Warsh's Jackson Hole speech, with U.S. demand ...
+
+📺 The Wolf Of All Streets
+
+👁️ 22K • 👍 509 • 💬 215 • ⏱️ 1:00:18 • 13h ago
 
 ---
 
@@ -375,17 +387,17 @@ Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.
 
 📺 Benjamin Cowen
 
-👁️ 190K • 👍 7K • 💬 367 • ⏱️ 12:41 • 1d ago
+👁️ 194K • 👍 7K • 💬 370 • ⏱️ 12:41 • 1d ago
 
 ---
 
-**[How HIGH Will Bitcoin&#39;s Price Go?](https://www.youtube.com/watch?v=gEcGdXB53Fg)**
+**[$1 Million Bitcoin Coming Faster - CZ Just Shortened The Timeline](https://www.youtube.com/watch?v=4S6UylP9MMQ)**
 
-We've crossed $60 billion in connected assets on Silvia, and roughly 10% of it sits in Bitcoin and crypto. Self-directed investors ...
+Get 2 Tangem Wallets: 2nd 50% OFF + EXTRA 10% OFF (Ends Aug. 30): https://tangem.com/invite/ALERTS Former Binance CEO ...
 
-📺 Anthony Pompliano
+📺 Bitcoin News Alerts
 
-👁️ 10K • 👍 135 • 💬 75 • ⏱️ 0:56 • 1d ago
+👁️ 9K • 👍 389 • 💬 99 • ⏱️ 14:46 • 1d ago
 
 ---
 
@@ -395,27 +407,7 @@ SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and
 
 📺 Verified Investing
 
-👁️ 22K • 👍 675 • 💬 79 • ⏱️ 17:33 • 1d ago
-
----
-
-**[The Great Rotation Into Bitcoin Has Begun | Eric Yakes](https://www.youtube.com/watch?v=naTjSVCusSM)**
-
-Everything's structurally changed.” Eric Yakes is back on the show to explain why Bitcoin may never suffer another 80% crash, ...
-
-📺 What Bitcoin Did
-
-👁️ 30K • 👍 399 • 💬 124 • ⏱️ 1:18:40 • 1d ago
-
----
-
-**[Bitcoin Rallies to $80K | Kevin Warsh Speaking at Jackson Hole](https://www.youtube.com/watch?v=UJlilUexICw)**
-
-Come to the 1st ITC Conference (Ticket Prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 154K • 👍 5K • 💬 332 • ⏱️ 35:14 • 17h ago
+👁️ 22K • 👍 677 • 💬 80 • ⏱️ 17:33 • 1d ago
 
 ---
 

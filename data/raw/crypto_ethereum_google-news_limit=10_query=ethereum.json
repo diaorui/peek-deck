@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Tom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVFfazVQdjNQQmJnblhUQmd6cDdCLVUwVUo1RXoweF93b2NmOEdiU25oRjV6NEpqbFFRUjlXbTFkell4dVlOeXN1aHJpQmo1bjBnbTFkelVMRFpHRWFLR0pfeWplam5GVUROa2JqMVhEcndCa09tbF9iVkdvZUpqTDl1WTFUcUx3NFJYZ2NDN0xITGM?oc=5",
+      "pub_date": 1787969400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-ethereum-6k-021000271.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e19a67d9e087598655943fc968123dcc6446cbaefdef5e599f7065dc72887228/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdb65fbd9981f9b34f03ae4ac3bcddafb.jpg",
+      "description": "Fundstrat\u2019s Tom Lee says Ethereum (CRYPTO: $ETH) remains \u201cvastly undervalued\u201d even after its rece..."
+    },
+    {
       "headline": "Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -13,26 +23,6 @@
       "article_url": "https://www.tradingview.com/news/coinpedia:26a229575094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Bitcoin has dropped to $77,901.87, down 3.1% over 24 hours, dragging Ethereum and XRP lower after Fed Chair Kevin Warsh delivered a hawkish message at the 2026 Jackson Hole Symposium, reviving expectations of a September rate hike.What Warsh SaidSpeaking live from Jackson Hole, Warsh described the\u2026"
-    },
-    {
-      "headline": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFBRaWNTbFZSaU9RX1BpZEgyNTlhd0ZjYU9OcGtiQWgyM09LYmZ6dDNyVXZTQTZsSUNESU1Hc213N1dSQzJEdHpyc3A3akdRS1g0akxJQ3dqbnRER1doZ3dRdVlRTWxDckxfSWEtcmwyMU41UGN2ZnlBSm9Xalp4ZE5Od2I4Z9IBjgFBVV95cUxQcEZrU1dTREJ1d2huc3YzaFZMSlloQnhqbXBLdUVHUG1ONFRsdU1NN0o4Zy0tdVZyZ25fTGpJUU9vZ09xVzc1Q2NNNkN4TjlxczVYQl85SlpDQ1lVZFJVWTNFbTN3ajNtRnYyeEYzamt1QS1BR0VROVFzT3hjV1ltVU1sRzhMY0pscGs4RUp3?oc=5",
-      "pub_date": 1787935142.0,
-      "article_url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
-      "description": "Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink."
-    },
-    {
-      "headline": "Ethereum Staking Rewards Steal Limelight From Bitcoin ETFs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkNuREs3Yk9rZjNFNXRKVXJiRDFkSFVWWENtVko1bzByMGRFSTBKYkppNXU0eUhkX2d1TTFRSGU4ZUpZMXlGV1V1dTdUeW1uRVpwTFc5TDZ1NFZPX2dwelYzZk9DUzk0ZUFpYURORXZqcHNxMm9sNEt4Q29YQ04zNzkzMFloQ1RGdlRnTE1DUWFHclQzYXJONkZIUVFjaTRQZHc3OC0wV2Y?oc=5",
-      "pub_date": 1787842617.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-rewards-steal-limelight-145657934.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cddac9b88fc7087db83b6a63f37b9b25859c531c0f6ee34452c3369326730071/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2F9df5404738a39efb2d52662a15eb18b1.jpg",
-      "description": "In Bitcoin ETF news, Ethereum Staking products are drawing significant attention away from BTC, having become an important feature in crypto exchange-traded products that allow investors to seek blockchain rewards through a brokerage account rather than managing the process directly. 21Shares describes staking as locking up an amount of an ..."
     },
     {
       "headline": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
@@ -45,6 +35,16 @@
       "description": "GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization"
     },
     {
+      "headline": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFBRaWNTbFZSaU9RX1BpZEgyNTlhd0ZjYU9OcGtiQWgyM09LYmZ6dDNyVXZTQTZsSUNESU1Hc213N1dSQzJEdHpyc3A3akdRS1g0akxJQ3dqbnRER1doZ3dRdVlRTWxDckxfSWEtcmwyMU41UGN2ZnlBSm9Xalp4ZE5Od2I4Z9IBjgFBVV95cUxQcEZrU1dTREJ1d2huc3YzaFZMSlloQnhqbXBLdUVHUG1ONFRsdU1NN0o4Zy0tdVZyZ25fTGpJUU9vZ09xVzc1Q2NNNkN4TjlxczVYQl85SlpDQ1lVZFJVWTNFbTN3ajNtRnYyeEYzamt1QS1BR0VROVFzT3hjV1ltVU1sRzhMY0pscGs4RUp3?oc=5",
+      "pub_date": 1787935142.0,
+      "article_url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
+      "description": "Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink."
+    },
+    {
       "headline": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -53,16 +53,6 @@
       "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "New Crypto: Pepeto Announces $10.74M Raised After Shiba Inu's Success And Ethereum Price Prediction Hits $25,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT3JBOGF1MEEtOW8zaWF0ZDVybm1XRVJiQmdoZWUtUnkxbW1oNkZ1VzhjcW54UWloZXNJMWYtQm9HUDF1ZGhKY2FBTFlUWFp2T2dadWxIdmhYcV9oNS1ndUM2OFRrUHJpNFI0RnlPWEppaEw5Z00zY1F5LWtCYmZuLVpNSjZpaFFBLTJCNXp3VWlNYm16VUl3eUVQaDJyNjQ1RHJrOUs5THNwS21aVTA1SHA0bGs4MF9aWnBKNllZR3RyQ0p0cVFuY1ZRZnUxQzhRckdoeG9zc1Zodjh0TWJIQXlGdGVEWm9BQTNkOHVlZ0F4Y3VMV1NrNVdoYXY?oc=5",
-      "pub_date": 1787945363.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-74m-raised-after-shiba-inu-s-success-and-ethereum-price-prediction-hits-25-000-1036504097",
-      "image": "https://ml.globenewswire.com/Resource/Download/01369480-83e5-4328-a63f-56db61c171de/pepeto-announces-10-74m-raised-after-shiba-inu-s.jpg",
-      "description": "DUBAI, United Arab Emirates, Aug.  28, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has officially announced its presale crossed $10.74 million, fi..."
     },
     {
       "headline": "Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand",
@@ -79,7 +69,7 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uQzFUUXpIZVB2QXFJbXpQV0NINkV4c1VYR0lXYl9qcnVIeTJSV2xiYW93c2NOTmY1UGJTMVZiaWpWd2VBTXRrWXhEWmpVbGVPZzhkdUptT3ppbHVHQTZSRnh6ZktkT2pZ?oc=5",
-      "pub_date": 1787934713.0,
+      "pub_date": 1787914800.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-08-28-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-28.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -95,16 +85,26 @@
       "description": "Ethereum whale buys 5425 ETH at $2498 with 13.55M USDT on-chain. Price holds bullish EMA structure at $2504.72 with Bollinger resistance ahead."
     },
     {
-      "headline": "Forget AI Stocks: 3 Cryptocurrencies to Buy and Hold Instead",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNy14REdQY1l2enJRRVRmcW50N092MlQxSTdfdkptbmxOVFBOcEoxb0E5MG9aa3FzT09lTUd6X09SU1dIckZVUmJLUmNxeXByS0xLWWNpTDhMd0Z6a1FuT2t4M2Nldlk2V1ctVG9oRlZwazRGM29fVVJCUEM1cUI1eVVoOE1XaURYR3NVQ3pjeWRQbDJIM1d5Qw?oc=5",
-      "pub_date": 1787824800.0,
-      "article_url": "https://www.fool.com/investing/2026/08/27/forget-ai-stocks-3-cryptocurrencies-to-buy-and-hol/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883656%2Fai-chip-circuit.jpg&w=1200&op=resize",
-      "description": "If the hype around AI stocks fades, these three cryptocurrencies could be headed much higher."
+      "headline": "ETHB Emerges as a Favorite Among Ethereum ETFs",
+      "source": "ETF.com",
+      "source_url": "https://www.etf.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUxZUjVmYi1zOFB0LWFMd2NVU2EzZ0g2QkZXQnZJaE5jZFBWcHM4NjY3Q2lNbFZ5djdnaERaZHA3eUZQWTFFTVFrMm51YlZwQk1tU2d0dUgwWkVfYmx4OHdSeWI4eE1rYWx3VXVrei1hUGoxb0VjSUppaU1JUXFrQ3dVV1NjZw?oc=5",
+      "pub_date": 1787964605.0,
+      "article_url": "https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "New Crypto: Pepeto Presale Announces $10.85M As the Ethereum Price Prediction Calls $7,500",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaW90VWNjNE5MSzU0UGtHcHJiY2F0UG1MMjcyRFZVTGJLaXFlQWptWFFQekNieUc5X25qVzhDN1NXT2luUjZydm5BbVE1amRQeE5oMFdTTmhBVWJyR05ncFliSllqejZ6aVI3VnctTnN1X0U3MG9DaU1Ga0hHQlJnRm5LX3RtRHNBbUstMjJZUDE0Q1prdks4WFBmeXhXeWlhMHJYYmlES25mZVlaeENrUkNrNi16VHdDS0Z1MHZfZ29xdmF1NjVEQ3NvRUlWbEd3SXR6WGFYY21sdWgtcWZR?oc=5",
+      "pub_date": 1787762456.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500-1036494746",
+      "image": "https://ml.globenewswire.com/Resource/Download/9ffab985-b118-4906-8b2e-3d500c9765fe/pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500.jpg",
+      "description": "DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-28T21:46:17.443119+00:00"
+  "fetched_at": "2026-08-29T03:32:33.818684+00:00"
 }

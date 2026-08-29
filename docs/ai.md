@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-28T21:46:21.430080+00:00'
+updated: '2026-08-29T03:32:36.961818+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 28, 2026 at 21:46 UTC  
+**Last Updated:** August 29, 2026 at 03:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Australia just banned fully AI-generated songs from its official charts. Is that fair?](https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/)**
+
+AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australia’s official charts. I understand the reasoning, but the line could get messy. Using AI for mastering is clearly different from typing one prompt and releasing the result—but there’s a huge gray area between those two. Should charts judge how a song was created, or only whether people genuinely want to listen to it? Source: https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/
+
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/) • 18h ago
+
+---
+
 **[Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay](https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/)**
 
 What do you think, folks?
@@ -45,19 +53,11 @@ What do you think, folks?
 
 ---
 
-**[Australia just banned fully AI-generated songs from its official charts. Is that fair?](https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/)**
-
-AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australia’s official charts. I understand the reasoning, but the line could get messy. Using AI for mastering is clearly different from typing one prompt and releasing the result—but there’s a huge gray area between those two. Should charts judge how a song was created, or only whether people genuinely want to listen to it? Source: https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/
-
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/) • 12h ago
-
----
-
 **[The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.](https://www.reddit.com/r/artificial/comments/1w0j50w/the_job_market_is_hell_young_people_are_using/)**
 
 Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/) • 14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/archive/2025/09/job-market-hell/684133/) • 20h ago
 
 ---
 
@@ -65,15 +65,7 @@ Young people are using ChatGPT to write their applications; HR is using AI to re
 
 I think that Anthropic has dropped the ball, instruction following is actually non-existent. You tell it to not do something, ignores you and does it anyway. I’ve said at least ten times to no open something, it keeps doing it. Absolutely unbelievable. This is a dangerous model.
 
-4h ago
-
----
-
-**[Proposal for an AI experiment](https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/)**
-
-I'm writing as someone outside academia who has developed a strong interest in AI consciousness, developmental robotics, and embodied artificial intelligence. I'm an industrial maintenance technician and welder by profession, so this isn't my field, but I've been reading about work in developmental robotics, autobiographical memory, continual learning, self-modeling, and cognitive architectures such as LIDA, iCub/DAC, and KnowRob/EASE. That research led me to a question that I haven't yet been able to find addressed through a truly long-term experiment. What would happen if, instead of repeatedly creating increasingly capable artificial agents, researchers attempted to preserve the developmental continuity of one embodied AI over many years—or eventually decades? The experiment I have in mind would begin with an embodied agent using technology that exists today. The objective wouldn't initially be to create or prove consciousness. Rather, the same individual agent would be allowed to accumulate a continuous developmental history through interaction with the physical and social world. Its experiences would contribute to persistent autobiographical memory and an evolving self-model. As technology improved, its sensors, body, computational resources, and eventually portions of its cognitive architecture could be upgraded, while making preservation of its accumulated memories, learned relationships, behavioral dispositions, and continuity of self-model a central design requirement. In that sense, technological improvements would become part of the agent's development rather than reasons to replace it with a newly initialized successor. One potentially useful control occurred to me as well. At various stages, newly initialized agents could be created using the same contemporary hardware and cognitive architecture as the continuously developing agent. After 10 or 20 years, researchers could therefore compare an agent possessing decades of embodied developmental history with a relatively new agent possessing comparable underlying technology. That seems as though it could help distinguish properties produced by technological advancement from properties produced specifically by long-term individual experience and continuity. Researchers could longitudinally examine questions involving autobiographical identity, stability and development of preferences, self-modeling, metacognition, social relationships, embodiment, responses to changes in its own body or architecture, spontaneous self-reference, and potentially whatever evidence relevant to machine consciousness researchers considered meaningful. I realize that none of those behaviors would, by themselves, solve the philosophical problem of proving subjective experience. I'm also aware that continual learning, catastrophic forgetting, memory integrity, architecture migration, safety, and eventually ethical considerations would make an experiment like this extremely difficult. But that difficulty is partly what makes the question interesting to me. Human development doesn't consist of periodically replacing a child with a more capable child containing the previous one's information. One individual accumulates experience while the capabilities of that individual change enormously over time. I began wondering whether developmental AI research might learn something fundamentally different by giving an artificial agent something analogous: not merely memory, but a developmental lifetime. If artificial consciousness is possible, it also seems conceivable that it may not resemble human consciousness or appear at a discrete, identifiable moment. A persistent embodied agent might instead develop properties associated with individuality or selfhood gradually through years of interaction. Conversely, if decades of developmental continuity produced no compelling evidence of anything beyond increasingly sophisticated information processing, that result would be scientifically interesting as well. I've found research addressing many individual components of this idea, but I haven't yet located an experiment that deliberately combines embodied developmental learning, persistent autobiographical memory, a continuing self-model, and preservation of one agent's individual continuity across successive generations of hardware and software over a period of years. I'm certainly not claiming that nobody has proposed or attempted this. I may simply not know the terminology necessary to find it. If work like this already exists, I would genuinely appreciate being pointed toward it. If it doesn't, I wanted to pass the idea along to researchers who actually have the expertise and resources to evaluate whether such an experiment could be scientifically useful. Cliff notes version - Start Individual A in 2027. Never intentionally reset A's autobiographical continuity. A gets better hands in 2029. A gets better vision in 2031. A's neural architecture is expanded in 2034. A gets a substantially improved body in 2037. A's reasoning architecture receives another major upgrade in 2042. But, to the greatest extent technically possible, A remains A. Meanwhile you create B, C, D and E at various points using the contemporary technology but without A's developmental history. Then you have an extraordinary control experiment. In 2047, A and E might possess equivalent hardware and base cognitive architecture. But A has twenty years of embodied autobiographical existence. E has six months. Now investigate differences in self-model, relationships, preferences, autobiographical reasoning, metacognition, attachment to its history/body, personality stability, novel goals, reactions to prospective memory alteration, and reports of subjective experience.
-
-2h ago
+10h ago
 
 ---
 
@@ -81,7 +73,35 @@ I'm writing as someone outside academia who has developed a strong interest in A
 
 Reuters reports Meta explored cutting some teams by as much as 60% as part of an AI-native restructuring. Productivity and reliability problems reportedly derailed the plan. If Meta couldn't make AI-led downsizing work at that scale, are we overestimating how quickly AI will replace white-collar teams?
 
-8h ago
+14h ago
+
+---
+
+**[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities. When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future. (Gift Article)](https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html?unlocked_article_code=1.9FA.x6G_._ao4KQIl-Vb-&smid=url-share) • 32m ago
+
+---
+
+**[Did yall saw similar ADs?](https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/)**
+
+51m ago
+
+---
+
+**[Industry Insights: Niantic Spatial's Big Bet on Large Geospatial Models](https://www.reddit.com/r/artificial/comments/1w18j40/industry_insights_niantic_spatials_big_bet_on/)**
+
+Niantic Spatial’s core proposition isn’t world models, so much as models of the world
+
+🔗 [Automate](https://www.automate.org/vision/industry-insights/niantics-physical-ai-spinoff-takes-on-the-real-world-one-city-at-a-time) • 2h ago
+
+---
+
+**[AI didn't make me better at creating things, it just made me less afraid to try](https://www.reddit.com/r/artificial/comments/1w0t6r4/ai_didnt_make_me_better_at_creating_things_it/)**
+
+I think the biggest change AI brought me is not that I can suddenly make amazing things. I still have plenty of bad ideas. The difference is that I don't immediately throw them away anymore. Before AI tools, I would have an idea for a short video or some kind of visual project, then think about everything involved. How long would it take? Do I need to learn another tool? Would I need someone else to help? Is it even worth spending a weekend on? Most of the time, I would just move on. Recently I started experimenting more with AI video. I have used PixVerse for some rough ideas, and the thing I like is not that it gives me a finished video every time. Honestly, a lot of the first attempts are still not what I want. But now I can spend an hour exploring an idea instead of spending days wondering if the idea was worth trying. That small difference changes the way you think. You become more willing to test weird ideas because failing does not feel like wasting a huge amount of time. I think people focus too much on whether AI can create a perfect result. For me, the interesting part is that it makes trying things feel cheaper. A lot of good ideas probably never happened before because people were not sure they were good enough to start.
+
+12h ago
 
 ---
 
@@ -89,29 +109,7 @@ Reuters reports Meta explored cutting some teams by as much as 60% as part of an
 
 Huawei Cloud released CodeArts Agent for commercial use in Asia Pacific on Aug 28. Its Basic and Professional editions moved from public beta to general availability. The release describes Agent Team as 16 specialized agents covering requirements, architecture, coding, testing, issue resolution, and code review. CodeArts Agent also supports IDEs, plugins, and CLI/TUI access, with enterprise management and security features. The practical shift is from code completion toward project-level work, but this launch release does not include independent usage results. Sources: PR Newswire: https://www.prnewswire.com/apac/news-releases/huawei-cloud-codearts-agent-now-available-across-asia-pacific-bringing-agentic-ai-to-software-development-302862642.html Official product page: https://www.huaweicloud.com/intl/en-us/product/codearts/ai.html
 
-1h ago
-
----
-
-**[Row-Bot v4.9.0 is available](https://www.reddit.com/r/artificial/comments/1w0tb6l/rowbot_v490_is_available/)**
-
-Row-Bot v4.9.0 is available. - Meet Buddy: a native, always-on-top desktop overlay for Windows and macOS. - Drag Buddy from the sidebar and place it over any app. - Chat, track progress, read replies, approve simple actions, or stop runs without switching windows. - Buddy controls your selected Chat, Developer, or Designer thread: same context, model, tools, approvals, and draft. - Supports multiple monitors, docking, tray recovery, approval handoff, and focus hand-back. Also included: - Safer, more reliable managed Browser automation. - Upgraded native Computer Use with Cua Driver 0.20.0. - Race-safe conversation cleanup across all surfaces, without risking repositories or unsaved recovery work. - Live xAI image-model discovery with capability-aware quality and resolution options.
-
-6h ago
-
----
-
-**[Blood drawing machine from China](https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/)**
-
-1d ago
-
----
-
-**[AI's real appeal is the illusion of competence it gives people](https://www.reddit.com/r/artificial/comments/1w13052/ais_real_appeal_is_the_illusion_of_competence_it/)**
-
-Al seems popular because it lets the unskilled feel skilled, the uncreative feel artistic, and the uninformed feel intelligent. I keep seeing the same pattern: someone with zero design background generates a logo and calls themselves a "brand designer." Someone who's never debugged a real system pastes AI code into production and calls themselves a "developer." Someone who couldn't structure an argument to save their life gets ChatGPT to write it and suddenly has Opinions they're very confident about. None of these people got more skilled. They got access to a machine that can imitate the output of skill. And that's a very different thing. The tell is what happens when it breaks. Ask the "designer" why they used that font pairing and they can't tell you. Ask the "developer" to fix a bug without pasting the error back into the chatbot and watch them freeze. Ask the "writer" to defend their own argument in a conversation and they collapse, because it was never their argument — it was autocomplete wearing their name. This is why AI feels so good to use and so uncomfortable to think about. It's not neutral like a calculator — a calculator doesn't let you feel like a mathematician, it just gives you the number. AI gives you the whole performance: the confident tone, the polished structure, the appearance of expertise. It's optimized to sound right, not to make you capable. I'm not saying the tools are useless — they're genuinely great for people who already have the underlying skill and want to move faster. The problem is the huge number of people using it as a substitute for skill rather than a multiplier of it, and mistaking the fluency of the output for their own competence. Curious if others have noticed this in their own field — where's it most obvious to you?
-
-34m ago
+7h ago
 
 ---
 
@@ -119,17 +117,17 @@ Al seems popular because it lets the unskilled feel skilled, the uncreative feel
 
 ## Google News: "ai"
 
-**[What if the A.I. Stock Market Rally Is Just Getting Started?](https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html)**
+**[Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html)**
 
-The New York Times • 8h ago
+The New York Times • 2d ago
 
 ---
 
-**[Paul Claude Gigot: Why I Am Right About AI](https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/)**
+**[The AI Backlash Gets Professional](https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/)**
 
-Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union.
+A new group is targeting tech companies and the government with the climate movement’s playbook.
 
-The Atlantic • 1d ago
+The Atlantic • 12h ago
 
 ---
 
@@ -137,47 +135,35 @@ The Atlantic • 1d ago
 
 X announced that it performed a probe "into suspected Chinese inauthentic accounts involved in influence operations" and uncovered some anti-data center accounts within a bot farm.
 
-Fox Business • 5h ago
+Fox Business • 11h ago
 
 ---
 
 **[China is secretly fueling America's data center rage](https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots)**
 
-Axios • 3h ago
+Axios • 7h ago
 
 ---
 
-**[How AI Data Centers Are Making Everything More Expensive](https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8)**
+**[One of the world's hottest industries is sparking a blue-collar jobs boom](https://www.foxnews.com/politics/worlds-hottest-industries-sparking-blue-collar-jobs-boom)**
 
-AI data centers are causing a memory chip shortage, which is making phones, laptops, cameras, and consoles more expensive.
+AI infrastructure spending is projected to drive U.S. industrial construction to $684 billion by 2031, creating massive demand for skilled trades workers.
 
-Business Insider • 19m ago
-
----
-
-**[Why the tween years are a good time to talk to your kids about AI](https://www.pbs.org/newshour/nation/why-the-tween-years-are-a-good-time-to-talk-to-your-kids-about-ai)**
-
-PBS • 23m ago
+Fox News • 16h ago
 
 ---
 
-**[Another View: Take Humans OUT Of The AI Loop](https://www.forbes.com/sites/joemckendrick/2026/08/28/another-view-take-humans-out-of-the-ai-loop/)**
+**[I’m the Guy Who Destroys Antique Books After We Scan Them into Our Company’s Insatiable AI Platform](https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform)**
 
-The delay inherent in human decision-making can have its costs from a corporate or economic perspective.
+“One minute, they are a treasured record of human thought. The next, they are twelve searchable megabytes and a manageable quantity of mixed paper strips goi...
 
-Forbes • 43m ago
+McSweeney’s Internet Tendency • 10h ago
 
 ---
 
 **[Musk’s AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)**
 
-Politico • 12h ago
-
----
-
-**[The turbulent AI era is here. The choices we make now are critical.](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)**
-
-gatesnotes.com • 5h ago
+Politico • 18h ago
 
 ---
 
@@ -185,7 +171,19 @@ gatesnotes.com • 5h ago
 
 The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.
 
-WIRED • 10h ago
+WIRED • 16h ago
+
+---
+
+**[The turbulent AI era is here. The choices we make now are critical.](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)**
+
+gatesnotes.com • 4h ago
+
+---
+
+**[Is the AI Capex Bubble About to Burst? What 250 Years of Market History Tell Us.](https://www.barrons.com/articles/ai-capex-bubble-burst-stock-market-history-2f73a9e4)**
+
+Barron's • 15h ago
 
 ---
 
@@ -197,13 +195,7 @@ WIRED • 10h ago
 
 AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive
 
-⬆️ 1008 • 💬 698 • 1d ago • [GitHub](https://github.com/SenteLabsAI/OpenExecutive)
-
----
-
-**[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
-
-⬆️ 433 • 💬 146 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+⬆️ 1009 • 💬 703 • 2d ago • [GitHub](https://github.com/SenteLabsAI/OpenExecutive)
 
 ---
 
@@ -211,7 +203,13 @@ AI-powered virtual executive team — a single coherent executive persona backed
 
 Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn't the first time.
 
-⬆️ 385 • 💬 121 • 15h ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+⬆️ 467 • 💬 144 • 20h ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+
+---
+
+**[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://news.ycombinator.com/item?id=49446422)**
+
+⬆️ 433 • 💬 146 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 
 ---
 
@@ -223,7 +221,7 @@ Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We
 
 **[The turbulent AI era is here](https://news.ycombinator.com/item?id=49447057)**
 
-⬆️ 344 • 💬 608 • 2d ago • [gatesnotes.com](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
+⬆️ 345 • 💬 609 • 2d ago • [gatesnotes.com](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
 
 ---
 
@@ -231,7 +229,7 @@ Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We
 
 Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it's a dead end.
 
-⬆️ 257 • 💬 187 • 2d ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/using-obsidian-with-ai/)
+⬆️ 258 • 💬 187 • 2d ago • [Simon Späti's Second Brain](https://www.ssp.sh/brain/using-obsidian-with-ai/)
 
 ---
 
@@ -239,7 +237,7 @@ Everyone is using Obsidian for AI, or wants to use it to become more productive.
 
 In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows
 
-⬆️ 245 • 💬 51 • 2d ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
+⬆️ 246 • 💬 51 • 2d ago • [the Guardian](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
 
 ---
 
@@ -247,13 +245,13 @@ In effort to prime chatbots to make pro-Israel arguments the site published 124 
 
 Successful contributions to open source projects are a kind of currency. GitHub in particular encourages this in a number of ways: by showing avatars of contributors on repository pages, by showing your contributions to your followers via the activity feed and by signalling contributions per day on the activity graph of your profile. Potential hiring managers often take note of this. Recruiters often find and screen candidates this way. If you are a software developer (either existing or aspiring) looking for work, tuning these signals can often work to your advantage.
 
-⬆️ 205 • 💬 141 • 17h ago • [neilalexander.dev](https://neilalexander.dev/2026/06/30/flooding-contributions)
+⬆️ 208 • 💬 141 • 23h ago • [neilalexander.dev](https://neilalexander.dev/2026/06/30/flooding-contributions)
 
 ---
 
 **[The turbulent AI era is here](https://news.ycombinator.com/item?id=49448137)**
 
-⬆️ 194 • 💬 362 • 2d ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+⬆️ 194 • 💬 363 • 2d ago • [gatesnotes.com](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
 
 ---
 
@@ -275,7 +273,7 @@ Microsoft co-founder Bill Gates argued on Wednesday that artificial intelligence
 
 📺 CNN
 
-👁️ 1.2M • 👍 7K • 💬 3K • ⏱️ 9:22 • 1d ago
+👁️ 1.3M • 👍 7K • 💬 4K • ⏱️ 9:22 • 2d ago
 
 ---
 
@@ -285,7 +283,7 @@ MS NOW's Ari Melber reports on tech innovator and Microsoft founder Bill Gates i
 
 📺 MS NOW
 
-👁️ 177K • 👍 2K • 💬 522 • ⏱️ 12:17 • 21h ago
+👁️ 202K • 👍 3K • 💬 565 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -295,7 +293,7 @@ Ryan and Saagar take a look at Bill Gate's warning about AI disruption. Sign up 
 
 📺 Breaking Points
 
-👁️ 332K • 👍 5K • 💬 1K • ⏱️ 16:29 • 1d ago
+👁️ 348K • 👍 5K • 💬 1K • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -305,27 +303,7 @@ Patrick Bet-David sits down with AI safety researcher Roman Yampolskiy, who argu
 
 📺 PBD Podcast
 
-👁️ 238K • 👍 5K • 💬 2K • ⏱️ 1:46:39 • 2d ago
-
----
-
-**[Google Will WIN the AI Race (And It&#39;s Not Close)](https://www.youtube.com/watch?v=bpTZ-7s-9yo)**
-
-Subscribe to our Newsletter https://financebureau.com/ Join CBC Lite https://go.coinbureau.com/CBC-Lite-FB-Des ...
-
-📺 Finance Bureau
-
-👁️ 22K • 👍 442 • 💬 67 • ⏱️ 14:11 • 1d ago
-
----
-
-**[‘TURBULENT TIMES’: Bill Gates ISSUES WARNING over AI | RISING](https://www.youtube.com/watch?v=6rPYPXjQz7s)**
-
-OPINION: Bill Gates warns that the transition into the age of AI will be "turbulent" if the world doesn't have a plan for dealing with ...
-
-📺 The Hill
-
-👁️ 12K • 👍 131 • 💬 105 • ⏱️ 12:42 • 2d ago
+👁️ 244K • 👍 5K • 💬 2K • ⏱️ 1:46:39 • 2d ago
 
 ---
 
@@ -335,7 +313,7 @@ Join the Community: https://discord.gg/MRESQnf4R4 Apple just announced the new M
 
 📺 Manolo Remiddi
 
-👁️ 133K • 👍 2K • 💬 387 • ⏱️ 12:01 • 2d ago
+👁️ 140K • 👍 2K • 💬 392 • ⏱️ 12:01 • 2d ago
 
 ---
 
@@ -345,17 +323,7 @@ Tech critic Ed Zitron exposes the AI bubble, why OpenAI and Anthropic are burnin
 
 📺 The Diary Of A CEO
 
-👁️ 2.9M • 👍 30K • 💬 12K • ⏱️ 2:27:50 • 1d ago
-
----
-
-**[6 Best FREE AI Tools for Students in 2026 (Study Smarter)](https://www.youtube.com/watch?v=Sg1CcPNqKE4)**
-
-Get more AI tips that don't make it into videos https://parker-prompts.com/join In this video, I show how I use Knowt for ...
-
-📺 Parker Prompts
-
-👁️ 16K • 💬 8 • ⏱️ 8:29 • 1d ago
+👁️ 3.1M • 👍 32K • 💬 13K • ⏱️ 2:27:50 • 1d ago
 
 ---
 
@@ -365,7 +333,37 @@ Warmwind OS turns AI into cloud workers that can learn a job by watching you do 
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 134 • ⏱️ 12:25 • 1d ago
+👁️ 43K • 👍 1K • 💬 134 • ⏱️ 12:25 • 2d ago
+
+---
+
+**[Mamdani&#39;s magic, Trump&#39;s endorse force &amp; US AI outcry | Enten roundup](https://www.youtube.com/watch?v=_ZRaPrLi0dE)**
+
+CNN chief data analyst Harry Enten runs the numbers, from Trump's influence on Darline Graham's victory to bipartisan distaste ...
+
+📺 CNN
+
+👁️ 265K • 👍 3K • 💬 661 • ⏱️ 8:05 • 2d ago
+
+---
+
+**[DeepSeek’s New AI System Shouldn’t Be Possible](https://www.youtube.com/watch?v=L9mMfAFwbl4)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek Harness + paper are available ...
+
+📺 Two Minute Papers
+
+👁️ 93K • 👍 3K • 💬 222 • ⏱️ 4:44 • 2d ago
+
+---
+
+**[Linus Torvalds: AI Is Flooding Linux](https://www.youtube.com/watch?v=InvaowP8XH8)**
+
+Linus Torvalds Speaks on AI and how it affects the Linux kernel development and open source. We also hear from other projects ...
+
+📺 SavvyNik
+
+👁️ 115K • 👍 2K • 💬 518 • ⏱️ 12:36 • 2d ago
 
 ---
 
@@ -381,7 +379,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 4,810 • ❤️ 4,143 • 1d ago
+⬇️ 4,810 • ❤️ 4,175 • 1d ago
 
 ---
 
@@ -393,7 +391,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 34 • ❤️ 1,491 • 1d ago
+⬇️ 34 • ❤️ 1,519 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 0 • ❤️ 1,078 • 6h ago
+⬇️ 0 • ❤️ 1,141 • 12h ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 3,457,687 • ❤️ 13,133 • 14d ago
+⬇️ 3,457,687 • ❤️ 13,157 • 14d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 7,758,790 • ❤️ 3,138 • 8d ago
+⬇️ 7,758,790 • ❤️ 3,150 • 8d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 4,354 • ❤️ 510 • 18h ago
+⬇️ 4,354 • ❤️ 529 • 1d ago
 
 ---
 
@@ -453,19 +451,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 509,270 • ❤️ 876 • 4d ago
-
----
-
-**[Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)**
-
-*OrcaRouter*
-
-This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 273,577 • ❤️ 1,229 • 1d ago
+⬇️ 509,270 • ❤️ 882 • 4d ago
 
 ---
 
@@ -477,7 +463,19 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 912,729 • ❤️ 2,002 • 1d ago
+⬇️ 912,729 • ❤️ 2,026 • 1d ago
+
+---
+
+**[Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)**
+
+*OrcaRouter*
+
+This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 273,577 • ❤️ 1,233 • 1d ago
 
 ---
 
@@ -489,7 +487,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 `image-text-to-text` `4.7B`
 
-⬇️ 83,352 • ❤️ 1,182 • 1d ago
+⬇️ 83,352 • ❤️ 1,190 • 1d ago
 
 ---
 
@@ -505,7 +503,7 @@ An uncensored, MLX-quantized 27B parameter vision-language model optimized for A
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 760 • 💬 5 • ⭐ 8,077 • 19d ago
+▲ 761 • 💬 5 • ⭐ 8,544 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -519,7 +517,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 100 • 💬 2 • ⭐ 9,251 • 12d ago
+▲ 100 • 💬 2 • ⭐ 9,380 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -545,7 +543,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 200 • 💬 3 • ⭐ 1,125 • 5d ago
+▲ 200 • 💬 3 • ⭐ 1,218 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -559,7 +557,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 WeMM-Embedding is a family of universal multimodal embedding models that align text, images, videos, and interleaved inputs in a shared space, achieving state-of-the-art retrieval and recommendation performance across public benchmarks and large-scale WeChat applications.
 
-▲ 63 • 💬 2 • ⭐ 806 • 4d ago
+▲ 64 • 💬 2 • ⭐ 806 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.24053) • [💻 code](https://github.com/Tencent/WeMM-Embedding) • [🔗 project](https://github.com/Tencent/WeMM-Embedding)
 
@@ -573,7 +571,7 @@ WeMM-Embedding is a family of universal multimodal embedding models that align t
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 43 • 💬 2 • ⭐ 18,812 • 5d ago
+▲ 43 • 💬 2 • ⭐ 18,945 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -589,6 +587,18 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 85 • 💬 7 • ⭐ 85,449 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://huggingface.co/papers/2308.04079)**
+
+*Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler et al. (4 authors)*
+
+A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.
+
+▲ 204 • 💬 13 • ⭐ 23,619 • 37mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2308.04079) • [💻 code](https://github.com/graphdeco-inria/gaussian-splatting)
 
 ---
 
@@ -617,18 +627,6 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
-**[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://huggingface.co/papers/2308.04079)**
-
-*Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler et al. (4 authors)*
-
-A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.
-
-▲ 203 • 💬 13 • ⭐ 23,559 • 37mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2308.04079) • [💻 code](https://github.com/graphdeco-inria/gaussian-splatting)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +637,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 19.0k • 🔱 2.2k • 4h ago
+⭐ 19.1k • 🔱 2.2k • 1h ago
 
 ---
 
@@ -659,7 +657,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.9k • 🔱 631 • 1d ago
+⭐ 3.9k • 🔱 632 • 1d ago
 
 ---
 
@@ -669,7 +667,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.3k • 🔱 398 • 1h ago
+⭐ 3.3k • 🔱 402 • 7h ago
 
 ---
 
@@ -689,7 +687,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 390 • 2h ago
+⭐ 3.2k • 🔱 392 • 16m ago
 
 ---
 
@@ -699,7 +697,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.7k • 🔱 158 • 4d ago
+⭐ 2.7k • 🔱 161 • 4d ago
 
 ---
 
@@ -709,7 +707,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.6k • 🔱 204 • 12h ago
+⭐ 2.6k • 🔱 224 • 18h ago
 
 ---
 
@@ -719,7 +717,7 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 `Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.5k • 🔱 71 • 5d ago
+⭐ 2.6k • 🔱 72 • 5d ago
 
 ---
 
