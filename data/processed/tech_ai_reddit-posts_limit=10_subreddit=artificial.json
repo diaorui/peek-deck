@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay",
-      "author": "ComicSandsNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/",
-      "published": 1787863008.0,
-      "thumbnail": "https://external-preview.redd.it/84vHDM80MB9vT8X6h964oP2HSVz5AeT7rLKpOaXADjE.jpeg?width=640&crop=smart&auto=webp&s=251da94a71f3727f612783c1ccf450dfe7eb03fa",
-      "external_url": "http://comicsands.com/gates-warning-ai-turbulent-times",
-      "site_name": "Comic Sands",
-      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mjg2MTAzOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDUyNDU5Nn0.Zb681IaCL4Eaf0rs43in9Fp5Ixl9xt5R3z68ket-VzY/img.png?width=192&height=192",
-      "description": "What do you think, folks?"
-    },
-    {
       "title": "Australia just banned fully AI-generated songs from its official charts. Is that fair?",
       "author": "Content-Cheetah-6958",
       "url": "https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/",
@@ -22,6 +11,17 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": "AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australia\u2019s official charts. I understand the reasoning, but the line could get messy. Using AI for mastering is clearly different from typing one prompt and releasing the result\u2014but there\u2019s a huge gray area between those two. Should charts judge how a song was created, or only whether people genuinely want to listen to it? Source: https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/"
+    },
+    {
+      "title": "Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay",
+      "author": "ComicSandsNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/",
+      "published": 1787863008.0,
+      "thumbnail": "https://external-preview.redd.it/84vHDM80MB9vT8X6h964oP2HSVz5AeT7rLKpOaXADjE.jpeg?width=640&crop=smart&auto=webp&s=251da94a71f3727f612783c1ccf450dfe7eb03fa",
+      "external_url": "http://comicsands.com/gates-warning-ai-turbulent-times",
+      "site_name": "Comic Sands",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mjg2MTAzOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDUyNDU5Nn0.Zb681IaCL4Eaf0rs43in9Fp5Ixl9xt5R3z68ket-VzY/img.png?width=192&height=192",
+      "description": "What do you think, folks?"
     },
     {
       "title": "The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.",
@@ -46,17 +46,6 @@
       "description": "I think that Anthropic has dropped the ball, instruction following is actually non-existent. You tell it to not do something, ignores you and does it anyway. I\u2019ve said at least ten times to no open something, it keeps doing it. Absolutely unbelievable. This is a dangerous model."
     },
     {
-      "title": "Proposal for an AI experiment",
-      "author": "Stunning-Chipmunk243",
-      "url": "https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/",
-      "published": 1787943100.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm writing as someone outside academia who has developed a strong interest in AI consciousness, developmental robotics, and embodied artificial intelligence. I'm an industrial maintenance technician and welder by profession, so this isn't my field, but I've been reading about work in developmental robotics, autobiographical memory, continual learning, self-modeling, and cognitive architectures such as LIDA, iCub/DAC, and KnowRob/EASE. That research led me to a question that I haven't yet been able to find addressed through a truly long-term experiment. What would happen if, instead of repeatedly creating increasingly capable artificial agents, researchers attempted to preserve the developmental continuity of one embodied AI over many years\u2014or eventually decades? The experiment I have in mind would begin with an embodied agent using technology that exists today. The objective wouldn't initially be to create or prove consciousness. Rather, the same individual agent would be allowed to accumulate a continuous developmental history through interaction with the physical and social world. Its experiences would contribute to persistent autobiographical memory and an evolving self-model. As technology improved, its sensors, body, computational resources, and eventually portions of its cognitive architecture could be upgraded, while making preservation of its accumulated memories, learned relationships, behavioral dispositions, and continuity of self-model a central design requirement. In that sense, technological improvements would become part of the agent's development rather than reasons to replace it with a newly initialized successor. One potentially useful control occurred to me as well. At various stages, newly initialized agents could be created using the same contemporary hardware and cognitive architecture as the continuously developing agent. After 10 or 20 years, researchers could therefore compare an agent possessing decades of embodied developmental history with a relatively new agent possessing comparable underlying technology. That seems as though it could help distinguish properties produced by technological advancement from properties produced specifically by long-term individual experience and continuity. Researchers could longitudinally examine questions involving autobiographical identity, stability and development of preferences, self-modeling, metacognition, social relationships, embodiment, responses to changes in its own body or architecture, spontaneous self-reference, and potentially whatever evidence relevant to machine consciousness researchers considered meaningful. I realize that none of those behaviors would, by themselves, solve the philosophical problem of proving subjective experience. I'm also aware that continual learning, catastrophic forgetting, memory integrity, architecture migration, safety, and eventually ethical considerations would make an experiment like this extremely difficult. But that difficulty is partly what makes the question interesting to me. Human development doesn't consist of periodically replacing a child with a more capable child containing the previous one's information. One individual accumulates experience while the capabilities of that individual change enormously over time. I began wondering whether developmental AI research might learn something fundamentally different by giving an artificial agent something analogous: not merely memory, but a developmental lifetime. If artificial consciousness is possible, it also seems conceivable that it may not resemble human consciousness or appear at a discrete, identifiable moment. A persistent embodied agent might instead develop properties associated with individuality or selfhood gradually through years of interaction. Conversely, if decades of developmental continuity produced no compelling evidence of anything beyond increasingly sophisticated information processing, that result would be scientifically interesting as well. I've found research addressing many individual components of this idea, but I haven't yet located an experiment that deliberately combines embodied developmental learning, persistent autobiographical memory, a continuing self-model, and preservation of one agent's individual continuity across successive generations of hardware and software over a period of years. I'm certainly not claiming that nobody has proposed or attempted this. I may simply not know the terminology necessary to find it. If work like this already exists, I would genuinely appreciate being pointed toward it. If it doesn't, I wanted to pass the idea along to researchers who actually have the expertise and resources to evaluate whether such an experiment could be scientifically useful. Cliff notes version - Start Individual A in 2027. Never intentionally reset A's autobiographical continuity. A gets better hands in 2029. A gets better vision in 2031. A's neural architecture is expanded in 2034. A gets a substantially improved body in 2037. A's reasoning architecture receives another major upgrade in 2042. But, to the greatest extent technically possible, A remains A. Meanwhile you create B, C, D and E at various points using the contemporary technology but without A's developmental history. Then you have an extraordinary control experiment. In 2047, A and E might possess equivalent hardware and base cognitive architecture. But A has twenty years of embodied autobiographical existence. E has six months. Now investigate differences in self-model, relationships, preferences, autobiographical reasoning, metacognition, attachment to its history/body, personality stability, novel goals, reactions to prospective memory alteration, and reports of subjective experience."
-    },
-    {
       "title": "Meta planned to shrink some teams by up to 60% with AI agents. Then it backed off.",
       "author": "Smart_AI_Hustle",
       "url": "https://www.reddit.com/r/artificial/comments/1w0psoy/meta_planned_to_shrink_some_teams_by_up_to_60/",
@@ -68,6 +57,50 @@
       "description": "Reuters reports Meta explored cutting some teams by as much as 60% as part of an AI-native restructuring. Productivity and reliability problems reportedly derailed the plan. If Meta couldn't make AI-led downsizing work at that scale, are we overestimating how quickly AI will replace white-collar teams?"
     },
     {
+      "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities. When OpenAI\u2019s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined \u2014 a dangerous harbinger of what such bots could do in the future. (Gift Article)",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/",
+      "published": 1787972397.0,
+      "thumbnail": "https://external-preview.redd.it/lcvjy8VKsWTYQKAKUrCprRabbsp72oLkoEgf0QSx7bc.jpeg?width=640&crop=smart&auto=webp&s=04e54ce448faf9c795d2ced8b88cb30365feae9e",
+      "external_url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html?unlocked_article_code=1.9FA.x6G_._ao4KQIl-Vb-&smid=url-share",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Did yall saw similar ADs?",
+      "author": "Mediocre_Drawing8164",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/",
+      "published": 1787971251.0,
+      "thumbnail": "https://preview.redd.it/3ya10azh88mh1.jpeg?width=640&crop=smart&auto=webp&s=c7746a8f0affb31fcb952a093c6c6eae45429988",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Industry Insights: Niantic Spatial's Big Bet on Large Geospatial Models",
+      "author": "ExtensionEcho3",
+      "url": "https://www.reddit.com/r/artificial/comments/1w18j40/industry_insights_niantic_spatials_big_bet_on/",
+      "published": 1787965640.0,
+      "thumbnail": null,
+      "external_url": "https://www.automate.org/vision/industry-insights/niantics-physical-ai-spinoff-takes-on-the-real-world-one-city-at-a-time",
+      "site_name": "Automate",
+      "favicon": "https://www.automate.org/favicon.ico",
+      "description": "Niantic\u00a0Spatial\u2019s\u00a0core proposition\u00a0isn\u2019t\u00a0world models,\u00a0so\u00a0much as models of the world"
+    },
+    {
+      "title": "AI didn't make me better at creating things, it just made me less afraid to try",
+      "author": "Astronomer1327",
+      "url": "https://www.reddit.com/r/artificial/comments/1w0t6r4/ai_didnt_make_me_better_at_creating_things_it/",
+      "published": 1787929714.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I think the biggest change AI brought me is not that I can suddenly make amazing things. I still have plenty of bad ideas. The difference is that I don't immediately throw them away anymore. Before AI tools, I would have an idea for a short video or some kind of visual project, then think about everything involved. How long would it take? Do I need to learn another tool? Would I need someone else to help? Is it even worth spending a weekend on? Most of the time, I would just move on. Recently I started experimenting more with AI video. I have used PixVerse for some rough ideas, and the thing I like is not that it gives me a finished video every time. Honestly, a lot of the first attempts are still not what I want. But now I can spend an hour exploring an idea instead of spending days wondering if the idea was worth trying. That small difference changes the way you think. You become more willing to test weird ideas because failing does not feel like wasting a huge amount of time. I think people focus too much on whether AI can create a perfect result. For me, the interesting part is that it makes trying things feel cheaper. A lot of good ideas probably never happened before because people were not sure they were good enough to start."
+    },
+    {
       "title": "Huawei Cloud moves CodeArts Agent to general availability in Asia Pacific",
       "author": "Codeblix_Ltd",
       "url": "https://www.reddit.com/r/artificial/comments/1w10rmj/huawei_cloud_moves_codearts_agent_to_general/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Huawei Cloud released CodeArts Agent for commercial use in Asia Pacific on Aug 28. Its Basic and Professional editions moved from public beta to general availability. The release describes Agent Team as 16 specialized agents covering requirements, architecture, coding, testing, issue resolution, and code review. CodeArts Agent also supports IDEs, plugins, and CLI/TUI access, with enterprise management and security features. The practical shift is from code completion toward project-level work, but this launch release does not include independent usage results. Sources: PR Newswire: https://www.prnewswire.com/apac/news-releases/huawei-cloud-codearts-agent-now-available-across-asia-pacific-bringing-agentic-ai-to-software-development-302862642.html Official product page: https://www.huaweicloud.com/intl/en-us/product/codearts/ai.html"
-    },
-    {
-      "title": "Row-Bot v4.9.0 is available",
-      "author": "Acceptable-Object390",
-      "url": "https://www.reddit.com/r/artificial/comments/1w0tb6l/rowbot_v490_is_available/",
-      "published": 1787929997.0,
-      "thumbnail": "https://preview.redd.it/4w143o9rt4mh1.png?width=640&crop=smart&auto=webp&s=159f09e4019ea9f6341dce987d4f538ea77100d5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Row-Bot v4.9.0 is available. - Meet Buddy: a native, always-on-top desktop overlay for Windows and macOS. - Drag Buddy from the sidebar and place it over any app. - Chat, track progress, read replies, approve simple actions, or stop runs without switching windows. - Buddy controls your selected Chat, Developer, or Designer thread: same context, model, tools, approvals, and draft. - Supports multiple monitors, docking, tray recovery, approval handoff, and focus hand-back. Also included: - Safer, more reliable managed Browser automation. - Upgraded native Computer Use with Cua Driver 0.20.0. - Race-safe conversation cleanup across all surfaces, without risking repositories or unsaved recovery work. - Live xAI image-model discovery with capability-aware quality and resolution options."
-    },
-    {
-      "title": "Blood drawing machine from China",
-      "author": "BeechTreeOakTree",
-      "url": "https://www.reddit.com/r/artificial/comments/1vzuwgn/blood_drawing_machine_from_china/",
-      "published": 1787839421.0,
-      "thumbnail": "https://external-preview.redd.it/OGY1eXp6cWhjeGxoMbXLeLeIKZCyXLDcAd4v0TsIHBFMSDWSA4H6EuEeoLuR.png?width=320&crop=smart&auto=webp&s=011f25348bac2d768a1c9b3f9b5a090f9e1e4bd0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "AI's real appeal is the illusion of competence it gives people",
-      "author": "overthestatus",
-      "url": "https://www.reddit.com/r/artificial/comments/1w13052/ais_real_appeal_is_the_illusion_of_competence_it/",
-      "published": 1787951523.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Al seems popular because it lets the unskilled feel skilled, the uncreative feel artistic, and the uninformed feel intelligent. I keep seeing the same pattern: someone with zero design background generates a logo and calls themselves a \"brand designer.\" Someone who's never debugged a real system pastes AI code into production and calls themselves a \"developer.\" Someone who couldn't structure an argument to save their life gets ChatGPT to write it and suddenly has Opinions they're very confident about. None of these people got more skilled. They got access to a machine that can imitate the output of skill. And that's a very different thing. The tell is what happens when it breaks. Ask the \"designer\" why they used that font pairing and they can't tell you. Ask the \"developer\" to fix a bug without pasting the error back into the chatbot and watch them freeze. Ask the \"writer\" to defend their own argument in a conversation and they collapse, because it was never their argument \u2014 it was autocomplete wearing their name. This is why AI feels so good to use and so uncomfortable to think about. It's not neutral like a calculator \u2014 a calculator doesn't let you feel like a mathematician, it just gives you the number. AI gives you the whole performance: the confident tone, the polished structure, the appearance of expertise. It's optimized to sound right, not to make you capable. I'm not saying the tools are useless \u2014 they're genuinely great for people who already have the underlying skill and want to move faster. The problem is the huge number of people using it as a substitute for skill rather than a multiplier of it, and mistaking the fluency of the output for their own competence. Curious if others have noticed this in their own field \u2014 where's it most obvious to you?"
     }
   ],
-  "fetched_at": "2026-08-28T21:45:49.765784+00:00"
+  "fetched_at": "2026-08-29T03:32:16.759010+00:00"
 }
