@@ -2,6 +2,61 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "MechSoul Tutorial Part 2: Controlling your MechSoul with Bluetooth",
+      "author": "Lightning-Alchemist",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1tn2m/mechsoul_tutorial_part_2_controlling_your/",
+      "published": 1788027151.0,
+      "thumbnail": "https://external-preview.redd.it/eGp5Ymh2Z2R1Y21oMacAW6BarsvEPR7aZX-D62-J30FQg1n6mp6aUu9iOuY9.png?width=640&crop=smart&auto=webp&s=27fd776bb3ae1eff80bf29ee90271e913a3bff7f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In this tutorial we go over how to control your MechSoul with Bluetooth. What is a MechSoul? A MechSoul is to a robot, what a CyberDeck is to a computer. It's a robot that you build, customize, and personalize yourself. It's the freedom of owning your own code, hardware, and having the right to build and repair it. And it's the pride of creativity, skill, and self expression. In this part 2 in Arduino IDE we combine the Raspberry Pi Pico's board manager's SerialBLE library with the Serial_Control example in Takamori Robot's HIRO library to control your robot over Bluetooth. To follow along with our code and reference material check out the tutorial GitHub."
+    },
+    {
+      "title": "What are some of the reliable motor drivers for robotic projects?",
+      "author": "Accomplished-Bit4698",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1m7qd/what_are_some_of_the_reliable_motor_drivers_for/",
+      "published": 1788009106.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Guys, can I get recommendations on motor drivers. It's for a new build I'm working on and I'm looking for something that can handle sustained high-torque loads without running into thermal limits. Small form-factor StepStick modules (like TMC2209s or TMC2208s) work great for low-load positioning, but at 2A+ RMS under continuous holding torque, thermal dissipation becomes a major bottleneck. I did check out some options online, mostly on alibaba actually but I'm not sure yet how to proceed. I\u2019m weighing a few paths and would love to hear what has worked best in your builds."
+    },
+    {
+      "title": "Logs says they wanted to go under the chair but wasn't sure they'd fit",
+      "author": "SeanMurphy_24",
+      "url": "https://www.reddit.com/r/robotics/comments/1w180yf/logs_says_they_wanted_to_go_under_the_chair_but/",
+      "published": 1787964215.0,
+      "thumbnail": "https://external-preview.redd.it/eTN6em9ncGtuN21oMWu9jdHb-2hvWviVm86-etRvgxQeyhtxwne7-MEB4B69.png?width=320&crop=smart&auto=webp&s=fbf1d6ee38e285d930f0a6cdeb8363f97d14bb76",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been doing a lot of work over the past few years building perception and embodiment frameworks for robots. The latest version is very curious. I hadn't gotten the speaker working yet so it wasn't very chatty (although it was trying to from what the logs said) Anyways, this is Meco, say hi Meco!"
+    },
+    {
+      "title": "I Built a another 4 leg Grasshopper mechanical walking Robot With Just ONE Motor completely from scratch! What do you guys think of mechanism? [OC]",
+      "author": "Traditional_Tax_7388",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1scfm/i_built_a_another_4_leg_grasshopper_mechanical/",
+      "published": 1788024081.0,
+      "thumbnail": "https://external-preview.redd.it/Pu5ajxyXv8y5ofQvyDpguVP-Dowly8A0BrzH5mZ24cE.jpeg?width=320&crop=smart&auto=webp&s=4f9cc7324a31d2eb85436633bca45ab737e71d0a",
+      "external_url": "https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw",
+      "site_name": "YouTube",
+      "favicon": "https://www.youtube.com/s/desktop/f13793d9/img/favicon.ico",
+      "description": "I wanted to see if I could build a robot that walks like a little grasshopper\u2026 using just ONE gear motor. \ud83e\udd97\ud83e\udd16So I built the body and legs using simple mater..."
+    },
+    {
+      "title": "V\u00e1lvulas pepepako",
+      "author": "pepepako2",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1uzcx/v\u00e1lvulas_pepepako/",
+      "published": 1788030251.0,
+      "thumbnail": "https://external-preview.redd.it/eVs3ixFiZUo_pNIm_rbKbb0YT9pUAAzdXixXbPgR6_E.jpeg?width=320&crop=smart&auto=webp&s=473049cfa5b47a79a81fadb53aeedd42c1034f85",
+      "external_url": "https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp",
+      "site_name": "YouTube",
+      "favicon": "https://www.youtube.com/s/desktop/f13793d9/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "Hugging Face: $2.6M of Microducks ordered in the first 24h",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1w0oepb/hugging_face_26m_of_microducks_ordered_in_the/",
@@ -13,15 +68,37 @@
       "description": "From Thomas Wolf on \ud835\udd4f: https://x.com/Thom_Wolf/status/2093295950605279501"
     },
     {
-      "title": "Unitree\u2019s still got it",
-      "author": "drgoldenpants",
-      "url": "https://www.reddit.com/r/robotics/comments/1w09jat/unitrees_still_got_it/",
-      "published": 1787871898.0,
-      "thumbnail": "https://external-preview.redd.it/anljN2xtYjExMG1oMaBOp4G449mpWClzXJVzrTBByS_AlvZ5Lh-gLUH4RLk3.jpeg?width=640&crop=smart&auto=webp&s=74decdbcdfc6c4805041c01a270096f6c5d3a6f4",
+      "title": "What is this INA219 actually reporting?",
+      "author": "pitosalas",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1k72c/what_is_this_ina219_actually_reporting/",
+      "published": 1788003277.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Robotic Trash Can Ideation",
+      "author": "Alarming_Factor_7386",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1b59o/robotic_trash_can_ideation/",
+      "published": 1787973260.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Me and my 2 cs roomates at GT want to build a cool, practical robot for our apartment. We came together and thought of a project where we turn our trash can into a mobile unit, able to navigate our apartment / hallway as a first step without bumping into obstacles, maybe having my friend create some app to where we can \"summon\" the trash can when needed and hard code its default positon. The ultimate goal would to be having it leave our apartment and enter the trash room across the hall and dump its contents out to then return to out room. I am unsure if this is feasible as there are so many challenges: how will it open a door, how will it raise itself to empty, how will it even be able to generate the force to lift itself / open a door without tipping. Any tips / similar projects to mirror would be greatly helpful."
+    },
+    {
+      "title": "From 5-Digit Recognition to Water Meter Reading with ESP32-P4",
+      "author": "Vearts",
+      "url": "https://www.reddit.com/r/robotics/comments/1w1htg7/from_5digit_recognition_to_water_meter_reading/",
+      "published": 1787995258.0,
+      "thumbnail": "https://preview.redd.it/tyxhluqr7amh1.gif?frame=1&width=140&height=78&auto=webp&s=74391570a27f81aa08fb206fc349731f9d90bb57",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A while ago, I built a 5-digit number recognition system on the ESP32-S3 using a lightweight AI model. The project was mainly a proof of concept for running image recognition directly on an embedded device. This time, I wanted to take that idea into a more practical, real-world application: reading a water meter. For this update, I still used the Makerfabs ESP32-P4 board with an autofocus camera. We also collected new images from a real water meter, focusing on the pointer and digit-reading area, and trained a dedicated recognition model based on this new dataset. The goal was not simply to recognize a fixed set of five numbers, but to make the model capable of identifying the actual reading shown on a water meter. After training and deploying the model, we tested it with real water meter images, and it correctly recognized the meter reading. This project is essentially the next step from our previous 5-digit recognition experiment\u2014moving from a simple number-recognition demo to a more practical edge AI vision application. Would be interested to hear what other real-world applications you think could be built on top of this kind of embedded AI vision system."
     },
     {
       "title": "First finger movement test on my InMoov based humanoid hand",
@@ -33,84 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I have been slowly building my InMoov based humanoid robot for the past two years. I have made lots of tweaks, and the software is fully custom. This is an old video from the first time I tested the fingers. If you see an inappropriate accidental gesture, you don\u2019t. The fingers still don\u2019t have force sensors, here, so you can see wires sticking out of them. I\u2019ll share random videos from different stages of the build, with no particular timeline, together with what I am working on now."
-    },
-    {
-      "title": "I built a 3D printed, walking Arduino Hexapod!",
-      "author": "tennis-637",
-      "url": "https://www.reddit.com/r/robotics/comments/1w0ft3m/i_built_a_3d_printed_walking_arduino_hexapod/",
-      "published": 1787889041.0,
-      "thumbnail": "https://external-preview.redd.it/bDl6bWUzYnVkMW1oMWwOoyq49yuG_59NAXSCho5uKY6P_H7j22tqwpWbA-rP.jpeg?width=640&crop=smart&auto=webp&s=c593671c2814fe9adbddb57135c4f8dd1ca911b1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Printed from PLA, powered from a 3s LiPo and controlled with Arduino UNO. It had adjustable walking speed, stride length, and can turn in place or while walking (not sure how that would be useful since it is omnidirectional)."
-    },
-    {
-      "title": "We built an open-source biped robot with a working sim2real pipeline (Microduck)",
-      "author": "LKama07",
-      "url": "https://www.reddit.com/r/robotics/comments/1vzzr4r/we_built_an_opensource_biped_robot_with_a_working/",
-      "published": 1787850177.0,
-      "thumbnail": "https://external-preview.redd.it/bmljYXpyZ3g2eWxoMQaXNe-Z6aENYr2xRkN_SFZrM47WOCjJky_cho8ckvNn.png?width=640&crop=smart&auto=webp&s=aa62f8ab1719f4b3f82f60a3b5c96152c35b7d27",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello, Pollen Robotics engineer here. I know some will see this as a toy (and that\u2019s fine, go have fun!) but I think it\u2019s important to keep in mind that this thing is a full-on biped humanoid robot with an open-source software stack and a sim2real pipeline that works surprisingly well. Maybe it\u2019s not impressive for some people because there are spectacular videos of Chinese robots doing karate every week, but I\u2019ve done 10+ years of robotics competitions and getting your biped to stand up, walk and even roller skate by yourself is no small task. Knowing that thousands of enthusiasts will be able to try their hand at reinforcement learning on a biped is insane to me. I would have loved to have this when I started in 2010. The mobility capabilities of this robot are already decent (still improvable) but the next big challenge is getting to autonomous behaviors. Natural language, SLAM, navigation and grasping will be cool subjects to explore on this platform. Also a big shoutout to team Rhoban for their contributions to the project and one of the best-named repos I\u2019ve seen: BAM! The sim2real dream would not have worked without excellent actuator models. Please give them a star here: https://github.com/Rhoban/bam I hope people will have fun with it, learn a lot, or both! Feel free to ask any questions, I\u2019ll do my best to answer."
-    },
-    {
-      "title": "ROS and Open Source Robotics News for the week of August 24th",
-      "author": "OpenRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1w10n75/ros_and_open_source_robotics_news_for_the_week_of/",
-      "published": 1787946127.0,
-      "thumbnail": "https://preview.redd.it/n6lzreze56mh1.gif?frame=1&width=140&height=72&auto=webp&s=afd85d672584224b5cadb13f9df0c6974fd53bd4",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Get all of the ROS and open source robotics news on Open Robotics Discourse."
-    },
-    {
-      "title": "Rodney Brooks on the Realities of Deploying Robots",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1w0ugms/rodney_brooks_on_the_realities_of_deploying_robots/",
-      "published": 1787932554.0,
-      "thumbnail": null,
-      "external_url": "https://www.automate.org/robotics/industry-insights/rodney-brooks-on-the-realities-of-deploying-robots",
-      "site_name": "Automate",
-      "favicon": "https://www.automate.org/favicon.ico",
-      "description": "Robust AI has deployed its 100th Carter robot and named former Fox Robotics CEO Marin Tchakarov as its new CEO. CTO Rodney Brooks says a robot only counts as deployed when customers rely on it in daily operations and the company has the support infrastructure to keep it running. He also discusses what separates working deployments from \u201chumanoid deployment theater\u201d and why scaling from 100 robots to 1,000 requires more service and support staff."
-    },
-    {
-      "title": "We Took Our Homemade AUV From Bangladesh to Singapore",
-      "author": "Heavy_Sea5596",
-      "url": "https://www.reddit.com/r/robotics/comments/1w11ro2/we_took_our_homemade_auv_from_bangladesh_to/",
-      "published": 1787948633.0,
-      "thumbnail": "https://external-preview.redd.it/IwGvz8EvxZv1JSgHWpoKF4mjMVldZFt0DwWnNwf-3O8.png?width=640&crop=smart&auto=webp&s=8744b19a1f5c34872d6886930136558cd21b02b8",
-      "external_url": "https://adnansabbir.com/writing/we-took-our-homemade-auv-to-singapore/?utm_source=redit&utm_medium=referral&utm_campaign=the-years-i-built-robots",
-      "site_name": "Adnan Sabbir",
-      "favicon": "https://adnansabbir.com/apple-touch-icon.png",
-      "description": "How we took BRACU Duburi, Bangladesh's first autonomous underwater vehicle (AUV), to SAUVC in Singapore and improvised our way into the final."
-    },
-    {
-      "title": "What is this man even doing?",
-      "author": "strange_omelet",
-      "url": "https://www.reddit.com/r/robotics/comments/1w0490o/what_is_this_man_even_doing/",
-      "published": 1787859834.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If it's to \"cool down\" then it's quite useless if a robot wasn't built any sort of cooling system in the first place. Why build a bot when it needs constant extenal cooling?"
-    },
-    {
-      "title": "d22 Raspberry pi c++ 2dof object tracking robot tutorial english",
-      "author": "Guilty_Question_6914",
-      "url": "https://www.reddit.com/r/robotics/comments/1w0zkdr/d22_raspberry_pi_c_2dof_object_tracking_robot/",
-      "published": 1787943742.0,
-      "thumbnail": "https://external-preview.redd.it/Wo2tPWQl3IzEpASoeYOdGCkQPAJfIEdzo6I3asfSrpI.jpeg?width=320&crop=smart&auto=webp&s=02017d56cc0deac5358a47bd6ac24b8caa7a4b16",
-      "external_url": "https://youtube.com/watch?v=UmCWkWiB-DA&si=Cm-SsSToxDRVssy2",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/f13793d9/img/favicon.ico",
-      "description": "I am a little bit late but my video on how to build a 2dof raspberry pi object tracking robot in c++ tutorial is published on youtube currently.I post mostly my c/c++ exclusive on other video platforms a month earlier.The code is made so that it can be used in other projects if you do not wanna use the cad parts in the projects.I post this for people if anybody is interested in trying out.If there is anything wrong with the video or the repo.Please reply.I very much appreciate it"
     }
   ],
-  "fetched_at": "2026-08-28T21:46:07.590047+00:00"
+  "fetched_at": "2026-08-29T21:53:07.826086+00:00"
 }
