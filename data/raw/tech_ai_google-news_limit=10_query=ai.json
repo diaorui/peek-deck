@@ -15,44 +15,24 @@
       "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
     },
     {
-      "headline": "The Fed confronts a powerful new economic force",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "pub_date": 1788019200.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
-      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
-    },
-    {
-      "headline": "The Leadership Advantage AI Can\u2019t Automate: Learning to Trust Your Inner Signals",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkhvbWhVWlRSdDVxSDJaVUNIODNfeFI2U2YwSVE1czdzWWZ0eHJOVl9hQlh2SWFaU3BnSTRvcDVWUHVUamtwbjQ5MjNoMFMyM3FrcjdxZnBnQ3E2cUJTWXVrR0E2Y3VFU2UwcDY3U2VVdzhvR21ySlNLdzUwZV85LXRERnpNX2hlSkgtU1VxZ2NEc01XZTlWa1VpV0E1NFphV3dDNXNPV0tWTGVleUhuMHZDSnNma3RfTUoxQ0h3Zjc?oc=5",
-      "pub_date": 1788030284.0,
-      "article_url": "https://www.inc.com/moshe-engelberg/the-leadership-advantage-ai-cant-automate-learning-to-trust-your-inner-signals/91396909",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/inner-voice-ai-inc-573566803.jpg",
-      "description": "As AI accelerates execution, leaders who develop internal sensing can strengthen the intuition, empathy, and judgment tech can\u2019t replace."
-    },
-    {
-      "headline": "Sanctuary AI Built A Robot Body. Now It\u2019s Also Selling A Robot Brain",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0owUEVqdzdRTXJkQTFlcUxReDdKZlhONVc5dWFQR095OXVGbG9qVkZBWVJQOS1rWV9SRXJXSkF5R2ZWZzZsYjY2RnR6dzc2ZW4zYnFPekNBT3N3SzJydnFBZzVBZUxJZjEwcWoycWtWMnkxVGV1QTc3ZjUxeDVXbElXOGJJaDRtcTNvekh3M1o4aTlfYkdVd0ZFZ3hSNU9nRGxOVzgxT0FuaW14eTl6ZzlmLUhFQmh0YnJhag?oc=5",
-      "pub_date": 1788027119.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/08/29/sanctuary-ai-built-a-robot-body-now-its-also-selling-a-robot-brain/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a931e1b17fb15fa68ab09d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Body or brain? When you're building a humanoid robot, you have to build both. But sometimes, as Sanctuary AI found out, you don't have to ship both at the same time."
-    },
-    {
-      "headline": "AI could become conscious. What if it wants us dead?",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEpDMnZQejJvTGY3ZTJJWVVhQ19DSTJibHl2ZVJWam1uazdrS2p3VzRFZGQ5VVhaMzFsdTJsU1F6TmpuS3BlZ2RtZGxiWHZ1ZE41akVScTNOWEhxaUEyUmFnak9Zbm5yaGFSMGg2VHBoazFNYVZzS2Nza3ZXbUNYZkd2WVJVLWfSAYwBQVVfeXFMUFdsSFBzRFBCUHprOFBnalBKM3VjOUxPY1FvLU1vYl9uQURVN0prRVV5WmYxeWs2SHJCMms4VE9PUk5ZVEJkcjhCWTd3bS1LQ3JNWFFCRGNfazZBbVppcmR2aUUzN3FZLWdhaVZfU2xRX2dXSnlxTUtCN1hvdmNPTW5mZnM1UWt2bkJDcFA?oc=5",
-      "pub_date": 1788026400.0,
-      "article_url": "https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/",
+      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
+      "pub_date": 1788009141.0,
+      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
+      "pub_date": 1788030355.0,
+      "article_url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&w=1920&h=1080",
+      "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX\u2019s $60 billion acquisition of the coding startup."
     },
     {
       "headline": "Our decision on Cursor following its acquisition by SpaceX",
@@ -65,14 +45,34 @@
       "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
     },
     {
-      "headline": "What if the A.I. Stock Market Rally Is Just Getting Started?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5",
-      "pub_date": 1787922006.0,
-      "article_url": "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html",
-      "image": null,
-      "description": null
+      "headline": "OpenAI cuts off Cursor's AI models, deepening feud with Musk",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
+      "pub_date": 1788018419.0,
+      "article_url": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
+      "image": "https://helios-i.mashable.com/imagery/articles/022LghkOtaGySK0ZNEXEWH9/hero-image.fill.size_1200x675.v1788017362.jpg",
+      "description": "The contract will end by mid-November, months after SpaceX bought the coding tool's parent company for $60 billion."
+    },
+    {
+      "headline": "The Fed confronts a powerful new economic force",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "pub_date": 1788019200.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
+      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
+    },
+    {
+      "headline": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS1jQkxZQ3hVdHd6OXZpYUpQSW91X0F4ZmRaVTJBcXZhV0VEV1Jlek94MFYzRXlxR1FOdnU2NmtIeElpSTE1NXp5ZGFWVF9VbDZHWVYyZ1ZlMnFWaXdHZk95eU1MdVdzdG1XWWdQRFFKaEVNdjU3T19OcnVibFNmdThrOUw1ejRNUy1YWjZsWlkweUZlR0k5YzJ6cUVlMVRtUDdGT1hyNzl5VU11ZmJXanJPMXd3ZzZRQTYtcWJ6WlZYUzdkd2c?oc=5",
+      "pub_date": 1788033720.0,
+      "article_url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises",
+      "image": "https://i.guim.co.uk/img/media/ff2b0d98b3e3364939221cb024e96ee981e1ad95/378_0_4947_3958/master/4947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83207bf12e28477768f02acf030f3f9d",
+      "description": "As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?"
     },
     {
       "headline": "An AI Oracle\u2019s Rise and Fall",
@@ -85,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "What if the A.I. Stock Market Rally Is Just Getting Started?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5",
+      "pub_date": 1787922006.0,
+      "article_url": "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -93,18 +103,8 @@
       "article_url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html",
       "image": "https://s.yimg.com/lo/mysterio/api/f92b3f2961d68d363cb18fabc8e598814562522db39c86b58ff2530b440d03a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb8bb6f8f-ae12-4629-b72f-c34888b3d02c",
       "description": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard."
-    },
-    {
-      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
-      "pub_date": 1788009212.0,
-      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T19:14:52.895028+00:00"
+  "fetched_at": "2026-08-29T21:53:10.737326+00:00"
 }
