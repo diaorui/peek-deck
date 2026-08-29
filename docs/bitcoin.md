@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-29T10:52:08.152169+00:00'
+updated: '2026-08-29T15:31:11.807266+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 10:52 UTC  
+**Last Updated:** August 29, 2026 at 15:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,632.75
+### $77,836.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** -0.0%  
-**30d:** +23.6%  
-**90d:** +8.8%  
-**1y:** -28.4%  
+**24h:** +0.2%  
+**7d:** +0.3%  
+**30d:** +24.0%  
+**90d:** +9.2%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1560.37B
+**Market Cap:** $1564.29B
 Rank #1
 
-**Circulating Supply:** 20,076,675 BTC
+**Circulating Supply:** 20,076,759 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.2%
 
 **All-Time Low:** $67.81
-+114514.4%
++114803.4%
 
 ---
 
@@ -137,7 +137,7 @@ Considering the catastrophic event with the Coldcard devices I decided to try to
 
 BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF conversions after lowering the minimum transaction size from $25 million to $1 million. Separate ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 2d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 3d ago
 
 ---
 
@@ -145,7 +145,7 @@ BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF c
 
 Don't know if anyone can help me but I've had an issue now with blockchain app for 3 and a half months, I have significant amount of funds and I am just locked out of them. I can't send coin, can't withdraw or deposit. Everything just gets stuck in pending until it eventually times out after like 45 days. Support are absolutely useless and only sending generic responses and thanking me for my patience LOL Please someone help
 
-1d ago
+2d ago
 
 ---
 
@@ -153,47 +153,9 @@ Don't know if anyone can help me but I've had an issue now with blockchain app f
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
-
-Bloomberg.com • 14h ago
-
----
-
 **[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
-KFOR • 12h ago
-
----
-
-**[Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-hype-charles-schwabs-103525320.html)**
-
-Any kind of fiscal intervention was going to be positive for crypto, according to Schwab’s Adam Lynch.
-
-Yahoo Finance • 16m ago
-
----
-
-**[Bitcoin ETF inflows, crypto narratives begin to brighten amid win streak](https://finance.yahoo.com/video/bitcoin-etf-inflows-crypto-narratives-173000102.html)**
-
-Scott Melker discusses bitcoin (BTC-USD) steadying above $79,000 — also crossing back above $80,000 per token on Thursday — as bitcoin ETF inflows extend gains for the eighth straight day and narratives around the cryptocurrency begin to brighten.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Why Bitcoin Surged to USD 80,000, and What May Come Next](https://global.morningstar.com/en-ca/markets/why-bitcoin-surged-usd-80000-what-may-come-next)**
-
-Morningstar • 2d ago
-
----
-
-**[Live updates: Bitcoin trades near $80,000 as stocks close with gains](https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion)**
-
-CoinDesk • 1d ago
+KFOR.com • 17h ago
 
 ---
 
@@ -205,25 +167,61 @@ Investor's Business Daily • 1d ago
 
 ---
 
+**[Hackers demand 30 bitcoin from Berlin as sensitive data breach widens](https://www.yahoo.com/news/us/articles/hackers-demand-30-bitcoin-berlin-124831460.html)**
+
+The Berlin state government has declined to comment on the demands made by hackers who targeted the city's administrative data network two weeks ago, a spokeswoman said on Saturday. The government is ...
+
+Yahoo • 2h ago
+
+---
+
+**[Smart Investor: Warsh Talks Tough, Bitcoin’s Bounce, Top Managers’ Stock Picks](https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks)**
+
+We wrap up our coverage of the markets and the week.
+
+Morningstar • 3h ago
+
+---
+
+**[Is Bitcoin a 'Buy' Right Now? BlackRock Slashes ETF Swap Minimum 96% From $25M to $1M](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-blackrock-slashes-150215484.html)**
+
+BlackRock has cut the minimum Bitcoin-to-IBIT in-kind conversion from $25 million to $1 million, a 96% reduction. IBIT has already processed more than $5 billion ...
+
+Yahoo Finance • 28m ago
+
+---
+
+**[Why Bitcoin wallets untouched for more than 10 years are moving millions worth of BTC](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
+
+CoinDesk • 10h ago
+
+---
+
+**[Warsh Leans Hawkish, And Markets Like It](https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/)**
+
+Stocks rise while long-term yields are flat to lower. Rate hike odds climb.
+
+Investor's Business Daily • 22h ago
+
+---
+
+**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing](https://finance.yahoo.com/markets/crypto/articles/bitcoin-traders-watch-fed-chair-151411261.html)**
+
+Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Man Manages To Access Bitcoin Wallet After 12 Years, Becomes An Instant Millionaire Overnight](https://www.iflscience.com/man-manages-to-access-bitcoin-wallet-after-12-years-becomes-an-instant-millionaire-overnight-84489)**
 
-IFLScience • 1d ago
-
----
-
-**[Debasement trade to take bitcoin to $300,000 in three years, Bernstein says](https://www.cnbc.com/2026/08/26/debasement-trade-to-take-bitcoin-to-300000-in-2029-bernstein-says-.html)**
-
-Bitcoin could soar as the debasement trade comes into focus again, according to Bernstein. That could also boost shares of Strategy.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1)**
-
-Crypto hoarders have been selling tokens and reverting to former activities
-
-Financial Times • 2d ago
+IFLScience • 2d ago
 
 ---
 
@@ -251,7 +249,7 @@ A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 17h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 22h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -259,7 +257,7 @@ Finally, a killer use case
 
 The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done.
 
-⬆️ 4 • 💬 0 • 22h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
+⬆️ 4 • 💬 0 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
 
 ---
 
@@ -275,7 +273,7 @@ Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initi
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 4d ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 5d ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -283,7 +281,7 @@ Finally, a killer use case
 
 Could old coins that have not moved for years help pay Bitcoin miners without creating new coins?
 
-⬆️ 2 • 💬 0 • 19h ago • [organicbitcoin.org](https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html)
+⬆️ 2 • 💬 0 • 1d ago • [organicbitcoin.org](https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html)
 
 ---
 
@@ -299,7 +297,7 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
 
-⬆️ 1 • 💬 1 • 3d ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
+⬆️ 1 • 💬 1 • 4d ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
 
 ---
 
@@ -315,43 +313,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Slides After Kevin Warsh&#39;s First Jackson Hole Speech](https://www.youtube.com/watch?v=juqfQF2Ja4g)**
+**[Bitcoin Just Failed Three Times](https://www.youtube.com/watch?v=OV3kIBe9aps)**
 
-Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today, and crypto traders are watching for whether the ...
+CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this video, Nik covers the market reaction to Kevin Warsh's Jackson Hole ...
 
-📺 CoinDesk
+📺 The Bitcoin Layer
 
-👁️ 8K • 👍 56 • 💬 9 • ⏱️ 1:45 • 18h ago
-
----
-
-**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
-
-CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
-
-📺 The Iced Coffee Hour
-
-👁️ 19K • 👍 206 • 💬 11 • ⏱️ 0:24 • 15h ago
+👁️ 13K • 👍 205 • 💬 23 • ⏱️ 18:34 • 17h ago
 
 ---
 
-**[Gold Dumps, Bitcoin Cracks As Rate Hike Odds Flip - Trades And Analysis](https://www.youtube.com/watch?v=_0ngHNrJO6c)**
+**[The Fed Is Trapped! Bitcoin Already Knows!](https://www.youtube.com/watch?v=Oh_NvQpi7NE)**
 
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+The Fed is trapped between inflation, rising debt costs and a bond market it can't afford to ignore. Now Bitcoin is pushing back ...
 
-📺 Gareth Soloway
+📺 Simply Bitcoin
 
-👁️ 140K • 👍 5K • 💬 350 • ⏱️ 13:50 • 17h ago
-
----
-
-**[Warsh&#39;s &quot;Hawkish&quot; Jackson Hole Speech &amp; Impacts on Bitcoin&#39;s Bull Run](https://www.youtube.com/watch?v=88ivoS276TE)**
-
-Cooper Howard from @CharlesSchwab says he's surprised with how hawkish Fed Chair Kevin Warsh came off during his speech ...
-
-📺 Schwab Network
-
-👁️ 17K • 👍 128 • 💬 11 • ⏱️ 7:53 • 18h ago
+👁️ 28K • 👍 1K • 💬 68 • ⏱️ 12:31 • 19h ago
 
 ---
 
@@ -361,15 +339,37 @@ Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then
 
 📺 Rob Wallace | Bitcoin News
 
-👁️ 13K • 👍 92 • 💬 12 • ⏱️ 14:16 • 1d ago
+👁️ 13K • 👍 93 • 💬 14 • ⏱️ 14:16 • 2d ago
 
 ---
 
-**[FINAL BITCOIN DUMP BEFORE $200,000? FEDS HAWKISH SPEECH SENDS CRYPTO LOWER #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=aKeWHjEbdfY)**
+**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
 
-📺 CryptoWendyO
+CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
 
-👁️ 7K • 👍 306 • 💬 25 • ⏱️ 2:18 • 9h ago
+📺 The Iced Coffee Hour
+
+👁️ 20K • 👍 228 • 💬 12 • ⏱️ 0:24 • 20h ago
+
+---
+
+**[NEW DATA REVEALS Why a HUGE Move In Bitcoin Is HAPPENING NOW!!! | EP 1580](https://www.youtube.com/watch?v=pVTijl-zVLA)**
+
+Bitcoin is down today but the reason might surprise you because the next move might be INSANE!
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 299 • 💬 18 • ⏱️ 1:11:58 • 20h ago
+
+---
+
+**[Gold Dumps, Bitcoin Cracks As Rate Hike Odds Flip - Trades And Analysis](https://www.youtube.com/watch?v=_0ngHNrJO6c)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 147K • 👍 5K • 💬 361 • ⏱️ 13:50 • 22h ago
 
 ---
 
@@ -379,17 +379,7 @@ Bitcoin just broke a major 5-year trend against gold as institutional capital, f
 
 📺 Simply Bitcoin
 
-👁️ 73K • 👍 2K • 💬 288 • ⏱️ 18:21 • 1d ago
-
----
-
-**[The Fed Could Blow Up Bitcoin’s Breakout Today](https://www.youtube.com/watch?v=aHDXptru4Wc)**
-
-Bitcoin #Crypto #finance Bitcoin is back near $80K as markets brace for Kevin Warsh's Jackson Hole speech, with U.S. demand ...
-
-📺 The Wolf Of All Streets
-
-👁️ 24K • 👍 520 • 💬 220 • ⏱️ 1:00:18 • 20h ago
+👁️ 74K • 👍 2K • 💬 288 • ⏱️ 18:21 • 1d ago
 
 ---
 
@@ -399,17 +389,27 @@ Zen Master JP Washes his Face & His Feet after a Narrative Changing BTC Rejectio
 
 📺 Sin City Crypto
 
-👁️ 15K • 👍 308 • ⏱️ 3:12:35 • 10h ago
+👁️ 15K • 👍 309 • 💬 4 • ⏱️ 3:12:35 • 14h ago
 
 ---
 
-**[Coinbase just turned your Bitcoin into a down payment](https://www.youtube.com/watch?v=4u9vwlLPY2o)**
+**[Bitcoin Slides After Kevin Warsh&#39;s First Jackson Hole Speech](https://www.youtube.com/watch?v=juqfQF2Ja4g)**
 
-Coinbase just opened a mortgage where your Bitcoin collateralizes the down payment, so you never sell it and never trigger a ...
+Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today, and crypto traders are watching for whether the ...
 
-📺 Yahoo Finance
+📺 CoinDesk
 
-👁️ 39K • 👍 550 • 💬 138 • ⏱️ 14:53 • 1d ago
+👁️ 9K • 👍 58 • 💬 10 • ⏱️ 1:45 • 23h ago
+
+---
+
+**[Bitcoin and the 50 Week Moving Average](https://www.youtube.com/watch?v=X2ztVVyfgQU)**
+
+Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 201K • 👍 8K • 💬 372 • ⏱️ 12:41 • 1d ago
 
 ---
 
