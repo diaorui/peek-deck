@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-29T03:32:36.976273+00:00'
+updated: '2026-08-29T10:52:08.158366+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 03:32 UTC  
+**Last Updated:** August 29, 2026 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -1.0%  
-**30d:** +31.0%  
-**90d:** +21.7%  
-**1y:** -44.2%  
+**24h:** -2.7%  
+**7d:** -1.2%  
+**30d:** +30.8%  
+**90d:** +21.6%  
+**1y:** -44.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.51B
+**Market Cap:** $294.01B
 Rank #2
 
 **Circulating Supply:** 120,681,172 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.7%
 
 **All-Time Low:** $0.43
-+563509.3%
++562567.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -88,7 +88,7 @@ The upcoming Glamsterdam upgrade includes gas repricings that could affect a sma
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey, we spent the last few weeks doing deep research on curated DeFi. We analyze
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -124,7 +124,7 @@ Here's what you need to know:
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -156,11 +156,27 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Tom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K](https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-ethereum-6k-021000271.html)**
+**[Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-hype-charles-schwabs-103525320.html)**
 
-Fundstrat’s Tom Lee says Ethereum (CRYPTO: $ETH) remains “vastly undervalued” even after its rece...
+Any kind of fiscal intervention was going to be positive for crypto, according to Schwab’s Adam Lynch.
+
+Yahoo Finance • 16m ago
+
+---
+
+**[Bitwise's Matt Hougan Says Ethereum And Solana Are Betting On Opposite Valuation Models, 'My Favorite Approach Is Just To Own Them Both'](https://finance.yahoo.com/markets/crypto/articles/bitwises-matt-hougan-says-ethereum-090250480.html)**
+
+Solana is positioned on a revenue-driven model and Ethereum on a monetary one, and it is not yet clear which the market will reward, Bitwise's Matt Hougan said.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Nears Fourth CEX Reveal as the Ethereum Price Prediction Targets $12,000](https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-today-alphapepe-nears-fourth-cex-reveal-as-the-ethereum-price-prediction-targets-12/article_28159892-0df7-59f9-bdf6-b248b660227d.html)**
+
+MONACO, Aug. 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to
+
+The Malone Telegram • 50m ago
 
 ---
 
@@ -168,7 +184,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin has dropped to $77,901.87, down 3.1% over 24 hours, dragging Ethereum and XRP lower after Fed Chair Kevin Warsh delivered a hawkish message at the 2026 Jackson Hole Symposium, reviving expectations of a September rate hike.What Warsh SaidSpeaking live from Jackson Hole, Warsh described the…
 
-TradingView • 9h ago
+TradingView • 16h ago
 
 ---
 
@@ -176,7 +192,7 @@ TradingView • 9h ago
 
 GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization
 
-The Hacker News • 1d ago
+The Hacker News • 2d ago
 
 ---
 
@@ -184,7 +200,7 @@ The Hacker News • 1d ago
 
 Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
 
-Decrypt • 10h ago
+Decrypt • 18h ago
 
 ---
 
@@ -194,11 +210,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand](https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/)**
+**[Crypto Today: Bitcoin, Ethereum, XRP rally loses steam despite steady ETF inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rally-loses-steam-despite-steady-etf-inflows-202608281024)**
 
-Paymasters and sponsors can keep native tokens out of sight, but Ethereum and Solana still require fees funded in ETH or SOL.
+Bitcoin (BTC) is back below $80,000 at the time of writing on Friday, after a second attempt at breaking resistance between $81,000 and $82,000. A daily close below $80,000 could raise the probability of an extended correction in search of liquidity.
 
-CryptoSlate • 1d ago
+FXStreet • 1d ago
 
 ---
 
@@ -206,29 +222,15 @@ CryptoSlate • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 23h ago
 
 ---
 
-**[Ethereum Whale: Buys 5425 ETH for $13.55M](https://blockchain.news/flashnews/ethereum-whale-buys-5425-eth-13-55m)**
+**[Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand](https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/)**
 
-Ethereum whale buys 5425 ETH at $2498 with 13.55M USDT on-chain. Price holds bullish EMA structure at $2504.72 with Bollinger resistance ahead.
+Paymasters and sponsors can keep native tokens out of sight, but Ethereum and Solana still require fees funded in ETH or SOL.
 
-blockchain.news • 15h ago
-
----
-
-**[ETHB Emerges as a Favorite Among Ethereum ETFs](https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs)**
-
-ETF.com • 2h ago
-
----
-
-**[New Crypto: Pepeto Presale Announces $10.85M As the Ethereum Price Prediction Calls $7,500](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500-1036494746)**
-
-DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil...
-
-markets.businessinsider.com • 2d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -242,27 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 200 • 💬 55 • ⏱️ 15:34 • 11h ago
-
----
-
-**[BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5l9GDMf_d90)**
-
-BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 127 • 💬 135 • ⏱️ 16:59 • 1h ago
-
----
-
-**[&quot;BTC &amp; ETH Absolutely Explodes Before September if This Happens!&quot;: Matt Hougan and Tom Lee](https://www.youtube.com/watch?v=cjgfVSpEzdM)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 27K • 👍 466 • 💬 85 • ⏱️ 12:41 • 1d ago
+👁️ 11K • 👍 235 • 💬 56 • ⏱️ 15:34 • 18h ago
 
 ---
 
@@ -272,7 +254,27 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 81 • ⏱️ 17:22 • 9h ago
+👁️ 5K • 👍 97 • ⏱️ 17:22 • 16h ago
+
+---
+
+**[&quot;BTC &amp; ETH Absolutely Explodes Before September if This Happens!&quot;: Matt Hougan and Tom Lee](https://www.youtube.com/watch?v=cjgfVSpEzdM)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 28K • 👍 487 • 💬 85 • ⏱️ 12:41 • 1d ago
+
+---
+
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=PBGoPjgGcjw)**
+
+Ethereum Elliott Wave analysis for August 28, 2026, focuses on the $2178 support level which marks the invalidation for the ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 121 • 💬 7 • ⏱️ 8:05 • 11h ago
 
 ---
 
@@ -282,7 +284,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 82K • 👍 1K • 💬 427 • ⏱️ 38:19 • 1d ago
+👁️ 90K • 👍 1K • 💬 415 • ⏱️ 38:19 • 1d ago
 
 ---
 
@@ -292,17 +294,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 781 • 💬 33 • ⏱️ 16:00 • 2d ago
-
----
-
-**[What&#39;s Happening With Ethereum Right Now](https://www.youtube.com/watch?v=bxSbQMH8M-Y)**
-
-Why is Ethereum a few steps ahead of Bitcoin right now? ETH has broken out and put in a macro higher high, and as long as it ...
-
-📺 Crypto Archie
-
-👁️ 871 • 👍 37 • ⏱️ 0:45 • 13h ago
+👁️ 33K • 👍 780 • 💬 33 • ⏱️ 16:00 • 2d ago
 
 ---
 
@@ -312,17 +304,17 @@ Adam Lynch (@CharlesSchwab) offers his big picture take on the state of the cryp
 
 📺 Schwab Network
 
-👁️ 10K • 👍 72 • 💬 9 • ⏱️ 6:03 • 1d ago
+👁️ 11K • 👍 79 • 💬 9 • ⏱️ 6:03 • 1d ago
 
 ---
 
-**[Why Wall Street Still Can’t Fully Use Ethereum](https://www.youtube.com/watch?v=3xYjCDPZ5DU)**
+**[THIS WILL BE INSANE](https://www.youtube.com/watch?v=BZf9MrZ5YKQ)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Wall Street wants to come ...
+The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of ETH and the altcoin ...
 
-📺 Bankless
+📺 Jordan Camirand
 
-👁️ 14K • 👍 146 • 💬 8 • ⏱️ 53:13 • 1d ago
+👁️ 14K • 👍 548 • 💬 257 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -333,6 +325,16 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 5K • 👍 113 • 💬 19 • ⏱️ 7:40 • 1d ago
+
+---
+
+**[BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5l9GDMf_d90)**
+
+BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 298 • 💬 181 • ⏱️ 16:59 • 8h ago
 
 ---
 

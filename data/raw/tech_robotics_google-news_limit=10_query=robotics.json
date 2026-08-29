@@ -5,12 +5,42 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Light-powered soft robots that can keep jumping forever",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEb3FiOS1IcFFqTklZeERGTC1JVXZGS2JndVdhUmE1LXhHekdYMFhvTEVXWmJBclBoZnFCcTEtbjhQTFF6bDdjcFZIdjZ1NjlkRTdtTk0tNjFZUEE0MGNtUVRtMElncno4OWRPMQ?oc=5",
+      "pub_date": 1787925602.0,
+      "article_url": "https://techxplore.com/news/2026-08-powered-soft-robots.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "China can build kung fu-fighting robots. But it can\u2019t get them to do factory work",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTJ2ay1qRWJVMWZvZGExU0JfeWpqQ0tfRUNrNU5TZ3JzOUIyZGl5WnQ3VVJZMHdaT2hteV9IUkV1NHVMXzVqUGI1QlNoeFFibFUzVnR2bXV5WmFQYzFYb2RaX1N3RWVQVTJsYmFMdlQ1c2daSTVkejk5bG5nYWxkQ0k2OWxsc3ZXTGpyaXNaclNuLXF6RkZCbWV3SWZ3dFNsQWUyQ3lkdURQdkVVZXNz?oc=5",
-      "pub_date": 1787806800.0,
+      "pub_date": 1787808535.0,
       "article_url": "https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Hilarity, unease and relief: games show China is not over the finish line in humanoid robot race",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?oc=5",
+      "pub_date": 1787979600.0,
+      "article_url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+      "image": "https://i.guim.co.uk/img/media/7c7128dc7679d8f7392c821f4bebc8b71431f487/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1466cd29badf3949e2d83bf68c3f362c",
+      "description": "World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches"
+    },
+    {
+      "headline": "China\u2019s record robotic strides show the limits of human speed",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5",
+      "pub_date": 1787896080.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/",
       "image": null,
       "description": null
     },
@@ -25,26 +55,6 @@
       "description": "Bipedal robots may look impressive doing tricks on YouTube, but the real value lies with their less flashy, highly functional industrial cousins"
     },
     {
-      "headline": "China\u2019s record robotic strides show the limits of human speed",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5",
-      "pub_date": 1787904377.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Survivor's Christian Hubicki marvels at China's robotics games records: 'Willing to break the robots to do it'",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS01nOXdNNk82RmhUVVNoaHktLXUxLTNNT3dMUlNETU91VEV1YnBLb1VDaE5ua2hjbjFVeU00TGxUM29XM2JfTjExdUlhMVVYcVFKdlpXWXdoV192cDdFeEtrcmlEcTR3aVdCWDU0MjZKNWV6VnU2WklWd2YxZ00tQ2FzWXdIOC1kV0kweG4yZ3BhRW9vUHlYZDBaUGFDS0F4Tm03ZDFfM3ZCQWh3OE1tZG1VRmpZQdIBuwFBVV95cUxQTWxQdWh3Ui16cUFvdndFM0R6N1o1ei1Pd2hIYlhwYVJfSm5EejRweHJFcnlPY0Jrc3dBeUpFVDg1ZURJcTF2VF9ZdHo5dy1tQURmVjJuQkJrQTR3RkRvanZyUDJyMzlqWGxmbHNWQ09wSG9lN0pJckhXSTZ5RWVwSHJWTU1IcEg0ek1ydGt6NnlmT00yNEFvQWZLeXRic0daaWFDUzd1X2lQNkpJZG1OWlBLbGZYTXlGV29V?oc=5",
-      "pub_date": 1787850243.0,
-      "article_url": "https://www.foxnews.com/tech/survivors-christian-hubicki-marvels-chinas-robotics-games-records-willing-break-robots",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/robo-crash-gif-2.gif",
-      "description": "The World Humanoid Robot Games' crashes show how far the technology still needs to go to be useful, \"Survivor\" reality TV star and robotics scientist Christian Hubicki says."
-    },
-    {
       "headline": "Meet the humanoid robots cleaning homes for $30 an hour",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
@@ -53,16 +63,6 @@
       "article_url": "https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517",
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_08/1787965203531_now_topstory_humanoid_robots_cleaning_260828_S3_1920x1080-lhqana.jpg",
       "description": "These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered."
-    },
-    {
-      "headline": "DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXYmNUOXVzeDZDai04NkJUTEdXa2pkQTN6R25uLW9MMmJaOGNhTW00dXN1OHJJN2F0WTRySWlaTXhZYlNZLVhEV25USXRnRy0yVkpmdFpZS29sOEVDQWs4cHNod0pqSjhUYTFJQ3BfY0VrNGh5eEhxenNR?oc=5",
-      "pub_date": 1787922035.0,
-      "article_url": "https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272104482-300x200.jpg",
-      "description": "High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts"
     },
     {
       "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
@@ -75,24 +75,24 @@
       "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
     },
     {
-      "headline": "Hugging Face says sales for its robot ducks topped $2.6 million in 24 hours. Now there's a backlog.",
+      "headline": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEpwWFRSNXF4QzFUbmxmSWJXYnB3STdTTkhvS0I0S0M2YzNYTFdUQXJsQVZnSjBFRzREZFU3VGtlbmR5RHVtZGZEaExBcm1VNlZjdWRJdE1jOTc5NXgxd0RfcXl0b1FxYUwzTmI0cVhkVXprS1hZenp4SlhSWW5CVmxPdHhRY0dCYjU4UThlOG0?oc=5",
-      "pub_date": 1787935394.0,
-      "article_url": "https://www.businessinsider.com/hugging-faces-duck-robot-hits-sales-roller-skate-2026-8",
-      "image": "https://i.insider.com/6a91a75679f11f0a89f9214a?width=1200&format=jpeg",
-      "description": "The future of robotics can waddle. Hugging Face said its bot-maker, Pollen Robotics, recorded over $2.6 million in sales of Microducks in 24 hours."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5",
+      "pub_date": 1787994084.0,
+      "article_url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8",
+      "image": "https://i.insider.com/6a885c948a99fa493d60ec36?width=1200&format=jpeg",
+      "description": "The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers."
     },
     {
-      "headline": "Adorable Microduck Robot Roller Skates and Plays Soccer",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aU083cmhsT09VR0dEWEdBUW9hczZQVGU2SDI1MGxITnlZQVpYaU9sUGhUN3oxR3NOM2ZxNjFnaDI1R0s5U05BUGJ4S1N1Ull2dUVMSjVTekRDR3BFeEhTWGd1ckM?oc=5",
-      "pub_date": 1787933013.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67687638&width=1200&height=600&coordinates=0%2C5%2C0%2C6",
-      "description": "In this week\u2019s selection of awesome robot videos, you\u2019ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo"
+      "headline": "DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXYmNUOXVzeDZDai04NkJUTEdXa2pkQTN6R25uLW9MMmJaOGNhTW00dXN1OHJJN2F0WTRySWlaTXhZYlNZLVhEV25USXRnRy0yVkpmdFpZS29sOEVDQWs4cHNod0pqSjhUYTFJQ3BfY0VrNGh5eEhxenNR?oc=5",
+      "pub_date": 1787922035.0,
+      "article_url": "https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272104482-300x200.jpg",
+      "description": "High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts"
     },
     {
       "headline": "Kraken Robotics Reports Q2 2026 Financial Results",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T03:32:33.004756+00:00"
+  "fetched_at": "2026-08-29T10:52:04.033432+00:00"
 }
