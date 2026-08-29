@@ -9,14 +9,28 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "hn_url": "https://news.ycombinator.com/item?id=49458418",
       "author": "GrumpySciGuy",
-      "points": 1008,
-      "num_comments": 698,
+      "points": 1009,
+      "num_comments": 703,
       "created_at": "2026-08-27T01:46:22Z",
       "object_id": "49458418",
       "image": "https://opengraph.githubassets.com/00ed13f1d915ebca45a24b7399bded749cfc01949db405ac46ab6295f8438b16/SenteLabsAI/OpenExecutive",
       "description": "AI-powered virtual executive team \u2014 a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49475079",
+      "author": "miniBill",
+      "points": 467,
+      "num_comments": 144,
+      "created_at": "2026-08-28T06:33:57Z",
+      "object_id": "49475079",
+      "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
+      "description": "Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn't the first time.",
+      "favicon": "https://blog.luanti.org/static/luanticon.png",
+      "site_name": "Luanti Blog"
     },
     {
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
@@ -31,20 +45,6 @@
       "description": null,
       "favicon": null,
       "site_name": "bloomberg.com"
-    },
-    {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49475079",
-      "author": "miniBill",
-      "points": 385,
-      "num_comments": 121,
-      "created_at": "2026-08-28T06:33:57Z",
-      "object_id": "49475079",
-      "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
-      "description": "Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn't the first time.",
-      "favicon": "https://blog.luanti.org/static/luanticon.png",
-      "site_name": "Luanti Blog"
     },
     {
       "title": "The turbulent AI era is here",
@@ -65,8 +65,8 @@
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "hn_url": "https://news.ycombinator.com/item?id=49447057",
       "author": "nanna",
-      "points": 344,
-      "num_comments": 608,
+      "points": 345,
+      "num_comments": 609,
       "created_at": "2026-08-26T11:23:54Z",
       "object_id": "49447057",
       "image": null,
@@ -79,7 +79,7 @@
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49450898",
       "author": "zazuke",
-      "points": 257,
+      "points": 258,
       "num_comments": 187,
       "created_at": "2026-08-26T15:30:05Z",
       "object_id": "49450898",
@@ -93,7 +93,7 @@
       "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "hn_url": "https://news.ycombinator.com/item?id=49447600",
       "author": "n1b0m",
-      "points": 245,
+      "points": 246,
       "num_comments": 51,
       "created_at": "2026-08-26T12:11:19Z",
       "object_id": "49447600",
@@ -107,7 +107,7 @@
       "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "hn_url": "https://news.ycombinator.com/item?id=49474143",
       "author": "signa11",
-      "points": 205,
+      "points": 208,
       "num_comments": 141,
       "created_at": "2026-08-28T03:49:33Z",
       "object_id": "49474143",
@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49448137",
       "author": "ilamont",
       "points": 194,
-      "num_comments": 362,
+      "num_comments": 363,
       "created_at": "2026-08-26T12:47:47Z",
       "object_id": "49448137",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "bbc.com"
     }
   ],
-  "total_hits": 675,
+  "total_hits": 686,
   "has_metadata": true,
-  "fetched_at": "2026-08-28T21:45:51.021766+00:00"
+  "fetched_at": "2026-08-29T03:32:11.011744+00:00"
 }
