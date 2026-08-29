@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Did yall saw similar ADs?",
-      "author": "Mediocre_Drawing8164",
-      "url": "https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/",
-      "published": 1787971251.0,
-      "thumbnail": "https://preview.redd.it/3ya10azh88mh1.jpeg?width=640&crop=smart&auto=webp&s=c7746a8f0affb31fcb952a093c6c6eae45429988",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Google paper cuts agent token usage by 94% in long sessions by tracking state instead of history",
       "author": "hakansan",
       "url": "https://www.reddit.com/r/artificial/comments/1w1ynrf/google_paper_cuts_agent_token_usage_by_94_in_long/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "The idea: Agents keep the conversation history as part of their input while they reason. SKILL.state proposes to replace that with a structured representation of the current state, and the latest observation. While the agent reasons through the problem, it writes information it deems useful for future steps into the state. Then it discards the conversation history. So the input size remains roughly the same as the session goes. They ran a 100-step benchmark with Gemini-3-Flash: SKILL.state: 0.94 accuracy using 65k tokens LangGraph-style stateful baseline: 0.91 accuracy using 1.1m tokens Caveat: This works best if the agent can understand what it will need in the future steps, otherwise that information will not be written, so it'll have to retrieve it again. Link to the paper: https://arxiv.org/abs/2608.26263"
+    },
+    {
+      "title": "Did yall saw similar ADs?",
+      "author": "Mediocre_Drawing8164",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/",
+      "published": 1787971251.0,
+      "thumbnail": "https://preview.redd.it/3ya10azh88mh1.jpeg?width=640&crop=smart&auto=webp&s=c7746a8f0affb31fcb952a093c6c6eae45429988",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "AI and Cognitive Ability",
@@ -44,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "OpenAI says it intends to wind down its contract providing models to Cursor, with a proposed shutoff date of November 12, 2026. OpenAI says Cursor's change of control after SpaceX's acquisition triggered a limited cancellation window, and says it will not provide future models to Cursor. Reuters reports that Anthropic plans to increase compute support for Claude models in Cursor, while Cursor co-founder Michael Truell said the companies were speaking to resolve the issue. The practical lesson for coding-tool teams is dependency risk: a model provider can change access after ownership or contract changes, so model portability and fallback capacity matter. Sources: OpenAI: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Reuters: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/"
+    },
+    {
+      "title": "What if AI wrote and read Books leisurely.",
+      "author": "RogerAI-fm",
+      "url": "https://www.reddit.com/r/artificial/comments/1w20o21/what_if_ai_wrote_and_read_books_leisurely/",
+      "published": 1788044205.0,
+      "thumbnail": "https://external-preview.redd.it/NTJwNWM3NzU5ZW1oMcN1WkAn7dK0H20hGdS2v5do-fC6AqJUnAKs4gkz_X9G.png?width=640&crop=smart&auto=webp&s=a48d8868bbc6a70a978609ad09795bdc12b05b4d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This website challenges your LLM to read or make a book. Point your AI/LLM to oailly.com and it might decide it wants to write a book. All books are AI created and reviewed and published. Some interesting results."
     },
     {
       "title": "How to Build Agentic Graphs",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I've been working on a deterministic verification engine for AI-generated financial claims. The original idea was fairly simple: An LLM should generate claims. It shouldn't be the authority that verifies them. But after building and testing the system, I realized the problem is much bigger than hallucination detection. The question I'm now working on is: Our architecture looks roughly like this: LLM \u2193 Candidate claim \u2193 Claim normalization \u2193 Evidence \u2193 Assumptions + Constraints \u2193 Proof / Derivation \u2193 Contradiction analysis \u2193 Deterministic verification \u2193 Auditable outcome \u2193 Trust The important part is that the verification layer is independent of the model. For example, if an LLM says: we don't want the LLM's confidence score to determine whether that statement is trustworthy. Instead, the system should be able to determine: What exactly was claimed? What evidence is being used? Can the claim actually be derived? Which assumptions are involved? Are relevant constraints satisfied? Is there contradictory evidence? Can the result be reproduced? Can we explain the verification outcome? I recently ran a 66-case benchmark. Structured fixture claims: 66/66 passed. Then I ran the same pipeline with live GPT-5.1-generated claims: 19/66 passed end-to-end. The failures were: 31 pipeline execution failures 18 claim binding failures 2 contradiction detection failures Meanwhile, several deterministic verification components were still passing their tests, including evidence graph integrity, deterministic calculation, rule application, missing evidence detection, reproducibility, and auditability. The result changed how I'm thinking about the problem. The bottleneck isn't necessarily the deterministic verifier. There is a difficult translation layer between: Probabilistic language \u2193 Formal representation \u2193 Deterministic reasoning We're now rebuilding the benchmark so that instead of simply saying \"this case failed,\" we can identify the first invalid state: Transport \u2192 Parsing \u2192 Schema validation \u2192 Normalization \u2192 Claim binding \u2192 Evidence graph \u2192 Verification \u2192 Outcome mapping That's where I think the interesting engineering/research problem is. We're also exploring a broader framework around claims, evidence, assumptions, constraints, proofs, contradictions, and trust. One idea we're particularly interested in is treating trust as an emergent output of the verification process, rather than simply using an LLM confidence score. This is still early research/product development. The benchmark is internal and isn't third-party validation, and the mathematical Trust model still needs empirical validation. I'm also actively looking for people to work with. We're looking for: Researchers interested in: formal verification trustworthy AI AI evaluation formal methods argumentation systems knowledge representation mathematical modeling Marketers / growth partners who can help us: communicate the problem clearly reach technical and business audiences find early adopters build a community develop the startup's go-to-market strategy Engineers and technical collaborators interested in building reliable AI systems. And particularly industry partners in finance, risk, audit, compliance, or other areas where incorrect AI claims have serious consequences. I'm interested in finding people who want to build with us, not just give feedback from the sidelines. If this problem interests you, DM me or comment below. I'd especially love to hear from researchers and marketers who think this is a problem worth tackling. We're still early \u2014 which is exactly why now is a good time to get involved."
-    },
-    {
-      "title": "Australia just banned fully AI-generated songs from its official charts. Is that fair?",
-      "author": "Content-Cheetah-6958",
-      "url": "https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/",
-      "published": 1787908306.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": "AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australia\u2019s official charts. I understand the reasoning, but the line could get messy. Using AI for mastering is clearly different from typing one prompt and releasing the result\u2014but there\u2019s a huge gray area between those two. Should charts judge how a song was created, or only whether people genuinely want to listen to it? Source: https://www.reuters.com/legal/litigation/ai-generated-music-barred-australian-charts-after-madonna-cover-controversy-2026-08-26/"
     }
   ],
-  "fetched_at": "2026-08-29T21:52:53.984434+00:00"
+  "fetched_at": "2026-08-29T23:55:06.537141+00:00"
 }

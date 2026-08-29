@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Massive El Reno water leak traced to Bitcoin mining data center facility",
-      "source": "KFOR",
+      "source": "KFOR.com",
       "source_url": "https://kfor.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE4wNTN5QlZIdTJ1cTJqNTU1LVMtdHI0allORW45dGxyakFxOHFhLUdqQzZTNkFmd3gyaFZpYnZUNHQ4dU90V2otUURyMzRFTHpZNkFvOHBxcDQ2d29XVTgxSHU3Tm9WeGpGRndmUjVpcHdpc2hIOEktUTFXMHVLYVBLUk1TRURqUGctSzgzUHhCU1NNcDRpYnZpZTZOYWZYcjY40gGoAUFVX3lxTFBGMUlEVHlPMFRxaGQ4NGNBWXVFNklLVm5UTFh4X0huWTUyMmh5SjlodkFnNkxwb1VnQnJVenBuaVRYM2pTOHhxOTYwbWFwVlI0eEFPZ1lUYTFveGNhSEF3SFRrMWRTZEtDa0RDRzM0YWdRZ19ZSG5nZzdqX215WXQwYl9BOFBZSW1XckxFNFJLMEFGMG5ZSGlQOUc5U1R4NG9PQjA2TGUySw?oc=5",
       "pub_date": 1787956104.0,
@@ -35,22 +35,32 @@
       "description": "Recently, MARA Holdings Inc. experienced pressure as Bitcoin pulled back amid inflation and interest rate concerns, despite the company scaling its mining capacity and holding over 50,000 BTC. This episode underlines how MARA\u2019s performance remains closely linked to broader macro trends and Bitcoin price moves, even as it expands into AI infrastructure. We\u2019ll now examine how this Bitcoin-driven setback interacts with MARA\u2019s shift toward AI infrastructure and diversified digital asset..."
     },
     {
+      "headline": "Smart Investor: Warsh Talks Tough, Bitcoin\u2019s Bounce, Top Managers\u2019 Stock Picks",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVy1icTFnSWxSQ3JENUQyeW1DSUFXTzg4ZnRKVWwtbklEZS1zT3VHOFJndTcxM1VEVmVVNTVIRDJwcVY5N3V2VTZ6czVHS2pzeGI1MUltVHBZeVl0X3NReUVYT202Uzdzb2dnWW9Yb3V0dl9yUUJXQkMxamtXSzVDSnZsQUVpRjV2QUlnOVV4eXJXcnZDMExNYW9hQnM2aXUyMWpjTnhTcUExc1l3OXc?oc=5",
+      "pub_date": 1788005703.0,
+      "article_url": "https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks",
+      "image": "https://media.morningstar.com/resizer/v2/3RJDP7C6PNG2XF54FF7JLPNPGU.jpg?auth=47c9d0a758d29188bd7594efec79c1785cd0bca4b5e86035176a97b72f9fbd87&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
+      "description": "We wrap up our coverage of the markets and the week."
+    },
+    {
+      "headline": "SA Asks: Is Bitcoin finally bouncing back? (BTC-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRNMkNYanZLZjFqbTc2bkloc3ZLNUxuczBDYlZ0SjdteTliMUp6NkROalFkQ3JiUEFHTl81ZUJvVjZ2V0lCUXM4Q2w1OFVmODU5RWgzNTdLUGJUdjlZa3p2TUpVT195dVFPRDNMWkhuLWNrM2JVOHpub1Z5UGo3R1pPTzk?oc=5",
+      "pub_date": 1788036017.0,
+      "article_url": "https://seekingalpha.com/news/4638046-sa-asks-is-bitcoin-finally-bouncing-back",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1329055819/image_1329055819.jpg?io=getty-c-w630",
+      "description": "Is Bitcoin finally bouncing back? Analysts weigh IBIT inflows, CLARITY Act momentum, and Fed/dollar catalysts for BTC\u2019s next move\u2014read the outlook now."
+    },
+    {
       "headline": "Why Bitcoin wallets untouched for more than 10 years are moving millions worth of BTC",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFJOcTdkUWZpV2NMX0thLXV2cTc0NlFFSmZTMWlTVUtoR3dyeHpYT3VXSkQxdWtrZHBzOGI2U1otWVJZd2o2VTdwbF9taDg0UkxudGpDcncxT3p1ajJyenkxQ0hib1hsN3NXTmJwRklJcUxkd2lfS0w2aDJoVmo1b01rX2xPQjVmLWZ2Tmh4MF9EQk44V0FqaFFKdXFRbmp2dmMwX2dZTTFKZ3hRRk94eGc2VlhrSl9qelVyUk5YWmVqdGc?oc=5",
       "pub_date": 1787978039.0,
       "article_url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Bitcoin Surged to USD 80,000, and What May Come Next",
-      "source": "Morningstar",
-      "source_url": "https://global.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0FVSXl1TEVRM19XYWpJYm1hTWQxYVRySFlTVFk5X3cxQURiSDVhN19qOGp5QW9PbzNlSkU1TUVBX3JGbE0za3BZLVJNazB3cGZqTTRHMHBGdlRBTU0tSUNsWlRGQUhzVHdEdExZOXoyMGxkTTdMOEtnQmYwalh5SS1nVVV6TWFzZVQ4cWYwWkZFOTZ0TExB?oc=5",
-      "pub_date": 1787824826.0,
-      "article_url": "https://global.morningstar.com/en-ca/markets/why-bitcoin-surged-usd-80000-what-may-come-next",
       "image": null,
       "description": null
     },
@@ -75,36 +85,26 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Traders Watch Fed Chair Warsh for Clues\u2014And Get Nothing",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTdtZFlVZzdhMTFEY0kta3RKRlBucGRkZ3d4MlNOZk1WdXNfbVFIZWprcHZpajUwSjkyaWF3ZjFORkVKWHJYbWFXaTdCb2FvYS12eGVKYnd6RmZkeG13Y05vc0Fwa1J2ZFRPQnNwMllpQk1oSkctNS14N2RqQ2t0QjEyS0tEd0dNWnVVTVdSUXBZX1A3WXJuWnhJakc?oc=5",
-      "pub_date": 1787930051.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-traders-watch-fed-chair-151411261.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e8252e052ff64bacb1bbc02581afeceedb00d2e1751237ea0d30a951aebd07a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F50d5a1643a4e12b17059f0f45a7e350d.jpg",
-      "description": "Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call."
+      "headline": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2dUcGhKeTJieEVLVlNVdTg1Wkx3dzJIcXo1UWJkNWRnajZISjZLSk1INlJvaEFScWlITHZJdzVtQ3NmbzJvVGFXYmFYbHoteEhydmQ2Tk5PYTlZeWRVckNlU1V3QW1sZ05HTTE1S0dJUldyY1J5YUNiMnlIRE1laWNreXBteExqWDU0aTZCcGx1dXlGWXZNUVBUQWFjWTd6SlJDS2VOdUM2Nk5ZWTNWa01BWmRHeHM?oc=5",
+      "pub_date": 1788021058.0,
+      "article_url": "https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warsh-policy-collision.jpg",
+      "description": "ETF inflows and larger Treasury buybacks can cushion volatility, but neither substitutes for disinflation."
     },
     {
-      "headline": "Bitcoin treasury companies shed $80bn in value as business model unwinds",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHNwNW13dWhVN2J1TUpZVkNnc3JmUG9vUEhXNFNobU5wSHVsMFhjemI5bWEzVDhGWk5SR05aUnU1anhKNWI1UmZOWkRucTE5UHQ0SGtBb0phSHZTMVFhR2I5V0JVR0dzZ1JZbkUtR00zMTRsc1FhYm5tYmpHNGkxdUtUOHo?oc=5",
-      "pub_date": 1787803322.0,
-      "article_url": "https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fde1e73c3-c44f-4bfa-8faa-fe10375dbbb4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Crypto hoarders have been selling tokens and reverting to former activities"
-    },
-    {
-      "headline": "Bitcoin price slips below $78,000 as \u2018digital gold\u2019 narrative faces fresh test",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzdVRjNJSjhrcmRsS2Y4RUlUa1JnVzhOd2tLRk5Cay1teHZISkdVdHNxaURzN0ZHME8wbE12eVRZa1BOQ1pHUFNEUjlEbWd0dHZDVUlCam04WlJ1SnNzNmFUTUpMQ3pwbVA3ZlVBT2hueG9QOHMxNGViZjg0YXlSTWpKMENRUzBzY1hPa2hoNlVQTEpfWThVVkJvbmlIVXFnWnNtWk1WMGdpQUJBZlRDZFZBeC1jOWNaeTZzLVhDTS1qMGF5R1FKdHdBX3RvUQ?oc=5",
-      "pub_date": 1787996035.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-slips-below-78000-as-digital-gold-narrative-faces-fresh-test-4881960",
+      "headline": "Warsh\u2019s Jackson Hole speech could make or break the bitcoin and gold rally",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGhucFdXVmtWaGFOYTVDdnNmZ0FKRm9IQmEwbGlKYXpzN3N2MFZDd21EeW5OV0U3Q1lXQjNDWTJWU2MzX3FZRmM0M2hOTmlYSGhZMDdMTERkX29EYzg0WC11S09UU0t1a3N5VVI0enQ2dHVMemJjTkwwbUhMV2dTblhoOHE4UHZyNjVDcHFYRm5BT2d2OXZad0RON0VFaG9BZVlhd0p3QkRMYnlLc3JOMDJ2OXA2QzBkeTg4RA?oc=5",
+      "pub_date": 1787898610.0,
+      "article_url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T21:53:10.410573+00:00"
+  "fetched_at": "2026-08-29T23:55:23.596861+00:00"
 }
