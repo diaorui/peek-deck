@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-28T21:46:21.444634+00:00'
+updated: '2026-08-29T03:32:36.976273+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 28, 2026 at 21:46 UTC  
+**Last Updated:** August 29, 2026 at 03:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,438.77
+### $2,443.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** +0.2%  
-**30d:** +26.5%  
-**90d:** +21.0%  
-**1y:** -44.3%  
+**24h:** -1.8%  
+**7d:** -1.0%  
+**30d:** +31.0%  
+**90d:** +21.7%  
+**1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.99B
+**Market Cap:** $294.51B
 Rank #2
 
-**Circulating Supply:** 120,681,206 ETH
+**Circulating Supply:** 120,681,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.9%
+-50.7%
 
 **All-Time Low:** $0.43
-+560525.3%
++563509.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 3d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
 
-6d ago
+7d ago
 
 ---
 
@@ -156,27 +156,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
+**[Tom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K](https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-ethereum-6k-021000271.html)**
+
+Fundstrat’s Tom Lee says Ethereum (CRYPTO: $ETH) remains “vastly undervalued” even after its rece...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://www.tradingview.com/news/coinpedia:26a229575094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
 
 Bitcoin has dropped to $77,901.87, down 3.1% over 24 hours, dragging Ethereum and XRP lower after Fed Chair Kevin Warsh delivered a hawkish message at the 2026 Jackson Hole Symposium, reviving expectations of a September rate hike.What Warsh SaidSpeaking live from Jackson Hole, Warsh described the…
 
-TradingView • 3h ago
-
----
-
-**[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
-
-Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
-
-Decrypt • 5h ago
-
----
-
-**[Ethereum Staking Rewards Steal Limelight From Bitcoin ETFs](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-rewards-steal-limelight-145657934.html)**
-
-In Bitcoin ETF news, Ethereum Staking products are drawing significant attention away from BTC, having become an important feature in crypto exchange-traded products that allow investors to seek blockchain rewards through a brokerage account rather than managing the process directly. 21Shares describes staking as locking up an amount of an ...
-
-Yahoo Finance • 1d ago
+TradingView • 9h ago
 
 ---
 
@@ -188,17 +180,17 @@ The Hacker News • 1d ago
 
 ---
 
-**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
+**[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
 
-CoinDesk • 1d ago
+Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
+
+Decrypt • 10h ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.74M Raised After Shiba Inu's Success And Ethereum Price Prediction Hits $25,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-74m-raised-after-shiba-inu-s-success-and-ethereum-price-prediction-hits-25-000-1036504097)**
+**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
 
-DUBAI, United Arab Emirates, Aug.  28, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has officially announced its presale crossed $10.74 million, fi...
-
-markets.businessinsider.com • 2h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -206,7 +198,7 @@ markets.businessinsider.com • 2h ago
 
 Paymasters and sponsors can keep native tokens out of sight, but Ethereum and Solana still require fees funded in ETH or SOL.
 
-CryptoSlate • 18h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -214,7 +206,7 @@ CryptoSlate • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 16h ago
 
 ---
 
@@ -222,15 +214,21 @@ Fortune • 5h ago
 
 Ethereum whale buys 5425 ETH at $2498 with 13.55M USDT on-chain. Price holds bullish EMA structure at $2504.72 with Bollinger resistance ahead.
 
-blockchain.news • 9h ago
+blockchain.news • 15h ago
 
 ---
 
-**[Forget AI Stocks: 3 Cryptocurrencies to Buy and Hold Instead](https://www.fool.com/investing/2026/08/27/forget-ai-stocks-3-cryptocurrencies-to-buy-and-hol/)**
+**[ETHB Emerges as a Favorite Among Ethereum ETFs](https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs)**
 
-If the hype around AI stocks fades, these three cryptocurrencies could be headed much higher.
+ETF.com • 2h ago
 
-The Motley Fool • 1d ago
+---
+
+**[New Crypto: Pepeto Presale Announces $10.85M As the Ethereum Price Prediction Calls $7,500](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-announces-10-85m-as-the-ethereum-price-prediction-calls-7-500-1036494746)**
+
+DUBAI, United Arab Emirates, Aug.  26, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has announced its presale just passed $10.65 mil...
+
+markets.businessinsider.com • 2d ago
 
 ---
 
@@ -244,7 +242,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 153 • 💬 21 • ⏱️ 15:34 • 5h ago
+👁️ 8K • 👍 200 • 💬 55 • ⏱️ 15:34 • 11h ago
+
+---
+
+**[BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5l9GDMf_d90)**
+
+BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 127 • 💬 135 • ⏱️ 16:59 • 1h ago
 
 ---
 
@@ -254,7 +262,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 443 • 💬 83 • ⏱️ 12:41 • 1d ago
+👁️ 27K • 👍 466 • 💬 85 • ⏱️ 12:41 • 1d ago
+
+---
+
+**[&quot;$150K BTC &amp; $6K ETH! What’s Coming Will Be Much Bigger Than You Think&quot; - Tom Lee](https://www.youtube.com/watch?v=uHrKUmjRnGU)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 81 • ⏱️ 17:22 • 9h ago
 
 ---
 
@@ -264,27 +282,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 75K • 👍 1K • 💬 444 • ⏱️ 38:19 • 1d ago
-
----
-
-**[What&#39;s Happening With Ethereum Right Now](https://www.youtube.com/watch?v=bxSbQMH8M-Y)**
-
-Why is Ethereum a few steps ahead of Bitcoin right now? ETH has broken out and put in a macro higher high, and as long as it ...
-
-📺 Crypto Archie
-
-👁️ 547 • 👍 29 • ⏱️ 0:45 • 7h ago
-
----
-
-**[Crypto Investors Await Clarity Act as Bitcoin, Ethereum Hold Rally](https://www.youtube.com/watch?v=hVRN2WeOc60)**
-
-Adam Lynch (@CharlesSchwab) offers his big picture take on the state of the crypto space following Bitcoin's recent rally. On the ...
-
-📺 Schwab Network
-
-👁️ 9K • 👍 67 • 💬 7 • ⏱️ 6:03 • 1d ago
+👁️ 82K • 👍 1K • 💬 427 • ⏱️ 38:19 • 1d ago
 
 ---
 
@@ -294,37 +292,27 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 778 • 💬 32 • ⏱️ 16:00 • 2d ago
+👁️ 33K • 👍 781 • 💬 33 • ⏱️ 16:00 • 2d ago
 
 ---
 
-**[BITCOIN SHORT SQUEEZE LOADING (Happening Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nBb7_B32Yj8)**
+**[What&#39;s Happening With Ethereum Right Now](https://www.youtube.com/watch?v=bxSbQMH8M-Y)**
 
-BITCOIN SHORT SQUEEZE LOADING (Happening Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Why is Ethereum a few steps ahead of Bitcoin right now? ETH has broken out and put in a macro higher high, and as long as it ...
 
-📺 Crypto World
+📺 Crypto Archie
 
-👁️ 14K • 👍 351 • 💬 423 • ⏱️ 22:06 • 22h ago
-
----
-
-**[🚨 Ethereum Short Squeeze Pumped Every Altcoin](https://www.youtube.com/watch?v=wiYO2aDYAcQ)**
-
-Nobody is talking about the real reason altcoins exploded. Ethereum's 10% spike quietly dragged every alt up with it, no trades ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 706 • 👍 14 • 💬 3 • ⏱️ 2:45 • 9h ago
+👁️ 871 • 👍 37 • ⏱️ 0:45 • 13h ago
 
 ---
 
-**[Matt Hougan &amp; Ryan Rasmussen: Ethereum &amp; Solana Will Both Explode (Institutional Mindset Explained)](https://www.youtube.com/watch?v=TdtKgBrx1RU)**
+**[Crypto Investors Await Clarity Act as Bitcoin, Ethereum Hold Rally](https://www.youtube.com/watch?v=hVRN2WeOc60)**
 
-Matt Hougan and Ryan Rasmussen go head to head in a rapid-fire over/under session on price targets for Bitcoin, Ethereum, ...
+Adam Lynch (@CharlesSchwab) offers his big picture take on the state of the crypto space following Bitcoin's recent rally. On the ...
 
-📺 The Rollup
+📺 Schwab Network
 
-👁️ 5K • 👍 61 • 💬 5 • ⏱️ 8:36 • 22h ago
+👁️ 10K • 👍 72 • 💬 9 • ⏱️ 6:03 • 1d ago
 
 ---
 
@@ -334,7 +322,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 14K • 👍 141 • 💬 3 • ⏱️ 53:13 • 1d ago
+👁️ 14K • 👍 146 • 💬 8 • ⏱️ 53:13 • 1d ago
+
+---
+
+**[🔥 The Ethereum Effect On Altcoins](https://www.youtube.com/watch?v=GbHnQ6QJcVw)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 113 • 💬 19 • ⏱️ 7:40 • 1d ago
 
 ---
 
