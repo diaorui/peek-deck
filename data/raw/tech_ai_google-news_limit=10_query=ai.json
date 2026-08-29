@@ -5,22 +5,32 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
+      "pub_date": 1788010109.0,
+      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR30gGHAUFVX3lxTE5zSjRrVktpSnZfc1JZc0NCdl9oZnRodnZTM3ZFRGdsQVlJVlhUakxRSEFqOVB0R1gzQ3NQd1dLTWZROUpobkpnXzg2cGhfYUZSX3hJcW5aSWNLWktqSXB2QWV6VnZiR0JPMzA5NWJLNnhyRHRBQ05sX3lWVUFrZmUyTmRCMkI4TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR3?oc=5",
       "pub_date": 1788004801.0,
       "article_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
       "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
     },
     {
-      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
-      "pub_date": 1788009141.0,
-      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+      "headline": "Minnesota State Fair visitors get their own AI-generated \u2018butter busts\u2019",
+      "source": "kare11.com",
+      "source_url": "https://www.kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXJmQWx5SU9WaDhyMUU4aVVYWTR3SVBORTFzb1FmclYwWjh1d2tPLVRZNElqdHJjRmJWcnJ3MHVwRkJST3F0S25hZG5hYkFDSjY4eVB5UzFRUU9DeThjVkxOT0Zyekx0SEZYWkdCcUliUTRfbk1xOE1yUVJpQ3g0SjZ0VDBWY3AwNVA1VzlwRmRCemlHdXphUmRWaVp4R0txckNVNU14TXAxeXVVTzAzektLQy1QVmpxNE81SExyQzZMMlluM1NmOVNpMHROelZLSmFIRw?oc=5",
+      "pub_date": 1788045120.0,
+      "article_url": "https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49",
       "image": null,
       "description": null
     },
@@ -55,16 +65,6 @@
       "description": "The contract will end by mid-November, months after SpaceX bought the coding tool's parent company for $60 billion."
     },
     {
-      "headline": "The Fed confronts a powerful new economic force",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "pub_date": 1788019200.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
-      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
-    },
-    {
       "headline": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -85,14 +85,14 @@
       "description": null
     },
     {
-      "headline": "What if the A.I. Stock Market Rally Is Just Getting Started?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5",
-      "pub_date": 1787922006.0,
-      "article_url": "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html",
-      "image": null,
-      "description": null
+      "headline": "The Fed confronts a powerful new economic force",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "pub_date": 1788019200.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
+      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
     },
     {
       "headline": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T21:53:10.737326+00:00"
+  "fetched_at": "2026-08-29T23:55:24.254715+00:00"
 }
