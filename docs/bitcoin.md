@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-29T03:32:36.970220+00:00'
+updated: '2026-08-29T10:52:08.152169+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 03:32 UTC  
+**Last Updated:** August 29, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,675.44
+### $77,632.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -0.1%  
-**30d:** +23.5%  
+**24h:** -2.4%  
+**7d:** -0.0%  
+**30d:** +23.6%  
 **90d:** +8.8%  
-**1y:** -28.5%  
+**1y:** -28.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1559.54B
+**Market Cap:** $1560.37B
 Rank #1
 
-**Circulating Supply:** 20,076,553 BTC
+**Circulating Supply:** 20,076,675 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -38.4%
 
 **All-Time Low:** $67.81
-+114448.0%
++114514.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 73
+### 68
 **GREED**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[The only right way to play Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vzo1pv/the_only_right_way_to_play_bitcoin/)**
 
-1d ago
+2d ago
 
 ---
 
 **[this is why Bitcoin was created](https://www.reddit.com/r/Bitcoin/comments/1vzl0jd/this_is_why_bitcoin_was_created/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 https://x.com/BitcoinMagazine/status/2092846329424925077
 
-1d ago
+2d ago
 
 ---
 
 **[Buy house buy more bitcoin now!](https://www.reddit.com/r/Bitcoin/comments/1vzqi7d/buy_house_buy_more_bitcoin_now/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -107,7 +107,7 @@ https://x.com/BitcoinMagazine/status/2092846329424925077
 
 This is my first bitcoin wallet aka my laptop that I bought in 2011 with my own money, the one that made me start into bitcoin and helped me get my first btc. It has seen good and bad days but even after 15 years it's running perfectly. No matter what it's hard to replace this with any hardware wallet out there. It served me well and did so much for me and my family. ❤️
 
-1d ago
+2d ago
 
 ---
 
@@ -153,53 +153,47 @@ Don't know if anyone can help me but I've had an issue now with blockchain app f
 
 ## Google News: "bitcoin"
 
-**[Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1)**
+**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
 
-Crypto hoarders have been selling tokens and reverting to former activities
-
-Financial Times • 1d ago
+Bloomberg.com • 14h ago
 
 ---
 
 **[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
-KFOR • 5h ago
+KFOR • 12h ago
 
 ---
 
-**[Middlesex sheriff warns of bitcoin scam after Medford resident loses $7,500](https://www.bostonglobe.com/2026/08/28/metro/koutoujian-middlesex-sheriffs-department-scam/)**
+**[Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-hype-charles-schwabs-103525320.html)**
 
-The scammer said they were from the sheriff's department, and claimed to have an arrest warrant for the victim, officials said.
+Any kind of fiscal intervention was going to be positive for crypto, according to Schwab’s Adam Lynch.
 
-The Boston Globe • 50m ago
-
----
-
-**[Tom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K](https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-ethereum-6k-021000271.html)**
-
-Fundstrat’s Tom Lee says Ethereum (CRYPTO: $ETH) remains “vastly undervalued” even after its rece...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 16m ago
 
 ---
 
-**[Debasement trade to take bitcoin to $300,000 in three years, Bernstein says](https://www.cnbc.com/2026/08/26/debasement-trade-to-take-bitcoin-to-300000-in-2029-bernstein-says-.html)**
+**[Bitcoin ETF inflows, crypto narratives begin to brighten amid win streak](https://finance.yahoo.com/video/bitcoin-etf-inflows-crypto-narratives-173000102.html)**
 
-Bitcoin could soar as the debasement trade comes into focus again, according to Bernstein. That could also boost shares of Strategy.
+Scott Melker discusses bitcoin (BTC-USD) steadying above $79,000 — also crossing back above $80,000 per token on Thursday — as bitcoin ETF inflows extend gains for the eighth straight day and narratives around the cryptocurrency begin to brighten.
 
-CNBC • 2d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Why Bitcoin Surged to USD 80,000, and What May Come Next](https://global.morningstar.com/en-ca/markets/why-bitcoin-surged-usd-80000-what-may-come-next)**
 
-Morningstar • 1d ago
+Morningstar • 2d ago
 
 ---
 
-**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
+**[Live updates: Bitcoin trades near $80,000 as stocks close with gains](https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion)**
 
-Bloomberg.com • 6h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -211,17 +205,25 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Bitcoin Is Back. Buy at Your Own Risk.](https://www.barrons.com/articles/bitcoin-price-buy-risk-crypto-717b94e0)**
+**[Man Manages To Access Bitcoin Wallet After 12 Years, Becomes An Instant Millionaire Overnight](https://www.iflscience.com/man-manages-to-access-bitcoin-wallet-after-12-years-becomes-an-instant-millionaire-overnight-84489)**
 
-Barron's • 23h ago
+IFLScience • 1d ago
 
 ---
 
-**[Bitcoin is having a great month—but Solana is doing even better as coin soars above $100](https://fortune.com/2026/08/27/bitcoin-great-month-solana-soars-above-100/)**
+**[Debasement trade to take bitcoin to $300,000 in three years, Bernstein says](https://www.cnbc.com/2026/08/26/debasement-trade-to-take-bitcoin-to-300000-in-2029-bernstein-says-.html)**
 
-Investors have found fresh reasons to buy Solana beyond Bitcoin’s comeback.
+Bitcoin could soar as the debasement trade comes into focus again, according to Bernstein. That could also boost shares of Strategy.
 
-Fortune • 1d ago
+CNBC • 2d ago
+
+---
+
+**[Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1)**
+
+Crypto hoarders have been selling tokens and reverting to former activities
+
+Financial Times • 2d ago
 
 ---
 
@@ -249,7 +251,7 @@ A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
 Finally, a killer use case
 
-⬆️ 4 • 💬 0 • 10h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+⬆️ 4 • 💬 0 • 17h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
 
 ---
 
@@ -257,7 +259,7 @@ Finally, a killer use case
 
 The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done.
 
-⬆️ 4 • 💬 0 • 15h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
+⬆️ 4 • 💬 0 • 22h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
 
 ---
 
@@ -281,7 +283,7 @@ Finally, a killer use case
 
 Could old coins that have not moved for years help pay Bitcoin miners without creating new coins?
 
-⬆️ 2 • 💬 0 • 12h ago • [organicbitcoin.org](https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html)
+⬆️ 2 • 💬 0 • 19h ago • [organicbitcoin.org](https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html)
 
 ---
 
@@ -305,7 +307,7 @@ Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 1 • 5d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 1 • 6d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
 
 ---
 
@@ -319,7 +321,37 @@ Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today,
 
 📺 CoinDesk
 
-👁️ 6K • 👍 44 • 💬 9 • ⏱️ 1:45 • 11h ago
+👁️ 8K • 👍 56 • 💬 9 • ⏱️ 1:45 • 18h ago
+
+---
+
+**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
+
+CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
+
+📺 The Iced Coffee Hour
+
+👁️ 19K • 👍 206 • 💬 11 • ⏱️ 0:24 • 15h ago
+
+---
+
+**[Gold Dumps, Bitcoin Cracks As Rate Hike Odds Flip - Trades And Analysis](https://www.youtube.com/watch?v=_0ngHNrJO6c)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 140K • 👍 5K • 💬 350 • ⏱️ 13:50 • 17h ago
+
+---
+
+**[Warsh&#39;s &quot;Hawkish&quot; Jackson Hole Speech &amp; Impacts on Bitcoin&#39;s Bull Run](https://www.youtube.com/watch?v=88ivoS276TE)**
+
+Cooper Howard from @CharlesSchwab says he's surprised with how hawkish Fed Chair Kevin Warsh came off during his speech ...
+
+📺 Schwab Network
+
+👁️ 17K • 👍 128 • 💬 11 • ⏱️ 7:53 • 18h ago
 
 ---
 
@@ -329,7 +361,7 @@ Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then
 
 📺 Rob Wallace | Bitcoin News
 
-👁️ 12K • 👍 91 • 💬 13 • ⏱️ 14:16 • 1d ago
+👁️ 13K • 👍 92 • 💬 12 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -337,17 +369,7 @@ Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 178 • 💬 4 • ⏱️ 2:18 • 2h ago
-
----
-
-**[Bitcoin… Just Imagine…](https://www.youtube.com/watch?v=jLXFmT44PMw)**
-
-Bitcoin, Robinhood Chain, BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the ...
-
-📺 Lark Davis
-
-👁️ 43K • 👍 878 • 💬 99 • ⏱️ 24:34 • 15h ago
+👁️ 7K • 👍 306 • 💬 25 • ⏱️ 2:18 • 9h ago
 
 ---
 
@@ -357,17 +379,7 @@ Bitcoin just broke a major 5-year trend against gold as institutional capital, f
 
 📺 Simply Bitcoin
 
-👁️ 71K • 👍 2K • 💬 286 • ⏱️ 18:21 • 1d ago
-
----
-
-**[Fed Warsh Speech Shakes Markets, Gold, Silver, Bitcoin, Yields...Here Comes The Earthquake!](https://www.youtube.com/watch?v=dWbVXjDj-rA)**
-
-20% off Smart Money Crypto with discount code SMC20. New Members Only. Offer ends 8/30/26 at 11:59 PM ET: Crypto Signals ...
-
-📺 Verified Investing
-
-👁️ 106K • 👍 4K • 💬 96 • ⏱️ 15:22 • 14h ago
+👁️ 73K • 👍 2K • 💬 288 • ⏱️ 18:21 • 1d ago
 
 ---
 
@@ -377,37 +389,27 @@ Bitcoin #Crypto #finance Bitcoin is back near $80K as markets brace for Kevin Wa
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 509 • 💬 215 • ⏱️ 1:00:18 • 13h ago
+👁️ 24K • 👍 520 • 💬 220 • ⏱️ 1:00:18 • 20h ago
 
 ---
 
-**[Bitcoin and the 50 Week Moving Average](https://www.youtube.com/watch?v=X2ztVVyfgQU)**
+**[Bitcoin Rejection Confirmed? Live Trading &amp; TA](https://www.youtube.com/watch?v=4aYDvqGFd4o)**
 
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
+Zen Master JP Washes his Face & His Feet after a Narrative Changing BTC Rejection. Live Trading BTC, Alts, XAU Gold, Silver, ...
 
-📺 Benjamin Cowen
+📺 Sin City Crypto
 
-👁️ 194K • 👍 7K • 💬 370 • ⏱️ 12:41 • 1d ago
-
----
-
-**[$1 Million Bitcoin Coming Faster - CZ Just Shortened The Timeline](https://www.youtube.com/watch?v=4S6UylP9MMQ)**
-
-Get 2 Tangem Wallets: 2nd 50% OFF + EXTRA 10% OFF (Ends Aug. 30): https://tangem.com/invite/ALERTS Former Binance CEO ...
-
-📺 Bitcoin News Alerts
-
-👁️ 9K • 👍 389 • 💬 99 • ⏱️ 14:46 • 1d ago
+👁️ 15K • 👍 308 • ⏱️ 3:12:35 • 10h ago
 
 ---
 
-**[Bitcoin TESTS Major Moving Average: What Happens Next?](https://www.youtube.com/watch?v=zAppBMD7VzE)**
+**[Coinbase just turned your Bitcoin into a down payment](https://www.youtube.com/watch?v=4u9vwlLPY2o)**
 
-SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
+Coinbase just opened a mortgage where your Bitcoin collateralizes the down payment, so you never sell it and never trigger a ...
 
-📺 Verified Investing
+📺 Yahoo Finance
 
-👁️ 22K • 👍 677 • 💬 80 • ⏱️ 17:33 • 1d ago
+👁️ 39K • 👍 550 • 💬 138 • ⏱️ 14:53 • 1d ago
 
 ---
 
