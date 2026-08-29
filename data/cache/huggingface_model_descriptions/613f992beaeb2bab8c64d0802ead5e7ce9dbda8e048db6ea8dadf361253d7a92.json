@@ -1,5 +1,0 @@
-{
-  "cached_at": "2026-07-30T15:31:19.111842+00:00",
-  "data": "Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.",
-  "model_id": "unsloth/Kimi-K3-GGUF"
-}

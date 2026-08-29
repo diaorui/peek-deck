@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Arthur Hayes Names Ethereum His \u2018No. 1 Crypto Pick\u2019, Sees ETH Surging 3X To 5X \u2018Pretty Quickly\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXAtRHR3R3lMb0VZRlZMX21CRWoxMzBiU19yYmg2cnJ1V0JWWnVwU1RpZHl0NVJRTklqaEJPYWxBV0dkc2dHdlZ6S0dZTkVsZ0JkT3VCVkROZ0lTQXVydEhwT3pIVVJNRUVCbVF4LUZscGFQUUhadjFwbEQ4M0l1ZG02Ukd5ekpYeWhPOW1RWHRfcV9xY0FpU2RKTQ?oc=5",
-      "pub_date": 1788013412.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-names-ethereum-no-142332673.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bb61cc3d39a12a99ef9120999caf913a6b704cb59b510f682660db24cf582a56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc34d7abda539def2a466c40f5e27e886",
-      "description": "Arthur Hayes added that Bitcoin could also reach $1 million over the next four years, citing the potential for massive money printing and U.S. yield-curve control."
+      "headline": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGVzQXZjaHdUUzZUVnNlWUo3OXQ4MlJra1owcUZmTVhVZWh0WUpGR2JMMTlTZUFpblZUN3czcUpOQmFnME5FZDhjNXFtOW5SZjk1cEVqR0tQRlJ2Tk5hOTRoYW13QUZiT0xSOEdGclU1MExFMGJzLXBqaFF3dzhqRUpR0gGKAUFVX3lxTE5KcUtVZ1dTZWh5UFU5ZDRYZ3VJekpKOU5SN0czc0VqTFQ0dlFhZ2s3R0ZwXzNQUnBIdDJQRjhLT2h4M2F2WmstMEcxYklSdDZ6dXNLZ0RXcGlrSHhCSnp6NXFHY2p5Ri1GRFJjY1dQMUdrRmVYZmN3RV9SckhvVHVUeEJoM2pmTEhfdw?oc=5",
+      "pub_date": 1787774163.0,
+      "article_url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-01-gID_7.png",
+      "description": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin"
     },
     {
       "headline": "Bitmine's Tom Lee Sees $6,000 Ethereum By Year-End If Bitcoin Hits $150,000",
@@ -25,24 +25,14 @@
       "description": "Ethereum (ETH) could trade near $6,000 by the end of 2026, with the prediction tied to a recovery in the asset\u2019s exchange rate against Bitcoin (BTC), said Tom Lee, co-founder of Fundstrat and chairman of Bitmine Immersion Technologies (BMNR).The Ethereum-to-Bitcoin ratio was hovering around 0.03 an\u2026"
     },
     {
-      "headline": "Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTFNYk1FWFVIVmZ2bWtSaFVxcUlLekI3ZFdZN05zSk9UMjJ0NlRKRjZzRUdhZFRPbHBNc3hiTXhRSkRnczljNEFmcjhFeVVzcWFVME9ubHNZOHJWOHNHMGpRMUlpQm5abWFqUkhzOGY1OGhaRjhWd2dObG1pNnJqNWxnX0tiZVJjMU9sbFM3S29MVGFELTBmbw?oc=5",
-      "pub_date": 1788008449.0,
-      "article_url": "https://www.fool.com/investing/2026/08/29/tom-lees-bitmine-continues-to-buy-ethereum-hand-ov/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884284%2Fcryptocurrency-coins-ethereum-blockchain.jpg&w=1200&op=resize",
-      "description": "Tom Lee's bet on Ethereum keeps getting bigger."
-    },
-    {
-      "headline": "Tom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto\u2019s \u2018AI Downstream\u2019 Story",
+      "headline": "Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWdadHVZcHVxNW5EVXBJVklnTGdteDZvSnNiWXlGMDhpQUVkM0VTYW5ERkhIVHpaZllWVEFQYW9FSkdZNjU5ejF5UEZmc24zelgwQ1JiU0Q4d0dmdGdRTEZ0V09jNDRnUjdZajdySUVIOUt1TnFnNEpXY3I0dGF0WjdVUTEyamZJTnlPdERXUGp0UHA0dklabEJQSQ?oc=5",
-      "pub_date": 1787749896.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-led-bitmine-reportedly-131136816.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ca87eeba4689741f6e62ee9e34f05084f68a7ea716c0b738f58d0bad5ca92b43/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F21437febb3c55c34e8f46eaecc451651",
-      "description": "Bitcoin dominance remains above 60%, which a crypto commentator says leaves a broader altcoin rotation unconfirmed."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdldDRHFTd3luSEcwd0ZDVko4Zm9yVkoxNjRvOXJKOGZTMGw3YXdzQjdYZ0xZWVFxR01tcnVta3ZsQmhtME42Tm5XUzBBeUkzTnBpSVBEVldYeTBxMUllTTRiYkhTTV9vQ01GaFRBeU5sSnB1MFFOQU9lS3FxX1RrTDRBM08zTDhtNWlWZVZudVJJeU9aeVJYQ212VTZCZw?oc=5",
+      "pub_date": 1788021039.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-crypto-best-163039694.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b0aa2fd02424b3379c23d9cd5e8d56936f5ad797b0bcc821cf4eada1bdef3e1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F45f8ceb947496b9b6a94aa4d280b230e.jpg",
+      "description": "Bitcoin, Ethereum, and XRP have each staged a sharp two-week comeback after months of losses, but the catalysts driving each coin point in very different directions for the year ahead."
     },
     {
       "headline": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
@@ -55,34 +45,14 @@
       "description": "GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization"
     },
     {
-      "headline": "Ethereum Weekly Price Forecast: Profit-taking slows rally as network activity lags",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakp2VXNLZHBhWjZhVGMtbmlxSk1vVy14b2E0N2FuMUd6R1h0ZVVvSjJHbnd5RlZkbm96WEpaNzNwTExjN1dlMmR1S0JrcVVDa1dmdWtaaEZQd3JsX0x4UmdOWUExX2RjMmFnYWpMeUJqcldJQ2lGeE1UZkdKeFlEVFQyREJNclh3QWJVY1g2RmE2QlZBVjZVcGN5RDc3ckwyQ0xSV1dYYTZWdHpDTDZPYWl2TVhib255bzdqVVN3dWNiQ0lveTQ1V09RS1pZYlVpZ3ZNWkZoSDQ?oc=5",
-      "pub_date": 1787975123.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-profit-taking-slows-rally-as-network-activity-lags-202608290345",
-      "image": "https://editorial.fxsstatic.com/images/i/ETH-neutral-line-1_Medium.png",
-      "description": "Ethereum (ETH) has held firmly above $2,400 and traded near $2,500 this week after a sharp rally last week. However, upward momentum has slowed as investors appear to be taking profits after ETH moved above its average on-chain cost basis."
-    },
-    {
-      "headline": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFBRaWNTbFZSaU9RX1BpZEgyNTlhd0ZjYU9OcGtiQWgyM09LYmZ6dDNyVXZTQTZsSUNESU1Hc213N1dSQzJEdHpyc3A3akdRS1g0akxJQ3dqbnRER1doZ3dRdVlRTWxDckxfSWEtcmwyMU41UGN2ZnlBSm9Xalp4ZE5Od2I4Z9IBjgFBVV95cUxQcEZrU1dTREJ1d2huc3YzaFZMSlloQnhqbXBLdUVHUG1ONFRsdU1NN0o4Zy0tdVZyZ25fTGpJUU9vZ09xVzc1Q2NNNkN4TjlxczVYQl85SlpDQ1lVZFJVWTNFbTN3ajNtRnYyeEYzamt1QS1BR0VROVFzT3hjV1ltVU1sRzhMY0pscGs4RUp3?oc=5",
-      "pub_date": 1787935142.0,
-      "article_url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-charles-schwab-gID_7.png",
-      "description": "Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink."
-    },
-    {
       "headline": "Crypto News Today: AlphaPepe Nears Fourth CEX Reveal as the Ethereum Price Prediction Targets $12,000",
-      "source": "The Malone Telegram",
-      "source_url": "https://www.mymalonetelegram.com",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNLWFSTlREQTlCbmdGT0I0TVNua2pmcFctUW05NC1aTnh1aU85Mk04VUN5aEd2N0RwUjBTeHpoYWREbHhTQ3NxLXR1UFFPUmxhcmY2TzE2TEVTdTNOdGFMcXdPRGRtb3B3TmprQ3B4Tk03ZnAxM0Y5QWVWMzJoRFp1Q0liRTcxTHBHQ3JNWXRmRE1uMEU0a1pjQmF3ZUN2Tmx6SGxRWGNIWEVoTl94TFB0N2s5RkIzVm9NTEdBZ3dtcWdNM3EwcWF2dXd6UWF3LXVRQ2dIYUp6UlJYaGpVa1UwZUdELTJFTEpleUVyUXpoQlhFeEhWMWpTbmdPbks5UDBDMW9UMzdhV2kwa3o5TU9PV0I3bWhUajlqeXRZV1lpekNHN1lTYjRmRHhfQU9RS0ZUVUFJ?oc=5",
-      "pub_date": 1787997699.0,
-      "article_url": "https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-today-alphapepe-nears-fourth-cex-reveal-as-the-ethereum-price-prediction-targets-12/article_28159892-0df7-59f9-bdf6-b248b660227d.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/mymalonetelegram.com/content/tncms/assets/v3/editorial/9/f6/9f6a4421-82fe-5873-9381-aea462a27a0a/6a92b24c22a08.image.jpg?crop=1280%2C672%2C0%2C94&resize=1200%2C630&order=crop%2Cresize",
-      "description": "MONACO, Aug. 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to"
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNTJLMW53SXFIOERJbUplT25STnNZMjJKYVhXaGpYaUlBUWNpUUg0c3N0dHFIbThlSlJyQTMxZEpqcEcwYjhmQXpCbzBtX3JSWUJOczBDVUpnSE5mdEYxV3dJQlBvQTFHbmt0NzJLOFpvd2VBQ043ZXVrQmlwVDJKcTFpalF4bUE4eEp4SjlvdWp1Q2lVLW9PUmpkZy1CNGNhaHl6TmpPUExVRndERVp0UTZwa2x0a2hQRzFkVjJxamRsUEd0amlwZ0pDc3g2VVFpd1lDbUJ5ZnZwT095aXBReTJJSERBM19vSVhJSGN1aw?oc=5",
+      "pub_date": 1788001787.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-fourth-cex-reveal-as-the-ethereum-price-prediction-targets-12-000-1036504654",
+      "image": "https://ml.globenewswire.com/Resource/Download/7c172a45-e1a1-4057-8c2f-863c38152cf3/alphapepe-crypto.jpg",
+      "description": "MONACO, Aug.  29, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to its 4th CEX reveal on Aug..."
     },
     {
       "headline": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
@@ -95,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTFNYk1FWFVIVmZ2bWtSaFVxcUlLekI3ZFdZN05zSk9UMjJ0NlRKRjZzRUdhZFRPbHBNc3hiTXhRSkRnczljNEFmcjhFeVVzcWFVME9ubHNZOHJWOHNHMGpRMUlpQm5abWFqUkhzOGY1OGhaRjhWd2dObG1pNnJqNWxnX0tiZVJjMU9sbFM3S29MVGFELTBmbw?oc=5",
+      "pub_date": 1788010440.0,
+      "article_url": "https://www.fool.com/investing/2026/08/29/tom-lees-bitmine-continues-to-buy-ethereum-hand-ov/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884284%2Fcryptocurrency-coins-ethereum-blockchain.jpg&w=1200&op=resize",
+      "description": "Tom Lee's bet on Ethereum keeps getting bigger."
+    },
+    {
       "headline": "Will Bitcoin, Ethereum and XRP Prices Pump or Dump After Kevin Warsh\u2019s Jackson Hole Speech?",
       "source": "Coinpedia",
       "source_url": "https://coinpedia.org",
@@ -103,8 +83,28 @@
       "article_url": "https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-pump-or-dump-after-kevin-warshs-jackson-hole-speech/",
       "image": "https://image.coinpedia.org/wp-content/uploads/2026/08/28190609/Will-Bitcoin-Ethereum-and-XRP-Prices-Pump-or-Dump-After-Kevin-Warshs-Jackson-Hole-Speech.jpg",
       "description": "Bitcoin is trading at $79,619.04, Ethereum at $2,504.89 and XRP at $1.42 as markets await Federal Reserve Chair Kevin Warsh's debut Jackson Hole address,"
+    },
+    {
+      "headline": "Ethereum Weekly Price Forecast: Profit-taking slows rally as network activity lags",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakp2VXNLZHBhWjZhVGMtbmlxSk1vVy14b2E0N2FuMUd6R1h0ZVVvSjJHbnd5RlZkbm96WEpaNzNwTExjN1dlMmR1S0JrcVVDa1dmdWtaaEZQd3JsX0x4UmdOWUExX2RjMmFnYWpMeUJqcldJQ2lGeE1UZkdKeFlEVFQyREJNclh3QWJVY1g2RmE2QlZBVjZVcGN5RDc3ckwyQ0xSV1dYYTZWdHpDTDZPYWl2TVhib255bzdqVVN3dWNiQ0lveTQ1V09RS1pZYlVpZ3ZNWkZoSDQ?oc=5",
+      "pub_date": 1787975123.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-profit-taking-slows-rally-as-network-activity-lags-202608290345",
+      "image": "https://editorial.fxsstatic.com/images/i/ETH-neutral-line-1_Medium.png",
+      "description": "Ethereum (ETH) has held firmly above $2,400 and traded near $2,500 this week after a sharp rally last week. However, upward momentum has slowed as investors appear to be taking profits after ETH moved above its average on-chain cost basis."
+    },
+    {
+      "headline": "ETHB Emerges as a Favorite Among Ethereum ETFs",
+      "source": "ETF.com",
+      "source_url": "https://www.etf.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUxZUjVmYi1zOFB0LWFMd2NVU2EzZ0g2QkZXQnZJaE5jZFBWcHM4NjY3Q2lNbFZ5djdnaERaZHA3eUZQWTFFTVFrMm51YlZwQk1tU2d0dUgwWkVfYmx4OHdSeWI4eE1rYWx3VXVrei1hUGoxb0VjSUppaU1JUXFrQ3dVV1NjZw?oc=5",
+      "pub_date": 1787964605.0,
+      "article_url": "https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T15:31:10.592951+00:00"
+  "fetched_at": "2026-08-29T19:14:45.474682+00:00"
 }

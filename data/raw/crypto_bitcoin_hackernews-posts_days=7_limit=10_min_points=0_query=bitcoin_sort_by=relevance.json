@@ -19,6 +19,20 @@
       "site_name": "Decrypt"
     },
     {
+      "title": "Bitcoin is great (for systemic theft of aid money)",
+      "url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
+      "hn_url": "https://news.ycombinator.com/item?id=49481598",
+      "author": "JumpCrisscross",
+      "points": 5,
+      "num_comments": 0,
+      "created_at": "2026-08-28T17:11:44Z",
+      "object_id": "49481598",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Finally, a killer use case",
+      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
+      "site_name": "ft.com"
+    },
+    {
       "title": "Bitcoin's $80k Test: A Renewed Rally Puts Prediction Markets on Alert",
       "url": "https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6",
       "hn_url": "https://news.ycombinator.com/item?id=49443597",
@@ -31,20 +45,6 @@
       "description": "A Sharp Rebound Brings Bitcoin Back Into the Spotlight",
       "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
       "site_name": "predx-article"
-    },
-    {
-      "title": "Bitcoin is great (for systemic theft of aid money)",
-      "url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
-      "hn_url": "https://news.ycombinator.com/item?id=49481598",
-      "author": "JumpCrisscross",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-08-28T17:11:44Z",
-      "object_id": "49481598",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Finally, a killer use case",
-      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
-      "site_name": "ft.com"
     },
     {
       "title": "Bitcoin's First Quantum-Safe Transaction Just Happened",
@@ -145,7 +145,7 @@
       "site_name": "youtube.com"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-08-29T15:30:43.740683+00:00"
+  "fetched_at": "2026-08-29T19:14:24.243243+00:00"
 }

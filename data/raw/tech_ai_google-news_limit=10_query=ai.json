@@ -5,26 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The Fed confronts a powerful new economic force",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "pub_date": 1788015770.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
-      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
-    },
-    {
-      "headline": "Sharp rise in incidents of AI escaping users\u2019 control, research finds",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlZjd2VXMXVsVlBhRkw3R0ctSzFZeFFyVl9PdDY1X3dmc3o3bHpRZG9QNVF1alk5a2hlOE9OX1BnaFVVdU9IdE5xUzVYeVFwVFlPNTlrYW50bmYwbGY1NlJSREFaRWFPaFZWaF9MamNqUTdyc2R4cDV1eVdHazUyZFJUTHhidExWZTJiYXJVczIwMEYyemR3eE1OOXV0ZHlaQ192a19yQmZRd1lSa202MHFHejZ1TkhFUXc?oc=5",
-      "pub_date": 1787983260.0,
-      "article_url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-      "image": "https://i.guim.co.uk/img/media/a448bcacf4651f894ef4c7e7c84d916302502513/0_0_4757_3804/master/4757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34829469bcdd124f4f221b23706c7c4d",
-      "description": "Exclusive: Number of times AI lies, ignores instructions and pursues goals in harmful ways almost doubles in July"
-    },
-    {
       "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -33,6 +13,46 @@
       "article_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
       "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
+    },
+    {
+      "headline": "The Fed confronts a powerful new economic force",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "pub_date": 1788019200.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
+      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
+    },
+    {
+      "headline": "The Leadership Advantage AI Can\u2019t Automate: Learning to Trust Your Inner Signals",
+      "source": "inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkhvbWhVWlRSdDVxSDJaVUNIODNfeFI2U2YwSVE1czdzWWZ0eHJOVl9hQlh2SWFaU3BnSTRvcDVWUHVUamtwbjQ5MjNoMFMyM3FrcjdxZnBnQ3E2cUJTWXVrR0E2Y3VFU2UwcDY3U2VVdzhvR21ySlNLdzUwZV85LXRERnpNX2hlSkgtU1VxZ2NEc01XZTlWa1VpV0E1NFphV3dDNXNPV0tWTGVleUhuMHZDSnNma3RfTUoxQ0h3Zjc?oc=5",
+      "pub_date": 1788030284.0,
+      "article_url": "https://www.inc.com/moshe-engelberg/the-leadership-advantage-ai-cant-automate-learning-to-trust-your-inner-signals/91396909",
+      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/inner-voice-ai-inc-573566803.jpg",
+      "description": "As AI accelerates execution, leaders who develop internal sensing can strengthen the intuition, empathy, and judgment tech can\u2019t replace."
+    },
+    {
+      "headline": "Sanctuary AI Built A Robot Body. Now It\u2019s Also Selling A Robot Brain",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0owUEVqdzdRTXJkQTFlcUxReDdKZlhONVc5dWFQR095OXVGbG9qVkZBWVJQOS1rWV9SRXJXSkF5R2ZWZzZsYjY2RnR6dzc2ZW4zYnFPekNBT3N3SzJydnFBZzVBZUxJZjEwcWoycWtWMnkxVGV1QTc3ZjUxeDVXbElXOGJJaDRtcTNvekh3M1o4aTlfYkdVd0ZFZ3hSNU9nRGxOVzgxT0FuaW14eTl6ZzlmLUhFQmh0YnJhag?oc=5",
+      "pub_date": 1788027119.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/08/29/sanctuary-ai-built-a-robot-body-now-its-also-selling-a-robot-brain/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a931e1b17fb15fa68ab09d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Body or brain? When you're building a humanoid robot, you have to build both. But sometimes, as Sanctuary AI found out, you don't have to ship both at the same time."
+    },
+    {
+      "headline": "AI could become conscious. What if it wants us dead?",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEpDMnZQejJvTGY3ZTJJWVVhQ19DSTJibHl2ZVJWam1uazdrS2p3VzRFZGQ5VVhaMzFsdTJsU1F6TmpuS3BlZ2RtZGxiWHZ1ZE41akVScTNOWEhxaUEyUmFnak9Zbm5yaGFSMGg2VHBoazFNYVZzS2Nza3ZXbUNYZkd2WVJVLWfSAYwBQVVfeXFMUFdsSFBzRFBCUHprOFBnalBKM3VjOUxPY1FvLU1vYl9uQURVN0prRVV5WmYxeWs2SHJCMms4VE9PUk5ZVEJkcjhCWTd3bS1LQ3JNWFFCRGNfazZBbVppcmR2aUUzN3FZLWdhaVZfU2xRX2dXSnlxTUtCN1hvdmNPTW5mZnM1UWt2bkJDcFA?oc=5",
+      "pub_date": 1788026400.0,
+      "article_url": "https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Our decision on Cursor following its acquisition by SpaceX",
@@ -55,26 +75,6 @@
       "description": null
     },
     {
-      "headline": "China is secretly fueling America's data center rage",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?oc=5",
-      "pub_date": 1787942251.0,
-      "article_url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Appeals court delivers unsettling ruling \u2014 and says Supreme Court left it no choice",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE4zVC1vWTNoWklRdmxUVGxTTUhnaHdGRElTV1QtbmRGY041T2MwRVFLUDh1UUt2U3F5S1N4UWRCZEpyU1lVRi00SmJRRW1JdFd1LUozMy16TXdLRVNSOFhWaTV5bjQyQnA0QTRNdl9PMllXeGtFdGMyeWNWT1lESGF0NkYxVjlDTXYwWFk3cTg4NDJlLWczY0JTMnJ4TWV6QVZPNtIBqgFBVV95cUxPRGJnS1FBQ2JlQlZrYUE5N3BMbWN3TjM3bFRHeDhtXzZkWDZDNHJmdEVkYnhNUVZnVUxRMlU2N0p6M2R1TW40NkpCdThzWVlpTXhpb1p0UUItOExHZlpjeWVPSmIydC1MNE10SV9OQkEyTkI4VnR2TjJqYlhwZ3JLaGd0dzJPNlJ5eUJLOVVac2M4QmI2WkdKbzZzM1hBQlBmRHF4QWlMRkVDQQ?oc=5",
-      "pub_date": 1787997645.0,
-      "article_url": "https://www.foxnews.com/politics/appeals-court-delivers-unsettling-ruling-supreme-court-left-no-choice",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/supreme-court-thomas_madr.jpg",
-      "description": "A federal appeals court says Supreme Court precedent forced it to protect possession of AI-generated child sexual abuse material, raising urgent questions."
-    },
-    {
       "headline": "An AI Oracle\u2019s Rise and Fall",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "Paul Claude Gigot: Why I Am Right About AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUFrQWNKdVVFWi1fTWpCQ3A2RlBzWXNMMEJWZEd2UmxsUnQ0cTdleWNHVEQwV3dfV2dmbDNIdkR4YTU1WFB1OFVTdUM4ZmZDWDFQei00eG9aQlhEamV3bHlqNTMyc0s2RDY4ZXlwaWFNVl8tc0d2bjdMRFc1SHpJNzV6WUVOZkRMNU9sWkVHMmZodzFHQkcxeUFTZGM?oc=5",
-      "pub_date": 1787865088.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
-      "image": "https://cdn.theatlantic.com/thumbor/ZIZxaEjS7Ng0nUlP2__2fqelK6c=/0x28:1400x757/1200x625/media/img/mt/2026/08/2026_08_27_note_mpg/original.gif",
-      "description": "Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union."
+      "headline": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDhMNzBsZk51ZlZwRi1JeEhHNGpKYW9COHhiNER5Z3VHZXAwU3VNNUVqampaNFhISDNraDNGbVpoa0JFTWNlUlJ4ZEhzNTBWeGh1em50b2M5b2ZCWEg1OXF3eW1RdXM5bE5MNjlWdzBoWndVMGNJejVQOTdVOFV5QnY2c2hTbUlPRWd0TURYRm0tUDgwSGhhOGdYSER3c2hJeDRLNnZxRG1vVUFFR3JBQjQwenR1c3ZKV2VsTHNvcDd2X3ZpbmFscFFVZ1JRNVhyVTFSZXV3?oc=5",
+      "pub_date": 1788004278.0,
+      "article_url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f92b3f2961d68d363cb18fabc8e598814562522db39c86b58ff2530b440d03a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb8bb6f8f-ae12-4629-b72f-c34888b3d02c",
+      "description": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard."
     },
     {
-      "headline": "3 new ways to plan and book travel in Search",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2R2VDlFTzNETmpKV29RTFBkajAyVHZpQ292QVQ3eldjbFdPSGdLQ2dvUjc3NHRSME1IWHRUNVZnWUZhR3ZaUm5xaHM1VDZBU042SzlfUDE1R0N3SGdPOUx1YjRVSUc3cWlwazZuZmItQXllREZ5Zzk2b1FsLU5FQ3JHeDUxUQ?oc=5",
-      "pub_date": 1787847478.0,
-      "article_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.width-1300.png",
-      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
+      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
+      "pub_date": 1788009212.0,
+      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T15:31:01.977957+00:00"
+  "fetched_at": "2026-08-29T19:14:52.895028+00:00"
 }
