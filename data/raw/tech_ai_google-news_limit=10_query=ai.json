@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "The Fed confronts a powerful new economic force",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "pub_date": 1788015770.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
+      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
+    },
+    {
       "headline": "Sharp rise in incidents of AI escaping users\u2019 control, research finds",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -15,22 +25,42 @@
       "description": "Exclusive: Number of times AI lies, ignores instructions and pursues goals in harmful ways almost doubles in July"
     },
     {
-      "headline": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "pub_date": 1787968860.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+      "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR30gGHAUFVX3lxTE5zSjRrVktpSnZfc1JZc0NCdl9oZnRodnZTM3ZFRGdsQVlJVlhUakxRSEFqOVB0R1gzQ3NQd1dLTWZROUpobkpnXzg2cGhfYUZSX3hJcW5aSWNLWktqSXB2QWV6VnZiR0JPMzA5NWJLNnhyRHRBQ05sX3lWVUFrZmUyTmRCMkI4TQ?oc=5",
+      "pub_date": 1788004801.0,
+      "article_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
+      "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
+    },
+    {
+      "headline": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+      "pub_date": 1787967972.0,
+      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
+      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    },
+    {
+      "headline": "What if the A.I. Stock Market Rally Is Just Getting Started?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5",
+      "pub_date": 1787922006.0,
+      "article_url": "https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Editorial cartoon: Meta settlement vs. AI",
-      "source": "Dallas News",
-      "source_url": "https://www.dallasnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0Q3MVVfOElBS05wRlJqQ29FTndDdU9wQXNyN3lNWDUxeWV1d253UnFCaGlpY09YVUx4dFZOVEhxZ1Jvc0RjdUNaamV3TzR0dXBxeF9RNnFNN0RFbnU5dEtGLVZJQjdzTGdzXzZERWhYa1VPNjNyM0x4NFhhc2NoSGRLbzhUdU12ckdHWnY0eERKN1lYOWFsNXNvVVdkd003dlhMN09lZnd6ZjBxeDVTVnF6YTc2U1dX?oc=5",
-      "pub_date": 1787999233.0,
-      "article_url": "https://www.dallasnews.com/opinion/commentary/article/meta-settlement-17-billion-artificial-intelligence-22407883.php",
+      "headline": "China is secretly fueling America's data center rage",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?oc=5",
+      "pub_date": 1787942251.0,
+      "article_url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
       "image": null,
       "description": null
     },
@@ -45,66 +75,36 @@
       "description": "A federal appeals court says Supreme Court precedent forced it to protect possession of AI-generated child sexual abuse material, raising urgent questions."
     },
     {
-      "headline": "ChatGPT said you\u2019d lose your jobs right now \u2014 it\u2019s more like 3% of workers",
-      "source": "Fortune",
-      "source_url": "http://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NSXFkOGhGU0k5UVlJWUE0M1ZGcnNITkxlVGp0NndsdUk5N0JQZkxfeEM5Y0FzelRGV2lTUFlOM0xwb0dQaWl4eGlNTFRvMDduU2xpTU1iZV83VlVSWDFtcWNxS0dKd3BqUko2N1M2MHMzdw?oc=5",
-      "pub_date": 1787997600.0,
-      "article_url": "http://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2281437321-e1787955309865.jpg?resize=1200,600",
-      "description": "The nationally representative poll of 1,250 employed adults also found 6% landed AI-created roles and 9% got AI-linked promotions between 2023 and 2026."
-    },
-    {
-      "headline": "The Fed confronts a powerful new economic force",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "pub_date": 1787999570.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
-      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
-    },
-    {
-      "headline": "Our decision on Cursor following its acquisition by SpaceX",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
-      "pub_date": 1787967972.0,
-      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
-      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
-    },
-    {
-      "headline": "As A.I. Money Floods the Market, San Francisco Renters Weigh Buyouts",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXBoQnUzOGFOQThqTEhxVVU2RHRidklyT1FpR3NvcFQtVkR2ckkzY2ZRa0Z6RXFYbjZDb0hRNy1jQ1RqRGRZbGx0TkJxTGJfZ3dPMzY2Uks2NGtLRjlyQjVBV2FzU3U0aFVlZzVWTFdHNmdHdVdFZk5DbS1zVGJaQktXVDk0a2xnZ0JIT0J5OUh2QzlhcDdZeTFnRDdjYVNvYXIybWI3WmptUXZFNEtPMlZ0VnRaTm8?oc=5",
-      "pub_date": 1787907746.0,
-      "article_url": "https://www.nytimes.com/2026/08/28/realestate/as-ai-money-floods-the-market-san-francisco-renters-weigh-buyouts.html",
+      "headline": "An AI Oracle\u2019s Rise and Fall",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CSW1mU1hOYWp2LWxjV2JSdUtZOTJwRElSUXVKbXEybFNXdmVZR25TQTJ2UDVXc3loMEkzcDg5R29lOERldEF3NXhreUpjMk5pQzdVNlJ6RUdQRndpbzRtbllQQlpaNG1JSGJHR29saEVoUQ?oc=5",
+      "pub_date": 1788004200.0,
+      "article_url": "https://www.wsj.com/tech/ai/an-ai-oracles-rise-and-fall-9b0cebea",
       "image": null,
       "description": null
     },
     {
-      "headline": "One of the world's hottest industries is sparking a blue-collar jobs boom",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGRldlhyYjdtRTk5YjQwT1lKbUtET3UxUjIzVFkwUEFwNWZvTm1ESHQwY3B2cTRtaUNJcWJDTy1qSDB6UFprWEVBb2ZqSmdILUYtLUlKQ3dNb1V2YzJDdDB0S2lTZVE3azBHTXpiMGxnWmcwdzFjd0J5WmhQVktVRUIyektpcTQ0akpmR1NsZFBkMmfSAZgBQVVfeXFMT1haX05EM2dvTGtCNEVHX1BuWm9Na2w5aEd2WFlFN2UwcjhybDZab0JiVERQRnIzYmNDSmRCTnRZN1N1Vm1jWm4zNU43a2c5UmJPdUs5azRLUVJkMGl1SjlrQkRsWTE4MkdlMVc0cTZfZjQ4Q0kzVTlCRVVfQ0JJYWRWclRpNWNmakVvYXl5TDMzYVpxMjNYLU4?oc=5",
-      "pub_date": 1787913197.0,
-      "article_url": "https://www.foxnews.com/politics/worlds-hottest-industries-sparking-blue-collar-jobs-boom",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/construction-workers-american-flag-site.png",
-      "description": "AI infrastructure spending is projected to drive U.S. industrial construction to $684 billion by 2031, creating massive demand for skilled trades workers."
+      "headline": "Paul Claude Gigot: Why I Am Right About AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUFrQWNKdVVFWi1fTWpCQ3A2RlBzWXNMMEJWZEd2UmxsUnQ0cTdleWNHVEQwV3dfV2dmbDNIdkR4YTU1WFB1OFVTdUM4ZmZDWDFQei00eG9aQlhEamV3bHlqNTMyc0s2RDY4ZXlwaWFNVl8tc0d2bjdMRFc1SHpJNzV6WUVOZkRMNU9sWkVHMmZodzFHQkcxeUFTZGM?oc=5",
+      "pub_date": 1787865088.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
+      "image": "https://cdn.theatlantic.com/thumbor/ZIZxaEjS7Ng0nUlP2__2fqelK6c=/0x28:1400x757/1200x625/media/img/mt/2026/08/2026_08_27_note_mpg/original.gif",
+      "description": "Human writers are expensive, and they eventually die. AI is cheaper, and will never join a union."
     },
     {
-      "headline": "China is secretly fueling America's data center rage",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcmR4M2dyQXBORXF0clRmR1E2bHBWZ3hGdEJCQmIyOEphU3VRSnFmX0Q5VmVjRVczNGdlZTAweFI5bGo3aW9nT3pyb0NVRFNpUmY4ZDJ1QzFpVFl4RTNsOFk4S2JENEhJYUs2Nzl3X1J5Z0JkNGc?oc=5",
-      "pub_date": 1787942190.0,
-      "article_url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
-      "image": null,
-      "description": null
+      "headline": "3 new ways to plan and book travel in Search",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2R2VDlFTzNETmpKV29RTFBkajAyVHZpQ292QVQ3eldjbFdPSGdLQ2dvUjc3NHRSME1IWHRUNVZnWUZhR3ZaUm5xaHM1VDZBU042SzlfUDE1R0N3SGdPOUx1YjRVSUc3cWlwazZuZmItQXllREZ5Zzk2b1FsLU5FQ3JHeDUxUQ?oc=5",
+      "pub_date": 1787847478.0,
+      "article_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.width-1300.png",
+      "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T10:52:05.703597+00:00"
+  "fetched_at": "2026-08-29T15:31:01.977957+00:00"
 }

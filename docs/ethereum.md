@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-29T10:52:08.158366+00:00'
+updated: '2026-08-29T15:31:11.811400+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 10:52 UTC  
+**Last Updated:** August 29, 2026 at 15:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -1.2%  
-**30d:** +30.8%  
-**90d:** +21.6%  
-**1y:** -44.3%  
+**24h:** +0.1%  
+**7d:** -0.8%  
+**30d:** +31.2%  
+**90d:** +22.0%  
+**1y:** -44.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.01B
+**Market Cap:** $295.04B
 Rank #2
 
 **Circulating Supply:** 120,681,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.7%
+-50.6%
 
 **All-Time Low:** $0.43
-+562567.0%
++564544.0%
 
 ---
 
@@ -156,35 +156,35 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-hype-charles-schwabs-103525320.html)**
+**[Arthur Hayes Names Ethereum His ‘No. 1 Crypto Pick’, Sees ETH Surging 3X To 5X ‘Pretty Quickly’](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-names-ethereum-no-142332673.html)**
 
-Any kind of fiscal intervention was going to be positive for crypto, according to Schwab’s Adam Lynch.
-
-Yahoo Finance • 16m ago
-
----
-
-**[Bitwise's Matt Hougan Says Ethereum And Solana Are Betting On Opposite Valuation Models, 'My Favorite Approach Is Just To Own Them Both'](https://finance.yahoo.com/markets/crypto/articles/bitwises-matt-hougan-says-ethereum-090250480.html)**
-
-Solana is positioned on a revenue-driven model and Ethereum on a monetary one, and it is not yet clear which the market will reward, Bitwise's Matt Hougan said.
+Arthur Hayes added that Bitcoin could also reach $1 million over the next four years, citing the potential for massive money printing and U.S. yield-curve control.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto News Today: AlphaPepe Nears Fourth CEX Reveal as the Ethereum Price Prediction Targets $12,000](https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-today-alphapepe-nears-fourth-cex-reveal-as-the-ethereum-price-prediction-targets-12/article_28159892-0df7-59f9-bdf6-b248b660227d.html)**
+**[Bitmine's Tom Lee Sees $6,000 Ethereum By Year-End If Bitcoin Hits $150,000](https://www.tradingview.com/news/stocktwits:1cc057b15094b:0-bitmine-s-tom-lee-sees-6-000-ethereum-by-year-end-if-bitcoin-hits-150-000/)**
 
-MONACO, Aug. 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to
+Ethereum (ETH) could trade near $6,000 by the end of 2026, with the prediction tied to a recovery in the asset’s exchange rate against Bitcoin (BTC), said Tom Lee, co-founder of Fundstrat and chairman of Bitmine Immersion Technologies (BMNR).The Ethereum-to-Bitcoin ratio was hovering around 0.03 an…
 
-The Malone Telegram • 50m ago
+TradingView • 3h ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://www.tradingview.com/news/coinpedia:26a229575094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?](https://www.fool.com/investing/2026/08/29/tom-lees-bitmine-continues-to-buy-ethereum-hand-ov/)**
 
-Bitcoin has dropped to $77,901.87, down 3.1% over 24 hours, dragging Ethereum and XRP lower after Fed Chair Kevin Warsh delivered a hawkish message at the 2026 Jackson Hole Symposium, reviving expectations of a September rate hike.What Warsh SaidSpeaking live from Jackson Hole, Warsh described the…
+Tom Lee's bet on Ethereum keeps getting bigger.
 
-TradingView • 16h ago
+The Motley Fool • 2h ago
+
+---
+
+**[Tom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto’s ‘AI Downstream’ Story](https://finance.yahoo.com/markets/crypto/articles/tom-lee-led-bitmine-reportedly-131136816.html)**
+
+Bitcoin dominance remains above 60%, which a crypto commentator says leaves a broader altcoin rotation unconfirmed.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -196,41 +196,41 @@ The Hacker News • 2d ago
 
 ---
 
+**[Ethereum Weekly Price Forecast: Profit-taking slows rally as network activity lags](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-profit-taking-slows-rally-as-network-activity-lags-202608290345)**
+
+Ethereum (ETH) has held firmly above $2,400 and traded near $2,500 this week after a sharp rally last week. However, upward momentum has slowed as investors appear to be taking profits after ETH moved above its average on-chain cost basis.
+
+FXStreet • 11h ago
+
+---
+
 **[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
 
 Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
 
-Decrypt • 18h ago
+Decrypt • 22h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Nears Fourth CEX Reveal as the Ethereum Price Prediction Targets $12,000](https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-today-alphapepe-nears-fourth-cex-reveal-as-the-ethereum-price-prediction-targets-12/article_28159892-0df7-59f9-bdf6-b248b660227d.html)**
+
+MONACO, Aug. 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to
+
+The Malone Telegram • 5h ago
 
 ---
 
 **[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP rally loses steam despite steady ETF inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rally-loses-steam-despite-steady-etf-inflows-202608281024)**
+**[Will Bitcoin, Ethereum and XRP Prices Pump or Dump After Kevin Warsh’s Jackson Hole Speech?](https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-pump-or-dump-after-kevin-warshs-jackson-hole-speech/)**
 
-Bitcoin (BTC) is back below $80,000 at the time of writing on Friday, after a second attempt at breaking resistance between $81,000 and $82,000. A daily close below $80,000 could raise the probability of an extended correction in search of liquidity.
+Bitcoin is trading at $79,619.04, Ethereum at $2,504.89 and XRP at $1.42 as markets await Federal Reserve Chair Kevin Warsh's debut Jackson Hole address,
 
-FXStreet • 1d ago
-
----
-
-**[Current price of Ethereum for August 28, 2026](https://fortune.com/article/price-of-ethereum-08-28-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
-
----
-
-**[Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand](https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/)**
-
-Paymasters and sponsors can keep native tokens out of sight, but Ethereum and Solana still require fees funded in ETH or SOL.
-
-CryptoSlate • 1d ago
+Coinpedia • 23h ago
 
 ---
 
@@ -238,23 +238,33 @@ CryptoSlate • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[&quot;Ethereum Is Going to Be a Behemoth” And Almost Nobody Is Positioned for It](https://www.youtube.com/watch?v=pPY1qsjYS8c)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 689 • 👍 50 • 💬 55 • ⏱️ 15:06 • 2h ago
+
+---
+
 **[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 235 • 💬 56 • ⏱️ 15:34 • 18h ago
+👁️ 12K • 👍 261 • 💬 56 • ⏱️ 15:34 • 23h ago
 
 ---
 
-**[&quot;$150K BTC &amp; $6K ETH! What’s Coming Will Be Much Bigger Than You Think&quot; - Tom Lee](https://www.youtube.com/watch?v=uHrKUmjRnGU)**
+**[CRITICAL SUPPORT! WILL ETH RALLY FROM HERE? (Ethereum Update)](https://www.youtube.com/watch?v=fXKMhN4C1lo)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Savvy Finance
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 97 • ⏱️ 17:22 • 16h ago
+👁️ 372 • 👍 18 • 💬 1 • ⏱️ 4:35 • 5h ago
 
 ---
 
@@ -264,17 +274,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 487 • 💬 85 • ⏱️ 12:41 • 1d ago
-
----
-
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=PBGoPjgGcjw)**
-
-Ethereum Elliott Wave analysis for August 28, 2026, focuses on the $2178 support level which marks the invalidation for the ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 121 • 💬 7 • ⏱️ 8:05 • 11h ago
+👁️ 28K • 👍 503 • 💬 85 • ⏱️ 12:41 • 1d ago
 
 ---
 
@@ -284,17 +284,37 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 90K • 👍 1K • 💬 415 • ⏱️ 38:19 • 1d ago
+👁️ 94K • 👍 1K • 💬 418 • ⏱️ 38:19 • 1d ago
 
 ---
 
-**[What Really Caused Ethereum&#39;s EPIC Rally](https://www.youtube.com/watch?v=xe8XiN5Zt4Y)**
+**[&quot;$150K BTC &amp; $6K ETH! What’s Coming Will Be Much Bigger Than You Think&quot; - Tom Lee](https://www.youtube.com/watch?v=uHrKUmjRnGU)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Coin Bureau
+📺 Savvy Finance
 
-👁️ 33K • 👍 780 • 💬 33 • ⏱️ 16:00 • 2d ago
+👁️ 5K • 👍 105 • ⏱️ 17:22 • 21h ago
+
+---
+
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=PBGoPjgGcjw)**
+
+Ethereum Elliott Wave analysis for August 28, 2026, focuses on the $2178 support level which marks the invalidation for the ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 137 • 💬 9 • ⏱️ 8:05 • 16h ago
+
+---
+
+**[Live Trading in Crypto | Live BTC ETH Trading](https://www.youtube.com/watch?v=BQd13RhpznA)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 1K • 👍 294 • 46m ago
 
 ---
 
@@ -304,37 +324,17 @@ Adam Lynch (@CharlesSchwab) offers his big picture take on the state of the cryp
 
 📺 Schwab Network
 
-👁️ 11K • 👍 79 • 💬 9 • ⏱️ 6:03 • 1d ago
+👁️ 11K • 👍 81 • 💬 11 • ⏱️ 6:03 • 1d ago
 
 ---
 
-**[THIS WILL BE INSANE](https://www.youtube.com/watch?v=BZf9MrZ5YKQ)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=IktF2o-Gbi0)**
 
-The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of ETH and the altcoin ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Jordan Camirand
+📺 Profit First
 
-👁️ 14K • 👍 548 • 💬 257 • ⏱️ 12:56 • 1d ago
-
----
-
-**[🔥 The Ethereum Effect On Altcoins](https://www.youtube.com/watch?v=GbHnQ6QJcVw)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 113 • 💬 19 • ⏱️ 7:40 • 1d ago
-
----
-
-**[BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5l9GDMf_d90)**
-
-BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 298 • 💬 181 • ⏱️ 16:59 • 8h ago
+👁️ 247 • 👍 32 • ⏱️ 5:54 • 2h ago
 
 ---
 
