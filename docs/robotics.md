@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-30T10:03:22.046655+00:00'
+updated: '2026-08-30T14:55:37.844455+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 30, 2026 at 10:03 UTC  
+**Last Updated:** August 30, 2026 at 14:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this tutorial we go over how to control your MechSoul with Bluetooth. What is a MechSoul? A MechSoul is to a robot, what a CyberDeck is to a computer. It's a robot that you build, customize, and personalize yourself. It's the freedom of owning your own code, hardware, and having the right to build and repair it. And it's the pride of creativity, skill, and self expression. In this part 2 in Arduino IDE we combine the Raspberry Pi Pico's board manager's SerialBLE library with the Serial_Control example in Takamori Robot's HIRO library to control your robot over Bluetooth. To follow along with our code and reference material check out the tutorial GitHub.
 
-15h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this tutorial we go over how to control your MechSoul with Bluetooth. What is
 
 Guys, can I get recommendations on motor drivers. It's for a new build I'm working on and I'm looking for something that can handle sustained high-torque loads without running into thermal limits. Small form-factor StepStick modules (like TMC2209s or TMC2208s) work great for low-load positioning, but at 2A+ RMS under continuous holding torque, thermal dissipation becomes a major bottleneck. I did check out some options online, mostly on alibaba actually but I'm not sure yet how to proceed. I’m weighing a few paths and would love to hear what has worked best in your builds.
 
-20h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been doing a lot of work over the past few years building perception and em
 
 I wanted to see if I could build a robot that walks like a little grasshopper… using just ONE gear motor. 🦗🤖So I built the body and legs using simple mater...
 
-🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 16h ago
+🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 21h ago
 
 ---
 
@@ -68,7 +68,7 @@ I wanted to see if I could build a robot that walks like a little grasshopper…
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 14h ago
+🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 19h ago
 
 ---
 
@@ -76,13 +76,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
-1d ago
+2d ago
 
 ---
 
 **[What is this INA219 actually reporting?](https://www.reddit.com/r/robotics/comments/1w1k72c/what_is_this_ina219_actually_reporting/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -114,23 +114,41 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 ## Google News: "robotics"
 
+**[Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
+
+The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.
+
+WIRED • 2d ago
+
+---
+
+**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+
+As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
+
+CNBC • 4h ago
+
+---
+
+**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+
+Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+
+The Verge • 2h ago
+
+---
+
 **[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
 
-WSJ • 19h ago
+WSJ • 23h ago
 
 ---
 
-**[Meet the humanoid robots cleaning homes for $30 an hour](https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517)**
+**[ICE purchasing Boston Dynamics robots to support operations - Boston News, Weather, Sports](https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/)**
 
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered.
+BOSTON (WHDH) - Boston Dynamics is responding to reports that the Department of Homeland Security is buying its robots in support of its missions.In a statement, a<a class="excerpt-read-more" href="https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/">Read More</a>
 
-NBC News • 1d ago
-
----
-
-**[Light-powered soft robots that can keep jumping forever](https://techxplore.com/news/2026-08-powered-soft-robots.html)**
-
-Tech Xplore • 1d ago
+WHDH • 15h ago
 
 ---
 
@@ -140,15 +158,27 @@ Reuters • 3d ago
 
 ---
 
-**[Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
+**[Light-powered soft robots that can keep jumping forever](https://techxplore.com/news/2026-08-powered-soft-robots.html)**
 
-The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.
-
-WIRED • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
-**[Pizza restaurants: Why pizza-making robots are not cutting it](https://www.bbc.com/news/articles/czxq0wgkkdjo)**
+**[Adorable Microduck Robot Roller Skates and Plays Soccer](https://spectrum.ieee.org/video-friday-microduck-robot)**
+
+In this week’s selection of awesome robot videos, you’ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo
+
+IEEE Spectrum • 3h ago
+
+---
+
+**[Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools](https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Pizza restaurants: Why pizza-making robots are not cutting it](https://www.bbc.co.uk/news/articles/czxq0wgkkdjo)**
 
 A string of failures has sapped confidence that robots will take over production at pizza restaurants.
 
@@ -156,41 +186,19 @@ BBC • 2d ago
 
 ---
 
-**[Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)**
-
-Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
-
-TechCrunch • 1d ago
-
----
-
-**[A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers](https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8)**
-
-The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers.
-
-Business Insider • 1d ago
-
----
-
-**[BlackBerry lost the phone war. Now it's betting on cars and robots](https://www.cnbc.com/2026/08/28/blackberry-cars-robots-tech-download.html)**
-
-BlackBerry CEO John Giamatteo joins CNBC's Arjun Kharpal on The Tech Download podcast.
-
-CNBC • 1d ago
-
----
-
-**[An army of robots takes over Kyiv: these stunning images will shock you](https://www.futura-sciences.com/en/an-army-of-robots-takes-over-kyiv-these-stunning-images-will-shock-you_38531/)**
-
-A Parade Unlike Any Other: Robots Take the Streets For the 35th anniversary of Ukraine’s independence, Kyiv pulled off a world premiere: the first military parade anywhere made up entirely of ground robots, aerial drones, and naval drones. Forget the thunder of massive tank treads—which stayed safely tucked away this...
-
-Futura, le média qui explore le monde • 16h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
+
+Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
+
+📺 Bloomberg Tech
+
+👁️ 83K • 👍 645 • 💬 72 • ⏱️ 7:51 • 2d ago
+
+---
 
 **[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
 
@@ -198,7 +206,7 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 📺 CrowderBits
 
-👁️ 59K • 👍 3K • 💬 320 • ⏱️ 4:11 • 4d ago
+👁️ 59K • 👍 3K • 💬 322 • ⏱️ 4:11 • 4d ago
 
 ---
 
@@ -208,7 +216,7 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 577K • 👍 3K • 💬 884 • ⏱️ 4:02 • 5d ago
+👁️ 594K • 👍 3K • 💬 893 • ⏱️ 4:02 • 5d ago
 
 ---
 
@@ -218,67 +226,7 @@ Humanoid robots competed in kickboxing, sprinting and tai chi at the World Human
 
 📺 New York Post
 
-👁️ 31K • 👍 149 • 💬 124 • ⏱️ 3:08 • 5d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 149K • 👍 2K • 💬 6 • ⏱️ 1:01 • 20h ago
-
----
-
-**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
-
-There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
-
-📺 BBC News
-
-👁️ 264K • 👍 2K • 💬 778 • ⏱️ 6:19 • 5d ago
-
----
-
-**[China flexes technological muscle at World Humanoid Robot Games | ABC NEWS](https://www.youtube.com/watch?v=751GBaDJqEc)**
-
-China has displayed its advancements in robotics and AI at the World Humanoid Robot Games in Beijing. The event saw a robot ...
-
-📺 ABC News (Australia)
-
-👁️ 39K • 👍 183 • 💬 11 • ⏱️ 1:50 • 5d ago
-
----
-
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
-
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 3.4M • 👍 19K • 💬 4K • ⏱️ 4:29 • 4d ago
-
----
-
-**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
-
-📺 South China Morning Post
-
-👁️ 585K • 👍 2K • 💬 381 • ⏱️ 2:14 • 5d ago
-
----
-
-**[Robots compete in football, boxing and sprinting at World Humanoid Games in China | BBC News](https://www.youtube.com/watch?v=eiR-sEmDWu4)**
-
-The second edition of the World Humanoid Games kicked off in China on Saturday. The competition will run for five days and has ...
-
-📺 BBC News
-
-👁️ 235K • 👍 2K • 💬 716 • ⏱️ 5:30 • 6d ago
+👁️ 32K • 👍 152 • 💬 124 • ⏱️ 3:08 • 6d ago
 
 ---
 
@@ -288,7 +236,57 @@ Bloomberg's Yvonne Man and David Ingles share their takes on how robots performe
 
 📺 Bloomberg Television
 
-👁️ 74K • 👍 318 • 💬 116 • ⏱️ 4:55 • 6d ago
+👁️ 75K • 👍 319 • 💬 116 • ⏱️ 4:55 • 6d ago
+
+---
+
+**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
+
+There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
+
+📺 BBC News
+
+👁️ 268K • 👍 2K • 💬 783 • ⏱️ 6:19 • 5d ago
+
+---
+
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+
+📺 China.org.cn
+
+👁️ 122K • 👍 645 • 💬 34 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
+
+The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
+
+📺 CNA
+
+👁️ 3.5M • 👍 19K • 💬 4K • ⏱️ 4:29 • 5d ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 248K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
+
+📺 South China Morning Post
+
+👁️ 622K • 👍 2K • 💬 386 • ⏱️ 2:14 • 5d ago
 
 ---
 

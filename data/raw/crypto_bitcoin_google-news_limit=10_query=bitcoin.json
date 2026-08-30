@@ -5,54 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlc0YkNYTF9KeE1PUF9PanI1Q3M1ZndiR250LXkwcjBsQkxadDNoX3JWMFlNQ05GUnlQYWJBVXpVWFBNaGpLUjVlOFdCS2Y0VHZ4UmZJRVJONkxpalpwaU5mX3J0XzJHdzBTejlxVGx0YndQMkdJbGhjU08xRTdidkE4MFg1VEdUaHhDZ01CTUpiU1FrMS1VUQ?oc=5",
-      "pub_date": 1788048120.0,
-      "article_url": "https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884989%2Finvestor-analyst-thinking.jpg&w=1200&op=resize",
-      "description": "Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset."
-    },
-    {
-      "headline": "Warsh\u2019s Jackson Hole speech could make or break the bitcoin and gold rally",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGhucFdXVmtWaGFOYTVDdnNmZ0FKRm9IQmEwbGlKYXpzN3N2MFZDd21EeW5OV0U3Q1lXQjNDWTJWU2MzX3FZRmM0M2hOTmlYSGhZMDdMTERkX29EYzg0WC11S09UU0t1a3N5VVI0enQ2dHVMemJjTkwwbUhMV2dTblhoOHE4UHZyNjVDcHFYRm5BT2d2OXZad0RON0VFaG9BZVlhd0p3QkRMYnlLc3JOMDJ2OXA2QzBkeTg4RA?oc=5",
-      "pub_date": 1787898610.0,
-      "article_url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
+      "headline": "Massive El Reno water leak traced to Bitcoin mining data center facility",
+      "source": "KFOR",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE4wNTN5QlZIdTJ1cTJqNTU1LVMtdHI0allORW45dGxyakFxOHFhLUdqQzZTNkFmd3gyaFZpYnZUNHQ4dU90V2otUURyMzRFTHpZNkFvOHBxcDQ2d29XVTgxSHU3Tm9WeGpGRndmUjVpcHdpc2hIOEktUTFXMHVLYVBLUk1TRURqUGctSzgzUHhCU1NNcDRpYnZpZTZOYWZYcjY40gGoAUFVX3lxTFBGMUlEVHlPMFRxaGQ4NGNBWXVFNklLVm5UTFh4X0huWTUyMmh5SjlodkFnNkxwb1VnQnJVenBuaVRYM2pTOHhxOTYwbWFwVlI0eEFPZ1lUYTFveGNhSEF3SFRrMWRTZEtDa0RDRzM0YWdRZ19ZSG5nZzdqX215WXQwYl9BOFBZSW1XckxFNFJLMEFGMG5ZSGlQOUc5U1R4NG9PQjA2TGUySw?oc=5",
+      "pub_date": 1787956104.0,
+      "article_url": "https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Drops Before Shrugging Off Fed Chair\u2019s Inflation Comments",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GMjlsQWNVMFA4MG5mczZJTWhZQ0RwMnotSmtibms4YXhlaTB3aDhZdEJGSUdJcmdfY2VEZlE5ZkNScWRhQVNlY0dybG5aVUpZREUyWHNmTTZ6WGlJTnhkR0JncDVjYkhaMF8tUFlvUzRSaDVUdGktMlRpc0VNZw?oc=5",
-      "pub_date": 1787932158.0,
-      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg",
-      "description": "Bitcoin's price slid before spiking again after the Federal Reserve chair said inflation in the U.S. was \"concerning.\""
-    },
-    {
-      "headline": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2dUcGhKeTJieEVLVlNVdTg1Wkx3dzJIcXo1UWJkNWRnajZISjZLSk1INlJvaEFScWlITHZJdzVtQ3NmbzJvVGFXYmFYbHoteEhydmQ2Tk5PYTlZeWRVckNlU1V3QW1sZ05HTTE1S0dJUldyY1J5YUNiMnlIRE1laWNreXBteExqWDU0aTZCcGx1dXlGWXZNUVBUQWFjWTd6SlJDS2VOdUM2Nk5ZWTNWa01BWmRHeHM?oc=5",
-      "pub_date": 1788021058.0,
-      "article_url": "https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-warsh-policy-collision.jpg",
-      "description": "ETF inflows and larger Treasury buybacks can cushion volatility, but neither substitutes for disinflation."
-    },
-    {
-      "headline": "Can Bitcoin Reach $1 Million by 2030? One Crypto Leader Is Skeptical.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkFMWlgzUHRULWNMV3ZRSFRkSi05T1NqeDZCZVhjeVluZTVRZ1l1RFBCdExNWnNhM0lRN2kzSDF4ZW5OSk8xX21ESk50X3hGTmZyNTkxdDViMjB6NXFZajFQdFNacmkzSU9qNlY4WE12QUMwR3ZVaGl6M1Y4bWhvTE55ZVZWTTFQbEM0UHowN0MyTGlGT0lUbQ?oc=5",
-      "pub_date": 1788083340.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-reach-1-million-2030-094900247.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/31b646932be66115f668708ce4ab445de1cb1640c3eb95e0b4dfa4c5231abb7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4e6180b835d94e7980b937560b12e6bb.jpg",
-      "description": "Exuberance begets price targets that tend to be hard to reach."
+      "headline": "\u2018Get Ready\u2019\u2014Bitcoin Is Suddenly Hurtling Toward A \u2018Huge\u2019 Money Printing Price Shock",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY3dkSkEzNHowX2ZVS0VHb3B5ellsV0ZpR1NxNVAtMzY5WFdTZmFpaXdmTGtwNWV5anctc3NlOHUwc054NURKMkZHZ2FLT1JIdGlCcEx5WTRZWTVraVBtMTZpQkNxUHlhaGx0Y0FLSjJLaHNQeVVfMlFSdjZaSEltclBGanBPUmV4LWlQRUxxWEg3WHRHQlcwTTE5M1llTFV2a3JDZHdDc0JlMHU1MVM2dnRPYUdOLVlIYkhVY3NkTEs2OEIzeGx6VHdRTUVtdm1j?oc=5",
+      "pub_date": 1788007882.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/08/29/get-ready-bitcoin-is-suddenly-hurtling-toward-a-huge-money-printing-price-shock/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a92b5353421e0e0ef9349bd/0x0.jpg?format=jpg&crop=937,539,x85,y27,safe&height=900&width=1600&fit=bounds",
+      "description": "Bitcoin has added 20% since mid-August, rocketing higher as the so-called debasement trade that see investors bet against the U.S. dollar returns..."
     },
     {
       "headline": "Smart Investor: Warsh Talks Tough, Bitcoin\u2019s Bounce, Top Managers\u2019 Stock Picks",
@@ -65,14 +35,44 @@
       "description": "We wrap up our coverage of the markets and the week."
     },
     {
-      "headline": "Massive El Reno water leak traced to Bitcoin mining data center facility",
-      "source": "KFOR",
-      "source_url": "https://kfor.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE4wNTN5QlZIdTJ1cTJqNTU1LVMtdHI0allORW45dGxyakFxOHFhLUdqQzZTNkFmd3gyaFZpYnZUNHQ4dU90V2otUURyMzRFTHpZNkFvOHBxcDQ2d29XVTgxSHU3Tm9WeGpGRndmUjVpcHdpc2hIOEktUTFXMHVLYVBLUk1TRURqUGctSzgzUHhCU1NNcDRpYnZpZTZOYWZYcjY40gGoAUFVX3lxTFBGMUlEVHlPMFRxaGQ4NGNBWXVFNklLVm5UTFh4X0huWTUyMmh5SjlodkFnNkxwb1VnQnJVenBuaVRYM2pTOHhxOTYwbWFwVlI0eEFPZ1lUYTFveGNhSEF3SFRrMWRTZEtDa0RDRzM0YWdRZ19ZSG5nZzdqX215WXQwYl9BOFBZSW1XckxFNFJLMEFGMG5ZSGlQOUc5U1R4NG9PQjA2TGUySw?oc=5",
-      "pub_date": 1787956104.0,
-      "article_url": "https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/",
-      "image": null,
-      "description": null
+      "headline": "Better Buy: XRP (Ripple) vs. Bitcoin",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXNKYVlSeGhMTU5yLU5SVW1EUHozZGJua29Wa21CUm4tcWhDZ3ZwMlpadmd4OHhTQy1vX0QxRzVBOGhPWF9tQnd3MnlfMlBMZ2NJTWhvV3VoeEh5bkNlZGZLNXZnVFhIOFN0X01lQ0tZaDZVRF9qQjM5VTQ3NS1pcktYUHZlbFNvOUtrc2JjUFJ1ODA?oc=5",
+      "pub_date": 1787917620.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/better-buy-xrp-ripple-vs-114700470.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dc06fb480f6e92951f4b9e022723431be70a31eb80cefe497f9f82617d7d6fa5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F1d632e1a88699d54eeb5dfb7c0dab0b4.jpg",
+      "description": "Between Bitcoin and XRP, the simpler bet wins: Bitcoin's case rests on a hard-coded 21 million coin cap, while XRP's depends on Ripple converting business growth into token demand -- and Ripple's own numbers show that isn't happening."
+    },
+    {
+      "headline": "SCHD And QQQ: The New 60-40 Portfolio (Bitcoin And Gold Edition) (NYSEARCA:SCHD)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlZvcV8xd09KbHNQelNWQ2ZiRGxiUFVKZGYwYWpUQVE5al9hMklzYllRdUpvbExHWkFkTTZxZzhLNkxDWE9idzhaaEFZOHJuMEZOa2FHLURUV3cwdnNkVDUtdHVUWHBIei1IYktkM2k1bDRxczNQcE8zbVJFM21TUjFDdnlPMDNoc0tDdVUyYUdDeUpVSkZNOHdKektvY0VHLXNoNw?oc=5",
+      "pub_date": 1788080400.0,
+      "article_url": "https://seekingalpha.com/article/4941456-schd-and-qqq-the-new-60-40-portfolio-bitcoin-and-gold-edition",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256895141/image_2256895141.jpg?io=getty-c-w1536",
+      "description": "US policy shifts are reshaping 60/40 portfolios with SCHD & QQQ-like stocks, while bitcoin and gold rise as \u201cprotest assets.\u201d Learn what to do now."
+    },
+    {
+      "headline": "Eric Trump Says \u2018The Tides Have Turned\u2019 For Bitcoin As AI And Institutions Fuel Crypto Adoption",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdmd2U0VMWUcwTVplTS1naktSZ2psUTZJdXE4MTZtSTBFZjUyYjhzcGpCSTgtc0E0a3ZpLTFaamdVa0NMem9ZR3RseUphRG9UelcteFhWZmdDTU5tUW9zOFVVVHBqclRLQVNYS1VBRlFBS1ZVU2JJNEZyaXV3blc2OXNMckU0bVJCMUF6NmVhQzBrZkdNeGJXQjlNZmJ3N2k0RU5JUWFBcWZhT3lRNHI5NnROOG54UmI2VHM1MVR1YUpEY3gxV0RyckVlLWZjbTc0eUl0ektONU1UXzZWN0JzYVhtWVpVNWRIYWc?oc=5",
+      "pub_date": 1788098911.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:b1811d419094b:0-eric-trump-says-the-tides-have-turned-for-bitcoin-as-ai-and-institutions-fuel-crypto-adoption/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin (BTC) markets are undergoing a sea change right now, with institutional investors replacing retail traders as the dominant force behind the price of the cryptocurrency, Eric Trump said. The acceleration of this change can be attributed to the rise in AI adoption and a more crypto-friendly p\u2026"
+    },
+    {
+      "headline": "Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlc0YkNYTF9KeE1PUF9PanI1Q3M1ZndiR250LXkwcjBsQkxadDNoX3JWMFlNQ05GUnlQYWJBVXpVWFBNaGpLUjVlOFdCS2Y0VHZ4UmZJRVJONkxpalpwaU5mX3J0XzJHdzBTejlxVGx0YndQMkdJbGhjU08xRTdidkE4MFg1VEdUaHhDZ01CTUpiU1FrMS1VUQ?oc=5",
+      "pub_date": 1788048120.0,
+      "article_url": "https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884989%2Finvestor-analyst-thinking.jpg&w=1200&op=resize",
+      "description": "Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset."
     },
     {
       "headline": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDFlZW94QUItZkt5MG1US2NQX2JySkZSNGJ0UkVESzNpT0Y5ZU90b2dZT0xNLTY0bnc0anpkSk9MVWUydkJ1RlJxX1U1bzJJOVRaVWszeEtVeTJJRXZJMDAzak55a1lrVGpBZ0pKQ1NFRkMtMnFyT0dEcURkc0RYMWNLNlF3VDlLcWVGaFVhRklQMjk3R29Ic2tucWI4SjdRRmdOb1JKV0paWUs3bG9MZkJFRGRuQ0J6V1FWbExvNFI2RnFM?oc=5",
-      "pub_date": 1788061380.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:584e6235e094b:0-what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru\u2026"
+      "headline": "Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVZKWThQemUzUDZWUkZCbmRsSzE5VDYxLVBkMlh6ZS1Ec05OdlM0WkNLUHlPaWxpYWNvY2g4ZDhlN0Z2SmhrR0F6UEhoU2JlMDUzUzRFNFIxNnQtWHpzcVAzSjJ6NmhjeG1MMTRiZUFod2Nla2w5SkZOUkljWkt6RWRpSldqN2NxbTAyUE9SVTZZNlZERnd6eVRqcTNDM0wzcTN4cnkwZHFwZ0FUQmc?oc=5",
+      "pub_date": 1787949341.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "SA Asks: Is Bitcoin finally bouncing back? (BTC-USD:Cryptocurrency)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRNMkNYanZLZjFqbTc2bkloc3ZLNUxuczBDYlZ0SjdteTliMUp6NkROalFkQ3JiUEFHTl81ZUJvVjZ2V0lCUXM4Q2w1OFVmODU5RWgzNTdLUGJUdjlZa3p2TUpVT195dVFPRDNMWkhuLWNrM2JVOHpub1Z5UGo3R1pPTzk?oc=5",
-      "pub_date": 1788036017.0,
-      "article_url": "https://seekingalpha.com/news/4638046-sa-asks-is-bitcoin-finally-bouncing-back",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1329055819/image_1329055819.jpg?io=getty-c-w630",
-      "description": "Is Bitcoin finally bouncing back? Analysts weigh IBIT inflows, CLARITY Act momentum, and Fed/dollar catalysts for BTC\u2019s next move\u2014read the outlook now."
+      "headline": "Warsh\u2019s Jackson Hole speech could make or break the bitcoin and gold rally",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGhucFdXVmtWaGFOYTVDdnNmZ0FKRm9IQmEwbGlKYXpzN3N2MFZDd21EeW5OV0U3Q1lXQjNDWTJWU2MzX3FZRmM0M2hOTmlYSGhZMDdMTERkX29EYzg0WC11S09UU0t1a3N5VVI0enQ2dHVMemJjTkwwbUhMV2dTblhoOHE4UHZyNjVDcHFYRm5BT2d2OXZad0RON0VFaG9BZVlhd0p3QkRMYnlLc3JOMDJ2OXA2QzBkeTg4RA?oc=5",
+      "pub_date": 1787898610.0,
+      "article_url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-30T10:03:15.097317+00:00"
+  "fetched_at": "2026-08-30T14:55:29.376970+00:00"
 }
