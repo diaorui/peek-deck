@@ -9,7 +9,7 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
-      "pub_date": 1788010109.0,
+      "pub_date": 1788013765.0,
       "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
       "image": null,
       "description": null
@@ -18,61 +18,21 @@
       "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR30gGHAUFVX3lxTE5zSjRrVktpSnZfc1JZc0NCdl9oZnRodnZTM3ZFRGdsQVlJVlhUakxRSEFqOVB0R1gzQ3NQd1dLTWZROUpobkpnXzg2cGhfYUZSX3hJcW5aSWNLWktqSXB2QWV6VnZiR0JPMzA5NWJLNnhyRHRBQ05sX3lWVUFrZmUyTmRCMkI4TQ?oc=5",
       "pub_date": 1788004801.0,
       "article_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
       "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
     },
     {
-      "headline": "Minnesota State Fair visitors get their own AI-generated \u2018butter busts\u2019",
-      "source": "kare11.com",
-      "source_url": "https://www.kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXJmQWx5SU9WaDhyMUU4aVVYWTR3SVBORTFzb1FmclYwWjh1d2tPLVRZNElqdHJjRmJWcnJ3MHVwRkJST3F0S25hZG5hYkFDSjY4eVB5UzFRUU9DeThjVkxOT0Zyekx0SEZYWkdCcUliUTRfbk1xOE1yUVJpQ3g0SjZ0VDBWY3AwNVA1VzlwRmRCemlHdXphUmRWaVp4R0txckNVNU14TXAxeXVVTzAzektLQy1QVmpxNE81SExyQzZMMlluM1NmOVNpMHROelZLSmFIRw?oc=5",
-      "pub_date": 1788045120.0,
-      "article_url": "https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
-      "pub_date": 1788030355.0,
-      "article_url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&w=1920&h=1080",
-      "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX\u2019s $60 billion acquisition of the coding startup."
-    },
-    {
-      "headline": "Our decision on Cursor following its acquisition by SpaceX",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
-      "pub_date": 1787967972.0,
-      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
-      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
-    },
-    {
-      "headline": "OpenAI cuts off Cursor's AI models, deepening feud with Musk",
-      "source": "Mashable",
-      "source_url": "https://mashable.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5",
-      "pub_date": 1788018419.0,
-      "article_url": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
-      "image": "https://helios-i.mashable.com/imagery/articles/022LghkOtaGySK0ZNEXEWH9/hero-image.fill.size_1200x675.v1788017362.jpg",
-      "description": "The contract will end by mid-November, months after SpaceX bought the coding tool's parent company for $60 billion."
-    },
-    {
-      "headline": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS1jQkxZQ3hVdHd6OXZpYUpQSW91X0F4ZmRaVTJBcXZhV0VEV1Jlek94MFYzRXlxR1FOdnU2NmtIeElpSTE1NXp5ZGFWVF9VbDZHWVYyZ1ZlMnFWaXdHZk95eU1MdVdzdG1XWWdQRFFKaEVNdjU3T19OcnVibFNmdThrOUw1ejRNUy1YWjZsWlkweUZlR0k5YzJ6cUVlMVRtUDdGT1hyNzl5VU11ZmJXanJPMXd3ZzZRQTYtcWJ6WlZYUzdkd2c?oc=5",
-      "pub_date": 1788033720.0,
-      "article_url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises",
-      "image": "https://i.guim.co.uk/img/media/ff2b0d98b3e3364939221cb024e96ee981e1ad95/378_0_4947_3958/master/4947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83207bf12e28477768f02acf030f3f9d",
-      "description": "As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?"
+      "headline": "Neil deGrasse Tyson: Get AI to solve its own problem",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TnhSYU5pakI1eDJwLXVuaERKeEd5NHU2Wk9VcUZOd3QxOXNpOHF6dEk4SjB3eS1XMXR5NFpBcF9DY1ZSOUllZ044ek5oVjhPUlRsZmZn?oc=5",
+      "pub_date": 1788058192.0,
+      "article_url": "https://www.foxnews.com/video/6404291030112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8eda4bb8-63fc-46a2-9f3c-5cb27d64f10a/2106f51a-0391-44b8-ac82-2023b881680f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Astrophysicist Neil deGrasse Tyson and the 'Fox News Saturday Night' panel play 'Neil or No Neil' and speculate on whether technology can surpass human intelligence."
     },
     {
       "headline": "An AI Oracle\u2019s Rise and Fall",
@@ -85,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+      "pub_date": 1787967972.0,
+      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
+      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    },
+    {
       "headline": "The Fed confronts a powerful new economic force",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
@@ -95,16 +65,46 @@
       "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
     },
     {
-      "headline": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDhMNzBsZk51ZlZwRi1JeEhHNGpKYW9COHhiNER5Z3VHZXAwU3VNNUVqampaNFhISDNraDNGbVpoa0JFTWNlUlJ4ZEhzNTBWeGh1em50b2M5b2ZCWEg1OXF3eW1RdXM5bE5MNjlWdzBoWndVMGNJejVQOTdVOFV5QnY2c2hTbUlPRWd0TURYRm0tUDgwSGhhOGdYSER3c2hJeDRLNnZxRG1vVUFFR3JBQjQwenR1c3ZKV2VsTHNvcDd2X3ZpbmFscFFVZ1JRNVhyVTFSZXV3?oc=5",
-      "pub_date": 1788004278.0,
-      "article_url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f92b3f2961d68d363cb18fabc8e598814562522db39c86b58ff2530b440d03a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb8bb6f8f-ae12-4629-b72f-c34888b3d02c",
-      "description": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard."
+      "headline": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS1jQkxZQ3hVdHd6OXZpYUpQSW91X0F4ZmRaVTJBcXZhV0VEV1Jlek94MFYzRXlxR1FOdnU2NmtIeElpSTE1NXp5ZGFWVF9VbDZHWVYyZ1ZlMnFWaXdHZk95eU1MdVdzdG1XWWdQRFFKaEVNdjU3T19OcnVibFNmdThrOUw1ejRNUy1YWjZsWlkweUZlR0k5YzJ6cUVlMVRtUDdGT1hyNzl5VU11ZmJXanJPMXd3ZzZRQTYtcWJ6WlZYUzdkd2c?oc=5",
+      "pub_date": 1788058200.0,
+      "article_url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises",
+      "image": "https://i.guim.co.uk/img/media/ff2b0d98b3e3364939221cb024e96ee981e1ad95/378_0_4947_3958/master/4947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83207bf12e28477768f02acf030f3f9d",
+      "description": "As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?"
+    },
+    {
+      "headline": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5",
+      "pub_date": 1788022958.0,
+      "article_url": "https://www.nytimes.com/2026/08/29/business/dealbook/ai-generated-music.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said\u2026",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3c3V5Rm5lZ3ZGS0o3LVFDVlZjM29DQ0xzMl9LeEJhTTlwd3hTZjdnc0N1Y3duNUdMVWxsYmx3YjNRclZHaENrMWgzTDBpbm1IemhISE5GN0Jrd1BETXVVdmVSdUg0VHVrd2l2NjhZeGZpVkRBeFdrb3NOcEhjaEE?oc=5",
+      "pub_date": 1788018298.0,
+      "article_url": "https://uk.finance.yahoo.com/news/asked-chatgpt-p-500-crash-154458088.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f4af4c36302a5951af093edd9031bc0b2aeba2e51fb8e0b93f84faff2c5f2601/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffool.co.uk%2F3c1a094d83107c9230dfbd54f7fd99f6.jpg",
+      "description": "The S&P 500 has been a little bumpy lately as fears grow over a potential AI bubble. Harvey Jones got a second opinion on what could happen next. The post I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said\u2026 appeared first on The Twelfth Magpie."
+    },
+    {
+      "headline": "Cramer says he's warming back up to the AI trade, but not ready to act yet",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXlUZGxpWGk3QUJHTVVlalNocHV5dUdidUNjYnRqcWFiTzY2MzVxVE05NUFyR3hSOFdzQmQ0Q1Q5OEpqZlpBaWNmSWwzd3YteHBlSWE3S29LNi0wbkVlelViNHpyX0N4YnA4RXNqTWtfNGMwdm96d0RYQWRoVFhmRmtBdGFwWm5FcWlIejVtQVhCYXR4cFZ5WERTVFo4UEFZSVNtaUNnU09Bcllzenc?oc=5",
+      "pub_date": 1787936033.0,
+      "article_url": "https://www.cnbc.com/2026/08/28/cramer-says-hes-warming-back-up-to-the-ai-trade-but-not-ready-to-act-yet.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108355110-1787834798214-gettyimages-2292234735-dji_20260826151149_0030_d_ydbryzwk.jpeg?v=1787834843&w=1920&h=1080",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T23:55:24.254715+00:00"
+  "fetched_at": "2026-08-30T04:01:24.340242+00:00"
 }
