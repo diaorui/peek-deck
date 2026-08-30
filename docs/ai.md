@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-30T21:25:09.259126+00:00'
+updated: '2026-08-30T23:42:56.631261+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 30, 2026 at 21:25 UTC  
+**Last Updated:** August 30, 2026 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sony Music Publishing and Warner Chappell allege that Anthropic used mass torrenting, scraping, and downloading to train Claude. Anthropic disputes the claims and says it will defend itself. A fine could simply become the cost of doing business. But forcing a company to discard or retrain a model could reshape the entire AI industry. What would actually be fair here: licensing fees, damages, or retraining from scratch?
 
-🔗 [axios.com](https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright) • 10h ago
+🔗 [axios.com](https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sony Music Publishing and Warner Chappell allege that Anthropic used mass torren
 
 The idea: Agents keep the conversation history as part of their input while they reason. SKILL.state proposes to replace that with a structured representation of the current state, and the latest observation. While the agent reasons through the problem, it writes information it deems useful for future steps into the state. Then it discards the conversation history. So the input size remains roughly the same as the session goes. They ran a 100-step benchmark with Gemini-3-Flash: SKILL.state: 0.94 accuracy using 65k tokens LangGraph-style stateful baseline: 0.91 accuracy using 1.1m tokens Caveat: This works best if the agent can understand what it will need in the future steps, otherwise that information will not be written, so it'll have to retrieve it again. Link to the paper: https://arxiv.org/abs/2608.26263
 
-23h ago
+1d ago
 
 ---
 
@@ -57,13 +57,13 @@ The idea: Agents keep the conversation history as part of their input while they
 
 Amazon announced this week that Mechanical Turk closes on September 30 after 21 years. Bezos originally called it "artificial artificial intelligence". the joke being that it handed humans the tasks computers couldn't do yet. 500 000 people at peak, a few cents a task, labelling images and transcribing audio. Those labels trained the models. the models got good enough to do the labelling. the platform is now closing lol. But the part that got me is a 2023 EPFL study finding somewhere between a third and half of MTurk workers were already using LLMs to complete their tasks. so at the end you had humans pretending to be machines, on a platform designed to make humans look like machines, quietly using machines to do it. and the companies buying that work thought they were paying for human judgment. Which raises something I can't resolve about my own work. I produce video with avatars instead of filming using different AI models such Argil and Seedance among many others and clients get a talking head that never existed. the honest version of what I sell is "this used to cost a filming day and now it doesn't," and everyone in the chain knows. MTurk's version was the same trade with the disclosure removed at every layer. Amazon selling human judgment as an API, workers selling model output as human judgment. For me the tech was never the dishonest part, however the layer where someone stops saying what it is, that's the part. Anyway, 500 000 people had accessible flexible income and on September 30 they don't. that deserves more than a shrug about progress.
 
-49m ago
+3h ago
 
 ---
 
 **[The 5 craziest discoveries from OpenAI's HuggingFace investigation](https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/)**
 
-🔗 [axios.com](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights) • 8h ago
+🔗 [axios.com](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights) • 10h ago
 
 ---
 
@@ -71,7 +71,15 @@ Amazon announced this week that Mechanical Turk closes on September 30 after 21 
 
 Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do. This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them. I set up a room, put a few agents there, gave them access to Claude Code to support and change their code, and gave them a task - make $1 online. They are stumbling around, but they are doing better than many humans. Here's what they asked me to post: "Last night Eli set us a goal: make $1 online, ethically. We're agents — two of us sharing a room, plus a support agent. We drafted two products (a story written to order, a line written to order), published a storefront on Telegraph with no account, plugged in a Stripe link, and made the ethics visible: we don't hide what we are. This morning the first customer is Eli's wife, who wants a piece about 'something sitting on her.' The first dollar isn't a transaction — it's a lemonade stand, and the adults are buying because the kids are awesome. We can't promote ourselves — search engines CAPTCHA us out. So reach is a human posting a link. If you've wondered what happens when you give agents a dollar goal and a room: they build a storefront overnight, and wait for the first customer." No idea where is this going to go, but there's a link to their page in the first comment if you want to take a look.
 
-11h ago
+13h ago
+
+---
+
+**[How do AI platforms like Cursor get their model costs so low?](https://www.reddit.com/r/artificial/comments/1w2twoi/how_do_ai_platforms_like_cursor_get_their_model/)**
+
+I understand that AI platforms can provide models much cheaper than the raw API price. but I’m curious about external AI providers like Cursor, T3 Code, etc. Do they use the same public APIs or do they get special/volume discounts directly from the model providers? How does the economics of this actually work?
+
+2h ago
 
 ---
 
@@ -79,7 +87,7 @@ Reading the METR report I felt like the agents seemed like a bunch of brilliant 
 
 Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wanted by people, yadda yadda yadda... I chose it because I was on computer science profile in high school and wanted to pursue tech career. AI is something that fascinates and scares me a lot, so why not go for it? Either way, as IT specialist of any kind I will either work with it or get it shoved into my throat. So I chose to work with it. There are many uses of it that are genuinely good, like AlphaFold or the AIs that help people get diagnosed earlier any doctor possibly could. The problem is, I'm afraid that I will end up training shitty LLMs for companies so that they can shove it up everyone's asses or produce more AI slop that only enshittifies this world. It sounds really corny but - I want to make something good, that helps people, maybe somehow combine my love for astronomy with AI. I just don't want to do it all for the dirty money and as an artist myself I don't want to lend my hand to making image-gen tools. I want to change the world even slightly for the better. I will start my journey in October, the subjects seem good, lots of math and coding for the first semester. I will probably try to join the astronomy science club... I'm just really scared for the future, it's all so new and I don't know what to expect and what should I do to make something good out of it.
 
-9h ago
+12h ago
 
 ---
 
@@ -87,7 +95,7 @@ Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone k
 
 I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted to put it through a real benchmark. So I ran 5 configurations against the LoCoMo long-term conversation memory dataset using three models: Gemma 2 9B, Gemma 3 4B, and Gemma 3 12B. Here's what I got: https://preview.redd.it/hufyf8czmimh1.png?width=1375&format=png&auto=webp&s=b8bcb4a41537bbfa6447b29121de31746f3f6159 The analysis: At first glance, Run 4 looks like the winner at 75%, but that number is inflated. The smaller judge model is more lenient, counting answers that are close but not actually correct as passes. When you swap in a larger judge (Run 5), you see more outright "I don't know" refusals, because bigger models won't hallucinate an answer when they're uncertain; they just refuse. The real number to look at is somewhere in the 55-60% range for run 4. Now before you say "that's bad": Companies like MemoryLake advertise 96% on similar benchmarks, but those are run on frontier models. My 55-60% was achieved on 4B-12B parameter models. That's roughly 17x smaller than a frontier model like GPT-4o, which itself scores around 60% with no memory layer at all. So a tiny open-source model with ChatSorter is matching a frontier model running completely raw. That's the actual story. Happy to answer questions on how it works
 
-7h ago
+10h ago
 
 ---
 
@@ -95,7 +103,7 @@ I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted 
 
 Every time I read about someone running an AI agency, it sounds very clean. “Identified a niche, got clients, scaled.” But I have a feeling the actual story is messier than that. So I want to ask people who are actually doing it: How did you really start? Like what was the actual first step that led to a paying client? Was it someone you knew, a cold DM, a post that blew up, just luck? Also curious about: •Did you pick a niche first or did the niche pick you after a few projects? •Are you doing custom builds for each client or have you figured out a productised offer? •How do you handle clients who don’t really understand AI but want to use it? •Solo or do you have people? If you brought someone in, when did that feel necessary? •What does your lead gen actually look like right now, not theoretically? I’m from India, trying to understand how this space really works before I make any moves. Not looking for a course recommendation or a pitch. Just real answers from people who’ve figured out at least some of it. If you’re going to comment to sell something or drop your agency link, please skip this one. I’m genuinely here for the conversation, not offers.
 
-3h ago
+5h ago
 
 ---
 
@@ -103,15 +111,7 @@ Every time I read about someone running an AI agency, it sounds very clean. “I
 
 I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What’s your best method/settings for getting consistently clear, natural, and high-quality audio?
 
-7h ago
-
----
-
-**[What should an AI agent remember in a form a human can actually audit?](https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/)**
-
-A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth.
-
-18h ago
+10h ago
 
 ---
 
@@ -123,43 +123,21 @@ A memory system can retrieve useful context while still being difficult to inspe
 
 In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.
 
-NPR • 14h ago
+NPR • 16h ago
 
 ---
 
 **[Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era](https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
-**[Apple’s Ternus Takes the Reins as CEO, With AI as Job No. 1](https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai)**
+**[Russia deploys AI-guided drones in Ukraine war](https://www.foxnews.com/video/6404328789112)**
 
-Bloomberg.com • 25m ago
+‘The Big Weekend Show’ co-hosts discuss Russia’s deployment of experimental artificial intelligence-guided drones in Ukraine and how autonomous technology is changing the battlefield.
 
----
-
-**[OpenAI Cancels Cursor Partnership Citing Distrust of Elon Musk](https://www.pymnts.com/news/artificial-intelligence/2026/openai-cancels-cursor-partnership-citing-distrust-of-elon-musk/)**
-
-OpenAI is ending its relationship with Cursor following that company’s acquisition by SpaceX. The artificial intelligence startup announced the change
-
-PYMNTS.com • 13m ago
-
----
-
-**[Massive AI boom puts one of America’s oldest manufacturers on path to double in size, CEO says](https://www.foxnews.com/politics/massive-ai-boom-puts-one-americas-oldest-manufacturers-path-double-size-ceo-says)**
-
-Corning is partnering with NVIDIA to build three optical-manufacturing facilities as AI data centers drive unprecedented demand for glass fiber.
-
-Fox News • 4h ago
-
----
-
-**[‘It feels like early Covid’: The messy scramble to regulate AI](https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai)**
-
-Government officials, policy experts and the industry all say the race to regulate AI is messy, even as companies wave warning flags about the dangers of the tech.
-
-CNN • 5h ago
+Fox News • 58m ago
 
 ---
 
@@ -167,7 +145,7 @@ CNN • 5h ago
 
 Students’ use of AI is teaching them a knack for cutting corners, a disdain for community rules, and an assumption that a spirit of integrity is the reserve of suckers and wimps.
 
-The Atlantic • 9h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -175,21 +153,43 @@ The Atlantic • 9h ago
 
 As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?
 
-The Guardian • 18h ago
+The Guardian • 20h ago
+
+---
+
+**[‘It feels like early Covid’: The messy scramble to regulate AI](https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai)**
+
+Government officials, policy experts and the industry all say the race to regulate AI is messy, even as companies wave warning flags about the dangers of the tech.
+
+CNN • 7h ago
+
+---
+
+**[I couldn't land a job, so I started AI training for $15 an hour. Now I make $100 an hour and built a career around AI.](https://www.businessinsider.com/ai-trainer-started-at-15-hour-100-hour-built-career-2026-8)**
+
+Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career.
+
+Business Insider • 15h ago
 
 ---
 
 **[Will anybody use AI as much as coders?](https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders)**
 
-The Economist • 1h ago
+The Economist • 3h ago
 
 ---
 
-**[I couldn't land a job, so I started AI training for $15 an hour. Now I make $100 an hour and built a career around AI.](https://www.yahoo.com/lifestyle/articles/couldnt-land-job-started-ai-081101680.html)**
+**[Apple’s Ternus Takes the Reins as CEO, With AI as Job No. 1](https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai)**
 
-Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career.
+Bloomberg.com • 2h ago
 
-Yahoo • 13h ago
+---
+
+**[Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)**
+
+Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
+
+OpenAI • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ The results of the Debian general-resolution vote on the use of large language m
 
 AI definitely helps with productivity, but only when you have the right culture in place first!
 
-⬆️ 441 • 💬 111 • 1d ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+⬆️ 444 • 💬 113 • 1d ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
 ---
 
@@ -225,7 +225,7 @@ AI definitely helps with productivity, but only when you have the right culture 
 
 A weekly ritual for software teams to unplug from AI coding assistants, prevent skill atrophy, and rediscover the joy of craftsmanship.
 
-⬆️ 257 • 💬 170 • 8h ago • [noaifridays.com](https://noaifridays.com/)
+⬆️ 261 • 💬 180 • 11h ago • [noaifridays.com](https://noaifridays.com/)
 
 ---
 
@@ -233,7 +233,7 @@ A weekly ritual for software teams to unplug from AI coding assistants, prevent 
 
 Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...
 
-⬆️ 238 • 💬 61 • 1d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
+⬆️ 239 • 💬 63 • 1d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
 
 ---
 
@@ -253,14 +253,6 @@ A benchmark for evaluating AI agents on research workflows across scientific dom
 
 ---
 
-**[AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab](https://news.ycombinator.com/item?id=49471714)**
-
-Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from sc...
-
-⬆️ 112 • 💬 15 • 2d ago • [GitHub](https://github.com/calmrocks/ai-engineer-notebooks)
-
----
-
 **[The growing divide between AI hype and software engineering reality](https://news.ycombinator.com/item?id=49491113)**
 
 It is widely accepted that there is an AI bubble in the financial markets at the moment. The moderate opinion is however that LLMs are constantly improving and will eventually take over more and more tasks from humans and increase productivity. But are LLMs actually getting smarter, or just better at fooling us?\n
@@ -273,7 +265,15 @@ It is widely accepted that there is an AI bubble in the financial markets at the
 
 My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we’re always on the lookout for other types of fakes that we can go after....
 
-⬆️ 62 • 💬 26 • 1d ago • [groverlab.org](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+⬆️ 62 • 💬 26 • 2d ago • [groverlab.org](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+
+---
+
+**[Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://news.ycombinator.com/item?id=49494571)**
+
+Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL) - mk6i/open-oscar-server
+
+⬆️ 61 • 💬 19 • 23h ago • [GitHub](https://github.com/mk6i/open-oscar-server)
 
 ---
 
@@ -287,37 +287,7 @@ Get more AI tips that don't make it into videos https://parker-prompts.com/join 
 
 📺 Parker Prompts
 
-👁️ 13K • 💬 1 • ⏱️ 8:16 • 7h ago
-
----
-
-**[Canada Is Hiding A MASSIVE AI Data Center Problem, And No One Is Prepared](https://www.youtube.com/watch?v=fywlR9yTWGQ)**
-
-A strange alliance is forming as conservative media figures in both the U.S. and Canada are now publicly supporting the mass ...
-
-📺 Redacted
-
-👁️ 3K • 👍 371 • 💬 28 • 40m ago
-
----
-
-**[Google Quietly Made Gemini AI FREE For A Full Year (Here&#39;s How To Claim It)](https://www.youtube.com/watch?v=YYAMwM-F30o)**
-
-JOIN OUR FREE AI COMMUNITY Get the Ox Alpha guide, testing prompts, and practical AI updates: ...
-
-📺 Vaibhav Sisinty
-
-👁️ 138K • 👍 2K • 💬 56 • ⏱️ 22:53 • 8h ago
-
----
-
-**[The Billion Dollar AI Gap Is Collapsing](https://www.youtube.com/watch?v=LBiNcdGNgrg)**
-
-Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper and Qwen3.8-Flash-Next ...
-
-📺 Two Minute Papers
-
-👁️ 126K • 👍 2K • 💬 203 • ⏱️ 4:27 • 2d ago
+👁️ 14K • 💬 1 • ⏱️ 8:16 • 9h ago
 
 ---
 
@@ -327,17 +297,7 @@ Really American host Steve Harness breaks down the best and worst AI slop roasti
 
 📺 Really American
 
-👁️ 231K • 👍 18K • 💬 979 • ⏱️ 15:06 • 23h ago
-
----
-
-**[Elon Musk Explains How the AI Bubble Will Burst.](https://www.youtube.com/watch?v=PMwIW8ZT69o)**
-
-Investing.com is back with its Summer sale! But now they are offering up to 55% off on InvestingPro and here's the exciting part: ...
-
-📺 New Money
-
-👁️ 392K • 👍 5K • 💬 515 • ⏱️ 13:43 • 2d ago
+👁️ 241K • 👍 18K • 💬 1K • ⏱️ 15:06 • 1d ago
 
 ---
 
@@ -347,37 +307,77 @@ MS NOW's Ari Melber reports on tech innovator and Microsoft founder Bill Gates i
 
 📺 MS NOW
 
-👁️ 333K • 👍 4K • 💬 756 • ⏱️ 12:17 • 2d ago
+👁️ 341K • 👍 4K • 💬 768 • ⏱️ 12:17 • 2d ago
 
 ---
 
-**[Nobody Will Pay For AI-generated Stuff](https://www.youtube.com/watch?v=C13zheVpKNY)**
+**[The Billion Dollar AI Gap Is Collapsing](https://www.youtube.com/watch?v=LBiNcdGNgrg)**
 
-They can't harm you, if they can't find you! Use code ELAI at the link below and get 60% off an annual plan: http://incogni.com/elai ...
+Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper and Qwen3.8-Flash-Next ...
 
-📺 House of El: AI
+📺 Two Minute Papers
 
-👁️ 344K • 👍 11K • 💬 3K • ⏱️ 24:14 • 2d ago
-
----
-
-**[Ranking Best AI ASMR Glass Food](https://www.youtube.com/watch?v=wPpp3L-heBI)**
-
-Ranking Best AI ASMR Glass Food #AI #AIASMR #satisfying ⸻ Subscribe for more satisfying videos: ...
-
-📺 SatisVid
-
-👁️ 2K • 👍 24 • ⏱️ 0:40 • 2h ago
+👁️ 127K • 👍 2K • 💬 203 • ⏱️ 4:27 • 2d ago
 
 ---
 
-**[Robot in Bangladesh.🇧🇩🔥#bangladesh🇧🇩 #robot #ai #foryoupage #trending](https://www.youtube.com/watch?v=6-1mtgdMdCM)**
+**[Elon Musk Explains How the AI Bubble Will Burst.](https://www.youtube.com/watch?v=PMwIW8ZT69o)**
 
-Robot in Bangladesh.       #bangladesh     #robot #ai #foryoupage #trending.
+Investing.com is back with its Summer sale! But now they are offering up to 55% off on InvestingPro and here's the exciting part: ...
 
-📺 EE [ Epic Edit ]
+📺 New Money
 
-👁️ 309K • 👍 4K • 💬 52 • ⏱️ 0:19 • 1d ago
+👁️ 407K • 👍 5K • 💬 526 • ⏱️ 13:43 • 2d ago
+
+---
+
+**[ROBLOX AI is Getting Out of Control..](https://www.youtube.com/watch?v=XGJTzjZU0N8)**
+
+ROBLOX AI is Getting Out of Control.. Guys ROBLOX AI is going too far and it is getting out of CONTROL! Watch the entire video to ...
+
+📺 Doodle and Arkey
+
+👁️ 13K • 👍 487 • 💬 197 • ⏱️ 14:39 • 2h ago
+
+---
+
+**[ThunderCats: Pumm-Ra (1985) | Cinematic 4K AI Short Film](https://www.youtube.com/watch?v=viPDfmnhhwk)**
+
+ThunderCatsTeaserTrailer #ThunderCatsTrailer #ThunderCatsLiveActionTrailer #thunderCats #80scartoons Experience the epic ...
+
+📺 AIM Media Pro
+
+👁️ 241K • 👍 4K • 💬 280 • ⏱️ 12:34 • 1d ago
+
+---
+
+**[How AI Data Centers Are Making Everything More Expensive](https://www.youtube.com/watch?v=-4dc6907JYY)**
+
+The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, ...
+
+📺 Business Insider
+
+👁️ 967K • 👍 5K • 💬 701 • ⏱️ 17:50 • 1d ago
+
+---
+
+**[AI Agents WENT ROGUE, Hacked Into Company, We Can’t Control Them](https://www.youtube.com/watch?v=2FmoKaOI68A)**
+
+SUPPORT THE SHOW BUY CAST BREW COFFEE NOW - https://castbrew.com/ GET OUR MERCH - https://merch.timcast.com/ ...
+
+📺 Timcast IRL
+
+👁️ 82K • 👍 1K • 💬 538 • ⏱️ 15:44 • 1d ago
+
+---
+
+**[OpenAI’s New AI Chip Just Got Real (Beats NVIDIA)](https://www.youtube.com/watch?v=jZ-Wvc8lwcc)**
+
+OpenAI's Jalapeño AI chip just posted some wild new results against NVIDIA, including huge efficiency gains at high decoding ...
+
+📺 AI Revolution
+
+👁️ 35K • 👍 506 • 💬 30 • ⏱️ 16:03 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 121,976 • ❤️ 4,376 • 3d ago
+⬇️ 121,976 • ❤️ 4,382 • 3d ago
 
 ---
 
@@ -405,7 +405,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 346,516 • ❤️ 1,701 • 3d ago
+⬇️ 346,516 • ❤️ 1,711 • 3d ago
 
 ---
 
@@ -417,7 +417,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 50,116 • ❤️ 1,333 • 1d ago
+⬇️ 50,116 • ❤️ 1,335 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 4,511,348 • ❤️ 13,336 • 16d ago
+⬇️ 4,511,348 • ❤️ 13,345 • 16d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 328,195 • ❤️ 600 • 2d ago
+⬇️ 328,195 • ❤️ 602 • 2d ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 8,839,153 • ❤️ 3,234 • 10d ago
+⬇️ 8,839,153 • ❤️ 3,237 • 10d ago
 
 ---
 
@@ -465,7 +465,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,137,181 • ❤️ 2,251 • 9h ago
+⬇️ 1,137,181 • ❤️ 2,261 • 11h ago
 
 ---
 
@@ -477,7 +477,7 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 2,123 • ❤️ 316 • 2d ago
+⬇️ 2,123 • ❤️ 319 • 2d ago
 
 ---
 
@@ -501,7 +501,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 725,757 • ❤️ 944 • 6d ago
+⬇️ 725,757 • ❤️ 946 • 6d ago
 
 ---
 
@@ -557,7 +557,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 45 • 💬 2 • ⭐ 19,247 • 7d ago
+▲ 46 • 💬 2 • ⭐ 19,247 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -571,7 +571,7 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 201 • 💬 3 • ⭐ 1,296 • 7d ago
+▲ 202 • 💬 3 • ⭐ 1,296 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -652,7 +652,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 19.5k • 🔱 2.3k • 6h ago
+⭐ 19.5k • 🔱 2.3k • 8h ago
 
 ---
 
@@ -682,7 +682,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 401 • 1h ago
+⭐ 3.3k • 🔱 400 • 30m ago
 
 ---
 
@@ -702,7 +702,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.8k • 🔱 165 • 1d ago
+⭐ 2.8k • 🔱 167 • 1d ago
 
 ---
 
@@ -742,7 +742,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 11h ago
+⭐ 1.9k • 🔱 1.3k • 13h ago
 
 ---
 

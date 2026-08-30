@@ -6,33 +6,13 @@
   "articles": [
     {
       "headline": "Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUN6ak8wOFNkNjZXUEdDUlZYXzNnWlpUNEhxSExseVRaYkF0bjhoSk4xSlpzZTdLNzdiencwOC1iY2hWUV9BcU1GeFQtZ3lVT29iQ1lkV0dGWHpvdk9vcjQ1Q0IweWlRX0RnbXNyWjJlSHIzdlJBbGdlTTR2bEhhN1RXT0d4SVJpVVdlWHh6d3pzMHhFQjYtaE1OcFdvMGM1czFwQWp0REJNblV5NVE?oc=5",
-      "pub_date": 1788021000.0,
-      "article_url": "https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2438190465-huge-licensed-scaled.jpg",
-      "description": "Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today."
-    },
-    {
-      "headline": "XRP\u2019s 700% Rally Forecaster Says Ethereum Is Now Crypto\u2019s Cleanest Chart",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEl6azMzLVdad0FEeWhib1FyMjN0QjVuajBnbko0SDRfU2xucTQ3NGZfNEdSZEcyOGlBb3lvSF9PT193NTJjVHhTY1N0eWZyOTM4V0l2ZGVtdDY5a1J1Y3ZRR2d4ZWdtWXY1UVc2dGpfQ2s1bnpyWFhTTEg0ZzR0b3NGTExFcW5aNGNqR1RlQWtMV0t2VldBa3dLS2RPZw?oc=5",
-      "pub_date": 1788090352.0,
-      "article_url": "https://coinpaper.com/35011/xrps-700-rally-forecaster-says-ethereum-is-now-cryptos-cleanest-chart",
-      "image": "https://imagecodex.com/v1/coinpaper/media/6e341964-c4d9-4992-b177-438b77f59e99.png",
-      "description": "DonAlt says Ethereum has crypto\u2019s cleanest chart as ETH holds a major breakout, while XRP cools after its sharp August rally."
-    },
-    {
-      "headline": "Russia\u2019s Largest Bank Wants Bitcoin and Ethereum as Collateral",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUElMRE1BbXRHeEZQek9naC1jZnFCMlNVX1dNd3k3YW1ieVIxQlhLcGd0OXoyRG5uODg5QWhQLUIxMUZ0N3gzSVRCYXFoSnNxT21WQ2ZlTkFkTnF6LVFCYmlPYzhUUm9HWmlfZEVxUEl3ZV8ybm9OLWNKTVFoNU9vcEZNeGpKb2huZFc4R19Wc0hxX2haTzlETXJvYi1ocWM?oc=5",
-      "pub_date": 1788116375.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/russia-largest-bank-wants-bitcoin-185935086.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d952425c6112306b931a4968f33d2d6fefc6c2c6f1ea12b9fb313389e6429f00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1f1cf5631a7e301662ee2189cbc60299.jpg",
-      "description": "Sberbank plans bitcoin, ether and USDT loan collateral as Russia's crypto law starts, but domestic payments stay banned."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdldDRHFTd3luSEcwd0ZDVko4Zm9yVkoxNjRvOXJKOGZTMGw3YXdzQjdYZ0xZWVFxR01tcnVta3ZsQmhtME42Tm5XUzBBeUkzTnBpSVBEVldYeTBxMUllTTRiYkhTTV9vQ01GaFRBeU5sSnB1MFFOQU9lS3FxX1RrTDRBM08zTDhtNWlWZVZudVJJeU9aeVJYQ212VTZCZw?oc=5",
+      "pub_date": 1788021039.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-crypto-best-163039694.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b0aa2fd02424b3379c23d9cd5e8d56936f5ad797b0bcc821cf4eada1bdef3e1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F45f8ceb947496b9b6a94aa4d280b230e.jpg",
+      "description": "Bitcoin, Ethereum, and XRP have each staged a sharp two-week comeback after months of losses, but the catalysts driving each coin point in very different directions for the year ahead."
     },
     {
       "headline": "What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?",
@@ -43,6 +23,26 @@
       "article_url": "https://www.tradingview.com/news/coinpedia:584e6235e094b:0-what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru\u2026"
+    },
+    {
+      "headline": "Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUN6ak8wOFNkNjZXUEdDUlZYXzNnWlpUNEhxSExseVRaYkF0bjhoSk4xSlpzZTdLNzdiencwOC1iY2hWUV9BcU1GeFQtZ3lVT29iQ1lkV0dGWHpvdk9vcjQ1Q0IweWlRX0RnbXNyWjJlSHIzdlJBbGdlTTR2bEhhN1RXT0d4SVJpVVdlWHh6d3pzMHhFQjYtaE1OcFdvMGM1czFwQWp0REJNblV5NVE?oc=5",
+      "pub_date": 1788021000.0,
+      "article_url": "https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2438190465-huge-licensed-scaled.jpg",
+      "description": "Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today."
+    },
+    {
+      "headline": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBRdDBxMlNBWlVqVkFJbldfMW41WWZZVUdMaEJwMXZLRzhqTWdnZHZKT3djZzhqczFPb0RnbjZmaFpuMXg3NndBUmJPNkI2ekl4N2c3SkJxbE1HVGpzdG9NSFZ6c0ZvUGVFbmZSa20yT1VPNVVUN013LVlObGk5ZHg1enBfQ0RBeDFwWmFUX2ptUlNwTUE?oc=5",
+      "pub_date": 1788125464.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-snap-nine-day-213104398.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ca42ffb6bf56ba9ea8b05592ab0aee2b4c0fd95ccd8d77fd029de8a0ed1da1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F85924fed6d206e6a3f235c8eac680414.png",
+      "description": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash."
     },
     {
       "headline": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-30T21:25:05.918983+00:00"
+  "fetched_at": "2026-08-30T23:42:51.875870+00:00"
 }

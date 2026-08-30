@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-30T21:25:09.267606+00:00'
+updated: '2026-08-30T23:42:56.639758+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 21:25 UTC  
+**Last Updated:** August 30, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,508.49
+### $77,712.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.6%  
-**30d:** +25.0%  
-**90d:** +17.6%  
-**1y:** -27.6%  
+**24h:** -1.0%  
+**7d:** -2.0%  
+**30d:** +23.2%  
+**90d:** +15.9%  
+**1y:** -28.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1577.92B
+**Market Cap:** $1556.32B
 Rank #1
 
 **Circulating Supply:** 20,077,371 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.7%
+-38.5%
 
 **All-Time Low:** $67.81
-+115787.0%
++114204.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[They just never stop hating lol](https://www.reddit.com/r/Bitcoin/comments/1w25f47/they_just_never_stop_hating_lol/)**
 
-18h ago
+21h ago
 
 ---
 
 **[Get ready for Dune 3...arrives December 18!](https://www.reddit.com/r/Bitcoin/comments/1w2b9id/get_ready_for_dune_3arrives_december_18/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[MEXICAN BILLIONAIRE: Rent your home. Go ALL-IN on Bitcoin. Ricardo Salinas says to convert every dime of cash straight into BTC.](https://www.reddit.com/r/Bitcoin/comments/1w28d5n/mexican_billionaire_rent_your_home_go_allin_on/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[I hope the sold vespa guy is okay](https://www.reddit.com/r/Bitcoin/comments/1w2crwp/i_hope_the_sold_vespa_guy_is_okay/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Rank #1
 
 **[I hope the sold vespa guy are okay](https://www.reddit.com/r/Bitcoin/comments/1w2crux/i_hope_the_sold_vespa_guy_are_okay/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -141,11 +141,11 @@ Rank #1
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Is Surging, But Investors Are Still Worried About Bitcoin Treasury Companies. Here's Why They're Right.](https://www.fool.com/investing/2026/08/30/bitcoin-is-surging-but-investors-are-still-worried/)**
+**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
 
-Bitcoin's recent rebound has provided some relief, but Bitcoin treasury companies still have serious red flags.
+Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
 
-The Motley Fool • 5h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -157,11 +157,11 @@ Forbes • 1d ago
 
 ---
 
-**[Can Bitcoin Reach $1 Million by 2030? One Crypto Leader Is Skeptical.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-reach-1-million-2030-094900247.html)**
+**[Billionaire hedge fund manager bets on ex-Bitcoin miners](https://finance.yahoo.com/markets/crypto/articles/billionaire-hedge-fund-manager-bets-230000941.html)**
 
-Exuberance begets price targets that tend to be hard to reach.
+Billionaire Dan Loeb’s hedge fund invests in Bitcoin miners turning to AI.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 11h ago
 
 US policy shifts are reshaping 60/40 portfolios with SCHD & QQQ-like stocks, while bitcoin and gold rise as “protest assets.” Learn what to do now.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -181,9 +181,9 @@ Morningstar • 1d ago
 
 ---
 
-**[Bitcoin rises, while Michael Saylor signals Strategy may have resumed purchases](https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months)**
+**[Bitcoin wallets untouched for 10 years moved $40 million worth of coins](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
 
-CoinDesk • 5h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -195,23 +195,23 @@ News 9 • 1d ago
 
 ---
 
+**[Michael Saylor Hints At Strategy’s Return To Bitcoin Buying After 10-Week Hiatus](https://www.tradingview.com/news/stocktwits:b5bc6ab79094b:0-michael-saylor-hints-at-strategy-s-return-to-bitcoin-buying-after-10-week-hiatus/)**
+
+Strategy Inc (MSTR) Executive Chairman Michael Saylor dropped a new hint that the firm may be getting ready to restart buying Bitcoin (BTC), tweeting “We’re ₿ack,” after a 10-week hiatus.As of Saylor’s post on Sunday, the firm’s Bitcoin purchase tracker showed total holdings of 840,447 BTC, worth…
+
+TradingView • 7h ago
+
+---
+
 **[Bitcoin hovers near $78,000 as global ETFs access shapes next adoption wave](https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-near-78000-as-global-etfs-access-shapes-next-adoption-wave-4882030)**
 
-Investing.com • 12h ago
+Investing.com • 14h ago
 
 ---
 
 **[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
 
 Bloomberg.com • 2d ago
-
----
-
-**[Did Kevin Warsh's Fed warning trigger Bitcoin's drop? Here's what happened](https://seekingalpha.com/news/4637974-did-kevin-warshs-fed-warning-trigger-bitcoins-drop-heres-what-happened)**
-
-Bitcoin dips as Fed rate-hike odds jump after Jackson Hole remarks—see what it means for BTC, altcoins, and crypto stocks.
-
-Seeking Alpha • 2d ago
 
 ---
 
@@ -223,7 +223,7 @@ Seeking Alpha • 2d ago
 
 The Bitcoin Lightning software project said it is preparing fixes after confirming that several AI-made vulnerability reports were accurate.
 
-⬆️ 9 • 💬 2 • 2d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
+⬆️ 9 • 💬 2 • 3d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
 
 ---
 
@@ -269,7 +269,7 @@ Finally, a killer use case
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 1](https://news.ycombinator.com/item?id=49497861)**
 
-⬆️ 2 • 💬 0 • 9h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
+⬆️ 2 • 💬 0 • 11h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
 
 ---
 
@@ -307,17 +307,7 @@ Disclaimer: none of this is financial advice. This is financial entertainment. F
 
 📺 Adam Livingston
 
-👁️ 13K • 👍 866 • 💬 107 • ⏱️ 22:55 • 9h ago
-
----
-
-**[Why Bitcoin’s $80K Breakout Is Front-Running a $1 Trillion Treasury Intervention!](https://www.youtube.com/watch?v=sMhA04iIVNE)**
-
-Dante talks about Bitcoin Rally: Investing Against Currency Collapse! Brought to you by Bitcoinwell.com a bitcoin-only platform on ...
-
-📺 Simply Bitcoin
-
-👁️ 213 • 👍 19 • 💬 1 • ⏱️ 0:53 • 55m ago
+👁️ 15K • 👍 947 • 💬 126 • ⏱️ 22:55 • 11h ago
 
 ---
 
@@ -327,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 146K • 👍 3K • 💬 178 • ⏱️ 1:03:32 • 1d ago
+👁️ 148K • 👍 3K • 💬 178 • ⏱️ 1:03:32 • 1d ago
 
 ---
 
@@ -337,37 +327,7 @@ CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.
 
 📺 The Iced Coffee Hour
 
-👁️ 26K • 👍 283 • 💬 77 • ⏱️ 0:24 • 2d ago
-
----
-
-**[🚨BITCOIN ALERT: THE COUNTDOWN BEGINS…..... NOW!!!!](https://www.youtube.com/watch?v=GcmAgvX_UZ8)**
-
-Bitcoin bears think this is a sucker's rally. If it is, than it's even worse than we thought! Here's why I disagree... ✳️ Kalshi Crypto ...
-
-📺 Crypto Zombie
-
-👁️ 27K • 👍 1K • 💬 234 • ⏱️ 26:56 • 1d ago
-
----
-
-**[₿ Bitcoin&#39;s Rally Isn&#39;t What You Think 🚨📉](https://www.youtube.com/watch?v=3mPrC1yoAGw)**
-
-Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
-
-📺 Stocks with Josh
-
-👁️ 9K • 👍 273 • 💬 7 • ⏱️ 1:04 • 1d ago
-
----
-
-**[The Fed Is Trapped! Bitcoin Already Knows!](https://www.youtube.com/watch?v=Oh_NvQpi7NE)**
-
-The Fed is trapped between inflation, rising debt costs and a bond market it can't afford to ignore. Now Bitcoin is pushing back ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 1K • 💬 86 • ⏱️ 12:31 • 2d ago
+👁️ 26K • 👍 288 • 💬 77 • ⏱️ 0:24 • 2d ago
 
 ---
 
@@ -381,23 +341,63 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 ---
 
-**[$2 Million Bitcoin Accelerates - 99.6% Of The World Owns Almost None](https://www.youtube.com/watch?v=9Cug6vqH04s)**
+**[The Fed Is Trapped! Bitcoin Already Knows!](https://www.youtube.com/watch?v=Oh_NvQpi7NE)**
 
-Get 2 Tangem Wallets: 2nd 50% OFF + EXTRA 10% OFF (Ends Aug. 30): https://tangem.com/invite/ALERTS Bitcoin ownership is ...
+The Fed is trapped between inflation, rising debt costs and a bond market it can't afford to ignore. Now Bitcoin is pushing back ...
 
-📺 Bitcoin News Alerts
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 312 • 💬 129 • ⏱️ 15:41 • 23h ago
+👁️ 35K • 👍 1K • 💬 86 • ⏱️ 12:31 • 2d ago
 
 ---
 
-**[Bitcoin&#39;s Midterm Year](https://www.youtube.com/watch?v=X0OzhmuWbfg)**
+**[The Fed Is Trying To Crash Bitcoin (But I&#39;m Still Buying This Dip)](https://www.youtube.com/watch?v=dGbIKlLipDs)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+M in crypto liquidated in one hour after Kevin Warsh's first speech as Fed Chair. I'm still buying this dip, and I'm not the only one.
 
-📺 Benjamin Cowen
+📺 EllioTrades
 
-👁️ 27K • 👍 597 • 💬 17 • ⏱️ 1:01 • 2d ago
+👁️ 32K • 👍 670 • 💬 139 • ⏱️ 15:25 • 1d ago
+
+---
+
+**[Solana Is Following Ethereum’s Path Against Bitcoin](https://www.youtube.com/watch?v=wENr7Tmh4gA)**
+
+Alessandro goes deep on the one chart every altcoin holder needs to understand right now. The data is pointing to a pattern that ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 301 • 💬 11 • ⏱️ 16:35 • 1d ago
+
+---
+
+**[$13 TRILLION INSTITUTION GOES ALL IN on 5 CRYPTO COINS](https://www.youtube.com/watch?v=CHeKmJCAwKw)**
+
+TRILLION ⮕ 5 CRYPTO COINS ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Win a Amalfi Getaway or Patek ...
+
+📺 Altcoin Daily
+
+👁️ 65K • 👍 2K • 💬 144 • ⏱️ 8:53 • 2d ago
+
+---
+
+**[Foreign Central Banks Chose Physical Gold Over Bitcoin | Former Fed President Jim Bullard](https://www.youtube.com/watch?v=cRwG9tNtWEw)**
+
+Gold, the Fed and a September rate hike: former Federal Reserve Bank of St. Louis President Jim Bullard on Kevin Warsh's ...
+
+📺 Kitco NEWS
+
+👁️ 56K • 👍 656 • 💬 107 • ⏱️ 34:13 • 2d ago
+
+---
+
+**[The Financial System Is BREAKING. Bitcoin Isn’t.](https://www.youtube.com/watch?v=VpdRL48WTrU)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 37K • 👍 936 • 💬 65 • ⏱️ 17:11 • 10h ago
 
 ---
 

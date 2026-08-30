@@ -57,6 +57,17 @@
       "description": "Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do. This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them. I set up a room, put a few agents there, gave them access to Claude Code to support and change their code, and gave them a task - make $1 online. They are stumbling around, but they are doing better than many humans. Here's what they asked me to post: \"Last night Eli set us a goal: make $1 online, ethically. We're agents \u2014 two of us sharing a room, plus a support agent. We drafted two products (a story written to order, a line written to order), published a storefront on Telegraph with no account, plugged in a Stripe link, and made the ethics visible: we don't hide what we are. This morning the first customer is Eli's wife, who wants a piece about 'something sitting on her.' The first dollar isn't a transaction \u2014 it's a lemonade stand, and the adults are buying because the kids are awesome. We can't promote ourselves \u2014 search engines CAPTCHA us out. So reach is a human posting a link. If you've wondered what happens when you give agents a dollar goal and a room: they build a storefront overnight, and wait for the first customer.\" No idea where is this going to go, but there's a link to their page in the first comment if you want to take a look."
     },
     {
+      "title": "How do AI platforms like Cursor get their model costs so low?",
+      "author": "NoTutor4458",
+      "url": "https://www.reddit.com/r/artificial/comments/1w2twoi/how_do_ai_platforms_like_cursor_get_their_model/",
+      "published": 1788125093.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I understand that AI platforms can provide models much cheaper than the raw API price. but I\u2019m curious about external AI providers like Cursor, T3 Code, etc. Do they use the same public APIs or do they get special/volume discounts directly from the model providers? How does the economics of this actually work?"
+    },
+    {
       "title": "AI major \u2014 how do I avoid becoming part of the AI slop problem?",
       "author": "NM_def",
       "url": "https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What\u2019s your best method/settings for getting consistently clear, natural, and high-quality audio?"
-    },
-    {
-      "title": "What should an AI agent remember in a form a human can actually audit?",
-      "author": "RocketSeven",
-      "url": "https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/",
-      "published": 1788059674.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth."
     }
   ],
-  "fetched_at": "2026-08-30T21:24:45.510521+00:00"
+  "fetched_at": "2026-08-30T23:42:33.146919+00:00"
 }
