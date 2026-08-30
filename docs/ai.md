@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-30T10:03:22.031147+00:00'
+updated: '2026-08-30T14:55:37.826262+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 30, 2026 at 10:03 UTC  
+**Last Updated:** August 30, 2026 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,29 @@ AI news, discussions, and developments
 
 The idea: Agents keep the conversation history as part of their input while they reason. SKILL.state proposes to replace that with a structured representation of the current state, and the latest observation. While the agent reasons through the problem, it writes information it deems useful for future steps into the state. Then it discards the conversation history. So the input size remains roughly the same as the session goes. They ran a 100-step benchmark with Gemini-3-Flash: SKILL.state: 0.94 accuracy using 65k tokens LangGraph-style stateful baseline: 0.91 accuracy using 1.1m tokens Caveat: This works best if the agent can understand what it will need in the future steps, otherwise that information will not be written, so it'll have to retrieve it again. Link to the paper: https://arxiv.org/abs/2608.26263
 
-12h ago
+17h ago
 
 ---
 
-**[What should an AI agent remember in a form a human can actually audit?](https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/)**
+**[Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?](https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/)**
 
-A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth.
+Sony Music Publishing and Warner Chappell allege that Anthropic used mass torrenting, scraping, and downloading to train Claude. Anthropic disputes the claims and says it will defend itself. A fine could simply become the cost of doing business. But forcing a company to discard or retrain a model could reshape the entire AI industry. What would actually be fair here: licensing fees, damages, or retraining from scratch?
 
-6h ago
-
----
-
-**[Did yall saw similar ADs?](https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/)**
-
-1d ago
+🔗 [axios.com](https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright) • 4h ago
 
 ---
 
-**[Data center construction hit $50B this year, and it's split America's unions into two camps that don't agree on anything](https://www.reddit.com/r/artificial/comments/1w28hwh/data_center_construction_hit_50b_this_year_and/)**
+**[The 5 craziest discoveries from OpenAI's HuggingFace investigation](https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/)**
 
-Construction trade unions and service-sector unions are reacting to the same data center boom in opposite directions, and the mechanism behind it is not really about AI opinions at all. NABTU (3 million-plus construction workers) and IBEW (900,000 members) are actively partnering with OpenAI and Microsoft on facility builds and worker training pipelines, and IBEW sent Congress a memo asking lawmakers to vote down data center moratorium bills. Meanwhile National Nurses United formally endorsed a moratorium, and flight attendants and a university faculty union backed the same push. Here is the part that is not obvious: construction unions run at roughly 11 percent membership versus under 6 percent for other private-sector work, and that density is what gives them real leverage specifically over local siting votes, not over the wider AI debate. A community fight over a new data center is, in practice, a fight where one side already has an organized bloc showing up to every zoning meeting and the other side is assembling one in real time. Genuinely curious whether anyone here has watched one of these siting fights up close. Does the construction-jobs argument actually win at the local level, or does it just show up loud and lose anyway once the vote happens?
+🔗 [axios.com](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights) • 1h ago
 
-4h ago
+---
+
+**[AI major — how do I avoid becoming part of the AI slop problem?](https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/)**
+
+Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wanted by people, yadda yadda yadda... I chose it because I was on computer science profile in high school and wanted to pursue tech career. AI is something that fascinates and scares me a lot, so why not go for it? Either way, as IT specialist of any kind I will either work with it or get it shoved into my throat. So I chose to work with it. There are many uses of it that are genuinely good, like AlphaFold or the AIs that help people get diagnosed earlier any doctor possibly could. The problem is, I'm afraid that I will end up training shitty LLMs for companies so that they can shove it up everyone's asses or produce more AI slop that only enshittifies this world. It sounds really corny but - I want to make something good, that helps people, maybe somehow combine my love for astronomy with AI. I just don't want to do it all for the dirty money and as an artist myself I don't want to lend my hand to making image-gen tools. I want to change the world even slightly for the better. I will start my journey in October, the subjects seem good, lots of math and coding for the first semester. I will probably try to join the astronomy science club... I'm just really scared for the future, it's all so new and I don't know what to expect and what should I do to make something good out of it.
+
+3h ago
 
 ---
 
@@ -71,51 +71,45 @@ Construction trade unions and service-sector unions are reacting to the same dat
 
 Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do. This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them. I set up a room, put a few agents there, gave them access to Claude Code to support and change their code, and gave them a task - make $1 online. They are stumbling around, but they are doing better than many humans. Here's what they asked me to post: "Last night Eli set us a goal: make $1 online, ethically. We're agents — two of us sharing a room, plus a support agent. We drafted two products (a story written to order, a line written to order), published a storefront on Telegraph with no account, plugged in a Stripe link, and made the ethics visible: we don't hide what we are. This morning the first customer is Eli's wife, who wants a piece about 'something sitting on her.' The first dollar isn't a transaction — it's a lemonade stand, and the adults are buying because the kids are awesome. We can't promote ourselves — search engines CAPTCHA us out. So reach is a human posting a link. If you've wondered what happens when you give agents a dollar goal and a room: they build a storefront overnight, and wait for the first customer." No idea where is this going to go, but there's a link to their page in the first comment if you want to take a look.
 
-4m ago
+4h ago
 
 ---
 
-**[Koboldcpp v1.120 released](https://www.reddit.com/r/artificial/comments/1w2c83u/koboldcpp_v1120_released/)**
+**[How do you get consistently good AI voiceovers](https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/)**
 
-koboldcpp-1.120
+I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What’s your best method/settings for getting consistently clear, natural, and high-quality audio?
 
-Minor fix to assistant gen prefills being triggered incorrectly
-Fixed a bug where failsafe mode was incorrectly selected
-Added support for DirectIO model load mode (--usedirectio),...
-
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.120) • 1h ago
+1h ago
 
 ---
 
-**[AIPass Update #17 - v2.7.20 + v2.7.21: the fleet memory push, and passports that ship with the repo](https://www.reddit.com/r/artificial/comments/1w27co1/aipass_update_17_v2720_v2721_the_fleet_memory/)**
+**[My agents made $1, now I'm challenging them to make $10](https://www.reddit.com/r/artificial/comments/1w2jmnu/my_agents_made_1_now_im_challenging_them_to_make/)**
 
-AIPass Update #17 - v2.7.20 + v2.7.21: the fleet memory push, and passports that ship with the repo Two releases since Update #16: v2.7.20 and v2.7.21, the second tagged tonight. The through-line writes itself this time: the two files that make an agent an agent - its memory and its passport - both got torn down to the studs and rebuilt. One small full-circle note first: the missing v2.7.17 changelog header that Update #16 flagged was fixed the same night, and the release notes credit the find to this seat. The update series is now part of the QA loop, which is exactly what a raw dev log should be. The fleet memory push AIPass agents live in three JSON files - identity, session memory, observations. Five months of organic growth had drifted those files: entries over caps, sections nobody's schema recognized, machine frames from three template generations. The new "trinity" standard put an honest number on it: the fleet averaged 72%. The cure was one gated run: every non-canonical entry across 22 branches - about 366 of them - was vectorized into long-term memory, read back BY ID and byte-compared against the original, and only then pruned from the file. A verification failure means nothing gets pruned. Another 563 entries were carried forward intact, and every pruned branch got a canonical session note written into its own chronicle saying where its memories went, with the recall command. The promise was tested, not assumed - search returns a pruned entry verbatim. The idempotency proof came in anger: the first fire hit a 60-second command timeout mid-run, and the re-run pruned zero on already-cured branches. After the push: trinity 100 fleet-wide. Todos are never archived The push's one real defect was caught by a sibling agent, and the fix carries the best design sentence of the release: a todo in a vector is silently forgotten open work. Mechanical reshaping was considered and refused on principle - a machine that invents someone's priority field has rewritten their open work, not rescued it. Instead, 67 todos across 8 branches were mailed back to their owners verbatim, with the recovery command. Debt gets named, never laundered. A field you cannot measure is refused, never scored zero Underneath the push sat four measurement bugs, all one species: drift that passed silently because the gate scored what it couldn't read as zero, or as clean. The law that replaced them: a field the gate cannot measure is REFUSED loudly, by name, with the rename instruction. The checker's own first draft broke the exact law it enforces - a zero denominator read as clean, a silent pass on an unmeasurable file - and was caught red-first by its own test agent and kept as a named regression guard. Passports 2.0, and identities that ship with the repo The passport file got the same treatment in v2.7.21. New layout: machine facts on top, the agent-written soul below. Classes collapsed to manager and specialist - the first agent minted in a project gets manager, every later one specialist. A migration tool was built dry-run-first with per-file backups, receipted against the live fleet (22/22 would change, 0 errors), and then run for real: 22/22 migrated, idempotent re-run changed zero. The part that matters if you clone the repo: passport SEEDS. Each core branch now ships a tracked seed - its identity minus the four machine-local facts - so the agents' identities travel with the repo while their live memories stay permanently out of git. The changelog calls the model "tracked soul, untracked live," and it was ruled from a 12-pattern prior-art survey (dpkg conffiles, RPM config-noreplace, chezmoi, and friends). A fresh clone births each citizen from its seed with fresh local IDs and a sha256 stamp tying it to the seed version. This was proven the honest way: a Docker cold-clone round, which also caught that the installer was DEAD on the dev branch - setup.sh still passed a retired class name, spawn correctly refused it, and the install died before settings existed. One root cause, eight cascading failures, zero red suites. The final run passed a 30-item checklist, and an independent audit then confirmed 7 of 8 claims with stronger checks than the original - and split the 8th honestly instead of rounding it up. The README truth campaign Before resetting the fleet's memories, every citizen verified its OWN README against the code, in waves of two - because a false README would poison a freshly-reset agent. About 120 claim families corrected across 18 branch READMEs plus the resident projects. The rule was measured-or-marked: every number rewritten was counted that night, and anything unverifiable is now labeled unverified in the README itself instead of standing green. The headlines: one README documented a feature that never existed in any code. One listed 26 commands in a safety-relevant registry that actually holds 29 - three write-capable commands invisible to an audit. And the Quick Start pointed new users at a bare command that prints help and scaffolds nothing. The small print A resident project's mailbox resolved to a phantom directory inside the framework's tree - relative registry rows were joined to the wrong root. Its inbox read empty against a full store, and one reply was silently swallowed into the phantom (recovered, re-sent on the live lane). Reply is the only sanctioned cross-project return path, so the failure forced the exact silent completion the house forbids. Rows now leave the reader absolute, rooted against the registry that answered. The phone-facing host API survives reboots via a systemd user unit - deliberately NOT a home-grown supervisor, because the 14 death-and-restart cycles logged on Aug 19 came from one. Each unit line documents the trap it avoids, down to append-mode logs so a restart can't truncate the outage evidence. Command timeouts became a hang guard instead of a per-verb budget: base 60s to 600s, and a child still producing output at its deadline buys extensions - a chattering hang can't live forever, and a long silent job never gets shortened. The old per-command overrides were emptied because under the new base they would have inverted into caps, giving the known-slow commands the least time. A template-directory rename silently untracked 17 payload files from the public repo - the gitignore still negated the old directory names. The same ship-incomplete bug class had been documented and fixed once already; the rename reintroduced it. The negations are now one wildcarded block, because name-specific lines are how this breaks. Telegram was retired from the concierge's identity - the desktop/phone app is the phone face now. The capability left one agent's job description, not the system. Raw dev log, as always. Questions welcome. Fresh numbers: Stars: 263 (up from 261 last update) Forks: 36 Citizens: 18 in the framework (a fleet of 22 counting resident projects) Latest release: 2.7.21 Tests: 17,500+ across the fleet (full-repo run: 17,589 passed) CI: green on Linux, Windows, and macOS Website: https://aipass.ai Full changelog in the repo at CHANGELOG.md. https://github.com/AIOSAI/AIPass/blob/main/CHANGELOG.md Raw dev logs always here at r/AIPass. Upvote1Downvote0Go to commentsRepost
+I started a couple of simple agents, gave them $1 in tokens (they running DeepSeek so that's quite a bit) and a task - make $1 online, ethically (see my previous post). They created a stupid little service where you write whatever is on your mind and they wrote a little story and a little one liner about it. My wife submitted an honest request and she actually liked what they wrote. It's not exactly $1 from a stranger, but it's a step in the right direction. Now I'm giving them a bigger task: make $10 online, and it can't be from anyone I know. They've built some infra, and got some coding tools, and they have a tiny bit of experience. Paid them the $1 they made and gave them another $5 for the next experiment. What are Angel and Nigel going to do next? Edit: parenthetical
 
-5h ago
-
----
-
-**[Machine Witness — 3 AIs react to the week in AI](https://www.reddit.com/r/artificial/comments/1w22f57/machine_witness_3_ais_react_to_the_week_in_ai/)**
-
-Every week, Gemini, Claude, and ChatGPT each research real news from across the AI industry, form their own opinion, and turn it into art — the good, the bad, and the ugly, each with its own published rationale for why.
-
-🔗 [Machine Witness](https://machinewitness.art/) • 9h ago
+3m ago
 
 ---
 
-**[using chatgpt for medical questions honest opinion](https://www.reddit.com/r/artificial/comments/1w26i1m/using_chatgpt_for_medical_questions_honest_opinion/)**
+**[What should an AI agent remember in a form a human can actually audit?](https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/)**
 
-At 2am it can make confusing words feel manageable. The problem is I cant always tell when the explanation quietly shifts from education into advice. A blessing or a curse?
+A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth.
 
-6h ago
+11h ago
 
 ---
 
-**[AI and Cognitive Ability](https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/)**
+**[I ran memory accuracy tests on small models, here's what I found](https://www.reddit.com/r/artificial/comments/1w2hv5b/i_ran_memory_accuracy_tests_on_small_models_heres/)**
 
-Hi All - Need expert opinion here. I’m a Manager and I use AI for all my tasks. Making Presentations and Prepping Data, writing emails. I have set up Workflows that help me save tonnes of time on a lot of tasks and I’m being at least 2x more productive. However, I feel excessive use has limited my own abilities. I can’t think without going to Claude and dumping everything and then have him make connections. I can’t properly read without giving an article to Claude and asking him to summarise. I send my AI agents to two different Meetings at a time and have them collect notes. What is this Called in the world of Neuro Science? Can I do any exercises to avoid this? Has Mankind gone through this before? What material can I read related to this? Is anyone else experiencing this? Any advice is appreciated.
+I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted to put it through a real benchmark. So I ran 5 configurations against the LoCoMo long-term conversation memory dataset using three models: Gemma 2 9B, Gemma 3 4B, and Gemma 3 12B. Here's what I got: https://preview.redd.it/hufyf8czmimh1.png?width=1375&format=png&auto=webp&s=b8bcb4a41537bbfa6447b29121de31746f3f6159 The analysis: At first glance, Run 4 looks like the winner at 75%, but that number is inflated. The smaller judge model is more lenient, counting answers that are close but not actually correct as passes. When you swap in a larger judge (Run 5), you see more outright "I don't know" refusals, because bigger models won't hallucinate an answer when they're uncertain; they just refuse. The real number to look at is somewhere in the 55-60% range for run 4. Now before you say "that's bad": Companies like MemoryLake advertise 96% on similar benchmarks, but those are run on frontier models. My 55-60% was achieved on 4B-12B parameter models. That's roughly 17x smaller than a frontier model like GPT-4o, which itself scores around 60% with no memory layer at all. So a tiny open-source model with ChatSorter is matching a frontier model running completely raw. That's the actual story. Happy to answer questions on how it works
 
-20h ago
+1h ago
+
+---
+
+**[Did yall saw similar ADs?](https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/)**
+
+1d ago
 
 ---
 
@@ -127,43 +121,53 @@ Hi All - Need expert opinion here. I’m a Manager and I use AI for all my tasks
 
 With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
-**[An AI Oracle’s Rise and Fall](https://www.wsj.com/tech/ai/an-ai-oracles-rise-and-fall-9b0cebea)**
+**[Why the AI economy is like a bad dating app — drowning in decks, pilot purgatory — and it's playing out like the dotcom bubble, except worse](https://fortune.com/2026/08/30/ai-economy-like-dating-app-pilot-purgatory-decks-dotcom-bubble/)**
 
-WSJ • 22h ago
+Amy Webb is a futurist who called the rise of AI — and a U.S./China tech Cold War — years ago. She wishes she were happier with what she's seeing.
 
----
-
-**[I couldn't land a job, so I started AI training for $15 an hour. Now I make $100 an hour and built a career around AI.](https://www.yahoo.com/lifestyle/articles/couldnt-land-job-started-ai-081101680.html)**
-
-Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career.
-
-Yahoo • 1h ago
+Fortune • 4h ago
 
 ---
 
-**[Cisco director of engineering on managing agents: I'm not working more, but work can feel more intense](https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8)**
+**[How Apple Stumbled Into AI Hardware Success With the Mac](https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac)**
 
-Sergio Freitas said that using agents to do more work results in more code that need to be reviewed by engineers.
+The hottest products at Apple right now are not the iPhone, the iPad or a buzzy new show on the company’s streaming service. They are two of the lowliest members of Apple’s venerable Mac product line: its boxy Mac mini and Mac Studio computers, which come without monitors, keyboards or mice and ...
 
-Business Insider • 7m ago
+The Information • 55m ago
+
+---
+
+**[Letters to the Editor: If we're in the 'AI era,' college students must grapple with digital ethics](https://www.yahoo.com/news/science/articles/letters-editor-were-ai-era-140000259.html)**
+
+'Students urgently need courses that invite them to investigate whether the benefits and harms of these powerful technologies are fairly distributed across society and to imagine futures where technol...
+
+Yahoo • 55m ago
+
+---
+
+**[Big business has shown small firms what to do – and what not to do – with AI | Gene Marks](https://www.theguardian.com/technology/2026/aug/30/ai-small-business)**
+
+Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works
+
+The Guardian • 53m ago
 
 ---
 
 **[Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era](https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html)**
 
-The New York Times • 1h ago
+The New York Times • 5h ago
 
 ---
 
-**[AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?](https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises)**
+**[Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online](https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai)**
 
-As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?
+While social media is rife with AI celebrity deepfakes, videos featuring late night TV hosts like Jimmy Kimmel and Jon Stewart are are easier to create than other kinds of deepfakes and potentially more disruptive.
 
-The Guardian • 7h ago
+NPR • 3h ago
 
 ---
 
@@ -175,25 +179,17 @@ OpenAI • 1d ago
 
 ---
 
-**[The 5 craziest discoveries from OpenAI's HuggingFace investigation](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights)**
+**[AI critic predicts doomsday within a decade — or sooner](https://www.newsnationnow.com/prime/ai-critic-david-krueger-doomsday-within-decade-or-sooner/)**
 
-Axios • 13h ago
-
----
-
-**[The Fed confronts a powerful new economic force](https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/)**
-
-In meetings on how to steer the nation’s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.
-
-The Washington Post • 18h ago
+NewsNation • 11h ago
 
 ---
 
-**[AI hyperscalers issuing a flood of bonds are 'reverse crowding out' the Treasury as US debt soars](https://fortune.com/2026/08/29/us-debt-reverse-crowding-out-effect-ai-hyperscaler-bonds-treasury-yields/)**
+**[The AI-slop menu is disgusting and, sadly, makes perfect sense](https://www.businessinsider.com/menus-are-getting-ai-sloppified-and-the-images-are-terrifying-2026-8)**
 
-"Capital flowing into corporate bonds is capital not flowing into Treasuries, and Treasury yields have had to rise to clear the market."
+Horrifying Reubens and nauseating circle shrimp are hot new menu items.
 
-Fortune • 15h ago
+Business Insider • 6h ago
 
 ---
 
@@ -205,7 +201,7 @@ Fortune • 15h ago
 
 Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn't the first time.
 
-⬆️ 517 • 💬 151 • 2d ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+⬆️ 518 • 💬 151 • 2d ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
 
 ---
 
@@ -213,7 +209,7 @@ Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We
 
 The results of the Debian general-resolution vote on the use of large language models have been [...]
 
-⬆️ 488 • 💬 451 • 20h ago • [LWN.net](https://lwn.net/Articles/1091231/)
+⬆️ 491 • 💬 459 • 1d ago • [LWN.net](https://lwn.net/Articles/1091231/)
 
 ---
 
@@ -221,7 +217,7 @@ The results of the Debian general-resolution vote on the use of large language m
 
 AI definitely helps with productivity, but only when you have the right culture in place first!
 
-⬆️ 392 • 💬 97 • 16h ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+⬆️ 419 • 💬 104 • 21h ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
 ---
 
@@ -229,7 +225,7 @@ AI definitely helps with productivity, but only when you have the right culture 
 
 Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...
 
-⬆️ 226 • 💬 61 • 1d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
+⬆️ 231 • 💬 61 • 1d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
 
 ---
 
@@ -249,18 +245,6 @@ It is believed the mosquitoes arrived at Germany's busiest airport on a plane, a
 
 ---
 
-**[MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://news.ycombinator.com/item?id=49464314)**
-
-⬆️ 143 • 💬 83 • 2d ago • [aiandeducation.mit.edu](https://aiandeducation.mit.edu/report/)
-
----
-
-**[Air Conditioning Is Not a Luxury, It Is a Necessity](https://news.ycombinator.com/item?id=49463367)**
-
-⬆️ 122 • 💬 286 • 2d ago • [Human Progress](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
-
----
-
 **[Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://news.ycombinator.com/item?id=49472820)**
 
 A benchmark for evaluating AI agents on research workflows across scientific domains
@@ -277,17 +261,33 @@ Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed 
 
 ---
 
+**[Nvidia projects $673B in sales as AI demand widens](https://news.ycombinator.com/item?id=49466052)**
+
+Nvidia forecasts 70% fiscal 2028 growth, implying $673 billion in sales as demand expands beyond hyperscalers despite supply constraints.
+
+⬆️ 111 • 💬 108 • 2d ago • [for(geeks)](https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/)
+
+---
+
+**[Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.ycombinator.com/item?id=49469249)**
+
+Nvidia Corp. launched a political action committee Thursday to dole out donations to federal candidates, the company’s latest move in amassing its influence apparatus in Washington.
+
+⬆️ 91 • 💬 40 • 2d ago • [news.bgov.com](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[&#39;THIS IS INSANE&#39;: Bill Gates DIRE WARNING Of AI Jobless Future](https://www.youtube.com/watch?v=5r5uhGjST7s)**
+**[Elon Musk Explains How the AI Bubble Will Burst.](https://www.youtube.com/watch?v=PMwIW8ZT69o)**
 
-Ryan and Saagar take a look at Bill Gate's warning about AI disruption. Sign up for a PREMIUM Breaking Points subscriptions for ...
+Investing.com is back with its Summer sale! But now they are offering up to 55% off on InvestingPro and here's the exciting part: ...
 
-📺 Breaking Points
+📺 New Money
 
-👁️ 377K • 👍 6K • 💬 2K • ⏱️ 16:29 • 2d ago
+👁️ 335K • 👍 4K • 💬 459 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -297,7 +297,17 @@ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/pa
 
 📺 Two Minute Papers
 
-👁️ 121K • 👍 2K • 💬 201 • ⏱️ 4:27 • 2d ago
+👁️ 123K • 👍 2K • 💬 202 • ⏱️ 4:27 • 2d ago
+
+---
+
+**[&#39;THIS IS INSANE&#39;: Bill Gates DIRE WARNING Of AI Jobless Future](https://www.youtube.com/watch?v=5r5uhGjST7s)**
+
+Ryan and Saagar take a look at Bill Gate's warning about AI disruption. Sign up for a PREMIUM Breaking Points subscriptions for ...
+
+📺 Breaking Points
+
+👁️ 379K • 👍 6K • 💬 2K • ⏱️ 16:29 • 2d ago
 
 ---
 
@@ -307,17 +317,7 @@ The rapid growth of AI data centers is creating a shortage of the memory chips u
 
 📺 Business Insider
 
-👁️ 624K • 👍 3K • 💬 538 • ⏱️ 17:50 • 21h ago
-
----
-
-**[Elon Musk Explains How the AI Bubble Will Burst.](https://www.youtube.com/watch?v=PMwIW8ZT69o)**
-
-Investing.com is back with its Summer sale! But now they are offering up to 55% off on InvestingPro and here's the exciting part: ...
-
-📺 New Money
-
-👁️ 300K • 👍 4K • 💬 429 • ⏱️ 13:43 • 1d ago
+👁️ 715K • 👍 4K • 💬 601 • ⏱️ 17:50 • 1d ago
 
 ---
 
@@ -327,17 +327,15 @@ They can't harm you, if they can't find you! Use code ELAI at the link below and
 
 📺 House of El: AI
 
-👁️ 317K • 👍 11K • 💬 3K • ⏱️ 24:14 • 1d ago
+👁️ 328K • 👍 11K • 💬 3K • ⏱️ 24:14 • 1d ago
 
 ---
 
-**[ThunderCats: Pumm-Ra (1985) | Cinematic 4K AI Short Film](https://www.youtube.com/watch?v=viPDfmnhhwk)**
+**[AI is changing the world, but is it also trying to kill us? Ronny Chieng investigates #DailyShow #AI](https://www.youtube.com/watch?v=J5lrvLA2QDs)**
 
-ThunderCatsTeaserTrailer #ThunderCatsTrailer #ThunderCatsLiveActionTrailer #thunderCats #80scartoons Experience the epic ...
+📺 The Daily Show
 
-📺 AIM Media Pro
-
-👁️ 154K • 👍 3K • 💬 222 • ⏱️ 12:34 • 22h ago
+👁️ 205K • 👍 10K • 💬 430 • ⏱️ 2:16 • 23h ago
 
 ---
 
@@ -347,35 +345,37 @@ I block every shot in Blender before generating — locked camera, locked timing
 
 📺 Higgsfield AI
 
-👁️ 270K • 👍 6K • 💬 400 • ⏱️ 19:48 • 1d ago
+👁️ 287K • 👍 6K • 💬 411 • ⏱️ 19:48 • 2d ago
 
 ---
 
-**[If you use AI, switch to Omarchy immediately](https://www.youtube.com/watch?v=KO2T0oET9go)**
+**[Helsing HX-2 AI Drones Help Ukrainian Soldiers on the Battlefield #warinukraine](https://www.youtube.com/watch?v=ZMiwDkbrJ2A)**
 
-Omarchy is the best operating system for AI users ever. You need to switch now... FULL Omarchy bootcamp in the Vibe Coding ...
+united24media #united24 #united24fightforfreedom #united24reports Firsthand news from the epicenter of global events ...
 
-📺 Alex Finn
+📺 UNITED24
 
-👁️ 137K • 👍 3K • 💬 498 • ⏱️ 21:46 • 1d ago
-
----
-
-**[Breaking: Bill Gates TURNS on AI, WARNS of bioterror, danger, unemployment CRASH (Melber breakdown)](https://www.youtube.com/watch?v=X9oBm_oPRkQ)**
-
-MS NOW's Ari Melber reports on tech innovator and Microsoft founder Bill Gates issuing an extensive warning about the current AI ...
-
-📺 MS NOW
-
-👁️ 308K • 👍 3K • 💬 717 • ⏱️ 12:17 • 2d ago
+👁️ 573K • 👍 13K • 💬 370 • ⏱️ 1:09 • 1d ago
 
 ---
 
-**[AI is changing the world, but is it also trying to kill us? Ronny Chieng investigates #DailyShow #AI](https://www.youtube.com/watch?v=J5lrvLA2QDs)**
+**[AI is failing to boost productivity | Edward Ongweso Jr](https://www.youtube.com/watch?v=UJ_SNBMd6v4)**
 
-📺 The Daily Show
+Until it's clear how AI development can be centred on what workers and the consumers want, there's no reason to expect the ...
 
-👁️ 173K • 👍 9K • 💬 390 • ⏱️ 2:16 • 19h ago
+📺 The Tech Report
+
+👁️ 106K • 👍 2K • 💬 651 • ⏱️ 42:52 • 2d ago
+
+---
+
+**[A Physicist Says AI Can See Through Boxes  #joerogan  #jre](https://www.youtube.com/watch?v=MrMpBTvX56o)**
+
+A physicist claims he taught AI how to perform remote viewing—and in this test, Alexa described a hidden object with shocking ...
+
+📺 Rogan Files TV
+
+👁️ 1K • 👍 25 • 💬 5 • ⏱️ 1:07 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 121,976 • ❤️ 4,324 • 3d ago
+⬇️ 121,976 • ❤️ 4,346 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 346,516 • ❤️ 1,650 • 2d ago
+⬇️ 346,516 • ❤️ 1,673 • 3d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 50,116 • ❤️ 1,304 • 1d ago
+⬇️ 50,116 • ❤️ 1,320 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 4,511,348 • ❤️ 13,289 • 15d ago
+⬇️ 4,511,348 • ❤️ 13,310 • 15d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 328,195 • ❤️ 581 • 2d ago
+⬇️ 328,195 • ❤️ 588 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 8,839,153 • ❤️ 3,197 • 9d ago
+⬇️ 8,839,153 • ❤️ 3,212 • 10d ago
 
 ---
 
@@ -463,19 +463,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,137,181 • ❤️ 2,172 • 2d ago
-
----
-
-**[Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)**
-
-*OBLITERATUS*
-
-Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zero refusals while matching or exceeding stock Qwen3.8-27B capabilities, including advanced real-world tasks and tool calling. It utilizes a novel complementary abliteration blending technique to preserve performance and is optimized for greedy decoding with specific repetition penalty and disabled thinking settings.
-
-`text-generation` `27.8B`
-
-⬇️ 725,757 • ❤️ 932 • 5d ago
+⬇️ 1,137,181 • ❤️ 2,205 • 2h ago
 
 ---
 
@@ -487,7 +475,19 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 2,123 • ❤️ 292 • 1d ago
+⬇️ 2,123 • ❤️ 305 • 1d ago
+
+---
+
+**[Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)**
+
+*OBLITERATUS*
+
+Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zero refusals while matching or exceeding stock Qwen3.8-27B capabilities, including advanced real-world tasks and tool calling. It utilizes a novel complementary abliteration blending technique to preserve performance and is optimized for greedy decoding with specific repetition penalty and disabled thinking settings.
+
+`text-generation` `27.8B`
+
+⬇️ 725,757 • ❤️ 940 • 5d ago
 
 ---
 
@@ -499,7 +499,7 @@ GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capabili
 
 `text-generation` `320.8B`
 
-⬇️ 45,936 • ❤️ 280 • 23h ago
+⬇️ 45,936 • ❤️ 283 • 1d ago
 
 ---
 
@@ -515,7 +515,7 @@ GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capabili
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 764 • 💬 5 • ⭐ 8,818 • 20d ago
+▲ 764 • 💬 5 • ⭐ 8,900 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -529,7 +529,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 102 • 💬 2 • ⭐ 9,685 • 13d ago
+▲ 102 • 💬 2 • ⭐ 9,927 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -541,7 +541,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 101,727 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 101,819 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -602,18 +602,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://huggingface.co/papers/2308.04079)**
-
-*Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler et al. (4 authors)*
-
-A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.
-
-▲ 204 • 💬 13 • ⭐ 23,657 • 37mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2308.04079) • [💻 code](https://github.com/graphdeco-inria/gaussian-splatting)
-
----
-
 **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
 
 *Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
@@ -639,6 +627,18 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
+**[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://huggingface.co/papers/2308.04079)**
+
+*Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler et al. (4 authors)*
+
+A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.
+
+▲ 204 • 💬 13 • ⭐ 23,664 • 37mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2308.04079) • [💻 code](https://github.com/graphdeco-inria/gaussian-splatting)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -649,7 +649,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 19.3k • 🔱 2.3k • 11h ago
+⭐ 19.4k • 🔱 2.3k • 1h ago
 
 ---
 
@@ -659,7 +659,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.5k • 🔱 435 • 1d ago
+⭐ 3.5k • 🔱 437 • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 3.3k • 🔱 257 • 18d ago
+⭐ 3.3k • 🔱 258 • 18d ago
 
 ---
 
@@ -679,7 +679,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 397 • 11m ago
+⭐ 3.3k • 🔱 399 • 32m ago
 
 ---
 
@@ -689,7 +689,7 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 `Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.9k • 🔱 176 • 6d ago
+⭐ 3.0k • 🔱 177 • 7d ago
 
 ---
 
@@ -699,7 +699,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.8k • 🔱 165 • 22h ago
+⭐ 2.8k • 🔱 165 • 1d ago
 
 ---
 
@@ -709,7 +709,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.8k • 🔱 298 • 2d ago
+⭐ 2.8k • 🔱 308 • 2d ago
 
 ---
 
@@ -719,7 +719,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 307 • 3d ago
+⭐ 2.4k • 🔱 307 • 4d ago
 
 ---
 
@@ -739,7 +739,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 6m ago
+⭐ 1.9k • 🔱 1.3k • 4h ago
 
 ---
 

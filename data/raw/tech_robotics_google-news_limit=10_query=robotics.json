@@ -5,6 +5,36 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5",
+      "pub_date": 1787914560.0,
+      "article_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
+      "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
+    },
+    {
+      "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
+      "pub_date": 1788086419.0,
+      "article_url": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223825-17628031882025-11-10t192658z_1221773642_rc2qthabok7h_rtrmadp_0_usa-stocks.jpeg?v=1762803208&w=1920&h=1080",
+      "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
+    },
+    {
+      "headline": "China\u2019s robots race ahead",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
+      "pub_date": 1788091200.0,
+      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
+    },
+    {
       "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -15,24 +45,14 @@
       "description": null
     },
     {
-      "headline": "Meet the humanoid robots cleaning homes for $30 an hour",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1Z0TTBZSDVRVWJiLXpVdUJOcmdkLVJiTjRQSUR6UHc0bEphcjNSOXN2elNBWWhYMkJQR2M2N3hUTGwtOFJfS3Jub25Qby16YXlZaWswb1R3ajdGRjI4Q19KVFdWMW9JZ1BERElPbTlHMi1PX2VfVlZqNXhrU3lxa2t3TTQtN2hra1h4TjN5LUdOdw?oc=5",
-      "pub_date": 1787965378.0,
-      "article_url": "https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_08/1787965203531_now_topstory_humanoid_robots_cleaning_260828_S3_1920x1080-lhqana.jpg",
-      "description": "These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered."
-    },
-    {
-      "headline": "Light-powered soft robots that can keep jumping forever",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEb3FiOS1IcFFqTklZeERGTC1JVXZGS2JndVdhUmE1LXhHekdYMFhvTEVXWmJBclBoZnFCcTEtbjhQTFF6bDdjcFZIdjZ1NjlkRTdtTk0tNjFZUEE0MGNtUVRtMElncno4OWRPMQ?oc=5",
-      "pub_date": 1787925602.0,
-      "article_url": "https://techxplore.com/news/2026-08-powered-soft-robots.html",
-      "image": null,
-      "description": null
+      "headline": "ICE purchasing Boston Dynamics robots to support operations - Boston News, Weather, Sports",
+      "source": "WHDH",
+      "source_url": "https://whdh.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObklRR2Z1MDFsSVJGcGRCMjNJNmlhYzFDNDJVd240WGtzWU11Tlk5OWpTMmhhRjBFRTM1bVBWX3djejI2eUZMRWY3ckdneVZpX090dzltazMtQlQ4RGRkOGpvUEtzMGEyTnIzVTlRVDAwa3BQWHZ2ZW5yS3JVWHYweDFuMmE4cnZCUFE?oc=5",
+      "pub_date": 1788046859.0,
+      "article_url": "https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/",
+      "image": "https://whdh.com/wp-content/uploads/sites/3/2026/08/dynmaics.jpg?quality=60&strip=color",
+      "description": "BOSTON (WHDH) - Boston\u00a0Dynamics\u00a0is responding to reports that the Department of Homeland Security is buying its robots in support of its missions.In a statement, a<a class=\"excerpt-read-more\" href=\"https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/\">Read More</a>"
     },
     {
       "headline": "China can build kung fu-fighting robots. But it can\u2019t get them to do factory work",
@@ -45,66 +65,46 @@
       "description": null
     },
     {
-      "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5",
-      "pub_date": 1787914560.0,
-      "article_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
-      "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
+      "headline": "Light-powered soft robots that can keep jumping forever",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEb3FiOS1IcFFqTklZeERGTC1JVXZGS2JndVdhUmE1LXhHekdYMFhvTEVXWmJBclBoZnFCcTEtbjhQTFF6bDdjcFZIdjZ1NjlkRTdtTk0tNjFZUEE0MGNtUVRtMElncno4OWRPMQ?oc=5",
+      "pub_date": 1787925602.0,
+      "article_url": "https://techxplore.com/news/2026-08-powered-soft-robots.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Adorable Microduck Robot Roller Skates and Plays Soccer",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aU083cmhsT09VR0dEWEdBUW9hczZQVGU2SDI1MGxITnlZQVpYaU9sUGhUN3oxR3NOM2ZxNjFnaDI1R0s5U05BUGJ4S1N1Ull2dUVMSjVTekRDR3BFeEhTWGd1ckM?oc=5",
+      "pub_date": 1788087902.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67687638&width=1200&height=600&coordinates=0%2C5%2C0%2C6",
+      "description": "In this week\u2019s selection of awesome robot videos, you\u2019ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo"
+    },
+    {
+      "headline": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnU3QkdiNk1jYklqWmJZWXlJbGlCWUhjTEM5REpHcFJxX0c0ZndUZUFnTDJVNWJKQ1dnN2Z6QkxJSHdhYmlkN2p5blZUUFUxaTdBWXJUcl9WaHNyVjN3M0N3RzBPZUNRaHBZdkU0YmtvRDc1MzBkME9EamdoYTEwYlU3QTJ5RmtmV2dKdHpWMm9EY3hURkFhYS1DSWVmSVVPS28xaEEwbklDMTU5Yk1kM2RjZHZveVhhV1pUTF90R0ZWaE9pcUkwSXNn?oc=5",
+      "pub_date": 1787859062.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Pizza restaurants: Why pizza-making robots are not cutting it",
       "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CQWxUSkJzektuYlVPTDdwTlFLSGdwbmZOczI4TjFlRXNYOG43QnZOVllTdE5GNnJzZXBwVHZDQ29obFhieDRjM1dZRGVHSVJfSldLeEJiWmRMUQ?oc=5",
-      "pub_date": 1787872562.0,
-      "article_url": "https://www.bbc.com/news/articles/czxq0wgkkdjo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fd79/live/5ce07230-8f43-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNFo3RmJJOHBUSm9kV0ZJc1c1R0dBM0hqZklmQU9vZmJaV096U0NHcEtZZS15WVBHcndKRTB2by10T0R3SGZNN0lZYkxORmlzd2oxOGJqM2xoamdZ?oc=5",
+      "pub_date": 1787872599.0,
+      "article_url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd79/live/5ce07230-8f43-11f1-b8ee-9b3c26ad07bb.jpg",
       "description": "A string of failures has sapped confidence that robots will take over production at pizza restaurants."
-    },
-    {
-      "headline": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMV9ramtIOV9CWUxsTFlHSXpZQzg0WEpTOXA0UVRQUXRJUE5RMlhEOU16Zk5va1VjcGFBeTdBenJjMmNGeEJvQnZBYmgyX1k2Xzc3bTkwd0ZXMlhMOXc5dXhSZWdVWklkdlY4dzFWY0ZBRTBYZnM3ekVpdTV1UHBlUC1UOWo2ZWVKZUluZTF5ancwNDIwVjcxbExQZy1XYXoxSE9HaXdIcUtHUGM0X2pjWnF5TUNEQUxvVjA5ZmsxTQ?oc=5",
-      "pub_date": 1787959467.0,
-      "article_url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers."
-    },
-    {
-      "headline": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5",
-      "pub_date": 1787994060.0,
-      "article_url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8",
-      "image": "https://i.insider.com/6a885c948a99fa493d60ec36?width=1200&format=jpeg",
-      "description": "The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers."
-    },
-    {
-      "headline": "BlackBerry lost the phone war. Now it's betting on cars and robots",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00cUd2TV9SOGxPSjI2ZmVFWUduaTFDa21la1ctQ095T2x5X0VXejNGenZNRnpPdHRkSUcwRmtnRG9ianZmWm1mSnRTYWdoU3dUUVgxV0tBOWlCZWUxZ21Zd3hHc3pZOVJPZjdnSHNBYi1qRlVEdkhhaUM1dkVSd9IBgwFBVV95cUxPVDNqUzlUenU1M2pFZHB6X043Z3Q1OXZORE0yNHFfRGZpUHNZX1hGV0pTN0htOXdVMVdEcTBaUmVnZ1NOVUc1Vnp2VDNvZ19neVZXZDZUR240RTB1cndPNm5lMG1yZmU5RmVSRUF2QWZWOUgxUTNFa1N1NU4zSy1NTlNMVQ?oc=5",
-      "pub_date": 1787914801.0,
-      "article_url": "https://www.cnbc.com/2026/08/28/blackberry-cars-robots-tech-download.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355638-1787909091760-JOHN_THUMB.jpg?v=1787909129&w=1920&h=1080",
-      "description": "BlackBerry CEO John Giamatteo joins CNBC's Arjun Kharpal on The Tech Download podcast."
-    },
-    {
-      "headline": "An army of robots takes over Kyiv: these stunning images will shock you",
-      "source": "Futura, le m\u00e9dia qui explore le monde",
-      "source_url": "https://www.futura-sciences.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUpYOFFoQjdqVmdHRUtBMmFfcklQTm9wU2NLUGQ4NEhoeWVzMmVFVHY0YnVUMDlXZUVnT1FCWkFDTFJ0cVZ1SHBscFFkY2d1MjhZUkJiWHR4aHFLcFc0VnRlZ1ZWMm9jQkwzLW1mYlpkbzl0X21ublQ5T2JnWkM5aXoxMmJ6aUtmYUdGQmFzblVsVTE2bHdKSnNmNmtwQm5MNmk4M1NERzJRdTNIQ1RqeEJB?oc=5",
-      "pub_date": 1788025137.0,
-      "article_url": "https://www.futura-sciences.com/en/an-army-of-robots-takes-over-kyiv-these-stunning-images-will-shock-you_38531/",
-      "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/08/an-army-of-robots-takes-over-kyiv-these-stunning-images-will-shock-you.webp",
-      "description": "A Parade Unlike Any Other: Robots Take the Streets For the 35th anniversary of Ukraine\u2019s independence, Kyiv pulled off a world premiere: the first military parade anywhere made up entirely of ground robots, aerial drones, and naval drones. Forget the thunder of massive tank treads\u2014which stayed safely tucked away this..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-30T10:03:20.602595+00:00"
+  "fetched_at": "2026-08-30T14:55:35.998712+00:00"
 }

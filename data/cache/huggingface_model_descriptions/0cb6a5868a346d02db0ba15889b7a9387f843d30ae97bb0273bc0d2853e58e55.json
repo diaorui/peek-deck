@@ -1,5 +1,0 @@
-{
-  "cached_at": "2026-07-31T13:14:31.281762+00:00",
-  "data": "DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.",
-  "model_id": "deepseek-ai/DeepSeek-V4-Flash-0731"
-}

@@ -16,7 +16,7 @@
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 8818,
+      "github_stars": 8900,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 9685,
+      "github_stars": 9927,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 101727,
+      "github_stars": 101819,
       "project_page": null
     },
     {
@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2308.04079",
-      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
-      "authors": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimk\u00fchler et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Radiance Field methods have recently revolutionized novel-view synthesis of\nscenes captured with multiple photos or videos. However, achieving high visual\nquality still requires neural networks that are costly to train and render,\nwhile recent faster methods inevitably trade off speed for quality. For\nunbounded and complete scenes (rather than isolated objects) and 1080p\nresolution rendering, no current method can achieve real-time display rates. We\nintroduce three key elements that allow us to achieve state-of-the-art visual\nquality while maintaining competitive training times and importantly allow\nhigh-quality real-time (>= 30 fps) novel-view synthesis at 1080p resolution.\nFirst, starting from sparse points produced during camera calibration, we\nrepresent the scene with 3D Gaussians that preserve desirable properties of\ncontinuous volumetric radiance fields for scene optimization while avoiding\nunnecessary computation in empty space; Second, we perform interleaved\noptimization/density control of the 3D Gaussians, notably optimizing\nanisotropic covariance to achieve an accurate representation of the scene;\nThird, we develop a fast visibility-aware rendering algorithm that supports\nanisotropic splatting and both accelerates training and allows realtime\nrendering. We demonstrate state-of-the-art visual quality and real-time\nrendering on several established datasets.",
-      "ai_summary": "A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.",
-      "hf_url": "https://huggingface.co/papers/2308.04079",
-      "arxiv_url": "https://arxiv.org/abs/2308.04079",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2308.04079.png",
-      "upvotes": 204,
-      "num_comments": 13,
-      "published_at": "2023-08-08T02:37:06.000Z",
-      "github_repo": "https://github.com/graphdeco-inria/gaussian-splatting",
-      "github_stars": 23657,
-      "project_page": null
-    },
-    {
       "id": "2407.17789",
       "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
       "authors": "Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/agentscope-ai/agentscope",
       "github_stars": 30068,
       "project_page": null
+    },
+    {
+      "id": "2308.04079",
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "authors": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimk\u00fchler et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Radiance Field methods have recently revolutionized novel-view synthesis of\nscenes captured with multiple photos or videos. However, achieving high visual\nquality still requires neural networks that are costly to train and render,\nwhile recent faster methods inevitably trade off speed for quality. For\nunbounded and complete scenes (rather than isolated objects) and 1080p\nresolution rendering, no current method can achieve real-time display rates. We\nintroduce three key elements that allow us to achieve state-of-the-art visual\nquality while maintaining competitive training times and importantly allow\nhigh-quality real-time (>= 30 fps) novel-view synthesis at 1080p resolution.\nFirst, starting from sparse points produced during camera calibration, we\nrepresent the scene with 3D Gaussians that preserve desirable properties of\ncontinuous volumetric radiance fields for scene optimization while avoiding\nunnecessary computation in empty space; Second, we perform interleaved\noptimization/density control of the 3D Gaussians, notably optimizing\nanisotropic covariance to achieve an accurate representation of the scene;\nThird, we develop a fast visibility-aware rendering algorithm that supports\nanisotropic splatting and both accelerates training and allows realtime\nrendering. We demonstrate state-of-the-art visual quality and real-time\nrendering on several established datasets.",
+      "ai_summary": "A method using 3D Gaussians for scene representation and optimized rendering allows high-quality, real-time novel-view synthesis at 1080p resolution.",
+      "hf_url": "https://huggingface.co/papers/2308.04079",
+      "arxiv_url": "https://arxiv.org/abs/2308.04079",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2308.04079.png",
+      "upvotes": 204,
+      "num_comments": 13,
+      "published_at": "2023-08-08T02:37:06.000Z",
+      "github_repo": "https://github.com/graphdeco-inria/gaussian-splatting",
+      "github_stars": 23664,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-30T10:03:07.774630+00:00"
+  "fetched_at": "2026-08-30T14:55:22.982464+00:00"
 }

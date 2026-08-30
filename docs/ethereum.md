@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-30T10:03:22.043936+00:00'
+updated: '2026-08-30T14:55:37.841215+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 10:03 UTC  
+**Last Updated:** August 30, 2026 at 14:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -1.2%  
-**30d:** +33.0%  
-**90d:** +31.8%  
-**1y:** -44.2%  
+**24h:** +1.4%  
+**7d:** -0.2%  
+**30d:** +34.3%  
+**90d:** +33.2%  
+**1y:** -43.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.07B
+**Market Cap:** $298.90B
 Rank #2
 
 **Circulating Supply:** 120,681,161 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-49.9%
 
 **All-Time Low:** $0.43
-+566518.7%
++571923.1%
 
 ---
 
@@ -160,7 +160,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today.
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare pri
 
 Tom Lee's bet on Ethereum keeps getting bigger.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 21h ago
 
 The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
 
-TradingView • 6h ago
+TradingView • 11h ago
 
 ---
 
@@ -184,21 +184,21 @@ TradingView • 6h ago
 
 Charles Schwab (SCHW) Director of Equity Research Adam Lynch believes that investors worried about currency debasement have an increasing range of crypto assets to choose from, ranging from Bitcoin (BTC) to Hyperliquid (HYPE), and the mix mattered more th
 
-Stocktwits • 23h ago
-
----
-
-**[Crypto News Today: AlphaPepe Nears Fourth CEX Reveal as the Ethereum Price Prediction Targets $12,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-fourth-cex-reveal-as-the-ethereum-price-prediction-targets-12-000-1036504654)**
-
-MONACO, Aug.  29, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the presale moves closer to its 4th CEX reveal on Aug...
-
-markets.businessinsider.com • 22h ago
+Stocktwits • 1d ago
 
 ---
 
 **[ETHB Emerges as a Favorite Among Ethereum ETFs](https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs)**
 
 ETF.com • 1d ago
+
+---
+
+**[Unipcs: 37x Return on Ethereum Token Position](https://blockchain.news/flashnews/unipcs-37x-return-ethereum-token-position)**
+
+Unipcs up $2.48M on ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 after 67,304 SOL spend for 10.96M tokens now worth $2.55M.
+
+blockchain.news • 12h ago
 
 ---
 
@@ -210,14 +210,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Unipcs: 37x Return on Ethereum Token Position](https://blockchain.news/flashnews/unipcs-37x-return-ethereum-token-position)**
-
-Unipcs up $2.48M on ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 after 67,304 SOL spend for 10.96M tokens now worth $2.55M.
-
-blockchain.news • 7h ago
-
----
-
 **[GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)**
 
 GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization
@@ -226,11 +218,17 @@ The Hacker News • 3d ago
 
 ---
 
-**[Will Bitcoin, Ethereum and XRP Prices Pump or Dump After Kevin Warsh’s Jackson Hole Speech?](https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-pump-or-dump-after-kevin-warshs-jackson-hole-speech/)**
+**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
 
-Bitcoin is trading at $79,619.04, Ethereum at $2,504.89 and XRP at $1.42 as markets await Federal Reserve Chair Kevin Warsh's debut Jackson Hole address,
+CoinDesk • 2d ago
 
-Coinpedia • 1d ago
+---
+
+**[Sberbank plans USDT, Ethereum loans pending Russian regulatory approval](https://cryptobriefing.com/sberbank-plans-usdt-ethereum-loans-pending-russian-regulatory-approval/)**
+
+Sberbank plans to accept USDT and Ethereum for loans pending regulatory approval. Bitcoin reaching $200,000 by December 31, 2026 at 1.1% YES.
+
+Crypto Briefing • 4h ago
 
 ---
 
@@ -244,7 +242,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 10K • 👍 194 • 💬 142 • ⏱️ 15:06 • 21h ago
+👁️ 12K • 👍 207 • 💬 143 • ⏱️ 15:06 • 1d ago
 
 ---
 
@@ -254,17 +252,7 @@ BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 9K • 👍 280 • 💬 51 • ⏱️ 15:01 • 8h ago
-
----
-
-**[THIS IS MY ETHEREUM TARGET !!!!](https://www.youtube.com/watch?v=L1NE_oyMzhA)**
-
-Ethereum already broke through $2360, and the next major level I'm watching is $2800.
-
-📺 The Moon Show
-
-👁️ 3K • 👍 76 • 💬 1 • ⏱️ 1:15 • 10h ago
+👁️ 14K • 👍 338 • 💬 148 • ⏱️ 15:01 • 13h ago
 
 ---
 
@@ -274,17 +262,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 348 • 💬 64 • ⏱️ 15:34 • 1d ago
+👁️ 21K • 👍 364 • 💬 86 • ⏱️ 15:34 • 1d ago
 
 ---
 
-**[Solana Is Following Ethereum’s Path Against Bitcoin](https://www.youtube.com/watch?v=wENr7Tmh4gA)**
+**[THIS IS MY ETHEREUM TARGET !!!!](https://www.youtube.com/watch?v=L1NE_oyMzhA)**
 
-Alessandro goes deep on the one chart every altcoin holder needs to understand right now. The data is pointing to a pattern that ...
+Ethereum already broke through $2360, and the next major level I'm watching is $2800.
 
-📺 Crypto Banter
+📺 The Moon Show
 
-👁️ 13K • 👍 260 • 💬 10 • ⏱️ 16:35 • 16h ago
+👁️ 4K • 👍 96 • 💬 1 • ⏱️ 1:15 • 14h ago
 
 ---
 
@@ -294,7 +282,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 519 • 💬 80 • ⏱️ 12:41 • 2d ago
+👁️ 29K • 👍 522 • 💬 61 • ⏱️ 12:41 • 2d ago
+
+---
+
+**[ETH PREDICTION FOR NEXT WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=SPgSAwqoNJU)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 480 • 👍 23 • 💬 12 • ⏱️ 5:39 • 5h ago
+
+---
+
+**[Solana Is Following Ethereum’s Path Against Bitcoin](https://www.youtube.com/watch?v=wENr7Tmh4gA)**
+
+Alessandro goes deep on the one chart every altcoin holder needs to understand right now. The data is pointing to a pattern that ...
+
+📺 Crypto Banter
+
+👁️ 15K • 👍 277 • 💬 11 • ⏱️ 16:35 • 20h ago
+
+---
+
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
+
+We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
+
+📺 More Crypto Online
+
+👁️ 648 • 👍 84 • 💬 4 • ⏱️ 7:32 • 1h ago
 
 ---
 
@@ -304,37 +322,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 111K • 👍 2K • 💬 472 • ⏱️ 38:19 • 2d ago
+👁️ 115K • 👍 2K • 💬 439 • ⏱️ 38:19 • 2d ago
 
 ---
 
-**[&quot;$150K BTC &amp; $6K ETH! What’s Coming Will Be Much Bigger Than You Think&quot; - Tom Lee](https://www.youtube.com/watch?v=uHrKUmjRnGU)**
+**[BMNR Stock: Could Ethereum Send BitMine to $100, $500 or $1,000?](https://www.youtube.com/watch?v=37hCtT5lyoA)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+BMNR stock price prediction and analysis: Could BitMine Immersion Technologies (BMNR) reach several hundred dollars per ...
 
-📺 Savvy Finance
+📺 BiGB Stcok
 
-👁️ 6K • 👍 121 • 💬 1 • ⏱️ 17:22 • 1d ago
-
----
-
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=PBGoPjgGcjw)**
-
-Ethereum Elliott Wave analysis for August 28, 2026, focuses on the $2178 support level which marks the invalidation for the ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 158 • 💬 11 • ⏱️ 8:05 • 1d ago
-
----
-
-**[Matt Hougan &amp; Ryan Rasmussen: Ethereum &amp; Solana Will Both Explode (Institutional Mindset Explained)](https://www.youtube.com/watch?v=TdtKgBrx1RU)**
-
-Matt Hougan and Ryan Rasmussen go head to head in a rapid-fire over/under session on price targets for Bitcoin, Ethereum, ...
-
-📺 The Rollup
-
-👁️ 9K • 👍 110 • 💬 8 • ⏱️ 8:36 • 2d ago
+👁️ 2K • 👍 51 • 💬 40 • ⏱️ 14:55 • 21h ago
 
 ---
 
