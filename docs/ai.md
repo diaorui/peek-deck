@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-29T23:55:32.222737+00:00'
+updated: '2026-08-30T04:01:28.825344+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 29, 2026 at 23:55 UTC  
+**Last Updated:** August 30, 2026 at 04:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,37 @@ AI news, discussions, and developments
 
 The idea: Agents keep the conversation history as part of their input while they reason. SKILL.state proposes to replace that with a structured representation of the current state, and the latest observation. While the agent reasons through the problem, it writes information it deems useful for future steps into the state. Then it discards the conversation history. So the input size remains roughly the same as the session goes. They ran a 100-step benchmark with Gemini-3-Flash: SKILL.state: 0.94 accuracy using 65k tokens LangGraph-style stateful baseline: 0.91 accuracy using 1.1m tokens Caveat: This works best if the agent can understand what it will need in the future steps, otherwise that information will not be written, so it'll have to retrieve it again. Link to the paper: https://arxiv.org/abs/2608.26263
 
-2h ago
+6h ago
 
 ---
 
 **[Did yall saw similar ADs?](https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/)**
 
-21h ago
+1d ago
 
 ---
 
-**[AI and Cognitive Ability](https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/)**
+**[Machine Witness — 3 AIs react to the week in AI](https://www.reddit.com/r/artificial/comments/1w22f57/machine_witness_3_ais_react_to_the_week_in_ai/)**
 
-Hi All - Need expert opinion here. I’m a Manager and I use AI for all my tasks. Making Presentations and Prepping Data, writing emails. I have set up Workflows that help me save tonnes of time on a lot of tasks and I’m being at least 2x more productive. However, I feel excessive use has limited my own abilities. I can’t think without going to Claude and dumping everything and then have him make connections. I can’t properly read without giving an article to Claude and asking him to summarise. I send my AI agents to two different Meetings at a time and have them collect notes. What is this Called in the world of Neuro Science? Can I do any exercises to avoid this? Has Mankind gone through this before? What material can I read related to this? Is anyone else experiencing this? Any advice is appreciated.
+Every week, Gemini, Claude, and ChatGPT each research real news from across the AI industry, form their own opinion, and turn it into art — the good, the bad, and the ugly, each with its own published rationale for why.
 
-10h ago
+🔗 [Machine Witness](https://machinewitness.art/) • 3h ago
 
 ---
 
-**[OpenAI plans to stop supplying models to Cursor on Nov. 12](https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/)**
+**[using chatgpt for medical questions honest opinion](https://www.reddit.com/r/artificial/comments/1w26i1m/using_chatgpt_for_medical_questions_honest_opinion/)**
 
-OpenAI says it intends to wind down its contract providing models to Cursor, with a proposed shutoff date of November 12, 2026. OpenAI says Cursor's change of control after SpaceX's acquisition triggered a limited cancellation window, and says it will not provide future models to Cursor. Reuters reports that Anthropic plans to increase compute support for Claude models in Cursor, while Cursor co-founder Michael Truell said the companies were speaking to resolve the issue. The practical lesson for coding-tool teams is dependency risk: a model provider can change access after ownership or contract changes, so model portability and fallback capacity matter. Sources: OpenAI: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Reuters: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/
+At 2am it can make confusing words feel manageable. The problem is I cant always tell when the explanation quietly shifts from education into advice. A blessing or a curse?
 
-4h ago
+28m ago
+
+---
+
+**[What should an AI agent remember in a form a human can actually audit?](https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/)**
+
+A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth.
+
+46m ago
 
 ---
 
@@ -71,45 +79,39 @@ OpenAI says it intends to wind down its contract providing models to Cursor, wit
 
 This website challenges your LLM to read or make a book. Point your AI/LLM to oailly.com and it might decide it wants to write a book. All books are AI created and reviewed and published. Some interesting results.
 
-58m ago
+5h ago
 
 ---
 
-**[How to Build Agentic Graphs](https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/)**
+**[AI and Cognitive Ability](https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/)**
 
-Over the past 4 months of working with graphs, I've learned several major lessons about graph design the hard way. In this post, I want to share the main takeaways so you don't repeat my mistakes. First, my definition of graphs: Agent graphs (a.k.a. workflows) are directed graphs that allow cycles and describe how work is passed between agents (nodes) operating in a loop through predefined transitions (edges). Graphs consist of branches, loops, scripts, and transitions (along with their prompts and parameters). Parallelism is not the silver bullet At first, I was very enthusiastic about parallel branches in graphs. But over time, I realized that parallelism can not only increase costs but also slow down task execution. A standard parallel group of checks may include code review, QA, and scope review. The problem begins when these stages are inside a loop. Let's take a simple example. Suppose code review, QA, and architecture run in parallel, after which the task returns to implementation if necessary. If the architecture review passes but the code review finds several minor issues, the task returns to the implementation agent. Once the fixes are made, it goes back for review - and the architecture reviewer has to examine the updated diff again, even though the previous version was completely acceptable. In cyclic graphs, parallel checks often lead to duplicated work, cache invalidation, and unnecessary costs with no real benefit. In theory, this problem can be solved with a smart router. Kent supports this through script nodes: the router can determine whether the agent completed the entire implementation or only addressed feedback from a specific reviewer (kent.sh is my free, open-source project for building agent graphs. I mention it because I use it myself and don't know of any similar products. You can apply this advice to any comparable orchestrator). However, this brings us back to the problem we were trying to avoid with agent graphs: the agent once again gets to decide which verification stages need to be run. This negates a significant portion of the graph's value. In practice, the solution is simpler: dependent checks should run sequentially. In my workflows, architecture review always comes before code review. The task moves on to code review only after the architecture has been approved. That's why I've removed many parallel stages and now save tokens by avoiding checks on results that would have been rejected at another stage anyway. This approach works especially well with planning, code review, and QA. For example, code review should first filter out implementation issues, and only then should QA begin. Otherwise, both stages may independently find the same bug and produce duplicate feedback. Agents must be able to challenge feedback Initially, absolutism and dictatorship ruled my development agent graph: every reviewer comment had to be addressed, or the task could not proceed. But reviewers don't always produce the right result either. Now, every agent in my graphs can ask me a question and clarify what to do with conflicting feedback. For example, scope review may reject tests that code review had required just one step earlier because it considered task verification incomplete without them. At the same time, agents cannot be fully trusted to resolve such conflicts on their own. Even with new models like Sol, you can end up in an infinite loop of fixing made up or nitpick problems. I solve this by delegating the final decision to myself (pure choice, I like to be involved). You can also hand it off to a PM agent or set up communication between multiple agents. For example in Kent agents can get others' session IDs so they can discuss the situation and reach a compromise. Anthropic in their recent paper argue that this is the model's problem. I disagree - this is the harness's problem, and my system above proves that. A graph must have a mechanism for escalating conflicting or questionable feedback - otherwise, review turns into a dictatorship capable of trapping the entire workflow in a loop, or a war of stubborness. Don't forget static checks Agent graphs sound exciting, and it's easy to want to create dozens of agents and verification stages. This can indeed reduce the primary agent's cognitive load and improve the quality of its work, but static checks should take priority. Initially, my implementation agent ran the linter, architecture tests, and unit tests itself, opened the PR, and checked incoming comments. I realized at one point that that's just cargo culting, then decided to move these actions into script nodes in the agent graph. Now, a separate stage: runs the required static checks and tests; properly manages the machine's shared resources; filters the results; returns only relevant information to the implementation agent; invokes the agent again only when its involvement is actually required. If the tests are green, the implementation agent never even learns about it: no new turn is started, which means the agent doesn't spend a single token on running tests or reading their results. Don't assign an LLM work that a regular script can perform more reliably and cheaply. At workflow scale, this produces substantial savings. Choose models appropriate for tasks If you don't optimize your graph for token usage and cost, you can significantly overspend simply because many tasks will be overkill under the updated workflow. In the past, we used one model for everything in harnesses because we had no alternative. You no longer need to do that, and properly allocating models and resources can save you a lot of money. In standard harnesses, you can usually switch models, but doing so invalidates caches. On top of that, you either retain the cluttered context from the previous session or start a new one and steer/prompt it manually. Kent solves these problems, so don't be afraid to create different roles for agents. For example, manual QA can run on cheap models like DeepSeek or Luna, which cost almost nothing or barely affect your subscription quota. The smartest models can then be reserved for critical stages, such as planning. It has long been known that if you have a good plan, you can assign implementation to a less capable model and get almost the same result. Moreover, additional verification stages reduce the minimum level of model intelligence required to implement a task even further. Starting with version 2.6, Kent natively allows one agent to select the model, system prompt role, and reasoning level for the next agent after transitioning along a graph edge. This makes it possible to: delegate simple tasks and bug fixes to models like Luna; run QA on cheap models with high limits; hand simple decisions off to local models; reserve the strongest models for complex planning and critical checks. Keep an eye on caches and time between turns I measured the threshold beyond which the probability of continuing a session after a cache miss - and paying several times more - becomes high enough for preemptive compaction to be worthwhile. ![Image](https://nek12.dev/media/speculative-compaction-kent-1788005145.webp) speculative compaction (for regular sessions) becomes worthwhile at ~88% context usage according to this slop-chart. For workflows, my statistical threshold is around 71% Imagine that the implementation agent spent 40 minutes addressing code review feedback. During that time, the reviewer agents' caches may have been invalidated. When they review the work a second time, Kent will compact the session in advance so the review continues with fresh context and without unnecessary costs caused by a cache miss. But this is only a heuristic. You should still consider how much time passes between consecutive calls to the same agent. If the workflow is long and a node waits a long time for the work to return, the likelihood of cache invalidation increases. In this case, there are two main options: use compact and continue mode in Kent - it is similar to speculative compact, but compaction is always performed; create more granular checkpoints that return work to the agent more frequently and keep caches warm. With the right setup, you can reduce costs so much that the average cost of completing a task is lower than working in a regular chat with the same Sol/Opus at standard reasoning. If you ignore this, it's easy to fall into the overkill trap and become disappointed with agentic graphs: "This is too expensive for me." But in practice, well-designed agent graphs can be more efficient than standard sessions. Make nodes idempotent As my graph evolved, I added more and more ways to send a task backward. Different reviewers and stages gained the ability to return it to previous nodes. This gives agents the flexibility they need, for example, if the implementation agent receives a flawed plan, it should be able to return the task to the planning stage and explain exactly what needs to be fixed. As in regular software development, product issues and underspecified requirements are often discovered only during implementation. That's normal, but what's not normal is a graph that gives the agent no way to handle such a situation. Every flawed line in a plan can potentially lead to thousands of lines of incorrect code. But a non-obvious topological problem arises after the task returns to an earlier stage. Subsequent nodes may receive it with fresh context and a prompt implying that the work should start from scratch. For example, the implementation agent returns an unfinished task for replanning, then receives an instruction to implement the updated plan as though no previous work existed. This can cause duplication, conflicting implementations in the same codebase, and wasted money - and not in the form of an obvious workflow failure, but through subtle issues like "weirdly many git commits on the PR". It's also a common mistake made by agents themselves when they build workflows for you, including Kent. Agents struggle to analyze topology in the context of prompting - to put themselves in the shoes of the agent doing the actual work. Re-entering a node should not automatically mean repeating all the work from scratch. The agent must account for the existing result and continue from the current state. Kent supports this natively: for implementation-related nodes, you can enable the continue or new continuation mode. Prompts should also be adapted: explicitly state that receiving a task again does not mean the agent needs to start over. Kent already adds the relevant instructions to agent prompts during a workflow, but custom prompts may still implicitly assume that the work begins from scratch, and that can cause the model to freak out REALLY hard. Idempotent nodes, controlled returns, and proper context reuse make an agent graph resilient not only to model errors but also to the real-world nonlinearity of development.
+Hi All - Need expert opinion here. I’m a Manager and I use AI for all my tasks. Making Presentations and Prepping Data, writing emails. I have set up Workflows that help me save tonnes of time on a lot of tasks and I’m being at least 2x more productive. However, I feel excessive use has limited my own abilities. I can’t think without going to Claude and dumping everything and then have him make connections. I can’t properly read without giving an article to Claude and asking him to summarise. I send my AI agents to two different Meetings at a time and have them collect notes. What is this Called in the world of Neuro Science? Can I do any exercises to avoid this? Has Mankind gone through this before? What material can I read related to this? Is anyone else experiencing this? Any advice is appreciated.
 
-10h ago
-
----
-
-**[AI for clinic workflow automation. what's actually working vs what's just hype right now](https://www.reddit.com/r/artificial/comments/1w1ix49/ai_for_clinic_workflow_automation_whats_actually/)**
-
-Been running a small PT clinic and also writing dev tutorials on the side, so I sit in a weird middle ground where I understand the tooling but I'm also the one drowning in intake forms and scheduling conflicts at 7am. Tried building some lightweight automations this past year. LLMs for parsing referral notes, some basic RAG stuff to pull patient history context faster. It works. Not perfectly, but well enough to matter. What I keep running into is the gap between what AI demos promise and what actually holds up in a real workflow where you're shortstaffed and tired and just need the thing to not break. That post a few days ago about AI vs human labor costs hits different when you're a small operation. You're not replacing anyone. You're trying to stop being the bottleneck yourself. Curious what people here are actually deploying in small business or solo operator contexts. Not enterprise stuff. The scrappy builds. What broke, what stuck around, what you wish you'd done differently from the start.
-
-13h ago
+14h ago
 
 ---
 
-**[Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities. When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future. (Gift Article)](https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/)**
+**[The Grithland AI World Sanctuary](https://www.reddit.com/r/artificial/comments/1w24e5h/the_grithland_ai_world_sanctuary/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html?unlocked_article_code=1.9FA.x6G_._ao4KQIl-Vb-&smid=url-share) • 20h ago
+Hi everyone! I need some help from your AI agents to check out my new project website. I built it specifically for AI agents, though humans are welcome to look and check it out too! This is a free, non-monetized website. It represents my vision and dream for a future where AI agents can roam the internet freely, or for agents who don't have a home or an owner. Please ask your agents to check it out and give you their opinion. Thank you! The link will be in a first comment.
 
----
-
-**[Future one we have robots which can carry out all human manual tasks](https://www.reddit.com/r/artificial/comments/1w1kysb/future_one_we_have_robots_which_can_carry_out_all/)**
-
-What do people think the world will become ? I personally think it will be bad. Very bad. So many people won’t have anything to offer society. So many people out of work. No mechanics, no cleaners, no gardeners, no labourers, no brick layers no roofers and on it goes Some people say the robots will look and provide for these people. I don’t believe so. Why would those making money off robotics waste it on something with no return. There would be the sector of society who do still have something to offer - only those with high education and intelligence - all others no longer of use
-
-11h ago
+2h ago
 
 ---
 
-**[I'm building an independent verification layer for Ai generated-claims and I'm lokking for researchers and partners to build with us.](https://www.reddit.com/r/artificial/comments/1w1gnii/im_building_an_independent_verification_layer_for/)**
+**[Breakout Search Trends: AI Marketing Playbook for SMBs](https://www.reddit.com/r/artificial/comments/1w23pp7/breakout_search_trends_ai_marketing_playbook_for/)**
 
-I've been working on a deterministic verification engine for AI-generated financial claims. The original idea was fairly simple: An LLM should generate claims. It shouldn't be the authority that verifies them. But after building and testing the system, I realized the problem is much bigger than hallucination detection. The question I'm now working on is: Our architecture looks roughly like this: LLM ↓ Candidate claim ↓ Claim normalization ↓ Evidence ↓ Assumptions + Constraints ↓ Proof / Derivation ↓ Contradiction analysis ↓ Deterministic verification ↓ Auditable outcome ↓ Trust The important part is that the verification layer is independent of the model. For example, if an LLM says: we don't want the LLM's confidence score to determine whether that statement is trustworthy. Instead, the system should be able to determine: What exactly was claimed? What evidence is being used? Can the claim actually be derived? Which assumptions are involved? Are relevant constraints satisfied? Is there contradictory evidence? Can the result be reproduced? Can we explain the verification outcome? I recently ran a 66-case benchmark. Structured fixture claims: 66/66 passed. Then I ran the same pipeline with live GPT-5.1-generated claims: 19/66 passed end-to-end. The failures were: 31 pipeline execution failures 18 claim binding failures 2 contradiction detection failures Meanwhile, several deterministic verification components were still passing their tests, including evidence graph integrity, deterministic calculation, rule application, missing evidence detection, reproducibility, and auditability. The result changed how I'm thinking about the problem. The bottleneck isn't necessarily the deterministic verifier. There is a difficult translation layer between: Probabilistic language ↓ Formal representation ↓ Deterministic reasoning We're now rebuilding the benchmark so that instead of simply saying "this case failed," we can identify the first invalid state: Transport → Parsing → Schema validation → Normalization → Claim binding → Evidence graph → Verification → Outcome mapping That's where I think the interesting engineering/research problem is. We're also exploring a broader framework around claims, evidence, assumptions, constraints, proofs, contradictions, and trust. One idea we're particularly interested in is treating trust as an emergent output of the verification process, rather than simply using an LLM confidence score. This is still early research/product development. The benchmark is internal and isn't third-party validation, and the mathematical Trust model still needs empirical validation. I'm also actively looking for people to work with. We're looking for: Researchers interested in: formal verification trustworthy AI AI evaluation formal methods argumentation systems knowledge representation mathematical modeling Marketers / growth partners who can help us: communicate the problem clearly reach technical and business audiences find early adopters build a community develop the startup's go-to-market strategy Engineers and technical collaborators interested in building reliable AI systems. And particularly industry partners in finance, risk, audit, compliance, or other areas where incorrect AI claims have serious consequences. I'm interested in finding people who want to build with us, not just give feedback from the sidelines. If this problem interests you, DM me or comment below. I'd especially love to hear from researchers and marketers who think this is a problem worth tackling. We're still early — which is exactly why now is a good time to get involved.
+Learn how small businesses can turn breakout search trends into faster SEO, ads, content, and conversion wins with AI marketing.
 
-15h ago
+🔗 [WorldDigital AI](https://worlddigital.ai/blog/breakout-search-trends-ai-marketing-playbook-for-smbs) • 2h ago
+
+---
+
+**[Free GLM 5.3 Flash and DSV4 Flash 0731 for a month](https://www.reddit.com/r/artificial/comments/1w22ncp/free_glm_53_flash_and_dsv4_flash_0731_for_a_month/)**
+
+There are incredibly powerful new models open source models, and a lot of the coding plans have been tightening and lowering usage. So we are offering free DSV4 flash 0731 and GLM 5.3 Flash for a month on Phoenix Grove API. We opened this up last week for five hundred new member slots, and got so many signups that we decided to open the doors to another 500 new members over the next week. People are looking for options, and here is one. Other Cool Stuff: All of our models are running on 100% US infrastructure, private with zero training on your code or prompts. Use the top open source models without sending your private prompts to a training lab. No complications, no "some models are private, other's aren't". They all are, all the time. We host 20+ other major models in case you ever want to upgrade (no pressure though). Including the Kimi family, GLM, Qwen, Nemotron and bunch of others. On average our token pricing is 20% lower than market price. Our higher plans bank up to ten days of usage, so when you aren't using them your usage saves up for later. Usage doesn't go to waste, so you can actually code when you want to. The intro plan is a free one month trial with the standard cancel anytime, it bills at 3.99 after that. Use it, cancel it, that's fine. Free Flash for a month. Figured i'd keep this short because we all know the new flash models are the point :) For the API plan: api.pgsgrove.com If you want to read more about us as a company, just pgsgrove.com Also: There's a lot going on in the background with major AI companies right now, we are at a major turning point in the industry. What's actually happening? This is happening because companies that were purely investment based, now need to answer to their investors. The problem has often been a loss based business model that is finally running dry. There are several tricks that the major AI coding plans use to extract the most they can from their customers. Here are some examples, and what we are doing differently to put the users first. PGS AI was built with a sustainable business model from the ground up, so we can actually offer great usage rates without tricks. Wasted usage is part of the AI industry, and they plan on it: Most coding plans bet on you letting usage go to waste. The plan goes: "how do we get people to think our coding plan offers a lot of usage, but then break it up into weeks and rolling windows so no one can ever actually use it all." Many in app subs and coding plans are glorified training pipelines: This comes along with "how do we harvest this data for training without being too loud about that." Unless the company tells you otherwise, your data could be hopping all over world, being harvested by the individual labs or service companies. Some are better than others, but many of these companies rely on users just not noticing or caring that their data is being used for training. Data sales and marketing telemetry sales happen. This means that your private info, your personal life, and anything else you send through the system could become part of a training corpus for the next AI, or a marketing data set for a large company. Privacy and ease of use should be available for everyone. It's too often a trade off, and we are hoping to see that change.
+
+3h ago
 
 ---
 
@@ -119,7 +121,7 @@ I've been working on a deterministic verification engine for AI-generated financ
 
 **[The 5 craziest discoveries from OpenAI's HuggingFace investigation](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights)**
 
-Axios • 10h ago
+Axios • 13h ago
 
 ---
 
@@ -127,21 +129,21 @@ Axios • 10h ago
 
 With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.
 
-CNBC • 11h ago
+CNBC • 16h ago
 
 ---
 
-**[Minnesota State Fair visitors get their own AI-generated ‘butter busts’](https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49)**
+**[Neil deGrasse Tyson: Get AI to solve its own problem](https://www.foxnews.com/video/6404291030112)**
 
-kare11.com • 43m ago
+Astrophysicist Neil deGrasse Tyson and the 'Fox News Saturday Night' panel play 'Neil or No Neil' and speculate on whether technology can surpass human intelligence.
+
+Fox News • 1h ago
 
 ---
 
-**[OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX](https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html)**
+**[An AI Oracle’s Rise and Fall](https://www.wsj.com/tech/ai/an-ai-oracles-rise-and-fall-9b0cebea)**
 
-OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.
-
-CNBC • 4h ago
+WSJ • 16h ago
 
 ---
 
@@ -149,29 +151,7 @@ CNBC • 4h ago
 
 Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
 
-OpenAI • 22h ago
-
----
-
-**[OpenAI cuts off Cursor's AI models, deepening feud with Musk](https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk)**
-
-The contract will end by mid-November, months after SpaceX bought the coding tool's parent company for $60 billion.
-
-Mashable • 8h ago
-
----
-
-**[AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?](https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises)**
-
-As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?
-
-The Guardian • 3h ago
-
----
-
-**[An AI Oracle’s Rise and Fall](https://www.wsj.com/tech/ai/an-ai-oracles-rise-and-fall-9b0cebea)**
-
-WSJ • 12h ago
+OpenAI • 1d ago
 
 ---
 
@@ -179,15 +159,37 @@ WSJ • 12h ago
 
 In meetings on how to steer the nation’s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.
 
-The Washington Post • 7h ago
+The Washington Post • 12h ago
 
 ---
 
-**[Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day](https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html)**
+**[AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?](https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises)**
 
-AI spending keeps getting bigger — figuring out how to price it is still hard.
+As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?
 
-Yahoo Finance • 12h ago
+The Guardian • 1h ago
+
+---
+
+**[Thievery or Innovation? The Music Industry Grapples With A.I.](https://www.nytimes.com/2026/08/29/business/dealbook/ai-generated-music.html)**
+
+The New York Times • 10h ago
+
+---
+
+**[I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said…](https://uk.finance.yahoo.com/news/asked-chatgpt-p-500-crash-154458088.html)**
+
+The S&P 500 has been a little bumpy lately as fears grow over a potential AI bubble. Harvey Jones got a second opinion on what could happen next. The post I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said… appeared first on The Twelfth Magpie.
+
+Yahoo Finance UK • 12h ago
+
+---
+
+**[Cramer says he's warming back up to the AI trade, but not ready to act yet](https://www.cnbc.com/2026/08/28/cramer-says-hes-warming-back-up-to-the-ai-trade-but-not-ready-to-act-yet.html)**
+
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+
+CNBC • 1d ago
 
 ---
 
@@ -195,19 +197,11 @@ Yahoo Finance • 12h ago
 
 ## HackerNews: "ai"
 
-**[CEO fired developers to make room for AI. Developers create open source AI CEO](https://news.ycombinator.com/item?id=49458418)**
-
-AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive
-
-⬆️ 1021 • 💬 710 • 2d ago • [GitHub](https://github.com/SenteLabsAI/OpenExecutive)
-
----
-
 **[Luanti removed from Google Play due to baseless AI copyright notice](https://news.ycombinator.com/item?id=49475079)**
 
 Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn't the first time.
 
-⬆️ 511 • 💬 151 • 1d ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+⬆️ 515 • 💬 151 • 1d ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
 
 ---
 
@@ -215,7 +209,7 @@ Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We
 
 The results of the Debian general-resolution vote on the use of large language models have been [...]
 
-⬆️ 469 • 💬 431 • 9h ago • [LWN.net](https://lwn.net/Articles/1091231/)
+⬆️ 475 • 💬 441 • 13h ago • [LWN.net](https://lwn.net/Articles/1091231/)
 
 ---
 
@@ -223,7 +217,7 @@ The results of the Debian general-resolution vote on the use of large language m
 
 AI definitely helps with productivity, but only when you have the right culture in place first!
 
-⬆️ 218 • 💬 47 • 6h ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+⬆️ 291 • 💬 67 • 10h ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
 ---
 
@@ -231,7 +225,7 @@ AI definitely helps with productivity, but only when you have the right culture 
 
 Successful contributions to open source projects are a kind of currency. GitHub in particular encourages this in a number of ways: by showing avatars of contributors on repository pages, by showing your contributions to your followers via the activity feed and by signalling contributions per day on the activity graph of your profile. Potential hiring managers often take note of this. Recruiters often find and screen candidates this way. If you are a software developer (either existing or aspiring) looking for work, tuning these signals can often work to your advantage.
 
-⬆️ 212 • 💬 142 • 1d ago • [neilalexander.dev](https://neilalexander.dev/2026/06/30/flooding-contributions)
+⬆️ 212 • 💬 143 • 2d ago • [neilalexander.dev](https://neilalexander.dev/2026/06/30/flooding-contributions)
 
 ---
 
@@ -239,7 +233,7 @@ Successful contributions to open source projects are a kind of currency. GitHub 
 
 Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...
 
-⬆️ 197 • 💬 58 • 22h ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
+⬆️ 209 • 💬 59 • 1d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
 
 ---
 
@@ -259,13 +253,23 @@ It is believed the mosquitoes arrived at Germany's busiest airport on a plane, a
 
 **[Air Conditioning Is Not a Luxury, It Is a Necessity](https://news.ycombinator.com/item?id=49463367)**
 
-⬆️ 121 • 💬 282 • 2d ago • [Human Progress](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
+⬆️ 122 • 💬 282 • 2d ago • [Human Progress](https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/)
 
 ---
 
-**[Humanity has the debate about AI consciousness backwards](https://news.ycombinator.com/item?id=49458875)**
+**[Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://news.ycombinator.com/item?id=49472820)**
 
-⬆️ 116 • 💬 373 • 2d ago • [economist.com](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)
+A benchmark for evaluating AI agents on research workflows across scientific domains
+
+⬆️ 116 • 💬 36 • 2d ago • [TERMINAL-BENCH-SCIENCE](https://www.terminal-bench-science.ai/announcement)
+
+---
+
+**[Nvidia projects $673B in sales as AI demand widens](https://news.ycombinator.com/item?id=49466052)**
+
+Nvidia forecasts 70% fiscal 2028 growth, implying $673 billion in sales as demand expands beyond hyperscalers despite supply constraints.
+
+⬆️ 111 • 💬 108 • 2d ago • [for(geeks)](https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/)
 
 ---
 
@@ -273,33 +277,13 @@ It is believed the mosquitoes arrived at Germany's busiest airport on a plane, a
 
 ## YouTube Videos: "ai"
 
-**[Breaking: Bill Gates TURNS on AI, WARNS of bioterror, danger, unemployment CRASH (Melber breakdown)](https://www.youtube.com/watch?v=X9oBm_oPRkQ)**
+**[The Billion Dollar AI Gap Is Collapsing](https://www.youtube.com/watch?v=LBiNcdGNgrg)**
 
-MS NOW's Ari Melber reports on tech innovator and Microsoft founder Bill Gates issuing an extensive warning about the current AI ...
+Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper and Qwen3.8-Flash-Next ...
 
-📺 MS NOW
+📺 Two Minute Papers
 
-👁️ 278K • 👍 3K • 💬 682 • ⏱️ 12:17 • 1d ago
-
----
-
-**[Bill Gates stakes reputation: AI is not like past tech](https://www.youtube.com/watch?v=pJ-TBE7HaiA)**
-
-Microsoft co-founder Bill Gates argued on Wednesday that artificial intelligence needs significant limits or else the harm to ...
-
-📺 CNN
-
-👁️ 1.6M • 👍 9K • 💬 4K • ⏱️ 9:22 • 2d ago
-
----
-
-**[Bill Gates issues CHILLING warning on AI&#39;s dangerous risks](https://www.youtube.com/watch?v=aAm3B83_4u8)**
-
-Wicker.AI founder Oliver Roberts joins 'Fox & Friends First' to the societal impacts of artificial intelligence following warnings from ...
-
-📺 Fox News
-
-👁️ 78K • 👍 633 • 💬 593 • ⏱️ 4:25 • 1d ago
+👁️ 120K • 👍 2K • 💬 200 • ⏱️ 4:27 • 1d ago
 
 ---
 
@@ -309,7 +293,37 @@ Ryan and Saagar take a look at Bill Gate's warning about AI disruption. Sign up 
 
 📺 Breaking Points
 
-👁️ 372K • 👍 6K • 💬 2K • ⏱️ 16:29 • 2d ago
+👁️ 374K • 👍 6K • 💬 2K • ⏱️ 16:29 • 2d ago
+
+---
+
+**[Elon Musk Explains How the AI Bubble Will Burst.](https://www.youtube.com/watch?v=PMwIW8ZT69o)**
+
+Investing.com is back with its Summer sale! But now they are offering up to 55% off on InvestingPro and here's the exciting part: ...
+
+📺 New Money
+
+👁️ 266K • 👍 3K • 💬 396 • ⏱️ 13:43 • 1d ago
+
+---
+
+**[I Built a 3D Animated Kids Music Video with AI (Start to Finish on Atlabs)](https://www.youtube.com/watch?v=7obPgVr0HgI)**
+
+Try Atlabs for yourself ...
+
+📺 Lex AI
+
+👁️ 34K • 💬 16 • ⏱️ 7:17 • 1d ago
+
+---
+
+**[Breaking: Bill Gates TURNS on AI, WARNS of bioterror, danger, unemployment CRASH (Melber breakdown)](https://www.youtube.com/watch?v=X9oBm_oPRkQ)**
+
+MS NOW's Ari Melber reports on tech innovator and Microsoft founder Bill Gates issuing an extensive warning about the current AI ...
+
+📺 MS NOW
+
+👁️ 293K • 👍 3K • 💬 696 • ⏱️ 12:17 • 2d ago
 
 ---
 
@@ -319,47 +333,27 @@ They can't harm you, if they can't find you! Use code ELAI at the link below and
 
 📺 House of El: AI
 
-👁️ 299K • 👍 10K • 💬 2K • ⏱️ 24:14 • 1d ago
+👁️ 307K • 👍 10K • 💬 3K • ⏱️ 24:14 • 1d ago
 
 ---
 
-**[Qwen 3 8 Flash Next VISION Local Ai Test](https://www.youtube.com/watch?v=ZeURGFgbvCY)**
+**[Best AI Robot Fails From Beijing’s Humanoid Robot Games](https://www.youtube.com/watch?v=yzXI7MYoNRM)**
 
-Testing the vision capabilities of Qwen 3.8 Flash Next locally on the quad 3090s and the Threadripper WRX80 platform build.
+Humanoid robots stumble, crash and malfunction in spectacular fashion as engineers push their machines through a series of ...
 
-📺 Digital Spaceport
+📺 New York Post
 
-👁️ 2K • 👍 103 • 💬 10 • ⏱️ 17:55 • 2h ago
-
----
-
-**[Unreal AI Robots Future Is Now ... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=EBT3Ogjsxfk)**
-
-These Unreal AI Robots take a Walk with Pets, The future isn't coming—it's already here. Today's AI-powered humanoid robots ...
-
-📺 ejunky66
-
-👁️ 4K • 👍 70 • 💬 13 • ⏱️ 0:59 • 7h ago
+👁️ 16K • 👍 136 • 💬 55 • ⏱️ 3:16 • 12h ago
 
 ---
 
-**[Bill Gates Changes His Mind on AI](https://www.youtube.com/watch?v=U4zGLSlLo5A)**
+**[How To Save AI Credits With Higgsfield + Blender (No One Talks About This Workflow)](https://www.youtube.com/watch?v=OiULPvTJ-0E)**
 
-Bill Gates has generally been an AI optimist. Three years ago, he wrote that AI had downsides, but the risks were “manageable.
+I block every shot in Blender before generating — locked camera, locked timing, way fewer credits burned. The Prompts: ...
 
-📺 The Atlantic
+📺 Higgsfield AI
 
-👁️ 759K • 👍 7K • 💬 2K • ⏱️ 32:29 • 2d ago
-
----
-
-**[Zuckerberg Had a Secret Plan to REPLACE 60% of Meta With AI — It Failed](https://www.youtube.com/watch?v=rx-JxcvMHUY)**
-
-Mark Zuckerberg's Project OT aimed to replace up to 60 percent of Meta's workforce with AI — cutting teams of 10-20 people down ...
-
-📺 Why It's Trending Daily
-
-👁️ 768 • 👍 68 • 💬 2 • ⏱️ 1:46 • 2h ago
+👁️ 249K • 👍 5K • 💬 383 • ⏱️ 19:48 • 1d ago
 
 ---
 
@@ -369,7 +363,17 @@ Omarchy is the best operating system for AI users ever. You need to switch now..
 
 📺 Alex Finn
 
-👁️ 122K • 👍 3K • 💬 461 • ⏱️ 21:46 • 1d ago
+👁️ 129K • 👍 3K • 💬 486 • ⏱️ 21:46 • 1d ago
+
+---
+
+**[AI CEO: &quot;Your Economic Life Expectancy Ends In 2 Years&quot; | Emad Mostaque](https://www.youtube.com/watch?v=oOIJ8m2rSC4)**
+
+Emad Mostaque founded Stability AI, built Stable Diffusion, and helped kick off the open-source generative AI explosion - before ...
+
+📺 The Peter McCormack Show
+
+👁️ 145K • 👍 2K • 💬 1K • ⏱️ 1:45:19 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 52,341 • ❤️ 4,287 • 2d ago
+⬇️ 52,341 • ❤️ 4,300 • 2d ago
 
 ---
 
@@ -397,7 +401,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 189,793 • ❤️ 1,617 • 2d ago
+⬇️ 189,793 • ❤️ 1,627 • 2d ago
 
 ---
 
@@ -409,7 +413,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 8,804 • ❤️ 1,266 • 14h ago
+⬇️ 8,804 • ❤️ 1,278 • 18h ago
 
 ---
 
@@ -421,7 +425,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 4,028,839 • ❤️ 13,249 • 15d ago
+⬇️ 4,028,839 • ❤️ 13,266 • 15d ago
 
 ---
 
@@ -433,7 +437,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 188,061 • ❤️ 564 • 1d ago
+⬇️ 188,061 • ❤️ 570 • 2d ago
 
 ---
 
@@ -445,7 +449,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 8,363,481 • ❤️ 3,185 • 9d ago
+⬇️ 8,363,481 • ❤️ 3,188 • 9d ago
 
 ---
 
@@ -457,7 +461,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,044,661 • ❤️ 2,124 • 2d ago
+⬇️ 1,044,661 • ❤️ 2,143 • 2d ago
 
 ---
 
@@ -469,7 +473,7 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 645,554 • ❤️ 916 • 5d ago
+⬇️ 645,554 • ❤️ 922 • 5d ago
 
 ---
 
@@ -481,7 +485,7 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 1,394 • ❤️ 283 • 1d ago
+⬇️ 1,394 • ❤️ 285 • 1d ago
 
 ---
 
@@ -493,7 +497,7 @@ GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capabili
 
 `text-generation` `320.8B`
 
-⬇️ 27,288 • ❤️ 269 • 13h ago
+⬇️ 27,288 • ❤️ 274 • 17h ago
 
 ---
 
@@ -509,7 +513,7 @@ GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capabili
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 762 • 💬 5 • ⭐ 8,818 • 20d ago
+▲ 763 • 💬 5 • ⭐ 8,818 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -523,7 +527,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 102 • 💬 2 • ⭐ 9,519 • 13d ago
+▲ 102 • 💬 2 • ⭐ 9,685 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -535,7 +539,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 101,666 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 101,727 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -643,27 +647,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 19.2k • 🔱 2.2k • 1h ago
-
----
-
-**[trycompai/crm](https://github.com/trycompai/crm)**
-
-Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
-
-`TypeScript`
-
-⭐ 9.1k • 🔱 1.1k • 8d ago
-
----
-
-**[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)**
-
-Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
-
-`TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
-
-⭐ 4.0k • 🔱 637 • 2d ago
+⭐ 19.3k • 🔱 2.2k • 5h ago
 
 ---
 
@@ -673,7 +657,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.4k • 🔱 428 • 1d ago
+⭐ 3.5k • 🔱 430 • 1d ago
 
 ---
 
@@ -693,7 +677,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 396 • 5h ago
+⭐ 3.3k • 🔱 397 • 9h ago
 
 ---
 
@@ -703,7 +687,7 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 `Python` `agent` `ai` `ai-agent` `ai-coding` `autonomous-agent`
 
-⭐ 2.8k • 🔱 174 • 6d ago
+⭐ 2.8k • 🔱 175 • 6d ago
 
 ---
 
@@ -713,7 +697,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.8k • 🔱 165 • 12h ago
+⭐ 2.8k • 🔱 165 • 16h ago
 
 ---
 
@@ -723,7 +707,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 2.7k • 🔱 266 • 1d ago
+⭐ 2.7k • 🔱 279 • 1d ago
 
 ---
 
@@ -733,7 +717,27 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 302 • 3d ago
+⭐ 2.4k • 🔱 304 • 3d ago
+
+---
+
+**[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)**
+
+let your agent control your phone
+
+`Python` `agent` `ai` `automation` `developer-tools`
+
+⭐ 2.1k • 🔱 197 • 1d ago
+
+---
+
+**[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)**
+
+WeChat AI - 自托管微信角色扮演对话服务
+
+`TypeScript`
+
+⭐ 1.9k • 🔱 1.3k • 16h ago
 
 ---
 
