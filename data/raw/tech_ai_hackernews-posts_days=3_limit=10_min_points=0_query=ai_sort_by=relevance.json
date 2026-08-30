@@ -37,8 +37,8 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "hn_url": "https://news.ycombinator.com/item?id=49491568",
       "author": "gpi",
-      "points": 441,
-      "num_comments": 111,
+      "points": 444,
+      "num_comments": 113,
       "created_at": "2026-08-29T17:19:47Z",
       "object_id": "49491568",
       "image": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
@@ -51,8 +51,8 @@
       "url": "https://noaifridays.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49498095",
       "author": "xendo",
-      "points": 257,
-      "num_comments": 170,
+      "points": 261,
+      "num_comments": 180,
       "created_at": "2026-08-30T12:31:05Z",
       "object_id": "49498095",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "hn_url": "https://news.ycombinator.com/item?id=49486081",
       "author": "thclpr",
-      "points": 238,
-      "num_comments": 61,
+      "points": 239,
+      "num_comments": 63,
       "created_at": "2026-08-29T01:24:13Z",
       "object_id": "49486081",
       "image": "https://opengraph.githubassets.com/170818cd1525a58df5693af9af91cb549647b6b41d717dba9468bf0461f321de/stemdeckapp/stemdeck",
@@ -103,20 +103,6 @@
       "site_name": "TERMINAL-BENCH-SCIENCE"
     },
     {
-      "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "hn_url": "https://news.ycombinator.com/item?id=49471714",
-      "author": "calmrocks",
-      "points": 112,
-      "num_comments": 15,
-      "created_at": "2026-08-27T21:46:39Z",
-      "object_id": "49471714",
-      "image": "https://repository-images.githubusercontent.com/1331428199/00fb8916-a7d6-4fde-9f57-93a2c480c40b",
-      "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from sc...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "The growing divide between AI hype and software engineering reality",
       "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49491113",
@@ -143,9 +129,23 @@
       "description": "My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we\u2019re always on the lookout for other types of fakes that we can go after....",
       "favicon": "https://groverlab.org/favicon.ico",
       "site_name": "groverlab.org"
+    },
+    {
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "hn_url": "https://news.ycombinator.com/item?id=49494571",
+      "author": "gregsadetsky",
+      "points": 61,
+      "num_comments": 19,
+      "created_at": "2026-08-30T00:33:35Z",
+      "object_id": "49494571",
+      "image": "https://opengraph.githubassets.com/d4ff946cbf890688213e17d125299b10307ac40a6e5df0bd586aae4c249e30c1/mk6i/open-oscar-server",
+      "description": "Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL) - mk6i/open-oscar-server",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
-  "total_hits": 449,
+  "total_hits": 441,
   "has_metadata": true,
-  "fetched_at": "2026-08-30T21:24:46.586549+00:00"
+  "fetched_at": "2026-08-30T23:42:34.634181+00:00"
 }

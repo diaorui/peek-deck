@@ -15,26 +15,6 @@
       "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
     },
     {
-      "headline": "China\u2019s robots race ahead",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
-      "pub_date": 1788091200.0,
-      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
-      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
-    },
-    {
-      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "pub_date": 1788015600.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -45,14 +25,34 @@
       "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
     },
     {
-      "headline": "Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics",
-      "source": "ABC7 Bay Area",
-      "source_url": "https://abc7news.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd0ItTmV5ZmMzXzctQ3Uxd25rR0g3empBU3pqaVdpWkVRdEd5VjZWczgzNXA4endFQk5QcHNUMS1hTnZXVGQ3RTA5cHVtWEViYTFYM2laMmNQdkdvaExqUk40em1ZSDNtRW9VMWN5OC01TnZPakFXb2l2d3pnMTZxeVQ5c19vSzFwcHJkOEQ4X2oxNFFPSmQ0M25UWElzY3RVamlHcUxrcDJYZHlnM3JOVVpObGdWdzlmeWc2V2VZMGFKaWhDRmtWNXVyQXBqMk1sOW9MdWdfZ9IB3AFBVV95cUxNZUltYTZtbnI5S2EyUE1Xdm43UjY4MllsNlFxVGluYVVycEs1R05ObEI4R243SWZRdUZKSVpfTVNWQmNrOXhnTk90NjVLZ3NFd21CaEN1a3I1RTdfeWs1T1NpZmNqdC0tX3JfeEhBX0xYSGhpb3pNR2pjd09rVmVidERpZmlBbTYtQmdZTXR4cHNsRkFVWVJyTXVSanpoRE5XMTNQMm5URUQ5UGM5d3J6SkdTLXNtaThVcThqVmI1bHRMOWhFblk5NW1XUGVhTXA3cnc0S1JUUDB3bFQy?oc=5",
-      "pub_date": 1788037583.0,
-      "article_url": "https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/",
-      "image": "https://cdn.abcotvs.com/dip/images/19759919_082926-kgo-ai-barber-img.jpg?w=1600",
-      "description": "A South Bay barber has decided to lean in after more than three decades of mastering his craft. Now, artificial intelligence is keeping a watchful eye on every snip. Here's why he's not worried."
+      "headline": "China\u2019s robots race ahead",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
+      "pub_date": 1788091200.0,
+      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
+    },
+    {
+      "headline": "China\u2019s record robotic strides show the limits of human speed",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5",
+      "pub_date": 1787910244.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
+      "pub_date": 1788015600.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Light-powered soft robots that can keep jumping forever",
@@ -69,20 +69,10 @@
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aU083cmhsT09VR0dEWEdBUW9hczZQVGU2SDI1MGxITnlZQVpYaU9sUGhUN3oxR3NOM2ZxNjFnaDI1R0s5U05BUGJ4S1N1Ull2dUVMSjVTekRDR3BFeEhTWGd1ckM?oc=5",
-      "pub_date": 1788100718.0,
+      "pub_date": 1787932803.0,
       "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
       "image": "https://spectrum.ieee.org/media-library/image.png?id=67687638&width=1200&height=600&coordinates=0%2C5%2C0%2C6",
       "description": "In this week\u2019s selection of awesome robot videos, you\u2019ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo"
-    },
-    {
-      "headline": "DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXYmNUOXVzeDZDai04NkJUTEdXa2pkQTN6R25uLW9MMmJaOGNhTW00dXN1OHJJN2F0WTRySWlaTXhZYlNZLVhEV25USXRnRy0yVkpmdFpZS29sOEVDQWs4cHNod0pqSjhUYTFJQ3BfY0VrNGh5eEhxenNR?oc=5",
-      "pub_date": 1787922035.0,
-      "article_url": "https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272104482-300x200.jpg",
-      "description": "High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts"
     },
     {
       "headline": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Meet The 7-Year-Old Who Just Completed A Robotics Program At MIT",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmUtb2xIb3YzaVc5VlF6V3VTUEo4YmN3QVV4bFBrRjUxZG1qN0lDTzZLSDNZS2pBQWNqWW02a1ZyLXhSS2lSZlZWUkxNeDhfa3pKTDdsT0dBUzdKb3plcklnVXV5cUZJbmg3dEM3RU14eFdOdFNud1pHcE4wMENtamE3a2Q0UXlJ?oc=5",
-      "pub_date": 1787838637.0,
-      "article_url": "https://www.yahoo.com/lifestyle/articles/meet-7-old-just-completed-135037459.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4db60d83958080f59c0418c88410b4593f09fdcd45808e4b12aa3f7a2aaafdf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafrotech_articles_589%2F4665337d1132c59321fdfeb8b05eab4c.jpg",
-      "description": "The future is limitless for seven-year-old Jules Zion."
+      "headline": "UTech, Jamaica STEM Summer Camp equips youth with AI, Robotics and Sustainability Skills",
+      "source": "Jamaica Observer",
+      "source_url": "https://www.jamaicaobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDBCSFdlaGpSTmI4QTVHaG50YnBldEtBbGxnSExzNS1uc1BCWnh2LUNQTjRkcElQTHRGOWZQYmhHbC1xOHd0d3dIZkRhTnZ0MlFxR2djcG5RWVJkYmg1NUZZaDRhNWhNVVhVUXpMV2RLemh0LXNlWHF0RllVMzVkODdzYkhRM1huMjJMaXZCRTRnbldnNWdHRm5jc0x0QlY2YWdjc19oTXZaWFFDS05CeDc1dmpaYmVEYjBIbXhR?oc=5",
+      "pub_date": 1788113196.0,
+      "article_url": "https://www.jamaicaobserver.com/2026/08/30/utech-jamaica-stem-summer-camp-equips-youth-ai-robotics-sustainability-skills/",
+      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/08/UTech-Ja-STEM-Summer-Camp-students-working-on-robot-scaled-1024x678.jpg",
+      "description": "KINGSTON, Jamaica \u2014 Approximately 100 students from primary and secondary schools across Kingston and St Andrew gained hands-on experience in artificial intelligence (AI), robotics, engineering and other emerging technologies during the third staging of the University of Technology\u2019s (UTech) STEM Summer Camp. Hosted by UTech\u2019s Department of Community Service &amp;amp; Development, the two-week camp was held at the University\u2019s Western Campus from July 13\u201324 and at the Papine Campus from..."
+    },
+    {
+      "headline": "DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXYmNUOXVzeDZDai04NkJUTEdXa2pkQTN6R25uLW9MMmJaOGNhTW00dXN1OHJJN2F0WTRySWlaTXhZYlNZLVhEV25USXRnRy0yVkpmdFpZS29sOEVDQWs4cHNod0pqSjhUYTFJQ3BfY0VrNGh5eEhxenNR?oc=5",
+      "pub_date": 1787922035.0,
+      "article_url": "https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272104482-300x200.jpg",
+      "description": "High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-30T21:25:06.362434+00:00"
+  "fetched_at": "2026-08-30T23:42:55.036438+00:00"
 }
