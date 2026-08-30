@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-30T21:25:09.276896+00:00'
+updated: '2026-08-30T23:42:56.649004+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 30, 2026 at 21:25 UTC  
+**Last Updated:** August 30, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,33 +122,31 @@ WIRED • 2d ago
 
 ---
 
+**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+
+As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
+
+CNBC • 13h ago
+
+---
+
 **[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
 
 Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
 
-The Verge • 9h ago
+The Verge • 11h ago
+
+---
+
+**[China’s record robotic strides show the limits of human speed](https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/)**
+
+Reuters • 2d ago
 
 ---
 
 **[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
 
 WSJ • 1d ago
-
----
-
-**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
-
-As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
-
-CNBC • 10h ago
-
----
-
-**[Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics](https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/)**
-
-A South Bay barber has decided to lean in after more than three decades of mastering his craft. Now, artificial intelligence is keeping a watchful eye on every snip. Here's why he's not worried.
-
-ABC7 Bay Area • 1d ago
 
 ---
 
@@ -162,15 +160,7 @@ Tech Xplore • 2d ago
 
 In this week’s selection of awesome robot videos, you’ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo
 
-IEEE Spectrum • 6h ago
-
----
-
-**[DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom](https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826)**
-
-High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts
-
-qz.com • 2d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -180,11 +170,19 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[Meet The 7-Year-Old Who Just Completed A Robotics Program At MIT](https://www.yahoo.com/lifestyle/articles/meet-7-old-just-completed-135037459.html)**
+**[UTech, Jamaica STEM Summer Camp equips youth with AI, Robotics and Sustainability Skills](https://www.jamaicaobserver.com/2026/08/30/utech-jamaica-stem-summer-camp-equips-youth-ai-robotics-sustainability-skills/)**
 
-The future is limitless for seven-year-old Jules Zion.
+KINGSTON, Jamaica — Approximately 100 students from primary and secondary schools across Kingston and St Andrew gained hands-on experience in artificial intelligence (AI), robotics, engineering and other emerging technologies during the third staging of the University of Technology’s (UTech) STEM Summer Camp. Hosted by UTech’s Department of Community Service &amp;amp; Development, the two-week camp was held at the University’s Western Campus from July 13–24 and at the Papine Campus from...
 
-Yahoo • 3d ago
+Jamaica Observer • 5h ago
+
+---
+
+**[DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom](https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826)**
+
+High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts
+
+qz.com • 2d ago
 
 ---
 
@@ -202,13 +200,23 @@ RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, Americ
 
 ---
 
+**[Humanoid Robots Spar, Sprint and Perform Tai Chi at China’s Robot Olympics](https://www.youtube.com/watch?v=-SuVw7ViUJg)**
+
+Humanoid robots competed in kickboxing, sprinting and tai chi at the World Humanoid Robot Games in Beijing, where machines ...
+
+📺 New York Post
+
+👁️ 33K • 👍 155 • 💬 125 • ⏱️ 3:08 • 6d ago
+
+---
+
 **[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
 
 China showcased its robotics at this year's World Humanoid Robot Games in Beijing, and the results are less than impressive.
 
 📺 CrowderBits
 
-👁️ 60K • 👍 3K • 💬 323 • ⏱️ 4:11 • 4d ago
+👁️ 60K • 👍 3K • 💬 323 • ⏱️ 4:11 • 5d ago
 
 ---
 
@@ -218,7 +226,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 88K • 👍 669 • 💬 76 • ⏱️ 7:51 • 3d ago
+👁️ 89K • 👍 674 • 💬 77 • ⏱️ 7:51 • 3d ago
 
 ---
 
@@ -228,17 +236,7 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 615K • 👍 3K • 💬 908 • ⏱️ 4:02 • 5d ago
-
----
-
-**[Humanoid Robots Spar, Sprint and Perform Tai Chi at China’s Robot Olympics](https://www.youtube.com/watch?v=-SuVw7ViUJg)**
-
-Humanoid robots competed in kickboxing, sprinting and tai chi at the World Humanoid Robot Games in Beijing, where machines ...
-
-📺 New York Post
-
-👁️ 32K • 👍 155 • 💬 125 • ⏱️ 3:08 • 6d ago
+👁️ 622K • 👍 3K • 💬 914 • ⏱️ 4:02 • 5d ago
 
 ---
 
@@ -248,17 +246,7 @@ From total fails and viral street moments to pure attitude, these humanoid robot
 
 📺 fastwit
 
-👁️ 287K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
-
----
-
-**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
-
-There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
-
-📺 BBC News
-
-👁️ 273K • 👍 2K • 💬 790 • ⏱️ 6:19 • 5d ago
+👁️ 291K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -272,23 +260,33 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 ---
 
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+
+📺 China.org.cn
+
+👁️ 136K • 👍 719 • 💬 40 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
+
+There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
+
+📺 BBC News
+
+👁️ 276K • 👍 2K • 💬 791 • ⏱️ 6:19 • 5d ago
+
+---
+
 **[Google’s New Robot Will Steal Your Job](https://www.youtube.com/watch?v=RjNkFd4w88M)**
 
 Google just made an AI robot that's more expensive and stupider than a human employee and… companies are gonna love it.
 
 📺 SAMTIME
 
-👁️ 168K • 👍 8K • 💬 702 • ⏱️ 3:16 • 4d ago
-
----
-
-**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
-
-📺 South China Morning Post
-
-👁️ 657K • 👍 2K • 💬 389 • ⏱️ 2:14 • 5d ago
+👁️ 169K • 👍 8K • 💬 704 • ⏱️ 3:16 • 4d ago
 
 ---
 
