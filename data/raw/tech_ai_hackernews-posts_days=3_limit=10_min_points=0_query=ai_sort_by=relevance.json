@@ -23,8 +23,8 @@
       "url": "https://lwn.net/Articles/1091231/",
       "hn_url": "https://news.ycombinator.com/item?id=49489982",
       "author": "pluc",
-      "points": 494,
-      "num_comments": 460,
+      "points": 495,
+      "num_comments": 465,
       "created_at": "2026-08-29T14:02:10Z",
       "object_id": "49489982",
       "image": null,
@@ -37,8 +37,8 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "hn_url": "https://news.ycombinator.com/item?id=49491568",
       "author": "gpi",
-      "points": 431,
-      "num_comments": 109,
+      "points": 441,
+      "num_comments": 111,
       "created_at": "2026-08-29T17:19:47Z",
       "object_id": "49491568",
       "image": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
@@ -51,8 +51,8 @@
       "url": "https://noaifridays.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49498095",
       "author": "xendo",
-      "points": 243,
-      "num_comments": 160,
+      "points": 257,
+      "num_comments": 170,
       "created_at": "2026-08-30T12:31:05Z",
       "object_id": "49498095",
       "image": null,
@@ -65,7 +65,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "hn_url": "https://news.ycombinator.com/item?id=49486081",
       "author": "thclpr",
-      "points": 237,
+      "points": 238,
       "num_comments": 61,
       "created_at": "2026-08-29T01:24:13Z",
       "object_id": "49486081",
@@ -117,20 +117,6 @@
       "site_name": "GitHub"
     },
     {
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-      "hn_url": "https://news.ycombinator.com/item?id=49469249",
-      "author": "rarisma",
-      "points": 91,
-      "num_comments": 40,
-      "created_at": "2026-08-27T18:34:40Z",
-      "object_id": "49469249",
-      "image": "https://bwrite-static.bloombergindustry.com/dims4/default/5db744d/2147483647/strip/false/crop/3994x1539+3+354/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F43%2F56%2F34bdbb25498bb38b99f2f67bfb14%2F461630331.jpg",
-      "description": "Nvidia Corp. launched a political action committee Thursday to dole out donations to federal candidates, the company\u2019s latest move in amassing its influence apparatus in Washington.",
-      "favicon": "https://news.bgov.com/favicon.ico",
-      "site_name": "news.bgov.com"
-    },
-    {
       "title": "The growing divide between AI hype and software engineering reality",
       "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49491113",
@@ -143,9 +129,23 @@
       "description": "It is widely accepted that there is an AI bubble in the financial markets at the moment. The moderate opinion is however that LLMs are constantly improving and will eventually take over more and more tasks from humans and increase productivity. But are LLMs actually getting smarter, or just better at fooling us?\\n",
       "favicon": "https://optimizedbyotto.com/apple-touch-icon.png",
       "site_name": "Optimized by Otto"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49484925",
+      "author": "wgrover",
+      "points": 62,
+      "num_comments": 26,
+      "created_at": "2026-08-28T22:18:27Z",
+      "object_id": "49484925",
+      "image": null,
+      "description": "My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we\u2019re always on the lookout for other types of fakes that we can go after....",
+      "favicon": "https://groverlab.org/favicon.ico",
+      "site_name": "groverlab.org"
     }
   ],
-  "total_hits": 479,
+  "total_hits": 449,
   "has_metadata": true,
-  "fetched_at": "2026-08-30T18:26:57.090074+00:00"
+  "fetched_at": "2026-08-30T21:24:46.586549+00:00"
 }
