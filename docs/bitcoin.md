@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-30T04:01:28.832946+00:00'
+updated: '2026-08-30T10:03:22.038579+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 04:01 UTC  
+**Last Updated:** August 30, 2026 at 10:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,165.99
+### $78,153.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.1%  
-**30d:** +24.4%  
-**90d:** +17.0%  
-**1y:** -27.9%  
+**24h:** +0.5%  
+**7d:** -1.2%  
+**30d:** +24.2%  
+**90d:** +16.8%  
+**1y:** -28.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1568.99B
+**Market Cap:** $1565.86B
 Rank #1
 
-**Circulating Supply:** 20,077,037 BTC
+**Circulating Supply:** 20,077,193 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.0%
+-38.1%
 
 **All-Time Low:** $67.81
-+115141.1%
++114911.1%
 
 ---
 
@@ -77,75 +77,63 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The only right way to play Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vzo1pv/the_only_right_way_to_play_bitcoin/)**
+**[They just never stop hating lol](https://www.reddit.com/r/Bitcoin/comments/1w25f47/they_just_never_stop_hating_lol/)**
 
-2d ago
-
----
-
-**[this is why Bitcoin was created](https://www.reddit.com/r/Bitcoin/comments/1vzl0jd/this_is_why_bitcoin_was_created/)**
-
-2d ago
+7h ago
 
 ---
 
-**[FUD is over, BTC to moon!!!! Lets gooo....](https://www.reddit.com/r/Bitcoin/comments/1vzqfjw/fud_is_over_btc_to_moon_lets_gooo/)**
+**[Get ready for Dune 3...arrives December 18!](https://www.reddit.com/r/Bitcoin/comments/1w2b9id/get_ready_for_dune_3arrives_december_18/)**
 
-https://x.com/BitcoinMagazine/status/2092846329424925077
-
-2d ago
+2h ago
 
 ---
 
-**[Buy house buy more bitcoin now!](https://www.reddit.com/r/Bitcoin/comments/1vzqi7d/buy_house_buy_more_bitcoin_now/)**
+**[Does Your Dog Bite...](https://www.reddit.com/r/Bitcoin/comments/1w1yczw/does_your_dog_bite/)**
 
-2d ago
-
----
-
-**[My first bitcoin wallet.](https://www.reddit.com/r/Bitcoin/comments/1vzk84m/my_first_bitcoin_wallet/)**
-
-This is my first bitcoin wallet aka my laptop that I bought in 2011 with my own money, the one that made me start into bitcoin and helped me get my first btc. It has seen good and bad days but even after 15 years it's running perfectly. No matter what it's hard to replace this with any hardware wallet out there. It served me well and did so much for me and my family. ❤️
-
-2d ago
+12h ago
 
 ---
 
-**[EVERYONE: SELL! ME: HODL.](https://www.reddit.com/r/Bitcoin/comments/1vz18wm/everyone_sell_me_hodl/)**
+**[MEXICAN BILLIONAIRE: Rent your home. Go ALL-IN on Bitcoin. Ricardo Salinas says to convert every dime of cash straight into BTC.](https://www.reddit.com/r/Bitcoin/comments/1w28d5n/mexican_billionaire_rent_your_home_go_allin_on/)**
 
-3d ago
-
----
-
-**[URGENT: Critical vulnerability in Core Lightning! Blockstream developers urge users to shut down CLN Lightning nodes right NOW!](https://www.reddit.com/r/Bitcoin/comments/1vzb1an/urgent_critical_vulnerability_in_core_lightning/)**
-
-More info: https://stacker.news/items/1555439?commentId=1555585
-
-3d ago
+4h ago
 
 ---
 
-**["Coldcard Rug Pull" wall decoration](https://www.reddit.com/r/Bitcoin/comments/1vz91st/coldcard_rug_pull_wall_decoration/)**
+**[Turning copper into bitcoin](https://www.reddit.com/r/Bitcoin/comments/1w1t57u/turning_copper_into_bitcoin/)**
 
-Considering the catastrophic event with the Coldcard devices I decided to try to redefine the value of that piece of plastic that I ended up having in my hand after withdraw all my bitcoin from there. So I came up with this sculpture resembling the feeling of the victims. I know it's not a topic to make fun of but I'm a positivist and tend to have fun creating with a little bit of sense of humor and always with a message that speaks for itself. Hope the Bitcoin Reddit community enjoy it.
-
-3d ago
+16h ago
 
 ---
 
-**[BlackRock has now pulled more than $5 BILLION of BTC into its ETF system](https://www.reddit.com/r/Bitcoin/comments/1vyze7i/blackrock_has_now_pulled_more_than_5_billion_of/)**
+**[I hope the sold vespa guy is okay](https://www.reddit.com/r/Bitcoin/comments/1w2crwp/i_hope_the_sold_vespa_guy_is_okay/)**
 
-BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF conversions after lowering the minimum transaction size from $25 million to $1 million. Separate ...
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-blackrock-5b-etf-113215537.html) • 3d ago
+43m ago
 
 ---
 
-**[Blockchain.com app every single transaction stuck pending and wallet locked down for 3 and half months. Support are useless.](https://www.reddit.com/r/Bitcoin/comments/1vzurdt/blockchaincom_app_every_single_transaction_stuck/)**
+**[Former Binance CEO CZ believes Bitcoin will eventually hit $1,000,000 and says it could happen much sooner than many expect. “I don’t think we’ll need 25 years. I think it’ll happen much faster.”](https://www.reddit.com/r/Bitcoin/comments/1w1kwoz/former_binance_ceo_cz_believes_bitcoin_will/)**
 
-Don't know if anyone can help me but I've had an issue now with blockchain app for 3 and a half months, I have significant amount of funds and I am just locked out of them. I can't send coin, can't withdraw or deposit. Everything just gets stuck in pending until it eventually times out after like 45 days. Support are absolutely useless and only sending generic responses and thanking me for my patience LOL Please someone help
+21h ago
 
-2d ago
+---
+
+**[Meanwhile Bitcoin: “No need for your story, Sir. The only thing I need to know is whether the transaction is signed.”](https://www.reddit.com/r/Bitcoin/comments/1w1mzwk/meanwhile_bitcoin_no_need_for_your_story_sir_the/)**
+
+20h ago
+
+---
+
+**[I hope the sold vespa guy are okay](https://www.reddit.com/r/Bitcoin/comments/1w2crux/i_hope_the_sold_vespa_guy_are_okay/)**
+
+43m ago
+
+---
+
+**[Guys!!! We are in a bull run...](https://www.reddit.com/r/Bitcoin/comments/1w1f8aw/guys_we_are_in_a_bull_run/)**
+
+1d ago
 
 ---
 
@@ -153,43 +141,41 @@ Don't know if anyone can help me but I've had an issue now with blockchain app f
 
 ## Google News: "bitcoin"
 
-**[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
+**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
 
-KFOR.com • 1d ago
+Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
 
----
-
-**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
-
-Bloomberg.com • 1d ago
+The Motley Fool • 10h ago
 
 ---
 
 **[Warsh’s Jackson Hole speech could make or break the bitcoin and gold rally](https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold)**
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing](https://finance.yahoo.com/markets/crypto/articles/bitcoin-traders-watch-fed-chair-151411261.html)**
+**[Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments](https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments)**
 
-Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call.
+Bitcoin's price slid before spiking again after the Federal Reserve chair said inflation in the U.S. was "concerning."
 
-Yahoo Finance • 1d ago
-
----
-
-**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117182354554885)**
-
-Moomoo • 27m ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[The U.S. National Debt Just Topped $40 Trillion. Here's What That Could Mean for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/u-national-debt-just-topped-161300727.html)**
+**[Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics](https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics/)**
 
-Bitcoin has a key advantage in the context of rising government debt.
+ETF inflows and larger Treasury buybacks can cushion volatility, but neither substitutes for disinflation.
 
-Yahoo Finance • 11h ago
+CryptoSlate • 17h ago
+
+---
+
+**[Can Bitcoin Reach $1 Million by 2030? One Crypto Leader Is Skeptical.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-reach-1-million-2030-094900247.html)**
+
+Exuberance begets price targets that tend to be hard to reach.
+
+Yahoo Finance • 14m ago
 
 ---
 
@@ -197,13 +183,27 @@ Yahoo Finance • 11h ago
 
 We wrap up our coverage of the markets and the week.
 
-Morningstar • 15h ago
+Morningstar • 21h ago
+
+---
+
+**[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
+
+KFOR • 1d ago
 
 ---
 
 **[Bitcoin wallets untouched for 10 years moved $40 million worth of coins](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?](https://www.tradingview.com/news/coinpedia:584e6235e094b:0-what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/)**
+
+The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
+
+TradingView • 6h ago
 
 ---
 
@@ -211,15 +211,7 @@ CoinDesk • 23h ago
 
 Is Bitcoin finally bouncing back? Analysts weigh IBIT inflows, CLARITY Act momentum, and Fed/dollar catalysts for BTC’s next move—read the outlook now.
 
-Seeking Alpha • 7h ago
-
----
-
-**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
-
-Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
-
-The Motley Fool • 3h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -299,11 +291,11 @@ Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism
 
 ---
 
-**[DEF Con 19: Skunkworks: Daniel Beckwitt on Bitcoin in 2019 [video]](https://news.ycombinator.com/item?id=49406156)**
+**[Ireland Moves $38M in Bitcoin Tied to Drug Dealer's Lost Fishing Rod](https://news.ycombinator.com/item?id=49491190)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28, 2026, a stash of 500 $BTC moved from a wallet first created on Jan. 23, 2016. The 500 $BTC worth $38
 
-⬆️ 1 • 💬 1 • 6d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+⬆️ 1 • 💬 0 • 17h ago • [cryptonews.net](https://cryptonews.net/news/bitcoin/33367182/)
 
 ---
 
@@ -317,7 +309,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 112K • 👍 3K • 💬 179 • ⏱️ 1:03:32 • 15h ago
+👁️ 126K • 👍 3K • 💬 179 • ⏱️ 1:03:32 • 21h ago
 
 ---
 
@@ -327,27 +319,7 @@ The Fed is trapped between inflation, rising debt costs and a bond market it can
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 1K • 💬 73 • ⏱️ 12:31 • 1d ago
-
----
-
-**[Bitcoin Is About To Blindside Every Investor [Things Are Just Getting Started] | Michael Howell](https://www.youtube.com/watch?v=1Wu4wPb2-4k)**
-
-Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then he told us why that is exactly the setup that catches ...
-
-📺 Rob Wallace | Bitcoin News
-
-👁️ 13K • 👍 96 • 💬 14 • ⏱️ 14:16 • 2d ago
-
----
-
-**[₿ Bitcoin&#39;s Rally Isn&#39;t What You Think 🚨📉](https://www.youtube.com/watch?v=3mPrC1yoAGw)**
-
-Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
-
-📺 Stocks with Josh
-
-👁️ 5K • 👍 205 • 💬 3 • ⏱️ 1:04 • 8h ago
+👁️ 33K • 👍 1K • 💬 78 • ⏱️ 12:31 • 1d ago
 
 ---
 
@@ -357,7 +329,27 @@ CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.
 
 📺 The Iced Coffee Hour
 
-👁️ 23K • 👍 261 • 💬 12 • ⏱️ 0:24 • 1d ago
+👁️ 24K • 👍 271 • 💬 77 • ⏱️ 0:24 • 1d ago
+
+---
+
+**[Bitcoin… Just Imagine…](https://www.youtube.com/watch?v=jLXFmT44PMw)**
+
+Bitcoin, Robinhood Chain, BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the ...
+
+📺 Lark Davis
+
+👁️ 53K • 👍 1K • 💬 122 • ⏱️ 24:34 • 1d ago
+
+---
+
+**[BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5l9GDMf_d90)**
+
+BITCOIN: ONE MORE TRAP (New Price Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 19K • 👍 375 • 💬 301 • ⏱️ 16:59 • 1d ago
 
 ---
 
@@ -367,37 +359,27 @@ CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this video, Nik covers the 
 
 📺 The Bitcoin Layer
 
-👁️ 17K • 👍 228 • 💬 25 • ⏱️ 18:34 • 1d ago
+👁️ 18K • 👍 232 • 💬 25 • ⏱️ 18:34 • 1d ago
 
 ---
 
-**[Gold Dumps, Bitcoin Cracks As Rate Hike Odds Flip - Trades And Analysis](https://www.youtube.com/watch?v=_0ngHNrJO6c)**
+**[Bitcoin Rallies to $80K | Kevin Warsh Speaking at Jackson Hole](https://www.youtube.com/watch?v=UJlilUexICw)**
 
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+Come to the 1st ITC Conference (Ticket Prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
 
-📺 Gareth Soloway
+📺 Benjamin Cowen
 
-👁️ 160K • 👍 5K • 💬 375 • ⏱️ 13:50 • 1d ago
-
----
-
-**[BITCOIN: THIS COULD GET BAD!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=t_g0wi_GSlQ)**
-
-My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com/signals Find the Best Exchange for You ...
-
-📺 Road To $1 Million USD
-
-👁️ 9K • 👍 288 • 💬 33 • ⏱️ 8:31 • 1d ago
+👁️ 181K • 👍 5K • 💬 349 • ⏱️ 35:14 • 2d ago
 
 ---
 
-**[Bitcoin Rejection Confirmed? Live Trading &amp; TA](https://www.youtube.com/watch?v=4aYDvqGFd4o)**
+**[DANGER FOR ALL BITCOIN BULLS !!!!](https://www.youtube.com/watch?v=8lQB147I9N0)**
 
-Zen Master JP Washes his Face & His Feet after a Narrative Changing BTC Rejection. Live Trading BTC, Alts, XAU Gold, Silver, ...
+TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $25 BONUS WEEX: https://cryptokid.io/WEEX-Bonus ...
 
-📺 Sin City Crypto
+📺 Crypto Kid
 
-👁️ 15K • 👍 310 • 💬 7 • ⏱️ 3:12:35 • 1d ago
+👁️ 9K • 👍 217 • 💬 66 • ⏱️ 9:07 • 20h ago
 
 ---
 
@@ -407,7 +389,17 @@ Latest Bitcoin, Ethereum, Solana, TAO, LINK News Jarsy EXCLUSIVE Invite: https:/
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 58 • ⏱️ 9:36 • 2d ago
+👁️ 63K • 👍 2K • 💬 58 • ⏱️ 9:36 • 2d ago
+
+---
+
+**[Bitcoin Slides After Kevin Warsh&#39;s First Jackson Hole Speech](https://www.youtube.com/watch?v=juqfQF2Ja4g)**
+
+Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today, and crypto traders are watching for whether the ...
+
+📺 CoinDesk
+
+👁️ 10K • 👍 68 • 💬 10 • ⏱️ 1:45 • 1d ago
 
 ---
 

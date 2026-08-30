@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
-      "pub_date": 1788013765.0,
-      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,16 +13,6 @@
       "article_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
       "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
-    },
-    {
-      "headline": "Neil deGrasse Tyson: Get AI to solve its own problem",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TnhSYU5pakI1eDJwLXVuaERKeEd5NHU2Wk9VcUZOd3QxOXNpOHF6dEk4SjB3eS1XMXR5NFpBcF9DY1ZSOUllZ044ek5oVjhPUlRsZmZn?oc=5",
-      "pub_date": 1788058192.0,
-      "article_url": "https://www.foxnews.com/video/6404291030112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8eda4bb8-63fc-46a2-9f3c-5cb27d64f10a/2106f51a-0391-44b8-ac82-2023b881680f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Astrophysicist Neil deGrasse Tyson and the 'Fox News Saturday Night' panel play 'Neil or No Neil' and speculate on whether technology can surpass human intelligence."
     },
     {
       "headline": "An AI Oracle\u2019s Rise and Fall",
@@ -45,24 +25,34 @@
       "description": null
     },
     {
-      "headline": "Our decision on Cursor following its acquisition by SpaceX",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
-      "pub_date": 1787967972.0,
-      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
-      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+      "headline": "I couldn't land a job, so I started AI training for $15 an hour. Now I make $100 an hour and built a career around AI.",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWdpSHlwblFsVkROeEtBOUtFdUItbFBxRjNqUWV6LVBjV3hPTTBibnpBakFQNVYxbFBPa21FMHpzUVd3Rm1lZ0pjbFMycHd0ODF1eEdwNXFRb3lDY3EwVGcxY2MzYWxZZmd4S0dhOUI3RW51NHpQdEVrZHNkMVVqa2xSQWx6cHFvQW5V?oc=5",
+      "pub_date": 1788077461.0,
+      "article_url": "https://www.yahoo.com/lifestyle/articles/couldnt-land-job-started-ai-081101680.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/58d5581540ea20bba976c508158e35232dce77aba2190a109297720e8070c47b/lightyear_networkapi/resizefill_w677_h508%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fbd171ca82a96af67b71d962513db61af.jpg",
+      "description": "Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career."
     },
     {
-      "headline": "The Fed confronts a powerful new economic force",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "pub_date": 1788019200.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
-      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
+      "headline": "Cisco director of engineering on managing agents: I'm not working more, but work can feel more intense",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemVWZ2M2NGJTTXhkUG9TclljMTR3N1MtTG1WbHpITkZYbE9YVTN6SXd2TmQyZTNVeWFEQWt1QmVuR2NsSFVCaDVGcjZNV19HS0ZQVm9zaFdHRkhTeDFGbmQtSDJNQUhmUW9UTHRlQU9rUGhfVmRPX3JBTWxtSVpNcFdNZ0lXazRKajFsX3MtMkc?oc=5",
+      "pub_date": 1788083730.0,
+      "article_url": "https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8",
+      "image": "https://i.insider.com/6a91bebb45e6f385a516a5aa?width=1200&format=jpeg",
+      "description": "Sergio Freitas said that using agents to do more work results in more code that need to be reviewed by engineers."
+    },
+    {
+      "headline": "Help Wanted: \u2018Forward-Deployed\u2019 Humans for the A.I. Era",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZTZlNFlEcFlidDJ6TzIyd2FiSkdiSEEzVXpuYXhTSEl4Q2htYmx6SmpOMmxmcnFMWlVwRDZwLVhHVGg4Vl9MWEE2ZXhxWEwwNWNGaVl0NTNRS3RPbTVmUVE1X1p0eFBqUzdWcTE0Wi1xV0ZaZ2lJ?oc=5",
+      "pub_date": 1788080454.0,
+      "article_url": "https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
@@ -75,36 +65,46 @@
       "description": "As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?"
     },
     {
-      "headline": "Thievery or Innovation? The Music Industry Grapples With A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5",
-      "pub_date": 1788022958.0,
-      "article_url": "https://www.nytimes.com/2026/08/29/business/dealbook/ai-generated-music.html",
+      "headline": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+      "pub_date": 1787967972.0,
+      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
+      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    },
+    {
+      "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
+      "pub_date": 1788035389.0,
+      "article_url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
       "image": null,
       "description": null
     },
     {
-      "headline": "I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said\u2026",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3c3V5Rm5lZ3ZGS0o3LVFDVlZjM29DQ0xzMl9LeEJhTTlwd3hTZjdnc0N1Y3duNUdMVWxsYmx3YjNRclZHaENrMWgzTDBpbm1IemhISE5GN0Jrd1BETXVVdmVSdUg0VHVrd2l2NjhZeGZpVkRBeFdrb3NOcEhjaEE?oc=5",
-      "pub_date": 1788018298.0,
-      "article_url": "https://uk.finance.yahoo.com/news/asked-chatgpt-p-500-crash-154458088.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f4af4c36302a5951af093edd9031bc0b2aeba2e51fb8e0b93f84faff2c5f2601/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffool.co.uk%2F3c1a094d83107c9230dfbd54f7fd99f6.jpg",
-      "description": "The S&P 500 has been a little bumpy lately as fears grow over a potential AI bubble. Harvey Jones got a second opinion on what could happen next. The post I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said\u2026 appeared first on The Twelfth Magpie."
+      "headline": "The Fed confronts a powerful new economic force",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "pub_date": 1788019200.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
+      "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found."
     },
     {
-      "headline": "Cramer says he's warming back up to the AI trade, but not ready to act yet",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXlUZGxpWGk3QUJHTVVlalNocHV5dUdidUNjYnRqcWFiTzY2MzVxVE05NUFyR3hSOFdzQmQ0Q1Q5OEpqZlpBaWNmSWwzd3YteHBlSWE3S29LNi0wbkVlelViNHpyX0N4YnA4RXNqTWtfNGMwdm96d0RYQWRoVFhmRmtBdGFwWm5FcWlIejVtQVhCYXR4cFZ5WERTVFo4UEFZSVNtaUNnU09Bcllzenc?oc=5",
-      "pub_date": 1787936033.0,
-      "article_url": "https://www.cnbc.com/2026/08/28/cramer-says-hes-warming-back-up-to-the-ai-trade-but-not-ready-to-act-yet.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355110-1787834798214-gettyimages-2292234735-dji_20260826151149_0030_d_ydbryzwk.jpeg?v=1787834843&w=1920&h=1080",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
+      "headline": "AI hyperscalers issuing a flood of bonds are 'reverse crowding out' the Treasury as US debt soars",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaS1fZjVIX1pmak1JclgxcVlNRHBacjFTdXpDek5wYWN5b0FYWXNhblIwa1AxZEZaR0xiNE4xei11clI4d0tEM1NpSXZWMDNkSTY2eXk0M0M2NTNBNnM5eFhsSEpBUjBoaWZDQ1p6VTVDbjBwRXlOZHNQUUxSSjY0bUpmcURUbmFYbllHYUtzSlc3ZTVXZ1JJN1NKUGVoTVlRbjV0T1hmMA?oc=5",
+      "pub_date": 1788029940.0,
+      "article_url": "https://fortune.com/2026/08/29/us-debt-reverse-crowding-out-effect-ai-hyperscaler-bonds-treasury-yields/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291864969-e1787929183229.jpg?resize=1200,600",
+      "description": "\"Capital flowing into corporate bonds is capital not flowing into Treasuries, and Treasury yields have had to rise to clear the market.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-30T04:01:24.340242+00:00"
+  "fetched_at": "2026-08-30T10:03:17.882189+00:00"
 }
