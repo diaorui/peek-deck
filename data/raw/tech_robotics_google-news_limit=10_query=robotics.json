@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "pub_date": 1788015632.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
-      "image": null,
-      "description": null
+      "headline": "Faster, higher, funnier: what we learned from China\u2019s robot games",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?oc=5",
+      "pub_date": 1788002040.0,
+      "article_url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+      "image": "https://i.guim.co.uk/img/media/7c7128dc7679d8f7392c821f4bebc8b71431f487/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1466cd29badf3949e2d83bf68c3f362c",
+      "description": "World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches"
     },
     {
       "headline": "China can build kung fu-fighting robots. But it can\u2019t get them to do factory work",
@@ -25,14 +25,14 @@
       "description": null
     },
     {
-      "headline": "Faster, higher, funnier: what we learned from China\u2019s robot games",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcXl5UVk1QnBWNVhVT3JVbkFrMElUdE5vUXA5WVJOckpJTS1EUk1sX1poV1d4dm8tRlZPNFFXa2VDSUJwb0hqS3dBbk5qZEp3QmxzRUJKc1ZMUVN0TXUyXzJyWkl3WlpvbkdiaHI5ekxUSlZfNzZUdldoeVhnWmVJSHE4LWotdEdvVUlFOEN6WFVaQUtjMnFad3JaTjlwRDBhZW9STWVLbGh0WlpnYWR5ZWJ4bkxIcmtrVHNRQzV2MThHSU9NTG9qODFaQ0IyZGdyd1Bid2V0OUE5STF0ejB1VHJPWmg4dmpQQlE?oc=5",
-      "pub_date": 1788002040.0,
-      "article_url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
-      "image": "https://i.guim.co.uk/img/media/7c7128dc7679d8f7392c821f4bebc8b71431f487/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1466cd29badf3949e2d83bf68c3f362c",
-      "description": "World Humanoid Robot Games showcased leaps Beijing has made in the tech, but also highlighted limitations as US rivals prepare their own launches"
+      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
+      "pub_date": 1788015600.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Meet the humanoid robots cleaning homes for $30 an hour",
@@ -45,14 +45,24 @@
       "description": "These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered."
     },
     {
-      "headline": "Hugging Face And Pollen Robotics Open Pre-Orders For The $399 Microduck",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3Z2SXRxdDBvbW9uNkZmRHNWaVJpOXc5bWJPMWZNSkpQb245QWVzek5yaDk0VllKaDY3bk9Qb0xzSHJQUFVCYnZKS3FGWE5fNldXd1ZBT2hObHZOQ012UWdzNllNeHJfZElSYlhaaE5vUEZCdFAyNkR5Y0s4TWJ3Qzc1aHVYbmw0QjJZNkRUbGNKblJTdm9ldkxJS2NxQmxfWi1IQ2I0VQ?oc=5",
-      "pub_date": 1787840742.0,
-      "article_url": "https://www.engadget.com/2245407/huggingface-and-pollen-robotics-opn-pre-orders-for-the-microduck-robot/",
-      "image": "https://www.engadget.com/img/gallery/huggingface-and-pollen-robotics-open-pre-orders-for-the-399-microduck/l-intro-1787840652.jpg",
-      "description": "If you've ever wanted a robotic duck as a companion, now's your chance."
+      "headline": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMV9ramtIOV9CWUxsTFlHSXpZQzg0WEpTOXA0UVRQUXRJUE5RMlhEOU16Zk5va1VjcGFBeTdBenJjMmNGeEJvQnZBYmgyX1k2Xzc3bTkwd0ZXMlhMOXc5dXhSZWdVWklkdlY4dzFWY0ZBRTBYZnM3ekVpdTV1UHBlUC1UOWo2ZWVKZUluZTF5ancwNDIwVjcxbExQZy1XYXoxSE9HaXdIcUtHUGM0X2pjWnF5TUNEQUxvVjA5ZmsxTQ?oc=5",
+      "pub_date": 1787959467.0,
+      "article_url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
+      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers."
+    },
+    {
+      "headline": "Survivor's Christian Hubicki marvels at China's robotics games records: 'Willing to break the robots to do it'",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS01nOXdNNk82RmhUVVNoaHktLXUxLTNNT3dMUlNETU91VEV1YnBLb1VDaE5ua2hjbjFVeU00TGxUM29XM2JfTjExdUlhMVVYcVFKdlpXWXdoV192cDdFeEtrcmlEcTR3aVdCWDU0MjZKNWV6VnU2WklWd2YxZ00tQ2FzWXdIOC1kV0kweG4yZ3BhRW9vUHlYZDBaUGFDS0F4Tm03ZDFfM3ZCQWh3OE1tZG1VRmpZQdIBuwFBVV95cUxQTWxQdWh3Ui16cUFvdndFM0R6N1o1ei1Pd2hIYlhwYVJfSm5EejRweHJFcnlPY0Jrc3dBeUpFVDg1ZURJcTF2VF9ZdHo5dy1tQURmVjJuQkJrQTR3RkRvanZyUDJyMzlqWGxmbHNWQ09wSG9lN0pJckhXSTZ5RWVwSHJWTU1IcEg0ek1ydGt6NnlmT00yNEFvQWZLeXRic0daaWFDUzd1X2lQNkpJZG1OWlBLbGZYTXlGV29V?oc=5",
+      "pub_date": 1787850243.0,
+      "article_url": "https://www.foxnews.com/tech/survivors-christian-hubicki-marvels-chinas-robotics-games-records-willing-break-robots",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/robo-crash-gif-2.gif",
+      "description": "The World Humanoid Robot Games' crashes show how far the technology still needs to go to be useful, \"Survivor\" reality TV star and robotics scientist Christian Hubicki says."
     },
     {
       "headline": "Humanoid robots will be useful, just not as we imagined",
@@ -65,24 +75,14 @@
       "description": "Bipedal robots may look impressive doing tricks on YouTube, but the real value lies with their less flashy, highly functional industrial cousins"
     },
     {
-      "headline": "China's Robot Boom Is Raising Security Fears as the US Robotics Race Accelerates",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd0ROclNoM0ViUTZuTHhCT3JxaDNiV1ZUZkhMbVM3U1R5eUZSeHB5bkVtTGVuYmRpYkFmc0MzOWQ5SDNIcm5lMzM5Z0Q4NkxDVWNiZE9qUGlzXzQwOVZDNXJGNWt3QnFWeDNsRnV3dFo0Y191T2UtOVFMY1hQUWRFTEVTNmdxajBXQmRHaDY2SWtRVVpqaHNoVzlqalQ4M3QzR2RBc3BsZURRRGNrVjVpNElkNHprYkpGdWFZM0xkMy1BdENpbE9tbFdtblBlZGxmYkQ3RmdselQ?oc=5",
-      "pub_date": 1787922000.0,
-      "article_url": "https://www.tradingview.com/news/prnewswire:61175ac99c640:0-china-s-robot-boom-is-raising-security-fears-as-the-us-robotics-race-accelerates/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "NEW YORK, Aug. 28, 2026 /CNW/ -- Market News Updates News Commentary\u00a0- China's robotics push is moving quickly from spectacle to real-world deployment. At the 2026 World Robot Conference in Beijing, companies showcased\u00a0humanoids and robot dogs built for factories, industrial patrols, security, and\u2026"
-    },
-    {
-      "headline": "New stereo vision algorithm gives humanoid robots more humanlike depth perception",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXQ0WExqbTJBQnFRYTkyU2dwcHhabnBzbE1yQ2NvdzY5RllNYlVQem9OTno1dThpZ2E1R2E2SkJlSDJsaW1naEZyTWtWX054YjBqMEdzNGVYWmdpUjUxMl9uTGpuaVFtMkVLcGppcjYzN0tQaUd5SWFDYWFqOEsycWxUOUtsbmdjcnJOYzI4M0xTMlVpUmRscklQZEZGNjUtNWl6a09vQ0t5S00wWUtQMTIxNDcwRTdic3hiVkJRUkhzamNYdURr?oc=5",
-      "pub_date": 1787797200.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/new-stereo-vision-algorithm-gives-humanoid-robots-more-humanlike-depth-perception",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Untitled-design-30.jpg",
-      "description": "A new vision algorithm helps humanoid robots perceive depth more like humans, using two forward-facing eyes for better 3D understanding."
+      "headline": "Hugging Face And Pollen Robotics Open Pre-Orders For The $399 Microduck",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3Z2SXRxdDBvbW9uNkZmRHNWaVJpOXc5bWJPMWZNSkpQb245QWVzek5yaDk0VllKaDY3bk9Qb0xzSHJQUFVCYnZKS3FGWE5fNldXd1ZBT2hObHZOQ012UWdzNllNeHJfZElSYlhaaE5vUEZCdFAyNkR5Y0s4TWJ3Qzc1aHVYbmw0QjJZNkRUbGNKblJTdm9ldkxJS2NxQmxfWi1IQ2I0VQ?oc=5",
+      "pub_date": 1787840742.0,
+      "article_url": "https://www.engadget.com/2245407/huggingface-and-pollen-robotics-opn-pre-orders-for-the-microduck-robot/",
+      "image": "https://www.engadget.com/img/gallery/huggingface-and-pollen-robotics-open-pre-orders-for-the-399-microduck/l-intro-1787840652.jpg",
+      "description": "If you've ever wanted a robotic duck as a companion, now's your chance."
     },
     {
       "headline": "Unitree\u2019s stock slump begs question: is there a bubble in humanoid robotics?",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5",
-      "pub_date": 1787914560.0,
-      "article_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
-      "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
+      "headline": "ICE plans to spend $2 million on dog-like robots for immigration enforcement",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUE5uUjBJdWtWanlWTy1VRW1xV3NKNmdlVmZ3QUI2alRESUYtdWhSQmZGX3dneTNPTWtNSkdUbGNzRW5kLWM5WjBxYmJ6am9lbjJtMGhPUFdsWFprOU9LZ3R2MElNaUs2ZHNWdGk0YTVTWFdnUHVxSlo3TnVQSUkxVWN0c3VueHNiNklv0gGQAUFVX3lxTE1iQUdNX0QzVTNWek92YWg2dzloNl95MUlnaE9YS3czWExUNWF2c0dtQ2tiMzNsM2s5ZU5PdkFMZHpMMWUzMlZnWHVpZXBEU0N6S2xHMC1QQl9QNmt3MlMxUGJDRjJmT2xrU3NGbzQ3cHdIRndib282Wmc0SjFMdTVpak13VndmcWtSeU1hR1dBcQ?oc=5",
+      "pub_date": 1787972820.0,
+      "article_url": "https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-29T23:55:30.711826+00:00"
+  "fetched_at": "2026-08-30T04:01:27.303218+00:00"
 }

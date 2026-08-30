@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-29T23:55:32.229433+00:00'
+updated: '2026-08-30T04:01:28.832946+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 29, 2026 at 23:55 UTC  
+**Last Updated:** August 30, 2026 at 04:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,189.78
+### $78,165.99
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.7%  
-**7d:** +0.7%  
+**7d:** -1.1%  
 **30d:** +24.4%  
-**90d:** +9.6%  
+**90d:** +17.0%  
 **1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1570.98B
+**Market Cap:** $1568.99B
 Rank #1
 
-**Circulating Supply:** 20,076,881 BTC
+**Circulating Supply:** 20,077,037 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-38.0%
 
 **All-Time Low:** $67.81
-+115290.1%
++115141.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 68
+### 69
 **GREED**
 
 ---
@@ -159,19 +159,37 @@ KFOR.com • 1d ago
 
 ---
 
-**[‘Get Ready’—Bitcoin Is Suddenly Hurtling Toward A ‘Huge’ Money Printing Price Shock](https://www.forbes.com/sites/digital-assets/2026/08/29/get-ready-bitcoin-is-suddenly-hurtling-toward-a-huge-money-printing-price-shock/)**
+**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
 
-Bitcoin has added 20% since mid-August, rocketing higher as the so-called debasement trade that see investors bet against the U.S. dollar returns...
-
-Forbes • 11h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[MARA Holdings (MARA) Is Down 5.2% After Bitcoin Pullback Tests Its AI Diversification Story – Has The Bull Case Changed?](https://finance.yahoo.com/markets/crypto/articles/mara-holdings-mara-down-5-210551553.html)**
+**[Warsh’s Jackson Hole speech could make or break the bitcoin and gold rally](https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold)**
 
-Recently, MARA Holdings Inc. experienced pressure as Bitcoin pulled back amid inflation and interest rate concerns, despite the company scaling its mining capacity and holding over 50,000 BTC. This episode underlines how MARA’s performance remains closely linked to broader macro trends and Bitcoin price moves, even as it expands into AI infrastructure. We’ll now examine how this Bitcoin-driven setback interacts with MARA’s shift toward AI infrastructure and diversified digital asset...
+CoinDesk • 1d ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing](https://finance.yahoo.com/markets/crypto/articles/bitcoin-traders-watch-fed-chair-151411261.html)**
+
+Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117182354554885)**
+
+Moomoo • 27m ago
+
+---
+
+**[The U.S. National Debt Just Topped $40 Trillion. Here's What That Could Mean for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/u-national-debt-just-topped-161300727.html)**
+
+Bitcoin has a key advantage in the context of rising government debt.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -179,7 +197,13 @@ Yahoo Finance • 2h ago
 
 We wrap up our coverage of the markets and the week.
 
-Morningstar • 11h ago
+Morningstar • 15h ago
+
+---
+
+**[Bitcoin wallets untouched for 10 years moved $40 million worth of coins](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
+
+CoinDesk • 23h ago
 
 ---
 
@@ -187,41 +211,15 @@ Morningstar • 11h ago
 
 Is Bitcoin finally bouncing back? Analysts weigh IBIT inflows, CLARITY Act momentum, and Fed/dollar catalysts for BTC’s next move—read the outlook now.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 7h ago
 
 ---
 
-**[Why Bitcoin wallets untouched for more than 10 years are moving millions worth of BTC](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
+**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
 
-CoinDesk • 19h ago
+Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
 
----
-
-**[Warsh Leans Hawkish, And Markets Like It](https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/)**
-
-Stocks rise while long-term yields are flat to lower. Rate hike odds climb.
-
-Investor's Business Daily • 1d ago
-
----
-
-**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics](https://cryptoslate.com/bitcoin-faces-a-new-macro-test-as-fed-chair-kevin-warsh-highlights-sticky-inflation-metrics/)**
-
-ETF inflows and larger Treasury buybacks can cushion volatility, but neither substitutes for disinflation.
-
-CryptoSlate • 7h ago
-
----
-
-**[Warsh’s Jackson Hole speech could make or break the bitcoin and gold rally](https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold)**
-
-CoinDesk • 1d ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -249,7 +247,7 @@ Finally, a killer use case
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 5 • 💬 0 • 3d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 5 • 💬 0 • 4d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -313,33 +311,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[₿ Bitcoin&#39;s Rally Isn&#39;t What You Think 🚨📉](https://www.youtube.com/watch?v=3mPrC1yoAGw)**
+**[Bitcoin to $1 Million?!](https://www.youtube.com/watch?v=SjJxrTal_Sk)**
 
-Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Stocks with Josh
+📺 Anthony Pompliano
 
-👁️ 3K • 👍 158 • 💬 47 • ⏱️ 1:04 • 4h ago
-
----
-
-**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
-
-CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
-
-📺 The Iced Coffee Hour
-
-👁️ 23K • 👍 253 • 💬 12 • ⏱️ 0:24 • 1d ago
-
----
-
-**[Bitcoin Just Failed Three Times](https://www.youtube.com/watch?v=OV3kIBe9aps)**
-
-CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this video, Nik covers the market reaction to Kevin Warsh's Jackson Hole ...
-
-📺 The Bitcoin Layer
-
-👁️ 16K • 👍 219 • 💬 25 • ⏱️ 18:34 • 1d ago
+👁️ 112K • 👍 3K • 💬 179 • ⏱️ 1:03:32 • 15h ago
 
 ---
 
@@ -349,7 +327,7 @@ The Fed is trapped between inflation, rising debt costs and a bond market it can
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 1K • 💬 71 • ⏱️ 12:31 • 1d ago
+👁️ 32K • 👍 1K • 💬 73 • ⏱️ 12:31 • 1d ago
 
 ---
 
@@ -363,6 +341,66 @@ Michael Howell just told us that 2026 will not be a great year for Bitcoin. Then
 
 ---
 
+**[₿ Bitcoin&#39;s Rally Isn&#39;t What You Think 🚨📉](https://www.youtube.com/watch?v=3mPrC1yoAGw)**
+
+Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 5K • 👍 205 • 💬 3 • ⏱️ 1:04 • 8h ago
+
+---
+
+**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
+
+CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
+
+📺 The Iced Coffee Hour
+
+👁️ 23K • 👍 261 • 💬 12 • ⏱️ 0:24 • 1d ago
+
+---
+
+**[Bitcoin Just Failed Three Times](https://www.youtube.com/watch?v=OV3kIBe9aps)**
+
+CHECK OUT TBL PULSE: https://thebitcoinlayer.com/ In this video, Nik covers the market reaction to Kevin Warsh's Jackson Hole ...
+
+📺 The Bitcoin Layer
+
+👁️ 17K • 👍 228 • 💬 25 • ⏱️ 18:34 • 1d ago
+
+---
+
+**[Gold Dumps, Bitcoin Cracks As Rate Hike Odds Flip - Trades And Analysis](https://www.youtube.com/watch?v=_0ngHNrJO6c)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 160K • 👍 5K • 💬 375 • ⏱️ 13:50 • 1d ago
+
+---
+
+**[BITCOIN: THIS COULD GET BAD!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=t_g0wi_GSlQ)**
+
+My Free Trading Course https://rt1m.com/free My Trading Signals https://rt1m.com/signals Find the Best Exchange for You ...
+
+📺 Road To $1 Million USD
+
+👁️ 9K • 👍 288 • 💬 33 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Bitcoin Rejection Confirmed? Live Trading &amp; TA](https://www.youtube.com/watch?v=4aYDvqGFd4o)**
+
+Zen Master JP Washes his Face & His Feet after a Narrative Changing BTC Rejection. Live Trading BTC, Alts, XAU Gold, Silver, ...
+
+📺 Sin City Crypto
+
+👁️ 15K • 👍 310 • 💬 7 • ⏱️ 3:12:35 • 1d ago
+
+---
+
 **[Big News! Bitcoin Has Never Done This Before In History](https://www.youtube.com/watch?v=VCKfZXt_jBc)**
 
 Latest Bitcoin, Ethereum, Solana, TAO, LINK News Jarsy EXCLUSIVE Invite: https://app.jarsy.com/?invite_code=5ookhf ...
@@ -370,46 +408,6 @@ Latest Bitcoin, Ethereum, Solana, TAO, LINK News Jarsy EXCLUSIVE Invite: https:/
 📺 Altcoin Daily
 
 👁️ 62K • 👍 2K • 💬 58 • ⏱️ 9:36 • 2d ago
-
----
-
-**[The Great Rotation Into Bitcoin Has Begun | Eric Yakes](https://www.youtube.com/watch?v=naTjSVCusSM)**
-
-Everything's structurally changed.” Eric Yakes is back on the show to explain why Bitcoin may never suffer another 80% crash, ...
-
-📺 What Bitcoin Did
-
-👁️ 34K • 👍 432 • 💬 176 • ⏱️ 1:18:40 • 2d ago
-
----
-
-**[Bitcoin Rallies to $80K | Kevin Warsh Speaking at Jackson Hole](https://www.youtube.com/watch?v=UJlilUexICw)**
-
-Come to the 1st ITC Conference (Ticket Prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 177K • 👍 5K • 💬 346 • ⏱️ 35:14 • 1d ago
-
----
-
-**[Bitcoin and the 50 Week Moving Average](https://www.youtube.com/watch?v=X2ztVVyfgQU)**
-
-Come to the 1st ITC Conference (Ticket prices go up September 1st): https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 206K • 👍 8K • 💬 375 • ⏱️ 12:41 • 2d ago
-
----
-
-**[NEW DATA REVEALS Why a HUGE Move In Bitcoin Is HAPPENING NOW!!! | EP 1580](https://www.youtube.com/watch?v=pVTijl-zVLA)**
-
-Bitcoin is down today but the reason might surprise you because the next move might be INSANE!
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 310 • 💬 18 • ⏱️ 1:11:58 • 1d ago
 
 ---
 
