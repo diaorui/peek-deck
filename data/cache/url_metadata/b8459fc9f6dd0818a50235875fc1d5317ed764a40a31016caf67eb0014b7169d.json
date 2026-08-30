@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-09T23:31:07.195703+00:00",
+  "data": {
+    "url": "https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/",
+    "title": "Is your Bitcoin seed safe after Coldcard accident? What about iancoleman/bip39 ?",
+    "description": "In late July 2026, Coldcard, the open-source hardware wallet many consider the gold standard in Bitcoin security, failed in the worst possible way.\n\nA firmware integration error from March 2021 had silently replaced the device's hardware random number generator with a\u00a0deterministic software PRNG, seeded only from the serial number",
+    "image": "https://grigio.org/content/images/2026/08/ComfyUI_temp_tbsnb_00005_.png",
+    "favicon": "https://grigio.org/favicon.ico",
+    "site_name": "Tech blog",
+    "author": null,
+    "keywords": null
+  }
+}

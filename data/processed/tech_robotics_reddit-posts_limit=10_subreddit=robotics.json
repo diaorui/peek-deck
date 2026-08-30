@@ -1,0 +1,116 @@
+{
+  "subreddit": "robotics",
+  "posts": [
+    {
+      "title": "3-month update, in a little story about my 3D-printed robot lamp",
+      "author": "Ok_Stress3654",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvci99/3month_update_in_a_little_story_about_my/",
+      "published": 1787405406.0,
+      "thumbnail": "https://external-preview.redd.it/ZWs1bW1nY3FoeGtoMSk4C_h9KwW0MHNNfMgpTYsj1BRck9UiLVseVeKm_3Fd.png?width=320&crop=smart&auto=webp&s=0060846642eaa7b88df0d32fae0b0720d6d1ab6b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A little update after about three months of working on this project. One of the more visible changes is the hardware itself. I redesigned the lamp and made a fully 3D-printed enclosure for it, so it finally looks a lot closer to what I originally had in mind rather than a prototype with exposed hardware. Probably the biggest change, though, has been the animation. I've spent a lot of time trying to make the lamp move more like an animatronic character rather than just a robot executing trajectories. At this point the mechanics aren't really the main limitation anymore. I can animate pretty much all of its movements in Watti Studio, my animation editor, so now the limiting factor is mostly how well I can actually animate it :) I moved the whole system to ROS 2 and added computer vision. The lamp streams RGB and depth from its camera, and the current point cloud can be displayed directly in the 3D view in Watti Studio. It makes it possible to see the lamp together with its surroundings while creating animations. I added lighting to the animation editor too, so the lamp's light can be keyframed together with its movements. I also spent quite a bit of time on things that aren't as fun to show in videos, especially safety. The software monitors the real movement while an animation is playing. If a joint deviates too far from the expected trajectory or something else goes wrong, the animation stops and the motors hold their current positions. The lamp also has its own REST API, so its functions can be controlled externally without being tied to the animation editor. Next I want to focus mostly on autonomous behavior and interaction with people and the environment. I'm also experimenting with reinforcement learning to teach it to jump, with the longer-term goal of getting it to actually move around on its own. There's still a lot to do, but after three months it finally feels like I have most of the basic pieces in place. I thought about making another technical demo to show the progress, but that sounded a bit boring, so I made a little story with the lamp instead :) For anyone interested in the technical side, I have a pre-release repo with more details about the hardware, software architecture and current progress: https://github.com/Nikolay-Tyulkin/Watti"
+    },
+    {
+      "title": "Is this the future? LOL",
+      "author": "ruthlessdepth",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvqos3/is_this_the_future_lol/",
+      "published": 1787439881.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It\u2019s always them goofy robots dancing and doing these goofy stuff. Look at how think those legs are. I don\u2019t think I get how people are scared of its potential to take over the world \ud83d\ude2d\ud83d\ude4f\ud83c\udffb It\u2019s just so unrealistic. I just hope that they somehow manage to modify these and turn them into actual useful machines."
+    },
+    {
+      "title": "Honor lightning vs tiangong in the 2026 humanoid robotics 100 meter dash",
+      "author": "Excellent-Thing-6493",
+      "url": "https://www.reddit.com/r/robotics/comments/1vve7ju/honor_lightning_vs_tiangong_in_the_2026_humanoid/",
+      "published": 1787409706.0,
+      "thumbnail": "https://external-preview.redd.it/dzc0YWhiNHF1eGtoMfX7O7Jq1WAn4H2tGrlA6PY-vewGgWvowuqVkT4wNg7w.jpeg?width=640&crop=smart&auto=webp&s=b688f4789fb0637be4257e1750a8b9d4e1655107",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Already faster than the human world record! Insane. Last year every robot was still being remote controlled. The way both robots collided with the padding at the end was quite funny"
+    },
+    {
+      "title": "Chinese robot beats Usain Bolt's 100m world record at Beijing games",
+      "author": "aboeing",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvu4xs/chinese_robot_beats_usain_bolts_100m_world_record/",
+      "published": 1787449491.0,
+      "thumbnail": "https://external-preview.redd.it/mjMFepm8xdbGnmltktKnYioGnx5-ZvzD44k9xWpI1r0.jpeg?width=320&crop=smart&auto=webp&s=6cd6436281896e0c9fa0097ec571ac70eccedc4a",
+      "external_url": "https://www.youtube.com/watch?v=FGBLzMESBAo",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "ask for dataset\ud83d\ude2d",
+      "author": "MindyOctant",
+      "url": "https://www.reddit.com/r/robotics/comments/1vw4v5h/ask_for_dataset/",
+      "published": 1787484912.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Is there any dataset for human detection with OBB annotations? I'm doing my program with yolo and it's about human detection with obb and i'm a beginner. But i can't find dataset to train. Can only find human&hbb, and all those obb ones i saw are for vehicles or sth like that. So does anyone know about this? And also, i found a HIT-UAV dataset, but it's thermal dataset.Though i thought about using this and just do a thermal one and saw the rotation part. But no matter how i tried to fix, it's still not obb dataset and error everytime..."
+    },
+    {
+      "title": "Rethinking the Quadruped",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvdroy/rethinking_the_quadruped/",
+      "published": 1787408598.0,
+      "thumbnail": "https://external-preview.redd.it/dDhhbThmYWVyeGtoMafC7iJ2guz0-zdJM7xzAioyKC4k7Tls6tlGdwjgurMJ.jpeg?width=640&crop=smart&auto=webp&s=bd49518f66552631ea1db0355db8b7cc0e0000dd",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Robot Carnage! - 100m dash Unitree Superman and TienKung Ultra",
+      "author": "heart-aroni",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvfy91/robot_carnage_100m_dash_unitree_superman_and/",
+      "published": 1787413925.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "What is this?",
+      "author": "SCepTiC-04",
+      "url": "https://www.reddit.com/r/robotics/comments/1vw3und/what_is_this/",
+      "published": 1787481644.0,
+      "thumbnail": "https://preview.redd.it/1v8ed0p6r3lh1.png?width=640&crop=smart&auto=webp&s=9199927cfccc929a3fff5d14f594318c260277b1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I came across this two wheeler autonomous rover electronics wiring diagram... I only can identify the ardumoto shield, pro mini, logic level converter, apm 2.5 controller and two dc motors... Could someone help me identify rest of the objects and provide more info on this project?"
+    },
+    {
+      "title": "P.A.R. (Pixel Art Robot) \u2014 A Giant, Slow, Flip-Squisk Display, Flipped by a CNC",
+      "author": "shallow-neural-net",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvyaxs/par_pixel_art_robot_a_giant_slow_flipsquisk/",
+      "published": 1787462441.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "P.A.R. is a machine draws pixel art in the real world. What it displays on the 37x18 grid of squisks is the art that random people on the internet upload on https://par.zimmzimm.com/ . I've been working on P.A.R. for almost 6 months at this point, and it's finally done (except for the custom PCB: in progress). It's a large grid of 3D-printed \"squisks\" (square discs), which are flipped from the back by the robot, a large CNC machine with a special toolhead. I designed all of this in OnShape and used the Flashforge Adventurer 5M to print most of the parts. The rest of the parts were made to be as cheap as possible: for example, the frame is made of EMT (Electrical Conduit) pipe, which is $0.60/ft. Learn more here. When someone submits a piece, it's added to a queue, and they can add your email to be notified when that piece is completed (absolutely NO SPAM), and they'll get to see a video of the real, physical robot drawing your art one flip at a time."
+    },
+    {
+      "title": "Humanoid robot races have begun at the WHRG 2026",
+      "author": "heart-aroni",
+      "url": "https://www.reddit.com/r/robotics/comments/1vvc28h/humanoid_robot_races_have_begun_at_the_whrg_2026/",
+      "published": 1787404224.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    }
+  ],
+  "fetched_at": "2026-08-23T13:32:03.150327+00:00"
+}

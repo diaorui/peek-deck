@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-24T15:25:32.786833+00:00",
+  "data": {
+    "url": "https://bitcoinops.org/en/newsletters/2026/07/24/",
+    "title": "Bitcoin Optech Newsletter #415",
+    "description": "This week\u2019s newsletter describes a draft BIP for full aggregation of BIP340 signatures. Also included are our regular sections describing recent changes to services and client software, announcing new releases and release candidates, and summarizing notable changes to popular Bitcoin infrastructure software.",
+    "image": "https://bitcoinops.org/img/logos/optech-notext.png",
+    "favicon": "https://bitcoinops.org/favicon.ico",
+    "site_name": "Bitcoin Optech",
+    "author": "Bitcoin Optech",
+    "keywords": null
+  }
+}

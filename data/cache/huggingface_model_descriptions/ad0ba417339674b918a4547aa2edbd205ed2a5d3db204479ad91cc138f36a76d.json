@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-10T03:55:54.319311+00:00",
+  "data": "NVIDIA NemotronLabs VoiceChat 11B is an end-to-end, real-time, full-duplex conversational AI model that unifies speech understanding and generation. It features natural turn-taking, barge-in, and is the first open model to support live tool calling within a seamless conversational flow, reducing latency for voice assistant development.",
+  "model_id": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B"
+}

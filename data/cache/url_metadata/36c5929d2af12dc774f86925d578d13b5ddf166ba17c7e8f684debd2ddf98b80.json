@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-31T08:04:20.926474+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+    "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+    "description": "A hardware wallet randomness bug turned \u201cimpossible to guess\u201d seeds into guessable ones, and $38 million is already gone.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

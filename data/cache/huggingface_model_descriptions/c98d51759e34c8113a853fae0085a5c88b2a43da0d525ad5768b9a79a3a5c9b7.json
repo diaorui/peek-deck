@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-11T16:01:09.725477+00:00",
+  "data": "Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of producing high-quality videos from static images with controllable motion. It is primarily used for creative video editing and content creation, enabling users to animate still images.",
+  "model_id": "lightx2v/Minimax-h3-Turbo"
+}

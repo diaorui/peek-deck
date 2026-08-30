@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-22T13:31:46.998901+00:00",
+  "data": "Ornith-1.5-35B-A3B is a 35B Mixture-of-Experts model that activates ~3B parameters per token, excelling in coding and agentic tasks. It is built through end-to-end self-improvement, continuously generating and optimizing training tasks for enhanced performance.",
+  "model_id": "ornith-ai/Ornith-1.5-35B-A3B"
+}

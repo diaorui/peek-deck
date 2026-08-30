@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-31T11:05:47.816700+00:00",
+  "data": {
+    "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+    "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+    "description": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+    "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+    "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+    "site_name": "CNBC",
+    "author": "Ashley Capoot",
+    "keywords": "Breaking News: Technology,Technology,Internet,Enterprise,Anthropic,business news"
+  }
+}

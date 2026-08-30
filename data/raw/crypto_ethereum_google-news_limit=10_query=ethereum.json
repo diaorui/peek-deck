@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ethereum",
+  "site": null,
+  "search_query": "ethereum",
+  "articles": [
+    {
+      "headline": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnB5U0ppaS01azlZUzIwXzlSQ015Y3o3aGdHdGhCZVc1dVAzMWVpX2FxZndjNU9Sd3VNcXJSNTRxbk9OYmJJeGNsaGQxbmc2QjFpa2xPcU1CWjVKc2pDcUl1SFpOckZhWWZPR3VKdHlsMUR5cjA0blFlelVLejNZSHhPMXU4aWtScXJEUTI5N1MyT0k?oc=5",
+      "pub_date": 1787451420.0,
+      "article_url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884165%2Finvestors-stand-and-cheer-while-looking-at-phone.jpg&w=1200&op=resize",
+      "description": "Capital is voting with its feet."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPTFBUZWpPY2xkQ1dTM2tXajFSdWhfRkJSUXpzOUxqSU9mQkowYW1YOUdlMmYxaXZiUWY0RWxnc2kzSEhKYVRCeXk1SldUWkF3b0pnQWxNU05fWVR2a3o0ZFJ6UW91NjJCTV9uOWtNb2RSazdWc2RheWVmaFZlc25OaEZpRmZiRXdKT2V0ZWtvTS1qeDM3Q3RVelpmcjBIVG9tYXFWZWNMcFVFY2NrNFJHMXNIV2xkTjRSMTBhQnlrOXdmYnA5aGdLWXUyTnhLREV5MDJ4T1hudVpua3pmN0VJSU42WldqVWY3eXV2SVpob2ozV0tTa2NacENqTC1ySlRuekY5UFhKbmpKOHgyQTRfQ0t6eXV5anNVN1c3aUtoYnlVbDVF?oc=5",
+      "pub_date": 1787328993.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2CE3C800D2C1A21B888B4C59FFA1556E7516E729E94ED193F9C11EBD27BEC992/subgraphmysterio/resizefill_w1200_h739;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
+      "description": "Bitcoin (BTC-USD) opened at $73,013 on Friday, August 21, 2026, 5.4% higher than Thursday's opening price. Ethereum (ETH-USD) opened at $2,326.60 on Friday, August 21, 2026, up 3.3% from Thursday's opening price."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, and XRP Surge as Trump Fuels a Crypto Rally",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFAycEYyUkQ4MnRDSk5mMERZOFVLazZIRjZQMHk3eDJRb2U0Zmh0R3V2cFNqR0xHZlA2Mkc1bnJwSFQySk5MRFFQNk82UnRtTFJTZjNyUHhyRnBScXRWa0lBY2drZE5TX2prZ3hSVTZIVDFHcHdsb0Q4c3oxR2lteEJoS3hBZkpfX09WX2FZNko?oc=5",
+      "pub_date": 1787330820.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum, and XRP are suddenly soaring to fresh highs: Why are crypto prices up today?",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2UxYURzc3FLSkZ2QWxNZmlxc0Fjb0ktdndWbXVhOHMtUVRfRFlkY3B1QTFYWVlMN2xFaGVHQmFzU1ZqOEFsRGxvRVIzTjBUbXVpLUtSQkU0ZFQyRmttYWV3SW9KZFduT1ZjMlNBdFk0RTZzUS11UkQyeWlCU2FVZElxMGJYek5EZlpXS0F0V1Q?oc=5",
+      "pub_date": 1787227324.0,
+      "article_url": "https://www.fastcompany.com/91592913/bitcoin-xrp-prices-flying-high-today-why-crypto-up",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-2-91592913-bitcoin-ethereum-xrp-price-crypto-surging.jpg",
+      "description": "Major cryptocurrencies have generally had a lackluster 2026 so far, but tokens turned decidedly positive this week on two pieces of news."
+    },
+    {
+      "headline": "Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFZ4cGc0dld6Tzc2QzB1WFRQZzZQdEEwaG9YSWJGb1pPNmNuWGFfcVlJUGxmMnc5bUQwNERJOUdjZVhyQmZvemZ6cnV0bGg5U2phbzMxWl9KX1lyS1puRWQ4OXQzMnlzOTNmZWVIbzNldER6QTA1Z1VLT19sTnBMXzdiVm8wV1lDN05WdWU1SjZlbDBfcm9CWkFiX3IxYS1Q?oc=5",
+      "pub_date": 1787486400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-skeptic-rashida-tlaib-holds-120000607.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/194F637BDF2F244DB89C34F81294CBEE078A9EB23BCCBEDC7D0E283E30644D0C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2f61ff689b6ffcd045a6f772384c2147.png",
+      "description": "Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act."
+    },
+    {
+      "headline": "SEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnYyS3hLTGlfa0lteWVMbC16dDVadlptMnlWcUd2MHVURW10c21Lc25kTEF0eTBVQ2gxS3pQY3lLanlwQ0ZFLVFvc3lVdVctZTJsMWVsME9KMFExXzNwdGk4X1VtaDdEVm5QQkhTRy1QZzhkYVhmUTJ4TEN3YkU3R1VpcXdGVHVmSWZKd1pKaS1fSmNVNW9fOG5NdmZTZjRmOGIydGFzYnh5R2hTQ2RrUmowTVZGdXY2TkFoTTNaM3JJa3U4aHc?oc=5",
+      "pub_date": 1787336100.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:307a1e65b094b:0-sec-opens-comment-period-on-cboe-3x-bitcoin-and-ethereum-etf-proposal/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The SEC has opened a public comment period on Cboe BZX Exchange\u2019s proposal to list six daily 3x leveraged Bitcoin and Ethereum futures ETFs.The proposal, filed under SR-CboeBZX-2026-065, would cover commodity-pool products sponsored by Volatility Shares. The funds would seek three times the daily p\u2026"
+    },
+    {
+      "headline": "Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRHhQWkc4andqRUhPRS1VREJCc25HcEYzSEx2SDJsLWF6MnJhU3oteFN2cmhobXI2VWlWVVpMVm9JbGNGUUlzX1Y2d25jU1QzbGxvVnA3NUsyYUlEa0l1ZU8zMXoycTVIV1RLN3pzWmJUQjN2cEluYk8ydmdfT01qSk9XMFpHeldNbG9Qa1duSnROelpFeUZ5aWF0aDZ0NUE3T1l0b1JkZjVwaGNwT0NSdXRNMmtQbTRtSGt6alhtcm84WTRxQnBZ?oc=5",
+      "pub_date": 1787419478.0,
+      "article_url": "https://www.benzinga.com/markets/equities/26/08/61371843/tom-lees-bitmine-stock-surges-as-ethereum-dca-strategy-finally-pays-off",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/22/tom-lee-dall-e.png",
+      "description": "BitMine stock has soared in the past few days, as Tom Lee's Ethereum dollar-cost averaging (DCA) starts to pay off this month"
+    },
+    {
+      "headline": "Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ydmVIcW9DdW5WeC1LMFB4UEhUa21lbWlOZmpIVUZkRjJaVExSQ1Jrd19RZHZsV0ZhY01FLU4wbGpEeUtqMGx6clF4Smx1TXpjNWs1b3lHMUlJODhwN1NoOWlXelJESWpHeEJvekxIRk5VRU0?oc=5",
+      "pub_date": 1787423520.0,
+      "article_url": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
+      "image": "https://assets.beincrypto.com/img/6QOH5_GBbiwK20czQkT43n6Qlx0=/1200x630/smart/filters:format(jpeg):quality(82)/2107838830124092abb733c06131136b",
+      "description": "Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025."
+    },
+    {
+      "headline": "Become a Project Manager, Academic Engagements at the Ethereum Foundation (EF): This is a Full-time, Fully Remote Position Open to Candidates Worldwide",
+      "source": "Global South Opportunities",
+      "source_url": "https://www.globalsouthopportunities.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yaVJ5bURZLXdNS0lSbE1OUU01VlFxY3FwdDdVY1ZGb3hSMnhjOVc4cUFEOERITnBhUFFQSDF4elV0OElWRG12VGZSa0NCMDNjd0VtcktMQTY1RnVNTFF6RTV0T2Q3eFJPMkhCb0dnM0M?oc=5",
+      "pub_date": 1787466050.0,
+      "article_url": "https://www.globalsouthopportunities.com/2026/08/23/ethereum-2/",
+      "image": "https://i0.wp.com/www.globalsouthopportunities.com/wp-content/uploads/2026/08/images-18.jpeg",
+      "description": "The Ethereum Foundation (EF) is inviting applications for a Project Manager, Academic Engagements to join its global team. This is a full-time, fully remote"
+    },
+    {
+      "headline": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVN1aWdNWVNNd21RNmo3MU0zOFlwMmZkT05zQ0JzeXl4eGxybnNIQkpjU1pwODNUbDg4cUhpVzlPSHQybTZOSUpNRXhQd1dRUGpMM3J0THpJQ05COWpvRVhIcW9HUTlMU1FreVJ6SUtmbUxucFM1Y29UUTVYUEV1TGdR0gGHAUFVX3lxTE9iX3dndjVoOEdJNWUxS2JMNUg1UzhOYVljd3g5WmFLdTE3TnVXNFhBdU1RbW9yUEJiT0RfOWNMSEUxQVEzUk5oUFk3aVlrNExVd2M3b2JfdVJVX09GQVl6ZlJaU0dLczdTeFdmdmtHTUNSZjFrY1FHTGdJSW5JRmoxZVJ3R2JOTQ?oc=5",
+      "pub_date": 1787203790.0,
+      "article_url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+      "description": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-08-23T14:49:58.870503+00:00"
+}

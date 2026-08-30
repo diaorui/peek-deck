@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-10T13:55:15.444015+00:00",
+  "data": {
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+    "description": "How a missing Firestore security rule on tl;dv exposed 181,874 meetings from 84,312 users across 35,003 domains, including live calls I could join uninvited, and how six months of disclosure got me nothing but seen receipts.",
+    "image": "https://bobdahacker.com/static/images/blogs/tldv/blogHeader.png",
+    "favicon": "https://bobdahacker.com/static/images/favicon.png",
+    "site_name": null,
+    "author": "BobDaHacker",
+    "keywords": "security, tldv, vulnerability, responsible disclosure, firebase, firestore, data exposure, security research, tenant isolation, api security, meeting privacy"
+  }
+}

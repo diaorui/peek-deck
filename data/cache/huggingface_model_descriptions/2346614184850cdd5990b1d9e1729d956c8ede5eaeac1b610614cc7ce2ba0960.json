@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-07T14:31:56.257709+00:00",
+  "data": "Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performance for its weight class, competitive with larger models. It excels at complex reasoning tasks like IMO-level problems and offers high inference speeds (200+ tokens/sec on Mac mini M4) with a 131,072 token context window, making it ideal for efficient on-device deployment.",
+  "model_id": "deepgrove/maple-preview"
+}

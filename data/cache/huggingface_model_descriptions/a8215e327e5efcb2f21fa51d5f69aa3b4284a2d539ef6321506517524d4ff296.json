@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-10T09:58:26.170195+00:00",
+  "data": "Ling-3.0-flash is a 124B parameter native hybrid reasoning model with 5.1B active parameters, excelling in long-context efficiency and agentic workflows. It features a hybrid-linear architecture with KDA and sparse MoE, achieving remarkable speed and performance for production deployment in coding, research, and general reasoning tasks.",
+  "model_id": "inclusionAI/Ling-3.0-flash"
+}

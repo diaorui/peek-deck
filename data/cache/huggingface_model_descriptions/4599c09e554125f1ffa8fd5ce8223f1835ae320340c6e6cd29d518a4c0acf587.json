@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-07-27T07:32:27.400909+00:00",
+  "data": "KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation model specialized for agentic coding tasks, achieving State-of-the-Art performance on benchmarks like SWE-bench.",
+  "model_id": "Kwaipilot/KAT-Coder-V2.5-Dev"
+}

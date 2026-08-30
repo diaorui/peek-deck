@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-07-24T17:05:05.472533+00:00",
+  "data": "Mage-Flow is a 4B-scale text-to-image generation and instruction-based image editing model, featuring an efficient native-resolution generation stack (512-2048px) with competitive quality and low latency. It excels at both generating novel images from text and performing versatile image edits, including semantic changes and restoration, with variants for base, RL-aligned, and fast Turbo inference.",
+  "model_id": "microsoft/Mage-Flow"
+}

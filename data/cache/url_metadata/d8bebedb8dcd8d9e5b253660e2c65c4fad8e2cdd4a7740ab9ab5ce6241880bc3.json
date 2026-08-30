@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-24T17:04:39.060292+00:00",
+  "data": {
+    "url": "https://cascadia.to/blog/intelligence-deflation",
+    "title": "The Reason To Stop Buying New Hardware | Cascadia Research",
+    "description": "The best AI model improves every quarter; the hardware to match last year\u2019s best shrinks a hundredfold. A sourced, interactive argument that most AI infrastructure is a deflating asset: rent the frontier, own the trailing edge.",
+    "image": "https://cascadia.to/images/research/intelligence-deflation/hero.jpg",
+    "favicon": "https://cascadia.to/favicon.png",
+    "site_name": "Cascadia",
+    "author": "Not Community Labs Inc.",
+    "keywords": "intelligence deflation, AI capex, model densification, GPU total cost of ownership, small language models"
+  }
+}

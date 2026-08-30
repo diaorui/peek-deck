@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-14T20:31:09.574849+00:00",
+  "data": {
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption",
+    "description": "Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec\u2026",
+    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260729-1718",
+    "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718",
+    "site_name": "Google",
+    "author": null,
+    "keywords": "None"
+  }
+}

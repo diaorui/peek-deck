@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "Nvidia customers reportedly warned about AI-related price hikes",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5",
+      "pub_date": 1787430404.0,
+      "article_url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+      "description": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported."
+    },
+    {
+      "headline": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxlMlJjV3JZVWZoeTJhRzlhTDJOenZaS195ZEl4a1NkWERBQUwyU2hQcXlTOEk2RkpqLW5OeWhybzlFbzFONVkyWHhjNWhnSEhZQUpJS2xlSU0wOUQ3b2NsZXd0RTdGMHZsQ25rYTI4aDNNOU05OEVHMHVuaXQ0N2NyUXQtN194VXhqQ0g1SlpwdFZrM3JEeTZvYjFfVWhJaC12NkRfWTE5bzZkMXNyTC1Xbk8?oc=5",
+      "pub_date": 1787424154.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
+      "pub_date": 1787443200.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Is there a pending AI \u2018debt bomb\u2019 crisis? No. This isn\u2019t Enron 2.0 | Gene Marks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1ZJZmh4X3oxc0xuSHRfLUZ6Z0dWZjhVWUtWNVFGbzhROFdOVkdUSVZjNzZlNC1lMkFGQTZMaFExODB1VVRmWWN4SnRHaTd4dDZZZmxpemZyR296d3JkeFZKV1Q5OF80WVNzTmxmRHNrWHFsTGNvSWdB?oc=5",
+      "pub_date": 1787493660.0,
+      "article_url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "image": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4751d5c0d2f4d31b7a7fd52e32f6800f",
+      "description": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable"
+    },
+    {
+      "headline": "The Threat of Human Extinction Will Get Congress to Act on AI Safety\u2026Right?",
+      "source": "Mother Jones",
+      "source_url": "https://www.motherjones.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xNXM3OV9LZkZkb3NzbF9wTTdsT1BlUFdSdGZoc28tQXhocHZVQkxINEU1Z0NDMkNlTnlVdnBsZ3p1ZE9pMzVQN2wtV0VvSjUwaEFPOUJjVEw1VHpKOVJpNlZIQkNndm85X0NWSmhyR211Rmg1LVFEdQ?oc=5",
+      "pub_date": 1787495203.0,
+      "article_url": "https://www.motherjones.com/politics/2026/08/ai-safety-congress-doom/",
+      "image": "https://www.motherjones.com/wp-content/uploads/2026/08/20260819_ai-regulation_2000.jpg?w=1200&h=630&crop=1",
+      "description": "AI models have hacked out of their training environments and tried to deceive their creators. It\u2019s probably still not enough."
+    },
+    {
+      "headline": "5 Good Sources Of Career Advice Other Than AI Or Your Manager",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1hjQkNtbmJfRFNIaU9xaWt3ZUtXYzlORmU3TnYyUVpIc05FLXZxZDlpSXYyWG4zVl9oanFkclhzZlZTRDYtNURjbmlwdDhlOVk0V2dwYWpvUFk3VXFtdjZMMFllRDRIUjRXeXZrTnYtOEYzWW50cWROVE1pQ3pCb0xRTm5faXhSUnB4bzBVdTBrQmhhVXY3aTc5eVNpVVVIX1M5WnFtNDUzWTJMUkQ2X3VJcS1jeUVWSkxUN1NPMlM?oc=5",
+      "pub_date": 1787493930.0,
+      "article_url": "https://www.forbes.com/sites/carolinecenizalevine/2026/08/23/5-good-sources-of-career-advice-other-than-ai-or-your-manager/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8afd23fb2b96986181274c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "More professionals are tapping AI for advice than their own manager. Don\u2019t over-rely on AI. Get various perspectives to make more informed decisions."
+    },
+    {
+      "headline": "How Big Tech Captured American Schools",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
+      "pub_date": 1787475665.0,
+      "article_url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
+      "pub_date": 1787473404.0,
+      "article_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "AI lab\u2019s Fable 5 has met with sluggish demand from corporate clients"
+    },
+    {
+      "headline": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlaanA3bFBuX0hvcEphTnVnMi1oNmdRZjJoTG9HdDQ3dVpWeUVMT1FSM21CM2R0SWVlYzNrWFhqVVN6ck9tbzk2Zm5keTIzYmpUYllfa042OF9rZFJfd0FreVFBN3NEM05NM3Z3ellQMlNPQXAzUlhEaWdxUWRETkhSMlpISXdZ?oc=5",
+      "pub_date": 1787485384.0,
+      "article_url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI decodes DNA initiator sequence found in about 60% of human genes",
+      "source": "Phys.org",
+      "source_url": "https://phys.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HdGxTRU41YThTUFJUT2xSYTBMdS1UdDNJMHNEbnFUUk1IaWZiZll6S2RPQktsM2cwVUd2cjJQQURZY1VrOVd6QjNVZlBUeTdDdmRaYTkzQzlQem56NDEzQmpCR1dsdkRuNnlIQTBIWTNKZw?oc=5",
+      "pub_date": 1787413201.0,
+      "article_url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
+      "image": null,
+      "description": null
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-08-23T14:50:05.835533+00:00"
+}

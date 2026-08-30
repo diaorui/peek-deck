@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "bitcoin",
+  "site": null,
+  "search_query": "bitcoin",
+  "articles": [
+    {
+      "headline": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHkwMjRsRV9PLVMtMGtNR1pKZ0lqLWFkVkdhRVpkTm1ISHh0WHZ5dG4xTXhYX1BoMlNxZDh6dkhsdkZZWDNSYk1VR3R3bFdQd3B3aVBqVm5zSzhfeGc5bkFGcXhEQ2kwSlFHZnFrTUt3ZWhWV2FuLUtvbTNnR1R3RFNualpuZnQ1SWxrQUp4RDh1cjVNZGcwcU5JQjR3MnM3b0U1ZlFiWldiaXJkOUZxRTBGalU0a3ZGQk9KLW5mTG5fSlhHZy1mOVdzNVdPdF96c1JGTTJrYW1sczNpMXp3SXptMXBOZ3Jy?oc=5",
+      "pub_date": 1787483321.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "description": "Bitcoin had its best week in more than three years \u2014 Scott Bessent helped light the match."
+    },
+    {
+      "headline": "How bitcoin and gold went from a slump to an MVP week in just a few days",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG54cnh0XzJTWVMyVnl0b19hdFN1TGhnWE1xcE1ER2h5VnpTNmpOdkxEUWpRaWt5WnVUS1JCVnFWb0lxSElTQ3pENlNCVFNvYnBMWE9KbVdNNmJjOU55SzNIa3VkcFpwcFlXcXVSekZkdTBqSlA0LVRIYzVBYkZLYkpodkdPYWhvRFQzLWNIaTRlVVdPT0F4WmpDeFl6SjJ3c21ZRVl4UzNCUkVPVjR5ZU9B?oc=5",
+      "pub_date": 1787443080.0,
+      "article_url": "https://apnews.com/article/gold-bitcoin-treasury-dollar-bessent-inflation-trump-be7df8c0eaa159e4149df8efc4000fc9",
+      "image": "https://dims.apnews.com/dims4/default/299d868/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2Fb4%2Fe5e6b896a19ffc530685a780fc4a%2F31ff263d42c84ae8b238acb5bd661c75",
+      "description": "Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington."
+    },
+    {
+      "headline": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVg0QkZmc3p2MENoYl9xejdUYzd2NmxxWERxaWl2VGJNSTFIaVVQZzNOYS1fYVA4X0Y4RVc4QnR3ZjdCaGktTEtuSld3R2tQQ3ZGX19fc2YxcVZNRE1jd0kyOVlpNGZoYXVYVHRUNGt5Z0ZQWHNpUnFEMF8tVHI4N1Z0M2hvNXMteEd0T3g1NDVlSHNQZmRlSzNJNXg0eGNuajBXdzVRdmYzOVNnY2V1bkVUZlJwYXRyYlBMel9yR042VTRJMTlXTm01dw?oc=5",
+      "pub_date": 1787471926.0,
+      "article_url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s Hidden Tax Problem: How Inflation Could Inflate Investors\u2019 Capital Gains Bills",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanFoYzVuZWVKRmEzck5PN1J3amd1Q1o3ME9TTlBkcDlJOWZpNGJLNENqR3ZXVU1McS1YVGt0eFBLb0ZCaFNkVE51WG0ybjY5VUhYNWdvQUJWWWh3bDQ1WDNLbXZVcngwLXRRc08wMFVkWGI2cF9DYmdsVHdYd0ZxdmdzUGp3WU5CcXVQTk1peGdDcENSV0JiYXpPdEJoV3FjdEJF?oc=5",
+      "pub_date": 1787490567.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hidden-tax-problem-inflation-130927128.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/F18D0537DAC999EFF1B975D60D7AAE98BA7EE5F6E5F5767F3966C1F628833D2C/subgraphmysterio/resizefill_w1200_h810;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2b465a8b032c487cbcef8620bfccbb20.jpg",
+      "description": "According to Grover Norquist, the government shouldn't tax Americans on inflation-driven gains it helped create."
+    },
+    {
+      "headline": "Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFZ4cGc0dld6Tzc2QzB1WFRQZzZQdEEwaG9YSWJGb1pPNmNuWGFfcVlJUGxmMnc5bUQwNERJOUdjZVhyQmZvemZ6cnV0bGg5U2phbzMxWl9KX1lyS1puRWQ4OXQzMnlzOTNmZWVIbzNldER6QTA1Z1VLT19sTnBMXzdiVm8wV1lDN05WdWU1SjZlbDBfcm9CWkFiX3IxYS1Q?oc=5",
+      "pub_date": 1787486400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-skeptic-rashida-tlaib-holds-120000607.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/194F637BDF2F244DB89C34F81294CBEE078A9EB23BCCBEDC7D0E283E30644D0C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2f61ff689b6ffcd045a6f772384c2147.png",
+      "description": "Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act."
+    },
+    {
+      "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5",
+      "pub_date": 1787340081.0,
+      "article_url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297862-17773131662026-04-27t163257z_2063345977_rc2rxkaa76sz_rtrmadp_0_usa-stocks.jpeg?v=1777314890&w=1920&h=1080",
+      "description": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis."
+    },
+    {
+      "headline": "Will Bitcoin crash or break out? The historical evidence is impossible to ignore.",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUZITmRBYXJGeVlZRUFsUFdvQ0RVU1BaRkhLQnNYOFNVWlRlWk10Q0dDTzNuakJSaGpGYlZnWWdvS2VZcWU2aFVnenFUdjZEc0QxZURvaXc3aEFsUFZSd0FHSkZBb1lmQ3BiU09kb1R5Ym9zQUYzMjVGQUxMU2k1czJjQ3IxN0l6ZWJ0RU5KYWNGUzhkUmdpMFZ6bF9XemhnYnc?oc=5",
+      "pub_date": 1787465700.0,
+      "article_url": "https://www.moomoo.com/news/post/75104846/will-bitcoin-crash-or-break-out-the-historical-evidence-is",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjg3Wmx6SG41Um9pSkgtenM2WEJkTG9LaDFSOGdmSEZHRmlxbEVjN3RSektaSlhXdHZXcXBOa0tNbDByQ0c3Umk1cDlMSDZpamVZM2wzRjdXcjZ2TkRZUER1c3lZRlhNeGQ3TGFzLTVNa3F1NnVGVGhZcGphMkJnRHhQczhvRjBibUlMSDhKSWw4c1JjNnd6aDJoUkcyRFJJUnlaZnB0THI2ZGhsR2dUSXNfZll4WEhkSGdJQklROWJFa0NC?oc=5",
+      "pub_date": 1787403600.0,
+      "article_url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmZhVllGU0tkR3k4WUhzU2RrcGJaTGxMU05ER0hibkZVU2VFVzQ0MVEydW52QVp6Y2gtdTRXbERtYjg3aV9BLVM1eGFTOXkxWEt6ZlV6Ujh2dUxPV2V4NWt5NFFEcjlUY0RoWHY0dW9QMVl6bElWeE5nYWNBb29wME02eW5vSlhmdi1sMkpablpOY3FfMWtMdTZIcm92WFhzWnIyNDNQR0hybHVJeWfSAbMBQVVfeXFMTzgzTTBpWk53NXZDMWlvdFh3b09uWEtXajVOWE0tS0ZoYTFyRXdDREhsX0tmNThNY0FBc1VsQ3NSQkIwZkphSk16cWJVV1VacURNTzBYQU9OUUxQMXVhLTRocWVIOFVhaUdhZFR4WmVqUTZacmRTbXNrRGJxTk1XbUlObWpTbEM5QlM3ckhETjlPbk5CSFhmSk1XdzlOeWZLTkRBRkFDaEFwSzg4b1QtT0dteFk?oc=5",
+      "pub_date": 1787370861.0,
+      "article_url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/alisa-goods-las-vegas-missing-found-dead.jpg",
+      "description": "Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8."
+    },
+    {
+      "headline": "How Tether's bitcoin mining plans in Uruguay unraveled",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU1FcGpCUE84VVYwNkllLTczRmVidF9FYmtwYnRlYlFGNUZjU05CSFZTSjk3bzUwQ09vbzFnU0JvaWwyYnRGVWZHOW1DVVBwcG4tcHFSZW4wY1N6X3R1eDdFZDJQRXYzTFQ3X19kbjlZTmdqdEpqTGtWTkdoMjlrWGw2azJia0xfWjVQZFRZYTJra3ctdjFOam5kNjFHQTFBWFVz?oc=5",
+      "pub_date": 1787309472.0,
+      "article_url": "https://www.reuters.com/world/americas/how-tethers-bitcoin-mining-plans-uruguay-unraveled-2026-08-21/",
+      "image": null,
+      "description": null
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-08-23T14:49:59.347893+00:00"
+}

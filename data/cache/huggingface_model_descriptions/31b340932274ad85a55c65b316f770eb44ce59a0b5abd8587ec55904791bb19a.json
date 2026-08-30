@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-14T16:53:00.358663+00:00",
+  "data": "Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.",
+  "model_id": "unsloth/Qwen3.8-27B-GGUF"
+}

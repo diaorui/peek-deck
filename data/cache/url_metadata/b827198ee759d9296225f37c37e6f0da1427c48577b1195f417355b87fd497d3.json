@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-28T04:10:19.655021+00:00",
+  "data": {
+    "url": "https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728",
+    "title": "Making robots faster by helping them think ahead",
+    "description": "The VLASH technique, developed by MIT researchers, helps robots think ahead while moving, eliminating lags that occur between different chunks of action. This smooths and streamlines robot motion, accelerating performance on tasks like pick-and-place, sorting, and stacking.",
+    "image": "https://news.mit.edu/sites/default/files/images/202607/MIT-Asychronous-inference-01-press.jpg",
+    "favicon": "https://news.mit.edu/themes/mit/assets/img/favicon/apple-touch-icon.png",
+    "site_name": "MIT News | Massachusetts Institute of Technology",
+    "author": null,
+    "keywords": "Song Han, Jiaming Tang, robot motion, Vision-language-action models, VLASH"
+  }
+}
