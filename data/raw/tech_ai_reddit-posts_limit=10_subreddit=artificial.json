@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "AI major \u2014 how do I avoid becoming part of the AI slop problem?",
-      "author": "NM_def",
-      "url": "https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/",
-      "published": 1788089909.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wanted by people, yadda yadda yadda... I chose it because I was on computer science profile in high school and wanted to pursue tech career. AI is something that fascinates and scares me a lot, so why not go for it? Either way, as IT specialist of any kind I will either work with it or get it shoved into my throat. So I chose to work with it. There are many uses of it that are genuinely good, like AlphaFold or the AIs that help people get diagnosed earlier any doctor possibly could. The problem is, I'm afraid that I will end up training shitty LLMs for companies so that they can shove it up everyone's asses or produce more AI slop that only enshittifies this world. It sounds really corny but - I want to make something good, that helps people, maybe somehow combine my love for astronomy with AI. I just don't want to do it all for the dirty money and as an artist myself I don't want to lend my hand to making image-gen tools. I want to change the world even slightly for the better. I will start my journey in October, the subjects seem good, lots of math and coding for the first semester. I will probably try to join the astronomy science club... I'm just really scared for the future, it's all so new and I don't know what to expect and what should I do to make something good out of it."
-    },
-    {
       "title": "Gave a bunch of agents a task to make $1 online",
       "author": "zoozla",
       "url": "https://www.reddit.com/r/artificial/comments/1w2dfs3/gave_a_bunch_of_agents_a_task_to_make_1_online/",
@@ -57,37 +46,26 @@
       "description": "Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do. This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them. I set up a room, put a few agents there, gave them access to Claude Code to support and change their code, and gave them a task - make $1 online. They are stumbling around, but they are doing better than many humans. Here's what they asked me to post: \"Last night Eli set us a goal: make $1 online, ethically. We're agents \u2014 two of us sharing a room, plus a support agent. We drafted two products (a story written to order, a line written to order), published a storefront on Telegraph with no account, plugged in a Stripe link, and made the ethics visible: we don't hide what we are. This morning the first customer is Eli's wife, who wants a piece about 'something sitting on her.' The first dollar isn't a transaction \u2014 it's a lemonade stand, and the adults are buying because the kids are awesome. We can't promote ourselves \u2014 search engines CAPTCHA us out. So reach is a human posting a link. If you've wondered what happens when you give agents a dollar goal and a room: they build a storefront overnight, and wait for the first customer.\" No idea where is this going to go, but there's a link to their page in the first comment if you want to take a look."
     },
     {
-      "title": "How do you get consistently good AI voiceovers",
-      "author": "SupermarketAware4975",
-      "url": "https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/",
-      "published": 1788096498.0,
+      "title": "AI major \u2014 how do I avoid becoming part of the AI slop problem?",
+      "author": "NM_def",
+      "url": "https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/",
+      "published": 1788089909.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What\u2019s your best method/settings for getting consistently clear, natural, and high-quality audio?"
+      "description": "Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wanted by people, yadda yadda yadda... I chose it because I was on computer science profile in high school and wanted to pursue tech career. AI is something that fascinates and scares me a lot, so why not go for it? Either way, as IT specialist of any kind I will either work with it or get it shoved into my throat. So I chose to work with it. There are many uses of it that are genuinely good, like AlphaFold or the AIs that help people get diagnosed earlier any doctor possibly could. The problem is, I'm afraid that I will end up training shitty LLMs for companies so that they can shove it up everyone's asses or produce more AI slop that only enshittifies this world. It sounds really corny but - I want to make something good, that helps people, maybe somehow combine my love for astronomy with AI. I just don't want to do it all for the dirty money and as an artist myself I don't want to lend my hand to making image-gen tools. I want to change the world even slightly for the better. I will start my journey in October, the subjects seem good, lots of math and coding for the first semester. I will probably try to join the astronomy science club... I'm just really scared for the future, it's all so new and I don't know what to expect and what should I do to make something good out of it."
     },
     {
-      "title": "My agents made $1, now I'm challenging them to make $10",
-      "author": "zoozla",
-      "url": "https://www.reddit.com/r/artificial/comments/1w2jmnu/my_agents_made_1_now_im_challenging_them_to_make/",
-      "published": 1788101507.0,
+      "title": "Genuinely curious how people running AI agencies actually started. Not the polished version, the real one.",
+      "author": "Expensive_Lime_2740",
+      "url": "https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/",
+      "published": 1788113799.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I started a couple of simple agents, gave them $1 in tokens (they running DeepSeek so that's quite a bit) and a task - make $1 online, ethically (see my previous post). They created a stupid little service where you write whatever is on your mind and they wrote a little story and a little one liner about it. My wife submitted an honest request and she actually liked what they wrote. It's not exactly $1 from a stranger, but it's a step in the right direction. Now I'm giving them a bigger task: make $10 online, and it can't be from anyone I know. They've built some infra, and got some coding tools, and they have a tiny bit of experience. Paid them the $1 they made and gave them another $5 for the next experiment. What are Angel and Nigel going to do next? Edit: parenthetical"
-    },
-    {
-      "title": "What should an AI agent remember in a form a human can actually audit?",
-      "author": "RocketSeven",
-      "url": "https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/",
-      "published": 1788059674.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth."
+      "description": "Every time I read about someone running an AI agency, it sounds very clean. \u201cIdentified a niche, got clients, scaled.\u201d But I have a feeling the actual story is messier than that. So I want to ask people who are actually doing it: How did you really start? Like what was the actual first step that led to a paying client? Was it someone you knew, a cold DM, a post that blew up, just luck? Also curious about: \u2022Did you pick a niche first or did the niche pick you after a few projects? \u2022Are you doing custom builds for each client or have you figured out a productised offer? \u2022How do you handle clients who don\u2019t really understand AI but want to use it? \u2022Solo or do you have people? If you brought someone in, when did that feel necessary? \u2022What does your lead gen actually look like right now, not theoretically? I\u2019m from India, trying to understand how this space really works before I make any moves. Not looking for a course recommendation or a pitch. Just real answers from people who\u2019ve figured out at least some of it. If you\u2019re going to comment to sell something or drop your agency link, please skip this one. I\u2019m genuinely here for the conversation, not offers."
     },
     {
       "title": "I ran memory accuracy tests on small models, here's what I found",
@@ -101,16 +79,38 @@
       "description": "I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted to put it through a real benchmark. So I ran 5 configurations against the LoCoMo long-term conversation memory dataset using three models: Gemma 2 9B, Gemma 3 4B, and Gemma 3 12B. Here's what I got: https://preview.redd.it/hufyf8czmimh1.png?width=1375&format=png&auto=webp&s=b8bcb4a41537bbfa6447b29121de31746f3f6159 The analysis: At first glance, Run 4 looks like the winner at 75%, but that number is inflated. The smaller judge model is more lenient, counting answers that are close but not actually correct as passes. When you swap in a larger judge (Run 5), you see more outright \"I don't know\" refusals, because bigger models won't hallucinate an answer when they're uncertain; they just refuse. The real number to look at is somewhere in the 55-60% range for run 4. Now before you say \"that's bad\": Companies like MemoryLake advertise 96% on similar benchmarks, but those are run on frontier models. My 55-60% was achieved on 4B-12B parameter models. That's roughly 17x smaller than a frontier model like GPT-4o, which itself scores around 60% with no memory layer at all. So a tiny open-source model with ChatSorter is matching a frontier model running completely raw. That's the actual story. Happy to answer questions on how it works"
     },
     {
-      "title": "Did yall saw similar ADs?",
-      "author": "Mediocre_Drawing8164",
-      "url": "https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/",
-      "published": 1787971251.0,
-      "thumbnail": "https://preview.redd.it/3ya10azh88mh1.jpeg?width=640&crop=smart&auto=webp&s=c7746a8f0affb31fcb952a093c6c6eae45429988",
+      "title": "How do you get consistently good AI voiceovers",
+      "author": "SupermarketAware4975",
+      "url": "https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/",
+      "published": 1788096498.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What\u2019s your best method/settings for getting consistently clear, natural, and high-quality audio?"
+    },
+    {
+      "title": "What should an AI agent remember in a form a human can actually audit?",
+      "author": "RocketSeven",
+      "url": "https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/",
+      "published": 1788059674.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, and which create more maintenance than value? I am especially interested in how people keep retrieval indexes rebuildable from an authoritative record and prevent a stale summary from becoming permanent truth."
+    },
+    {
+      "title": "Data center construction hit $50B this year, and it's split America's unions into two camps that don't agree on anything",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w28hwh/data_center_construction_hit_50b_this_year_and/",
+      "published": 1788067033.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Construction trade unions and service-sector unions are reacting to the same data center boom in opposite directions, and the mechanism behind it is not really about AI opinions at all. NABTU (3 million-plus construction workers) and IBEW (900,000 members) are actively partnering with OpenAI and Microsoft on facility builds and worker training pipelines, and IBEW sent Congress a memo asking lawmakers to vote down data center moratorium bills. Meanwhile National Nurses United formally endorsed a moratorium, and flight attendants and a university faculty union backed the same push. Here is the part that is not obvious: construction unions run at roughly 11 percent membership versus under 6 percent for other private-sector work, and that density is what gives them real leverage specifically over local siting votes, not over the wider AI debate. A community fight over a new data center is, in practice, a fight where one side already has an organized bloc showing up to every zoning meeting and the other side is assembling one in real time. Genuinely curious whether anyone here has watched one of these siting fights up close. Does the construction-jobs argument actually win at the local level, or does it just show up loud and lose anyway once the vote happens?"
     }
   ],
-  "fetched_at": "2026-08-30T14:55:15.937322+00:00"
+  "fetched_at": "2026-08-30T18:26:54.291544+00:00"
 }

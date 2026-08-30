@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-30T14:55:37.841215+00:00'
+updated: '2026-08-30T18:27:19.704056+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 14:55 UTC  
+**Last Updated:** August 30, 2026 at 18:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,119 +36,113 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,454.77
+### $2,500.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -0.2%  
-**30d:** +34.3%  
-**90d:** +33.2%  
-**1y:** -43.6%  
+**24h:** +2.1%  
+**7d:** +0.8%  
+**30d:** +35.7%  
+**90d:** +34.5%  
+**1y:** -43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.90B
+**Market Cap:** $301.96B
 Rank #2
 
 **Circulating Supply:** 120,681,161 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.9%
+-49.4%
 
 **All-Time Low:** $0.43
-+571923.1%
++577777.9%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion August 26, 2026](https://www.reddit.com/r/ethereum/comments/1vynfyc/daily_general_discussion_august_26_2026/)**
+**[Daily General Discussion August 30, 2026](https://www.reddit.com/r/ethereum/comments/1w2874e/daily_general_discussion_august_30_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+13h ago
 
 ---
 
-**[Glamsterdam Repricing Impact for Smart Contract Developers](https://www.reddit.com/r/ethereum/comments/1vyia30/glamsterdam_repricing_impact_for_smart_contract/)**
-
-The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts.
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing) • 4d ago
-
----
-
-**[Daily General Discussion August 25, 2026](https://www.reddit.com/r/ethereum/comments/1vxqazy/daily_general_discussion_august_25_2026/)**
+**[Daily General Discussion August 29, 2026](https://www.reddit.com/r/ethereum/comments/1w1d8l9/daily_general_discussion_august_29_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+1d ago
 
 ---
 
-**[Report on the state of curated DeFi](https://www.reddit.com/r/ethereum/comments/1vx7rsv/report_on_the_state_of_curated_defi/)**
+**[I have built a tool which can provide bulk wallet address labels (CEX wallets, entities, risk tags) - cheap, fast, any list size](https://www.reddit.com/r/ethereum/comments/1w1lt0r/i_have_built_a_tool_which_can_provide_bulk_wallet/)**
 
-Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20
+I run a pipeline that enriches crypto wallet addresses with the kind of labels you'd normally dig out of block explorers and intelligence platforms one address at a time: Entity / owner - e.g. Binance: Hot Wallet, Coinbase: Cold Wallet, Deribit Category tags - Centralized Exchange, Hot/Cold Wallet, Mixer, Gambling, Sanctioned (OFAC/UK), High Transacting, etc. First-funder relationships and contract flags Per-chain coverage - Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche and more, one row per network Format: clean CSV/JSON, your list in → labeled list out. Turnaround is fast (100k addresses in under an hour) and pricing is a fraction of what intelligence-platform subscriptions cost - it scales down to small one-off lists and up to millions of addresses. Useful if you're doing compliance/AML screening, fraud or theft investigations, exchange flow analysis, dataset enrichment for research, or tagging counterparties in your own analytics. DM me with roughly how many addresses and what chains - I'll quote you same day. Happy to run a free sample on 50–100 of your addresses first so you can judge the quality yourself.
 
-5d ago
+1d ago
 
 ---
 
-**[Daily General Discussion August 24, 2026](https://www.reddit.com/r/ethereum/comments/1vwtakt/daily_general_discussion_august_24_2026/)**
+**[ethstaker-deposit-cli 1.3.1 pre-release](https://www.reddit.com/r/ethereum/comments/1w1lqgs/ethstakerdepositcli_131_prerelease/)**
+
+1d ago
+
+---
+
+**[Daily General Discussion August 28, 2026](https://www.reddit.com/r/ethereum/comments/1w0h5xs/daily_general_discussion_august_28_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+2d ago
 
 ---
 
-**[🚨Every Ledger running the Ethereum app is vulnerable to signature substitution](https://www.reddit.com/r/ethereum/comments/1vwc8sj/every_ledger_running_the_ethereum_app_is/)**
-
-🚨Every Ledger running the Ethereum app is vulnerable to signature substitution
-
-A malicious dApp with WebHID access could race an APDU during your transaction review and swap the tx being signed while the device still shows the original
-
-Here's what you need to know:
-
-🔗 [X (formerly Twitter)](https://x.com/testmachine_ai/status/2090954980635164965) • 6d ago
-
----
-
-**[Daily General Discussion August 23, 2026](https://www.reddit.com/r/ethereum/comments/1vvxy0z/daily_general_discussion_august_23_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-7d ago
-
----
-
-**[Daily General Discussion August 22, 2026](https://www.reddit.com/r/ethereum/comments/1vv331x/daily_general_discussion_august_22_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-8d ago
-
----
-
-**[Daily messages on etherscan to my watched address](https://www.reddit.com/r/ethereum/comments/1vuyj4z/daily_messages_on_etherscan_to_my_watched_address/)**
-
-Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!
-
-8d ago
-
----
-
-**[156 - Doots Podcast with Quotient - Jordan O](https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/)**
+**[157 - Zaal - THE ZAO - EVMavericks Daily Doots Podcast](https://www.reddit.com/r/ethereum/comments/1w0xuyg/157_zaal_the_zao_evmavericks_daily_doots_podcast/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1AL2hMV7AV8) • 8d ago
+🔗 [youtu.be](https://youtu.be/7q249awEnEM) • 2d ago
+
+---
+
+**[Mina Graph blockchain explorer updates](https://www.reddit.com/r/ethereum/comments/1w0owmi/mina_graph_blockchain_explorer_updates/)**
+
+Hey all! I’ve updated my MinaGraph Explorer app, and it’s now more powerful than ever! 🚀 Track movements between wallets across dozens of blockchains in a highly visual and interactive way. 🎥 Take a tour with my latest video presentation: https://youtu.be/kc6tiI7DLiE?is=rsSelIazh8DRQhER 🌐 And try it yourself: https://webapp.minagraph.com Happy exploring!
+
+2d ago
+
+---
+
+**[Ethereal news weekly #37 | Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegotá upgrade](https://www.reddit.com/r/ethereum/comments/1w0r3l6/ethereal_news_weekly_37_glamsterdam_upgrade/)**
+
+Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegotá upgrade
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-37/) • 2d ago
+
+---
+
+**[Daily General Discussion August 27, 2026](https://www.reddit.com/r/ethereum/comments/1vzkinz/daily_general_discussion_august_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
+**[What is the most popular self-custody wallet for holding and staking ETH on a phone?](https://www.reddit.com/r/ethereum/comments/1vzbgcs/what_is_the_most_popular_selfcustody_wallet_for/)**
+
+Would like some advice from the community. I am new and I currently have some a bit more than 2.5 ETH on crypto.com. I would to set up a self custodial wallet for holding and staking ETH. Could anyone advise me the best app? 🙏🏻🙏🏻🙏🏻
+
+3d ago
 
 ---
 
@@ -160,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -176,15 +170,23 @@ Yahoo Finance • 1d ago
 
 The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
 
-TradingView • 11h ago
+TradingView • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-ethereum-hype-crypto-portfolio-charles-schwab/cZYMfxNRJrd)**
+**[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
 
-Charles Schwab (SCHW) Director of Equity Research Adam Lynch believes that investors worried about currency debasement have an increasing range of crypto assets to choose from, ranging from Bitcoin (BTC) to Hyperliquid (HYPE), and the mix mattered more th
+Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
 
-Stocktwits • 1d ago
+Decrypt • 2d ago
+
+---
+
+**[Weekend Round-Up: Ethereum's Potential, Bitcoin's Future and Japan's Blockchain Ambitions](https://www.benzinga.com/crypto/cryptocurrency/26/08/61512179/weekend-round-up-ethereums-potential-bitcoins-future-and-japans-blockchain-ambitions)**
+
+Ethereum’s potential, Bitcoin’s price outlook, Japan’s blockchain push and AI’s crypto impact topped the week’s headlines.
+
+Benzinga • 5h ago
 
 ---
 
@@ -198,15 +200,15 @@ ETF.com • 1d ago
 
 Unipcs up $2.48M on ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 after 67,304 SOL spend for 10.96M tokens now worth $2.55M.
 
-blockchain.news • 12h ago
+blockchain.news • 16h ago
 
 ---
 
-**[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
+**[Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-ethereum-hype-crypto-portfolio-charles-schwab/cZYMfxNRJrd)**
 
-Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
+Charles Schwab (SCHW) Director of Equity Research Adam Lynch believes that investors worried about currency debasement have an increasing range of crypto assets to choose from, ranging from Bitcoin (BTC) to Hyperliquid (HYPE), and the mix mattered more th
 
-Decrypt • 1d ago
+Stocktwits • 1d ago
 
 ---
 
@@ -218,17 +220,11 @@ The Hacker News • 3d ago
 
 ---
 
-**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
+**[RLUSD supply on Ethereum surpasses XRPL, grows 93% in 30 days](https://cryptobriefing.com/rlusd-ethereum-supply-surpasses-xrpl/)**
 
-CoinDesk • 2d ago
+RLUSD supply on Ethereum grew 93% in 30 days, reaching $1.33B and surpassing XRPL's $1.04B as institutional DeFi demand reshapes Ripple's
 
----
-
-**[Sberbank plans USDT, Ethereum loans pending Russian regulatory approval](https://cryptobriefing.com/sberbank-plans-usdt-ethereum-loans-pending-russian-regulatory-approval/)**
-
-Sberbank plans to accept USDT and Ethereum for loans pending regulatory approval. Bitcoin reaching $200,000 by December 31, 2026 at 1.1% YES.
-
-Crypto Briefing • 4h ago
+Crypto Briefing • 22m ago
 
 ---
 
@@ -236,13 +232,23 @@ Crypto Briefing • 4h ago
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;Ethereum Is Going to Be a Behemoth” And Almost Nobody Is Positioned for It](https://www.youtube.com/watch?v=pPY1qsjYS8c)**
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
 
-📺 Milk Road
+📺 More Crypto Online
 
-👁️ 12K • 👍 207 • 💬 143 • ⏱️ 15:06 • 1d ago
+👁️ 3K • 👍 124 • 💬 7 • ⏱️ 7:32 • 5h ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=OeR8D-CCD8w)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 1K • 👍 87 • 💬 56 • ⏱️ 15:57 • 2h ago
 
 ---
 
@@ -252,17 +258,7 @@ BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 14K • 👍 338 • 💬 148 • ⏱️ 15:01 • 13h ago
-
----
-
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 21K • 👍 364 • 💬 86 • ⏱️ 15:34 • 1d ago
+👁️ 16K • 👍 355 • 💬 148 • ⏱️ 15:01 • 16h ago
 
 ---
 
@@ -272,27 +268,27 @@ Ethereum already broke through $2360, and the next major level I'm watching is $
 
 📺 The Moon Show
 
-👁️ 4K • 👍 96 • 💬 1 • ⏱️ 1:15 • 14h ago
+👁️ 5K • 👍 111 • 💬 1 • ⏱️ 1:15 • 18h ago
 
 ---
 
-**[&quot;BTC &amp; ETH Absolutely Explodes Before September if This Happens!&quot;: Matt Hougan and Tom Lee](https://www.youtube.com/watch?v=cjgfVSpEzdM)**
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 522 • 💬 61 • ⏱️ 12:41 • 2d ago
+👁️ 23K • 👍 378 • 💬 61 • ⏱️ 15:34 • 2d ago
 
 ---
 
-**[ETH PREDICTION FOR NEXT WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=SPgSAwqoNJU)**
+**[&quot;Ethereum Is Going to Be a Behemoth” And Almost Nobody Is Positioned for It](https://www.youtube.com/watch?v=pPY1qsjYS8c)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Cilinix Crypto
+📺 Milk Road
 
-👁️ 480 • 👍 23 • 💬 12 • ⏱️ 5:39 • 5h ago
+👁️ 13K • 👍 215 • 💬 156 • ⏱️ 15:06 • 1d ago
 
 ---
 
@@ -302,17 +298,17 @@ Alessandro goes deep on the one chart every altcoin holder needs to understand r
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 277 • 💬 11 • ⏱️ 16:35 • 20h ago
+👁️ 17K • 👍 289 • 💬 11 • ⏱️ 16:35 • 1d ago
 
 ---
 
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=25T25fwYXG4)**
 
-We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 More Crypto Online
+📺 Profit First
 
-👁️ 648 • 👍 84 • 💬 4 • ⏱️ 7:32 • 1h ago
+👁️ 726 • 👍 57 • ⏱️ 6:51 • 5h ago
 
 ---
 
@@ -322,17 +318,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 115K • 👍 2K • 💬 439 • ⏱️ 38:19 • 2d ago
+👁️ 119K • 👍 2K • 💬 407 • ⏱️ 38:19 • 2d ago
 
 ---
 
-**[BMNR Stock: Could Ethereum Send BitMine to $100, $500 or $1,000?](https://www.youtube.com/watch?v=37hCtT5lyoA)**
+**[ETH PREDICTION FOR NEXT WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=SPgSAwqoNJU)**
 
-BMNR stock price prediction and analysis: Could BitMine Immersion Technologies (BMNR) reach several hundred dollars per ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 BiGB Stcok
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 51 • 💬 40 • ⏱️ 14:55 • 21h ago
+👁️ 1K • 👍 24 • 💬 10 • ⏱️ 5:39 • 8h ago
 
 ---
 

@@ -2,10 +2,10 @@
   "subreddit": "ethereum",
   "posts": [
     {
-      "title": "Daily General Discussion August 26, 2026",
+      "title": "Daily General Discussion August 30, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vynfyc/daily_general_discussion_august_26_2026/",
-      "published": 1787720470.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1w2874e/daily_general_discussion_august_30_2026/",
+      "published": 1788066086.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -13,21 +13,10 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Glamsterdam Repricing Impact for Smart Contract Developers",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vyia30/glamsterdam_repricing_impact_for_smart_contract/",
-      "published": 1787706006.0,
-      "thumbnail": "https://external-preview.redd.it/Q97mt0WIMih-z-EKSckDTauT-C0XkvSptylgaab_PNU.png?width=640&crop=smart&auto=webp&s=b38683f2cf7f26a53637592aaea7a2802d704df3",
-      "external_url": "https://blog.ethereum.org/2026/08/24/glamsterdam-repricing-testing",
-      "site_name": "Ethereum Foundation Blog",
-      "favicon": "https://blog.ethereum.org/images/favicon.png",
-      "description": "The upcoming Glamsterdam upgrade includes gas repricings that could affect a small number of smart contracts."
-    },
-    {
-      "title": "Daily General Discussion August 25, 2026",
+      "title": "Daily General Discussion August 29, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vxqazy/daily_general_discussion_august_25_2026/",
-      "published": 1787634076.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1w1d8l9/daily_general_discussion_august_29_2026/",
+      "published": 1787979673.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -35,21 +24,32 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Report on the state of curated DeFi",
-      "author": "MacBudkowski",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vx7rsv/report_on_the_state_of_curated_defi/",
-      "published": 1787589108.0,
+      "title": "I have built a tool which can provide bulk wallet address labels (CEX wallets, entities, risk tags) - cheap, fast, any list size",
+      "author": "CollectionNo1576",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w1lt0r/i_have_built_a_tool_which_can_provide_bulk_wallet/",
+      "published": 1788008022.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey, we spent the last few weeks doing deep research on curated DeFi. We analyzed 11.29B across 856 vaults, 131 curators and 18 protocols. Most of it on Ethereum/L2s, so I thought you might find it interesting. Here's the link to the report: https://research.vaults.fyi/defi-curation/ And here's the link to the thread in case you wanted to help us spread the word: https://x.com/vaultsfyi/status/2091920452964798864?s=20"
+      "description": "I run a pipeline that enriches crypto wallet addresses with the kind of labels you'd normally dig out of block explorers and intelligence platforms one address at a time: Entity / owner - e.g. Binance: Hot Wallet, Coinbase: Cold Wallet, Deribit Category tags - Centralized Exchange, Hot/Cold Wallet, Mixer, Gambling, Sanctioned (OFAC/UK), High Transacting, etc. First-funder relationships and contract flags Per-chain coverage - Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche and more, one row per network Format: clean CSV/JSON, your list in \u2192 labeled list out. Turnaround is fast (100k addresses in under an hour) and pricing is a fraction of what intelligence-platform subscriptions cost - it scales down to small one-off lists and up to millions of addresses. Useful if you're doing compliance/AML screening, fraud or theft investigations, exchange flow analysis, dataset enrichment for research, or tagging counterparties in your own analytics. DM me with roughly how many addresses and what chains - I'll quote you same day. Happy to run a free sample on 50\u2013100 of your addresses first so you can judge the quality yourself."
     },
     {
-      "title": "Daily General Discussion August 24, 2026",
+      "title": "ethstaker-deposit-cli 1.3.1 pre-release",
+      "author": "yorickdowne",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w1lqgs/ethstakerdepositcli_131_prerelease/",
+      "published": 1788007825.0,
+      "thumbnail": "https://external-preview.redd.it/2wfhqYJNXqNGbhphNXL9Ywn5ok0ElcA-3SQEv6WTjz0.png?width=640&crop=smart&auto=webp&s=6d5657cd796cf87ba707c259ffc5c4b41596c084",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Daily General Discussion August 28, 2026",
       "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vwtakt/daily_general_discussion_august_24_2026/",
-      "published": 1787547689.0,
+      "url": "https://www.reddit.com/r/ethereum/comments/1w0h5xs/daily_general_discussion_august_28_2026/",
+      "published": 1787893283.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -57,60 +57,60 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "\ud83d\udea8Every Ledger running the Ethereum app is vulnerable to signature substitution",
-      "author": "ligi",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vwc8sj/every_ledger_running_the_ethereum_app_is/",
-      "published": 1787503693.0,
-      "thumbnail": null,
-      "external_url": "https://x.com/testmachine_ai/status/2090954980635164965",
-      "site_name": "X (formerly Twitter)",
-      "favicon": "https://x.com/apple-touch-icon.png",
-      "description": "\ud83d\udea8Every Ledger running the Ethereum app is vulnerable to signature substitution\n\nA malicious dApp with WebHID access could race an APDU during your transaction review and swap the tx being signed while the device still shows the original\n\nHere's what you need to know:"
-    },
-    {
-      "title": "Daily General Discussion August 23, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vvxy0z/daily_general_discussion_august_23_2026/",
-      "published": 1787461275.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Daily General Discussion August 22, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vv331x/daily_general_discussion_august_22_2026/",
-      "published": 1787374874.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Daily messages on etherscan to my watched address",
-      "author": "CatTurdDay",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vuyj4z/daily_messages_on_etherscan_to_my_watched_address/",
-      "published": 1787361345.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Backstory: I used freewallet 10 years ago to transfer eth to DAO before it got hacked. FW is a custodial wallet so I don't have access to the private keys and my eth tokens are still stuck in purgatory until FW support addresses my 10 year support case that has def exceeded SLA Fast forward to now. I've been receiving these daily messages on eth scan about legacyeth.com which I doubt is legit. Just wondering if anyone else is receiving these messages or has any background on legacyeth.com Also if there's any other people out there with eth stuck bc of the DAO hack 10 years ago, let me know if you've had any success with custodial wallets or if we're both in the same boat without a paddle. I'm sure there are dozens of us. Dozens!!"
-    },
-    {
-      "title": "156 - Doots Podcast with Quotient - Jordan O",
+      "title": "157 - Zaal - THE ZAO - EVMavericks Daily Doots Podcast",
       "author": "jtnichol",
-      "url": "https://www.reddit.com/r/ethereum/comments/1vuo6eg/156_doots_podcast_with_quotient_jordan_o/",
-      "published": 1787336287.0,
-      "thumbnail": "https://external-preview.redd.it/SDIJwFxWQNm8hw0nbbMz1sQkZ1bDZ2C2j5f4NK3wPj4.jpeg?width=320&crop=smart&auto=webp&s=e8e85dae867c7e5f2d80b527c58b0a6ec93b98f0",
-      "external_url": "https://youtu.be/1AL2hMV7AV8",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w0xuyg/157_zaal_the_zao_evmavericks_daily_doots_podcast/",
+      "published": 1787940024.0,
+      "thumbnail": "https://external-preview.redd.it/3OJD_kwt4DPEwmNgwtJruECCcu1F_FNMjgHnvOGOcYQ.jpeg?width=320&crop=smart&auto=webp&s=51e65509c7665e4cd6d6c5484af3e669aac61006",
+      "external_url": "https://youtu.be/7q249awEnEM",
       "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/6f290082/img/favicon.ico",
+      "favicon": "https://www.youtube.com/s/desktop/f13793d9/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "Mina Graph blockchain explorer updates",
+      "author": "naamahdemon",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w0owmi/mina_graph_blockchain_explorer_updates/",
+      "published": 1787919266.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all! I\u2019ve updated my MinaGraph Explorer app, and it\u2019s now more powerful than ever! \ud83d\ude80 Track movements between wallets across dozens of blockchains in a highly visual and interactive way. \ud83c\udfa5 Take a tour with my latest video presentation: https://youtu.be/kc6tiI7DLiE?is=rsSelIazh8DRQhER \ud83c\udf10 And try it yourself: https://webapp.minagraph.com Happy exploring!"
+    },
+    {
+      "title": "Ethereal news weekly #37 | Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegot\u00e1 upgrade",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w0r3l6/ethereal_news_weekly_37_glamsterdam_upgrade/",
+      "published": 1787924908.0,
+      "thumbnail": "https://external-preview.redd.it/2zyY6e5Mf5R63ELydbdrYjrz_yIBJn5i9-GpP66kmzM.jpeg?width=640&crop=smart&auto=webp&s=5a0bcc467e92ab01c45c72e2085e5e0169e799e6",
+      "external_url": "https://ethereal.news/ethereal-news-weekly-37/",
+      "site_name": "Ethereal news",
+      "favicon": "https://ethereal.news/etherealnews-logo.jpg",
+      "description": "Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegot\u00e1 upgrade"
+    },
+    {
+      "title": "Daily General Discussion August 27, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1vzkinz/daily_general_discussion_august_27_2026/",
+      "published": 1787806880.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "What is the most popular self-custody wallet for holding and staking ETH on a phone?",
+      "author": "ireneduardo",
+      "url": "https://www.reddit.com/r/ethereum/comments/1vzbgcs/what_is_the_most_popular_selfcustody_wallet_for/",
+      "published": 1787782156.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Would like some advice from the community. I am new and I currently have some a bit more than 2.5 ETH on crypto.com. I would to set up a self custodial wallet for holding and staking ETH. Could anyone advise me the best app? \ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb"
     }
   ],
-  "fetched_at": "2026-08-26T09:41:02.217071+00:00"
+  "fetched_at": "2026-08-30T18:27:05.470706+00:00"
 }
