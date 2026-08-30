@@ -5,84 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR30gGHAUFVX3lxTE5zSjRrVktpSnZfc1JZc0NCdl9oZnRodnZTM3ZFRGdsQVlJVlhUakxRSEFqOVB0R1gzQ3NQd1dLTWZROUpobkpnXzg2cGhfYUZSX3hJcW5aSWNLWktqSXB2QWV6VnZiR0JPMzA5NWJLNnhyRHRBQ05sX3lWVUFrZmUyTmRCMkI4TQ?oc=5",
-      "pub_date": 1788004801.0,
-      "article_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&w=1920&h=1080",
-      "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
-    },
-    {
-      "headline": "Why the AI economy is like a bad dating app \u2014 drowning in decks, pilot purgatory \u2014 and it's playing out like the dotcom bubble, except worse",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDBuZTRSTzRRNEszeWx3MHhSQkdpeUl5VDdrSkhTUWNuMVB4MUJBYUhkUGs0SkNQQkpNVEw5WU5TX2wyY2x3b3ZHdDNQblNtTHBIRnZhUTFNek1uZlJRWkJvN0Y2OWpSQkJrLXBBYWUyTkZ0TEd3QlM4M2VxNEVNNjVnMmJILVNSQTd1YTUxemswYTA3UGhXamFB?oc=5",
-      "pub_date": 1788084000.0,
-      "article_url": "https://fortune.com/2026/08/30/ai-economy-like-dating-app-pilot-purgatory-decks-dotcom-bubble/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1738269158-e1787925978742.jpg?resize=1200,600",
-      "description": "Amy Webb is a futurist who called the rise of AI \u2014\u00a0and a U.S./China tech Cold War \u2014\u00a0years ago. She wishes she were happier with what she's seeing."
-    },
-    {
-      "headline": "How Apple Stumbled Into AI Hardware Success With the Mac",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3RrWEdyd0s3WmxFQjA3Wk9DUDl3b213LUVfaU9rYkpBMVFqb2p5VFBtNmY4QmMtXzZfQ05LQzJDdU13WERFeUdvanZOWmtnRGJtVmxjelN3WUZ1WWtqMlRlSF9qYXNtc1dzUFB5Yk1kVkp1UzlSWXBnVXdCMnI4WDg0eXE?oc=5",
-      "pub_date": 1788098400.0,
-      "article_url": "https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac",
-      "image": "https://tii.imgix.net/production/articles/17738/c0662bf6-923c-4011-9b92-8c878fd15f49.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "The hottest products at Apple right now are not the iPhone, the iPad or a buzzy new show on the company\u2019s streaming service. They are two of the lowliest members of Apple\u2019s venerable Mac product line: its boxy Mac mini and Mac Studio computers, which come without monitors, keyboards or mice and ..."
-    },
-    {
-      "headline": "Letters to the Editor: If we're in the 'AI era,' college students must grapple with digital ethics",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVC1UM0pLOGp4a1k0SzQxeGhnUzZvTU9Xb2p3UFlYbVppUzVLOXFvQkRLVTRvVUt4dzVqNGZQcGxROVAxQkRYUk5ESHI0WktMU0lRQy1fY01pLXFVZjJhN3VqTGV1NHVlSUVVcGMycnU5dWl0MC1oTE5rR0tidGRvZl9ZMjA2eUVHbDVhcHhn?oc=5",
-      "pub_date": 1788098400.0,
-      "article_url": "https://www.yahoo.com/news/science/articles/letters-editor-were-ai-era-140000259.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e678f449a39e51689de498cd8ca4ba3e59709a1b459c781930bb411526c84955/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_times_opinion_902%2Fda156cbcd0fde21065bff0f60ce5b856.jpg",
-      "description": "'Students urgently need courses that invite them to investigate whether the benefits and harms of these powerful technologies are fairly distributed across society and to imagine futures where technol..."
-    },
-    {
-      "headline": "Big business has shown small firms what to do \u2013 and what not to do \u2013 with AI | Gene Marks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5",
-      "pub_date": 1788098520.0,
-      "article_url": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
-      "image": "https://i.guim.co.uk/img/media/2dc7f310974510f7f96949e206423eea743f9e99/433_0_4330_3464/master/4330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=522dfd2a870801e5b9b626073a16b6af",
-      "description": "Small business owners have watched large companies fumble \u2013 and sometimes succeed \u2013 with AI, and then use what works"
+      "headline": "We tested how AI chatbots would handle foreign propaganda. They did surprisingly well",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5",
+      "pub_date": 1788073200.0,
+      "article_url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F06%2Fa0997e9e4141bb678bd7f1b92548%2F2026-07-ai-state-answers-final.jpg",
+      "description": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse."
     },
     {
       "headline": "Help Wanted: \u2018Forward-Deployed\u2019 Humans for the A.I. Era",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZTZlNFlEcFlidDJ6TzIyd2FiSkdiSEEzVXpuYXhTSEl4Q2htYmx6SmpOMmxmcnFMWlVwRDZwLVhHVGg4Vl9MWEE2ZXhxWEwwNWNGaVl0NTNRS3RPbTVmUVE1X1p0eFBqUzdWcTE0Wi1xV0ZaZ2lJ?oc=5",
-      "pub_date": 1788080454.0,
+      "pub_date": 1788080455.0,
       "article_url": "https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlF4LTh5bTlpRk04ek5id0Q0SXJnbFdsOU0yQjJxUjVmUXNKSXFOcW05blhMQ1lyUUJaaGl6dE1sSjlDRkJ4a0xGSWg5dnVNUlU1dkFqWE1zY002M2hiRmM4ZlYxdl9UUkdiaFJCZGU5cTM2LU9WeDY0Q2U3QWc0WERVUHE0YjFINndxdG5n?oc=5",
-      "pub_date": 1788087600.0,
-      "article_url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2Ff9%2Ff43ba5e14ffb84ee1eea993d310c%2Fkimmel-ailabel.png",
-      "description": "While social media is rife with AI celebrity deepfakes, videos featuring late night TV hosts like Jimmy Kimmel and Jon Stewart are are easier to create than other kinds of deepfakes and potentially more disruptive."
+      "headline": "Massive AI boom puts one of America\u2019s oldest manufacturers on path to double in size, CEO says",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGJOSGFLcGxaRlpyMWZxRkUzUVhpMEZYbWVHS2RCLVI3UHJ6Y2xVbjY2UzdPTnlxNFdFQVpKcnR1YjV3c1hlaTNMYnZsdEduLVUwNDU3SWZIaVY5V09yR0ExNm5BSTB3VlFtRktfWDdKWDhKV0lPbXdleTl1c0p3WXNGRHVsUFEwSWNEYjVUX3NhdWxPcEl5VHRTZkRHWjEtTUt5R2ZVWVZxcTlQT1JJRHhjVdIBuAFBVV95cUxQX2JVVXd6ZDdfaGNhc2Y5SFZOSXVrMzBDUllqMFZjSVNnN0IyN2VIend6MC1TRmlfcG5ORkZFQXZCdGVRMDZpR19PMHpJWXlCU3JDRDBmeXpQb3FRS1VGVEZTclEzNlp2Vmx1OHZoZEozSmhQR051bzhkOHJjLUZCRUpoa1A1aG1GUHJoTk1OOWRrdmVZeEdfa0Rnc25falFFY2dPMG9ibmphckFTVFd4VkFFWm5VVXQ2?oc=5",
+      "pub_date": 1788107632.0,
+      "article_url": "https://www.foxnews.com/politics/massive-ai-boom-puts-one-americas-oldest-manufacturers-path-double-size-ceo-says",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/corning-new-york-fiber-optics.png",
+      "description": "Corning is partnering with NVIDIA to build three optical-manufacturing facilities as AI data centers drive unprecedented demand for glass fiber."
     },
     {
-      "headline": "Our decision on Cursor following its acquisition by SpaceX",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
-      "pub_date": 1787967972.0,
-      "article_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
-      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+      "headline": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS1jQkxZQ3hVdHd6OXZpYUpQSW91X0F4ZmRaVTJBcXZhV0VEV1Jlek94MFYzRXlxR1FOdnU2NmtIeElpSTE1NXp5ZGFWVF9VbDZHWVYyZ1ZlMnFWaXdHZk95eU1MdVdzdG1XWWdQRFFKaEVNdjU3T19OcnVibFNmdThrOUw1ejRNUy1YWjZsWlkweUZlR0k5YzJ6cUVlMVRtUDdGT1hyNzl5VU11ZmJXanJPMXd3ZzZRQTYtcWJ6WlZYUzdkd2c?oc=5",
+      "pub_date": 1788058200.0,
+      "article_url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises",
+      "image": "https://i.guim.co.uk/img/media/ff2b0d98b3e3364939221cb024e96ee981e1ad95/378_0_4947_3958/master/4947.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83207bf12e28477768f02acf030f3f9d",
+      "description": "As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?"
+    },
+    {
+      "headline": "I couldn't land a job, so I started AI training for $15 an hour. Now I make $100 an hour and built a career around AI.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOem5DNHNzR201YU43bFBXOVNub3FKbDRCeUprUDlVRVBqZTNDZ0RxRU9DWVZMY0RodkVHY3E0Y0dXMnU3LUNlNlpGajZINWxiWUVaenBzWFE0LUVqVXVwU1l6azRLdVU5bHhwdEplYmkzQjhqZklManVrY2tLbnA1SkktSWxDbEVOX1l5ZjVrUTBwR1kx?oc=5",
+      "pub_date": 1788077460.0,
+      "article_url": "https://www.businessinsider.com/ai-trainer-started-at-15-hour-100-hour-built-career-2026-8",
+      "image": "https://i.insider.com/6a922f823f7df8787cff50dc?width=677&format=jpeg",
+      "description": "Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career."
+    },
+    {
+      "headline": "\u2018It feels like early COVID\u2019: The messy scramble to regulate AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWN1TjRRbnB3ZGZ3eUlneUVwM2V2ZW12SmNaQW5yNUtJSDhsODFIYzVGdGxGZ3VJcEVTNFhOam1WUXBwV3ppV0lkRUE2SzczZjYzaFJ6VEQ0b1cwdjdzU1VEMERQd1UwN0Z5RlN0NFpfNGJwVER2ZFptdVVXbGhJV3RScXVUWmZf?oc=5",
+      "pub_date": 1788105630.0,
+      "article_url": "https://www.cnn.com/2026/08/30/business/the-scramble-us-government-to-regulate-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285567119.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Government officials, policy experts and the industry all say the race to regulate AI is messy, even as companies wave warning flags about the dangers of the tech."
+    },
+    {
+      "headline": "A Society of Cheats",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fMVNkLXdTWjRPcTcwQ1hkb3gwR1JwV3M4bHpqRkdmUWVEWEMzeUNjbE42VFVQTjZaR0JyZDV5dVlOYUdHOGJJOVY1N25US3czTHlmWXg3SS10SFhoTkRhRWIydkFkWVpNMG9oclpEeDFSU0syMW1MRElR?oc=5",
+      "pub_date": 1788091372.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/",
+      "image": "https://cdn.theatlantic.com/thumbor/tE87Kkxg2cBKn1DvUNA0sb2vdxw=/45x18:1933x1001/1200x625/media/img/mt/2026/08/2026_08_26_Rollert_dishonor_code_final-2/original.png",
+      "description": "Students\u2019 use of AI is teaching them a knack for cutting corners, a disdain for community rules, and an assumption that a spirit of integrity is the reserve of suckers and wimps."
+    },
+    {
+      "headline": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
+      "pub_date": 1788030355.0,
+      "article_url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&w=1920&h=1080",
+      "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX\u2019s $60 billion acquisition of the coding startup."
     },
     {
       "headline": "AI critic predicts doomsday within a decade \u2014 or sooner",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "The AI-slop menu is disgusting and, sadly, makes perfect sense",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzFkOEVUOG9Dby01Z2dsUTkzRDVzRnBxaWNteXUxZFc5Znd2V2RGS1Vpel9EZHNQeW80Y0lZNUhrbXJhMnlaeUkybFNRSUZtc3E2b01ueHlLRjhqckJuUm16RzUwSzA3SVFxTEV1eXR4OXRJNmRfMWNzeFVMQ3ZWWFhQM09XQmk2TTVjeXlUdGdBQzNMVktrOUVxMFFJSHRzSHc?oc=5",
-      "pub_date": 1788078660.0,
-      "article_url": "https://www.businessinsider.com/menus-are-getting-ai-sloppified-and-the-images-are-terrifying-2026-8",
-      "image": "https://i.insider.com/6a91e63279f11f0a89f924ff?width=1048&format=jpeg",
-      "description": "Horrifying Reubens and nauseating circle shrimp are hot new menu items."
+      "headline": "Data centers are great and we should fully embrace them | Opinion",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUR2T2dOOEhlSUxkU2s5bjktRmpuNU90dERTeHhJMC1HQVltcTNuZFpwT0l4UTVaX1VKWlRWVFR4SEFPRC1PNTlZTnc3djNabHc1MTc2aG5aTU5SdjJoMXRBdlR0MXRzWUE4Q1Z4TVRYYUo5andPRXZTVlNmWWR4MTBUdW9FeWpQejJjNGZJTnBaZjh1TFI3WFA5Sm9wdWhBREtOMlowakRFaUE?oc=5",
+      "pub_date": 1788076860.0,
+      "article_url": "https://www.usatoday.com/story/opinion/columnist/2026/08/30/ai-data-center-epa-pollution-trump/91489797007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/27/USAT/91497879007-20260810-t-100041-z-941353913-rc-2-jmmayv-3-el-rtrmadp-3-usaaidatacenters.JPG?crop=5993,3374,x9,y627&width=3200&height=1802&format=pjpg&auto=webp",
+      "description": "When I learned a data center was being built near my town or city, I stood up on my human chair and cheered."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-30T14:55:36.185678+00:00"
+  "fetched_at": "2026-08-30T18:27:15.637694+00:00"
 }

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-30T14:55:37.844455+00:00'
+updated: '2026-08-30T18:27:19.707276+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 30, 2026 at 14:55 UTC  
+**Last Updated:** August 30, 2026 at 18:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this tutorial we go over how to control your MechSoul with Bluetooth. What is a MechSoul? A MechSoul is to a robot, what a CyberDeck is to a computer. It's a robot that you build, customize, and personalize yourself. It's the freedom of owning your own code, hardware, and having the right to build and repair it. And it's the pride of creativity, skill, and self expression. In this part 2 in Arduino IDE we combine the Raspberry Pi Pico's board manager's SerialBLE library with the Serial_Control example in Takamori Robot's HIRO library to control your robot over Bluetooth. To follow along with our code and reference material check out the tutorial GitHub.
 
-20h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been doing a lot of work over the past few years building perception and em
 
 I wanted to see if I could build a robot that walks like a little grasshopper… using just ONE gear motor. 🦗🤖So I built the body and legs using simple mater...
 
-🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 21h ago
+🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 1d ago
 
 ---
 
@@ -68,7 +68,7 @@ I wanted to see if I could build a robot that walks like a little grasshopper…
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 19h ago
+🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 23h ago
 
 ---
 
@@ -122,11 +122,17 @@ WIRED • 2d ago
 
 ---
 
+**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
+
+WSJ • 1d ago
+
+---
+
 **[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
 
 As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
 
-CNBC • 4h ago
+CNBC • 7h ago
 
 ---
 
@@ -134,33 +140,46 @@ CNBC • 4h ago
 
 Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
 
-The Verge • 2h ago
+The Verge • 6h ago
 
 ---
 
-**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
+**[Pizza restaurants: Why pizza-making robots are not cutting it](https://www.bbc.com/news/articles/czxq0wgkkdjo)**
 
-WSJ • 23h ago
+A string of failures has sapped confidence that robots will take over production at pizza restaurants.
 
----
-
-**[ICE purchasing Boston Dynamics robots to support operations - Boston News, Weather, Sports](https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/)**
-
-BOSTON (WHDH) - Boston Dynamics is responding to reports that the Department of Homeland Security is buying its robots in support of its missions.In a statement, a<a class="excerpt-read-more" href="https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/">Read More</a>
-
-WHDH • 15h ago
+BBC • 2d ago
 
 ---
 
-**[China can build kung fu-fighting robots. But it can’t get them to do factory work](https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/)**
+**[Pothole-patching robots: A Pittsburgh startup debuts its road-repairing rovers](https://www.post-gazette.com/business/tech-news/2026/08/30/pittsburgh-potholes-silly-surfacing-robots/stories/202608210055)**
 
-Reuters • 3d ago
+Robots already perform surgery, move airport luggage, roam grocery aisles — and now they can fill potholes.
+Silly Surfacing, a Pittsburgh startup...
+
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
 **[Light-powered soft robots that can keep jumping forever](https://techxplore.com/news/2026-08-powered-soft-robots.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom](https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826)**
+
+High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts
+
+qz.com • 2d ago
+
+---
+
+**[Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)**
+
+Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -172,31 +191,17 @@ IEEE Spectrum • 3h ago
 
 ---
 
-**[Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools](https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Pizza restaurants: Why pizza-making robots are not cutting it](https://www.bbc.co.uk/news/articles/czxq0wgkkdjo)**
-
-A string of failures has sapped confidence that robots will take over production at pizza restaurants.
-
-BBC • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
+**[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
 
-Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
+RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, America's position in the global robotics race and ...
 
-📺 Bloomberg Tech
+📺 Fox Business Clips
 
-👁️ 83K • 👍 645 • 💬 72 • ⏱️ 7:51 • 2d ago
+👁️ 186K • 👍 2K • 💬 1K • ⏱️ 4:19 • 4d ago
 
 ---
 
@@ -206,7 +211,7 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 📺 CrowderBits
 
-👁️ 59K • 👍 3K • 💬 322 • ⏱️ 4:11 • 4d ago
+👁️ 60K • 👍 3K • 💬 323 • ⏱️ 4:11 • 4d ago
 
 ---
 
@@ -216,7 +221,17 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 594K • 👍 3K • 💬 893 • ⏱️ 4:02 • 5d ago
+👁️ 606K • 👍 3K • 💬 904 • ⏱️ 4:02 • 5d ago
+
+---
+
+**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
+
+Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
+
+📺 Bloomberg Tech
+
+👁️ 86K • 👍 657 • 💬 72 • ⏱️ 7:51 • 2d ago
 
 ---
 
@@ -226,17 +241,7 @@ Humanoid robots competed in kickboxing, sprinting and tai chi at the World Human
 
 📺 New York Post
 
-👁️ 32K • 👍 152 • 💬 124 • ⏱️ 3:08 • 6d ago
-
----
-
-**[Robots Set New Records at World Humanoid Robot Games](https://www.youtube.com/watch?v=0lsrUAdcPPE)**
-
-Bloomberg's Yvonne Man and David Ingles share their takes on how robots performed against humans at the 2026 World ...
-
-📺 Bloomberg Television
-
-👁️ 75K • 👍 319 • 💬 116 • ⏱️ 4:55 • 6d ago
+👁️ 32K • 👍 154 • 💬 124 • ⏱️ 3:08 • 6d ago
 
 ---
 
@@ -246,7 +251,17 @@ There are more than two million robots working in China's factories - which is m
 
 📺 BBC News
 
-👁️ 268K • 👍 2K • 💬 783 • ⏱️ 6:19 • 5d ago
+👁️ 271K • 👍 2K • 💬 786 • ⏱️ 6:19 • 5d ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 279K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -256,7 +271,7 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 122K • 👍 645 • 💬 34 • ⏱️ 0:17 • 2d ago
+👁️ 128K • 👍 683 • 💬 38 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -270,23 +285,13 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 ---
 
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 248K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
-
----
-
 **[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
 
 📺 South China Morning Post
 
-👁️ 622K • 👍 2K • 💬 386 • ⏱️ 2:14 • 5d ago
+👁️ 646K • 👍 2K • 💬 389 • ⏱️ 2:14 • 5d ago
 
 ---
 
