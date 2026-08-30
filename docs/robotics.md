@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-30T18:27:19.707276+00:00'
+updated: '2026-08-30T21:25:09.276896+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 30, 2026 at 18:27 UTC  
+**Last Updated:** August 30, 2026 at 21:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ I wanted to see if I could build a robot that walks like a little grasshopper…
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 23h ago
+🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 1d ago
 
 ---
 
@@ -106,7 +106,7 @@ A while ago, I built a 5-digit number recognition system on the ESP32-S3 using a
 
 I have been slowly building my InMoov based humanoid robot for the past two years. I have made lots of tweaks, and the software is fully custom. This is an old video from the first time I tested the fingers. If you see an inappropriate accidental gesture, you don’t. The fingers still don’t have force sensors, here, so you can see wires sticking out of them. I’ll share random videos from different stages of the build, with no particular timeline, together with what I am working on now.
 
-1d ago
+2d ago
 
 ---
 
@@ -122,6 +122,14 @@ WIRED • 2d ago
 
 ---
 
+**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+
+Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+
+The Verge • 9h ago
+
+---
+
 **[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
 
 WSJ • 1d ago
@@ -132,38 +140,29 @@ WSJ • 1d ago
 
 As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
 
-CNBC • 7h ago
+CNBC • 10h ago
 
 ---
 
-**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+**[Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics](https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/)**
 
-Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+A South Bay barber has decided to lean in after more than three decades of mastering his craft. Now, artificial intelligence is keeping a watchful eye on every snip. Here's why he's not worried.
 
-The Verge • 6h ago
-
----
-
-**[Pizza restaurants: Why pizza-making robots are not cutting it](https://www.bbc.com/news/articles/czxq0wgkkdjo)**
-
-A string of failures has sapped confidence that robots will take over production at pizza restaurants.
-
-BBC • 2d ago
-
----
-
-**[Pothole-patching robots: A Pittsburgh startup debuts its road-repairing rovers](https://www.post-gazette.com/business/tech-news/2026/08/30/pittsburgh-potholes-silly-surfacing-robots/stories/202608210055)**
-
-Robots already perform surgery, move airport luggage, roam grocery aisles — and now they can fill potholes.
-Silly Surfacing, a Pittsburgh startup...
-
-Pittsburgh Post-Gazette • 1h ago
+ABC7 Bay Area • 1d ago
 
 ---
 
 **[Light-powered soft robots that can keep jumping forever](https://techxplore.com/news/2026-08-powered-soft-robots.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Adorable Microduck Robot Roller Skates and Plays Soccer](https://spectrum.ieee.org/video-friday-microduck-robot)**
+
+In this week’s selection of awesome robot videos, you’ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo
+
+IEEE Spectrum • 6h ago
 
 ---
 
@@ -175,19 +174,17 @@ qz.com • 2d ago
 
 ---
 
-**[Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)**
+**[Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools](https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools)**
 
-Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
-
-TechCrunch • 1d ago
+Bloomberg.com • 3d ago
 
 ---
 
-**[Adorable Microduck Robot Roller Skates and Plays Soccer](https://spectrum.ieee.org/video-friday-microduck-robot)**
+**[Meet The 7-Year-Old Who Just Completed A Robotics Program At MIT](https://www.yahoo.com/lifestyle/articles/meet-7-old-just-completed-135037459.html)**
 
-In this week’s selection of awesome robot videos, you’ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo
+The future is limitless for seven-year-old Jules Zion.
 
-IEEE Spectrum • 3h ago
+Yahoo • 3d ago
 
 ---
 
@@ -201,7 +198,7 @@ RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, Americ
 
 📺 Fox Business Clips
 
-👁️ 186K • 👍 2K • 💬 1K • ⏱️ 4:19 • 4d ago
+👁️ 187K • 👍 2K • 💬 1K • ⏱️ 4:19 • 5d ago
 
 ---
 
@@ -215,23 +212,23 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 ---
 
-**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
-
-Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
-
-📺 news.com.au
-
-👁️ 606K • 👍 3K • 💬 904 • ⏱️ 4:02 • 5d ago
-
----
-
 **[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
 
 Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
 
 📺 Bloomberg Tech
 
-👁️ 86K • 👍 657 • 💬 72 • ⏱️ 7:51 • 2d ago
+👁️ 88K • 👍 669 • 💬 76 • ⏱️ 7:51 • 3d ago
+
+---
+
+**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
+
+Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
+
+📺 news.com.au
+
+👁️ 615K • 👍 3K • 💬 908 • ⏱️ 4:02 • 5d ago
 
 ---
 
@@ -241,17 +238,7 @@ Humanoid robots competed in kickboxing, sprinting and tai chi at the World Human
 
 📺 New York Post
 
-👁️ 32K • 👍 154 • 💬 124 • ⏱️ 3:08 • 6d ago
-
----
-
-**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
-
-There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
-
-📺 BBC News
-
-👁️ 271K • 👍 2K • 💬 786 • ⏱️ 6:19 • 5d ago
+👁️ 32K • 👍 155 • 💬 125 • ⏱️ 3:08 • 6d ago
 
 ---
 
@@ -261,17 +248,17 @@ From total fails and viral street moments to pure attitude, these humanoid robot
 
 📺 fastwit
 
-👁️ 279K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
+👁️ 287K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
 
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
 
-📺 China.org.cn
+📺 BBC News
 
-👁️ 128K • 👍 683 • 💬 38 • ⏱️ 0:17 • 2d ago
+👁️ 273K • 👍 2K • 💬 790 • ⏱️ 6:19 • 5d ago
 
 ---
 
@@ -281,7 +268,17 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 📺 CNA
 
-👁️ 3.5M • 👍 19K • 💬 4K • ⏱️ 4:29 • 5d ago
+👁️ 3.6M • 👍 19K • 💬 4K • ⏱️ 4:29 • 5d ago
+
+---
+
+**[Google’s New Robot Will Steal Your Job](https://www.youtube.com/watch?v=RjNkFd4w88M)**
+
+Google just made an AI robot that's more expensive and stupider than a human employee and… companies are gonna love it.
+
+📺 SAMTIME
+
+👁️ 168K • 👍 8K • 💬 702 • ⏱️ 3:16 • 4d ago
 
 ---
 
@@ -291,7 +288,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 646K • 👍 2K • 💬 389 • ⏱️ 2:14 • 5d ago
+👁️ 657K • 👍 2K • 💬 389 • ⏱️ 2:14 • 5d ago
 
 ---
 

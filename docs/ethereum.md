@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-30T18:27:19.704056+00:00'
+updated: '2026-08-30T21:25:09.273712+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 18:27 UTC  
+**Last Updated:** August 30, 2026 at 21:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +0.8%  
-**30d:** +35.7%  
-**90d:** +34.5%  
-**1y:** -43.0%  
+**24h:** +0.9%  
+**7d:** -0.3%  
+**30d:** +34.1%  
+**90d:** +33.0%  
+**1y:** -43.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $301.96B
+**Market Cap:** $298.86B
 Rank #2
 
 **Circulating Supply:** 120,681,161 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.4%
+-49.9%
 
 **All-Time Low:** $0.43
-+577777.9%
++571759.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+16h ago
 
 ---
 
@@ -158,11 +158,19 @@ Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare pri
 
 ---
 
-**[Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-continues-buy-125400722.html)**
+**[XRP’s 700% Rally Forecaster Says Ethereum Is Now Crypto’s Cleanest Chart](https://coinpaper.com/35011/xrps-700-rally-forecaster-says-ethereum-is-now-cryptos-cleanest-chart)**
 
-Tom Lee's bet on Ethereum keeps getting bigger.
+DonAlt says Ethereum has crypto’s cleanest chart as ETH holds a major breakout, while XRP cools after its sharp August rally.
 
-Yahoo Finance • 1d ago
+Coinpaper • 9h ago
+
+---
+
+**[Russia’s Largest Bank Wants Bitcoin and Ethereum as Collateral](https://finance.yahoo.com/markets/crypto/articles/russia-largest-bank-wants-bitcoin-185935086.html)**
+
+Sberbank plans bitcoin, ether and USDT loan collateral as Russia's crypto law starts, but domestic payments stay banned.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,7 +178,7 @@ Yahoo Finance • 1d ago
 
 The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
 
-TradingView • 14h ago
+TradingView • 17h ago
 
 ---
 
@@ -182,17 +190,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Weekend Round-Up: Ethereum's Potential, Bitcoin's Future and Japan's Blockchain Ambitions](https://www.benzinga.com/crypto/cryptocurrency/26/08/61512179/weekend-round-up-ethereums-potential-bitcoins-future-and-japans-blockchain-ambitions)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?](https://www.fool.com/investing/2026/08/29/tom-lees-bitmine-continues-to-buy-ethereum-hand-ov/)**
 
-Ethereum’s potential, Bitcoin’s price outlook, Japan’s blockchain push and AI’s crypto impact topped the week’s headlines.
+Tom Lee's bet on Ethereum keeps getting bigger.
 
-Benzinga • 5h ago
-
----
-
-**[ETHB Emerges as a Favorite Among Ethereum ETFs](https://www.etf.com/sections/features/ethb-emerges-favorite-among-ethereum-etfs)**
-
-ETF.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -200,7 +202,7 @@ ETF.com • 1d ago
 
 Unipcs up $2.48M on ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 after 67,304 SOL spend for 10.96M tokens now worth $2.55M.
 
-blockchain.news • 16h ago
+blockchain.news • 19h ago
 
 ---
 
@@ -212,19 +214,17 @@ Stocktwits • 1d ago
 
 ---
 
-**[GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)**
-
-GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization
-
-The Hacker News • 3d ago
-
----
-
 **[RLUSD supply on Ethereum surpasses XRPL, grows 93% in 30 days](https://cryptobriefing.com/rlusd-ethereum-supply-surpasses-xrpl/)**
 
 RLUSD supply on Ethereum grew 93% in 30 days, reaching $1.33B and surpassing XRPL's $1.04B as institutional DeFi demand reshapes Ripple's
 
-Crypto Briefing • 22m ago
+Crypto Briefing • 3h ago
+
+---
+
+**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
+
+CoinDesk • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 124 • 💬 7 • ⏱️ 7:32 • 5h ago
+👁️ 5K • 👍 143 • 💬 6 • ⏱️ 7:32 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 87 • 💬 56 • ⏱️ 15:57 • 2h ago
+👁️ 5K • 👍 139 • 💬 18 • ⏱️ 15:57 • 5h ago
 
 ---
 
@@ -258,27 +258,7 @@ BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 16K • 👍 355 • 💬 148 • ⏱️ 15:01 • 16h ago
-
----
-
-**[THIS IS MY ETHEREUM TARGET !!!!](https://www.youtube.com/watch?v=L1NE_oyMzhA)**
-
-Ethereum already broke through $2360, and the next major level I'm watching is $2800.
-
-📺 The Moon Show
-
-👁️ 5K • 👍 111 • 💬 1 • ⏱️ 1:15 • 18h ago
-
----
-
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 23K • 👍 378 • 💬 61 • ⏱️ 15:34 • 2d ago
+👁️ 17K • 👍 377 • 💬 284 • ⏱️ 15:01 • 19h ago
 
 ---
 
@@ -288,7 +268,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 13K • 👍 215 • 💬 156 • ⏱️ 15:06 • 1d ago
+👁️ 14K • 👍 223 • 💬 164 • ⏱️ 15:06 • 1d ago
+
+---
+
+**[THIS IS MY ETHEREUM TARGET !!!!](https://www.youtube.com/watch?v=L1NE_oyMzhA)**
+
+Ethereum already broke through $2360, and the next major level I'm watching is $2800.
+
+📺 The Moon Show
+
+👁️ 6K • 👍 118 • 💬 1 • ⏱️ 1:15 • 21h ago
 
 ---
 
@@ -298,27 +288,37 @@ Alessandro goes deep on the one chart every altcoin holder needs to understand r
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 289 • 💬 11 • ⏱️ 16:35 • 1d ago
+👁️ 17K • 👍 296 • 💬 11 • ⏱️ 16:35 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=25T25fwYXG4)**
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Profit First
+📺 Crypto Nutshell
 
-👁️ 726 • 👍 57 • ⏱️ 6:51 • 5h ago
+👁️ 24K • 👍 385 • 💬 61 • ⏱️ 15:34 • 2d ago
 
 ---
 
-**[Tom Lee: The Next 5 Years of Crypto Will Be About Ethereum](https://www.youtube.com/watch?v=fAHBWqUmjcg)**
+**[&quot;$150K BTC &amp; $6K ETH! What’s Coming Will Be Much Bigger Than You Think&quot; - Tom Lee](https://www.youtube.com/watch?v=uHrKUmjRnGU)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Milk Road
+📺 Savvy Finance
 
-👁️ 119K • 👍 2K • 💬 407 • ⏱️ 38:19 • 2d ago
+👁️ 7K • 👍 126 • 💬 1 • ⏱️ 17:22 • 2d ago
+
+---
+
+**[🚨 BTC &amp; ETH: $2,000,000 SHORT!!!!! WATCH OUT NOW!!!!](https://www.youtube.com/watch?v=txF09Mu3zAk)**
+
+The crypto market is not doing that well despite recent bitcoin volatility. Here is my take on whats going on & a new trade setup!
+
+📺 Thomas Kralow
+
+👁️ 36K • 👍 1K • 💬 67 • ⏱️ 8:23 • 2d ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 24 • 💬 10 • ⏱️ 5:39 • 8h ago
+👁️ 1K • 👍 25 • 💬 25 • ⏱️ 5:39 • 11h ago
 
 ---
 
