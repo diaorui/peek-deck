@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-31T11:03:20.022037+00:00'
+updated: '2026-08-31T18:05:02.935685+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 31, 2026 at 11:03 UTC  
+**Last Updated:** August 31, 2026 at 18:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ In this tutorial we go over how to control your MechSoul with Bluetooth. What is
 
 Guys, can I get recommendations on motor drivers. It's for a new build I'm working on and I'm looking for something that can handle sustained high-torque loads without running into thermal limits. Small form-factor StepStick modules (like TMC2209s or TMC2208s) work great for low-load positioning, but at 2A+ RMS under continuous holding torque, thermal dissipation becomes a major bottleneck. I did check out some options online, mostly on alibaba actually but I'm not sure yet how to proceed. I’m weighing a few paths and would love to hear what has worked best in your builds.
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been doing a lot of work over the past few years building perception and em
 
 I wanted to see if I could build a robot that walks like a little grasshopper… using just ONE gear motor. 🦗🤖So I built the body and legs using simple mater...
 
-🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 1d ago
+🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 2d ago
 
 ---
 
@@ -76,13 +76,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
-2d ago
+3d ago
 
 ---
 
 **[What is this INA219 actually reporting?](https://www.reddit.com/r/robotics/comments/1w1k72c/what_is_this_ina219_actually_reporting/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -114,11 +114,31 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 ## Google News: "robotics"
 
-**[The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
+**[The US is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
 
 The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
 
-TechCrunch • 8h ago
+TechCrunch • 15h ago
+
+---
+
+**[The rise of physical AI: can robots save US manufacturing?](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)**
+
+Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
+
+Financial Times • 14h ago
+
+---
+
+**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
+
+OregonLive.com • 6h ago
+
+---
+
+**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
+
+WSJ • 2d ago
 
 ---
 
@@ -130,61 +150,39 @@ WIRED • 3d ago
 
 ---
 
-**[The rise of physical AI: can robots save US manufacturing?](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)**
+**[Scientists build tiny robots without motors that can fly using sound waves alone](https://www.livescience.com/technology/robotics/scientists-build-tiny-robots-without-motors-that-can-fly-using-sound-waves-alone)**
 
-Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
+A century-old trick for tuning musical instruments has been repurposed to power robots that fly, float and steer themselves using nothing but sound waves.
 
-Financial Times • 7h ago
-
----
-
-**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
-
-Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
-
-The Verge • 23h ago
+Live Science • 7h ago
 
 ---
 
-**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+**[A soft 3D-printed robotic hand that gently grips everything from eggs to a 1 kg water bottle](https://techxplore.com/news/2026-08-soft-3d-robotic-gently-eggs.html)**
 
-As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
-
-CNBC • 1d ago
+Tech Xplore • 5h ago
 
 ---
 
-**[A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers](https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8)**
+**[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
 
-The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers.
-
-Business Insider • 2d ago
+AP News • 13h ago
 
 ---
 
-**[FibTac : a fiber-based pneumatic gripper with embodied tactile sensing](https://www.nature.com/articles/s44182-026-00112-0)**
+**[Robotics company doubles space in HQ move](https://www.yahoo.com/news/articles/robotics-company-doubles-space-hq-152255995.html)**
 
-Nature • 38m ago
+Lucid Bots has signed a lease to relocate its headquarters to a north Charlotte facility that’s double the size of its current location.
 
----
-
-**[China’s record robotic strides show the limits of human speed](https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/)**
-
-Reuters • 3d ago
+yahoo.com • 2h ago
 
 ---
 
-**[They run, box and crash: inside the jaw-dropping world robot games](https://www.futura-sciences.com/en/they-run-box-and-crash-inside-the-jaw-dropping-world-robot-games_38324/)**
+**[Arlington schools' new student center features high-tech robotics hub](https://www.fox5dc.com/video/fmc-teqdqsi6aeo66r4b)**
 
-High Speed, World Records, and a Sprinkle of Calamity Imagine this: a Chinese humanoid robot sprints 100 meters in just 9.39 seconds, smashing Usain Bolt’s legendary record of 9.58 seconds. But before you call for a new Olympics, know that this metallic sprinter had a dramatic finish—crashing straight into safety...
+Get a first look inside the brand-new Grace Hopper Center as Arlington Public Schools kicks off the school year.
 
-Futura, le média qui explore le monde • 11h ago
-
----
-
-**[Faraday Future expands robotics push in Middle East, set to launch new products](https://www.investing.com/news/stock-market-news/faraday-future-expands-robotics-push-in-middle-east-set-to-launch-new-products-4882072)**
-
-Investing.com • 13h ago
+FOX 5 DC • 6h ago
 
 ---
 
@@ -192,23 +190,13 @@ Investing.com • 13h ago
 
 ## YouTube Videos: "robotics"
 
-**[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
+**[China&#39;s New AI Synthetic Human Robots Shocked The World](https://www.youtube.com/watch?v=QmODsWsyps8)**
 
-RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, America's position in the global robotics race and ...
+China is selling a robot built to look like someone who died. UBTech's UWORLD U1 launched in Shenzhen with silicone skin, ...
 
-📺 Fox Business Clips
+📺 MACHINEKIND
 
-👁️ 188K • 👍 2K • 💬 1K • ⏱️ 4:19 • 5d ago
-
----
-
-**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
-
-Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
-
-📺 news.com.au
-
-👁️ 640K • 👍 3K • 💬 933 • ⏱️ 4:02 • 6d ago
+👁️ 5K • 👍 51 • 💬 6 • ⏱️ 13:05 • 21h ago
 
 ---
 
@@ -218,27 +206,17 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 📺 CrowderBits
 
-👁️ 60K • 👍 3K • 💬 324 • ⏱️ 4:11 • 5d ago
+👁️ 61K • 👍 3K • 💬 324 • ⏱️ 4:11 • 5d ago
 
 ---
 
-**[Humanoid Robots Spar, Sprint and Perform Tai Chi at China’s Robot Olympics](https://www.youtube.com/watch?v=-SuVw7ViUJg)**
+**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
 
-Humanoid robots competed in kickboxing, sprinting and tai chi at the World Humanoid Robot Games in Beijing, where machines ...
+Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
 
-📺 New York Post
+📺 news.com.au
 
-👁️ 34K • 👍 161 • 💬 125 • ⏱️ 3:08 • 6d ago
-
----
-
-**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
-
-There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
-
-📺 BBC News
-
-👁️ 286K • 👍 2K • 💬 800 • ⏱️ 6:19 • 6d ago
+👁️ 655K • 👍 3K • 💬 951 • ⏱️ 4:02 • 6d ago
 
 ---
 
@@ -248,7 +226,27 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 94K • 👍 704 • 💬 77 • ⏱️ 7:51 • 3d ago
+👁️ 97K • 👍 723 • 💬 77 • ⏱️ 7:51 • 3d ago
+
+---
+
+**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
+
+There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
+
+📺 BBC News
+
+👁️ 293K • 👍 2K • 💬 809 • ⏱️ 6:19 • 6d ago
+
+---
+
+**[Robots break Usain Bolt&#39;s record at World Humanoid Games | The Morning Show](https://www.youtube.com/watch?v=aP41sTTwA-U)**
+
+The second World Humanoid Games is taking place in Beijing, featuring more than 2000 robots from 16 countries competing ...
+
+📺 Sunrise
+
+👁️ 7K • 👍 66 • ⏱️ 5:49 • 6d ago
 
 ---
 
@@ -258,7 +256,7 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 📺 CNA
 
-👁️ 3.7M • 👍 20K • 💬 4K • ⏱️ 4:29 • 6d ago
+👁️ 3.8M • 👍 20K • 💬 4K • ⏱️ 4:29 • 6d ago
 
 ---
 
@@ -268,27 +266,27 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 683K • 👍 2K • 💬 392 • ⏱️ 2:14 • 6d ago
+👁️ 701K • 👍 2K • 💬 392 • ⏱️ 2:14 • 6d ago
 
 ---
 
-**[Sergey Levine: Humanoid Robotics Results, Chinese Labs &amp; Future Timelines](https://www.youtube.com/watch?v=9OSbaPjv0Rc)**
+**[Highlights from China&#39;s World Humanoid Games, and what it means for the future](https://www.youtube.com/watch?v=CFYtlCs4RhA)**
 
-Sergey Levine is one of the world's top robotics researchers and co-founder of Physical Intelligence. We talked about where ...
+China's World Humanoid Robot Games is a technological showcase, but also a possible glimpse into the future of robotics.
 
-📺 Ryan Peterman
+📺 CBS Mornings
 
-👁️ 29K • 👍 413 • 💬 37 • ⏱️ 57:39 • 6d ago
+👁️ 61K • 👍 400 • 💬 165 • ⏱️ 3:54 • 6d ago
 
 ---
 
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
 
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
 
-📺 fastwit
+📺 China.org.cn
 
-👁️ 336K • 👍 4K • 💬 7 • ⏱️ 1:01 • 1d ago
+👁️ 149K • 👍 800 • 💬 45 • ⏱️ 0:17 • 3d ago
 
 ---
 

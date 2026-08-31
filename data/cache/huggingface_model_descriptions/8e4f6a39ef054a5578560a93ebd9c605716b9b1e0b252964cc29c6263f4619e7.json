@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-31T18:05:02.040042+00:00",
+  "data": "DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates visual understanding with text-based agent capabilities, enhancing performance on tasks like ApexBench and Agents' Last Exam while maintaining strong text-only agent performance.",
+  "model_id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
+}
