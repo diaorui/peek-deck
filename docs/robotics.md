@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-30T23:42:56.649004+00:00'
+updated: '2026-08-31T04:07:09.750127+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 30, 2026 at 23:42 UTC  
+**Last Updated:** August 31, 2026 at 04:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Guys, can I get recommendations on motor drivers. It's for a new build I'm worki
 
 I've been doing a lot of work over the past few years building perception and embodiment frameworks for robots. The latest version is very curious. I hadn't gotten the speaker working yet so it wasn't very chatty (although it was trying to from what the logs said) Anyways, this is Meco, say hi Meco!
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +90,7 @@ From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
 Me and my 2 cs roomates at GT want to build a cool, practical robot for our apartment. We came together and thought of a project where we turn our trash can into a mobile unit, able to navigate our apartment / hallway as a first step without bumping into obstacles, maybe having my friend create some app to where we can "summon" the trash can when needed and hard code its default positon. The ultimate goal would to be having it leave our apartment and enter the trash room across the hall and dump its contents out to then return to out room. I am unsure if this is feasible as there are so many challenges: how will it open a door, how will it raise itself to empty, how will it even be able to generate the force to lift itself / open a door without tipping. Any tips / similar projects to mirror would be greatly helpful.
 
-1d ago
+2d ago
 
 ---
 
@@ -126,7 +126,7 @@ WIRED • 2d ago
 
 As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
 
-CNBC • 13h ago
+CNBC • 17h ago
 
 ---
 
@@ -134,13 +134,7 @@ CNBC • 13h ago
 
 Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
 
-The Verge • 11h ago
-
----
-
-**[China’s record robotic strides show the limits of human speed](https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/)**
-
-Reuters • 2d ago
+The Verge • 16h ago
 
 ---
 
@@ -150,39 +144,47 @@ WSJ • 1d ago
 
 ---
 
+**[The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
+
+The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+
+TechCrunch • 1h ago
+
+---
+
+**[The rise of physical AI: can robots save US manufacturing?](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)**
+
+Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
+
+Financial Times • 6m ago
+
+---
+
+**[Faraday Future expands robotics push in Middle East, set to launch new products](https://www.investing.com/news/stock-market-news/faraday-future-expands-robotics-push-in-middle-east-set-to-launch-new-products-4882072)**
+
+Investing.com • 6h ago
+
+---
+
+**[Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics](https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/)**
+
+A South Bay barber has decided to lean in after more than three decades of mastering his craft. Now, artificial intelligence is keeping a watchful eye on every snip. Here's why he's not worried.
+
+ABC7 Bay Area • 1d ago
+
+---
+
+**[ICE purchasing Boston Dynamics robots to support operations - Boston News, Weather, Sports](https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/)**
+
+BOSTON (WHDH) - Boston Dynamics is responding to reports that the Department of Homeland Security is buying its robots in support of its missions.In a statement, a<a class="excerpt-read-more" href="https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/">Read More</a>
+
+WHDH • 1d ago
+
+---
+
 **[Light-powered soft robots that can keep jumping forever](https://techxplore.com/news/2026-08-powered-soft-robots.html)**
 
 Tech Xplore • 2d ago
-
----
-
-**[Adorable Microduck Robot Roller Skates and Plays Soccer](https://spectrum.ieee.org/video-friday-microduck-robot)**
-
-In this week’s selection of awesome robot videos, you’ll also see a fish-bot, grippers, locomotion, autodocking, and out-jumping a kangaroo
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools](https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools)**
-
-Bloomberg.com • 3d ago
-
----
-
-**[UTech, Jamaica STEM Summer Camp equips youth with AI, Robotics and Sustainability Skills](https://www.jamaicaobserver.com/2026/08/30/utech-jamaica-stem-summer-camp-equips-youth-ai-robotics-sustainability-skills/)**
-
-KINGSTON, Jamaica — Approximately 100 students from primary and secondary schools across Kingston and St Andrew gained hands-on experience in artificial intelligence (AI), robotics, engineering and other emerging technologies during the third staging of the University of Technology’s (UTech) STEM Summer Camp. Hosted by UTech’s Department of Community Service &amp;amp; Development, the two-week camp was held at the University’s Western Campus from July 13–24 and at the Papine Campus from...
-
-Jamaica Observer • 5h ago
-
----
-
-**[DeepSeek's founder's hedge fund is snapping up pre-IPO stakes in China's chip and robotics boom](https://qz.com/deepseek-high-flyer-quant-pre-ipo-chips-robotics-082826)**
-
-High-Flyer Quant secured allocations in CXMT and Unitree Robotics before their blockbuster Shanghai debuts
-
-qz.com • 2d ago
 
 ---
 
@@ -190,23 +192,23 @@ qz.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
+
+Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
+
+📺 CNET
+
+👁️ 27K • 👍 218 • 💬 17 • ⏱️ 1:49 • 16h ago
+
+---
+
 **[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
 
 RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, America's position in the global robotics race and ...
 
 📺 Fox Business Clips
 
-👁️ 187K • 👍 2K • 💬 1K • ⏱️ 4:19 • 5d ago
-
----
-
-**[Humanoid Robots Spar, Sprint and Perform Tai Chi at China’s Robot Olympics](https://www.youtube.com/watch?v=-SuVw7ViUJg)**
-
-Humanoid robots competed in kickboxing, sprinting and tai chi at the World Humanoid Robot Games in Beijing, where machines ...
-
-📺 New York Post
-
-👁️ 33K • 👍 155 • 💬 125 • ⏱️ 3:08 • 6d ago
+👁️ 188K • 👍 2K • 💬 1K • ⏱️ 4:19 • 5d ago
 
 ---
 
@@ -220,53 +222,33 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 ---
 
-**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
-
-Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
-
-📺 Bloomberg Tech
-
-👁️ 89K • 👍 674 • 💬 77 • ⏱️ 7:51 • 3d ago
-
----
-
 **[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
 
 Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
 
 📺 news.com.au
 
-👁️ 622K • 👍 3K • 💬 914 • ⏱️ 4:02 • 5d ago
+👁️ 630K • 👍 3K • 💬 925 • ⏱️ 4:02 • 5d ago
 
 ---
 
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+**[Humanoid Robots Spar, Sprint and Perform Tai Chi at China’s Robot Olympics](https://www.youtube.com/watch?v=-SuVw7ViUJg)**
 
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+Humanoid robots competed in kickboxing, sprinting and tai chi at the World Humanoid Robot Games in Beijing, where machines ...
 
-📺 fastwit
+📺 New York Post
 
-👁️ 291K • 👍 3K • 💬 6 • ⏱️ 1:01 • 1d ago
-
----
-
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
-
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 3.6M • 👍 19K • 💬 4K • ⏱️ 4:29 • 5d ago
+👁️ 33K • 👍 158 • 💬 126 • ⏱️ 3:08 • 6d ago
 
 ---
 
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
 
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
 
-📺 China.org.cn
+📺 Bloomberg Tech
 
-👁️ 136K • 👍 719 • 💬 40 • ⏱️ 0:17 • 2d ago
+👁️ 91K • 👍 681 • 💬 77 • ⏱️ 7:51 • 3d ago
 
 ---
 
@@ -276,17 +258,37 @@ There are more than two million robots working in China's factories - which is m
 
 📺 BBC News
 
-👁️ 276K • 👍 2K • 💬 791 • ⏱️ 6:19 • 5d ago
+👁️ 280K • 👍 2K • 💬 794 • ⏱️ 6:19 • 5d ago
 
 ---
 
-**[Google’s New Robot Will Steal Your Job](https://www.youtube.com/watch?v=RjNkFd4w88M)**
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
-Google just made an AI robot that's more expensive and stupider than a human employee and… companies are gonna love it.
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
-📺 SAMTIME
+📺 fastwit
 
-👁️ 169K • 👍 8K • 💬 704 • ⏱️ 3:16 • 4d ago
+👁️ 308K • 👍 4K • 💬 6 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
+
+The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
+
+📺 CNA
+
+👁️ 3.7M • 👍 20K • 💬 4K • ⏱️ 4:29 • 5d ago
+
+---
+
+**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
+
+📺 South China Morning Post
+
+👁️ 667K • 👍 2K • 💬 390 • ⏱️ 2:14 • 5d ago
 
 ---
 
