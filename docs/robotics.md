@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-31T04:07:09.750127+00:00'
+updated: '2026-08-31T11:03:20.022037+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 31, 2026 at 04:07 UTC  
+**Last Updated:** August 31, 2026 at 11:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ Me and my 2 cs roomates at GT want to build a cool, practical robot for our apar
 
 A while ago, I built a 5-digit number recognition system on the ESP32-S3 using a lightweight AI model. The project was mainly a proof of concept for running image recognition directly on an embedded device. This time, I wanted to take that idea into a more practical, real-world application: reading a water meter. For this update, I still used the Makerfabs ESP32-P4 board with an autofocus camera. We also collected new images from a real water meter, focusing on the pointer and digit-reading area, and trained a dedicated recognition model based on this new dataset. The goal was not simply to recognize a fixed set of five numbers, but to make the model capable of identifying the actual reading shown on a water meter. After training and deploying the model, we tested it with real water meter images, and it correctly recognized the meter reading. This project is essentially the next step from our previous 5-digit recognition experiment—moving from a simple number-recognition demo to a more practical edge AI vision application. Would be interested to hear what other real-world applications you think could be built on top of this kind of embedded AI vision system.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,41 +114,19 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 ## Google News: "robotics"
 
-**[Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
-
-The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.
-
-WIRED • 2d ago
-
----
-
-**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
-
-As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
-
-CNBC • 17h ago
-
----
-
-**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
-
-Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
-
-The Verge • 16h ago
-
----
-
-**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
-
-WSJ • 1d ago
-
----
-
 **[The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
 
 The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
 
-TechCrunch • 1h ago
+TechCrunch • 8h ago
+
+---
+
+**[Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
+
+The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.
+
+WIRED • 3d ago
 
 ---
 
@@ -156,51 +134,63 @@ TechCrunch • 1h ago
 
 Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
 
-Financial Times • 6m ago
+Financial Times • 7h ago
+
+---
+
+**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+
+Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+
+The Verge • 23h ago
+
+---
+
+**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+
+As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
+
+CNBC • 1d ago
+
+---
+
+**[A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers](https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8)**
+
+The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers.
+
+Business Insider • 2d ago
+
+---
+
+**[FibTac : a fiber-based pneumatic gripper with embodied tactile sensing](https://www.nature.com/articles/s44182-026-00112-0)**
+
+Nature • 38m ago
+
+---
+
+**[China’s record robotic strides show the limits of human speed](https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/)**
+
+Reuters • 3d ago
+
+---
+
+**[They run, box and crash: inside the jaw-dropping world robot games](https://www.futura-sciences.com/en/they-run-box-and-crash-inside-the-jaw-dropping-world-robot-games_38324/)**
+
+High Speed, World Records, and a Sprinkle of Calamity Imagine this: a Chinese humanoid robot sprints 100 meters in just 9.39 seconds, smashing Usain Bolt’s legendary record of 9.58 seconds. But before you call for a new Olympics, know that this metallic sprinter had a dramatic finish—crashing straight into safety...
+
+Futura, le média qui explore le monde • 11h ago
 
 ---
 
 **[Faraday Future expands robotics push in Middle East, set to launch new products](https://www.investing.com/news/stock-market-news/faraday-future-expands-robotics-push-in-middle-east-set-to-launch-new-products-4882072)**
 
-Investing.com • 6h ago
-
----
-
-**[Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics](https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/)**
-
-A South Bay barber has decided to lean in after more than three decades of mastering his craft. Now, artificial intelligence is keeping a watchful eye on every snip. Here's why he's not worried.
-
-ABC7 Bay Area • 1d ago
-
----
-
-**[ICE purchasing Boston Dynamics robots to support operations - Boston News, Weather, Sports](https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/)**
-
-BOSTON (WHDH) - Boston Dynamics is responding to reports that the Department of Homeland Security is buying its robots in support of its missions.In a statement, a<a class="excerpt-read-more" href="https://whdh.com/news/ice-purchasing-boston-dynamics-robots-to-support-operations/">Read More</a>
-
-WHDH • 1d ago
-
----
-
-**[Light-powered soft robots that can keep jumping forever](https://techxplore.com/news/2026-08-powered-soft-robots.html)**
-
-Tech Xplore • 2d ago
+Investing.com • 13h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
-
-Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
-
-📺 CNET
-
-👁️ 27K • 👍 218 • 💬 17 • ⏱️ 1:49 • 16h ago
-
----
 
 **[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
 
@@ -212,23 +202,23 @@ RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, Americ
 
 ---
 
-**[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
-
-China showcased its robotics at this year's World Humanoid Robot Games in Beijing, and the results are less than impressive.
-
-📺 CrowderBits
-
-👁️ 60K • 👍 3K • 💬 323 • ⏱️ 4:11 • 5d ago
-
----
-
 **[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
 
 Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
 
 📺 news.com.au
 
-👁️ 630K • 👍 3K • 💬 925 • ⏱️ 4:02 • 5d ago
+👁️ 640K • 👍 3K • 💬 933 • ⏱️ 4:02 • 6d ago
+
+---
+
+**[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
+
+China showcased its robotics at this year's World Humanoid Robot Games in Beijing, and the results are less than impressive.
+
+📺 CrowderBits
+
+👁️ 60K • 👍 3K • 💬 324 • ⏱️ 4:11 • 5d ago
 
 ---
 
@@ -238,17 +228,7 @@ Humanoid robots competed in kickboxing, sprinting and tai chi at the World Human
 
 📺 New York Post
 
-👁️ 33K • 👍 158 • 💬 126 • ⏱️ 3:08 • 6d ago
-
----
-
-**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
-
-Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
-
-📺 Bloomberg Tech
-
-👁️ 91K • 👍 681 • 💬 77 • ⏱️ 7:51 • 3d ago
+👁️ 34K • 👍 161 • 💬 125 • ⏱️ 3:08 • 6d ago
 
 ---
 
@@ -258,17 +238,17 @@ There are more than two million robots working in China's factories - which is m
 
 📺 BBC News
 
-👁️ 280K • 👍 2K • 💬 794 • ⏱️ 6:19 • 5d ago
+👁️ 286K • 👍 2K • 💬 800 • ⏱️ 6:19 • 6d ago
 
 ---
 
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
 
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
 
-📺 fastwit
+📺 Bloomberg Tech
 
-👁️ 308K • 👍 4K • 💬 6 • ⏱️ 1:01 • 1d ago
+👁️ 94K • 👍 704 • 💬 77 • ⏱️ 7:51 • 3d ago
 
 ---
 
@@ -278,7 +258,7 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 📺 CNA
 
-👁️ 3.7M • 👍 20K • 💬 4K • ⏱️ 4:29 • 5d ago
+👁️ 3.7M • 👍 20K • 💬 4K • ⏱️ 4:29 • 6d ago
 
 ---
 
@@ -288,7 +268,27 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 667K • 👍 2K • 💬 390 • ⏱️ 2:14 • 5d ago
+👁️ 683K • 👍 2K • 💬 392 • ⏱️ 2:14 • 6d ago
+
+---
+
+**[Sergey Levine: Humanoid Robotics Results, Chinese Labs &amp; Future Timelines](https://www.youtube.com/watch?v=9OSbaPjv0Rc)**
+
+Sergey Levine is one of the world's top robotics researchers and co-founder of Physical Intelligence. We talked about where ...
+
+📺 Ryan Peterman
+
+👁️ 29K • 👍 413 • 💬 37 • ⏱️ 57:39 • 6d ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 336K • 👍 4K • 💬 7 • ⏱️ 1:01 • 1d ago
 
 ---
 

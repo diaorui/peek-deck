@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-31T04:07:09.743913+00:00'
+updated: '2026-08-31T11:03:20.012720+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 31, 2026 at 04:07 UTC  
+**Last Updated:** August 31, 2026 at 11:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,552.23
+### $78,528.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -2.0%  
-**30d:** +23.2%  
-**90d:** +15.9%  
+**24h:** -0.3%  
+**7d:** -1.0%  
+**30d:** +22.5%  
+**90d:** +21.3%  
 **1y:** -28.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1558.65B
+**Market Cap:** $1579.18B
 Rank #1
 
-**Circulating Supply:** 20,077,531 BTC
+**Circulating Supply:** 20,077,625 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-37.6%
 
 **All-Time Low:** $67.81
-+114363.9%
++115919.8%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Get ready for Dune 3...arrives December 18!](https://www.reddit.com/r/Bitcoin/comments/1w2b9id/get_ready_for_dune_3arrives_december_18/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[MEXICAN BILLIONAIRE: Rent your home. Go ALL-IN on Bitcoin. Ricardo Salinas says to convert every dime of cash straight into BTC.](https://www.reddit.com/r/Bitcoin/comments/1w28d5n/mexican_billionaire_rent_your_home_go_allin_on/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[I hope the sold vespa guy is okay](https://www.reddit.com/r/Bitcoin/comments/1w2crwp/i_hope_the_sold_vespa_guy_is_okay/)**
 
-18h ago
+1d ago
 
 ---
 
@@ -127,13 +127,13 @@ Rank #1
 
 **[I hope the sold vespa guy are okay](https://www.reddit.com/r/Bitcoin/comments/1w2crux/i_hope_the_sold_vespa_guy_are_okay/)**
 
-18h ago
+1d ago
 
 ---
 
 **[Guys!!! We are in a bull run...](https://www.reddit.com/r/Bitcoin/comments/1w1f8aw/guys_we_are_in_a_bull_run/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -147,27 +147,65 @@ KFOR • 2d ago
 
 ---
 
-**[‘Get Ready’—Bitcoin Is Suddenly Hurtling Toward A ‘Huge’ Money Printing Price Shock](https://www.forbes.com/sites/digital-assets/2026/08/29/get-ready-bitcoin-is-suddenly-hurtling-toward-a-huge-money-printing-price-shock/)**
+**[Better Buy: XRP (Ripple) vs. Bitcoin](https://finance.yahoo.com/markets/crypto/articles/better-buy-xrp-ripple-vs-114700470.html)**
 
-Bitcoin has added 20% since mid-August, rocketing higher as the so-called debasement trade that see investors bet against the U.S. dollar returns...
+Between Bitcoin and XRP, the simpler bet wins: Bitcoin's case rests on a hard-coded 21 million coin cap, while XRP's depends on Ripple converting business growth into token demand -- and Ripple's own numbers show that isn't happening.
 
-Forbes • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Eric Trump Says American Bitcoin Mines Up to 13 BTC Daily at 49% Margins](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-025800334.html)**
+**[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/)**
 
-American Bitcoin mines 11 to 13 BTC daily at 49% margins, Eric Trump says, matching the miner's own quarterly filings.
+Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?](https://coinpedia.org/news/what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/)**
+
+The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and
+
+Coinpedia • 1d ago
+
+---
+
+**[The Smallest Bitcoin Treasury Stock Saw A Bigger August Than Strategy — While GME Sits Out](https://finance.yahoo.com/markets/crypto/articles/smallest-bitcoin-treasury-stock-saw-105159881.html)**
+
+ASST stock has nearly doubled so far this month, while MSTR shares have gained around 30%.
+
+Yahoo Finance • 11m ago
+
+---
+
+**[CLARITY Act Lags as Bitcoin ETFs Slip](https://finance.yahoo.com/markets/crypto/articles/clarity-act-lags-bitcoin-etfs-092029191.html)**
+
+U.S. spot Bitcoin ETFs turned negative at the end of last week, ending a nine-day inflow streak that had brought in a total of $2.8 billion. Meanwhile, Robert Mitchnick, BlackRock’s head of digital assets, said the CLARITY Act is less critical for Bitcoin than for the rest of the crypto ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[SCHD And QQQ: The New 60-40 Portfolio (Bitcoin And Gold Edition) (NYSEARCA:SCHD)](https://seekingalpha.com/article/4941456-schd-and-qqq-the-new-60-40-portfolio-bitcoin-and-gold-edition)**
+**[Bitcoin Faces a Three-Way Macro Test Near $78,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-three-way-macro-102016615.html)**
 
-US policy shifts are reshaping 60/40 portfolios with SCHD & QQQ-like stocks, while bitcoin and gold rise as “protest assets.” Learn what to do now.
+Bitcoin traded at $78,500 as the Japanese yen breached 160 per dollar in Tokyo trading, while a U.S. strike on Iran’s Larak Island added to market uncertainty. All these follow Friday’s broad dollar advance and hawkish remarks from Warsh at Jackson Hole, which lifted expectations for a Federal Reserve rate ...
 
-Seeking Alpha • 19h ago
+Yahoo Finance • 43m ago
+
+---
+
+**[5 Best Crypto Casinos 2026: Trusted Bitcoin Gambling Sites With Fast Crypto Payouts](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/)**
+
+Best Crypto Casinos Worth A Closer Look In 2026  🎰 Casinos 🎁 Welcome Bonus Player Ratings 1️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 ⭐ 2️⃣ JACK.com 100 No-Wagering Free Spins 4.8/5 ⭐ 3️⃣ Thunderpick 100% up to €2,000 4.7/5 ⭐ 4️⃣ BitStarz 300% up to 5 BTC + 180 Free...
+
+Muddy River Sports • 14h ago
+
+---
+
+**[Strategy’s Michael Saylor hints at first bitcoin purchase in two months (MSTR:NASDAQ)](https://seekingalpha.com/news/4638111-strategys-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months)**
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -175,43 +213,7 @@ Seeking Alpha • 19h ago
 
 A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's "We're Back" post fueled speculation that Strategy may resume buying.
 
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin rises, while Michael Saylor signals Strategy may have resumed purchases](https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months)**
-
-CoinDesk • 12h ago
-
----
-
-**[Michael Saylor Hints At Strategy’s Return To Bitcoin Buying After 10-Week Hiatus](https://www.tradingview.com/news/stocktwits:b5bc6ab79094b:0-michael-saylor-hints-at-strategy-s-return-to-bitcoin-buying-after-10-week-hiatus/)**
-
-Strategy Inc (MSTR) Executive Chairman Michael Saylor dropped a new hint that the firm may be getting ready to restart buying Bitcoin (BTC), tweeting “We’re ₿ack,” after a 10-week hiatus.As of Saylor’s post on Sunday, the firm’s Bitcoin purchase tracker showed total holdings of 840,447 BTC, worth…
-
-TradingView • 11h ago
-
----
-
-**[Smart Investor: Warsh Talks Tough, Bitcoin’s Bounce, Top Managers’ Stock Picks](https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks)**
-
-We wrap up our coverage of the markets and the week.
-
-Morningstar • 1d ago
-
----
-
-**[Bitcoin hovers near $78,000 as global ETFs access shapes next adoption wave](https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-near-78000-as-global-etfs-access-shapes-next-adoption-wave-4882030)**
-
-Investing.com • 19h ago
-
----
-
-**[Can Bitcoin Reach $1 Million by 2030? One Crypto Leader Is Skeptical.](https://www.fool.com/investing/2026/08/30/can-bitcoin-reach-1-million-by-2030-one-crypto-lea/)**
-
-Exuberance begets price targets that tend to be hard to reach.
-
-The Motley Fool • 17h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -277,7 +279,7 @@ Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 1](https://news.ycombinator.com/item?id=49497861)**
 
-⬆️ 2 • 💬 0 • 16h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
+⬆️ 2 • 💬 0 • 23h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
 
 ---
 
@@ -301,33 +303,23 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Stalls at the 50 Week Moving Average](https://www.youtube.com/watch?v=xCF8xZQcVfc)**
+
+Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 123K • 👍 5K • 💬 266 • ⏱️ 13:39 • 11h ago
+
+---
+
 **[$150K BITCOIN IMMINENT?! INSANE SET UP RIGHT NOW!](https://www.youtube.com/watch?v=7flyXX2Y52Y)**
 
 Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
 
 📺 Adam Livingston
 
-👁️ 18K • 👍 1K • 💬 137 • ⏱️ 22:55 • 16h ago
-
----
-
-**[“My $40K Bitcoin Call Was WRONG, But I’m 100% CERTAIN of THIS...”   Arthur Hayes](https://www.youtube.com/watch?v=4RWASUYCLqg)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 13K • 👍 169 • 💬 14 • ⏱️ 15:30 • 10h ago
-
----
-
-**[Bitcoin to $1 Million?!](https://www.youtube.com/watch?v=SjJxrTal_Sk)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 152K • 👍 3K • 💬 178 • ⏱️ 1:03:32 • 1d ago
+👁️ 21K • 👍 1K • 💬 139 • ⏱️ 22:55 • 23h ago
 
 ---
 
@@ -337,7 +329,7 @@ CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.
 
 📺 The Iced Coffee Hour
 
-👁️ 27K • 👍 292 • 💬 77 • ⏱️ 0:24 • 2d ago
+👁️ 27K • 👍 297 • 💬 77 • ⏱️ 0:24 • 2d ago
 
 ---
 
@@ -347,7 +339,37 @@ The Fed is trapped between inflation, rising debt costs and a bond market it can
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 1K • 💬 84 • ⏱️ 12:31 • 2d ago
+👁️ 36K • 👍 1K • 💬 80 • ⏱️ 12:31 • 2d ago
+
+---
+
+**[Bitcoin Slides After Kevin Warsh&#39;s First Jackson Hole Speech](https://www.youtube.com/watch?v=juqfQF2Ja4g)**
+
+Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote today, and crypto traders are watching for whether the ...
+
+📺 CoinDesk
+
+👁️ 11K • 👍 72 • 💬 4 • ⏱️ 1:45 • 2d ago
+
+---
+
+**[Bessent Gets Drucked: Bitcoin, AI, and the New Macro Clock](https://www.youtube.com/watch?v=2FND8g-De8Y)**
+
+Visit ai.22vresearch.com and visser-labs.com for more information Email Mark Whaling mwhaling@22vresearch.com In this ...
+
+📺 Jordi Visser
+
+👁️ 49K • 👍 2K • 💬 225 • ⏱️ 1:03:43 • 22h ago
+
+---
+
+**[“My $40K Bitcoin Call Was WRONG, But I’m 100% CERTAIN of THIS...”   Arthur Hayes](https://www.youtube.com/watch?v=4RWASUYCLqg)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 17K • 👍 195 • 💬 16 • ⏱️ 15:30 • 17h ago
 
 ---
 
@@ -357,47 +379,27 @@ Bitcoin Greed Hits 69 While Prices Stay Low ▶️ Full episode: https://www.you
 
 📺 Token Metrics
 
-👁️ 10 • ⏱️ 1:06 • 1h ago
+👁️ 20 • ⏱️ 1:06 • 8h ago
 
 ---
 
-**[Crypto is Back! Bitcoin Rallies &amp; Altcoins Wake up, SEC Releases Regulation! Zcash ETF | Zach Pandl](https://www.youtube.com/watch?v=8FV2apOQaSM)**
+**[₿ Bitcoin&#39;s Rally Isn&#39;t What You Think 🚨📉](https://www.youtube.com/watch?v=3mPrC1yoAGw)**
 
-Zach Pandl, Head of Research at Grayscale Investments, joined me to discuss Bitcoin's recent price surge, what's driving the rally, ...
+Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
 
-📺 Thinking Crypto
+📺 Stocks with Josh
 
-👁️ 17K • 👍 330 • 💬 236 • ⏱️ 24:50 • 16h ago
-
----
-
-**[How to Survive a Financial Apocalypse | Paolo Ardoino](https://www.youtube.com/watch?v=SZi42_rvlyY)**
-
-bitcoinnews #Crypto #finance Tether is evolving far beyond its roots as a stablecoin issuer, building a broader financial and ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 261 • 💬 125 • ⏱️ 34:32 • 15h ago
+👁️ 11K • 👍 313 • 💬 7 • ⏱️ 1:04 • 1d ago
 
 ---
 
-**[Only 29% Think Bitcoin Reclaims 100k by 2027](https://www.youtube.com/watch?v=R5IO2Gk-jvk)**
+**[Bitcoin to $1 Million?!](https://www.youtube.com/watch?v=SjJxrTal_Sk)**
 
-Kalshi has Bitcoin reclaiming 100k by January 2027 at 29%, so sentiment isn't near bullish yet, which means there's still fuel here ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 The Wolf Of All Streets
+📺 Anthony Pompliano
 
-👁️ 2K • 👍 18 • 💬 12 • ⏱️ 0:52 • 2d ago
-
----
-
-**[Foreign Central Banks Chose Physical Gold Over Bitcoin | Former Fed President Jim Bullard](https://www.youtube.com/watch?v=cRwG9tNtWEw)**
-
-Gold, the Fed and a September rate hike: former Federal Reserve Bank of St. Louis President Jim Bullard on Kevin Warsh's ...
-
-📺 Kitco NEWS
-
-👁️ 57K • 👍 660 • 💬 108 • ⏱️ 34:13 • 2d ago
+👁️ 157K • 👍 3K • 💬 178 • ⏱️ 1:03:32 • 1d ago
 
 ---
 

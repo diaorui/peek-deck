@@ -1,5 +1,0 @@
-{
-  "cached_at": "2026-08-01T09:32:18.257657+00:00",
-  "data": "DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.",
-  "model_id": "unsloth/DeepSeek-V4-Flash-0731-GGUF"
-}
