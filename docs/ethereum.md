@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-30T23:42:56.645850+00:00'
+updated: '2026-08-31T04:07:09.748020+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 23:42 UTC  
+**Last Updated:** August 31, 2026 at 04:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,427.73
+### $2,411.57
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.91B
+**Market Cap:** $291.56B
 Rank #2
 
-**Circulating Supply:** 120,681,161 ETH
+**Circulating Supply:** 120,681,146 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.3%
+-51.2%
 
 **All-Time Low:** $0.43
-+556557.5%
++557673.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+23h ago
 
 ---
 
@@ -158,11 +158,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?](https://www.tradingview.com/news/coinpedia:584e6235e094b:0-what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/)**
+**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://www.tradingview.com/news/coinpedia:ead13c347094b:0-bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
 
-The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
+Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape the Federal Reserve’s next policy move and, by extension, crypto’s near-term direction.Current Market SnapshotThe Data Calendar Traders Are Watchi…
 
-TradingView • 19h ago
+TradingView • 12h ago
 
 ---
 
@@ -174,35 +174,33 @@ Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare pri
 
 ---
 
-**[Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-snap-nine-day-213104398.html)**
+**[Ethereum Slips 3.5% -- Crypto Mover](https://www.moomoo.com/news/post/75535218/ethereum-slips-3-5-crypto-mover)**
 
-Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.
-
-Yahoo Finance • 2h ago
+Moomoo • 1h ago
 
 ---
 
-**[Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum](https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana)**
+**[Bitmine's Tom Lee Sees $6,000 Ethereum By Year-End If Bitcoin Hits $150,000](https://finance.yahoo.com/markets/crypto/articles/bitmines-tom-lee-sees-6-121654503.html)**
 
-Charles Schwab will expand Schwab Crypto beyond Bitcoin and Ethereum, but has not given a launch date for Solana, Avalanche, and Chainlink.
+Tom Lee said Ethereum was still “vastly undervalued”, given its use in the settlement of AI agent transactions that legacy payment rails are unable to support.
 
-Decrypt • 2d ago
-
----
-
-**[Tom Lee's Bitmine Continues to Buy Ethereum Hand Over Fist. Should Crypto Investors Be Doing the Same?](https://www.fool.com/investing/2026/08/29/tom-lees-bitmine-continues-to-buy-ethereum-hand-ov/)**
-
-Tom Lee's bet on Ethereum keeps getting bigger.
-
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Unipcs: 37x Return on Ethereum Token Position](https://blockchain.news/flashnews/unipcs-37x-return-ethereum-token-position)**
+**[Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run](https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend)**
 
-Unipcs up $2.48M on ethereum:0x07f5b6823751c2e2cd4560f28af75ff887102241 after 67,304 SOL spend for 10.96M tokens now worth $2.55M.
+Spot Bitcoin ETFs broke a nine-day winning streak on Friday, shedding money just as their Ethereum counterparts kept pulling in fresh cash.
 
-blockchain.news • 21h ago
+Decrypt • 6h ago
+
+---
+
+**[What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?](https://coinpedia.org/news/what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/)**
+
+The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and
+
+Coinpedia • 1d ago
 
 ---
 
@@ -214,17 +212,19 @@ Stocktwits • 1d ago
 
 ---
 
+**[Ethereum Whale: Adds 13K ETH Long on Hyperliquid](https://blockchain.news/flashnews/ethereum-whale-adds-13k-eth-long-hyperliquid)**
+
+Whale 0x0392a lifts ETH long to 45,000 tokens at $2,486 average, now facing $3.35M unrealized loss with liquidation at $2,251.
+
+blockchain.news • 3h ago
+
+---
+
 **[RLUSD supply on Ethereum surpasses XRPL, grows 93% in 30 days](https://cryptobriefing.com/rlusd-ethereum-supply-surpasses-xrpl/)**
 
 RLUSD supply on Ethereum grew 93% in 30 days, reaching $1.33B and surpassing XRPL's $1.04B as institutional DeFi demand reshapes Ripple's
 
-Crypto Briefing • 5h ago
-
----
-
-**[Crypto for Advisors: How staking on Ethereum is changing in 2026](https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026)**
-
-CoinDesk • 3d ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -232,13 +232,23 @@ CoinDesk • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN LIQUIDATIONS COMING SOON (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HAjrB2XmTYI)**
+
+BITCOIN LIQUIDATIONS COMING SOON (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 212 • 👍 16 • 💬 4 • ⏱️ 15:35 • 12m ago
+
+---
+
 **[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
 
 We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 150 • 💬 7 • ⏱️ 7:32 • 10h ago
+👁️ 6K • 👍 155 • 💬 9 • ⏱️ 7:32 • 14h ago
 
 ---
 
@@ -248,17 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 165 • 💬 9 • ⏱️ 15:57 • 7h ago
-
----
-
-**[BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BoR2gZxoiHo)**
-
-BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 18K • 👍 388 • 💬 287 • ⏱️ 15:01 • 21h ago
+👁️ 9K • 👍 190 • 💬 11 • ⏱️ 15:57 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 14K • 👍 228 • 💬 164 • ⏱️ 15:06 • 1d ago
+👁️ 15K • 👍 238 • 💬 164 • ⏱️ 15:06 • 1d ago
 
 ---
 
@@ -278,17 +278,17 @@ Ethereum already broke through $2360, and the next major level I'm watching is $
 
 📺 The Moon Show
 
-👁️ 6K • 👍 122 • 💬 1 • ⏱️ 1:15 • 23h ago
+👁️ 6K • 👍 123 • 💬 1 • ⏱️ 1:15 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
+**[BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BoR2gZxoiHo)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BITCOIN WARNING: Calm Before The Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 25K • 👍 387 • 💬 61 • ⏱️ 15:34 • 2d ago
+👁️ 20K • 👍 400 • 💬 287 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -298,17 +298,17 @@ Alessandro goes deep on the one chart every altcoin holder needs to understand r
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 301 • 💬 11 • ⏱️ 16:35 • 1d ago
+👁️ 18K • 👍 306 • 💬 11 • ⏱️ 16:35 • 1d ago
 
 ---
 
-**[ETH PREDICTION FOR NEXT WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=SPgSAwqoNJU)**
+**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Cilinix Crypto
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 27 • 💬 10 • ⏱️ 5:39 • 14h ago
+👁️ 25K • 👍 398 • 💬 61 • ⏱️ 15:34 • 2d ago
 
 ---
 
@@ -318,17 +318,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 127 • 💬 1 • ⏱️ 17:22 • 2d ago
+👁️ 7K • 👍 129 • 💬 1 • ⏱️ 17:22 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=25T25fwYXG4)**
+**[ETH PREDICTION FOR NEXT WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=SPgSAwqoNJU)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Profit First
+📺 Cilinix Crypto
 
-👁️ 1K • 👍 65 • ⏱️ 6:51 • 10h ago
+👁️ 1K • 👍 27 • 💬 10 • ⏱️ 5:39 • 18h ago
 
 ---
 

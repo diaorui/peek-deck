@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Now that any service can be built with AI, nobody wants to build anything",
+      "author": "niosurfer",
+      "url": "https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/",
+      "published": 1788138201.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been noticing a strange paradox with AI-assisted coding. A few years ago, if you had an idea for a software service, building it was the hard part. You needed months of development, a decent team, money, infrastructure, and a lot of specialized knowledge. Today, one competent developer using AI can build in days or weeks what might have taken a small team months. You would think this would lead to an explosion of new software products. But I\u2019m starting to wonder if the opposite is happening. When something is difficult to build, building it creates value. There\u2019s a barrier to entry. You can spend six months creating something and reasonably believe that thousands of other people aren\u2019t going to reproduce it next weekend. Now imagine you have a great SaaS idea. You spend two weeks building it with AI. Great. But so can everyone else. And if the idea succeeds, competitors can inspect what you did and build something similar incredibly quickly. The technical moat is disappearing. That changes the psychological equation. Why spend months polishing a product when you know the implementation itself has almost no scarcity? AI may have dramatically reduced the cost of building software, while simultaneously reducing the incentive to build software. Maybe the scarce thing is no longer the ability to create the product. Maybe it\u2019s distribution, brand, proprietary data, network effects, domain expertise, or simply having customers before you start. In other words, we may be entering a world where software becomes almost free to create, but increasingly difficult to turn into a business. Does anyone else feel this? Are you building more side projects because of AI, or have you actually become less motivated because everything now feels trivially reproducible?"
+    },
+    {
       "title": "Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?",
       "author": "Content-Cheetah-6958",
       "url": "https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/",
@@ -79,6 +90,17 @@
       "description": "Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wanted by people, yadda yadda yadda... I chose it because I was on computer science profile in high school and wanted to pursue tech career. AI is something that fascinates and scares me a lot, so why not go for it? Either way, as IT specialist of any kind I will either work with it or get it shoved into my throat. So I chose to work with it. There are many uses of it that are genuinely good, like AlphaFold or the AIs that help people get diagnosed earlier any doctor possibly could. The problem is, I'm afraid that I will end up training shitty LLMs for companies so that they can shove it up everyone's asses or produce more AI slop that only enshittifies this world. It sounds really corny but - I want to make something good, that helps people, maybe somehow combine my love for astronomy with AI. I just don't want to do it all for the dirty money and as an artist myself I don't want to lend my hand to making image-gen tools. I want to change the world even slightly for the better. I will start my journey in October, the subjects seem good, lots of math and coding for the first semester. I will probably try to join the astronomy science club... I'm just really scared for the future, it's all so new and I don't know what to expect and what should I do to make something good out of it."
     },
     {
+      "title": "Google closed Jeff Dean's account. Gemini 3.5 Pro is still 'soon.'",
+      "author": "ryanmerket",
+      "url": "https://www.reddit.com/r/artificial/comments/1w2zg7n/google_closed_jeff_deans_account_gemini_35_pro_is/",
+      "published": 1788139597.0,
+      "thumbnail": "https://external-preview.redd.it/REHqIwe_njtunWdB6M9PmO3JCxaynVpho0lq5YjFMZg.jpeg?width=640&crop=smart&auto=webp&s=6eedcef007358b2832ecc63fc3996e7d726c76af",
+      "external_url": "https://runtimewire.com/article/google-jeff-dean-account-gemini-35-pro-delay",
+      "site_name": "RuntimeWire",
+      "favicon": "https://runtimewire.com/apple-touch-icon.png",
+      "description": "Gemini 3.5 Pro remains 'coming soon' after Google missed its June timeline, reshuffled DeepMind and lost Jeff Dean and two Gemini co-leads."
+    },
+    {
       "title": "I ran memory accuracy tests on small models, here's what I found",
       "author": "Excellent-Fan8457",
       "url": "https://www.reddit.com/r/artificial/comments/1w2hv5b/i_ran_memory_accuracy_tests_on_small_models_heres/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted to put it through a real benchmark. So I ran 5 configurations against the LoCoMo long-term conversation memory dataset using three models: Gemma 2 9B, Gemma 3 4B, and Gemma 3 12B. Here's what I got: https://preview.redd.it/hufyf8czmimh1.png?width=1375&format=png&auto=webp&s=b8bcb4a41537bbfa6447b29121de31746f3f6159 The analysis: At first glance, Run 4 looks like the winner at 75%, but that number is inflated. The smaller judge model is more lenient, counting answers that are close but not actually correct as passes. When you swap in a larger judge (Run 5), you see more outright \"I don't know\" refusals, because bigger models won't hallucinate an answer when they're uncertain; they just refuse. The real number to look at is somewhere in the 55-60% range for run 4. Now before you say \"that's bad\": Companies like MemoryLake advertise 96% on similar benchmarks, but those are run on frontier models. My 55-60% was achieved on 4B-12B parameter models. That's roughly 17x smaller than a frontier model like GPT-4o, which itself scores around 60% with no memory layer at all. So a tiny open-source model with ChatSorter is matching a frontier model running completely raw. That's the actual story. Happy to answer questions on how it works"
-    },
-    {
-      "title": "Genuinely curious how people running AI agencies actually started. Not the polished version, the real one.",
-      "author": "Expensive_Lime_2740",
-      "url": "https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/",
-      "published": 1788113799.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Every time I read about someone running an AI agency, it sounds very clean. \u201cIdentified a niche, got clients, scaled.\u201d But I have a feeling the actual story is messier than that. So I want to ask people who are actually doing it: How did you really start? Like what was the actual first step that led to a paying client? Was it someone you knew, a cold DM, a post that blew up, just luck? Also curious about: \u2022Did you pick a niche first or did the niche pick you after a few projects? \u2022Are you doing custom builds for each client or have you figured out a productised offer? \u2022How do you handle clients who don\u2019t really understand AI but want to use it? \u2022Solo or do you have people? If you brought someone in, when did that feel necessary? \u2022What does your lead gen actually look like right now, not theoretically? I\u2019m from India, trying to understand how this space really works before I make any moves. Not looking for a course recommendation or a pitch. Just real answers from people who\u2019ve figured out at least some of it. If you\u2019re going to comment to sell something or drop your agency link, please skip this one. I\u2019m genuinely here for the conversation, not offers."
-    },
-    {
-      "title": "How do you get consistently good AI voiceovers",
-      "author": "SupermarketAware4975",
-      "url": "https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/",
-      "published": 1788096498.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What\u2019s your best method/settings for getting consistently clear, natural, and high-quality audio?"
     }
   ],
-  "fetched_at": "2026-08-30T23:42:33.146919+00:00"
+  "fetched_at": "2026-08-31T04:06:43.345724+00:00"
 }

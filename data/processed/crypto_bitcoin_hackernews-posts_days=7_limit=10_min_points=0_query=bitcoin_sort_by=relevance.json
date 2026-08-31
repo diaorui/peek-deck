@@ -89,6 +89,20 @@
       "site_name": "ft.com"
     },
     {
+      "title": "Ireland Moves $38M in Bitcoin Tied to Drug Dealer's Lost Fishing Rod",
+      "url": "https://cryptonews.net/news/bitcoin/33367182/",
+      "hn_url": "https://news.ycombinator.com/item?id=49491190",
+      "author": "mywacaday",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-08-29T16:25:34Z",
+      "object_id": "49491190",
+      "image": "https://cnews24.ru/uploads/51a/51a4593a4e7d4d86d3ca43738b6165224954bfc6.png",
+      "description": "Ireland\u2019s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28, 2026, a stash of 500 $BTC moved from a wallet first created on Jan. 23, 2016. The 500 $BTC worth $38",
+      "favicon": "https://cryptonews.net/site-icons/apple-touch-icon.png",
+      "site_name": "cryptonews.net"
+    },
+    {
       "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 1",
       "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512",
       "hn_url": "https://news.ycombinator.com/item?id=49497861",
@@ -129,23 +143,9 @@
       "description": "How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.",
       "favicon": "https://krackpot.io/favicon.ico",
       "site_name": "Krackpot"
-    },
-    {
-      "title": "Audio-visual language For Bitcoin covenant use-cases",
-      "url": "https://getcofund.com/research/covenants-use-case-atlas",
-      "hn_url": "https://news.ycombinator.com/item?id=49432006",
-      "author": "setzeus",
-      "points": 1,
-      "num_comments": 1,
-      "created_at": "2026-08-25T11:19:50Z",
-      "object_id": "49432006",
-      "image": "https://getcofund.com/research/covenants-use-case-atlas/og.gif?v=tkakwq",
-      "description": "Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.",
-      "favicon": "https://getcofund.com/favicon.ico",
-      "site_name": "getcofund.com"
     }
   ],
   "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-08-30T23:42:34.397055+00:00"
+  "fetched_at": "2026-08-31T04:06:42.633421+00:00"
 }
