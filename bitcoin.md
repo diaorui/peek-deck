@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-31T18:05:02.926378+00:00'
+updated: '2026-08-31T22:59:01.175819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 31, 2026 at 18:05 UTC  
+**Last Updated:** August 31, 2026 at 22:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,928.55
+### $78,767.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +0.3%  
-**30d:** +24.1%  
-**90d:** +22.9%  
-**1y:** -27.7%  
+**24h:** -0.2%  
+**7d:** +0.1%  
+**30d:** +23.8%  
+**90d:** +22.6%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1582.75B
+**Market Cap:** $1578.07B
 Rank #1
 
-**Circulating Supply:** 20,077,775 BTC
+**Circulating Supply:** 20,077,862 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.5%
+-37.7%
 
 **All-Time Low:** $67.81
-+116146.9%
++115819.5%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Does Your Dog Bite...](https://www.reddit.com/r/Bitcoin/comments/1w1yczw/does_your_dog_bite/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -141,43 +141,27 @@ Rank #1
 
 ## Google News: "bitcoin"
 
-**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million)**
+**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-restarts-bitcoin-buying-121917075.html)**
 
-Bloomberg.com • 5h ago
+Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul.
 
----
-
-**[‘Get Ready’—Bitcoin Is Suddenly Hurtling Toward A ‘Huge’ Money Printing Price Shock](https://www.forbes.com/sites/digital-assets/2026/08/29/get-ready-bitcoin-is-suddenly-hurtling-toward-a-huge-money-printing-price-shock/)**
-
-Bitcoin has added 20% since mid-August, rocketing higher as the so-called debasement trade that see investors bet against the U.S. dollar returns...
-
-Forbes • 2d ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin's best month since November 2024 comes with a warning: The road ahead could get rough](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-fall-as-brent-oil-tops-90-after-u-s-strike-on-iran/card/bitcoin-s-best-month-since-november-2024-comes-with-a-warning-the-road-ahead-could-get-rough-frj6hsVDfT0diuudsvDE?mod=mw_robin)**
+**[‘Beginning Of A Death Spiral’—Serious $40 Trillion U.S. Dollar Collapse Warning Triggers Surprise BlackRock Bitcoin Price And Gold Prediction](https://www.forbes.com/sites/digital-assets/2026/08/31/beginning-of-a-death-spiral-serious-40-trillion-us-dollar-collapse-warning-triggers-surprise-blackrock-bitcoin-price-and-gold-prediction/)**
 
-MarketWatch • 1h ago
+Fears are growing that the U.S. is entering a $40 trillion “death spiral”—predicted to catapult the bitcoin price and gold higher...
 
----
-
-**[Bitcoin treasury companies shed over $80 billion in value](https://finance.yahoo.com/video/bitcoin-treasury-companies-shed-over-173000467.html)**
-
-Scott Melker discusses the $80 billion in losses that bitcoin (BTC-USD) treasury companies are dealing with, shedding over 50% in value.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 35m ago
+Forbes • 9h ago
 
 ---
 
-**[IREN vs. CIFR: Which Bitcoin Miner Is the Better AI Play?](https://finance.yahoo.com/markets/stocks/articles/iren-vs-cifr-bitcoin-miner-174200639.html)**
+**[IBIT’s 0.25% Fee Hides the Real Cost: Your Bitcoin Per Share Shrinks Every Day, and the IRS Taxes Each Slice](https://finance.yahoo.com/markets/crypto/articles/ibit-0-25-fee-hides-221504082.html)**
 
-Is IREN's contracted AI demand, broader cloud model and lower price-to-sales multiple making it the stronger AI play versus Cipher's lease-focused approach?
+Holding IBIT without ever selling still generates a tax bill, and the mechanism responsible quietly chips away at your Bitcoin claim every single day the fund is open.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -185,13 +169,27 @@ Yahoo Finance • 23m ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 5h ago
+Fortune • 1h ago
+
+---
+
+**[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
+
+KFOR • 3d ago
 
 ---
 
 **[Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower](https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower)**
 
-CoinDesk • 13h ago
+CoinDesk • 18h ago
+
+---
+
+**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
+
+Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -203,17 +201,15 @@ Morningstar • 2d ago
 
 ---
 
-**[Bitcoin Is on Track to Post Its Best August in Nearly 10 Years. If History Is Any Guide, This Happens Next.](https://www.fool.com/investing/2026/08/31/bitcoin-on-track-to-post-its-best-august-in-years/)**
+**[92-year-old burger chain's Bitcoin strategy delivers 13.8% sales jump](https://www.thestreet.com/crypto/markets/92-year-old-burger-chains-bitcoin-strategy-delivers-13-8-sales-jump)**
 
-Bitcoin investors could be in for more strong returns over the rest of the year.
-
-The Motley Fool • 1h ago
+thestreet.com • 6h ago
 
 ---
 
-**[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
+**[Bitcoin dips below $78k amid Iran escalation, rate jitters](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178)**
 
-KFOR • 2d ago
+Investing.com • 7h ago
 
 ---
 
@@ -303,33 +299,33 @@ Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism
 
 ## YouTube Videos: "bitcoin"
 
+**[Tom Lee sees Bitcoin hitting six figures—is the rally just getting started?](https://www.youtube.com/watch?v=8ZbBhWP-53A)**
+
+Bitcoin #CryptoMarket #TomLee #Investing #FinancialAnalysis #FedRateHike.
+
+📺 Fundstrat
+
+👁️ 3K • 👍 84 • 💬 8 • ⏱️ 0:50 • 3h ago
+
+---
+
 **[Bitcoin Stalls at the 50 Week Moving Average](https://www.youtube.com/watch?v=xCF8xZQcVfc)**
 
 Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.benjamincowen.com/conference Into The ...
 
 📺 Benjamin Cowen
 
-👁️ 166K • 👍 6K • 💬 308 • ⏱️ 13:39 • 18h ago
+👁️ 187K • 👍 7K • 💬 329 • ⏱️ 13:39 • 23h ago
 
 ---
 
-**[$150K BITCOIN IMMINENT?! INSANE SET UP RIGHT NOW!](https://www.youtube.com/watch?v=7flyXX2Y52Y)**
+**[Bitcoin’s Bull Case Is Flashing Warning Signs](https://www.youtube.com/watch?v=sixm8hsGAbw)**
 
-Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Predict Market for Crypto, Sports, & Markets ...
 
-📺 Adam Livingston
+📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 143 • ⏱️ 22:55 • 1d ago
-
----
-
-**[Robinhood CEO Is Bullish On Bitcoin 👀📈](https://www.youtube.com/watch?v=s-O9KdXa_bE)**
-
-CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
-
-📺 The Iced Coffee Hour
-
-👁️ 28K • 👍 302 • 💬 79 • ⏱️ 0:24 • 2d ago
+👁️ 23K • 👍 759 • 💬 110 • ⏱️ 51:22 • 8h ago
 
 ---
 
@@ -339,47 +335,47 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 21K • 👍 210 • 💬 21 • ⏱️ 15:30 • 1d ago
+👁️ 22K • 👍 216 • 💬 23 • ⏱️ 15:30 • 1d ago
 
 ---
 
-**[Bitcoin’s Golden Cross Is Imminent... But There’s A Catch!](https://www.youtube.com/watch?v=IURgqMx5RMs)**
+**[Crypto’s BIGGEST Supercycle Starts NOW!?](https://www.youtube.com/watch?v=zGdxs-hVscA)**
 
-Bitcoin is holding strong above the 50-week moving average at $80.3K and a historic Golden Cross between the 50D and 200D is ...
+Crypto's BIGGEST Supercycle Starts NOW!? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 19K • 👍 719 • 💬 12 • ⏱️ 27:27 • 4h ago
-
----
-
-**[The Fed Is Trying To Crash Bitcoin (But I&#39;m Still Buying This Dip)](https://www.youtube.com/watch?v=dGbIKlLipDs)**
-
-M in crypto liquidated in one hour after Kevin Warsh's first speech as Fed Chair. I'm still buying this dip, and I'm not the only one.
-
-📺 EllioTrades
-
-👁️ 35K • 👍 722 • 💬 68 • ⏱️ 15:25 • 1d ago
+👁️ 64K • 👍 2K • 💬 218 • ⏱️ 9:49 • 23h ago
 
 ---
 
-**[Foreign Central Banks Chose Physical Gold Over Bitcoin | Jim Bullard  #gold #Bitcoin #Fed](https://www.youtube.com/watch?v=5X3tbMt7hrc)**
+**[He Just Predicted Bitcoin Will Hit $500,000, Here&#39;s How It Happens](https://www.youtube.com/watch?v=48EVLVxDznI)**
 
-Former St. Louis Fed President Jim Bullard says that over the past year, foreign central banks found physical gold more desirable ...
+Matt Cole says that a return to the gold standard is unpalatable for the U.S. because countries like China and India hold too much ...
 
-📺 Kitco NEWS
+📺 Redacted
 
-👁️ 8K • 👍 127 • 💬 3 • ⏱️ 1:40 • 2d ago
+👁️ 38K • 👍 785 • 💬 143 • ⏱️ 10:00 • 23h ago
 
 ---
 
-**[The Fed Is Trapped! Bitcoin Already Knows!](https://www.youtube.com/watch?v=Oh_NvQpi7NE)**
+**[Bessent Gets Drucked: Bitcoin, AI, and the New Macro Clock](https://www.youtube.com/watch?v=2FND8g-De8Y)**
 
-The Fed is trapped between inflation, rising debt costs and a bond market it can't afford to ignore. Now Bitcoin is pushing back ...
+Visit ai.22vresearch.com and visser-labs.com for more information Email Mark Whaling mwhaling@22vresearch.com In this ...
 
-📺 Simply Bitcoin
+📺 Jordi Visser
 
-👁️ 36K • 👍 1K • 💬 74 • ⏱️ 12:31 • 2d ago
+👁️ 57K • 👍 2K • 💬 249 • ⏱️ 1:03:43 • 1d ago
+
+---
+
+**[Bitcoin Just Reclaimed $80K — Is the Next Bull Run Starting? (Get Ready for the Next Bull Cycle...)](https://www.youtube.com/watch?v=L7FEzerBBLs)**
+
+Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Tangem-x10* Easiest hardware wallet, portable ...
+
+📺 Crypto Casey
+
+👁️ 30K • 👍 893 • 💬 46 • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -389,17 +385,17 @@ Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ http
 
 📺 Stocks with Josh
 
-👁️ 12K • 👍 324 • 💬 8 • ⏱️ 1:04 • 1d ago
+👁️ 13K • 👍 334 • 💬 8 • ⏱️ 1:04 • 2d ago
 
 ---
 
-**[Bitcoin Just Fired The Miners (Hard Fork)](https://www.youtube.com/watch?v=Mw7vjgAXHNs)**
+**[Bitcoin to $1 Million?!](https://www.youtube.com/watch?v=SjJxrTal_Sk)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin just fired the SHA-256 ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Bitcoin University
+📺 Anthony Pompliano
 
-👁️ 29K • 👍 2K • 💬 619 • ⏱️ 11:55 • 22h ago
+👁️ 164K • 👍 3K • 💬 221 • ⏱️ 1:03:32 • 2d ago
 
 ---
 
