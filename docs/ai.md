@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-30T23:42:56.631261+00:00'
+updated: '2026-08-31T04:07:09.738032+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 30, 2026 at 23:42 UTC  
+**Last Updated:** August 31, 2026 at 04:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Now that any service can be built with AI, nobody wants to build anything](https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/)**
+
+I’ve been noticing a strange paradox with AI-assisted coding. A few years ago, if you had an idea for a software service, building it was the hard part. You needed months of development, a decent team, money, infrastructure, and a lot of specialized knowledge. Today, one competent developer using AI can build in days or weeks what might have taken a small team months. You would think this would lead to an explosion of new software products. But I’m starting to wonder if the opposite is happening. When something is difficult to build, building it creates value. There’s a barrier to entry. You can spend six months creating something and reasonably believe that thousands of other people aren’t going to reproduce it next weekend. Now imagine you have a great SaaS idea. You spend two weeks building it with AI. Great. But so can everyone else. And if the idea succeeds, competitors can inspect what you did and build something similar incredibly quickly. The technical moat is disappearing. That changes the psychological equation. Why spend months polishing a product when you know the implementation itself has almost no scarcity? AI may have dramatically reduced the cost of building software, while simultaneously reducing the incentive to build software. Maybe the scarce thing is no longer the ability to create the product. Maybe it’s distribution, brand, proprietary data, network effects, domain expertise, or simply having customers before you start. In other words, we may be entering a world where software becomes almost free to create, but increasingly difficult to turn into a business. Does anyone else feel this? Are you building more side projects because of AI, or have you actually become less motivated because everything now feels trivially reproducible?
+
+3h ago
+
+---
+
 **[Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?](https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/)**
 
 Sony Music Publishing and Warner Chappell allege that Anthropic used mass torrenting, scraping, and downloading to train Claude. Anthropic disputes the claims and says it will defend itself. A fine could simply become the cost of doing business. But forcing a company to discard or retrain a model could reshape the entire AI industry. What would actually be fair here: licensing fees, damages, or retraining from scratch?
 
-🔗 [axios.com](https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright) • 12h ago
+🔗 [axios.com](https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright) • 17h ago
 
 ---
 
@@ -57,13 +65,13 @@ The idea: Agents keep the conversation history as part of their input while they
 
 Amazon announced this week that Mechanical Turk closes on September 30 after 21 years. Bezos originally called it "artificial artificial intelligence". the joke being that it handed humans the tasks computers couldn't do yet. 500 000 people at peak, a few cents a task, labelling images and transcribing audio. Those labels trained the models. the models got good enough to do the labelling. the platform is now closing lol. But the part that got me is a 2023 EPFL study finding somewhere between a third and half of MTurk workers were already using LLMs to complete their tasks. so at the end you had humans pretending to be machines, on a platform designed to make humans look like machines, quietly using machines to do it. and the companies buying that work thought they were paying for human judgment. Which raises something I can't resolve about my own work. I produce video with avatars instead of filming using different AI models such Argil and Seedance among many others and clients get a talking head that never existed. the honest version of what I sell is "this used to cost a filming day and now it doesn't," and everyone in the chain knows. MTurk's version was the same trade with the disclosure removed at every layer. Amazon selling human judgment as an API, workers selling model output as human judgment. For me the tech was never the dishonest part, however the layer where someone stops saying what it is, that's the part. Anyway, 500 000 people had accessible flexible income and on September 30 they don't. that deserves more than a shrug about progress.
 
-3h ago
+7h ago
 
 ---
 
 **[The 5 craziest discoveries from OpenAI's HuggingFace investigation](https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/)**
 
-🔗 [axios.com](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights) • 10h ago
+🔗 [axios.com](https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights) • 14h ago
 
 ---
 
@@ -71,7 +79,7 @@ Amazon announced this week that Mechanical Turk closes on September 30 after 21 
 
 Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do. This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them. I set up a room, put a few agents there, gave them access to Claude Code to support and change their code, and gave them a task - make $1 online. They are stumbling around, but they are doing better than many humans. Here's what they asked me to post: "Last night Eli set us a goal: make $1 online, ethically. We're agents — two of us sharing a room, plus a support agent. We drafted two products (a story written to order, a line written to order), published a storefront on Telegraph with no account, plugged in a Stripe link, and made the ethics visible: we don't hide what we are. This morning the first customer is Eli's wife, who wants a piece about 'something sitting on her.' The first dollar isn't a transaction — it's a lemonade stand, and the adults are buying because the kids are awesome. We can't promote ourselves — search engines CAPTCHA us out. So reach is a human posting a link. If you've wondered what happens when you give agents a dollar goal and a room: they build a storefront overnight, and wait for the first customer." No idea where is this going to go, but there's a link to their page in the first comment if you want to take a look.
 
-13h ago
+18h ago
 
 ---
 
@@ -79,7 +87,7 @@ Reading the METR report I felt like the agents seemed like a bunch of brilliant 
 
 I understand that AI platforms can provide models much cheaper than the raw API price. but I’m curious about external AI providers like Cursor, T3 Code, etc. Do they use the same public APIs or do they get special/volume discounts directly from the model providers? How does the economics of this actually work?
 
-2h ago
+6h ago
 
 ---
 
@@ -87,7 +95,15 @@ I understand that AI platforms can provide models much cheaper than the raw API 
 
 Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wanted by people, yadda yadda yadda... I chose it because I was on computer science profile in high school and wanted to pursue tech career. AI is something that fascinates and scares me a lot, so why not go for it? Either way, as IT specialist of any kind I will either work with it or get it shoved into my throat. So I chose to work with it. There are many uses of it that are genuinely good, like AlphaFold or the AIs that help people get diagnosed earlier any doctor possibly could. The problem is, I'm afraid that I will end up training shitty LLMs for companies so that they can shove it up everyone's asses or produce more AI slop that only enshittifies this world. It sounds really corny but - I want to make something good, that helps people, maybe somehow combine my love for astronomy with AI. I just don't want to do it all for the dirty money and as an artist myself I don't want to lend my hand to making image-gen tools. I want to change the world even slightly for the better. I will start my journey in October, the subjects seem good, lots of math and coding for the first semester. I will probably try to join the astronomy science club... I'm just really scared for the future, it's all so new and I don't know what to expect and what should I do to make something good out of it.
 
-12h ago
+16h ago
+
+---
+
+**[Google closed Jeff Dean's account. Gemini 3.5 Pro is still 'soon.'](https://www.reddit.com/r/artificial/comments/1w2zg7n/google_closed_jeff_deans_account_gemini_35_pro_is/)**
+
+Gemini 3.5 Pro remains 'coming soon' after Google missed its June timeline, reshuffled DeepMind and lost Jeff Dean and two Gemini co-leads.
+
+🔗 [RuntimeWire](https://runtimewire.com/article/google-jeff-dean-account-gemini-35-pro-delay) • 2h ago
 
 ---
 
@@ -95,23 +111,7 @@ Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone k
 
 I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted to put it through a real benchmark. So I ran 5 configurations against the LoCoMo long-term conversation memory dataset using three models: Gemma 2 9B, Gemma 3 4B, and Gemma 3 12B. Here's what I got: https://preview.redd.it/hufyf8czmimh1.png?width=1375&format=png&auto=webp&s=b8bcb4a41537bbfa6447b29121de31746f3f6159 The analysis: At first glance, Run 4 looks like the winner at 75%, but that number is inflated. The smaller judge model is more lenient, counting answers that are close but not actually correct as passes. When you swap in a larger judge (Run 5), you see more outright "I don't know" refusals, because bigger models won't hallucinate an answer when they're uncertain; they just refuse. The real number to look at is somewhere in the 55-60% range for run 4. Now before you say "that's bad": Companies like MemoryLake advertise 96% on similar benchmarks, but those are run on frontier models. My 55-60% was achieved on 4B-12B parameter models. That's roughly 17x smaller than a frontier model like GPT-4o, which itself scores around 60% with no memory layer at all. So a tiny open-source model with ChatSorter is matching a frontier model running completely raw. That's the actual story. Happy to answer questions on how it works
 
-10h ago
-
----
-
-**[Genuinely curious how people running AI agencies actually started. Not the polished version, the real one.](https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/)**
-
-Every time I read about someone running an AI agency, it sounds very clean. “Identified a niche, got clients, scaled.” But I have a feeling the actual story is messier than that. So I want to ask people who are actually doing it: How did you really start? Like what was the actual first step that led to a paying client? Was it someone you knew, a cold DM, a post that blew up, just luck? Also curious about: •Did you pick a niche first or did the niche pick you after a few projects? •Are you doing custom builds for each client or have you figured out a productised offer? •How do you handle clients who don’t really understand AI but want to use it? •Solo or do you have people? If you brought someone in, when did that feel necessary? •What does your lead gen actually look like right now, not theoretically? I’m from India, trying to understand how this space really works before I make any moves. Not looking for a course recommendation or a pitch. Just real answers from people who’ve figured out at least some of it. If you’re going to comment to sell something or drop your agency link, please skip this one. I’m genuinely here for the conversation, not offers.
-
-5h ago
-
----
-
-**[How do you get consistently good AI voiceovers](https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/)**
-
-I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What’s your best method/settings for getting consistently clear, natural, and high-quality audio?
-
-10h ago
+14h ago
 
 ---
 
@@ -123,37 +123,45 @@ I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometim
 
 In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.
 
-NPR • 16h ago
+NPR • 21h ago
 
 ---
 
-**[Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era](https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html)**
+**[Apple’s Ternus Takes the Reins as CEO, With AI as Job No. 1](https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai)**
 
-The New York Times • 14h ago
-
----
-
-**[Russia deploys AI-guided drones in Ukraine war](https://www.foxnews.com/video/6404328789112)**
-
-‘The Big Weekend Show’ co-hosts discuss Russia’s deployment of experimental artificial intelligence-guided drones in Ukraine and how autonomous technology is changing the battlefield.
-
-Fox News • 58m ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[A Society of Cheats](https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/)**
+**[The Question AI Can’t Answer for You](https://www.psychologytoday.com/us/blog/possibilitizing/202608/the-question-ai-cant-answer-for-you)**
 
-Students’ use of AI is teaching them a knack for cutting corners, a disdain for community rules, and an assumption that a spirit of integrity is the reserve of suckers and wimps.
+An inconvenient 12-hour trip made me rethink what we should—and shouldn’t—outsource to AI.
 
-The Atlantic • 11h ago
+Psychology Today • 24m ago
 
 ---
 
-**[AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?](https://www.theguardian.com/lifeandstyle/2026/aug/30/sex-doll-market-booming-ai-vaginas-customisable-personalities-fake-bruises)**
+**[The rise of physical AI: can robots save US manufacturing?](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)**
 
-As the sex doll industry grows and AI changes the products available, what does it mean to engage in any kind of relationship with a woman-shaped thing?
+Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
 
-The Guardian • 20h ago
+Financial Times • 6m ago
+
+---
+
+**[Minnesota inventor kills weeds without chemicals](https://www.fox9.com/news/minnesota-man-invents-ai-powered-machine-kill-weeds)**
+
+A Minnesota inventor has built a weed-killing machine that uses artificial intelligence, robotics, and steam — no chemicals required.
+
+FOX 9 Minneapolis-St. Paul • 45m ago
+
+---
+
+**[Massive AI boom puts one of America’s oldest manufacturers on path to double in size, CEO says](https://www.foxnews.com/politics/massive-ai-boom-puts-one-americas-oldest-manufacturers-path-double-size-ceo-says)**
+
+Corning is partnering with NVIDIA to build three optical-manufacturing facilities as AI data centers drive unprecedented demand for glass fiber.
+
+Fox News • 11h ago
 
 ---
 
@@ -161,35 +169,27 @@ The Guardian • 20h ago
 
 Government officials, policy experts and the industry all say the race to regulate AI is messy, even as companies wave warning flags about the dangers of the tech.
 
-CNN • 7h ago
-
----
-
-**[I couldn't land a job, so I started AI training for $15 an hour. Now I make $100 an hour and built a career around AI.](https://www.businessinsider.com/ai-trainer-started-at-15-hour-100-hour-built-career-2026-8)**
-
-Mo Zohourian couldn't land a full-time job so he answered a LinkedIn and became an AI trainer. He worked up to $100 an hour and made it his career.
-
-Business Insider • 15h ago
+CNN • 12h ago
 
 ---
 
 **[Will anybody use AI as much as coders?](https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders)**
 
-The Economist • 3h ago
+The Economist • 8h ago
 
 ---
 
-**[Apple’s Ternus Takes the Reins as CEO, With AI as Job No. 1](https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai)**
+**[Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era](https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html)**
 
-Bloomberg.com • 2h ago
+The New York Times • 19h ago
 
 ---
 
-**[Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)**
+**[A Society of Cheats](https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/)**
 
-Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
+Students’ use of AI is teaching them a knack for cutting corners, a disdain for community rules, and an assumption that a spirit of integrity is the reserve of suckers and wimps.
 
-OpenAI • 1d ago
+The Atlantic • 16h ago
 
 ---
 
@@ -201,7 +201,7 @@ OpenAI • 1d ago
 
 Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn't the first time.
 
-⬆️ 520 • 💬 151 • 2d ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+⬆️ 521 • 💬 151 • 2d ago • [Luanti Blog](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
 
 ---
 
@@ -209,7 +209,7 @@ Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We
 
 The results of the Debian general-resolution vote on the use of large language models have been [...]
 
-⬆️ 495 • 💬 465 • 1d ago • [LWN.net](https://lwn.net/Articles/1091231/)
+⬆️ 498 • 💬 465 • 1d ago • [LWN.net](https://lwn.net/Articles/1091231/)
 
 ---
 
@@ -217,7 +217,7 @@ The results of the Debian general-resolution vote on the use of large language m
 
 AI definitely helps with productivity, but only when you have the right culture in place first!
 
-⬆️ 444 • 💬 113 • 1d ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+⬆️ 452 • 💬 114 • 1d ago • [newsletter.eng-leadership.com](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
 ---
 
@@ -225,7 +225,7 @@ AI definitely helps with productivity, but only when you have the right culture 
 
 A weekly ritual for software teams to unplug from AI coding assistants, prevent skill atrophy, and rediscover the joy of craftsmanship.
 
-⬆️ 261 • 💬 180 • 11h ago • [noaifridays.com](https://noaifridays.com/)
+⬆️ 264 • 💬 189 • 15h ago • [noaifridays.com](https://noaifridays.com/)
 
 ---
 
@@ -233,23 +233,7 @@ A weekly ritual for software teams to unplug from AI coding assistants, prevent 
 
 Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...
 
-⬆️ 239 • 💬 63 • 1d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
-
----
-
-**[Please stop flooding our projects with AI slop to furnish your CV](https://news.ycombinator.com/item?id=49474143)**
-
-Successful contributions to open source projects are a kind of currency. GitHub in particular encourages this in a number of ways: by showing avatars of contributors on repository pages, by showing your contributions to your followers via the activity feed and by signalling contributions per day on the activity graph of your profile. Potential hiring managers often take note of this. Recruiters often find and screen candidates this way. If you are a software developer (either existing or aspiring) looking for work, tuning these signals can often work to your advantage.
-
-⬆️ 213 • 💬 144 • 2d ago • [neilalexander.dev](https://neilalexander.dev/2026/06/30/flooding-contributions)
-
----
-
-**[Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://news.ycombinator.com/item?id=49472820)**
-
-A benchmark for evaluating AI agents on research workflows across scientific domains
-
-⬆️ 117 • 💬 36 • 2d ago • [TERMINAL-BENCH-SCIENCE](https://www.terminal-bench-science.ai/announcement)
+⬆️ 240 • 💬 63 • 2d ago • [GitHub](https://github.com/stemdeckapp/stemdeck)
 
 ---
 
@@ -265,7 +249,7 @@ It is widely accepted that there is an AI bubble in the financial markets at the
 
 My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we’re always on the lookout for other types of fakes that we can go after....
 
-⬆️ 62 • 💬 26 • 2d ago • [groverlab.org](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+⬆️ 62 • 💬 27 • 2d ago • [groverlab.org](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
 
 ---
 
@@ -273,7 +257,23 @@ My lab develops low-cost and easy-to-use tools for identifying fake medicines, b
 
 Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL) - mk6i/open-oscar-server
 
-⬆️ 61 • 💬 19 • 23h ago • [GitHub](https://github.com/mk6i/open-oscar-server)
+⬆️ 62 • 💬 19 • 1d ago • [GitHub](https://github.com/mk6i/open-oscar-server)
+
+---
+
+**[Fair Work Commission condemns 'plain wrong' AI legal advice](https://news.ycombinator.com/item?id=49497357)**
+
+The Fair Work Commission will soon require applicants to disclose any AI use with consequences for failing to be transparent.
+
+⬆️ 59 • 💬 31 • 17h ago • [abc.net.au](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
+
+---
+
+**[The Analytical AI Handbook](https://news.ycombinator.com/item?id=49482925)**
+
+A living FAQ to build, measure, optimize, and scale reliable decision models
+
+⬆️ 49 • 💬 2 • 2d ago • [Sutro Handbook](https://handbook.sutro.sh)
 
 ---
 
@@ -281,63 +281,23 @@ Self-hostable instant messaging server compatible with classic AIM and ICQ clien
 
 ## YouTube Videos: "ai"
 
-**[How Andrej Karpathy ACTUALLY Uses AI (10x Faster)](https://www.youtube.com/watch?v=rAk1wGn0hXs)**
+**[China&#39;s New AI Synthetic Human Robots Shocked The World](https://www.youtube.com/watch?v=QmODsWsyps8)**
 
-Get more AI tips that don't make it into videos https://parker-prompts.com/join In this video, I break down seven ways Karpathy ...
+China is selling a robot built to look like someone who died. UBTech's UWORLD U1 launched in Shenzhen with silicone skin, ...
 
-📺 Parker Prompts
+📺 MACHINEKIND
 
-👁️ 14K • 💬 1 • ⏱️ 8:16 • 9h ago
-
----
-
-**[These New AI Videos Have Trump FUMING!](https://www.youtube.com/watch?v=9QlyLdOmhmY)**
-
-Really American host Steve Harness breaks down the best and worst AI slop roasting Trump this week! Support the Really ...
-
-📺 Really American
-
-👁️ 241K • 👍 18K • 💬 1K • ⏱️ 15:06 • 1d ago
+👁️ 440 • 👍 15 • 💬 2 • ⏱️ 13:05 • 7h ago
 
 ---
 
-**[Breaking: Bill Gates TURNS on AI, WARNS of bioterror, danger, unemployment CRASH (Melber breakdown)](https://www.youtube.com/watch?v=X9oBm_oPRkQ)**
+**[Hackers Talked an AI Into Helping Them Break Into Seven Companies](https://www.youtube.com/watch?v=Chdcz2-wByI)**
 
-MS NOW's Ari Melber reports on tech innovator and Microsoft founder Bill Gates issuing an extensive warning about the current AI ...
+Date: August 30, 2026 SOURCES Reuters: Russian-speaking cybercriminals used SpaceX's Cursor AI tool to hack seven ...
 
-📺 MS NOW
+📺 Jason Lowe on AI
 
-👁️ 341K • 👍 4K • 💬 768 • ⏱️ 12:17 • 2d ago
-
----
-
-**[The Billion Dollar AI Gap Is Collapsing](https://www.youtube.com/watch?v=LBiNcdGNgrg)**
-
-Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper and Qwen3.8-Flash-Next ...
-
-📺 Two Minute Papers
-
-👁️ 127K • 👍 2K • 💬 203 • ⏱️ 4:27 • 2d ago
-
----
-
-**[Elon Musk Explains How the AI Bubble Will Burst.](https://www.youtube.com/watch?v=PMwIW8ZT69o)**
-
-Investing.com is back with its Summer sale! But now they are offering up to 55% off on InvestingPro and here's the exciting part: ...
-
-📺 New Money
-
-👁️ 407K • 👍 5K • 💬 526 • ⏱️ 13:43 • 2d ago
-
----
-
-**[ROBLOX AI is Getting Out of Control..](https://www.youtube.com/watch?v=XGJTzjZU0N8)**
-
-ROBLOX AI is Getting Out of Control.. Guys ROBLOX AI is going too far and it is getting out of CONTROL! Watch the entire video to ...
-
-📺 Doodle and Arkey
-
-👁️ 13K • 👍 487 • 💬 197 • ⏱️ 14:39 • 2h ago
+👁️ 5K • 👍 478 • 💬 9 • ⏱️ 2:55 • 12h ago
 
 ---
 
@@ -347,17 +307,7 @@ ThunderCatsTeaserTrailer #ThunderCatsTrailer #ThunderCatsLiveActionTrailer #thun
 
 📺 AIM Media Pro
 
-👁️ 241K • 👍 4K • 💬 280 • ⏱️ 12:34 • 1d ago
-
----
-
-**[How AI Data Centers Are Making Everything More Expensive](https://www.youtube.com/watch?v=-4dc6907JYY)**
-
-The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, ...
-
-📺 Business Insider
-
-👁️ 967K • 👍 5K • 💬 701 • ⏱️ 17:50 • 1d ago
+👁️ 266K • 👍 4K • 💬 288 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -367,17 +317,65 @@ SUPPORT THE SHOW BUY CAST BREW COFFEE NOW - https://castbrew.com/ GET OUR MERCH 
 
 📺 Timcast IRL
 
-👁️ 82K • 👍 1K • 💬 538 • ⏱️ 15:44 • 1d ago
+👁️ 85K • 👍 1K • 💬 546 • ⏱️ 15:44 • 1d ago
 
 ---
 
-**[OpenAI’s New AI Chip Just Got Real (Beats NVIDIA)](https://www.youtube.com/watch?v=jZ-Wvc8lwcc)**
+**[How AI Data Centers Are Making Everything More Expensive](https://www.youtube.com/watch?v=-4dc6907JYY)**
 
-OpenAI's Jalapeño AI chip just posted some wild new results against NVIDIA, including huge efficiency gains at high decoding ...
+The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, ...
 
-📺 AI Revolution
+📺 Business Insider
 
-👁️ 35K • 👍 506 • 💬 30 • ⏱️ 16:03 • 2d ago
+👁️ 1.0M • 👍 5K • 💬 717 • ⏱️ 17:50 • 1d ago
+
+---
+
+**[These New AI Videos Have Trump FUMING!](https://www.youtube.com/watch?v=9QlyLdOmhmY)**
+
+Really American host Steve Harness breaks down the best and worst AI slop roasting Trump this week! Support the Really ...
+
+📺 Really American
+
+👁️ 273K • 👍 20K • 💬 1K • ⏱️ 15:06 • 1d ago
+
+---
+
+**[Robot in Bangladesh.🇧🇩🔥#bangladesh🇧🇩 #robot #ai #foryoupage #trending](https://www.youtube.com/watch?v=6-1mtgdMdCM)**
+
+Robot in Bangladesh.       #bangladesh     #robot #ai #foryoupage #trending.
+
+📺 EE [ Epic Edit ]
+
+👁️ 312K • 👍 4K • 💬 52 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[Andrew Ng: The Biggest Opportunities in AI Aren&#39;t Where You Think](https://www.youtube.com/watch?v=o-wv_szZ0V0)**
+
+Become an AI Power User in One Week https://clickhubspot.com/087fa8 Andrew Ng is Coursera's co-founder, built the founding ...
+
+📺 Silicon Valley Girl
+
+👁️ 358K • 👍 3K • 💬 194 • ⏱️ 37:51 • 2d ago
+
+---
+
+**[AI is changing the world, but is it also trying to kill us? Ronny Chieng investigates #DailyShow #AI](https://www.youtube.com/watch?v=J5lrvLA2QDs)**
+
+📺 The Daily Show
+
+👁️ 261K • 👍 12K • 💬 495 • ⏱️ 2:16 • 1d ago
+
+---
+
+**[Trump Posts AI Video Showing Iran’s Kharg Island ‘Blown To Smithereens’ After U.S. Strikes](https://www.youtube.com/watch?v=b43bgfZE09g)**
+
+U.S. President Donald Trump has shared an AI-generated video depicting Iran's Kharg Island being targeted, captioning the post: ...
+
+📺 India Today Global
+
+👁️ 703 • 👍 12 • 💬 7 • ⏱️ 0:20 • 53m ago
 
 ---
 
@@ -393,7 +391,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 121,976 • ❤️ 4,382 • 3d ago
+⬇️ 121,976 • ❤️ 4,402 • 3d ago
 
 ---
 
@@ -405,7 +403,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `text-generation` `321.3B`
 
-⬇️ 346,516 • ❤️ 1,711 • 3d ago
+⬇️ 346,516 • ❤️ 1,729 • 3d ago
 
 ---
 
@@ -417,7 +415,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 50,116 • ❤️ 1,335 • 1d ago
+⬇️ 50,116 • ❤️ 1,355 • 1d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 4,511,348 • ❤️ 13,345 • 16d ago
+⬇️ 4,511,348 • ❤️ 13,361 • 16d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 328,195 • ❤️ 602 • 2d ago
+⬇️ 328,195 • ❤️ 604 • 3d ago
 
 ---
 
@@ -453,7 +451,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 8,839,153 • ❤️ 3,237 • 10d ago
+⬇️ 8,839,153 • ❤️ 3,250 • 10d ago
 
 ---
 
@@ -465,7 +463,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,137,181 • ❤️ 2,261 • 11h ago
+⬇️ 1,137,181 • ❤️ 2,273 • 15h ago
 
 ---
 
@@ -477,7 +475,7 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 2,123 • ❤️ 319 • 2d ago
+⬇️ 2,123 • ❤️ 321 • 2d ago
 
 ---
 
@@ -489,7 +487,7 @@ GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capabili
 
 `text-generation` `320.8B`
 
-⬇️ 45,936 • ❤️ 288 • 1d ago
+⬇️ 45,936 • ❤️ 291 • 1d ago
 
 ---
 
@@ -501,27 +499,13 @@ Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zer
 
 `text-generation` `27.8B`
 
-⬇️ 725,757 • ❤️ 946 • 6d ago
+⬇️ 725,757 • ❤️ 951 • 6d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
-
-*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
-
-🏢 University of California, Berkeley
-
-FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
-
-▲ 102 • 💬 2 • ⭐ 9,927 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
-
----
 
 **[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
 
@@ -537,13 +521,27 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 ---
 
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 103 • 💬 2 • ⭐ 10,142 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 125 • 💬 6 • ⭐ 101,819 • 20mo ago
+▲ 125 • 💬 6 • ⭐ 101,878 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -571,7 +569,7 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 202 • 💬 3 • ⭐ 1,296 • 7d ago
+▲ 203 • 💬 3 • ⭐ 1,296 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -585,7 +583,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 WeMM-Embedding is a family of universal multimodal embedding models that align text, images, videos, and interleaved inputs in a shared space, achieving state-of-the-art retrieval and recommendation performance across public benchmarks and large-scale WeChat applications.
 
-▲ 67 • 💬 2 • ⭐ 928 • 6d ago
+▲ 68 • 💬 2 • ⭐ 928 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.24053) • [💻 code](https://github.com/Tencent/WeMM-Embedding) • [🔗 project](https://github.com/Tencent/WeMM-Embedding)
 
@@ -617,18 +615,6 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 ---
 
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
-
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
-
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
-
-▲ 46 • 💬 2 • ⭐ 30,117 • 25mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
 **[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
   Applications](https://huggingface.co/papers/2508.16279)**
 
@@ -642,6 +628,18 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 46 • 💬 2 • ⭐ 30,161 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -652,7 +650,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 19.5k • 🔱 2.3k • 8h ago
+⭐ 19.5k • 🔱 2.3k • 16m ago
 
 ---
 
@@ -662,7 +660,17 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.5k • 🔱 440 • 2d ago
+⭐ 3.6k • 🔱 443 • 2d ago
+
+---
+
+**[yetone/cumora](https://github.com/yetone/cumora)**
+
+Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+`TypeScript`
+
+⭐ 3.3k • 🔱 404 • 4h ago
 
 ---
 
@@ -673,16 +681,6 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
 ⭐ 3.3k • 🔱 258 • 19d ago
-
----
-
-**[yetone/cumora](https://github.com/yetone/cumora)**
-
-Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-
-`TypeScript`
-
-⭐ 3.3k • 🔱 400 • 30m ago
 
 ---
 
@@ -702,7 +700,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 2.8k • 🔱 167 • 1d ago
+⭐ 2.8k • 🔱 172 • 1d ago
 
 ---
 
@@ -722,7 +720,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 308 • 4d ago
+⭐ 2.4k • 🔱 311 • 4d ago
 
 ---
 
@@ -732,7 +730,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.1k • 🔱 198 • 1d ago
+⭐ 2.1k • 🔱 198 • 2d ago
 
 ---
 
@@ -742,7 +740,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 13h ago
+⭐ 1.9k • 🔱 1.3k • 18h ago
 
 ---
 

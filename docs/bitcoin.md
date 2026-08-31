@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-30T23:42:56.639758+00:00'
+updated: '2026-08-31T04:07:09.743913+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 30, 2026 at 23:42 UTC  
+**Last Updated:** August 31, 2026 at 04:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,712.60
+### $77,552.23
 
 ---
 
@@ -54,23 +54,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1556.32B
+**Market Cap:** $1558.65B
 Rank #1
 
-**Circulating Supply:** 20,077,371 BTC
+**Circulating Supply:** 20,077,531 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.4%
 
 **All-Time Low:** $67.81
-+114204.7%
++114363.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 69
+### 62
 **GREED**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[They just never stop hating lol](https://www.reddit.com/r/Bitcoin/comments/1w25f47/they_just_never_stop_hating_lol/)**
 
-21h ago
+1d ago
 
 ---
 
 **[Get ready for Dune 3...arrives December 18!](https://www.reddit.com/r/Bitcoin/comments/1w2b9id/get_ready_for_dune_3arrives_december_18/)**
 
-15h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[MEXICAN BILLIONAIRE: Rent your home. Go ALL-IN on Bitcoin. Ricardo Salinas says to convert every dime of cash straight into BTC.](https://www.reddit.com/r/Bitcoin/comments/1w28d5n/mexican_billionaire_rent_your_home_go_allin_on/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[I hope the sold vespa guy is okay](https://www.reddit.com/r/Bitcoin/comments/1w2crwp/i_hope_the_sold_vespa_guy_is_okay/)**
 
-14h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ Rank #1
 
 **[I hope the sold vespa guy are okay](https://www.reddit.com/r/Bitcoin/comments/1w2crux/i_hope_the_sold_vespa_guy_are_okay/)**
 
-14h ago
+18h ago
 
 ---
 
@@ -141,11 +141,9 @@ Rank #1
 
 ## Google News: "bitcoin"
 
-**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
+**[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
-Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
-
-The Motley Fool • 23h ago
+KFOR • 2d ago
 
 ---
 
@@ -157,11 +155,11 @@ Forbes • 1d ago
 
 ---
 
-**[Billionaire hedge fund manager bets on ex-Bitcoin miners](https://finance.yahoo.com/markets/crypto/articles/billionaire-hedge-fund-manager-bets-230000941.html)**
+**[Eric Trump Says American Bitcoin Mines Up to 13 BTC Daily at 49% Margins](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-025800334.html)**
 
-Billionaire Dan Loeb’s hedge fund invests in Bitcoin miners turning to AI.
+American Bitcoin mines 11 to 13 BTC daily at 49% margins, Eric Trump says, matching the miner's own quarterly filings.
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -169,7 +167,29 @@ Yahoo Finance • 42m ago
 
 US policy shifts are reshaping 60/40 portfolios with SCHD & QQQ-like stocks, while bitcoin and gold rise as “protest assets.” Learn what to do now.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 19h ago
+
+---
+
+**[Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?](https://finance.yahoo.com/markets/crypto/articles/strategy-bitcoin-2-8-billion-193955159.html)**
+
+A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's "We're Back" post fueled speculation that Strategy may resume buying.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin rises, while Michael Saylor signals Strategy may have resumed purchases](https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months)**
+
+CoinDesk • 12h ago
+
+---
+
+**[Michael Saylor Hints At Strategy’s Return To Bitcoin Buying After 10-Week Hiatus](https://www.tradingview.com/news/stocktwits:b5bc6ab79094b:0-michael-saylor-hints-at-strategy-s-return-to-bitcoin-buying-after-10-week-hiatus/)**
+
+Strategy Inc (MSTR) Executive Chairman Michael Saylor dropped a new hint that the firm may be getting ready to restart buying Bitcoin (BTC), tweeting “We’re ₿ack,” after a 10-week hiatus.As of Saylor’s post on Sunday, the firm’s Bitcoin purchase tracker showed total holdings of 840,447 BTC, worth…
+
+TradingView • 11h ago
 
 ---
 
@@ -181,37 +201,17 @@ Morningstar • 1d ago
 
 ---
 
-**[Bitcoin wallets untouched for 10 years moved $40 million worth of coins](https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges)**
-
-CoinDesk • 1d ago
-
----
-
-**[El Reno water leak traced to Bitcoin mining property](https://www.news9.com/oklahoma-city-news/el-reno-water-leak-bitcoin-mining-property)**
-
-Officials say a damaged private water line caused El Reno to lose more than 3 million gallons of water and forced schools to close.
-
-News 9 • 1d ago
-
----
-
-**[Michael Saylor Hints At Strategy’s Return To Bitcoin Buying After 10-Week Hiatus](https://www.tradingview.com/news/stocktwits:b5bc6ab79094b:0-michael-saylor-hints-at-strategy-s-return-to-bitcoin-buying-after-10-week-hiatus/)**
-
-Strategy Inc (MSTR) Executive Chairman Michael Saylor dropped a new hint that the firm may be getting ready to restart buying Bitcoin (BTC), tweeting “We’re ₿ack,” after a 10-week hiatus.As of Saylor’s post on Sunday, the firm’s Bitcoin purchase tracker showed total holdings of 840,447 BTC, worth…
-
-TradingView • 7h ago
-
----
-
 **[Bitcoin hovers near $78,000 as global ETFs access shapes next adoption wave](https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-near-78000-as-global-etfs-access-shapes-next-adoption-wave-4882030)**
 
-Investing.com • 14h ago
+Investing.com • 19h ago
 
 ---
 
-**[Bitcoin Slips Below $80,000 After Kevin Warsh Inflation Vow](https://www.bloomberg.com/news/articles/2026-08-28/bitcoin-slips-below-80-000-after-kevin-warsh-inflation-vow)**
+**[Can Bitcoin Reach $1 Million by 2030? One Crypto Leader Is Skeptical.](https://www.fool.com/investing/2026/08/30/can-bitcoin-reach-1-million-by-2030-one-crypto-lea/)**
 
-Bloomberg.com • 2d ago
+Exuberance begets price targets that tend to be hard to reach.
+
+The Motley Fool • 17h ago
 
 ---
 
@@ -239,7 +239,7 @@ Finally, a killer use case
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 5 • 💬 0 • 4d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 5 • 💬 0 • 5d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -267,9 +267,17 @@ Finally, a killer use case
 
 ---
 
+**[Ireland Moves $38M in Bitcoin Tied to Drug Dealer's Lost Fishing Rod](https://news.ycombinator.com/item?id=49491190)**
+
+Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28, 2026, a stash of 500 $BTC moved from a wallet first created on Jan. 23, 2016. The 500 $BTC worth $38
+
+⬆️ 2 • 💬 1 • 1d ago • [cryptonews.net](https://cryptonews.net/news/bitcoin/33367182/)
+
+---
+
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 1](https://news.ycombinator.com/item?id=49497861)**
 
-⬆️ 2 • 💬 0 • 11h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
+⬆️ 2 • 💬 0 • 16h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
 
 ---
 
@@ -289,14 +297,6 @@ How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range 
 
 ---
 
-**[Audio-visual language For Bitcoin covenant use-cases](https://news.ycombinator.com/item?id=49432006)**
-
-Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.
-
-⬆️ 1 • 💬 1 • 5d ago • [getcofund.com](https://getcofund.com/research/covenants-use-case-atlas)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +307,17 @@ Disclaimer: none of this is financial advice. This is financial entertainment. F
 
 📺 Adam Livingston
 
-👁️ 15K • 👍 947 • 💬 126 • ⏱️ 22:55 • 11h ago
+👁️ 18K • 👍 1K • 💬 137 • ⏱️ 22:55 • 16h ago
+
+---
+
+**[“My $40K Bitcoin Call Was WRONG, But I’m 100% CERTAIN of THIS...”   Arthur Hayes](https://www.youtube.com/watch?v=4RWASUYCLqg)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 13K • 👍 169 • 💬 14 • ⏱️ 15:30 • 10h ago
 
 ---
 
@@ -317,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 148K • 👍 3K • 💬 178 • ⏱️ 1:03:32 • 1d ago
+👁️ 152K • 👍 3K • 💬 178 • ⏱️ 1:03:32 • 1d ago
 
 ---
 
@@ -327,17 +337,7 @@ CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.
 
 📺 The Iced Coffee Hour
 
-👁️ 26K • 👍 288 • 💬 77 • ⏱️ 0:24 • 2d ago
-
----
-
-**[IT HAPPENS EVERY TIME - Bitcoin Price Chart Always Does This After the Bottom, Altcoin Market &amp; XRP](https://www.youtube.com/watch?v=HiDwMcteQaY)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 57K • 👍 4K • 💬 97 • ⏱️ 17:09 • 2d ago
+👁️ 27K • 👍 292 • 💬 77 • ⏱️ 0:24 • 2d ago
 
 ---
 
@@ -347,37 +347,47 @@ The Fed is trapped between inflation, rising debt costs and a bond market it can
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 1K • 💬 86 • ⏱️ 12:31 • 2d ago
+👁️ 36K • 👍 1K • 💬 84 • ⏱️ 12:31 • 2d ago
 
 ---
 
-**[The Fed Is Trying To Crash Bitcoin (But I&#39;m Still Buying This Dip)](https://www.youtube.com/watch?v=dGbIKlLipDs)**
+**[Bitcoin Greed Hits 69 While Prices Stay Low #Shorts](https://www.youtube.com/watch?v=EkYU86YgYvE)**
 
-M in crypto liquidated in one hour after Kevin Warsh's first speech as Fed Chair. I'm still buying this dip, and I'm not the only one.
+Bitcoin Greed Hits 69 While Prices Stay Low ▶️ Full episode: https://www.youtube.com/watch?v=oQbq4Gy0350 Read today's ...
 
-📺 EllioTrades
+📺 Token Metrics
 
-👁️ 32K • 👍 670 • 💬 139 • ⏱️ 15:25 • 1d ago
-
----
-
-**[Solana Is Following Ethereum’s Path Against Bitcoin](https://www.youtube.com/watch?v=wENr7Tmh4gA)**
-
-Alessandro goes deep on the one chart every altcoin holder needs to understand right now. The data is pointing to a pattern that ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 301 • 💬 11 • ⏱️ 16:35 • 1d ago
+👁️ 10 • ⏱️ 1:06 • 1h ago
 
 ---
 
-**[$13 TRILLION INSTITUTION GOES ALL IN on 5 CRYPTO COINS](https://www.youtube.com/watch?v=CHeKmJCAwKw)**
+**[Crypto is Back! Bitcoin Rallies &amp; Altcoins Wake up, SEC Releases Regulation! Zcash ETF | Zach Pandl](https://www.youtube.com/watch?v=8FV2apOQaSM)**
 
-TRILLION ⮕ 5 CRYPTO COINS ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Win a Amalfi Getaway or Patek ...
+Zach Pandl, Head of Research at Grayscale Investments, joined me to discuss Bitcoin's recent price surge, what's driving the rally, ...
 
-📺 Altcoin Daily
+📺 Thinking Crypto
 
-👁️ 65K • 👍 2K • 💬 144 • ⏱️ 8:53 • 2d ago
+👁️ 17K • 👍 330 • 💬 236 • ⏱️ 24:50 • 16h ago
+
+---
+
+**[How to Survive a Financial Apocalypse | Paolo Ardoino](https://www.youtube.com/watch?v=SZi42_rvlyY)**
+
+bitcoinnews #Crypto #finance Tether is evolving far beyond its roots as a stablecoin issuer, building a broader financial and ...
+
+📺 The Wolf Of All Streets
+
+👁️ 13K • 👍 261 • 💬 125 • ⏱️ 34:32 • 15h ago
+
+---
+
+**[Only 29% Think Bitcoin Reclaims 100k by 2027](https://www.youtube.com/watch?v=R5IO2Gk-jvk)**
+
+Kalshi has Bitcoin reclaiming 100k by January 2027 at 29%, so sentiment isn't near bullish yet, which means there's still fuel here ...
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 18 • 💬 12 • ⏱️ 0:52 • 2d ago
 
 ---
 
@@ -387,17 +397,7 @@ Gold, the Fed and a September rate hike: former Federal Reserve Bank of St. Loui
 
 📺 Kitco NEWS
 
-👁️ 56K • 👍 656 • 💬 107 • ⏱️ 34:13 • 2d ago
-
----
-
-**[The Financial System Is BREAKING. Bitcoin Isn’t.](https://www.youtube.com/watch?v=VpdRL48WTrU)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 37K • 👍 936 • 💬 65 • ⏱️ 17:11 • 10h ago
+👁️ 57K • 👍 660 • 💬 108 • ⏱️ 34:13 • 2d ago
 
 ---
 
