@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-31T11:02:48.402723+00:00",
+  "data": {
+    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+    "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+    "description": "Meta's Summer Yue says she ran OpenClaw on her inbox, but its size 'triggered compaction [and] lost my original instruction' to get her permission before deleting.",
+    "image": "https://sm.pcmag.com/t/pcmag_au/news/m/meta-secur/meta-security-researchers-ai-agent-accidentally-deleted-her_7uyw.1200.jpg",
+    "favicon": "https://www.pcmag.com/apple-touch-icon.png",
+    "site_name": "PCMag Australia",
+    "author": null,
+    "keywords": "Software & Services, AI, All About AI"
+  }
+}
