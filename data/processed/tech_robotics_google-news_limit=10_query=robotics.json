@@ -5,8 +5,18 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "The rise of physical AI: can robots save US manufacturing?",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
+      "pub_date": 1788148898.0,
+      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
+    },
+    {
       "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
       "pub_date": 1788143640.0,
@@ -15,38 +25,8 @@
       "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
     },
     {
-      "headline": "The rise of physical AI: can robots save US manufacturing?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
-      "pub_date": 1788148820.0,
-      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
-    },
-    {
-      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
-      "pub_date": 1788177720.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "pub_date": 1788015600.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
-      "source": "WIRED",
+      "source": "wired.com",
       "source_url": "https://www.wired.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5",
       "pub_date": 1787914560.0,
@@ -55,22 +35,12 @@
       "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
     },
     {
-      "headline": "Scientists build tiny robots without motors that can fly using sound waves alone",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzlmUjZCSjhaMF9hNzlIZlZqYUVoYVBHYmEwYk9VcE9xV1M2Rmg1XzlXWlVtWUU1MUNEd0J3SWdxR2VQbGxrcTVsSFdyWFNKZTdkWmFyT3otdFdIZ3pxMVQwM29ueGJXSlAteUs4NlZDdEwxRFVuaHVoSExQMmhTYmVOZjhhYVdrV293elEwNEZSUGN4WFE5LS1XNHd3SFd3VHhqbEJ0WTNENnhMZW1xSTA4d3RDcjFNOFNHemVPaHJWdl9KMnBn?oc=5",
-      "pub_date": 1788174000.0,
-      "article_url": "https://www.livescience.com/technology/robotics/scientists-build-tiny-robots-without-motors-that-can-fly-using-sound-waves-alone",
-      "image": "https://cdn.mos.cms.futurecdn.net/FtDwPcCmwJ5VnxsncKzaLU-2000-80.jpg",
-      "description": "A century-old trick for tuning musical instruments has been repurposed to power robots that fly, float and steer themselves using nothing but sound waves."
-    },
-    {
-      "headline": "A soft 3D-printed robotic hand that gently grips everything from eggs to a 1 kg water bottle",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMFhIWEFtQ1NveG9pZVdMZUdHR2hLYTR1N2hHRDRmdEh2VHpaa2pndXhpNHBhX3QtQnZzYVpPd0FyZTVjbDBSdjktYXlPelNuRmNycThvUTkzclZBOERFUjNFZm9TRXE4M1RrcHN4QkpvSzhJTE9B?oc=5",
-      "pub_date": 1788181208.0,
-      "article_url": "https://techxplore.com/news/2026-08-soft-3d-robotic-gently-eggs.html",
+      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
+      "pub_date": 1788177720.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
       "image": null,
       "description": null
     },
@@ -85,26 +55,56 @@
       "description": null
     },
     {
-      "headline": "Robotics company doubles space in HQ move",
-      "source": "yahoo.com",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTFsbWtwYWJTaXpwZzdOU0I1Zkp3UF8xRHQySlpOREYtVml4b3ZEaWZVenpOZWRKbmREaGVXUzB4dEFURnE2SE1FVDhqYWZaSGxBajV2ZGFDQlVuOE5OV0p4NzdmVHc2UHBKSzhQTHdYMGNaNzRncFduTXgyWGNtRGRkMDh6TG5TNTdCSA?oc=5",
-      "pub_date": 1788189775.0,
-      "article_url": "https://www.yahoo.com/news/articles/robotics-company-doubles-space-hq-152255995.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3949b8a443ec1f95023b3e638d878d88c5a5cea90969b1478adae23394fd5d8c/lightyear_networkapi/resizefill_w300_h225%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsoc_cox_articles_386%2F26154bfb3cd3a48f1299777e5cbef357.jpg",
-      "description": "Lucid Bots has signed a lease to relocate its headquarters to a north Charlotte facility that\u2019s double the size of its current location."
+      "headline": "Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMWXZhRkN1ZFVVSXZLZmNzQXZxc0tvZWoyenlrU19NMWtHRzFIQkVYR1dTbFdGbmczZ0tnTFJ6TW9yQnEzRmhQbWRieFZ4NTd1ZWdCOEhtWTBGWjRDR3IxblpPdFdjUWM2MjJVUXNZc0QwM2dIa2JCRGhQZUM2N1NTWHFmZWhiM05vd1I3Y2NDMmJGRGd4ZThtWW9COC1faXQzcjlhb2tQc2RqRzBfZnhGRV9pclFoU2N6Ymp2Wnl3Zw?oc=5",
+      "pub_date": 1788184860.0,
+      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building",
+      "image": "https://tii.imgix.net/production/articles/17746/7a23cbd0-865b-4638-82aa-f1b98aebfcc4-lOC8zX.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "For all the talk of robots that look like humans, the next robots to move into people\u2019s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ..."
     },
     {
-      "headline": "Arlington schools' new student center features high-tech robotics hub",
-      "source": "FOX 5 DC",
-      "source_url": "https://www.fox5dc.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92YXJiUzRvRE52OWJCbU9WdlZEc09rcVpiZWxYTE9mQTBBXzVENkVuVWpieVFZeW56Q0JoWjNENzFZcGcxTHBMTVB5RWdKUHBOc1UzSEFEYmtoSGxYd2fSAWNBVV95cUxObVI0WjBldzhEdHBDUmd6S1o4bTlOVnJaWXJ0OG95cHlmX1lTeE1kd3d6MHZ0MldGcXgtLTFrR1QtUm1VZGZXcF9ScWRscnpMV2lFdXVmcmtma05fU1dlNDNkak0?oc=5",
-      "pub_date": 1788177681.0,
-      "article_url": "https://www.fox5dc.com/video/fmc-teqdqsi6aeo66r4b",
-      "image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/h8wl5zlnlkqdvmqu/1200/630/1bch20cn6yqo9gux.jpg?ve=1&tl=1",
-      "description": "Get a first look inside the brand-new Grace Hopper Center as Arlington Public Schools kicks off the school year."
+      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
+      "pub_date": 1788015600.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
+      "pub_date": 1788086419.0,
+      "article_url": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223825-17628031882025-11-10t192658z_1221773642_rc2qthabok7h_rtrmadp_0_usa-stocks.jpeg?v=1762803208&w=1920&h=1080",
+      "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
+    },
+    {
+      "headline": "China\u2019s robots race ahead",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
+      "pub_date": 1788091200.0,
+      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
+    },
+    {
+      "headline": "Meet the humanoid robots cleaning homes for $30 an hour",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1Z0TTBZSDVRVWJiLXpVdUJOcmdkLVJiTjRQSUR6UHc0bEphcjNSOXN2elNBWWhYMkJQR2M2N3hUTGwtOFJfS3Jub25Qby16YXlZaWswb1R3ajdGRjI4Q19KVFdWMW9JZ1BERElPbTlHMi1PX2VfVlZqNXhrU3lxa2t3TTQtN2hra1h4TjN5LUdOdw?oc=5",
+      "pub_date": 1787965378.0,
+      "article_url": "https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_08/1787965203531_now_topstory_humanoid_robots_cleaning_260828_S3_1920x1080-lhqana.jpg",
+      "description": "These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-31T18:04:59.826213+00:00"
+  "fetched_at": "2026-08-31T22:58:32.978679+00:00"
 }
