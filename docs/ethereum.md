@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-31T11:03:20.018858+00:00'
+updated: '2026-08-31T18:05:02.932467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 31, 2026 at 11:03 UTC  
+**Last Updated:** August 31, 2026 at 18:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,411.57
+### $2,465.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -0.8%  
-**30d:** +28.6%  
-**90d:** +33.5%  
-**1y:** -43.8%  
+**24h:** +0.7%  
+**7d:** +1.4%  
+**30d:** +31.5%  
+**90d:** +36.5%  
+**1y:** -42.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $296.08B
+**Market Cap:** $298.61B
 Rank #2
 
 **Circulating Supply:** 120,681,146 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.0%
 
 **All-Time Low:** $0.43
-+566382.4%
++571154.0%
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I run a pipeline that enriches crypto wallet addresses with the kind of labels you'd normally dig out of block explorers and intelligence platforms one address at a time: Entity / owner - e.g. Binance: Hot Wallet, Coinbase: Cold Wallet, Deribit Category tags - Centralized Exchange, Hot/Cold Wallet, Mixer, Gambling, Sanctioned (OFAC/UK), High Transacting, etc. First-funder relationships and contract flags Per-chain coverage - Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche and more, one row per network Format: clean CSV/JSON, your list in → labeled list out. Turnaround is fast (100k addresses in under an hour) and pricing is a fraction of what intelligence-platform subscriptions cost - it scales down to small one-off lists and up to millions of addresses. Useful if you're doing compliance/AML screening, fraud or theft investigations, exchange flow analysis, dataset enrichment for research, or tagging counterparties in your own analytics. DM me with roughly how many addresses and what chains - I'll quote you same day. Happy to run a free sample on 50–100 of your addresses first so you can judge the quality yourself.
 
-1d ago
+2d ago
 
 ---
 
 **[ethstaker-deposit-cli 1.3.1 pre-release](https://www.reddit.com/r/ethereum/comments/1w1lqgs/ethstakerdepositcli_131_prerelease/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/7q249awEnEM) • 2d ago
+🔗 [youtu.be](https://youtu.be/7q249awEnEM) • 3d ago
 
 ---
 
@@ -118,7 +118,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hey all! I’ve updated my MinaGraph Explorer app, and it’s now more powerful than ever! 🚀 Track movements between wallets across dozens of blockchains in a highly visual and interactive way. 🎥 Take a tour with my latest video presentation: https://youtu.be/kc6tiI7DLiE?is=rsSelIazh8DRQhER 🌐 And try it yourself: https://webapp.minagraph.com Happy exploring!
 
-2d ago
+3d ago
 
 ---
 
@@ -126,7 +126,7 @@ Hey all! I’ve updated my MinaGraph Explorer app, and it’s now more powerful 
 
 Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegotá upgrade
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-37/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-37/) • 3d ago
 
 ---
 
@@ -150,19 +150,11 @@ Would like some advice from the community. I am new and I currently have some a 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-crypto-best-163039694.html)**
-
-Bitcoin, Ethereum, and XRP have each staged a sharp two-week comeback after months of losses, but the catalysts driving each coin point in very different directions for the year ahead.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/)**
 
 Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -170,31 +162,21 @@ Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare pri
 
 DonAlt says Ethereum has crypto’s cleanest chart as ETH holds a major breakout, while XRP cools after its sharp August rally.
 
-Coinpaper • 23h ago
+Coinpaper • 1d ago
 
 ---
 
-**[Robinhood Chain generated $2.66 million in app revenue in 24 hours, surpassing Ethereum and Hyperliquid L1.](https://pluang.com/en/news-feed/pendapatan-aplikasi-robinhood-chain-lebih-besar-dari-ethereum-hyperliquid)**
+**[Ethereum ETFs attract $60M in one day, surpassi...](https://pluang.com/en/news-feed/etf-ethereum-tarik-minat-institusional-60juta-dalam-sehari)**
 
-Robinhood Chain's applications generated $2.66 million in revenue within 24 hours on August 30, outperforming established platforms like Ethereum ($1.27 million) and Hyperliquid L1 ($1.7 million). This significant revenue, largely driven by Gmgn, Pons, and Uniswap, highlights Robinhood Chain's rapid growth since its July 1 launch. While Hyperliquid still dominates in perpetual futures volume, Robinhood Chain's success in app revenue indicates its effectiveness in attracting retail trading activity and generating fees.
+US spot Ethereum ETFs saw net inflows of $60.86 million on August 5, 2026, contributing to a total of over $12 billion in cumulative inflows since their launch in July 2024. BlackRock's iShares Ethereum Trust (ETHA) dominates the market, holding nearly half to over two-thirds of assets under management. August 2026 marked a strong month with over $1.42 billion in inflows during a nine-to-ten day buying streak, highlighting growing institutional interest in Ethereum. This trend signals significant real capital entering Ethereum ETFs, with BlackRock and Grayscale expanding their product offerings.
 
-Pluang • 2h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://www.tradingview.com/news/coinpedia:ead13c347094b:0-bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
-
-Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape the Federal Reserve’s next policy move and, by extension, crypto’s near-term direction.Current Market SnapshotThe Data Calendar Traders Are Watchi…
-
-TradingView • 19h ago
+Pluang • 28m ago
 
 ---
 
-**[Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run](https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend)**
+**[Ethereum Sheds 0.9% -- Crypto Mover](https://www.moomoo.com/news/post/75582461/ethereum-sheds-0-9-crypto-mover)**
 
-Spot Bitcoin ETFs broke a nine-day winning streak on Friday, shedding money just as their Ethereum counterparts kept pulling in fresh cash.
-
-Decrypt • 13h ago
+Moomoo • 58m ago
 
 ---
 
@@ -202,31 +184,45 @@ Decrypt • 13h ago
 
 Tom Lee said Ethereum was still “vastly undervalued”, given its use in the settlement of AI agent transactions that legacy payment rails are unable to support.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Russia’s Largest Bank Wants Bitcoin and Ethereum as Collateral](https://beincrypto.com/sberbank-crypto-loan-collateral-russia/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html)**
 
-Sberbank plans bitcoin, ether and USDT loan collateral as Russia's crypto law starts, but domestic payments stay banned.
+Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
 
-BeInCrypto • 16h ago
-
----
-
-**[What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?](https://coinpedia.org/news/what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/)**
-
-The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and
-
-Coinpedia • 1d ago
+PR Newswire • 5h ago
 
 ---
 
-**[A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily](https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/)**
+**[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
 
-More than 2 million Ethereum is queued for activation on the blockchain as staked supply climbs above 42 million ETH.
+CoinDesk • 5h ago
 
-CryptoSlate • 2h ago
+---
+
+**[What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?](https://www.tradingview.com/news/coinpedia:584e6235e094b:0-what-happens-to-bitcoin-ethereum-and-xrp-if-the-clarity-act-passes/)**
+
+The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
+
+TradingView • 1d ago
+
+---
+
+**[Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees](https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees)**
+
+Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.
+
+Decrypt • 5h ago
+
+---
+
+**[Current price of Ethereum for August 31, 2026](https://fortune.com/article/price-of-ethereum-08-31-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -240,7 +236,7 @@ Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't t
 
 📺 The Rollup
 
-👁️ 5K • 👍 62 • 💬 3 • ⏱️ 7:49 • 10h ago
+👁️ 6K • 👍 75 • 💬 9 • ⏱️ 7:49 • 17h ago
 
 ---
 
@@ -250,7 +246,7 @@ Some people will get it and some wont. Some people will invest and make tons of 
 
 📺 The Modern Investor
 
-👁️ 693 • 👍 129 • 💬 15 • ⏱️ 33:07 • 33m ago
+👁️ 10K • 👍 722 • 💬 158 • ⏱️ 33:07 • 7h ago
 
 ---
 
@@ -260,27 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 222 • 💬 93 • ⏱️ 15:57 • 18h ago
-
----
-
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
-
-We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 171 • 💬 9 • ⏱️ 7:32 • 21h ago
-
----
-
-**[&quot;Ethereum Is Going to Be a Behemoth” And Almost Nobody Is Positioned for It](https://www.youtube.com/watch?v=pPY1qsjYS8c)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 17K • 👍 254 • 💬 161 • ⏱️ 15:06 • 1d ago
+👁️ 13K • 👍 259 • 💬 14 • ⏱️ 15:57 • 1d ago
 
 ---
 
@@ -290,7 +266,27 @@ Ethereum already broke through $2360, and the next major level I'm watching is $
 
 📺 The Moon Show
 
-👁️ 6K • 👍 126 • 💬 1 • ⏱️ 1:15 • 1d ago
+👁️ 6K • 👍 129 • 💬 1 • ⏱️ 1:15 • 1d ago
+
+---
+
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
+
+We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
+
+📺 More Crypto Online
+
+👁️ 7K • 👍 172 • 💬 9 • ⏱️ 7:32 • 1d ago
+
+---
+
+**[&quot;Ethereum Is Going to Be a Behemoth” And Almost Nobody Is Positioned for It](https://www.youtube.com/watch?v=pPY1qsjYS8c)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 19K • 👍 273 • 💬 157 • ⏱️ 15:06 • 2d ago
 
 ---
 
@@ -300,37 +296,37 @@ Alessandro goes deep on the one chart every altcoin holder needs to understand r
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 311 • 💬 11 • ⏱️ 16:35 • 1d ago
+👁️ 19K • 👍 314 • 💬 11 • ⏱️ 16:35 • 2d ago
 
 ---
 
-**[Raoul Pal :&quot;Nobody Will Believe my LATEST PREDICTION for Bitcoin &amp; Ethereum&quot;](https://www.youtube.com/watch?v=hoiWOtszjW8)**
+**[BITCOIN LIQUIDATIONS COMING SOON (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HAjrB2XmTYI)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BITCOIN LIQUIDATIONS COMING SOON (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 26K • 👍 407 • 💬 44 • ⏱️ 15:34 • 2d ago
-
----
-
-**[ETH PREDICTION FOR NEXT WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=SPgSAwqoNJU)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 2K • 👍 28 • 💬 10 • ⏱️ 5:39 • 1d ago
+👁️ 12K • 👍 290 • 💬 210 • ⏱️ 15:35 • 14h ago
 
 ---
 
-**[&quot;$150K BTC &amp; $6K ETH! What’s Coming Will Be Much Bigger Than You Think&quot; - Tom Lee](https://www.youtube.com/watch?v=uHrKUmjRnGU)**
+**[where is crypto heading next? (AMA Bitcoin PulseChain HEX Ethereum)](https://www.youtube.com/watch?v=0ZB_iEOTHY0)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
 
-📺 Savvy Finance
+📺 Crypto Coffee
 
-👁️ 7K • 👍 131 • 💬 1 • ⏱️ 17:22 • 2d ago
+👁️ 3K • 👍 170 • 💬 11 • ⏱️ 58:10 • 15h ago
+
+---
+
+**[Ethereum: The 200-Week MA Buying Opportunity! #shorts](https://www.youtube.com/watch?v=Qr3KYDhiVv8)**
+
+Historically, ETH at or below the 200-week moving average signals a major buying opportunity. Despite current market uncertainty ...
+
+📺 CryptoLabs Research | Defi Income & Investing
+
+👁️ 8 • 👍 1 • ⏱️ 1:07 • 8m ago
 
 ---
 

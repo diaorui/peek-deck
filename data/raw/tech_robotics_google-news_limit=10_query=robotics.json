@@ -5,7 +5,7 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
@@ -13,6 +13,36 @@
       "article_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
       "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
+    },
+    {
+      "headline": "The rise of physical AI: can robots save US manufacturing?",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
+      "pub_date": 1788148820.0,
+      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
+    },
+    {
+      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
+      "pub_date": 1788177720.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
+      "pub_date": 1788015600.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
@@ -25,86 +55,56 @@
       "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
     },
     {
-      "headline": "The rise of physical AI: can robots save US manufacturing?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
-      "pub_date": 1788148898.0,
-      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
+      "headline": "Scientists build tiny robots without motors that can fly using sound waves alone",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzlmUjZCSjhaMF9hNzlIZlZqYUVoYVBHYmEwYk9VcE9xV1M2Rmg1XzlXWlVtWUU1MUNEd0J3SWdxR2VQbGxrcTVsSFdyWFNKZTdkWmFyT3otdFdIZ3pxMVQwM29ueGJXSlAteUs4NlZDdEwxRFVuaHVoSExQMmhTYmVOZjhhYVdrV293elEwNEZSUGN4WFE5LS1XNHd3SFd3VHhqbEJ0WTNENnhMZW1xSTA4d3RDcjFNOFNHemVPaHJWdl9KMnBn?oc=5",
+      "pub_date": 1788174000.0,
+      "article_url": "https://www.livescience.com/technology/robotics/scientists-build-tiny-robots-without-motors-that-can-fly-using-sound-waves-alone",
+      "image": "https://cdn.mos.cms.futurecdn.net/FtDwPcCmwJ5VnxsncKzaLU-2000-80.jpg",
+      "description": "A century-old trick for tuning musical instruments has been repurposed to power robots that fly, float and steer themselves using nothing but sound waves."
     },
     {
-      "headline": "China\u2019s robots race ahead",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
-      "pub_date": 1788091200.0,
-      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
-      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
-    },
-    {
-      "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
-      "pub_date": 1788086419.0,
-      "article_url": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108223825-17628031882025-11-10t192658z_1221773642_rc2qthabok7h_rtrmadp_0_usa-stocks.jpeg?v=1762803208&w=1920&h=1080",
-      "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
-    },
-    {
-      "headline": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEhEdUxOLWhXMjJQbGFrSk9aWi1mak9aWk1mV1JtcGEtVncwSV96ek1FRExUalJXNzBSakEtaU1QczhjWm1CcWJxY0pwS2NzQ2d5OElXeTR5cG5hdDFYWHQ3T2s4UnFFWUpITmFzWlNHTzNSeTlqSHdjdHN2eVNPa0pRclBzU09wQy16b0VxeUtsR29TamptdFdXbGEwZzFQ?oc=5",
-      "pub_date": 1787994060.0,
-      "article_url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8",
-      "image": "https://i.insider.com/6a885c948a99fa493d60ec36?width=1200&format=jpeg",
-      "description": "The CEO of robotics firm Reimagine Robotics said that the startup plans to build actually useful robots by turning its customers into teachers."
-    },
-    {
-      "headline": "FibTac : a fiber-based pneumatic gripper with embodied tactile sensing",
-      "source": "Nature",
-      "source_url": "https://www.nature.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Qk94ckNoTjhqZGEtSGZkVFpGZWx5bWdPYzNzWUF3ejhodnNWcFl1cFYtR0t5MG5JNnB2R04wNmx1LUFyOWdnUnJiLTNkc0NHWGhiODVUSnBlMDM0Um9B?oc=5",
-      "pub_date": 1788171908.0,
-      "article_url": "https://www.nature.com/articles/s44182-026-00112-0",
+      "headline": "A soft 3D-printed robotic hand that gently grips everything from eggs to a 1 kg water bottle",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMFhIWEFtQ1NveG9pZVdMZUdHR2hLYTR1N2hHRDRmdEh2VHpaa2pndXhpNHBhX3QtQnZzYVpPd0FyZTVjbDBSdjktYXlPelNuRmNycThvUTkzclZBOERFUjNFZm9TRXE4M1RrcHN4QkpvSzhJTE9B?oc=5",
+      "pub_date": 1788181208.0,
+      "article_url": "https://techxplore.com/news/2026-08-soft-3d-robotic-gently-eggs.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "China\u2019s record robotic strides show the limits of human speed",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNURxNldrZFI4VWJWMEQ1bGhaVEVNZk9ObXpXaC01dHFNTm5INFFhOHlxSTZmNXpTdGw4ZF9SNWdvaGsyYTJFNXBhMmtqbGNKMHp1cFlpQXZrYUxBV1RhRWdJV0ZVbzJXWkxycjZHdEtsZ2hoSG9LM25QVHBTd25oTFlsTzF1bTJ1NUM1ek0zWGlwWVZwVloxUjEwbFNJeHZxZUJua2x0SEVoSE5r?oc=5",
-      "pub_date": 1787910244.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/chinas-record-robotic-strides-show-limits-human-speed-2026-08-28/",
+      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
+      "pub_date": 1788149460.0,
+      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
       "image": null,
       "description": null
     },
     {
-      "headline": "They run, box and crash: inside the jaw-dropping world robot games",
-      "source": "Futura, le m\u00e9dia qui explore le monde",
-      "source_url": "https://www.futura-sciences.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUE5YZlJEVV9udkctVUtCZ1ZvQ3dvVmNIMDhoRUpod1Eyb0p6cktsYmhndjBOSUxkVGpkUDFEM2EtbXpaSVlXeS1uOEw1blp6TjR6VExKeFQyM1dBUTZIR0VZMkFyaXJ1cEtuSnNocnNjX25rSEVCaldINndTbGE3d0s5Uk5pUEJqQ3U2cXV1bmFNUHdxM0l1SHdyZkZVYTU3am15SE9XZnFmUQ?oc=5",
-      "pub_date": 1788132218.0,
-      "article_url": "https://www.futura-sciences.com/en/they-run-box-and-crash-inside-the-jaw-dropping-world-robot-games_38324/",
-      "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/08/they-run-box-and-crash-inside-the-jaw-dropping-world-robot-games.webp",
-      "description": "High Speed, World Records, and a Sprinkle of Calamity Imagine this: a Chinese humanoid robot sprints 100 meters in just 9.39 seconds, smashing Usain Bolt\u2019s legendary record of 9.58 seconds. But before you call for a new Olympics, know that this metallic sprinter had a dramatic finish\u2014crashing straight into safety..."
+      "headline": "Robotics company doubles space in HQ move",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTFsbWtwYWJTaXpwZzdOU0I1Zkp3UF8xRHQySlpOREYtVml4b3ZEaWZVenpOZWRKbmREaGVXUzB4dEFURnE2SE1FVDhqYWZaSGxBajV2ZGFDQlVuOE5OV0p4NzdmVHc2UHBKSzhQTHdYMGNaNzRncFduTXgyWGNtRGRkMDh6TG5TNTdCSA?oc=5",
+      "pub_date": 1788189775.0,
+      "article_url": "https://www.yahoo.com/news/articles/robotics-company-doubles-space-hq-152255995.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3949b8a443ec1f95023b3e638d878d88c5a5cea90969b1478adae23394fd5d8c/lightyear_networkapi/resizefill_w300_h225%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsoc_cox_articles_386%2F26154bfb3cd3a48f1299777e5cbef357.jpg",
+      "description": "Lucid Bots has signed a lease to relocate its headquarters to a north Charlotte facility that\u2019s double the size of its current location."
     },
     {
-      "headline": "Faraday Future expands robotics push in Middle East, set to launch new products",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTQzQlU3VC13RjhOOURVZ2RHVkRrbmpENTRsLTlRVnNYYnQ4TXlHN3ZRVzV3NU1NWUw3MHp2dk5XNTFQV09ybzAtc05LclZnYV9rNnFWY0VFOTRSY3pobS1QSnd0ODJxYi1WSTZJNGZhR2tSLVlzdWJyUFJPSlN0blBqWDNlSzdFek5Ic3k2cmZCZTZiRjRSQVN2bldWSDE5TGZWNllpVW92aW1HSzk4NV9lSkVFMU5MajZvdkZLeUR0bEN2ZngwRWVlNTk3SmZZ?oc=5",
-      "pub_date": 1788124530.0,
-      "article_url": "https://www.investing.com/news/stock-market-news/faraday-future-expands-robotics-push-in-middle-east-set-to-launch-new-products-4882072",
-      "image": null,
-      "description": null
+      "headline": "Arlington schools' new student center features high-tech robotics hub",
+      "source": "FOX 5 DC",
+      "source_url": "https://www.fox5dc.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92YXJiUzRvRE52OWJCbU9WdlZEc09rcVpiZWxYTE9mQTBBXzVENkVuVWpieVFZeW56Q0JoWjNENzFZcGcxTHBMTVB5RWdKUHBOc1UzSEFEYmtoSGxYd2fSAWNBVV95cUxObVI0WjBldzhEdHBDUmd6S1o4bTlOVnJaWXJ0OG95cHlmX1lTeE1kd3d6MHZ0MldGcXgtLTFrR1QtUm1VZGZXcF9ScWRscnpMV2lFdXVmcmtma05fU1dlNDNkak0?oc=5",
+      "pub_date": 1788177681.0,
+      "article_url": "https://www.fox5dc.com/video/fmc-teqdqsi6aeo66r4b",
+      "image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/h8wl5zlnlkqdvmqu/1200/630/1bch20cn6yqo9gux.jpg?ve=1&tl=1",
+      "description": "Get a first look inside the brand-new Grace Hopper Center as Arlington Public Schools kicks off the school year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-31T11:03:09.579953+00:00"
+  "fetched_at": "2026-08-31T18:04:59.826213+00:00"
 }

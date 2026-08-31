@@ -75,20 +75,6 @@
       "site_name": "LBC"
     },
     {
-      "title": "Bitcoin is great (for systemic theft of aid money)",
-      "url": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
-      "hn_url": "https://news.ycombinator.com/item?id=49421102",
-      "author": "imichael",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-08-24T15:24:32Z",
-      "object_id": "49421102",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57e730af-ad4b-4863-98be-129ae88e4f8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Finally, a killer use case",
-      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
-      "site_name": "ft.com"
-    },
-    {
       "title": "Ireland Moves $38M in Bitcoin Tied to Drug Dealer's Lost Fishing Rod",
       "url": "https://cryptonews.net/news/bitcoin/33367182/",
       "hn_url": "https://news.ycombinator.com/item?id=49491190",
@@ -143,9 +129,23 @@
       "description": "How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.",
       "favicon": "https://krackpot.io/favicon.ico",
       "site_name": "Krackpot"
+    },
+    {
+      "title": "Audio-visual language For Bitcoin covenant use-cases",
+      "url": "https://getcofund.com/research/covenants-use-case-atlas",
+      "hn_url": "https://news.ycombinator.com/item?id=49432006",
+      "author": "setzeus",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-08-25T11:19:50Z",
+      "object_id": "49432006",
+      "image": "https://getcofund.com/research/covenants-use-case-atlas/og.gif?v=tkakwq",
+      "description": "Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.",
+      "favicon": "https://getcofund.com/favicon.ico",
+      "site_name": "getcofund.com"
     }
   ],
   "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-08-31T11:02:49.019639+00:00"
+  "fetched_at": "2026-08-31T18:04:24.465576+00:00"
 }

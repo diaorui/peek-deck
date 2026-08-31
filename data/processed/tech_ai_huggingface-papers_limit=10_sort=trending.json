@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2608.16157",
       "arxiv_url": "https://arxiv.org/abs/2608.16157",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 103,
+      "upvotes": 104,
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 10142,
+      "github_stars": 10387,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 101878,
+      "github_stars": 101953,
       "project_page": null
     },
     {
@@ -111,8 +111,46 @@
       "num_comments": 2,
       "published_at": "2026-08-24T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeMM-Embedding",
-      "github_stars": 947,
+      "github_stars": 998,
       "project_page": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "id": "2608.27529",
+      "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+      "authors": "Jiarong Han, Jincheng Xiong, Yuzhou Liu et al. (9 authors)",
+      "organization_name": "acvlab",
+      "organization_fullname": "Alibaba AMAP CV Lab",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6414106ce7d5f817d204e160/dfveRtrRy8Xn7QpG684zl.png",
+      "summary": "Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation. Early streaming models achieve causal, bounded-cost inference using finite context buffers or compact recurrent states, yet their estimates often deteriorate as sequences grow. Recent methods improve long-horizon stability by coupling short-range context with persistent or multi-level long-range memory. We pursue a different route: we keep the learned temporal state strictly local and formulate predictions whose targets remain independent of sequence length. We present ABot-Recon, a simple streaming model that caches KV features from only the preceding 11 frames. It predicts a point map in the current camera coordinate system together with an adjacent-frame relative pose. These predictions remain equivariant under changes of reference frame, and global poses and geometry are recovered through sequential composition. To reduce accumulated drift, a lightweight temporal refiner improves relative rotations using recent visual and motion context, while a composition-aware pose loss supervises multi-step pose composition. Extensive evaluations on challenging long-sequence benchmarks demonstrate the superior long-horizon performance of our local-context approach. On Oxford Spires, ABot-Recon achieves an ATE of 4.35 m and an RPE-R of 0.12^circ, reducing both errors by approximately 40\\% relative to the best prior results.",
+      "ai_summary": "ABot-Recon achieves stable long-horizon streaming 3D reconstruction by using only local temporal context and frame-independent predictions composed sequentially, reducing drift via a lightweight temporal refiner and composition-aware pose loss.",
+      "hf_url": "https://huggingface.co/papers/2608.27529",
+      "arxiv_url": "https://arxiv.org/abs/2608.27529",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27529.png",
+      "upvotes": 28,
+      "num_comments": 3,
+      "published_at": "2026-08-26T20:00:00.000Z",
+      "github_repo": "https://github.com/amap-cvlab/ABot-Recon",
+      "github_stars": 298,
+      "project_page": "https://amap-cvlab.github.io/ABot-Recon-html/"
+    },
+    {
+      "id": "2608.27549",
+      "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "authors": "Hanyang Wang, Yimo Cai, Weiliang Chen et al. (17 authors)",
+      "organization_name": "MirroS-Lab",
+      "organization_fullname": "MirroS",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/643b866bff50448bcfc7d1d1/pSoXy9fqBTNK3AUuisaH-.png",
+      "summary": "Physical understanding and reasoning depend on forming compact and generalizable representations of the world. While modern vision-language models can recognize and explain diverse physical events, they often lack explicit representations of the underlying mechanisms-such as object states, physical parameters, and governing dynamics-needed for reliably reasoning how the world evolves and responds to interventions. In this work, we introduce Code-as-World, a paradigm that represents physical worlds through executable world representations. By expressing physical composition, dynamic evolution, and visual appearance as executable code, Code-as-World provides a compact, quantitatively grounded, and controllable abstraction of the physical world. To construct such representations from multimodal observations, such as natural-language descriptions or real-world videos, we develop an agentic discovery loop inspired by abductive reasoning, where an agent proposes, executes, renders, verifies, and iteratively refines executable world hypotheses. As a concrete application, we use verified executable worlds to provide scalable physical supervision for training vision-language models on quantitative physical reasoning. Experiments show that Code-as-World-VL achieves state-of-the-art performance on QuantiPhy and surpasses leading proprietary models, highlighting the potential of executable world representations as a scalable foundation for physical intelligence.",
+      "ai_summary": "Code-as-World represents physical environments as executable code to enable quantitative reasoning and scalable supervision for vision-language models.",
+      "hf_url": "https://huggingface.co/papers/2608.27549",
+      "arxiv_url": "https://arxiv.org/abs/2608.27549",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27549.png",
+      "upvotes": 38,
+      "num_comments": 1,
+      "published_at": "2026-08-26T20:00:00.000Z",
+      "github_repo": "https://github.com/mirros-lab/code-as-world",
+      "github_stars": 263,
+      "project_page": "https://mirros-lab.github.io/code-as-world"
     },
     {
       "id": "2407.16741",
@@ -130,26 +168,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 85705,
-      "project_page": null
-    },
-    {
-      "id": "2407.04051",
-      "title": "FunAudioLLM: Voice Understanding and Generation Foundation Models for\n  Natural Interaction Between Humans and LLMs",
-      "authors": "Tongyi SpeechTeam",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "This report introduces FunAudioLLM, a model family designed to enhance\nnatural voice interactions between humans and large language models (LLMs). At\nits core are two innovative models: SenseVoice, which handles multilingual\nspeech recognition, emotion recognition, and audio event detection; and\nCosyVoice, which facilitates natural speech generation with control over\nmultiple languages, timbre, speaking style, and speaker identity.\nSenseVoice-Small delivers exceptionally low-latency ASR for 5 languages, and\nSenseVoice-Large supports high-precision ASR for over 50 languages, while\nCosyVoice excels in multi-lingual voice generation, zero-shot in-context\nlearning, cross-lingual voice cloning, and instruction-following capabilities.\nThe models related to SenseVoice and CosyVoice have been open-sourced on\nModelscope and Huggingface, along with the corresponding training, inference,\nand fine-tuning codes released on GitHub. By integrating these models with\nLLMs, FunAudioLLM enables applications such as speech-to-speech translation,\nemotional voice chat, interactive podcasts, and expressive audiobook narration,\nthereby pushing the boundaries of voice interaction technology. Demos are\navailable at https://fun-audio-llm.github.io, and the code can be accessed at\nhttps://github.com/FunAudioLLM.",
-      "ai_summary": "FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.",
-      "hf_url": "https://huggingface.co/papers/2407.04051",
-      "arxiv_url": "https://arxiv.org/abs/2407.04051",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.04051.png",
-      "upvotes": 40,
-      "num_comments": 1,
-      "published_at": "2024-07-04T12:49:02.000Z",
-      "github_repo": "https://github.com/funaudiollm/cosyvoice",
-      "github_stars": 23369,
+      "github_stars": 85751,
       "project_page": null
     },
     {
@@ -168,30 +187,11 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 30161,
-      "project_page": null
-    },
-    {
-      "id": "2508.16279",
-      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
-      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
-      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
-      "hf_url": "https://huggingface.co/papers/2508.16279",
-      "arxiv_url": "https://arxiv.org/abs/2508.16279",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
-      "upvotes": 68,
-      "num_comments": 4,
-      "published_at": "2025-08-22T06:35:56.000Z",
-      "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 30164,
+      "github_stars": 30224,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-08-31T11:02:58.496588+00:00"
+  "fetched_at": "2026-08-31T18:04:34.183733+00:00"
 }
