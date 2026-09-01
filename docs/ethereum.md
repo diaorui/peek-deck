@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-31T22:59:01.180782+00:00'
+updated: '2026-09-01T01:46:31.256463+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 31, 2026 at 22:59 UTC  
+**Last Updated:** September 01, 2026 at 01:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +1.1%  
-**30d:** +31.1%  
-**90d:** +36.1%  
-**1y:** -42.6%  
+**24h:** -1.5%  
+**7d:** -1.5%  
+**30d:** +32.7%  
+**90d:** +39.3%  
+**1y:** -43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.00B
+**Market Cap:** $297.56B
 Rank #2
 
-**Circulating Supply:** 120,681,146 ETH
+**Circulating Supply:** 120,681,093 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.1%
+-50.2%
 
 **All-Time Low:** $0.43
-+570274.1%
++569338.7%
 
 ---
 
@@ -150,6 +150,14 @@ Would like some advice from the community. I am new and I currently have some a 
 
 ## Google News: "ethereum"
 
+**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
+
+Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
+
+Decrypt • 7h ago
+
+---
+
 **[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/)**
 
 Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today.
@@ -158,11 +166,19 @@ Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare pri
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall Amid Fresh US-Iran Escalation: Analyst Says BTC Facing 'Final Hurdl](https://www.benzinga.com/crypto/cryptocurrency/26/08/61513381/bitcoin-ethereum-xrp-dogecoin-fall-us-iran-escalation-btc-highs)**
+**[Ethereum holds $2,500 as ETF demand rises, offs...](https://pluang.com/en/news-feed/ethereum-leverage-turun-dramatis-dukungan-etf-menjaga-harga)**
 
-Leading cryptocurrencies slid on Sunday, August 30, after the U.S. and Iran resumed hostilities after a nearly month-long lull in fighting.
+Ethereum's price remains near $2,500 despite a dramatic 90.9% drop in leveraged trading on Binance and Bybit, indicating the rally is less reliant on derivatives. Institutional demand through U.S.-based Ethereum spot ETFs, especially BlackRock's ETHA, has surged with $1.5 billion invested over 10 days, supporting price stability without adding leverage. However, large whale deposits totaling over 40,000 ETH on major exchanges pose a supply test that ETF demand must absorb to maintain the price. The balance between rising institutional ETF inflows and potential whale selling will be key to Ethereum's near-term price direction.
 
-Benzinga • 21h ago
+Pluang • 1h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html)**
+
+Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
+
+PR Newswire • 13h ago
 
 ---
 
@@ -174,17 +190,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html)**
-
-Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
-
-PR Newswire • 10h ago
-
----
-
 **[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -196,27 +204,11 @@ TradingView • 1d ago
 
 ---
 
-**[Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees](https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees)**
-
-Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.
-
-Decrypt • 10h ago
-
----
-
-**[Sberbank Plans Bitcoin, Ethereum and Tether as Loan Collateral](https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral)**
-
-Sberbank plans to accept bitcoin, Ethereum and Tether as loan collateral after new rules take effect and the Bank of Russia approves the assets.
-
-The Defiant • 5h ago
-
----
-
 **[Current price of Ethereum for August 31, 2026](https://fortune.com/article/price-of-ethereum-08-31-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+fortune.com • 12h ago
 
 ---
 
@@ -224,7 +216,15 @@ Fortune • 10h ago
 
 DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 7h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
+
+Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
+
+Coinpedia • 22h ago
 
 ---
 
@@ -232,13 +232,23 @@ markets.businessinsider.com • 4h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Right Before Crypto Goes Parabolic, Ethereum Always Does This](https://www.youtube.com/watch?v=YkOrogr_ntM)**
+
+Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST GETAWAY: ...
+
+📺 Altcoin Daily
+
+👁️ 5K • 👍 496 • 💬 24 • ⏱️ 9:05 • 1h ago
+
+---
+
 **[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
 
 WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 212 • 💬 12 • ⏱️ 41:55 • 4h ago
+👁️ 6K • 👍 224 • 💬 14 • ⏱️ 41:55 • 7h ago
 
 ---
 
@@ -248,7 +258,7 @@ Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't t
 
 📺 The Rollup
 
-👁️ 7K • 👍 78 • 💬 9 • ⏱️ 7:49 • 22h ago
+👁️ 8K • 👍 82 • 💬 9 • ⏱️ 7:49 • 1d ago
 
 ---
 
@@ -258,17 +268,15 @@ Some people will get it and some wont. Some people will invest and make tons of 
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 785 • 💬 291 • ⏱️ 33:07 • 12h ago
+👁️ 12K • 👍 801 • 💬 294 • ⏱️ 33:07 • 15h ago
 
 ---
 
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=dv_XIROh0Q4)**
+**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
 
-In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 invalidation level for our current micro triangle ...
+📺 CryptoWendyO
 
-📺 More Crypto Online
-
-👁️ 6K • 👍 171 • 💬 10 • ⏱️ 7:19 • 7h ago
+👁️ 495 • 👍 59 • 💬 1 • ⏱️ 2:17 • 45m ago
 
 ---
 
@@ -278,17 +286,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 284 • 💬 18 • ⏱️ 15:57 • 1d ago
+👁️ 15K • 👍 290 • 💬 14 • ⏱️ 15:57 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0dG0y_EyPwo)**
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=dv_XIROh0Q4)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 invalidation level for our current micro triangle ...
 
-📺 Profit First
+📺 More Crypto Online
 
-👁️ 2K • 👍 65 • ⏱️ 6:17 • 8h ago
+👁️ 7K • 👍 178 • 💬 10 • ⏱️ 7:19 • 10h ago
 
 ---
 
@@ -298,7 +306,7 @@ Ethereum already broke through $2360, and the next major level I'm watching is $
 
 📺 The Moon Show
 
-👁️ 7K • 👍 133 • 💬 1 • ⏱️ 1:15 • 1d ago
+👁️ 7K • 👍 133 • 💬 1 • ⏱️ 1:15 • 2d ago
 
 ---
 
@@ -308,27 +316,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 20K • 👍 279 • 💬 155 • ⏱️ 15:06 • 2d ago
+👁️ 20K • 👍 283 • 💬 155 • ⏱️ 15:06 • 2d ago
 
 ---
 
-**[Solana Is Following Ethereum’s Path Against Bitcoin](https://www.youtube.com/watch?v=wENr7Tmh4gA)**
+**[Robinhood Chain Dominated Ethereum Ecossytem (Important Data Shared)](https://www.youtube.com/watch?v=1m7IDP69ITA)**
 
-Alessandro goes deep on the one chart every altcoin holder needs to understand right now. The data is pointing to a pattern that ...
+Robinhood Chain Dominating Ethereum Ecosystem. Wait until you see the data behind this and you will understand just how ...
 
-📺 Crypto Banter
+📺 Zach Humphries
 
-👁️ 20K • 👍 314 • 💬 11 • ⏱️ 16:35 • 2d ago
-
----
-
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=JJXygtror9E)**
-
-We analyze the Ethereum Elliott Wave structure as of August 30, 2026, targeting $2751 as the next potential upside resistance ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 173 • 💬 9 • ⏱️ 7:32 • 1d ago
+👁️ 2K • 👍 28 • 💬 19 • ⏱️ 5:44 • 12h ago
 
 ---
 
