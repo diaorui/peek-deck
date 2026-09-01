@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-01T12:41:19.583876+00:00'
+updated: '2026-09-01T17:11:23.575069+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 12:41 UTC  
+**Last Updated:** September 01, 2026 at 17:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,476.54
+### $2,439.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -2.6%  
-**30d:** +31.2%  
-**90d:** +37.7%  
-**1y:** -43.7%  
+**24h:** -1.8%  
+**7d:** -2.9%  
+**30d:** +30.9%  
+**90d:** +37.4%  
+**1y:** -43.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.99B
+**Market Cap:** $293.34B
 Rank #2
 
 **Circulating Supply:** 120,681,093 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.8%
 
 **All-Time Low:** $0.43
-+564423.9%
++561370.6%
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I run a pipeline that enriches crypto wallet addresses with the kind of labels you'd normally dig out of block explorers and intelligence platforms one address at a time: Entity / owner - e.g. Binance: Hot Wallet, Coinbase: Cold Wallet, Deribit Category tags - Centralized Exchange, Hot/Cold Wallet, Mixer, Gambling, Sanctioned (OFAC/UK), High Transacting, etc. First-funder relationships and contract flags Per-chain coverage - Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche and more, one row per network Format: clean CSV/JSON, your list in → labeled list out. Turnaround is fast (100k addresses in under an hour) and pricing is a fraction of what intelligence-platform subscriptions cost - it scales down to small one-off lists and up to millions of addresses. Useful if you're doing compliance/AML screening, fraud or theft investigations, exchange flow analysis, dataset enrichment for research, or tagging counterparties in your own analytics. DM me with roughly how many addresses and what chains - I'll quote you same day. Happy to run a free sample on 50–100 of your addresses first so you can judge the quality yourself.
 
-2d ago
+3d ago
 
 ---
 
 **[ethstaker-deposit-cli 1.3.1 pre-release](https://www.reddit.com/r/ethereum/comments/1w1lqgs/ethstakerdepositcli_131_prerelease/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -126,7 +126,7 @@ Hey all! I’ve updated my MinaGraph Explorer app, and it’s now more powerful 
 
 Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegotá upgrade
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-37/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-37/) • 4d ago
 
 ---
 
@@ -150,41 +150,43 @@ Would like some advice from the community. I am new and I currently have some a 
 
 ## Google News: "ethereum"
 
-**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
+**[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
 
-Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
+Tom Lee said Ethereum could reach $6,000 if Bitcoin climbs to $150,000 and the ETH/BTC ratio rises to 0.04. The BitMine chairman believes the CLARITY ...
 
-Decrypt • 17h ago
-
----
-
-**[Ethereum rises 2.25% to $2,471 amid strong Augu...](https://pluang.com/en/news-feed/harga-ethereum-eth-pindah-102913-eth-nilai-2486-juta)**
-
-Ethereum's price increased by 2.25% to $2,471.16, following a strong 32.8% gain in August. The price remains above key technical support at $2,247.57, signaling bullish momentum, while resistance sits near $2,783.71. A large whale moved over 102,000 ETH, partly sending some to exchanges, which could influence selling pressure. Ethereum's derivatives market shows high activity with open interest surpassing $30 billion and trading volume over $90 billion, indicating strong trader interest as the market watches key price levels for the next move.
-
-Pluang • 2h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Current price of Ethereum for Sept. 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
+**[Lido funds ValOS to boost Ethereum validator se...](https://pluang.com/en/news-feed/lido-dan-inisiatif-valos-tingkatkan-standar-validator-ethereum)**
+
+Lido DAO is funding ValOS, a new framework aimed at improving security, resilience, and transparency for Ethereum validators by aligning with enterprise standards like ISO 27001 and SOC 2. Through its LEGO grants program, Lido allocated $60K to subsidize half the cost of assurance reviews for early adopters, lowering barriers for smaller node operators. ValOS builds on the earlier DUCK initiative and provides open-source tools and governance for professional-grade audits, enhancing trust in Ethereum staking operations. This move encourages wider adoption of rigorous security practices among Ethereum validators.
+
+Pluang • 1h ago
+
+---
+
+**[ARK, Glassnode Rank Bitcoin Most Decentralized – Ethereum, Solana Face Different Trade-Offs](https://finance.yahoo.com/markets/crypto/articles/ark-glassnode-rank-bitcoin-most-161304985.html)**
+
+Bitcoin ranked as the most decentralized of the three networks studied, although the report also highlighted concentration risks in its mining sector.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Ethereum price stalls between $2,400-$2,500 ami...](https://pluang.com/en/news-feed/harga-ethereum-risiko-tarik-ulur-macd-mendatar)**
+
+Ethereum price remains range-bound between $2,400 support and $2,500 resistance, showing weak momentum and low trading volume. Despite this, US spot Ethereum ETFs attracted $87.68 million in inflows, indicating continued investor interest. Key levels to watch are $2,400 on the downside and $2,500 on the upside; a break could signal either a renewed rally or a deeper correction. The market awaits a decisive move outside this range for clearer direction.
+
+Pluang • 3h ago
+
+---
+
+**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 41m ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
-
-CoinDesk • 23h ago
-
----
-
-**[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-crypto-best-163039694.html)**
-
-Bitcoin, Ethereum, and XRP have each staged a sharp two-week comeback after months of losses, but the catalysts driving each coin point in very different directions for the year ahead.
-
-Yahoo Finance • 2d ago
+Fortune • 4h ago
 
 ---
 
@@ -192,7 +194,23 @@ Yahoo Finance • 2d ago
 
 Bitcoin traded around $79,000 on Monday after Strategy announced its first Bitcoin purchase in months.Notable Statistics:Notable Developments:Trader Notes:Crypto trader Kevin says Bitcoin and Ethereum are heading for strong monthly closes, with daily trend reversals and improving higher-timeframe m…
 
-TradingView • 17h ago
+TradingView • 22h ago
+
+---
+
+**[Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees](https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees)**
+
+Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.
+
+Decrypt • 1d ago
+
+---
+
+**[Sberbank Plans Bitcoin, Ethereum and Tether as Loan Collateral](https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral)**
+
+Sberbank plans to accept bitcoin, Ethereum and Tether as loan collateral after new rules take effect and the Bank of Russia approves the assets.
+
+The Defiant • 19h ago
 
 ---
 
@@ -200,31 +218,15 @@ TradingView • 17h ago
 
 DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
+**[Ethereum Whale: Deposits 167855 ETH to Exchanges](https://blockchain.news/flashnews/ethereum-whale-deposits-167855-eth-exchanges)**
 
-Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
+Ethereum whale moves 167855 ETH ($408M) to exchanges with 97715 ETH remaining, pressuring ETH price prediction amid neutral RSI on 4h chart.
 
-Coinpedia • 1d ago
-
----
-
-**[A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily](https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/)**
-
-More than 2 million Ethereum is queued for activation on the blockchain as staked supply climbs above 42 million ETH.
-
-CryptoSlate • 1d ago
-
----
-
-**[Bitcoin Gains After Strategy Resumes Buying: Ethereum, XRP, Dogecoin Also Rally: Analyst Sees 'Very Long](https://www.benzinga.com/crypto/cryptocurrency/26/08/61538600/bitcoin-ethereum-xrp-dogecoin-crypto-strategy)**
-
-Leading cryptocurrencies rose on Monday, August 30, as investors increased risk appetite, spurred by whale investors’ purchases.
-
-Benzinga • 10h ago
+blockchain.news • 13h ago
 
 ---
 
@@ -238,7 +240,7 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 67 • ⏱️ 9:05 • 12h ago
+👁️ 48K • 👍 2K • 💬 82 • ⏱️ 9:05 • 17h ago
 
 ---
 
@@ -248,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 306 • 💬 19 • ⏱️ 15:57 • 1d ago
+👁️ 17K • 👍 308 • 💬 19 • ⏱️ 15:57 • 2d ago
 
 ---
 
@@ -258,17 +260,7 @@ Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡�
 
 📺 Koenz Trading
 
-👁️ 82 • 👍 20 • 💬 5 • ⏱️ 1:55 • 41m ago
-
----
-
-**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
-
-WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 253 • 💬 15 • ⏱️ 41:55 • 18h ago
+👁️ 568 • 👍 47 • 💬 7 • ⏱️ 1:55 • 5h ago
 
 ---
 
@@ -276,7 +268,7 @@ WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SU
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 278 • 💬 9 • ⏱️ 2:17 • 11h ago
+👁️ 6K • 👍 333 • 💬 13 • ⏱️ 2:17 • 16h ago
 
 ---
 
@@ -286,27 +278,37 @@ Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't t
 
 📺 The Rollup
 
-👁️ 9K • 👍 85 • 💬 10 • ⏱️ 7:49 • 1d ago
+👁️ 9K • 👍 86 • 💬 12 • ⏱️ 7:49 • 1d ago
 
 ---
 
-**[WHEN WILL ETH BREAKOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=A-i-qvcmz7w)**
+**[Live Trading in Crypto &amp; Gold | Live BTC ETH Trading | XAUUSD Live Trade](https://www.youtube.com/watch?v=4BdCukk3vSI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
 
-📺 Cilinix Crypto
+📺 Invest For Wealth
 
-👁️ 213 • 👍 18 • 💬 1 • ⏱️ 5:15 • 3h ago
+👁️ 2K • 👍 414 • 2h ago
 
 ---
 
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=dv_XIROh0Q4)**
+**[BTC &amp; ETH Scalping LIVE 🔥 | XAUT + US Stock Tokens | Real-Time Setups](https://www.youtube.com/watch?v=69kmcQDgmls)**
 
-In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 invalidation level for our current micro triangle ...
+Welcome to our live session where we break down the current market structure for BTC (Bitcoin) and ETH (Ethereum).
 
-📺 More Crypto Online
+📺 Delta Exchange
 
-👁️ 8K • 👍 201 • 💬 11 • ⏱️ 7:19 • 21h ago
+👁️ 4K • 👍 235 • 4h ago
+
+---
+
+**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
+
+WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 259 • 💬 24 • ⏱️ 41:55 • 22h ago
 
 ---
 
@@ -316,17 +318,17 @@ Some people will get it and some wont. Some people will invest and make tons of 
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 834 • 💬 293 • ⏱️ 33:07 • 1d ago
+👁️ 13K • 👍 834 • 💬 290 • ⏱️ 33:07 • 1d ago
 
 ---
 
-**[Real Signal or Bull Trap? Bitcoin + Ethereum](https://www.youtube.com/watch?v=hz43q4xEQD4)**
+**[WHEN WILL ETH BREAKOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=A-i-qvcmz7w)**
 
-Ethereum is leading right now, but is it confirming the breakout or lying? Ethereum has now made its first swing higher high, ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Conquer Trading & Investing
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 93 • 💬 9 • ⏱️ 26:17 • 7h ago
+👁️ 576 • 👍 20 • 💬 1 • ⏱️ 5:15 • 8h ago
 
 ---
 
