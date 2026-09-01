@@ -15,6 +15,66 @@
       "description": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor."
     },
     {
+      "headline": "Side of slop? Bizarre AI food images jump from online to IRL menus",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWF96Zm5BMFFSb0RjTURFWFZTc1VhU0JrUmJ0c3dKSmg4RHE4Zk5TRUNDR3EyclkyUnBzQm1JeWx6aW1RQ1JhZE4wRUtpVDR0LVJkN3FoU3EtXzhlRXRfTFdnUmZtTFBrMXFuMUJYVU5xalplSGc1TUIyOU1QUnF2Wk5JeWNHbEFhSmRrM0FzVTdfMTQ4UGlQQnhSU1U1YmlaeUJJYTB4bw?oc=5",
+      "pub_date": 1788285641.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260831-ai-food-menu-vl-536p-7842c2.jpg",
+      "description": "The confluence of lingering cost pressures and advancing technology appears to be translating into a boom in smaller businesses\u2019 deploying AI-designed graphics and logos."
+    },
+    {
+      "headline": "AI Security Is Now a Core Part of Linux Infrastructure",
+      "source": "Linux Journal",
+      "source_url": "https://www.linuxjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFdka3FNc1QxUURfZ2VsMURoT20wY1YySHBpdHNhRG5WaEhxc1lpYkdGWGZ1MDhxVExhZmwwQ1FEWkdESWpBUE4tN1hYMkRFcjRJaEtBTjd0S1ZJLWJ1UVJWemVqdzZCbzdqdExXUDEzemFXTUVPOV9CaEt3WHQ0VGxPcDdDQnRuSjNz?oc=5",
+      "pub_date": 1788301692.0,
+      "article_url": "https://www.linuxjournal.com/content/ai-security-now-core-part-linux-infrastructure",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nampa Police use AI translation technology to communicate in the field",
+      "source": "KBOI",
+      "source_url": "https://idahonews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU191T1Ayd2VxUm1ieDNSNjBrTzRRRlhiMUMzcm8wcWc4RmtHMk91cWxsVmRaYkFjNWJiNWpUeXhGbEZBekhlbXZoM3NZS1YtRWlqV0g5Tkp5SWRxeHdNVFplZGJadmtORVZSNjZrSzdOeTV0UC1wRnIzZHFBZ1BYUWpucmdBakJvajhyOHlGOUpidnE3MWlqdUZ2Y3JTMWlvNnptNlB3?oc=5",
+      "pub_date": 1788302271.0,
+      "article_url": "https://idahonews.com/news/local/nampa-police-use-ai-translation-technology-to-communicate-in-the-field",
+      "image": "https://idahonews.com/resources/media2/16x9/634/1320/0x20/90/ee128a84-4778-4452-8c2e-43a7f466f8bb-Screenshot20260901163033.png",
+      "description": "Artificial intelligence is becoming another tool available to Nampa Police officers, this time helping with communication in the field.The Nampa Police Departme"
+    },
+    {
+      "headline": "NYC public schools to ban generative AI for students in elementary and middle school",
+      "source": "New York Daily News",
+      "source_url": "https://www.nydailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjNRZXVZbUFYWFIyOFYyWm5Sd2t6N0hQYzA1Z3J1cHc3dDJ3WWZVUFlRUTVmTV9rMHpVMjJUcFJQQ1hRWDlDMG5rTXlLcjJGSnpPZUI3a1NUQlpqbnloTzMwUHpmbTJyXzBrNHZXMmMzaUtiMmE1VmxwN2phTmhGczN2Y3B6YTJKcEJUNDFGc0JGRXBwaXZ2cWt1c1didl9pdFEwelRXNEZmRHdNYVBxb1gybEFENnhLbU54RmhMQXJKZw?oc=5",
+      "pub_date": 1788301020.0,
+      "article_url": "https://www.nydailynews.com/2026/09/01/nyc-public-schools-to-ban-generative-ai-for-students-in-elementary-and-middle-school/",
+      "image": "https://www.nydailynews.com/wp-content/uploads/2026/08/shutterstock_2679742319.jpg?w=8256&h=5504",
+      "description": "The policy also bans individual devices in 2-K through 2nd grade."
+    },
+    {
+      "headline": ":Claude: Fable 5.1 and Mythos 5.1",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+      "pub_date": 1788285685.0,
+      "article_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
+      "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress."
+    },
+    {
+      "headline": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDBCU21lQ1ltM2VTSms4NUZabnY4a3p4M0s3eEhGbnNnMUZ6TDdrc0pKZE1VVjhsbkd6TkQxR2xkVUotTDRYX1ZlNThVS1RzUnlYbFB5eE11NFBwZHhRc0wyOVFVeDl3QjVxS0NjTVNidXpQQnpkNmNIU1VhVExuSUc5RdIBiAFBVV95cUxOR3E3YlQtWkRyQk5XaWw2NGlRTGRjUmxYaDY0b3NTaks4eGdwdjg5S3hJN0Q1SjNZUW03NzZzS1BqTHQ4LWFCV2loZWVVbkZ3ZG5uaUVWQXJ3c3V4T3BCYzRZR25xcWZ6Nldna0laWGJ2QVJVY3dQRkxNUlVyLUNxXzJoeXIzbHNZ?oc=5",
+      "pub_date": 1788294167.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357298-1788293064418-108357298-1788292981392-gettyimages-2262023886-INDIA_AI_SUMMIT.jpeg?v=1788293096&w=1920&h=1080",
+      "description": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools"
+    },
+    {
       "headline": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,86 +85,26 @@
       "description": null
     },
     {
-      "headline": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
+      "headline": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5",
-      "pub_date": 1788290340.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
-      "image": "https://i.guim.co.uk/img/media/37a0b2654aa5ba6dafe6392d6ecce7f201a2f116/208_442_2782_2226/master/2782.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62624c1494e37a521c9cd8dd1b091ff7",
-      "description": "Exclusive: financial disclosures from Emil Michael \u2013 who also reaped millions from xAI stock earlier this year \u2013 show he sold his Perplexity stock for up to $25m"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGZIekI3RUhxeW8zS2RjeVFBaVNFZGNBUHI1QTJzcTBqSDJDaEVlbXhQZjUzMXhZSnotcjc5S0RuME5JZ1BJeGE1eW1lSEhFUDA5OXdqNnFYTXRHVms1cF9FbkxIZXI3SC00cmNJaWFmOGJWSkFwSUFObEZOWTh4Rm90ZDVHbXJHN21zS0h3NG13XzN3SndTaS1YaVpkTnM?oc=5",
+      "pub_date": 1788301020.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
+      "image": "https://i.guim.co.uk/img/media/5cda859030c3982d393b86028743f07da95852db/81_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9dce9f61671c7edb141438989e7e2484",
+      "description": "University\u2019s move is part of trend that critics within academia say will lead to further staff cuts and the loss of \u2018everything that makes the job worth doing\u2019"
     },
     {
-      "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5",
-      "pub_date": 1788291962.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282828-1774447284388-gettyimages-2265766831-cros-notitle260305_npx66.jpeg?v=1788282183&w=1920&h=1080",
-      "description": "Meta Platforms has become a battleground stock."
-    },
-    {
-      "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEJSdHB2UlNFcTd3RVBRQW9lS0FQeHowT21lQllvNWhkaDVWYmMzd3F4ZVF2dnhrYm9XXzlFSzVZMk1aMEpGVWFnM1ZzcjFlNlZXZDFSYzVRNzZtQlExdDF4UUxWWWN5VHJ3QW9jZmVHaFpqVlpZdDdXSTFwNEQzWjFBUUk4LVhjanByckY3WmlISnFXMWpWdUxyNXYxeFN2SGowVkY1cU7SAa4BQVVfeXFMUFVyRHR2cjZPeF9mVmM1dnFzUV9lbXgtRWpPbGRJMzhyS2xZUldNcXQ3dVo5S09UZ29KRWdwQ2FPaDgyMGtXOF9kZ0RlMHBibDZNYUluejhyOHNSMHpBNnNnemFnNTJIaWFkV3FEcW9qMHVFN1hpT1dpb3RlMmRTem10SUNTSHlQd0NPWFlJVmtZZnRRZWdyYm4wcnJTM0VVeHJoOXk3WTdMZ09UdTJR?oc=5",
-      "pub_date": 1788260401.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342126-1785364582239-gettyimages-2287953463-sc2_0391_r6gxooeo.jpeg?v=1785364652&w=1920&h=1080",
-      "description": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming."
-    },
-    {
-      "headline": "Tim Cook did alright by the environment \u2014 but AI could upend his climate legacy",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm5XTzhZMW4waTRtRG9qOUJIYU1wbU9BTVhCZ29oRTVycmdaYnBWV0lILWdISDVzZGZ1Y1JqWWlSOGVvRjlZRjFXLTVfbTRidFJZWi1vMENyeVIxVzhkVlhJVko2TGNIRWZzaWVOWXFNNDl4Vk14UjhBMTNfUjJDSDZUQ1BEeExXNU83RnJB?oc=5",
-      "pub_date": 1788291819.0,
-      "article_url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951501/VRG_Illo_STK170_L_Normand_TimCook_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "He leaves \u201cagainst a dark backdrop.\u201d"
-    },
-    {
-      "headline": "Tim Cook's legacy hinges on Apple's AI bet",
-      "source": "axios.com",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQjRRTDdMRldXdDdFcUxJR1VYYktvTmlzYWNkLXZlelUxSlJKZ0lkREtwU1VCZUlpSGljODJqcVlYamt6ZUk5M2FhREpJejBQOWhYVHpCWVRFSEgxN2FGaEFSNUpCUnRSQ0JNVTUzQlNtVjNsRjRUcEJsQlhYdw?oc=5",
-      "pub_date": 1788254835.0,
-      "article_url": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uaXRJY0tyQ0JVcHZoRXIxNWZBVnZrMzF2dW5UcjNRWDFwdnFORzBxblRZQ3kxLTB3bmVVbW9OXy14TFR6WG5fMmd2Tkh1aW9VSnlyWWMxUQ?oc=5",
-      "pub_date": 1788239483.0,
-      "article_url": "https://www.bbc.com/news/videos/cvgy4ddx1q8o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
-      "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it."
-    },
-    {
-      "headline": "Own a gun? Go to church? Do yoga? AI can find out in seconds.",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmpjTlEzcUlCYkh1SFJldjFmNV9xa2dnTGJ5MHlBdjlkVm1FX1BJNXRBUG1fZkF5bVRxQ1FzOG5VWU9NcDkwMklocFVvZE9lLWQ4aXF1Z29qdHBfUjNXUTJKcEM5dkg1X0ROYktKX3lCek1BTTI2cXBGRnhKV3kwZHlJUmtKVmZwYk5tenBIWXFocEpzRUlia09SdDVCTVpGMWh1OXBxSlpfUUFjdHpJM0NDSHYtcjhW?oc=5",
-      "pub_date": 1788252300.0,
-      "article_url": "https://www.politico.com/news/2026/09/01/wake-up-call-for-congress-lawmakers-get-a-big-brother-warning-on-ai-01054087",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5",
-      "pub_date": 1788285662.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
-      "image": null,
-      "description": null
+      "headline": "Japan is using AI, drones and wolf robots to keep bears at bay",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWZrSTQzRDBrVDZOX29laU9OTV9nODFlNy1uYklyMUZQYno3U05TUEpvR09pT2FlMHNCbkF2eEFhOFR5clNhT1NDXzRNcVQ2NFpoZnhUVjVCdU04ZFN5dkFJYTZsZlROZnV4N3g3R19LQTlDNEtOUVFHY1pxM3hFOVpiZC1HS0taZDY1ZUE2MVFjS2JZb0lzOUt5UUNiQQ?oc=5",
+      "pub_date": 1788226020.0,
+      "article_url": "https://www.cnn.com/world/asia/japan-using-ai-drones-and-wolf-robots-to-keep-bears-at-bay-c2e-spc",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818034021354.jpg?c=16x9&q=w_800,c_fill",
+      "description": "With bear attacks on the rise, Japan is looking to high-tech solutions \u2014 and traditional ones."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T20:03:50.693018+00:00"
+  "fetched_at": "2026-09-01T22:44:17.215524+00:00"
 }
