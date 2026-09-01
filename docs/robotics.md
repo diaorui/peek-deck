@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-31T22:59:01.183348+00:00'
+updated: '2026-09-01T01:46:31.259328+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 31, 2026 at 22:59 UTC  
+**Last Updated:** September 01, 2026 at 01:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Guys, can I get recommendations on motor drivers. It's for a new build I'm worki
 
 I've been doing a lot of work over the past few years building perception and embodiment frameworks for robots. The latest version is very curious. I hadn't gotten the speaker working yet so it wasn't very chatty (although it was trying to from what the logs said) Anyways, this is Meco, say hi Meco!
 
-2d ago
+3d ago
 
 ---
 
@@ -118,7 +118,7 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
 
-Financial Times • 18h ago
+Financial Times • 21h ago
 
 ---
 
@@ -126,7 +126,7 @@ Financial Times • 18h ago
 
 The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
 
-techcrunch.com • 20h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -134,19 +134,7 @@ techcrunch.com • 20h ago
 
 The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.
 
-wired.com • 3d ago
-
----
-
-**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
-
-OregonLive.com • 10h ago
-
----
-
-**[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
-
-AP News • 18h ago
+WIRED • 3d ago
 
 ---
 
@@ -154,7 +142,13 @@ AP News • 18h ago
 
 For all the talk of robots that look like humans, the next robots to move into people’s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ...
 
-The Information • 8h ago
+The Information • 11h ago
+
+---
+
+**[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
+
+AP News • 21h ago
 
 ---
 
@@ -164,11 +158,17 @@ WSJ • 2d ago
 
 ---
 
-**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
 
-As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
+OregonLive.com • 13h ago
 
-CNBC • 1d ago
+---
+
+**[As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production](https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html)**
+
+Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
+
+Radio Free Europe/Radio Liberty • 11h ago
 
 ---
 
@@ -180,11 +180,11 @@ The Verge • 1d ago
 
 ---
 
-**[Meet the humanoid robots cleaning homes for $30 an hour](https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517)**
+**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
 
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered.
+As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
 
-NBC News • 2d ago
+CNBC • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #c
 
 📺 news.com.au
 
-👁️ 667K • 👍 3K • 💬 959 • ⏱️ 4:02 • 6d ago
+👁️ 671K • 👍 3K • 💬 964 • ⏱️ 4:02 • 6d ago
 
 ---
 
@@ -218,17 +218,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 99K • 👍 728 • 💬 77 • ⏱️ 7:51 • 4d ago
-
----
-
-**[Robots break Usain Bolt&#39;s record at World Humanoid Games | The Morning Show](https://www.youtube.com/watch?v=aP41sTTwA-U)**
-
-The second World Humanoid Games is taking place in Beijing, featuring more than 2000 robots from 16 countries competing ...
-
-📺 Sunrise
-
-👁️ 7K • 👍 66 • ⏱️ 5:49 • 6d ago
+👁️ 99K • 👍 733 • 💬 77 • ⏱️ 7:51 • 4d ago
 
 ---
 
@@ -238,17 +228,7 @@ The second World Humanoid Games is taking place in Beijing, featuring more than 
 
 📺 XRoboHub
 
-👁️ 560K • 👍 2K • 💬 244 • ⏱️ 0:16 • 5d ago
-
----
-
-**[Robots Are Getting Too Fast... #trending #shorts #robotics](https://www.youtube.com/watch?v=jFbuRQB2q7I)**
-
-A humanoid robot has reportedly completed 100m in 9.39 seconds, challenging Usain Bolt's iconic timing. watch how the robot ...
-
-📺 Sagar Arora
-
-👁️ 575 • 👍 28 • ⏱️ 0:36 • 2h ago
+👁️ 562K • 👍 2K • 💬 245 • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -258,27 +238,7 @@ There are more than two million robots working in China's factories - which is m
 
 📺 BBC News
 
-👁️ 298K • 👍 2K • 💬 816 • ⏱️ 6:19 • 6d ago
-
----
-
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
-
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 3.8M • 👍 20K • 💬 4K • ⏱️ 4:29 • 6d ago
-
----
-
-**[Highlights from China&#39;s World Humanoid Games, and what it means for the future](https://www.youtube.com/watch?v=CFYtlCs4RhA)**
-
-China's World Humanoid Robot Games is a technological showcase, but also a possible glimpse into the future of robotics.
-
-📺 CBS Mornings
-
-👁️ 62K • 👍 403 • 💬 165 • ⏱️ 3:54 • 6d ago
+👁️ 301K • 👍 2K • 💬 827 • ⏱️ 6:19 • 6d ago
 
 ---
 
@@ -288,7 +248,47 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 152K • 👍 821 • 💬 46 • ⏱️ 0:17 • 3d ago
+👁️ 154K • 👍 826 • 💬 46 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[Highlights from China&#39;s World Humanoid Games, and what it means for the future](https://www.youtube.com/watch?v=CFYtlCs4RhA)**
+
+China's World Humanoid Robot Games is a technological showcase, but also a possible glimpse into the future of robotics.
+
+📺 CBS Mornings
+
+👁️ 62K • 👍 404 • 💬 166 • ⏱️ 3:54 • 6d ago
+
+---
+
+**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
+
+The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
+
+📺 CNA
+
+👁️ 3.9M • 👍 20K • 💬 4K • ⏱️ 4:29 • 6d ago
+
+---
+
+**[Robots Are Getting Too Fast... #trending #shorts #robotics](https://www.youtube.com/watch?v=jFbuRQB2q7I)**
+
+A humanoid robot has reportedly completed 100m in 9.39 seconds, challenging Usain Bolt's iconic timing. watch how the robot ...
+
+📺 Sagar Arora
+
+👁️ 994 • 👍 30 • ⏱️ 0:36 • 5h ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 399K • 👍 5K • 💬 9 • ⏱️ 1:01 • 2d ago
 
 ---
 

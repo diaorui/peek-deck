@@ -68,26 +68,15 @@
       "description": "I\u2019ve been noticing a strange paradox with AI-assisted coding. A few years ago, if you had an idea for a software service, building it was the hard part. You needed months of development, a decent team, money, infrastructure, and a lot of specialized knowledge. Today, one competent developer using AI can build in days or weeks what might have taken a small team months. You would think this would lead to an explosion of new software products. But I\u2019m starting to wonder if the opposite is happening. When something is difficult to build, building it creates value. There\u2019s a barrier to entry. You can spend six months creating something and reasonably believe that thousands of other people aren\u2019t going to reproduce it next weekend. Now imagine you have a great SaaS idea. You spend two weeks building it with AI. Great. But so can everyone else. And if the idea succeeds, competitors can inspect what you did and build something similar incredibly quickly. The technical moat is disappearing. That changes the psychological equation. Why spend months polishing a product when you know the implementation itself has almost no scarcity? AI may have dramatically reduced the cost of building software, while simultaneously reducing the incentive to build software. Maybe the scarce thing is no longer the ability to create the product. Maybe it\u2019s distribution, brand, proprietary data, network effects, domain expertise, or simply having customers before you start. In other words, we may be entering a world where software becomes almost free to create, but increasingly difficult to turn into a business. Does anyone else feel this? Are you building more side projects because of AI, or have you actually become less motivated because everything now feels trivially reproducible?"
     },
     {
-      "title": "I have AI fatigue",
-      "author": "Low-Faithlessness140",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3g5c4/i_have_ai_fatigue/",
-      "published": 1788188047.0,
+      "title": "Stripe CEO Surprised at Lack of Media Coverage Around OpenAI/Hugging Face Attack, Calling It One of the Most Important Events of 2026",
+      "author": "Angman_Dutt",
+      "url": "https://www.reddit.com/r/artificial/comments/1w34f28/stripe_ceo_surprised_at_lack_of_media_coverage/",
+      "published": 1788154128.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://deltiasgaming.com/stripe-ceo-surprised-at-lack-of-media-coverage-around-openai-hugging-face-attack-calling-it-one-of-the-most-important-events-of-2026/",
+      "site_name": "deltiasgaming.com",
       "favicon": null,
-      "description": "Don't get me wrong I'm not against AI in any shape or form but lately I feel like people around me just can't stop talking about it and it is driving me crazy. I can't escape it. Work, friends, family everybody keep telling me about AI, how it's dangerous, how it's great, how it works, how society is gonna collapse, how it's gonna cure cancer, how Chat jipiti is better than this guy Claude... Anyone feel the same? I know I can't be the only one."
-    },
-    {
-      "title": "NVIDIA just bought the place where most AI models live. ChatGPT started showing ads in Europe. And companies are canceling software contracts because AI builds it cheaper. Pick which one worries you most.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3mmfh/nvidia_just_bought_the_place_where_most_ai_models/",
-      "published": 1788201353.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been thinking about this all week and I keep landing on the same uncomfortable place. Hugging Face is where you go when you want AI without strings attached. Open weights, no vendor, no lock-in. That was kind of the whole point. NVIDIA reportedly just agreed to buy it for $12.9 billion. The company that manufactures the chips that run every major AI system now owns the platform where developers go to escape depending on any single company. I'm not saying NVIDIA will do something bad with it. Their track record with developer communities is actually pretty decent. But the architecture of the open source AI ecosystem just changed and most people haven't registered it yet. Meanwhile ChatGPT launched ads across 31 European countries last Sunday. Free and Go tier only, paid users are untouched. OpenAI says the ads don't influence answers. Probably true today. The question worth asking is what happens to that promise when ad revenue becomes load-bearing for the business. Sam Altman called advertising a \"last resort\" in 2024. It's now the strategy in 40 countries. And then there's the McKinsey number that got buried under the other two stories. 32% of companies skipped a software purchase this year because an AI agent built the solution internally instead. If you sell software that's a direct hit to your pipeline. If you buy software that's a budget line your finance team hasn't optimized yet. Three different moves. All pointing the same direction. Which one actually changes something for how your organization operates?"
+      "description": null
     },
     {
       "title": "How probable do you guys find existential catastrophe as a result of misaligned ASI to be?",
@@ -101,16 +90,27 @@
       "description": "I have been trying to think seriously about this for the last 5 months or so. Before this, my biggest worries about AI were the future of work, carbon footprint of rapidly scaling infrastructure, and financial speculation. But the Mythos incident, the Hugging Face incident, and spending a lot of time around AI safety/Rationality/EA spaces has led me to rethink my beliefs considerably. I'm 24 and I'm highly concerned about whether I and my civilisation is still around on my 40th birthday, or even my 30th. (Though I'm much more concerned about near-term effects of bad human actors using powerful non-superintelligent frontier AI to do dangerous things.) At the same time, I acknowledge that I'm a very anxious, neurotic person, and that these AI safety spaces seem to attract people with pessimistic worldviews. I am not the intellectual peer of the foremost AI safety thinkers in the world, not by a longshot, but I do recognise unfalsifiability when I see it. Whatever argument you give a doomer as to why doom might not happen, they can always come up with a reason why your argument doesn't work, often boiling down to \"Big-S ASI is omniscient and basically omnipotent\". But hey... they're possibly not wrong. I want to calibrate my timelines and doom probabilities holistically, which means I need to exit those spheres for a moment and ask other AI spaces (like r/artificial) what they think. What do you think?"
     },
     {
-      "title": "Stripe CEO Surprised at Lack of Media Coverage Around OpenAI/Hugging Face Attack, Calling It One of the Most Important Events of 2026",
-      "author": "Angman_Dutt",
-      "url": "https://www.reddit.com/r/artificial/comments/1w34f28/stripe_ceo_surprised_at_lack_of_media_coverage/",
-      "published": 1788154128.0,
+      "title": "We\u2019re Now Relying on AI to Police AI",
+      "author": "motherjonesmag",
+      "url": "https://www.reddit.com/r/artificial/comments/1w3lp4x/were_now_relying_on_ai_to_police_ai/",
+      "published": 1788199498.0,
+      "thumbnail": "https://external-preview.redd.it/stkycCP6aHf3M4aKqt9BczqPb1kfYA-pxHYtcnkWAAg.jpeg?width=640&crop=smart&auto=webp&s=95b89d23eb800b91bbbb67e0c28761b122593869",
+      "external_url": "http://motherjones.com/politics/2026/08/ai-safety-openai-hugging-face-hacking-metr-report",
+      "site_name": "Mother Jones",
+      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
+      "description": "A new report details startling security breaches by OpenAI agents\u2014using a model that helped cause them."
+    },
+    {
+      "title": "$100 Million in Bonuses for Human Abilities: EY Tries to Keep AI from Decimating Employees' Cognitive Abilities",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1w3s2ep/100_million_in_bonuses_for_human_abilities_ey/",
+      "published": 1788212657.0,
       "thumbnail": null,
-      "external_url": "https://deltiasgaming.com/stripe-ceo-surprised-at-lack-of-media-coverage-around-openai-hugging-face-attack-calling-it-one-of-the-most-important-events-of-2026/",
-      "site_name": "deltiasgaming.com",
+      "external_url": "https://www.wsj.com/business/ernst-young-is-giving-100-million-in-bonuses-to-staff-for-human-skills-9320e93d?mod=hp_lead_pos8",
+      "site_name": "wsj.com",
       "favicon": null,
-      "description": null
+      "description": "Firm is one of a number of companies trying to foster the critical thinking, judgment and other traits needed to better work alongside AI"
     }
   ],
-  "fetched_at": "2026-08-31T22:58:11.678951+00:00"
+  "fetched_at": "2026-09-01T01:46:05.662214+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3JOaG9MTndTdnpOMVRWVDk1cGRWY3BkSHo0YTVwbHVtdlVWaGpFbEFXQ19OV3QzeDRzaFcxdU0xbm9iSEdLWEUydksxUFVySllNSlQ2WThDZkFXLVJCT05XOG92ak10b2FZTFp1S2tWcEtRdVdYWjV2dkh1QjV6ajNubENkV1Ix0gGQAUFVX3lxTE11Wm9fUHdkM21oVmtkZkYzNWVfV3JoNmlhTFBvVmdUWHBiTjhFYUNqeWpmaEh1RUk0ckpiaE9iV1hId3h5TmhfVXQ0cXNZVjNDVDBvWUtxMHlNaGJPc2hCLWFfdUl6cVpZN3RRR0xmUnExOXBNWC16NmNad0pOQzlwV1VJMWFGYU96Um5BVm1zdA?oc=5",
+      "pub_date": 1788201964.0,
+      "article_url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
+      "description": "Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect."
+    },
+    {
       "headline": "Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -15,24 +25,14 @@
       "description": "Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Fall Amid Fresh US-Iran Escalation: Analyst Says BTC Facing 'Final Hurdl",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV3M4R0pOcVhIbU1xSktEcFdzcEJycXkzZmltZnZ0V3hxLVVFM0dCNFlha0pXb0JScUFrSVpZN0tkTzJyenVxeUpaNi03UVBKa2t5WGhreFVsUWRKSWpndFE1NFJSY2tiVmk3LXZvRGpaempBM3QyM2VYMWFtM0cwc09UQnpaVDFXQTdDQ2EwenJ0bzNmZ2F0aTRWeXFPdDhvV1kxc2NoNlVIdjA2VXQ1d0ZzU1lMNjhGMWpUazNDWkR2VU0?oc=5",
-      "pub_date": 1788140708.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/08/61513381/bitcoin-ethereum-xrp-dogecoin-fall-us-iran-escalation-btc-highs",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/31/Cryptocurrency--Focus-Bitcoin-On-Tablet-.jpg",
-      "description": "Leading cryptocurrencies slid on Sunday, August 30, after the U.S. and Iran resumed hostilities after a nearly month-long lull in fighting."
-    },
-    {
-      "headline": "Bitmine's Tom Lee Sees $6,000 Ethereum By Year-End If Bitcoin Hits $150,000",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNW9RZllfYkk1RlY4REpDeThrR05MMlQ4YVNqb1lYUHJtVkVtMjVGTDlObnNidnJ4MHNZN1VQajJBalR0M1AtNloxUkg5bEIyY0dVWlBoZ2h4OGl6VTNjV2VCbXZ6SEJ0NzFhZGFfakNrbHM2d1lVQWtjb1JvRXYwTjVtZTFFQlYwSndqN25QekVRUQ?oc=5",
-      "pub_date": 1788005814.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmines-tom-lee-sees-6-121654503.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b98c848ec43de20b260c642ea10ce3516a0512aa674804411e04dea93dcac3d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd570ad51e629013469ef47c158a04951",
-      "description": "Tom Lee said Ethereum was still \u201cvastly undervalued\u201d, given its use in the settlement of AI agent transactions that legacy payment rails are unable to support."
+      "headline": "Ethereum holds $2,500 as ETF demand rises, offs...",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0d6MDBheWlDaHh1anRTSHlma0FBODFWT0NRY0pOSVBOeWlHbk80aDBWaHNlZ0RVUVhTVWhQWTFZejI5UWc2S3ZYc3VQNmo0b0Q3b2FNbVpzMHdOdDRiZDUzNFh5LTBrZHZhSTdKNmh4cEhXM0JFX0JNbWoyTXBkS1BLZ29FdXZ4TktmYVlEaVNtbmhFSGc?oc=5",
+      "pub_date": 1788222268.0,
+      "article_url": "https://pluang.com/en/news-feed/ethereum-leverage-turun-dramatis-dukungan-etf-menjaga-harga",
+      "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+      "description": "Ethereum's price remains near $2,500 despite a dramatic 90.9% drop in leveraged trading on Binance and Bybit, indicating the rally is less reliant on derivatives. Institutional demand through U.S.-based Ethereum spot ETFs, especially BlackRock's ETHA, has surged with $1.5 billion invested over 10 days, supporting price stability without adding leverage. However, large whale deposits totaling over 40,000 ETH on major exchanges pose a supply test that ETF demand must absorb to maintain the price. The balance between rising institutional ETF inflows and potential whale selling will be key to Ethereum's near-term price direction."
     },
     {
       "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion",
@@ -43,6 +43,16 @@
       "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html",
       "image": "https://mmx.prnewswire.com/media/MS1978050/BMNR-Weekly-Update-English-11.jpg?id=OA2919373&p=facebook",
       "description": "Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing..."
+    },
+    {
+      "headline": "Bitmine's Tom Lee Sees $6,000 Ethereum By Year-End If Bitcoin Hits $150,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNW9RZllfYkk1RlY4REpDeThrR05MMlQ4YVNqb1lYUHJtVkVtMjVGTDlObnNidnJ4MHNZN1VQajJBalR0M1AtNloxUkg5bEIyY0dVWlBoZ2h4OGl6VTNjV2VCbXZ6SEJ0NzFhZGFfakNrbHM2d1lVQWtjb1JvRXYwTjVtZTFFQlYwSndqN25QekVRUQ?oc=5",
+      "pub_date": 1788005814.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmines-tom-lee-sees-6-121654503.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b98c848ec43de20b260c642ea10ce3516a0512aa674804411e04dea93dcac3d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fd570ad51e629013469ef47c158a04951",
+      "description": "Tom Lee said Ethereum was still \u201cvastly undervalued\u201d, given its use in the settlement of AI agent transactions that legacy payment rails are unable to support."
     },
     {
       "headline": "Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June",
@@ -65,31 +75,11 @@
       "description": "The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru\u2026"
     },
     {
-      "headline": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVBLZ1F3NjhJb2E1MHJzUHYxS1pMQ25YZUl1RDZrNTF2SjFRWkdocEo0YkVzY2tzTkVDdTBETXJLbjVPOTVWaW0yMHFMQzNOUkVodXNYYk1XWXoyaWlxbXpTZm14Sy1kQk51b3p0VUJoUjNGdm5IYlNJd1FwMXlCcVFtZHlrOU04SGZmaWdjOEtUQdIBmgFBVV95cUxNbFl0S1VOTXN0MXBUOHlJVldwSnFFb0h2Qno2a2YzZ2kzc2NrcjZOZVpDbzViRzVMQ0NJSnRqV0RNdnByWUI1X0hjNGh5VDNHRVhlYUNkMnZPMVB0ZmRJS2ZMUVd0ZkJUT3ZZM1hWdWludlZ6TXR0dlQ2S3FqcnF6cmk2STBGRjNSbzVXQ1VnaE9CSU9oUXNGcjVn?oc=5",
-      "pub_date": 1788179864.0,
-      "article_url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png",
-      "description": "Vlad Tenev\u2019s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off."
-    },
-    {
-      "headline": "Sberbank Plans Bitcoin, Ethereum and Tether as Loan Collateral",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDVubFJ4Y2xlVzR6eXVSZ29ZajZYN1ktMVFnZW9RVkRXVDg0TkV1aXFXYWE4al85aTlEdFBabmxmOGJOVVNKUnY3SlRLLXVWZkpGVlM4cHkxWkltdXN0UGJ3SlBJUWVvQjZ5OEFLNDVsUTNnbkQwVUVNSjlOeFUtNUZTLVJ4WlVfWEhIcXVUc3pDcm1RZFN2X3dLOUQ5cWtObk1Fc2ZtOFRReGNPVmYtQw?oc=5",
-      "pub_date": 1788197065.0,
-      "article_url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral",
-      "image": "https://cdn.sanity.io/images/6oftkxoa/production/75f1ad48464b708d238af4e3e0dbddcda12f403d-2048x1152.png",
-      "description": "Sberbank plans to accept bitcoin, Ethereum and Tether as loan collateral after new rules take effect and the Bank of Russia approves the assets."
-    },
-    {
       "headline": "Current price of Ethereum for August 31, 2026",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HejZuc2pocFlFbE5wT1BIZmYxRGgyR2RXZzVXTFVKSFdrZlB2a0xzeGVLRE5lTEd3X1NXU3gycDBvS24zNl80ZkZGdDltQnhCYkY4bVJSQ0trNXVRVzZQRWZ1SHhrdk9l?oc=5",
-      "pub_date": 1788179850.0,
+      "pub_date": 1788183450.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-08-31-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Ethereum-Aug-31.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
@@ -103,8 +93,18 @@
       "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-steps-of-binance-listing-while-ethereum-price-prediction-targets-60-000-1036508545",
       "image": "https://ml.globenewswire.com/Resource/Download/11e9846d-3e8e-4461-b1a4-aa8b49419dec/pepeto-announces-final-steps-of-binance-listing-while-ethereum-price-prediction-targets-60-000.jpg",
       "description": "DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ..."
+    },
+    {
+      "headline": "Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUxWaUd1ZmN2RFBWT0hac0l0UTJYdnViMDc3c0hOVTk1LTZqaTRVbmd0RW5MZF9UMTN5ZEdmMXZGR21tb1Q3cDhUVWxsaXlQV0lvZ2k5T2NZWXNFWWFWWWpTU3I3S1VNdTExeEd5Zkt1RDEwNEN3Y2FDSF9XR2dkSjJtTzl4RGVHLWZJVWhJQzVuRk1fb1FaLS00WjhDd2RCdzdCSWxYNnBYelpS0gGyAUFVX3lxTE5odUEzSTNIYU5EWTFMOG03MWhQcDEtUDVhMDdtYzY1VjJrdHl5T2RfUlJmV19OdzZXSmx5d3Z0ajU0dzNGRkMyX3JLWlhHeVNZVUdFTkowUEpDUFJGNnRGSU1lMHRYNmcwR1VPeU5Ca0lySVhPT1FyWmRkRVR6ZVVDMWx6WEJnU290NU5jd1lUVkhoS3c2UlMxdHZQaHFMUU11eFRRR25RaVpQeXFHaUJBN0E?oc=5",
+      "pub_date": 1788147016.0,
+      "article_url": "https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/03/20164159/2.1-Billion-Bitcoin-and-Ethereum-Options-Expiry-Today-1.jpg",
+      "description": "Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-31T22:58:29.790225+00:00"
+  "fetched_at": "2026-09-01T01:46:24.019549+00:00"
 }

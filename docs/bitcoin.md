@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-31T22:59:01.175819+00:00'
+updated: '2026-09-01T01:46:31.250983+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 31, 2026 at 22:59 UTC  
+**Last Updated:** September 01, 2026 at 01:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,102 +38,104 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,767.06
+### $78,481.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.1%  
-**30d:** +23.8%  
-**90d:** +22.6%  
-**1y:** -27.9%  
+**24h:** -0.5%  
+**7d:** -0.6%  
+**30d:** +23.7%  
+**90d:** +23.0%  
+**1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1578.07B
+**Market Cap:** $1576.85B
 Rank #1
 
-**Circulating Supply:** 20,077,862 BTC
+**Circulating Supply:** 20,077,953 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -37.7%
 
 **All-Time Low:** $67.81
-+115819.5%
++115713.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 62
+### 69
 **GREED**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[They just never stop hating lol](https://www.reddit.com/r/Bitcoin/comments/1w25f47/they_just_never_stop_hating_lol/)**
+**[“Strategy”](https://www.reddit.com/r/Bitcoin/comments/1w3rik1/strategy/)**
 
-1d ago
-
----
-
-**[Get ready for Dune 3...arrives December 18!](https://www.reddit.com/r/Bitcoin/comments/1w2b9id/get_ready_for_dune_3arrives_december_18/)**
-
-1d ago
+4h ago
 
 ---
 
-**[Does Your Dog Bite...](https://www.reddit.com/r/Bitcoin/comments/1w1yczw/does_your_dog_bite/)**
+**[Hey guys](https://www.reddit.com/r/Bitcoin/comments/1w3w29j/hey_guys/)**
 
-2d ago
-
----
-
-**[MEXICAN BILLIONAIRE: Rent your home. Go ALL-IN on Bitcoin. Ricardo Salinas says to convert every dime of cash straight into BTC.](https://www.reddit.com/r/Bitcoin/comments/1w28d5n/mexican_billionaire_rent_your_home_go_allin_on/)**
-
-1d ago
+1h ago
 
 ---
 
-**[Turning copper into bitcoin](https://www.reddit.com/r/Bitcoin/comments/1w1t57u/turning_copper_into_bitcoin/)**
+**[Here is me saying bitcoin again here we go](https://www.reddit.com/r/Bitcoin/comments/1w3wecv/here_is_me_saying_bitcoin_again_here_we_go/)**
 
-2d ago
-
----
-
-**[I hope the sold vespa guy is okay](https://www.reddit.com/r/Bitcoin/comments/1w2crwp/i_hope_the_sold_vespa_guy_is_okay/)**
-
-1d ago
+1h ago
 
 ---
 
-**[Former Binance CEO CZ believes Bitcoin will eventually hit $1,000,000 and says it could happen much sooner than many expect. “I don’t think we’ll need 25 years. I think it’ll happen much faster.”](https://www.reddit.com/r/Bitcoin/comments/1w1kwoz/former_binance_ceo_cz_believes_bitcoin_will/)**
+**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.reddit.com/r/Bitcoin/comments/1w3cvc0/saylors_strategy_restarts_bitcoin_buying_spending/)**
 
-2d ago
-
----
-
-**[Meanwhile Bitcoin: “No need for your story, Sir. The only thing I need to know is whether the transaction is signed.”](https://www.reddit.com/r/Bitcoin/comments/1w1mzwk/meanwhile_bitcoin_no_need_for_your_story_sir_the/)**
-
-2d ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million) • 12h ago
 
 ---
 
-**[I hope the sold vespa guy are okay](https://www.reddit.com/r/Bitcoin/comments/1w2crux/i_hope_the_sold_vespa_guy_are_okay/)**
+**[It's time for your daily Michael Saylor bitcoin video](https://www.reddit.com/r/Bitcoin/comments/1w39ouo/its_time_for_your_daily_michael_saylor_bitcoin/)**
 
-1d ago
+Yeah he just posted another one. Paintball with orange paint. The enemy team is (obviously) the Bears. https://x.com/saylor/status/2094329015431528794
+
+15h ago
 
 ---
 
-**[Guys!!! We are in a bull run...](https://www.reddit.com/r/Bitcoin/comments/1w1f8aw/guys_we_are_in_a_bull_run/)**
+**[It's pretty simple](https://www.reddit.com/r/Bitcoin/comments/1w3ku0s/its_pretty_simple/)**
 
-2d ago
+8h ago
+
+---
+
+**[Bitcoin atm](https://www.reddit.com/r/Bitcoin/comments/1w3cu2t/bitcoin_atm/)**
+
+12h ago
+
+---
+
+**[today it's getting more bullish here](https://www.reddit.com/r/Bitcoin/comments/1w3e82g/today_its_getting_more_bullish_here/)**
+
+12h ago
+
+---
+
+**[Closed exchange returns BTC worth £3.3m+](https://www.reddit.com/r/Bitcoin/comments/1w3h36o/closed_exchange_returns_btc_worth_33m/)**
+
+🔗 [ccn.com](https://www.ccn.com/news/crypto/man-recovers-bitcoin-wallet-12-years-btc-nears-supply-wall/) • 10h ago
+
+---
+
+**[Bananas!🍌 ~95% already distributed, ~4% left. 🚀🧑‍🚀](https://www.reddit.com/r/Bitcoin/comments/1w3qyln/bananas_95_already_distributed_4_left/)**
+
+4h ago
 
 ---
 
@@ -145,71 +147,73 @@ Rank #1
 
 Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[‘Beginning Of A Death Spiral’—Serious $40 Trillion U.S. Dollar Collapse Warning Triggers Surprise BlackRock Bitcoin Price And Gold Prediction](https://www.forbes.com/sites/digital-assets/2026/08/31/beginning-of-a-death-spiral-serious-40-trillion-us-dollar-collapse-warning-triggers-surprise-blackrock-bitcoin-price-and-gold-prediction/)**
+**[Bitcoin is back—and so is Michael Saylor’s Strategy, which made its first buy in two months](https://fortune.com/2026/08/31/bitcoin-michael-saylors-strategy-first-buy-two-months/)**
 
-Fears are growing that the U.S. is entering a $40 trillion “death spiral”—predicted to catapult the bitcoin price and gold higher...
+The company’s return to buying follows a summer downturn spent raising cash and selling Bitcoin.
 
-Forbes • 9h ago
-
----
-
-**[IBIT’s 0.25% Fee Hides the Real Cost: Your Bitcoin Per Share Shrinks Every Day, and the IRS Taxes Each Slice](https://finance.yahoo.com/markets/crypto/articles/ibit-0-25-fee-hides-221504082.html)**
-
-Holding IBIT without ever selling still generates a tax bill, and the mechanism responsible quietly chips away at your Bitcoin claim every single day the fund is open.
-
-Yahoo Finance • 43m ago
+fortune.com • 7h ago
 
 ---
 
-**[Current price of Bitcoin for August 31, 2026](https://fortune.com/article/price-of-bitcoin-08-31-2026/)**
+**[Strategy Buys Bitcoin for First Time Since June](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/strategy-buys-bitcoin-for-first-time-since-june-0kohYt5o5BdAL0SnLPf5)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+WSJ • 18h ago
 
-Fortune • 1h ago
+---
+
+**[Brazil Suspends Pro-Bitcoin Candidate Renan Santos's Campaign, Freezes R$3.3M Fund](https://www.yahoo.com/news/politics/articles/brazil-suspends-pro-bitcoin-candidate-003748663.html)**
+
+Brazil's electoral court suspended Renan Santos's campaign and froze R$3.3 million, weeks after his Bitcoin reserve pledge.
+
+Yahoo • 1h ago
+
+---
+
+**[Michael Saylor Just Dropped a Big Bitcoin Hint—Is Strategy Ready to Start Buying BTC Again? (UPDATED)](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-just-dropped-big-003116942.html)**
+
+Editor’s Note: The story has been refreshed with the latest market price action and a revised headline. Michael Saylor fueled speculation on Sunday that Strategy Inc. could resume its Bitcoin purchases following a pause of more than two months. Saylor...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Neighbors push to shut down Delaware County bitcoin mining facility](https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/)**
+
+The board will hold a hearing within the next 30 days and a vote after that.
+
+KCRG • 4h ago
+
+---
+
+**[Massive water leak exposes El Reno Bitcoin mining site operated unlawfully for years](https://www.yahoo.com/news/articles/massive-water-leak-exposes-el-231328597.html)**
+
+After a recent leak that shook the city of El Reno, city officials say the company operating the Bitcoin mining facility, where the leak was found, was operating unlawfully.
+
+Yahoo • 2h ago
+
+---
+
+**[Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future](https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future)**
+
+CoinDesk • 17h ago
+
+---
+
+**[5 Best Crypto Casinos 2026: Trusted Bitcoin Gambling Sites With Fast Crypto Payouts](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/)**
+
+Best Crypto Casinos Worth A Closer Look In 2026  🎰 Casinos 🎁 Welcome Bonus Player Ratings 1️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 ⭐ 2️⃣ JACK.com 100 No-Wagering Free Spins 4.8/5 ⭐ 3️⃣ Thunderpick 100% up to €2,000 4.7/5 ⭐ 4️⃣ BitStarz 300% up to 5 BTC + 180 Free...
+
+Muddy River Sports • 1d ago
 
 ---
 
 **[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
 KFOR • 3d ago
-
----
-
-**[Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower](https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower)**
-
-CoinDesk • 18h ago
-
----
-
-**[Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.](https://www.fool.com/investing/2026/08/29/billionaire-mark-cuban-is-not-impressed-by-bitcoin/)**
-
-Bitcoin can be difficult to value because it behaves like both a risk-on and a risk-off asset.
-
-The Motley Fool • 1d ago
-
----
-
-**[Smart Investor: Warsh Talks Tough, Bitcoin’s Bounce, Top Managers’ Stock Picks](https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks)**
-
-We wrap up our coverage of the markets and the week.
-
-Morningstar • 2d ago
-
----
-
-**[92-year-old burger chain's Bitcoin strategy delivers 13.8% sales jump](https://www.thestreet.com/crypto/markets/92-year-old-burger-chains-bitcoin-strategy-delivers-13-8-sales-jump)**
-
-thestreet.com • 6h ago
-
----
-
-**[Bitcoin dips below $78k amid Iran escalation, rate jitters](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178)**
-
-Investing.com • 7h ago
 
 ---
 
@@ -221,7 +225,7 @@ Investing.com • 7h ago
 
 The Bitcoin Lightning software project said it is preparing fixes after confirming that several AI-made vulnerability reports were accurate.
 
-⬆️ 9 • 💬 2 • 3d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
+⬆️ 9 • 💬 2 • 4d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
 
 ---
 
@@ -299,53 +303,13 @@ Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism
 
 ## YouTube Videos: "bitcoin"
 
-**[Tom Lee sees Bitcoin hitting six figures—is the rally just getting started?](https://www.youtube.com/watch?v=8ZbBhWP-53A)**
+**[$150K BITCOIN IMMINENT?! INSANE SET UP RIGHT NOW!](https://www.youtube.com/watch?v=7flyXX2Y52Y)**
 
-Bitcoin #CryptoMarket #TomLee #Investing #FinancialAnalysis #FedRateHike.
+Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
 
-📺 Fundstrat
+📺 Adam Livingston
 
-👁️ 3K • 👍 84 • 💬 8 • ⏱️ 0:50 • 3h ago
-
----
-
-**[Bitcoin Stalls at the 50 Week Moving Average](https://www.youtube.com/watch?v=xCF8xZQcVfc)**
-
-Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 187K • 👍 7K • 💬 329 • ⏱️ 13:39 • 23h ago
-
----
-
-**[Bitcoin’s Bull Case Is Flashing Warning Signs](https://www.youtube.com/watch?v=sixm8hsGAbw)**
-
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Predict Market for Crypto, Sports, & Markets ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 759 • 💬 110 • ⏱️ 51:22 • 8h ago
-
----
-
-**[“My $40K Bitcoin Call Was WRONG, But I’m 100% CERTAIN of THIS...”   Arthur Hayes](https://www.youtube.com/watch?v=4RWASUYCLqg)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 22K • 👍 216 • 💬 23 • ⏱️ 15:30 • 1d ago
-
----
-
-**[Crypto’s BIGGEST Supercycle Starts NOW!?](https://www.youtube.com/watch?v=zGdxs-hVscA)**
-
-Crypto's BIGGEST Supercycle Starts NOW!? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 2K • 💬 218 • ⏱️ 9:49 • 23h ago
+👁️ 24K • 👍 1K • 💬 118 • ⏱️ 22:55 • 1d ago
 
 ---
 
@@ -355,47 +319,87 @@ Matt Cole says that a return to the gold standard is unpalatable for the U.S. be
 
 📺 Redacted
 
-👁️ 38K • 👍 785 • 💬 143 • ⏱️ 10:00 • 23h ago
+👁️ 41K • 👍 808 • 💬 155 • ⏱️ 10:00 • 1d ago
 
 ---
 
-**[Bessent Gets Drucked: Bitcoin, AI, and the New Macro Clock](https://www.youtube.com/watch?v=2FND8g-De8Y)**
+**[“My $40K Bitcoin Call Was WRONG, But I’m 100% CERTAIN of THIS...”   Arthur Hayes](https://www.youtube.com/watch?v=4RWASUYCLqg)**
 
-Visit ai.22vresearch.com and visser-labs.com for more information Email Mark Whaling mwhaling@22vresearch.com In this ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Jordi Visser
+📺 Savvy Finance
 
-👁️ 57K • 👍 2K • 💬 249 • ⏱️ 1:03:43 • 1d ago
-
----
-
-**[Bitcoin Just Reclaimed $80K — Is the Next Bull Run Starting? (Get Ready for the Next Bull Cycle...)](https://www.youtube.com/watch?v=L7FEzerBBLs)**
-
-Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Tangem-x10* Easiest hardware wallet, portable ...
-
-📺 Crypto Casey
-
-👁️ 30K • 👍 893 • 💬 46 • ⏱️ 11:39 • 2d ago
+👁️ 22K • 👍 218 • 💬 23 • ⏱️ 15:30 • 1d ago
 
 ---
 
-**[₿ Bitcoin&#39;s Rally Isn&#39;t What You Think 🚨📉](https://www.youtube.com/watch?v=3mPrC1yoAGw)**
+**[THE JACKSON HOLE TRAP: Why Kevin Warsh Just Crashed Gold &amp; Bitcoin!](https://www.youtube.com/watch?v=EZe7pYSph30)**
 
-Bitcoin's Rally Isn't What You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using ...
+Federal Reserve Chair Kevin Warsh just walked up to the podium at Jackson Hole and wiped out billions in gold and Bitcoin.
 
-📺 Stocks with Josh
+📺 Wall Street Truthbombs
 
-👁️ 13K • 👍 334 • 💬 8 • ⏱️ 1:04 • 2d ago
+👁️ 639 • 👍 58 • 💬 1 • ⏱️ 1:54 • 2h ago
 
 ---
 
-**[Bitcoin to $1 Million?!](https://www.youtube.com/watch?v=SjJxrTal_Sk)**
+**[BITCOIN + MSTR + ASST ARE GOING TO ABSOLUTELY EXPLODE](https://www.youtube.com/watch?v=Ja679ZlMvLI)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
 
-📺 Anthony Pompliano
+📺 Adam Livingston
 
-👁️ 164K • 👍 3K • 💬 221 • ⏱️ 1:03:32 • 2d ago
+👁️ 12K • 👍 868 • 💬 75 • ⏱️ 26:57 • 5h ago
+
+---
+
+**[BIG RISK FOR BITCOIN!! Rate Hikes Coming??](https://www.youtube.com/watch?v=0mP43IVTti8)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Deposit, Trade & Win Up to 60000 USDT   ...
+
+📺 Coin Bureau Podcast
+
+👁️ 13K • 👍 445 • 💬 16 • ⏱️ 47:15 • 11h ago
+
+---
+
+**[Crypto’s BIGGEST Supercycle Starts NOW!?](https://www.youtube.com/watch?v=zGdxs-hVscA)**
+
+Crypto's BIGGEST Supercycle Starts NOW!? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 67K • 👍 2K • 💬 219 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[Bitcoin Stalls at the 50 Week Moving Average](https://www.youtube.com/watch?v=xCF8xZQcVfc)**
+
+Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 194K • 👍 7K • 💬 335 • ⏱️ 13:39 • 1d ago
+
+---
+
+**[THIS BITCOIN SIGNAL HAS NEVER FAILED...](https://www.youtube.com/watch?v=w6U3YLLPeCI)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 21K • 👍 950 • 💬 58 • ⏱️ 11:40 • 19h ago
+
+---
+
+**[Bitcoin: $50K or $100K? Here’s My Bet](https://www.youtube.com/watch?v=rxOfxDjoOfk)**
+
+Is Bitcoin headed back to $50000 — or is $100000 coming sooner? With inflation, interest rates, geopolitical conflict, and ...
+
+📺 Paul Mampilly
+
+👁️ 1K • 👍 17 • 💬 1 • ⏱️ 0:37 • 6h ago
 
 ---
 
