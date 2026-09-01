@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-01T01:46:31.250983+00:00'
+updated: '2026-09-01T07:22:41.890703+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 01:46 UTC  
+**Last Updated:** September 01, 2026 at 07:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,481.56
+### $78,720.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.6%  
-**30d:** +23.7%  
-**90d:** +23.0%  
-**1y:** -29.4%  
+**24h:** +1.4%  
+**7d:** -0.3%  
+**30d:** +24.0%  
+**90d:** +23.3%  
+**1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1576.85B
+**Market Cap:** $1580.52B
 Rank #1
 
-**Circulating Supply:** 20,077,953 BTC
+**Circulating Supply:** 20,078,084 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.7%
+-37.6%
 
 **All-Time Low:** $67.81
-+115713.3%
++115997.9%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[“Strategy”](https://www.reddit.com/r/Bitcoin/comments/1w3rik1/strategy/)**
 
-4h ago
+9h ago
 
 ---
 
 **[Hey guys](https://www.reddit.com/r/Bitcoin/comments/1w3w29j/hey_guys/)**
 
-1h ago
+7h ago
 
 ---
 
 **[Here is me saying bitcoin again here we go](https://www.reddit.com/r/Bitcoin/comments/1w3wecv/here_is_me_saying_bitcoin_again_here_we_go/)**
 
-1h ago
+6h ago
 
 ---
 
 **[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.reddit.com/r/Bitcoin/comments/1w3cvc0/saylors_strategy_restarts_bitcoin_buying_spending/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million) • 12h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million) • 18h ago
 
 ---
 
@@ -105,37 +105,37 @@ Rank #1
 
 Yeah he just posted another one. Paintball with orange paint. The enemy team is (obviously) the Bears. https://x.com/saylor/status/2094329015431528794
 
-15h ago
+20h ago
 
 ---
 
 **[It's pretty simple](https://www.reddit.com/r/Bitcoin/comments/1w3ku0s/its_pretty_simple/)**
 
-8h ago
+13h ago
 
 ---
 
 **[Bitcoin atm](https://www.reddit.com/r/Bitcoin/comments/1w3cu2t/bitcoin_atm/)**
 
-12h ago
+18h ago
 
 ---
 
 **[today it's getting more bullish here](https://www.reddit.com/r/Bitcoin/comments/1w3e82g/today_its_getting_more_bullish_here/)**
 
-12h ago
+17h ago
 
 ---
 
 **[Closed exchange returns BTC worth £3.3m+](https://www.reddit.com/r/Bitcoin/comments/1w3h36o/closed_exchange_returns_btc_worth_33m/)**
 
-🔗 [ccn.com](https://www.ccn.com/news/crypto/man-recovers-bitcoin-wallet-12-years-btc-nears-supply-wall/) • 10h ago
+🔗 [ccn.com](https://www.ccn.com/news/crypto/man-recovers-bitcoin-wallet-12-years-btc-nears-supply-wall/) • 15h ago
 
 ---
 
 **[Bananas!🍌 ~95% already distributed, ~4% left. 🚀🧑‍🚀](https://www.reddit.com/r/Bitcoin/comments/1w3qyln/bananas_95_already_distributed_4_left/)**
 
-4h ago
+10h ago
 
 ---
 
@@ -143,63 +143,55 @@ Yeah he just posted another one. Paintball with orange paint. The enemy team is 
 
 ## Google News: "bitcoin"
 
-**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-restarts-bitcoin-buying-121917075.html)**
+**[Strategy jumps back into bitcoin with $370 million purchase](https://finance.yahoo.com/video/strategy-jumps-back-bitcoin-370-162000465.html)**
 
-Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul.
+Scott Melker discusses Michael Saylor's Strategy (MSTR) restarting its bitcoin (BTC-USD) buying spree with a $370 million purchase, marking the company’s first bitcoin acquisition in nearly 10 weeks.
 
-Yahoo Finance • 13h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-**[Bitcoin is back—and so is Michael Saylor’s Strategy, which made its first buy in two months](https://fortune.com/2026/08/31/bitcoin-michael-saylors-strategy-first-buy-two-months/)**
-
-The company’s return to buying follows a summer downturn spent raising cash and selling Bitcoin.
-
-fortune.com • 7h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Strategy Buys Bitcoin for First Time Since June](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/strategy-buys-bitcoin-for-first-time-since-june-0kohYt5o5BdAL0SnLPf5)**
+**[Bitcoin ‘Kimchi Premium’ Is Back as South Korean Market Stirs](https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-kimchi-premium-is-back-as-south-korean-market-stirs)**
 
-WSJ • 18h ago
-
----
-
-**[Brazil Suspends Pro-Bitcoin Candidate Renan Santos's Campaign, Freezes R$3.3M Fund](https://www.yahoo.com/news/politics/articles/brazil-suspends-pro-bitcoin-candidate-003748663.html)**
-
-Brazil's electoral court suspended Renan Santos's campaign and froze R$3.3 million, weeks after his Bitcoin reserve pledge.
-
-Yahoo • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Michael Saylor Just Dropped a Big Bitcoin Hint—Is Strategy Ready to Start Buying BTC Again? (UPDATED)](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-just-dropped-big-003116942.html)**
+**[U.S. Econ Data Could Decide Bitcoin Breakout Past $80,000 -- Market Talk](https://www.moomoo.com/news/post/75612886/us-econ-data-could-decide-bitcoin-breakout-past-80000-market)**
 
-Editor’s Note: The story has been refreshed with the latest market price action and a revised headline. Michael Saylor fueled speculation on Sunday that Strategy Inc. could resume its Bitcoin purchases following a pause of more than two months. Saylor...
-
-Yahoo Finance • 1h ago
+Moomoo • 42m ago
 
 ---
 
-**[Neighbors push to shut down Delaware County bitcoin mining facility](https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/)**
+**[Bitcoin surges past $80,000; Coinbase (COIN.US) price target raised to $212](https://www.moomoo.com/news/post/75611107/bitcoin-surges-past-80000-coinbase-coinus-price-target-raised-to)**
 
-The board will hold a hearing within the next 30 days and a vote after that.
-
-KCRG • 4h ago
+Moomoo • 1h ago
 
 ---
 
-**[Massive water leak exposes El Reno Bitcoin mining site operated unlawfully for years](https://www.yahoo.com/news/articles/massive-water-leak-exposes-el-231328597.html)**
+**[Man becomes overnight millionaire after finding Bitcoin lost for 12 years](https://sg.finance.yahoo.com/news/man-becomes-overnight-millionaire-finding-195500598.html)**
 
-After a recent leak that shook the city of El Reno, city officials say the company operating the Bitcoin mining facility, where the leak was found, was operating unlawfully.
+A man who lost access to his Bitcoin in 2014 has regained access to his holdings.
 
-Yahoo • 2h ago
+Yahoo Finance Singapore • 11h ago
 
 ---
 
-**[Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future](https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future)**
+**[Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because ‘You’re Going to Work With It or Be Out of the Game’; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors](https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/)**
 
-CoinDesk • 17h ago
+Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting.
+
+Variety • 9h ago
+
+---
+
+**[Bitcoin's best month since November 2024 comes with a warning: The road ahead could get rough](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-fall-as-brent-oil-tops-90-after-u-s-strike-on-iran/card/bitcoin-s-best-month-since-november-2024-comes-with-a-warning-the-road-ahead-could-get-rough-frj6hsVDfT0diuudsvDE)**
+
+MarketWatch • 14h ago
 
 ---
 
@@ -213,7 +205,15 @@ Muddy River Sports • 1d ago
 
 **[Massive El Reno water leak traced to Bitcoin mining data center facility](https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/)**
 
-KFOR • 3d ago
+KFOR.com • 3d ago
+
+---
+
+**[Neighbors push to shut down Delaware County bitcoin mining facility](https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/)**
+
+The board will hold a hearing within the next 30 days and a vote after that.
+
+KCRG • 10h ago
 
 ---
 
@@ -241,7 +241,7 @@ Finally, a killer use case
 
 A Sharp Rebound Brings Bitcoin Back Into the Spotlight
 
-⬆️ 5 • 💬 0 • 5d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
+⬆️ 5 • 💬 0 • 6d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6)
 
 ---
 
@@ -303,13 +303,13 @@ Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism
 
 ## YouTube Videos: "bitcoin"
 
-**[$150K BITCOIN IMMINENT?! INSANE SET UP RIGHT NOW!](https://www.youtube.com/watch?v=7flyXX2Y52Y)**
+**[Why I&#39;m Buying HALF The Bitcoin Today](https://www.youtube.com/watch?v=0wYVy7ebscs)**
 
-Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
+Bitcoin is up 23% this month — beating gold and the Nasdaq, holding steady through US strikes on Iran and a hawkish Fed.
 
-📺 Adam Livingston
+📺 Digital Asset News
 
-👁️ 24K • 👍 1K • 💬 118 • ⏱️ 22:55 • 1d ago
+👁️ 13K • 👍 369 • 💬 29 • ⏱️ 21:25 • 13h ago
 
 ---
 
@@ -319,47 +319,37 @@ Matt Cole says that a return to the gold standard is unpalatable for the U.S. be
 
 📺 Redacted
 
-👁️ 41K • 👍 808 • 💬 155 • ⏱️ 10:00 • 1d ago
+👁️ 43K • 👍 829 • 💬 156 • ⏱️ 10:00 • 1d ago
 
 ---
 
-**[“My $40K Bitcoin Call Was WRONG, But I’m 100% CERTAIN of THIS...”   Arthur Hayes](https://www.youtube.com/watch?v=4RWASUYCLqg)**
+**[What Michael Saylor’s Bitcoin Buying Tells Us About Strategy And The Rest of 2026.](https://www.youtube.com/watch?v=rjg6N45NZvk)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Michael Saylor is buying Bitcoin again. Strategy bought 4603 BTC last week after a two-month pause, and the reason has almost ...
 
-📺 Savvy Finance
+📺 Dana Love, PhD
 
-👁️ 22K • 👍 218 • 💬 23 • ⏱️ 15:30 • 1d ago
-
----
-
-**[THE JACKSON HOLE TRAP: Why Kevin Warsh Just Crashed Gold &amp; Bitcoin!](https://www.youtube.com/watch?v=EZe7pYSph30)**
-
-Federal Reserve Chair Kevin Warsh just walked up to the podium at Jackson Hole and wiped out billions in gold and Bitcoin.
-
-📺 Wall Street Truthbombs
-
-👁️ 639 • 👍 58 • 💬 1 • ⏱️ 1:54 • 2h ago
+👁️ 36K • 👍 669 • 💬 194 • ⏱️ 21:18 • 12h ago
 
 ---
 
-**[BITCOIN + MSTR + ASST ARE GOING TO ABSOLUTELY EXPLODE](https://www.youtube.com/watch?v=Ja679ZlMvLI)**
+**[Tom Lee sees Bitcoin hitting six figures—is the rally just getting started?](https://www.youtube.com/watch?v=8ZbBhWP-53A)**
 
-Disclaimer: none of this is financial advice. This is financial entertainment. Follow me on X for my best content: http://www.
+Bitcoin #CryptoMarket #TomLee #Investing #FinancialAnalysis #FedRateHike.
 
-📺 Adam Livingston
+📺 Fundstrat
 
-👁️ 12K • 👍 868 • 💬 75 • ⏱️ 26:57 • 5h ago
+👁️ 14K • 👍 224 • 💬 13 • ⏱️ 0:50 • 11h ago
 
 ---
 
-**[BIG RISK FOR BITCOIN!! Rate Hikes Coming??](https://www.youtube.com/watch?v=0mP43IVTti8)**
+**[Bitcoin Had Its Best August in Years - Now Everything Gets Harder](https://www.youtube.com/watch?v=jVQbCu4wk4k)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Deposit, Trade & Win Up to 60000 USDT   ...
+Bitcoin #Crypto #finance Bitcoin heads into September under pressure as renewed U.S.-Iran strikes push oil above $90 and ...
 
-📺 Coin Bureau Podcast
+📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 445 • 💬 16 • ⏱️ 47:15 • 11h ago
+👁️ 27K • 👍 786 • 💬 335 • ⏱️ 1:00:04 • 17h ago
 
 ---
 
@@ -369,7 +359,17 @@ Crypto's BIGGEST Supercycle Starts NOW!? ⭐ Follow Altcoin Daily on X: https://
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 2K • 💬 219 • ⏱️ 9:49 • 1d ago
+👁️ 69K • 👍 2K • 💬 227 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[The Fed Just Revealed Bitcoin’s $900 Trillion Opportunity](https://www.youtube.com/watch?v=TJV2TVECLEs)**
+
+New Fed Chair Kevin Warsh finally took the podium at Jackson Hole, and while the algo traders got their rate clues, the bigger ...
+
+📺 Simply Bitcoin
+
+👁️ 38K • 👍 2K • 💬 103 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -379,27 +379,27 @@ Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.be
 
 📺 Benjamin Cowen
 
-👁️ 194K • 👍 7K • 💬 335 • ⏱️ 13:39 • 1d ago
+👁️ 201K • 👍 7K • 💬 337 • ⏱️ 13:39 • 1d ago
 
 ---
 
-**[THIS BITCOIN SIGNAL HAS NEVER FAILED...](https://www.youtube.com/watch?v=w6U3YLLPeCI)**
+**[Bitcoin Rejected! Crypto’s LAST Big Buy Before The Bull Run?](https://www.youtube.com/watch?v=cVss0nN9ulQ)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Thanks Coinbase for sponsoring this crypto analysis video. ▻ COINBASE Get up to 250 USDC in rewards through my link!
 
-📺 Crypto Rover
+📺 Crypto Capital Venture
 
-👁️ 21K • 👍 950 • 💬 58 • ⏱️ 11:40 • 19h ago
+👁️ 15K • 👍 494 • 💬 102 • ⏱️ 12:32 • 16h ago
 
 ---
 
-**[Bitcoin: $50K or $100K? Here’s My Bet](https://www.youtube.com/watch?v=rxOfxDjoOfk)**
+**[Bitcoin to $1 Million?!](https://www.youtube.com/watch?v=SjJxrTal_Sk)**
 
-Is Bitcoin headed back to $50000 — or is $100000 coming sooner? With inflation, interest rates, geopolitical conflict, and ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Paul Mampilly
+📺 Anthony Pompliano
 
-👁️ 1K • 👍 17 • 💬 1 • ⏱️ 0:37 • 6h ago
+👁️ 167K • 👍 3K • 💬 221 • ⏱️ 1:03:32 • 2d ago
 
 ---
 
