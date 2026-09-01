@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-01T12:41:19.587132+00:00'
+updated: '2026-09-01T17:11:23.577900+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 01, 2026 at 12:41 UTC  
+**Last Updated:** September 01, 2026 at 17:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,81 +32,75 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[MechSoul Tutorial Part 2: Controlling your MechSoul with Bluetooth](https://www.reddit.com/r/robotics/comments/1w1tn2m/mechsoul_tutorial_part_2_controlling_your/)**
+**[Mk Robot footage 2023](https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/)**
 
-In this tutorial we go over how to control your MechSoul with Bluetooth. What is a MechSoul? A MechSoul is to a robot, what a CyberDeck is to a computer. It's a robot that you build, customize, and personalize yourself. It's the freedom of owning your own code, hardware, and having the right to build and repair it. And it's the pride of creativity, skill, and self expression. In this part 2 in Arduino IDE we combine the Raspberry Pi Pico's board manager's SerialBLE library with the Serial_Control example in Takamori Robot's HIRO library to control your robot over Bluetooth. To follow along with our code and reference material check out the tutorial GitHub.
-
-2d ago
+1h ago
 
 ---
 
-**[What are some of the reliable motor drivers for robotic projects?](https://www.reddit.com/r/robotics/comments/1w1m7qd/what_are_some_of_the_reliable_motor_drivers_for/)**
+**[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-Guys, can I get recommendations on motor drivers. It's for a new build I'm working on and I'm looking for something that can handle sustained high-torque loads without running into thermal limits. Small form-factor StepStick modules (like TMC2209s or TMC2208s) work great for low-load positioning, but at 2A+ RMS under continuous holding torque, thermal dissipation becomes a major bottleneck. I did check out some options online, mostly on alibaba actually but I'm not sure yet how to proceed. I’m weighing a few paths and would love to hear what has worked best in your builds.
-
-2d ago
+3h ago
 
 ---
 
-**[Logs says they wanted to go under the chair but wasn't sure they'd fit](https://www.reddit.com/r/robotics/comments/1w180yf/logs_says_they_wanted_to_go_under_the_chair_but/)**
+**[Q:How would a robotic bug play out in gathering data and information the Amazon rainforest](https://www.reddit.com/r/robotics/comments/1w4bz23/qhow_would_a_robotic_bug_play_out_in_gathering/)**
 
-I've been doing a lot of work over the past few years building perception and embodiment frameworks for robots. The latest version is very curious. I hadn't gotten the speaker working yet so it wasn't very chatty (although it was trying to from what the logs said) Anyways, this is Meco, say hi Meco!
+Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-3d ago
-
----
-
-**[I Built a another 4 leg Grasshopper mechanical walking Robot With Just ONE Motor completely from scratch! What do you guys think of mechanism? [OC]](https://www.reddit.com/r/robotics/comments/1w1scfm/i_built_a_another_4_leg_grasshopper_mechanical/)**
-
-I wanted to see if I could build a robot that walks like a little grasshopper… using just ONE gear motor. 🦗🤖So I built the body and legs using simple mater...
-
-🔗 [YouTube](https://youtube.com/shorts/hjUAwhLwdL0?si=dAe2DU4MjksZSGQw) • 2d ago
+3h ago
 
 ---
 
-**[Válvulas pepepako](https://www.reddit.com/r/robotics/comments/1w1uzcx/válvulas_pepepako/)**
+**[TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3](https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [YouTube](https://youtube.com/shorts/EH0fFBG1EhI?is=Kt-hXsVSjQpELMZp) • 2d ago
+48m ago
 
 ---
 
-**[Hugging Face: $2.6M of Microducks ordered in the first 24h](https://www.reddit.com/r/robotics/comments/1w0oepb/hugging_face_26m_of_microducks_ordered_in_the/)**
+**[UWB-Based Indoor Positioning System](https://www.reddit.com/r/robotics/comments/1w4hl8c/uwbbased_indoor_positioning_system/)**
 
-From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
+Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:
 
-4d ago
-
----
-
-**[What is this INA219 actually reporting?](https://www.reddit.com/r/robotics/comments/1w1k72c/what_is_this_ina219_actually_reporting/)**
-
-3d ago
+🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 22m ago
 
 ---
 
-**[Robotic Trash Can Ideation](https://www.reddit.com/r/robotics/comments/1w1b59o/robotic_trash_can_ideation/)**
+**[Made my Unitree dance Kpop](https://www.reddit.com/r/robotics/comments/1w38in8/made_my_unitree_dance_kpop/)**
 
-Me and my 2 cs roomates at GT want to build a cool, practical robot for our apartment. We came together and thought of a project where we turn our trash can into a mobile unit, able to navigate our apartment / hallway as a first step without bumping into obstacles, maybe having my friend create some app to where we can "summon" the trash can when needed and hard code its default positon. The ultimate goal would to be having it leave our apartment and enter the trash room across the hall and dump its contents out to then return to out room. I am unsure if this is feasible as there are so many challenges: how will it open a door, how will it raise itself to empty, how will it even be able to generate the force to lift itself / open a door without tipping. Any tips / similar projects to mirror would be greatly helpful.
+This was surprisingly easy to do. If you have a Unitree G1 Edu version off course. Done with a driving video fed into their motion generation software. Then trained for 5 hours , then 1 click deployment onto the robot
 
-3d ago
-
----
-
-**[From 5-Digit Recognition to Water Meter Reading with ESP32-P4](https://www.reddit.com/r/robotics/comments/1w1htg7/from_5digit_recognition_to_water_meter_reading/)**
-
-A while ago, I built a 5-digit number recognition system on the ESP32-S3 using a lightweight AI model. The project was mainly a proof of concept for running image recognition directly on an embedded device. This time, I wanted to take that idea into a more practical, real-world application: reading a water meter. For this update, I still used the Makerfabs ESP32-P4 board with an autofocus camera. We also collected new images from a real water meter, focusing on the pointer and digit-reading area, and trained a dedicated recognition model based on this new dataset. The goal was not simply to recognize a fixed set of five numbers, but to make the model capable of identifying the actual reading shown on a water meter. After training and deploying the model, we tested it with real water meter images, and it correctly recognized the meter reading. This project is essentially the next step from our previous 5-digit recognition experiment—moving from a simple number-recognition demo to a more practical edge AI vision application. Would be interested to hear what other real-world applications you think could be built on top of this kind of embedded AI vision system.
-
-3d ago
+1d ago
 
 ---
 
-**[First finger movement test on my InMoov based humanoid hand](https://www.reddit.com/r/robotics/comments/1w10t6g/first_finger_movement_test_on_my_inmoov_based/)**
+**[GTA NPCs Are Better at Robotics Than You Think](https://www.reddit.com/r/robotics/comments/1w49qin/gta_npcs_are_better_at_robotics_than_you_think/)**
 
-I have been slowly building my InMoov based humanoid robot for the past two years. I have made lots of tweaks, and the software is fully custom. This is an old video from the first time I tested the fingers. If you see an inappropriate accidental gesture, you don’t. The fingers still don’t have force sensors, here, so you can see wires sticking out of them. I’ll share random videos from different stages of the build, with no particular timeline, together with what I am working on now.
+Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs were just randomly driving around? Think again!! They’ve been doing *Robotics* this whole time To read the full breakdown tap the image
 
-3d ago
+🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 5h ago
+
+---
+
+**[My Custom Robot and Reinforcement Learning Script in Isaac Sim](https://www.reddit.com/r/robotics/comments/1w3k2g7/my_custom_robot_and_reinforcement_learning_script/)**
+
+I have been working on different robotics task mainly in Pybullet. Complexity of Isaac Sim has kept me from experimenting with it but I finally finished my first successful reinforcement learning script using it. Getting the settings right so I could observe the trainings in windowed mode with my laptop 3070 gpu took I while but I managed to get it working well enough to troubleshoot some early issues I noticed through visual inspection. I gave the PPO full control of my robot's controller, not the joint angle outputs, meaning it had to figure out a way to climb the ramps using the directional controller inputs and body adjustments like pitch and height. The training took about 45 minutes with my RTX 3070 mobile GPU vs 1 hour and 45 minutes using cpu with Pybullet. I am now working on full locomotion simulation, again with my custom robots, its a bit more involved than I expected but I am hoping in the end I can come up with my own full locomotion training script and load the model to my actual robot to control it. I also share my tutorial scripts with my videos on youtube, if you are interested in watching the video for this one you can find it with the link below: https://youtu.be/0x5BBosrq-E You can also download the simulation script from my github repository with the link below. https://github.com/serdarselimys/HexaDogZBD-IsaacSim-RL If you are interested in the real 3D printed robot, you can fine info about it from the video link below. https://youtu.be/qflyEQOJObM
+
+1d ago
+
+---
+
+**[Current set-up. Any changes? Anything I should add?](https://www.reddit.com/r/robotics/comments/1w3z07i/current_setup_any_changes_anything_i_should_add/)**
+
+14h ago
+
+---
+
+**[RealSense SDK v2.58.4 Released!](https://www.reddit.com/r/robotics/comments/1w3huww/realsense_sdk_v2584_released/)**
+
+Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (SDK) - Introduced zero-copy GPU frame access for CUDA/TensorRT workloads on Jetson platforms, eliminating host-device memory copies. (SDK) - Unified the AI pipeline under the new Perception framework, including Object Detection enhancements and per-detection distance reporting. (SDK, D555 FW) - Added D401 dual-RGB support, including CSI passthrough and dedicated RGB control handling for GMSL deployments. (SDK, D400 FW, MIPI Driver) - Added H.264 color streaming support for ROS2/DDS with runtime profile selection.(D555 FW) - Enabled runtime Temporal Filter control without requiring pipeline restart, with improved coordination with Object Detection. (D555 FW) - Improved GMSL streaming reliability and multi-camera operation, including fixes for frame drops, link recovery, and synchronization stability. (D400 FW, MIPI Driver) - Introduced first D58x/D585 GMSL platform support, including serializer/deserializer integration, RGB controls, telemetry, and new device-tree overlays. (MIPI Driver) - Expanded platform support with JetPack 7.2 compatibility and multiple JetPack 5.x stability and streaming fixes. (SDK, MIPI Driver) - Improved timestamp accuracy, hardware clock handling, and synchronization robustness across the stack. (SDK, MIPI Driver) More info: https://github.com/realsenseai/librealsense
+
+1d ago
 
 ---
 
@@ -118,7 +112,7 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
 
-Medtronic • 1h ago
+Medtronic • 6h ago
 
 ---
 
@@ -130,11 +124,39 @@ TechCrunch • 1d ago
 
 ---
 
+**[GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’](https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition)**
+
+Right after a YouTuber became GoPro’s biggest shareholder, the company got sold.
+
+The Verge • 25m ago
+
+---
+
 **[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
 
 The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
-CNBC • 5h ago
+CNBC • 9h ago
+
+---
+
+**[Warehouse robot and software developer Locus Robotics nears Series G close](https://www.axios.com/pro/enterprise-software-deals/2026/09/01/locus-robotics-series-g)**
+
+Axios • 5h ago
+
+---
+
+**[Carbon Robotics Launches Carbon Autonomy Ready Program, Great Plains Manufacturing Joins as First Member](https://www.businesswire.com/news/home/20260831647254/en/Carbon-Robotics-Launches-Carbon-Autonomy-Ready-Program-Great-Plains-Manufacturing-Joins-as-First-Member)**
+
+Business Wire • 1d ago
+
+---
+
+**[As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production](https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html)**
+
+Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
+
+Radio Free Europe/Radio Liberty • 1d ago
 
 ---
 
@@ -146,43 +168,17 @@ Financial Times • 1d ago
 
 ---
 
+**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+
+Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+
+The Verge • 2d ago
+
+---
+
 **[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
 
 AP News • 1d ago
-
----
-
-**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
-
-WSJ • 2d ago
-
----
-
-**[Carbon Robotics Launches Carbon Autonomy Ready Program, Great Plains Manufacturing Joins as First Member](https://www.businesswire.com/news/home/20260831647254/en/Carbon-Robotics-Launches-Carbon-Autonomy-Ready-Program-Great-Plains-Manufacturing-Joins-as-First-Member)**
-
-Business Wire • 23h ago
-
----
-
-**[As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production](https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html)**
-
-Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
-
-Radio Free Europe/Radio Liberty • 22h ago
-
----
-
-**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
-
-OregonLive.com • 11h ago
-
----
-
-**[Adorable waddling robot can pick up stuff and learn new tricks](https://newatlas.com/robotics/adorable-waddling-robot-pick-up-hugging-face-microduck-pollen-robotics/)**
-
-This cute little robot duck isn't actually a toy. It's actually a platform for budding roboticists to train on and develop skills. But heck, this might be the most fun design for a hackable machine we've seen yet.
-
-New Atlas • 23h ago
 
 ---
 
@@ -196,37 +192,7 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 159K • 👍 850 • 💬 47 • ⏱️ 0:17 • 4d ago
-
----
-
-**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
-
-8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
-
-📺 XRoboHub
-
-👁️ 569K • 👍 2K • 💬 250 • ⏱️ 0:16 • 5d ago
-
----
-
-**[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
-
-China showcased its robotics at this year's World Humanoid Robot Games in Beijing, and the results are less than impressive.
-
-📺 CrowderBits
-
-👁️ 61K • 👍 3K • 💬 326 • ⏱️ 4:11 • 6d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 425K • 👍 5K • 💬 9 • ⏱️ 1:01 • 2d ago
+👁️ 163K • 👍 881 • 💬 47 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -236,37 +202,67 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 102K • 👍 748 • 💬 78 • ⏱️ 7:51 • 4d ago
+👁️ 103K • 👍 756 • 💬 79 • ⏱️ 7:51 • 4d ago
 
 ---
 
-**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
+**[BEST MOMENTS From China&#39;s &quot;AI&quot; Robot Olympics](https://www.youtube.com/watch?v=szroUyWaRTI)**
 
-Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
+China showcased its robotics at this year's World Humanoid Robot Games in Beijing, and the results are less than impressive.
+
+📺 CrowderBits
+
+👁️ 61K • 👍 3K • 💬 327 • ⏱️ 4:11 • 6d ago
+
+---
+
+**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
+
+8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
+
+📺 XRoboHub
+
+👁️ 573K • 👍 2K • 💬 250 • ⏱️ 0:16 • 6d ago
+
+---
+
+**[China’s New Robots at WRC 2026 Look 99% Like Real Humans](https://www.youtube.com/watch?v=vmpAjwsjOFw)**
+
+China's new robots showcased at WRC 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly realistic ...
 
 📺 Carros Show
 
-👁️ 104K • 👍 739 • 💬 64 • ⏱️ 1:04:00 • 4d ago
+👁️ 132K • 👍 736 • 💬 89 • ⏱️ 18:09 • 6d ago
 
 ---
 
-**[Highlights from China&#39;s World Humanoid Games, and what it means for the future](https://www.youtube.com/watch?v=CFYtlCs4RhA)**
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
-China's World Humanoid Robot Games is a technological showcase, but also a possible glimpse into the future of robotics.
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
-📺 CBS Mornings
+📺 fastwit
 
-👁️ 62K • 👍 405 • 💬 168 • ⏱️ 3:54 • 6d ago
+👁️ 440K • 👍 5K • 💬 10 • ⏱️ 1:01 • 3d ago
 
 ---
 
-**[Inside China’s humanoid robot boom](https://www.youtube.com/watch?v=-7ASfRSXnHE)**
+**[humanoid robots are now cleaning homes in san francisco #shorts](https://www.youtube.com/watch?v=lEpUVgO1cA0)**
 
-China is betting big on humanoid robots, pouring investment into the sector and backing companies developing the technology.
+Humanoid robots are officially cleaning homes in San Francisco for $30 an hour. TAU Robotics is deploying humanoid robots for ...
 
-📺 Reuters
+📺 Indiatimes
 
-👁️ 15K • 👍 66 • 💬 27 • ⏱️ 2:19 • 5d ago
+👁️ 1K • 👍 6 • ⏱️ 0:47 • 3h ago
+
+---
+
+**[China’s Robot Olympics Were Terrifying](https://www.youtube.com/watch?v=i7M-MTH0WhU)**
+
+Check Out Our Sponsor: LEDGER AGENT STACK ...
+
+📺 Limitless Podcast
+
+👁️ 59K • 👍 1K • 💬 553 • ⏱️ 27:53 • 6d ago
 
 ---
 
@@ -276,17 +272,15 @@ China's Humanoid Robots Are Getting Shockingly Advanced | #shorts #china #robots
 
 📺 KADAK
 
-👁️ 2K • 👍 40 • ⏱️ 0:36 • 9h ago
+👁️ 4K • 👍 78 • 💬 1 • ⏱️ 0:36 • 13h ago
 
 ---
 
-**[UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)**
+**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot #robotics](https://www.youtube.com/watch?v=itMRcXCDZbA)**
 
-RELEASE DATE: https://www.roblox.com/events/1508048912529883734 SOCIALS   Blox Fruits Twitter: ...
+📺 XRoboHub
 
-📺 Gamer Robot
-
-👁️ 5.0M • 👍 207K • 💬 53K • ⏱️ 14:19 • 2d ago
+👁️ 145K • 👍 962 • 💬 109 • ⏱️ 0:16 • 6d ago
 
 ---
 

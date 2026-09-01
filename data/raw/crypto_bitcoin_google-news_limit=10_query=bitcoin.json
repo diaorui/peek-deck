@@ -5,74 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy buys bitcoin after hiatus",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmJ2MFFHVTFmMkNXWW5LeUJlZ1FZa2wxbWVUYmdSdl9yM3Awem5CWGJHeENKU3hrQklnM0lubWFBRFRJUWpPcGJLLVBuMzhXelFZczhmaWJWOHI0Sk52YzJtMGk3UWZEajEyNHpTempIRHYxSWtDenJ0dTNhSlc1aFBHcw?oc=5",
-      "pub_date": 1788213420.0,
-      "article_url": "https://www.cnbc.com/video/2026/08/31/strategy-buys-bitcoin-after-hiatus.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356739-17882130241788213021-48101983983-1080pnbcnews.jpg?v=1788213023&w=1920&h=1080",
-      "description": "The 'Fast Money' traders talk Strategy buying more bitcoin."
-    },
-    {
-      "headline": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpRaWRYLW5xR3drSl90QkUxcmVxTkVxN09PWWhaMGlpWDV6ODQ4Qzg2WDJkb3Y4Nmc3OEFxeHFaVTBNc1pIVUVHbndQdDMwRHJldldJUEI1VXNMWnlva2gwNE1uQVlGaWYxN3VvSnVrS0pUYjdSejVyZjlsZ1NMS2I3Q2taVWkxelQyVlAyYzFfT0hseF9QYVh5Nm9VVm1DNG1XSUZ0VU1zWnNZeWtGdlBHWFRLWmVxZzlYZA?oc=5",
-      "pub_date": 1788237028.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Price Prediction: Macro Pressure Mounts as Yen Slides and Oil Climbs",
+      "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5",
-      "pub_date": 1788177279.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-macro-pressure-115439697.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/783299450c3cc327e8cce5007e7c0f45b15591ac2e0f80d67c2a43459a28525b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2F14917880e657ad21bd5f5e6412cddf63",
-      "description": "Bitcoin traded at $78,500 as the Japanese yen breached 160 per dollar in Tokyo trading, while a U.S. strike on Iran\u2019s Larak Island added to bearish price prediction. The moves followed Friday\u2019s broad dollar advance and hawkish remarks from Warsh at Jackson Hole, which lifted expectations for a Federal Reserve ..."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5",
+      "pub_date": 1788178757.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-restarts-bitcoin-buying-121917075.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/89db1d21abdc6cc718a9ec43f55bc0ef22fd556cb0bfe65f4440fb4c320cf8e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fe1822104567edc712746337b491ef0fe.jpg",
+      "description": "Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul."
     },
     {
-      "headline": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OZ3haa3hFamh5VmtIVnBJVFo4LVdXVGdXRUVBRGY3RFVxV2VrV2tjQVNMR1B5Tk8teXlIVG5Vam9MWW0tcUd5UFJ5aGhGcFlpazUyNlVZRTZuMkFWQzN1X3M3R0tCNFlFcVNQbDBXNWlheDdqYzAwNTRmU2hXUdIBhgFBVV95cUxQckF4WEtQNXRZMUY3anIzT2t2NHpvbmU5a0tjR0pFVnUwMk1XbU1ReVZPamdBUWlOYzVjLVJmUGx4anFJdTJIVDUtVmJZWW1vX0h0cTZsOU1ta1o1YmpfeG4wUGFBWEIwUHpicGgxejdCdkR4OV9idUxFSUdWeWlqaFpCTTNyUQ?oc=5",
-      "pub_date": 1788195346.0,
-      "article_url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png",
-      "description": "Bitcoin is proving resilient at the start of the week, holding ground even as fresh U.S. military strikes on Iran drove oil prices higher."
-    },
-    {
-      "headline": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
+      "headline": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY21EN3BqdGNESlRDRk83ZmxEdzBZbDlQcnhtZGxPdjdzbExWRUpfdzNiRWFJVTBVV1A2bG1wdGUtMk40dDVrTXkyNEhVTVUyUU5ob3c4R0V1Wi10aDlfNExWWlRpc3JRaUp0RlQtU1JWcjZoeE1vM29KZ1FFdUJKeV9jdzBQeEtxUDRPRmtQQ2J5VGNnbXF6cnM1WGxyeUgtS0dxQ0tlVHJvTXY3eHZQUnJNdm0yVW5ZTExfUkpYNHB4S28?oc=5",
-      "pub_date": 1788261197.0,
+      "pub_date": 1788272656.0,
       "article_url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
       "image": null,
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for Sept. 1, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZnJJLTYySXBpbnFvY2FuR0ZOZG9GZ0RkNTVVNlBtbTRlUWI1MzBaMlpuMUV4Q0lBMHdXZDduZ1h2M3RhQkU2X3hqWVFxTUo4ZloybmR5RW5STXB2S3ktQnFEb1g3YjA?oc=5",
-      "pub_date": 1788264000.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-01-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-1.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist",
+      "headline": "Bitcoin holds steady as yields climb, major exchanges go 24/7",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV2hXejF4NVU5cFNfSEpYdVVkOUx0X2c0UWVJN1phcFBSWm5VbDlrN1BpcUhxaDJ6X09XQU5rdWlWbThNNGVFdTJ0S2JHeDlsbTBjWHRoaGNrTUUyN0Q1NUdEUWhadkRsTkNKU0hqOWt5VjdJUGRyOFN1eEt5empIdmJiRWJtSTZPcFI3RlF5VnIwY3dURFNzd0ZSRGRvenRETmJ2alY0VUtzSm1vNHQyWDZRVTlrTkd2TW9xaVppeDQ1ZXRaNFU2QVd0RUNDVHEyY2poNl9FQTVRdEtlTGUzWm1ra2JDc19jZ1FGUDhIYWZTYm5QSUhPMUFTTnBqZVlZUTFPWVo0S2QwRTBLZXhWUnJPSHc?oc=5",
-      "pub_date": 1788266154.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
-      "description": "Bitcoin opened at $78,559.11 on Tuesday, September 1, 2026, up 1.1% from Monday's open. As of 8:19 a.m. ET, bitcoin fell to $77,945.97. Ethereum opened at $2,467.13 today, up 2% from Monday's opening price. The price of ethereum edged lower to $2,454.23 as of 8:19 a.m. ET."
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXZGYXVRcmdjOHlCN1dBS0tMN1dlYXp1R3VkbmRTWFFzNnBJc2ZqV1RVZmJmam93VDgzT0ZKclN5eGREZ1JoNDlJcFVCRVVBRG1maGxBd2h2dUxPTFNuLW1xNHlTSS1XeElxcjZPNGFQRzFZZ3p5OEFfRXdSZXpOR0pLdk5OdU9JTF9MY2JveVhrMFZhLWs3RWV0WWJVS0RLSExsc3czWWxmZw?oc=5",
+      "pub_date": 1788279108.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-holds-steady-as-yields-climb-major-exchanges-go-247-161148968.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cf21f1842b4d990d7fd8f52ed3fb06b658504ed0f9e0918fe04151127cc9118f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-0901_1656.png",
+      "description": "This episode of \"The Daily Wolf with Scott Melker\" explores bitcoin's (BTC-USD) steadiness versus the continued climb in bond yields, the New York Stock Exchange (NYSE) and London Stock Exchange (LSE) are both building tokenized stock markets, while Binance is building a 24/7 options trading market.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
+    },
+    {
+      "headline": "ARK, Glassnode Rank Bitcoin Most Decentralized \u2013 Ethereum, Solana Face Different Trade-Offs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUxqUDRlQnVJYzJCMXZjejdLVkZoQ2pVa0hYazMzcmZHTWdUeU8zZHhNUnhmQUVqMFV4U1hlSzd4Y25rNTdjU3A3YVdIUU1uRDVnN05jdktneXhqMzRYQlpseVhCSjk3SUJSeWotZGQxdHNLdUNlRmM2RHlFZ2RZM1hUbnBRVWl4b3N5OEp6YU1pdmVOYXJfckptQXU?oc=5",
+      "pub_date": 1788279184.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ark-glassnode-rank-bitcoin-most-161304985.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/74877fbce8e632a700eff80276a71434d8dc323c526477ebb35fd0ab0cf9e0ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faa79cb7ff6217367f378f79e1c7748d7.jpg",
+      "description": "Bitcoin ranked as the most decentralized of the three networks studied, although the report also highlighted concentration risks in its mining sector."
     },
     {
       "headline": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because \u2018You\u2019re Going to Work With It or Be Out of the Game\u2019; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
@@ -83,6 +53,16 @@
       "article_url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
       "image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
       "description": "Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting."
+    },
+    {
+      "headline": "City of El Reno condemns Bitcoin mining facility after massive water leak, citing safety violations",
+      "source": "KOCO",
+      "source_url": "https://www.koco.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDRFQTZrbzczUFBHaFRCSFctNFNTVnZHc2swdGJ2MkdTNEVlSzVULTlyYXQ4cEl4Z3ItUFhNWF92cFJUMjU2VzIwSUlYclZibjRaUGFEbEZrbGVMR2tTY2VteTlWTUdWb0dYTkIxUmNERXhDWDY5dWhBektUVFBUQlRLUDRuVzA?oc=5",
+      "pub_date": 1788232620.0,
+      "article_url": "https://www.koco.com/article/el-reno-bitcoin-mining-facility-water-leak/73573597",
+      "image": "https://kubrick.htvapps.com/vidthumb/daa6e39b-bba0-490a-8228-5fb9f80fedcd/d00fe364-d6a3-4450-8bcb-e51d8403133c.jpg?crop=0.750xw%3A0.749xh%3B0.120xw%2C0&resize=1200%3A*",
+      "description": "El Reno condemned a Bitcoin mining facility after a water line failure leaked 3 million gallons and shut down schools, businesses and offices."
     },
     {
       "headline": "Neighbors push to shut down Delaware County bitcoin mining facility",
@@ -103,8 +83,28 @@
       "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/",
       "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/08/image-2320.png",
       "description": "Best Crypto Casinos Worth A Closer Look In 2026\u00a0 \ud83c\udfb0 Casinos \ud83c\udf81 Welcome Bonus Player Ratings 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 \u2b50 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins 4.8/5 \u2b50 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 4.7/5 \u2b50 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free..."
+    },
+    {
+      "headline": "Massive water leak exposes El Reno Bitcoin mining site operated unlawfully for years",
+      "source": "KFOR",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNk9fYVE2VlpFZnBMT09BMl9VUVZNTzhXbkRWdDc1T2NSbXNQUkdqdGlGX1VudG9wZThiLXhubkl2NFNRSlc0UnBmRE50QnNaSlZOVVlCVktzUURKdWlZelpybEE4MG9JVlZ2WlVuVUh6cUFvRVhIRHNpZ3RTSVl0Ty1ORFAyVXdXZzRmNnZZY3J6ellLTEQ5WWxHa3ZWZHBXMExCRDRBSlBuOUF3ZnN1eU9ia9IBuAFBVV95cUxQRHNHOU11bXE5YWhSYmpURHR2NXh3SWJIYUFqRkgwNnAyR21LZ1NKZ1dzLUJZRVkteExUMWlJX2MtMmsxYUp0RHA4UlJjWVFmcEJ5RDJKRU5zV19mMzU3NmRDMU9PX0JCWENQZ2pHTGtMcVdiajZQVUtWNG5iTm1MSXViaHJEel9EV2tLVUN3V2VNYm0zak9KWmQ4N09nOHZnMEZDVFdRLWVTcW1xbGp4V1o3MHFrd19h?oc=5",
+      "pub_date": 1788218008.0,
+      "article_url": "https://kfor.com/news/local/massive-water-leak-exposes-el-reno-bitcoin-mining-site-operated-unlawfully-for-years/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Smart Investor: Warsh Talks Tough, Bitcoin\u2019s Bounce, Top Managers\u2019 Stock Picks",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVy1icTFnSWxSQ3JENUQyeW1DSUFXTzg4ZnRKVWwtbklEZS1zT3VHOFJndTcxM1VEVmVVNTVIRDJwcVY5N3V2VTZ6czVHS2pzeGI1MUltVHBZeVl0X3NReUVYT202Uzdzb2dnWW9Yb3V0dl9yUUJXQkMxamtXSzVDSnZsQUVpRjV2QUlnOVV4eXJXcnZDMExNYW9hQnM2aXUyMWpjTnhTcUExc1l3OXc?oc=5",
+      "pub_date": 1788005703.0,
+      "article_url": "https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks",
+      "image": "https://media.morningstar.com/resizer/v2/3RJDP7C6PNG2XF54FF7JLPNPGU.jpg?auth=47c9d0a758d29188bd7594efec79c1785cd0bca4b5e86035176a97b72f9fbd87&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
+      "description": "We wrap up our coverage of the markets and the week."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T12:41:11.372066+00:00"
+  "fetched_at": "2026-09-01T17:11:14.966262+00:00"
 }
