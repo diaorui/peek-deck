@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-01T20:04:04.750500+00:00'
+updated: '2026-09-01T22:44:18.820656+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 20:04 UTC  
+**Last Updated:** September 01, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,63 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** -3.6%  
-**30d:** +29.9%  
-**90d:** +36.4%  
-**1y:** -44.2%  
+**24h:** -2.4%  
+**7d:** -3.9%  
+**30d:** +29.4%  
+**90d:** +35.9%  
+**1y:** -44.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.62B
+**Market Cap:** $290.34B
 Rank #2
 
 **Circulating Supply:** 120,681,093 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.1%
+-51.4%
 
 **All-Time Low:** $0.43
-+558218.1%
++555587.5%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[What’s stopping you from using a crypto payment card?](https://www.reddit.com/r/ethereum/comments/1w4dajd/whats_stopping_you_from_using_a_crypto_payment/)**
+
+I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
+
+8h ago
+
+---
+
+**[Daily General Discussion September 01, 2026](https://www.reddit.com/r/ethereum/comments/1w424z1/daily_general_discussion_september_01_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+17h ago
+
+---
+
+**[Daily General Discussion August 31, 2026](https://www.reddit.com/r/ethereum/comments/1w33wbe/daily_general_discussion_august_31_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[If your deployment template references a smart contract audit, does that reference survive upgrades?](https://www.reddit.com/r/ethereum/comments/1w3bq23/if_your_deployment_template_references_a_smart/)**
+
+I work on the assessment side at a smart contract auditing company. This came out of an audit we did on a governance-approved deployment system on a permissioned chain. The system stores metadata for each approved deployment template: a bytecode hash, a storage layout hash, a link to the audit report, and the source repository commit. On paper, every deployed proxy maps back to reviewed and approved code. At deployment time, nothing checks those fields. The factory resolves the implementation live from the beacon, and the beacon owner can publish a new version at any point after the template was registered. The bytecodeHash field is in storage, but no require statement compares it to address.codehash on what actually gets deployed. After the first beacon upgrade, every new deployment runs code that was never part of the original audit, while the template still points at the old audit URI and the old commit. When we flagged it, the project team didn't start enforcing the hash. They removed the bytecode and storage layout hashes from the template entirely. I'd argue that's more honest than keeping fields that imply verification and deliver none. But what's left is a pipeline where the only governance control is trusting the beacon owner, and the on-chain record of what was audited diverges silently from what's actually running. Regulators running MiCA compliance assessments or CASP license reviews want to see governance over what gets deployed to production. If your template stores an audit reference and an assessor asks whether it's enforced, "recorded but not checked" puts you in a worse position than having no reference at all. The reference misrepresents what the deployed code went through. Open your template registry or deployment manifest. Find the field that references the audit or stores a bytecode hash. Grep for it on the deploy path. If the field is written once at registration and never appears in a require or assert during deployment, you have decorative governance metadata. address.codehash exists on-chain. The check is one comparison. Nobody wrote it. Plenty of governance models handle this off-chain with CI/CD gates, human sign-offs, and change management procedures, and those work for permissioned systems. The gap opens when the on-chain record looks like it provides a guarantee it doesn't, because the next person who reads that template will assume enforcement already happened. If a MiCA license or VARA license assessor asked you to demonstrate that your template's bytecodeHash is enforced at deployment, could you show them the require statement?
+
+1d ago
+
+---
 
 **[Daily General Discussion August 30, 2026](https://www.reddit.com/r/ethereum/comments/1w2874e/daily_general_discussion_august_30_2026/)**
 
@@ -114,61 +146,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Mina Graph blockchain explorer updates](https://www.reddit.com/r/ethereum/comments/1w0owmi/mina_graph_blockchain_explorer_updates/)**
-
-Hey all! I’ve updated my MinaGraph Explorer app, and it’s now more powerful than ever! 🚀 Track movements between wallets across dozens of blockchains in a highly visual and interactive way. 🎥 Take a tour with my latest video presentation: https://youtu.be/kc6tiI7DLiE?is=rsSelIazh8DRQhER 🌐 And try it yourself: https://webapp.minagraph.com Happy exploring!
-
-4d ago
-
----
-
-**[Ethereal news weekly #37 | Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegotá upgrade](https://www.reddit.com/r/ethereum/comments/1w0r3l6/ethereal_news_weekly_37_glamsterdam_upgrade/)**
-
-Glamsterdam upgrade repricing impact for contract developers, Revolut euro stablecoin rolling out, native account abstraction scheduled for inclusion in Hegotá upgrade
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-37/) • 4d ago
-
----
-
-**[Daily General Discussion August 27, 2026](https://www.reddit.com/r/ethereum/comments/1vzkinz/daily_general_discussion_august_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[What is the most popular self-custody wallet for holding and staking ETH on a phone?](https://www.reddit.com/r/ethereum/comments/1vzbgcs/what_is_the_most_popular_selfcustody_wallet_for/)**
-
-Would like some advice from the community. I am new and I currently have some a bit more than 2.5 ETH on crypto.com. I would to set up a self custodial wallet for holding and staking ETH. Could anyone advise me the best app? 🙏🏻🙏🏻🙏🏻
-
-5d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html)**
+**[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
 
-Bitcoin opened at $78,559.11 on Tuesday, September 1, 2026, up 1.1% from Monday's open. As of 8:19 a.m. ET, bitcoin fell to $77,945.97. Ethereum opened at $2,467.13 today, up 2% from Monday's opening price. The price of ethereum edged lower to $2,454.23 as of 8:19 a.m. ET.
+Tom Lee said Ethereum could reach $6,000 if Bitcoin climbs to $150,000 and the ETH/BTC ratio rises to 0.04. The BitMine chairman believes the CLARITY ...
 
-Yahoo Finance • 7h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
-
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html)**
+**[Layer 1 blockchain war ends with Solana and Eth...](https://pluang.com/en/news-feed/ran-neuner-solana-ethereum-pemenang-layer-1)**
 
-Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
+Crypto trader Ran Neuner declared the competition among Layer 1 blockchains over, naming Solana and Ethereum as the winners. Solana leads in speed, user base, and crypto activity, while Ethereum excels in real-world assets, institutional adoption, and onboarding. Neuner believes other Layer 1 blockchains lack upside and that the blockchain industry is moving to the next phase focused on killer applications that drive mass adoption and sustainable revenue. He also views tokens as the next evolution of value for public networks, improving on traditional equity by allowing holders to capture value directly from network growth.
 
-PR Newswire • 1d ago
+Pluang • 1h ago
 
 ---
 
@@ -180,35 +174,27 @@ TradingView • 1d ago
 
 ---
 
-**[Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees](https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees)**
+**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
 
-Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Decrypt • 1d ago
-
----
-
-**[Crypto News: Pepeto Announces Final Steps of Binance Listing While Ethereum Price Prediction Targets $60,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-steps-of-binance-listing-while-ethereum-price-prediction-targets-60-000-1036508545)**
-
-DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ...
-
-markets.businessinsider.com • 1d ago
+Fortune • 10h ago
 
 ---
 
-**[Ethereum Whale: Deposits 167855 ETH to Exchanges](https://blockchain.news/flashnews/ethereum-whale-deposits-167855-eth-exchanges)**
+**[Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June](https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june)**
 
-Ethereum whale moves 167855 ETH ($408M) to exchanges with 97715 ETH remaining, pressuring ETH price prediction amid neutral RSI on 4h chart.
+Bitmine picked up the pace of its Ethereum buying last week, acquiring 53,501 ETH worth roughly $131 million.
 
-blockchain.news • 16h ago
+decrypt.co • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
+**[Apeing Set to Launch Its Upcoming Crypto Presale in 8 Days, Ethereum’s 30% Weekly Rally Keeps Bullish Market Sentiment Alive](https://markets.businessinsider.com/news/stocks/apeing-set-to-launch-its-upcoming-crypto-presale-in-8-days-ethereum-s-30-weekly-rally-keeps-bullish-market-sentiment-alive-1036510515)**
 
-Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
+NEW YORK, Sept.  01, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching a key point in its rollout, with September 8, 2026, confirmed as the launch d...
 
-Coinpedia • 1d ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -220,11 +206,27 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Ethereum Whale: Deposits 167855 ETH to Exchanges](https://blockchain.news/flashnews/ethereum-whale-deposits-167855-eth-exchanges)**
+
+Ethereum whale moves 167855 ETH ($408M) to exchanges with 97715 ETH remaining, pressuring ETH price prediction amid neutral RSI on 4h chart.
+
+blockchain.news • 19h ago
+
+---
+
 **[Lido funds ValOS initiative to enhance Ethereum validator standards](https://cryptobriefing.com/lido-valos-ethereum-validator-standards/)**
 
 Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 8h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
+
+Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
+
+Coinpedia • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 84 • ⏱️ 9:05 • 20h ago
+👁️ 53K • 👍 2K • 💬 85 • ⏱️ 9:05 • 22h ago
 
 ---
 
@@ -248,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 313 • 💬 19 • ⏱️ 15:57 • 2d ago
+👁️ 17K • 👍 317 • 💬 19 • ⏱️ 15:57 • 2d ago
 
 ---
 
@@ -256,57 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 357 • 💬 19 • ⏱️ 2:17 • 19h ago
-
----
-
-**[WHEN WILL ETH BREAKOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=A-i-qvcmz7w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 640 • 👍 21 • 💬 1 • ⏱️ 5:15 • 11h ago
-
----
-
-**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
-
-WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 260 • 💬 35 • ⏱️ 41:55 • 1d ago
-
----
-
-**[SharpLink &amp; Lido: Ethereum Doesn&#39;t Need To Change Issuance (Here&#39;s Why)](https://www.youtube.com/watch?v=0Ua4i3WDXGY)**
-
-Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't the priority. Rather, the focus should be on ...
-
-📺 The Rollup
-
-👁️ 9K • 👍 87 • 💬 12 • ⏱️ 7:49 • 1d ago
-
----
-
-**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=dv_XIROh0Q4)**
-
-In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 invalidation level for our current micro triangle ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 206 • 💬 11 • ⏱️ 7:19 • 1d ago
-
----
-
-**[🤩 Ethereum 2-Year Price Target: UDS 8,323](https://www.youtube.com/watch?v=yO-RhKSGYLU)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 62 • 💬 10 • ⏱️ 9:19 • 7h ago
+👁️ 7K • 👍 374 • 💬 19 • ⏱️ 2:17 • 21h ago
 
 ---
 
@@ -316,7 +268,27 @@ Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡�
 
 📺 Koenz Trading
 
-👁️ 826 • 👍 50 • 💬 7 • ⏱️ 1:55 • 8h ago
+👁️ 1K • 👍 52 • 💬 7 • ⏱️ 1:55 • 10h ago
+
+---
+
+**[XRP + Goldman Sachs is TOP again, Ripple Goes ETHEREUM STANDARD, Japan OIL, Canton Moving to FLIP](https://www.youtube.com/watch?v=1Gf3Ltl-hyA)**
+
+xrp #xrpl #Ripple #goldmansachs #cantonnetwork Follow me on Twitter: @sentosumosaba Patreon: ...
+
+📺 crypto Eri
+
+👁️ 2K • 👍 232 • 💬 9 • ⏱️ 10:20 • 3h ago
+
+---
+
+**[Why Ethereum Will Outperform Bitcoin, Solana &amp; Other Cryptos](https://www.youtube.com/watch?v=gbR7VnQZI9Y)**
+
+I strongly believe we're heading into an Ethereum-dominated bull run. My view is that pretty much everything loses to Ethereum ...
+
+📺 Crypto Archie
+
+👁️ 285 • 👍 26 • ⏱️ 1:12 • 2h ago
 
 ---
 
@@ -326,7 +298,37 @@ Some people will get it and some wont. Some people will invest and make tons of 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 834 • 💬 284 • ⏱️ 33:07 • 1d ago
+👁️ 14K • 👍 833 • 💬 285 • ⏱️ 33:07 • 1d ago
+
+---
+
+**[Joseph Chalom &amp; Kean Gilbert: The Buyback Era Comes To ETH (What&#39;s Coming)](https://www.youtube.com/watch?v=0Ua4i3WDXGY)**
+
+Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't the priority. Rather, the focus should be on ...
+
+📺 The Rollup
+
+👁️ 9K • 👍 87 • 💬 12 • ⏱️ 7:49 • 1d ago
+
+---
+
+**[🤩 Ethereum 2-Year Price Target: UDS 8,323](https://www.youtube.com/watch?v=yO-RhKSGYLU)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 73 • 💬 11 • ⏱️ 9:19 • 10h ago
+
+---
+
+**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
+
+WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
+
+📺 CryptoWendyO
+
+👁️ 9K • 👍 261 • 💬 33 • ⏱️ 41:55 • 1d ago
 
 ---
 
