@@ -89,6 +89,20 @@
       "site_name": "cryptonews.net"
     },
     {
+      "title": "Generating Bitcoin wallet seed phrases from playing cards",
+      "url": "https://brekken.com/posts/a-truly-random-seed-phrase",
+      "hn_url": "https://news.ycombinator.com/item?id=49519790",
+      "author": "abrkn",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-09-01T09:26:51Z",
+      "object_id": "49519790",
+      "image": "https://brekken.com/assets/img/posts/2026-08-28-truly-random-seed-phrase/og-image.jpg",
+      "description": "COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed phrase from a shuffled deck of playing cards on an air-gapped Raspberry Pi.",
+      "favicon": "https://brekken.com/assets/img/favicon/apple-touch-icon.png",
+      "site_name": "Andreas Brekken"
+    },
+    {
       "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 1",
       "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512",
       "hn_url": "https://news.ycombinator.com/item?id=49497861",
@@ -129,23 +143,9 @@
       "description": "How Bitcoin Puzzles 66 and 69 were front-run and stolen. A key in a known range falls to its own public key in about the square root of the work brute force needs. Runs live in your browser.",
       "favicon": "https://krackpot.io/favicon.ico",
       "site_name": "Krackpot"
-    },
-    {
-      "title": "Audio-visual language For Bitcoin covenant use-cases",
-      "url": "https://getcofund.com/research/covenants-use-case-atlas",
-      "hn_url": "https://news.ycombinator.com/item?id=49432006",
-      "author": "setzeus",
-      "points": 1,
-      "num_comments": 1,
-      "created_at": "2026-08-25T11:19:50Z",
-      "object_id": "49432006",
-      "image": "https://getcofund.com/research/covenants-use-case-atlas/og.gif?v=tkakwq",
-      "description": "Twenty-four covenants, one grammar. Hover a tile: it flips & plays its mechanism. The UTXO is consumed by its stencil, & what the covenant committed to emerges.",
-      "favicon": "https://getcofund.com/favicon.ico",
-      "site_name": "getcofund.com"
     }
   ],
   "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-09-01T07:22:10.408006+00:00"
+  "fetched_at": "2026-09-01T12:40:45.677319+00:00"
 }

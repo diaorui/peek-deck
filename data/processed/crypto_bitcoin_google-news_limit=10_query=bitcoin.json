@@ -5,54 +5,74 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy jumps back into bitcoin with $370 million purchase",
+      "headline": "Strategy buys bitcoin after hiatus",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmJ2MFFHVTFmMkNXWW5LeUJlZ1FZa2wxbWVUYmdSdl9yM3Awem5CWGJHeENKU3hrQklnM0lubWFBRFRJUWpPcGJLLVBuMzhXelFZczhmaWJWOHI0Sk52YzJtMGk3UWZEajEyNHpTempIRHYxSWtDenJ0dTNhSlc1aFBHcw?oc=5",
+      "pub_date": 1788213420.0,
+      "article_url": "https://www.cnbc.com/video/2026/08/31/strategy-buys-bitcoin-after-hiatus.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356739-17882130241788213021-48101983983-1080pnbcnews.jpg?v=1788213023&w=1920&h=1080",
+      "description": "The 'Fast Money' traders talk Strategy buying more bitcoin."
+    },
+    {
+      "headline": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpRaWRYLW5xR3drSl90QkUxcmVxTkVxN09PWWhaMGlpWDV6ODQ4Qzg2WDJkb3Y4Nmc3OEFxeHFaVTBNc1pIVUVHbndQdDMwRHJldldJUEI1VXNMWnlva2gwNE1uQVlGaWYxN3VvSnVrS0pUYjdSejVyZjlsZ1NMS2I3Q2taVWkxelQyVlAyYzFfT0hseF9QYVh5Nm9VVm1DNG1XSUZ0VU1zWnNZeWtGdlBHWFRLWmVxZzlYZA?oc=5",
+      "pub_date": 1788237028.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Price Prediction: Macro Pressure Mounts as Yen Slides and Oil Climbs",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFp0WHdIS1RGMUU1dDVXbmVtQTBNV2VyMnZpcHRNRm9adWVmTU85OVNZWVRaZVlTLU0zS3cxMkdIVXhhOTZfV204RURZajlYVVFYdXpNcnB6bjU3UHZjN1pwTUo1dUJPNnAtRE10Ul83MGZJTDFGT2FHYkR2Q2xkWUIwX1Q?oc=5",
-      "pub_date": 1788193200.0,
-      "article_url": "https://finance.yahoo.com/video/strategy-jumps-back-bitcoin-370-162000465.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3bc079babf36813ebcdf05f8ee58bd7ac2ba2500c4aa0c72f2c9a10f688e16dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F8d54b410-1ac9-11ec-bdbf-c97b70618147_f21c5ae6cf8c19e345ffba317343c43d2e5dd314519e22b6a62cec2d4020c39c.jpg",
-      "description": "Scott Melker discusses Michael Saylor's Strategy (MSTR) restarting its bitcoin (BTC-USD) buying spree with a $370 million purchase, marking the company\u2019s first bitcoin acquisition in nearly 10 weeks.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5",
+      "pub_date": 1788177279.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-macro-pressure-115439697.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/783299450c3cc327e8cce5007e7c0f45b15591ac2e0f80d67c2a43459a28525b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F99bitcoins_us_315%2F14917880e657ad21bd5f5e6412cddf63",
+      "description": "Bitcoin traded at $78,500 as the Japanese yen breached 160 per dollar in Tokyo trading, while a U.S. strike on Iran\u2019s Larak Island added to bearish price prediction. The moves followed Friday\u2019s broad dollar advance and hawkish remarks from Warsh at Jackson Hole, which lifted expectations for a Federal Reserve ..."
     },
     {
-      "headline": "Bitcoin \u2018Kimchi Premium\u2019 Is Back as South Korean Market Stirs",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjF4SlBLeXp1aFpCRGZQa201V1ByQV9FTE1OdDN6ZHZpTjdQSmMwNG93bFd6Y3pvdGJ3bHlyRVdZQ09OQm53WndsQVhCOUx6RVN0WFNmWWRDSFF2TzJaRWsxR2JYenhEZDV1Vi1mVzlfTXNjUEV3WGdzZmFvb0Zjb1VMYThaM2VOWUlNVXFWeTBySE5hdldDVkZuQWZqRXgzTGNOQUE4Nkg0RGp1dlcw?oc=5",
-      "pub_date": 1788242580.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-kimchi-premium-is-back-as-south-korean-market-stirs",
+      "headline": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OZ3haa3hFamh5VmtIVnBJVFo4LVdXVGdXRUVBRGY3RFVxV2VrV2tjQVNMR1B5Tk8teXlIVG5Vam9MWW0tcUd5UFJ5aGhGcFlpazUyNlVZRTZuMkFWQzN1X3M3R0tCNFlFcVNQbDBXNWlheDdqYzAwNTRmU2hXUdIBhgFBVV95cUxQckF4WEtQNXRZMUY3anIzT2t2NHpvbmU5a0tjR0pFVnUwMk1XbU1ReVZPamdBUWlOYzVjLVJmUGx4anFJdTJIVDUtVmJZWW1vX0h0cTZsOU1ta1o1YmpfeG4wUGFBWEIwUHpicGgxejdCdkR4OV9idUxFSUdWeWlqaFpCTTNyUQ?oc=5",
+      "pub_date": 1788195346.0,
+      "article_url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png",
+      "description": "Bitcoin is proving resilient at the start of the week, holding ground even as fresh U.S. military strikes on Iran drove oil prices higher."
+    },
+    {
+      "headline": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY21EN3BqdGNESlRDRk83ZmxEdzBZbDlQcnhtZGxPdjdzbExWRUpfdzNiRWFJVTBVV1A2bG1wdGUtMk40dDVrTXkyNEhVTVUyUU5ob3c4R0V1Wi10aDlfNExWWlRpc3JRaUp0RlQtU1JWcjZoeE1vM29KZ1FFdUJKeV9jdzBQeEtxUDRPRmtQQ2J5VGNnbXF6cnM1WGxyeUgtS0dxQ0tlVHJvTXY3eHZQUnJNdm0yVW5ZTExfUkpYNHB4S28?oc=5",
+      "pub_date": 1788261197.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
       "image": null,
       "description": null
     },
     {
-      "headline": "U.S. Econ Data Could Decide Bitcoin Breakout Past $80,000 -- Market Talk",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWFCTWFlWFExV2dpdWRnTUdBRVgtaWo2b05UemRSY0stT3VETHN1MFlHUUlHemxBejVWb2NySmR0by1oSU93b3I3bERyMk0tUjdieHIwSG03SDBWejdTVklaWGVqSzh0SkVPNnZFb214bDY5d0dobjJjYXRNNXpDZnpNZVlhczVLZUJYSks1S0d2eEVKdmhFeW9qcFF4VTR0RWM3VQ?oc=5",
-      "pub_date": 1788244831.0,
-      "article_url": "https://www.moomoo.com/news/post/75612886/us-econ-data-could-decide-bitcoin-breakout-past-80000-market",
-      "image": null,
-      "description": null
+      "headline": "Current price of Bitcoin for Sept. 1, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZnJJLTYySXBpbnFvY2FuR0ZOZG9GZ0RkNTVVNlBtbTRlUWI1MzBaMlpuMUV4Q0lBMHdXZDduZ1h2M3RhQkU2X3hqWVFxTUo4ZloybmR5RW5STXB2S3ktQnFEb1g3YjA?oc=5",
+      "pub_date": 1788264000.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-01-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-1.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin surges past $80,000; Coinbase (COIN.US) price target raised to $212",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTJQYVBialJibHM3X25uamlJLXAwczE3MnFveWNvV0JmcHV6M3pkcXE0UE9HWENncDYyNjFrNC1HS21sbmd0SXFBbkJPRXJVNkJhTTIxTlB6LURWa2RHbWhrYjhITmw3SHkwNkptREcxMVd3UnFvWmttMU1jT3dRdTJUYU5TdDRJLXJWUHNTVThfbUtWRDV3Y2puVmVISktqT3plRW84S3Vqdw?oc=5",
-      "pub_date": 1788242046.0,
-      "article_url": "https://www.moomoo.com/news/post/75611107/bitcoin-surges-past-80000-coinbase-coinus-price-target-raised-to",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Man becomes overnight millionaire after finding Bitcoin lost for 12 years",
-      "source": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEhTenBsNFpVMkU5WEdjTk5VdFJvYnRqaWoxSFFXNGdOX2lNTzhhaGFiTlhObHpiUHNrTjNKbG1WdWgyREpYQTEzYnBWTVVmbks1UFh4WldKdXlUWnpjV0hkX2U3YlNxWHlYUlVRaWVjc1ExTjVaX1ZCbzZtTnhEWVZfMF9OWmpWXzlnSGwtcTZXcGFS?oc=5",
-      "pub_date": 1788206100.0,
-      "article_url": "https://sg.finance.yahoo.com/news/man-becomes-overnight-millionaire-finding-195500598.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a13e3772105dc2b34e833fb894efa8d410469cbcc3f2388f544c7bb5b41d4d8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fdba41184686056ac3f943fdfba5ee775.jpg",
-      "description": "A man who lost access to his Bitcoin in 2014 has regained access to his holdings."
+      "headline": "Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV2hXejF4NVU5cFNfSEpYdVVkOUx0X2c0UWVJN1phcFBSWm5VbDlrN1BpcUhxaDJ6X09XQU5rdWlWbThNNGVFdTJ0S2JHeDlsbTBjWHRoaGNrTUUyN0Q1NUdEUWhadkRsTkNKU0hqOWt5VjdJUGRyOFN1eEt5empIdmJiRWJtSTZPcFI3RlF5VnIwY3dURFNzd0ZSRGRvenRETmJ2alY0VUtzSm1vNHQyWDZRVTlrTkd2TW9xaVppeDQ1ZXRaNFU2QVd0RUNDVHEyY2poNl9FQTVRdEtlTGUzWm1ra2JDc19jZ1FGUDhIYWZTYm5QSUhPMUFTTnBqZVlZUTFPWVo0S2QwRTBLZXhWUnJPSHc?oc=5",
+      "pub_date": 1788266154.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "description": "Bitcoin opened at $78,559.11 on Tuesday, September 1, 2026, up 1.1% from Monday's open. As of 8:19 a.m. ET, bitcoin fell to $77,945.97. Ethereum opened at $2,467.13 today, up 2% from Monday's opening price. The price of ethereum edged lower to $2,454.23 as of 8:19 a.m. ET."
     },
     {
       "headline": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because \u2018You\u2019re Going to Work With It or Be Out of the Game\u2019; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
@@ -65,14 +85,14 @@
       "description": "Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting."
     },
     {
-      "headline": "Bitcoin's best month since November 2024 comes with a warning: The road ahead could get rough",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOVXdZUGExc1J3WkpTdHZEeTEwQmFsZ2Fqc0E2SDVobnRUb0NlbTUwRTY2cXN4UkQtOVJCcndpd3QycWdvdGhuRjgwbHQ3T0lIQ2ZFUWRqOS1Wa0ZjcHctMmFpajZKYWl1MjYtd2k2dTdTdGVET0Rmb2k4dVNtMmk2bC1vSnQwZnFzUUtRT3pkVTV1WnJ6ZmVySEhJOW9JeFhtcDRidkdQc0lXOHp4VXFCREl6VFphSkJoZ3lUNDNJbERCNkMwYVRRZk16ek9BdXFQeEVJY1JQTUtITTF6c3FhNHlqdmtwOEdXc0hNeDBKMEZ6V3FTdU9tYXFuVXJZb1Q1X3ZQMFFHVGdUYWRpcTlSRGlhWk5lQWlrQXRsVlpXSkdJS2NWMmtEdUsyMkhmNDRWRUdVV1NXQS1XQ2hSZS1WUFY0VzRnLTM0VUZUaWc2a2ZIeXFpeXNybXhxVkhRVmFXWFUwMjVaaEJBUjVuTC1sSjg0MnhRQQ?oc=5",
-      "pub_date": 1788195300.0,
-      "article_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-fall-as-brent-oil-tops-90-after-u-s-strike-on-iran/card/bitcoin-s-best-month-since-november-2024-comes-with-a-warning-the-road-ahead-could-get-rough-frj6hsVDfT0diuudsvDE",
-      "image": null,
-      "description": null
+      "headline": "Neighbors push to shut down Delaware County bitcoin mining facility",
+      "source": "KCRG",
+      "source_url": "https://www.kcrg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHVhcGhKdzNSSWhPa1NLOTN1dlBlSHNlQ002aVRsY1JZZnhpcnZnMXppNlo1c2JVWlM1dkhaYWpaakRmZ3lyQ2ZYRGNzQ0Q0OWtJek5QTmUtSEhrMGtDdU1MYWx5d2tSSlA4RERmcG8xUm9ZOVRzcnlVY3Rhd3N5U21ZS1pCckM1aVdqT21kZ1ZiVDZTak9RNHFWMjBiQdIBsgFBVV95cUxOSUhSY2VRaWRBaXFUYXFoZ20weHFIbXJ0YzR6MU9zbGtIOWh5Y3p0U3RrMVVKQWhEdTNxVHU5cklqdExISzU4UGpIQjBMQlNYYTkzZ1dxdUdZTENEVkRmUGNtczJQYWdZRDRKWFhnMzZwckc0Q3FHaWNVM1ZNQlBZNzlZWEdlc0RDT3RxNlVoM29HVUg5eWVyNk1ERmZlcUhwVExNLV90cW9uaVFUVDZQTXF3?oc=5",
+      "pub_date": 1788211200.0,
+      "article_url": "https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/",
+      "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/FW4TBSW4B5FTFO2XUVYMBBHTLI.jpg?auth=eb5e2c66ada5d74451da7a2b4099ccce7e2c02aa03090e58620370200d4d121d&width=1200&height=600&smart=true",
+      "description": "The board will hold a hearing within the next 30 days and a vote after that."
     },
     {
       "headline": "5 Best Crypto Casinos 2026: Trusted Bitcoin Gambling Sites With Fast Crypto Payouts",
@@ -83,28 +103,8 @@
       "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/",
       "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/08/image-2320.png",
       "description": "Best Crypto Casinos Worth A Closer Look In 2026\u00a0 \ud83c\udfb0 Casinos \ud83c\udf81 Welcome Bonus Player Ratings 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 \u2b50 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins 4.8/5 \u2b50 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 4.7/5 \u2b50 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free..."
-    },
-    {
-      "headline": "Massive El Reno water leak traced to Bitcoin mining data center facility",
-      "source": "KFOR.com",
-      "source_url": "https://kfor.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE4wNTN5QlZIdTJ1cTJqNTU1LVMtdHI0allORW45dGxyakFxOHFhLUdqQzZTNkFmd3gyaFZpYnZUNHQ4dU90V2otUURyMzRFTHpZNkFvOHBxcDQ2d29XVTgxSHU3Tm9WeGpGRndmUjVpcHdpc2hIOEktUTFXMHVLYVBLUk1TRURqUGctSzgzUHhCU1NNcDRpYnZpZTZOYWZYcjY40gGoAUFVX3lxTFBGMUlEVHlPMFRxaGQ4NGNBWXVFNklLVm5UTFh4X0huWTUyMmh5SjlodkFnNkxwb1VnQnJVenBuaVRYM2pTOHhxOTYwbWFwVlI0eEFPZ1lUYTFveGNhSEF3SFRrMWRTZEtDa0RDRzM0YWdRZ19ZSG5nZzdqX215WXQwYl9BOFBZSW1XckxFNFJLMEFGMG5ZSGlQOUc5U1R4NG9PQjA2TGUySw?oc=5",
-      "pub_date": 1787956104.0,
-      "article_url": "https://kfor.com/news/local/massive-el-reno-water-leak-traced-to-bitcoin-mining-data-center-facility/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Neighbors push to shut down Delaware County bitcoin mining facility",
-      "source": "KCRG",
-      "source_url": "https://www.kcrg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHVhcGhKdzNSSWhPa1NLOTN1dlBlSHNlQ002aVRsY1JZZnhpcnZnMXppNlo1c2JVWlM1dkhaYWpaakRmZ3lyQ2ZYRGNzQ0Q0OWtJek5QTmUtSEhrMGtDdU1MYWx5d2tSSlA4RERmcG8xUm9ZOVRzcnlVY3Rhd3N5U21ZS1pCckM1aVdqT21kZ1ZiVDZTak9RNHFWMjBiQdIBsgFBVV95cUxOSUhSY2VRaWRBaXFUYXFoZ20weHFIbXJ0YzR6MU9zbGtIOWh5Y3p0U3RrMVVKQWhEdTNxVHU5cklqdExISzU4UGpIQjBMQlNYYTkzZ1dxdUdZTENEVkRmUGNtczJQYWdZRDRKWFhnMzZwckc0Q3FHaWNVM1ZNQlBZNzlZWEdlc0RDT3RxNlVoM29HVUg5eWVyNk1ERmZlcUhwVExNLV90cW9uaVFUVDZQTXF3?oc=5",
-      "pub_date": 1788211200.0,
-      "article_url": "https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/",
-      "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/FW4TBSW4B5FTFO2XUVYMBBHTLI.jpg?auth=eb5e2c66ada5d74451da7a2b4099ccce7e2c02aa03090e58620370200d4d121d&width=1200&height=600&smart=true",
-      "description": "The board will hold a hearing within the next 30 days and a vote after that."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T07:22:36.969730+00:00"
+  "fetched_at": "2026-09-01T12:41:11.372066+00:00"
 }

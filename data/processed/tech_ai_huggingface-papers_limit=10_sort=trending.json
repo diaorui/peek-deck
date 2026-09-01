@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2608.16157",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
-      "organization_name": "UCBerkeley",
-      "organization_fullname": "University of California, Berkeley",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
-      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
-      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
-      "hf_url": "https://huggingface.co/papers/2608.16157",
-      "arxiv_url": "https://arxiv.org/abs/2608.16157",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 104,
-      "num_comments": 2,
-      "published_at": "2026-08-16T20:00:00.000Z",
-      "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 10590,
-      "project_page": "https://www.flashml.ai/"
-    },
-    {
       "id": "2608.09888",
       "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
       "authors": "Bj\u00f6rn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)",
@@ -31,12 +12,31 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 765,
+      "upvotes": 766,
       "num_comments": 5,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 9391,
+      "github_stars": 9666,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
+    },
+    {
+      "id": "2608.16157",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
+      "organization_name": "UCBerkeley",
+      "organization_fullname": "University of California, Berkeley",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
+      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
+      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
+      "hf_url": "https://huggingface.co/papers/2608.16157",
+      "arxiv_url": "https://arxiv.org/abs/2608.16157",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
+      "upvotes": 105,
+      "num_comments": 2,
+      "published_at": "2026-08-16T20:00:00.000Z",
+      "github_repo": "https://github.com/FlashML-org/FreeToken",
+      "github_stars": 10846,
+      "project_page": "https://www.flashml.ai/"
     },
     {
       "id": "2412.20138",
@@ -54,7 +54,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 102019,
+      "github_stars": 102132,
       "project_page": null
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23552",
       "arxiv_url": "https://arxiv.org/abs/2608.23552",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
-      "upvotes": 47,
+      "upvotes": 48,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 204,
+      "upvotes": 205,
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-08-26T20:00:00.000Z",
       "github_repo": "https://github.com/mirros-lab/code-as-world",
-      "github_stars": 280,
+      "github_stars": 364,
       "project_page": "https://mirros-lab.github.io/code-as-world"
     },
     {
@@ -172,26 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2608.26005",
-      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
-      "authors": "Zhifei Xie, Jiaqi Lang, Ze An et al. (10 authors)",
-      "organization_name": "nanyang-technological-university-singapore",
-      "organization_fullname": "Nanyang Technological University Singapore",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/637146c5afbe42caa5a75e1b/sZyHSA1AQaAS4nrGan682.png",
-      "summary": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain, an emotional right brain, and streaming memory I/O mechanisms. We further build a complete pipeline for memory-aware SLM training, long-horizon evaluation, and decoupled deployment with interchangeable memory backends. Experiments and real-world deployment show three advantages: i) Accuracy: under top-5 retrieval, the left brain outperforms classical systems such as Mem0 at top-200 by nearly 30 points; ii) Emotional & Personal: the right brain, with short- and long-horizon affective attribution and dual-node persona modeling, achieves state-of-the-art performance across three persona benchmarks and improves the aggregate score by 4.29 points over the previous best system; and iii) Real-Time & Cheap: VoiceMem completes retrieval in 134 ms, well within standard VAD latency, adding no extra conversational delay while maintaining high accuracy and low cost. These results show that VoiceMem provides a practical memory foundation for real-time, personalized, and emotionally aware speech interaction.",
-      "ai_summary": "VoiceMem introduces a dual-brain streaming memory architecture for speech language models that improves retrieval accuracy, emotional personalization, and real-time efficiency.",
-      "hf_url": "https://huggingface.co/papers/2608.26005",
-      "arxiv_url": "https://arxiv.org/abs/2608.26005",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.26005.png",
-      "upvotes": 172,
-      "num_comments": 2,
-      "published_at": "2026-08-25T20:00:00.000Z",
-      "github_repo": "https://github.com/xzf-thu/VoiceMem",
-      "github_stars": 454,
-      "project_page": "https://xzf-thu.github.io/VoiceMem/"
+      "id": "2508.16279",
+      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
+      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
+      "hf_url": "https://huggingface.co/papers/2508.16279",
+      "arxiv_url": "https://arxiv.org/abs/2508.16279",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
+      "upvotes": 68,
+      "num_comments": 4,
+      "published_at": "2025-08-22T06:35:56.000Z",
+      "github_repo": "https://github.com/agentscope-ai/agentscope",
+      "github_stars": 30248,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-01T07:22:20.351758+00:00"
+  "fetched_at": "2026-09-01T12:40:54.455946+00:00"
 }
