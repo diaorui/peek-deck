@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "The turbulent AI era is here. The choices we make now are critical.",
+      "source": "gatesnotes.com",
+      "source_url": "https://www.gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "pub_date": 1788223314.0,
+      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5",
-      "pub_date": 1788207666.0,
+      "pub_date": 1788225040.0,
       "article_url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018Scary\u2019: how misinformation and AI hallucinations are infiltrating Australia\u2019s parliament",
+      "headline": "When AI Can Provide The Answer, People Still Value Discovery",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1CQ3lFZTc5b05vYWliclllRVYxa3VuU1FxSkpTX19YXzNONmdKWE1xdTJJRzdQd2Y0VktmNUhPTURSOTU2dUIyZ1F2ZGl4MTFZU0lYOGluVXRjcFdoQklUbDdTX3AzRndoM0JEQVoteHBWbHhkb2NjZmxzTnctMm9nenFMSDJFX1RZdVdyY09MaE1kVVdPZzF5eFpPMnoyUXRTV0hEWFQwZmZjQmN6c3FYbzQ?oc=5",
+      "pub_date": 1788246000.0,
+      "article_url": "https://www.forbes.com/sites/dianehamilton/2026/09/01/when-ai-can-provide-the-answer-people-still-value-discovery/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8393bc2dcc6e49f5da7e5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "New research suggests people still value discovery even when AI can provide instant answers, revealing why exploration may remain vital for learning, creation, and work!"
+    },
+    {
+      "headline": "Instagram is Waking Up to the Fact That People Don\u2019t Like Being Tricked by AI Creators",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxvN2dMWDA3Z0pDT2JNV2VIaDJSMm1zQkZpSUFmdVJ3OWlsbEVVTndLQ2luUF9UcGgwbGpMRURxYm9PelA0NkFSYW9MOVJPakNPTlcwb0JYejFzRHRDUEt2ek9UVTE5U0dCeC16ZE5VZUxfLXNHY2trVEdhdnJ1TnZBVHBiemZUWFVIaTBGaldvT2J4LWZJRjBQOVgxcTA0RzBsVWRuS1pvS3dvS09henY5UzdIaEVUSmRB?oc=5",
+      "pub_date": 1788246820.0,
+      "article_url": "https://petapixel.com/2026/09/01/instagram-is-waking-up-to-the-fact-that-people-dont-like-being-tricked-by-ai-creators/",
+      "image": "https://petapixel.com/assets/uploads/2026/08/Instagram-AI-Profiles4.jpg",
+      "description": "New AI-generated labels are coming to the Meta platform."
+    },
+    {
+      "headline": "Is AI America's Next 9/11-Scale Blind Spot? House Intel Thinks It Might Be",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnJVa2tBeWpkTEpiVWljcUxQeEZpQk9kNkoxN3RCaGhhaEpERDRlTjNpLXo3anZKcy02N3JOYjlWZ3RibmtYV3NiVkx1U3VJUnpjWXlsajJfcFJicG5JajBPQmF4NXQ4ZzdwT0J3UnhLTVMxeGRtemJEdTN6ajJRYm5US0kxdWtZ?oc=5",
+      "pub_date": 1788244527.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/ai-americas-next-9-11-063527821.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d04435bcc8e11a6ffee31bbc55255733fb70d15677fa427df1535dfc66e4cfaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ffac9730a5e68bd1b9abcb7e51cf40032.jpg",
+      "description": "The House Intelligence Committee's 9/11 review calls artificial intelligence (AI) one of the most significant emerging challenges."
+    },
+    {
+      "headline": "Japan is using AI, drones and wolf robots to keep bears at bay",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWZrSTQzRDBrVDZOX29laU9OTV9nODFlNy1uYklyMUZQYno3U05TUEpvR09pT2FlMHNCbkF2eEFhOFR5clNhT1NDXzRNcVQ2NFpoZnhUVjVCdU04ZFN5dkFJYTZsZlROZnV4N3g3R19LQTlDNEtOUVFHY1pxM3hFOVpiZC1HS0taZDY1ZUE2MVFjS2JZb0lzOUt5UUNiQQ?oc=5",
+      "pub_date": 1788226020.0,
+      "article_url": "https://www.cnn.com/world/asia/japan-using-ai-drones-and-wolf-robots-to-keep-bears-at-bay-c2e-spc",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818034021354.jpg?c=16x9&q=w_800,c_fill",
+      "description": "With bear attacks on the rise, Japan is looking to high-tech solutions \u2014 and traditional ones."
+    },
+    {
+      "headline": "\u2018Superhuman\u2019 AI tool spots heart disease in less than 2 seconds",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2YzaXFwb3NPczVWRk5FZUdSV2hNcXZyN2hnNG1YTWZxUmpEV0lsNzFrSW02MXUxT0t4WFR6amxUbk95Q0J6WGJDb2ZkOEZlYzZhckpFT3B3TkIwejU0Zkx2Vk50MzNDNmthekMzUXZhUGN5eGFzVzdaV2NRS1lXbXFBUFp2Ykc5U2xkTl9zRVhTaENFQzQxMDBhRVl5U2hFQWxKZ253TE8yMk9MNUZMZTRyd0k0WFI3RmVUTHRmUlZXSzl5?oc=5",
-      "pub_date": 1788223646.0,
-      "article_url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-      "image": "https://i.guim.co.uk/img/media/dbf27a56f97c8ea8be2479f99166353d3523a478/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ac16c88ec7e31a06370ee01d4224d63",
-      "description": "Exclusive: Guardian analysis reveals that dozens of policy submissions from across the political spectrum incorrectly summarise real research and invent or wrongly cite sources"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
+      "pub_date": 1788226200.0,
+      "article_url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+      "image": "https://i.guim.co.uk/img/media/088efc360811ce7fbc25edd6ca021efcd0e70df6/200_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77bf17fe53ec0a07adf2bc6735132f05",
+      "description": "Technology trained on millions of routine ECGs could fast-track high-risk patients for treatment"
     },
     {
-      "headline": "#TSRTech: #Roomies, #MeekMill says AI has been teaching him more than humans. Can y\u2019all relate \ud83d\udc40? \u270d\ud83c\udffe: #TSRStaffST",
-      "source": "instagram.com",
-      "source_url": "https://www.instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvOENRd3FWSlVzdms0dGNaN1lsaTV1S0hsVTVCaVVSYWdlcEM4NWFzZFVKSU1SQ1o2RDhfV1l1WHQ1SklJZUdVRVFacU1ob3U5aXc?oc=5",
-      "pub_date": 1788225205.0,
-      "article_url": "https://www.instagram.com/p/DcuLUkDuOGZ/",
-      "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/785271472_18719728207006824_7967686530849722085_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jAgNnTc1FQcQ7kNvwG-j7gF&_nc_oc=Adpgy8iC8oI_ejOm-tQbEniZSKrLpKhNVFYt4D3XoaJNURY5WTJiX1cyMSJg6QhfLRY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=5aG8Y0rcfE9neb8XEfM_aQ&_nc_ss=7d689&oh=00_AQIdkFIt0jVFQjN3sGrlmYz6xLYM6OKxpUkPPlfSmc5TCw&oe=6A9C028E",
-      "description": "3,182 likes, 458 comments - theshaderoom on August 31, 2026: \"#TSRTech: #Roomies, #MeekMill says AI has been teaching him more than humans. Can y\u2019all relate \ud83d\udc40? \u270d\ud83c\udffe: #TSRStaffST\"."
+      "headline": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uaXRJY0tyQ0JVcHZoRXIxNWZBVnZrMzF2dW5UcjNRWDFwdnFORzBxblRZQ3kxLTB3bmVVbW9OXy14TFR6WG5fMmd2Tkh1aW9VSnlyWWMxUQ?oc=5",
+      "pub_date": 1788239483.0,
+      "article_url": "https://www.bbc.com/news/videos/cvgy4ddx1q8o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
+      "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it."
     },
     {
-      "headline": "Reigning In Big Tech: How California lawmakers plan to regulate AI and social media",
-      "source": "Los Angeles Times",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnNSUzVhWkd6QlR5bkNucThyWWlqRXFxckJlb2kyVkEtcDJ1UHB1TlBQZmZDcW40VUpCS0xnYXpmR3NLR1Y2MkFuYlVCMEdBd3pvazlnTkVJMUhKU05fQXJnTXEwZGZsNmhEdjBNUlZib2QxQi1EeW5velBsNFdCLXEtMnNDa25icGVJRWd3dFN6NXlGczRVV0cwcG5YamNSbGNGNm0tMHRpVjk4UFZXTkFDeGZsbFlUR043ODBIVy04MkpUMFhv?oc=5",
-      "pub_date": 1788224220.0,
-      "article_url": "https://www.latimes.com/business/story/2026-08-31/reigning-in-big-tech-how-california-lawmakers-plan-to-regulate-ai-social-media",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/46f4af3/2147483647/strip/true/crop/3000x1575+0+338/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F62%2F2599e60d4e01a18f22f1b8aa664e%2F2250456856.jpg",
-      "description": "As the legislative session moves closer to the end, California lawmakers will decide on bills that tackle issues including social media safety and AI's impact on jobs."
-    },
-    {
-      "headline": "How much AI is used in classrooms? Oklahoma parents advocate for transparency in policies",
-      "source": "KOCO",
-      "source_url": "https://www.koco.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PVkd1YlZFcFdhNFlFRGkzUEtZR25KVUdEY29mbGlLQVg1R0NEcTlnMEx1UUdmM2czakxpQXVWaEhlWENFYXlMWHQzeVRIRmRkLWdkUFlPb09yb3VlQTF1MHdqUHd6NG03X0h5REsxVlM2QUNrQmZ2WjJmNA?oc=5",
-      "pub_date": 1788225420.0,
-      "article_url": "https://www.koco.com/article/oklahoma-school-ai-policy-opt-out/73574257",
-      "image": "https://kubrick.htvapps.com/vidthumb/images/classroom-1533175495.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "description": "Parents in Stillwater and across Oklahoma are voicing concerns about artificial intelligence in schools, pushing for clear policies, transparency and the right to opt out."
-    },
-    {
-      "headline": "House Intelligence Committee warns of 'Black Swan' AI risks",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
-      "pub_date": 1788211117.0,
-      "article_url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108031306-1725909701297-gettyimages-2171024213-september_11479909_dfex5kx4.jpeg?v=1725909777&w=1920&h=1080",
-      "description": "Bipartisan lawmakers cautioned that existing safeguards may not be enough to keep up with AI's advances."
-    },
-    {
-      "headline": "Will anybody use AI as much as coders do?",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2pJZU4wRUJFY2FwRFpoRlZLelE5OGlESXhYTEZiek9fTEJHM3pEanFMLXJOcWlpN0Vpemx5TUQ3R291U29PM0RUcTFldmJnTFA0aGE3MzJMOTdqbFdtUGt4NFo1Z09EckxhNGhDUFRvd1paTm1UNG1oUWxVWGI4cDJGRDluOXdZbXJUWFh2SQ?oc=5",
-      "pub_date": 1788119488.0,
-      "article_url": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do",
+      "headline": "Global AI boom fuels Asia factory expansion in August",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUpoaHRXb1RJQTZJazF3U0tNZTEwVm5iUHplMWU1TjhfUmpRVGVtMG5GcVhlekpMWnBBbkJTdFIzOEhkRWgtVGcwa3RTY0VqWXBQc1V1d1BZMHgyeG9KQXZyVUtidzMteVU0Q09ET0p5bzVEcWJJakF0LXZIcVhLbFlvUWlZU2tPSU9xTjc4WEowWWt0ZUp0c2hKdHMyYmZMT2k3bkNxajM4dWlxbDBzdGVNbw?oc=5",
+      "pub_date": 1788241098.0,
+      "article_url": "https://www.reuters.com/world/china/global-economy-global-ai-boom-fuels-asia-factory-expansion-august-2026-09-01/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Your boss, tech companies and police can read your chatbot conversations",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNS0wSEdXV0hPWWNNMC1WbUxMNlM3aGFRc1NYNGRHZFpGdTFxaTVXVXdXMFhBQUNWTXJLMUtKb0huNlJQMHRMMWpITWxqNDlZYm9manVCV0l0ZUZ4aVdhYUZJUEJSREZsZ29GdGE5NnNxZnZWN0tZckpyNGZGWU5NQkl4bzY2TTZySDJfR3FvNnZ1NVI3QzJDaEc1Ri1LSDlVdllhOHIzYkJRUjlB?oc=5",
-      "pub_date": 1788195600.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/08/29/your-chatbot-discussions-are-not-private-you-may-think/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3XYX2XUSLMI7DH64BJZFZGE2PM.jpg&w=1440",
-      "description": "Here\u2019s what to know about AI chatbots and privacy \u2014 and the best ways to protect your information."
-    },
-    {
-      "headline": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because \u2018You\u2019re Going to Work With It or Be Out of the Game\u2019; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
-      "source": "Variety",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmdDWXVnRXhyYmNSYzM4ZV9zVFY2MGlFMzhrUk0wNjdzSWZvQll6d0RndzZsRjUzZnkwak9CcGpuZjNLYVRsMHZpa2RxbjFMNDN6MWlMQ2dZY3ZDd0dPWFlEc0hzYzRlU0RyX0h4WVRuSkpsVVQyTDNLSG5TclROLUVERmIyMUlTVXlyWUQ1TFcwT0RNa2ZXazdQbw?oc=5",
-      "pub_date": 1788213900.0,
-      "article_url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
-      "description": "Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting."
-    },
-    {
-      "headline": "A milestone in expanding access to AI",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
-      "pub_date": 1788181510.0,
-      "article_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/2jLC4QaqjiApUiHrbfSUY8/9608a468da57d55c2cf88dddb7bd0b8d/expanding-access-to-ai--seo-purple-v001.png?w=1600&h=900&fit=fill",
-      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+      "headline": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFBScFM2RTE3eC1YNHZTZlo0aHh2UHVlWGE2dl9RdVM1dHZYQ2dlRllBekZCUVBKNGxoR1E5ZHNhbVRpM01tcVh2UDdhNkZHSldBcTlRY25xUDlLRnA3MEhIYWVXSWVubGQtc21xcnVjc1c4X1p3ZWNxSXlWeDZiY3RSZGFYcGNUVHBSeUhuMUg2NERxQ2FyZl81SlQtbFRLRGt2cV9CNGFlRG0xT3pN?oc=5",
+      "pub_date": 1788243240.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T01:46:17.869110+00:00"
+  "fetched_at": "2026-09-01T07:22:36.938930+00:00"
 }
