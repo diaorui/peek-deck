@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3JOaG9MTndTdnpOMVRWVDk1cGRWY3BkSHo0YTVwbHVtdlVWaGpFbEFXQ19OV3QzeDRzaFcxdU0xbm9iSEdLWEUydksxUFVySllNSlQ2WThDZkFXLVJCT05XOG92ak10b2FZTFp1S2tWcEtRdVdYWjV2dkh1QjV6ajNubENkV1Ix0gGQAUFVX3lxTE11Wm9fUHdkM21oVmtkZkYzNWVfV3JoNmlhTFBvVmdUWHBiTjhFYUNqeWpmaEh1RUk0ckpiaE9iV1hId3h5TmhfVXQ0cXNZVjNDVDBvWUtxMHlNaGJPc2hCLWFfdUl6cVpZN3RRR0xmUnExOXBNWC16NmNad0pOQzlwV1VJMWFGYU96Um5BVm1zdA?oc=5",
-      "pub_date": 1788201964.0,
-      "article_url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
-      "description": "Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect."
-    },
-    {
       "headline": "Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -23,16 +13,6 @@
       "article_url": "https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/",
       "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2438190465-huge-licensed-scaled.jpg",
       "description": "Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today."
-    },
-    {
-      "headline": "Ethereum holds $2,500 as ETF demand rises, offs...",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0d6MDBheWlDaHh1anRTSHlma0FBODFWT0NRY0pOSVBOeWlHbk80aDBWaHNlZ0RVUVhTVWhQWTFZejI5UWc2S3ZYc3VQNmo0b0Q3b2FNbVpzMHdOdDRiZDUzNFh5LTBrZHZhSTdKNmh4cEhXM0JFX0JNbWoyTXBkS1BLZ29FdXZ4TktmYVlEaVNtbmhFSGc?oc=5",
-      "pub_date": 1788222268.0,
-      "article_url": "https://pluang.com/en/news-feed/ethereum-leverage-turun-dramatis-dukungan-etf-menjaga-harga",
-      "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
-      "description": "Ethereum's price remains near $2,500 despite a dramatic 90.9% drop in leveraged trading on Binance and Bybit, indicating the rally is less reliant on derivatives. Institutional demand through U.S.-based Ethereum spot ETFs, especially BlackRock's ETHA, has surged with $1.5 billion invested over 10 days, supporting price stability without adding leverage. However, large whale deposits totaling over 40,000 ETH on major exchanges pose a supply test that ETF demand must absorb to maintain the price. The balance between rising institutional ETF inflows and potential whale selling will be key to Ethereum's near-term price direction."
     },
     {
       "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion",
@@ -65,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3JOaG9MTndTdnpOMVRWVDk1cGRWY3BkSHo0YTVwbHVtdlVWaGpFbEFXQ19OV3QzeDRzaFcxdU0xbm9iSEdLWEUydksxUFVySllNSlQ2WThDZkFXLVJCT05XOG92ak10b2FZTFp1S2tWcEtRdVdYWjV2dkh1QjV6ajNubENkV1Ix0gGQAUFVX3lxTE11Wm9fUHdkM21oVmtkZkYzNWVfV3JoNmlhTFBvVmdUWHBiTjhFYUNqeWpmaEh1RUk0ckpiaE9iV1hId3h5TmhfVXQ0cXNZVjNDVDBvWUtxMHlNaGJPc2hCLWFfdUl6cVpZN3RRR0xmUnExOXBNWC16NmNad0pOQzlwV1VJMWFGYU96Um5BVm1zdA?oc=5",
+      "pub_date": 1788201964.0,
+      "article_url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
+      "description": "Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect."
+    },
+    {
       "headline": "What Happens to Bitcoin, Ethereum and XRP if the CLARITY Act Passes?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -76,7 +66,7 @@
     },
     {
       "headline": "Current price of Ethereum for August 31, 2026",
-      "source": "fortune.com",
+      "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HejZuc2pocFlFbE5wT1BIZmYxRGgyR2RXZzVXTFVKSFdrZlB2a0xzeGVLRE5lTEd3X1NXU3gycDBvS24zNl80ZkZGdDltQnhCYkY4bVJSQ0trNXVRVzZQRWZ1SHhrdk9l?oc=5",
       "pub_date": 1788183450.0,
@@ -95,6 +85,16 @@
       "description": "DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ..."
     },
     {
+      "headline": "A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbW9YMGZERFVRSnRtOS1obHNVN0VlWTlaYmZFSmNxekoyX3d1UU9iNmd3S3FsVEhUMkJmUXg3bmhUWmRSWW1TUEdCT2VfUEp4LXptc2hPVVk2blF4Z09qQ05WUGt2cUE4THExSXZJWUlCSGlGZEhVaXhiMnJkZEUyaDFNLThyWkZES0JDdjlhTkFseEg0VnJJYUxON3l2Q3hBQ3EtQ2cySXFJWWFOYWJfcldoV2w1Mmly?oc=5",
+      "pub_date": 1788164754.0,
+      "article_url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-staking-entry-backlog.jpg",
+      "description": "More than 2 million Ethereum is queued for activation on the blockchain as staked supply climbs above 42 million ETH."
+    },
+    {
       "headline": "Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms",
       "source": "Coinpedia",
       "source_url": "https://coinpedia.org",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T01:46:24.019549+00:00"
+  "fetched_at": "2026-09-01T07:22:26.535216+00:00"
 }

@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
+      "published": 1788239844.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
+    },
+    {
       "title": "Daniel Vavra, director of Kingdom Come: Deliverance 2, tested the leaked version of NVIDIA DLSS 5 directly in the game.",
       "author": "ImpressiveJicama7141",
       "url": "https://www.reddit.com/r/artificial/comments/1w375ke/daniel_vavra_director_of_kingdom_come_deliverance/",
@@ -46,6 +57,17 @@
       "description": null
     },
     {
+      "title": "LinkedIn returns HTTP 999 to GPTBot and ClaudeBot but HTTP 200 to OAI-SearchBot. I measured what is inside the 200.",
+      "author": "Dry_Steak30",
+      "url": "https://www.reddit.com/r/artificial/comments/1w3y3lt/linkedin_returns_http_999_to_gptbot_and_claudebot/",
+      "published": 1788227276.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "No links in this post. Everything below is reproducible with one curl per line. I fetched the same LinkedIn profile URL six times, changing only the User-Agent. GPTBot -> HTTP 999 ClaudeBot -> HTTP 999 ChatGPT-User -> HTTP 999 Googlebot -> HTTP 999 OAI-SearchBot -> HTTP 200 Claude-SearchBot -> HTTP 200 999 is LinkedIn's block code. The training crawlers are refused, the user-triggered fetchers are refused, and the two search-index bots are let in. Googlebot is refused as well, almost certainly because LinkedIn verifies it by reverse DNS and a spoofed UA fails that check. The AI search bots do not appear to be verified at all, which means the UA string alone is enough to get the page. Then I parsed what the 200 actually contains, on an ordinary mid-career profile rather than a celebrity one. The JSON-LD graph has a WebPage node and four DiscussionForumPosting nodes. There is no Person node. The WebPage node is two fields, a name and a URL. In the rendered markup: no jobTitle anywhere no About section at all Experience renders the company name with no role and no dates Education renders the school name with no dates no skills, no certifications, no recommendations The four post nodes do carry full body text. The newest is December 2024. The one before it is a July 2023 hiring post for a product that person no longer works on. For contrast I ran a Creator-mode public figure. That profile does emit a Person node, with alumniOf carrying start and end years and worksFor carrying one company name. But its jobTitle field comes through as five empty strings, five roles and no titles, and the description is truncated mid-sentence. The part I find interesting is not the blocking. It is the shape of what gets through. A model doing retrieval on a person gets a name, a location, one employer name, a school name, and whatever that person happened to post publicly, which for most people is old and unrepresentative. Everything that would actually answer \"what does this person do\" is either absent or an empty string. So when an assistant answers a question about a working professional, it is not reasoning over a profile. It is reasoning over a company name and some three-year-old posts, and filling the rest in. Two things I cannot resolve from outside: Whether the empty jobTitle is deliberate policy or an artifact of how the logged-out page is assembled. Every profile I checked behaves the same way, so I lean policy, but I cannot prove intent. Whether adding a crawlable page elsewhere actually displaces the stale sources in a model's answer, or merely joins them. That is a ranking question inside retrieval and I have no way to measure it. If anyone has run a controlled before and after on the second one, I would rather read that than keep speculating."
+    },
+    {
       "title": "I have been moonlighting on on 'AI training' gigs for the few months. While the money is good, the lessons I learnt about 'AI Training' made me reflect on the future of work",
       "author": "Mo_h",
       "url": "https://www.reddit.com/r/artificial/comments/1w38vbj/i_have_been_moonlighting_on_on_ai_training_gigs/",
@@ -57,6 +79,28 @@
       "description": "Working on repetitive 'AI Training' made me reflect on the future of work I am blown away by what we are training some of the specialized models to do. For example, as a consultant, a good percent of my time was spent in creating 'presentation ready' PPTs - essentially eye-candy that was formatted neatly using template. The models I am training can do this and more in minutes! Taking detailed prompts, these models can create 3-6 versions of decks that we humans can simply mix-match and reuse The money on these gigs are decent - $50-100 to review and sort through output from these models to help 'train' them to get better I was focused on my specialization (technology) and on the projects we had Lawyers, Medical professionals and other specialists too These 'AI training' gigs are not a regular source of income since the projects start and end rather abruptly and one has to be diligent while working on such project tasks or get offboarded since their 'AI Agents' will be watching your screen. I can clearly see these models taking away the job of 'junior' consultants and entry level specialists"
     },
     {
+      "title": "Touch is just what I'm showing. The whole avatar runs in one live simulator session: wide field-of-view foveated vision, spatial hearing, whole-body deforming touch, skin stretch for proprioception, ragdoll physics with an energy model, and a physical voice it hears itself speak.",
+      "author": "bhartsb",
+      "url": "https://www.reddit.com/r/artificial/comments/1w42ce4/touch_is_just_what_im_showing_the_whole_avatar/",
+      "published": 1788239526.0,
+      "thumbnail": "https://external-preview.redd.it/YXJoanhsc244dW1oMcuwhI2bOABKh4ISaqrDkM8MdPnmEAgFggvFsGsaKnXN.png?width=640&crop=smart&auto=webp&s=6511523fa6fb255c7526926998329088db871612",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The avatar has been built for our model and our thesis is about what I call Perception Spaces."
+    },
+    {
+      "title": "Is the MCP spec actually useful?",
+      "author": "PaulMorel",
+      "url": "https://www.reddit.com/r/artificial/comments/1w427n8/is_the_mcp_spec_actually_useful/",
+      "published": 1788239113.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've spent a few weeks deciphering and implementing the MCP spec, and it kind of seems like AI slop to me. Like, the entire spec boils down to little more than a suggestion to use json-rpc. The spec requires a heavy client with a bunch of custom \"business logic\". This client acts like a magic babel fish in connecting the MCP server to the host application. And perhaps worst of all, the details on how to trigger actions are pretty much non-existent, leaving implementers to just figure it out (which is going to lead to serious inefficiency when triggering tools). So MCP usage requires a customized client to do the data translation for each service, and it leaves serious blank spots for some of the hard problems. I just don't see that the spec is actually very useful at all. It leaves so much to the implementers. Am I missing something? I must be missing something..."
+    },
+    {
       "title": "Now that any service can be built with AI, nobody wants to build anything",
       "author": "niosurfer",
       "url": "https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/",
@@ -66,51 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019ve been noticing a strange paradox with AI-assisted coding. A few years ago, if you had an idea for a software service, building it was the hard part. You needed months of development, a decent team, money, infrastructure, and a lot of specialized knowledge. Today, one competent developer using AI can build in days or weeks what might have taken a small team months. You would think this would lead to an explosion of new software products. But I\u2019m starting to wonder if the opposite is happening. When something is difficult to build, building it creates value. There\u2019s a barrier to entry. You can spend six months creating something and reasonably believe that thousands of other people aren\u2019t going to reproduce it next weekend. Now imagine you have a great SaaS idea. You spend two weeks building it with AI. Great. But so can everyone else. And if the idea succeeds, competitors can inspect what you did and build something similar incredibly quickly. The technical moat is disappearing. That changes the psychological equation. Why spend months polishing a product when you know the implementation itself has almost no scarcity? AI may have dramatically reduced the cost of building software, while simultaneously reducing the incentive to build software. Maybe the scarce thing is no longer the ability to create the product. Maybe it\u2019s distribution, brand, proprietary data, network effects, domain expertise, or simply having customers before you start. In other words, we may be entering a world where software becomes almost free to create, but increasingly difficult to turn into a business. Does anyone else feel this? Are you building more side projects because of AI, or have you actually become less motivated because everything now feels trivially reproducible?"
-    },
-    {
-      "title": "Stripe CEO Surprised at Lack of Media Coverage Around OpenAI/Hugging Face Attack, Calling It One of the Most Important Events of 2026",
-      "author": "Angman_Dutt",
-      "url": "https://www.reddit.com/r/artificial/comments/1w34f28/stripe_ceo_surprised_at_lack_of_media_coverage/",
-      "published": 1788154128.0,
-      "thumbnail": null,
-      "external_url": "https://deltiasgaming.com/stripe-ceo-surprised-at-lack-of-media-coverage-around-openai-hugging-face-attack-calling-it-one-of-the-most-important-events-of-2026/",
-      "site_name": "deltiasgaming.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "How probable do you guys find existential catastrophe as a result of misaligned ASI to be?",
-      "author": "PhiliDips",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3biys/how_probable_do_you_guys_find_existential/",
-      "published": 1788177188.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have been trying to think seriously about this for the last 5 months or so. Before this, my biggest worries about AI were the future of work, carbon footprint of rapidly scaling infrastructure, and financial speculation. But the Mythos incident, the Hugging Face incident, and spending a lot of time around AI safety/Rationality/EA spaces has led me to rethink my beliefs considerably. I'm 24 and I'm highly concerned about whether I and my civilisation is still around on my 40th birthday, or even my 30th. (Though I'm much more concerned about near-term effects of bad human actors using powerful non-superintelligent frontier AI to do dangerous things.) At the same time, I acknowledge that I'm a very anxious, neurotic person, and that these AI safety spaces seem to attract people with pessimistic worldviews. I am not the intellectual peer of the foremost AI safety thinkers in the world, not by a longshot, but I do recognise unfalsifiability when I see it. Whatever argument you give a doomer as to why doom might not happen, they can always come up with a reason why your argument doesn't work, often boiling down to \"Big-S ASI is omniscient and basically omnipotent\". But hey... they're possibly not wrong. I want to calibrate my timelines and doom probabilities holistically, which means I need to exit those spheres for a moment and ask other AI spaces (like r/artificial) what they think. What do you think?"
-    },
-    {
-      "title": "We\u2019re Now Relying on AI to Police AI",
-      "author": "motherjonesmag",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3lp4x/were_now_relying_on_ai_to_police_ai/",
-      "published": 1788199498.0,
-      "thumbnail": "https://external-preview.redd.it/stkycCP6aHf3M4aKqt9BczqPb1kfYA-pxHYtcnkWAAg.jpeg?width=640&crop=smart&auto=webp&s=95b89d23eb800b91bbbb67e0c28761b122593869",
-      "external_url": "http://motherjones.com/politics/2026/08/ai-safety-openai-hugging-face-hacking-metr-report",
-      "site_name": "Mother Jones",
-      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
-      "description": "A new report details startling security breaches by OpenAI agents\u2014using a model that helped cause them."
-    },
-    {
-      "title": "$100 Million in Bonuses for Human Abilities: EY Tries to Keep AI from Decimating Employees' Cognitive Abilities",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3s2ep/100_million_in_bonuses_for_human_abilities_ey/",
-      "published": 1788212657.0,
-      "thumbnail": null,
-      "external_url": "https://www.wsj.com/business/ernst-young-is-giving-100-million-in-bonuses-to-staff-for-human-skills-9320e93d?mod=hp_lead_pos8",
-      "site_name": "wsj.com",
-      "favicon": null,
-      "description": "Firm is one of a number of companies trying to foster the critical thinking, judgment and other traits needed to better work alongside AI"
     }
   ],
-  "fetched_at": "2026-09-01T01:46:05.662214+00:00"
+  "fetched_at": "2026-09-01T07:22:09.160384+00:00"
 }
