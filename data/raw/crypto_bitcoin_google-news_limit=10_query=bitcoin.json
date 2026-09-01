@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkpJcmtEemNNOU5mT3pDYjZYMVlHRXl2bzNxekxDQVBCN2J2dGlEbW0tVkN4NmZ3eUZwXzVLZWJoTWo1djdTNDRCWlh6ejhubjR5cmZoUEoyOFNJV0tBNDE2NzI2dUdGa2g2X21BZmFYai1CTGtsV0JLOVNaLVM5UzRuTmNvTHYyM2lnMk80QU5EeXlqX21FdkduNlJrOGZP?oc=5",
+      "pub_date": 1788270360.0,
+      "article_url": "https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -15,38 +25,38 @@
       "description": "Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul."
     },
     {
-      "headline": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY21EN3BqdGNESlRDRk83ZmxEdzBZbDlQcnhtZGxPdjdzbExWRUpfdzNiRWFJVTBVV1A2bG1wdGUtMk40dDVrTXkyNEhVTVUyUU5ob3c4R0V1Wi10aDlfNExWWlRpc3JRaUp0RlQtU1JWcjZoeE1vM29KZ1FFdUJKeV9jdzBQeEtxUDRPRmtQQ2J5VGNnbXF6cnM1WGxyeUgtS0dxQ0tlVHJvTXY3eHZQUnJNdm0yVW5ZTExfUkpYNHB4S28?oc=5",
-      "pub_date": 1788272656.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+      "headline": "Pantera's Morehead Talks Bessent's 'Backfire', Bitcoin",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOem4weTFyeDYyMlFXQktnVnphdFAwSlBrZWl3YWM3R0VSU0h2dVpjSFFKVnFpMWwxZHFkTmZqb0JCS1pWRkg0R0hCZ25PREdLWVAwQ3JkQ3RvZWhrcURHRU1EQ1pYczFpLW0wSHFYNGZQVlN4TnJ1TXREMDJxRWtOa2YzOFAyMnI1TEpmQ0dTZEpwN2dOd3c?oc=5",
+      "pub_date": 1788289568.0,
+      "article_url": "https://ca.finance.yahoo.com/video/panteras-morehead-talks-bessents-backfire-190608049.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/58d98b777a588ca792bc7c4d023af0de0571164e306db82bf9b081d951094e13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2F408f5bd7b9c9bada1d8b243697dfb4de.jpg",
+      "description": "Dan Morehead, founder &amp; managing partner at Pantera Capital joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They discuss US Treasury Secretary Bessent's bond announcement, the future of digital asset treasuries, and crypto trading."
+    },
+    {
+      "headline": "Bitcoin ETF Buyers Return as $80,000 Level Tests Market Rally",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDJHTVVEbG1ZV3UyeUdob1dnN2pKNWVORUVPVmx6MXBQTnZqVTRxcHJoaFFteDV2bXAyMzgtVERFR1c0ZDU2WXpFR2kzQkx2OHNrQk5zMlBnc3BkbVBsbnNTa0NLZVIwdURoMXRWZ1lhMWlkc3M3dXNjSVZyaVlIX3VCeDQ1dTV4N203MkVXZm1GWjRES3RPMHdLeFBmb2RscEtQTUFFdUNZX2lCUUVZRA?oc=5",
+      "pub_date": 1788288987.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-etf-buyers-return-as-80-000-level-tests-market-rally",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin holds steady as yields climb, major exchanges go 24/7",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXZGYXVRcmdjOHlCN1dBS0tMN1dlYXp1R3VkbmRTWFFzNnBJc2ZqV1RVZmJmam93VDgzT0ZKclN5eGREZ1JoNDlJcFVCRVVBRG1maGxBd2h2dUxPTFNuLW1xNHlTSS1XeElxcjZPNGFQRzFZZ3p5OEFfRXdSZXpOR0pLdk5OdU9JTF9MY2JveVhrMFZhLWs3RWV0WWJVS0RLSExsc3czWWxmZw?oc=5",
-      "pub_date": 1788279108.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-holds-steady-as-yields-climb-major-exchanges-go-247-161148968.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cf21f1842b4d990d7fd8f52ed3fb06b658504ed0f9e0918fe04151127cc9118f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-0901_1656.png",
-      "description": "This episode of \"The Daily Wolf with Scott Melker\" explores bitcoin's (BTC-USD) steadiness versus the continued climb in bond yields, the New York Stock Exchange (NYSE) and London Stock Exchange (LSE) are both building tokenized stock markets, while Binance is building a 24/7 options trading market.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
-    },
-    {
-      "headline": "ARK, Glassnode Rank Bitcoin Most Decentralized \u2013 Ethereum, Solana Face Different Trade-Offs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUxqUDRlQnVJYzJCMXZjejdLVkZoQ2pVa0hYazMzcmZHTWdUeU8zZHhNUnhmQUVqMFV4U1hlSzd4Y25rNTdjU3A3YVdIUU1uRDVnN05jdktneXhqMzRYQlpseVhCSjk3SUJSeWotZGQxdHNLdUNlRmM2RHlFZ2RZM1hUbnBRVWl4b3N5OEp6YU1pdmVOYXJfckptQXU?oc=5",
-      "pub_date": 1788279184.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ark-glassnode-rank-bitcoin-most-161304985.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/74877fbce8e632a700eff80276a71434d8dc323c526477ebb35fd0ab0cf9e0ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faa79cb7ff6217367f378f79e1c7748d7.jpg",
-      "description": "Bitcoin ranked as the most decentralized of the three networks studied, although the report also highlighted concentration risks in its mining sector."
+      "headline": "Nashville's Imagine IF summit is back with a bigger roster",
+      "source": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTkwRW50clNVaEZOM0VGNFJCV0k5cS04ZktVOW5JWmUtdTQtUG5Ud0JIaGxLamZXb0U5YXdIV2hJeTVrZWozVUQyeGU3d0t2b0IxWU94QkNjUkFvd0Z5SFZETjlKZUtZdmlFdHhBWmRPRjg5YWJldXlWRTRMWGVONy1TUzhGQmR3ejhmM3dTVQ?oc=5",
+      "pub_date": 1788291227.0,
+      "article_url": "https://sg.finance.yahoo.com/news/nashvilles-imagine-summit-back-bigger-193347897.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c192839dc81b237f0d9380fd05a38bd0f91301a890e52592e39f541bcdaa8c37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F13610edb6ffdf9566ff3f7da824240ab.jpg",
+      "description": "Imagine IF returns to Nashville on October 5-6 with Cathie Wood, NVIDIA\u2019s Sean James and Senator Hagerty on the speaker bill."
     },
     {
       "headline": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because \u2018You\u2019re Going to Work With It or Be Out of the Game\u2019; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
-      "source": "Variety",
+      "source": "variety.com",
       "source_url": "https://variety.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmdDWXVnRXhyYmNSYzM4ZV9zVFY2MGlFMzhrUk0wNjdzSWZvQll6d0RndzZsRjUzZnkwak9CcGpuZjNLYVRsMHZpa2RxbjFMNDN6MWlMQ2dZY3ZDd0dPWFlEc0hzYzRlU0RyX0h4WVRuSkpsVVQyTDNLSG5TclROLUVERmIyMUlTVXlyWUQ1TFcwT0RNa2ZXazdQbw?oc=5",
       "pub_date": 1788213900.0,
@@ -55,14 +65,34 @@
       "description": "Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting."
     },
     {
-      "headline": "City of El Reno condemns Bitcoin mining facility after massive water leak, citing safety violations",
-      "source": "KOCO",
-      "source_url": "https://www.koco.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDRFQTZrbzczUFBHaFRCSFctNFNTVnZHc2swdGJ2MkdTNEVlSzVULTlyYXQ4cEl4Z3ItUFhNWF92cFJUMjU2VzIwSUlYclZibjRaUGFEbEZrbGVMR2tTY2VteTlWTUdWb0dYTkIxUmNERXhDWDY5dWhBektUVFBUQlRLUDRuVzA?oc=5",
-      "pub_date": 1788232620.0,
-      "article_url": "https://www.koco.com/article/el-reno-bitcoin-mining-facility-water-leak/73573597",
-      "image": "https://kubrick.htvapps.com/vidthumb/daa6e39b-bba0-490a-8228-5fb9f80fedcd/d00fe364-d6a3-4450-8bcb-e51d8403133c.jpg?crop=0.750xw%3A0.749xh%3B0.120xw%2C0&resize=1200%3A*",
-      "description": "El Reno condemned a Bitcoin mining facility after a water line failure leaked 3 million gallons and shut down schools, businesses and offices."
+      "headline": "Gal Gadot on Starring in AI Movie: \u201cThe Train Has Left the Station\u201d",
+      "source": "Consequence of Sound",
+      "source_url": "https://consequence.net",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15WlFPcEZNcHdNdlZtVkNDMXhPeGZXTHhyVF9EdU5jeTR4dzJkSDc1YjJ1YTFocjg3Q2FZT05mbjV6VkFtbXZTVHotSGhkekphYjlEVlkwWFdBNXh0ZWh6MDhjSGhtTTUtN1oyNURnYVVHcThucTlpV1Rn?oc=5",
+      "pub_date": 1788277262.0,
+      "article_url": "https://consequence.net/2026/09/gal-gadot-ai-movie-bitcoin-doug-liman/",
+      "image": "https://consequence.net/wp-content/uploads/2026/09/gal-gadot-walk-of-fame.jpg",
+      "description": "The former Wonder Woman leads Doug Liman's upcoming Bitcoin, which will use entirely AI-generated sets."
+    },
+    {
+      "headline": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZG9uMVpUWUNNVnRsZ29IMktMVlNjUlBWRHVrOXFTc1Z2ZW9MQm8wdVI0TnpoMzJMZHk0cnhMVEYtMjJRLUFsVjFuMFliOThJRGhGcjlmaHZ2YU5NMEtVMmthSzUzckpCaXhqOE1ueXVvT216b2NtX3dkakV2NWcxNWI2cE1HNEhQaW5EX1FZUmRqYzE4SF9VNDhIcWNfRWVZU1pz0gGrAUFVX3lxTE5TZllnLTZYbU1pQkJiLXFlWld2ajlUS0FXVnRwSUpjNmZXdTQ0RTFka0dkY2xYSkVVNVJQdGRvZnlaX1RjY3JtcXZpdHhNWUxfQ3BWUEtheE12dXVzLURNcXZmRk1aOWVhd3hnbzBTY2g4andac0paTXF3MjVBWjRwc1MzUUpFX21IR2xrSmxiblc3LWVaMTFmTzA4b3lBblNndkVKb0RBY2lFRQ?oc=5",
+      "pub_date": 1788273595.0,
+      "article_url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/gal-gadot-decrypt-style-gID_7.jpg",
+      "description": "The actor\u2019s lawyers spent six months negotiating the contract for \u201cBitcoin: Killing Satoshi\u201d in order to \u201cprotect\u201d her performance."
+    },
+    {
+      "headline": "El Reno Bitcoin mining facility had no permits, built unauthorized fire hydrant, and differs from data centers driving statewide debate",
+      "source": "KFOR",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa1JJbExTNm5KcmlsZnRqQVk1SklXXy1rNi1FREFrY0NxZk83VDZsYmhpTWI2NEN1M0ZZZHV6WXphcV9uejdhajY0YzFZUzB0amIzVjYzMjJQNy1TbGFrSkM2bWpCWm5wdDNpa3NxQTg1RWp0VldsTGM0OWdlYWxIeUpsM1VsUDZyUXl6QjNuOTZlUEpSdzlQV2tlajBWSDR3Nnctc0tyRXNMV0NzNi1NR0Q3TDZwcUEtWU1QRVhHZ1ZHVkdXMG5ZOGxjV2NnTkI1aTQ0aTdtNktMQmJUYlo4MndqcmhSVGhreWJOc3Z4R3BwMXAx0gH6AUFVX3lxTFB6MERxZFY4LWhVQ2JDWHdsQndLZThRNTZPVm1wNlBlellLV3FySUJqRDVmNi1DQ20yb2JwemQzUklMVE5qQmdiSlhPQzc2Z0czV3RQR3hUb3U2UnR3b2ZrX2pJbUkyVENtQWZjV3ctRlo3UWI0MWdzS2NSMWx1b2U2bTRLSkJ5dHdVYnBReS02Y2N1N056d0d2R1V5dlVjVGdad1NJRVhJdEdXUzU4MVRXSTFNSUpodjZ5el9sSFJUNFE4RjhzeElzaktKTGx5TDJLYkR6UFVZUmpiSzRnenA1UjA4Mk5yaGtzQVNNN09wWHQ0S0dINHliUkE?oc=5",
+      "pub_date": 1788231000.0,
+      "article_url": "https://kfor.com/news/local/el-reno-bitcoin-mining-facility-had-no-permits-built-unauthorized-fire-hydrant-and-differs-from-data-centers-driving-statewide-debate/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Neighbors push to shut down Delaware County bitcoin mining facility",
@@ -73,38 +103,8 @@
       "article_url": "https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/",
       "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/FW4TBSW4B5FTFO2XUVYMBBHTLI.jpg?auth=eb5e2c66ada5d74451da7a2b4099ccce7e2c02aa03090e58620370200d4d121d&width=1200&height=600&smart=true",
       "description": "The board will hold a hearing within the next 30 days and a vote after that."
-    },
-    {
-      "headline": "5 Best Crypto Casinos 2026: Trusted Bitcoin Gambling Sites With Fast Crypto Payouts",
-      "source": "Muddy River Sports",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1p2NndwRE5WODYwTDEyUDZxT3NHN0pEb0RzSUdaRzgwQk9lS3NCclViaER4b29NMS1GWDhCWDgwWF9UV3lXZlo5VGgtLVJpaW5uNnpzTWtRcnFPbDFRbGpQdEc0dDl4c3pnbGZnNlJSR2lZd3owdjFfTHRlSGF1NThHYUp2SkJ3RGF5R0luWmRWeWM1U0hib2o1UkgyWFlZcWpmTlhnb1FJWkdRT3ZBQVBFRWY0V296V0FZVnZCZ2djRGFLTmpTY19qZnhSc19RM004QkdraVJmNEhmbGc?oc=5",
-      "pub_date": 1788123756.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/08/image-2320.png",
-      "description": "Best Crypto Casinos Worth A Closer Look In 2026\u00a0 \ud83c\udfb0 Casinos \ud83c\udf81 Welcome Bonus Player Ratings 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 \u2b50 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins 4.8/5 \u2b50 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 4.7/5 \u2b50 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free..."
-    },
-    {
-      "headline": "Massive water leak exposes El Reno Bitcoin mining site operated unlawfully for years",
-      "source": "KFOR",
-      "source_url": "https://kfor.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNk9fYVE2VlpFZnBMT09BMl9VUVZNTzhXbkRWdDc1T2NSbXNQUkdqdGlGX1VudG9wZThiLXhubkl2NFNRSlc0UnBmRE50QnNaSlZOVVlCVktzUURKdWlZelpybEE4MG9JVlZ2WlVuVUh6cUFvRVhIRHNpZ3RTSVl0Ty1ORFAyVXdXZzRmNnZZY3J6ellLTEQ5WWxHa3ZWZHBXMExCRDRBSlBuOUF3ZnN1eU9ia9IBuAFBVV95cUxQRHNHOU11bXE5YWhSYmpURHR2NXh3SWJIYUFqRkgwNnAyR21LZ1NKZ1dzLUJZRVkteExUMWlJX2MtMmsxYUp0RHA4UlJjWVFmcEJ5RDJKRU5zV19mMzU3NmRDMU9PX0JCWENQZ2pHTGtMcVdiajZQVUtWNG5iTm1MSXViaHJEel9EV2tLVUN3V2VNYm0zak9KWmQ4N09nOHZnMEZDVFdRLWVTcW1xbGp4V1o3MHFrd19h?oc=5",
-      "pub_date": 1788218008.0,
-      "article_url": "https://kfor.com/news/local/massive-water-leak-exposes-el-reno-bitcoin-mining-site-operated-unlawfully-for-years/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Smart Investor: Warsh Talks Tough, Bitcoin\u2019s Bounce, Top Managers\u2019 Stock Picks",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVy1icTFnSWxSQ3JENUQyeW1DSUFXTzg4ZnRKVWwtbklEZS1zT3VHOFJndTcxM1VEVmVVNTVIRDJwcVY5N3V2VTZ6czVHS2pzeGI1MUltVHBZeVl0X3NReUVYT202Uzdzb2dnWW9Yb3V0dl9yUUJXQkMxamtXSzVDSnZsQUVpRjV2QUlnOVV4eXJXcnZDMExNYW9hQnM2aXUyMWpjTnhTcUExc1l3OXc?oc=5",
-      "pub_date": 1788005703.0,
-      "article_url": "https://www.morningstar.com/markets/smart-investor-warsh-talks-tough-bitcoins-bounce-top-managers-stock-picks",
-      "image": "https://media.morningstar.com/resizer/v2/3RJDP7C6PNG2XF54FF7JLPNPGU.jpg?auth=47c9d0a758d29188bd7594efec79c1785cd0bca4b5e86035176a97b72f9fbd87&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
-      "description": "We wrap up our coverage of the markets and the week."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T17:11:14.966262+00:00"
+  "fetched_at": "2026-09-01T20:04:03.391868+00:00"
 }

@@ -19,50 +19,60 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5",
-      "pub_date": 1788225040.0,
+      "pub_date": 1788183891.0,
       "article_url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI token prices are hitting new record lows",
+      "headline": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5",
+      "pub_date": 1788290340.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+      "image": "https://i.guim.co.uk/img/media/37a0b2654aa5ba6dafe6392d6ecce7f201a2f116/208_442_2782_2226/master/2782.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62624c1494e37a521c9cd8dd1b091ff7",
+      "description": "Exclusive: financial disclosures from Emil Michael \u2013 who also reaped millions from xAI stock earlier this year \u2013 show he sold his Perplexity stock for up to $25m"
+    },
+    {
+      "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQWFjYmw4NHEyTFlGWjE4UTBmdFhISmIwMlk5N0d3bGNzRmdnUUFRQzFpQ2hScWdPbUljZDZPV2xrdWhBRTRxU0JxU09qRFJSZVZtNG14OG5qZVA1X2FwWUZiUTdQa19W0gFuQVVfeXFMUEpuTzRMcmZkYXhWTVp0X1V1ZUQ5RWN2UXZjVVdqaWxDZFVLMndNRXUyUWpCNFVtQWhZYXU4ZEJMRjRpS1JCTjVHQ3hqOUpCMm1kUjFYN2RTTVo4NkJHQlMtaHREdkNTU0JweFJHNEE?oc=5",
-      "pub_date": 1788278911.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
-      "description": "A closely followed measure of artificial intelligence token prices touched fresh lows."
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5",
+      "pub_date": 1788291962.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108282828-1774447284388-gettyimages-2265766831-cros-notitle260305_npx66.jpeg?v=1788282183&w=1920&h=1080",
+      "description": "Meta Platforms has become a battleground stock."
     },
     {
-      "headline": "Google Brings Its Pics Image Editor To AI Pro And Ultra Subscribers",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWtCaDJQd1NGR01INTR4UkNNd1RNOEZUUWR5d0lFMkhibFg0cG91Nm9BVV9zd1dldG5kZFh1SGpvTE5aU3JrVkE0VS13WDFfaXMtWmpiLTVYWnA5VEt5T21NejVwYUhhNU90M1VyR3ZVX3F0ck9YekluSE8wRUlWTERncDcxVUkzZjc3OTlGNkc3dmRqTkh2V2VFUzBxS0lTWjBN?oc=5",
-      "pub_date": 1788278400.0,
-      "article_url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
-      "image": "https://www.engadget.com/img/gallery/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/l-intro-1788192230.jpg",
-      "description": "After releasing to a small group of testers this spring, the app is now rolling out more broadly."
+      "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEJSdHB2UlNFcTd3RVBRQW9lS0FQeHowT21lQllvNWhkaDVWYmMzd3F4ZVF2dnhrYm9XXzlFSzVZMk1aMEpGVWFnM1ZzcjFlNlZXZDFSYzVRNzZtQlExdDF4UUxWWWN5VHJ3QW9jZmVHaFpqVlpZdDdXSTFwNEQzWjFBUUk4LVhjanByckY3WmlISnFXMWpWdUxyNXYxeFN2SGowVkY1cU7SAa4BQVVfeXFMUFVyRHR2cjZPeF9mVmM1dnFzUV9lbXgtRWpPbGRJMzhyS2xZUldNcXQ3dVo5S09UZ29KRWdwQ2FPaDgyMGtXOF9kZ0RlMHBibDZNYUluejhyOHNSMHpBNnNnemFnNTJIaWFkV3FEcW9qMHVFN1hpT1dpb3RlMmRTem10SUNTSHlQd0NPWFlJVmtZZnRRZWdyYm4wcnJTM0VVeHJoOXk3WTdMZ09UdTJR?oc=5",
+      "pub_date": 1788260401.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342126-1785364582239-gettyimages-2287953463-sc2_0391_r6gxooeo.jpeg?v=1785364652&w=1920&h=1080",
+      "description": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming."
     },
     {
-      "headline": "Gal Gadot Is Being Dragged For Her Comments About AI, And It\u2019s Not A Good Look",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjJaU182eWxiUGpUSWp3RmhzR0pTQVBoN3h0Zm5DcjB3MW1NeE9CUzBWTmpwZTNoMXdOUTFiQmhYTlVUUjdOZVFUTmpJcUlzWHVVYjhPWTlTQ1ZkOXVKSWVwU01kUDFCRHNZbllwdjZrZjViMlBFM0JPNlBVUm1RcHdHSW1hY2Q0R2ZBb2xKMHNKRUVFeEdJY2xn?oc=5",
-      "pub_date": 1788279622.0,
-      "article_url": "https://www.yahoo.com/entertainment/movies/articles/gal-gadot-being-dragged-her-162022622.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/973984d28d2e15c1a3b4fefd2ebeb66d6e8b4b4fe261406899090ca4f52284af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F67762932214d23bc06d342787f279260.jpg",
-      "description": "\"Absolute scum behavior, and idiotic.\""
+      "headline": "Tim Cook did alright by the environment \u2014 but AI could upend his climate legacy",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm5XTzhZMW4waTRtRG9qOUJIYU1wbU9BTVhCZ29oRTVycmdaYnBWV0lILWdISDVzZGZ1Y1JqWWlSOGVvRjlZRjFXLTVfbTRidFJZWi1vMENyeVIxVzhkVlhJVko2TGNIRWZzaWVOWXFNNDl4Vk14UjhBMTNfUjJDSDZUQ1BEeExXNU83RnJB?oc=5",
+      "pub_date": 1788291819.0,
+      "article_url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951501/VRG_Illo_STK170_L_Normand_TimCook_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "He leaves \u201cagainst a dark backdrop.\u201d"
     },
     {
-      "headline": "AI\u2019s not taking all the jobs. Just ask your local hobby shop, garage band and crafts store",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV21kRmpLQ0NYbmdnUDhYdUh0Y1U4cTZKdC1YanA5a0h3VnZzNUtzV3FTUHdhZDJONWd6T1hBdmY5d1ItbnM5UExnMnhuNmlqamRlaS1MbktZQ1U3a1NGUXRoUkg2VzFVV0FNY2N0bkUyUlhjdDZ0cGMzR3VEczY3bXNuNTl4dHNjTkE?oc=5",
-      "pub_date": 1788253229.0,
-      "article_url": "https://www.cnn.com/2026/09/01/economy/people-just-want-things-that-bring-them-joy",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183331311.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Young people are embracing \u201cgrandma hobbies\u201d and flocking to in-person events at a time when artificial intelligence encroaches on many aspects of life."
+      "headline": "Tim Cook's legacy hinges on Apple's AI bet",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQjRRTDdMRldXdDdFcUxJR1VYYktvTmlzYWNkLXZlelUxSlJKZ0lkREtwU1VCZUlpSGljODJqcVlYamt6ZUk5M2FhREpJejBQOWhYVHpCWVRFSEgxN2FGaEFSNUpCUnRSQ0JNVTUzQlNtVjNsRjRUcEJsQlhYdw?oc=5",
+      "pub_date": 1788254835.0,
+      "article_url": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
@@ -75,16 +85,6 @@
       "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it."
     },
     {
-      "headline": "Wall Street banks push Big Law to cut fees because of AI",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZSZU03WnEwdy1pS2pwd19QaXBYOXZiRnhUVUZPSjY3ZU13YmI2TWlNNUdjZmJ3RnZHdGREa1ZFZnBObGFnYTJJMTNMUkVsS2dCNkhRWU1oSFR2YnNEdGRFRDU5RTdLdEZOeGtxdVdEd3JrMXlBaUYxMkIwVklOYU9INDE?oc=5",
-      "pub_date": 1788235323.0,
-      "article_url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffd57ef80-8f6b-4cd1-bcb1-d5e50bfc65d3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Goldman Sachs, Morgan Stanley and Citi tell law firms their bills should fall because technology has made routine work faster"
-    },
-    {
       "headline": "Own a gun? Go to church? Do yoga? AI can find out in seconds.",
       "source": "Politico",
       "source_url": "https://www.politico.com",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Tim Cook's legacy hinges on Apple's AI bet",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQjRRTDdMRldXdDdFcUxJR1VYYktvTmlzYWNkLXZlelUxSlJKZ0lkREtwU1VCZUlpSGljODJqcVlYamt6ZUk5M2FhREpJejBQOWhYVHpCWVRFSEgxN2FGaEFSNUpCUnRSQ0JNVTUzQlNtVjNsRjRUcEJsQlhYdw?oc=5",
-      "pub_date": 1788254796.0,
-      "article_url": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
+      "headline": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5",
+      "pub_date": 1788285662.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T17:11:21.954709+00:00"
+  "fetched_at": "2026-09-01T20:03:50.693018+00:00"
 }
