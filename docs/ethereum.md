@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-01T17:11:23.575069+00:00'
+updated: '2026-09-01T20:04:04.750500+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 17:11 UTC  
+**Last Updated:** September 01, 2026 at 20:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,439.95
+### $2,423.40
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -2.9%  
-**30d:** +30.9%  
-**90d:** +37.4%  
-**1y:** -43.8%  
+**24h:** -2.5%  
+**7d:** -3.6%  
+**30d:** +29.9%  
+**90d:** +36.4%  
+**1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.34B
+**Market Cap:** $291.62B
 Rank #2
 
 **Circulating Supply:** 120,681,093 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.8%
+-51.1%
 
 **All-Time Low:** $0.43
-+561370.6%
++558218.1%
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/7q249awEnEM) • 3d ago
+🔗 [youtu.be](https://youtu.be/7q249awEnEM) • 4d ago
 
 ---
 
@@ -150,43 +150,25 @@ Would like some advice from the community. I am new and I currently have some a 
 
 ## Google News: "ethereum"
 
-**[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
+**[Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html)**
 
-Tom Lee said Ethereum could reach $6,000 if Bitcoin climbs to $150,000 and the ETH/BTC ratio rises to 0.04. The BitMine chairman believes the CLARITY ...
+Bitcoin opened at $78,559.11 on Tuesday, September 1, 2026, up 1.1% from Monday's open. As of 8:19 a.m. ET, bitcoin fell to $77,945.97. Ethereum opened at $2,467.13 today, up 2% from Monday's opening price. The price of ethereum edged lower to $2,454.23 as of 8:19 a.m. ET.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Lido funds ValOS to boost Ethereum validator se...](https://pluang.com/en/news-feed/lido-dan-inisiatif-valos-tingkatkan-standar-validator-ethereum)**
-
-Lido DAO is funding ValOS, a new framework aimed at improving security, resilience, and transparency for Ethereum validators by aligning with enterprise standards like ISO 27001 and SOC 2. Through its LEGO grants program, Lido allocated $60K to subsidize half the cost of assurance reviews for early adopters, lowering barriers for smaller node operators. ValOS builds on the earlier DUCK initiative and provides open-source tools and governance for professional-grade audits, enhancing trust in Ethereum staking operations. This move encourages wider adoption of rigorous security practices among Ethereum validators.
-
-Pluang • 1h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[ARK, Glassnode Rank Bitcoin Most Decentralized – Ethereum, Solana Face Different Trade-Offs](https://finance.yahoo.com/markets/crypto/articles/ark-glassnode-rank-bitcoin-most-161304985.html)**
+**[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
 
-Bitcoin ranked as the most decentralized of the three networks studied, although the report also highlighted concentration risks in its mining sector.
-
-Yahoo Finance • 58m ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum price stalls between $2,400-$2,500 ami...](https://pluang.com/en/news-feed/harga-ethereum-risiko-tarik-ulur-macd-mendatar)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html)**
 
-Ethereum price remains range-bound between $2,400 support and $2,500 resistance, showing weak momentum and low trading volume. Despite this, US spot Ethereum ETFs attracted $87.68 million in inflows, indicating continued investor interest. Key levels to watch are $2,400 on the downside and $2,500 on the upside; a break could signal either a renewed rally or a deeper correction. The market awaits a decisive move outside this range for clearer direction.
+Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
 
-Pluang • 3h ago
-
----
-
-**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -194,7 +176,7 @@ Fortune • 4h ago
 
 Bitcoin traded around $79,000 on Monday after Strategy announced its first Bitcoin purchase in months.Notable Statistics:Notable Developments:Trader Notes:Crypto trader Kevin says Bitcoin and Ethereum are heading for strong monthly closes, with daily trend reversals and improving higher-timeframe m…
 
-TradingView • 22h ago
+TradingView • 1d ago
 
 ---
 
@@ -206,19 +188,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Sberbank Plans Bitcoin, Ethereum and Tether as Loan Collateral](https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral)**
-
-Sberbank plans to accept bitcoin, Ethereum and Tether as loan collateral after new rules take effect and the Bank of Russia approves the assets.
-
-The Defiant • 19h ago
-
----
-
 **[Crypto News: Pepeto Announces Final Steps of Binance Listing While Ethereum Price Prediction Targets $60,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-steps-of-binance-listing-while-ethereum-price-prediction-targets-60-000-1036508545)**
 
 DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -226,7 +200,31 @@ markets.businessinsider.com • 23h ago
 
 Ethereum whale moves 167855 ETH ($408M) to exchanges with 97715 ETH remaining, pressuring ETH price prediction amid neutral RSI on 4h chart.
 
-blockchain.news • 13h ago
+blockchain.news • 16h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
+
+Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
+
+Coinpedia • 1d ago
+
+---
+
+**[A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily](https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/)**
+
+More than 2 million Ethereum is queued for activation on the blockchain as staked supply climbs above 42 million ETH.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Lido funds ValOS initiative to enhance Ethereum validator standards](https://cryptobriefing.com/lido-valos-ethereum-validator-standards/)**
+
+Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator
+
+Crypto Briefing • 5h ago
 
 ---
 
@@ -240,7 +238,7 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 82 • ⏱️ 9:05 • 17h ago
+👁️ 51K • 👍 2K • 💬 84 • ⏱️ 9:05 • 20h ago
 
 ---
 
@@ -250,17 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 308 • 💬 19 • ⏱️ 15:57 • 2d ago
-
----
-
-**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
-
-Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
-
-📺 Koenz Trading
-
-👁️ 568 • 👍 47 • 💬 7 • ⏱️ 1:55 • 5h ago
+👁️ 17K • 👍 313 • 💬 19 • ⏱️ 15:57 • 2d ago
 
 ---
 
@@ -268,57 +256,7 @@ Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡�
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 333 • 💬 13 • ⏱️ 2:17 • 16h ago
-
----
-
-**[SharpLink &amp; Lido: Ethereum Doesn&#39;t Need To Change Issuance (Here&#39;s Why)](https://www.youtube.com/watch?v=0Ua4i3WDXGY)**
-
-Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't the priority. Rather, the focus should be on ...
-
-📺 The Rollup
-
-👁️ 9K • 👍 86 • 💬 12 • ⏱️ 7:49 • 1d ago
-
----
-
-**[Live Trading in Crypto &amp; Gold | Live BTC ETH Trading | XAUUSD Live Trade](https://www.youtube.com/watch?v=4BdCukk3vSI)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 2K • 👍 414 • 2h ago
-
----
-
-**[BTC &amp; ETH Scalping LIVE 🔥 | XAUT + US Stock Tokens | Real-Time Setups](https://www.youtube.com/watch?v=69kmcQDgmls)**
-
-Welcome to our live session where we break down the current market structure for BTC (Bitcoin) and ETH (Ethereum).
-
-📺 Delta Exchange
-
-👁️ 4K • 👍 235 • 4h ago
-
----
-
-**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
-
-WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 259 • 💬 24 • ⏱️ 41:55 • 22h ago
-
----
-
-**[Bitcoin, Ethereum &amp; XRP Aren&#39;t Done Yet This Is Going To Shock The Living Daylights Out Of You](https://www.youtube.com/watch?v=PMnxp61twvE)**
-
-Some people will get it and some wont. Some people will invest and make tons of money and others will continue to wait for prices ...
-
-📺 The Modern Investor
-
-👁️ 13K • 👍 834 • 💬 290 • ⏱️ 33:07 • 1d ago
+👁️ 7K • 👍 357 • 💬 19 • ⏱️ 2:17 • 19h ago
 
 ---
 
@@ -328,7 +266,67 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 576 • 👍 20 • 💬 1 • ⏱️ 5:15 • 8h ago
+👁️ 640 • 👍 21 • 💬 1 • ⏱️ 5:15 • 11h ago
+
+---
+
+**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
+
+WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
+
+📺 CryptoWendyO
+
+👁️ 9K • 👍 260 • 💬 35 • ⏱️ 41:55 • 1d ago
+
+---
+
+**[SharpLink &amp; Lido: Ethereum Doesn&#39;t Need To Change Issuance (Here&#39;s Why)](https://www.youtube.com/watch?v=0Ua4i3WDXGY)**
+
+Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't the priority. Rather, the focus should be on ...
+
+📺 The Rollup
+
+👁️ 9K • 👍 87 • 💬 12 • ⏱️ 7:49 • 1d ago
+
+---
+
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=dv_XIROh0Q4)**
+
+In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 invalidation level for our current micro triangle ...
+
+📺 More Crypto Online
+
+👁️ 8K • 👍 206 • 💬 11 • ⏱️ 7:19 • 1d ago
+
+---
+
+**[🤩 Ethereum 2-Year Price Target: UDS 8,323](https://www.youtube.com/watch?v=yO-RhKSGYLU)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 62 • 💬 10 • ⏱️ 9:19 • 7h ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
+
+Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
+
+📺 Koenz Trading
+
+👁️ 826 • 👍 50 • 💬 7 • ⏱️ 1:55 • 8h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; XRP Aren&#39;t Done Yet This Is Going To Shock The Living Daylights Out Of You](https://www.youtube.com/watch?v=PMnxp61twvE)**
+
+Some people will get it and some wont. Some people will invest and make tons of money and others will continue to wait for prices ...
+
+📺 The Modern Investor
+
+👁️ 14K • 👍 834 • 💬 284 • ⏱️ 33:07 • 1d ago
 
 ---
 

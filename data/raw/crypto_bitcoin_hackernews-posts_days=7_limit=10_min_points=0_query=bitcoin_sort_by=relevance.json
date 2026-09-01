@@ -131,21 +131,21 @@
       "site_name": "organicbitcoin.org"
     },
     {
-      "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 2",
-      "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c",
-      "hn_url": "https://news.ycombinator.com/item?id=49514737",
-      "author": "docjojo",
+      "title": "Bitcoin 101 Classroom",
+      "url": "https://classroom.google.com/c/ODc2ODU0NDI5MTY1/m/ODc2ODUzMzg4MTI5/details",
+      "hn_url": "https://news.ycombinator.com/item?id=49525233",
+      "author": "JustReaper",
       "points": 1,
       "num_comments": 0,
-      "created_at": "2026-08-31T20:55:52Z",
-      "object_id": "49514737",
+      "created_at": "2026-09-01T17:41:43Z",
+      "object_id": "49525233",
       "image": null,
       "description": null,
-      "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
-      "site_name": "Medium"
+      "favicon": "https://classroom.google.com/favicon.ico",
+      "site_name": "classroom.google.com"
     }
   ],
   "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-09-01T17:10:52.885609+00:00"
+  "fetched_at": "2026-09-01T20:03:32.768039+00:00"
 }
