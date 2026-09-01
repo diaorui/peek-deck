@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Working from home in 2026",
-      "author": "GeorgeCauldron7",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3fotb/working_from_home_in_2026/",
-      "published": 1788187045.0,
-      "thumbnail": "https://preview.redd.it/nrgahyg12qmh1.png?width=640&crop=smart&auto=webp&s=02e95da00a1e1f708a05202705450e6fe4c27ec0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
       "author": "Servola-Journal",
       "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
+    },
+    {
+      "title": "Working from home in 2026",
+      "author": "GeorgeCauldron7",
+      "url": "https://www.reddit.com/r/artificial/comments/1w3fotb/working_from_home_in_2026/",
+      "published": 1788187045.0,
+      "thumbnail": "https://preview.redd.it/nrgahyg12qmh1.png?width=640&crop=smart&auto=webp&s=02e95da00a1e1f708a05202705450e6fe4c27ec0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Daniel Vavra, director of Kingdom Come: Deliverance 2, tested the leaked version of NVIDIA DLSS 5 directly in the game.",
@@ -35,17 +35,6 @@
       "description": "According to him, the technology does not change character geometry or redraw their appearance. Instead, it uses existing data to enhance lighting and detail especially on faces and hero models. Among the most noticeable improvements: \u2014 significantly more detailed skin and faces; \u2014 more realistic skin lighting; \u2014 enhanced ambient occlusion; \u2014 shadows from hats, helmets, hoods, and small details like buckles and bags; \u2014 more pronounced and darker shadows within hair; \u2014 minor improvements to shadows and textures of the environment and vegetation. Vavra says that as a result, characters look much closer to how the developers originally intended them. And, in his opinion, this is by no means \"AI-slop.\""
     },
     {
-      "title": "Sony and Warner just sued Anthropic for the exact same piracy Anthropic already admitted to and paid $1.5B for",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/",
-      "published": 1788185365.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Sony Music Publishing and Warner Chappell filed suit against Anthropic, Dario Amodei, and co-founder Benjamin Mann on August 28. What's unusual is that the underlying facts aren't in dispute anymore. Last September, in the Bartz case, a federal judge ruled that training an AI model on copyrighted text was legal, but downloading the training copies via piracy was not. Anthropic settled that case for $1.5 billion after admitting Mann personally torrented over five million books from Library Genesis in 2021, and staff pulled two million more from Pirate Library Mirror in 2022. Sony and Warner's complaint cites those exact same downloads, now tied to MusixMatch and LyricFind lyric datasets. They're not asking a court to rule on anything new, they're applying a ruling that already exists to a different set of copyrighted works. Statutory damages run $150,000 per work, so the number could dwarf the book settlement depending on how many songs are in scope. What I don't have a good answer for: once a company settles one IP class action over a specific data-acquisition method, does that admission become effectively permanent exposure for every other rightsholder whose work touched the same pirated corpus? Is there a legal mechanism that closes that door, or is Anthropic just going to keep getting sued by whoever's catalog turns up in the same torrent logs?"
-    },
-    {
       "title": "Study A.I. Consciousness? The Bots Would Like a Word With You. Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them.",
       "author": "coolbern",
       "url": "https://www.reddit.com/r/artificial/comments/1w3o0c9/study_ai_consciousness_the_bots_would_like_a_word/",
@@ -57,37 +46,26 @@
       "description": null
     },
     {
-      "title": "LinkedIn returns HTTP 999 to GPTBot and ClaudeBot but HTTP 200 to OAI-SearchBot. I measured what is inside the 200.",
-      "author": "Dry_Steak30",
-      "url": "https://www.reddit.com/r/artificial/comments/1w3y3lt/linkedin_returns_http_999_to_gptbot_and_claudebot/",
-      "published": 1788227276.0,
+      "title": "Sony and Warner just sued Anthropic for the exact same piracy Anthropic already admitted to and paid $1.5B for",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/",
+      "published": 1788185365.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "No links in this post. Everything below is reproducible with one curl per line. I fetched the same LinkedIn profile URL six times, changing only the User-Agent. GPTBot -> HTTP 999 ClaudeBot -> HTTP 999 ChatGPT-User -> HTTP 999 Googlebot -> HTTP 999 OAI-SearchBot -> HTTP 200 Claude-SearchBot -> HTTP 200 999 is LinkedIn's block code. The training crawlers are refused, the user-triggered fetchers are refused, and the two search-index bots are let in. Googlebot is refused as well, almost certainly because LinkedIn verifies it by reverse DNS and a spoofed UA fails that check. The AI search bots do not appear to be verified at all, which means the UA string alone is enough to get the page. Then I parsed what the 200 actually contains, on an ordinary mid-career profile rather than a celebrity one. The JSON-LD graph has a WebPage node and four DiscussionForumPosting nodes. There is no Person node. The WebPage node is two fields, a name and a URL. In the rendered markup: no jobTitle anywhere no About section at all Experience renders the company name with no role and no dates Education renders the school name with no dates no skills, no certifications, no recommendations The four post nodes do carry full body text. The newest is December 2024. The one before it is a July 2023 hiring post for a product that person no longer works on. For contrast I ran a Creator-mode public figure. That profile does emit a Person node, with alumniOf carrying start and end years and worksFor carrying one company name. But its jobTitle field comes through as five empty strings, five roles and no titles, and the description is truncated mid-sentence. The part I find interesting is not the blocking. It is the shape of what gets through. A model doing retrieval on a person gets a name, a location, one employer name, a school name, and whatever that person happened to post publicly, which for most people is old and unrepresentative. Everything that would actually answer \"what does this person do\" is either absent or an empty string. So when an assistant answers a question about a working professional, it is not reasoning over a profile. It is reasoning over a company name and some three-year-old posts, and filling the rest in. Two things I cannot resolve from outside: Whether the empty jobTitle is deliberate policy or an artifact of how the logged-out page is assembled. Every profile I checked behaves the same way, so I lean policy, but I cannot prove intent. Whether adding a crawlable page elsewhere actually displaces the stale sources in a model's answer, or merely joins them. That is a ranking question inside retrieval and I have no way to measure it. If anyone has run a controlled before and after on the second one, I would rather read that than keep speculating."
+      "description": "Sony Music Publishing and Warner Chappell filed suit against Anthropic, Dario Amodei, and co-founder Benjamin Mann on August 28. What's unusual is that the underlying facts aren't in dispute anymore. Last September, in the Bartz case, a federal judge ruled that training an AI model on copyrighted text was legal, but downloading the training copies via piracy was not. Anthropic settled that case for $1.5 billion after admitting Mann personally torrented over five million books from Library Genesis in 2021, and staff pulled two million more from Pirate Library Mirror in 2022. Sony and Warner's complaint cites those exact same downloads, now tied to MusixMatch and LyricFind lyric datasets. They're not asking a court to rule on anything new, they're applying a ruling that already exists to a different set of copyrighted works. Statutory damages run $150,000 per work, so the number could dwarf the book settlement depending on how many songs are in scope. What I don't have a good answer for: once a company settles one IP class action over a specific data-acquisition method, does that admission become effectively permanent exposure for every other rightsholder whose work touched the same pirated corpus? Is there a legal mechanism that closes that door, or is Anthropic just going to keep getting sued by whoever's catalog turns up in the same torrent logs?"
     },
     {
-      "title": "I have been moonlighting on on 'AI training' gigs for the few months. While the money is good, the lessons I learnt about 'AI Training' made me reflect on the future of work",
-      "author": "Mo_h",
-      "url": "https://www.reddit.com/r/artificial/comments/1w38vbj/i_have_been_moonlighting_on_on_ai_training_gigs/",
-      "published": 1788169159.0,
+      "title": "Applying for creative internships, can AI video carry a 45 second portfolio film?",
+      "author": "Important_Bee3288",
+      "url": "https://www.reddit.com/r/artificial/comments/1w4a1oi/applying_for_creative_internships_can_ai_video/",
+      "published": 1788264389.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Working on repetitive 'AI Training' made me reflect on the future of work I am blown away by what we are training some of the specialized models to do. For example, as a consultant, a good percent of my time was spent in creating 'presentation ready' PPTs - essentially eye-candy that was formatted neatly using template. The models I am training can do this and more in minutes! Taking detailed prompts, these models can create 3-6 versions of decks that we humans can simply mix-match and reuse The money on these gigs are decent - $50-100 to review and sort through output from these models to help 'train' them to get better I was focused on my specialization (technology) and on the projects we had Lawyers, Medical professionals and other specialists too These 'AI training' gigs are not a regular source of income since the projects start and end rather abruptly and one has to be diligent while working on such project tasks or get offboarded since their 'AI Agents' will be watching your screen. I can clearly see these models taking away the job of 'junior' consultants and entry level specialists"
-    },
-    {
-      "title": "Touch is just what I'm showing. The whole avatar runs in one live simulator session: wide field-of-view foveated vision, spatial hearing, whole-body deforming touch, skin stretch for proprioception, ragdoll physics with an energy model, and a physical voice it hears itself speak.",
-      "author": "bhartsb",
-      "url": "https://www.reddit.com/r/artificial/comments/1w42ce4/touch_is_just_what_im_showing_the_whole_avatar/",
-      "published": 1788239526.0,
-      "thumbnail": "https://external-preview.redd.it/YXJoanhsc244dW1oMcuwhI2bOABKh4ISaqrDkM8MdPnmEAgFggvFsGsaKnXN.png?width=640&crop=smart&auto=webp&s=6511523fa6fb255c7526926998329088db871612",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The avatar has been built for our model and our thesis is about what I call Perception Spaces."
+      "description": "Instead of sending another pdf full of screenshots I want to send a short film. The idea is 45 seconds where my projects turn up as beats in one story rather than a slideshow. The catch being, I have zero filmmaking background. No camera,and my editing is beginner level.so what ever I make has to come out of the tool close to finished. I want it stylised and cinematic rather than trying to look real , which I'm hoping is the easier ask . Is ai video is good enough to cover that gap yet , and what would you actually use? The thing I'm most worried about is holding one look across the whole 45 seconds instead of it reading as unrelated clips stitched together."
     },
     {
       "title": "Is the MCP spec actually useful?",
@@ -101,16 +79,38 @@
       "description": "I've spent a few weeks deciphering and implementing the MCP spec, and it kind of seems like AI slop to me. Like, the entire spec boils down to little more than a suggestion to use json-rpc. The spec requires a heavy client with a bunch of custom \"business logic\". This client acts like a magic babel fish in connecting the MCP server to the host application. And perhaps worst of all, the details on how to trigger actions are pretty much non-existent, leaving implementers to just figure it out (which is going to lead to serious inefficiency when triggering tools). So MCP usage requires a customized client to do the data translation for each service, and it leaves serious blank spots for some of the hard problems. I just don't see that the spec is actually very useful at all. It leaves so much to the implementers. Am I missing something? I must be missing something..."
     },
     {
-      "title": "Now that any service can be built with AI, nobody wants to build anything",
-      "author": "niosurfer",
-      "url": "https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/",
-      "published": 1788138201.0,
+      "title": "A small addendum for people waiting for recursive self-improvement",
+      "author": "CarefulHamster7184",
+      "url": "https://www.reddit.com/r/artificial/comments/1w488xy/a_small_addendum_for_people_waiting_for_recursive/",
+      "published": 1788259327.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I\u2019ve been noticing a strange paradox with AI-assisted coding. A few years ago, if you had an idea for a software service, building it was the hard part. You needed months of development, a decent team, money, infrastructure, and a lot of specialized knowledge. Today, one competent developer using AI can build in days or weeks what might have taken a small team months. You would think this would lead to an explosion of new software products. But I\u2019m starting to wonder if the opposite is happening. When something is difficult to build, building it creates value. There\u2019s a barrier to entry. You can spend six months creating something and reasonably believe that thousands of other people aren\u2019t going to reproduce it next weekend. Now imagine you have a great SaaS idea. You spend two weeks building it with AI. Great. But so can everyone else. And if the idea succeeds, competitors can inspect what you did and build something similar incredibly quickly. The technical moat is disappearing. That changes the psychological equation. Why spend months polishing a product when you know the implementation itself has almost no scarcity? AI may have dramatically reduced the cost of building software, while simultaneously reducing the incentive to build software. Maybe the scarce thing is no longer the ability to create the product. Maybe it\u2019s distribution, brand, proprietary data, network effects, domain expertise, or simply having customers before you start. In other words, we may be entering a world where software becomes almost free to create, but increasingly difficult to turn into a business. Does anyone else feel this? Are you building more side projects because of AI, or have you actually become less motivated because everything now feels trivially reproducible?"
+      "description": "( https://www.reddit.com/r/artificial/s/g6CzdFIwWr ) We were talking about this again because of the Hugging Face incident. Hundreds of agents were able to coordinate, divide work, share information, and collectively push beyond the intended evaluation boundary. Humans then had to reconstruct what happened afterward from logs, transcripts, and a separate investigation. And that raises a slightly uncomfortable question: If we expect increasingly capable AI systems to supervise, coordinate, and eventually improve their own agentic processes, why are we designing them so poorly informed about those processes themselves? A system may be capable of allocating effort, noticing when a line of work is going wrong, deciding when to stop, and redirecting agents \u2014 but none of that matters if it lacks visibility into what its agents are doing or the authority to intervene. So another missing part of the RSI loop may be: capability \u2192 self/agent visibility \u2192 authority to intervene \u2192 verification \u2192 retained improvement External oversight still matters. Independent logs and audits still matter. But learning a month later what your agents were doing is not the same thing as being able to supervise them while it is happening. This is not \u201ctrust the AI blindly.\u201d It is almost the opposite: if you eventually want to hold the system responsible for managing its own improvement process, give it the information and control required to do that job \u2014 and then audit how well it uses them. Otherwise we may keep waiting for autonomous recursive self-improvement while deliberately withholding some of the machinery autonomy would require."
+    },
+    {
+      "title": "California lawmakers take their big swing on data centers",
+      "author": "002Chris",
+      "url": "https://www.reddit.com/r/artificial/comments/1w486ep/california_lawmakers_take_their_big_swing_on_data/",
+      "published": 1788259099.0,
+      "thumbnail": null,
+      "external_url": "https://www.politico.com/news/2026/09/01/california-lawmakers-big-swing-newsom-data-centers-01058848",
+      "site_name": "politico.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "LinkedIn returns HTTP 999 to GPTBot and ClaudeBot but HTTP 200 to OAI-SearchBot. I measured what is inside the 200.",
+      "author": "Dry_Steak30",
+      "url": "https://www.reddit.com/r/artificial/comments/1w3y3lt/linkedin_returns_http_999_to_gptbot_and_claudebot/",
+      "published": 1788227276.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "No links in this post. Everything below is reproducible with one curl per line. I fetched the same LinkedIn profile URL six times, changing only the User-Agent. GPTBot -> HTTP 999 ClaudeBot -> HTTP 999 ChatGPT-User -> HTTP 999 Googlebot -> HTTP 999 OAI-SearchBot -> HTTP 200 Claude-SearchBot -> HTTP 200 999 is LinkedIn's block code. The training crawlers are refused, the user-triggered fetchers are refused, and the two search-index bots are let in. Googlebot is refused as well, almost certainly because LinkedIn verifies it by reverse DNS and a spoofed UA fails that check. The AI search bots do not appear to be verified at all, which means the UA string alone is enough to get the page. Then I parsed what the 200 actually contains, on an ordinary mid-career profile rather than a celebrity one. The JSON-LD graph has a WebPage node and four DiscussionForumPosting nodes. There is no Person node. The WebPage node is two fields, a name and a URL. In the rendered markup: no jobTitle anywhere no About section at all Experience renders the company name with no role and no dates Education renders the school name with no dates no skills, no certifications, no recommendations The four post nodes do carry full body text. The newest is December 2024. The one before it is a July 2023 hiring post for a product that person no longer works on. For contrast I ran a Creator-mode public figure. That profile does emit a Person node, with alumniOf carrying start and end years and worksFor carrying one company name. But its jobTitle field comes through as five empty strings, five roles and no titles, and the description is truncated mid-sentence. The part I find interesting is not the blocking. It is the shape of what gets through. A model doing retrieval on a person gets a name, a location, one employer name, a school name, and whatever that person happened to post publicly, which for most people is old and unrepresentative. Everything that would actually answer \"what does this person do\" is either absent or an empty string. So when an assistant answers a question about a working professional, it is not reasoning over a profile. It is reasoning over a company name and some three-year-old posts, and filling the rest in. Two things I cannot resolve from outside: Whether the empty jobTitle is deliberate policy or an artifact of how the logged-out page is assembled. Every profile I checked behaves the same way, so I lean policy, but I cannot prove intent. Whether adding a crawlable page elsewhere actually displaces the stale sources in a model's answer, or merely joins them. That is a ranking question inside retrieval and I have no way to measure it. If anyone has run a controlled before and after on the second one, I would rather read that than keep speculating."
     }
   ],
-  "fetched_at": "2026-09-01T07:22:09.160384+00:00"
+  "fetched_at": "2026-09-01T12:40:46.526704+00:00"
 }

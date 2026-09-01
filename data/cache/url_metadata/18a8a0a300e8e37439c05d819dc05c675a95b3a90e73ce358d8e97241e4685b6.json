@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-01T12:40:45.676899+00:00",
+  "data": {
+    "url": "https://brekken.com/posts/a-truly-random-seed-phrase",
+    "title": "A Truly Random Seed Phrase",
+    "description": "COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed phrase from a shuffled deck of playing cards on an air-gapped Raspberry Pi.",
+    "image": "https://brekken.com/assets/img/posts/2026-08-28-truly-random-seed-phrase/og-image.jpg",
+    "favicon": "https://brekken.com/assets/img/favicon/apple-touch-icon.png",
+    "site_name": "Andreas Brekken",
+    "author": "Andreas Brekken",
+    "keywords": null
+  }
+}
