@@ -25,6 +25,16 @@
       "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
     },
     {
+      "headline": "GoPro has been acquired and is getting into \u2018defense, government, robotics and aerospace\u2019",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5",
+      "pub_date": 1788281168.0,
+      "article_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&strip=all&crop=0%2C10.761751337668%2C100%2C78.476497324665&w=1200",
+      "description": "Right after a YouTuber became GoPro\u2019s biggest shareholder, the company got sold."
+    },
+    {
       "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,32 +45,12 @@
       "description": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday."
     },
     {
-      "headline": "The rise of physical AI: can robots save US manufacturing?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
-      "pub_date": 1788148898.0,
-      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
-    },
-    {
-      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
-      "pub_date": 1788149460.0,
-      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "pub_date": 1788015600.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "headline": "Warehouse robot and software developer Locus Robotics nears Series G close",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmxPT1dIemtkUEVlVkdlZ3RaR2tDOGswTE53RFFDLVNSaWl0S3Zwc1RBaGJOMVNsN0w5bmJLTUNVMTRXTURWdExxalhkbG10QVNiVVh2dER5MlRDanVOaFRQMkhRaHMyX1BBU3VjdEVSTlNrdVRycFpwaFFiUnd0VTNyM1dxSVh6OW1iNmhSdw?oc=5",
+      "pub_date": 1788264082.0,
+      "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/01/locus-robotics-series-g",
       "image": null,
       "description": null
     },
@@ -85,26 +75,36 @@
       "description": "Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia\u2019s military within weeks, Belgrade claims."
     },
     {
-      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
-      "pub_date": 1788223920.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
-      "image": null,
-      "description": null
+      "headline": "The rise of physical AI: can robots save US manufacturing?",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
+      "pub_date": 1788148898.0,
+      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
     },
     {
-      "headline": "Adorable waddling robot can pick up stuff and learn new tricks",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTlKZkR0aHJjemszWVNQOU54Z2xRX3U4Z3hzd3ZISWtwWTBSNEFoWDdtNTdGNlNXU2N4SUFPa3JNRmJEbmVZbGtlZHVRY0xCWGtuek5oQ1gwVzlld0hTR290YzljUDFOUjFoYlNGWmtEZ0hteFlhUHFuRVBQenh0NFY3VzN0WXBmVEhScHAzNkVEVHlYa3RWTVZlQ1lsOXRPVDB3?oc=5",
-      "pub_date": 1788183547.0,
-      "article_url": "https://newatlas.com/robotics/adorable-waddling-robot-pick-up-hugging-face-microduck-pollen-robotics/",
-      "image": "https://assets.newatlas.com/dims4/default/d2ec16f/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F10%2Fe3%2F9502b45d425583165969f17a62d1%2Fhow-cute-is-this-trainable-robot-with-15-motors-and-a-lidar-sensor.jpg&na.image_optimisation=0",
-      "description": "This cute little robot duck isn't actually a toy. It's actually a platform for budding roboticists to train on and develop skills. But heck, this might be the most fun design for a hackable machine we've seen yet."
+      "headline": "China\u2019s robots race ahead",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
+      "pub_date": 1788091200.0,
+      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
+    },
+    {
+      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
+      "pub_date": 1788149460.0,
+      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T12:41:09.661927+00:00"
+  "fetched_at": "2026-09-01T17:11:17.305100+00:00"
 }

@@ -5,82 +5,92 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "headline": "'It can outthink me': How a major manufacturer came to embrace AI",
       "source": "NPR",
       "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0wzR1o0VER5d2gxZWZydm5GOWI4T29lWWFJeVJIMEJEMEhwVjRteEZ1SGtFRll5REpPV3JCV3NkaGpuTlMySnppS0NxS0tIX3dtTHk1SG0tWG9yekxac1F0SFg1d25Nc2hZRnBQaXVnZW1MZUM0ZlROZFp2RVJnejM5NnBGZkR3bmdoOERDYWJQdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5",
       "pub_date": 1788253200.0,
-      "article_url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5196x2923+0+271/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2Fff%2Fbe265ef44cd6ba4ba4c48eaeafc4%2Fgettyimages-2284059159.jpg",
-      "description": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many."
+      "article_url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fdc%2F018e889242328a0f4d28e37008c9%2Fge-part-time-workers-georgia-julieholder-013.jpg",
+      "description": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor."
     },
     {
       "headline": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5",
-      "pub_date": 1788183891.0,
+      "pub_date": 1788225040.0,
       "article_url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Deutsche Bank names its top AI hardware 'pick-and-shovel' stocks (LITE:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzVVRHN6VUtIVWtxTXUwYlQ5YW5CeXJ3T040MktCWS0tZHRKbFlWSlJySDQ1UXZySC1DdWVLZWtPbmRHN1BhMmg1ckRtUnlraU9xRWJSVEgtTEdWd3NldU04a1l2ZFdmRHpNa2NWX3NzN1NwMzVPS3ZZeTY2dGNocmRzNzh4VjBha082ZGoyTHgxbFZCX2tOZjR1ZFNIUG1BTGc?oc=5",
-      "pub_date": 1788262226.0,
-      "article_url": "https://seekingalpha.com/news/4638638-deutsche-bank-names-its-top-ai-hardware-pick-and-shovel-stocks",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260474979/image_2260474979.jpg?io=getty-c-w630",
-      "description": "Deutsche Bank launches AI hardware coverage: shift from GPUs to CPUs/compute efficiency."
-    },
-    {
-      "headline": "At Instacart, Hybrid AI Solves The Stubborn AI Reliability Problem",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1hRT1JCMUtCTDREWVp2QjF0UlhITmF6VWY1eTh3UElneHgzQzFyMFhLV0RqV1RFTTB4ZHN2M1RtZGtYZ2pMZkpHYTZLSUpvZ2tQTHNxY0JWVUdyNzNPTXlnTzdDcmwxWW11Y2NOcHZIV2xtRmZZX3hyamtXbXRTZlhHZEJQMTJzcXltT2V3R2lGYkg5NVpaekFHd2VOOWREX25TRm9JNm9MNVp0R2g0XzNCUmx0ekJQ?oc=5",
-      "pub_date": 1788264900.0,
-      "article_url": "https://www.forbes.com/sites/ericsiegel/2026/09/01/at-instacart-hybrid-ai-solves-the-stubborn-ai-reliability-problem/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8dc339e263fc8091f1dfae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Like many AI systems, Instacart\u2019s product-replacement system needs to gauge its own confidence in order to turn predictions into actions."
-    },
-    {
-      "headline": "What 100 million visitors reveal about AI search behavior",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3ZuZEhtaGxnd2xjZnA0LWMxUUx6cEVkdFBQYlBvYVdoaXlwMjNncXJXa3Y5M3BsUVI5SkY1VXBNSlBheXhWcVdhSG9UeTdVdjNxaHNtR1NrVVN4aVZ3U2lvS0w4enpFQlBDSm1idHFSYXloWmpnUGR1QmRFSzkzb0ZLbVhEYmZEZmJQdkFta0ZtRU5tZHJBVU13?oc=5",
-      "pub_date": 1788264387.0,
-      "article_url": "https://www.fastcompany.com/91598267/what-100-million-visitors-reveal-about-ai-search-behavior",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/FCEB-templates-26.png",
-      "description": "The game has changed, and few are prepared."
-    },
-    {
-      "headline": "Japan is using AI, drones and wolf robots to keep bears at bay",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWZrSTQzRDBrVDZOX29laU9OTV9nODFlNy1uYklyMUZQYno3U05TUEpvR09pT2FlMHNCbkF2eEFhOFR5clNhT1NDXzRNcVQ2NFpoZnhUVjVCdU04ZFN5dkFJYTZsZlROZnV4N3g3R19LQTlDNEtOUVFHY1pxM3hFOVpiZC1HS0taZDY1ZUE2MVFjS2JZb0lzOUt5UUNiQQ?oc=5",
-      "pub_date": 1788226020.0,
-      "article_url": "https://www.cnn.com/world/asia/japan-using-ai-drones-and-wolf-robots-to-keep-bears-at-bay-c2e-spc",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20260818034021354.jpg?c=16x9&q=w_800,c_fill",
-      "description": "With bear attacks on the rise, Japan is looking to high-tech solutions \u2014 and traditional ones."
-    },
-    {
-      "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+      "headline": "AI token prices are hitting new record lows",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEJSdHB2UlNFcTd3RVBRQW9lS0FQeHowT21lQllvNWhkaDVWYmMzd3F4ZVF2dnhrYm9XXzlFSzVZMk1aMEpGVWFnM1ZzcjFlNlZXZDFSYzVRNzZtQlExdDF4UUxWWWN5VHJ3QW9jZmVHaFpqVlpZdDdXSTFwNEQzWjFBUUk4LVhjanByckY3WmlISnFXMWpWdUxyNXYxeFN2SGowVkY1cU7SAa4BQVVfeXFMUFVyRHR2cjZPeF9mVmM1dnFzUV9lbXgtRWpPbGRJMzhyS2xZUldNcXQ3dVo5S09UZ29KRWdwQ2FPaDgyMGtXOF9kZ0RlMHBibDZNYUluejhyOHNSMHpBNnNnemFnNTJIaWFkV3FEcW9qMHVFN1hpT1dpb3RlMmRTem10SUNTSHlQd0NPWFlJVmtZZnRRZWdyYm4wcnJTM0VVeHJoOXk3WTdMZ09UdTJR?oc=5",
-      "pub_date": 1788260401.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342126-1785364582239-gettyimages-2287953463-sc2_0391_r6gxooeo.jpeg?v=1785364652&w=1920&h=1080",
-      "description": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming."
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQWFjYmw4NHEyTFlGWjE4UTBmdFhISmIwMlk5N0d3bGNzRmdnUUFRQzFpQ2hScWdPbUljZDZPV2xrdWhBRTRxU0JxU09qRFJSZVZtNG14OG5qZVA1X2FwWUZiUTdQa19W0gFuQVVfeXFMUEpuTzRMcmZkYXhWTVp0X1V1ZUQ5RWN2UXZjVVdqaWxDZFVLMndNRXUyUWpCNFVtQWhZYXU4ZEJMRjRpS1JCTjVHQ3hqOUpCMm1kUjFYN2RTTVo4NkJHQlMtaHREdkNTU0JweFJHNEE?oc=5",
+      "pub_date": 1788278911.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
+      "description": "A closely followed measure of artificial intelligence token prices touched fresh lows."
     },
     {
-      "headline": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
-      "pub_date": 1788261518.0,
-      "article_url": "https://www.reuters.com/legal/transactional/cook-hands-apple-ternus-bigger-richer-catching-up-ai-race-2026-09-01/",
+      "headline": "Google Brings Its Pics Image Editor To AI Pro And Ultra Subscribers",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWtCaDJQd1NGR01INTR4UkNNd1RNOEZUUWR5d0lFMkhibFg0cG91Nm9BVV9zd1dldG5kZFh1SGpvTE5aU3JrVkE0VS13WDFfaXMtWmpiLTVYWnA5VEt5T21NejVwYUhhNU90M1VyR3ZVX3F0ck9YekluSE8wRUlWTERncDcxVUkzZjc3OTlGNkc3dmRqTkh2V2VFUzBxS0lTWjBN?oc=5",
+      "pub_date": 1788278400.0,
+      "article_url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
+      "image": "https://www.engadget.com/img/gallery/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/l-intro-1788192230.jpg",
+      "description": "After releasing to a small group of testers this spring, the app is now rolling out more broadly."
+    },
+    {
+      "headline": "Gal Gadot Is Being Dragged For Her Comments About AI, And It\u2019s Not A Good Look",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjJaU182eWxiUGpUSWp3RmhzR0pTQVBoN3h0Zm5DcjB3MW1NeE9CUzBWTmpwZTNoMXdOUTFiQmhYTlVUUjdOZVFUTmpJcUlzWHVVYjhPWTlTQ1ZkOXVKSWVwU01kUDFCRHNZbllwdjZrZjViMlBFM0JPNlBVUm1RcHdHSW1hY2Q0R2ZBb2xKMHNKRUVFeEdJY2xn?oc=5",
+      "pub_date": 1788279622.0,
+      "article_url": "https://www.yahoo.com/entertainment/movies/articles/gal-gadot-being-dragged-her-162022622.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/973984d28d2e15c1a3b4fefd2ebeb66d6e8b4b4fe261406899090ca4f52284af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F67762932214d23bc06d342787f279260.jpg",
+      "description": "\"Absolute scum behavior, and idiotic.\""
+    },
+    {
+      "headline": "AI\u2019s not taking all the jobs. Just ask your local hobby shop, garage band and crafts store",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV21kRmpLQ0NYbmdnUDhYdUh0Y1U4cTZKdC1YanA5a0h3VnZzNUtzV3FTUHdhZDJONWd6T1hBdmY5d1ItbnM5UExnMnhuNmlqamRlaS1MbktZQ1U3a1NGUXRoUkg2VzFVV0FNY2N0bkUyUlhjdDZ0cGMzR3VEczY3bXNuNTl4dHNjTkE?oc=5",
+      "pub_date": 1788253229.0,
+      "article_url": "https://www.cnn.com/2026/09/01/economy/people-just-want-things-that-bring-them-joy",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183331311.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Young people are embracing \u201cgrandma hobbies\u201d and flocking to in-person events at a time when artificial intelligence encroaches on many aspects of life."
+    },
+    {
+      "headline": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uaXRJY0tyQ0JVcHZoRXIxNWZBVnZrMzF2dW5UcjNRWDFwdnFORzBxblRZQ3kxLTB3bmVVbW9OXy14TFR6WG5fMmd2Tkh1aW9VSnlyWWMxUQ?oc=5",
+      "pub_date": 1788239483.0,
+      "article_url": "https://www.bbc.com/news/videos/cvgy4ddx1q8o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
+      "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it."
+    },
+    {
+      "headline": "Wall Street banks push Big Law to cut fees because of AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZSZU03WnEwdy1pS2pwd19QaXBYOXZiRnhUVUZPSjY3ZU13YmI2TWlNNUdjZmJ3RnZHdGREa1ZFZnBObGFnYTJJMTNMUkVsS2dCNkhRWU1oSFR2YnNEdGRFRDU5RTdLdEZOeGtxdVdEd3JrMXlBaUYxMkIwVklOYU9INDE?oc=5",
+      "pub_date": 1788235323.0,
+      "article_url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffd57ef80-8f6b-4cd1-bcb1-d5e50bfc65d3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Goldman Sachs, Morgan Stanley and Citi tell law firms their bills should fall because technology has made routine work faster"
+    },
+    {
+      "headline": "Own a gun? Go to church? Do yoga? AI can find out in seconds.",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmpjTlEzcUlCYkh1SFJldjFmNV9xa2dnTGJ5MHlBdjlkVm1FX1BJNXRBUG1fZkF5bVRxQ1FzOG5VWU9NcDkwMklocFVvZE9lLWQ4aXF1Z29qdHBfUjNXUTJKcEM5dkg1X0ROYktKX3lCek1BTTI2cXBGRnhKV3kwZHlJUmtKVmZwYk5tenBIWXFocEpzRUlia09SdDVCTVpGMWh1OXBxSlpfUUFjdHpJM0NDSHYtcjhW?oc=5",
+      "pub_date": 1788252300.0,
+      "article_url": "https://www.politico.com/news/2026/09/01/wake-up-call-for-congress-lawmakers-get-a-big-brother-warning-on-ai-01054087",
       "image": null,
       "description": null
     },
@@ -89,22 +99,12 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQjRRTDdMRldXdDdFcUxJR1VYYktvTmlzYWNkLXZlelUxSlJKZ0lkREtwU1VCZUlpSGljODJqcVlYamt6ZUk5M2FhREpJejBQOWhYVHpCWVRFSEgxN2FGaEFSNUpCUnRSQ0JNVTUzQlNtVjNsRjRUcEJsQlhYdw?oc=5",
-      "pub_date": 1788254545.0,
+      "pub_date": 1788254796.0,
       "article_url": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Big earnings failed to answer the big AI questions",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nNVlacUlNUlFOeW5nRUh1Rm1PMVNILWRFOXVhUkc3aTluLWFaOEt2VWJNWXZZRmIyUWc5TWhFN2FQU0lQbnNOVGctV1JFeUhCUnpMaDQwTnJtOTBCODBQeUpaUERzLXNhSHU2VA?oc=5",
-      "pub_date": 1788261393.0,
-      "article_url": "https://www.axios.com/2026/09/01/ai-earnings-nvidia-alphabet",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T12:41:17.884954+00:00"
+  "fetched_at": "2026-09-01T17:11:21.954709+00:00"
 }
