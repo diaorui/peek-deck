@@ -5,54 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The turbulent AI era is here. The choices we make now are critical.",
-      "source": "gatesnotes.com",
-      "source_url": "https://www.gatesnotes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "pub_date": 1788223314.0,
-      "article_url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "image": null,
-      "description": null
+      "headline": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0wzR1o0VER5d2gxZWZydm5GOWI4T29lWWFJeVJIMEJEMEhwVjRteEZ1SGtFRll5REpPV3JCV3NkaGpuTlMySnppS0NxS0tIX3dtTHk1SG0tWG9yekxac1F0SFg1d25Nc2hZRnBQaXVnZW1MZUM0ZlROZFp2RVJnejM5NnBGZkR3bmdoOERDYWJQdw?oc=5",
+      "pub_date": 1788253200.0,
+      "article_url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5196x2923+0+271/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2Fff%2Fbe265ef44cd6ba4ba4c48eaeafc4%2Fgettyimages-2284059159.jpg",
+      "description": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many."
     },
     {
       "headline": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5",
-      "pub_date": 1788225040.0,
+      "pub_date": 1788183891.0,
       "article_url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "When AI Can Provide The Answer, People Still Value Discovery",
+      "headline": "Deutsche Bank names its top AI hardware 'pick-and-shovel' stocks (LITE:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzVVRHN6VUtIVWtxTXUwYlQ5YW5CeXJ3T040MktCWS0tZHRKbFlWSlJySDQ1UXZySC1DdWVLZWtPbmRHN1BhMmg1ckRtUnlraU9xRWJSVEgtTEdWd3NldU04a1l2ZFdmRHpNa2NWX3NzN1NwMzVPS3ZZeTY2dGNocmRzNzh4VjBha082ZGoyTHgxbFZCX2tOZjR1ZFNIUG1BTGc?oc=5",
+      "pub_date": 1788262226.0,
+      "article_url": "https://seekingalpha.com/news/4638638-deutsche-bank-names-its-top-ai-hardware-pick-and-shovel-stocks",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260474979/image_2260474979.jpg?io=getty-c-w630",
+      "description": "Deutsche Bank launches AI hardware coverage: shift from GPUs to CPUs/compute efficiency."
+    },
+    {
+      "headline": "At Instacart, Hybrid AI Solves The Stubborn AI Reliability Problem",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1CQ3lFZTc5b05vYWliclllRVYxa3VuU1FxSkpTX19YXzNONmdKWE1xdTJJRzdQd2Y0VktmNUhPTURSOTU2dUIyZ1F2ZGl4MTFZU0lYOGluVXRjcFdoQklUbDdTX3AzRndoM0JEQVoteHBWbHhkb2NjZmxzTnctMm9nenFMSDJFX1RZdVdyY09MaE1kVVdPZzF5eFpPMnoyUXRTV0hEWFQwZmZjQmN6c3FYbzQ?oc=5",
-      "pub_date": 1788246000.0,
-      "article_url": "https://www.forbes.com/sites/dianehamilton/2026/09/01/when-ai-can-provide-the-answer-people-still-value-discovery/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8393bc2dcc6e49f5da7e5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "New research suggests people still value discovery even when AI can provide instant answers, revealing why exploration may remain vital for learning, creation, and work!"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1hRT1JCMUtCTDREWVp2QjF0UlhITmF6VWY1eTh3UElneHgzQzFyMFhLV0RqV1RFTTB4ZHN2M1RtZGtYZ2pMZkpHYTZLSUpvZ2tQTHNxY0JWVUdyNzNPTXlnTzdDcmwxWW11Y2NOcHZIV2xtRmZZX3hyamtXbXRTZlhHZEJQMTJzcXltT2V3R2lGYkg5NVpaekFHd2VOOWREX25TRm9JNm9MNVp0R2g0XzNCUmx0ekJQ?oc=5",
+      "pub_date": 1788264900.0,
+      "article_url": "https://www.forbes.com/sites/ericsiegel/2026/09/01/at-instacart-hybrid-ai-solves-the-stubborn-ai-reliability-problem/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8dc339e263fc8091f1dfae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Like many AI systems, Instacart\u2019s product-replacement system needs to gauge its own confidence in order to turn predictions into actions."
     },
     {
-      "headline": "Instagram is Waking Up to the Fact That People Don\u2019t Like Being Tricked by AI Creators",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxvN2dMWDA3Z0pDT2JNV2VIaDJSMm1zQkZpSUFmdVJ3OWlsbEVVTndLQ2luUF9UcGgwbGpMRURxYm9PelA0NkFSYW9MOVJPakNPTlcwb0JYejFzRHRDUEt2ek9UVTE5U0dCeC16ZE5VZUxfLXNHY2trVEdhdnJ1TnZBVHBiemZUWFVIaTBGaldvT2J4LWZJRjBQOVgxcTA0RzBsVWRuS1pvS3dvS09henY5UzdIaEVUSmRB?oc=5",
-      "pub_date": 1788246820.0,
-      "article_url": "https://petapixel.com/2026/09/01/instagram-is-waking-up-to-the-fact-that-people-dont-like-being-tricked-by-ai-creators/",
-      "image": "https://petapixel.com/assets/uploads/2026/08/Instagram-AI-Profiles4.jpg",
-      "description": "New AI-generated labels are coming to the Meta platform."
-    },
-    {
-      "headline": "Is AI America's Next 9/11-Scale Blind Spot? House Intel Thinks It Might Be",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnJVa2tBeWpkTEpiVWljcUxQeEZpQk9kNkoxN3RCaGhhaEpERDRlTjNpLXo3anZKcy02N3JOYjlWZ3RibmtYV3NiVkx1U3VJUnpjWXlsajJfcFJicG5JajBPQmF4NXQ4ZzdwT0J3UnhLTVMxeGRtemJEdTN6ajJRYm5US0kxdWtZ?oc=5",
-      "pub_date": 1788244527.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/ai-americas-next-9-11-063527821.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d04435bcc8e11a6ffee31bbc55255733fb70d15677fa427df1535dfc66e4cfaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ffac9730a5e68bd1b9abcb7e51cf40032.jpg",
-      "description": "The House Intelligence Committee's 9/11 review calls artificial intelligence (AI) one of the most significant emerging challenges."
+      "headline": "What 100 million visitors reveal about AI search behavior",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3ZuZEhtaGxnd2xjZnA0LWMxUUx6cEVkdFBQYlBvYVdoaXlwMjNncXJXa3Y5M3BsUVI5SkY1VXBNSlBheXhWcVdhSG9UeTdVdjNxaHNtR1NrVVN4aVZ3U2lvS0w4enpFQlBDSm1idHFSYXloWmpnUGR1QmRFSzkzb0ZLbVhEYmZEZmJQdkFta0ZtRU5tZHJBVU13?oc=5",
+      "pub_date": 1788264387.0,
+      "article_url": "https://www.fastcompany.com/91598267/what-100-million-visitors-reveal-about-ai-search-behavior",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/FCEB-templates-26.png",
+      "description": "The game has changed, and few are prepared."
     },
     {
       "headline": "Japan is using AI, drones and wolf robots to keep bears at bay",
@@ -65,46 +65,46 @@
       "description": "With bear attacks on the rise, Japan is looking to high-tech solutions \u2014 and traditional ones."
     },
     {
-      "headline": "\u2018Superhuman\u2019 AI tool spots heart disease in less than 2 seconds",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
-      "pub_date": 1788226200.0,
-      "article_url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-      "image": "https://i.guim.co.uk/img/media/088efc360811ce7fbc25edd6ca021efcd0e70df6/200_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77bf17fe53ec0a07adf2bc6735132f05",
-      "description": "Technology trained on millions of routine ECGs could fast-track high-risk patients for treatment"
+      "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEJSdHB2UlNFcTd3RVBRQW9lS0FQeHowT21lQllvNWhkaDVWYmMzd3F4ZVF2dnhrYm9XXzlFSzVZMk1aMEpGVWFnM1ZzcjFlNlZXZDFSYzVRNzZtQlExdDF4UUxWWWN5VHJ3QW9jZmVHaFpqVlpZdDdXSTFwNEQzWjFBUUk4LVhjanByckY3WmlISnFXMWpWdUxyNXYxeFN2SGowVkY1cU7SAa4BQVVfeXFMUFVyRHR2cjZPeF9mVmM1dnFzUV9lbXgtRWpPbGRJMzhyS2xZUldNcXQ3dVo5S09UZ29KRWdwQ2FPaDgyMGtXOF9kZ0RlMHBibDZNYUluejhyOHNSMHpBNnNnemFnNTJIaWFkV3FEcW9qMHVFN1hpT1dpb3RlMmRTem10SUNTSHlQd0NPWFlJVmtZZnRRZWdyYm4wcnJTM0VVeHJoOXk3WTdMZ09UdTJR?oc=5",
+      "pub_date": 1788260401.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342126-1785364582239-gettyimages-2287953463-sc2_0391_r6gxooeo.jpeg?v=1785364652&w=1920&h=1080",
+      "description": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming."
     },
     {
-      "headline": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uaXRJY0tyQ0JVcHZoRXIxNWZBVnZrMzF2dW5UcjNRWDFwdnFORzBxblRZQ3kxLTB3bmVVbW9OXy14TFR6WG5fMmd2Tkh1aW9VSnlyWWMxUQ?oc=5",
-      "pub_date": 1788239483.0,
-      "article_url": "https://www.bbc.com/news/videos/cvgy4ddx1q8o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
-      "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it."
-    },
-    {
-      "headline": "Global AI boom fuels Asia factory expansion in August",
+      "headline": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUpoaHRXb1RJQTZJazF3U0tNZTEwVm5iUHplMWU1TjhfUmpRVGVtMG5GcVhlekpMWnBBbkJTdFIzOEhkRWgtVGcwa3RTY0VqWXBQc1V1d1BZMHgyeG9KQXZyVUtidzMteVU0Q09ET0p5bzVEcWJJakF0LXZIcVhLbFlvUWlZU2tPSU9xTjc4WEowWWt0ZUp0c2hKdHMyYmZMT2k3bkNxajM4dWlxbDBzdGVNbw?oc=5",
-      "pub_date": 1788241098.0,
-      "article_url": "https://www.reuters.com/world/china/global-economy-global-ai-boom-fuels-asia-factory-expansion-august-2026-09-01/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
+      "pub_date": 1788261518.0,
+      "article_url": "https://www.reuters.com/legal/transactional/cook-hands-apple-ternus-bigger-richer-catching-up-ai-race-2026-09-01/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFBScFM2RTE3eC1YNHZTZlo0aHh2UHVlWGE2dl9RdVM1dHZYQ2dlRllBekZCUVBKNGxoR1E5ZHNhbVRpM01tcVh2UDdhNkZHSldBcTlRY25xUDlLRnA3MEhIYWVXSWVubGQtc21xcnVjc1c4X1p3ZWNxSXlWeDZiY3RSZGFYcGNUVHBSeUhuMUg2NERxQ2FyZl81SlQtbFRLRGt2cV9CNGFlRG0xT3pN?oc=5",
-      "pub_date": 1788243240.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
+      "headline": "Tim Cook's legacy hinges on Apple's AI bet",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQjRRTDdMRldXdDdFcUxJR1VYYktvTmlzYWNkLXZlelUxSlJKZ0lkREtwU1VCZUlpSGljODJqcVlYamt6ZUk5M2FhREpJejBQOWhYVHpCWVRFSEgxN2FGaEFSNUpCUnRSQ0JNVTUzQlNtVjNsRjRUcEJsQlhYdw?oc=5",
+      "pub_date": 1788254545.0,
+      "article_url": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Big earnings failed to answer the big AI questions",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nNVlacUlNUlFOeW5nRUh1Rm1PMVNILWRFOXVhUkc3aTluLWFaOEt2VWJNWXZZRmIyUWc5TWhFN2FQU0lQbnNOVGctV1JFeUhCUnpMaDQwTnJtOTBCODBQeUpaUERzLXNhSHU2VA?oc=5",
+      "pub_date": 1788261393.0,
+      "article_url": "https://www.axios.com/2026/09/01/ai-earnings-nvidia-alphabet",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T07:22:36.938930+00:00"
+  "fetched_at": "2026-09-01T12:41:17.884954+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-01T07:22:41.898953+00:00'
+updated: '2026-09-01T12:41:19.587132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 01, 2026 at 07:22 UTC  
+**Last Updated:** September 01, 2026 at 12:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,13 +76,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
-3d ago
+4d ago
 
 ---
 
 **[What is this INA219 actually reporting?](https://www.reddit.com/r/robotics/comments/1w1k72c/what_is_this_ina219_actually_reporting/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -98,7 +98,7 @@ Me and my 2 cs roomates at GT want to build a cool, practical robot for our apar
 
 A while ago, I built a 5-digit number recognition system on the ESP32-S3 using a lightweight AI model. The project was mainly a proof of concept for running image recognition directly on an embedded device. This time, I wanted to take that idea into a more practical, real-world application: reading a water meter. For this update, I still used the Makerfabs ESP32-P4 board with an autofocus camera. We also collected new images from a real water meter, focusing on the pointer and digit-reading area, and trained a dedicated recognition model based on this new dataset. The goal was not simply to recognize a fixed set of five numbers, but to make the model capable of identifying the actual reading shown on a water meter. After training and deploying the model, we tested it with real water meter images, and it correctly recognized the meter reading. This project is essentially the next step from our previous 5-digit recognition experiment—moving from a simple number-recognition demo to a more practical edge AI vision application. Would be interested to hear what other real-world applications you think could be built on top of this kind of embedded AI vision system.
 
-2d ago
+3d ago
 
 ---
 
@@ -114,63 +114,11 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 ## Google News: "robotics"
 
-**[The rise of physical AI: can robots save US manufacturing?](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)**
+**[Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery](https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery)**
 
-Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
+Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
 
-Financial Times • 1d ago
-
----
-
-**[Skild AI unveils S1 flagship robot foundation model](https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/)**
-
-Skild AI said its robot foundation model S1 enables robots to learn new tasks just by seeing a video of it being performed.
-
-The Robot Report • 9h ago
-
----
-
-**[As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production](https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html)**
-
-Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
-
-Radio Free Europe/Radio Liberty • 17h ago
-
----
-
-**[These Ex-DJI Engineers Have Designed the World’s First Robotic Extreme Zoom Camera](https://nofilmschool.com/rocxzoom-robotic-extreme-zoom-camera)**
-
-Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features.
-
-No Film School • 11h ago
-
----
-
-**[🎥 TRIC Robotics scales to 1,500 strawberry acres with 15-robot fleet](https://agfundernews.com/%F0%9F%8E%A5-tric-robotics-scales-to-1500-strawberry-acres-with-15-robot-fleet)**
-
-TRIC Robotics deploys a fleet of autonomous robots that apply UV-C light to tackle mites, mildew, and mold, coupled with bug vacuums.
-
-AgFunderNews • 12h ago
-
----
-
-**[Perceptron AI Launches Isaac 0.5, a Frontier Open-Weight Robotics Model](https://www.hpcwire.com/aiwire/2026/08/31/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model/)**
-
-Perceptron’s Isaac 0.5 outperforms leading open robot models, including Physical Intelligence’s π0.5 and NVIDIA’s GR00T N1.7 BELLEVUE, Wash., Aug. 31, 2026 — Perceptron AI has launched Isaac 0.5, a 36-billion-parameter open-weight embodied foundation model that combines video understanding, embodied reasoning and robot control, the first open model at the frontier of all three. Perceptron is working […]
-
-HPCwire • 11h ago
-
----
-
-**[9 Northwest Indiana school districts win robotics grants to expand STEM opportunities](https://nwitimes.com/news/local/education/article_d26c571e-0242-46f5-9b38-02b10d8f2f32.html)**
-
-nwitimes.com • 8h ago
-
----
-
-**[Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S.](https://natlawreview.com/press-releases/bigwave-robotics-joins-forces-leading-robotics-automation-suppliers-scale)**
-
-The National Law Review • 16h ago
+Medtronic • 1h ago
 
 ---
 
@@ -182,11 +130,59 @@ TechCrunch • 1d ago
 
 ---
 
-**[Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building](https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building)**
+**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
 
-For all the talk of robots that look like humans, the next robots to move into people’s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ...
+The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
-The Information • 17h ago
+CNBC • 5h ago
+
+---
+
+**[The rise of physical AI: can robots save US manufacturing?](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)**
+
+Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
+
+Financial Times • 1d ago
+
+---
+
+**[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
+
+AP News • 1d ago
+
+---
+
+**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
+
+WSJ • 2d ago
+
+---
+
+**[Carbon Robotics Launches Carbon Autonomy Ready Program, Great Plains Manufacturing Joins as First Member](https://www.businesswire.com/news/home/20260831647254/en/Carbon-Robotics-Launches-Carbon-Autonomy-Ready-Program-Great-Plains-Manufacturing-Joins-as-First-Member)**
+
+Business Wire • 23h ago
+
+---
+
+**[As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production](https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html)**
+
+Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
+
+Radio Free Europe/Radio Liberty • 22h ago
+
+---
+
+**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
+
+OregonLive.com • 11h ago
+
+---
+
+**[Adorable waddling robot can pick up stuff and learn new tricks](https://newatlas.com/robotics/adorable-waddling-robot-pick-up-hugging-face-microduck-pollen-robotics/)**
+
+This cute little robot duck isn't actually a toy. It's actually a platform for budding roboticists to train on and develop skills. But heck, this might be the most fun design for a hackable machine we've seen yet.
+
+New Atlas • 23h ago
 
 ---
 
@@ -194,23 +190,23 @@ The Information • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
 
-RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, America's position in the global robotics race and ...
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
 
-📺 Fox Business Clips
+📺 China.org.cn
 
-👁️ 190K • 👍 2K • 💬 1K • ⏱️ 4:19 • 6d ago
+👁️ 159K • 👍 850 • 💬 47 • ⏱️ 0:17 • 4d ago
 
 ---
 
-**[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
+**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
 
-Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
+8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
 
-📺 news.com.au
+📺 XRoboHub
 
-👁️ 678K • 👍 3K • 💬 969 • ⏱️ 4:02 • 6d ago
+👁️ 569K • 👍 2K • 💬 250 • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -224,53 +220,33 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 ---
 
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 425K • 👍 5K • 💬 9 • ⏱️ 1:01 • 2d ago
+
+---
+
 **[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
 
 Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
 
 📺 Bloomberg Tech
 
-👁️ 101K • 👍 740 • 💬 77 • ⏱️ 7:51 • 4d ago
+👁️ 102K • 👍 748 • 💬 78 • ⏱️ 7:51 • 4d ago
 
 ---
 
-**[Funny moments from Beijing’s World Humanoid Robot Games 2026](https://www.youtube.com/watch?v=pnz79EmT-V8)**
+**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
 
-The second edition of the World Humanoid Robot Games is underway in Beijing, China, with more than 2000 robots from over ...
-
-📺 CNA
-
-👁️ 3.9M • 👍 20K • 💬 4K • ⏱️ 4:29 • 6d ago
-
----
-
-**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
-
-📺 South China Morning Post
-
-👁️ 711K • 👍 2K • 💬 393 • ⏱️ 2:14 • 6d ago
-
----
-
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
-
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
-
-📺 China.org.cn
-
-👁️ 156K • 👍 837 • 💬 46 • ⏱️ 0:17 • 4d ago
-
----
-
-**[China’s New Robots at WRC 2026 Look 99% Like Real Humans](https://www.youtube.com/watch?v=vmpAjwsjOFw)**
-
-China's new robots showcased at WRC 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly realistic ...
+Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
 
 📺 Carros Show
 
-👁️ 129K • 👍 725 • 💬 88 • ⏱️ 18:09 • 6d ago
+👁️ 104K • 👍 739 • 💬 64 • ⏱️ 1:04:00 • 4d ago
 
 ---
 
@@ -280,17 +256,37 @@ China's World Humanoid Robot Games is a technological showcase, but also a possi
 
 📺 CBS Mornings
 
-👁️ 62K • 👍 404 • 💬 167 • ⏱️ 3:54 • 6d ago
+👁️ 62K • 👍 405 • 💬 168 • ⏱️ 3:54 • 6d ago
 
 ---
 
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+**[Inside China’s humanoid robot boom](https://www.youtube.com/watch?v=-7ASfRSXnHE)**
 
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+China is betting big on humanoid robots, pouring investment into the sector and backing companies developing the technology.
 
-📺 fastwit
+📺 Reuters
 
-👁️ 412K • 👍 5K • 💬 9 • ⏱️ 1:01 • 2d ago
+👁️ 15K • 👍 66 • 💬 27 • ⏱️ 2:19 • 5d ago
+
+---
+
+**[China’s Humanoid Robots Are Getting Shockingly Advanced | #shorts](https://www.youtube.com/watch?v=nsABKa2_VY0)**
+
+China's Humanoid Robots Are Getting Shockingly Advanced | #shorts #china #robots #humanoidrobots #robotics #ai ...
+
+📺 KADAK
+
+👁️ 2K • 👍 40 • ⏱️ 0:36 • 9h ago
+
+---
+
+**[UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)**
+
+RELEASE DATE: https://www.roblox.com/events/1508048912529883734 SOCIALS   Blox Fruits Twitter: ...
+
+📺 Gamer Robot
+
+👁️ 5.0M • 👍 207K • 💬 53K • ⏱️ 14:19 • 2d ago
 
 ---
 
