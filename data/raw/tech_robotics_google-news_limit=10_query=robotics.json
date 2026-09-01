@@ -9,14 +9,14 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
-      "pub_date": 1788148898.0,
+      "pub_date": 1788148820.0,
       "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
     },
     {
       "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
       "pub_date": 1788143640.0,
@@ -26,33 +26,13 @@
     },
     {
       "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
-      "source": "wired.com",
+      "source": "WIRED",
       "source_url": "https://www.wired.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5",
       "pub_date": 1787914560.0,
       "article_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
       "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
       "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
-    },
-    {
-      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
-      "pub_date": 1788177720.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
-      "pub_date": 1788149460.0,
-      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building",
@@ -65,6 +45,16 @@
       "description": "For all the talk of robots that look like humans, the next robots to move into people\u2019s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ..."
     },
     {
+      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
+      "pub_date": 1788149460.0,
+      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -75,14 +65,24 @@
       "description": null
     },
     {
-      "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
-      "pub_date": 1788086419.0,
-      "article_url": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108223825-17628031882025-11-10t192658z_1221773642_rc2qthabok7h_rtrmadp_0_usa-stocks.jpeg?v=1762803208&w=1920&h=1080",
-      "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
+      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
+      "pub_date": 1788177720.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production",
+      "source": "Radio Free Europe/Radio Liberty",
+      "source_url": "https://www.rferl.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM0tTTWtJaFp0cE9VbHNibFhyeXpCbEhMRGlQTVVPM0ZjSHFPTVhKTUVRVTEtcWF0NURTY3JCNkdiVHgwSXc1NC1vWWpDVWFDbkxsREVnNTdIUmNIUVRSU2lDWXZLa1BBLUJXU09HQlVyZ1BKRmtUUnV3aUluWTRoTXRWZFBXVllSbHZv0gGOAUFVX3lxTE81RDQ2TFZKQlBNZlBmMjA5Y1pEWUhsRnhiMU5xdktZRzVZZG9tQy1zdDdweXNMbksxSUt0UkRxTU0wc2xoaHVLUWRXd2NUeUEtQVlpTjhTSHF2OFlCWndHWFJzc2V3QWVya3hhaE9vNmNlUmRzeGtQcTkxVmhLQzdPUEotZkI2OC1QQy10d3c?oc=5",
+      "pub_date": 1788186118.0,
+      "article_url": "https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html",
+      "image": "https://gdb.rferl.org/b33a2177-915f-4ca0-1f82-08decad58b60_cx0_cy4_cw0_w1200_h630.jpg",
+      "description": "Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia\u2019s military within weeks, Belgrade claims."
     },
     {
       "headline": "China\u2019s robots race ahead",
@@ -95,16 +95,16 @@
       "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
     },
     {
-      "headline": "Meet the humanoid robots cleaning homes for $30 an hour",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1Z0TTBZSDVRVWJiLXpVdUJOcmdkLVJiTjRQSUR6UHc0bEphcjNSOXN2elNBWWhYMkJQR2M2N3hUTGwtOFJfS3Jub25Qby16YXlZaWswb1R3ajdGRjI4Q19KVFdWMW9JZ1BERElPbTlHMi1PX2VfVlZqNXhrU3lxa2t3TTQtN2hra1h4TjN5LUdOdw?oc=5",
-      "pub_date": 1787965378.0,
-      "article_url": "https://www.nbcnews.com/video/humanoid-robots-cleaning-homes-for-30-an-hour-269041733517",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_08/1787965203531_now_topstory_humanoid_robots_cleaning_260828_S3_1920x1080-lhqana.jpg",
-      "description": "These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and cleaning kitchens. NBC News' Tom Llamas speaks with Tau Robotics CEO and co-founder Alexander Koch about how the robots work and the challenges of making them fully A.I. powered."
+      "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
+      "pub_date": 1788086419.0,
+      "article_url": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223825-17628031882025-11-10t192658z_1221773642_rc2qthabok7h_rtrmadp_0_usa-stocks.jpeg?v=1762803208&w=1920&h=1080",
+      "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-08-31T22:58:32.978679+00:00"
+  "fetched_at": "2026-09-01T01:46:22.805040+00:00"
 }
