@@ -5,84 +5,54 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pRbWl2YXFjVl9VN3JMR1I3WHl1RXBkZ2xjMVJ4QWJiYi1pVTc3Wk5MMG1SOU5jc2E3QjhZcG4yRkg1TVNBTGFSWGVuMWFLSVNOM1RVa29tLWlHVDFOLS0wc1Q3UEJoZzJzejRBaGk5QTBjWHFVZ2pwMDdEeW15d3FGeExUdVVlNkNWU1RUZklpazV5QV9qeExUY0lUN2RWS3NkNmpMQno3d21ST2NLT2FuSQ?oc=5",
+      "pub_date": 1788208119.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkpJcmtEemNNOU5mT3pDYjZYMVlHRXl2bzNxekxDQVBCN2J2dGlEbW0tVkN4NmZ3eUZwXzVLZWJoTWo1djdTNDRCWlh6ejhubjR5cmZoUEoyOFNJV0tBNDE2NzI2dUdGa2g2X21BZmFYai1CTGtsV0JLOVNaLVM5UzRuTmNvTHYyM2lnMk80QU5EeXlqX21FdkduNlJrOGZP?oc=5",
-      "pub_date": 1788270360.0,
+      "pub_date": 1788270470.0,
       "article_url": "https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2",
       "image": null,
       "description": null
     },
     {
-      "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5",
-      "pub_date": 1788178757.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-restarts-bitcoin-buying-121917075.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/89db1d21abdc6cc718a9ec43f55bc0ef22fd556cb0bfe65f4440fb4c320cf8e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fe1822104567edc712746337b491ef0fe.jpg",
-      "description": "Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul."
-    },
-    {
-      "headline": "Pantera's Morehead Talks Bessent's 'Backfire', Bitcoin",
+      "headline": "North Korea is cashing out Bitcoin on Hyperliquid",
       "source": "Yahoo! Finance Canada",
       "source_url": "https://ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOem4weTFyeDYyMlFXQktnVnphdFAwSlBrZWl3YWM3R0VSU0h2dVpjSFFKVnFpMWwxZHFkTmZqb0JCS1pWRkg0R0hCZ25PREdLWVAwQ3JkQ3RvZWhrcURHRU1EQ1pYczFpLW0wSHFYNGZQVlN4TnJ1TXREMDJxRWtOa2YzOFAyMnI1TEpmQ0dTZEpwN2dOd3c?oc=5",
-      "pub_date": 1788289568.0,
-      "article_url": "https://ca.finance.yahoo.com/video/panteras-morehead-talks-bessents-backfire-190608049.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/58d98b777a588ca792bc7c4d023af0de0571164e306db82bf9b081d951094e13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2F408f5bd7b9c9bada1d8b243697dfb4de.jpg",
-      "description": "Dan Morehead, founder &amp; managing partner at Pantera Capital joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They discuss US Treasury Secretary Bessent's bond announcement, the future of digital asset treasuries, and crypto trading."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3JQTjg3UHA3Q2VvMk10UUlPLVFzZGNpZ1dLTTV5bHFDNXBtejIxNUxfOEd0YVFRcnVnTllIVEpkaTlyd1VfcHZWRDFFMFlSc3JaQUJ2a1I5WlpYWjQ4d2dPbktOZzNqby1CQ2N1M2hCZnRaLXlHTndsS21pZGxDQUx1Z21LSEx4MWNnYzRILTZyYzg?oc=5",
+      "pub_date": 1788296266.0,
+      "article_url": "https://ca.finance.yahoo.com/video/north-korea-cashing-bitcoin-hyperliquid-205746059.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2cb7f917fc8c82384fb5436b05021ce737819724a58c78cb1a10587fb28b7246/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2F04e1d73a-914c-40ac-9ddc-b4b854caf3a5%2Fmain%2F1280x720%2F56s703ms%2Fmatch%2Fimage.jpg",
+      "description": "North Korea's Lazarus Group has sold more than $30 million in bitcoin on Hyperliquid over the past three weeks, according to blockchain data reviewed by Arkham. The activity comes just as the Trump administration explores bringing the platform onshore. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\""
     },
     {
-      "headline": "Bitcoin ETF Buyers Return as $80,000 Level Tests Market Rally",
+      "headline": "Bitcoin\u2019s Biggest Hoarders Are Becoming Buffett Wannabes",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDJHTVVEbG1ZV3UyeUdob1dnN2pKNWVORUVPVmx6MXBQTnZqVTRxcHJoaFFteDV2bXAyMzgtVERFR1c0ZDU2WXpFR2kzQkx2OHNrQk5zMlBnc3BkbVBsbnNTa0NLZVIwdURoMXRWZ1lhMWlkc3M3dXNjSVZyaVlIX3VCeDQ1dTV4N203MkVXZm1GWjRES3RPMHdLeFBmb2RscEtQTUFFdUNZX2lCUUVZRA?oc=5",
-      "pub_date": 1788288987.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-etf-buyers-return-as-80-000-level-tests-market-rally",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLW1LTVM2V2RqRlpFZUcyUHh0Vmk1VDBBNURvcmIybURpRW9lOHd5UUtabGpIZlc3OFdxbXNhMVM0VTJwWUkwcmtQWFExaF9lQTZOWUJOU2s5QmlacGZmYmlmWDY0MnE1YmxsUXA2R2Q0eTQ4aU02VXJ6MHFhMGNQak5nSGc5bTZEclgzQjBTRWMyYmtFdTJNemwzUGVYbm8wUzBXVmpkMFA5QkE4ekxTSUo2Q0c?oc=5",
+      "pub_date": 1788296401.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-01/bitcoin-s-xbt-biggest-hoarders-are-becoming-buffett-wannabes",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nashville's Imagine IF summit is back with a bigger roster",
-      "source": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTkwRW50clNVaEZOM0VGNFJCV0k5cS04ZktVOW5JWmUtdTQtUG5Ud0JIaGxLamZXb0U5YXdIV2hJeTVrZWozVUQyeGU3d0t2b0IxWU94QkNjUkFvd0Z5SFZETjlKZUtZdmlFdHhBWmRPRjg5YWJldXlWRTRMWGVONy1TUzhGQmR3ejhmM3dTVQ?oc=5",
-      "pub_date": 1788291227.0,
-      "article_url": "https://sg.finance.yahoo.com/news/nashvilles-imagine-summit-back-bigger-193347897.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c192839dc81b237f0d9380fd05a38bd0f91301a890e52592e39f541bcdaa8c37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F13610edb6ffdf9566ff3f7da824240ab.jpg",
-      "description": "Imagine IF returns to Nashville on October 5-6 with Cathie Wood, NVIDIA\u2019s Sean James and Senator Hagerty on the speaker bill."
-    },
-    {
-      "headline": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because \u2018You\u2019re Going to Work With It or Be Out of the Game\u2019; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
-      "source": "variety.com",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmdDWXVnRXhyYmNSYzM4ZV9zVFY2MGlFMzhrUk0wNjdzSWZvQll6d0RndzZsRjUzZnkwak9CcGpuZjNLYVRsMHZpa2RxbjFMNDN6MWlMQ2dZY3ZDd0dPWFlEc0hzYzRlU0RyX0h4WVRuSkpsVVQyTDNLSG5TclROLUVERmIyMUlTVXlyWUQ1TFcwT0RNa2ZXazdQbw?oc=5",
-      "pub_date": 1788213900.0,
-      "article_url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
-      "description": "Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting."
-    },
-    {
-      "headline": "Gal Gadot on Starring in AI Movie: \u201cThe Train Has Left the Station\u201d",
-      "source": "Consequence of Sound",
-      "source_url": "https://consequence.net",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15WlFPcEZNcHdNdlZtVkNDMXhPeGZXTHhyVF9EdU5jeTR4dzJkSDc1YjJ1YTFocjg3Q2FZT05mbjV6VkFtbXZTVHotSGhkekphYjlEVlkwWFdBNXh0ZWh6MDhjSGhtTTUtN1oyNURnYVVHcThucTlpV1Rn?oc=5",
-      "pub_date": 1788277262.0,
-      "article_url": "https://consequence.net/2026/09/gal-gadot-ai-movie-bitcoin-doug-liman/",
-      "image": "https://consequence.net/wp-content/uploads/2026/09/gal-gadot-walk-of-fame.jpg",
-      "description": "The former Wonder Woman leads Doug Liman's upcoming Bitcoin, which will use entirely AI-generated sets."
-    },
-    {
-      "headline": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZG9uMVpUWUNNVnRsZ29IMktMVlNjUlBWRHVrOXFTc1Z2ZW9MQm8wdVI0TnpoMzJMZHk0cnhMVEYtMjJRLUFsVjFuMFliOThJRGhGcjlmaHZ2YU5NMEtVMmthSzUzckpCaXhqOE1ueXVvT216b2NtX3dkakV2NWcxNWI2cE1HNEhQaW5EX1FZUmRqYzE4SF9VNDhIcWNfRWVZU1pz0gGrAUFVX3lxTE5TZllnLTZYbU1pQkJiLXFlWld2ajlUS0FXVnRwSUpjNmZXdTQ0RTFka0dkY2xYSkVVNVJQdGRvZnlaX1RjY3JtcXZpdHhNWUxfQ3BWUEtheE12dXVzLURNcXZmRk1aOWVhd3hnbzBTY2g4andac0paTXF3MjVBWjRwc1MzUUpFX21IR2xrSmxiblc3LWVaMTFmTzA4b3lBblNndkVKb0RBY2lFRQ?oc=5",
-      "pub_date": 1788273595.0,
-      "article_url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/gal-gadot-decrypt-style-gID_7.jpg",
-      "description": "The actor\u2019s lawyers spent six months negotiating the contract for \u201cBitcoin: Killing Satoshi\u201d in order to \u201cprotect\u201d her performance."
+      "headline": "Robert Kiyosaki Is $1.2 Billion in Debt: Is His Bitcoin at Risk?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMlB2YlR0b2M1V2dlZFF5QjVyYmlHWDhteVhkdmpPY3hpbWNSM2lERGkzbm96ZnFIeVRVeWk1QUdHb1dmQXJsZzMtSENFb3ROV25zYURueDA3dnR6a3R6VW96SHhUZFZiREkyUDBleW9yZ3FSMUZQWW1rNUdVcUY4UXBLWm9LMllwUVhnWlNmSlVveHRJOUtF?oc=5",
+      "pub_date": 1788296811.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-1-2-billion-210651510.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ba55ede7658a0c47f19a663cfe7bde8febd3b1d4643656fa60c31c5d0ac68c28/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fa2284625ca65963467775718fd425a25.jpg",
+      "description": "Robert Kiyosaki says he owes $1.2 billion. The loans sit on apartments, not on the Bitcoin and gold he promotes."
     },
     {
       "headline": "El Reno Bitcoin mining facility had no permits, built unauthorized fire hydrant, and differs from data centers driving statewide debate",
@@ -103,8 +73,38 @@
       "article_url": "https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/",
       "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/FW4TBSW4B5FTFO2XUVYMBBHTLI.jpg?auth=eb5e2c66ada5d74451da7a2b4099ccce7e2c02aa03090e58620370200d4d121d&width=1200&height=600&smart=true",
       "description": "The board will hold a hearing within the next 30 days and a vote after that."
+    },
+    {
+      "headline": "City of El Reno condemns Bitcoin mining facility after massive water leak, citing safety violations",
+      "source": "KOCO",
+      "source_url": "https://www.koco.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDRFQTZrbzczUFBHaFRCSFctNFNTVnZHc2swdGJ2MkdTNEVlSzVULTlyYXQ4cEl4Z3ItUFhNWF92cFJUMjU2VzIwSUlYclZibjRaUGFEbEZrbGVMR2tTY2VteTlWTUdWb0dYTkIxUmNERXhDWDY5dWhBektUVFBUQlRLUDRuVzA?oc=5",
+      "pub_date": 1788232620.0,
+      "article_url": "https://www.koco.com/article/el-reno-bitcoin-mining-facility-water-leak/73573597",
+      "image": "https://kubrick.htvapps.com/vidthumb/daa6e39b-bba0-490a-8228-5fb9f80fedcd/d00fe364-d6a3-4450-8bcb-e51d8403133c.jpg?crop=0.750xw%3A0.749xh%3B0.120xw%2C0&resize=1200%3A*",
+      "description": "El Reno condemned a Bitcoin mining facility after a water line failure leaked 3 million gallons and shut down schools, businesses and offices."
+    },
+    {
+      "headline": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpRaWRYLW5xR3drSl90QkUxcmVxTkVxN09PWWhaMGlpWDV6ODQ4Qzg2WDJkb3Y4Nmc3OEFxeHFaVTBNc1pIVUVHbndQdDMwRHJldldJUEI1VXNMWnlva2gwNE1uQVlGaWYxN3VvSnVrS0pUYjdSejVyZjlsZ1NMS2I3Q2taVWkxelQyVlAyYzFfT0hseF9QYVh5Nm9VVm1DNG1XSUZ0VU1zWnNZeWtGdlBHWFRLWmVxZzlYZA?oc=5",
+      "pub_date": 1788237028.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "5 Best Crypto Casinos 2026: Trusted Bitcoin Gambling Sites With Fast Crypto Payouts",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1p2NndwRE5WODYwTDEyUDZxT3NHN0pEb0RzSUdaRzgwQk9lS3NCclViaER4b29NMS1GWDhCWDgwWF9UV3lXZlo5VGgtLVJpaW5uNnpzTWtRcnFPbDFRbGpQdEc0dDl4c3pnbGZnNlJSR2lZd3owdjFfTHRlSGF1NThHYUp2SkJ3RGF5R0luWmRWeWM1U0hib2o1UkgyWFlZcWpmTlhnb1FJWkdRT3ZBQVBFRWY0V296V0FZVnZCZ2djRGFLTmpTY19qZnhSc19RM004QkdraVJmNEhmbGc?oc=5",
+      "pub_date": 1788123756.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/08/image-2320.png",
+      "description": "Best Crypto Casinos Worth A Closer Look In 2026\u00a0 \ud83c\udfb0 Casinos \ud83c\udf81 Welcome Bonus Player Ratings 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 \u2b50 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins 4.8/5 \u2b50 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 4.7/5 \u2b50 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T20:04:03.391868+00:00"
+  "fetched_at": "2026-09-01T22:44:16.721622+00:00"
 }
