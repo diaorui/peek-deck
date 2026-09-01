@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-01T01:46:31.256463+00:00'
+updated: '2026-09-01T07:22:41.896152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 01:46 UTC  
+**Last Updated:** September 01, 2026 at 07:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -1.5%  
-**30d:** +32.7%  
-**90d:** +39.3%  
-**1y:** -43.0%  
+**24h:** +2.3%  
+**7d:** -1.3%  
+**30d:** +33.0%  
+**90d:** +39.7%  
+**1y:** -42.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.56B
+**Market Cap:** $298.45B
 Rank #2
 
 **Circulating Supply:** 120,681,093 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.2%
+-50.0%
 
 **All-Time Low:** $0.43
-+569338.7%
++571158.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -102,7 +102,7 @@ I run a pipeline that enriches crypto wallet addresses with the kind of labels y
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -134,7 +134,7 @@ Glamsterdam upgrade repricing impact for contract developers, Revolut euro stabl
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -150,14 +150,6 @@ Would like some advice from the community. I am new and I currently have some a 
 
 ## Google News: "ethereum"
 
-**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
-
-Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
-
-Decrypt • 7h ago
-
----
-
 **[Bitcoin, Ethereum, or XRP: Which Crypto Is the Best to Buy Right Now?](https://247wallst.com/investing/2026/08/29/bitcoin-ethereum-or-xrp-which-crypto-is-the-best-to-buy-right-now/)**
 
 Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare prices, catalysts, and the best buy today.
@@ -166,19 +158,11 @@ Bitcoin, Ethereum, and XRP have all fallen from their 2026 highs. We compare pri
 
 ---
 
-**[Ethereum holds $2,500 as ETF demand rises, offs...](https://pluang.com/en/news-feed/ethereum-leverage-turun-dramatis-dukungan-etf-menjaga-harga)**
-
-Ethereum's price remains near $2,500 despite a dramatic 90.9% drop in leveraged trading on Binance and Bybit, indicating the rally is less reliant on derivatives. Institutional demand through U.S.-based Ethereum spot ETFs, especially BlackRock's ETHA, has surged with $1.5 billion invested over 10 days, supporting price stability without adding leverage. However, large whale deposits totaling over 40,000 ETH on major exchanges pose a supply test that ETF demand must absorb to maintain the price. The balance between rising institutional ETF inflows and potential whale selling will be key to Ethereum's near-term price direction.
-
-Pluang • 1h ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.90 Million Tokens, and Total Crypto and Total Cash Holdings of $15.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html)**
 
 Bitmine owns 4.9% of the total ETH coin supply of 120.7 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing...
 
-PR Newswire • 13h ago
+PR Newswire • 18h ago
 
 ---
 
@@ -192,7 +176,15 @@ Yahoo Finance • 2d ago
 
 **[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
 
-CoinDesk • 12h ago
+CoinDesk • 18h ago
+
+---
+
+**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
+
+Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
+
+Decrypt • 12h ago
 
 ---
 
@@ -200,7 +192,7 @@ CoinDesk • 12h ago
 
 The CLARITY Act sets out to answer a question U.S. regulators have struggled with for over a decade: when does a crypto token count as an investment, and when does it behave more like a commodity such as gold. The answer determines who regulates a token, what its creators must disclose, and what ru…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -208,7 +200,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 12h ago
+Fortune • 17h ago
 
 ---
 
@@ -216,7 +208,15 @@ fortune.com • 12h ago
 
 DUBAI, United Arab Emirates, Aug.  31, 2026  (GLOBE NEWSWIRE) -- Ethereum based viral crypto Pepeto has announced the final steps of its Binance ...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 13h ago
+
+---
+
+**[A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily](https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/)**
+
+More than 2 million Ethereum is queued for activation on the blockchain as staked supply climbs above 42 million ETH.
+
+CryptoSlate • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ markets.businessinsider.com • 7h ago
 
 Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
 
-Coinpedia • 22h ago
+Coinpedia • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 496 • 💬 24 • ⏱️ 9:05 • 1h ago
+👁️ 29K • 👍 1K • 💬 49 • ⏱️ 9:05 • 7h ago
 
 ---
 
@@ -248,7 +248,15 @@ WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SU
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 224 • 💬 14 • ⏱️ 41:55 • 7h ago
+👁️ 8K • 👍 249 • 💬 17 • ⏱️ 41:55 • 12h ago
+
+---
+
+**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 209 • 💬 5 • ⏱️ 2:17 • 6h ago
 
 ---
 
@@ -258,7 +266,7 @@ Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't t
 
 📺 The Rollup
 
-👁️ 8K • 👍 82 • 💬 9 • ⏱️ 7:49 • 1d ago
+👁️ 9K • 👍 84 • 💬 9 • ⏱️ 7:49 • 1d ago
 
 ---
 
@@ -268,15 +276,17 @@ Some people will get it and some wont. Some people will invest and make tons of 
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 801 • 💬 294 • ⏱️ 33:07 • 15h ago
+👁️ 13K • 👍 816 • 💬 296 • ⏱️ 33:07 • 20h ago
 
 ---
 
-**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
+**[Ethereum Must Hold This Level to Avoid a Deeper Pullback](https://www.youtube.com/watch?v=34hvErsa_tE)**
 
-📺 CryptoWendyO
+In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 invalidation level for our current micro triangle ...
 
-👁️ 495 • 👍 59 • 💬 1 • ⏱️ 2:17 • 45m ago
+📺 More Crypto Online
+
+👁️ 125 • 👍 5 • ⏱️ 1:02 • 1h ago
 
 ---
 
@@ -286,7 +296,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 290 • 💬 14 • ⏱️ 15:57 • 1d ago
+👁️ 15K • 👍 302 • 💬 15 • ⏱️ 15:57 • 1d ago
 
 ---
 
@@ -296,7 +306,7 @@ In this Ethereum Elliott Wave analysis for 31 August 2026, we examine the $2355 
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 178 • 💬 10 • ⏱️ 7:19 • 10h ago
+👁️ 7K • 👍 192 • 💬 11 • ⏱️ 7:19 • 16h ago
 
 ---
 
@@ -306,7 +316,7 @@ Ethereum already broke through $2360, and the next major level I'm watching is $
 
 📺 The Moon Show
 
-👁️ 7K • 👍 133 • 💬 1 • ⏱️ 1:15 • 2d ago
+👁️ 7K • 👍 137 • 💬 1 • ⏱️ 1:15 • 2d ago
 
 ---
 
@@ -316,17 +326,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 20K • 👍 283 • 💬 155 • ⏱️ 15:06 • 2d ago
-
----
-
-**[Robinhood Chain Dominated Ethereum Ecossytem (Important Data Shared)](https://www.youtube.com/watch?v=1m7IDP69ITA)**
-
-Robinhood Chain Dominating Ethereum Ecosystem. Wait until you see the data behind this and you will understand just how ...
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 28 • 💬 19 • ⏱️ 5:44 • 12h ago
+👁️ 21K • 👍 286 • 💬 157 • ⏱️ 15:06 • 2d ago
 
 ---
 

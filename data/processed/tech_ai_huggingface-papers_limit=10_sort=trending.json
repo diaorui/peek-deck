@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 19375,
+      "github_stars": 19448,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
@@ -88,11 +88,11 @@
       "hf_url": "https://huggingface.co/papers/2608.24053",
       "arxiv_url": "https://arxiv.org/abs/2608.24053",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.24053.png",
-      "upvotes": 68,
+      "upvotes": 69,
       "num_comments": 2,
       "published_at": "2026-08-24T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent/WeMM-Embedding",
-      "github_stars": 998,
+      "github_stars": 1023,
       "project_page": "https://github.com/Tencent/WeMM-Embedding"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 1328,
+      "github_stars": 1340,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2608.27529",
       "arxiv_url": "https://arxiv.org/abs/2608.27529",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27529.png",
-      "upvotes": 28,
+      "upvotes": 30,
       "num_comments": 4,
       "published_at": "2026-08-26T20:00:00.000Z",
       "github_repo": "https://github.com/amap-cvlab/ABot-Recon",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2608.27549",
       "arxiv_url": "https://arxiv.org/abs/2608.27549",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27549.png",
-      "upvotes": 43,
+      "upvotes": 45,
       "num_comments": 2,
       "published_at": "2026-08-26T20:00:00.000Z",
       "github_repo": "https://github.com/mirros-lab/code-as-world",
@@ -168,30 +168,30 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 85751,
+      "github_stars": 85789,
       "project_page": null
     },
     {
-      "id": "2508.16279",
-      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
-      "authors": "Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Driven by rapid advancements of Large Language Models (LLMs), agents are\nempowered to combine intrinsic knowledge with dynamic tool use, greatly\nenhancing their capacity to address real-world tasks. In line with such an\nevolution, AgentScope introduces major improvements in a new version (1.0),\ntowards comprehensively supporting flexible and efficient tool-based\nagent-environment interactions for building agentic applications. Specifically,\nwe abstract foundational components essential for agentic applications and\nprovide unified interfaces and extensible modules, enabling developers to\neasily leverage the latest progress, such as new models and MCPs. Furthermore,\nwe ground agent behaviors in the ReAct paradigm and offer advanced agent-level\ninfrastructure based on a systematic asynchronous design, which enriches both\nhuman-agent and agent-agent interaction patterns while improving execution\nefficiency. Building on this foundation, we integrate several built-in agents\ntailored to specific practical scenarios. AgentScope also includes robust\nengineering support for developer-friendly experiences. We provide a scalable\nevaluation module with a visual studio interface, making the development of\nlong-trajectory agentic applications more manageable and easier to trace. In\naddition, AgentScope offers a runtime sandbox to ensure safe agent execution\nand facilitates rapid deployment in production environments. With these\nenhancements, AgentScope provides a practical foundation for building scalable,\nadaptive, and effective agentic applications.",
-      "ai_summary": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
-      "hf_url": "https://huggingface.co/papers/2508.16279",
-      "arxiv_url": "https://arxiv.org/abs/2508.16279",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.16279.png",
-      "upvotes": 68,
-      "num_comments": 4,
-      "published_at": "2025-08-22T06:35:56.000Z",
-      "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 30224,
-      "project_page": null
+      "id": "2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "authors": "Zhifei Xie, Jiaqi Lang, Ze An et al. (10 authors)",
+      "organization_name": "nanyang-technological-university-singapore",
+      "organization_fullname": "Nanyang Technological University Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/637146c5afbe42caa5a75e1b/sZyHSA1AQaAS4nrGan682.png",
+      "summary": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain, an emotional right brain, and streaming memory I/O mechanisms. We further build a complete pipeline for memory-aware SLM training, long-horizon evaluation, and decoupled deployment with interchangeable memory backends. Experiments and real-world deployment show three advantages: i) Accuracy: under top-5 retrieval, the left brain outperforms classical systems such as Mem0 at top-200 by nearly 30 points; ii) Emotional & Personal: the right brain, with short- and long-horizon affective attribution and dual-node persona modeling, achieves state-of-the-art performance across three persona benchmarks and improves the aggregate score by 4.29 points over the previous best system; and iii) Real-Time & Cheap: VoiceMem completes retrieval in 134 ms, well within standard VAD latency, adding no extra conversational delay while maintaining high accuracy and low cost. These results show that VoiceMem provides a practical memory foundation for real-time, personalized, and emotionally aware speech interaction.",
+      "ai_summary": "VoiceMem introduces a dual-brain streaming memory architecture for speech language models that improves retrieval accuracy, emotional personalization, and real-time efficiency.",
+      "hf_url": "https://huggingface.co/papers/2608.26005",
+      "arxiv_url": "https://arxiv.org/abs/2608.26005",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.26005.png",
+      "upvotes": 172,
+      "num_comments": 2,
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "github_repo": "https://github.com/xzf-thu/VoiceMem",
+      "github_stars": 454,
+      "project_page": "https://xzf-thu.github.io/VoiceMem/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-01T01:46:11.467272+00:00"
+  "fetched_at": "2026-09-01T07:22:20.351758+00:00"
 }

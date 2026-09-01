@@ -9,70 +9,20 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
-      "pub_date": 1788148820.0,
+      "pub_date": 1788148898.0,
       "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
     },
     {
-      "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
-      "pub_date": 1788143640.0,
-      "article_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
-      "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
-    },
-    {
-      "headline": "Inside Meta\u2019s Push to Put Robots to Work in Data Centers",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5",
-      "pub_date": 1787914560.0,
-      "article_url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
-      "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
-    },
-    {
-      "headline": "Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMWXZhRkN1ZFVVSXZLZmNzQXZxc0tvZWoyenlrU19NMWtHRzFIQkVYR1dTbFdGbmczZ0tnTFJ6TW9yQnEzRmhQbWRieFZ4NTd1ZWdCOEhtWTBGWjRDR3IxblpPdFdjUWM2MjJVUXNZc0QwM2dIa2JCRGhQZUM2N1NTWHFmZWhiM05vd1I3Y2NDMmJGRGd4ZThtWW9COC1faXQzcjlhb2tQc2RqRzBfZnhGRV9pclFoU2N6Ymp2Wnl3Zw?oc=5",
-      "pub_date": 1788184860.0,
-      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building",
-      "image": "https://tii.imgix.net/production/articles/17746/7a23cbd0-865b-4638-82aa-f1b98aebfcc4-lOC8zX.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "For all the talk of robots that look like humans, the next robots to move into people\u2019s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ..."
-    },
-    {
-      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
-      "pub_date": 1788149460.0,
-      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "pub_date": 1788015600.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
-      "pub_date": 1788177720.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
-      "image": null,
-      "description": null
+      "headline": "Skild AI unveils S1 flagship robot foundation model",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem5reFYtX2ZaOEFvWUxUeW5HRkhZeGxnLWo2dUgxSm5yektocFlGd0Q2enE2S2RCUnlGVFF4SnRBR1h3THFJbTMyRVZqZDM0Z01ZUDNERFBvWWRTZXU1Uzk0QmJRREhBZ3k0VDY2TXRndzJ3TDVoZmh4NjZqbkZzNVpqYWsyNFQ5ZWFn?oc=5",
+      "pub_date": 1788214126.0,
+      "article_url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/skildAI-featured.jpg",
+      "description": "Skild AI said its robot foundation model S1 enables robots to learn new tasks just by seeing a video of it being performed."
     },
     {
       "headline": "As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production",
@@ -85,26 +35,76 @@
       "description": "Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia\u2019s military within weeks, Belgrade claims."
     },
     {
-      "headline": "China\u2019s robots race ahead",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
-      "pub_date": 1788091200.0,
-      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
-      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
+      "headline": "These Ex-DJI Engineers Have Designed the World\u2019s First Robotic Extreme Zoom Camera",
+      "source": "No Film School",
+      "source_url": "https://nofilmschool.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGd0l2Q1JDOHMzRUxqQkpRY1ctdllWWUlFVXBMUUVfMy0wVDZwc01EZTlVYWxJdWNYWVRKdVdpOHlVaFhydkFoaGlIeTY5MEJxVHhUcVlweGNzRjJPQlRHNEo3S0pDWFFHNFZlbEVB?oc=5",
+      "pub_date": 1788206882.0,
+      "article_url": "https://nofilmschool.com/rocxzoom-robotic-extreme-zoom-camera",
+      "image": "https://nofilmschool.com/media-library/image.jpg?id=67701950&width=1200&height=600&coordinates=0%2C19%2C0%2C20",
+      "description": "Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features."
     },
     {
-      "headline": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVhzYWFIQUg2N21WTnFwdmxsc3BjcWphZjdQYWZ0NFB0NWVsT0l3Snk1QUQwSXZVZDlBdGNzbkJPRFdFZFJGSFJFVTdOV2MyV3FQT0Ntdlg5MnA2bFJVSkhURjlsczNuMGR0SWZVRVpiaURWR1hNYUQyYlFSZE9YM0JDNkdfYTR4cXBseGU2QVVaZTItcU1JS1pOWndtTlJUaUdjVFdVRXJULUo0?oc=5",
-      "pub_date": 1788086419.0,
-      "article_url": "https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108223825-17628031882025-11-10t192658z_1221773642_rc2qthabok7h_rtrmadp_0_usa-stocks.jpeg?v=1762803208&w=1920&h=1080",
-      "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
+      "headline": "\ud83c\udfa5 TRIC Robotics scales to 1,500 strawberry acres with 15-robot fleet",
+      "source": "AgFunderNews",
+      "source_url": "https://agfundernews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVV6T01HeEI0Ql9vdGg5UndCcG1nd1VZOUFGR0VQaHVuaGRhb09NWXpmQnhtNG9keTFNTy1YOURBZ0VZTzU0eHloLW54am1yV0U5SnkwSWZGdlFLenlQdmNkN3NDZV9jT2lmTFl0UDgtZHc4Qk5pU01pUXBmS1hiU1Q0RDdjbkRBSDFwdFpROERKNkZrMXFyYUp3S19ybzUxSE1yTWln?oc=5",
+      "pub_date": 1788201541.0,
+      "article_url": "https://agfundernews.com/%F0%9F%8E%A5-tric-robotics-scales-to-1500-strawberry-acres-with-15-robot-fleet",
+      "image": "https://agfundernews.com/wp-content/uploads/2026/08/Adam-Stager-founder-CEO-TRIC-Robotics-Image-credit-Elaine-Watson.jpg",
+      "description": "TRIC Robotics deploys a fleet of autonomous robots that apply UV-C light to tackle mites, mildew, and mold, coupled with bug vacuums."
+    },
+    {
+      "headline": "Perceptron AI Launches Isaac 0.5, a Frontier Open-Weight Robotics Model",
+      "source": "HPCwire",
+      "source_url": "https://www.hpcwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHdIRGtHdl9rSGhQX0ltM24zc3A4YS1XNEQ4OE9lakZSeDBPa2dXQURwdW42VUJrbDFENlJqUDN4YW9GN1o4OTlXN3g3LXAzbG1kSTdCM3NwU0JvcGlLOFdVUXhUVDhYZm9naDJ2WHRsT2g1Vm0tbTN4Q285bm1TdjZJVTZxQjlpNWVGTFl5NklCTFYxOHFSOV9nTUlEbXpLdnpFLVYxZDdoY0ZMT3hubnNLZw?oc=5",
+      "pub_date": 1788204980.0,
+      "article_url": "https://www.hpcwire.com/aiwire/2026/08/31/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model/",
+      "image": "https://www.hpcwire.com/aiwire/wp-content/uploads/sites/3/2026/08/Perceptron-AI.jpg",
+      "description": "Perceptron\u2019s Isaac 0.5 outperforms leading open robot models, including Physical Intelligence\u2019s \u03c00.5 and NVIDIA\u2019s GR00T N1.7 BELLEVUE, Wash., Aug. 31, 2026 \u2014\u00a0Perceptron AI has launched Isaac 0.5, a 36-billion-parameter open-weight embodied foundation model that combines video understanding, embodied reasoning and robot control, the first open model at the frontier of all three. Perceptron is working [\u2026]"
+    },
+    {
+      "headline": "9 Northwest Indiana school districts win robotics grants to expand STEM opportunities",
+      "source": "nwitimes.com",
+      "source_url": "https://nwitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2F2aGloZk9KTU96OVNEdHVLN21XcGU4QjZ0cmtJTG9RN3diRTU3a29aeFVVUFZ5YS1URG0zQVZaSnBZNURCZW1vaFFzYzI2U1BBRHhTNTJDZXEteFhLU1AtWVFVMDZxVVJKT1MtcFltck9sbEc3c2tFdFg0bDVISlNOZ2dyeEVFQVlNM2NHcGhVUnJ6S2c?oc=5",
+      "pub_date": 1788215400.0,
+      "article_url": "https://nwitimes.com/news/local/education/article_d26c571e-0242-46f5-9b38-02b10d8f2f32.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S.",
+      "source": "The National Law Review",
+      "source_url": "https://natlawreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0stWFNaRFJER2NqMDJVaWcxbjJZcjdlVjJzX2pOc3Bkb3RScldubUtTS3lkb2EtWXpOV2JYM3NOemVCZkF2WlQxZ2taSTBURTVYYl9QWkIzSUhPMWxMNl9xQVRRSXo5OXVYOG1IN0FTaGhXN1lGTl9MNWRwU0R0dnNLejdnX2FTWndmb1hlcjlmTjdmSnUxM2VEUTV0dDctY2N6LTlScHhDazdubnhueGpWSQ?oc=5",
+      "pub_date": 1788189628.0,
+      "article_url": "https://natlawreview.com/press-releases/bigwave-robotics-joins-forces-leading-robotics-automation-suppliers-scale",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
+      "pub_date": 1788143640.0,
+      "article_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
+      "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
+    },
+    {
+      "headline": "Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMWXZhRkN1ZFVVSXZLZmNzQXZxc0tvZWoyenlrU19NMWtHRzFIQkVYR1dTbFdGbmczZ0tnTFJ6TW9yQnEzRmhQbWRieFZ4NTd1ZWdCOEhtWTBGWjRDR3IxblpPdFdjUWM2MjJVUXNZc0QwM2dIa2JCRGhQZUM2N1NTWHFmZWhiM05vd1I3Y2NDMmJGRGd4ZThtWW9COC1faXQzcjlhb2tQc2RqRzBfZnhGRV9pclFoU2N6Ymp2Wnl3Zw?oc=5",
+      "pub_date": 1788184974.0,
+      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building",
+      "image": "https://tii.imgix.net/production/articles/17746/7a23cbd0-865b-4638-82aa-f1b98aebfcc4-lOC8zX.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "description": "For all the talk of robots that look like humans, the next robots to move into people\u2019s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T01:46:22.805040+00:00"
+  "fetched_at": "2026-09-01T07:22:40.338616+00:00"
 }

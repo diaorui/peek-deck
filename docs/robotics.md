@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-01T01:46:31.259328+00:00'
+updated: '2026-09-01T07:22:41.898953+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 01, 2026 at 01:46 UTC  
+**Last Updated:** September 01, 2026 at 07:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -90,7 +90,7 @@ From Thomas Wolf on 𝕏: https://x.com/Thom_Wolf/status/2093295950605279501
 
 Me and my 2 cs roomates at GT want to build a cool, practical robot for our apartment. We came together and thought of a project where we turn our trash can into a mobile unit, able to navigate our apartment / hallway as a first step without bumping into obstacles, maybe having my friend create some app to where we can "summon" the trash can when needed and hard code its default positon. The ultimate goal would to be having it leave our apartment and enter the trash room across the hall and dump its contents out to then return to out room. I am unsure if this is feasible as there are so many challenges: how will it open a door, how will it raise itself to empty, how will it even be able to generate the force to lift itself / open a door without tipping. Any tips / similar projects to mirror would be greatly helpful.
 
-2d ago
+3d ago
 
 ---
 
@@ -118,49 +118,15 @@ I have been slowly building my InMoov based humanoid robot for the past two year
 
 Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages
 
-Financial Times • 21h ago
+Financial Times • 1d ago
 
 ---
 
-**[The US is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
+**[Skild AI unveils S1 flagship robot foundation model](https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/)**
 
-The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+Skild AI said its robot foundation model S1 enables robots to learn new tasks just by seeing a video of it being performed.
 
-TechCrunch • 23h ago
-
----
-
-**[Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)**
-
-The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.
-
-WIRED • 3d ago
-
----
-
-**[Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building](https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building)**
-
-For all the talk of robots that look like humans, the next robots to move into people’s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ...
-
-The Information • 11h ago
-
----
-
-**[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
-
-AP News • 21h ago
-
----
-
-**[Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.](https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169)**
-
-WSJ • 2d ago
-
----
-
-**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
-
-OregonLive.com • 13h ago
+The Robot Report • 9h ago
 
 ---
 
@@ -168,23 +134,59 @@ OregonLive.com • 13h ago
 
 Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
 
-Radio Free Europe/Radio Liberty • 11h ago
+Radio Free Europe/Radio Liberty • 17h ago
 
 ---
 
-**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+**[These Ex-DJI Engineers Have Designed the World’s First Robotic Extreme Zoom Camera](https://nofilmschool.com/rocxzoom-robotic-extreme-zoom-camera)**
 
-Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features.
 
-The Verge • 1d ago
+No Film School • 11h ago
 
 ---
 
-**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+**[🎥 TRIC Robotics scales to 1,500 strawberry acres with 15-robot fleet](https://agfundernews.com/%F0%9F%8E%A5-tric-robotics-scales-to-1500-strawberry-acres-with-15-robot-fleet)**
 
-As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
+TRIC Robotics deploys a fleet of autonomous robots that apply UV-C light to tackle mites, mildew, and mold, coupled with bug vacuums.
 
-CNBC • 1d ago
+AgFunderNews • 12h ago
+
+---
+
+**[Perceptron AI Launches Isaac 0.5, a Frontier Open-Weight Robotics Model](https://www.hpcwire.com/aiwire/2026/08/31/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model/)**
+
+Perceptron’s Isaac 0.5 outperforms leading open robot models, including Physical Intelligence’s π0.5 and NVIDIA’s GR00T N1.7 BELLEVUE, Wash., Aug. 31, 2026 — Perceptron AI has launched Isaac 0.5, a 36-billion-parameter open-weight embodied foundation model that combines video understanding, embodied reasoning and robot control, the first open model at the frontier of all three. Perceptron is working […]
+
+HPCwire • 11h ago
+
+---
+
+**[9 Northwest Indiana school districts win robotics grants to expand STEM opportunities](https://nwitimes.com/news/local/education/article_d26c571e-0242-46f5-9b38-02b10d8f2f32.html)**
+
+nwitimes.com • 8h ago
+
+---
+
+**[Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S.](https://natlawreview.com/press-releases/bigwave-robotics-joins-forces-leading-robotics-automation-suppliers-scale)**
+
+The National Law Review • 16h ago
+
+---
+
+**[The US is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)**
+
+The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+
+TechCrunch • 1d ago
+
+---
+
+**[Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building](https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building)**
+
+For all the talk of robots that look like humans, the next robots to move into people’s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ...
+
+The Information • 17h ago
 
 ---
 
@@ -192,13 +194,23 @@ CNBC • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[ARMY OF ROBOTS: China BREAKTHROUGH raises alarm](https://www.youtube.com/watch?v=iSKRTlBOZwE)**
+
+RoboStore CEO Ted Haggerty discusses China's advances in humanoid robots, America's position in the global robotics race and ...
+
+📺 Fox Business Clips
+
+👁️ 190K • 👍 2K • 💬 1K • ⏱️ 4:19 • 6d ago
+
+---
+
 **[Biggest fails from the 2026 World Humanoid Robot Games in China](https://www.youtube.com/watch?v=XgnBN8BLc-o)**
 
 Biggest fails from the 2026 World Humanoid Robot Games in China #news #robots #china #innovation #technology #games The ...
 
 📺 news.com.au
 
-👁️ 671K • 👍 3K • 💬 964 • ⏱️ 4:02 • 6d ago
+👁️ 678K • 👍 3K • 💬 969 • ⏱️ 4:02 • 6d ago
 
 ---
 
@@ -208,7 +220,7 @@ China showcased its robotics at this year's World Humanoid Robot Games in Beijin
 
 📺 CrowderBits
 
-👁️ 61K • 👍 3K • 💬 325 • ⏱️ 4:11 • 6d ago
+👁️ 61K • 👍 3K • 💬 326 • ⏱️ 4:11 • 6d ago
 
 ---
 
@@ -218,47 +230,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 99K • 👍 733 • 💬 77 • ⏱️ 7:51 • 4d ago
-
----
-
-**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
-
-8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
-
-📺 XRoboHub
-
-👁️ 562K • 👍 2K • 💬 245 • ⏱️ 0:16 • 5d ago
-
----
-
-**[Inside China&#39;s robot revolution | BBC News](https://www.youtube.com/watch?v=7Z9uu3xRDPU)**
-
-There are more than two million robots working in China's factories - which is more than anywhere else in the world - and they are ...
-
-📺 BBC News
-
-👁️ 301K • 👍 2K • 💬 827 • ⏱️ 6:19 • 6d ago
-
----
-
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
-
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
-
-📺 China.org.cn
-
-👁️ 154K • 👍 826 • 💬 46 • ⏱️ 0:17 • 4d ago
-
----
-
-**[Highlights from China&#39;s World Humanoid Games, and what it means for the future](https://www.youtube.com/watch?v=CFYtlCs4RhA)**
-
-China's World Humanoid Robot Games is a technological showcase, but also a possible glimpse into the future of robotics.
-
-📺 CBS Mornings
-
-👁️ 62K • 👍 404 • 💬 166 • ⏱️ 3:54 • 6d ago
+👁️ 101K • 👍 740 • 💬 77 • ⏱️ 7:51 • 4d ago
 
 ---
 
@@ -272,13 +244,43 @@ The second edition of the World Humanoid Robot Games is underway in Beijing, Chi
 
 ---
 
-**[Robots Are Getting Too Fast... #trending #shorts #robotics](https://www.youtube.com/watch?v=jFbuRQB2q7I)**
+**[Thrills and spills at World Humanoid Robot Games](https://www.youtube.com/watch?v=QpL16olNJvc)**
 
-A humanoid robot has reportedly completed 100m in 9.39 seconds, challenging Usain Bolt's iconic timing. watch how the robot ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube A robot that burst into flames at the World ...
 
-📺 Sagar Arora
+📺 South China Morning Post
 
-👁️ 994 • 👍 30 • ⏱️ 0:36 • 5h ago
+👁️ 711K • 👍 2K • 💬 393 • ⏱️ 2:14 • 6d ago
+
+---
+
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+
+📺 China.org.cn
+
+👁️ 156K • 👍 837 • 💬 46 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[China’s New Robots at WRC 2026 Look 99% Like Real Humans](https://www.youtube.com/watch?v=vmpAjwsjOFw)**
+
+China's new robots showcased at WRC 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly realistic ...
+
+📺 Carros Show
+
+👁️ 129K • 👍 725 • 💬 88 • ⏱️ 18:09 • 6d ago
+
+---
+
+**[Highlights from China&#39;s World Humanoid Games, and what it means for the future](https://www.youtube.com/watch?v=CFYtlCs4RhA)**
+
+China's World Humanoid Robot Games is a technological showcase, but also a possible glimpse into the future of robotics.
+
+📺 CBS Mornings
+
+👁️ 62K • 👍 404 • 💬 167 • ⏱️ 3:54 • 6d ago
 
 ---
 
@@ -288,7 +290,7 @@ From total fails and viral street moments to pure attitude, these humanoid robot
 
 📺 fastwit
 
-👁️ 399K • 👍 5K • 💬 9 • ⏱️ 1:01 • 2d ago
+👁️ 412K • 👍 5K • 💬 9 • ⏱️ 1:01 • 2d ago
 
 ---
 
