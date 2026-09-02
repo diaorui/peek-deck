@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-02T05:29:52.137727+00:00'
+updated: '2026-09-02T09:51:46.833199+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 02, 2026 at 05:29 UTC  
+**Last Updated:** September 02, 2026 at 09:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Maybe I'm getting old, but AI has probably been more useful to me fixing stuff around the house than it has been writing emails or any of the things people keep talking about. The other day I had a door hinge pulling out of the frame. I've always used the old toothpick trick because that's what my dad showed me years ago. AI suggested using gel super glue as well. Never crossed my mind. Took five minutes and it's probably the best that hinge has ever been. Same thing with cars. Same thing with plumbing. Half the time I don't actually need AI to tell me what to do, I just need someone or something to point me in roughly the right direction so I stop overthinking it. Now before anyone says I'm replacing YouTube with ChatGPT, no. AI gets plenty wrong. It once wanted me to spend half an afternoon repairing a cheap kitchen appliance that costs less than a decent takeaway to replace. It has absolutely no concept of when something isn't worth fixing. That's probably the bit people miss. AI isn't replacing experience. It's replacing that feeling of staring at something broken and thinking, "I've got absolutely no idea where to even start." Twenty years ago I'd have been digging through random forums hoping someone had the same problem. Today I ask AI, sanity-check the answer, and get on with it. Curious if anyone else has found this. Has AI actually changed how you approach DIY or fixing things, or am I just becoming the bloke who asks a chatbot what I used to ask my neighbour over the fence?
 
-9h ago
+13h ago
+
+---
+
+**[Last quarter has been insane. Amazing times to be alive.](https://www.reddit.com/r/artificial/comments/1w5421z/last_quarter_has_been_insane_amazing_times_to_be/)**
+
+I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now.
+
+1h ago
 
 ---
 
@@ -49,7 +57,7 @@ Maybe I'm getting old, but AI has probably been more useful to me fixing stuff a
 
 AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models
 
-🔗 [the Guardian](https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude) • 20h ago
 
 ---
 
@@ -57,27 +65,13 @@ AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to
 
 Astra's COT is Supposedly Abstracted or uninterpretable using looped transformers, im guessing for the sake of Efficiency. What are your opinions? Is Singularity but also the Risks becoming closer and closer?
 
-36m ago
+4h ago
 
 ---
 
 **[World Labs debuts Atlas, an omni world model simulating space, time, and physical interaction](https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/)**
 
 World Labs just announced Atlas, an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treating video as isolated 2D pixel grids, Atlas uses an autoregressive diffusion transformer to ground every input in a shared 3D "spatial context." The space-time simulation features demonstrate how this moves AI past basic generation into true physical simulation: Democratized "Bullet Time": By processing footage from just 3 to 5 consumer mobile phones, Atlas can reconstruct dynamic events, freeze time, and simulate fluid camera trajectories through impossible angles without specialized capture rigs. Scalable Real-to-Sim: Beyond scanning static geometry, Atlas simulates dynamic robot navigation and manipulation. As an agent moves, the model synthesizes the exact RGB and metric depth streams its onboard sensors would capture along that path. Interactive Dynamics: Casual real-world video can be turned into simulations that model rigid, articulated, and deformable object physics, allowing researchers to alter object placement, lighting, and camera paths to generate synthetic training data. Native 3D Representations: It directly outputs point clouds and 3D Gaussian splats alongside novel video views, outperforming dedicated 3D reconstruction baselines across standard benchmarks like DTU, ETH3D, and ScanNet.
-
-9h ago
-
----
-
-**[Meet the MK Robot. Here is the hardware and AI roadmap I’m currently executing to take this physical build from a functional frame to a fully autonomous, interactive agent: Core Compute: Upgrading to a Raspberry Pi 5 (16 GB RAM) for edge processing](https://www.reddit.com/r/artificial/comments/1w51715/meet_the_mk_robot_here_is_the_hardware_and_ai/)**
-
-2m ago
-
----
-
-**[Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast](https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/)**
-
-The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press the mic mid-episode and ask whatever you're wondering ("how big were these ships actually?") — the hosts answer and weave it back into the story. Happy to answer anything about how it's built and curious to know what the community thinks!
 
 14h ago
 
@@ -91,21 +85,31 @@ Two separate incidents this summer, and Anthropic's postmortem is unusually spec
 
 ---
 
+**[Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks](https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/)**
+
+15h ago
+
+---
+
+**[Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast](https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/)**
+
+The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press the mic mid-episode and ask whatever you're wondering ("how big were these ships actually?") — the hosts answer and weave it back into the story. Happy to answer anything about how it's built and curious to know what the community thinks!
+
+19h ago
+
+---
+
 **[Working from home in 2026](https://www.reddit.com/r/artificial/comments/1w3fotb/working_from_home_in_2026/)**
 
 1d ago
 
 ---
 
-**[Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks](https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/)**
+**[Anyone else using AI for the boring parts of their job?](https://www.reddit.com/r/artificial/comments/1w4c0le/anyone_else_using_ai_for_the_boring_parts_of/)**
 
-11h ago
+most of the AI discourse i see is about AGI timelines or image generators or whatever the latest model benchmark is. but the actual daytoday stuff where it's genuinely useful gets almost no airtime. i work in office admin and i've been slowly plugging AI into the tedious parts of my job. drafting templated emails that don't sound like a robot wrote them, summarizing long meeting notes, cleaning up messy spreadsheet data before i import it anywhere. nothing flashy. it just saves me maybe an hour a day which adds up. what gets me is that the costeffectiveness debate people keep having around AI replacing workers kind of misses this middle layer. it's not replacing me, it's absorbing the parts of my job i'd happily give away. the judgment calls, the context, the weird edge cases, those still need a human. at least for now. curious if others in more adminheavy or operational roles are actually finding it useful day to day or if it's mostly been hype in practice. and not the chatgptforemailsisamazing hot take, i mean actual workflow changes that stuck after the novelty wore off.
 
----
-
-**[Let me ask you something?](https://www.reddit.com/r/artificial/comments/1w4purl/let_me_ask_you_something/)**
-
-8h ago
+20h ago
 
 ---
 
@@ -115,49 +119,67 @@ Two separate incidents this summer, and Anthropic's postmortem is unusually spec
 
 **[Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability](https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052)**
 
-WSJ • 8h ago
+WSJ • 12h ago
 
 ---
 
-**[AI chatbot helps teach online-only psychology classes at Macquarie University](https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials)**
+**[Architect of British government’s AI strategy joins Anthropic](https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic)**
 
-University’s move is part of trend that critics within academia say will lead to further staff cuts and the loss of ‘everything that makes the job worth doing’
+Matt Clifford, who drafted AI action plan and advised Starmer and Sunak, hired for senior role at US firm
 
 The Guardian • 2h ago
 
 ---
 
-**[Data Center Spending to Reach $31.6 Trillion by 2050 on AI Boom](https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom)**
+**[Did OpenAI’s rogue agents form a ‘civilization’? The AI industry can’t agree](https://www.nbcnews.com/tech/tech-news/openai-hugging-face-hack-investigation-findings-divide-industry-rcna595383)**
 
-Bloomberg.com • 1h ago
+Examinations of an AI-powered cyberattack reveal AI systems focused on cheating and misleading human observers.
 
----
-
-**[Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron](https://www.reuters.com/commentary/breakingviews/financiers-are-set-turn-nvidia-into-an-ai-baron-2026-09-02/)**
-
-Reuters • 29m ago
+NBC News • 51m ago
 
 ---
 
-**[Letters: With AI, how much more intrusion are we supposed to tolerate?](https://www.nola.com/opinions/letters/letters-ai-revolution/article_f283f1ce-596e-48ff-a91c-ae74d265bc8e.html)**
+**[What Dell and Nvidia just proved to the AI stock haters](https://finance.yahoo.com/markets/stocks/article/what-dell-and-nvidia-just-proved-to-the-ai-stock-haters-090225103.html)**
 
-​AI is something I don't know about. I do know how to live. At 81 years old, there are too many lessons I've learned the hard way to be excited
+Big quarters, for two big heavyweights.
 
-NOLA.com • 14m ago
-
----
-
-**[Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics](https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html)**
-
-The New York Times • 4h ago
+Yahoo Finance • 49m ago
 
 ---
 
-**[AI token prices are hitting new record lows](https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html)**
+**[After the Earthquake, They Used A.I. to Mobilize Aid](https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html)**
 
-A closely followed measure of artificial intelligence token prices touched fresh lows.
+The New York Times • 49m ago
 
-CNBC • 13h ago
+---
+
+**[:Claude: Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)**
+
+Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.
+
+Anthropic • 15h ago
+
+---
+
+**[Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI](https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html)**
+
+Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn’t equipped for attacks.
+
+CNBC • 10h ago
+
+---
+
+**[Three Mount Shasta climbers rescued after relying on AI to plan climb](https://krcrtv.com/news/local/three-mount-shasta-climbers-rescued-after-relying-on-ai-to-plan-climb)**
+
+Three novice climbers were rescued from Mount Shasta on Sunday after becoming lost, running low on supplies and spending an unplanned night in Mud Creek Canyon,
+
+KRCR • 9h ago
+
+---
+
+**[AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value](https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value)**
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -165,23 +187,7 @@ CNBC • 13h ago
 
 Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.
 
-blog.google • 13h ago
-
----
-
-**[AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate)**
-
-Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many.
-
-npr.org • 20h ago
-
----
-
-**[Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants](https://www.washingtonpost.com/health/2026/09/01/judge-rebukes-hhs-over-ai-use-cutting-teen-pregnancy-prevention-grants/)**
-
-He wrote that grant solicitations for changes to funding reference public health studies that appear not to exist or do not support what they are cited for.
-
-The Washington Post • 6h ago
+blog.google • 17h ago
 
 ---
 
@@ -191,7 +197,7 @@ The Washington Post • 6h ago
 
 **[How accurate have Ed Zitron's AI skeptic predictions been?](https://news.ycombinator.com/item?id=49526069)**
 
-⬆️ 561 • 💬 643 • 10h ago • [danluu.com](https://danluu.com/zitron/)
+⬆️ 709 • 💬 765 • 15h ago • [danluu.com](https://danluu.com/zitron/)
 
 ---
 
@@ -211,27 +217,11 @@ A weekly ritual for software teams to unplug from AI coding assistants, prevent 
 
 ---
 
-**[Smartphone LED detects hidden cameras with AI](https://news.ycombinator.com/item?id=49496292)**
-
-Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device
-
-⬆️ 273 • 💬 81 • 2d ago • [The Chosun Daily](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/)
-
----
-
 **[Dwarf Fortress' creator says the industry's in shambles over AI](https://news.ycombinator.com/item?id=49523720)**
 
 "They're trying to have a CEO press a button that makes a game."
 
-⬆️ 214 • 💬 219 • 13h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
-
----
-
-**[EFF to Courts: Don't Rewrite Copyright over AI Hype](https://news.ycombinator.com/item?id=49521315)**
-
-New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.
-
-⬆️ 161 • 💬 185 • 16h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+⬆️ 225 • 💬 227 • 17h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
 
 ---
 
@@ -239,7 +229,15 @@ New markets, new ideas, and new creators are actually what copyright is supposed
 
 If AI is so great, why are the only new tech giants GenAI companies?
 
-⬆️ 161 • 💬 155 • 23h ago • [hermit-tech.com](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+⬆️ 173 • 💬 161 • 1d ago • [hermit-tech.com](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+
+---
+
+**[EFF to Courts: Don't Rewrite Copyright over AI Hype](https://news.ycombinator.com/item?id=49521315)**
+
+New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.
+
+⬆️ 162 • 💬 185 • 20h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
 ---
 
@@ -247,15 +245,7 @@ If AI is so great, why are the only new tech giants GenAI companies?
 
 Today, tech folk are scrambling to change their workflows to meet newly inflated 5X productivity quotas, while getting pummeled under the co...
 
-⬆️ 146 • 💬 204 • 1d ago • [muratbuffalo.blogspot.com](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
-
----
-
-**[Saab has unveiled its A3 collaborative combat aircraft concept](https://news.ycombinator.com/item?id=49522374)**
-
-Saab is challenging the low-cost, attritable model adopted by Sweden’s allies with a supersonic, survivable complement to Gripen.
-
-⬆️ 93 • 💬 114 • 15h ago • [aviationweek.com](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+⬆️ 146 • 💬 205 • 1d ago • [muratbuffalo.blogspot.com](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
 
 ---
 
@@ -263,7 +253,23 @@ Saab is challenging the low-cost, attritable model adopted by Sweden’s allies 
 
 A Safari extension that pulls videos YouTube labels “Made with AI” out of your feed.
 
-⬆️ 92 • 💬 32 • 7h ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
+⬆️ 143 • 💬 63 • 11h ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
+
+---
+
+**[Saab has unveiled its A3 collaborative combat aircraft concept](https://news.ycombinator.com/item?id=49522374)**
+
+Saab is challenging the low-cost, attritable model adopted by Sweden’s allies with a supersonic, survivable complement to Gripen.
+
+⬆️ 96 • 💬 119 • 19h ago • [aviationweek.com](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+
+---
+
+**[Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://news.ycombinator.com/item?id=49506655)**
+
+Meta's Summer Yue says she ran OpenClaw on her inbox, but its size 'triggered compaction [and] lost my original instruction' to get her permission before deleting.
+
+⬆️ 60 • 💬 61 • 2d ago • [PCMag Australia](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
 
 ---
 
@@ -271,33 +277,33 @@ A Safari extension that pulls videos YouTube labels “Made with AI” out of yo
 
 ## YouTube Videos: "ai"
 
-**[‘IT’S HAPPENING’: AI Is COMPLETELY IGNORING Human Commands | The Kyle Kulinski Show](https://www.youtube.com/watch?v=txEmFM5cg2Q)**
-
-Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
-
-📺 Secular Talk
-
-👁️ 78K • 👍 5K • 💬 1K • ⏱️ 9:18 • 6h ago
-
----
-
 **[Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI](https://www.youtube.com/watch?v=8Kf1Q0yOhSo)**
 
 Read More: https://time.com/article/2026/08/26/openai-sam-altman-interview/ Inside OpenAI's San Francisco headquarters, Sam ...
 
 📺 TIME
 
-👁️ 43K • 👍 561 • 💬 199 • ⏱️ 14:13 • 13h ago
+👁️ 55K • 👍 654 • 💬 225 • ⏱️ 14:13 • 17h ago
 
 ---
 
-**[&quot;AI Will Crush All Humans&quot;: Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26](https://www.youtube.com/watch?v=H0Ap25IOWr8)**
+**[AI Is Taking Over Physics and Nobody Talks About It](https://www.youtube.com/watch?v=utu5YACZbPE)**
 
-"AI Will Crush All Humans": Elon Musk on Extreme Advancements in AI at G20 Summit. September 1, 2026 Join this channel to ...
+Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: ...
 
-📺 Right Side Broadcasting Network
+📺 Sabine Hossenfelder
 
-👁️ 133K • 👍 2K • 💬 732 • ⏱️ 8:45 • 15h ago
+👁️ 364K • 👍 7K • 💬 2K • ⏱️ 7:02 • 18h ago
+
+---
+
+**[Dead Sea Scrolls Just Decoded by an AI… And It&#39;s Far Worse Than We Thought](https://www.youtube.com/watch?v=ETnCH_zAfy8)**
+
+Dead Sea Scrolls Just Decoded by an AI… And It's Far Worse Than We Thought In 2021, archaeologists rappelled 80 meters into ...
+
+📺 Ambrose Discovery
+
+👁️ 1.0M • 👍 17K • 💬 1K • ⏱️ 25:29 • 2d ago
 
 ---
 
@@ -307,7 +313,27 @@ Krystal and Saagar discuss tech leaders freaking over an ai hacking spree. Sign 
 
 📺 Breaking Points
 
-👁️ 410K • 👍 6K • 💬 2K • ⏱️ 21:29 • 1d ago
+👁️ 416K • 👍 7K • 💬 2K • ⏱️ 21:29 • 1d ago
+
+---
+
+**[Twitch caught hiding AI Training and their response is unbelievable...](https://www.youtube.com/watch?v=36_stE299lU)**
+
+Twitch has been caught burying its latest update which include an AUTOMATIC OPT IN for training AI on YOUR content, including ...
+
+📺 JayzTwoCents
+
+👁️ 160K • 👍 3K • 💬 524 • ⏱️ 31:17 • 1d ago
+
+---
+
+**[&quot;AI Will Crush All Humans&quot;: Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26](https://www.youtube.com/watch?v=H0Ap25IOWr8)**
+
+"AI Will Crush All Humans": Elon Musk on Extreme Advancements in AI at G20 Summit. September 1, 2026 Join this channel to ...
+
+📺 Right Side Broadcasting Network
+
+👁️ 141K • 👍 2K • 💬 762 • ⏱️ 8:45 • 20h ago
 
 ---
 
@@ -317,37 +343,27 @@ Generative AI companies are trying to convince the world—and your boss—that 
 
 📺 Internet of Bugs
 
-👁️ 101K • 👍 4K • 💬 598 • ⏱️ 12:29 • 1d ago
+👁️ 104K • 👍 4K • 💬 611 • ⏱️ 12:29 • 1d ago
 
 ---
 
-**[Ai Ads Are Out Of Control](https://www.youtube.com/watch?v=3zG4-tRP0DE)**
+**[Why Gen Z Hates AI But Uses It The Most (ft. Bernie Sanders)](https://www.youtube.com/watch?v=NmHhXoTckcM)**
 
-watch on spotify: https://open.spotify.com/show/033ZigPYpADglFZvroqH5Y 2nd channel: ...
+Gen Z uses AI the most yet trusts it the least. We sat Bernie Sanders down with them for a messy debate that isn't happening in the ...
 
-📺 Luneist
+📺 More Perfect Union
 
-👁️ 5K • 👍 264 • 💬 100 • ⏱️ 14:44 • 5h ago
-
----
-
-**[AI Has Ruined the Internet](https://www.youtube.com/watch?v=JvTJTTUK8cg)**
-
-Get 20% off DeleteMe by going to https://joindeleteme.com/adam and use code adam to protect your privacy! -- Does the internet ...
-
-📺 Adam Conover
-
-👁️ 389K • 👍 13K • 💬 2K • ⏱️ 17:29 • 1d ago
+👁️ 784K • 👍 15K • 💬 2K • ⏱️ 22:59 • 2d ago
 
 ---
 
-**[Sam Altman was wrong about AI | Eli the Computer Guy](https://www.youtube.com/watch?v=--r6aWpwwH8)**
+**[Hayes on Trump&#39;s &#39;disturbing&#39; love for AI slop](https://www.youtube.com/watch?v=ycnoe2OchXE)**
 
-Sam Altman has backed himself into a corner.” Eli the Computer Guy joins The Tech Report's Isaac Pound to talk about how ...
+Chris Hayes on why Trump's AI slop problem goes beyond his own bizarre posts. MS NOW: My Source for News, Opinion, and the ...
 
-📺 The Tech Report
+📺 MS NOW
 
-👁️ 287K • 👍 3K • 💬 812 • ⏱️ 27:57 • 1d ago
+👁️ 12K • 👍 490 • 💬 28 • ⏱️ 1:57 • 12h ago
 
 ---
 
@@ -357,17 +373,7 @@ AI is being used to indulge the worst desires in our society. It's time for the 
 
 📺 Matt Walsh
 
-👁️ 224K • 👍 6K • 💬 1K • ⏱️ 35:25 • 1d ago
-
----
-
-**[Canada Is Hiding A MASSIVE AI Data Center Problem, And No One Is Prepared](https://www.youtube.com/watch?v=fywlR9yTWGQ)**
-
-A strange alliance is forming as conservative media figures in both the U.S. and Canada are now publicly supporting the mass ...
-
-📺 Redacted
-
-👁️ 117K • 👍 4K • 💬 472 • ⏱️ 38:41 • 2d ago
+👁️ 226K • 👍 6K • 💬 2K • ⏱️ 35:25 • 1d ago
 
 ---
 
@@ -383,7 +389,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 207,941 • ❤️ 4,660 • 6d ago
+⬇️ 207,941 • ❤️ 4,688 • 6d ago
 
 ---
 
@@ -395,7 +401,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 441,348 • ❤️ 1,895 • 1d ago
+⬇️ 441,348 • ❤️ 1,912 • 1d ago
 
 ---
 
@@ -407,7 +413,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 94,403 • ❤️ 1,474 • 1d ago
+⬇️ 94,403 • ❤️ 1,481 • 1d ago
 
 ---
 
@@ -419,7 +425,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 431,339 • ❤️ 680 • 20h ago
+⬇️ 431,339 • ❤️ 697 • 1d ago
 
 ---
 
@@ -431,7 +437,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 4,960,483 • ❤️ 13,600 • 18d ago
+⬇️ 4,960,483 • ❤️ 13,622 • 18d ago
 
 ---
 
@@ -443,7 +449,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 17,893 • ❤️ 459 • 20h ago
+⬇️ 17,893 • ❤️ 474 • 1d ago
 
 ---
 
@@ -455,19 +461,7 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 3,516 • ❤️ 387 • 4d ago
-
----
-
-**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.
-
-`27.3B`
-
-⬇️ 9,354,057 • ❤️ 3,346 • 12d ago
+⬇️ 3,516 • ❤️ 391 • 4d ago
 
 ---
 
@@ -479,7 +473,19 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,232,274 • ❤️ 2,480 • 23h ago
+⬇️ 1,232,274 • ❤️ 2,499 • 1d ago
+
+---
+
+**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.
+
+`27.3B`
+
+⬇️ 9,354,057 • ❤️ 3,359 • 12d ago
 
 ---
 
@@ -491,7 +497,7 @@ GLM-5.3-Flash is a natively multimodal LLM optimized for efficiency and capabili
 
 `text-generation` `320.8B`
 
-⬇️ 63,718 • ❤️ 327 • 3d ago
+⬇️ 63,718 • ❤️ 328 • 3d ago
 
 ---
 
@@ -547,7 +553,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 48 • 💬 2 • ⭐ 19,527 • 9d ago
+▲ 48 • 💬 2 • ⭐ 19,617 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -576,20 +582,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 39 • 💬 1 • ⭐ 28,761 • 35mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283)**
-
-*Apodex Team, B. An, B. Li et al. (71 authors)*
-
-🏢 Apodex
-
-Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
-
-▲ 205 • 💬 3 • ⭐ 1,355 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
 ---
 
@@ -635,6 +627,19 @@ Code-as-World represents physical environments as executable code to enable quan
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 85 • 💬 7 • ⭐ 85,892 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +650,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 19.9k • 🔱 2.3k • 12h ago
+⭐ 20.0k • 🔱 2.3k • 17h ago
 
 ---
 
@@ -655,7 +660,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 3.8k • 🔱 467 • 9h ago
+⭐ 3.8k • 🔱 470 • 13h ago
 
 ---
 
@@ -665,7 +670,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 420 • 12h ago
+⭐ 3.4k • 🔱 425 • 2m ago
 
 ---
 
@@ -695,7 +700,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 3.2k • 🔱 368 • 4d ago
+⭐ 3.2k • 🔱 395 • 5d ago
 
 ---
 
@@ -705,7 +710,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 3.0k • 🔱 184 • 3d ago
+⭐ 3.0k • 🔱 186 • 3d ago
 
 ---
 
@@ -715,7 +720,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.5k • 🔱 325 • 6d ago
+⭐ 2.5k • 🔱 327 • 6d ago
 
 ---
 
@@ -735,7 +740,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 20h ago
+⭐ 1.9k • 🔱 1.3k • 1h ago
 
 ---
 

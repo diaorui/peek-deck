@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-02T05:29:52.146122+00:00'
+updated: '2026-09-02T09:51:46.841803+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 02, 2026 at 05:29 UTC  
+**Last Updated:** September 02, 2026 at 09:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,712.60
+### $76,556.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -3.2%  
-**30d:** +21.2%  
-**90d:** +27.2%  
-**1y:** -30.6%  
+**24h:** -1.6%  
+**7d:** -4.4%  
+**30d:** +19.7%  
+**90d:** +25.5%  
+**1y:** -31.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1559.55B
+**Market Cap:** $1537.85B
 Rank #1
 
 **Circulating Supply:** 20,078,484 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-39.3%
 
 **All-Time Low:** $67.81
-+114433.3%
++112850.9%
 
 ---
 
@@ -145,67 +145,55 @@ Yeah he just posted another one. Paintball with orange paint. The enemy team is 
 
 **[Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.](https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2)**
 
-Barron's • 15h ago
+Barron's • 20h ago
 
 ---
 
-**[Strategy jumps back into bitcoin with $370 million purchase](https://finance.yahoo.com/video/strategy-jumps-back-bitcoin-370-162000465.html)**
+**[Bitcoin and ethereum prices today, Tuesday, September 1, 2026: Crypto prices falling as inflation concerns persist](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html)**
 
-Scott Melker discusses Michael Saylor's Strategy (MSTR) restarting its bitcoin (BTC-USD) buying spree with a $370 million purchase, marking the company’s first bitcoin acquisition in nearly 10 weeks.
+Bitcoin opened at $78,559.11 on Tuesday, September 1, 2026, up 1.1% from Monday's open. As of 8:19 a.m. ET, bitcoin fell to $77,945.97. Ethereum opened at $2,467.13 today, up 2% from Monday's opening price. The price of ethereum edged lower to $2,454.23 as of 8:19 a.m. ET.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Who is behind El Reno’s Bitcoin mining facility? News 4 investigates](https://www.yahoo.com/news/us/articles/behind-el-reno-bitcoin-mining-025815630.html)**
+**[BTC, ETH price news: Bitcoin steady at $78,000, HYPE leads as majors slip on hawkish Fed bets](https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets)**
 
-As El Reno officials say they have reached out to the owners of the Bitcoin mining facility at the center of the city’s massive water leak, rumors continue to swirl about who those owners actually are...
-
-Yahoo • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Strategy (MSTR) Resumed Bitcoin Accumulation With A 4,603 BTC Purchase](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-resumed-bitcoin-accumulation-030758585.html)**
+**[Bitcoin dips below $78k amid Iran escalation, rate jitters](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178)**
 
-MicroStrategy (NasdaqGS:MSTR) resumed Bitcoin purchases after a 10 week pause, acquiring more than 4,600 BTC and reaffirming its role as the largest publicly traded corporate Bitcoin holder. The company funded the latest purchase with newly issued shares, reflecting continued use of equity to support its Bitcoin centric capital allocation. Executive Chairman Michael Saylor reiterated support for MicroStrategy's Bitcoin focused approach, describing the move as part of the company's long term...
-
-Yahoo Finance • 2h ago
+Investing.com • 1d ago
 
 ---
 
-**[Bitcoin ‘Kimchi Premium’ Is Back as South Korean Market Stirs](https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-kimchi-premium-is-back-as-south-korean-market-stirs)**
+**[Strategy's Phong Le Defends Buying Bitcoin At $80K After Selling Near $60K: ‘Right Trade’](https://finance.yahoo.com/markets/crypto/articles/strategys-phong-le-defends-buying-091253948.html)**
 
-Bloomberg.com • 23h ago
+Phong Le said in an interview with Bloomberg that Strategy's balance sheet grew to $72 billion in assets over two months.
 
----
-
-**[Bitcoin Slides as US-Iran Tensions Escalate](https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates)**
-
-Things are heating up between Iran and the U.S. — again — and it's hurting bitcoin's price.
-
-Bitcoin Magazine • 8h ago
+Yahoo Finance • 38m ago
 
 ---
 
-**[Bitcoin price analysis: September has typically been a rough month for BTC](https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally)**
+**[Bitcoin ETF Buyers Return as $80,000 Level Tests Market Rally](https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-etf-buyers-return-as-80-000-level-tests-market-rally)**
 
-CoinDesk • 15h ago
+Bloomberg.com • 14h ago
 
 ---
 
 **[Massive water leak exposes El Reno Bitcoin mining site operated unlawfully for years](https://kfor.com/news/local/massive-water-leak-exposes-el-reno-bitcoin-mining-site-operated-unlawfully-for-years/)**
 
-kfor.com • 1d ago
+KFOR • 1d ago
 
 ---
 
-**[Bitcoin and crypto-linked stocks slip amid sour market mood](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-weighed-escalation-iran-us-manufacturing-pmi-august/card/bitcoin-and-crypto-linked-stocks-slip-llayghGxYBrYMUYanc0D)**
+**[Strategy resumes bitcoin buying after 10-week pause, spends $370M](https://qz.com/strategy-bitcoin-purchase-resumed-370-million-090126)**
 
-MarketWatch • 20h ago
+The company bought 4,603 bitcoin at an average price of $80,318, funded by proceeds from selling newly issued common stock
+
+qz.com • 20h ago
 
 ---
 
@@ -213,7 +201,15 @@ MarketWatch • 20h ago
 
 With the first quantum-resistant transaction mined, Bitcoin users get glimpse at the future of quantum-hardened transactions.
 
-extremetech.com • 18h ago
+extremetech.com • 22h ago
+
+---
+
+**[BlackRock Re-Underwrites Bitcoin, And The Portfolio Math Still Holds](https://bitcoinmagazine.com/bitcoin-for-corporations/blackrock-re-underwrites-bitcoin-and-the-portfolio-math-still-holds)**
+
+BlackRock re-underwrites the Bitcoin thesis, finding that even modest allocations historically improved risk-adjusted returns in traditional portfolios.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -265,7 +261,7 @@ Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28
 
 COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed phrase from a shuffled deck of playing cards on an air-gapped Raspberry Pi.
 
-⬆️ 2 • 💬 0 • 20h ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
+⬆️ 2 • 💬 0 • 1d ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
 
 ---
 
@@ -293,7 +289,7 @@ Could old coins that have not moved for years help pay Bitcoin miners without cr
 
 Bitcoin on-chain payments library — self-custodial, no middlemen - lucarocchi/btcfunkpay
 
-⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/lucarocchi/btcfunkpay)
+⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/lucarocchi/btcfunkpay)
 
 ---
 
@@ -301,53 +297,81 @@ Bitcoin on-chain payments library — self-custodial, no middlemen - lucarocchi/
 
 ## YouTube Videos: "bitcoin"
 
+**[ai generated movie ♥️ about bitcoin ♥️ starring gal gadot ♥️](https://www.youtube.com/watch?v=0ZJ0JTHJtB0)**
+
+📺 matt bernstein
+
+👁️ 92K • 👍 11K • 💬 611 • ⏱️ 2:55 • 14h ago
+
+---
+
 **[Bitcoin Bear Flags As Gold Hammers Into Support - Deep Dive Into The Charts](https://www.youtube.com/watch?v=Bs-BXICVJYo)**
 
 Bitcoin is bear flagging into resistance, and Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, walks through ...
 
 📺 Gareth Soloway
 
-👁️ 94K • 👍 5K • 💬 235 • ⏱️ 12:03 • 11h ago
+👁️ 108K • 👍 5K • 💬 243 • ⏱️ 12:03 • 16h ago
 
 ---
 
-**[The $300K Bitcoin Bull Market Has Already Started | Joe Carlasare](https://www.youtube.com/watch?v=TgUaDyDhVH0)**
+**[Bitcoin&#39;s HUGE Signal: Hyperinflation or Debt Wipeout?](https://www.youtube.com/watch?v=tK1UPVfS_9w)**
 
-You could have a massive cycle here this time around that will shock people.” — Joe Carlasare Joe Carlasare is a commercial ...
-
-📺 What Bitcoin Did
-
-👁️ 21K • 👍 495 • 💬 141 • ⏱️ 1:10:45 • 13h ago
-
----
-
-**[Bitcoin Just Flipped (Proof)](https://www.youtube.com/watch?v=GDhbFCrwwa4)**
-
-Bitcoin charts, Ethereum, Robinhood Chain, and the new meta. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 21K • 👍 605 • 💬 49 • ⏱️ 20:33 • 16h ago
-
----
-
-**[What Michael Saylor’s Bitcoin Buying Tells Us About Strategy And The Rest of 2026.](https://www.youtube.com/watch?v=rjg6N45NZvk)**
-
-Michael Saylor is buying Bitcoin again. Strategy bought 4603 BTC last week after a two-month pause, and the reason has almost ...
-
-📺 Dana Love, PhD
-
-👁️ 51K • 👍 832 • 💬 237 • ⏱️ 21:18 • 1d ago
-
----
-
-**[The Fed Just Revealed Bitcoin’s $900 Trillion Opportunity](https://www.youtube.com/watch?v=TJV2TVECLEs)**
-
-New Fed Chair Kevin Warsh finally took the podium at Jackson Hole, and while the algo traders got their rate clues, the bigger ...
+Rustin talks about Bitcoin's HUGE Signal: Hyperinflation or Debt Wipeout? Brought to you by Bitcoinwell.com a bitcoin-only ...
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 105 • ⏱️ 13:15 • 2d ago
+👁️ 1K • 👍 59 • 💬 1 • ⏱️ 1:02 • 8h ago
+
+---
+
+**[🚨 BITCOIN... HOLY SH!!T!!!! IT ACTUALLY HAPPENED!!!!!!](https://www.youtube.com/watch?v=sjp-f5oQMvQ)**
+
+Bitcoin prints a legacy indicator on the monthly as August ends green! What happens next might shock you! ✳️ Kalshi Crypto ...
+
+📺 Crypto Zombie
+
+👁️ 24K • 👍 1K • 💬 177 • ⏱️ 29:53 • 16h ago
+
+---
+
+**[Tom Lee sees Bitcoin hitting six figures—is the rally just getting started?](https://www.youtube.com/watch?v=8ZbBhWP-53A)**
+
+Bitcoin #CryptoMarket #TomLee #Investing #FinancialAnalysis #FedRateHike.
+
+📺 Fundstrat
+
+👁️ 26K • 👍 373 • 💬 20 • ⏱️ 0:50 • 1d ago
+
+---
+
+**[Crypto Trading LIVE: BTC Live Trading Bitcoin Analysis | 01 SEP #crypto #bitcoin #btc](https://www.youtube.com/watch?v=xq1gbiwXC_w)**
+
+Telegram- https://t.me/+8KPbu4neU41mYjZl ⚠️ Disclaimer – Trade For Profit All content shared by Trade For Profit is for ...
+
+📺 Trade For Profit
+
+👁️ 33K • 👍 956 • 💬 2 • ⏱️ 2:42:27 • 17h ago
+
+---
+
+**[The Bitcoin Macro Low Is Now Official. Here&#39;s What the Next 6 Months Pay.](https://www.youtube.com/watch?v=ydYDXreJ0Pc)**
+
+The Bitcoin macro low is now official: the monthly closed $78571 vs the $65722 gate called on the record 12 days ago. Here is ...
+
+📺 Krown
+
+👁️ 14K • 👍 697 • 💬 129 • ⏱️ 19:23 • 15h ago
+
+---
+
+**[Conviction MATTERS From NOW ON for Bitcoin Price Chart, XRP &amp; Altcoin Market, More Bottom Markers](https://www.youtube.com/watch?v=RqYxw14ncSk)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 50K • 👍 3K • 💬 77 • ⏱️ 23:02 • 1d ago
 
 ---
 
@@ -357,45 +381,17 @@ Bitcoin #Crypto #finance Bitcoin heads into September under pressure as renewed 
 
 📺 The Wolf Of All Streets
 
-👁️ 30K • 👍 845 • 💬 392 • ⏱️ 1:00:04 • 1d ago
+👁️ 30K • 👍 845 • 💬 391 • ⏱️ 1:00:04 • 1d ago
 
 ---
 
-**[ai generated movie ♥️ about bitcoin ♥️ starring gal gadot ♥️](https://www.youtube.com/watch?v=0ZJ0JTHJtB0)**
+**[What Michael Saylor’s Bitcoin Buying Tells Us About Strategy And The Rest of 2026.](https://www.youtube.com/watch?v=rjg6N45NZvk)**
 
-📺 matt bernstein
+Michael Saylor is buying Bitcoin again. Strategy bought 4603 BTC last week after a two-month pause, and the reason has almost ...
 
-👁️ 75K • 👍 10K • 💬 547 • ⏱️ 2:55 • 10h ago
+📺 Dana Love, PhD
 
----
-
-**[Bitcoin Stalls at the 50 Week Moving Average](https://www.youtube.com/watch?v=xCF8xZQcVfc)**
-
-Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 221K • 👍 8K • 💬 351 • ⏱️ 13:39 • 2d ago
-
----
-
-**[Bessent Gets Drucked: Bitcoin, AI, and the New Macro Clock](https://www.youtube.com/watch?v=2FND8g-De8Y)**
-
-Visit ai.22vresearch.com and visser-labs.com for more information Email Mark Whaling mwhaling@22vresearch.com In this ...
-
-📺 Jordi Visser
-
-👁️ 63K • 👍 2K • 💬 248 • ⏱️ 1:03:43 • 2d ago
-
----
-
-**[Robinhood Will Explode SMALL Crypto Portfolios! Here’s How…](https://www.youtube.com/watch?v=IURgqMx5RMs)**
-
-Bitcoin is holding strong above the 50-week moving average at $80.3K and a historic Golden Cross between the 50D and 200D is ...
-
-📺 Crypto Banter
-
-👁️ 43K • 👍 1K • 💬 31 • ⏱️ 27:27 • 1d ago
+👁️ 52K • 👍 841 • 💬 239 • ⏱️ 21:18 • 1d ago
 
 ---
 

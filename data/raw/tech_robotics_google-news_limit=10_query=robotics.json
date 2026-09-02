@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery",
-      "source": "news.medtronic.com",
+      "source": "Medtronic",
       "source_url": "https://news.medtronic.com",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmpGNDVxU29scmpVUFNtUVcybW0tMXNuYUhoX0hjSG1OU0RSc3IzeGhZX1cyckVIM0thcnZJSGo4UjFLMmNPSG94M3FIc2U4RmpYT1lELU90SnRNeG5yb2QtQ2Jwa2dNbzEza3Z5aXljYXhpbUxQQWVHaEo1LTQ2S3ZjenQtYmNGSkRsQ2dJN2MyU2JySEJvN2ZBWHBOWTlMcEhwSVczY2c4dHBFVjExbUhEY3JwVmZzX1pBUXNuUXZBMTVNMGhyRDl1eXVyLVdrZXBYaWM0cHItUmlQSG5NUjVWaEh6SmdoZnJEa2pZcE1vSFRVN0FsbA?oc=5",
       "pub_date": 1788260714.0,
@@ -25,22 +25,12 @@
       "description": "/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis\u2122 Corporation (NYSE: ENOV)..."
     },
     {
-      "headline": "GoPro has been acquired and is getting into \u2018defense, government, robotics and aerospace\u2019",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5",
-      "pub_date": 1788281168.0,
-      "article_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&strip=all&crop=0%2C10.761751337668%2C100%2C78.476497324665&w=1200",
-      "description": "Right after a YouTuber became GoPro\u2019s biggest shareholder, the company got sold."
-    },
-    {
-      "headline": "Medtronic Lifts Outlook, Invests Over $700 Million in Heart Tech & Robotics",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFBhNkZOdzQ5X2I2M2E1YVp6dlBEYmxJajBud25qN1A3QzBrYlpBOXYycWJDMzVEQWFVbEV3WGlseVljWGJUYUg4c19WSjducUQ3LVExU3pyZV9UXzZxNmxpTXRPSUN2NVNpY003Ym0wUHFWUGNpQkM2ekJtWnFOWmpBamstNHVrLWV1QTNuVm5jQWMzS0dFT0dOc21GOFREcG1KMG5va1JKcUVmeWpWdWdPYVUtdjQ?oc=5",
-      "pub_date": 1788263245.0,
-      "article_url": "https://www.wsj.com/business/retail/medtronic-lifts-outlook-invests-over-700-million-in-heart-tech-robotics-7ceb0567",
+      "headline": "A new class of delivery bots heads to campus",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckw2aHBoYU5ENHJtMWp3azN6RHVsNU5JSk1UTjVDdzcwZHFrNV9RUHVFNXA3Z1BEQVluNS1zTkNmdUN4SFpDclJlVTFwQkhOZkpkVmt1WnZydEY4b3Y5Z0tEbEZSZURDMGhlTll1SUptemVlVVBfdFp5UUx5RWlMTERUYTNPQQ?oc=5",
+      "pub_date": 1788339627.0,
+      "article_url": "https://www.axios.com/2026/09/02/delivery-robots-college-campus-starship-avride",
       "image": null,
       "description": null
     },
@@ -55,6 +45,46 @@
       "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
     },
     {
+      "headline": "Top 10 robotics stories of August 2026",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KT1dxNVZuV1FXaWNueU5CWnBKZXJJeDFXcXFsTHVzT3lJRnFMUXFBcV9IOFVWckJOak5jcnBoa0l3TzhpOTR0dE1YSkJjNUx5cXVyVTYyM2pmdkNSMVFuNmpLZUJQX1ZwbE5lWU5PQWludUtwOFZoU3Z3?oc=5",
+      "pub_date": 1788290050.0,
+      "article_url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/TRR-augusttop1026-featured.jpg",
+      "description": "August 2026's top 10 included stories on large funding rounds, updates in the humanoid robot industry, and the latest AI models."
+    },
+    {
+      "headline": "Why humanoid robots won\u2019t catch up to human workers any time soon",
+      "source": "understandingai.org",
+      "source_url": "https://www.understandingai.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rR3FKaDFHN2FsRGpicWVPeGFPSHhLUXBsWFlTaXdKbm9MTGNvYWpTbHM3bktPMmdac2tJVVQzcUFCVk5kczRBVm5Jc3cySXlDVEg5M05TMWw4UjdHMS1BTlRrdG02VkFXNm9lMU82QWtQdE94cUE?oc=5",
+      "pub_date": 1788267159.0,
+      "article_url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "image": "https://substackcdn.com/image/fetch/$s_!FzSr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161a13ab-1d30-401a-af5b-f5fd91994302_1911x865.png",
+      "description": "A deep dive into the current state of humanoid robotics."
+    },
+    {
+      "headline": "GoPro has been acquired and is getting into \u2018defense, government, robotics and aerospace\u2019",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5",
+      "pub_date": 1788281168.0,
+      "article_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&strip=all&crop=0%2C10.761751337668%2C100%2C78.476497324665&w=1200",
+      "description": "Right after a YouTuber became GoPro\u2019s biggest shareholder, the company got sold."
+    },
+    {
+      "headline": "Medtronic Lifts Outlook, Invests Over $700 Million in Heart Tech & Robotics",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFBhNkZOdzQ5X2I2M2E1YVp6dlBEYmxJajBud25qN1A3QzBrYlpBOXYycWJDMzVEQWFVbEV3WGlseVljWGJUYUg4c19WSjducUQ3LVExU3pyZV9UXzZxNmxpTXRPSUN2NVNpY003Ym0wUHFWUGNpQkM2ekJtWnFOWmpBamstNHVrLWV1QTNuVm5jQWMzS0dFT0dOc21GOFREcG1KMG5va1JKcUVmeWpWdWdPYVUtdjQ?oc=5",
+      "pub_date": 1788263160.0,
+      "article_url": "https://www.wsj.com/business/retail/medtronic-lifts-outlook-invests-over-700-million-in-heart-tech-robotics-7ceb0567",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Carbon Robotics Launches Carbon Autonomy Ready Program, Great Plains Manufacturing Joins as First Member",
       "source": "Business Wire",
       "source_url": "https://www.businesswire.com",
@@ -65,46 +95,16 @@
       "description": null
     },
     {
-      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
-      "pub_date": 1788149460.0,
-      "article_url": "https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
-      "pub_date": 1788223920.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "A robotic arm on a Texas rig picks up 30-foot joints of pipe weighing 2,000 pounds and makes the connection on a floor where a third of all drilling injuries have happened, and the floorhand who used to stand there now works a touchscreen while Houston ste",
-      "source": "Autonocion.com",
-      "source_url": "https://www.autonocion.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9raDFMX3RKOVpsOWlwZm9feDlCOWxjR3NUUFNUUndzRHRSdFlObVNpLXVVSlB3TzlfUHVHZ3Z4ekg3OWZ3TG5UcWN2aU9ZcUR0WmFWd1FQa21tcm1YWUVMa0M2QzRFMkZRUkFDcA?oc=5",
-      "pub_date": 1788287431.0,
-      "article_url": "https://www.autonocion.com/us/robotic-arm-rig-floor-permian/",
-      "image": "https://www.autonocion.com/us/wp-content/uploads/2026/09/Helmerich-Payne-FlexRobotics.jpg",
-      "description": "ExxonMobil operates more than 30 drilling rigs across the Permian, and two of those now move pipe with robotic arms while a contractor works a touchscreen"
-    },
-    {
-      "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
-      "pub_date": 1788143640.0,
-      "article_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
-      "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
+      "headline": "Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXJNSmIyeXJlamo4eXVyWXMycjl2WkZEeXd2T090ZW5mT0dBSE1uUUoyMVdqSVkybl95bnJ2TXhyeU1CQm44ekxEeENsSjJSRjlyZWtJSEFCenVfd0tHZEdHNjZLWUREb1FuLWJXYjhVaW1rSC1LeGlaOC1idUNrUWYzb1BXd0oxaWF4YnhYQUItNDRFTlhCVkxjWkJBUVNFWXpoVndHWC1GNDN1WEJTaVhsRUNDQ3VhZThYMUtB?oc=5",
+      "pub_date": 1788299645.0,
+      "article_url": "https://www.stocktitan.net/news/KITT/nauticus-robotics-inc-announces-substantially-stronger-q3-offshore-zogt6omhmztt.html",
+      "image": "https://www.stocktitan.net/news_covers/Nauticus_Robotics_Inc_Announces_Substantially_Stronger_Q3_Offshore_Activity_with_Both_ROV_Systems__1499790.webp",
+      "description": "One system supports offshore wind development in the Northeast while the other inspects a Gulf Coast platform; bids also cover U.S. and international projects."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T05:29:39.189145+00:00"
+  "fetched_at": "2026-09-02T09:51:45.212115+00:00"
 }
