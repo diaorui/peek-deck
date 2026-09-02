@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-02T05:29:52.152128+00:00'
+updated: '2026-09-02T09:51:46.847963+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 02, 2026 at 05:29 UTC  
+**Last Updated:** September 02, 2026 at 09:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,410.22
+### $2,381.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -3.5%  
-**30d:** +29.5%  
-**90d:** +53.0%  
-**1y:** -45.6%  
+**24h:** -3.4%  
+**7d:** -5.4%  
+**30d:** +26.9%  
+**90d:** +49.9%  
+**1y:** -46.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.99B
+**Market Cap:** $286.13B
 Rank #2
 
 **Circulating Supply:** 120,679,661 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.1%
+-52.1%
 
 **All-Time Low:** $0.43
-+558608.4%
++547503.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-15h ago
+19h ago
 
 ---
 
@@ -158,11 +158,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Targets $6,000 as Bitmine Chairman Tom Lee Cites Four Major Catalysts](https://www.tipranks.com/news/ethereum-targets-6000-as-bitmine-chairman-tom-lee-cites-four-major-catalysts)**
+**[Ethereum Drops 2.0% -- Crypto Mover](https://www.moomoo.com/news/post/75694493/ethereum-drops-2-0-crypto-mover)**
 
-Bitmine Immersion Technologies ($BMNR) Chairman Tom Lee projects that Ethereum (ETH-USD) could hit $6,000 as capital flows back into the crypto sector. Lee pointed ...
+Moomoo • 6m ago
 
-TipRanks • 1d ago
+---
+
+**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 21h ago
 
 ---
 
@@ -176,7 +182,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC) ranked as the most decentralized of Bitcoin, Ethereum (ETH), and Solana (SOL) across several key measures according to a new joint study from ARK Invest and Glassnode published on Tuesday.The report examined the three networks across areas, including a disability, security governance…
 
-TradingView • 13h ago
+TradingView • 17h ago
 
 ---
 
@@ -188,11 +194,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 31, 2026](https://fortune.com/article/price-of-ethereum-08-31-2026/)**
+**[Ethereum: Institutions Accelerate Tokenized Fund Launches](https://blockchain.news/flashnews/ethereum-institutions-accelerate-tokenized-fund-launches)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum draws BlackRock, JPMorgan and Revolut as tokenized assets surpass $1B TVL on L2s and mainnet inflows push ETH to $2415.
 
-Fortune • 1d ago
+blockchain.news • 5h ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-btc-ethereum-and-xrp-prices-crashing-today/)**
+
+Bitcoin has slipped to $76,926.53, down 2.2% over the past day, pulling Ethereum and XRP lower with it after US forces struck Iranian targets near the
+
+Coinpedia • 6h ago
 
 ---
 
@@ -200,31 +214,15 @@ Fortune • 1d ago
 
 NEW YORK, Sept.  01, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching a key point in its rollout, with September 8, 2026, confirmed as the launch d...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
-**[Ethereum Whale: Deposits 167855 ETH to Exchanges](https://blockchain.news/flashnews/ethereum-whale-deposits-167855-eth-exchanges)**
+**[Ark Invest + Glassnode: The Decentralization Spectrum](https://research.glassnode.com/ark-invest-glassnode-the-decentralization-spectrum/)**
 
-Ethereum whale moves 167855 ETH ($408M) to exchanges with 97715 ETH remaining, pressuring ETH price prediction amid neutral RSI on 4h chart.
+The Decentralization Spectrum: Design Tradeoffs In Digital Assets is a joint report by ARK Invest and Glassnode that maps Bitcoin, Ethereum, and Solana across four design features and six measurable dimensions of decentralization.
 
-blockchain.news • 1d ago
-
----
-
-**[A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily](https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/)**
-
-More than 2 million Ethereum is queued for activation on the blockchain as staked supply climbs above 42 million ETH.
-
-CryptoSlate • 1d ago
-
----
-
-**[Lido funds ValOS initiative to enhance Ethereum validator standards](https://cryptobriefing.com/lido-valos-ethereum-validator-standards/)**
-
-Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator
-
-Crypto Briefing • 15h ago
+Glassnode Research • 20h ago
 
 ---
 
@@ -232,13 +230,33 @@ Crypto Briefing • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Right Before Crypto Goes Parabolic, Ethereum Always Does This](https://www.youtube.com/watch?v=YkOrogr_ntM)**
+
+Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST GETAWAY: ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 2K • 💬 87 • ⏱️ 9:05 • 1d ago
+
+---
+
 **[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=j5hs78mWEOo)**
 
 BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 2K • 👍 141 • 💬 50 • ⏱️ 18:58 • 3h ago
+👁️ 7K • 👍 218 • 💬 97 • ⏱️ 18:58 • 7h ago
+
+---
+
+**[BEAR MARKET OVER? 🚀 ETF Buying Frenzy, SOL vs ETH &amp; Elon&#39;s AI Warning 🔥](https://www.youtube.com/watch?v=K4UwuOJC1us)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 44K • 👍 2K • 💬 91 • ⏱️ 20:06 • 14h ago
 
 ---
 
@@ -248,47 +266,7 @@ xrp #xrpl #Ripple #goldmansachs #cantonnetwork Follow me on Twitter: @sentosumos
 
 📺 crypto Eri
 
-👁️ 8K • 👍 348 • 💬 18 • ⏱️ 10:20 • 10h ago
-
----
-
-**[Right Before Crypto Goes Parabolic, Ethereum Always Does This](https://www.youtube.com/watch?v=YkOrogr_ntM)**
-
-Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST GETAWAY: ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 2K • 💬 87 • ⏱️ 9:05 • 1d ago
-
----
-
-**[Why Ethereum Will Outperform Bitcoin, Solana &amp; Other Cryptos](https://www.youtube.com/watch?v=gbR7VnQZI9Y)**
-
-I strongly believe we're heading into an Ethereum-dominated bull run. My view is that pretty much everything loses to Ethereum ...
-
-📺 Crypto Archie
-
-👁️ 973 • 👍 42 • ⏱️ 1:12 • 9h ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=OeR8D-CCD8w)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 318 • 💬 19 • ⏱️ 15:57 • 2d ago
-
----
-
-**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
-
-Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
-
-📺 Koenz Trading
-
-👁️ 1K • 👍 54 • 💬 7 • ⏱️ 1:55 • 17h ago
+👁️ 10K • 👍 383 • 💬 28 • ⏱️ 10:20 • 14h ago
 
 ---
 
@@ -298,17 +276,27 @@ In this 1 September 2026 Elliott Wave analysis, we evaluate Ethereum, currently 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 105 • 💬 7 • ⏱️ 6:47 • 13h ago
+👁️ 4K • 👍 107 • 💬 8 • ⏱️ 6:47 • 18h ago
 
 ---
 
-**[Cardano Or Ethereum: Which Altcoin Will Explode First in 2026?](https://www.youtube.com/watch?v=vxO_ep2wHIo)**
+**[Why Ethereum Will Outperform Bitcoin, Solana &amp; Other Cryptos](https://www.youtube.com/watch?v=gbR7VnQZI9Y)**
 
-Cardano or Ethereum: which is the best altcoin to buy now for 2026? In this video, we break down Cardano vs Ethereum to see ...
+I strongly believe we're heading into an Ethereum-dominated bull run. My view is that pretty much everything loses to Ethereum ...
 
-📺 Crypto Legends
+📺 Crypto Archie
 
-👁️ 2K • 👍 26 • 💬 31 • ⏱️ 5:30 • 1h ago
+👁️ 1K • 👍 47 • ⏱️ 1:12 • 13h ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=OeR8D-CCD8w)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 18K • 👍 321 • 💬 19 • ⏱️ 15:57 • 2d ago
 
 ---
 
@@ -318,15 +306,27 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 81 • 💬 16 • ⏱️ 9:19 • 17h ago
+👁️ 4K • 👍 86 • 💬 27 • ⏱️ 9:19 • 21h ago
 
 ---
 
-**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
+**[Cardano Or Ethereum: Which Altcoin Will Explode First in 2026?](https://www.youtube.com/watch?v=vxO_ep2wHIo)**
 
-📺 CryptoWendyO
+Cardano or Ethereum: which is the best altcoin to buy now for 2026? In this video, we break down Cardano vs Ethereum to see ...
 
-👁️ 8K • 👍 400 • 💬 21 • ⏱️ 2:17 • 1d ago
+📺 Crypto Legends
+
+👁️ 4K • 👍 28 • 💬 42 • ⏱️ 5:30 • 6h ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
+
+Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
+
+📺 Koenz Trading
+
+👁️ 1K • 👍 57 • 💬 8 • ⏱️ 1:55 • 21h ago
 
 ---
 

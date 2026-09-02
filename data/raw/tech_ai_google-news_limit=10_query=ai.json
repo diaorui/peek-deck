@@ -9,70 +9,90 @@
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5",
-      "pub_date": 1788296700.0,
+      "pub_date": 1788296862.0,
       "article_url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI chatbot helps teach online-only psychology classes at Macquarie University",
+      "headline": "Architect of British government\u2019s AI strategy joins Anthropic",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGZIekI3RUhxeW8zS2RjeVFBaVNFZGNBUHI1QTJzcTBqSDJDaEVlbXhQZjUzMXhZSnotcjc5S0RuME5JZ1BJeGE1eW1lSEhFUDA5OXdqNnFYTXRHVms1cF9FbkxIZXI3SC00cmNJaWFmOGJWSkFwSUFObEZOWTh4Rm90ZDVHbXJHN21zS0h3NG13XzN3SndTaS1YaVpkTnM?oc=5",
-      "pub_date": 1788317953.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
-      "image": "https://i.guim.co.uk/img/media/5cda859030c3982d393b86028743f07da95852db/81_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9dce9f61671c7edb141438989e7e2484",
-      "description": "University\u2019s move is part of trend that critics within academia say will lead to further staff cuts and the loss of \u2018everything that makes the job worth doing\u2019"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
+      "pub_date": 1788334740.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+      "image": "https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/155_0_2073_1659/master/2073.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0326d58c04f47eaa3712cd140bf1e2bc",
+      "description": "Matt Clifford, who drafted AI action plan and advised Starmer and Sunak, hired for senior role at US firm"
     },
     {
-      "headline": "Data Center Spending to Reach $31.6 Trillion by 2050 on AI Boom",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkhsT1lHeGlJZVFjWXZPQnB6SDlVa2FsQk56TVlncWE0ZXcxRkpXRkZtWWVVaXFNSTZDZXM5eVl6a0hlaEoxSnpGMlBjTHFSRGQzXzRTVHJzNEhNWmUyV09lMU1FY0hyOFAyYXcyMmVhN2poTTY3cGx0TlBYa3ZleTVhZVJWR21WdzJQUTY0UkRDZ2FSMExuSmZVTGljamJTSEhpMFVHTFZuM1NZZmloaFZCWQ?oc=5",
-      "pub_date": 1788321600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
-      "image": null,
-      "description": null
+      "headline": "Did OpenAI\u2019s rogue agents form a \u2018civilization\u2019? The AI industry can\u2019t agree",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ?oc=5",
+      "pub_date": 1788339600.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/openai-hugging-face-hack-investigation-findings-divide-industry-rcna595383",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260901-open-ai-division-lr-372fe5.jpg",
+      "description": "Examinations of an AI-powered cyberattack reveal AI systems focused on cheating and misleading human observers."
     },
     {
-      "headline": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDFUZWNxM2RXcnh6VkJHaW1Gd082cjJLdGZSa2hNTTBVaVRxcXd5YTIyMVRNR0hiTGJPRFo1UGE5X3ZabEFrYVVTUE5KSHV2U1A5b0p4b1FQRFJmeXNoYVBEOGVEVHV5NzFZRGN5ZTJMY3lzRXY3TWI3eTFWZ3dNTmdhRlVDZUxzdmRsWlliakhYTzJ3cmJBRUNWcTM3ajdESGlHMW1tamlHX0xw?oc=5",
-      "pub_date": 1788325200.0,
-      "article_url": "https://www.reuters.com/commentary/breakingviews/financiers-are-set-turn-nvidia-into-an-ai-baron-2026-09-02/",
-      "image": null,
-      "description": null
+      "headline": "What Dell and Nvidia just proved to the AI stock haters",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW1LNUJHVXNOdWUzRXpwQzFMVTNoRi1Ub2l4MXg1Umpzemg2Qk9LVWNtTVYwX2FYNTlZS0ZxLThaMjhLRGdqemxQNlhKOWJtRWM2NlFkb1lhVkdBYnI2ZVp3b2d2cml3ekxwUko0NF9ySDFGT2lNS0NlTjc4VVlXLXJFZTNLTmhHcW5ablJoMFRRSWNLZEdjZ0lPX0ZBVkhudGNzS1lSakdOMXY0THA0M2x3WDNIM2FKZEN3?oc=5",
+      "pub_date": 1788339745.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/what-dell-and-nvidia-just-proved-to-the-ai-stock-haters-090225103.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8d64746dfef4d8958b3b118c2a452e7724a0737a9b76b98518832915fac62541/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F44a93750-cfeb-11f0-b5bd-0e36ca17174d",
+      "description": "Big quarters, for two big heavyweights."
     },
     {
-      "headline": "Letters: With AI, how much more intrusion are we supposed to tolerate?",
-      "source": "NOLA.com",
-      "source_url": "https://www.nola.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVk0ydEtRS2V6V0x0V0NTYWF0UXUybTRSXzBURnRmSjhBVzBNR2tmejZETEM2ME5UV19CajlLdl9tRFd0LWVJVGRFRUt0TTJkeGR3eml3emJ4Vm9DMnV4d3Jvd3hGYXhra2FCdXg4eEFwdk9rSTEyT2Q4SU80TVpqS3Z6YWoyaVdmeDJFSV9HLUFiSHF6Q3NRSGs0NFJWTzgtMDVoQTFDdFR0Z2Z2VkHSAbMBQVVfeXFMT2RJOEpGZk9XNVhfQmZZemJCSGpVWDEzM3E4ZDhiQ1dmRnYtdm8xbUhXSkx2UjJMQk5fbHRIdkJWYVU5U0R2b2dDLXlKbzdia3NDbTB4RzVFZmg4WllfQmE4TmpxbkJKSzNHNTdIak9fZzRXYzlwdXdMTVhZRXZnd1BMMmdhNVc5MGNEaVhKdld2MFhHYlB5bDNkYndYQ1hNVnlUaTJrVGdBRzhZV0JJY3RDeGc?oc=5",
-      "pub_date": 1788326100.0,
-      "article_url": "https://www.nola.com/opinions/letters/letters-ai-revolution/article_f283f1ce-596e-48ff-a91c-ae74d265bc8e.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/e/90/e90b72eb-1150-4031-af00-c9c7974bbc90/69b3170a28e85.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-      "description": "\u200bAI is something I don't know about. I do know how to live. At 81 years old, there are too many lessons I've learned the hard way to be excited"
-    },
-    {
-      "headline": "Bill Simmons\u2019s Podcast Co-Hosts Are Tired of His A.I. Antics",
+      "headline": "After the Earthquake, They Used A.I. to Mobilize Aid",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
-      "pub_date": 1788309549.0,
-      "article_url": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWN3SW5FR2lzZ1NqSnczdnAwd2JFX0ZpR1hES1ZmMXZvQXhzZTdscnhtbUNHOWlEeDhOOFd4VjhZNlpSNzlJMWRQVk9XQldESDVMRW1ZQzhoZjR0V2MxajBzV3BKTVhuSVAwNHBHSWV2OGVfb2F3cF9TZTFqZndyRjNKN0VVbHJvYTAwZUh3?oc=5",
+      "pub_date": 1788339749.0,
+      "article_url": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI token prices are hitting new record lows",
+      "headline": ":Claude: Fable 5.1 and Mythos 5.1",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+      "pub_date": 1788285685.0,
+      "article_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
+      "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress."
+    },
+    {
+      "headline": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn\u2019t ready for AI",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQWFjYmw4NHEyTFlGWjE4UTBmdFhISmIwMlk5N0d3bGNzRmdnUUFRQzFpQ2hScWdPbUljZDZPV2xrdWhBRTRxU0JxU09qRFJSZVZtNG14OG5qZVA1X2FwWUZiUTdQa19W0gFuQVVfeXFMUEpuTzRMcmZkYXhWTVp0X1V1ZUQ5RWN2UXZjVVdqaWxDZFVLMndNRXUyUWpCNFVtQWhZYXU4ZEJMRjRpS1JCTjVHQ3hqOUpCMm1kUjFYN2RTTVo4NkJHQlMtaHREdkNTU0JweFJHNEE?oc=5",
-      "pub_date": 1788278911.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
-      "description": "A closely followed measure of artificial intelligence token prices touched fresh lows."
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0FhRUd1blczdjJsMXFzN2FzbUtxZmFlSERVQ1pwSy1IdW1IZ3B2SEp0UXI5MjlxTmVmaHFfX3haOTBzaVJzQnRkaV9abDc0b1QyZWdXNGtyVHVnZkFZVEw5V2o2YlpwMzNsZk9pNHh1ZXZJVWM0Ti03YURWcHdsUy1oZENzQ3JOczZwamVDaXliLVBBMEE2elpfV3E1aTd6OHRndHRZLUpLdjdYVkdmY1RPOWVzRjTSAbwBQVVfeXFMTlhoZWhoNDdSS2lYR3Rfb1dwR01MQkllWnZzWHRRc0JYZktkTDNZbmVfRGpJMHM4YTRObmphelhSM0hEMl8tVGtlSUJSRUJTdVNSSmN4TmhlS3Vnd3piWDAyeWw3Mm9KZm1jcmdMa2otSDdKMGxWZmp6U0dmajFmR0tWajBQbHBUc04zWFgwUHVJZFJiLWx5a2tJbVlya0RmZFBJZURlNW9TY29YSE5TWXAxMmJiS2NqNjJudzE?oc=5",
+      "pub_date": 1788304844.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108137400-17458546272025-03-25t214352z_1459184385_rc2kkda23vt6_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&w=1920&h=1080",
+      "description": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn\u2019t equipped for attacks."
+    },
+    {
+      "headline": "Three Mount Shasta climbers rescued after relying on AI to plan climb",
+      "source": "KRCR",
+      "source_url": "https://krcrtv.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcndmcktLYzdDSU5jeUp1TDc0TFpTZ0ZDck1QdEFJM0t2ZkxqdV9waWtpWDQzWmE1d3BZQzhCV3AwSHEzNUs1c0hQVklhWDNHalRjcTh5LXNMM1NLMGs0UWhxaXYzalVLYXgwaHFGaUx5TDRlN2hWVkpySk1rSTRrdzItMVh1ZFZPZzVWVVdVOVdSTG9famlVWkFmQnA0eEE1?oc=5",
+      "pub_date": 1788310102.0,
+      "article_url": "https://krcrtv.com/news/local/three-mount-shasta-climbers-rescued-after-relying-on-ai-to-plan-climb",
+      "image": "https://krcrtv.com/resources/media2/16x9/640/1320/0x120/90/83d60b4e-ee53-4e8e-b2f9-fa3482b53b73-usfs_mtshastarescue_1.jfif",
+      "description": "Three novice climbers were rescued from Mount Shasta on Sunday after becoming lost, running low on supplies and spending an unplanned night in Mud Creek Canyon,"
+    },
+    {
+      "headline": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTNON3o3cnJBZjlQcS1CVm5CRFNVYms2enBQZF9lM0F3VXk1Wk5GNjltQ3VabHlYR1VuNzMteEY2cHdhV3kyX3hDU09sYm5nTnlZQWxJN0o3S3FpSTktRVNqZnF5WnZVSi10eDQ4RFlyMWhMWkJfeGw2N3RxUDVyV2ZzeUkwR2l4dHMyOTZaTDBEOEhrc0xDXy1Hd2k5TmotSWNodTJpdFQzdlhjMnVmUW1vWS1TYWR4aFE1VE0xSzA?oc=5",
+      "pub_date": 1788308940.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Try Google Pics: Easy image creation and editing in Google Workspace",
@@ -83,28 +103,8 @@
       "article_url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.width-1300.png",
       "description": "Built on our latest Nano Banana model, Google Pics \u2014 our image creation and editing tool \u2014 is now available."
-    },
-    {
-      "headline": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
-      "source": "npr.org",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0wzR1o0VER5d2gxZWZydm5GOWI4T29lWWFJeVJIMEJEMEhwVjRteEZ1SGtFRll5REpPV3JCV3NkaGpuTlMySnppS0NxS0tIX3dtTHk1SG0tWG9yekxac1F0SFg1d25Nc2hZRnBQaXVnZW1MZUM0ZlROZFp2RVJnejM5NnBGZkR3bmdoOERDYWJQdw?oc=5",
-      "pub_date": 1788253200.0,
-      "article_url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5196x2923+0+271/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2Fff%2Fbe265ef44cd6ba4ba4c48eaeafc4%2Fgettyimages-2284059159.jpg",
-      "description": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many."
-    },
-    {
-      "headline": "Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5",
-      "pub_date": 1788302700.0,
-      "article_url": "https://www.washingtonpost.com/health/2026/09/01/judge-rebukes-hhs-over-ai-use-cutting-teen-pregnancy-prevention-grants/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2JTPGUT7T6BXXOX7MAHA26CCSM_size-normalized.jpg&w=1440",
-      "description": "He wrote that grant solicitations for changes to funding reference public health studies that appear not to exist or do not support what they are cited for."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T05:29:50.572558+00:00"
+  "fetched_at": "2026-09-02T09:51:40.739763+00:00"
 }
