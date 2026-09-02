@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
+      "pub_date": 1788387849.0,
+      "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
+    },
+    {
       "headline": "China\u2019s real robot revolution is not about humanoids",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -15,6 +25,16 @@
       "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
     },
     {
+      "headline": "Exclusive: Aitan, battle-tested by IDF, raises $41 million",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWEs5SzhrMk5vUnozWjhOMGthVGFXRDBsN0pELUZKZm9RMFJZb0Q1c21NSkZQVTZoUnRUWHpwa2dGb3NNSl9pUDJTNVN2UVdQUm1HRDRHQk4tSE5TZXZRZ0FCVFNnMmVQOGFId0w4czVZUXE2djBuWU5mLUNHdw?oc=5",
+      "pub_date": 1788344538.0,
+      "article_url": "https://www.axios.com/2026/09/02/aitan-israel-stealth-raise-robotics-dell",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World",
       "source": "Business Wire",
       "source_url": "https://www.businesswire.com",
@@ -23,6 +43,16 @@
       "article_url": "https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI",
+      "source": "calcalistech.com",
+      "source_url": "https://www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5",
+      "pub_date": 1788351900.0,
+      "article_url": "https://www.calcalistech.com/ctechnews/article/4dsejsrni",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/12/17/WQMJ0DK1G/WQMJ0DK1G_0_0_490_276_0_large.jpg",
+      "description": "The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world."
     },
     {
       "headline": "Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?",
@@ -45,18 +75,8 @@
       "description": "Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain."
     },
     {
-      "headline": "It started as Macy\u2019s, then hosted bankrupt robotics firm. Now building set for new chapter",
-      "source": "BoiseDev",
-      "source_url": "https://boisedev.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0pfdHBPMFU4U2ZweEpDT3FSX015YURmU1pxdmtBS1ZrcE5UZHFTMVdtSG9ka3hJYlFMdUxtaWZ3ejFHQTgyVHZvS2p3b1htVnRGdG56TGFxNXg1QjcweTh4TkxUcXBfczROcUM3OVFtMDlOa0hNMzh0dUZNMzRNc3BZeHRKam9sdHlCQlhVdzhWOU1oSnJOejQtUGlVaUduQ25Bc2Zxa2dBUm8wc3RSVEVzR3hPa2ZJeTNfQmVn?oc=5",
-      "pub_date": 1788187910.0,
-      "article_url": "https://boisedev.com/news/2026/08/26/building-that-started-as-macys-then-hosted-bankrupt-robotics-firm-now-on-the-market/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics",
-      "source": "Stock Titan",
+      "source": "stocktitan.net",
       "source_url": "https://www.stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXJNSmIyeXJlamo4eXVyWXMycjl2WkZEeXd2T090ZW5mT0dBSE1uUUoyMVdqSVkybl95bnJ2TXhyeU1CQm44ekxEeENsSjJSRjlyZWtJSEFCenVfd0tHZEdHNjZLWUREb1FuLWJXYjhVaW1rSC1LeGlaOC1idUNrUWYzb1BXd0oxaWF4YnhYQUItNDRFTlhCVkxjWkJBUVNFWXpoVndHWC1GNDN1WEJTaVhsRUNDQ3VhZThYMUtB?oc=5",
       "pub_date": 1788299645.0,
@@ -65,18 +85,8 @@
       "description": "One system supports offshore wind development in the Northeast while the other inspects a Gulf Coast platform; bids also cover U.S. and international projects."
     },
     {
-      "headline": "Here\u2019s A $32 Million Bet That Robots Don\u2019t Need A Billion Dollars Of Real-World Data",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3oxaVMwSV81Mm11aHpHNlZ3Rk1BQkdRSmNWXzVtcmYtNUFTMTJ5Mno2cWdCb2x3QkhBcjVXcDltYmFJcHNXUGtCalVtLTVaODBIUDBveVhXSHZxNmRmTkI1MlY1WHRhNHA2d2hENjVEY0JQZkdIQVFkNTQ0S0l1VVFycVlOY1M1ZFM1R19OeDJzQURIaGFxYlVXMzlZWW56eUxzd1BwdFpFUHUtQjRSODVielI2a3FQT2YzakZER083N0NNbk80?oc=5",
-      "pub_date": 1788369623.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/02/heres-a-32m-bet-that-robots-dont-need-a-billion-dollars-of-real-world-data/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "\ud83c\udfa5 Orchard Robotics CEO: Growers \u2018shouldn\u2019t have to be data analysts\u2019",
-      "source": "AgFunderNews",
+      "source": "agfundernews.com",
       "source_url": "https://agfundernews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEJvTzU0clVvQ28zbHhPOG5idVd4aW1nWDdlTDF0aEJrWWEtZ05VVnYyYTZDODdvZW1sdUNDcUJGYzRDeHVWYTN3T1JKNDNveklMX1hGTDJBeGMxNU94dmRJcDZPQ2c3N3NYQkRwdzZJSll5Y3RVYXNMQ0V4T1puYVBPWC1oalczMHIydGVsdkgtZm82cFhRa21KT0NlUF8yMVE?oc=5",
       "pub_date": 1788332410.0,
@@ -85,26 +95,16 @@
       "description": "Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu."
     },
     {
-      "headline": "Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1g3b0hfVjlXWk9GZVJ3ZVUxWE4tQWkxc0N1bmV3RW1fbFpiRXgySWIzMEtMOXZTbGN4TlFFXzZDdDdmdXpXU3paOHRZTFhlaWZKTWVReWpEeU9Sc3NsVWs0MVFqR09nQ2MxNXU1N3h3MkJNSHptYWV5WDBObk9VLThIUWpyMi1fZ1BlQ3otc2Z5TkNjMm1pSlI3dHJwNlZF?oc=5",
-      "pub_date": 1788295116.0,
-      "article_url": "https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "These Ex-DJI Engineers Have Designed the World\u2019s First Robotic Extreme Zoom Camera",
-      "source": "No Film School",
-      "source_url": "https://nofilmschool.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGd0l2Q1JDOHMzRUxqQkpRY1ctdllWWUlFVXBMUUVfMy0wVDZwc01EZTlVYWxJdWNYWVRKdVdpOHlVaFhydkFoaGlIeTY5MEJxVHhUcVlweGNzRjJPQlRHNEo3S0pDWFFHNFZlbEVB?oc=5",
-      "pub_date": 1788206882.0,
-      "article_url": "https://nofilmschool.com/rocxzoom-robotic-extreme-zoom-camera",
-      "image": "https://nofilmschool.com/media-library/image.jpg?id=67701950&width=1200&height=600&coordinates=0%2C19%2C0%2C20",
-      "description": "Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features."
+      "headline": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+      "source": "therobotreport.com",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDMwU3AtMUxQVkdmSFZXN3lpQlBkZGtYMVlHVGFNRGFxWUQwUngtLUhuN0pOdlBTQ05odHZRdFpiWFoxcktvWmlkTW00NmlFdFVpX0ZEWmdBc1JxaTI4SnItbDdSUXpZaFVGNHk1bjJxYW5jRnpncWpBbmxfbllPNlh3SUlvdGdheXNaVVJPaFFjM2cwZFdQdHJ1T29KRW5lV2daZDIxRU1WazBMLXc?oc=5",
+      "pub_date": 1788271074.0,
+      "article_url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/RAG_How2Robot.jpg",
+      "description": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T20:57:04.075265+00:00"
+  "fetched_at": "2026-09-02T23:07:30.740821+00:00"
 }

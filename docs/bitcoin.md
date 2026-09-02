@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-02T20:57:11.410573+00:00'
+updated: '2026-09-02T23:07:43.264477+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 02, 2026 at 20:57 UTC  
+**Last Updated:** September 02, 2026 at 23:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -3.5%  
-**30d:** +20.8%  
-**90d:** +26.7%  
-**1y:** -30.9%  
+**24h:** -0.0%  
+**7d:** -3.8%  
+**30d:** +20.4%  
+**90d:** +26.3%  
+**1y:** -31.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1554.24B
+**Market Cap:** $1547.86B
 Rank #1
 
 **Circulating Supply:** 20,078,650 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.8%
 
 **All-Time Low:** $67.81
-+114067.5%
++113600.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[“Strategy”](https://www.reddit.com/r/Bitcoin/comments/1w3rik1/strategy/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -135,7 +135,7 @@ Yeah he just posted another one. Paintball with orange paint. The enemy team is 
 
 **[Bananas!🍌 ~95% already distributed, ~4% left. 🚀🧑‍🚀](https://www.reddit.com/r/Bitcoin/comments/1w3qyln/bananas_95_already_distributed_4_left/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -143,75 +143,71 @@ Yeah he just posted another one. Paintball with orange paint. The enemy team is 
 
 ## Google News: "bitcoin"
 
-**[Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.](https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2)**
+**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million)**
 
-Barron's • 1d ago
-
----
-
-**[Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage](https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow)**
-
-CoinDesk • 54m ago
+bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html)**
+**[BTC, ETH price news: Bitcoin steady at $78,000, HYPE leads as majors slip on hawkish Fed bets](https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets)**
 
-Bitcoin opened at $77,395.89 on Wednesday, September 2, 2026, 1.5% lower than Tuesday's opening price. As of 7:13 a.m. ET, bitcoin moved down to $76,597.13. Ethereum opened at $2,417.66 today, down 2.0% from Tuesday's opening price. Ethereum fell further this morning to $2,373.76 as of 7:13 a.m. ET.
-
-Yahoo Finance • 9h ago
+coindesk.com • 1d ago
 
 ---
 
-**[Bitcoin Slides as US-Iran Tensions Escalate](https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates)**
+**[Bitcoin Will Hit $260K, Says Strategy CEO Phong Le — Claims Firm Will Keep Buying at $130K](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-260k-says-strategy-121641170.html)**
 
-Things are heating up between Iran and the U.S. — again — and it's hurting bitcoin's price.
+Strategy CEO Phong Le said the firm could continue buying Bitcoin at $130,000 and suggested those purchases would look attractive if BTC later reached $260,000. ...
 
-Bitcoin Magazine • 23h ago
-
----
-
-**[Top firm dumps XRP but keeps Bitcoin](https://sg.finance.yahoo.com/news/top-firm-dumps-xrp-keeps-204332350.html)**
-
-A major firm sells all of its XRP, Ether, Solana, and Dogecoin but keeps Bitcoin.
-
-Yahoo Finance Singapore • 13m ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Current price of Bitcoin for September 2, 2026](https://fortune.com/article/price-of-bitcoin-09-02-2026/)**
+**[El Reno loses more than 3 million gallons of water during leak at data center](https://www.kosu.org/el-reno-bitcoin-center-water-leak)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 8h ago
-
----
-
-**[Trump Crypto Ally David Bailey Rebuilds After 99% Stock Collapse](https://www.bloomberg.com/news/articles/2026-09-02/trump-crypto-ally-david-bailey-rebuilds-after-99-stock-collapse)**
-
-bloomberg.com • 8h ago
-
----
-
-**['We failed': El Reno admits oversight after 3.8 million-gallon water leak at Bitcoin mining facility](https://www.news9.com/oklahoma-city-news/oklahoma-el-reno-water-leak-bitcoin-mining-facility-oversight)**
-
-City officials say Athlon Blockchain was operating after its permit was denied, prompting a property condemnation and plans for new water-use safeguards.
-
-News 9 • 18h ago
+KOSU • 1d ago
 
 ---
 
 **[Rich Dad Poor Dad author shocks fans with $1.2 billion debt](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-shocks-fans-with-1-2-billion-debt)**
 
-thestreet.com • 6h ago
+thestreet.com • 8h ago
 
 ---
 
-**[Strategy's Phong Le Defends Buying Bitcoin At $80K After Selling Near $60K: ‘Right Trade’](https://www.tradingview.com/news/stocktwits:13b13ec78094b:0-strategy-s-phong-le-defends-buying-bitcoin-at-80k-after-selling-near-60k-right-trade/)**
+**[Bitcoin’s apparent demand turns negative as price struggles with $77K](https://www.tradingview.com/news/cointelegraph:a09bb5c73094b:0-bitcoin-s-apparent-demand-turns-negative-as-price-struggles-with-77k/)**
 
-Strategy’s (MSTR) decision to sell Bitcoin (BTC) in the 60,000 range, only to resume buying near $80,000, may look like a costly case of selling low and buying high, but to CEO Phong Le it was the ‘right trade” to make at the time.When asked about the sell-low, buy-high sequence during an interview…
+Bitcoin (BTC) sold off into the early European trading hours on Wednesday to hit local lows of $76,400, per data from CoinGecko.Key points:Bitcoin’s apparent demand flips negative againThe move in BTC came after US spot Bitcoin exchange-traded funds (ETFs) recorded outflows of $236 million the day…
 
-TradingView • 11h ago
+TradingView • 6h ago
+
+---
+
+**[Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy](https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333)**
+
+Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.
+
+The Block • 11h ago
+
+---
+
+**[Bennet Research Traces Mystery Behind 107 Burned Bitcoin](https://bitbo.io/news/bennet-bitcoin-burn-mystery/)**
+
+New blockchain analysis by Bitcoin educator Bennet reveals five wallets that destroyed $8.3 million in bitcoin likely belonged to one early Mt. Gox user.
+
+Bitbo • 13h ago
+
+---
+
+**[Binance Founder Eyeing $1 Million Bitcoin As Quantum Threat Grows](https://www.forbes.com/sites/boazsobrado/2026/09/02/binance-founder-eyeing-1-million-bitcoin-as-quantum-threat-grows/)**
+
+Forbes • 6h ago
+
+---
+
+**[Big On Income, This Bitcoin ETF Is Worth Examining](https://etfdb.com/monthly-income-content-hub/this-bitcoin-etf-is-worth-examining-and-big-on-income)**
+
+ETF Database • 1d ago
 
 ---
 
@@ -239,7 +235,7 @@ Finally, a killer use case
 
 Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE
 
-⬆️ 4 • 💬 0 • 6h ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
+⬆️ 4 • 💬 0 • 8h ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
 
 ---
 
@@ -301,71 +297,11 @@ Bitcoin on-chain payments library — self-custodial, no middlemen - lucarocchi/
 
 **[Bitcoin Holders: The Landscape Has Changed](https://www.youtube.com/watch?v=UPRo0yHk8fs)**
 
-Less leverage is piling in, the fed is trapped, and the bottom "should" happen soon. ➡️ Trezor: https://aaronbtc.com/trezor7 ...
+Less leverage is piling in, the fed is trapped, and the bottom "should" happen soon. ➡️ Trezor: https://aaronbtc.com/trezor ...
 
 📺 Aaron Bennett
 
-👁️ 20K • 👍 570 • 💬 170 • ⏱️ 10:49 • 15h ago
-
----
-
-**[He Just Predicted Bitcoin Will Hit $500,000, Here&#39;s How It Happens](https://www.youtube.com/watch?v=48EVLVxDznI)**
-
-Matt Cole says that a return to the gold standard is unpalatable for the U.S. because countries like China and India hold too much ...
-
-📺 Redacted
-
-👁️ 48K • 👍 917 • 💬 163 • ⏱️ 10:00 • 2d ago
-
----
-
-**[What Michael Saylor’s Bitcoin Buying Tells Us About Strategy And The Rest of 2026.](https://www.youtube.com/watch?v=rjg6N45NZvk)**
-
-Michael Saylor is buying Bitcoin again. Strategy bought 4603 BTC last week after a two-month pause, and the reason has almost ...
-
-📺 Dana Love, PhD
-
-👁️ 55K • 👍 869 • 💬 254 • ⏱️ 21:18 • 2d ago
-
----
-
-**[“We Are Now In A 10 Year Bitcoin Supercycle” | Matt Hougan](https://www.youtube.com/watch?v=LxvhjeaJNkM)**
-
-Matt Hougan, CIO of Bitwise, has a front-row seat to the institutional Bitcoin wave — and what he's seeing in 15000 meetings a ...
-
-📺 Rob Wallace | Bitcoin News
-
-👁️ 8K • 👍 113 • 💬 24 • ⏱️ 16:02 • 1d ago
-
----
-
-**[Calling Bessent&#39;s &#39;Bluff,&#39; Strategy CEO Buys Again | Bloomberg Crypto 9/1/2026](https://www.youtube.com/watch?v=kwwwdQghfpE)**
-
-"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
-
-📺 Bloomberg Television
-
-👁️ 9K • 👍 62 • 💬 3 • ⏱️ 42:52 • 1d ago
-
----
-
-**[Global Debt Collapse? Is Bitcoin the Solution?!](https://www.youtube.com/watch?v=ykx4UBlGXtU)**
-
-Dante talks about Global Debt Collapse? Is Bitcoin the Solution?! Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
-
-📺 Simply Bitcoin
-
-👁️ 1K • 👍 37 • 💬 14 • ⏱️ 0:26 • 8h ago
-
----
-
-**[Why Bitcoin Beats Gold at Gold&#39;s Own Game](https://www.youtube.com/watch?v=5RY5jQpIPV0)**
-
-A physicist on why Bitcoin preserves value through time better than gold. #Bitcoin #Gold #BTC #SoundMoney #StoreOfValue ...
-
-📺 Bitcoin Magazine
-
-👁️ 1K • 👍 35 • 💬 7 • ⏱️ 0:38 • 1d ago
+👁️ 21K • 👍 582 • 💬 170 • ⏱️ 10:49 • 17h ago
 
 ---
 
@@ -375,27 +311,87 @@ Clay Garrett explains what happened during the Coldcard exploit and how Bitkey w
 
 📺 Natalie Brunell
 
-👁️ 996 • 👍 31 • 💬 87 • ⏱️ 1:04 • 6h ago
+👁️ 1K • 👍 35 • 💬 87 • ⏱️ 1:04 • 8h ago
 
 ---
 
-**[CRYPTO TRADING: Bitcoin Holding Won&#39;t Save Your Altcoins From Dumping](https://www.youtube.com/watch?v=zpo2td_-JYk)**
+**[Global Debt Collapse? Is Bitcoin the Solution?!](https://www.youtube.com/watch?v=ykx4UBlGXtU)**
 
-Bitcoin is holding on the lower timeframes but the drain is real and most traders are completely ignoring what it means for altcoins.
-
-📺 Chart Hackers
-
-👁️ 8K • 👍 294 • 💬 3 • ⏱️ 48:49 • 1d ago
-
----
-
-**[The Fed Just Revealed Bitcoin’s $900 Trillion Opportunity](https://www.youtube.com/watch?v=TJV2TVECLEs)**
-
-New Fed Chair Kevin Warsh finally took the podium at Jackson Hole, and while the algo traders got their rate clues, the bigger ...
+Dante talks about Global Debt Collapse? Is Bitcoin the Solution?! Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 105 • ⏱️ 13:15 • 2d ago
+👁️ 2K • 👍 38 • 💬 14 • ⏱️ 0:26 • 11h ago
+
+---
+
+**[Protecting Yourself From Bitcoin Replay Attacks (Bitcoin Hard Fork)](https://www.youtube.com/watch?v=t8DTumfYd0w)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how to protect yourself from replay ...
+
+📺 Bitcoin University
+
+👁️ 17K • 👍 870 • 💬 506 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Tom Lee sees Bitcoin hitting six figures—is the rally just getting started?](https://www.youtube.com/watch?v=8ZbBhWP-53A)**
+
+Bitcoin #CryptoMarket #TomLee #Investing #FinancialAnalysis #FedRateHike.
+
+📺 Fundstrat
+
+👁️ 27K • 👍 405 • 💬 23 • ⏱️ 0:50 • 2d ago
+
+---
+
+**[How I Used To Cash $200,000 Of Bitcoin - Ricky Handschumacher](https://www.youtube.com/watch?v=CvJSV_1MMpM)**
+
+Ricky Handschumacher is a former computer hacker and ex-cyber criminal. As a teenager, Ricky followed the rabbit hole of ...
+
+📺 Tom Moschner
+
+👁️ 301 • 👍 3 • ⏱️ 0:51 • 1h ago
+
+---
+
+**[He Just Predicted Bitcoin Will Hit $500,000, Here&#39;s How It Happens](https://www.youtube.com/watch?v=48EVLVxDznI)**
+
+Matt Cole says that a return to the gold standard is unpalatable for the U.S. because countries like China and India hold too much ...
+
+📺 Redacted
+
+👁️ 49K • 👍 918 • 💬 163 • ⏱️ 10:00 • 2d ago
+
+---
+
+**[“We Are Now In A 10 Year Bitcoin Supercycle” | Matt Hougan](https://www.youtube.com/watch?v=LxvhjeaJNkM)**
+
+Matt Hougan, CIO of Bitwise, has a front-row seat to the institutional Bitcoin wave — and what he's seeing in 15000 meetings a ...
+
+📺 Rob Wallace | Bitcoin News
+
+👁️ 8K • 👍 118 • 💬 24 • ⏱️ 16:02 • 1d ago
+
+---
+
+**[Bitcoin Stalls at the 50 Week Moving Average](https://www.youtube.com/watch?v=xCF8xZQcVfc)**
+
+Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 228K • 👍 8K • 💬 354 • ⏱️ 13:39 • 2d ago
+
+---
+
+**[Live Trading Bitcoin Roller Coaster of Volatility](https://www.youtube.com/watch?v=AzjcM054jYA)**
+
+Zen Master JP examines Bitcoin Daily & Weekly Candle Close. A Roller Coaster of Volatility! Live Trade Alerts & TA Get 10% back ...
+
+📺 Sin City Crypto
+
+👁️ 15K • 👍 296 • 💬 4 • ⏱️ 3:19:50 • 2d ago
 
 ---
 
