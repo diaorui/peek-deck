@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-01T22:44:18.820656+00:00'
+updated: '2026-09-02T00:51:49.938655+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 22:44 UTC  
+**Last Updated:** September 02, 2026 at 00:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,423.40
+### $2,410.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -3.9%  
-**30d:** +29.4%  
-**90d:** +35.9%  
-**1y:** -44.4%  
+**24h:** -2.2%  
+**7d:** -4.1%  
+**30d:** +28.8%  
+**90d:** +52.1%  
+**1y:** -45.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.34B
+**Market Cap:** $290.67B
 Rank #2
 
-**Circulating Supply:** 120,681,093 ETH
+**Circulating Supply:** 120,679,687 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-51.3%
 
 **All-Time Low:** $0.43
-+555587.5%
++556197.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -158,11 +158,33 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Layer 1 blockchain war ends with Solana and Eth...](https://pluang.com/en/news-feed/ran-neuner-solana-ethereum-pemenang-layer-1)**
+**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
 
-Crypto trader Ran Neuner declared the competition among Layer 1 blockchains over, naming Solana and Ethereum as the winners. Solana leads in speed, user base, and crypto activity, while Ethereum excels in real-world assets, institutional adoption, and onboarding. Neuner believes other Layer 1 blockchains lack upside and that the blockchain industry is moving to the next phase focused on killer applications that drive mass adoption and sustainable revenue. He also views tokens as the next evolution of value for public networks, improving on traditional equity by allowing holders to capture value directly from network growth.
+Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
 
-Pluang • 1h ago
+Decrypt • 1d ago
+
+---
+
+**[Ethereum whale moves $400M ETH to exchanges, sp...](https://pluang.com/en/news-feed/paus-ethereum-misterius-jual-408-juta-eth)**
+
+A large Ethereum whale has transferred about 167,855 ETH, worth roughly $408 million, to major crypto exchanges like OKX, Binance, and Bybit. This move has triggered speculation that the whale might sell a significant portion of its holdings soon, as moving crypto to exchanges often signals an intent to sell. Despite Ethereum's recent 28% price increase, the whale's actions have caused mixed reactions among traders, with some anticipating short-term volatility and others seeing strength in the price stability. The whale's identity and motives remain unknown, and the market awaits whether this will lead to a major price move.
+
+Pluang • 2h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
+
+CoinDesk • 1d ago
+
+---
+
+**[Current price of Ethereum for August 31, 2026](https://fortune.com/article/price-of-ethereum-08-31-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
 
 ---
 
@@ -174,27 +196,11 @@ TradingView • 1d ago
 
 ---
 
-**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
-
----
-
-**[Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June](https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june)**
-
-Bitmine picked up the pace of its Ethereum buying last week, acquiring 53,501 ETH worth roughly $131 million.
-
-decrypt.co • 1d ago
-
----
-
 **[Apeing Set to Launch Its Upcoming Crypto Presale in 8 Days, Ethereum’s 30% Weekly Rally Keeps Bullish Market Sentiment Alive](https://markets.businessinsider.com/news/stocks/apeing-set-to-launch-its-upcoming-crypto-presale-in-8-days-ethereum-s-30-weekly-rally-keeps-bullish-market-sentiment-alive-1036510515)**
 
 NEW YORK, Sept.  01, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching a key point in its rollout, with September 8, 2026, confirmed as the launch d...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -206,11 +212,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Whale: Deposits 167855 ETH to Exchanges](https://blockchain.news/flashnews/ethereum-whale-deposits-167855-eth-exchanges)**
+**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
 
-Ethereum whale moves 167855 ETH ($408M) to exchanges with 97715 ETH remaining, pressuring ETH price prediction amid neutral RSI on 4h chart.
+Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
 
-blockchain.news • 19h ago
+Coinpedia • 1d ago
 
 ---
 
@@ -218,15 +224,7 @@ blockchain.news • 19h ago
 
 Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator
 
-Crypto Briefing • 8h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-brace-for-jobs-report-week-as-fed-decision-looms/)**
-
-Bitcoin is trading at $78,796.58, Ethereum at $2,478.28 and XRP at $1.40 as traders brace for a week loaded with U.S. labor market data that could shape
-
-Coinpedia • 1d ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -240,7 +238,7 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 85 • ⏱️ 9:05 • 22h ago
+👁️ 54K • 👍 2K • 💬 86 • ⏱️ 9:05 • 1d ago
 
 ---
 
@@ -250,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 317 • 💬 19 • ⏱️ 15:57 • 2d ago
+👁️ 17K • 👍 318 • 💬 19 • ⏱️ 15:57 • 2d ago
 
 ---
 
@@ -258,17 +256,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 374 • 💬 19 • ⏱️ 2:17 • 21h ago
+👁️ 8K • 👍 379 • 💬 19 • ⏱️ 2:17 • 23h ago
 
 ---
 
-**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
+**[THIS BITCOIN SIGNAL IS FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X0dI4D_Rucs)**
 
-Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
+THIS BITCOIN SIGNAL IS FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Koenz Trading
+📺 Crypto World
 
-👁️ 1K • 👍 52 • 💬 7 • ⏱️ 1:55 • 10h ago
+👁️ 11K • 👍 285 • 💬 850 • ⏱️ 18:46 • 21h ago
 
 ---
 
@@ -278,7 +276,17 @@ xrp #xrpl #Ripple #goldmansachs #cantonnetwork Follow me on Twitter: @sentosumos
 
 📺 crypto Eri
 
-👁️ 2K • 👍 232 • 💬 9 • ⏱️ 10:20 • 3h ago
+👁️ 4K • 👍 290 • 💬 18 • ⏱️ 10:20 • 5h ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
+
+Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
+
+📺 Koenz Trading
+
+👁️ 1K • 👍 53 • 💬 7 • ⏱️ 1:55 • 12h ago
 
 ---
 
@@ -288,17 +296,7 @@ I strongly believe we're heading into an Ethereum-dominated bull run. My view is
 
 📺 Crypto Archie
 
-👁️ 285 • 👍 26 • ⏱️ 1:12 • 2h ago
-
----
-
-**[Bitcoin, Ethereum &amp; XRP Aren&#39;t Done Yet This Is Going To Shock The Living Daylights Out Of You](https://www.youtube.com/watch?v=PMnxp61twvE)**
-
-Some people will get it and some wont. Some people will invest and make tons of money and others will continue to wait for prices ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 833 • 💬 285 • ⏱️ 33:07 • 1d ago
+👁️ 552 • 👍 32 • ⏱️ 1:12 • 4h ago
 
 ---
 
@@ -308,7 +306,7 @@ Joseph Chalom and Kean Gilbert break down why fixing Ethereum's issuance isn't t
 
 📺 The Rollup
 
-👁️ 9K • 👍 87 • 💬 12 • ⏱️ 7:49 • 1d ago
+👁️ 9K • 👍 87 • 💬 12 • ⏱️ 7:49 • 2d ago
 
 ---
 
@@ -318,17 +316,17 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 73 • 💬 11 • ⏱️ 9:19 • 10h ago
+👁️ 3K • 👍 73 • 💬 12 • ⏱️ 9:19 • 12h ago
 
 ---
 
-**[WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90](https://www.youtube.com/watch?v=y3jO0vsHVr8)**
+**[Bitcoin, Ethereum &amp; XRP Aren&#39;t Done Yet This Is Going To Shock The Living Daylights Out Of You](https://www.youtube.com/watch?v=PMnxp61twvE)**
 
-WOW ETHEREUM COMEBACK IS HERE! Strategy FIRST BITCOIN Purchase in MONTHS! Oil SURGES Past $90 Kalshi (partner) ...
+Some people will get it and some wont. Some people will invest and make tons of money and others will continue to wait for prices ...
 
-📺 CryptoWendyO
+📺 The Modern Investor
 
-👁️ 9K • 👍 261 • 💬 33 • ⏱️ 41:55 • 1d ago
+👁️ 14K • 👍 834 • 💬 279 • ⏱️ 33:07 • 1d ago
 
 ---
 
