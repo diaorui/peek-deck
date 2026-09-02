@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-02T09:51:46.851165+00:00'
+updated: '2026-09-02T14:08:43.679887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 02, 2026 at 09:51 UTC  
+**Last Updated:** September 02, 2026 at 14:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Mk Robot footage 2023](https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/)**
 
-18h ago
+22h ago
 
 ---
 
 **[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-20h ago
+1d ago
 
 ---
 
 **[TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3](https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/)**
 
-17h ago
+21h ago
 
 ---
 
@@ -62,7 +62,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:
 
-🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 17h ago
+🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 21h ago
 
 ---
 
@@ -78,7 +78,7 @@ This was surprisingly easy to do. If you have a Unitree G1 Edu version off cours
 
 Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs were just randomly driving around? Think again!! They’ve been doing *Robotics* this whole time To read the full breakdown tap the image
 
-🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 21h ago
+🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 1d ago
 
 ---
 
@@ -108,41 +108,19 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery](https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery)**
-
-Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
-
-Medtronic • 22h ago
-
----
-
-**[eCential Robotics Announces Binding Offer from Enovis](https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html)**
-
-/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis™ Corporation (NYSE: ENOV)...
-
-PR Newswire • 23h ago
-
----
-
-**[A new class of delivery bots heads to campus](https://www.axios.com/2026/09/02/delivery-robots-college-campus-starship-avride)**
-
-Axios • 51m ago
-
----
-
 **[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
 
 The country is using its superpower of scaling and building supply chains to challenge the global industry
 
-Financial Times • 10h ago
+Financial Times • 15h ago
 
 ---
 
-**[Top 10 robotics stories of August 2026](https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/)**
+**[Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building](https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building)**
 
-August 2026's top 10 included stories on large funding rounds, updates in the humanoid robot industry, and the latest AI models.
+For all the talk of robots that look like humans, the next robots to move into people’s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ...
 
-The Robot Report • 14h ago
+The Information • 2d ago
 
 ---
 
@@ -150,7 +128,23 @@ The Robot Report • 14h ago
 
 A deep dive into the current state of humanoid robotics.
 
-understandingai.org • 20h ago
+understandingai.org • 1d ago
+
+---
+
+**[International Federation of Robotics](https://ifr.org/case-studies/breakthrough-robotic-grinding-in-energy-storage-manufacturing)**
+
+The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
+
+IFR International Federation of Robotics • 3h ago
+
+---
+
+**[Industry Insights: Google DeepMind's Robotics Lead on Gemini Physical AI Push](https://www.automate.org/robotics/industry-insights/rip-it-up-and-start-again-google-deepmind-vp-on-rewriting-the-rules-of-robotics)**
+
+Carolina Parada discusses Gemini Robotics Approach to Physical AI.
+
+A3 Association for Advancing Automation • 5m ago
 
 ---
 
@@ -158,27 +152,33 @@ understandingai.org • 20h ago
 
 Right after a YouTuber became GoPro’s biggest shareholder, the company got sold.
 
-The Verge • 17h ago
+The Verge • 21h ago
 
 ---
 
-**[Medtronic Lifts Outlook, Invests Over $700 Million in Heart Tech & Robotics](https://www.wsj.com/business/retail/medtronic-lifts-outlook-invests-over-700-million-in-heart-tech-robotics-7ceb0567)**
+**[Robots for rural schools? Minnesota State University, Mankato program hopes to boost STEM](https://www.startribune.com/robots-for-rural-schools-minnesota-state-university-mankato-program-hopes-to-boost-stem/601882836)**
 
-WSJ • 22h ago
-
----
-
-**[Carbon Robotics Launches Carbon Autonomy Ready Program, Great Plains Manufacturing Joins as First Member](https://www.businesswire.com/news/home/20260831647254/en/Carbon-Robotics-Launches-Carbon-Autonomy-Ready-Program-Great-Plains-Manufacturing-Joins-as-First-Member)**
-
-Business Wire • 1d ago
+Star Tribune • 20h ago
 
 ---
 
-**[Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics](https://www.stocktitan.net/news/KITT/nauticus-robotics-inc-announces-substantially-stronger-q3-offshore-zogt6omhmztt.html)**
+**[A new class of delivery bots heads to campus](https://www.axios.com/2026/09/02/delivery-robots-college-campus-starship-avride)**
 
-One system supports offshore wind development in the Northeast while the other inspects a Gulf Coast platform; bids also cover U.S. and international projects.
+Axios • 5h ago
 
-Stock Titan • 11h ago
+---
+
+**[What Medtronic (MDT)'s Cornerstone Robotics Deal Means For Shareholders](https://finance.yahoo.com/markets/stocks/articles/medtronic-mdt-cornerstone-robotics-deal-121620018.html)**
+
+Medtronic plc recently announced a partnership with Cornerstone Robotics, committing about US$700 million and securing rights to distribute Cornerstone’s Sentire surgical system in select approved markets outside the U.S., where it will be offered alongside Medtronic’s Hugo robotic-assisted surgery platform. This move effectively broadens Medtronic’s robotic surgery portfolio, giving hospitals and surgeons more choice across complementary platforms that can plug into the company’s connected...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[It started as Macy’s, then hosted bankrupt robotics firm. Now building set for new chapter](https://boisedev.com/news/2026/08/26/building-that-started-as-macys-then-hosted-bankrupt-robotics-firm-now-on-the-market/)**
+
+BoiseDev • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 106K • 👍 773 • 💬 80 • ⏱️ 7:51 • 5d ago
+👁️ 107K • 👍 779 • 💬 81 • ⏱️ 7:51 • 5d ago
 
 ---
 
@@ -202,7 +202,7 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 177K • 👍 946 • 💬 48 • ⏱️ 0:17 • 5d ago
+👁️ 180K • 👍 961 • 💬 50 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -212,47 +212,17 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 58K • 👍 314 • 💬 34 • ⏱️ 1:49 • 2d ago
+👁️ 60K • 👍 319 • 💬 34 • ⏱️ 1:49 • 3d ago
 
 ---
 
-**[🔥🤖 8.64 s! TianGong Wins the 2026 Humanoid 100M Final! #robot  #humanoidrobot  #robotics](https://www.youtube.com/watch?v=lR1GCAZcPAQ)**
+**[Google’s New Robot Will Steal Your Job](https://www.youtube.com/watch?v=RjNkFd4w88M)**
 
-8.64 seconds... Another record broken. The 100 m large-size final at the second World Humanoid Robot Games. TianGong ...
+Google just made an AI robot that's more expensive and stupider than a human employee and… companies are gonna love it.
 
-📺 XRoboHub
+📺 SAMTIME
 
-👁️ 582K • 👍 2K • 💬 253 • ⏱️ 0:16 • 6d ago
-
----
-
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
-
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 8K • 👍 151 • 💬 4 • ⏱️ 0:58 • 7h ago
-
----
-
-**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
-
-Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
-
-📺 Carros Show
-
-👁️ 114K • 👍 800 • 💬 66 • ⏱️ 1:04:00 • 5d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 492K • 👍 5K • 💬 12 • ⏱️ 1:01 • 3d ago
+👁️ 177K • 👍 9K • 💬 708 • ⏱️ 3:16 • 6d ago
 
 ---
 
@@ -262,27 +232,57 @@ today i checked in on the robot getting destroy at stuff like the robot olympics
 
 📺 Kwite
 
-👁️ 307K • 👍 10K • 💬 973 • ⏱️ 14:26 • 5d ago
+👁️ 308K • 👍 10K • 💬 977 • ⏱️ 14:26 • 5d ago
 
 ---
 
-**[humanoid robots are now cleaning homes in san francisco #shorts](https://www.youtube.com/watch?v=lEpUVgO1cA0)**
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
-Humanoid robots are officially cleaning homes in San Francisco for $30 an hour. TAU Robotics is deploying humanoid robots for ...
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
-📺 Indiatimes
+📺 fastwit
 
-👁️ 11K • 👍 48 • 💬 10 • ⏱️ 0:47 • 19h ago
+👁️ 515K • 👍 5K • 💬 14 • ⏱️ 1:01 • 4d ago
 
 ---
 
-**[Meet Microduck — This Is a $399 Robot Duck… And It’s Actually Incredible!](https://www.youtube.com/watch?v=9_cH8DVQ7Zs)**
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
 
-Microduck is designed around reinforcement learning, with an open-source software stack that lets developers train behaviors in ...
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
 
-📺 The Best Picked
+📺 NBC News
 
-👁️ 38K • 👍 291 • 💬 25 • ⏱️ 3:31 • 4d ago
+👁️ 35K • 👍 203 • 💬 89 • ⏱️ 6:47 • 4d ago
+
+---
+
+**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
+
+Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
+
+📺 Carros Show
+
+👁️ 115K • 👍 809 • 💬 66 • ⏱️ 1:04:00 • 5d ago
+
+---
+
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 15K • 👍 239 • 💬 11 • ⏱️ 0:58 • 11h ago
+
+---
+
+**[Robots compete in World Humanoid Robot Games](https://www.youtube.com/watch?v=9IOcGl3ZNuM)**
+
+The second-ever games came to a close in Beijing. Related coverage: ...
+
+📺 KVUE
+
+👁️ 56K • 👍 49 • 💬 46 • ⏱️ 0:37 • 4d ago
 
 ---
 
