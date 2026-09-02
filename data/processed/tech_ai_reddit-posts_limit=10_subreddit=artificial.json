@@ -13,6 +13,17 @@
       "description": "I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now."
     },
     {
+      "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
+      "author": "Junior-Key-5043",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/",
+      "published": 1788358765.0,
+      "thumbnail": "https://preview.redd.it/xqddlfbq84nh1.jpeg?width=640&crop=smart&auto=webp&s=941b4838fbb29f573edbf8294bc4f90c5e55c79e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for \u2018warfighter needs\u2019",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1w58zoc/the_pentagon_is_giving_3_million_military_and/",
@@ -22,6 +33,50 @@
       "site_name": "Yahoo News",
       "favicon": "https://yahoo.com/favicon.ico?b0867f93a36b360e",
       "description": "The rollout expands the Pentagon\u2019s GenAI.mil platform beyond Gemini as it pushes AI deeper into everyday military work."
+    },
+    {
+      "title": "What part of AI do you think we still fundamentally misunderstand?",
+      "author": "Conscious_Belt_8444",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5gvwb/what_part_of_ai_do_you_think_we_still/",
+      "published": 1788369891.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been around software and data for long enough to have seen quite a few technology revolutions come and go. Most of them eventually turned out to involve rather more plumbing and rather less magic than the marketing suggested. AI is starting to look like the same story. I\u2019m not particularly interested in another discussion about whether LLMs are impressive. They obviously are. What I\u2019m more interested in is why so many perfectly good AI demos turn into rather mediocre production systems. I keep seeing teams jump straight into RAG, agents, fine-tuning, vector databases, tool calling, etc. Six months later they discover the less exciting problems were actually the important ones. Bad data. Poor evaluation. Unclear requirements. No one owning the output. And the small matter of what happens when the model confidently does the wrong thing. Those problems aren't nearly as exciting to talk about, but they tend to be the ones that cost you money. So what do you think is genuinely misunderstood at the moment? Could be something technical like context windows, retrieval, evaluation or fine-tuning. Could also be something more fundamental, like when an LLM shouldn't be used at all. I\u2019m particularly interested in things you've actually encountered rather than textbook answers. What looked straightforward on paper and turned out to be a complete pain in production?"
+    },
+    {
+      "title": "AI coding tools are saving me hours but I keep secondguessing whether I actually understand what I shipped",
+      "author": "Excellent-Wheel7769",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5bkf2/ai_coding_tools_are_saving_me_hours_but_i_keep/",
+      "published": 1788358422.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been building a small SaaS for about six months now, invoice automation for freelancers, and I lean on AI coding assistants pretty heavily since I'm not a trained developer. The thing that keeps nagging at me: the code works, users are signing up, but I didn't write most of it in any traditional sense. I described problems and iterated on outputs. That felt fine at first. Now I'm looking at scaling questions and realizing I have these gaps where I genuinely cannot explain why certain parts of the architecture are structured the way they are. The AI made a call, I accepted it because it ran, and now that decision is loadbearing. This is probably a new version of a very old problem. People have always used tools they don't fully understand to build things that depend on those tools. But the speed at which AI lets you outrun your own comprehension feels different. The gap between what you can ship and what you actually understand closes really slowly while the product keeps moving."
+    },
+    {
+      "title": "What if tokens are not the giant labs' end game?",
+      "author": "IDefendWaffles",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5d0zj/what_if_tokens_are_not_the_giant_labs_end_game/",
+      "published": 1788361676.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Everyone talks about how inference isn\u2019t profitable enough and how, eventually, open-source models will be just as good as frontier models at a fraction of the cost. But what if, at some point, OpenAI or Anthropic simply stops releasing its best models publicly and develops oracle-level intelligence in-house? They could then sell access to that intelligence to companies for billions for R&D, or use it themselves for almost anything: finance, drug discovery, engineering, or developing products no one can even conceive of today. At that point, does it even matter whether inference itself is profitable? Also what are open source models going to do if they cannot distil the frontier models? This seems scary since then you truly would have few companies in charge of all new knowledge and innovation generation."
+    },
+    {
+      "title": "United States files Statement of Interest in OpenAI lawsuits: AI training is fair use; \u201cdilution\u201d is \u201cdeeply flawed\u201d theory, in the view of the United States.",
+      "author": "Formal_Drop526",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5bjeo/united_states_files_statement_of_interest_in/",
+      "published": 1788358357.0,
+      "thumbnail": "https://external-preview.redd.it/lC5hJf3xH7mUUh2Z-xW-GOYZjdQgR2HkM0tmo3a7bNo.png?width=640&crop=smart&auto=webp&s=675d7302f7a3a63685aa6e4972946b3cb52b3848",
+      "external_url": "https://chatgptiseatingtheworld.com/2026/09/02/united-states-files-statement-of-interest-in-openai-lawsuits-ai-training-is-fair-use-dilution-is-deeply-flawed-theory-in-the-view-of-the-united-states/",
+      "site_name": "chatgptiseatingtheworld.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "One unexpected way AI has genuinely changed my life: I repair things instead of replacing them",
@@ -35,28 +90,6 @@
       "description": "Maybe I'm getting old, but AI has probably been more useful to me fixing stuff around the house than it has been writing emails or any of the things people keep talking about. The other day I had a door hinge pulling out of the frame. I've always used the old toothpick trick because that's what my dad showed me years ago. AI suggested using gel super glue as well. Never crossed my mind. Took five minutes and it's probably the best that hinge has ever been. Same thing with cars. Same thing with plumbing. Half the time I don't actually need AI to tell me what to do, I just need someone or something to point me in roughly the right direction so I stop overthinking it. Now before anyone says I'm replacing YouTube with ChatGPT, no. AI gets plenty wrong. It once wanted me to spend half an afternoon repairing a cheap kitchen appliance that costs less than a decent takeaway to replace. It has absolutely no concept of when something isn't worth fixing. That's probably the bit people miss. AI isn't replacing experience. It's replacing that feeling of staring at something broken and thinking, \"I've got absolutely no idea where to even start.\" Twenty years ago I'd have been digging through random forums hoping someone had the same problem. Today I ask AI, sanity-check the answer, and get on with it. Curious if anyone else has found this. Has AI actually changed how you approach DIY or fixing things, or am I just becoming the bloke who asks a chatbot what I used to ask my neighbour over the fence?"
     },
     {
-      "title": "Anthropic moved enterprise misuse-detection data into the customer's own cloud account, not theirs anymore",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w58qdb/anthropic_moved_enterprise_misusedetection_data/",
-      "published": 1788351565.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Anthropic announced Enterprise Frontier Safeguards on September 1. Until now, enterprise Claude usage data used for misuse detection could sit on Anthropic's own servers for up to 30 days, specifically so staff could review flagged activity by hand. Under the new system that data instead writes into the customer's own AWS, Azure, or GCP storage, under the customer's own keys and audit logs, and Anthropic staff no longer get standing access to read it by default. The detection itself hasn't changed. Automated misuse monitoring still runs continuously on the usage data, looking for patterns consistent with abuse. What moved is only the storage location and the default human-review boundary. Here's what I can't work out from the announcement. Automated misuse detection like this usually benefits from some shared signal across customers, that's a lot of how you catch a genuinely novel attack pattern rather than just known signatures. If each customer's activity data now lives in isolated storage they control, does the detection model still train or get updated against some pooled signal elsewhere, or is Anthropic now running something closer to a static or per-customer model against data it can't see? Has anyone found more detail on how the actual detection pipeline is architected under this setup?"
-    },
-    {
-      "title": "Anthropic sued over alleged theft of 'tens of thousands' of songs | AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models",
-      "author": "KeanuRave100",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/",
-      "published": 1788268150.0,
-      "thumbnail": "https://external-preview.redd.it/cVU-Bc54cXJaJ2Byawcii7bcq5qi5q_K1ko5ljKMeU8.jpeg?width=640&crop=smart&auto=webp&s=e1ea226e18c815a3cb20eaa9032cac9a619507ae",
-      "external_url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models"
-    },
-    {
       "title": "\u2018Not perfectly aligned\u2019 with human values: Anthropic admits security failures behind AI hacking incidents | US owner of Claude chatbot previously said its models had hacked three organisations during testing",
       "author": "KeanuRave100",
       "url": "https://www.reddit.com/r/artificial/comments/1w576ao/not_perfectly_aligned_with_human_values_anthropic/",
@@ -68,49 +101,16 @@
       "description": "US owner of Claude chatbot previously said its models had hacked three organisations during testing"
     },
     {
-      "title": "Study (n=504): heightened suspicion did not improve detection of AI-generated text, and fake-news accuracy fell 10.2 points under sustained exposure",
-      "author": "bit3py",
-      "url": "https://www.reddit.com/r/artificial/comments/1w59xzr/study_n504_heightened_suspicion_did_not_improve/",
-      "published": 1788354640.0,
+      "title": "Anthropic moved enterprise misuse-detection data into the customer's own cloud account, not theirs anymore",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w58qdb/anthropic_moved_enterprise_misusedetection_data/",
+      "published": 1788351565.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Disclosure: I am one of the authors. Sharing the findings here for discussion, not selling anything. The preprint is open access (CC BY 4.0). We ran a human-subject study where participants classified news fragments on two axes: origin (human vs machine) and veracity (real vs fake). n=504 participants, n=2,438 judgments. Three results that surprised us: Perception-accuracy gap. Participants who were more suspicious were not better at detecting machine-generated text. Being on guard did not translate into accuracy, which is awkward for any defense that leans on \"just be more skeptical\" media literacy advice. Modern LLM output was frequently indistinguishable from human text for our participants. Asymmetric cognitive fatigue. Under sustained exposure, fake-news detection degraded by 10.2 percentage points, while AI-origin detection stayed roughly stable. The two judgments seem to draw on different resources, and only one of them wears out. We organized the results with an adapted cybersecurity kill chain, treating disinformation as a staged lifecycle rather than a single artifact to classify. The point of that framing is to ask where you could intervene earlier, instead of asking a tired human at the end of the chain to spot a fake. Preprint: https://arxiv.org/abs/2608.21389 The fatigue asymmetry is the part I keep chewing on. If veracity judgment degrades under load but origin judgment does not, then platform interventions that increase how much content a person has to evaluate could be quietly making things worse. Curious whether people here read that third finding the same way, or whether there is a simpler explanation I am underweighting."
-    },
-    {
-      "title": "Do you think AI agents need to become more accurate or more transparent about what they're doing?",
-      "author": "RouteStack",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5724h/do_you_think_ai_agents_need_to_become_more/",
-      "published": 1788346656.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Obviously I want an agent to be accurate, but I'd also feel weird giving one more autonomy without being able to understand what it's doing."
-    },
-    {
-      "title": "[ Removed by Reddit ]",
-      "author": "_LoganLucius_",
-      "url": "https://www.reddit.com/r/artificial/comments/1w55vl6/removed_by_reddit/",
-      "published": 1788342783.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "[ Removed by Reddit on account of violating the content policy. ]"
-    },
-    {
-      "title": "World Labs debuts Atlas, an omni world model simulating space, time, and physical interaction",
-      "author": "jasteinerman",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/",
-      "published": 1788291210.0,
-      "thumbnail": "https://external-preview.redd.it/Y3JjeXRma3JueW1oMeAKXSvrXWcZSC7fFX-9-hiEkeMRsuPgZuAqG2TudsZy.png?width=640&crop=smart&auto=webp&s=e498d62b490ee124af57028a037267b555ca9293",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "World Labs just announced Atlas, an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treating video as isolated 2D pixel grids, Atlas uses an autoregressive diffusion transformer to ground every input in a shared 3D \"spatial context.\" The space-time simulation features demonstrate how this moves AI past basic generation into true physical simulation: Democratized \"Bullet Time\": By processing footage from just 3 to 5 consumer mobile phones, Atlas can reconstruct dynamic events, freeze time, and simulate fluid camera trajectories through impossible angles without specialized capture rigs. Scalable Real-to-Sim: Beyond scanning static geometry, Atlas simulates dynamic robot navigation and manipulation. As an agent moves, the model synthesizes the exact RGB and metric depth streams its onboard sensors would capture along that path. Interactive Dynamics: Casual real-world video can be turned into simulations that model rigid, articulated, and deformable object physics, allowing researchers to alter object placement, lighting, and camera paths to generate synthetic training data. Native 3D Representations: It directly outputs point clouds and 3D Gaussian splats alongside novel video views, outperforming dedicated 3D reconstruction baselines across standard benchmarks like DTU, ETH3D, and ScanNet."
+      "description": "Anthropic announced Enterprise Frontier Safeguards on September 1. Until now, enterprise Claude usage data used for misuse detection could sit on Anthropic's own servers for up to 30 days, specifically so staff could review flagged activity by hand. Under the new system that data instead writes into the customer's own AWS, Azure, or GCP storage, under the customer's own keys and audit logs, and Anthropic staff no longer get standing access to read it by default. The detection itself hasn't changed. Automated misuse monitoring still runs continuously on the usage data, looking for patterns consistent with abuse. What moved is only the storage location and the default human-review boundary. Here's what I can't work out from the announcement. Automated misuse detection like this usually benefits from some shared signal across customers, that's a lot of how you catch a genuinely novel attack pattern rather than just known signatures. If each customer's activity data now lives in isolated storage they control, does the detection model still train or get updated against some pooled signal elsewhere, or is Anthropic now running something closer to a static or per-customer model against data it can't see? Has anyone found more detail on how the actual detection pipeline is architected under this setup?"
     }
   ],
-  "fetched_at": "2026-09-02T14:08:11.289090+00:00"
+  "fetched_at": "2026-09-02T17:58:59.645545+00:00"
 }

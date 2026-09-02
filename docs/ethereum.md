@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-02T14:08:43.676744+00:00'
+updated: '2026-09-02T17:59:35.457542+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 02, 2026 at 14:08 UTC  
+**Last Updated:** September 02, 2026 at 17:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,53 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -4.2%  
-**30d:** +28.7%  
-**90d:** +51.9%  
-**1y:** -46.0%  
+**24h:** -0.8%  
+**7d:** -4.7%  
+**30d:** +28.0%  
+**90d:** +51.2%  
+**1y:** -46.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.49B
+**Market Cap:** $291.64B
 Rank #2
 
 **Circulating Supply:** 122,012,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.7%
 
 **All-Time Low:** $0.43
-+553628.9%
++551901.4%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion September 02, 2026](https://www.reddit.com/r/ethereum/comments/1w50oyb/daily_general_discussion_september_02_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+12h ago
+
+---
+
+**[Dev Tools Guild August 2026 update](https://www.reddit.com/r/ethereum/comments/1w57swl/dev_tools_guild_august_2026_update/)**
+
+**TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
+
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 6h ago
+
+---
+
 **[What’s stopping you from using a crypto payment card?](https://www.reddit.com/r/ethereum/comments/1w4dajd/whats_stopping_you_from_using_a_crypto_payment/)**
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-23h ago
+1d ago
 
 ---
 
@@ -130,22 +146,6 @@ I run a pipeline that enriches crypto wallet addresses with the kind of labels y
 
 ---
 
-**[Daily General Discussion August 28, 2026](https://www.reddit.com/r/ethereum/comments/1w0h5xs/daily_general_discussion_august_28_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[157 - Zaal - THE ZAO - EVMavericks Daily Doots Podcast](https://www.reddit.com/r/ethereum/comments/1w0xuyg/157_zaal_the_zao_evmavericks_daily_doots_podcast/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/7q249awEnEM) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,73 +158,73 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Cryptocurrency prices mostly decline with Bitco...](https://pluang.com/en/news-feed/tether-digugat-atas-pembekuan-tidak-sah-usdt-senilai-42-juta)**
+
+Cryptocurrency markets show a general downward trend with Bitcoin priced around $77,205, down nearly 1%, and Ethereum falling 2.59%. Other major coins like XRP, Solana, and Litecoin also experienced declines. Some smaller tokens showed gains, but overall market sentiment appears bearish. Investors should watch for potential volatility and market reactions to upcoming economic events.
+
+Pluang • 1h ago
+
+---
+
 **[Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027](https://www.tradingview.com/news/99Bitcoins:d595a9eb7094b:0-elon-musk-grok-ai-predicts-ethereum-price-by-january-1-2027/)**
 
 Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
 
-TradingView • 3h ago
+tradingview.com • 7h ago
 
 ---
 
-**[Current price of Ethereum for September 2, 2026](https://fortune.com/article/price-of-ethereum-09-02-2026/)**
+**[USDT: Tron Supply Tops Ethereum at $94.27B](https://blockchain.news/flashnews/usdt-tron-supply-tops-ethereum-94-27b)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+USDT supply on Tron hits $94.27B after $4B gain, overtaking Ethereum as Tron vs Ethereum stablecoin dominance shifts.
 
-Fortune • 2h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $131M ETH, biggest purchase since June](https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3)**
-
-CoinDesk • 2d ago
+blockchain.news • 6h ago
 
 ---
 
-**[Crypto Stocks Slide as Bitcoin and Ethereum Hold Flat: Circle Internet and Bitmine Fall 4%, Coinbase Drops 3%](https://247wallst.com/investing/2026/09/01/crypto-stocks-slide-as-bitcoin-and-ethereum-hold-flat-circle-internet-and-bitmine-fall-4-coinbase-drops-3/)**
+**[Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum](https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum)**
 
-Bitcoin and Ethereum are barely moving this Tuesday, yet the stocks built around them are crashing open sharply lower. A shock from an unexpected corner of the market explains why crypto equities are suddenly trading as if the coins themselves had collapsed.
+CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.
 
-24/7 Wall St. • 1d ago
-
----
-
-**[Ark Invest + Glassnode: The Decentralization Spectrum](https://research.glassnode.com/ark-invest-glassnode-the-decentralization-spectrum/)**
-
-The Decentralization Spectrum: Design Tradeoffs In Digital Assets is a joint report by ARK Invest and Glassnode that maps Bitcoin, Ethereum, and Solana across four design features and six measurable dimensions of decentralization.
-
-Glassnode Research • 1d ago
+Decrypt • 6h ago
 
 ---
 
-**[Ethereum: Institutions Accelerate Tokenized Fund Launches](https://blockchain.news/flashnews/ethereum-institutions-accelerate-tokenized-fund-launches)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, XRP under pressure as momentum indicators flag early bearish signals](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-xrp-under-pressure-as-momentum-indicators-flag-early-bearish-signals-202609020333)**
 
-Ethereum draws BlackRock, JPMorgan and Revolut as tokenized assets surpass $1B TVL on L2s and mainnet inflows push ETH to $2415.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure on Wednesday, with technical indicators suggesting early weakening momentum across the top three cryptocurrencies following massive gains in August.
 
-blockchain.news • 9h ago
-
----
-
-**[Weekend Round-Up: Ethereum's Potential, Bitcoin's Future and Japan's Blockchain Ambitions](https://www.benzinga.com/crypto/cryptocurrency/26/08/61512179/weekend-round-up-ethereums-potential-bitcoins-future-and-japans-blockchain-ambitions)**
-
-Ethereum’s potential, Bitcoin’s price outlook, Japan’s blockchain push and AI’s crypto impact topped the week’s headlines.
-
-Benzinga • 3d ago
+FXStreet • 14h ago
 
 ---
 
-**[Ethereum Targets $6,000 as Bitmine Chairman Tom Lee Cites Four Major Catalysts](https://www.tipranks.com/news/ethereum-targets-6000-as-bitmine-chairman-tom-lee-cites-four-major-catalysts)**
+**[Lido funds ValOS initiative to enhance Ethereum validator standards](https://cryptobriefing.com/lido-valos-ethereum-validator-standards/)**
 
-Bitmine Immersion Technologies ($BMNR) Chairman Tom Lee projects that Ethereum (ETH-USD) could hit $6,000 as capital flows back into the crypto sector. Lee pointed ...
-
-TipRanks • 2d ago
-
----
-
-**[ARK Invest and Glassnode map the decentralization spectrum across Bitcoin, Ethereum, and Solana](https://cryptobriefing.com/ark-glassnode-decentralization-bitcoin-ethereum-solana/)**
-
-ARK Invest and Glassnode release a white paper analyzing decentralization tradeoffs in Bitcoin, Ethereum, and Solana across four design features
+Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator
 
 Crypto Briefing • 1d ago
+
+---
+
+**[Arthur Hayes Calls Ethereum His ‘Number One Pick’ for Quick 5x Upside as Bitcoin Targets $1M by 2030](https://www.tipranks.com/news/arthur-hayes-calls-ethereum-his-number-one-pick-for-quick-5x-upside-as-bitcoin-targets-1m-by-2030)**
+
+BitMEX co-founder Arthur Hayes believes Bitcoin (BTC-USD) will hit $1 million by 2030, but Arthur Hayes calls Ethereum (ETH-USD) his “number one pick” due to better...
+
+TipRanks • 1h ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-btc-ethereum-and-xrp-prices-crashing-today/)**
+
+Bitcoin has slipped to $76,926.53, down 2.2% over the past day, pulling Ethereum and XRP lower with it after US forces struck Iranian targets near the
+
+Coinpedia • 14h ago
+
+---
+
+**[Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over](https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -238,7 +238,17 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 612 • 💬 174 • ⏱️ 31:53 • 4h ago
+👁️ 9K • 👍 770 • 💬 339 • ⏱️ 31:53 • 8h ago
+
+---
+
+**[BMNR Is About to Own 5% of Ethereum… Then What?](https://www.youtube.com/watch?v=tPYIn-uv_2I)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+
+📺 Future Investing
+
+👁️ 2K • 👍 124 • 💬 89 • ⏱️ 8:53 • 3h ago
 
 ---
 
@@ -248,7 +258,7 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 87 • ⏱️ 9:05 • 1d ago
+👁️ 57K • 👍 2K • 💬 88 • ⏱️ 9:05 • 1d ago
 
 ---
 
@@ -258,27 +268,17 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 10K • 👍 264 • 💬 210 • ⏱️ 18:58 • 11h ago
+👁️ 12K • 👍 285 • 💬 424 • ⏱️ 18:58 • 15h ago
 
 ---
 
-**[BEAR MARKET OVER? 🚀 ETF Buying Frenzy, SOL vs ETH &amp; Elon&#39;s AI Warning 🔥](https://www.youtube.com/watch?v=K4UwuOJC1us)**
+**[Tom Lee on Going From Owning 5% to 10% of All Ethereum](https://www.youtube.com/watch?v=nMBLD6tffys)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Bitmine Chair Tom Lee discusses why he landed on owning 5% of Ethereum — and why owning 10% wouldn't be out of the ...
 
-📺 InvestAnswers
+📺 Coinage
 
-👁️ 48K • 👍 3K • 💬 108 • ⏱️ 20:06 • 18h ago
-
----
-
-**[Ethereum Must Clear THIS Level to Confirm the Uptrend](https://www.youtube.com/watch?v=u6ltPTHxj_U)**
-
-In this 1 September 2026 Elliott Wave analysis, we evaluate Ethereum, currently at $2440, focusing on the $2750 resistance target ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 114 • 💬 8 • ⏱️ 6:47 • 22h ago
+👁️ 75 • 👍 5 • ⏱️ 1:03 • 3h ago
 
 ---
 
@@ -288,27 +288,37 @@ xrp #xrpl #Ripple #goldmansachs #cantonnetwork Follow me on Twitter: @sentosumos
 
 📺 crypto Eri
 
-👁️ 11K • 👍 407 • 💬 27 • ⏱️ 10:20 • 18h ago
+👁️ 12K • 👍 427 • 💬 27 • ⏱️ 10:20 • 22h ago
 
 ---
 
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=OeR8D-CCD8w)**
+**[Ethereum Must Clear THIS Level to Confirm the Uptrend](https://www.youtube.com/watch?v=u6ltPTHxj_U)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+In this 1 September 2026 Elliott Wave analysis, we evaluate Ethereum, currently at $2440, focusing on the $2750 resistance target ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 18K • 👍 324 • 💬 19 • ⏱️ 15:57 • 2d ago
+👁️ 5K • 👍 119 • 💬 8 • ⏱️ 6:47 • 1d ago
 
 ---
 
-**[Why Ethereum Will Outperform Bitcoin, Solana &amp; Other Cryptos](https://www.youtube.com/watch?v=gbR7VnQZI9Y)**
+**[Live Trading in Crypto &amp; Gold | Live BTC ETH Trading | XAUUSD Live Trade](https://www.youtube.com/watch?v=9SoonI_5HQM)**
 
-I strongly believe we're heading into an Ethereum-dominated bull run. My view is that pretty much everything loses to Ethereum ...
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
 
-📺 Crypto Archie
+📺 Invest For Wealth
 
-👁️ 1K • 👍 48 • ⏱️ 1:12 • 18h ago
+👁️ 1K • 👍 345 • 57m ago
+
+---
+
+**[Will crypto ever go back up? (AMA Bitcoin PulseChain HEX Ethereum)](https://www.youtube.com/watch?v=wRpgHNT1qWU)**
+
+public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
+
+📺 Crypto Coffee
+
+👁️ 2K • 👍 126 • 💬 36 • ⏱️ 1:01:29 • 15h ago
 
 ---
 
@@ -316,17 +326,7 @@ I strongly believe we're heading into an Ethereum-dominated bull run. My view is
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 410 • 💬 28 • ⏱️ 2:17 • 1d ago
-
----
-
-**[Cardano Or Ethereum: Which Altcoin Will Explode First in 2026?](https://www.youtube.com/watch?v=vxO_ep2wHIo)**
-
-Cardano or Ethereum: which is the best altcoin to buy now for 2026? In this video, we break down Cardano vs Ethereum to see ...
-
-📺 Crypto Legends
-
-👁️ 4K • 👍 32 • 💬 42 • ⏱️ 5:30 • 10h ago
+👁️ 9K • 👍 414 • 💬 27 • ⏱️ 2:17 • 1d ago
 
 ---
 
