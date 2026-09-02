@@ -33,6 +33,20 @@
       "site_name": "ft.com"
     },
     {
+      "title": "Goodbye Bitcoin, Hello AI Data Center",
+      "url": "https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/",
+      "hn_url": "https://news.ycombinator.com/item?id=49536515",
+      "author": "newyorkinfra",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-09-02T14:09:11Z",
+      "object_id": "49536515",
+      "image": "https://res.cloudinary.com/z2tfdfth/image/fetch/f_jpg/https%3A%2F%2Famericanbuildout.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fshutterstock_2563918931-scaled.jpg",
+      "description": "Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE",
+      "favicon": "https://americanbuildout.com/wp-content/uploads/2026/08/american-buildout-icon-300x300.png",
+      "site_name": "American Buildout"
+    },
+    {
       "title": "Bitcoin's First Quantum-Safe Transaction Just Happened",
       "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction",
       "hn_url": "https://news.ycombinator.com/item?id=49477238",
@@ -45,20 +59,6 @@
       "description": "The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done.",
       "favicon": "https://cdn-ileamcn.nitrocdn.com/BngESKHdyFjXuZbvyAhEMmtQtwLKSKkU/assets/images/optimized/rev-a8f02c0/bitcoinmagazine.com/wp-content/uploads/2024/09/cropped-Bitcoin-Magazine-glyph-black-01-180x180.png",
       "site_name": "Bitcoin Magazine"
-    },
-    {
-      "title": "Man reunited with \u00a33.3M lost Bitcoin after 12 years",
-      "url": "https://www.lbc.co.uk/article/bitcoin-found-3m-uk-wallet-cryptocurrency-5HjdgXC_2/",
-      "hn_url": "https://news.ycombinator.com/item?id=49451347",
-      "author": "EndXA",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-08-26T15:57:04Z",
-      "object_id": "49451347",
-      "image": "https://images.globalplayer.com/images/837622?crop=16_9&width=1200&signature=VJFnNFMP60N85P6Es_ty7hB_ZNE=",
-      "description": "Chris was reunited with his Bitcoin wallet after a 12-year fight, with his initial \u00a31,500 investment turning into a multi-million-pound fortune",
-      "favicon": "https://www.lbc.co.uk/apple-touch-icon.png",
-      "site_name": "LBC"
     },
     {
       "title": "Ireland Moves $38M in Bitcoin Tied to Drug Dealer's Lost Fishing Rod",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-09-02T14:08:10.652999+00:00"
+  "fetched_at": "2026-09-02T17:58:57.735976+00:00"
 }

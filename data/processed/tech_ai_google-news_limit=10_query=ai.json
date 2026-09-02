@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Bill Simmons\u2019s Podcast Co-Hosts Are Tired of His A.I. Antics",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
-      "pub_date": 1788311969.0,
-      "article_url": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Singularity Is Not What It Seems",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnR5ZTZHdlB3SFBDeFh6ZW56QWV4QUZMLWpvT0M3dHl6RDJhX0FiR3pjTFJza3FfeHhhUUZZV1FhZTVQb1AtWlJlOEJNc0p0cXZtMGdwMENtVXU2ZjJJTU02NlVsVzVQb0xEWklxQWtXZWVzYUNHQ0tPVlYwN3p6dmhTQ3REcmV4aklVanROQQ?oc=5",
-      "pub_date": 1788308160.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
-      "image": "https://cdn.theatlantic.com/thumbor/xqtuH5gcPd0n3apGAeR0r-JUHpA=/0x24:1200x649/1200x625/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif",
-      "description": "Whatever the AI future is, we\u2019re in it right now."
-    },
-    {
-      "headline": "G20 live updates: Nvidia's Huang pushes for AI infrastructure in every country",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5",
-      "pub_date": 1788356100.0,
-      "article_url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357696-1788354639478-gettyimages-2292606224-G20_INNOVATION_MINISTERIAL.jpeg?v=1788354683&w=1920&h=1080",
-      "description": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade."
-    },
-    {
-      "headline": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUpBUzNweDRDY0tVMTg1LThvRFdueHF0dDh0bFNPOUZ3cVZuSmxQN01UNkdLVFZGZ2V6enk1TktGc1ZyVXd6VzhPY0ZOZVhWX05FeXJSUFhsZDVwOVZLMHUxZ2RtU0hLMDlKU1dMUHdleHJMWTBVOWFfYjlEb3FBdg?oc=5",
-      "pub_date": 1788356378.0,
-      "article_url": "https://qz.com/palo-alto-networks-earnings-ai-cybersecurity-overhaul-090226",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2261860085-300x200.jpg",
-      "description": "CEO Nikesh Arora says legacy security systems can't handle AI-speed attacks, calling it a long-term growth driver for the industry"
-    },
-    {
-      "headline": "NewDays brings its AI-driven dementia care platform to Nevada, expands seed round to $16M",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlVVRlp6TEVyU0pyZFIxUURxOEpNU2Y2SGpYaEx1cXNSNVpkX0hnb1h5NXNiaWhVb3lBeDhTdGtwcVRDT2xwRTZoUHBKeHU0SWR3SWdMN0FnR0lvX09ONFh5dkNiMm9hMHlGV2hTOXlyeGI3SVFCeWYzcVlmUTA0RXFhczlORW1aWmlfVE1xRTV2X1lFbThtQU8wZi1PbGhQSDVzaU9wSjhlckdtMTQ5eHZDS2pUUTBsc2c?oc=5",
-      "pub_date": 1788357600.0,
-      "article_url": "https://www.geekwire.com/2026/newdays-brings-its-ai-driven-dementia-care-platform-to-nevada-expands-seed-round-to-16m/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/NewDays-founders1.jpg",
-      "description": "Seattle startup NewDays raised $16 million to scale its combination of telehealth clinicians and an AI companion named Sunny for treating mild dementia. Early research shows the platform can help preserve cognitive function by up to 18 months, and the company is now expanding across six states."
-    },
-    {
-      "headline": "Nvidia's next act is bigger than selling AI chips: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0QyMU9PdzN0d051SmNBNDVmOV9pTUQ5Q1BtS0x0Q3FPbjNWVzVjSy1yZy01T29zVUVDb2VtenRlSjhjbXFnbVRXVmFBd0hoWWNBMml2ZWtUR25QZEk2eVktdkdOdElMSEJYNnJzcm9tOVJSZFdlRzRSV290eE9jMnAzSGFPYlBjTU5jQnlLT2RqblhxUjhiNWE3WFZCNXAzLThFTExuTXJqcndUcjlQVVVMTDNYY0kwQS14NVQ3SQ?oc=5",
-      "pub_date": 1788343200.0,
-      "article_url": "https://finance.yahoo.com/markets/article/nvidias-next-act-is-bigger-than-selling-ai-chips-chart-of-the-day-100000072.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/759daa8533ab0d20d51ecbac82fac2b1765400c9a4fc99af2515a7b57ab3d8d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fa43c7000-ee13-4a78-8574-91057e1f0298",
-      "description": "CEO Jensen Huang wants Nvidia to become the architecture of AI, not merely its dominant chipmaker."
-    },
-    {
-      "headline": "San Diego has a new AI tool to plan your next visit",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnFrSTlETTZMdTJEODQyUXNzTUxjQzg5YUpUZWlyaG5nUFUzWjAxeTNMdkh0SlVyV1l4dmlVOG96SWtvUm1RaWJhUTZvYjltTUhUY0NBTFk0Tk9VOWxwOEJkQmN2Sk5ELW1Bc0hycGliV1JJM282Z1cyWG91a1hMU04yWlFKVE05a0VVQ2hUbzlXX182NDF6QldLNWZydkpDdkFaekdXaUVDdUR5ZFRmOWN6WFV0TDg?oc=5",
-      "pub_date": 1788355085.0,
-      "article_url": "https://www.axios.com/local/san-diego/2026/09/02/localsan-diego20260901tourism-ai-chatbot-itinerary-local-businesses",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018A friend I can trust\u2019: How Americans described their relationship with AI",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGhvOEU4VHBHZHZPQUR3OE5Bc1VVRlRWMWd4ZklLVl94WFhwZWFQTXhDVzRocm5CV21pT0lOTXZhanNxOXhRQTVoaVB3YlRCZU15d3NwWGpjNFdHbElibWdBQk1tUy1iZm5QS21WYlZLTm5Pcm9rLXd6NkFCWVpRQlBxVkRCaWxFNGRidVVjWHhwMF9RWVpJal9KZmRUN1VMYXlmVzN5TGlkcnhmdUY0THRVQzRKNFhoY0l5Zw?oc=5",
-      "pub_date": 1788355971.0,
-      "article_url": "https://www.washingtonpost.com/technology/interactive/2026/09/02/27-us-adults-turn-ai-personal-emotional-social-queries/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUJVPVHSYFHPVBVL73BK2ZG5ZQ.jpg&w=1200",
-      "description": "More than a quarter of U.S. adults turn to chatbots for personal or emotional discussions, including for entertainment or social advice, a new survey found."
-    },
-    {
-      "headline": "Three Mount Shasta climbers rescued after relying on AI to plan climb",
-      "source": "KRCR",
-      "source_url": "https://krcrtv.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcndmcktLYzdDSU5jeUp1TDc0TFpTZ0ZDck1QdEFJM0t2ZkxqdV9waWtpWDQzWmE1d3BZQzhCV3AwSHEzNUs1c0hQVklhWDNHalRjcTh5LXNMM1NLMGs0UWhxaXYzalVLYXgwaHFGaUx5TDRlN2hWVkpySk1rSTRrdzItMVh1ZFZPZzVWVVdVOVdSTG9famlVWkFmQnA0eEE1?oc=5",
-      "pub_date": 1788310102.0,
-      "article_url": "https://krcrtv.com/news/local/three-mount-shasta-climbers-rescued-after-relying-on-ai-to-plan-climb",
-      "image": "https://krcrtv.com/resources/media2/16x9/640/1320/0x120/90/83d60b4e-ee53-4e8e-b2f9-fa3482b53b73-usfs_mtshastarescue_1.jfif",
-      "description": "Three novice climbers were rescued from Mount Shasta on Sunday after becoming lost, running low on supplies and spending an unplanned night in Mud Creek Canyon,"
+      "headline": "NYC schools ban AI for students through 8th grade under sweeping new policy",
+      "source": "ABC7 New York",
+      "source_url": "https://abc7ny.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5",
+      "pub_date": 1788341160.0,
+      "article_url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/",
+      "image": "https://cdn.abcotvs.com/dip/images/19780223_090226-wabc-mamdani-ai-ban-presser-img.jpg?w=1600",
+      "description": "Mayor Mamdani says children need \"human connection\" in the classroom as NYC launches a one-year AI moratorium for students through 8th grade."
     },
     {
       "headline": "A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
-      "pub_date": 1788312394.0,
+      "pub_date": 1788351180.0,
       "article_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI gets a timeout: Mamdani puts one-year moratorium on generative AI for younger NYC students",
+      "source": "amNewYork",
+      "source_url": "https://www.amny.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dE1ReUxQOEhULUlfN05fQWtPclJiVHVZZm1iYXBxbnlGeWtFaDBjZXJqNUV4anNEMXY5THVqVUQxTUk4VEFKVGwweEZlSUJjSFg1VlZ2c2c1QVl6WGs5THVHMFI3dEkyU3l4cGUtQWFobVZXeGc?oc=5",
+      "pub_date": 1788371114.0,
+      "article_url": "https://www.amny.com/news/mamdani-ai-moratorium-nyc-public-schools/",
+      "image": "https://www.amny.com/wp-content/uploads/2026/09/55494358136_a610e073a8_o.jpg?quality=51&w=1200&p=q",
+      "description": "Mayor Zohran Mamdani announced Wednesday that the nation\u2019s largest public school system will impose a one-year moratorium on student-facing generative"
+    },
+    {
+      "headline": "Freelancers are getting buried with \u2018soulless\u2019 AI slop cleanup: \u2018It\u2019s a shame we need to do it\u2019",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzhxV0drQ0hqVmk1ZGd4M3ZfT2hGMEY4LVZNdDJJQkhGMVA2d2lJQTZkeDIwbTUtV2NyUzJEVlZ4b0ZtSkRDbjJzTjZIWExvV2JHdEZ1QmFyTnVjUVNNTmFqNkRWaTd0NWd4Qnp4ZDVxZW1RN3lNcDFUOGlkMjRWY1pR?oc=5",
+      "pub_date": 1788366240.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+      "image": "https://i.guim.co.uk/img/media/8fe3fe7e1a84e9a9a4298ff7d547dbf1d36f91d9/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61514bdc0e87e2b5ffb5d70610f0d539",
+      "description": "As more companies turn to AI, they\u2019re hiring freelancers to clean up its mistakes rather than create original work"
+    },
+    {
+      "headline": "Inside The AWS \u2018Tiger Team\u2019 Approach To AI",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWxyNkZOUTBtQlNSNHQ2YnBLSkZQaWFzRkVObFpHSTNSanVyV2ZndFZpRVNWalFKcHNlMmF0NUxDRlVRTlgtbXctRU5wQVVzdW1IamVFZXY3ZlBnM3I2em8wc3ZTU0FiTzRRd25lOGpFcVZTZmU5ejI2Z1JwWFlGV21Zek1DbkpoSVBtWXdn?oc=5",
+      "pub_date": 1788368969.0,
+      "article_url": "https://www.forbes.com/sites/cmo/2026/09/02/inside-the-aws-tiger-team-approach-to-ai/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Mamdani announces ban on AI for young students in NYC public schools",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFh6ZUdPR2g0YUpLb2pCVWRVQkRlOHlhSlZ0R0xpZWN1UXNVX0xsZnVBNWN0RjhsN2ZLSlI2TFdOaHBPUnlUMmJ0NFd1VzM2XzFrWVp4R1VzeHUtd21JMDlhTWZyaG44WXdRaElCUkdlaUhROUhaY0ZjWWxRaHQ5MkJXZGJ1QzVOd3RXMzZteFA2aV8yd25ZVG5oc01feWtIY0U5M25aZ25OWlV4NHk2YkpPVUhXQQ?oc=5",
+      "pub_date": 1788370972.0,
+      "article_url": "https://www.nbcnews.com/now/video/mamdani-announces-ban-on-ai-for-young-students-in-nyc-public-schools-269224005861",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1788370652171_now_daily_a_tki_mamdani_nyc_schools_ai_ban_260902_S3_1920x1080-8u0d3n.jpg",
+      "description": "New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th grade in public schools. NBC News' Tyler Kingkade reports."
+    },
+    {
+      "headline": "Warren Buffett piled into Alphabet to bet big on AI, successor Greg Abel says",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFJtWHhybmJWZnZnOEtxMFdVR0N0bm84cWtWbHNQV05wb2JhUHI4Q205QjgyNzVScE9DWEc0S290YXVQOGZGSWJWeWVyQXdaaE5ud0V5NGlOLUpBd1dXQUNxZjAtUGhaU3p0U3NPSHRoM3FlOTVpTHpaTVJ3NFF1WGM4S1V4X1ByVkRlWWpFckh4WDNnS2ZWazRaU3oyUUlkZzVla1lwMWJYSUZzT0JLSA?oc=5",
+      "pub_date": 1788366097.0,
+      "article_url": "https://www.businessinsider.com/warren-buffett-alphabet-stock-greg-abel-interview-ai-investing-berkshire-2026-9",
+      "image": "https://i.insider.com/6a981fd3be454c9d2c7ecf76?width=1200&format=jpeg",
+      "description": "Greg Abel shed light on Warren Buffett's post-CEO role at Berkshire Hathaway and massive Alphabet wager in a rare TV interview."
+    },
+    {
+      "headline": "Exclusive | AI Startup Wonderful Hits $5 Billion Valuation, Plans 1,000-Strong Team",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakJGSy1qY1N1N3prQmZDNVNyLXp1eURISS1UaTBMaWg4aUVITkFVSWJmV2xkcGxTbmo5eG9PeDYtck5VQTkwSHJxUEh5LXBoMURtRlpmbExUSGU4eV92d1FPUW5kdzZfajNDRXgtUU5YYkdkS1F1aVF5OC1SUndHOXRMTnZkb3ByNW92NnpYX3JRakVBc0cyYU1sVExhalZ3OUE4MkRQREFkT3I2VWs2N2tYZGlnNWMybUE?oc=5",
+      "pub_date": 1788346800.0,
+      "article_url": "https://www.wsj.com/pro/venture-capital/ai-startup-wonderful-hits-5-billion-valuation-plans-1-000-strong-team-3d18bebe",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Unique Horrors of A.I. Food Slop",
+      "source": "The New Yorker",
+      "source_url": "https://www.newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjdJTDB2YXF2cnZ5bEFnbTZBaTlZZVA0X2lfSjI4c0hqTGZJcThQS1IyeUVILU52ZVpzQmh6Zno5S0dreHltVHJWcjJHeG5Fb21DZnRSTWU1MGJZTDd6LTRqRzlHajU1QVFRM1B6dWR6ZDYwYUw2dkdJai1ReE1PQXZQOWgzNmxSelV4eQ?oc=5",
+      "pub_date": 1788343200.0,
+      "article_url": "https://www.newyorker.com/culture/infinite-scroll/the-unique-horrors-of-ai-food-slop",
+      "image": "https://media.newyorker.com/photos/6a9742d5df716f14328f7db7/16:9/w_1280,c_limit/NewYorker_AIFill_square.jpg",
+      "description": "Why does it feel so unsettling when restaurants use generative A.I. to create their menus and promotional materials?"
+    },
+    {
+      "headline": "\u2018The landscape has changed dramatically\u2019: States defy the tech lobby on AI rules",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWg5U3l1THpKUkxEVXFSZ0VUelNCWnM2bk5ISEI3dER6anotTHFSS3ZDTERfMzVka3hBNkpYcTJjZkdTdUZZd2g2OWZLcDBJeFhycDFPZ2ZULTY0S2h2bUpzSVpHYkxsbTdFRVZsSEJtSEJNYmpQel91NWdKdUhPa0tZYU9CWkw3NXJndDJJUkgtRkw5Mk93LVNpYlhnTTRvXzVrclJR?oc=5",
+      "pub_date": 1788339600.0,
+      "article_url": "https://www.politico.com/news/2026/09/02/how-silicon-valley-lost-its-war-against-state-ai-laws-01054133",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T14:08:35.031071+00:00"
+  "fetched_at": "2026-09-02T17:59:27.073623+00:00"
 }
