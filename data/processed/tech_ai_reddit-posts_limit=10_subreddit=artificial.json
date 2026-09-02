@@ -13,6 +13,17 @@
       "description": "Maybe I'm getting old, but AI has probably been more useful to me fixing stuff around the house than it has been writing emails or any of the things people keep talking about. The other day I had a door hinge pulling out of the frame. I've always used the old toothpick trick because that's what my dad showed me years ago. AI suggested using gel super glue as well. Never crossed my mind. Took five minutes and it's probably the best that hinge has ever been. Same thing with cars. Same thing with plumbing. Half the time I don't actually need AI to tell me what to do, I just need someone or something to point me in roughly the right direction so I stop overthinking it. Now before anyone says I'm replacing YouTube with ChatGPT, no. AI gets plenty wrong. It once wanted me to spend half an afternoon repairing a cheap kitchen appliance that costs less than a decent takeaway to replace. It has absolutely no concept of when something isn't worth fixing. That's probably the bit people miss. AI isn't replacing experience. It's replacing that feeling of staring at something broken and thinking, \"I've got absolutely no idea where to even start.\" Twenty years ago I'd have been digging through random forums hoping someone had the same problem. Today I ask AI, sanity-check the answer, and get on with it. Curious if anyone else has found this. Has AI actually changed how you approach DIY or fixing things, or am I just becoming the bloke who asks a chatbot what I used to ask my neighbour over the fence?"
     },
     {
+      "title": "Last quarter has been insane. Amazing times to be alive.",
+      "author": "Firm-Club-8334",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5421z/last_quarter_has_been_insane_amazing_times_to_be/",
+      "published": 1788336433.0,
+      "thumbnail": "https://preview.redd.it/e7dh7e37e2nh1.jpeg?width=640&crop=smart&auto=webp&s=febbef872111fe8c50429cac5300cf1a013cd5d0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now."
+    },
+    {
       "title": "Anthropic sued over alleged theft of 'tens of thousands' of songs | AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models",
       "author": "KeanuRave100",
       "url": "https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/",
@@ -46,11 +57,22 @@
       "description": "World Labs just announced Atlas, an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treating video as isolated 2D pixel grids, Atlas uses an autoregressive diffusion transformer to ground every input in a shared 3D \"spatial context.\" The space-time simulation features demonstrate how this moves AI past basic generation into true physical simulation: Democratized \"Bullet Time\": By processing footage from just 3 to 5 consumer mobile phones, Atlas can reconstruct dynamic events, freeze time, and simulate fluid camera trajectories through impossible angles without specialized capture rigs. Scalable Real-to-Sim: Beyond scanning static geometry, Atlas simulates dynamic robot navigation and manipulation. As an agent moves, the model synthesizes the exact RGB and metric depth streams its onboard sensors would capture along that path. Interactive Dynamics: Casual real-world video can be turned into simulations that model rigid, articulated, and deformable object physics, allowing researchers to alter object placement, lighting, and camera paths to generate synthetic training data. Native 3D Representations: It directly outputs point clouds and 3D Gaussian splats alongside novel video views, outperforming dedicated 3D reconstruction baselines across standard benchmarks like DTU, ETH3D, and ScanNet."
     },
     {
-      "title": "Meet the MK Robot. Here is the hardware and AI roadmap I\u2019m currently executing to take this physical build from a functional frame to a fully autonomous, interactive agent: Core Compute: Upgrading to a Raspberry Pi 5 (16 GB RAM) for edge processing",
-      "author": "Personal-Wear1442",
-      "url": "https://www.reddit.com/r/artificial/comments/1w51715/meet_the_mk_robot_here_is_the_hardware_and_ai/",
-      "published": 1788326861.0,
-      "thumbnail": "https://preview.redd.it/h74lj1owl1nh1.jpeg?width=640&crop=smart&auto=webp&s=b2785bd0e34e54d619d657e08d768856b16f77de",
+      "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
+      "published": 1788239844.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks",
+      "author": "minxio_",
+      "url": "https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/",
+      "published": 1788286245.0,
+      "thumbnail": "https://preview.redd.it/1g53x4z49ymh1.png?width=640&crop=smart&auto=webp&s=6d8ad13816dafdc8fb48df256a463a58fce43b5c",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -68,17 +90,6 @@
       "description": "The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press the mic mid-episode and ask whatever you're wondering (\"how big were these ships actually?\") \u2014 the hosts answer and weave it back into the story. Happy to answer anything about how it's built and curious to know what the community thinks!"
     },
     {
-      "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
-      "published": 1788239844.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
-    },
-    {
       "title": "Working from home in 2026",
       "author": "GeorgeCauldron7",
       "url": "https://www.reddit.com/r/artificial/comments/1w3fotb/working_from_home_in_2026/",
@@ -90,27 +101,16 @@
       "description": null
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks",
-      "author": "minxio_",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/",
-      "published": 1788286245.0,
-      "thumbnail": "https://preview.redd.it/1g53x4z49ymh1.png?width=640&crop=smart&auto=webp&s=6d8ad13816dafdc8fb48df256a463a58fce43b5c",
+      "title": "Anyone else using AI for the boring parts of their job?",
+      "author": "IcyCaterpillar9096",
+      "url": "https://www.reddit.com/r/artificial/comments/1w4c0le/anyone_else_using_ai_for_the_boring_parts_of/",
+      "published": 1788269302.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Let me ask you something?",
-      "author": "GhanaGPT",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4purl/let_me_ask_you_something/",
-      "published": 1788297253.0,
-      "thumbnail": "https://preview.redd.it/b1zlsb1n5zmh1.jpeg?width=640&crop=smart&auto=webp&s=601075878effe1bbc7da17bd2055a8b2eca1a615",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "description": "most of the AI discourse i see is about AGI timelines or image generators or whatever the latest model benchmark is. but the actual daytoday stuff where it's genuinely useful gets almost no airtime. i work in office admin and i've been slowly plugging AI into the tedious parts of my job. drafting templated emails that don't sound like a robot wrote them, summarizing long meeting notes, cleaning up messy spreadsheet data before i import it anywhere. nothing flashy. it just saves me maybe an hour a day which adds up. what gets me is that the costeffectiveness debate people keep having around AI replacing workers kind of misses this middle layer. it's not replacing me, it's absorbing the parts of my job i'd happily give away. the judgment calls, the context, the weird edge cases, those still need a human. at least for now. curious if others in more adminheavy or operational roles are actually finding it useful day to day or if it's mostly been hype in practice. and not the chatgptforemailsisamazing hot take, i mean actual workflow changes that stuck after the novelty wore off."
     }
   ],
-  "fetched_at": "2026-09-02T05:29:17.749305+00:00"
+  "fetched_at": "2026-09-02T09:51:17.857563+00:00"
 }

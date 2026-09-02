@@ -1,5 +1,0 @@
-{
-  "cached_at": "2026-08-03T07:57:04.815721+00:00",
-  "data": "MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.",
-  "model_id": "Comfy-Org/MiniMax-H3"
-}
