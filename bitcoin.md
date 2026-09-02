@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-01T22:44:18.814581+00:00'
+updated: '2026-09-02T00:51:49.933913+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 01, 2026 at 22:44 UTC  
+**Last Updated:** September 02, 2026 at 00:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,174.52
+### $77,249.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -2.4%  
-**30d:** +21.4%  
-**90d:** +20.7%  
-**1y:** -30.7%  
+**24h:** -1.6%  
+**7d:** -3.8%  
+**30d:** +20.4%  
+**90d:** +26.3%  
+**1y:** -31.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1547.40B
+**Market Cap:** $1549.80B
 Rank #1
 
 **Circulating Supply:** 20,078,290 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.9%
+-38.8%
 
 **All-Time Low:** $67.81
-+113548.4%
++113729.8%
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Hey guys](https://www.reddit.com/r/Bitcoin/comments/1w3w29j/hey_guys/)**
 
-22h ago
+1d ago
 
 ---
 
 **[Here is me saying bitcoin again here we go](https://www.reddit.com/r/Bitcoin/comments/1w3wecv/here_is_me_saying_bitcoin_again_here_we_go/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -143,43 +143,45 @@ Yeah he just posted another one. Paintball with orange paint. The enemy team is 
 
 ## Google News: "bitcoin"
 
-**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million)**
+**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-restarts-bitcoin-buying-121917075.html)**
 
-Bloomberg.com • 1d ago
+Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul.
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.](https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2)**
 
-Barron's • 8h ago
+Barron's • 11h ago
 
 ---
 
-**[North Korea is cashing out Bitcoin on Hyperliquid](https://ca.finance.yahoo.com/video/north-korea-cashing-bitcoin-hyperliquid-205746059.html)**
+**[El Reno officials admit to enforcement failures surrounding Bitcoin mining facility](https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/)**
 
-North Korea's Lazarus Group has sold more than $30 million in bitcoin on Hyperliquid over the past three weeks, according to blockchain data reviewed by Arkham. The activity comes just as the Trump administration explores bringing the platform onshore. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
-
-Yahoo! Finance Canada • 1h ago
+KFOR • 1h ago
 
 ---
 
-**[Bitcoin’s Biggest Hoarders Are Becoming Buffett Wannabes](https://www.bloomberg.com/news/newsletters/2026-09-01/bitcoin-s-xbt-biggest-hoarders-are-becoming-buffett-wannabes)**
+**[Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because ‘You’re Going to Work With It or Be Out of the Game’; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors](https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/)**
 
-Bloomberg.com • 1h ago
+Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting.
 
----
-
-**[Robert Kiyosaki Is $1.2 Billion in Debt: Is His Bitcoin at Risk?](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-1-2-billion-210651510.html)**
-
-Robert Kiyosaki says he owes $1.2 billion. The loans sit on apartments, not on the Bitcoin and gold he promotes.
-
-Yahoo Finance • 1h ago
+variety.com • 1d ago
 
 ---
 
-**[El Reno Bitcoin mining facility had no permits, built unauthorized fire hydrant, and differs from data centers driving statewide debate](https://kfor.com/news/local/el-reno-bitcoin-mining-facility-had-no-permits-built-unauthorized-fire-hydrant-and-differs-from-data-centers-driving-statewide-debate/)**
+**[Bitcoin Price Prediction for September 2026: What Follows a $3.5 Billion ETF Month?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-september-2026-080209568.html)**
 
-KFOR • 19h ago
+Bitcoin price prediction for September 2026. Every green August since 2020 has been followed by a red September, and the ETF data agrees.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Firelight raises $8 million as DeFi cover protocol eyes bitcoin, XLM expansion beyond XRP](https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs)**
+
+CoinDesk • 10h ago
 
 ---
 
@@ -191,25 +193,25 @@ KCRG • 1d ago
 
 ---
 
-**[City of El Reno condemns Bitcoin mining facility after massive water leak, citing safety violations](https://www.koco.com/article/el-reno-bitcoin-mining-facility-water-leak/73573597)**
+**[BlackRock Re-Underwrites Bitcoin, And The Portfolio Math Still Holds](https://bitcoinmagazine.com/bitcoin-for-corporations/blackrock-re-underwrites-bitcoin-and-the-portfolio-math-still-holds)**
 
-El Reno condemned a Bitcoin mining facility after a water line failure leaked 3 million gallons and shut down schools, businesses and offices.
+BlackRock re-underwrites the Bitcoin thesis, finding that even modest allocations historically improved risk-adjusted returns in traditional portfolios.
 
-KOCO • 19h ago
-
----
-
-**[Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets](https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets)**
-
-CoinDesk • 18h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
-**[5 Best Crypto Casinos 2026: Trusted Bitcoin Gambling Sites With Fast Crypto Payouts](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-gambling-sites-with-fast-crypto-payouts/20260830160000/)**
+**[Cathie Wood Dumps Palantir Shares Worth $26 Million, Bets on Bitcoin-Linked Block and USDC-Issuer Circle](https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/61538839/cathie-wood-dumps-palantir-shares-worth-26-million-bets-on-bitcoin-linked-block-and-usdc-issuer-circle-amid-crypto-rally)**
 
-Best Crypto Casinos Worth A Closer Look In 2026  🎰 Casinos 🎁 Welcome Bonus Player Ratings 1️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 ⭐ 2️⃣ JACK.com 100 No-Wagering Free Spins 4.8/5 ⭐ 3️⃣ Thunderpick 100% up to €2,000 4.7/5 ⭐ 4️⃣ BitStarz 300% up to 5 BTC + 180 Free...
+Cathie Wood sold Palantir following its earnings beat, shifting capital into Block and Circle amid a broader Bitcoin and Ethereum rally.
 
-Muddy River Sports • 2d ago
+Benzinga • 21h ago
+
+---
+
+**[Bitcoin Analysis: Institutional Risk Tolerance Crucial For Market Outlook](https://www.forbes.com/sites/digital-assets/2026/09/01/bitcoin-analysis-institutional-risk-tolerance-crucial-for-market-outlook/)**
+
+Forbes • 4h ago
 
 ---
 
@@ -221,7 +223,7 @@ Muddy River Sports • 2d ago
 
 The Bitcoin Lightning software project said it is preparing fixes after confirming that several AI-made vulnerability reports were accurate.
 
-⬆️ 9 • 💬 2 • 4d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
+⬆️ 9 • 💬 2 • 5d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
 
 ---
 
@@ -269,7 +271,7 @@ Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28
 
 COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed phrase from a shuffled deck of playing cards on an air-gapped Raspberry Pi.
 
-⬆️ 2 • 💬 0 • 13h ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
+⬆️ 2 • 💬 0 • 15h ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
 
 ---
 
@@ -297,13 +299,33 @@ Could old coins that have not moved for years help pay Bitcoin miners without cr
 
 ## YouTube Videos: "bitcoin"
 
+**[Sold &#39;Minuscule&#39; Amount of Bitcoin: Strategy CEO](https://www.youtube.com/watch?v=mAi2KLfjBm8)**
+
+Phong Le, CEO and president of Strategy, joins Scarlet Fu and Tim Stenovec on "Bloomberg Crypto." Strategy resumed Bitcoin ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 32 • 💬 1 • ⏱️ 8:26 • 5h ago
+
+---
+
 **[Saylor Finally Buys Bitcoin Again!🚨Crypto Rally Continues?](https://www.youtube.com/watch?v=mu3XyvkLOK0)**
 
 Michael Saylor broke a 10-week silence with a "We're ₿ack" post, and Strategy disclosed 4603 BTC for $370 million at an ...
 
 📺 Paul Barron Network
 
-👁️ 66K • 👍 1K • 💬 138 • ⏱️ 14:54 • 1d ago
+👁️ 67K • 👍 1K • 💬 165 • ⏱️ 14:54 • 1d ago
+
+---
+
+**[What Michael Saylor just did confirms Bitcoin is about to explode!! | EP 1581](https://www.youtube.com/watch?v=ySTEPH-__I4)**
+
+Strategy finally back on the board and interestingly enough didn't effect bitcoin at all .
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 375 • 💬 77 • ⏱️ 1:06:53 • 1d ago
 
 ---
 
@@ -313,37 +335,7 @@ Come to the 1st ITC Conference (Ticket prices going up in 1 day!) https://www.be
 
 📺 Benjamin Cowen
 
-👁️ 218K • 👍 8K • 💬 349 • ⏱️ 13:39 • 1d ago
-
----
-
-**[Why I&#39;m Buying HALF The Bitcoin Today](https://www.youtube.com/watch?v=0wYVy7ebscs)**
-
-Bitcoin is up 23% this month — beating gold and the Nasdaq, holding steady through US strikes on Iran and a hawkish Fed.
-
-📺 Digital Asset News
-
-👁️ 17K • 👍 406 • 💬 39 • ⏱️ 21:25 • 1d ago
-
----
-
-**[Tom Lee sees Bitcoin hitting six figures—is the rally just getting started?](https://www.youtube.com/watch?v=8ZbBhWP-53A)**
-
-Bitcoin #CryptoMarket #TomLee #Investing #FinancialAnalysis #FedRateHike.
-
-📺 Fundstrat
-
-👁️ 22K • 👍 331 • 💬 18 • ⏱️ 0:50 • 1d ago
-
----
-
-**[The Fed Just Revealed Bitcoin’s $900 Trillion Opportunity](https://www.youtube.com/watch?v=TJV2TVECLEs)**
-
-New Fed Chair Kevin Warsh finally took the podium at Jackson Hole, and while the algo traders got their rate clues, the bigger ...
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 105 • ⏱️ 13:15 • 2d ago
+👁️ 219K • 👍 8K • 💬 349 • ⏱️ 13:39 • 2d ago
 
 ---
 
@@ -353,27 +345,7 @@ Bitcoin charts, Ethereum, Robinhood Chain, and the new meta. BITUNIX TRADE THE T
 
 📺 Lark Davis
 
-👁️ 17K • 👍 540 • 💬 33 • ⏱️ 20:33 • 9h ago
-
----
-
-**[What Michael Saylor’s Bitcoin Buying Tells Us About Strategy And The Rest of 2026.](https://www.youtube.com/watch?v=rjg6N45NZvk)**
-
-Michael Saylor is buying Bitcoin again. Strategy bought 4603 BTC last week after a two-month pause, and the reason has almost ...
-
-📺 Dana Love, PhD
-
-👁️ 47K • 👍 811 • 💬 258 • ⏱️ 21:18 • 1d ago
-
----
-
-**[Bitcoin: It’s Turning (...against all odds)](https://www.youtube.com/watch?v=ptWZHrO-dMg)**
-
-NEW SUBSTACK VIDEO REPORTS ARE HERE (SUBSCRIBE FOR UPDATES) → https://substack.com/@theinvestoraccelerator ...
-
-📺 Jason Pizzino
-
-👁️ 51K • 👍 1K • 💬 146 • ⏱️ 22:39 • 20h ago
+👁️ 19K • 👍 571 • 💬 46 • ⏱️ 20:33 • 12h ago
 
 ---
 
@@ -383,7 +355,7 @@ Crypto's BIGGEST Supercycle Starts NOW!? ⭐ Follow Altcoin Daily on X: https://
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 2K • 💬 163 • ⏱️ 9:49 • 1d ago
+👁️ 76K • 👍 2K • 💬 163 • ⏱️ 9:49 • 2d ago
 
 ---
 
@@ -393,7 +365,37 @@ Bitcoin #Crypto #finance Bitcoin heads into September under pressure as renewed 
 
 📺 The Wolf Of All Streets
 
-👁️ 29K • 👍 840 • 💬 392 • ⏱️ 1:00:04 • 1d ago
+👁️ 29K • 👍 843 • 💬 392 • ⏱️ 1:00:04 • 1d ago
+
+---
+
+**[Bitcoin: It’s Turning (...against all odds)](https://www.youtube.com/watch?v=ptWZHrO-dMg)**
+
+NEW SUBSTACK VIDEO REPORTS ARE HERE (SUBSCRIBE FOR UPDATES) → https://substack.com/@theinvestoraccelerator ...
+
+📺 Jason Pizzino
+
+👁️ 52K • 👍 1K • 💬 148 • ⏱️ 22:39 • 22h ago
+
+---
+
+**[99% OF TRADERS WILL MISS THIS BITCOIN MOVE...](https://www.youtube.com/watch?v=1VE4UueZa2g)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 24K • 👍 759 • 💬 51 • ⏱️ 11:20 • 18h ago
+
+---
+
+**[TREND REVERSAL?](https://www.youtube.com/watch?v=t_Fc3vlrjOg)**
+
+Bitcoin! Larsson Line Pro gave the breakout alert but NOW WHAT???? Disclosure: I have indirect long Bitcoin and altcoin ...
+
+📺 CTO LARSSON
+
+👁️ 35K • 👍 1K • 💬 142 • ⏱️ 7:13 • 1d ago
 
 ---
 
