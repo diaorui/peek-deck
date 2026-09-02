@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-02T17:59:35.460788+00:00'
+updated: '2026-09-02T20:57:11.416950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 02, 2026 at 17:59 UTC  
+**Last Updated:** September 02, 2026 at 20:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,29 +108,17 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery](https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery)**
+**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
 
-Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
+The country is using its superpower of scaling and building supply chains to challenge the global industry
 
-Medtronic • 1d ago
-
----
-
-**[Exclusive: Aitan, battle-tested by IDF, raises $41 million](https://www.axios.com/2026/09/02/aitan-israel-stealth-raise-robotics-dell)**
-
-Axios • 7h ago
+Financial Times • 21h ago
 
 ---
 
 **[Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World](https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World)**
 
-Business Wire • 4h ago
-
----
-
-**[Robots for rural schools? Minnesota State University, Mankato program hopes to boost STEM](https://www.startribune.com/robots-for-rural-schools-minnesota-state-university-mankato-program-hopes-to-boost-stem/601882836)**
-
-Star Tribune • 23h ago
+Business Wire • 7h ago
 
 ---
 
@@ -142,25 +130,45 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI](https://www.calcalistech.com/ctechnews/article/4dsejsrni)**
+**[Video: New robot platform unites wheeled, off-road and legged mobility in one system](https://interestingengineering.com/ai-robotics/video-new-robot-platform-unites-wheeled-off-road-and-legged-mobility-in-one-system)**
 
-The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world.
+Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain.
 
-calcalistech.com • 5h ago
+Interesting Engineering • 7h ago
 
 ---
 
-**[HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption](https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/)**
+**[It started as Macy’s, then hosted bankrupt robotics firm. Now building set for new chapter](https://boisedev.com/news/2026/08/26/building-that-started-as-macys-then-hosted-bankrupt-robotics-firm-now-on-the-market/)**
 
-The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers.
+BoiseDev • 2d ago
 
-The Robot Report • 1d ago
+---
+
+**[Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics](https://www.stocktitan.net/news/KITT/nauticus-robotics-inc-announces-substantially-stronger-q3-offshore-zogt6omhmztt.html)**
+
+One system supports offshore wind development in the Northeast while the other inspects a Gulf Coast platform; bids also cover U.S. and international projects.
+
+Stock Titan • 23h ago
+
+---
+
+**[Here’s A $32 Million Bet That Robots Don’t Need A Billion Dollars Of Real-World Data](https://www.forbes.com/sites/johnkoetsier/2026/09/02/heres-a-32m-bet-that-robots-dont-need-a-billion-dollars-of-real-world-data/)**
+
+Forbes • 3h ago
+
+---
+
+**[🎥 Orchard Robotics CEO: Growers ‘shouldn’t have to be data analysts’](https://agfundernews.com/%F0%9F%8E%A5-orchard-robotics-ceo-growers-shouldnt-have-to-be-data-analysts)**
+
+Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu.
+
+AgFunderNews • 13h ago
 
 ---
 
 **[Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)](https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics)**
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -168,15 +176,7 @@ Seeking Alpha • 21h ago
 
 Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features.
 
-No Film School • 1d ago
-
----
-
-**[XTEND Expands XOS-Powered Robotics Ecosystem into Ground Domain with AtlasROVER](https://markets.businessinsider.com/news/stocks/xtend-expands-xos-powered-robotics-ecosystem-into-ground-domain-with-atlasrover-1036511207)**
-
-First AtlasROVER deployment since XTEND’s acquisition of Atlas extends XOS-powered systems from air into ground roboticsTAMPA, Fla., Sept.  01, 20...
-
-markets.businessinsider.com • 1d ago
+No Film School • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 107K • 👍 782 • 💬 81 • ⏱️ 7:51 • 5d ago
+👁️ 108K • 👍 788 • 💬 82 • ⏱️ 7:51 • 6d ago
 
 ---
 
@@ -200,7 +200,17 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 184K • 👍 980 • 💬 50 • ⏱️ 0:17 • 5d ago
+👁️ 187K • 👍 999 • 💬 50 • ⏱️ 0:17 • 5d ago
+
+---
+
+**[Hilarious Falls and Fails at World Robotics Games 2026](https://www.youtube.com/watch?v=gA96zHCyUvU)**
+
+Hilarious Falls and Fails at World Robotics Games 2026.
+
+📺 Chris Wabs
+
+👁️ 12K • 👍 104 • 💬 18 • ⏱️ 11:03 • 4d ago
 
 ---
 
@@ -210,27 +220,17 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 61K • 👍 324 • 💬 32 • ⏱️ 1:49 • 3d ago
+👁️ 63K • 👍 332 • 💬 32 • ⏱️ 1:49 • 3d ago
 
 ---
 
-**[Humanoid Robot Race on Humanoid Robot Games in Beijing China #humanoidrobot #robotics #robot #robots](https://www.youtube.com/watch?v=8NpZcYjXJHk)**
+**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
 
-A few videos from the Robot Games in Beijing. The first video is the cutest one. The mini humanoid robot race. The rest of the ...
+Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
 
-📺 Code by Nadiia
+📺 Carros Show
 
-👁️ 88K • 👍 557 • 💬 13 • ⏱️ 0:15 • 4d ago
-
----
-
-**[The Humanoid Robot: The Machine That Learned to Work LikeUs🤖#shorts #usa #usashorts #us #shortvideo](https://www.youtube.com/watch?v=IRcR_2k0x5w)**
-
-What happens when we teach a machine to move, see, learn, and work in the physical world? Humanoid robots are rapidly ...
-
-📺 Atlas Explained studio
-
-👁️ 1K • 💬 2 • ⏱️ 3:00 • 10h ago
+👁️ 118K • 👍 841 • 💬 66 • ⏱️ 1:04:00 • 5d ago
 
 ---
 
@@ -244,13 +244,31 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 ---
 
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
 
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
 
-📺 BI️ Studio of Emotional Intelligence 
+📺 NBC News
 
-👁️ 25K • 👍 316 • 💬 15 • ⏱️ 0:58 • 15h ago
+👁️ 35K • 👍 218 • 💬 90 • ⏱️ 6:47 • 4d ago
+
+---
+
+**[DO MEN PREFER WOMEN 🙋🏻‍♀️ VS DO MEN PREFER ROBOTS 🤖 #fyp #robots #ai #men #dating](https://www.youtube.com/watch?v=MBio5j3Xd68)**
+
+📺 phoebeisginger
+
+👁️ 423K • 👍 27K • 💬 2K • ⏱️ 1:07 • 3d ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 568K • 👍 6K • 💬 14 • ⏱️ 1:01 • 4d ago
 
 ---
 
@@ -261,26 +279,6 @@ The second-ever games came to a close in Beijing. Related coverage: ...
 📺 KVUE
 
 👁️ 56K • 👍 49 • 💬 46 • ⏱️ 0:37 • 4d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 545K • 👍 6K • 💬 14 • ⏱️ 1:01 • 4d ago
-
----
-
-**[This Bengaluru Startup Is Building a Human-Like Humanoid Robot Inside a Student Lab](https://www.youtube.com/watch?v=iOGpVBtQJAs)**
-
-A Bengaluru startup is working on one of India's early humanoid robotics efforts, and the technology is being developed inside the ...
-
-📺 Startup Voice
-
-👁️ 227K • 👍 4K • 💬 103 • ⏱️ 0:20 • 3d ago
 
 ---
 
