@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFlNYzhkNWgxVkZkVGYzMzVsdVVOU1NVZmZ1VWY3QUhGLTNPaGVXMFd4U1pFU2tEQ012UFN4Tk9CNnMzMkxCdTBzdThVYm5FZG92VE44QXczY2NkbXJuaUFxREdlaGNmWmNqdVBoRmtZUVlNV1Z6MU81azRyOEFKbHk2TmlsMEJxd3pWTnlkY01RWXRMbVFONWRQdmtJSk9EMjlqdHJjazRwd9IBrwFBVV95cUxOZ0VjeDg2NFRpUE00Z2pBd29ZekxDSmhHb0hKa09pNG90YzBNQnBQQm5lZFF4VTVncjI0Si1BRXg4VW9pZDl2d2xUWEt0LU1iSU1BcXdLZU5Gdk1NaHgtLUZMS1ZGRzlMQmY1VWxYcGlJVUFVbFhKZlVmaXdjX0RPalI0blQxMVNuUEF5Tnh6N2xtbklZeEthYk1BdUZXcVhvNlU1akZPTFlnZGFySXV3?oc=5",
-      "pub_date": 1788247471.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356804-1788229697433-microduck-kickabout.jpg?v=1788229871&w=1920&h=1080",
-      "description": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday."
-    },
-    {
       "headline": "Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery",
       "source": "Medtronic",
       "source_url": "https://news.medtronic.com",
@@ -25,32 +15,32 @@
       "description": "Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes..."
     },
     {
-      "headline": "GoPro has been acquired and is getting into \u2018defense, government, robotics and aerospace\u2019",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5",
-      "pub_date": 1788281168.0,
-      "article_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&strip=all&crop=0%2C10.761751337668%2C100%2C78.476497324665&w=1200",
-      "description": "Right after a YouTuber became GoPro\u2019s biggest shareholder, the company got sold."
+      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWp4VWwyWU9yTDU0Nk5MQ21DbmhfNUNMQVgwQ1haVzNmSWthSWt1SXFqN2VpQ3BsWDh3NWNJT01aRkNMbjN3WXBNUVo2ZldBVEIwY3BUYTBaeDZlN09PX1BYNF9pX1hLQm5ES1kyYVNTRUxkNVJ6dlkweGxpT2sxdndILUFjSWFOdkh1aTYxMEcydFJveU80dHhOM0xuVlFpZ3Bhb1ZoMEh6T253Ykk0eFJpS2NIYjBmTE96NXBpa18xdlMzemFMaDNlRjNvSzlPT0dUOFdNLWUtTENUemlHNk1CV0ZIUQ?oc=5",
+      "pub_date": 1788223920.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "eCential Robotics Announces Binding Offer from Enovis",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmFLc3IwY1U2VGhlNXI4QU9aam5lZWlpQ2JWU3ZfdGkzUkZrTVh4UFVONGNQU2w0bXJ4eW1ZQmFxNFgzRGRnWWRpenZ2M2gzN290VUJWdnhEem5mbkVLNV8xeU9yQWtSczk2MWltNjlJQUpGX3hOY2IySUpseUdoTW5XY2ROU20wb2FYc3ozTnJGTXhnTWFtbFZEaVlwMUtOVk1kVEpqcnRwd0xzdFE?oc=5",
-      "pub_date": 1788259500.0,
-      "article_url": "https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html",
-      "image": "https://mmx.prnewswire.com/media/MS1977812/eCential-Robotics-Platform.jpg?id=OA2921391&p=facebook",
-      "description": "/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis\u2122 Corporation (NYSE: ENOV)..."
+      "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFlNYzhkNWgxVkZkVGYzMzVsdVVOU1NVZmZ1VWY3QUhGLTNPaGVXMFd4U1pFU2tEQ012UFN4Tk9CNnMzMkxCdTBzdThVYm5FZG92VE44QXczY2NkbXJuaUFxREdlaGNmWmNqdVBoRmtZUVlNV1Z6MU81azRyOEFKbHk2TmlsMEJxd3pWTnlkY01RWXRMbVFONWRQdmtJSk9EMjlqdHJjazRwd9IBrwFBVV95cUxOZ0VjeDg2NFRpUE00Z2pBd29ZekxDSmhHb0hKa09pNG90YzBNQnBQQm5lZFF4VTVncjI0Si1BRXg4VW9pZDl2d2xUWEt0LU1iSU1BcXdLZU5Gdk1NaHgtLUZMS1ZGRzlMQmY1VWxYcGlJVUFVbFhKZlVmaXdjX0RPalI0blQxMVNuUEF5Tnh6N2xtbklZeEthYk1BdUZXcVhvNlU1akZPTFlnZGFySXV3?oc=5",
+      "pub_date": 1788247471.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356804-1788229697433-microduck-kickabout.jpg?v=1788229871&w=1920&h=1080",
+      "description": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday."
     },
     {
-      "headline": "Nvidia Wants to Run the World\u2019s Robots. China Is an Eager Customer.",
+      "headline": "Medtronic Lifts Outlook, Invests Over $700 Million in Heart Tech & Robotics",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "pub_date": 1788159600.0,
-      "article_url": "https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFBhNkZOdzQ5X2I2M2E1YVp6dlBEYmxJajBud25qN1A3QzBrYlpBOXYycWJDMzVEQWFVbEV3WGlseVljWGJUYUg4c19WSjducUQ3LVExU3pyZV9UXzZxNmxpTXRPSUN2NVNpY003Ym0wUHFWUGNpQkM2ekJtWnFOWmpBamstNHVrLWV1QTNuVm5jQWMzS0dFT0dOc21GOFREcG1KMG5va1JKcUVmeWpWdWdPYVUtdjQ?oc=5",
+      "pub_date": 1788263245.0,
+      "article_url": "https://www.wsj.com/business/retail/medtronic-lifts-outlook-invests-over-700-million-in-heart-tech-robotics-7ceb0567",
       "image": null,
       "description": null
     },
@@ -65,18 +55,8 @@
       "description": null
     },
     {
-      "headline": "The rise of physical AI: can robots save US manufacturing?",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelBYOE85Vk15VkRMaHBCMlNqTFdLOVhnb2s4ZjBjVlZsWnFjYjUxRG1UTmkzQmNGNUNqbkZGYjZXdjdQV00wdm91TW5rNTNYR3dMQ0Q1Y19HdHFQSHptUGhoOGJsVlEwdktxckJndkZVNXppSTBPa3k0dFZDcHN6WVlPWlM?oc=5",
-      "pub_date": 1788148898.0,
-      "article_url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F865f203d-ce10-4d1b-995a-2e56479e1fa0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages"
-    },
-    {
       "headline": "As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production",
-      "source": "rferl.org",
+      "source": "Radio Free Europe/Radio Liberty",
       "source_url": "https://www.rferl.org",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM0tTTWtJaFp0cE9VbHNibFhyeXpCbEhMRGlQTVVPM0ZjSHFPTVhKTUVRVTEtcWF0NURTY3JCNkdiVHgwSXc1NC1vWWpDVWFDbkxsREVnNTdIUmNIUVRSU2lDWXZLa1BBLUJXU09HQlVyZ1BKRmtUUnV3aUluWTRoTXRWZFBXVllSbHZv0gGOAUFVX3lxTE81RDQ2TFZKQlBNZlBmMjA5Y1pEWUhsRnhiMU5xdktZRzVZZG9tQy1zdDdweXNMbksxSUt0UkRxTU0wc2xoaHVLUWRXd2NUeUEtQVlpTjhTSHF2OFlCWndHWFJzc2V3QWVya3hhaE9vNmNlUmRzeGtQcTkxVmhLQzdPUEotZkI2OC1QQy10d3c?oc=5",
       "pub_date": 1788186118.0,
@@ -95,6 +75,16 @@
       "description": "As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier."
     },
     {
+      "headline": "China\u2019s robots race ahead",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
+      "pub_date": 1788091200.0,
+      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
+    },
+    {
       "headline": "A robotic arm on a Texas rig picks up 30-foot joints of pipe weighing 2,000 pounds and makes the connection on a floor where a third of all drilling injuries have happened, and the floorhand who used to stand there now works a touchscreen while Houston ste",
       "source": "Autonocion.com",
       "source_url": "https://www.autonocion.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.autonocion.com/us/robotic-arm-rig-floor-permian/",
       "image": "https://www.autonocion.com/us/wp-content/uploads/2026/09/Helmerich-Payne-FlexRobotics.jpg",
       "description": "ExxonMobil operates more than 30 drilling rigs across the Permian, and two of those now move pipe with robotic arms while a contractor works a touchscreen"
+    },
+    {
+      "headline": "The US is building barriers around drones and robots, but China has scale to get around them",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1SWUItWFpiUEo5RWo0cWVOSmRoYlV5SENiOWdmclVfTUFDdW54aER6OGFTWHltNl9NLVA2UExqQ1NmMzZhaGtnX3AyZ29wSk83SmgxSEtuR3hyUGRjcUtjZWE2VmZsajJCNFhXZEx2YzI2V3NpZmRjdnlSNlF4dkVRek80TUplckhMSnBfbkZXcGJjczZ3ZXR5LTFxMGxVMTdhdm45RFlTdkQxUmNR?oc=5",
+      "pub_date": 1788143640.0,
+      "article_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
+      "description": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-01T22:44:15.727055+00:00"
+  "fetched_at": "2026-09-02T00:51:41.580969+00:00"
 }

@@ -35,17 +35,6 @@
       "description": "World Labs just announced Atlas, an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treating video as isolated 2D pixel grids, Atlas uses an autoregressive diffusion transformer to ground every input in a shared 3D \"spatial context.\" The space-time simulation features demonstrate how this moves AI past basic generation into true physical simulation: Democratized \"Bullet Time\": By processing footage from just 3 to 5 consumer mobile phones, Atlas can reconstruct dynamic events, freeze time, and simulate fluid camera trajectories through impossible angles without specialized capture rigs. Scalable Real-to-Sim: Beyond scanning static geometry, Atlas simulates dynamic robot navigation and manipulation. As an agent moves, the model synthesizes the exact RGB and metric depth streams its onboard sensors would capture along that path. Interactive Dynamics: Casual real-world video can be turned into simulations that model rigid, articulated, and deformable object physics, allowing researchers to alter object placement, lighting, and camera paths to generate synthetic training data. Native 3D Representations: It directly outputs point clouds and 3D Gaussian splats alongside novel video views, outperforming dedicated 3D reconstruction baselines across standard benchmarks like DTU, ETH3D, and ScanNet."
     },
     {
-      "title": "Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast",
-      "author": "Goldenchild123",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
-      "published": 1788274253.0,
-      "thumbnail": "https://external-preview.redd.it/NW5jMDBxdXh3d21oMYoOgvUcYUH_WvD5f7GXEohxo6xa1p7bqziW9k-nGLlV.png?width=640&crop=smart&auto=webp&s=7873d87111b5f752a43dbf17fb2607164fd0182c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press the mic mid-episode and ask whatever you're wondering (\"how big were these ships actually?\") \u2014 the hosts answer and weave it back into the story. Happy to answer anything about how it's built and curious to know what the community thinks!"
-    },
-    {
       "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
       "author": "Servola-Journal",
       "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
@@ -57,15 +46,15 @@
       "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks",
-      "author": "minxio_",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/",
-      "published": 1788286245.0,
-      "thumbnail": "https://preview.redd.it/1g53x4z49ymh1.png?width=640&crop=smart&auto=webp&s=6d8ad13816dafdc8fb48df256a463a58fce43b5c",
+      "title": "Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast",
+      "author": "Goldenchild123",
+      "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
+      "published": 1788274253.0,
+      "thumbnail": "https://external-preview.redd.it/NW5jMDBxdXh3d21oMYoOgvUcYUH_WvD5f7GXEohxo6xa1p7bqziW9k-nGLlV.png?width=640&crop=smart&auto=webp&s=7873d87111b5f752a43dbf17fb2607164fd0182c",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press the mic mid-episode and ask whatever you're wondering (\"how big were these ships actually?\") \u2014 the hosts answer and weave it back into the story. Happy to answer anything about how it's built and curious to know what the community thinks!"
     },
     {
       "title": "Working from home in 2026",
@@ -73,6 +62,17 @@
       "url": "https://www.reddit.com/r/artificial/comments/1w3fotb/working_from_home_in_2026/",
       "published": 1788187045.0,
       "thumbnail": "https://preview.redd.it/nrgahyg12qmh1.png?width=640&crop=smart&auto=webp&s=02e95da00a1e1f708a05202705450e6fe4c27ec0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks",
+      "author": "minxio_",
+      "url": "https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/",
+      "published": 1788286245.0,
+      "thumbnail": "https://preview.redd.it/1g53x4z49ymh1.png?width=640&crop=smart&auto=webp&s=6d8ad13816dafdc8fb48df256a463a58fce43b5c",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": "As AI agents become more autonomous, they are increasingly able to modify their own prompts, tools, middleware, routing, resources, and execution harnesses. That raises a question we studied in our recent work: What happens when a self-modification improves capability but cannot be safely reversed later? We introduce EvoUndo, a framework that treats recoverability as an explicit constraint on self-evolving agents. Across 600 unseen self-evolution tasks, we identified 197 capability-improving mutations that failed recoverability verification. Under the original recovery representation, conventional repair recovered 0/197. Our experiments suggest that two important bottlenecks are state grounding and recovery-language expressivity. The broader idea is that persistent self-modifications should not be judged only by whether they improve performance. They should also be tested for whether the previous state can be safely recovered across counterfactual states. I\u2019m one of the authors of the paper. Paper: https://arxiv.org/abs/2608.28363"
     }
   ],
-  "fetched_at": "2026-09-01T22:43:55.680738+00:00"
+  "fetched_at": "2026-09-02T00:51:16.266729+00:00"
 }
