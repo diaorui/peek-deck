@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "G20 live updates: Palantir's Karp says wealth inequality a 'real issue' for societies",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5",
-      "pub_date": 1788377700.0,
-      "article_url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357696-1788354639478-gettyimages-2292606224-G20_INNOVATION_MINISTERIAL.jpeg?v=1788354683&w=1920&h=1080",
-      "description": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade."
-    },
-    {
       "headline": "NYC schools ban AI for students through 8th grade under sweeping new policy",
       "source": "abc7ny.com",
       "source_url": "https://abc7ny.com",
@@ -25,86 +15,96 @@
       "description": "Mayor Mamdani says children need \"human connection\" in the classroom as NYC launches a one-year AI moratorium for students through 8th grade."
     },
     {
-      "headline": "Mamdani announces ban on AI for young students in NYC public schools",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFh6ZUdPR2g0YUpLb2pCVWRVQkRlOHlhSlZ0R0xpZWN1UXNVX0xsZnVBNWN0RjhsN2ZLSlI2TFdOaHBPUnlUMmJ0NFd1VzM2XzFrWVp4R1VzeHUtd21JMDlhTWZyaG44WXdRaElCUkdlaUhROUhaY0ZjWWxRaHQ5MkJXZGJ1QzVOd3RXMzZteFA2aV8yd25ZVG5oc01feWtIY0U5M25aZ25OWlV4NHk2YkpPVUhXQQ?oc=5",
-      "pub_date": 1788370972.0,
-      "article_url": "https://www.nbcnews.com/now/video/mamdani-announces-ban-on-ai-for-young-students-in-nyc-public-schools-269224005861",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1788370652171_now_daily_a_tki_mamdani_nyc_schools_ai_ban_260902_S3_1920x1080-8u0d3n.jpg",
-      "description": "New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th grade in public schools. NBC News' Tyler Kingkade reports."
-    },
-    {
-      "headline": "Mamdani imposes one-year ban on AI for most NYC students",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5",
-      "pub_date": 1788379303.0,
-      "article_url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
+      "headline": "NYC, the nation\u2019s largest school system, bans AI for students through 8th grade",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUi11ZFlzRFhnU29Ba1BNRlFLU2lIOE5jTUVJWkgzek16MU5BaDV2WG5mcnFIMmZGOUJUZi14di1mRi1LRGwtck5rR0VDRnZSMkFUM0lweUhqWlFFaDlQYnltQVdxbm5UenRLeVlFbHgzZjRJSWhNQVNEek9LcWhRQk9OS253cXE4b1NRNlR4RlJCZl92NmloVw?oc=5",
+      "pub_date": 1788374580.0,
+      "article_url": "https://apnews.com/article/zohran-mamdani-ai-ban-nyc-schools-647f6a968eea0399521b7934418b1aff",
       "image": null,
       "description": null
     },
     {
-      "headline": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTN3eDFYZ05aWEVjNnRGVG9sRy1kYTQ0QTA1SUlLQk9MZ19GUDZ5dE81QTQzck9scHFOYmJ4TTFJYWgyMGRCZ0lrVWtZcHJ2a2ZqYUIzSlhWdFpsVm1PZ3dsYkhqdjRQb2dWajdVbjE5UVJNNWg3endubDFoT3BEX080ZE04dFVpaHVvY2x6ZDJqbmpUMW9WRHZ0ZURrZjBBZzZpSjFKMFJTMzZw?oc=5",
-      "pub_date": 1788380432.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant",
+      "headline": "NYC to ban AI in preschool to 8th grade this year, but AI skeptics fear \u2018exemptions\u2019",
+      "source": "New York Daily News",
+      "source_url": "https://www.nydailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3dXdlNmZHZlbzBBWDBLOVRVem82X0xxS3h3N3AtR2VVR2pQeWFsYmRmY2VGZHZVd2xMckN6bnFWQk1hTW9USEh5dXdDdElCMVdxUVlOMmU0SHlnRDBjc1B1c1NDODBOeEFObXJsMmJ0YW9xTEVRSW1WYURMSGdPbmV5UnE5Nk5xVURMbUp5dmhvbmZYci1BSXNfY0RoT2szeVRVN2t3OXE?oc=5",
+      "pub_date": 1788388786.0,
+      "article_url": "https://www.nydailynews.com/2026/09/02/nyc-ban-ai-preschool-8th-grade-this-year-skeptics-fear-exemptions/",
+      "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/55504730169_134e8840b8_o.jpg?w=2700&h=1800",
+      "description": "A coalition of mostly parents pushing for a\u00a0two-year moratorium on AI in schools said the policy, while a step in the right direction, includes too many exceptions."
+    },
+    {
+      "headline": "Bill Simmons\u2019s Podcast Co-Hosts Are Tired of His A.I. Antics",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
+      "pub_date": 1788353340.0,
+      "article_url": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
-      "source": "theverge.com",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGZOd1k3V2lUSk9raG9XeDg4dm9Fd0N4blA2LWZSUFNHOWVZY1FHSWpNU2JXSXl6VGhmU2tiUlhka19FbFh0TVBiU1V0QkNnMGE2VHNpWWhuamlwMXhlOEpIc3RPV1V4UlpVTzFRUVdJRW5uY2FnTXVuNi1GQmV2UHMtN3hLWjRxMnc?oc=5",
-      "pub_date": 1788379900.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Can Google\u2019s new Gemini model compete with Fable 5.1?"
+      "headline": "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI",
+      "source": "newsroom.equinix.com",
+      "source_url": "https://newsroom.equinix.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGhGYk5Fb3JBZjZ0UEwzTzhneHV6OTJzeU03b1BhUEEwYVBJY05zN3Q4MWNNT09PV21NWXBmUEVGRWhCdzh3UGI1TVlONUNfUWh6c3U3Tkx3VmdDSzhGSDVZM2xSWG9hZTlfc0ZDSVRsUHBYMndhZHh3aFlWUDRhQnk1MzhUdWNmby1ydWZuUkNBUVFIQnljVnZDcUhTNnkwMlphenIweTRZNkRKRDNmUEU2TTJ0SVU?oc=5",
+      "pub_date": 1788350812.0,
+      "article_url": "https://newsroom.equinix.com/2026-09-02-Equinix-Accelerates-AI-Inference-for-Enterprises-with-NVIDIA-and-Together-AI",
+      "image": "https://mmx.prnewswire.com/media/MS1980177/Equinix-Inference-Exchange-Bringing-inference-closer-to-where-data-users-and-applications-live.jpg?id=OA2925142&p=facebook",
+      "description": "Equinix Inference Exchange combines NVIDIA Enterprise Reference Architectures, Together AI's inference platform and Equinix's global infrastructure to optimize deployment speed, flexibility and..."
     },
     {
-      "headline": "DELL Q2 Earnings Beat Estimates, Strong AI Demand Aids Revenue Growth",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXA1dXVDOVd2aGh3RU1oYUtSd1hrZ0tNdmxqb1Rqb2xOUlRpcXZPcE4zb2xyanltWGhpR3g4T0UtdHA1bnNFX1pJejFSRXpLZmliaU1XZ2g1NU1IQTFkMHZ5ajNFVWxWMzNvQ0ZxMlZmZGNWWkZmWmNqUFJXWE1DVmgwdmdNLUVkWVhFS1JCejVIUDd1OFpFMVRtQmk?oc=5",
-      "pub_date": 1788373500.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/dell-q2-earnings-beat-estimates-182500028.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/74200dd7ae44715d8f9385c5ab4c1bb6c438bcb69615c999167eb67dddbeddc7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Fc1cd358e97afad5e5afc22d86c6e3093.jpg",
-      "description": "Dell's Q2 fiscal 2027 results beat estimates as AI server demand surges, ISG revenues hit a record and management raises its full-year outlook."
-    },
-    {
-      "headline": "HPE Boosts Outlook as AI Demand Drives Surge in Third-Quarter Profit",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN21IOU5lZUlTZkxXWWhvUXRzRXA3c1V5SkdIV3p0Znh2YWwxY0FXWFpYY0NpTjNsZW5Dc1BWUU9kWjJYTlU2WEN2WUgtZTlCLWFCS3RQcmlHaFZ0SmdMMmVVLWd1ZkxwQVNoTmtuRVVQdmFjbU5YeW0zSUcyblFrbVJnS2IyVkhrNlFCSlNESXV5Z2had1FnU1liSXpxZlpsYVU0eWthNkVicy1lbWxoV3llMUR4UQ?oc=5",
-      "pub_date": 1788380340.0,
-      "article_url": "https://www.wsj.com/business/earnings/hpe-boosts-outlook-as-ai-demand-drives-surge-in-third-quarter-profit-2ba3b90a",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "headline": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51VnZVMGZaX0JwQ0dVOHV2SXJkMDhob2Nja3RLQXBCWTlBLWN5X1VXNlZPdGpxYUF2RFJoaXI0czFnV0lSSHdhRVZqT1RMRjJ5Y25TczVvM01wVndnNktuU1JVemd5OFYxRWhsbGdzemNINnfSAXhBVV95cUxQejhobUpIOURGX2Zaakd1M3FMZmNzbHY0VEJHY2pybkFMOHZNOG53RlNyb3czSHd3WXBKWWtwYmFJc0QweEw3d0pnLVhGTGtuT1hXdVZ0MFhUUGxsQWRybzN0bG90SlV1SVZlZUw4ekdXS01CbjJWZjU?oc=5",
-      "pub_date": 1788293257.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108308588-1779133061777-gettyimages-2276430067-DELL_TECHNOLOGIES_CONVENTION.jpeg?v=1779133175&w=1920&h=1080",
-      "description": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double."
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFJEczUtYm8zMzZSOVJnLU5tYWRYNG9pSWlOUjBfUm0zRElHbkZ4SmVTR2MyQmw4bHhuQzZESVVqemJMSFUyaGlERlJBQW5ndFZ4bmljZVZ4TldpVFdqanVUbzJxZjNwa3B1emdjclV5aEtHbFpmbUM2bDEzNnhjQ0lwMjBKaVFkX01BS2hYc2xYX2tXNV9JZ0lHb01tNS1ETzFJ0gGoAUFVX3lxTE15bmpzdUttS09NQ2NYQ0lJRXo0TEpLd2VLVjVRdjdrZHRtbjlqalFBNFNTMXNjS2hHMzRGODVfZjZCQW1OWFFZd0V1dm1xVk91UFdmN1g4TTBKem1EWGNrS2dmdUgxOWJFTmdETV9FS0xhNEVhLWdtSENRYkJzeEFDc1VjMTE5R0sxSzNtZWlSR21QNThwekdOeFZDa1Z5anNQdGt6VzRLZQ?oc=5",
+      "pub_date": 1788389341.0,
+      "article_url": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358139-1788386094940-IMG_0024.jpeg?v=1788386177&w=1920&h=1080",
+      "description": "Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference."
     },
     {
-      "headline": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU05PeW14UGVmaGxSU1BxdmFHNnVKOFZwMFNHNWF6cXA0ZjBOa3JsZnIzbzZKY2h6a1k1Yk9Sd3F5VnlNMkhpa0c4T0R3aTJaZ2NpTGpkTjMzWGV4dVRuU21RM2JneURwZUtNUjNFV3NFSXJuZFhWMkZjX0hGel9VZg?oc=5",
-      "pub_date": 1788373200.0,
-      "article_url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/191:100/w_1280,c_limit/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
-      "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models."
+      "headline": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa19QTkMyU3B3eUJFcXB3TmFIWVJ5RW5aNTN4LVhBby1oaVhaei12N2VmYW9kTUFPc0pPajNLSkhXWTFsOXF5RDRIWkhJNUoyN29HcGd1UUU3bDhLMUtvLWhvb2l1bUdTaHMwWUR4RDFrS21Xc1VRWXJ5c25nR0E1TVAxV2IxR3QyT0MzOC1GTFNxeDY0RDdxenA0bmQ4WFlZ?oc=5",
+      "pub_date": 1788353242.0,
+      "article_url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1wVmhCUF9BYU11WDFMS1ZOSmlIQUpiTlF6a1RLQlpQZ0R0Y3M5M0hoTExZN0t5Q0FwbTZ5c3B3T2pzWFdZTnp1ZWVfdi1QZmdQeHlHcEFYUFhvbWw4TEdJamNqT3pYZnM3VGU1ckRYVXJWTzRyeXIzb21XT0NscnBqUXZzRW1HcS1lT05IODJOWGp2eC02bDd0ejRIRXRYTXMtbQ?oc=5",
+      "pub_date": 1788364036.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
+      "description": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity."
+    },
+    {
+      "headline": "Hikers who relied on Google\u2019s Gemini AI rescued from Mount Shasta",
+      "source": "KRON4",
+      "source_url": "https://www.kron4.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2JHQThVaXp3c09vS29uZFc4MUJZU29xYWlXMHpnUTN0WjB5amRNUzV0MnJDNUM4ckQxMHhjRGN0b0t2aTJQV0sxeC12bkFnb2NEZVo0YVY0WTNHMHF2RGlNYmw5ZFdhUVQxWHFnQy1yMmFlYVFPNWptc1gwdDZDVXRmbzNVVmMwVVZyZmlENlBrUjRnYVJRcElvNDNzMThXckRHR0NOSm10d9IBrwFBVV95cUxQTXhwODhGVHliM3F4RmJPRVVtU1FNeVVWZlBGOUZaM2FwdUJPV1lYajhjbl95dVB6Z0hJTjlOMEJqaEwwUTdWXzN3Ull0Y0lLNFV2SWJ4MmdBVFI5aU8yV2ZIdE04LWs2Z2JXZ1RTNHZNQTd2Yk5EeFJCRGdDU0JrdGVSNWJSendEMUJKN2QxZTI1RW1hdkp1Rlc5WDdIcFdydzhEUEJTai1zVGZBQlNB?oc=5",
+      "pub_date": 1788370355.0,
+      "article_url": "https://www.kron4.com/news/technology-ai/hikers-who-relied-on-googles-gemini-ai-rescued-from-mount-shasta/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "source": "The Hacker News",
+      "source_url": "https://thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42YzZVZWJvNVN5MnFiNl9zVXVadzBVTi1xaHVId0Q5SnJfck5NVG9RS3RsWmJvaWlheWdmUV9QeFRqV0lWTnFTYTVhM3U2NU0xV1AtZ2R3NWRkVVlQOW9vZ3R4anpONVNhUnQ5ZFM0LXpqNEJEQXFsdjNWWEU2Zw?oc=5",
+      "pub_date": 1788373620.0,
+      "article_url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1700-nu-rw-lo-l85-e365/aiai.jpg",
+      "description": "Google launches Gemini 3.8 Flash Cyber for trusted defenders as OpenAI says Astra meets its Critical cybersecurity capability threshold."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T20:57:08.121919+00:00"
+  "fetched_at": "2026-09-02T23:07:41.101807+00:00"
 }
