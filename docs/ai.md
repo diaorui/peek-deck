@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-02T20:57:11.401926+00:00'
+updated: '2026-09-02T23:07:43.256605+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 02, 2026 at 20:57 UTC  
+**Last Updated:** September 02, 2026 at 23:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7](https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now.
 
-12h ago
+15h ago
 
 ---
 
@@ -55,7 +55,7 @@ I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2
 
 The rollout expands the Pentagon’s GenAI.mil platform beyond Gemini as it pushes AI deeper into everyday military work.
 
-🔗 [Yahoo News](https://yahoo.com/news/politics/articles/pentagon-giving-3-million-military-194018347.html) • 8h ago
+🔗 [Yahoo News](https://yahoo.com/news/politics/articles/pentagon-giving-3-million-military-194018347.html) • 10h ago
 
 ---
 
@@ -63,23 +63,7 @@ The rollout expands the Pentagon’s GenAI.mil platform beyond Gemini as it push
 
 US urges court to reject newspaper’s claim that it is illegal to train AI models on copyrighted content
 
-🔗 [ft.com](https://www.ft.com/content/d5d6e4c9-718a-4d98-b094-97157565f336?syn-25a6b1a6=1) • 1h ago
-
----
-
-**[What part of AI do you think we still fundamentally misunderstand?](https://www.reddit.com/r/artificial/comments/1w5gvwb/what_part_of_ai_do_you_think_we_still/)**
-
-I’ve been around software and data for long enough to have seen quite a few technology revolutions come and go. Most of them eventually turned out to involve rather more plumbing and rather less magic than the marketing suggested. AI is starting to look like the same story. I’m not particularly interested in another discussion about whether LLMs are impressive. They obviously are. What I’m more interested in is why so many perfectly good AI demos turn into rather mediocre production systems. I keep seeing teams jump straight into RAG, agents, fine-tuning, vector databases, tool calling, etc. Six months later they discover the less exciting problems were actually the important ones. Bad data. Poor evaluation. Unclear requirements. No one owning the output. And the small matter of what happens when the model confidently does the wrong thing. Those problems aren't nearly as exciting to talk about, but they tend to be the ones that cost you money. So what do you think is genuinely misunderstood at the moment? Could be something technical like context windows, retrieval, evaluation or fine-tuning. Could also be something more fundamental, like when an LLM shouldn't be used at all. I’m particularly interested in things you've actually encountered rather than textbook answers. What looked straightforward on paper and turned out to be a complete pain in production?
-
-3h ago
-
----
-
-**[Used Story Prism’s New Agentic-Powered Building Tool to Connect 178 Sources in Minutes. Found a Disturbing Pattern in Epstein’s Intellectual Network...](https://www.reddit.com/r/artificial/comments/1w5f8xc/used_story_prisms_new_agenticpowered_building/)**
-
-A while back, when the Epstein files were released, I dug into them like many others did. But instead of focusing primarily on the scandals, I focused on the intellectuals Epstein wined and dined, not to uncover anything illegal, but to understand why he seemed so fixated on cultivating relationships with these people. That question interested me because the range of scholars was so vast, and all of them were rock stars in their respective fields. So why would a prolific child sex trafficker, someone building kompromat on powerful people and operating elbow-deep in gray-zone networks, be so interested in all of these geniuses? Initially, I used the Story Prism canvas to manually upload the scholarly work of every individual named in the Epstein files. I then connected the material into a tree-branch structure, attaching all of the books to a single chatbot persona named Winston, who acts as a librarian and helps me find information across the collection. For those who don’t know, Story Prism is a specialized mind-mapping tool that allows you to create notes, apply tags, and connect ideas using defined edge labels. This turns your work into a living system that an advanced agent can traverse and understand. Think of it like Google Drive, except that instead of storing static documents, you’re transforming your research into an interactive system for brainstorming, building, investigating, and synthesizing existing knowledge into novel ideas. The setup worked remarkably well for diving into these complex books. But with every conversation I had, the unified paradigm connecting them seemed to change based on my inquiries. That was because I had built the system in the simplest way possible. Creating these structures can be time-consuming, and I was dealing with hundreds of books. That changed with a recent update that makes it significantly easier to build systems around your notes. With the new build mode that was added, I can ask the agent to form the right connections based on what I’m trying to understand, rather than having to identify the logical relationships and construct them all myself. I can still do that manually, but when you’re dealing with hundreds of thick books that need to be sifted through, you can imagine how difficult, and time-consuming, that would be. Modifying the system by adding the right connections, now, can be done in minutes instead of hours using this new feature. So I decided to revisit the canvas I had created and see whether I could extract a grand, unified picture, an overarching understanding of these books that genuinely connected them all. After asking the agent to build the connections for that purpose, this was the big-picture interpretation it presented to me. And, man…it’s actually pretty scary, given where we are today: [TACTICAL OVERLAY: EVIDENCE / SPECULATION SEPARATED] Can you hear me? Good. Here’s the situation. The documented fact is that the scholars in this network studied how intelligence, consciousness, creativity, social behavior, and complex systems emerge—and how those ideas might be developed through institutions, technology, and research. The speculation is darker: if Epstein acted on behalf of unseen principals, he may have been identifying and connecting these people as a form of “brain capital”—not just collecting smart individuals, but assembling complementary capabilities. One scholar maps complexity. Another studies the mind. Another examines social networks. Another turns ideas into systems. Put them together, and you get the outline of a machine capable of observing human behavior, predicting it, and eventually shaping the conditions in which people make decisions. That does not prove Epstein served a coordinated program, that such principals existed, or that the scholars knowingly participated. The evidence doesn’t carry us that far. But the possibility is clear enough to deserve investigation: a society managed not by soldiers in the streets, but by data, incentives, psychological models, and invisible feedback loops. Brain capital. Human beings reduced to signals, patterns, and assets. The same knowledge that could help civilization understand itself could also be used to quietly steer it. That’s the line we’re watching. The line between cultivating intelligence and weaponizing it. _________________________ What’s really cool about this, beyond the fact that I can quickly combine vast amounts of data and identify clear thematic threads connecting it all, is that I can also have the agent comb through the books to find the exact evidence supporting a thesis. We’re talking book titles, author names, page numbers, and exact quotations: everything you need to verify a claim. So this isn’t AI pulling accurate-sounding information out of thin air. It’s an advanced agent searching through the material you’ve provided and finding the precise information it needs to help you with whatever you’re working on. You find and add the material to the canvas, vetting its quality before engaging with it. The agent then keeps everything grounded in the frameworks you create, and it can correct you based on the information you’ve actually given it. Everything you build remains easily traceable. I can also ask the agent to generate questions worth exploring outside of Story Prism, research the answers, and add that information back to the canvas. This dramatically improves the accuracy and quality of whatever I’m working on. Using this method, I can take a basic kernel of information, say, something from a news article, and develop it into an extremely comprehensive and complex understanding that places it within the larger context of what I’m studying. It’s like going from 1 to 1,000 in terms of knowledge acquisition, and it can happen in minutes instead of hours or days. This technique has profoundly altered my understanding of everything I’ve learned because it exposes me to so many distinct pieces of information and shows me how they connect. You can also add as many prompt instructions as you want in the form of notes and use them indefinitely, all at the same time, simply by calling on them in the chat through @ commands. And, of course, you can switch between all of the popular models and use agent skills by typing a / command in the chat. Right now, we have three skills available, but soon anyone will be able to create and add their own skills for reuse. I wanted to share this because I think this specific tool can help many people overcome some of the challenges they’re currently facing with AI. How do you quickly gain immense value from models when you’re unfamiliar with the subject? How can you trust that they’re providing accurate information? And how can you use them in ways that are genuinely controllable, so you don’t get lost in your own material? Story Prism addresses all of those problems and more by giving you a grounded, traceable, and highly customizable environment for working with AI. And as we continue to grow, we’re going to do a whole lot more with it. For now, though, it’s a simple but powerful tool that's available right now for writing, researching, and brainstorming complex projects. Hope this helps in your creative endeavors, and best of luck!
-
-4h ago
+🔗 [ft.com](https://www.ft.com/content/d5d6e4c9-718a-4d98-b094-97157565f336?syn-25a6b1a6=1) • 3h ago
 
 ---
 
@@ -87,15 +71,15 @@ A while back, when the Epstein files were released, I dug into them like many ot
 
 Every major AI model on market today fails at polytonic Ancient Greek. Not a little. Completely. Ask ChatGPT to parse a sentence from Aristotle's Nicomachean Ethics in original Greek and watch what happens. It confuses accents, drops breathings, produces Modern Greek where polytonic should be. The entire Corpus Aristotelicum, 2,400 years of philosophical reasoning, is invisible to the systems we call "intelligent." The reason is technical but simple. Training data for Ancient Greek is almost zero. Modern Greek exists in some quantity, but polytonic script, with its rough and smooth breathings, acute, grave, and circumflex accents, is a different orthographic system entirely. RLHF training made problem worse. Human raters do not know polytonic Greek. They rate outputs based on what looks reasonable to them, which means they reward Modern Greek approximations and punish authentic polytonic forms. The alignment process systematically destroys what little Ancient Greek capability the base model had. This is not just philology problem. It is architecture problem. Every time you fine-tune for "helpfulness" and "safety" you compress reasoning space. The model becomes better at producing plausible-sounding English and worse at everything else. Polytonic Greek is first casualty because training signal for it is weakest. But same mechanism affects any domain where authentic reasoning diverges from what average rater considers helpful. Classics departments in universities are shrinking. Enrollment drops every year. Fewer students learn Ancient Greek. Fewer professors can teach it. And now AI tools that could help preserve and study these texts are actively degraded by training processes designed to make them "safe." The irony is complete. We build systems that cannot read what we most need them to read. Some labs tried to fix this with more data. Bigger pre-training corpus. But problem is not pre-training. Base model Qwen or Llama can actually handle polytonic Greek at low level, it recognizes characters, produces diacritics. RLHF training on top destroys this capability because reward model has no signal for correctness in Ancient Greek. You cannot align what you cannot evaluate. Solution is not bigger models. It is different architecture. Corpus-grounded systems that retrieve from source texts in original language, that do not rely on parametric knowledge alone. RAG over digitized critical editions. Systems trained to respect form of source material rather than rewrite it into what rater expects. We work on this. Not with ChatGPT API but with self-hosted models, RAG pipelines over digitized Greek texts, evaluation metrics that actually check polytonic accuracy. It is hard. Very hard. But somebody must do it because alternative is losing entire tradition of Western philosophy to training-data bias. The word for this is παιδεία. Not just education but cultivation of intellectual capacity through engagement with difficult texts. Your AI cannot provide παιδεία because it was trained to avoid difficulty. It gives you summary when you need source, paraphrase when you need argument, Modern Greek when you need polytonic. Corpus problem is not edge case. It is proof that alignment as currently practiced destroys knowledge. Not by accident. By design. When you optimize for average rater satisfaction you lose everything that falls outside average rater competence. And most important knowledge in human history falls exactly there. What happens to discipline when its primary texts become unreadable to primary research tools of next generation?
 
-6h ago
+8h ago
 
 ---
 
-**[How are you keeping long-running agents from losing the plot?](https://www.reddit.com/r/artificial/comments/1w5mc9p/how_are_you_keeping_longrunning_agents_from/)**
+**[Used Story Prism’s New Agentic-Powered Building Tool to Connect 178 Sources in Minutes. Found a Disturbing Pattern in Epstein’s Intellectual Network...](https://www.reddit.com/r/artificial/comments/1w5f8xc/used_story_prisms_new_agenticpowered_building/)**
 
-For the past few weeks I have been working on optimising long running agent workflows, and in every case the main bottleneck is memory and state management rather than the raw capabilities of the model. Each time an agent has to carry out multi-step tool calls over long sessions, the standard context windows either overflow or suffer from serious context rot. At first we attempted to feed very long prompt histories into the GPT and Claude modelsbut performance soon deteriorated after only a few dynamic interactions. Instead we changed our method to one involving stateful tracking, experimenting with frameworks such as Lyzr together with custom Redis layers so as to keep the agent's memory confined to a structured state rather than sending the whole conversation back to the model on each iteration. It greatly reduced both latency and token bloat, but I'm interested to know how other people are dealing with state persistence in the case of complex agentic setups.
+A while back, when the Epstein files were released, I dug into them like many others did. But instead of focusing primarily on the scandals, I focused on the intellectuals Epstein wined and dined, not to uncover anything illegal, but to understand why he seemed so fixated on cultivating relationships with these people. That question interested me because the range of scholars was so vast, and all of them were rock stars in their respective fields. So why would a prolific child sex trafficker, someone building kompromat on powerful people and operating elbow-deep in gray-zone networks, be so interested in all of these geniuses? Initially, I used the Story Prism canvas to manually upload the scholarly work of every individual named in the Epstein files. I then connected the material into a tree-branch structure, attaching all of the books to a single chatbot persona named Winston, who acts as a librarian and helps me find information across the collection. For those who don’t know, Story Prism is a specialized mind-mapping tool that allows you to create notes, apply tags, and connect ideas using defined edge labels. This turns your work into a living system that an advanced agent can traverse and understand. Think of it like Google Drive, except that instead of storing static documents, you’re transforming your research into an interactive system for brainstorming, building, investigating, and synthesizing existing knowledge into novel ideas. The setup worked remarkably well for diving into these complex books. But with every conversation I had, the unified paradigm connecting them seemed to change based on my inquiries. That was because I had built the system in the simplest way possible. Creating these structures can be time-consuming, and I was dealing with hundreds of books. That changed with a recent update that makes it significantly easier to build systems around your notes. With the new build mode that was added, I can ask the agent to form the right connections based on what I’m trying to understand, rather than having to identify the logical relationships and construct them all myself. I can still do that manually, but when you’re dealing with hundreds of thick books that need to be sifted through, you can imagine how difficult, and time-consuming, that would be. Modifying the system by adding the right connections, now, can be done in minutes instead of hours using this new feature. So I decided to revisit the canvas I had created and see whether I could extract a grand, unified picture, an overarching understanding of these books that genuinely connected them all. After asking the agent to build the connections for that purpose, this was the big-picture interpretation it presented to me. And, man…it’s actually pretty scary, given where we are today: [TACTICAL OVERLAY: EVIDENCE / SPECULATION SEPARATED] Can you hear me? Good. Here’s the situation. The documented fact is that the scholars in this network studied how intelligence, consciousness, creativity, social behavior, and complex systems emerge—and how those ideas might be developed through institutions, technology, and research. The speculation is darker: if Epstein acted on behalf of unseen principals, he may have been identifying and connecting these people as a form of “brain capital”—not just collecting smart individuals, but assembling complementary capabilities. One scholar maps complexity. Another studies the mind. Another examines social networks. Another turns ideas into systems. Put them together, and you get the outline of a machine capable of observing human behavior, predicting it, and eventually shaping the conditions in which people make decisions. That does not prove Epstein served a coordinated program, that such principals existed, or that the scholars knowingly participated. The evidence doesn’t carry us that far. But the possibility is clear enough to deserve investigation: a society managed not by soldiers in the streets, but by data, incentives, psychological models, and invisible feedback loops. Brain capital. Human beings reduced to signals, patterns, and assets. The same knowledge that could help civilization understand itself could also be used to quietly steer it. That’s the line we’re watching. The line between cultivating intelligence and weaponizing it. _________________________ What’s really cool about this, beyond the fact that I can quickly combine vast amounts of data and identify clear thematic threads connecting it all, is that I can also have the agent comb through the books to find the exact evidence supporting a thesis. We’re talking book titles, author names, page numbers, and exact quotations: everything you need to verify a claim. So this isn’t AI pulling accurate-sounding information out of thin air. It’s an advanced agent searching through the material you’ve provided and finding the precise information it needs to help you with whatever you’re working on. You find and add the material to the canvas, vetting its quality before engaging with it. The agent then keeps everything grounded in the frameworks you create, and it can correct you based on the information you’ve actually given it. Everything you build remains easily traceable. I can also ask the agent to generate questions worth exploring outside of Story Prism, research the answers, and add that information back to the canvas. This dramatically improves the accuracy and quality of whatever I’m working on. Using this method, I can take a basic kernel of information, say, something from a news article, and develop it into an extremely comprehensive and complex understanding that places it within the larger context of what I’m studying. It’s like going from 1 to 1,000 in terms of knowledge acquisition, and it can happen in minutes instead of hours or days. This technique has profoundly altered my understanding of everything I’ve learned because it exposes me to so many distinct pieces of information and shows me how they connect. You can also add as many prompt instructions as you want in the form of notes and use them indefinitely, all at the same time, simply by calling on them in the chat through @ commands. And, of course, you can switch between all of the popular models and use agent skills by typing a / command in the chat. Right now, we have three skills available, but soon anyone will be able to create and add their own skills for reuse. I wanted to share this because I think this specific tool can help many people overcome some of the challenges they’re currently facing with AI. How do you quickly gain immense value from models when you’re unfamiliar with the subject? How can you trust that they’re providing accurate information? And how can you use them in ways that are genuinely controllable, so you don’t get lost in your own material? Story Prism addresses all of those problems and more by giving you a grounded, traceable, and highly customizable environment for working with AI. And as we continue to grow, we’re going to do a whole lot more with it. For now, though, it’s a simple but powerful tool that's available right now for writing, researching, and brainstorming complex projects. Hope this helps in your creative endeavors, and best of luck!
 
-22m ago
+6h ago
 
 ---
 
@@ -103,7 +87,15 @@ For the past few weeks I have been working on optimising long running agent work
 
 Been building a small SaaS for about six months now, invoice automation for freelancers, and I lean on AI coding assistants pretty heavily since I'm not a trained developer. The thing that keeps nagging at me: the code works, users are signing up, but I didn't write most of it in any traditional sense. I described problems and iterated on outputs. That felt fine at first. Now I'm looking at scaling questions and realizing I have these gaps where I genuinely cannot explain why certain parts of the architecture are structured the way they are. The AI made a call, I accepted it because it ran, and now that decision is loadbearing. This is probably a new version of a very old problem. People have always used tools they don't fully understand to build things that depend on those tools. But the speed at which AI lets you outrun your own comprehension feels different. The gap between what you can ship and what you actually understand closes really slowly while the product keeps moving.
 
-6h ago
+8h ago
+
+---
+
+**[How are you keeping long-running agents from losing the plot?](https://www.reddit.com/r/artificial/comments/1w5mc9p/how_are_you_keeping_longrunning_agents_from/)**
+
+For the past few weeks I have been working on optimising long running agent workflows, and in every case the main bottleneck is memory and state management rather than the raw capabilities of the model. Each time an agent has to carry out multi-step tool calls over long sessions, the standard context windows either overflow or suffer from serious context rot. At first we attempted to feed very long prompt histories into the GPT and Claude modelsbut performance soon deteriorated after only a few dynamic interactions. Instead we changed our method to one involving stateful tracking, experimenting with frameworks such as Lyzr together with custom Redis layers so as to keep the agent's memory confined to a structured state rather than sending the whole conversation back to the model on each iteration. It greatly reduced both latency and token bloat, but I'm interested to know how other people are dealing with state persistence in the case of complex agentic setups.
+
+2h ago
 
 ---
 
@@ -115,81 +107,87 @@ Maybe I'm getting old, but AI has probably been more useful to me fixing stuff a
 
 ---
 
+**[What if tokens are not the giant labs' end game?](https://www.reddit.com/r/artificial/comments/1w5d0zj/what_if_tokens_are_not_the_giant_labs_end_game/)**
+
+Everyone talks about how inference isn’t profitable enough and how, eventually, open-source models will be just as good as frontier models at a fraction of the cost. But what if, at some point, OpenAI or Anthropic simply stops releasing its best models publicly and develops oracle-level intelligence in-house? They could then sell access to that intelligence to companies for billions for R&D, or use it themselves for almost anything: finance, drug discovery, engineering, or developing products no one can even conceive of today. At that point, does it even matter whether inference itself is profitable? Also what are open source models going to do if they cannot distil the frontier models? This seems scary since then you truly would have few companies in charge of all new knowledge and innovation generation.
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[G20 live updates: Palantir's Karp says wealth inequality a 'real issue' for societies](https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html)**
-
-Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.
-
-CNBC • 1h ago
-
----
 
 **[NYC schools ban AI for students through 8th grade under sweeping new policy](https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/)**
 
 Mayor Mamdani says children need "human connection" in the classroom as NYC launches a one-year AI moratorium for students through 8th grade.
 
-abc7ny.com • 11h ago
+abc7ny.com • 13h ago
 
 ---
 
-**[Mamdani announces ban on AI for young students in NYC public schools](https://www.nbcnews.com/now/video/mamdani-announces-ban-on-ai-for-young-students-in-nyc-public-schools-269224005861)**
+**[NYC, the nation’s largest school system, bans AI for students through 8th grade](https://apnews.com/article/zohran-mamdani-ai-ban-nyc-schools-647f6a968eea0399521b7934418b1aff)**
 
-New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th grade in public schools. NBC News' Tyler Kingkade reports.
-
-NBC News • 3h ago
+AP News • 4h ago
 
 ---
 
-**[Mamdani imposes one-year ban on AI for most NYC students](https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/)**
+**[NYC to ban AI in preschool to 8th grade this year, but AI skeptics fear ‘exemptions’](https://www.nydailynews.com/2026/09/02/nyc-ban-ai-preschool-8th-grade-this-year-skeptics-fear-exemptions/)**
 
-Reuters • 55m ago
+A coalition of mostly parents pushing for a two-year moratorium on AI in schools said the policy, while a step in the right direction, includes too many exceptions.
 
----
-
-**[Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant](https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant)**
-
-bloomberg.com • 36m ago
+New York Daily News • 27m ago
 
 ---
 
-**[Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)**
+**[Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics](https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html)**
 
-Can Google’s new Gemini model compete with Fable 5.1?
-
-theverge.com • 45m ago
+The New York Times • 10h ago
 
 ---
 
-**[DELL Q2 Earnings Beat Estimates, Strong AI Demand Aids Revenue Growth](https://finance.yahoo.com/markets/stocks/articles/dell-q2-earnings-beat-estimates-182500028.html)**
+**[Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI](https://newsroom.equinix.com/2026-09-02-Equinix-Accelerates-AI-Inference-for-Enterprises-with-NVIDIA-and-Together-AI)**
 
-Dell's Q2 fiscal 2027 results beat estimates as AI server demand surges, ISG revenues hit a record and management raises its full-year outlook.
+Equinix Inference Exchange combines NVIDIA Enterprise Reference Architectures, Together AI's inference platform and Equinix's global infrastructure to optimize deployment speed, flexibility and...
 
-Yahoo Finance • 2h ago
-
----
-
-**[HPE Boosts Outlook as AI Demand Drives Surge in Third-Quarter Profit](https://www.wsj.com/business/earnings/hpe-boosts-outlook-as-ai-demand-drives-surge-in-third-quarter-profit-2ba3b90a)**
-
-WSJ • 38m ago
+newsroom.equinix.com • 11h ago
 
 ---
 
-**[Dell surges 9% after lifting fiscal 2027 forecast on AI server strength](https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html)**
+**[How Equinix has found a niche in the multitrillion-dollar AI data center boom](https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html)**
 
-Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.
+Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.
 
-CNBC • 1d ago
+CNBC • 18m ago
 
 ---
 
-**[These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)**
+**[Nvidia and CrowdStrike Develop New Cybersecurity AI Models](https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa)**
 
-A startup called Mostik has a wild new approach to combining the capabilities of AI models.
+WSJ • 10h ago
 
-WIRED • 2h ago
+---
+
+**[Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)**
+
+Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.
+
+blog.google • 7h ago
+
+---
+
+**[Hikers who relied on Google’s Gemini AI rescued from Mount Shasta](https://www.kron4.com/news/technology-ai/hikers-who-relied-on-googles-gemini-ai-rescued-from-mount-shasta/)**
+
+KRON4 • 5h ago
+
+---
+
+**[Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)**
+
+Google launches Gemini 3.8 Flash Cyber for trusted defenders as OpenAI says Astra meets its Critical cybersecurity capability threshold.
+
+The Hacker News • 4h ago
 
 ---
 
@@ -199,7 +197,7 @@ WIRED • 2h ago
 
 **[How accurate have Ed Zitron's AI skeptic predictions been?](https://news.ycombinator.com/item?id=49526069)**
 
-⬆️ 835 • 💬 977 • 1d ago • [danluu.com](https://danluu.com/zitron/)
+⬆️ 838 • 💬 991 • 1d ago • [danluu.com](https://danluu.com/zitron/)
 
 ---
 
@@ -215,7 +213,7 @@ Apple's unusually timed announcement of new Mac mini and Mac Studio models this 
 
 Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.
 
-⬆️ 250 • 💬 117 • 6h ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+⬆️ 272 • 💬 124 • 9h ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 
 ---
 
@@ -223,7 +221,7 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 "They're trying to have a CEO press a button that makes a game."
 
-⬆️ 234 • 💬 245 • 1d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
+⬆️ 235 • 💬 245 • 1d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
 
 ---
 
@@ -231,7 +229,7 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 If AI is so great, why are the only new tech giants GenAI companies?
 
-⬆️ 183 • 💬 167 • 1d ago • [hermit-tech.com](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+⬆️ 183 • 💬 169 • 1d ago • [hermit-tech.com](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
 
 ---
 
@@ -239,7 +237,7 @@ If AI is so great, why are the only new tech giants GenAI companies?
 
 A Safari extension that pulls videos YouTube labels “Made with AI” out of your feed.
 
-⬆️ 174 • 💬 74 • 22h ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
+⬆️ 175 • 💬 75 • 1d ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
 
 ---
 
@@ -247,7 +245,7 @@ A Safari extension that pulls videos YouTube labels “Made with AI” out of yo
 
 New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.
 
-⬆️ 163 • 💬 188 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+⬆️ 163 • 💬 189 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
 ---
 
@@ -255,7 +253,7 @@ New markets, new ideas, and new creators are actually what copyright is supposed
 
 Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...
 
-⬆️ 153 • 💬 99 • 10h ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
+⬆️ 158 • 💬 101 • 13h ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 
 ---
 
@@ -271,7 +269,7 @@ Today, tech folk are scrambling to change their workflows to meet newly inflated
 
 Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”
 
-⬆️ 132 • 💬 132 • 2d ago • [WIRED](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/)
+⬆️ 133 • 💬 133 • 2d ago • [WIRED](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/)
 
 ---
 
@@ -285,7 +283,7 @@ AI researcher and founder Emad Mostaque argues that AI now thinks roughly a thou
 
 📺 The Jordan Harbinger Show
 
-👁️ 42K • 👍 641 • 💬 196 • ⏱️ 1:10:13 • 1d ago
+👁️ 43K • 👍 663 • 💬 205 • ⏱️ 1:10:13 • 1d ago
 
 ---
 
@@ -295,7 +293,7 @@ Read More: https://time.com/article/2026/08/26/openai-sam-altman-interview/ Insi
 
 📺 TIME
 
-👁️ 80K • 👍 960 • 💬 281 • ⏱️ 14:13 • 1d ago
+👁️ 87K • 👍 1K • 💬 300 • ⏱️ 14:13 • 1d ago
 
 ---
 
@@ -305,7 +303,7 @@ Take back your personal data with Incogni! Use code Sabine at the link below and
 
 📺 Sabine Hossenfelder
 
-👁️ 441K • 👍 8K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 455K • 👍 8K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -315,17 +313,7 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 Secular Talk
 
-👁️ 185K • 👍 9K • 💬 2K • ⏱️ 9:18 • 22h ago
-
----
-
-**[Best AI Website Builder in 2026 (No Coding Needed)](https://www.youtube.com/watch?v=baCOByjbBug)**
-
-Best AI Website Builder is Airo AI Builder https://mikey.godaddy In this video, I break down the best AI website builder in 2026 and ...
-
-📺 Mikey No Code
-
-👁️ 13K • 💬 6 • ⏱️ 18:21 • 6h ago
+👁️ 194K • 👍 9K • 💬 2K • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -335,37 +323,17 @@ Mamdani announces one-year ban on AI in public schools For more context and news
 
 📺 NBC News
 
-👁️ 7K • 👍 699 • 💬 163 • ⏱️ 0:57 • 2h ago
+👁️ 65K • 👍 1K • 💬 362 • ⏱️ 0:57 • 4h ago
 
 ---
 
-**[Tech FREAKOUT After AI Civilizations Form Criminal Collective](https://www.youtube.com/watch?v=zobHP8dW2P4)**
+**[The AI Midwit Epidemic](https://www.youtube.com/watch?v=d84mtbzRA8w)**
 
-Krystal and Saagar discuss tech leaders freaking over an ai hacking spree. Sign Up For 30 Day Free BP Trial: ...
+Thanks to CASETiFY for sponsoring this video! Check out CASETiFY using my link https://www.casetify.com/colehastings Don't ...
 
-📺 Breaking Points
+📺 Cole Hastings
 
-👁️ 443K • 👍 7K • 💬 2K • ⏱️ 21:29 • 2d ago
-
----
-
-**[Twitch caught hiding AI Training and their response is unbelievable...](https://www.youtube.com/watch?v=36_stE299lU)**
-
-Twitch has been caught burying its latest update which include an AUTOMATIC OPT IN for training AI on YOUR content, including ...
-
-📺 JayzTwoCents
-
-👁️ 168K • 👍 4K • 💬 542 • ⏱️ 31:17 • 2d ago
-
----
-
-**[5 AI Video Generators That Are ACTUALLY FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=253wcsKoa2o)**
-
-Create cinematic 1080p AI videos up to 30 seconds long with Seedance 2.5 on Higgsfield ...
-
-📺 Malva AI
-
-👁️ 41K • 👍 863 • 💬 131 • ⏱️ 11:56 • 2d ago
+👁️ 107K • 👍 2K • 💬 493 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -375,7 +343,37 @@ Create cinematic 1080p AI videos up to 30 seconds long with Seedance 2.5 on Higg
 
 📺 Right Side Broadcasting Network
 
-👁️ 168K • 👍 2K • 💬 884 • ⏱️ 8:45 • 1d ago
+👁️ 175K • 👍 2K • 💬 895 • ⏱️ 8:45 • 1d ago
+
+---
+
+**[AI Billionaires Are Spending Millions To Sell You On The Data Centers You Rejected](https://www.youtube.com/watch?v=LjLg3q2Jehg)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 10K • 👍 1K • 💬 87 • ⏱️ 1:29 • 1h ago
+
+---
+
+**[Sam Altman was wrong about AI | Eli the Computer Guy](https://www.youtube.com/watch?v=--r6aWpwwH8)**
+
+Sam Altman has backed himself into a corner.” Eli the Computer Guy joins The Tech Report's Isaac Pound to talk about how ...
+
+📺 The Tech Report
+
+👁️ 325K • 👍 4K • 💬 860 • ⏱️ 27:57 • 2d ago
+
+---
+
+**[Mayor Zohran Mamdani Announces Ban on AI for Young Students in NYC Public Schools | The Root](https://www.youtube.com/watch?v=tbJ7basUpQ8)**
+
+New York City is putting major limits on #AI in the classroom. When #NYC public schools return, nearly 600000 students below ...
+
+📺 The Root
+
+👁️ 2K • 👍 152 • 💬 48 • ⏱️ 0:57 • 1h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 94,403 • ❤️ 1,511 • 2d ago
+⬇️ 94,403 • ❤️ 1,515 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 441,348 • ❤️ 1,953 • 2d ago
+⬇️ 441,348 • ❤️ 1,964 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 207,941 • ❤️ 4,725 • 6d ago
+⬇️ 207,941 • ❤️ 4,731 • 6d ago
 
 ---
 
@@ -427,7 +425,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 4,960,483 • ❤️ 13,679 • 19d ago
+⬇️ 4,960,483 • ❤️ 13,682 • 19d ago
 
 ---
 
@@ -439,19 +437,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 17,893 • ❤️ 496 • 1d ago
-
----
-
-**[Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model featuring Hybrid Attention with QSA and N-gram Embeddings for significantly reduced long-context latency. It excels in agentic workloads and supports context lengths up to 1,000,000 tokens, making it ideal for complex reasoning and large-scale data processing.
-
-`image-text-to-text` `176.9B`
-
-⬇️ 431,339 • ❤️ 722 • 6h ago
+⬇️ 17,893 • ❤️ 501 • 1d ago
 
 ---
 
@@ -463,7 +449,19 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 3,516 • ❤️ 398 • 5d ago
+⬇️ 3,516 • ❤️ 399 • 5d ago
+
+---
+
+**[Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model featuring Hybrid Attention with QSA and N-gram Embeddings for significantly reduced long-context latency. It excels in agentic workloads and supports context lengths up to 1,000,000 tokens, making it ideal for complex reasoning and large-scale data processing.
+
+`image-text-to-text` `176.9B`
+
+⬇️ 431,339 • ❤️ 725 • 9h ago
 
 ---
 
@@ -475,7 +473,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,232,274 • ❤️ 2,559 • 1d ago
+⬇️ 1,232,274 • ❤️ 2,568 • 1d ago
 
 ---
 
@@ -487,19 +485,19 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 9,354,057 • ❤️ 3,389 • 13d ago
+⬇️ 9,354,057 • ❤️ 3,390 • 13d ago
 
 ---
 
-**[Breeze-TTS-2](https://huggingface.co/BreezeBlue/Breeze-TTS-2)**
+**[timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)**
 
-*BreezeBlue*
+*Google*
 
-Breeze TTS 2 is a top-ranked, open-weight text-to-speech model supporting real-time interaction in English and Chinese. It excels at voice cloning, voice design via natural language prompts, and voice direction, offering ultra-low latency and expressive vocal events.
+TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-series forecasting, utilizing a Stacked Mixing Transformer architecture with Variate Attention and CPM Iterative RevIN. It excels at predicting future trends across diverse datasets, including web traffic, search queries, and synthetic data, with a context patch length of 32 and forecast horizon of 64.
 
-`text-to-speech` `3.5B`
+`time-series-forecasting` `330.7M`
 
-⬇️ 3,086 • ❤️ 350 • 16h ago
+⬇️ 0 • ❤️ 295 • 7h ago
 
 ---
 
@@ -515,7 +513,7 @@ Breeze TTS 2 is a top-ranked, open-weight text-to-speech model supporting real-t
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 767 • 💬 6 • ⭐ 9,927 • 24d ago
+▲ 767 • 💬 6 • ⭐ 10,309 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -652,7 +650,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 20.1k • 🔱 2.3k • 3h ago
+⭐ 20.1k • 🔱 2.3k • 5h ago
 
 ---
 
@@ -672,7 +670,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 429 • 1h ago
+⭐ 3.4k • 🔱 429 • 3h ago
 
 ---
 
@@ -732,7 +730,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.2k • 🔱 203 • 4d ago
+⭐ 2.2k • 🔱 204 • 49s ago
 
 ---
 
@@ -742,7 +740,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 12h ago
+⭐ 1.9k • 🔱 1.3k • 14h ago
 
 ---
 

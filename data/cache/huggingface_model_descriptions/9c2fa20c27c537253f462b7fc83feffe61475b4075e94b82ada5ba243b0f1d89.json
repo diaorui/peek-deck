@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-02T23:07:42.345904+00:00",
+  "data": "TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-series forecasting, utilizing a Stacked Mixing Transformer architecture with Variate Attention and CPM Iterative RevIN. It excels at predicting future trends across diverse datasets, including web traffic, search queries, and synthetic data, with a context patch length of 32 and forecast horizon of 64.",
+  "model_id": "google/timesfm-3.0-pytorch"
+}
