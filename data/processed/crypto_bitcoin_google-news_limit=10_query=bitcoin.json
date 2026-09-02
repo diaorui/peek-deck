@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5",
-      "pub_date": 1788178757.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-restarts-bitcoin-buying-121917075.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/89db1d21abdc6cc718a9ec43f55bc0ef22fd556cb0bfe65f4440fb4c320cf8e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fe1822104567edc712746337b491ef0fe.jpg",
-      "description": "Strategy Inc. resumed Bitcoin purchases after a 10-week pause, returning to its signature accumulation strategy after the crypto bear market pressured its shares, weakened confidence in the financing model and prompted a balance-sheet overhaul."
-    },
-    {
       "headline": "Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
@@ -25,86 +15,96 @@
       "description": null
     },
     {
-      "headline": "El Reno officials admit to enforcement failures surrounding Bitcoin mining facility",
-      "source": "KFOR",
-      "source_url": "https://kfor.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU5qNHZna3pJdDZ0dWVhaE5TaXpJNzE1MGw4eFRxemdwdW91RkFXNm5WY1lHUEprcXpQTlluSU04QmNpRW94ME9WTkd5YkZMZV9IeGQxX0E4WmlMUWcwcGNaNUdzdFhzSjQ3ZmZVb0JRUXFocHlVTVh0VDlFWF9WTUdFZW5NQUk4UVpoUm9xRlR0MXo5clNBcGhFUjc0Z3RHLTgxNTF0ZDlyNnlGSE5FYnpB0gG3AUFVX3lxTE5KUV9DUVNGdmNkTEN1T2hxTFJuRGpSQ1NpakltVjRWTVE3NUMzVmNRbjZZN0E1UmZCc1BoQkg2RXNoNjhDS3hqQ0ltZ04wTW9NeTdLRjlsaFZKcHlmQTVDc3Y2VWRZaFV5UlVIZGVVZjRmSG9VcWdpRUNnQ2c4TFhSdUNlMTJDOXpQTlZZbk1DZjJ6NXhSZHYxWl9oUUxpUFdBblhOVUZJVEpva2w0RF9Tb0s5Y1F4Zw?oc=5",
-      "pub_date": 1788303636.0,
-      "article_url": "https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because \u2018You\u2019re Going to Work With It or Be Out of the Game\u2019; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
-      "source": "variety.com",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmdDWXVnRXhyYmNSYzM4ZV9zVFY2MGlFMzhrUk0wNjdzSWZvQll6d0RndzZsRjUzZnkwak9CcGpuZjNLYVRsMHZpa2RxbjFMNDN6MWlMQ2dZY3ZDd0dPWFlEc0hzYzRlU0RyX0h4WVRuSkpsVVQyTDNLSG5TclROLUVERmIyMUlTVXlyWUQ1TFcwT0RNa2ZXazdQbw?oc=5",
-      "pub_date": 1788213900.0,
-      "article_url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
-      "description": "Gal Gadot says her lawyers spent six months on her 'Bitcoin' movie contract to ensure AI would not be used on her acting."
-    },
-    {
-      "headline": "Bitcoin Price Prediction for September 2026: What Follows a $3.5 Billion ETF Month?",
+      "headline": "Strategy jumps back into bitcoin with $370 million purchase",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUkzejU2UXpuTl9WTlZrdDlKYUdxSHIwa3BzQ2lRTXlsTG9tQUFxTjhWS1pjT0tXQ3RYZnk4VU42Slo2UW5ZQ3ZKaHkyZ25EeVp2VkFWc3VsYVM3YjIxNTBOaU4wQkY5eWp2Tk1ITEdMWnFyQnZuZVZTWjA0VktuRU9HZkc3UVpOUjJHOG9uOS1kWE9FSDA5UlpNNHV2SmVsXzZHTEM3VQ?oc=5",
-      "pub_date": 1788249729.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-september-2026-080209568.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0bf64da86efd78bf135b7d6c45ece42f9836b58e3ccfbbfe6ce2c568fbe12fef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcd95f6d21e25ae21a72b8d220024753f.jpg",
-      "description": "Bitcoin price prediction for September 2026. Every green August since 2020 has been followed by a red September, and the ETF data agrees."
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFp0WHdIS1RGMUU1dDVXbmVtQTBNV2VyMnZpcHRNRm9adWVmTU85OVNZWVRaZVlTLU0zS3cxMkdIVXhhOTZfV204RURZajlYVVFYdXpNcnB6bjU3UHZjN1pwTUo1dUJPNnAtRE10Ul83MGZJTDFGT2FHYkR2Q2xkWUIwX1Q?oc=5",
+      "pub_date": 1788193200.0,
+      "article_url": "https://finance.yahoo.com/video/strategy-jumps-back-bitcoin-370-162000465.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3bc079babf36813ebcdf05f8ee58bd7ac2ba2500c4aa0c72f2c9a10f688e16dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F8d54b410-1ac9-11ec-bdbf-c97b70618147_f21c5ae6cf8c19e345ffba317343c43d2e5dd314519e22b6a62cec2d4020c39c.jpg",
+      "description": "Scott Melker discusses Michael Saylor's Strategy (MSTR) restarting its bitcoin (BTC-USD) buying spree with a $370 million purchase, marking the company\u2019s first bitcoin acquisition in nearly 10 weeks.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
     },
     {
-      "headline": "Firelight raises $8 million as DeFi cover protocol eyes bitcoin, XLM expansion beyond XRP",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTZnSXJkRENwQmV4UG1CSzJ3MmRnZjZYVDJUSzFVbVF5YXU2dzhBSDVBSy1aMWZzbkNzMjZZcjk2ZGpQXzJTUFlkdWFEanB2em5sXzBueGg1aHVpQ01xUlMtWGxVeFNlcjkwTTRLdzRIRi1UOEZBVlF1WlcwQ0U0Y3NmNHVaOThHaW41QlRWVjQ5S0RaeW16blZoOXBzRzRrV2xjZU1LYmd5LTY5Q1dDeGt5czJHX0pJRVc0VUtSRlpTRWpTZnF1WmgtRTRPLUZxOVlOS2l2Z3o?oc=5",
-      "pub_date": 1788271004.0,
-      "article_url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+      "headline": "Who is behind El Reno\u2019s Bitcoin mining facility? News 4 investigates",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0U1YWw0aWhsUDVzRWtkM1hJRGVZaXYzUXN0Z2QxX1VTa09RaUlld1pVekVSTGFDdXNJeFQyQ195TU5KS1gzclpmeS1VcEpydzdVclBxYmFkNnVTbkpBTW9OWGhqWV85U29xbG5CdG8tU2V6NXBBdDNSUElPbF90R3BLdkV2UnZfMEZZ?oc=5",
+      "pub_date": 1788317880.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/behind-el-reno-bitcoin-mining-025815630.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fb47496647aead405dd06cae6a880131a16af376a4ecf1a7cf5eab4239392f8a/lightyear_networkapi/resizefill_w898_h502%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkfor_articles_929%2F6ac440365008d8b3633e5b32384e8cef.png",
+      "description": "As El Reno officials say they have reached out to the owners of the Bitcoin mining facility at the center of the city\u2019s massive water leak, rumors continue to swirl about who those owners actually are..."
+    },
+    {
+      "headline": "Strategy (MSTR) Resumed Bitcoin Accumulation With A 4,603 BTC Purchase",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEctd29BbjROMW9QMjZjZnlFOUE0VjFUbkliMUFheFA4cHdQRW5YckluN05JVF9IXy1DNUZHelgtajB5UEt0bHM0SlRKZVBQLWM2Z2YySEpSbWkzVXJYdHVUaFhZenFkRkd2MXhkQ21ESEo4Vy02TVQyT3g0cDJJaDVOUmRROTZGdHZFZGNqMFJ1ODlhVmhLdGZKcEFPWkp0MkJJN3pwSGNRU3M?oc=5",
+      "pub_date": 1788318420.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-resumed-bitcoin-accumulation-030758585.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bbeae43820b61826d97507da7830832d2475a38054322187e61c6281182fc876/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0fe4d5d105492213ce106a92b49639d4.jpg",
+      "description": "MicroStrategy (NasdaqGS:MSTR) resumed Bitcoin purchases after a 10 week pause, acquiring more than 4,600 BTC and reaffirming its role as the largest publicly traded corporate Bitcoin holder. The company funded the latest purchase with newly issued shares, reflecting continued use of equity to support its Bitcoin centric capital allocation. Executive Chairman Michael Saylor reiterated support for MicroStrategy's Bitcoin focused approach, describing the move as part of the company's long term..."
+    },
+    {
+      "headline": "Bitcoin \u2018Kimchi Premium\u2019 Is Back as South Korean Market Stirs",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjF4SlBLeXp1aFpCRGZQa201V1ByQV9FTE1OdDN6ZHZpTjdQSmMwNG93bFd6Y3pvdGJ3bHlyRVdZQ09OQm53WndsQVhCOUx6RVN0WFNmWWRDSFF2TzJaRWsxR2JYenhEZDV1Vi1mVzlfTXNjUEV3WGdzZmFvb0Zjb1VMYThaM2VOWUlNVXFWeTBySE5hdldDVkZuQWZqRXgzTGNOQUE4Nkg0RGp1dlcw?oc=5",
+      "pub_date": 1788242580.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-kimchi-premium-is-back-as-south-korean-market-stirs",
       "image": null,
       "description": null
     },
     {
-      "headline": "Neighbors push to shut down Delaware County bitcoin mining facility",
-      "source": "KCRG",
-      "source_url": "https://www.kcrg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHVhcGhKdzNSSWhPa1NLOTN1dlBlSHNlQ002aVRsY1JZZnhpcnZnMXppNlo1c2JVWlM1dkhaYWpaakRmZ3lyQ2ZYRGNzQ0Q0OWtJek5QTmUtSEhrMGtDdU1MYWx5d2tSSlA4RERmcG8xUm9ZOVRzcnlVY3Rhd3N5U21ZS1pCckM1aVdqT21kZ1ZiVDZTak9RNHFWMjBiQdIBsgFBVV95cUxOSUhSY2VRaWRBaXFUYXFoZ20weHFIbXJ0YzR6MU9zbGtIOWh5Y3p0U3RrMVVKQWhEdTNxVHU5cklqdExISzU4UGpIQjBMQlNYYTkzZ1dxdUdZTENEVkRmUGNtczJQYWdZRDRKWFhnMzZwckc0Q3FHaWNVM1ZNQlBZNzlZWEdlc0RDT3RxNlVoM29HVUg5eWVyNk1ERmZlcUhwVExNLV90cW9uaVFUVDZQTXF3?oc=5",
-      "pub_date": 1788211200.0,
-      "article_url": "https://www.kcrg.com/2026/08/31/neighbors-push-shut-down-delaware-county-bitcoin-mining-facility/",
-      "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/FW4TBSW4B5FTFO2XUVYMBBHTLI.jpg?auth=eb5e2c66ada5d74451da7a2b4099ccce7e2c02aa03090e58620370200d4d121d&width=1200&height=600&smart=true",
-      "description": "The board will hold a hearing within the next 30 days and a vote after that."
-    },
-    {
-      "headline": "BlackRock Re-Underwrites Bitcoin, And The Portfolio Math Still Holds",
+      "headline": "Bitcoin Slides as US-Iran Tensions Escalate",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmVKbElhRGF5SEhldjJGWEV0ZnI2a09tQ0FWTTJ4aXI5MXJIVXpYcF9RS2dTWkRrVExRbElzWjVjQlp6TUNKYmxGdENqc1Mza3YzVXpzdjZMNDFsZGtpaXFLSVB4Mm5mSE1Bd3B0YWZoMDktWEZjQ3dDUXFOYlBCUm1wdU1LTkp2ZDVZZTkzOUI3WEZuTHdHQlpUbUlCWk1pM1QyZWQ4Q2pNZktBRi1ZWk9yX1NaTVFlWDVDbQ?oc=5",
-      "pub_date": 1788267689.0,
-      "article_url": "https://bitcoinmagazine.com/bitcoin-for-corporations/blackrock-re-underwrites-bitcoin-and-the-portfolio-math-still-holds",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/BlackRock-Re-Underwrites-Bitcoin-and-the-Portfolio-Math-Still-Holds.jpg",
-      "description": "BlackRock re-underwrites the Bitcoin thesis, finding that even modest allocations historically improved risk-adjusted returns in traditional portfolios."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0xMeUQ5eDdmRWlzWGw4Sm0yNF9SQUk0ejNkNGVFRU1OSDg1V0NHeHRXSXNrNG95YUdhTVNsTDAyVkpjZ2hqd1EtRGZTa013UFdKbmRCRXc2a1NDSXUya3ZXQ0xIRGczODlPNnFlR3lSb2J2MFV2M25jYVNBRXV3Mg?oc=5",
+      "pub_date": 1788298022.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics.jpg",
+      "description": "Things are heating up between Iran and the U.S. \u2014 again \u2014 and it's hurting bitcoin's price."
     },
     {
-      "headline": "Cathie Wood Dumps Palantir Shares Worth $26 Million, Bets on Bitcoin-Linked Block and USDC-Issuer Circle",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOHB5Z1RtV0ExUWtfRGw5a1A5clYzS2F1RkVvdzJDdFBiM195eTRxSkgzamYtOVk1bExCUTFpMmJTNS1NZzlWamJsWXFlY3RrLXpDZzRNVzlPdmpBcndLMnY2UGRSTnlpWlZKQUZKcUZGMlhwNEMyOTZvZl9rV3c3YWg4QzZHdkFkRUxNYU5pc24ySEhrX2xqaEVXTklWcmdFcm5SSm1Vb0pzcnl2TkhNSlJOSnZSaUYyRllXRmE4SFZFNnpXZHJUaFJ2VkhVa0JOU2VWMEtkNG1lSGk5NHFBLTBoUkRYTGZrZG5SQ1VnMTNId0ZWWnJ6RG81X05ZdWZ6UVUzVG1LNHhLa3ZQcWZnRm1ZaU4tUQ?oc=5",
-      "pub_date": 1788231318.0,
-      "article_url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/61538839/cathie-wood-dumps-palantir-shares-worth-26-million-bets-on-bitcoin-linked-block-and-usdc-issuer-circle-amid-crypto-rally",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/01/Russia-Moscow-24-06-2021-Logo-Of-Financi.jpg",
-      "description": "Cathie Wood sold Palantir following its earnings beat, shifting capital into Block and Circle amid a broader Bitcoin and Ethereum rally."
-    },
-    {
-      "headline": "Bitcoin Analysis: Institutional Risk Tolerance Crucial For Market Outlook",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJ5WDI0dG1tTmlpSFlYWnNGSjh3ZkxfSnV3YjdndEJkWEF2LWI4UkE2b2lDUnptNGtzdm1kS01ETUJiZnpoa0xPWnFEaEtsMnhZR2Vwc1BVc1FjS3VmZktKNWthRTEzdWZHX0JFV2F1M2UxQm9Gc2RjTVRzVFJIR1RnYUNDS3o2TGFJYTYzRFVmVl9nWjFXRDEzRGd6LThfcWxEdS1sdTV1Mmo2Q2kzY2xyWUQtN0pBak8tWkFIZnctMU05R1Br?oc=5",
-      "pub_date": 1788295631.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/01/bitcoin-analysis-institutional-risk-tolerance-crucial-for-market-outlook/",
+      "headline": "Bitcoin price analysis: September has typically been a rough month for BTC",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmtLUy1WeEdoMmtxZ1pDT0dUaWhMZzdHSGNHM1RrUmppZXhLTmszWWhKN0ladnA5eFEyR2JqSVdFMVdROUZGaFVWb19KQzBDdzd6aEJvNzVjeGE5XzF4Nzh0Qk1DeXNhTVNjN3hUbGRIcWExeUU1OVZuS0QyT2lzbnRmSzU4TC04SVpoaVBLT1laWV9Na1U2YkhoaWstVGlJcVNYUXpUS3ZBM0pJV0w2d0FUUQ?oc=5",
+      "pub_date": 1788270926.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Massive water leak exposes El Reno Bitcoin mining site operated unlawfully for years",
+      "source": "kfor.com",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNk9fYVE2VlpFZnBMT09BMl9VUVZNTzhXbkRWdDc1T2NSbXNQUkdqdGlGX1VudG9wZThiLXhubkl2NFNRSlc0UnBmRE50QnNaSlZOVVlCVktzUURKdWlZelpybEE4MG9JVlZ2WlVuVUh6cUFvRVhIRHNpZ3RTSVl0Ty1ORFAyVXdXZzRmNnZZY3J6ellLTEQ5WWxHa3ZWZHBXMExCRDRBSlBuOUF3ZnN1eU9ia9IBuAFBVV95cUxQRHNHOU11bXE5YWhSYmpURHR2NXh3SWJIYUFqRkgwNnAyR21LZ1NKZ1dzLUJZRVkteExUMWlJX2MtMmsxYUp0RHA4UlJjWVFmcEJ5RDJKRU5zV19mMzU3NmRDMU9PX0JCWENQZ2pHTGtMcVdiajZQVUtWNG5iTm1MSXViaHJEel9EV2tLVUN3V2VNYm0zak9KWmQ4N09nOHZnMEZDVFdRLWVTcW1xbGp4V1o3MHFrd19h?oc=5",
+      "pub_date": 1788218008.0,
+      "article_url": "https://kfor.com/news/local/massive-water-leak-exposes-el-reno-bitcoin-mining-site-operated-unlawfully-for-years/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin and crypto-linked stocks slip amid sour market mood",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQSjY4RDAtUnRuMEppbnU2VjJ1OXpEa0FQQ0U4MXlYeEM2cDZxR1pmMkQ2RUZyZWpmbGtSMkFrQ3EtNUZUZXpTclQ1aHRWdldaU2xpR3RyampfNHRrX1dsSnRDR2FxYUlGM2RWR0Noako0V2FKREk4NDJCSUk0QTNYTWNfeXU5VTNBSDZGdEZkSU1DX3BvNlNyLWtsRllZM2RFNktibWl4dHR5WVZiMzBBYlgwUVBsakhQZm12TlRRczNGNHZpMHNjcWtiZTlZYTlZWmZTMUxuUnk5X3J4VXlhWGk2TFNHdWJCUGdmUldYemZqaUhpdmprTU1uLVd4eGZqN19iMl9fT29yYkhtekljTDkwb3Z1MEo5YkVyVFU1OVRLcVl4YmtaeEk2aVM?oc=5",
+      "pub_date": 1788254820.0,
+      "article_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-weighed-escalation-iran-us-manufacturing-pmi-august/card/bitcoin-and-crypto-linked-stocks-slip-llayghGxYBrYMUYanc0D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin May Already be Resistant to Quantum Computing Attacks",
+      "source": "extremetech.com",
+      "source_url": "https://www.extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmdKSlliaE9FbjhQczlVYXRGWDdWTG5ZR0lXUFlTOEJUSEZsTXB5d0VVY0xnRkF4SHhlXzR6dmN1SE1SamNScUczc3plSHpabExPNU5SWnh3WV90a3dqenBDd1Fnel81SzdhTmgtRWJQdVl2VDZxdURUdEhwN0FjYWt0Zjl1dFR4SGhWdy1nZzJVUHRQVXdmbUlxVnFIRFA2?oc=5",
+      "pub_date": 1788260400.0,
+      "article_url": "https://www.extremetech.com/computing/bitcoin-may-already-be-resistant-to-quantum-computing-attacks",
+      "image": "https://i.extremetech.com/imagery/content-types/03l8Fvn62yF8i4OVkOXqmIf/hero-image.fill.size_1200x675.png",
+      "description": "With the first quantum-resistant transaction mined, Bitcoin users get glimpse at the future of quantum-hardened transactions."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T00:51:48.560090+00:00"
+  "fetched_at": "2026-09-02T05:29:44.786876+00:00"
 }

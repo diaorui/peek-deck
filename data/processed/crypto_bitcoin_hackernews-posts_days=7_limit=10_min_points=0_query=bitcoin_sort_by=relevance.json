@@ -33,20 +33,6 @@
       "site_name": "ft.com"
     },
     {
-      "title": "Bitcoin's $80k Test: A Renewed Rally Puts Prediction Markets on Alert",
-      "url": "https://predx-article.fika.bar/bitcoin-s-80-000-test-a-renewed-rally-puts-prediction-mark-01M0VF5CMNQS1QF9HRPHP6E8T6",
-      "hn_url": "https://news.ycombinator.com/item?id=49443597",
-      "author": "joeymabia1",
-      "points": 5,
-      "num_comments": 0,
-      "created_at": "2026-08-26T02:45:02Z",
-      "object_id": "49443597",
-      "image": "https://images.fika.bar/post/01M0VF5CMNQS1QF9HRPHP6E8T6/a128f5d567e617845f1f75e623720cd1/ChatGPT-Image-Aug-25-2026-11-35-28-AM.png",
-      "description": "A Sharp Rebound Brings Bitcoin Back Into the Spotlight",
-      "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
-      "site_name": "predx-article"
-    },
-    {
       "title": "Bitcoin's First Quantum-Safe Transaction Just Happened",
       "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction",
       "hn_url": "https://news.ycombinator.com/item?id=49477238",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
       "site_name": "Medium"
+    },
+    {
+      "title": "Btcfunkpay \u2013 A self-custodial Bitcoin payment library for Python",
+      "url": "https://github.com/lucarocchi/btcfunkpay",
+      "hn_url": "https://news.ycombinator.com/item?id=49475692",
+      "author": "lucarocchi",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-08-28T07:56:51Z",
+      "object_id": "49475692",
+      "image": "https://repository-images.githubusercontent.com/1227823885/271d48bd-6706-49f7-bad8-693e86502e77",
+      "description": "Bitcoin on-chain payments library \u2014 self-custodial, no middlemen - lucarocchi/btcfunkpay",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-09-02T00:51:17.561699+00:00"
+  "fetched_at": "2026-09-02T05:29:18.981952+00:00"
 }
