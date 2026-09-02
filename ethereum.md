@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-02T17:59:35.457542+00:00'
+updated: '2026-09-02T20:57:11.414774+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 02, 2026 at 17:59 UTC  
+**Last Updated:** September 02, 2026 at 20:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
+**24h:** -0.9%  
 **7d:** -4.7%  
 **30d:** +28.0%  
-**90d:** +51.2%  
+**90d:** +51.1%  
 **1y:** -46.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.64B
+**Market Cap:** $291.99B
 Rank #2
 
 **Circulating Supply:** 122,012,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.7%
+-51.6%
 
 **All-Time Low:** $0.43
-+551901.4%
++552693.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 6h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 9h ago
 
 ---
 
@@ -150,19 +150,27 @@ I run a pipeline that enriches crypto wallet addresses with the kind of labels y
 
 ## Google News: "ethereum"
 
-**[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
+**[Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum](https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum)**
 
-Tom Lee said Ethereum could reach $6,000 if Bitcoin climbs to $150,000 and the ETH/BTC ratio rises to 0.04. The BitMine chairman believes the CLARITY ...
+CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.
 
-Yahoo Finance • 1d ago
+Decrypt • 9h ago
 
 ---
 
-**[Cryptocurrency prices mostly decline with Bitco...](https://pluang.com/en/news-feed/tether-digugat-atas-pembekuan-tidak-sah-usdt-senilai-42-juta)**
+**[Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html)**
 
-Cryptocurrency markets show a general downward trend with Bitcoin priced around $77,205, down nearly 1%, and Ethereum falling 2.59%. Other major coins like XRP, Solana, and Litecoin also experienced declines. Some smaller tokens showed gains, but overall market sentiment appears bearish. Investors should watch for potential volatility and market reactions to upcoming economic events.
+Bitcoin opened at $77,395.89 on Wednesday, September 2, 2026, 1.5% lower than Tuesday's opening price. As of 7:13 a.m. ET, bitcoin moved down to $76,597.13. Ethereum opened at $2,417.66 today, down 2.0% from Tuesday's opening price. Ethereum fell further this morning to $2,373.76 as of 7:13 a.m. ET.
 
-Pluang • 1h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
 
 ---
 
@@ -170,7 +178,7 @@ Pluang • 1h ago
 
 Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
 
-tradingview.com • 7h ago
+TradingView • 10h ago
 
 ---
 
@@ -178,23 +186,7 @@ tradingview.com • 7h ago
 
 USDT supply on Tron hits $94.27B after $4B gain, overtaking Ethereum as Tron vs Ethereum stablecoin dominance shifts.
 
-blockchain.news • 6h ago
-
----
-
-**[Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum](https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum)**
-
-CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.
-
-Decrypt • 6h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, XRP under pressure as momentum indicators flag early bearish signals](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-xrp-under-pressure-as-momentum-indicators-flag-early-bearish-signals-202609020333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure on Wednesday, with technical indicators suggesting early weakening momentum across the top three cryptocurrencies following massive gains in August.
-
-FXStreet • 14h ago
+blockchain.news • 9h ago
 
 ---
 
@@ -206,25 +198,35 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[Arthur Hayes Calls Ethereum His ‘Number One Pick’ for Quick 5x Upside as Bitcoin Targets $1M by 2030](https://www.tipranks.com/news/arthur-hayes-calls-ethereum-his-number-one-pick-for-quick-5x-upside-as-bitcoin-targets-1m-by-2030)**
+**[What price will Ethereum hit in September Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/what-price-will-ethereum-hit-in-september-2026/)**
 
-BitMEX co-founder Arthur Hayes believes Bitcoin (BTC-USD) will hit $1 million by 2030, but Arthur Hayes calls Ethereum (ETH-USD) his “number one pick” due to better...
+Track What price will Ethereum hit in September prediction market analysis with live Polymarket odds, probabilities, liquidity, and market catalysts.
 
-TipRanks • 1h ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-btc-ethereum-and-xrp-prices-crashing-today/)**
-
-Bitcoin has slipped to $76,926.53, down 2.2% over the past day, pulling Ethereum and XRP lower with it after US forces struck Iranian targets near the
-
-Coinpedia • 14h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over](https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over)**
+**[Ethereum Targets $6,000 as Bitmine Chairman Tom Lee Cites Four Major Catalysts](https://www.tipranks.com/news/ethereum-targets-6000-as-bitmine-chairman-tom-lee-cites-four-major-catalysts)**
 
-CoinDesk • 1d ago
+Bitmine Immersion Technologies ($BMNR) Chairman Tom Lee projects that Ethereum (ETH-USD) could hit $6,000 as capital flows back into the crypto sector. Lee pointed ...
+
+TipRanks • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Retreat Amid Trump's Iran Warning: Analyst Says BTC Mirroring 2023 Botto](https://www.benzinga.com/crypto/cryptocurrency/26/09/61565865/bitcoin-ethereum-xrp-dogecoin-retreat-trump-iran-warning-btc-breakout)**
+
+Leading cryptocurrencies corrected on Tuesday, August 1, as investors weighed in on President Donald Trump's latest threats to Iran.
+
+benzinga.com • 19h ago
+
+---
+
+**[Wall Street Crypto Treasuries Are Buying Bitcoin and Ethereum Again. Why?](https://finance.yahoo.com/markets/crypto/articles/wall-street-crypto-treasuries-buying-210000500.html)**
+
+ETF money returned, Washington set a calendar, and crypto treasuries started buying again. Here is what actually changed.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -232,33 +234,23 @@ CoinDesk • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Is Robinhood BEATING Ethereum?](https://www.youtube.com/watch?v=0-4jN1C2B5M)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 3K • 👍 149 • 💬 10 • ⏱️ 11:39 • 2h ago
+
+---
+
 **[Its Game Over For Anyone Not Holding Crypto Bitcoin, Ethereum &amp; XRP Are About To Change Lives](https://www.youtube.com/watch?v=xwC9JD4zq5w)**
 
 Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and XRP would have a positive effect on their ...
 
 📺 The Modern Investor
 
-👁️ 9K • 👍 770 • 💬 339 • ⏱️ 31:53 • 8h ago
-
----
-
-**[BMNR Is About to Own 5% of Ethereum… Then What?](https://www.youtube.com/watch?v=tPYIn-uv_2I)**
-
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
-
-📺 Future Investing
-
-👁️ 2K • 👍 124 • 💬 89 • ⏱️ 8:53 • 3h ago
-
----
-
-**[Right Before Crypto Goes Parabolic, Ethereum Always Does This](https://www.youtube.com/watch?v=YkOrogr_ntM)**
-
-Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST GETAWAY: ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 2K • 💬 88 • ⏱️ 9:05 • 1d ago
+👁️ 11K • 👍 822 • 💬 560 • ⏱️ 31:53 • 11h ago
 
 ---
 
@@ -268,7 +260,27 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 12K • 👍 285 • 💬 424 • ⏱️ 18:58 • 15h ago
+👁️ 13K • 👍 294 • 💬 660 • ⏱️ 18:58 • 18h ago
+
+---
+
+**[Right Before Crypto Goes Parabolic, Ethereum Always Does This](https://www.youtube.com/watch?v=YkOrogr_ntM)**
+
+Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST GETAWAY: ...
+
+📺 Altcoin Daily
+
+👁️ 58K • 👍 2K • 💬 88 • ⏱️ 9:05 • 1d ago
+
+---
+
+**[BMNR Is About to Own 5% of Ethereum… Then What?](https://www.youtube.com/watch?v=tPYIn-uv_2I)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+
+📺 Future Investing
+
+👁️ 5K • 👍 152 • 💬 91 • ⏱️ 8:53 • 6h ago
 
 ---
 
@@ -278,7 +290,7 @@ Bitmine Chair Tom Lee discusses why he landed on owning 5% of Ethereum — and w
 
 📺 Coinage
 
-👁️ 75 • 👍 5 • ⏱️ 1:03 • 3h ago
+👁️ 124 • 👍 5 • ⏱️ 1:03 • 6h ago
 
 ---
 
@@ -288,27 +300,25 @@ xrp #xrpl #Ripple #goldmansachs #cantonnetwork Follow me on Twitter: @sentosumos
 
 📺 crypto Eri
 
-👁️ 12K • 👍 427 • 💬 27 • ⏱️ 10:20 • 22h ago
+👁️ 14K • 👍 436 • 💬 27 • ⏱️ 10:20 • 1d ago
 
 ---
 
-**[Ethereum Must Clear THIS Level to Confirm the Uptrend](https://www.youtube.com/watch?v=u6ltPTHxj_U)**
+**[Bitcoin, Ethereum &amp; XRP Aren&#39;t Done Yet This Is Going To Shock The Living Daylights Out Of You](https://www.youtube.com/watch?v=PMnxp61twvE)**
 
-In this 1 September 2026 Elliott Wave analysis, we evaluate Ethereum, currently at $2440, focusing on the $2750 resistance target ...
+Some people will get it and some wont. Some people will invest and make tons of money and others will continue to wait for prices ...
 
-📺 More Crypto Online
+📺 The Modern Investor
 
-👁️ 5K • 👍 119 • 💬 8 • ⏱️ 6:47 • 1d ago
+👁️ 14K • 👍 842 • 💬 278 • ⏱️ 33:07 • 2d ago
 
 ---
 
-**[Live Trading in Crypto &amp; Gold | Live BTC ETH Trading | XAUUSD Live Trade](https://www.youtube.com/watch?v=9SoonI_5HQM)**
+**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
 
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+📺 CryptoWendyO
 
-📺 Invest For Wealth
-
-👁️ 1K • 👍 345 • 57m ago
+👁️ 9K • 👍 419 • 💬 27 • ⏱️ 2:17 • 1d ago
 
 ---
 
@@ -318,15 +328,7 @@ public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https
 
 📺 Crypto Coffee
 
-👁️ 2K • 👍 126 • 💬 36 • ⏱️ 1:01:29 • 15h ago
-
----
-
-**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 414 • 💬 27 • ⏱️ 2:17 • 1d ago
+👁️ 2K • 👍 126 • 💬 61 • ⏱️ 1:01:29 • 18h ago
 
 ---
 
