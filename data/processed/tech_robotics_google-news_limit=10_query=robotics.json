@@ -5,24 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery",
-      "source": "Medtronic",
-      "source_url": "https://news.medtronic.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmpGNDVxU29scmpVUFNtUVcybW0tMXNuYUhoX0hjSG1OU0RSc3IzeGhZX1cyckVIM0thcnZJSGo4UjFLMmNPSG94M3FIc2U4RmpYT1lELU90SnRNeG5yb2QtQ2Jwa2dNbzEza3Z5aXljYXhpbUxQQWVHaEo1LTQ2S3ZjenQtYmNGSkRsQ2dJN2MyU2JySEJvN2ZBWHBOWTlMcEhwSVczY2c4dHBFVjExbUhEY3JwVmZzX1pBUXNuUXZBMTVNMGhyRDl1eXVyLVdrZXBYaWM0cHItUmlQSG5NUjVWaEh6SmdoZnJEa2pZcE1vSFRVN0FsbA?oc=5",
-      "pub_date": 1788260714.0,
-      "article_url": "https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery",
-      "image": "https://mmx.prnewswire.com/media/MS974964/Medtronic-Logo.jpg?id=OA2922003&p=facebook",
-      "description": "Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes..."
-    },
-    {
-      "headline": "Exclusive: Aitan, battle-tested by IDF, raises $41 million",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWEs5SzhrMk5vUnozWjhOMGthVGFXRDBsN0pELUZKZm9RMFJZb0Q1c21NSkZQVTZoUnRUWHpwa2dGb3NNSl9pUDJTNVN2UVdQUm1HRDRHQk4tSE5TZXZRZ0FCVFNnMmVQOGFId0w4czVZUXE2djBuWU5mLUNHdw?oc=5",
-      "pub_date": 1788343585.0,
-      "article_url": "https://www.axios.com/2026/09/02/aitan-israel-stealth-raise-robotics-dell",
-      "image": null,
-      "description": null
+      "headline": "China\u2019s real robot revolution is not about humanoids",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
+      "pub_date": 1788303663.0,
+      "article_url": "https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a41e44-e633-4162-9f1c-e04f2770aea3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
     },
     {
       "headline": "Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World",
@@ -31,16 +21,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc2tqLURDejdMVDRUak1sRXQ4NjB1S0l4WjM1WDY4alV1c0NnenFwdGROYVFkbl8xWXNqNnhRU3VRRUFhdXg2MmlZOGxyZkRSNjlFRUdfZzNKU3FCaDZMZnRBaTQweXVkRGstcVEycjFfWkx5c1JYc2U5NllUdFpyVVFhOE9oN3hXV0dRRTNNN3E1RGVKYlpsYU1IeFJVYVlQZ2dKOUJKZm9jbTFETnlSUnFqa3B2aV90OVZxMG9udllreDBIM1lBXzBQWG9VcXdxek9VWVY0WmhBSld1Z3BrREIybnUyTGJoUDg1NHF2YkRNU3Y4Wnc?oc=5",
       "pub_date": 1788354000.0,
       "article_url": "https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robots for rural schools? Minnesota State University, Mankato program hopes to boost STEM",
-      "source": "Star Tribune",
-      "source_url": "https://www.startribune.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1NmZXRDaFZPWTNNX01KM2QtRUJVaEowVENFQXJHTnUzbDJCQ3lCQnphd2w4ZHI0SnlBX1huM3hTNm1Bd1pjVTFjSjRMXzk0VmQ3dGFzbjQzSG0xTExXbDBkaWxXTDY3R3Z3amF2SWxqdC1DQVUxSTFZMzFDekR1OC1idWJqQjVJTXc5ZUpuUG5IT01jeEZLejBxTUJzUUR1QWZvak9OTG1pZEZRWEFQYVhCSmtZMjZia1hHc09YNWcyS3c?oc=5",
-      "pub_date": 1788285600.0,
-      "article_url": "https://www.startribune.com/robots-for-rural-schools-minnesota-state-university-mankato-program-hopes-to-boost-stem/601882836",
       "image": null,
       "description": null
     },
@@ -55,24 +35,54 @@
       "description": "SERV and SYM are taking different paths in robotics and automation, but which stock offers the more compelling investment case for investors now?"
     },
     {
-      "headline": "Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI",
-      "source": "calcalistech.com",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5",
-      "pub_date": 1788351900.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/4dsejsrni",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/12/17/WQMJ0DK1G/WQMJ0DK1G_0_0_490_276_0_large.jpg",
-      "description": "The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world."
+      "headline": "Video: New robot platform unites wheeled, off-road and legged mobility in one system",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHZ5VGRIS09ydk1DYmRZWEdNMWt5ZUVPcTF6N2l4WWowMWRZbE91Q1B0OWZ0eVZkWlFCWUx5WTluaVNzdEsyRmZHNldGejhNbkphZm1ZMFNVRWlLbEZEYjlQWWQwMi03X2VpZnlodnllYjNSaVltcGppT3FnY1lSakZMMkFNOUV6RHlISDluajBRR3RPcENLeXVhMFNuZEplMDloZ19qU0dHWVR0elMzWEpmczFxYXdkZ3Y1LU1ENjktRUFwNkNoeA?oc=5",
+      "pub_date": 1788356280.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/video-new-robot-platform-unites-wheeled-off-road-and-legged-mobility-in-one-system",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-33.jpg",
+      "description": "Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain."
     },
     {
-      "headline": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDMwU3AtMUxQVkdmSFZXN3lpQlBkZGtYMVlHVGFNRGFxWUQwUngtLUhuN0pOdlBTQ05odHZRdFpiWFoxcktvWmlkTW00NmlFdFVpX0ZEWmdBc1JxaTI4SnItbDdSUXpZaFVGNHk1bjJxYW5jRnpncWpBbmxfbllPNlh3SUlvdGdheXNaVVJPaFFjM2cwZFdQdHJ1T29KRW5lV2daZDIxRU1WazBMLXc?oc=5",
-      "pub_date": 1788271074.0,
-      "article_url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/RAG_How2Robot.jpg",
-      "description": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers."
+      "headline": "It started as Macy\u2019s, then hosted bankrupt robotics firm. Now building set for new chapter",
+      "source": "BoiseDev",
+      "source_url": "https://boisedev.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0pfdHBPMFU4U2ZweEpDT3FSX015YURmU1pxdmtBS1ZrcE5UZHFTMVdtSG9ka3hJYlFMdUxtaWZ3ejFHQTgyVHZvS2p3b1htVnRGdG56TGFxNXg1QjcweTh4TkxUcXBfczROcUM3OVFtMDlOa0hNMzh0dUZNMzRNc3BZeHRKam9sdHlCQlhVdzhWOU1oSnJOejQtUGlVaUduQ25Bc2Zxa2dBUm8wc3RSVEVzR3hPa2ZJeTNfQmVn?oc=5",
+      "pub_date": 1788187910.0,
+      "article_url": "https://boisedev.com/news/2026/08/26/building-that-started-as-macys-then-hosted-bankrupt-robotics-firm-now-on-the-market/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXJNSmIyeXJlamo4eXVyWXMycjl2WkZEeXd2T090ZW5mT0dBSE1uUUoyMVdqSVkybl95bnJ2TXhyeU1CQm44ekxEeENsSjJSRjlyZWtJSEFCenVfd0tHZEdHNjZLWUREb1FuLWJXYjhVaW1rSC1LeGlaOC1idUNrUWYzb1BXd0oxaWF4YnhYQUItNDRFTlhCVkxjWkJBUVNFWXpoVndHWC1GNDN1WEJTaVhsRUNDQ3VhZThYMUtB?oc=5",
+      "pub_date": 1788299645.0,
+      "article_url": "https://www.stocktitan.net/news/KITT/nauticus-robotics-inc-announces-substantially-stronger-q3-offshore-zogt6omhmztt.html",
+      "image": "https://www.stocktitan.net/news_covers/Nauticus_Robotics_Inc_Announces_Substantially_Stronger_Q3_Offshore_Activity_with_Both_ROV_Systems__1499790.webp",
+      "description": "One system supports offshore wind development in the Northeast while the other inspects a Gulf Coast platform; bids also cover U.S. and international projects."
+    },
+    {
+      "headline": "Here\u2019s A $32 Million Bet That Robots Don\u2019t Need A Billion Dollars Of Real-World Data",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3oxaVMwSV81Mm11aHpHNlZ3Rk1BQkdRSmNWXzVtcmYtNUFTMTJ5Mno2cWdCb2x3QkhBcjVXcDltYmFJcHNXUGtCalVtLTVaODBIUDBveVhXSHZxNmRmTkI1MlY1WHRhNHA2d2hENjVEY0JQZkdIQVFkNTQ0S0l1VVFycVlOY1M1ZFM1R19OeDJzQURIaGFxYlVXMzlZWW56eUxzd1BwdFpFUHUtQjRSODVielI2a3FQT2YzakZER083N0NNbk80?oc=5",
+      "pub_date": 1788369623.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/02/heres-a-32m-bet-that-robots-dont-need-a-billion-dollars-of-real-world-data/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\ud83c\udfa5 Orchard Robotics CEO: Growers \u2018shouldn\u2019t have to be data analysts\u2019",
+      "source": "AgFunderNews",
+      "source_url": "https://agfundernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEJvTzU0clVvQ28zbHhPOG5idVd4aW1nWDdlTDF0aEJrWWEtZ05VVnYyYTZDODdvZW1sdUNDcUJGYzRDeHVWYTN3T1JKNDNveklMX1hGTDJBeGMxNU94dmRJcDZPQ2c3N3NYQkRwdzZJSll5Y3RVYXNMQ0V4T1puYVBPWC1oalczMHIydGVsdkgtZm82cFhRa21KT0NlUF8yMVE?oc=5",
+      "pub_date": 1788332410.0,
+      "article_url": "https://agfundernews.com/%F0%9F%8E%A5-orchard-robotics-ceo-growers-shouldnt-have-to-be-data-analysts",
+      "image": "https://agfundernews.com/wp-content/uploads/2026/08/Charlie-Wu-founder-CEO-Orchard-Robotics-Image-credit-Elaine-Watson.jpg",
+      "description": "Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu."
     },
     {
       "headline": "Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)",
@@ -93,18 +103,8 @@
       "article_url": "https://nofilmschool.com/rocxzoom-robotic-extreme-zoom-camera",
       "image": "https://nofilmschool.com/media-library/image.jpg?id=67701950&width=1200&height=600&coordinates=0%2C19%2C0%2C20",
       "description": "Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features."
-    },
-    {
-      "headline": "XTEND Expands XOS-Powered Robotics Ecosystem into Ground Domain with AtlasROVER",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSThlRDJBX1k4MGhVcm4ycUJtNTBTTDUyUlFpaG1wRi0xZDZPb3hubUw0WnZnN1hOd29BcVZVZHlaY1Vib2ZSTmFaZVBRMk9TWm45ckFZRjQwSjNYVmVpbGdiak1CeGlhLXM4d05aaDZnX1JnQk5TRHdWQ2kwUkNzV3VXZmoyUC16Z19sLTVKMWNucE1WOGhkMkFiZ0hTbmdERDNaYWd1eTNnRWFPS2tRVlc2UkZjQV9NUmdMVENMTEwzMElBVFl6YXYzVGZFRTQ1akc4Vw?oc=5",
-      "pub_date": 1788269162.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/xtend-expands-xos-powered-robotics-ecosystem-into-ground-domain-with-atlasrover-1036511207",
-      "image": "https://ml.globenewswire.com/Resource/Download/8a602b50-8479-4701-8080-200b318c32bb/image3.jpeg",
-      "description": "First AtlasROVER deployment since XTEND\u2019s acquisition of Atlas extends XOS-powered systems from air into ground roboticsTAMPA, Fla., Sept.  01, 20..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T17:59:33.175683+00:00"
+  "fetched_at": "2026-09-02T20:57:04.075265+00:00"
 }

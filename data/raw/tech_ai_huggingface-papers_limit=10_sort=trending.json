@@ -13,7 +13,7 @@
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
       "upvotes": 767,
-      "num_comments": 5,
+      "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
       "github_stars": 9927,
@@ -58,6 +58,25 @@
       "project_page": null
     },
     {
+      "id": "2310.10688",
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
+      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
+      "hf_url": "https://huggingface.co/papers/2310.10688",
+      "arxiv_url": "https://arxiv.org/abs/2310.10688",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
+      "upvotes": 39,
+      "num_comments": 1,
+      "published_at": "2023-10-14T13:01:37.000Z",
+      "github_repo": "https://github.com/google-research/timesfm",
+      "github_stars": 29441,
+      "project_page": null
+    },
+    {
       "id": "2608.23552",
       "title": "Prime Agent: A Self-Improving RLM Harness",
       "authors": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. (11 authors)",
@@ -94,25 +113,6 @@
       "github_repo": "https://github.com/lightorigins/LightNav-0",
       "github_stars": 253,
       "project_page": "https://www.lightorigins.com/en/blog/lightnav-0"
-    },
-    {
-      "id": "2310.10688",
-      "title": "A decoder-only foundation model for time-series forecasting",
-      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
-      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
-      "hf_url": "https://huggingface.co/papers/2310.10688",
-      "arxiv_url": "https://arxiv.org/abs/2310.10688",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 39,
-      "num_comments": 1,
-      "published_at": "2023-10-14T13:01:37.000Z",
-      "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 28761,
-      "project_page": null
     },
     {
       "id": "2608.27529",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-02T17:59:06.435247+00:00"
+  "fetched_at": "2026-09-02T20:56:47.202204+00:00"
 }

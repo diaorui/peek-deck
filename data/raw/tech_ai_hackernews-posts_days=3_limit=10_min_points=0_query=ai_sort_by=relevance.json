@@ -9,8 +9,8 @@
       "url": "https://danluu.com/zitron/",
       "hn_url": "https://news.ycombinator.com/item?id=49526069",
       "author": "jatins",
-      "points": 827,
-      "num_comments": 955,
+      "points": 835,
+      "num_comments": 977,
       "created_at": "2026-09-01T18:35:15Z",
       "object_id": "49526069",
       "image": null,
@@ -33,6 +33,20 @@
       "site_name": "MacRumors"
     },
     {
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "hn_url": "https://news.ycombinator.com/item?id=49536375",
+      "author": "jakobgreenfeld",
+      "points": 250,
+      "num_comments": 117,
+      "created_at": "2026-09-02T13:59:59Z",
+      "object_id": "49536375",
+      "image": "https://trellner.com/og.png",
+      "description": "Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.",
+      "favicon": "https://trellner.com/apple-touch-icon.png",
+      "site_name": "Trellner Research"
+    },
+    {
       "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
       "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
       "hn_url": "https://news.ycombinator.com/item?id=49523720",
@@ -47,25 +61,11 @@
       "site_name": "PC Gamer"
     },
     {
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "hn_url": "https://news.ycombinator.com/item?id=49536375",
-      "author": "jakobgreenfeld",
-      "points": 196,
-      "num_comments": 96,
-      "created_at": "2026-09-02T13:59:59Z",
-      "object_id": "49536375",
-      "image": "https://trellner.com/og.png",
-      "description": "Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.",
-      "favicon": "https://trellner.com/apple-touch-icon.png",
-      "site_name": "Trellner Research"
-    },
-    {
       "title": "AI Can Make You Suck Faster Too",
       "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "hn_url": "https://news.ycombinator.com/item?id=49518316",
       "author": "degamad",
-      "points": 182,
+      "points": 183,
       "num_comments": 167,
       "created_at": "2026-09-01T05:32:56Z",
       "object_id": "49518316",
@@ -103,6 +103,20 @@
       "site_name": "Electronic Frontier Foundation"
     },
     {
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "hn_url": "https://news.ycombinator.com/item?id=49534132",
+      "author": "amunozo",
+      "points": 153,
+      "num_comments": 99,
+      "created_at": "2026-09-02T10:02:41Z",
+      "object_id": "49534132",
+      "image": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+      "description": "Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...",
+      "favicon": "https://multiversecomputing.com/apple-icon.png?apple-icon.3y2zhthwz5ibd.png",
+      "site_name": "Multiverse Computing"
+    },
+    {
       "title": "The safest job from AI may be writing",
       "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
       "hn_url": "https://news.ycombinator.com/item?id=49512856",
@@ -117,26 +131,12 @@
       "site_name": "muratbuffalo.blogspot.com"
     },
     {
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "hn_url": "https://news.ycombinator.com/item?id=49534132",
-      "author": "amunozo",
-      "points": 135,
-      "num_comments": 92,
-      "created_at": "2026-09-02T10:02:41Z",
-      "object_id": "49534132",
-      "image": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
-      "description": "Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...",
-      "favicon": "https://multiversecomputing.com/apple-icon.png?apple-icon.3y2zhthwz5ibd.png",
-      "site_name": "Multiverse Computing"
-    },
-    {
       "title": "You Know Who Hates AI? Insurance Claims Adjusters",
       "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49508225",
       "author": "joozio",
       "points": 132,
-      "num_comments": 125,
+      "num_comments": 132,
       "created_at": "2026-08-31T11:01:19Z",
       "object_id": "49508225",
       "image": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg",
@@ -145,7 +145,7 @@
       "site_name": "WIRED"
     }
   ],
-  "total_hits": 662,
+  "total_hits": 686,
   "has_metadata": true,
-  "fetched_at": "2026-09-02T17:58:56.414277+00:00"
+  "fetched_at": "2026-09-02T20:56:34.986617+00:00"
 }

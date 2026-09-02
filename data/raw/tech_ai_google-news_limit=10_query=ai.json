@@ -5,54 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "G20 live updates: Palantir's Karp says wealth inequality a 'real issue' for societies",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5",
+      "pub_date": 1788377700.0,
+      "article_url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357696-1788354639478-gettyimages-2292606224-G20_INNOVATION_MINISTERIAL.jpeg?v=1788354683&w=1920&h=1080",
+      "description": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade."
+    },
+    {
       "headline": "NYC schools ban AI for students through 8th grade under sweeping new policy",
-      "source": "ABC7 New York",
+      "source": "abc7ny.com",
       "source_url": "https://abc7ny.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5",
       "pub_date": 1788341160.0,
       "article_url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/",
       "image": "https://cdn.abcotvs.com/dip/images/19780223_090226-wabc-mamdani-ai-ban-presser-img.jpg?w=1600",
       "description": "Mayor Mamdani says children need \"human connection\" in the classroom as NYC launches a one-year AI moratorium for students through 8th grade."
-    },
-    {
-      "headline": "A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
-      "pub_date": 1788351180.0,
-      "article_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI gets a timeout: Mamdani puts one-year moratorium on generative AI for younger NYC students",
-      "source": "amNewYork",
-      "source_url": "https://www.amny.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dE1ReUxQOEhULUlfN05fQWtPclJiVHVZZm1iYXBxbnlGeWtFaDBjZXJqNUV4anNEMXY5THVqVUQxTUk4VEFKVGwweEZlSUJjSFg1VlZ2c2c1QVl6WGs5THVHMFI3dEkyU3l4cGUtQWFobVZXeGc?oc=5",
-      "pub_date": 1788371114.0,
-      "article_url": "https://www.amny.com/news/mamdani-ai-moratorium-nyc-public-schools/",
-      "image": "https://www.amny.com/wp-content/uploads/2026/09/55494358136_a610e073a8_o.jpg?quality=51&w=1200&p=q",
-      "description": "Mayor Zohran Mamdani announced Wednesday that the nation\u2019s largest public school system will impose a one-year moratorium on student-facing generative"
-    },
-    {
-      "headline": "Freelancers are getting buried with \u2018soulless\u2019 AI slop cleanup: \u2018It\u2019s a shame we need to do it\u2019",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzhxV0drQ0hqVmk1ZGd4M3ZfT2hGMEY4LVZNdDJJQkhGMVA2d2lJQTZkeDIwbTUtV2NyUzJEVlZ4b0ZtSkRDbjJzTjZIWExvV2JHdEZ1QmFyTnVjUVNNTmFqNkRWaTd0NWd4Qnp4ZDVxZW1RN3lNcDFUOGlkMjRWY1pR?oc=5",
-      "pub_date": 1788366240.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
-      "image": "https://i.guim.co.uk/img/media/8fe3fe7e1a84e9a9a4298ff7d547dbf1d36f91d9/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61514bdc0e87e2b5ffb5d70610f0d539",
-      "description": "As more companies turn to AI, they\u2019re hiring freelancers to clean up its mistakes rather than create original work"
-    },
-    {
-      "headline": "Inside The AWS \u2018Tiger Team\u2019 Approach To AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWxyNkZOUTBtQlNSNHQ2YnBLSkZQaWFzRkVObFpHSTNSanVyV2ZndFZpRVNWalFKcHNlMmF0NUxDRlVRTlgtbXctRU5wQVVzdW1IamVFZXY3ZlBnM3I2em8wc3ZTU0FiTzRRd25lOGpFcVZTZmU5ejI2Z1JwWFlGV21Zek1DbkpoSVBtWXdn?oc=5",
-      "pub_date": 1788368969.0,
-      "article_url": "https://www.forbes.com/sites/cmo/2026/09/02/inside-the-aws-tiger-team-approach-to-ai/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Mamdani announces ban on AI for young students in NYC public schools",
@@ -65,46 +35,76 @@
       "description": "New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th grade in public schools. NBC News' Tyler Kingkade reports."
     },
     {
-      "headline": "Warren Buffett piled into Alphabet to bet big on AI, successor Greg Abel says",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFJtWHhybmJWZnZnOEtxMFdVR0N0bm84cWtWbHNQV05wb2JhUHI4Q205QjgyNzVScE9DWEc0S290YXVQOGZGSWJWeWVyQXdaaE5ud0V5NGlOLUpBd1dXQUNxZjAtUGhaU3p0U3NPSHRoM3FlOTVpTHpaTVJ3NFF1WGM4S1V4X1ByVkRlWWpFckh4WDNnS2ZWazRaU3oyUUlkZzVla1lwMWJYSUZzT0JLSA?oc=5",
-      "pub_date": 1788366097.0,
-      "article_url": "https://www.businessinsider.com/warren-buffett-alphabet-stock-greg-abel-interview-ai-investing-berkshire-2026-9",
-      "image": "https://i.insider.com/6a981fd3be454c9d2c7ecf76?width=1200&format=jpeg",
-      "description": "Greg Abel shed light on Warren Buffett's post-CEO role at Berkshire Hathaway and massive Alphabet wager in a rare TV interview."
+      "headline": "Mamdani imposes one-year ban on AI for most NYC students",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5",
+      "pub_date": 1788379303.0,
+      "article_url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Exclusive | AI Startup Wonderful Hits $5 Billion Valuation, Plans 1,000-Strong Team",
+      "headline": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant",
+      "source": "bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTN3eDFYZ05aWEVjNnRGVG9sRy1kYTQ0QTA1SUlLQk9MZ19GUDZ5dE81QTQzck9scHFOYmJ4TTFJYWgyMGRCZ0lrVWtZcHJ2a2ZqYUIzSlhWdFpsVm1PZ3dsYkhqdjRQb2dWajdVbjE5UVJNNWg3endubDFoT3BEX080ZE04dFVpaHVvY2x6ZDJqbmpUMW9WRHZ0ZURrZjBBZzZpSjFKMFJTMzZw?oc=5",
+      "pub_date": 1788380432.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+      "source": "theverge.com",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGZOd1k3V2lUSk9raG9XeDg4dm9Fd0N4blA2LWZSUFNHOWVZY1FHSWpNU2JXSXl6VGhmU2tiUlhka19FbFh0TVBiU1V0QkNnMGE2VHNpWWhuamlwMXhlOEpIc3RPV1V4UlpVTzFRUVdJRW5uY2FnTXVuNi1GQmV2UHMtN3hLWjRxMnc?oc=5",
+      "pub_date": 1788379900.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Can Google\u2019s new Gemini model compete with Fable 5.1?"
+    },
+    {
+      "headline": "DELL Q2 Earnings Beat Estimates, Strong AI Demand Aids Revenue Growth",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXA1dXVDOVd2aGh3RU1oYUtSd1hrZ0tNdmxqb1Rqb2xOUlRpcXZPcE4zb2xyanltWGhpR3g4T0UtdHA1bnNFX1pJejFSRXpLZmliaU1XZ2g1NU1IQTFkMHZ5ajNFVWxWMzNvQ0ZxMlZmZGNWWkZmWmNqUFJXWE1DVmgwdmdNLUVkWVhFS1JCejVIUDd1OFpFMVRtQmk?oc=5",
+      "pub_date": 1788373500.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/dell-q2-earnings-beat-estimates-182500028.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/74200dd7ae44715d8f9385c5ab4c1bb6c438bcb69615c999167eb67dddbeddc7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2Fc1cd358e97afad5e5afc22d86c6e3093.jpg",
+      "description": "Dell's Q2 fiscal 2027 results beat estimates as AI server demand surges, ISG revenues hit a record and management raises its full-year outlook."
+    },
+    {
+      "headline": "HPE Boosts Outlook as AI Demand Drives Surge in Third-Quarter Profit",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakJGSy1qY1N1N3prQmZDNVNyLXp1eURISS1UaTBMaWg4aUVITkFVSWJmV2xkcGxTbmo5eG9PeDYtck5VQTkwSHJxUEh5LXBoMURtRlpmbExUSGU4eV92d1FPUW5kdzZfajNDRXgtUU5YYkdkS1F1aVF5OC1SUndHOXRMTnZkb3ByNW92NnpYX3JRakVBc0cyYU1sVExhalZ3OUE4MkRQREFkT3I2VWs2N2tYZGlnNWMybUE?oc=5",
-      "pub_date": 1788346800.0,
-      "article_url": "https://www.wsj.com/pro/venture-capital/ai-startup-wonderful-hits-5-billion-valuation-plans-1-000-strong-team-3d18bebe",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN21IOU5lZUlTZkxXWWhvUXRzRXA3c1V5SkdIV3p0Znh2YWwxY0FXWFpYY0NpTjNsZW5Dc1BWUU9kWjJYTlU2WEN2WUgtZTlCLWFCS3RQcmlHaFZ0SmdMMmVVLWd1ZkxwQVNoTmtuRVVQdmFjbU5YeW0zSUcyblFrbVJnS2IyVkhrNlFCSlNESXV5Z2had1FnU1liSXpxZlpsYVU0eWthNkVicy1lbWxoV3llMUR4UQ?oc=5",
+      "pub_date": 1788380340.0,
+      "article_url": "https://www.wsj.com/business/earnings/hpe-boosts-outlook-as-ai-demand-drives-surge-in-third-quarter-profit-2ba3b90a",
       "image": null,
       "description": null
     },
     {
-      "headline": "The Unique Horrors of A.I. Food Slop",
-      "source": "The New Yorker",
-      "source_url": "https://www.newyorker.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjdJTDB2YXF2cnZ5bEFnbTZBaTlZZVA0X2lfSjI4c0hqTGZJcThQS1IyeUVILU52ZVpzQmh6Zno5S0dreHltVHJWcjJHeG5Fb21DZnRSTWU1MGJZTDd6LTRqRzlHajU1QVFRM1B6dWR6ZDYwYUw2dkdJai1ReE1PQXZQOWgzNmxSelV4eQ?oc=5",
-      "pub_date": 1788343200.0,
-      "article_url": "https://www.newyorker.com/culture/infinite-scroll/the-unique-horrors-of-ai-food-slop",
-      "image": "https://media.newyorker.com/photos/6a9742d5df716f14328f7db7/16:9/w_1280,c_limit/NewYorker_AIFill_square.jpg",
-      "description": "Why does it feel so unsettling when restaurants use generative A.I. to create their menus and promotional materials?"
+      "headline": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51VnZVMGZaX0JwQ0dVOHV2SXJkMDhob2Nja3RLQXBCWTlBLWN5X1VXNlZPdGpxYUF2RFJoaXI0czFnV0lSSHdhRVZqT1RMRjJ5Y25TczVvM01wVndnNktuU1JVemd5OFYxRWhsbGdzemNINnfSAXhBVV95cUxQejhobUpIOURGX2Zaakd1M3FMZmNzbHY0VEJHY2pybkFMOHZNOG53RlNyb3czSHd3WXBKWWtwYmFJc0QweEw3d0pnLVhGTGtuT1hXdVZ0MFhUUGxsQWRybzN0bG90SlV1SVZlZUw4ekdXS01CbjJWZjU?oc=5",
+      "pub_date": 1788293257.0,
+      "article_url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108308588-1779133061777-gettyimages-2276430067-DELL_TECHNOLOGIES_CONVENTION.jpeg?v=1779133175&w=1920&h=1080",
+      "description": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double."
     },
     {
-      "headline": "\u2018The landscape has changed dramatically\u2019: States defy the tech lobby on AI rules",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWg5U3l1THpKUkxEVXFSZ0VUelNCWnM2bk5ISEI3dER6anotTHFSS3ZDTERfMzVka3hBNkpYcTJjZkdTdUZZd2g2OWZLcDBJeFhycDFPZ2ZULTY0S2h2bUpzSVpHYkxsbTdFRVZsSEJtSEJNYmpQel91NWdKdUhPa0tZYU9CWkw3NXJndDJJUkgtRkw5Mk93LVNpYlhnTTRvXzVrclJR?oc=5",
-      "pub_date": 1788339600.0,
-      "article_url": "https://www.politico.com/news/2026/09/02/how-silicon-valley-lost-its-war-against-state-ai-laws-01054133",
-      "image": null,
-      "description": null
+      "headline": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU05PeW14UGVmaGxSU1BxdmFHNnVKOFZwMFNHNWF6cXA0ZjBOa3JsZnIzbzZKY2h6a1k1Yk9Sd3F5VnlNMkhpa0c4T0R3aTJaZ2NpTGpkTjMzWGV4dVRuU21RM2JneURwZUtNUjNFV3NFSXJuZFhWMkZjX0hGel9VZg?oc=5",
+      "pub_date": 1788373200.0,
+      "article_url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/191:100/w_1280,c_limit/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
+      "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T17:59:27.073623+00:00"
+  "fetched_at": "2026-09-02T20:57:08.121919+00:00"
 }
