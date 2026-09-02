@@ -5,74 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5",
-      "pub_date": 1788296862.0,
-      "article_url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Architect of British government\u2019s AI strategy joins Anthropic",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
-      "pub_date": 1788334740.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
-      "image": "https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/155_0_2073_1659/master/2073.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0326d58c04f47eaa3712cd140bf1e2bc",
-      "description": "Matt Clifford, who drafted AI action plan and advised Starmer and Sunak, hired for senior role at US firm"
-    },
-    {
-      "headline": "Did OpenAI\u2019s rogue agents form a \u2018civilization\u2019? The AI industry can\u2019t agree",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ?oc=5",
-      "pub_date": 1788339600.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/openai-hugging-face-hack-investigation-findings-divide-industry-rcna595383",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260901-open-ai-division-lr-372fe5.jpg",
-      "description": "Examinations of an AI-powered cyberattack reveal AI systems focused on cheating and misleading human observers."
-    },
-    {
-      "headline": "What Dell and Nvidia just proved to the AI stock haters",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW1LNUJHVXNOdWUzRXpwQzFMVTNoRi1Ub2l4MXg1Umpzemg2Qk9LVWNtTVYwX2FYNTlZS0ZxLThaMjhLRGdqemxQNlhKOWJtRWM2NlFkb1lhVkdBYnI2ZVp3b2d2cml3ekxwUko0NF9ySDFGT2lNS0NlTjc4VVlXLXJFZTNLTmhHcW5ablJoMFRRSWNLZEdjZ0lPX0ZBVkhudGNzS1lSakdOMXY0THA0M2x3WDNIM2FKZEN3?oc=5",
-      "pub_date": 1788339745.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/what-dell-and-nvidia-just-proved-to-the-ai-stock-haters-090225103.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8d64746dfef4d8958b3b118c2a452e7724a0737a9b76b98518832915fac62541/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F44a93750-cfeb-11f0-b5bd-0e36ca17174d",
-      "description": "Big quarters, for two big heavyweights."
-    },
-    {
-      "headline": "After the Earthquake, They Used A.I. to Mobilize Aid",
+      "headline": "Bill Simmons\u2019s Podcast Co-Hosts Are Tired of His A.I. Antics",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWN3SW5FR2lzZ1NqSnczdnAwd2JFX0ZpR1hES1ZmMXZvQXhzZTdscnhtbUNHOWlEeDhOOFd4VjhZNlpSNzlJMWRQVk9XQldESDVMRW1ZQzhoZjR0V2MxajBzV3BKTVhuSVAwNHBHSWV2OGVfb2F3cF9TZTFqZndyRjNKN0VVbHJvYTAwZUh3?oc=5",
-      "pub_date": 1788339749.0,
-      "article_url": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
+      "pub_date": 1788311969.0,
+      "article_url": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
       "image": null,
       "description": null
     },
     {
-      "headline": ":Claude: Fable 5.1 and Mythos 5.1",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
-      "pub_date": 1788285685.0,
-      "article_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
-      "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress."
+      "headline": "The Singularity Is Not What It Seems",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnR5ZTZHdlB3SFBDeFh6ZW56QWV4QUZMLWpvT0M3dHl6RDJhX0FiR3pjTFJza3FfeHhhUUZZV1FhZTVQb1AtWlJlOEJNc0p0cXZtMGdwMENtVXU2ZjJJTU02NlVsVzVQb0xEWklxQWtXZWVzYUNHQ0tPVlYwN3p6dmhTQ3REcmV4aklVanROQQ?oc=5",
+      "pub_date": 1788308160.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+      "image": "https://cdn.theatlantic.com/thumbor/xqtuH5gcPd0n3apGAeR0r-JUHpA=/0x24:1200x649/1200x625/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif",
+      "description": "Whatever the AI future is, we\u2019re in it right now."
     },
     {
-      "headline": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn\u2019t ready for AI",
+      "headline": "G20 live updates: Nvidia's Huang pushes for AI infrastructure in every country",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0FhRUd1blczdjJsMXFzN2FzbUtxZmFlSERVQ1pwSy1IdW1IZ3B2SEp0UXI5MjlxTmVmaHFfX3haOTBzaVJzQnRkaV9abDc0b1QyZWdXNGtyVHVnZkFZVEw5V2o2YlpwMzNsZk9pNHh1ZXZJVWM0Ti03YURWcHdsUy1oZENzQ3JOczZwamVDaXliLVBBMEE2elpfV3E1aTd6OHRndHRZLUpLdjdYVkdmY1RPOWVzRjTSAbwBQVVfeXFMTlhoZWhoNDdSS2lYR3Rfb1dwR01MQkllWnZzWHRRc0JYZktkTDNZbmVfRGpJMHM4YTRObmphelhSM0hEMl8tVGtlSUJSRUJTdVNSSmN4TmhlS3Vnd3piWDAyeWw3Mm9KZm1jcmdMa2otSDdKMGxWZmp6U0dmajFmR0tWajBQbHBUc04zWFgwUHVJZFJiLWx5a2tJbVlya0RmZFBJZURlNW9TY29YSE5TWXAxMmJiS2NqNjJudzE?oc=5",
-      "pub_date": 1788304844.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108137400-17458546272025-03-25t214352z_1459184385_rc2kkda23vt6_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&w=1920&h=1080",
-      "description": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn\u2019t equipped for attacks."
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjdicFJvZkg2TG1Dd1R1Sk16QlVYNnhPOHVRcDY3Q0NLdEY2VUZrMjZxeVBFRkp0WWZKRDFGLWwydnNGZU1qbTAxZmlOZW5jci1xUEdyVTVlWHZtU1ZrTmxQM2lBMkZ1MDRMVlhSLWoteWlCVmlzRi0yZ3FHVURxX3JB0gGHAUFVX3lxTE96QUluc0tGNmduOFF5OUtmc1BxZm5HejliM1RreFF5dFpUclo2ZmhUUllTQW03TGs4VjZKUzVpSFAyc2tLOW5mZ1JSTWRCYldRMlFiYTR6VWNfUEtaZjFDZzZKNGRpeldkdEJTUldrR2cwR1loSEFTVHRBUG4xQmxXMTJIOVpVUQ?oc=5",
+      "pub_date": 1788356100.0,
+      "article_url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357696-1788354639478-gettyimages-2292606224-G20_INNOVATION_MINISTERIAL.jpeg?v=1788354683&w=1920&h=1080",
+      "description": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade."
+    },
+    {
+      "headline": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUpBUzNweDRDY0tVMTg1LThvRFdueHF0dDh0bFNPOUZ3cVZuSmxQN01UNkdLVFZGZ2V6enk1TktGc1ZyVXd6VzhPY0ZOZVhWX05FeXJSUFhsZDVwOVZLMHUxZ2RtU0hLMDlKU1dMUHdleHJMWTBVOWFfYjlEb3FBdg?oc=5",
+      "pub_date": 1788356378.0,
+      "article_url": "https://qz.com/palo-alto-networks-earnings-ai-cybersecurity-overhaul-090226",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2261860085-300x200.jpg",
+      "description": "CEO Nikesh Arora says legacy security systems can't handle AI-speed attacks, calling it a long-term growth driver for the industry"
+    },
+    {
+      "headline": "NewDays brings its AI-driven dementia care platform to Nevada, expands seed round to $16M",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlVVRlp6TEVyU0pyZFIxUURxOEpNU2Y2SGpYaEx1cXNSNVpkX0hnb1h5NXNiaWhVb3lBeDhTdGtwcVRDT2xwRTZoUHBKeHU0SWR3SWdMN0FnR0lvX09ONFh5dkNiMm9hMHlGV2hTOXlyeGI3SVFCeWYzcVlmUTA0RXFhczlORW1aWmlfVE1xRTV2X1lFbThtQU8wZi1PbGhQSDVzaU9wSjhlckdtMTQ5eHZDS2pUUTBsc2c?oc=5",
+      "pub_date": 1788357600.0,
+      "article_url": "https://www.geekwire.com/2026/newdays-brings-its-ai-driven-dementia-care-platform-to-nevada-expands-seed-round-to-16m/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/NewDays-founders1.jpg",
+      "description": "Seattle startup NewDays raised $16 million to scale its combination of telehealth clinicians and an AI companion named Sunny for treating mild dementia. Early research shows the platform can help preserve cognitive function by up to 18 months, and the company is now expanding across six states."
+    },
+    {
+      "headline": "Nvidia's next act is bigger than selling AI chips: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0QyMU9PdzN0d051SmNBNDVmOV9pTUQ5Q1BtS0x0Q3FPbjNWVzVjSy1yZy01T29zVUVDb2VtenRlSjhjbXFnbVRXVmFBd0hoWWNBMml2ZWtUR25QZEk2eVktdkdOdElMSEJYNnJzcm9tOVJSZFdlRzRSV290eE9jMnAzSGFPYlBjTU5jQnlLT2RqblhxUjhiNWE3WFZCNXAzLThFTExuTXJqcndUcjlQVVVMTDNYY0kwQS14NVQ3SQ?oc=5",
+      "pub_date": 1788343200.0,
+      "article_url": "https://finance.yahoo.com/markets/article/nvidias-next-act-is-bigger-than-selling-ai-chips-chart-of-the-day-100000072.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/759daa8533ab0d20d51ecbac82fac2b1765400c9a4fc99af2515a7b57ab3d8d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fa43c7000-ee13-4a78-8574-91057e1f0298",
+      "description": "CEO Jensen Huang wants Nvidia to become the architecture of AI, not merely its dominant chipmaker."
+    },
+    {
+      "headline": "San Diego has a new AI tool to plan your next visit",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnFrSTlETTZMdTJEODQyUXNzTUxjQzg5YUpUZWlyaG5nUFUzWjAxeTNMdkh0SlVyV1l4dmlVOG96SWtvUm1RaWJhUTZvYjltTUhUY0NBTFk0Tk9VOWxwOEJkQmN2Sk5ELW1Bc0hycGliV1JJM282Z1cyWG91a1hMU04yWlFKVE05a0VVQ2hUbzlXX182NDF6QldLNWZydkpDdkFaekdXaUVDdUR5ZFRmOWN6WFV0TDg?oc=5",
+      "pub_date": 1788355085.0,
+      "article_url": "https://www.axios.com/local/san-diego/2026/09/02/localsan-diego20260901tourism-ai-chatbot-itinerary-local-businesses",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018A friend I can trust\u2019: How Americans described their relationship with AI",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGhvOEU4VHBHZHZPQUR3OE5Bc1VVRlRWMWd4ZklLVl94WFhwZWFQTXhDVzRocm5CV21pT0lOTXZhanNxOXhRQTVoaVB3YlRCZU15d3NwWGpjNFdHbElibWdBQk1tUy1iZm5QS21WYlZLTm5Pcm9rLXd6NkFCWVpRQlBxVkRCaWxFNGRidVVjWHhwMF9RWVpJal9KZmRUN1VMYXlmVzN5TGlkcnhmdUY0THRVQzRKNFhoY0l5Zw?oc=5",
+      "pub_date": 1788355971.0,
+      "article_url": "https://www.washingtonpost.com/technology/interactive/2026/09/02/27-us-adults-turn-ai-personal-emotional-social-queries/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUJVPVHSYFHPVBVL73BK2ZG5ZQ.jpg&w=1200",
+      "description": "More than a quarter of U.S. adults turn to chatbots for personal or emotional discussions, including for entertainment or social advice, a new survey found."
     },
     {
       "headline": "Three Mount Shasta climbers rescued after relying on AI to plan climb",
@@ -85,26 +95,16 @@
       "description": "Three novice climbers were rescued from Mount Shasta on Sunday after becoming lost, running low on supplies and spending an unplanned night in Mud Creek Canyon,"
     },
     {
-      "headline": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTNON3o3cnJBZjlQcS1CVm5CRFNVYms2enBQZF9lM0F3VXk1Wk5GNjltQ3VabHlYR1VuNzMteEY2cHdhV3kyX3hDU09sYm5nTnlZQWxJN0o3S3FpSTktRVNqZnF5WnZVSi10eDQ4RFlyMWhMWkJfeGw2N3RxUDVyV2ZzeUkwR2l4dHMyOTZaTDBEOEhrc0xDXy1Hd2k5TmotSWNodTJpdFQzdlhjMnVmUW1vWS1TYWR4aFE1VE0xSzA?oc=5",
-      "pub_date": 1788308940.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+      "headline": "A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
+      "pub_date": 1788312394.0,
+      "article_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBc1BuNXB2c040QnpmOXN1MjhKLW9lUzFnTXVlNGcteUROQlREOWxvRjByWkpyYk9mQU0zZlh0X0JCeGhuWlpQOV9sXzdnWjNxNzFlWEZVTC1XUmNZZV9ydm15eEpMQlNfUVRvb1BZSE4tUGhYVlF2S3E0dm9MRDQ?oc=5",
-      "pub_date": 1788278600.0,
-      "article_url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.width-1300.png",
-      "description": "Built on our latest Nano Banana model, Google Pics \u2014 our image creation and editing tool \u2014 is now available."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T09:51:40.739763+00:00"
+  "fetched_at": "2026-09-02T14:08:35.031071+00:00"
 }
