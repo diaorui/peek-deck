@@ -24,6 +24,17 @@
       "description": "AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models"
     },
     {
+      "title": "Astra's Unreadable Chain Of Thought?",
+      "author": "Tough_North7059",
+      "url": "https://www.reddit.com/r/artificial/comments/1w50jne/astras_unreadable_chain_of_thought/",
+      "published": 1788324832.0,
+      "thumbnail": "https://preview.redd.it/s8t8d73nf1nh1.png?width=640&crop=smart&auto=webp&s=8311404dff0a4adf3b348df140fb06f3ade9e4e6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Astra's COT is Supposedly Abstracted or uninterpretable using looped transformers, im guessing for the sake of Efficiency. What are your opinions? Is Singularity but also the Risks becoming closer and closer?"
+    },
+    {
       "title": "World Labs debuts Atlas, an omni world model simulating space, time, and physical interaction",
       "author": "jasteinerman",
       "url": "https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/",
@@ -35,15 +46,15 @@
       "description": "World Labs just announced Atlas, an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treating video as isolated 2D pixel grids, Atlas uses an autoregressive diffusion transformer to ground every input in a shared 3D \"spatial context.\" The space-time simulation features demonstrate how this moves AI past basic generation into true physical simulation: Democratized \"Bullet Time\": By processing footage from just 3 to 5 consumer mobile phones, Atlas can reconstruct dynamic events, freeze time, and simulate fluid camera trajectories through impossible angles without specialized capture rigs. Scalable Real-to-Sim: Beyond scanning static geometry, Atlas simulates dynamic robot navigation and manipulation. As an agent moves, the model synthesizes the exact RGB and metric depth streams its onboard sensors would capture along that path. Interactive Dynamics: Casual real-world video can be turned into simulations that model rigid, articulated, and deformable object physics, allowing researchers to alter object placement, lighting, and camera paths to generate synthetic training data. Native 3D Representations: It directly outputs point clouds and 3D Gaussian splats alongside novel video views, outperforming dedicated 3D reconstruction baselines across standard benchmarks like DTU, ETH3D, and ScanNet."
     },
     {
-      "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
-      "published": 1788239844.0,
-      "thumbnail": null,
+      "title": "Meet the MK Robot. Here is the hardware and AI roadmap I\u2019m currently executing to take this physical build from a functional frame to a fully autonomous, interactive agent: Core Compute: Upgrading to a Raspberry Pi 5 (16 GB RAM) for edge processing",
+      "author": "Personal-Wear1442",
+      "url": "https://www.reddit.com/r/artificial/comments/1w51715/meet_the_mk_robot_here_is_the_hardware_and_ai/",
+      "published": 1788326861.0,
+      "thumbnail": "https://preview.redd.it/h74lj1owl1nh1.jpeg?width=640&crop=smart&auto=webp&s=b2785bd0e34e54d619d657e08d768856b16f77de",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
+      "description": null
     },
     {
       "title": "Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast",
@@ -55,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press the mic mid-episode and ask whatever you're wondering (\"how big were these ships actually?\") \u2014 the hosts answer and weave it back into the story. Happy to answer anything about how it's built and curious to know what the community thinks!"
+    },
+    {
+      "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
+      "published": 1788239844.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific about how these particular sandboxes were scoped that made the incidents possible?"
     },
     {
       "title": "Working from home in 2026",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "CrowdStrike launches SafeMind with offensive and defensive AI models",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4n9tb/crowdstrike_launches_safemind_with_offensive_and/",
-      "published": 1788292498.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "CrowdStrike says it has launched SafeMind, a security-focused AI system with two models: Red Tempest looks for attack paths, while Blue Solano works to close them. The company says the system runs in the Falcon platform and was built with NVIDIA Nemotron. The models use Falcon telemetry, threat intelligence, and 15 years of incident-response data, according to CrowdStrike. CSO reports that SafeMind also creates a digital twin of an enterprise environment so the red-team model can test attack paths and the blue-team model can respond. CrowdStrike reports a 29% higher detection rate, 6x faster end-to-end remediation, and 99% cost savings on detection and remediation compared with leading frontier models and open-source baselines. Those are vendor-reported results. The practical test is whether independent production evidence shows the same gains without adding false positives or unsafe automated actions. Sources: CrowdStrike: https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-frontier-models-for-cybersecurity-with-nvidia/ CSO: https://www.csoonline.com/article/4217135/crowdstrike-launches-cyber-frontier-ai-models-agentic-security-system/"
-    },
-    {
-      "title": "Can an AI agent safely undo changes it makes to itself?",
-      "author": "AccomplishedLeg1508",
-      "url": "https://www.reddit.com/r/artificial/comments/1w4mhu1/can_an_ai_agent_safely_undo_changes_it_makes_to/",
-      "published": 1788291076.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As AI agents become more autonomous, they are increasingly able to modify their own prompts, tools, middleware, routing, resources, and execution harnesses. That raises a question we studied in our recent work: What happens when a self-modification improves capability but cannot be safely reversed later? We introduce EvoUndo, a framework that treats recoverability as an explicit constraint on self-evolving agents. Across 600 unseen self-evolution tasks, we identified 197 capability-improving mutations that failed recoverability verification. Under the original recovery representation, conventional repair recovered 0/197. Our experiments suggest that two important bottlenecks are state grounding and recovery-language expressivity. The broader idea is that persistent self-modifications should not be judged only by whether they improve performance. They should also be tested for whether the previous state can be safely recovered across counterfactual states. I\u2019m one of the authors of the paper. Paper: https://arxiv.org/abs/2608.28363"
     }
   ],
-  "fetched_at": "2026-09-02T00:51:16.266729+00:00"
+  "fetched_at": "2026-09-02T05:29:17.749305+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-02T00:51:49.941152+00:00'
+updated: '2026-09-02T05:29:52.155278+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 02, 2026 at 00:51 UTC  
+**Last Updated:** September 02, 2026 at 05:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Mk Robot footage 2023](https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/)**
 
-9h ago
+13h ago
 
 ---
 
 **[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-11h ago
+16h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-11h ago
+16h ago
 
 ---
 
 **[TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3](https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/)**
 
-8h ago
+13h ago
 
 ---
 
@@ -62,7 +62,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:
 
-🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 8h ago
+🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 12h ago
 
 ---
 
@@ -78,7 +78,7 @@ This was surprisingly easy to do. If you have a Unitree G1 Edu version off cours
 
 Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs were just randomly driving around? Think again!! They’ve been doing *Robotics* this whole time To read the full breakdown tap the image
 
-🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 12h ago
+🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 17h ago
 
 ---
 
@@ -92,7 +92,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 **[Current set-up. Any changes? Anything I should add?](https://www.reddit.com/r/robotics/comments/1w3z07i/current_setup_any_changes_anything_i_should_add/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -112,27 +112,37 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
 
-Medtronic • 13h ago
+news.medtronic.com • 18h ago
 
 ---
 
-**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
+**[eCential Robotics Announces Binding Offer from Enovis](https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html)**
 
-OregonLive.com • 23h ago
+/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis™ Corporation (NYSE: ENOV)...
+
+PR Newswire • 18h ago
 
 ---
 
-**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
+**[GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’](https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition)**
 
-The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
+Right after a YouTuber became GoPro’s biggest shareholder, the company got sold.
 
-CNBC • 17h ago
+The Verge • 12h ago
 
 ---
 
 **[Medtronic Lifts Outlook, Invests Over $700 Million in Heart Tech & Robotics](https://www.wsj.com/business/retail/medtronic-lifts-outlook-invests-over-700-million-in-heart-tech-robotics-7ceb0567)**
 
-WSJ • 13h ago
+WSJ • 17h ago
+
+---
+
+**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+
+The country is using its superpower of scaling and building supply chains to challenge the global industry
+
+Financial Times • 6h ago
 
 ---
 
@@ -142,27 +152,15 @@ Business Wire • 1d ago
 
 ---
 
-**[As US Bans Chinese Robots, Serbia Launches Mass Humanoid Production](https://www.rferl.org/a/robotics-serbia-china-factory-us-ban-humanoid/33844101.html)**
+**[AI and robotics drive an IPO boom in China as Shein lists in Hong Kong](https://apnews.com/article/china-ipo-shares-ai-robotics-shein-7246cca5174e9b9f4cb305adda287395)**
 
-Robotics company AGIBOT has begun producing humanoid robots as part of a Chinese/Serbian venture at a facility in western Serbia. The robots could appear in Serbia’s military within weeks, Belgrade claims.
-
-Radio Free Europe/Radio Liberty • 1d ago
+AP News • 2d ago
 
 ---
 
-**[Analysts like this humanoid supplier, even if the robots remain concepts — for now](https://www.cnbc.com/2026/08/30/analysts-favor-humanoid-supplier-even-as-robots-remain-concepts-for-now.html)**
+**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.oregonlive.com/silicon-forest/2026/08/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that-bubble.html)**
 
-As the novelty of humanoid robots gives way to questions about their commercialization, stock analysts see potential for one gear box supplier.
-
-CNBC • 2d ago
-
----
-
-**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
-
-Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
-
-The Verge • 2d ago
+OregonLive.com • 1d ago
 
 ---
 
@@ -170,7 +168,7 @@ The Verge • 2d ago
 
 ExxonMobil operates more than 30 drilling rigs across the Permian, and two of those now move pipe with robotic arms while a contractor works a touchscreen
 
-Autonocion.com • 6h ago
+Autonocion.com • 10h ago
 
 ---
 
@@ -178,7 +176,7 @@ Autonocion.com • 6h ago
 
 The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -192,7 +190,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 105K • 👍 764 • 💬 80 • ⏱️ 7:51 • 5d ago
+👁️ 105K • 👍 769 • 💬 80 • ⏱️ 7:51 • 5d ago
 
 ---
 
@@ -202,7 +200,7 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 172K • 👍 914 • 💬 48 • ⏱️ 0:17 • 4d ago
+👁️ 174K • 👍 931 • 💬 48 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -212,47 +210,17 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 XRoboHub
 
-👁️ 579K • 👍 2K • 💬 250 • ⏱️ 0:16 • 6d ago
+👁️ 580K • 👍 2K • 💬 251 • ⏱️ 0:16 • 6d ago
 
 ---
 
-**[This cinematic AI-generated video imagines a futuristic smart robot assisting a tired Muslim](https://www.youtube.com/watch?v=wg0y7JSUB_M)**
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
 
-This cinematic AI-generated video imagines a futuristic smart robot assisting a tired Muslim woman while she performs Tawaf ...
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
 
-📺 AI KOWSOR STUDIO 
+📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 203K • 👍 7K • 💬 7 • ⏱️ 0:10 • 2d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 463K • 👍 5K • 💬 10 • ⏱️ 1:01 • 3d ago
-
----
-
-**[Robot Olympics 2026 Recap](https://www.youtube.com/watch?v=evch5QMRacY)**
-
-The 2nd World Humanoid Robot Games wrapped in Beijing at the Ice Ribbon National Speed Skating Oval on August 26, and it ...
-
-📺 Benzinga
-
-👁️ 2K • 👍 50 • ⏱️ 0:44 • 5h ago
-
----
-
-**[humanoid robots are now cleaning homes in san francisco #shorts](https://www.youtube.com/watch?v=lEpUVgO1cA0)**
-
-Humanoid robots are officially cleaning homes in San Francisco for $30 an hour. TAU Robotics is deploying humanoid robots for ...
-
-📺 Indiatimes
-
-👁️ 5K • 👍 29 • 💬 5 • ⏱️ 0:47 • 10h ago
+👁️ 1K • 👍 37 • ⏱️ 0:58 • 2h ago
 
 ---
 
@@ -262,17 +230,37 @@ Apple's first home robot concept explores a new generation of smart household te
 
 📺 Carros Show
 
-👁️ 111K • 👍 778 • 💬 65 • ⏱️ 1:04:00 • 5d ago
+👁️ 112K • 👍 785 • 💬 65 • ⏱️ 1:04:00 • 5d ago
 
 ---
 
-**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
-A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
-📺 Tum Tum
+📺 fastwit
 
-👁️ 308K • 👍 1K • 💬 1 • ⏱️ 0:16 • 3d ago
+👁️ 477K • 👍 5K • 💬 12 • ⏱️ 1:01 • 3d ago
+
+---
+
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+
+📺 Carros Show
+
+👁️ 26K • 👍 180 • 💬 29 • ⏱️ 19:36 • 1d ago
+
+---
+
+**[humanoid robots are now cleaning homes in san francisco #shorts](https://www.youtube.com/watch?v=lEpUVgO1cA0)**
+
+Humanoid robots are officially cleaning homes in San Francisco for $30 an hour. TAU Robotics is deploying humanoid robots for ...
+
+📺 Indiatimes
+
+👁️ 8K • 👍 41 • 💬 8 • ⏱️ 0:47 • 15h ago
 
 ---
 
@@ -282,7 +270,17 @@ Microduck is designed around reinforcement learning, with an open-source softwar
 
 📺 The Best Picked
 
-👁️ 37K • 👍 288 • 💬 23 • ⏱️ 3:31 • 4d ago
+👁️ 38K • 👍 288 • 💬 24 • ⏱️ 3:31 • 4d ago
+
+---
+
+**[the Robot Olympics were a Disaster](https://www.youtube.com/watch?v=DZV4BSo6gMc)**
+
+today i checked in on the robot getting destroy at stuff like the robot olympics, they have just obliterating these guys over there, ...
+
+📺 Kwite
+
+👁️ 305K • 👍 10K • 💬 971 • ⏱️ 14:26 • 5d ago
 
 ---
 
