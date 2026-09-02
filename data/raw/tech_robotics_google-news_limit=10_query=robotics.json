@@ -5,64 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China\u2019s real robot revolution is not about humanoids",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
-      "pub_date": 1788303663.0,
-      "article_url": "https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a41e44-e633-4162-9f1c-e04f2770aea3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
+      "headline": "Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery",
+      "source": "Medtronic",
+      "source_url": "https://news.medtronic.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmpGNDVxU29scmpVUFNtUVcybW0tMXNuYUhoX0hjSG1OU0RSc3IzeGhZX1cyckVIM0thcnZJSGo4UjFLMmNPSG94M3FIc2U4RmpYT1lELU90SnRNeG5yb2QtQ2Jwa2dNbzEza3Z5aXljYXhpbUxQQWVHaEo1LTQ2S3ZjenQtYmNGSkRsQ2dJN2MyU2JySEJvN2ZBWHBOWTlMcEhwSVczY2c4dHBFVjExbUhEY3JwVmZzX1pBUXNuUXZBMTVNMGhyRDl1eXVyLVdrZXBYaWM0cHItUmlQSG5NUjVWaEh6SmdoZnJEa2pZcE1vSFRVN0FsbA?oc=5",
+      "pub_date": 1788260714.0,
+      "article_url": "https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery",
+      "image": "https://mmx.prnewswire.com/media/MS974964/Medtronic-Logo.jpg?id=OA2922003&p=facebook",
+      "description": "Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes..."
     },
     {
-      "headline": "Reframe Raises Funds to Bring Amazon Robotics Know-How to Home Building",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFdMWXZhRkN1ZFVVSXZLZmNzQXZxc0tvZWoyenlrU19NMWtHRzFIQkVYR1dTbFdGbmczZ0tnTFJ6TW9yQnEzRmhQbWRieFZ4NTd1ZWdCOEhtWTBGWjRDR3IxblpPdFdjUWM2MjJVUXNZc0QwM2dIa2JCRGhQZUM2N1NTWHFmZWhiM05vd1I3Y2NDMmJGRGd4ZThtWW9COC1faXQzcjlhb2tQc2RqRzBfZnhGRV9pclFoU2N6Ymp2Wnl3Zw?oc=5",
-      "pub_date": 1788184860.0,
-      "article_url": "https://www.theinformation.com/newsletters/ai-agenda/exclusive-reframe-raises-funds-bring-amazon-robotics-know-home-building",
-      "image": "https://tii.imgix.net/production/articles/17746/7a23cbd0-865b-4638-82aa-f1b98aebfcc4-lOC8zX.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "description": "For all the talk of robots that look like humans, the next robots to move into people\u2019s houses could look more like ducks. Sales of such a robot, made by open-source model platform Hugging Face, reached more than $2.5 million on its first day on Thursday.Microduck, which costs $399, waddles ..."
-    },
-    {
-      "headline": "Why humanoid robots won\u2019t catch up to human workers any time soon",
-      "source": "understandingai.org",
-      "source_url": "https://www.understandingai.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rR3FKaDFHN2FsRGpicWVPeGFPSHhLUXBsWFlTaXdKbm9MTGNvYWpTbHM3bktPMmdac2tJVVQzcUFCVk5kczRBVm5Jc3cySXlDVEg5M05TMWw4UjdHMS1BTlRrdG02VkFXNm9lMU82QWtQdE94cUE?oc=5",
-      "pub_date": 1788267159.0,
-      "article_url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "image": "https://substackcdn.com/image/fetch/$s_!FzSr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161a13ab-1d30-401a-af5b-f5fd91994302_1911x865.png",
-      "description": "A deep dive into the current state of humanoid robotics."
-    },
-    {
-      "headline": "International Federation of Robotics",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGZ0ZTNjUWdIR0Q4dElVc2liRThtRVkzeUdMc0x5MFQzRFJCcTJ0ZUlqVEtubURmUE1YUENzSWI1eXVfSnotRDBJNFZjbUFpS2xaMDQzbm5MUHphQkFZZkVsSHZyaFd6cEtVZHRTaHZOdnA2X1RjcURrMWZ2djBDcXg2dDl3Zlc5Ny1VczBzc3J2YVUx?oc=5",
-      "pub_date": 1788346157.0,
-      "article_url": "https://ifr.org/case-studies/breakthrough-robotic-grinding-in-energy-storage-manufacturing",
-      "image": "https://ifr.org/themes/user/ifr/img/bg_robothand.jpg",
-      "description": "The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide."
-    },
-    {
-      "headline": "Industry Insights: Google DeepMind's Robotics Lead on Gemini Physical AI Push",
-      "source": "A3 Association for Advancing Automation",
-      "source_url": "https://www.automate.org",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnB2M3hDVE1pNXNvNmRhU0VTLVYzblVWNUNyTE1WbmtBamhtYlVxWDczMW5Wd21kdzZDSW9fak84Vk5uQXBaNTJUSnRFUWNQbVBNSEVGN3kwY2ZjUXNvRnBYeWlObVVFUlNLZFFia3RuRmszeTlReWU1RUVkMW1jQThoMHcwS3RzRkZ3OTBTOHpHNEo3bWVYb3hZTmx3LWJodVdLZnVlelRrRDYyTDJCaDZTcmgxWWVtV3pxeklxUjkyaENaZmdueHd0MA?oc=5",
-      "pub_date": 1788357785.0,
-      "article_url": "https://www.automate.org/robotics/industry-insights/rip-it-up-and-start-again-google-deepmind-vp-on-rewriting-the-rules-of-robotics",
+      "headline": "Exclusive: Aitan, battle-tested by IDF, raises $41 million",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWEs5SzhrMk5vUnozWjhOMGthVGFXRDBsN0pELUZKZm9RMFJZb0Q1c21NSkZQVTZoUnRUWHpwa2dGb3NNSl9pUDJTNVN2UVdQUm1HRDRHQk4tSE5TZXZRZ0FCVFNnMmVQOGFId0w4czVZUXE2djBuWU5mLUNHdw?oc=5",
+      "pub_date": 1788343585.0,
+      "article_url": "https://www.axios.com/2026/09/02/aitan-israel-stealth-raise-robotics-dell",
       "image": null,
-      "description": "Carolina Parada discusses Gemini Robotics Approach to Physical AI."
+      "description": null
     },
     {
-      "headline": "GoPro has been acquired and is getting into \u2018defense, government, robotics and aerospace\u2019",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5",
-      "pub_date": 1788281168.0,
-      "article_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&strip=all&crop=0%2C10.761751337668%2C100%2C78.476497324665&w=1200",
-      "description": "Right after a YouTuber became GoPro\u2019s biggest shareholder, the company got sold."
+      "headline": "Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc2tqLURDejdMVDRUak1sRXQ4NjB1S0l4WjM1WDY4alV1c0NnenFwdGROYVFkbl8xWXNqNnhRU3VRRUFhdXg2MmlZOGxyZkRSNjlFRUdfZzNKU3FCaDZMZnRBaTQweXVkRGstcVEycjFfWkx5c1JYc2U5NllUdFpyVVFhOE9oN3hXV0dRRTNNN3E1RGVKYlpsYU1IeFJVYVlQZ2dKOUJKZm9jbTFETnlSUnFqa3B2aV90OVZxMG9udllreDBIM1lBXzBQWG9VcXdxek9VWVY0WmhBSld1Z3BrREIybnUyTGJoUDg1NHF2YkRNU3Y4Wnc?oc=5",
+      "pub_date": 1788354000.0,
+      "article_url": "https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Robots for rural schools? Minnesota State University, Mankato program hopes to boost STEM",
@@ -75,36 +45,66 @@
       "description": null
     },
     {
-      "headline": "A new class of delivery bots heads to campus",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckw2aHBoYU5ENHJtMWp3azN6RHVsNU5JSk1UTjVDdzcwZHFrNV9RUHVFNXA3Z1BEQVluNS1zTkNmdUN4SFpDclJlVTFwQkhOZkpkVmt1WnZydEY4b3Y5Z0tEbEZSZURDMGhlTll1SUptemVlVVBfdFp5UUx5RWlMTERUYTNPQQ?oc=5",
-      "pub_date": 1788339627.0,
-      "article_url": "https://www.axios.com/2026/09/02/delivery-robots-college-campus-starship-avride",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "What Medtronic (MDT)'s Cornerstone Robotics Deal Means For Shareholders",
+      "headline": "Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmg5SkNWZTRVajdiZGV3OVBReDNiai1mUDFwdU5rVmc3RXBTUENRcU0yZktZSmRELUVkaFl1WVM0MkVrU1huTGEzeFFfd1AzUFJSWVZOSWRvRWVKVXBEM0dnZFVHYlhFdnFqUnB5NlZtWGVmdjA0WGlqZnY3dlUwSmJOOFVfTXFFYlg5aVpvSVJhaGRsWlhKYkY4dkx6UGt3aGNzdmt3dw?oc=5",
-      "pub_date": 1788264980.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/medtronic-mdt-cornerstone-robotics-deal-121620018.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9b9c280dd3e0550c085f6e9ff7c4dd157294e9d4818182f3ae17231e9db03baf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F1ed8b489adaf5834aa75bcdf670c33d0.jpg",
-      "description": "Medtronic plc recently announced a partnership with Cornerstone Robotics, committing about US$700 million and securing rights to distribute Cornerstone\u2019s Sentire surgical system in select approved markets outside the U.S., where it will be offered alongside Medtronic\u2019s Hugo robotic-assisted surgery platform. This move effectively broadens Medtronic\u2019s robotic surgery portfolio, giving hospitals and surgeons more choice across complementary platforms that can plug into the company\u2019s connected..."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZkLXhURGZnYUh0bUlyUTJ3NW90SVY1VUxNbHdsMEs0UzhkeWFjZDFiYzluR0w5Q3Jqa2xqajQyQS1uNlozNkNWcng5TUhhOTRhTUprSWtMUjJfUmlOV2FuNDJuT3dWRlJCMkF5eVhFY1FCUm1RVFRxa29EVnBLVjNqZDAxY2piX1FpMDhGR2VJR25rWU4wTElCTnJVRTA2VkE?oc=5",
+      "pub_date": 1788188100.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-vs-symbotic-robotics-145500340.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3731d687e96b08e1d82f8c16eeba2a81339816c26707b912179dae81fcb99206/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F8e07a6405c19010c3d9ed64837fcb71a.jpg",
+      "description": "SERV and SYM are taking different paths in robotics and automation, but which stock offers the more compelling investment case for investors now?"
     },
     {
-      "headline": "It started as Macy\u2019s, then hosted bankrupt robotics firm. Now building set for new chapter",
-      "source": "BoiseDev",
-      "source_url": "https://boisedev.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0pfdHBPMFU4U2ZweEpDT3FSX015YURmU1pxdmtBS1ZrcE5UZHFTMVdtSG9ka3hJYlFMdUxtaWZ3ejFHQTgyVHZvS2p3b1htVnRGdG56TGFxNXg1QjcweTh4TkxUcXBfczROcUM3OVFtMDlOa0hNMzh0dUZNMzRNc3BZeHRKam9sdHlCQlhVdzhWOU1oSnJOejQtUGlVaUduQ25Bc2Zxa2dBUm8wc3RSVEVzR3hPa2ZJeTNfQmVn?oc=5",
-      "pub_date": 1788187910.0,
-      "article_url": "https://boisedev.com/news/2026/08/26/building-that-started-as-macys-then-hosted-bankrupt-robotics-firm-now-on-the-market/",
+      "headline": "Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI",
+      "source": "calcalistech.com",
+      "source_url": "https://www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5",
+      "pub_date": 1788351900.0,
+      "article_url": "https://www.calcalistech.com/ctechnews/article/4dsejsrni",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/12/17/WQMJ0DK1G/WQMJ0DK1G_0_0_490_276_0_large.jpg",
+      "description": "The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world."
+    },
+    {
+      "headline": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDMwU3AtMUxQVkdmSFZXN3lpQlBkZGtYMVlHVGFNRGFxWUQwUngtLUhuN0pOdlBTQ05odHZRdFpiWFoxcktvWmlkTW00NmlFdFVpX0ZEWmdBc1JxaTI4SnItbDdSUXpZaFVGNHk1bjJxYW5jRnpncWpBbmxfbllPNlh3SUlvdGdheXNaVVJPaFFjM2cwZFdQdHJ1T29KRW5lV2daZDIxRU1WazBMLXc?oc=5",
+      "pub_date": 1788271074.0,
+      "article_url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/RAG_How2Robot.jpg",
+      "description": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers."
+    },
+    {
+      "headline": "Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1g3b0hfVjlXWk9GZVJ3ZVUxWE4tQWkxc0N1bmV3RW1fbFpiRXgySWIzMEtMOXZTbGN4TlFFXzZDdDdmdXpXU3paOHRZTFhlaWZKTWVReWpEeU9Sc3NsVWs0MVFqR09nQ2MxNXU1N3h3MkJNSHptYWV5WDBObk9VLThIUWpyMi1fZ1BlQ3otc2Z5TkNjMm1pSlI3dHJwNlZF?oc=5",
+      "pub_date": 1788295116.0,
+      "article_url": "https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "These Ex-DJI Engineers Have Designed the World\u2019s First Robotic Extreme Zoom Camera",
+      "source": "No Film School",
+      "source_url": "https://nofilmschool.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGd0l2Q1JDOHMzRUxqQkpRY1ctdllWWUlFVXBMUUVfMy0wVDZwc01EZTlVYWxJdWNYWVRKdVdpOHlVaFhydkFoaGlIeTY5MEJxVHhUcVlweGNzRjJPQlRHNEo3S0pDWFFHNFZlbEVB?oc=5",
+      "pub_date": 1788206882.0,
+      "article_url": "https://nofilmschool.com/rocxzoom-robotic-extreme-zoom-camera",
+      "image": "https://nofilmschool.com/media-library/image.jpg?id=67701950&width=1200&height=600&coordinates=0%2C19%2C0%2C20",
+      "description": "Peep the RocXZoom, a compact, long-range optical assistant camera powered by Physical AI and capable of delivering 50x Hybrid Zoom with 20x Optical Zoom, plus new recognition and tracking features."
+    },
+    {
+      "headline": "XTEND Expands XOS-Powered Robotics Ecosystem into Ground Domain with AtlasROVER",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSThlRDJBX1k4MGhVcm4ycUJtNTBTTDUyUlFpaG1wRi0xZDZPb3hubUw0WnZnN1hOd29BcVZVZHlaY1Vib2ZSTmFaZVBRMk9TWm45ckFZRjQwSjNYVmVpbGdiak1CeGlhLXM4d05aaDZnX1JnQk5TRHdWQ2kwUkNzV3VXZmoyUC16Z19sLTVKMWNucE1WOGhkMkFiZ0hTbmdERDNaYWd1eTNnRWFPS2tRVlc2UkZjQV9NUmdMVENMTEwzMElBVFl6YXYzVGZFRTQ1akc4Vw?oc=5",
+      "pub_date": 1788269162.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/xtend-expands-xos-powered-robotics-ecosystem-into-ground-domain-with-atlasrover-1036511207",
+      "image": "https://ml.globenewswire.com/Resource/Download/8a602b50-8479-4701-8080-200b318c32bb/image3.jpeg",
+      "description": "First AtlasROVER deployment since XTEND\u2019s acquisition of Atlas extends XOS-powered systems from air into ground roboticsTAMPA, Fla., Sept.  01, 20..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T14:08:42.056797+00:00"
+  "fetched_at": "2026-09-02T17:59:33.175683+00:00"
 }
