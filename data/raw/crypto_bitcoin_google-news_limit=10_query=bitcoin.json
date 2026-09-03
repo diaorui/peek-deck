@@ -5,8 +5,18 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the 'right trade'",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamhwUnpXbHhMUW14VzRVVmczb19UckZlNm82SDNJd0ZETWZzLTh0M0lsMEJLdVhVemlUYnhzU3Z3akFtWFh2ZW16bE5DR1V1cU8zSF9VTkJwdFJUWjA0MmxnSTZsdGkxVkFqSFBMR1RyRWhRZ0xWRXVnSUpWUjNyNjJFNlhvQjlyMDNLel8xX1l5UWRXMUhZYjhaelZnXzZDaTVvVjlmUDJEb0NQSmY1MWZ6akRYSVhUeUdYQmJTRzVmSUdINFNHYUFkVnREZmFFQXZlV3VHSHA?oc=5",
+      "pub_date": 1788344776.0,
+      "article_url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323",
+      "image": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
+      "description": "Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs."
+    },
+    {
       "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pRbWl2YXFjVl9VN3JMR1I3WHl1RXBkZ2xjMVJ4QWJiYi1pVTc3Wk5MMG1SOU5jc2E3QjhZcG4yRkg1TVNBTGFSWGVuMWFLSVNOM1RVa29tLWlHVDFOLS0wc1Q3UEJoZzJzejRBaGk5QTBjWHFVZ2pwMDdEeW15d3FGeExUdVVlNkNWU1RUZklpazV5QV9qeExUY0lUN2RWS3NkNmpMQno3d21ST2NLT2FuSQ?oc=5",
       "pub_date": 1788208119.0,
@@ -15,34 +25,64 @@
       "description": null
     },
     {
-      "headline": "BTC, ETH price news: Bitcoin steady at $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpRaWRYLW5xR3drSl90QkUxcmVxTkVxN09PWWhaMGlpWDV6ODQ4Qzg2WDJkb3Y4Nmc3OEFxeHFaVTBNc1pIVUVHbndQdDMwRHJldldJUEI1VXNMWnlva2gwNE1uQVlGaWYxN3VvSnVrS0pUYjdSejVyZjlsZ1NMS2I3Q2taVWkxelQyVlAyYzFfT0hseF9QYVh5Nm9VVm1DNG1XSUZ0VU1zWnNZeWtGdlBHWFRLWmVxZzlYZA?oc=5",
-      "pub_date": 1788237028.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "headline": "Who is behind El Reno\u2019s Bitcoin mining facility? News 4 investigates",
+      "source": "KFOR.com",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHpQenRMd2xRX3BZeFFPX1hST0xnZmNUSE1NWWpuSWNjd3lXU0FMbllFV0w5WTdLTWdxLUNQUFBqNGVxM0dhQXJRWkhGRDlGRGU0a09acDM2eV9KNWhMLW5EVldUYjNzamdDaVFvalIyeGlaUnZ5WEpOazhENGlDUFB3ZWJDU2FWWUhjS21oYVEwOFBmUDlZSXJEWdIBoAFBVV95cUxQRWVqOURJcEE5bFRxZmNiTG5id05zX3ZHUlFRcmhPNGZhck9ZVmlIX3hzSlUxM0dKMjRYUGJxTWpPbkZIdkZPY2dyOC1ncTdMWU00TTNlUzFmUU5EN1BWekFpZ2NVRklIZ3VDRTNBOWliRW9YLURrdDBqMWN0YV85ZjNORWdQS21jUlJBZnBWSE1SR2ZLdVA5bVFvd0VkY3J6?oc=5",
+      "pub_date": 1788317895.0,
+      "article_url": "https://kfor.com/news/local/who-is-behind-el-renos-bitcoin-mining-facility-news-4-investigates/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Will Hit $260K, Says Strategy CEO Phong Le \u2014 Claims Firm Will Keep Buying at $130K",
+      "headline": "Current price of Bitcoin for September 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XSFp5OE4wSklhMFpiYnRrdzdKbE5FZmZfaTlSWEcyeU5DdWlrbUdxamlrU3FnRmp2ZEhRUElXU0dBVU1rZG41REM4UXJmUGlnYjg0MXlqZWZMRUxiSEhwNWNOUE9ZN2c?oc=5",
+      "pub_date": 1788355076.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-2.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHF3VXJ4SnZEYko4NGVkTEdscUQ4Y3dlYWRDLVl6M01vZ0lVNlNlZ3FyNHItaVUzVjZYLUdMYVEtSmt2SjM1eXpmUFJhR3I1VWcyT3l6S3QwamthWGlMTWRtbUxIX1ZMaWxFd1ZJeVlEZURCTHMwNVJQXzYwZXYtWWNFT25BbXBlc1ZybnVpOHlkajl0Q1lTWWlJdw?oc=5",
-      "pub_date": 1788351401.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-260k-says-strategy-121641170.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6a0e79ec307238e095be93a7bae69b5a25f5727f7012e121c6b1e81362a2d935/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F38850d907be5c898f265bac9b875f410.png",
-      "description": "Strategy CEO Phong Le said the firm could continue buying Bitcoin at $130,000 and suggested those purchases would look attractive if BTC later reached $260,000. ..."
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdHdGM2tudTVlOEc1VlFqXzlvdWIzOXk2TjY2Q3BoTkpqcU9PUnBORWVIakRtTVR4MkhjODEtNUZ2YlAtNjBmbnpRWk9FbTdlbFRQN1NtcGx6RDhNRmRsSXBIS1g0UHo3Tjc4X3ppWkNORC1tVWVwY3hsWjA4YnM5MVdveGtvZ2ZDeXlKMDgtaFFneTg4N1RIZjRaak1oMjA1a3ZuenBieC1LU1k0V2JtTS1ZOFY5WFM2SzRVWmVkYWR4cU1fRmc2RkJwTlJfeWoxdksta0U1UWhncnlyS0hLa3R3Ulp3dWc0TGFxUF9uTWM5bWkzclprRklFUXowREd2Zy1mSE5BOC1wNVk?oc=5",
+      "pub_date": 1788348399.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
+      "description": "Bitcoin opened at $77,395.89 on Wednesday, September 2, 2026, 1.5% lower than Tuesday's opening price. As of 7:13 a.m. ET, bitcoin moved down to $76,597.13. Ethereum opened at $2,417.66 today, down 2.0% from Tuesday's opening price. Ethereum fell further this morning to $2,373.76 as of 7:13 a.m. ET."
     },
     {
-      "headline": "El Reno loses more than 3 million gallons of water during leak at data center",
-      "source": "KOSU",
-      "source_url": "https://www.kosu.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UMGJReUVtYmtmbEM5U0NYR0ljSU84Si10SXR4dkU2Z0lxMnI5RUZ5MHltUWRyNGNlY2xzQk1wRC1Vb0JGQTNZTFJqV1k0dHk1Q0NHSTM5WFdTVjVFV09zVnRBUUs?oc=5",
-      "pub_date": 1788255000.0,
-      "article_url": "https://www.kosu.org/el-reno-bitcoin-center-water-leak",
+      "headline": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaENja21XSUlLaFlUYUFKdHFLU2lfbkhxQzdxYlpUUUJScDIwbXAtNEdnM2pmQU96RXhIM3JXejM3bzlneHJSZkN6cXhxZFZJUUZGUXVrNi1NMFBOcHVyUHctaDBHbWw3MmhnTHM0dzh2dktROHRISDB1NWlZdW9QTXpaYTJhVmZRak9iclJxaGtZdFNSM2R1aE0wMEhkNnZndExqRzA3QWlpbGc0Mk9nSjRGRkNxUkhNWWtYZ1hJTi11SmM0UG0ybA?oc=5",
+      "pub_date": 1788356101.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Rallied 25% in August but You May Not Want to Get Too Excited",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazNoZFhLUXdWaGI0eXFnR0xsZzhiTGlaSFdNVk5aYjRjRFc1UUtkdExQdmNQZXdCMk14VGxGNlF4b3hhTVQ2dXNJejE2SERoNl81XzBEQjBZaDZ2dHl5Q09PNEIwWGt5a1dOOG1hSlhZVHVkNmw4TDRIUUpSZmw4cUp0QjVBTGdveS05SjZNVnI1cUp6ZVFtcUowdkdXOGkzNVJCbkJNUERnSUVqd3h3RFoxWS1tcllPMkg3R1JlVXpkREdxdXc?oc=5",
+      "pub_date": 1788386418.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:0709b1388094b:0-bitcoin-rallied-25-in-august-but-you-may-not-want-to-get-too-excited/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin (CRYPTO: BTC) may have staged a powerful August recovery, but it still needs to clear a critical structural hurdle before confirming a new bull market, according to analysts.Is Bitcoin Repeating 2023?Widely-followed trader Jackis said Wednesday that Bitcoin\u2019s August breakout decisively recl\u2026"
+    },
+    {
+      "headline": "'We failed': El Reno admits oversight after 3.8 million-gallon water leak at Bitcoin mining facility",
+      "source": "News 9",
+      "source_url": "https://www.news9.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0d6RWFTZDhQTE1wNkNhMkJiYXBaOE55OC1taGFOV1dKNmMzMWZwRzh4V2s4Z3VPbzNWVkkwOGtocUl3MFBhdGZvQ29hR1l2RE42elhwX1NYc3Y4TWg5bG9FeHY0TG5nZFl2d2hpV3BwZEZXaXlFZUh2a29xSlVTeXlBbk5Bb2V3d1Q0VDhSTENmNlpheXVuZHB3TEFhWXFIY3RzQQ?oc=5",
+      "pub_date": 1788315256.0,
+      "article_url": "https://www.news9.com/oklahoma-city-news/oklahoma-el-reno-water-leak-bitcoin-mining-facility-oversight",
+      "image": "https://cdn.griffin.news/dims4/default/f47ee26/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Ffueltools-prod01-public.fuelmedia.io%2F59e240fa-1ef9-4713-94e5-5289dca38660%2F20260902%2Fbc510d9e-b36e-4079-a8d5-7fa0b7f66b72%2Fthumbnail.png",
+      "description": "City officials say Athlon Blockchain was operating after its permit was denied, prompting a property condemnation and plans for new water-use safeguards."
     },
     {
       "headline": "Rich Dad Poor Dad author shocks fans with $1.2 billion debt",
@@ -55,26 +95,6 @@
       "description": null
     },
     {
-      "headline": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2xhQnQ3eG9nMmVoaXVsdzhfSDBtOGhjSG5Rc0FjNlN0NmNtUm8xWGFkUlVra0JVR09ndktpYUpQTU1aa0pZVEpOME9KTDd4MkNZZWFsTndfZ09LRFhZUEJSdjQzZTNLNEd0NEhXQV9Mc3hsVjZMZ2lDRGE1YmhWWHJ0ck5teFVXYVItUHB1bi10a0o0b0hkR0ZLSGFWQktkVlNPZlF5Q0I1QUJtdXlZbE9xOHdCeGRyUV85S2NIdEFTWldqR1hYbzRtNkg?oc=5",
-      "pub_date": 1788366956.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:a09bb5c73094b:0-bitcoin-s-apparent-demand-turns-negative-as-price-struggles-with-77k/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) sold off into the early European trading hours on Wednesday to hit local lows of $76,400, per data from CoinGecko.Key points:Bitcoin\u2019s apparent demand flips negative againThe move in BTC came after US spot Bitcoin exchange-traded funds (ETFs) recorded outflows of $236 million the day\u2026"
-    },
-    {
-      "headline": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaEZBQVJfcUJXWlBjVklMdC05WkNyQTJ6S0J4NkZ4MmZRTGwtTnZZaGlCVU5IS2FPdlZlcFVXU2tEZnNNRkl5OFpyYzBJYVhvNC1TendGSGp3dExoM3pXMG0wMWo4dXBOOUdwOVRGOGNkYVBSZ05FZGhsVzNxTHRUeGMwQ0t4VWEyRzU1dkxURlE1LTBZWWlWRk5nd3lHQm4yNzhDZGw5bFRYcnhyelk0SjIwMUJORU9YSmdBcllUVEVwNExfYlFyUjZzQVBRZTI0QkJodUpNTzBfNHFhckJIU3FacGdGZWhyT2tZOFFiUVZmUQ?oc=5",
-      "pub_date": 1788348775.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-      "image": "https://www.tbstat.com/wp/uploads/2019/05/Screen-Shot-2019-05-23-at-6.44.52-PM-1200x669.png",
-      "description": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million."
-    },
-    {
       "headline": "Bennet Research Traces Mystery Behind 107 Burned Bitcoin",
       "source": "Bitbo",
       "source_url": "https://bitbo.io",
@@ -83,28 +103,8 @@
       "article_url": "https://bitbo.io/news/bennet-bitcoin-burn-mystery/",
       "image": "https://bitbo.io/news/images/bitcoin-wallet-2.jpg",
       "description": "New blockchain analysis by Bitcoin educator Bennet reveals five wallets that destroyed $8.3 million in bitcoin likely belonged to one early Mt. Gox user."
-    },
-    {
-      "headline": "Binance Founder Eyeing $1 Million Bitcoin As Quantum Threat Grows",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1hUeVFVMUc1bUdLVUlCaFRWX0Z2b1hzcnA0dUZqZVFOYWI1SWJ0UDhzZTlsVndqN2xpTTA4SDhXMlYxV0JOMGZkMVFyc2N3d0tIZHFqaWl5ekNHU0pZVjhCa3h3clhVVmFuaEktZ3lqY1h5UzFYSzR6emJyT1ZLVEJTN1ZQZDlvU2JRcHJwUTU2UXJWbnBIZEZ6dXNJTHlucy1fcTd6N0lfX2xJc1Fobl8tSnAxRVUt?oc=5",
-      "pub_date": 1788365746.0,
-      "article_url": "https://www.forbes.com/sites/boazsobrado/2026/09/02/binance-founder-eyeing-1-million-bitcoin-as-quantum-threat-grows/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Big On Income, This Bitcoin ETF Is Worth Examining",
-      "source": "ETF Database",
-      "source_url": "https://etfdb.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjJOSGcySEwwcmdTamVTa0FtNkVjeUNHVzBUdUZrRTE0aWtYWUxGQS1jLTVMbFhZYU5jX0J4MkxNUU45Ti1fYzF3YzBHVGVuTHFsUEx2bWxaMU84LXUwa1NSanF6bmllUGtrQVBuWHhBblZEdmZBd2hNOTBraFpWeWFENGpkUm56dDMwSUFNRTFvdlRFVFNacXpzLVg3WXc?oc=5",
-      "pub_date": 1788282765.0,
-      "article_url": "https://etfdb.com/monthly-income-content-hub/this-bitcoin-etf-is-worth-examining-and-big-on-income",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T23:07:40.151306+00:00"
+  "fetched_at": "2026-09-03T01:18:33.231481+00:00"
 }

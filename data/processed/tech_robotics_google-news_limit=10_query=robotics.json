@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
-      "pub_date": 1788387849.0,
-      "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
-      "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
-    },
-    {
-      "headline": "China\u2019s real robot revolution is not about humanoids",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
-      "pub_date": 1788303663.0,
-      "article_url": "https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a41e44-e633-4162-9f1c-e04f2770aea3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
-    },
-    {
       "headline": "Exclusive: Aitan, battle-tested by IDF, raises $41 million",
       "source": "Axios",
       "source_url": "https://www.axios.com",
@@ -45,14 +25,24 @@
       "description": null
     },
     {
-      "headline": "Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI",
-      "source": "calcalistech.com",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5",
-      "pub_date": 1788351900.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/4dsejsrni",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/12/17/WQMJ0DK1G/WQMJ0DK1G_0_0_490_276_0_large.jpg",
-      "description": "The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world."
+      "headline": "Atascadero robotics team makes it to FIRST World Championship",
+      "source": "KSBY News",
+      "source_url": "https://www.ksby.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlhuNEFQXzlFX19QMEdGWU50WXFUZjNYam16QkUxYjJHQl84UHFEMUN0Wk52ZEpXMERvMEoyZ1A3ZnJvZUxRTHk5Q0dZaW5idGdjZTZrRDZlbGRRUm1tWFNaUUVQdko0WGw4NUYzc1hNYWsxRE92UEFreS1jVDAxSk9CSGVJS3VRUFNZUFdwNERjd1ZORWtaSg?oc=5",
+      "pub_date": 1788374972.0,
+      "article_url": "https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/39497e4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2Fcf%2Fef19f31642b6a5db3992713076ab%2Fatas-robotics-team.jpg",
+      "description": "At The Greybots\u2019 build space in Atascadero, you\u2019ll find Dustbowl \u2014 the robot that helped the student\u2011run robotics team qualify for the FIRST World Championship in Houston, Texas."
+    },
+    {
+      "headline": "Robots for rural schools? Minnesota State University, Mankato program hopes to boost STEM",
+      "source": "Star Tribune",
+      "source_url": "https://www.startribune.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1NmZXRDaFZPWTNNX01KM2QtRUJVaEowVENFQXJHTnUzbDJCQ3lCQnphd2w4ZHI0SnlBX1huM3hTNm1Bd1pjVTFjSjRMXzk0VmQ3dGFzbjQzSG0xTExXbDBkaWxXTDY3R3Z3amF2SWxqdC1DQVUxSTFZMzFDekR1OC1idWJqQjVJTXc5ZUpuUG5IT01jeEZLejBxTUJzUUR1QWZvak9OTG1pZEZRWEFQYVhCSmtZMjZia1hHc09YNWcyS3c?oc=5",
+      "pub_date": 1788285600.0,
+      "article_url": "https://www.startribune.com/robots-for-rural-schools-minnesota-state-university-mankato-program-hopes-to-boost-stem/601882836",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?",
@@ -65,18 +55,8 @@
       "description": "SERV and SYM are taking different paths in robotics and automation, but which stock offers the more compelling investment case for investors now?"
     },
     {
-      "headline": "Video: New robot platform unites wheeled, off-road and legged mobility in one system",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHZ5VGRIS09ydk1DYmRZWEdNMWt5ZUVPcTF6N2l4WWowMWRZbE91Q1B0OWZ0eVZkWlFCWUx5WTluaVNzdEsyRmZHNldGejhNbkphZm1ZMFNVRWlLbEZEYjlQWWQwMi03X2VpZnlodnllYjNSaVltcGppT3FnY1lSakZMMkFNOUV6RHlISDluajBRR3RPcENLeXVhMFNuZEplMDloZ19qU0dHWVR0elMzWEpmczFxYXdkZ3Y1LU1ENjktRUFwNkNoeA?oc=5",
-      "pub_date": 1788356280.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/video-new-robot-platform-unites-wheeled-off-road-and-legged-mobility-in-one-system",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-33.jpg",
-      "description": "Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain."
-    },
-    {
       "headline": "Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXJNSmIyeXJlamo4eXVyWXMycjl2WkZEeXd2T090ZW5mT0dBSE1uUUoyMVdqSVkybl95bnJ2TXhyeU1CQm44ekxEeENsSjJSRjlyZWtJSEFCenVfd0tHZEdHNjZLWUREb1FuLWJXYjhVaW1rSC1LeGlaOC1idUNrUWYzb1BXd0oxaWF4YnhYQUItNDRFTlhCVkxjWkJBUVNFWXpoVndHWC1GNDN1WEJTaVhsRUNDQ3VhZThYMUtB?oc=5",
       "pub_date": 1788299645.0,
@@ -86,7 +66,7 @@
     },
     {
       "headline": "\ud83c\udfa5 Orchard Robotics CEO: Growers \u2018shouldn\u2019t have to be data analysts\u2019",
-      "source": "agfundernews.com",
+      "source": "AgFunderNews",
       "source_url": "https://agfundernews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEJvTzU0clVvQ28zbHhPOG5idVd4aW1nWDdlTDF0aEJrWWEtZ05VVnYyYTZDODdvZW1sdUNDcUJGYzRDeHVWYTN3T1JKNDNveklMX1hGTDJBeGMxNU94dmRJcDZPQ2c3N3NYQkRwdzZJSll5Y3RVYXNMQ0V4T1puYVBPWC1oalczMHIydGVsdkgtZm82cFhRa21KT0NlUF8yMVE?oc=5",
       "pub_date": 1788332410.0,
@@ -95,16 +75,36 @@
       "description": "Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu."
     },
     {
-      "headline": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
-      "source": "therobotreport.com",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDMwU3AtMUxQVkdmSFZXN3lpQlBkZGtYMVlHVGFNRGFxWUQwUngtLUhuN0pOdlBTQ05odHZRdFpiWFoxcktvWmlkTW00NmlFdFVpX0ZEWmdBc1JxaTI4SnItbDdSUXpZaFVGNHk1bjJxYW5jRnpncWpBbmxfbllPNlh3SUlvdGdheXNaVVJPaFFjM2cwZFdQdHJ1T29KRW5lV2daZDIxRU1WazBMLXc?oc=5",
-      "pub_date": 1788271074.0,
-      "article_url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/RAG_How2Robot.jpg",
-      "description": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers."
+      "headline": "Video: Students push humanoid robots beyond walking with flips and more",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVI2WEJuWHQ3WkxIODRSazVjWGNCRWNUWmhOdVVWOWR4cUlvS2hCNGd1U0JQYlMyUHdLTXMtbFl0aTFkaV80ZDNDOGJmNWdDX0RUYjl5WTBIR084UGR1RUFnT0lPUU5rUWtFUEU2cnBrejJlN0RMdTRsSFdIczV4TVlnN1JTUQ?oc=5",
+      "pub_date": 1788371700.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-learn-new-tricks",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-34.jpg",
+      "description": "ROBOTIS\u2019 OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing."
+    },
+    {
+      "headline": "Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1g3b0hfVjlXWk9GZVJ3ZVUxWE4tQWkxc0N1bmV3RW1fbFpiRXgySWIzMEtMOXZTbGN4TlFFXzZDdDdmdXpXU3paOHRZTFhlaWZKTWVReWpEeU9Sc3NsVWs0MVFqR09nQ2MxNXU1N3h3MkJNSHptYWV5WDBObk9VLThIUWpyMi1fZ1BlQ3otc2Z5TkNjMm1pSlI3dHJwNlZF?oc=5",
+      "pub_date": 1788295116.0,
+      "article_url": "https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China\u2019s robots race ahead",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NNkpsY0hBMWxHS2VNWVJodjFCbURuenFYanVrdFRCdDhGcWFMSFAxcUpvXzFUaTZpaFRKeWgxSWVsRmRYUGJXN21aV2U1T2szazVTNVoteHZSTVBsTUlKUkdrc1NHeDRvbDl2cEZvSWNTcmhPUkkw?oc=5",
+      "pub_date": 1788091200.0,
+      "article_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "description": "Bots were breaking records and breaking down at Beijing\u2019s World Humanoid Robot Games."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-02T23:07:30.740821+00:00"
+  "fetched_at": "2026-09-03T01:18:36.149482+00:00"
 }
