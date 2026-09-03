@@ -3,7 +3,108 @@
   "query": "ai",
   "site": null,
   "search_query": "ai",
-  "articles": [],
+  "articles": [
+    {
+      "headline": "OpenAI hails \u2018new era of artificial general intelligence\u2019 with Astra model release",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
+      "pub_date": 1788465900.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "image": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba920b0071e3f33ae30bc9c76fbc8eb7",
+      "description": "Astra\u2019s arrival comes days after Sam Altman, OpenAI\u2019s chief executive, described AGI as an \u2018irrelevant marketing term\u2019"
+    },
+    {
+      "headline": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5",
+      "pub_date": 1788458402.0,
+      "article_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&w=1920&h=1080",
+      "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra."
+    },
+    {
+      "headline": "OpenAI\u2019s president claims AI is as capable as humans now",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
+      "pub_date": 1788470402.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQ4HZKSH74I7DIIZQV6NFP2P2Q_size-normalized.jpg&w=1440",
+      "description": "Greg Brockman made the claim as the company prepares to release a powerful new model to power ChatGPT."
+    },
+    {
+      "headline": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5",
+      "pub_date": 1788437066.0,
+      "article_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
+      "description": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\""
+    },
+    {
+      "headline": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+      "pub_date": 1788460738.0,
+      "article_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia aims to broaden its AI dominance with Hugging Face deal",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90a0xRN2xNZElzUHpFbi0yaTF0SlkyV21NcEpKbVpyMkhBTWpqN3NIZS1fTDF4dlhpbVVPZ1k1Y04xM3FtbjJuRVJoM28yMTBVN0NrMnBXeHVaZVluVURxaGg0S0FuQQ?oc=5",
+      "pub_date": 1788469597.0,
+      "article_url": "https://www.axios.com/2026/09/03/nvidia-hugging-face-ai",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Another big school district bans generative AI, this time for all students",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHpJX3V5bG5QVU5wMFZ6WHBTUWc0b1V6a3VkbXRNb0stbGlveEw2MHlsdHd1dktVSVFpamxWaXA1MUlKa2swTDMweW1IQm03dlh3ZDhxUHRNUUdUejgySklUVVpiSExqZnhBblg3VmhtTGl4LXUtNE5GUWItX3g4T1NGa0RFZktITmRqUmNzRUpKTFBMdmxraVJJNk1OSzUxbC1KdFRzWmxmcGVCclUxRnRWVjFUSlFnVjlTQ0pzYw?oc=5",
+      "pub_date": 1788471669.0,
+      "article_url": "https://www.washingtonpost.com/education/2026/09/03/another-big-school-district-bans-generative-ai-this-time-all-students/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NQANK76GVVXMYB7I5XUBL4WJ3I.jpg&w=1440",
+      "description": "The action in the Los Angeles Unified School District comes after officials adopted strict screen time limits."
+    },
+    {
+      "headline": "AI ban for students? Not all teachers agree",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdU90MVpXT2k5LVNaYlZOM2dVVTdmWDRYWVBuODZ0M0VtT1IyWU9FZXBDbVFmdzFPV3I2c0JSbEZORjMyd2JEZ1J0bDdBYUJ4b0lfZzVtbnB5VFlkb1FZMjdOTEI5S044RVRvX2lEY2cyN3hTUjBNUUNTdldEMEdvTkVMQWxaem9rT2JSWnlQenNtMkoxWDNUTE9ZWDhMbTFyOFp0OTZKeWhnam9JbmVZMw?oc=5",
+      "pub_date": 1788469260.0,
+      "article_url": "https://www.usatoday.com/story/news/education/2026/09/03/schools-limit-ai-teachers-mixed-reactions/91592547007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91597972007-getty-images-2237526733.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
+      "description": "NYC's new student AI ban is drawing mixed reactions from educators, with some praising limits and others warning students could fall behind."
+    },
+    {
+      "headline": "NYC\u2019s AI ban through grade 8 sets stage for rest of US, experts say",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk51c3NBbTY4NWw2cXRFWDU1YkREMWNFb2dHX2ppSUs3SjZKaU1maFQ5R1l0cWVaWDlEblVmRVBiQXBnSlNMc1A2d1hqcl93cnQ1Ql9hek1DWWZOM1Y4eWtyMEdZUnVvMEo0LUYxS1hJYnF0YVhfeVhMX2RDYS0xRFNCOUVLWi14S3hQdjVmdlotdENaYno0TkZTX2xGR1I1ZUpubElaaGtuTjVf0gGyAUFVX3lxTE5FUWRLeGpjYU1RQXlsVnRXNzhZUFFaNnhLX0NEdTNRcmNnRkw4VGtYalo5TS1UaVk5NklRV3pIMmxpSmc4Yk5WTzlWUVFsdC1wNnhRRDlwel9PVlJWWGxjVVRfS0VPNE9taGx6Wk5jczFUNlZwWXp0dEpPN1JwOG1qZTViR3d4TzRNN2VwdTNiNzIxc2lyWXBndUJsLThyUEQ4a2R6aGk3RXQzNUdWRnQ5bGc?oc=5",
+      "pub_date": 1788471434.0,
+      "article_url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T152022Z_1559471517_RC2FANAGTJI9_RTRMADP_3_USA-TRUMP-NEW-YORK-1788456111.jpg?resize=1920%2C1440",
+      "description": "The ban will last for one year and affect 600,000 students."
+    },
+    {
+      "headline": "Meta opens new AI data center in Kuna, hopes to become \"water positive\" by 2030",
+      "source": "KBOI",
+      "source_url": "https://idahonews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnNkY2k3dEFrbGRQZjVMR2stM1Y0NWZmbXYwMzNrTDhlcWJweDlNNDVPSXVOSkVfSGtJV2xSSXJlY3VRZ01Md3pNRTVFZ2ZUdlpCcU9IRGRzSDhqXzQ0aUJaNXI4VVZtN3ZYeDBLM2Y1MXR2Um9tQVhmeEN2V0ozS04yeFVGb3JsUU9oYldaUkZ5UUt2dWUxbDNSM1FlcG5PYWZZ?oc=5",
+      "pub_date": 1788470591.0,
+      "article_url": "https://idahonews.com/news/local/meta-opens-new-ai-data-center-in-kuna-hopes-to-become-water-positive",
+      "image": "https://idahonews.com/resources/media2/16x9/4032/1320/0x378/90/c0f99227-eb70-4b84-b006-680b1ef8353a-IMG_9800.JPG",
+      "description": "Meta\u2019s newest data center is now open and fully operational in Kuna, serving traffic on Meta\u2019s platforms worldwide."
+    }
+  ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T15:54:55.078867+00:00"
+  "fetched_at": "2026-09-03T21:49:43.649484+00:00"
 }
