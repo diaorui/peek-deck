@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-03T21:49:45.459813+00:00'
+updated: '2026-09-03T23:49:05.221009+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 03, 2026 at 21:49 UTC  
+**Last Updated:** September 03, 2026 at 23:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,879.10
+### $81,270.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.8%  
-**7d:** +4.7%  
-**30d:** +26.2%  
-**90d:** +33.9%  
-**1y:** -26.2%  
+**24h:** +5.3%  
+**7d:** +4.4%  
+**30d:** +25.6%  
+**90d:** +33.3%  
+**1y:** -26.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[He actually lost it in Boating Accident 😂](https://www.reddit.com/r/Bitcoin/comments/1w607av/he_actually_lost_it_in_boating_accident/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Give me $77000 worth of btc then](https://www.reddit.com/r/Bitcoin/comments/1w5q4ai/give_me_77000_worth_of_btc_then/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to fund preferred dividends before resuming purchases at $80,000.
 
-🔗 [bitbo.io](https://bitbo.io/news/strategy-ceo-defends-bitcoin-sale/) • 17h ago
+🔗 [bitbo.io](https://bitbo.io/news/strategy-ceo-defends-bitcoin-sale/) • 19h ago
 
 ---
 
 **[Is the bull here with us?](https://www.reddit.com/r/Bitcoin/comments/1w5sna8/is_the_bull_here_with_us/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to
 
 **[Maybe this is it!](https://www.reddit.com/r/Bitcoin/comments/1w62rcp/maybe_this_is_it/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to
 
 Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. A lot of people have heard of Bitcoin but even among those who hold it, knowledge is shallow. Though for those holding the leading cryptocurrency, it appears to be solving a problem: getting around failing banking rails or inflation. That’s according to new findings from the U.S. Ivy League research university Cornell, which spoke to nearly 26,000 around the globe about Bitcoin. In its new Bitcoin Adoption Index report, the top college found that El Salvador, Venezuela and Nigeria were the countries that had the highest number of people who had ever owned bitcoin. “Ranked by the share of all respondents who have ever owned bitcoin, the leaders are not wealthy financial centers — they are economies where the national currency has been unstable and everyday access to dollars or reliable banking is hard,” the report read. “In each, bitcoin functions less as a speculative bet and more as a practical workaround.” Still, Cornell found that actually being able to explain the fundamentals of the protocol was difficult for most — including how many bitcoins would ever be minted in existence. In fact, 58% of those surveyed said they didn’t know the supply was capped at 21 million coins. But technicalities aside, the cryptocurrency has still proved helpful to people wanting to use it, the report found. One Venezuelan — who wasn’t named — told interviewers that Bitcoin was “faster, cleaner, and much less risky” than other methods of getting dollars in the country. While another Salvadoran was quoted saying: “When nobody controls [bitcoin], it means we all have control of it.” And a Nigerian interviewee reportedly told Cornell researchers: “I’ve been to six African countries and whenever I go there, I don’t fear it because I know I can spend my bitcoin.” Bitcoin adoption started growing in Venezuela ahead of other countries years ago, when hyperinflation crippled the economy and strict government currency controls meant getting dollars became difficult. El Salvador made bitcoin legal tender — along with the dollar — in 2021. The country’s leader admitted that getting its citizens to use the cryptocurrency was difficult but the Central American nation still says it buys the asset for its government coffers. In Nigeria, which has had some of the highest transaction volumes in the world, saving in bitcoin has been used by some to get around the collapse of the naira. Cornell University’s research was fielded by Morning Consult in partnership with the Tech Policy Institute in Cornell University’s Jeb E. Brooks School of Public Policy, the Cornell Bitcoin Club, the Human Rights Foundation and the Reynolds Foundation. Researchers interviewed 25,880 people in 25 countries between December 16, 2024 to March 10, 2025, asking 125 individual questions.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell) • 14h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell) • 16h ago
 
 ---
 
@@ -139,7 +139,7 @@ Cornell University spoke to 25,880 people about using bitcoin. While many don't 
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-13h ago
+15h ago
 
 ---
 
@@ -147,47 +147,39 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[Fed Rate Comments Spark Powerful Bitcoin, Crypto Rally. Bitcoin ETFs Near Entries.](https://www.investors.com/news/bitcoin-price-fed-waller-rate-signal-crypto-stocks-short-squeeze-liquidations/)**
+**[Why Is Bitcoin Up Today?](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-today-192301110.html)**
 
-Fed Gov. Christopher Waller's dovish comments sent crypto bulls flying.
+A Federal Reserve governor signaled that interest rates may stay where they are, helping Bitcoin recover from its slide earlier in the week.
 
-Investor's Business Daily • 1h ago
-
----
-
-**[Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury](https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only)**
-
-The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.
-
-Decrypt • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion](https://finance.yahoo.com/technology/ai/articles/bitcoin-miner-ditches-ai-deal-213105445.html)**
+**[Inside the English soccer club betting its future on Bitcoin](https://www.cnbc.com/video/2026/09/03/inside-the-english-soccer-club-betting-its-future-on-bitcoin.html)**
 
-The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.
+How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid.
 
-Yahoo Finance • 18m ago
-
----
-
-**[Crypto Market Today, Sept. 3: Bitcoin Reclaims $81,000 on Fed Rate Pause Signals](https://currently.att.yahoo.com/att/crypto-market-today-sept-3-212600012.html)**
-
-On Sept. 3, 2026, Fed Governor Waller said he may support holding rates steady, boosting crypto prices.
-
-Currently.com • 23m ago
+CNBC • 2h ago
 
 ---
 
 **[Standard Chartered launches institutional spot crypto trading in UAE](https://www.reuters.com/legal/transactional/standard-chartered-launches-institutional-spot-crypto-trading-uae-2026-09-03/)**
 
-reuters.com • 12h ago
+Reuters • 14h ago
+
+---
+
+**[Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs](https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455)**
+
+Strive shares climbed to a year-to-date high of $26.84 on Thursday, placing the stock less than 1% below the warrants’ exercise price.
+
+The Block • 7h ago
 
 ---
 
 **[FX has stopped reading bond yields the old way. Bitcoin should too: Crypto Daily](https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too)**
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -195,7 +187,7 @@ CoinDesk • 10h ago
 
 Ripple signed 10 major banking deals in 2026 and settled none of them in XRP. Here's why that matters more than any price chart.
 
-The Motley Fool • 7h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -207,33 +199,29 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**['We failed': El Reno admits oversight after 3.8 million-gallon water leak at Bitcoin mining facility](https://www.news9.com/oklahoma-city-news/oklahoma-el-reno-water-leak-bitcoin-mining-facility-oversight)**
+**[El Reno officials admit to enforcement failures surrounding Bitcoin mining facility](https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/)**
 
-City officials say Athlon Blockchain was operating after its permit was denied, prompting a property condemnation and plans for new water-use safeguards.
-
-News 9 • 1d ago
+KFOR • 2d ago
 
 ---
 
-**[Bitcoin price recovery narrows odds on higher 2026 targets, prediction market data shows](https://www.proactiveinvestors.com/companies/news/1098044/bitcoin-price-recovery-narrows-odds-on-higher-2026-targets-prediction-market-data-shows-1098044.html)**
+**[Strategy resumes bitcoin buying after 10-week pause, spends $370M](https://qz.com/strategy-bitcoin-purchase-resumed-370-million-090126)**
 
-Bitcoin was trading at $77,121 on Thursday, having clawed back much of its summer losses in a sharp August rally. The cryptocurrency gained roughly 24%...
+The company bought 4,603 bitcoin at an average price of $80,318, funded by proceeds from selling newly issued common stock
 
-Proactive financial news • 11h ago
+qz.com • 2d ago
+
+---
+
+**[They’re Going To Print ‘Trillions’—Crypto Flood Gates Suddenly Open As $1 Million Bitcoin Price Predicted](https://www.forbes.com/sites/digital-assets/2026/09/03/theyre-going-to-print-trillions-crypto-flood-gates-suddenly-open-as-1-million-bitcoin-price-predicted/)**
+
+Forbes • 3h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning](https://news.ycombinator.com/item?id=49472609)**
-
-The Bitcoin Lightning software project said it is preparing fixes after confirming that several AI-made vulnerability reports were accurate.
-
-⬆️ 9 • 💬 2 • 6d ago • [Decrypt](https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning)
-
----
 
 **[Bitcoin is great (for systemic theft of aid money)](https://news.ycombinator.com/item?id=49481598)**
 
@@ -289,17 +277,21 @@ Could old coins that have not moved for years help pay Bitcoin miners without cr
 
 ---
 
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 3](https://news.ycombinator.com/item?id=49556655)**
+**[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 1 • 💬 0 • 1h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
+⬆️ 1 • 💬 1 • 1h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
-**[From Bitcoin Bankruptcy to Data Center Billions in West Texas](https://news.ycombinator.com/item?id=49548221)**
+**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4](https://news.ycombinator.com/item?id=49558061)**
 
-Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.  The site is already
+⬆️ 1 • 💬 0 • 1h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
 
-⬆️ 1 • 💬 0 • 11h ago • [American Buildout](https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/)
+---
+
+**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 3](https://news.ycombinator.com/item?id=49556655)**
+
+⬆️ 1 • 💬 0 • 3h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
 
 ---
 
@@ -313,7 +305,7 @@ Bitcoin price wakes up blasting past $80k as the bears are in disbelief - but wh
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 275 • 💬 45 • ⏱️ 1:05:04 • 3h ago
+👁️ 5K • 👍 275 • 💬 45 • ⏱️ 1:05:04 • 5h ago
 
 ---
 
@@ -323,7 +315,7 @@ The White House has cleared a path for alternative assets, including Bitcoin and
 
 📺 Bitcoin News Alerts
 
-👁️ 7K • 👍 313 • 💬 175 • ⏱️ 17:59 • 23h ago
+👁️ 7K • 👍 313 • 💬 175 • ⏱️ 17:59 • 1d ago
 
 ---
 
@@ -383,7 +375,7 @@ Discount codes Power Mining 10% OFF NerdQAxe and Bitaxe - https://shop.powermini
 
 📺 Sterling
 
-👁️ 128 • 👍 1 • ⏱️ 0:34 • 49m ago
+👁️ 128 • 👍 1 • ⏱️ 0:34 • 2h ago
 
 ---
 
