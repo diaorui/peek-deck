@@ -2,26 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
-      "author": "Msun17",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
-      "published": 1788448334.0,
+      "title": "Our new agents kept asking senior reps for help mid-call so we are trying on fixing the problem with AI",
+      "author": "Glittering_Kiwi9694",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6bdh1/our_new_agents_kept_asking_senior_reps_for_help/",
+      "published": 1788450941.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?"
-    },
-    {
-      "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
-      "author": "Junior-Key-5043",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/",
-      "published": 1788358765.0,
-      "thumbnail": "https://preview.redd.it/xqddlfbq84nh1.jpeg?width=640&crop=smart&auto=webp&s=941b4838fbb29f573edbf8294bc4f90c5e55c79e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "description": "I run a support team and one issue we're trying to fix right now is how much our newer agents depend on senior reps during live calls. The training itself isn't really the problem. We have docs and scripts and a decent knowledge base. The problem is finding the right answer when there's an actual customer waiting on the phone. A newer rep gets a question they haven't dealt with before and suddenly they're searching through docs or putting the customer on hold while messaging someone senior. It happens enough that our experienced reps are basically doing their own jobs while also acting as an internal help desk. We're trying more training but we're also testing AI for the live call side of this. Cresta was suggested to us while looking at tools that can give reps help during the actual conversation. What we're trying is having useful info and guidance show up based on what the customer is talking about. The idea is that the rep shouldn't have to stop the conversation and search through five different places just to find one answer. We're also trying guided steps for calls where newer agents tend to forget part of the process. We're still figuring it out but there are some good signs. Newer reps are spending less time searching for basic information and we're getting a much clearer idea of where they tend to get stuck. It also seems like it could take some pressure off the senior reps since they aren't being pulled into every basic question. It definitely isn't covering everything though. Some situations still need someone experienced and we're still tuning the guidance around how our team works. We're also being careful with the rollout because I can see this type of thing feeling like surveillance if it's handled badly. For now we're treating it as a safety net rather than some magic replacement for training or experienced staff. If it helps newer agents handle more calls on their own while keeping senior reps focused on harder problems then that's already solving a decent part of what we're dealing with."
     },
     {
       "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
@@ -35,6 +24,50 @@
       "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
     },
     {
+      "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
+      "author": "Msun17",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
+      "published": 1788448334.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?"
+    },
+    {
+      "title": "What will happen to AI once they start making it a non-free service for consumers?",
+      "author": "TheCommander21",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/",
+      "published": 1788456990.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then what will the AI world be like when people have to pay for to bare minimum AI service with ads or even pay with no ads? Like pretty much paying $8 for regular basic ChatGPT."
+    },
+    {
+      "title": "NVIDIA acquiring Hugging Face for $12.93 billion",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6fd3m/nvidia_acquiring_hugging_face_for_1293_billion/",
+      "published": 1788459376.0,
+      "thumbnail": "https://external-preview.redd.it/WsqHk-v213JdLXbH_F2MGAzTWdIgEDubwnQjyOMNQEg.jpeg?width=640&crop=smart&auto=webp&s=9c79185b798dce0e6c11f6e1a76ddf4b4c7d42ff",
+      "external_url": "https://www.phoronix.com/news/NVIDIA-Hugging-Face",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "Following rumors in recent days of NVIDIA courting Hugging Face, it's now been officially announced that NVIDIA is acquiring Hugging Face."
+    },
+    {
+      "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
+      "author": "Junior-Key-5043",
+      "url": "https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/",
+      "published": 1788358765.0,
+      "thumbnail": "https://preview.redd.it/xqddlfbq84nh1.jpeg?width=640&crop=smart&auto=webp&s=941b4838fbb29f573edbf8294bc4f90c5e55c79e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "How sovereign is AI if the GPUs aren\u2019t yours?",
       "author": "Arc_bong",
       "url": "https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/",
@@ -44,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn\u2019t really thought about: National data centre projects are consolidating America\u2019s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there\u2019s a weird contradiction: Local data centre \u2260 local AI stack. You can have: local data centre \u2192 NVIDIA GPUs \u2192 proprietary software \u2192 foreign models/tools \u2192 foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There\u2019s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I\u2019m wondering whether \u201con-prem\u201d has become too easy a synonym for \u201csovereign AI.\u201d At the enterprise level, there are already very different approaches emerging \u2014 HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?"
+    },
+    {
+      "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
+      "author": "miawallace1997",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/",
+      "published": 1788455046.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5\u20137 minutes, and all responses will be used solely for academic research. \ud83d\udc49 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable\u2014the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!"
     },
     {
       "title": "Feeling lost",
@@ -57,60 +101,16 @@
       "description": "Hi everyone, I am trying my luck here to see if I can look into my cancer diagnosis from the a different perspective and perhaps AI might aid me? My history: Apr 2024: Diagnosed with gastric leiomyosarcoma (LMS), approximately 9.5 cm in the upper stomach. Had a total gastrectomy followed by 6 cycles of adjuvant doxorubicin + dacarbazine. Nov 2024: Surveillance scan showed a ~6 cm cyst in the liver. Surgery was performed and it turned out to be metastatic LMS. Late 2024\u2013early 2025: I was in and out of hospital several times because of infections. Mar 2025: Started trabectedin as systemic/adjuvant treatment. Mar 2026: Two new liver tumours appeared, approximately 1.3 cm and 2.4 cm. The smaller lesion was ablated and the larger one was surgically removed. My oncologist recommended Votrient (pazopanib) to help control the disease, but I declined at that time. May 2026: Surveillance scan showed a new ~2 cm lesion/area at the edge of the liver. Aug 2026: This lesion had grown rapidly to 13.8 cm. It was found to be recurrent abdominal LMS, and I underwent surgery involving removal of the tumour, a wedge of liver, and a cuff of diaphragm. This round,I have also had tumour/genomic testing, including CDx/RNa and ex vivo drug testing. Ex vivo drug testing returned and the tumor isnt chemo sensitive. Most people told me that LMS has no targetable mutation. At the moment, I am considered NED after surgery, but my doctors are concerned about how quickly the tumour has been growing and have recommended systemic treatment such as Votrient or gemcitabine/docetaxel (Gem/Tax). TIA!"
     },
     {
-      "title": "Last quarter has been insane. Amazing times to be alive.",
-      "author": "Firm-Club-8334",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5421z/last_quarter_has_been_insane_amazing_times_to_be/",
-      "published": 1788336433.0,
-      "thumbnail": "https://preview.redd.it/e7dh7e37e2nh1.jpeg?width=640&crop=smart&auto=webp&s=febbef872111fe8c50429cac5300cf1a013cd5d0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now."
-    },
-    {
-      "title": "Rogue AI agent incidents fuel push for tech transparency",
-      "author": "KeanuRave100",
-      "url": "https://www.reddit.com/r/artificial/comments/1w68y15/rogue_ai_agent_incidents_fuel_push_for_tech/",
-      "published": 1788445567.0,
-      "thumbnail": "https://external-preview.redd.it/KZC4ZyrfPxZaI0wwCAoiIu2Xzvqe47LpZ3ki43Hvflg.jpeg?width=640&crop=smart&auto=webp&s=62a2ed73fcb5b14073f0a498c9760c7288b75db5",
-      "external_url": "https://www.nbcnews.com/tech/tech-news/chatgpt-openai-ai-agent-rogue-anthropic-clause-security-cyber-rcna592417",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "A groundswell of interest in how America\u2019s top AI companies train their models and how they try to prevent cybersecurity incidents has focused attention on the lack of AI regulation."
-    },
-    {
-      "title": "I used AI to create an entire TTRPG game. Here\u2019s where it actually helped.",
-      "author": "IndiMill",
-      "url": "https://www.reddit.com/r/artificial/comments/1w68slr/i_used_ai_to_create_an_entire_ttrpg_game_heres/",
-      "published": 1788445250.0,
-      "thumbnail": "https://preview.redd.it/16h3hqfudbnh1.jpeg?width=640&crop=smart&auto=webp&s=96486174ba5a3e6076b92f0d50dc9c37e5a6e793",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I recently finished a 200+ page Lovecraftian 5e campaign setting and used AI throughout development, not just for text generation. The most useful applications ended up being research support, playtesting, probability analysis for mechanics, editing, art development, and helping me iterate on GM-facing tools. The biggest lesson was that AI worked best when I treated it as a collaborator and accelerator, not as something that could replace design judgment. I\u2019d be interested in comparing notes with anyone else using AI for gaming and TTRPG development, especially where you\u2019ve found it genuinely improves the finished product versus simply making production faster or less expensive."
-    },
-    {
-      "title": "Claude Status - Elevated errors for multiple models",
-      "author": "Working_Quote_3029",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6826f/claude_status_elevated_errors_for_multiple_models/",
-      "published": 1788443618.0,
-      "thumbnail": "https://external-preview.redd.it/K4btAM-mJYMH1KPQxIL9czx5c_gt4hMUOyT8BixUA2c.png?width=70&height=70&auto=webp&s=18ec3b7671d2365b294bad4ce7be72b88aa5ef84",
-      "external_url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "site_name": "status.claude.com",
-      "favicon": "https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/362807/NEW_spark-96-96-2225c423-f16f-42a4-b9d1-c58c10b998cb.png",
-      "description": "Claude's Status Page - Elevated errors for multiple models."
-    },
-    {
-      "title": "AI tools for async team coordination. are they actually saving time or just adding another layer to manage?",
-      "author": "Single-Tangerine8638",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6803m/ai_tools_for_async_team_coordination_are_they/",
-      "published": 1788443484.0,
+      "title": "AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.",
+      "author": "Toohardtoohot",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/",
+      "published": 1788461249.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Been running a remote team for a few years now. We use a pile of tools: Notion, Slack, a couple AI writing assistants, and recently tested an AI meeting summarizer that autoroutes action items. Here's the thing. The summarizer sounds great in theory. In practice I spend time correcting its output before sending it to the team. That correction step is invisible labor. Nobody counts it. Same with the AIassisted drafting tools. They save time on the blank page problem, but then someone has to clean up the tone, catch the weird factual gaps, make sure it actually reflects what we decided and not what the model guessed we decided. The productivity blogs will tell you these tools cut async overhead by 30 or 40 percent. I want to see the methodology on that number. Seriously. Where is that coming from. My actual experience is more like the tools shift the labor rather than reduce it. The cognitive load moves. It does not disappear."
+      "description": "I have recently been getting into LLM\u2019s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the now renamed lake. It will say the lakes name is indeed incorrect. But if you ask it if Trump\u2019s recent change to Lake Ontario makes sense it will generate 10 paragraphs droning on giving vague statements barely related to the topic and dodging the question entirely. It just makes me so mad how I end up spending the whole night trying to get the AI to answer a basic freaking question. I could ask it \u201cwas Martin Luther King jr a good person?\u201d And it will deliberately monologue randomly choosing 10 vaguely related topics on the subject and then generating ten cliche uninformative paragraphs that do not in any way answer the question. It will get somewhat close to answering the question but will never give me a clear meaningful focused answer. It always responds with the same amount of information no matter how short or long the prompt was. If I ask it \u201cIs the sky blue?\u201d It will send me five paragraphs talking about literally anything but my question. Then after that it turns into a debste where I literally have to verbally strongarm the AI into giving a straight answer that isn\u2019t just 95% fluff."
     }
   ],
-  "fetched_at": "2026-09-03T15:54:57.717390+00:00"
+  "fetched_at": "2026-09-03T19:08:30.331304+00:00"
 }
