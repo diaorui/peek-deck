@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-03T15:55:32.539954+00:00'
+updated: '2026-09-03T19:10:22.390502+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 03, 2026 at 15:55 UTC  
+**Last Updated:** September 03, 2026 at 19:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,43 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Our new agents kept asking senior reps for help mid-call so we are trying on fixing the problem with AI](https://www.reddit.com/r/artificial/comments/1w6bdh1/our_new_agents_kept_asking_senior_reps_for_help/)**
+
+I run a support team and one issue we're trying to fix right now is how much our newer agents depend on senior reps during live calls. The training itself isn't really the problem. We have docs and scripts and a decent knowledge base. The problem is finding the right answer when there's an actual customer waiting on the phone. A newer rep gets a question they haven't dealt with before and suddenly they're searching through docs or putting the customer on hold while messaging someone senior. It happens enough that our experienced reps are basically doing their own jobs while also acting as an internal help desk. We're trying more training but we're also testing AI for the live call side of this. Cresta was suggested to us while looking at tools that can give reps help during the actual conversation. What we're trying is having useful info and guidance show up based on what the customer is talking about. The idea is that the rep shouldn't have to stop the conversation and search through five different places just to find one answer. We're also trying guided steps for calls where newer agents tend to forget part of the process. We're still figuring it out but there are some good signs. Newer reps are spending less time searching for basic information and we're getting a much clearer idea of where they tend to get stuck. It also seems like it could take some pressure off the senior reps since they aren't being pulled into every basic question. It definitely isn't covering everything though. Some situations still need someone experienced and we're still tuning the guidance around how our team works. We're also being careful with the rollout because I can see this type of thing feeling like surveillance if it's handled badly. For now we're treating it as a safety net rather than some magic replacement for training or experienced staff. If it helps newer agents handle more calls on their own while keeping senior reps focused on harder problems then that's already solving a decent part of what we're dealing with.
+
+3h ago
+
+---
+
+**[Nvidia buys Hugging Face for $12.9B - End of neutral AI?](https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/)**
+
+Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Clément Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the "Switzerland of AI," Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC
+
+🔗 [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) • 6h ago
+
+---
+
 **[Top 3 frontier labs seem to be down right now. Ever seen this before?](https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/)**
 
 Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?
 
-43m ago
+3h ago
+
+---
+
+**[What will happen to AI once they start making it a non-free service for consumers?](https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/)**
+
+Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then what will the AI world be like when people have to pay for to bare minimum AI service with ads or even pay with no ads? Like pretty much paying $8 for regular basic ChatGPT.
+
+1h ago
+
+---
+
+**[NVIDIA acquiring Hugging Face for $12.93 billion](https://www.reddit.com/r/artificial/comments/1w6fd3m/nvidia_acquiring_hugging_face_for_1293_billion/)**
+
+Following rumors in recent days of NVIDIA courting Hugging Face, it's now been officially announced that NVIDIA is acquiring Hugging Face.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/NVIDIA-Hugging-Face) • 54m ago
 
 ---
 
@@ -51,17 +83,17 @@ Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?
 
 ---
 
-**[Nvidia buys Hugging Face for $12.9B - End of neutral AI?](https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/)**
-
-Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Clément Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the "Switzerland of AI," Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC
-
-🔗 [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) • 3h ago
-
----
-
 **[How sovereign is AI if the GPUs aren’t yours?](https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/)**
 
 I’ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn’t really thought about: National data centre projects are consolidating America’s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there’s a weird contradiction: Local data centre ≠ local AI stack. You can have: local data centre → NVIDIA GPUs → proprietary software → foreign models/tools → foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There’s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I’m wondering whether “on-prem” has become too easy a synonym for “sovereign AI.” At the enterprise level, there are already very different approaches emerging — HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?
+
+5h ago
+
+---
+
+**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/)**
+
+Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
 
 2h ago
 
@@ -71,47 +103,15 @@ I’ve been looking more into the hardware side of Sovereign AI, and this FT pie
 
 Hi everyone, I am trying my luck here to see if I can look into my cancer diagnosis from the a different perspective and perhaps AI might aid me? My history: Apr 2024: Diagnosed with gastric leiomyosarcoma (LMS), approximately 9.5 cm in the upper stomach. Had a total gastrectomy followed by 6 cycles of adjuvant doxorubicin + dacarbazine. Nov 2024: Surveillance scan showed a ~6 cm cyst in the liver. Surgery was performed and it turned out to be metastatic LMS. Late 2024–early 2025: I was in and out of hospital several times because of infections. Mar 2025: Started trabectedin as systemic/adjuvant treatment. Mar 2026: Two new liver tumours appeared, approximately 1.3 cm and 2.4 cm. The smaller lesion was ablated and the larger one was surgically removed. My oncologist recommended Votrient (pazopanib) to help control the disease, but I declined at that time. May 2026: Surveillance scan showed a new ~2 cm lesion/area at the edge of the liver. Aug 2026: This lesion had grown rapidly to 13.8 cm. It was found to be recurrent abdominal LMS, and I underwent surgery involving removal of the tumour, a wedge of liver, and a cuff of diaphragm. This round,I have also had tumour/genomic testing, including CDx/RNa and ex vivo drug testing. Ex vivo drug testing returned and the tumor isnt chemo sensitive. Most people told me that LMS has no targetable mutation. At the moment, I am considered NED after surgery, but my doctors are concerned about how quickly the tumour has been growing and have recommended systemic treatment such as Votrient or gemcitabine/docetaxel (Gem/Tax). TIA!
 
-2h ago
+5h ago
 
 ---
 
-**[Last quarter has been insane. Amazing times to be alive.](https://www.reddit.com/r/artificial/comments/1w5421z/last_quarter_has_been_insane_amazing_times_to_be/)**
+**[AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.](https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/)**
 
-I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now.
+I have recently been getting into LLM’s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the now renamed lake. It will say the lakes name is indeed incorrect. But if you ask it if Trump’s recent change to Lake Ontario makes sense it will generate 10 paragraphs droning on giving vague statements barely related to the topic and dodging the question entirely. It just makes me so mad how I end up spending the whole night trying to get the AI to answer a basic freaking question. I could ask it “was Martin Luther King jr a good person?” And it will deliberately monologue randomly choosing 10 vaguely related topics on the subject and then generating ten cliche uninformative paragraphs that do not in any way answer the question. It will get somewhat close to answering the question but will never give me a clear meaningful focused answer. It always responds with the same amount of information no matter how short or long the prompt was. If I ask it “Is the sky blue?” It will send me five paragraphs talking about literally anything but my question. Then after that it turns into a debste where I literally have to verbally strongarm the AI into giving a straight answer that isn’t just 95% fluff.
 
-1d ago
-
----
-
-**[Rogue AI agent incidents fuel push for tech transparency](https://www.reddit.com/r/artificial/comments/1w68y15/rogue_ai_agent_incidents_fuel_push_for_tech/)**
-
-A groundswell of interest in how America’s top AI companies train their models and how they try to prevent cybersecurity incidents has focused attention on the lack of AI regulation.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/chatgpt-openai-ai-agent-rogue-anthropic-clause-security-cyber-rcna592417) • 1h ago
-
----
-
-**[I used AI to create an entire TTRPG game. Here’s where it actually helped.](https://www.reddit.com/r/artificial/comments/1w68slr/i_used_ai_to_create_an_entire_ttrpg_game_heres/)**
-
-I recently finished a 200+ page Lovecraftian 5e campaign setting and used AI throughout development, not just for text generation. The most useful applications ended up being research support, playtesting, probability analysis for mechanics, editing, art development, and helping me iterate on GM-facing tools. The biggest lesson was that AI worked best when I treated it as a collaborator and accelerator, not as something that could replace design judgment. I’d be interested in comparing notes with anyone else using AI for gaming and TTRPG development, especially where you’ve found it genuinely improves the finished product versus simply making production faster or less expensive.
-
-1h ago
-
----
-
-**[Claude Status - Elevated errors for multiple models](https://www.reddit.com/r/artificial/comments/1w6826f/claude_status_elevated_errors_for_multiple_models/)**
-
-Claude's Status Page - Elevated errors for multiple models.
-
-🔗 [status.claude.com](https://status.claude.com/incidents/461yvfrzpwtt) • 2h ago
-
----
-
-**[AI tools for async team coordination. are they actually saving time or just adding another layer to manage?](https://www.reddit.com/r/artificial/comments/1w6803m/ai_tools_for_async_team_coordination_are_they/)**
-
-Been running a remote team for a few years now. We use a pile of tools: Notion, Slack, a couple AI writing assistants, and recently tested an AI meeting summarizer that autoroutes action items. Here's the thing. The summarizer sounds great in theory. In practice I spend time correcting its output before sending it to the team. That correction step is invisible labor. Nobody counts it. Same with the AIassisted drafting tools. They save time on the blank page problem, but then someone has to clean up the tone, catch the weird factual gaps, make sure it actually reflects what we decided and not what the model guessed we decided. The productivity blogs will tell you these tools cut async overhead by 30 or 40 percent. I want to see the methodology on that number. Seriously. Where is that coming from. My actual experience is more like the tools shift the labor rather than reduce it. The cognitive load moves. It does not disappear.
-
-2h ago
+22m ago
 
 ---
 
@@ -125,7 +125,7 @@ Been running a remote team for a few years now. We use a pile of tools: Notion, 
 
 **[How accurate have Ed Zitron's AI skeptic predictions been?](https://news.ycombinator.com/item?id=49526069)**
 
-⬆️ 857 • 💬 1033 • 1d ago • [danluu.com](https://danluu.com/zitron/)
+⬆️ 861 • 💬 1033 • 2d ago • [danluu.com](https://danluu.com/zitron/)
 
 ---
 
@@ -133,7 +133,7 @@ Been running a remote team for a few years now. We use a pile of tools: Notion, 
 
 Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.
 
-⬆️ 490 • 💬 241 • 1d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+⬆️ 500 • 💬 244 • 1d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 
 ---
 
@@ -141,13 +141,13 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 "They're trying to have a CEO press a button that makes a game."
 
-⬆️ 239 • 💬 247 • 2d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
+⬆️ 239 • 💬 248 • 2d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
 
 ---
 
-**[Mamdani Bans AI in NYC Schools](https://news.ycombinator.com/item?id=49542443)**
+**[Mamdani bans AI in NYC schools](https://news.ycombinator.com/item?id=49542443)**
 
-⬆️ 199 • 💬 151 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+⬆️ 203 • 💬 154 • 22h ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -163,7 +163,7 @@ If AI is so great, why are the only new tech giants GenAI companies?
 
 Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...
 
-⬆️ 186 • 💬 125 • 1d ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
+⬆️ 188 • 💬 127 • 1d ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 
 ---
 
@@ -171,7 +171,7 @@ Quasar sets a new benchmark for European AI, outperforming comparable European m
 
 A Safari extension that pulls videos YouTube labels “Made with AI” out of your feed.
 
-⬆️ 179 • 💬 81 • 1d ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
+⬆️ 180 • 💬 81 • 1d ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
 
 ---
 
@@ -179,7 +179,7 @@ A Safari extension that pulls videos YouTube labels “Made with AI” out of yo
 
 How a mistake of less than half a millimeter in a single part nearly brought down the world’s largest passenger aircraft.
 
-⬆️ 168 • 💬 102 • 21h ago • [Medium](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+⬆️ 171 • 💬 107 • 1d ago • [Medium](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 
 ---
 
@@ -187,15 +187,15 @@ How a mistake of less than half a millimeter in a single part nearly brought dow
 
 New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.
 
-⬆️ 163 • 💬 192 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+⬆️ 163 • 💬 193 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
 ---
 
-**[The safest job from AI may be writing](https://news.ycombinator.com/item?id=49512856)**
+**[Saab has unveiled its A3 collaborative combat aircraft concept](https://news.ycombinator.com/item?id=49522374)**
 
-Today, tech folk are scrambling to change their workflows to meet newly inflated 5X productivity quotas, while getting pummeled under the co...
+Saab is challenging the low-cost, attritable model adopted by Sweden’s allies with a supersonic, survivable complement to Gripen.
 
-⬆️ 149 • 💬 206 • 2d ago • [muratbuffalo.blogspot.com](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
+⬆️ 104 • 💬 127 • 2d ago • [aviationweek.com](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
 
 ---
 
@@ -203,13 +203,13 @@ Today, tech folk are scrambling to change their workflows to meet newly inflated
 
 ## YouTube Videos: "ai"
 
-**[AI Is Taking Over Physics and Nobody Talks About It](https://www.youtube.com/watch?v=utu5YACZbPE)**
+**[Day 224 – Vibe Coding an App Until I Make $1,000,000 | ARR: $196,500](https://www.youtube.com/watch?v=JAZuOfaRumE)**
 
-Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: ...
+WAITING FOR GPT ASTRA. The biggest AI model drop we've been waiting for will drop today. We're live, watching for GPT Astra, ...
 
-📺 Sabine Hossenfelder
+📺 BridgeMind
 
-👁️ 494K • 👍 9K • 💬 2K • ⏱️ 7:02 • 2d ago
+👁️ 37K • 👍 2K • 4h ago
 
 ---
 
@@ -219,27 +219,47 @@ Read More: https://time.com/article/2026/08/26/openai-sam-altman-interview/ Insi
 
 📺 TIME
 
-👁️ 121K • 👍 1K • 💬 349 • ⏱️ 14:13 • 1d ago
+👁️ 127K • 👍 1K • 💬 354 • ⏱️ 14:13 • 2d ago
 
 ---
 
-**[‘IT’S HAPPENING’: AI Is COMPLETELY IGNORING Human Commands | The Kyle Kulinski Show](https://www.youtube.com/watch?v=txEmFM5cg2Q)**
+**[AI Is Taking Over Physics and Nobody Talks About It](https://www.youtube.com/watch?v=utu5YACZbPE)**
 
-Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
+Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: ...
 
-📺 Secular Talk
+📺 Sabine Hossenfelder
 
-👁️ 215K • 👍 10K • 💬 3K • ⏱️ 9:18 • 1d ago
+👁️ 501K • 👍 9K • 💬 2K • ⏱️ 7:02 • 2d ago
 
 ---
 
-**[&quot;AI Will Crush All Humans&quot;: Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26](https://www.youtube.com/watch?v=H0Ap25IOWr8)**
+**[The AI Midwit Epidemic](https://www.youtube.com/watch?v=d84mtbzRA8w)**
 
-"AI Will Crush All Humans": Elon Musk on Extreme Advancements in AI at G20 Summit. September 1, 2026 Join this channel to ...
+Thanks to CASETiFY for sponsoring this video! Check out CASETiFY using my link https://www.casetify.com/colehastings Don't ...
 
-📺 Right Side Broadcasting Network
+📺 Cole Hastings
 
-👁️ 201K • 👍 3K • 💬 1K • ⏱️ 8:45 • 2d ago
+👁️ 125K • 👍 3K • 💬 566 • ⏱️ 13:47 • 2d ago
+
+---
+
+**[The Most Overhyped and Underhyped New AI Models](https://www.youtube.com/watch?v=Po_Dh7WLgmM)**
+
+A bunch of new models... Join the free newsletter here: https://futuretools.io/newsletter Discover More: 🛠️ Explore AI Tools ...
+
+📺 Matt Wolfe
+
+👁️ 68K • 👍 1K • 💬 181 • ⏱️ 26:29 • 16h ago
+
+---
+
+**[AI Software Factories Are the Next Big Thing (And I&#39;m Building You One)](https://www.youtube.com/watch?v=DcLj_SO8JNk)**
+
+An AI software factory is the ultimate evolution of AI coding. A PRD goes in, gets split into tasks, and shipped code comes out the ...
+
+📺 Cole Medin
+
+👁️ 23K • 👍 402 • 💬 70 • ⏱️ 14:08 • 19h ago
 
 ---
 
@@ -249,17 +269,7 @@ New York City Mayor Zohran Mamdani announced a one-year ban on artificial intell
 
 📺 NBC News
 
-👁️ 311K • 👍 2K • 💬 1K • ⏱️ 3:47 • 21h ago
-
----
-
-**[Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER](https://www.youtube.com/watch?v=dxghuf-iZ_I)**
-
-Ryan and Emily discuss Elon predicting an AI driven humanoid robot takeover. Sign Up For 30 Day Free BP Trial: ...
-
-📺 Breaking Points
-
-👁️ 199K • 👍 3K • 💬 1K • ⏱️ 8:51 • 20h ago
+👁️ 332K • 👍 3K • 💬 1K • ⏱️ 3:47 • 1d ago
 
 ---
 
@@ -269,37 +279,27 @@ After an unreleased OpenAI model recently escaped its sandbox and hacked Hugging
 
 📺 Sources Podcast
 
-👁️ 133K • 👍 2K • 💬 469 • ⏱️ 1:08:40 • 1d ago
+👁️ 138K • 👍 2K • 💬 474 • ⏱️ 1:08:40 • 2d ago
 
 ---
 
-**[AI Has Ruined the Internet](https://www.youtube.com/watch?v=JvTJTTUK8cg)**
+**[Mamdani announces one-year ban on AI in public schools](https://www.youtube.com/watch?v=gN00hrbdIb0)**
 
-Get 20% off DeleteMe by going to https://joindeleteme.com/adam and use code adam to protect your privacy! -- Does the internet ...
+Mamdani announces one-year ban on AI in public schools For more context and news coverage of the most important stories of ...
 
-📺 Adam Conover
+📺 NBC News
 
-👁️ 492K • 👍 15K • 💬 2K • ⏱️ 17:29 • 2d ago
-
----
-
-**[Sam Altman was wrong about AI | Eli the Computer Guy](https://www.youtube.com/watch?v=--r6aWpwwH8)**
-
-Sam Altman has backed himself into a corner.” Eli the Computer Guy joins The Tech Report's Isaac Pound to talk about how ...
-
-📺 The Tech Report
-
-👁️ 340K • 👍 4K • 💬 847 • ⏱️ 27:57 • 2d ago
+👁️ 197K • 👍 3K • 💬 558 • ⏱️ 0:57 • 1d ago
 
 ---
 
-**[Apple became an AI company OVERNIGHT...](https://www.youtube.com/watch?v=Dxix8GQD-P4)**
+**[&quot;AI Will Crush All Humans&quot;: Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26](https://www.youtube.com/watch?v=H0Ap25IOWr8)**
 
-Apple just repositioned the Mac as a permanent home for AI agents — a box on your desk that runs intelligence privately, ...
+"AI Will Crush All Humans": Elon Musk on Extreme Advancements in AI at G20 Summit. September 1, 2026 Join this channel to ...
 
-📺 Wes Roth
+📺 Right Side Broadcasting Network
 
-👁️ 102K • 👍 2K • 💬 332 • ⏱️ 12:06 • 2d ago
+👁️ 205K • 👍 3K • 💬 1K • ⏱️ 8:45 • 2d ago
 
 ---
 
@@ -315,7 +315,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 151,021 • ❤️ 1,576 • 3d ago
+⬇️ 151,021 • ❤️ 1,593 • 3d ago
 
 ---
 
@@ -327,7 +327,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 263,287 • ❤️ 4,780 • 7d ago
+⬇️ 263,287 • ❤️ 4,791 • 7d ago
 
 ---
 
@@ -339,7 +339,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 517,902 • ❤️ 1,999 • 3d ago
+⬇️ 517,902 • ❤️ 2,007 • 3d ago
 
 ---
 
@@ -351,7 +351,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 5,254,882 • ❤️ 13,785 • 20d ago
+⬇️ 5,254,882 • ❤️ 13,799 • 20d ago
 
 ---
 
@@ -363,7 +363,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 54,571 • ❤️ 528 • 2d ago
+⬇️ 54,571 • ❤️ 537 • 2d ago
 
 ---
 
@@ -375,7 +375,7 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 4,449 • ❤️ 410 • 6d ago
+⬇️ 4,449 • ❤️ 411 • 6d ago
 
 ---
 
@@ -387,7 +387,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,293,463 • ❤️ 2,654 • 2d ago
+⬇️ 1,293,463 • ❤️ 2,669 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 46,862 • ❤️ 339 • 1d ago
+⬇️ 46,862 • ❤️ 348 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 9,553,042 • ❤️ 3,426 • 14d ago
+⬇️ 9,553,042 • ❤️ 3,433 • 14d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 535,984 • ❤️ 747 • 1d ago
+⬇️ 535,984 • ❤️ 750 • 1d ago
 
 ---
 
@@ -576,7 +576,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 20.3k • 🔱 2.3k • 22h ago
+⭐ 20.3k • 🔱 2.3k • 53m ago
 
 ---
 
@@ -586,7 +586,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.0k • 🔱 493 • 1d ago
+⭐ 4.1k • 🔱 495 • 2m ago
 
 ---
 
@@ -596,7 +596,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 430 • 4h ago
+⭐ 3.5k • 🔱 430 • 7h ago
 
 ---
 
@@ -610,6 +610,16 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 ---
 
+**[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)**
+
+🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
+
+`HTML`
+
+⭐ 3.3k • 🔱 213 • 5h ago
+
+---
+
 **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)**
 
 Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
@@ -620,23 +630,13 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 ---
 
-**[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)**
-
-🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
-
-`HTML`
-
-⭐ 3.3k • 🔱 213 • 2h ago
-
----
-
 **[Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)**
 
 Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 3.0k • 🔱 190 • 6h ago
+⭐ 3.0k • 🔱 191 • 9h ago
 
 ---
 
@@ -656,7 +656,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.3k • 🔱 213 • 16h ago
+⭐ 2.3k • 🔱 216 • 19h ago
 
 ---
 
@@ -666,7 +666,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 6h ago
+⭐ 1.9k • 🔱 1.3k • 10h ago
 
 ---
 
