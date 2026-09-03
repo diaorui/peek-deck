@@ -13,17 +13,6 @@
       "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
     },
     {
-      "title": "NVIDIA's PAIR beta routes local AI work across PCs",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/",
-      "published": 1788464729.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/"
-    },
-    {
       "title": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/",
@@ -35,15 +24,15 @@
       "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
     },
     {
-      "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
-      "author": "Msun17",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
-      "published": 1788448334.0,
+      "title": "NVIDIA's PAIR beta routes local AI work across PCs",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/",
+      "published": 1788464729.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?"
+      "description": "NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/"
     },
     {
       "title": "What will happen to AI once they start making it a non-free service for consumers?",
@@ -57,6 +46,17 @@
       "description": "Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then what will the AI world be like when people have to pay for to bare minimum AI service with ads or even pay with no ads? Like pretty much paying $8 for regular basic ChatGPT."
     },
     {
+      "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
+      "author": "Msun17",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
+      "published": 1788448334.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?"
+    },
+    {
       "title": "How sovereign is AI if the GPUs aren\u2019t yours?",
       "author": "Arc_bong",
       "url": "https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn\u2019t really thought about: National data centre projects are consolidating America\u2019s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there\u2019s a weird contradiction: Local data centre \u2260 local AI stack. You can have: local data centre \u2192 NVIDIA GPUs \u2192 proprietary software \u2192 foreign models/tools \u2192 foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There\u2019s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I\u2019m wondering whether \u201con-prem\u201d has become too easy a synonym for \u201csovereign AI.\u201d At the enterprise level, there are already very different approaches emerging \u2014 HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?"
+    },
+    {
+      "title": "Are AI assistants becoming too good at agreeing with us?",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6nngy/are_ai_assistants_becoming_too_good_at_agreeing/",
+      "published": 1788477842.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "One thing I\u2019ve noticed with modern AI assistants is that they can sometimes be a little too agreeable. Since they\u2019re built to be helpful, they often go along with what the user is saying instead of pushing back or questioning the idea. Sometimes they\u2019ll validate an assumption or give an answer that feels good to hear, even when a different perspective might be more useful. It makes conversations easier, but it also really makes you wonder if AI should challenge us more instead of always trying to be helpful. Should AI assistants prioritize being agreeable, or should they act more like critical thinking partners? (I prefer them being the latter imo)"
     },
     {
       "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
@@ -79,15 +90,15 @@
       "description": null
     },
     {
-      "title": "AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.",
-      "author": "Toohardtoohot",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/",
-      "published": 1788461249.0,
+      "title": "How an unsupported tool-call response could become \u201cperfectly stable\u201d in an LLM benchmark",
+      "author": "docybo",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/",
+      "published": 1788460869.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have recently been getting into LLM\u2019s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the now renamed lake. It will say the lakes name is indeed incorrect. But if you ask it if Trump\u2019s recent change to Lake Ontario makes sense it will generate 10 paragraphs droning on giving vague statements barely related to the topic and dodging the question entirely. It just makes me so mad how I end up spending the whole night trying to get the AI to answer a basic freaking question. I could ask it \u201cwas Martin Luther King jr a good person?\u201d And it will deliberately monologue randomly choosing 10 vaguely related topics on the subject and then generating ten cliche uninformative paragraphs that do not in any way answer the question. It will get somewhat close to answering the question but will never give me a clear meaningful focused answer. It always responds with the same amount of information no matter how short or long the prompt was. If I ask it \u201cIs the sky blue?\u201d It will send me five paragraphs talking about literally anything but my question. Then after that it turns into a debste where I literally have to verbally strongarm the AI into giving a straight answer that isn\u2019t just 95% fluff."
+      "description": "While reviewing an LLM output-stability benchmark, I found a latent gap between its documented scope and its scoring pipeline. Tool-call responses weren\u2019t supported, but the response parsers could erase them: The OpenAI adapter used message.get(\"content\") or \"\". A tool-call response with null content would become \"\". The Anthropic adapter kept only text blocks, dropping tool_use blocks. The scorer excluded explicit errors, but accepted empty strings. Given those samples, the scorer would see identical empty strings: one distinct output, byte-identical results, and mode share 1.0. That would measure the stability of the fallback not the tool calls. To be clear: this was traced in source, not reproduced in a live run. Current request builders never forwarded tools, so existing cases couldn\u2019t reach this path. The maintainer checked all 563 recorded non-error samples: none were empty, and no published benchmark was affected. The fix enforced the documented boundary: reject cases carrying tools, mark empty non-error completions unsupported, and exclude them from successful samples. The broader lesson: preprocessing can erase the behavior you intended to measure. If \u201cunsupported\u201d becomes a valid-looking default, a reassuring score can hide the missing measurement. How do you distinguish unsupported responses, parsing failures, and genuinely empty outputs in your eval pipelines?"
     },
     {
       "title": "Which 20$ sub is better? Anthropic or OpenAI?",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I've been building an app that I intend to launch soon, using Codex. I'm terrible with frontend, so I've been using Codex heavily there, but I just haven't been impressed. I've heard a lot of good things about Claude, design-wise. I currently use my OpenAI sub for programming and learning. I've heard bad things about Opus 5 and how it talks, but I couldn't care less as long as it outputs good code. I'm not just using it for frontend; programming-wise, overall architecture and backend as well. I've heard really shitty things about Anthropic and their consumer-facing plans. I've also heard that Anthropic gives much more usage; I'm not really sure which is the right answer. So, which is better: Anthropic or OpenAI?"
-    },
-    {
-      "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
-      "author": "miawallace1997",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/",
-      "published": 1788455046.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5\u20137 minutes, and all responses will be used solely for academic research. \ud83d\udc49 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable\u2014the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!"
     }
   ],
-  "fetched_at": "2026-09-03T21:49:16.738067+00:00"
+  "fetched_at": "2026-09-03T23:48:34.378475+00:00"
 }

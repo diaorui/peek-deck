@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-03T21:49:45.465904+00:00'
+updated: '2026-09-03T23:49:05.226978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 03, 2026 at 21:49 UTC  
+**Last Updated:** September 03, 2026 at 23:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** +2.7%  
-**30d:** +31.4%  
-**90d:** +59.8%  
-**1y:** -41.8%  
+**24h:** +5.2%  
+**7d:** +2.6%  
+**30d:** +31.2%  
+**90d:** +59.6%  
+**1y:** -41.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?
 
-11h ago
+13h ago
 
 ---
 
@@ -160,11 +160,33 @@ Decrypt • 1d ago
 
 ---
 
+**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-btc-ethereum-and-xrp-prices-crashing-today/)**
+
+Bitcoin has slipped to $76,926.53, down 2.2% over the past day, pulling Ethereum and XRP lower with it after US forces struck Iranian targets near the
+
+Coinpedia • 1d ago
+
+---
+
+**[Bitcoin Gains After Strategy Resumes Buying: Ethereum, XRP, Dogecoin Also Rally: Analyst Sees 'Very Long](https://www.benzinga.com/crypto/cryptocurrency/26/08/61538600/bitcoin-ethereum-xrp-dogecoin-crypto-strategy)**
+
+Leading cryptocurrencies rose on Monday, August 30, as investors increased risk appetite, spurred by whale investors’ purchases.
+
+Benzinga • 2d ago
+
+---
+
 **[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
 
 Tom Lee said Ethereum could reach $6,000 if Bitcoin climbs to $150,000 and the ETH/BTC ratio rises to 0.04. The BitMine chairman believes the CLARITY ...
 
 Yahoo Finance • 3d ago
+
+---
+
+**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
+
+Forbes • 12h ago
 
 ---
 
@@ -176,15 +198,17 @@ Fortune • 2d ago
 
 ---
 
-**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
+**[APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance](https://www.morningstar.com/news/pr-newswire/20260903to39964/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets-traditional-finance)**
 
-Forbes • 10h ago
+Morningstar • 4h ago
 
 ---
 
-**[APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance](https://www.morningstar.com/news/pr-newswire/20260903to39964/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets-traditional-finance)**
+**[This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings](https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/)**
 
-morningstar.com • 2h ago
+Remixpoint sold $5.5 million of Ethereum, Solana, XRP and Dogecoin while keeping roughly $121 million in Bitcoin.
+
+CryptoSlate • 2h ago
 
 ---
 
@@ -192,39 +216,15 @@ morningstar.com • 2h ago
 
 Ethereum trades at $2500.58 with EMA50 support at $2428.77 as Michaël van de Poppe eyes $3000 rally amid Bitcoin pressure.
 
-blockchain.news • 4h ago
+blockchain.news • 6h ago
 
 ---
 
-**[Where are Crypto Whales Buying Next After Bitcoin’s Rally](https://www.tradingview.com/news/coinpedia:69bc83d36094b:0-where-are-crypto-whales-buying-next-after-bitcoin-s-rally/)**
+**[Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027](https://www.tradingview.com/news/99Bitcoins:d595a9eb7094b:0-elon-musk-grok-ai-predicts-ethereum-price-by-january-1-2027/)**
 
-Bitcoin’s price rally is reshaping the crypto capital rotation trade, with whale activity showing where large holders are positioning beyond BTC. While Bitcoin remains the core institutional asset, Ethereum, Solana, XRP and Hyperliquid are attracting fresh attention as traders seek stronger relativ…
+Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
 
-TradingView • 11h ago
-
----
-
-**[Mint to Tokenize Portion of Nasdaq-Listed Shares on Ethereum and Solana](https://www.tipranks.com/news/company-announcements/mint-to-tokenize-portion-of-nasdaq-listed-shares-on-ethereum-and-solana)**
-
-The latest update is out from Mint Incorporation Limited Class A ( ($MIMI) ). On 3 September 2026, Mint Incorporation Limited announced a binding consulting agreeme...
-
-TipRanks • 8h ago
-
----
-
-**[Abraxas Capital buys $39M in Ethereum while holding $291M in shorts on Hyperliquid](https://cryptobriefing.com/abraxas-capital-ethereum-shorts-hyperliquid/)**
-
-Abraxas Capital purchased 16,554 ETH worth $39M while maintaining 120,178 ETH in short positions on Hyperliquid as part of a sophisticated
-
-cryptobriefing.com • 7h ago
-
----
-
-**[Nearly $10 million must escape a dying Ethereum L2 network before New Year’s Eve or risk becoming unrecoverable](https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable/)**
-
-The Ethereum layer 2 stopped deposits and warned that exit routes differ before its network and explorer shut down.
-
-cryptoslate.com • 20h ago
+TradingView • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 367 • ⏱️ 10:50 • 20h ago
+👁️ 65K • 👍 2K • 💬 367 • ⏱️ 10:50 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Well, we've officially made it. It's now the time of year where everything is me
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 767 • 💬 445 • ⏱️ 30:15 • 12h ago
+👁️ 11K • 👍 767 • 💬 445 • ⏱️ 30:15 • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 95 • 💬 30 • ⏱️ 17:06 • 5h ago
+👁️ 1K • 👍 95 • 💬 30 • ⏱️ 17:06 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ The data says buy what everyone else is dumping. Ethereum's own history makes a 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 120 • 👍 5 • 💬 1 • ⏱️ 1:32 • 3h ago
+👁️ 120 • 👍 5 • 💬 1 • ⏱️ 1:32 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Eth
 
 📺 ETHGlobal
 
-👁️ 464 • 👍 7 • 💬 1 • ⏱️ 33:36 • 17h ago
+👁️ 464 • 👍 7 • 💬 1 • ⏱️ 33:36 • 19h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 13K • 👍 283 • 💬 570 • ⏱️ 16:13 • 19h ago
+👁️ 13K • 👍 283 • 💬 570 • ⏱️ 16:13 • 21h ago
 
 ---
 
