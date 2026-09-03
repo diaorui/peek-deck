@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-03T19:10:22.408122+00:00'
+updated: '2026-09-03T21:49:45.469149+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 03, 2026 at 19:10 UTC  
+**Last Updated:** September 03, 2026 at 21:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,79 +108,81 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[New probabilistic method improves how robots localize and map familiar objects](https://techxplore.com/news/2026-09-probabilistic-method-robots-localize-familiar.html)**
+**[Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery](https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery)**
 
-Tech Xplore • 3h ago
+Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
 
----
-
-**[How Google taught LLMs to control robots and started a robotics boom](https://www.understandingai.org/p/how-google-taught-llms-to-control)**
-
-Vision-language-action models, explained with a minimum of math and jargon.
-
-understandingai.org • 1d ago
+Medtronic • 2d ago
 
 ---
 
-**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
+**[Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026](https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html)**
 
-On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+/PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
 
-TechCrunch • 20h ago
-
----
-
-**['Physical AI' is here. UBS shares 3 picks-and-shovels sectors of the market to play the trade.](https://www.businessinsider.com/ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors-2026-9)**
-
-UBS says "we are now at the precipice" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions.
-
-Business Insider • 4h ago
+PR Newswire • 15h ago
 
 ---
 
-**[QCOM's Japan Robotics Outlay Targets Edge AI: Reason to Buy the Stock?](https://news.google.com/rss/articles/CBMinAFBVV95cUxOYncxTVBVTm91TmVpb0dSUE5sTk5ubnRHWkgxLURPd25DRElxRDNTY1lmbFJwX3FUZkc1UHp1YnJheHFQTUlLMzZMTlFzQ0g3ZjBjYkVaZGdoNjBPYWVvbEZpU3hCRGVabTlTRDlvemFiWWx4cjI5WnVjVVhmemdmeG5WTmhxQ0VkZDZBRHgxdHV2Q1VQQUNKWXVNXzM?oc=5)**
+**[Industry Insights: NVIDIA, Hugging Face and the $399 Microduck Robot](https://www.automate.org/robotics/industry-insights/nvidia-is-buying-hugging-face-one-of-its-hottest-robots-runs-on-a-chinese-chip)**
 
-Yahoo Finance • 4h ago
+NVIDIA’s Hugging Face deal includes Pollen Robotics and its $399 Microduck, raising new questions about chips, physical AI and NVIDIA’s robotics strategy.
 
----
-
-**[Atascadero robotics team makes it to FIRST World Championship](https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship)**
-
-At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
-
-KSBY News • 1d ago
+A3 Association for Advancing Automation • 2h ago
 
 ---
 
-**[Video: Students push humanoid robots beyond walking with flips and more](https://interestingengineering.com/ai-robotics/humanoid-robots-learn-new-tricks)**
+**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
 
-ROBOTIS’ OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing.
-
-Interesting Engineering • 1d ago
+Block Club Chicago • 9h ago
 
 ---
 
-**[Video. AI-powered robots showcased at European Parliament in Brussels](https://www.euronews.com/video/2026/09/03/ai-powered-robots-showcased-at-european-parliament-in-brussels)**
+**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
 
-Video. AI-powered robots demonstrate delivery, factory and household tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence.
+The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
-Euronews.com • 10h ago
-
----
-
-**[New robotic technology helps local surgeons repair 14-year-old’s heart](https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/)**
-
-SOUTHWEST MIAMI-DADE, FLA. (WSVN) - Doctors from Nicklaus Children’s Hospital and Baptist Health Miami helped make medical history with the help of a robot that<a class="excerpt-read-more" href="https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/">Read More</a>
-
-WSVN • 1d ago
+CNBC • 2d ago
 
 ---
 
-**[Europe bids to be robot superpower like US, China](https://www.yahoo.com/news/science/articles/europe-bids-robot-superpower-us-140747174.html)**
+**[Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI](https://www.calcalistech.com/ctechnews/article/4dsejsrni)**
 
-AI-powered robots briefly took over the European Parliament this week to showcase the continent's creators as the bloc races to compete in a field dominated by China and the United States."Robotics is...
+The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world.
 
-yahoo.com • 5h ago
+calcalistech.com • 1d ago
+
+---
+
+**[EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign](https://www.yahoo.com/entertainment/celebrity/articles/exclusive-desigual-takes-aim-ai-050000509.html)**
+
+Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
+
+Yahoo • 16h ago
+
+---
+
+**[The Best Way to Explore Lunar Craters Is a Giant Robot Ball](https://spectrum.ieee.org/moon-ball-robot)**
+
+RoboBall can go anywhere on the Moon, as long as it’s mostly downhill
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[Top 10 robotics stories of August 2026](https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/)**
+
+August 2026's top 10 included stories on large funding rounds, updates in the humanoid robot industry, and the latest AI models.
+
+The Robot Report • 2d ago
+
+---
+
+**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+
+The country is using its superpower of scaling and building supply chains to challenge the global industry
+
+Financial Times • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 72K • 👍 353 • 💬 35 • ⏱️ 1:49 • 4d ago
+👁️ 73K • 👍 353 • 💬 36 • ⏱️ 1:49 • 4d ago
 
 ---
 
@@ -208,6 +210,16 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 ---
 
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+
+📺 China.org.cn
+
+👁️ 207K • 👍 1K • 💬 59 • ⏱️ 0:17 • 6d ago
+
+---
+
 **[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=0fBO1pVjxeg)**
 
 (25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
@@ -218,33 +230,13 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 ---
 
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
-
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
-
-📺 China.org.cn
-
-👁️ 205K • 👍 1K • 💬 58 • ⏱️ 0:17 • 6d ago
-
----
-
 **[the Robot Olympics were a Disaster](https://www.youtube.com/watch?v=DZV4BSo6gMc)**
 
 today i checked in on the robot getting destroy at stuff like the robot olympics, they have just obliterating these guys over there, ...
 
 📺 Kwite
 
-👁️ 317K • 👍 10K • 💬 994 • ⏱️ 14:26 • 6d ago
-
----
-
-**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
-
-Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
-
-📺 Carros Show
-
-👁️ 127K • 👍 883 • 💬 72 • ⏱️ 1:04:00 • 6d ago
+👁️ 318K • 👍 10K • 💬 994 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -254,7 +246,7 @@ Apple's first home robot concept explores a new generation of smart household te
 
 📺 AP Archive
 
-👁️ 121K • 👍 318 • 💬 200 • ⏱️ 0:53 • 4d ago
+👁️ 121K • 👍 320 • 💬 201 • ⏱️ 0:53 • 4d ago
 
 ---
 
@@ -268,23 +260,33 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 ---
 
-**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
-
-A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
-
-📺 Tum Tum
-
-👁️ 352K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
-
----
-
 **[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
 
 These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
 
 📺 NBC News
 
-👁️ 37K • 👍 241 • 💬 94 • ⏱️ 6:47 • 5d ago
+👁️ 37K • 👍 244 • 💬 94 • ⏱️ 6:47 • 5d ago
+
+---
+
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+
+📺 Carros Show
+
+👁️ 38K • 👍 276 • 💬 38 • ⏱️ 19:36 • 3d ago
+
+---
+
+**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
+
+A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
+
+📺 Tum Tum
+
+👁️ 353K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
 
 ---
 
