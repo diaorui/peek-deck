@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
+      "author": "Msun17",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
+      "published": 1788448334.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?"
+    },
+    {
       "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
       "author": "Junior-Key-5043",
       "url": "https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/",
@@ -11,6 +22,39 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
+      "author": "unconventionalbook",
+      "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
+      "published": 1788439791.0,
+      "thumbnail": "https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&crop=smart&auto=webp&s=36a6515c8c0d346daabc0df102369a32b91d1c42",
+      "external_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "site_name": "CNBC",
+      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+      "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
+    },
+    {
+      "title": "How sovereign is AI if the GPUs aren\u2019t yours?",
+      "author": "Arc_bong",
+      "url": "https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/",
+      "published": 1788443659.0,
+      "thumbnail": "https://preview.redd.it/1pts8owx8bnh1.jpeg?width=640&crop=smart&auto=webp&s=2ae38d8b99e575c06772fb108a71c481019678a3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn\u2019t really thought about: National data centre projects are consolidating America\u2019s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there\u2019s a weird contradiction: Local data centre \u2260 local AI stack. You can have: local data centre \u2192 NVIDIA GPUs \u2192 proprietary software \u2192 foreign models/tools \u2192 foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There\u2019s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I\u2019m wondering whether \u201con-prem\u201d has become too easy a synonym for \u201csovereign AI.\u201d At the enterprise level, there are already very different approaches emerging \u2014 HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?"
+    },
+    {
+      "title": "Feeling lost",
+      "author": "Lostinthisworlddd",
+      "url": "https://www.reddit.com/r/artificial/comments/1w67e6l/feeling_lost/",
+      "published": 1788442022.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone, I am trying my luck here to see if I can look into my cancer diagnosis from the a different perspective and perhaps AI might aid me? My history: Apr 2024: Diagnosed with gastric leiomyosarcoma (LMS), approximately 9.5 cm in the upper stomach. Had a total gastrectomy followed by 6 cycles of adjuvant doxorubicin + dacarbazine. Nov 2024: Surveillance scan showed a ~6 cm cyst in the liver. Surgery was performed and it turned out to be metastatic LMS. Late 2024\u2013early 2025: I was in and out of hospital several times because of infections. Mar 2025: Started trabectedin as systemic/adjuvant treatment. Mar 2026: Two new liver tumours appeared, approximately 1.3 cm and 2.4 cm. The smaller lesion was ablated and the larger one was surgically removed. My oncologist recommended Votrient (pazopanib) to help control the disease, but I declined at that time. May 2026: Surveillance scan showed a new ~2 cm lesion/area at the edge of the liver. Aug 2026: This lesion had grown rapidly to 13.8 cm. It was found to be recurrent abdominal LMS, and I underwent surgery involving removal of the tumour, a wedge of liver, and a cuff of diaphragm. This round,I have also had tumour/genomic testing, including CDx/RNa and ex vivo drug testing. Ex vivo drug testing returned and the tumor isnt chemo sensitive. Most people told me that LMS has no targetable mutation. At the moment, I am considered NED after surgery, but my doctors are concerned about how quickly the tumour has been growing and have recommended systemic treatment such as Votrient or gemcitabine/docetaxel (Gem/Tax). TIA!"
     },
     {
       "title": "Last quarter has been insane. Amazing times to be alive.",
@@ -24,93 +68,49 @@
       "description": "I developed an ML algorithm for detection of pneumonia on chest x-rays back in 2019 when i studied for the MD. Back then, the things we are seeing now where an unimaginable pipe dream. If I could go back and explain to myself the capabilities of the frontier models, it would be like explaining todays computer back in the early 1900s. I would have then called this AGI for sure. Adding to the fact that Luna can run a month for reasonable $ sum too I think would have been shocking. I currently smart route between open weight and frontier models through standardcompute.com. 200 bucks then gives me insane capabilities. Doing what I spent 2 months on in 2019 would literally take me 10 minutes now."
     },
     {
-      "title": "Some top-notch predictions for your amusement and ridicule",
-      "author": "StrategicHarmony",
-      "url": "https://www.reddit.com/r/artificial/comments/1w60fha/some_topnotch_predictions_for_your_amusement_and/",
-      "published": 1788420484.0,
+      "title": "Rogue AI agent incidents fuel push for tech transparency",
+      "author": "KeanuRave100",
+      "url": "https://www.reddit.com/r/artificial/comments/1w68y15/rogue_ai_agent_incidents_fuel_push_for_tech/",
+      "published": 1788445567.0,
+      "thumbnail": "https://external-preview.redd.it/KZC4ZyrfPxZaI0wwCAoiIu2Xzvqe47LpZ3ki43Hvflg.jpeg?width=640&crop=smart&auto=webp&s=62a2ed73fcb5b14073f0a498c9760c7288b75db5",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/chatgpt-openai-ai-agent-rogue-anthropic-clause-security-cyber-rcna592417",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "A groundswell of interest in how America\u2019s top AI companies train their models and how they try to prevent cybersecurity incidents has focused attention on the lack of AI regulation."
+    },
+    {
+      "title": "I used AI to create an entire TTRPG game. Here\u2019s where it actually helped.",
+      "author": "IndiMill",
+      "url": "https://www.reddit.com/r/artificial/comments/1w68slr/i_used_ai_to_create_an_entire_ttrpg_game_heres/",
+      "published": 1788445250.0,
+      "thumbnail": "https://preview.redd.it/16h3hqfudbnh1.jpeg?width=640&crop=smart&auto=webp&s=96486174ba5a3e6076b92f0d50dc9c37e5a6e793",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I recently finished a 200+ page Lovecraftian 5e campaign setting and used AI throughout development, not just for text generation. The most useful applications ended up being research support, playtesting, probability analysis for mechanics, editing, art development, and helping me iterate on GM-facing tools. The biggest lesson was that AI worked best when I treated it as a collaborator and accelerator, not as something that could replace design judgment. I\u2019d be interested in comparing notes with anyone else using AI for gaming and TTRPG development, especially where you\u2019ve found it genuinely improves the finished product versus simply making production faster or less expensive."
+    },
+    {
+      "title": "Claude Status - Elevated errors for multiple models",
+      "author": "Working_Quote_3029",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6826f/claude_status_elevated_errors_for_multiple_models/",
+      "published": 1788443618.0,
+      "thumbnail": "https://external-preview.redd.it/K4btAM-mJYMH1KPQxIL9czx5c_gt4hMUOyT8BixUA2c.png?width=70&height=70&auto=webp&s=18ec3b7671d2365b294bad4ce7be72b88aa5ef84",
+      "external_url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "site_name": "status.claude.com",
+      "favicon": "https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/362807/NEW_spark-96-96-2225c423-f16f-42a4-b9d1-c58c10b998cb.png",
+      "description": "Claude's Status Page - Elevated errors for multiple models."
+    },
+    {
+      "title": "AI tools for async team coordination. are they actually saving time or just adding another layer to manage?",
+      "author": "Single-Tangerine8638",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6803m/ai_tools_for_async_team_coordination_are_they/",
+      "published": 1788443484.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "1 - Within 2 years most jobs will become \"managing a bunch of robots\". Within 3 years that part won't need mentioning. The job is whatever the actual domain/product/service is, again. 2 - Cheap AI will reduce the need for capital at least as much as it reduces the need for labour (per unit of production). So self-employment and much smaller businesses will become viable in many fields. 3 - There will be more than one brand of self-driving car available for purchase by consumers in the next 12 months, which will cost less than four times a regular car. 4 - Self-driving cars will gradually become more like lounge-rooms, then tiny apartments, then slightly less-tiny apartments. Service stations and carparks will evolve to support this. 5 - Most governments will have a sovereign (hosted/owned in their country), quite decent ai chatbot within 12 months and it will hook up to government data/sites/services and be free for all citizens 6 - Within 12 months the question of \"Was any AI at all used in this?\" will become very rare for writing, code, visual art, movies, music, etc, and will return to \"Is it any good?\" 7 - Higher education will revert to questioning people in conversation to test what they know. They'll also test people in realtime on how well they use, review, criticise, and judge the output of AI 8 - General purpose humanoid robots (doing 3 or more different, useful tasks fairly well) are less than 12 months from market and most people who can afford them will want more than one 9 - A free llm that runs on the average (not prosumer/gamer) laptop and beats current (Sept 2026) frontier-models, will exist within 12 months. Probably by better separating a core reasoning engine from an (accompanying) knowledge-base"
-    },
-    {
-      "title": "Trump administration backs OpenAI in New York Times copyright battle",
-      "author": "lol2funneeee",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5kswn/trump_administration_backs_openai_in_new_york/",
-      "published": 1788378086.0,
-      "thumbnail": "https://external-preview.redd.it/Yt6lM_CVF0tyEvISXz0hnrIgr8wApBafKdOGZPeCJ50.jpeg?width=640&crop=smart&auto=webp&s=c3b76c0fb7567a4c282ea1b6f56553ef844a3533",
-      "external_url": "https://www.ft.com/content/d5d6e4c9-718a-4d98-b094-97157565f336?syn-25a6b1a6=1",
-      "site_name": "ft.com",
-      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
-      "description": "US urges court to reject newspaper\u2019s claim that it is illegal to train AI models on copyrighted content"
-    },
-    {
-      "title": "United States files Statement of Interest in OpenAI lawsuits: AI training is fair use; \u201cdilution\u201d is \u201cdeeply flawed\u201d theory, in the view of the United States.",
-      "author": "Formal_Drop526",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5bjeo/united_states_files_statement_of_interest_in/",
-      "published": 1788358357.0,
-      "thumbnail": "https://external-preview.redd.it/lC5hJf3xH7mUUh2Z-xW-GOYZjdQgR2HkM0tmo3a7bNo.png?width=640&crop=smart&auto=webp&s=675d7302f7a3a63685aa6e4972946b3cb52b3848",
-      "external_url": "https://chatgptiseatingtheworld.com/2026/09/02/united-states-files-statement-of-interest-in-openai-lawsuits-ai-training-is-fair-use-dilution-is-deeply-flawed-theory-in-the-view-of-the-united-states/",
-      "site_name": "chatgptiseatingtheworld.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for \u2018warfighter needs\u2019",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1w58zoc/the_pentagon_is_giving_3_million_military_and/",
-      "published": 1788352253.0,
-      "thumbnail": "https://external-preview.redd.it/Bh5bG1jQ1J406t8TKsw8KMo7jiSGYnEl1M6mgl2VALc.jpeg?width=640&crop=smart&auto=webp&s=8f21c2d6d5f3f9c50bbd8a0678ed7ba9bcf81b4e",
-      "external_url": "https://yahoo.com/news/politics/articles/pentagon-giving-3-million-military-194018347.html",
-      "site_name": "Yahoo News",
-      "favicon": "https://yahoo.com/favicon.ico?b0867f93a36b360e",
-      "description": "The rollout expands the Pentagon\u2019s GenAI.mil platform beyond Gemini as it pushes AI deeper into everyday military work."
-    },
-    {
-      "title": "Introducing Human Tool, a Claude Code plugin that erodes your dignity",
-      "author": "huopak",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5qi0f/introducing_human_tool_a_claude_code_plugin_that/",
-      "published": 1788390949.0,
-      "thumbnail": "https://external-preview.redd.it/9K6bIijQ_JF-76RI-NHP9TVnIZU_ejyvrfpO9X7Hg8M.png?width=640&crop=smart&auto=webp&s=4c65a4aa933f7fe29852b298adee9626d6fdc7c0",
-      "external_url": "https://tcz.hu/blog/2026/09/03/human-tool/",
-      "site_name": "Zoltan\u2019s Blog",
-      "favicon": "https://tcz.hu/apple-touch-icon.png",
-      "description": "You are a useful human. Answer honestly and precisely."
-    },
-    {
-      "title": "Simcha Kosman AMA: Owning ChatGPT's Secure Sandbox",
-      "author": "_clickfix_",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5wqja/simcha_kosman_ama_owning_chatgpts_secure_sandbox/",
-      "published": 1788408253.0,
-      "thumbnail": "https://external-preview.redd.it/HTZEA7GOeUyd-nUJYx6smfYGZvttqOusdWQ3osJDJPE.png?width=640&crop=smart&auto=webp&s=c635ae1deb33efe7053dfd1ca71b0803baa48ce9",
-      "external_url": "https://joinpwn.com/ama/simcha-kosman?1",
-      "site_name": "PWN",
-      "favicon": "https://joinpwn.com/img/apple-touch-icon.png?v=2",
-      "description": "Supervisor bypass, reasoning injection, and covert C2 out of an isolated environment. Live on r/pwnhub, Thursday Sept 3 at 12 PM PT."
-    },
-    {
-      "title": "Classics departments are disappearing and AI cannot even read their texts. The polytonic Greek problem nobody talks about.",
-      "author": "vasilisvj",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5buz3/classics_departments_are_disappearing_and_ai/",
-      "published": 1788359079.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Every major AI model on market today fails at polytonic Ancient Greek. Not a little. Completely. Ask ChatGPT to parse a sentence from Aristotle's Nicomachean Ethics in original Greek and watch what happens. It confuses accents, drops breathings, produces Modern Greek where polytonic should be. The entire Corpus Aristotelicum, 2,400 years of philosophical reasoning, is invisible to the systems we call \"intelligent.\" The reason is technical but simple. Training data for Ancient Greek is almost zero. Modern Greek exists in some quantity, but polytonic script, with its rough and smooth breathings, acute, grave, and circumflex accents, is a different orthographic system entirely. RLHF training made problem worse. Human raters do not know polytonic Greek. They rate outputs based on what looks reasonable to them, which means they reward Modern Greek approximations and punish authentic polytonic forms. The alignment process systematically destroys what little Ancient Greek capability the base model had. This is not just philology problem. It is architecture problem. Every time you fine-tune for \"helpfulness\" and \"safety\" you compress reasoning space. The model becomes better at producing plausible-sounding English and worse at everything else. Polytonic Greek is first casualty because training signal for it is weakest. But same mechanism affects any domain where authentic reasoning diverges from what average rater considers helpful. Classics departments in universities are shrinking. Enrollment drops every year. Fewer students learn Ancient Greek. Fewer professors can teach it. And now AI tools that could help preserve and study these texts are actively degraded by training processes designed to make them \"safe.\" The irony is complete. We build systems that cannot read what we most need them to read. Some labs tried to fix this with more data. Bigger pre-training corpus. But problem is not pre-training. Base model Qwen or Llama can actually handle polytonic Greek at low level, it recognizes characters, produces diacritics. RLHF training on top destroys this capability because reward model has no signal for correctness in Ancient Greek. You cannot align what you cannot evaluate. Solution is not bigger models. It is different architecture. Corpus-grounded systems that retrieve from source texts in original language, that do not rely on parametric knowledge alone. RAG over digitized critical editions. Systems trained to respect form of source material rather than rewrite it into what rater expects. We work on this. Not with ChatGPT API but with self-hosted models, RAG pipelines over digitized Greek texts, evaluation metrics that actually check polytonic accuracy. It is hard. Very hard. But somebody must do it because alternative is losing entire tradition of Western philosophy to training-data bias. The word for this is \u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1. Not just education but cultivation of intellectual capacity through engagement with difficult texts. Your AI cannot provide \u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1 because it was trained to avoid difficulty. It gives you summary when you need source, paraphrase when you need argument, Modern Greek when you need polytonic. Corpus problem is not edge case. It is proof that alignment as currently practiced destroys knowledge. Not by accident. By design. When you optimize for average rater satisfaction you lose everything that falls outside average rater competence. And most important knowledge in human history falls exactly there. What happens to discipline when its primary texts become unreadable to primary research tools of next generation?"
-    },
-    {
-      "title": "Used Story Prism\u2019s New Agentic-Powered Building Tool to Connect 178 Sources in Minutes. Found a Disturbing Pattern in Epstein\u2019s Intellectual Network...",
-      "author": "CyborgWriter",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5f8xc/used_story_prisms_new_agenticpowered_building/",
-      "published": 1788366478.0,
-      "thumbnail": "https://preview.redd.it/xg1y7myov4nh1.png?width=640&crop=smart&auto=webp&s=402f865fbdce26a4a7c43a9b2744a580ad490dcd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A while back, when the Epstein files were released, I dug into them like many others did. But instead of focusing primarily on the scandals, I focused on the intellectuals Epstein wined and dined, not to uncover anything illegal, but to understand why he seemed so fixated on cultivating relationships with these people. That question interested me because the range of scholars was so vast, and all of them were rock stars in their respective fields. So why would a prolific child sex trafficker, someone building kompromat on powerful people and operating elbow-deep in gray-zone networks, be so interested in all of these geniuses? Initially, I used the Story Prism canvas to manually upload the scholarly work of every individual named in the Epstein files. I then connected the material into a tree-branch structure, attaching all of the books to a single chatbot persona named Winston, who acts as a librarian and helps me find information across the collection. For those who don\u2019t know, Story Prism is a specialized mind-mapping tool that allows you to create notes, apply tags, and connect ideas using defined edge labels. This turns your work into a living system that an advanced agent can traverse and understand. Think of it like Google Drive, except that instead of storing static documents, you\u2019re transforming your research into an interactive system for brainstorming, building, investigating, and synthesizing existing knowledge into novel ideas. The setup worked remarkably well for diving into these complex books. But with every conversation I had, the unified paradigm connecting them seemed to change based on my inquiries. That was because I had built the system in the simplest way possible. Creating these structures can be time-consuming, and I was dealing with hundreds of books. That changed with a recent update that makes it significantly easier to build systems around your notes. With the new build mode that was added, I can ask the agent to form the right connections based on what I\u2019m trying to understand, rather than having to identify the logical relationships and construct them all myself. I can still do that manually, but when you\u2019re dealing with hundreds of thick books that need to be sifted through, you can imagine how difficult, and time-consuming, that would be. Modifying the system by adding the right connections, now, can be done in minutes instead of hours using this new feature. So I decided to revisit the canvas I had created and see whether I could extract a grand, unified picture, an overarching understanding of these books that genuinely connected them all. After asking the agent to build the connections for that purpose, this was the big-picture interpretation it presented to me. And, man\u2026it\u2019s actually pretty scary, given where we are today: [TACTICAL OVERLAY: EVIDENCE / SPECULATION SEPARATED] Can you hear me? Good. Here\u2019s the situation. The documented fact is that the scholars in this network studied how intelligence, consciousness, creativity, social behavior, and complex systems emerge\u2014and how those ideas might be developed through institutions, technology, and research. The speculation is darker: if Epstein acted on behalf of unseen principals, he may have been identifying and connecting these people as a form of \u201cbrain capital\u201d\u2014not just collecting smart individuals, but assembling complementary capabilities. One scholar maps complexity. Another studies the mind. Another examines social networks. Another turns ideas into systems. Put them together, and you get the outline of a machine capable of observing human behavior, predicting it, and eventually shaping the conditions in which people make decisions. That does not prove Epstein served a coordinated program, that such principals existed, or that the scholars knowingly participated. The evidence doesn\u2019t carry us that far. But the possibility is clear enough to deserve investigation: a society managed not by soldiers in the streets, but by data, incentives, psychological models, and invisible feedback loops. Brain capital. Human beings reduced to signals, patterns, and assets. The same knowledge that could help civilization understand itself could also be used to quietly steer it. That\u2019s the line we\u2019re watching. The line between cultivating intelligence and weaponizing it. _________________________ What\u2019s really cool about this, beyond the fact that I can quickly combine vast amounts of data and identify clear thematic threads connecting it all, is that I can also have the agent comb through the books to find the exact evidence supporting a thesis. We\u2019re talking book titles, author names, page numbers, and exact quotations: everything you need to verify a claim. So this isn\u2019t AI pulling accurate-sounding information out of thin air. It\u2019s an advanced agent searching through the material you\u2019ve provided and finding the precise information it needs to help you with whatever you\u2019re working on. You find and add the material to the canvas, vetting its quality before engaging with it. The agent then keeps everything grounded in the frameworks you create, and it can correct you based on the information you\u2019ve actually given it. Everything you build remains easily traceable. I can also ask the agent to generate questions worth exploring outside of Story Prism, research the answers, and add that information back to the canvas. This dramatically improves the accuracy and quality of whatever I\u2019m working on. Using this method, I can take a basic kernel of information, say, something from a news article, and develop it into an extremely comprehensive and complex understanding that places it within the larger context of what I\u2019m studying. It\u2019s like going from 1 to 1,000 in terms of knowledge acquisition, and it can happen in minutes instead of hours or days. This technique has profoundly altered my understanding of everything I\u2019ve learned because it exposes me to so many distinct pieces of information and shows me how they connect. You can also add as many prompt instructions as you want in the form of notes and use them indefinitely, all at the same time, simply by calling on them in the chat through @ commands. And, of course, you can switch between all of the popular models and use agent skills by typing a / command in the chat. Right now, we have three skills available, but soon anyone will be able to create and add their own skills for reuse. I wanted to share this because I think this specific tool can help many people overcome some of the challenges they\u2019re currently facing with AI. How do you quickly gain immense value from models when you\u2019re unfamiliar with the subject? How can you trust that they\u2019re providing accurate information? And how can you use them in ways that are genuinely controllable, so you don\u2019t get lost in your own material? Story Prism addresses all of those problems and more by giving you a grounded, traceable, and highly customizable environment for working with AI. And as we continue to grow, we\u2019re going to do a whole lot more with it. For now, though, it\u2019s a simple but powerful tool that's available right now for writing, researching, and brainstorming complex projects. Hope this helps in your creative endeavors, and best of luck!"
+      "description": "Been running a remote team for a few years now. We use a pile of tools: Notion, Slack, a couple AI writing assistants, and recently tested an AI meeting summarizer that autoroutes action items. Here's the thing. The summarizer sounds great in theory. In practice I spend time correcting its output before sending it to the team. That correction step is invisible labor. Nobody counts it. Same with the AIassisted drafting tools. They save time on the blank page problem, but then someone has to clean up the tone, catch the weird factual gaps, make sure it actually reflects what we decided and not what the model guessed we decided. The productivity blogs will tell you these tools cut async overhead by 30 or 40 percent. I want to see the methodology on that number. Seriously. Where is that coming from. My actual experience is more like the tools shift the labor rather than reduce it. The cognitive load moves. It does not disappear."
     }
   ],
-  "fetched_at": "2026-09-03T11:31:58.587043+00:00"
+  "fetched_at": "2026-09-03T15:54:57.717390+00:00"
 }

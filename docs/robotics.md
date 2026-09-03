@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-03T11:32:27.842718+00:00'
+updated: '2026-09-03T15:55:32.552343+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 03, 2026 at 11:32 UTC  
+**Last Updated:** September 03, 2026 at 15:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Mk Robot footage 2023](https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/)**
 
-1d ago
+2d ago
 
 ---
 
 **[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-1d ago
+2d ago
 
 ---
 
@@ -78,7 +78,7 @@ This was surprisingly easy to do. If you have a Unitree G1 Edu version off cours
 
 Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs were just randomly driving around? Think again!! They’ve been doing *Robotics* this whole time To read the full breakdown tap the image
 
-🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 1d ago
+🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 2d ago
 
 ---
 
@@ -100,7 +100,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (SDK) - Introduced zero-copy GPU frame access for CUDA/TensorRT workloads on Jetson platforms, eliminating host-device memory copies. (SDK) - Unified the AI pipeline under the new Perception framework, including Object Detection enhancements and per-detection distance reporting. (SDK, D555 FW) - Added D401 dual-RGB support, including CSI passthrough and dedicated RGB control handling for GMSL deployments. (SDK, D400 FW, MIPI Driver) - Added H.264 color streaming support for ROS2/DDS with runtime profile selection.(D555 FW) - Enabled runtime Temporal Filter control without requiring pipeline restart, with improved coordination with Object Detection. (D555 FW) - Improved GMSL streaming reliability and multi-camera operation, including fixes for frame drops, link recovery, and synchronization stability. (D400 FW, MIPI Driver) - Introduced first D58x/D585 GMSL platform support, including serializer/deserializer integration, RGB controls, telemetry, and new device-tree overlays. (MIPI Driver) - Expanded platform support with JetPack 7.2 compatibility and multiple JetPack 5.x stability and streaming fixes. (SDK, MIPI Driver) - Improved timestamp accuracy, hardware clock handling, and synchronization robustness across the stack. (SDK, MIPI Driver) More info: https://github.com/realsenseai/librealsense
 
-2d ago
+3d ago
 
 ---
 
@@ -108,11 +108,9 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
+**[New probabilistic method improves how robots localize and map familiar objects](https://techxplore.com/news/2026-09-probabilistic-method-robots-localize-familiar.html)**
 
-On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
-
-TechCrunch • 13h ago
+Tech Xplore • 15m ago
 
 ---
 
@@ -120,7 +118,29 @@ TechCrunch • 13h ago
 
 Vision-language-action models, explained with a minimum of math and jargon.
 
-understandingai.org • 19h ago
+understandingai.org • 23h ago
+
+---
+
+**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
+
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+
+TechCrunch • 17h ago
+
+---
+
+**['Physical AI' is here. UBS shares 3 picks-and-shovels sectors of the market to play the trade.](https://www.businessinsider.com/ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors-2026-9)**
+
+UBS says "we are now at the precipice" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions.
+
+Business Insider • 1h ago
+
+---
+
+**[QCOM's Japan Robotics Outlay Targets Edge AI: Reason to Buy the Stock?](https://news.google.com/rss/articles/CBMinAFBVV95cUxOYncxTVBVTm91TmVpb0dSUE5sTk5ubnRHWkgxLURPd25DRElxRDNTY1lmbFJwX3FUZkc1UHp1YnJheHFQTUlLMzZMTlFzQ0g3ZjBjYkVaZGdoNjBPYWVvbEZpU3hCRGVabTlTRDlvemFiWWx4cjI5WnVjVVhmemdmeG5WTmhxQ0VkZDZBRHgxdHV2Q1VQQUNKWXVNXzM?oc=5)**
+
+Yahoo Finance • 58m ago
 
 ---
 
@@ -128,27 +148,7 @@ understandingai.org • 19h ago
 
 At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
 
-KSBY News • 16h ago
-
----
-
-**[Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World](https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World)**
-
-Business Wire • 22h ago
-
----
-
-**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
-
-Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
-
-MedTech Dive • 21h ago
-
----
-
-**[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
-
-WSJ • 2h ago
+KSBY News • 21h ago
 
 ---
 
@@ -156,23 +156,15 @@ WSJ • 2h ago
 
 ROBOTIS’ OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 22h ago
 
 ---
 
-**[EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign](https://www.yahoo.com/entertainment/celebrity/articles/exclusive-desigual-takes-aim-ai-050000509.html)**
+**[Video. AI-powered robots showcased at European Parliament in Brussels](https://www.euronews.com/video/2026/09/03/ai-powered-robots-showcased-at-european-parliament-in-brussels)**
 
-Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
+Video. AI-powered robots demonstrate delivery, factory and household tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence.
 
-Yahoo • 6h ago
-
----
-
-**[Aitan announces new financing round led by Deep33, Dell Technologies Capital](https://www.jpost.com/defense-and-tech/article-907332)**
-
-Aitan develops edge‑AI robotic weapon systems engineered for the operational realities of modern conflict and aims to accelerate its international growth with the new funding.
-
-jpost.com • 23h ago
+Euronews.com • 7h ago
 
 ---
 
@@ -181,6 +173,14 @@ jpost.com • 23h ago
 SOUTHWEST MIAMI-DADE, FLA. (WSVN) - Doctors from Nicklaus Children’s Hospital and Baptist Health Miami helped make medical history with the help of a robot that<a class="excerpt-read-more" href="https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/">Read More</a>
 
 WSVN • 1d ago
+
+---
+
+**[Europe bids to be robot superpower like US, China](https://www.yahoo.com/news/science/articles/europe-bids-robot-superpower-us-140747174.html)**
+
+AI-powered robots briefly took over the European Parliament this week to showcase the continent's creators as the bloc races to compete in a field dominated by China and the United States."Robotics is...
+
+yahoo.com • 1h ago
 
 ---
 
@@ -194,17 +194,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 110K • 👍 796 • 💬 87 • ⏱️ 7:51 • 6d ago
-
----
-
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
-
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
-
-📺 Associated Press
-
-👁️ 108K • 👍 2K • 💬 758 • ⏱️ 1:39 • 1d ago
+👁️ 111K • 👍 796 • 💬 87 • ⏱️ 7:51 • 6d ago
 
 ---
 
@@ -214,7 +204,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 69K • 👍 344 • 💬 34 • ⏱️ 1:49 • 3d ago
+👁️ 70K • 👍 347 • 💬 34 • ⏱️ 1:49 • 4d ago
 
 ---
 
@@ -224,7 +214,17 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 AP Archive
 
-👁️ 103K • 👍 326 • 💬 131 • ⏱️ 0:56 • 3d ago
+👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 3d ago
+
+---
+
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+
+📺 Associated Press
+
+👁️ 124K • 👍 2K • 💬 880 • ⏱️ 1:39 • 2d ago
 
 ---
 
@@ -234,27 +234,17 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 198K • 👍 1K • 💬 57 • ⏱️ 0:17 • 6d ago
+👁️ 202K • 👍 1K • 💬 58 • ⏱️ 0:17 • 6d ago
 
 ---
 
-**[Expect to See a Lot More Humanoid Robots Soon: Barclays](https://www.youtube.com/watch?v=IWv7_jbQK6M)**
+**[This $400 Robot Duck Might Be a Bigger Deal Than It Looks (Explaining the MicroDuck Hype)](https://www.youtube.com/watch?v=7nNbr_Fg-Y8)**
 
-Humanoid robots are moving out of the lab and into the real world, with deployments expected to surge in the years ahead.
+Hugging Face's $400 MicroDuck robot became a surprise hit almost overnight, reportedly pulling in more than 10000 preorders in ...
 
-📺 Bloomberg Tech
+📺 Kalil 4.0
 
-👁️ 28K • 👍 223 • 💬 61 • ⏱️ 5:41 • 17h ago
-
----
-
-**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
-
-A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
-
-📺 Tum Tum
-
-👁️ 346K • 👍 1K • 💬 2 • ⏱️ 0:16 • 4d ago
+👁️ 11K • 👍 145 • 💬 15 • ⏱️ 8:56 • 21h ago
 
 ---
 
@@ -264,7 +254,17 @@ A robot accidentally launched a trash bag into the wrong car, but the innocent g
 
 📺 AP Archive
 
-👁️ 118K • 👍 314 • 💬 199 • ⏱️ 0:53 • 3d ago
+👁️ 120K • 👍 316 • 💬 200 • ⏱️ 0:53 • 3d ago
+
+---
+
+**[the Robot Olympics were a Disaster](https://www.youtube.com/watch?v=DZV4BSo6gMc)**
+
+today i checked in on the robot getting destroy at stuff like the robot olympics, they have just obliterating these guys over there, ...
+
+📺 Kwite
+
+👁️ 316K • 👍 10K • 💬 994 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -274,17 +274,17 @@ Apple's first home robot concept explores a new generation of smart household te
 
 📺 Carros Show
 
-👁️ 125K • 👍 866 • 💬 71 • ⏱️ 1:04:00 • 6d ago
+👁️ 126K • 👍 876 • 💬 71 • ⏱️ 1:04:00 • 6d ago
 
 ---
 
-**[Humanoid Robots Are Racing Like Humans?! 🤖🏃](https://www.youtube.com/watch?v=EnAwsIQzvAc)**
+**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
 
-Humanoid robots are taking on a real-world racing challenge at the 2026 World Humanoid Robot Games in Beijing! They ...
+A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
 
-📺 BeMyWay
+📺 Tum Tum
 
-👁️ 66K • 💬 45 • ⏱️ 0:57 • 4d ago
+👁️ 350K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
 
 ---
 

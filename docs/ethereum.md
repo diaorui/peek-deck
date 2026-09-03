@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-03T11:32:27.839458+00:00'
+updated: '2026-09-03T15:55:32.550111+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 03, 2026 at 11:32 UTC  
+**Last Updated:** September 03, 2026 at 15:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,55 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -1.6%  
-**30d:** +25.9%  
-**90d:** +53.1%  
-**1y:** -44.2%  
+**24h:** +5.2%  
+**7d:** +2.8%  
+**30d:** +31.5%  
+**90d:** +60.0%  
+**1y:** -41.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.32B
+**Market Cap:** $305.12B
 Rank #2
 
 **Circulating Supply:** 122,015,122 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-49.3%
 
 **All-Time Low:** $0.43
-+555146.3%
++578708.7%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion September 03, 2026](https://www.reddit.com/r/ethereum/comments/1w5xt9m/daily_general_discussion_september_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+10h ago
+
+---
+
+**[Updating our wealth verifications with Ethereum](https://www.reddit.com/r/ethereum/comments/1w633wn/updating_our_wealth_verifications_with_ethereum/)**
+
+My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?
+
+5h ago
+
+---
+
+**[Devcon India — a travel guide](https://www.reddit.com/r/ethereum/comments/1w5l3d4/devcon_india_a_travel_guide/)**
+
+Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I’m excited for you all to get to expe
+
+🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 20h ago
+
+---
 
 **[Daily General Discussion September 02, 2026](https://www.reddit.com/r/ethereum/comments/1w50oyb/daily_general_discussion_september_02_2026/)**
 
@@ -80,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 23h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 1d ago
 
 ---
 
@@ -88,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I work on the assessment side at a smart contract auditing company. This came out of an audit we did on a governance-approved deployment system on a permissioned chain. The system stores metadata for each approved deployment template: a bytecode hash, a storage layout hash, a link to the audit report, and the source repository commit. On paper, every deployed proxy maps back to reviewed and approved code. At deployment time, nothing checks those fields. The factory resolves the implementation live from the beacon, and the beacon owner can publish a new version at any point after the template was registered. The bytecodeHash field is in storage, but no require statement compares it to address.codehash on what actually gets deployed. After the first beacon upgrade, every new deployment runs code that was never part of the original audit, while the template still points at the old audit URI and the old commit. When we flagged it, the project team didn't start enforcing the hash. They removed the bytecode and storage layout hashes from the template entirely. I'd argue that's more honest than keeping fields that imply verification and deliver none. But what's left is a pipeline where the only governance control is trusting the beacon owner, and the on-chain record of what was audited diverges silently from what's actually running. Regulators running MiCA compliance assessments or CASP license reviews want to see governance over what gets deployed to production. If your template stores an audit reference and an assessor asks whether it's enforced, "recorded but not checked" puts you in a worse position than having no reference at all. The reference misrepresents what the deployed code went through. Open your template registry or deployment manifest. Find the field that references the audit or stores a bytecode hash. Grep for it on the deploy path. If the field is written once at registration and never appears in a require or assert during deployment, you have decorative governance metadata. address.codehash exists on-chain. The check is one comparison. Nobody wrote it. Plenty of governance models handle this off-chain with CI/CD gates, human sign-offs, and change management procedures, and those work for permissioned systems. The gap opens when the on-chain record looks like it provides a guarantee it doesn't, because the next person who reads that template will assume enforcement already happened. If a MiCA license or VARA license assessor asked you to demonstrate that your template's bytecodeHash is enforced at deployment, could you show them the require statement?
 
-2d ago
+3d ago
 
 ---
 
@@ -124,31 +148,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion August 29, 2026](https://www.reddit.com/r/ethereum/comments/1w1d8l9/daily_general_discussion_august_29_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[I have built a tool which can provide bulk wallet address labels (CEX wallets, entities, risk tags) - cheap, fast, any list size](https://www.reddit.com/r/ethereum/comments/1w1lt0r/i_have_built_a_tool_which_can_provide_bulk_wallet/)**
-
-I run a pipeline that enriches crypto wallet addresses with the kind of labels you'd normally dig out of block explorers and intelligence platforms one address at a time: Entity / owner - e.g. Binance: Hot Wallet, Coinbase: Cold Wallet, Deribit Category tags - Centralized Exchange, Hot/Cold Wallet, Mixer, Gambling, Sanctioned (OFAC/UK), High Transacting, etc. First-funder relationships and contract flags Per-chain coverage - Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche and more, one row per network Format: clean CSV/JSON, your list in → labeled list out. Turnaround is fast (100k addresses in under an hour) and pricing is a fraction of what intelligence-platform subscriptions cost - it scales down to small one-off lists and up to millions of addresses. Useful if you're doing compliance/AML screening, fraud or theft investigations, exchange flow analysis, dataset enrichment for research, or tagging counterparties in your own analytics. DM me with roughly how many addresses and what chains - I'll quote you same day. Happy to run a free sample on 50–100 of your addresses first so you can judge the quality yourself.
-
-4d ago
-
----
-
-**[ethstaker-deposit-cli 1.3.1 pre-release](https://www.reddit.com/r/ethereum/comments/1w1lqgs/ethstakerdepositcli_131_prerelease/)**
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury](https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only)**
+
+The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.
+
+Decrypt • 18h ago
+
+---
 
 **[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
 
@@ -158,25 +168,25 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Mint Announces Nasdaq Share Tokenization Initiative on Ethereum and Solana](https://finance.yahoo.com/markets/crypto/articles/mint-announces-nasdaq-share-tokenization-141659095.html)**
+
+The binding agreement with CURRENC Capital will support the issuer-sponsored tokenization of a portion of Mint Incorporation Limited’s (NASDAQ:MIMI) existing Class A ordinary shares, although completion remains subject to regulatory requirements. Key Investor TakeawaysMint Incorporation Limited (NASDAQ:MIMI) has entered a binding consulting agreement with CURRENC Capital to pursue Nasdaq share tokenization on Ethereum and Solana.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
 
-Forbes • 31m ago
+forbes.com • 4h ago
 
 ---
 
-**[Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027](https://www.tradingview.com/news/99Bitcoins:d595a9eb7094b:0-elon-musk-grok-ai-predicts-ethereum-price-by-january-1-2027/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Retreat Amid Trump's Iran Warning: Analyst Says BTC Mirroring 2023 Bottoming Pattern, 'Decisive Breakout' Could Follow](https://www.tradingview.com/news/benzinga:983726048094b:0-bitcoin-ethereum-xrp-dogecoin-retreat-amid-trump-s-iran-warning-analyst-says-btc-mirroring-2023-bottoming-pattern-decisive-breakout-could-follow/)**
 
-Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
+Leading cryptocurrencies corrected on Tuesday as investors weighed in on President Donald Trump’s latest warnings to Iran.Crypto Market Cools DownBitcoin dived below $77,000, while Ethereum retreated beneath $2,400 amid a sharp correction across the cryptocurrency market.Cryptocurrency-related stoc…
 
 TradingView • 1d ago
-
----
-
-**[Current price of Ethereum for September 2, 2026](https://fortune.com/article/price-of-ethereum-09-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
 
 ---
 
@@ -184,7 +194,15 @@ Fortune • 23h ago
 
 Ethereum post-quantum signatures using ML-DSA-44 now cost 1.23M gas, 6.6× less than prior benchmarks, marking progress in quantum-safe blockchain tech.
 
-blockchain.news • 11h ago
+blockchain.news • 15h ago
+
+---
+
+**[Abraxas Capital buys $39M in Ethereum while holding $291M in shorts on Hyperliquid](https://cryptobriefing.com/abraxas-capital-ethereum-shorts-hyperliquid/)**
+
+Abraxas Capital purchased 16,554 ETH worth $39M while maintaining 120,178 ETH in short positions on Hyperliquid as part of a sophisticated
+
+Crypto Briefing • 1h ago
 
 ---
 
@@ -192,37 +210,21 @@ blockchain.news • 11h ago
 
 The Ethereum layer 2 stopped deposits and warned that exit routes differ before its network and explorer shut down.
 
-CryptoSlate • 10h ago
+CryptoSlate • 14h ago
 
 ---
 
-**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
+**[Bitcoin, XRP, Dogecoin Gain; Ethereum Dips as Jobs Data Trims Rate Hike Odds: Correction Not Lessening A](https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite)**
 
-Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
+The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike.
 
-Decrypt • 2d ago
-
----
-
-**[Roundtable 100 analysts rank Bitcoin lower than Ether, Solana, and HYPE](https://www.thestreet.com/crypto/markets/roundtable-100-analysts-rank-bitcoin-lower-than-ether-solana-and-hype)**
-
-thestreet.com • 17h ago
+Benzinga • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum Fall As Trump Warns Iran Of A Bigger Attack](https://www.benzinga.com/crypto/cryptocurrency/26/09/61559022/bitcoin-ethereum-fall-as-trump-warns-iran-of-a-bigger-attack)**
+**[Roundtable 100 analysts rank Bitcoin lower than Ether, Solana, and HYPE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2dDbjlUcFFsazdxemJZSURNb1ZWeGNrTU9YdmJycnAyQThyeEJUMUFOeWFjV2NUNV91V18xTWJSbWU2bHlhdXd1d1Z5ekh3dl9FTEtldFdQR3B2ejkwOF95Mm4xUnNYV3Zkc3JRdnFPSXM3ZHlBWmpGRnVtY2czajRQeUtVYUVva25HQy1KeGNtRUxFSEdoRlhNQmMxWk92ckxLRS1ncENyakhXNlRF?oc=5)**
 
-Bitcoin and Ethereum fall as Trump orders strikes near the Strait of Hormuz, sending oil and yields higher and reviving risk-off pressure.
-
-Benzinga • 1d ago
-
----
-
-**[BitMine Nears 5% Ethereum Ownership Milestone](https://www.tipranks.com/news/company-announcements/bitmine-nears-5-ethereum-ownership-milestone)**
-
-BitMine Immersion Technologies ( ($BMNR) ) has provided an update. On August 31, 2026, Bitmine Immersion Technologies reported that its combined crypto, cash, marke...
-
-TipRanks • 2d ago
+thestreet.com • 21h ago
 
 ---
 
@@ -230,13 +232,43 @@ TipRanks • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[It&#39;s Crypto Bull Season XRP &amp; Ethereum Are Set For Greatness Bitcoin Is Pushing To $150,000 A Coin](https://www.youtube.com/watch?v=4ygF8DYbbto)**
+
+Well, we've officially made it. It's now the time of year where everything is meant to take off into the stratosphere. The CLARITY act ...
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 673 • 💬 437 • ⏱️ 30:15 • 6h ago
+
+---
+
+**[I Got Rich Off Ethereum. These Coins Will Be Even Bigger.](https://www.youtube.com/watch?v=4oF8mlB6jIg)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 495 • ⏱️ 10:50 • 14h ago
+
+---
+
 **[Is Robinhood BEATING Ethereum?](https://www.youtube.com/watch?v=0-4jN1C2B5M)**
 
 Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 385 • 💬 30 • ⏱️ 11:39 • 17h ago
+👁️ 29K • 👍 424 • 💬 31 • ⏱️ 11:39 • 21h ago
+
+---
+
+**[Live Trading in Crypto &amp; Gold | Live BTC ETH Trading | XAUUSD Live Trade](https://www.youtube.com/watch?v=Gt2gqGFfqVA)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 2K • 👍 616 • 1h ago
 
 ---
 
@@ -246,17 +278,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 11K • 👍 248 • 💬 175 • ⏱️ 8:53 • 21h ago
-
----
-
-**[It&#39;s Crypto Bull Season XRP &amp; Ethereum Are Set For Greatness Bitcoin Is Pushing To $150,000 A Coin](https://www.youtube.com/watch?v=4ygF8DYbbto)**
-
-Well, we've officially made it. It's now the time of year where everything is meant to take off into the stratosphere. The CLARITY act ...
-
-📺 The Modern Investor
-
-👁️ 750 • 👍 334 • 💬 320 • ⏱️ 30:15 • 2h ago
+👁️ 12K • 👍 268 • 💬 182 • ⏱️ 8:53 • 1d ago
 
 ---
 
@@ -266,17 +288,7 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 899 • 💬 673 • ⏱️ 31:53 • 1d ago
-
----
-
-**[BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9IT8Wzf03LA)**
-
-BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 225 • 💬 438 • ⏱️ 16:13 • 8h ago
+👁️ 14K • 👍 906 • 💬 670 • ⏱️ 31:53 • 1d ago
 
 ---
 
@@ -286,7 +298,17 @@ Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Eth
 
 📺 ETHGlobal
 
-👁️ 388 • 👍 6 • 💬 1 • ⏱️ 33:36 • 7h ago
+👁️ 432 • 👍 7 • 💬 1 • ⏱️ 33:36 • 12h ago
+
+---
+
+**[BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9IT8Wzf03LA)**
+
+BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 265 • 💬 512 • ⏱️ 16:13 • 13h ago
 
 ---
 
@@ -296,7 +318,7 @@ Bitmine Chair Tom Lee discusses why he landed on owning 5% of Ethereum — and w
 
 📺 Coinage
 
-👁️ 901 • 👍 12 • ⏱️ 1:03 • 20h ago
+👁️ 991 • 👍 12 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -307,26 +329,6 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 📺 Altcoin Daily
 
 👁️ 60K • 👍 2K • 💬 87 • ⏱️ 9:05 • 2d ago
-
----
-
-**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
-
-Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
-
-📺 Koenz Trading
-
-👁️ 2K • 👍 62 • 💬 9 • ⏱️ 1:55 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=j5hs78mWEOo)**
-
-BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 310 • 💬 737 • ⏱️ 18:58 • 1d ago
 
 ---
 
