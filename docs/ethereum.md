@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-03T01:18:37.655530+00:00'
+updated: '2026-09-03T06:14:00.399946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 03, 2026 at 01:18 UTC  
+**Last Updated:** September 03, 2026 at 06:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.8%  
-**7d:** -2.2%  
-**30d:** +25.1%  
-**90d:** +52.1%  
-**1y:** -44.6%  
+**7d:** -1.6%  
+**30d:** +25.8%  
+**90d:** +53.0%  
+**1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.45B
+**Market Cap:** $292.89B
 Rank #2
 
-**Circulating Supply:** 122,012,213 ETH
+**Circulating Supply:** 122,015,122 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.7%
+-51.5%
 
 **All-Time Low:** $0.43
-+551658.9%
++554370.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 13h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +120,7 @@ I work on the assessment side at a smart contract auditing company. This came ou
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -150,11 +150,19 @@ I run a pipeline that enriches crypto wallet addresses with the kind of labels y
 
 ## Google News: "ethereum"
 
+**[Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury](https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only)**
+
+The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.
+
+decrypt.co • 8h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html)**
 
 Bitcoin opened at $77,395.89 on Wednesday, September 2, 2026, 1.5% lower than Tuesday's opening price. As of 7:13 a.m. ET, bitcoin moved down to $76,597.13. Ethereum opened at $2,417.66 today, down 2.0% from Tuesday's opening price. Ethereum fell further this morning to $2,373.76 as of 7:13 a.m. ET.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -162,7 +170,7 @@ Yahoo Finance • 13h ago
 
 Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
 
-TradingView • 14h ago
+TradingView • 19h ago
 
 ---
 
@@ -170,23 +178,7 @@ TradingView • 14h ago
 
 Ethereum post-quantum signatures using ML-DSA-44 now cost 1.23M gas, 6.6× less than prior benchmarks, marking progress in quantum-safe blockchain tech.
 
-blockchain.news • 56m ago
-
----
-
-**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
-
-Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
-
-Decrypt • 2d ago
-
----
-
-**[What price will Ethereum hit in September Odds & Prediction Market Analysis](https://cryptoslate.com/predictions/market/what-price-will-ethereum-hit-in-september-2026/)**
-
-Track What price will Ethereum hit in September prediction market analysis with live Polymarket odds, probabilities, liquidity, and market catalysts.
-
-CryptoSlate • 1d ago
+blockchain.news • 5h ago
 
 ---
 
@@ -194,7 +186,7 @@ CryptoSlate • 1d ago
 
 Bitcoin has slipped to $76,926.53, down 2.2% over the past day, pulling Ethereum and XRP lower with it after US forces struck Iranian targets near the
 
-Coinpedia • 21h ago
+Coinpedia • 1d ago
 
 ---
 
@@ -202,31 +194,39 @@ Coinpedia • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 18h ago
 
 ---
 
-**[Arthur Hayes Calls Ethereum His ‘Number One Pick’ for Quick 5x Upside as Bitcoin Targets $1M by 2030](https://www.tipranks.com/news/arthur-hayes-calls-ethereum-his-number-one-pick-for-quick-5x-upside-as-bitcoin-targets-1m-by-2030)**
+**[Nearly $10 million must escape a dying Ethereum L2 network before New Year’s Eve or risk becoming unrecoverable](https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable/)**
 
-BitMEX co-founder Arthur Hayes believes Bitcoin (BTC-USD) will hit $1 million by 2030, but Arthur Hayes calls Ethereum (ETH-USD) his “number one pick” due to better...
+The Ethereum layer 2 stopped deposits and warned that exit routes differ before its network and explorer shut down.
 
-TipRanks • 9h ago
-
----
-
-**[Lido funds ValOS initiative to enhance Ethereum validator standards](https://cryptobriefing.com/lido-valos-ethereum-validator-standards/)**
-
-Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator
-
-Crypto Briefing • 1d ago
+CryptoSlate • 5h ago
 
 ---
 
-**[Wall Street Crypto Treasuries Are Buying Bitcoin and Ethereum Again. Why?](https://finance.yahoo.com/markets/crypto/articles/wall-street-crypto-treasuries-buying-210000500.html)**
+**[Bitcoin, XRP, Dogecoin Gain; Ethereum Dips as Jobs Data Trims Rate Hike Odds: Correction Not Lessening A](https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite)**
 
-ETF money returned, Washington set a calendar, and crypto treasuries started buying again. Here is what actually changed.
+The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike.
 
-Yahoo Finance • 2d ago
+Benzinga • 4h ago
+
+---
+
+**[Coinbase offers crypto derivatives to eligible Canadian investors](https://cryptobriefing.com/coinbase-offers-crypto-derivatives-to-eligible-canadian-investors/)**
+
+Coinbase offers crypto derivatives to Canadian investors. Ethereum reaching $10,000 by December 31, 2026 at 1.6% YES.
+
+Crypto Briefing • 16h ago
+
+---
+
+**[BitMine Nears 5% Ethereum Ownership Milestone](https://www.tipranks.com/news/company-announcements/bitmine-nears-5-ethereum-ownership-milestone)**
+
+BitMine Immersion Technologies ( ($BMNR) ) has provided an update. On August 31, 2026, Bitmine Immersion Technologies reported that its combined crypto, cash, marke...
+
+TipRanks • 2d ago
 
 ---
 
@@ -240,17 +240,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 261 • 💬 21 • ⏱️ 11:39 • 7h ago
+👁️ 20K • 👍 337 • 💬 26 • ⏱️ 11:39 • 12h ago
 
 ---
 
-**[Its Game Over For Anyone Not Holding Crypto Bitcoin, Ethereum &amp; XRP Are About To Change Lives](https://www.youtube.com/watch?v=xwC9JD4zq5w)**
+**[BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9IT8Wzf03LA)**
 
-Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and XRP would have a positive effect on their ...
+BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Modern Investor
+📺 Crypto World
 
-👁️ 13K • 👍 871 • 💬 723 • ⏱️ 31:53 • 15h ago
+👁️ 2K • 👍 141 • 💬 155 • ⏱️ 16:13 • 3h ago
 
 ---
 
@@ -260,17 +260,47 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 8K • 👍 192 • 💬 101 • ⏱️ 8:53 • 10h ago
+👁️ 9K • 👍 217 • 💬 109 • ⏱️ 8:53 • 15h ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=j5hs78mWEOo)**
+**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
 
-BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
 
-📺 Crypto World
+📺 ETHGlobal
 
-👁️ 14K • 👍 304 • 💬 857 • ⏱️ 18:58 • 23h ago
+👁️ 320 • 👍 6 • 💬 1 • ⏱️ 33:36 • 2h ago
+
+---
+
+**[Its Game Over For Anyone Not Holding Crypto Bitcoin, Ethereum &amp; XRP Are About To Change Lives](https://www.youtube.com/watch?v=xwC9JD4zq5w)**
+
+Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and XRP would have a positive effect on their ...
+
+📺 The Modern Investor
+
+👁️ 13K • 👍 892 • 💬 793 • ⏱️ 31:53 • 20h ago
+
+---
+
+**[Tom Lee on Going From Owning 5% to 10% of All Ethereum](https://www.youtube.com/watch?v=nMBLD6tffys)**
+
+Bitmine Chair Tom Lee discusses why he landed on owning 5% of Ethereum — and why owning 10% wouldn't be out of the ...
+
+📺 Coinage
+
+👁️ 674 • 👍 10 • ⏱️ 1:03 • 15h ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
+
+Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
+
+📺 Koenz Trading
+
+👁️ 2K • 👍 61 • 💬 8 • ⏱️ 1:55 • 1d ago
 
 ---
 
@@ -284,51 +314,23 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 ---
 
-**[Tom Lee on Going From Owning 5% to 10% of All Ethereum](https://www.youtube.com/watch?v=nMBLD6tffys)**
+**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading @Ashutosh_kumar_live](https://www.youtube.com/watch?v=DD5GBYLwnZ0)**
 
-Bitmine Chair Tom Lee discusses why he landed on owning 5% of Ethereum — and why owning 10% wouldn't be out of the ...
+LIVE GOLD TRADING | XAUUSD LIVE | BTCUSD LIVE | Crypto & Forex Trading* Welcome to *Trade With Ashutosh Kumar*.
 
-📺 Coinage
+📺 Ashutosh Kumar
 
-👁️ 374 • 👍 7 • ⏱️ 1:03 • 10h ago
-
----
-
-**[THIS IS CRAZY $10,000 ETHEREUM INCOMING #xrp #ethereum #crypto](https://www.youtube.com/watch?v=GqLyLuh0Kz8)**
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 428 • 💬 27 • ⏱️ 2:17 • 2d ago
+👁️ 7K • 👍 589 • 3h ago
 
 ---
 
-**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
+**[Why Ethereum Will Outperform Bitcoin, Solana &amp; Other Cryptos](https://www.youtube.com/watch?v=gbR7VnQZI9Y)**
 
-Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
+I strongly believe we're heading into an Ethereum-dominated bull run. My view is that pretty much everything loses to Ethereum ...
 
-📺 Koenz Trading
+📺 Crypto Archie
 
-👁️ 1K • 👍 61 • 💬 8 • ⏱️ 1:55 • 1d ago
-
----
-
-**[Ethereum Must Clear THIS Level to Confirm the Uptrend](https://www.youtube.com/watch?v=u6ltPTHxj_U)**
-
-In this 1 September 2026 Elliott Wave analysis, we evaluate Ethereum, currently at $2440, focusing on the $2750 resistance target ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 122 • 💬 10 • ⏱️ 6:47 • 1d ago
-
----
-
-**[Bitcoin, Ethereum &amp; XRP Aren&#39;t Done Yet This Is Going To Shock The Living Daylights Out Of You](https://www.youtube.com/watch?v=PMnxp61twvE)**
-
-Some people will get it and some wont. Some people will invest and make tons of money and others will continue to wait for prices ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 842 • 💬 277 • ⏱️ 33:07 • 2d ago
+👁️ 2K • 👍 51 • ⏱️ 1:12 • 1d ago
 
 ---
 
