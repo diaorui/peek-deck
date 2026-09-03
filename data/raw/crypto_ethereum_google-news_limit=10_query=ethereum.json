@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+      "source": "decrypt.co",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4QVY1UmxpY1RieVlqZnpoa0QwR2NwSXFpX1BubGJFWGJISkZETFZwTVR2amoyYlZTZHdSVU5nckFfMFpmRzdZT25MWWNyU1dfMXN6M3NLb2RmTmFKdlpkSDBocDBFRDY4SFVOTnVNRdIBd0FVX3lxTE1fRFlsWDNaa1RwUXo4Zmk5aWZvTzBZUVA1Z0I4ZEZJOWdERkdJYlpBWmZwcnc1MjU5WU03SFFXSkF5R3Z4bWxIZ09zR2RZdXhzUVg5bUtKRXYzU050RHhZZ29OSXQ0SFhXejdEVUE5dHUtNXBSbVJR?oc=5",
+      "pub_date": 1788384665.0,
+      "article_url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/08/bitcoin-savings-decrypt-style-gID_7.jpg",
+      "description": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding."
+    },
+    {
       "headline": "Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -29,30 +39,10 @@
       "source": "blockchain.news",
       "source_url": "https://blockchain.news",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSU5BUHVPUWs4cHUwenJ4dHc5TUtVQVctTUVHRHVXQnZiMTBXNTVLTkJjMThER3NHUHh6Z1pONXVhRU00cFVveUtFQk5ZSDJJUnlMaDZURDZnMk9Uckdta0c4YmRlNHVJTEs0ZUFMOW9BTUhseFI2RA?oc=5",
-      "pub_date": 1788394950.0,
+      "pub_date": 1788395189.0,
       "article_url": "https://blockchain.news/news/post-quantum-signatures-ethereum-cheaper",
       "image": "https://image.blockchain.news:443/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
       "description": "Ethereum post-quantum signatures using ML-DSA-44 now cost 1.23M gas, 6.6\u00d7 less than prior benchmarks, marking progress in quantum-safe blockchain tech."
-    },
-    {
-      "headline": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3JOaG9MTndTdnpOMVRWVDk1cGRWY3BkSHo0YTVwbHVtdlVWaGpFbEFXQ19OV3QzeDRzaFcxdU0xbm9iSEdLWEUydksxUFVySllNSlQ2WThDZkFXLVJCT05XOG92ak10b2FZTFp1S2tWcEtRdVdYWjV2dkh1QjV6ajNubENkV1Ix0gGQAUFVX3lxTE11Wm9fUHdkM21oVmtkZkYzNWVfV3JoNmlhTFBvVmdUWHBiTjhFYUNqeWpmaEh1RUk0ckpiaE9iV1hId3h5TmhfVXQ0cXNZVjNDVDBvWUtxMHlNaGJPc2hCLWFfdUl6cVpZN3RRR0xmUnExOXBNWC16NmNad0pOQzlwV1VJMWFGYU96Um5BVm1zdA?oc=5",
-      "pub_date": 1788201964.0,
-      "article_url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg",
-      "description": "Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect."
-    },
-    {
-      "headline": "What price will Ethereum hit in September Odds & Prediction Market Analysis",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTZZbTlKaEdzbzVDN3d6cFpBcUJ0RjE1QUdyRXZRNU5wRlRiWWVfZmY2MzVoWjNsa0FZSk1wRFU4UTdMZFZlSXFscUNoZHVXV2VLdHBGeGUzYnRjTG8xLXFCNDJDdHN1eEdwNlZwSjJQdEc5QlFZY2loNlVEVk8wdHJKeGZFTEktNUk5N3BZZFp4aEFF?oc=5",
-      "pub_date": 1788276113.0,
-      "article_url": "https://cryptoslate.com/predictions/market/what-price-will-ethereum-hit-in-september-2026/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-autumn-market-climb.jpg",
-      "description": "Track What price will Ethereum hit in September prediction market analysis with live Polymarket odds, probabilities, liquidity, and market catalysts."
     },
     {
       "headline": "Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?",
@@ -75,36 +65,46 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Arthur Hayes Calls Ethereum His \u2018Number One Pick\u2019 for Quick 5x Upside as Bitcoin Targets $1M by 2030",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTVkMnl1M2M1UWZaZnlLNllRTl8zSDlQU0hwNzZscVYyQkYyeWw0Y2NCMHNCZkZOc3lWSkVteUczY2txZnA1VURSU0dUeUM2T1pkZzVmOEl4b3FJYmJuMlFDbWdKdkRVYWdjbTI3VUxMNWF4WE1FeHBZSFh3OFV0T2hHS293Y3FBeHc3UlBic2NkRzdSTlBBUDdabVNkSzR5aFZyTUJycHJjMWNvdDFuaEMwYjJJZ2dVcElHVHJVY2J5SXc4eGc?oc=5",
-      "pub_date": 1788365531.0,
-      "article_url": "https://www.tipranks.com/news/arthur-hayes-calls-ethereum-his-number-one-pick-for-quick-5x-upside-as-bitcoin-targets-1m-by-2030",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/shutterstock_2777099569-750x406.jpg",
-      "description": "BitMEX co-founder Arthur Hayes believes Bitcoin (BTC-USD) will hit $1 million by 2030, but Arthur Hayes calls Ethereum (ETH-USD) his \u201cnumber one pick\u201d due to better..."
+      "headline": "Nearly $10 million must escape a dying Ethereum L2 network before New Year\u2019s Eve or risk becoming unrecoverable",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW1UeEljbE1UbnZhcEh4ME5YZG54Y1NZZEhNZnJYNVpaQ2I4ZktvT1QzbHFaekd4RkNPZm12ZmxqLUtyaEQxR2diR1hjeEVuVG03R0s4Yl9mVm8wajlOSl8tRDM1RllRU0d1bWtrZ3B0VTBlRFQzQURKa05oMFBWYWRHaXBkbXQwTWpWc1lJLUFyTXhsMTE2RkpZQTc4ZFllTnFPQURuUlpIWFZud2JvYWY5T0xzWVg5bUZrOWJNZlZHdGhha0VBYk12NA?oc=5",
+      "pub_date": 1788397259.0,
+      "article_url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/silicon-last-departure.jpg",
+      "description": "The Ethereum layer 2 stopped deposits and warned that exit routes differ before its network and explorer shut down."
     },
     {
-      "headline": "Lido funds ValOS initiative to enhance Ethereum validator standards",
+      "headline": "Bitcoin, XRP, Dogecoin Gain; Ethereum Dips as Jobs Data Trims Rate Hike Odds: Correction Not Lessening A",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXZpZm5HVUlmNHk4MXNYNm9LLXF3N09rZkdwbW5Cdy1iQm5fVTlzR1dwUlA5LWpna3d3MzJSV0ZCRW1sUUx3RVlpcHVETDhtcS1zYjdxT3FuZ3ZrLVNHWGZLVTNURC1id1N0QTdXSzFJNzlycC10S3VhbC1LQ2dPeHV1QVp0LTJsVTV5czBmRVBRb0tYVlBYRlFYSnJDQ2FiNTJRcFVnWVZOZ05hZGJZQUlDdExIUENTRFF6bE1wc3FMbDRfazV3XzNUMzdkOFJnbHBObjhib2M?oc=5",
+      "pub_date": 1788400492.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/03/Cryptocurrency--Focus-Bitcoin-On-Tablet-.jpg",
+      "description": "The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike."
+    },
+    {
+      "headline": "Coinbase offers crypto derivatives to eligible Canadian investors",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43MXpzWl8yYkwzZnRFSVlxeXR3SFd4WW9KQ3kwUUNZSjAzY0R0ZVB5YUMyX2VTME44bmZTUXJHcmRMU25nRG45d1Q5bWdRWGJBS1VHWGlodmVKUERZRUF4UFl3ak83LUFuWlcya2hLcEktdzFxNFE?oc=5",
-      "pub_date": 1788272497.0,
-      "article_url": "https://cryptobriefing.com/lido-valos-ethereum-validator-standards/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01102133/library-lido-funds-valos-initiative-to-enhance-ethereum-validato-800x450.png",
-      "description": "Lido DAO allocated $60K through its LEGO program to fund ValOS, a framework bringing ISO 27001 and SOC 2 standards to Ethereum validator"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3VwYmVzNVNhbm5nV0g1b09PdmZ6NjBBZC15Q3VPOEhYT25ZX2w0SEQwNVRlbHdLcUxnVXRINFB6Y2QzR0tEZ2xrVkhpODZaazJPMlhXUVd3LTB2UXlnSFZDcTJUX3VrdEo2bVA1OHJxSXNZdDByNWRyeFEwVEV4ZW5NbElDS3ZWdmJfR0RaUWtYcTdQUGFWMA?oc=5",
+      "pub_date": 1788355971.0,
+      "article_url": "https://cryptobriefing.com/coinbase-offers-crypto-derivatives-to-eligible-canadian-investors/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/02092853/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-2-800x420.jpeg",
+      "description": "Coinbase offers crypto derivatives to Canadian investors. Ethereum reaching $10,000 by December 31, 2026 at 1.6% YES."
     },
     {
-      "headline": "Wall Street Crypto Treasuries Are Buying Bitcoin and Ethereum Again. Why?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjhOSzJDbXpuZnpSX2FxT2VDNkstWHJJTHlnN2Y4UVgwV3lyRWhlQmdCdDJ1Q1hIUjN2TXo5aWY4d1VmYlVWdERYa2k0b19PcjdWVi11SHdsR0pWQmhNZ2l2RGxPeUhjVF83RFRVYWdjOEFIVTNad2YwTUw5S0F5Z2N0UmJma2NLMjBidGEwRV9lVFdmUXRRY21CREU3N19pTU1F?oc=5",
-      "pub_date": 1788210000.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-crypto-treasuries-buying-210000500.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4d6e92ac1a32f37082f00c5e6d796bc8668a110b8fd1ddc29caf8cc968017313/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc436216ce9fa7872ed352e0d6ac72ce7.png",
-      "description": "ETF money returned, Washington set a calendar, and crypto treasuries started buying again. Here is what actually changed."
+      "headline": "BitMine Nears 5% Ethereum Ownership Milestone",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlVVWU1yV2dCbF9WbFhJa3NVY2w4LWFvT0c5Tm9GWEtWN0k0TXFOclFFbVNYYmRlVDBBZEQ4UTFJY1NwUFp6VDZqY0htY3VMWUFHNUZqU0lma3d2OC1fV3l3X211c3hrMHQ4b1h6X1JnOFM1Ukl1cFhTclV2cG95Z0lzLVNGMk5XZ0t6RVBjdmFqMHpGYVlyQUVSSm0?oc=5",
+      "pub_date": 1788184900.0,
+      "article_url": "https://www.tipranks.com/news/company-announcements/bitmine-nears-5-ethereum-ownership-milestone",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1216127341-750x406.jpg",
+      "description": "BitMine Immersion Technologies ( ($BMNR) ) has provided an update. On August 31, 2026, Bitmine Immersion Technologies reported that its combined crypto, cash, marke..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T01:18:32.877826+00:00"
+  "fetched_at": "2026-09-03T06:13:52.686009+00:00"
 }
