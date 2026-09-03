@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-03T06:14:00.395828+00:00'
+updated: '2026-09-03T11:32:27.833371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 03, 2026 at 06:14 UTC  
+**Last Updated:** September 03, 2026 at 11:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,725.73
+### $77,913.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.1%  
-**30d:** +20.3%  
-**90d:** +27.7%  
-**1y:** -29.7%  
+**24h:** +1.7%  
+**7d:** +0.1%  
+**30d:** +20.5%  
+**90d:** +27.9%  
+**1y:** -29.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1560.04B
+**Market Cap:** $1563.83B
 Rank #1
 
-**Circulating Supply:** 20,078,834 BTC
+**Circulating Supply:** 20,079,031 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.2%
 
 **All-Time Low:** $67.81
-+114480.4%
++114762.1%
 
 ---
 
@@ -77,65 +77,69 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[“Strategy”](https://www.reddit.com/r/Bitcoin/comments/1w3rik1/strategy/)**
+**[He actually lost it in Boating Accident 😂](https://www.reddit.com/r/Bitcoin/comments/1w607av/he_actually_lost_it_in_boating_accident/)**
 
-2d ago
-
----
-
-**[Hey guys](https://www.reddit.com/r/Bitcoin/comments/1w3w29j/hey_guys/)**
-
-2d ago
+4h ago
 
 ---
 
-**[Here is me saying bitcoin again here we go](https://www.reddit.com/r/Bitcoin/comments/1w3wecv/here_is_me_saying_bitcoin_again_here_we_go/)**
+**[Me in 2010](https://www.reddit.com/r/Bitcoin/comments/1w5egd0/me_in_2010/)**
 
-2d ago
-
----
-
-**[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.reddit.com/r/Bitcoin/comments/1w3cvc0/saylors_strategy_restarts_bitcoin_buying_spending/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million) • 2d ago
+19h ago
 
 ---
 
-**[It's time for your daily Michael Saylor bitcoin video](https://www.reddit.com/r/Bitcoin/comments/1w39ouo/its_time_for_your_daily_michael_saylor_bitcoin/)**
+**[Give me $77000 worth of btc then](https://www.reddit.com/r/Bitcoin/comments/1w5q4ai/give_me_77000_worth_of_btc_then/)**
 
-Yeah he just posted another one. Paintball with orange paint. The enemy team is (obviously) the Bears. https://x.com/saylor/status/2094329015431528794
-
-2d ago
+12h ago
 
 ---
 
-**[It's pretty simple](https://www.reddit.com/r/Bitcoin/comments/1w3ku0s/its_pretty_simple/)**
+**[Strategy CEO Defends $60K Bitcoin Sale Before $80K Buyback](https://www.reddit.com/r/Bitcoin/comments/1w5wg7d/strategy_ceo_defends_60k_bitcoin_sale_before_80k/)**
 
-2d ago
+Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to fund preferred dividends before resuming purchases at $80,000.
 
----
-
-**[Bitcoin atm](https://www.reddit.com/r/Bitcoin/comments/1w3cu2t/bitcoin_atm/)**
-
-2d ago
+🔗 [bitbo.io](https://bitbo.io/news/strategy-ceo-defends-bitcoin-sale/) • 7h ago
 
 ---
 
-**[today it's getting more bullish here](https://www.reddit.com/r/Bitcoin/comments/1w3e82g/today_its_getting_more_bullish_here/)**
+**[Is the bull here with us?](https://www.reddit.com/r/Bitcoin/comments/1w5sna8/is_the_bull_here_with_us/)**
 
-2d ago
-
----
-
-**[Closed exchange returns BTC worth £3.3m+](https://www.reddit.com/r/Bitcoin/comments/1w3h36o/closed_exchange_returns_btc_worth_33m/)**
-
-🔗 [ccn.com](https://www.ccn.com/news/crypto/man-recovers-bitcoin-wallet-12-years-btc-nears-supply-wall/) • 2d ago
+10h ago
 
 ---
 
-**[Bananas!🍌 ~95% already distributed, ~4% left. 🚀🧑‍🚀](https://www.reddit.com/r/Bitcoin/comments/1w3qyln/bananas_95_already_distributed_4_left/)**
+**[The solution is here, we just have to choose it.](https://www.reddit.com/r/Bitcoin/comments/1w5hjx1/the_solution_is_here_we_just_have_to_choose_it/)**
 
-2d ago
+17h ago
+
+---
+
+**[Bernie Sanders explains the Cantillon Effect / fiat money](https://www.reddit.com/r/Bitcoin/comments/1w5hhe7/bernie_sanders_explains_the_cantillon_effect_fiat/)**
+
+17h ago
+
+---
+
+**[Maybe this is it!](https://www.reddit.com/r/Bitcoin/comments/1w62rcp/maybe_this_is_it/)**
+
+1h ago
+
+---
+
+**[When The Banks Don't Work, Bitcoin Does](https://www.reddit.com/r/Bitcoin/comments/1w5zx9a/when_the_banks_dont_work_bitcoin_does/)**
+
+Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. A lot of people have heard of Bitcoin but even among those who hold it, knowledge is shallow. Though for those holding the leading cryptocurrency, it appears to be solving a problem: getting around failing banking rails or inflation. That’s according to new findings from the U.S. Ivy League research university Cornell, which spoke to nearly 26,000 around the globe about Bitcoin. In its new Bitcoin Adoption Index report, the top college found that El Salvador, Venezuela and Nigeria were the countries that had the highest number of people who had ever owned bitcoin. “Ranked by the share of all respondents who have ever owned bitcoin, the leaders are not wealthy financial centers — they are economies where the national currency has been unstable and everyday access to dollars or reliable banking is hard,” the report read. “In each, bitcoin functions less as a speculative bet and more as a practical workaround.” Still, Cornell found that actually being able to explain the fundamentals of the protocol was difficult for most — including how many bitcoins would ever be minted in existence. In fact, 58% of those surveyed said they didn’t know the supply was capped at 21 million coins. But technicalities aside, the cryptocurrency has still proved helpful to people wanting to use it, the report found. One Venezuelan — who wasn’t named — told interviewers that Bitcoin was “faster, cleaner, and much less risky” than other methods of getting dollars in the country. While another Salvadoran was quoted saying: “When nobody controls [bitcoin], it means we all have control of it.” And a Nigerian interviewee reportedly told Cornell researchers: “I’ve been to six African countries and whenever I go there, I don’t fear it because I know I can spend my bitcoin.” Bitcoin adoption started growing in Venezuela ahead of other countries years ago, when hyperinflation crippled the economy and strict government currency controls meant getting dollars became difficult. El Salvador made bitcoin legal tender — along with the dollar — in 2021. The country’s leader admitted that getting its citizens to use the cryptocurrency was difficult but the Central American nation still says it buys the asset for its government coffers. In Nigeria, which has had some of the highest transaction volumes in the world, saving in bitcoin has been used by some to get around the collapse of the naira. Cornell University’s research was fielded by Morning Consult in partnership with the Tech Policy Institute in Cornell University’s Jeb E. Brooks School of Public Policy, the Cornell Bitcoin Club, the Human Rights Foundation and the Reynolds Foundation. Researchers interviewed 25,880 people in 25 countries between December 16, 2024 to March 10, 2025, asking 125 individual questions.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell) • 4h ago
+
+---
+
+**[⚡ Lightning Thursday! September 03, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1w60yjj/lightning_thursday_september_03_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+3h ago
 
 ---
 
@@ -143,67 +147,69 @@ Yeah he just posted another one. Paintball with orange paint. The enemy team is 
 
 ## Google News: "bitcoin"
 
-**[Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the 'right trade'](https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323)**
-
-Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs.
-
-The Block • 19h ago
-
----
-
 **[Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million](https://www.bloomberg.com/news/articles/2026-08-31/saylor-s-strategy-restarts-bitcoin-buying-spending-370-million)**
 
-Bloomberg.com • 2d ago
+bloomberg.com • 2d ago
 
 ---
 
-**[Strategy (MSTR) Looks Cheap As Bitcoin Buying Resumes With 4,603 More Coins](https://sg.finance.yahoo.com/news/strategy-mstr-looks-cheap-bitcoin-032741887.html)**
+**[Bitcoin price recovery narrows odds on higher 2026 targets, prediction market data shows](https://uk.finance.yahoo.com/news/bitcoin-price-recovery-narrows-odds-103200018.html)**
 
-Strategy (MSTR) has restarted Bitcoin purchases after a 10 week pause, adding 4,603 coins to reach holdings of 845,050. The move was funded by new share issuance and keeps attention on its Bitcoin centric treasury approach. Over the past month, Strategy’s stock has seen a sharp rebound, with a 30 day share price return of about 29.9%, even though the year to date share price return is down 21.6% and the 1 year total shareholder return is down 62.7%. The 3 year total shareholder return is over...
+Bitcoin was trading at $77,121 on Thursday, having clawed back much of its summer losses in a sharp August rally. The cryptocurrency gained roughly 24% during August alone, rising from around $62,600 at the start of the month to a peak of $80,797 on August 25. That rebound has reshaped...
 
-sg.finance.yahoo.com • 2h ago
-
----
-
-**[Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage](https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow)**
-
-CoinDesk • 10h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
-**[Bitcoin, XRP Flash Bearish 'Bart Simpson' Pattern: What Does It Mean?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61588654/bitcoin-xrp-flash-bearish-bart-simpson-pattern-what-does-it-mean)**
+**[Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%](https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66)**
 
-Bitcoin and XRP flash a bearish Bart Simpson pattern as analysts warn the August rally could reverse if key support levels fail.
-
-Benzinga • 10h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin dips below $77k as U.S.-Iran fighting, rate jitters weigh](https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-776k-as-usiran-fighting-rate-jitters-weigh-4885342)**
+**[Current price of Bitcoin for September 2, 2026](https://fortune.com/article/price-of-bitcoin-09-02-2026/)**
 
-investing.com • 23h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
----
-
-**[Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.](https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2)**
-
-Barron's • 1d ago
+Fortune • 23h ago
 
 ---
 
-**[Bitcoin Power Law 2026–2030: When Will BTC Permanently Clear $100,000?](https://www.tradingview.com/news/coinpedia:c7d1d6714094b:0-bitcoin-power-law-2026-2030-when-will-btc-permanently-clear-100-000/)**
+**[Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy](https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333)**
 
-Bitcoin BITSTAMP:BTCUSD today is down by 2.16% to trade at about $77,000 following extensive bond sell-offs, a hawkish Fed note, and renewed hostilities in the Middle East. While $80K remains a crucial ceiling to clear on the road to $90K, the question of when Bitcoin will permanently cross the six…
+Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.
 
-TradingView • 1d ago
+The Block • 23h ago
 
 ---
 
-**[CZ Says AI Money Is Rotating Back to Crypto as $840,000 Case Builds for Bitcoin](https://beincrypto.com/cz-ai-money-rotating-back-crypto/)**
+**[Georgian Bitcoin financier George Bachiashvili sells Miami mansion for record $51.5M; bought incomplete s](https://timesofindia.indiatimes.com/world/us/georgian-bitcoin-financier-george-bachiashvili-sells-miami-mansion-for-record-51-5m-bought-incomplete-shell-for-19m-in-2021-listed-for-55m-and-sold-in-11-days-amid-legal-saga/articleshow/133720190.cms)**
 
-CZ says hot money is rotating from AI back to crypto as River models a $840,000 Bitcoin and Glassnode flags supply.
+Georgian Bitcoin investor and financier Giorgi “George” Bachiashvili has sold his newly built mansion on Miami Beach’s guard-gated Hibiscus Island for $51.5 million, setting a record for properties on Hibiscus and Palm islands.
 
-beincrypto.com • 9h ago
+The Times of India • 13h ago
+
+---
+
+**[Bitcoin Is Suddenly Braced For A Bessent Price Shock As ‘Selling Panic’ Crash Fears Surge](https://www.forbes.com/sites/digital-assets/2026/09/02/bitcoin-is-suddenly-braced-for-a-bessent-price-shock-as-selling-panic-crash-fears-surge/)**
+
+Forbes • 1d ago
+
+---
+
+**[Strategy CEO Says 7,000 Bitcoin Sale Was 'Minuscule'](https://www.benzinga.com/crypto/cryptocurrency/26/09/61580621/strategy-ceo-says-7000-bitcoin-sale-was-minuscule)**
+
+Strategy CEO defends selling 7,000 BTC for dividends, saying it was under 1% of holdings. The company remains a flexible, net Bitcoin buyer.
+
+Benzinga • 19h ago
+
+---
+
+**[Bitcoin Slides as US-Iran Tensions Escalate](https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates)**
+
+Things are heating up between Iran and the U.S. — again — and it's hurting bitcoin's price.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -211,7 +217,7 @@ beincrypto.com • 9h ago
 
 New blockchain analysis by Bitcoin educator Bennet reveals five wallets that destroyed $8.3 million in bitcoin likely belonged to one early Mt. Gox user.
 
-Bitbo • 20h ago
+Bitbo • 1d ago
 
 ---
 
@@ -239,7 +245,7 @@ Finally, a killer use case
 
 Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE
 
-⬆️ 4 • 💬 0 • 16h ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
+⬆️ 4 • 💬 0 • 21h ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
 
 ---
 
@@ -263,7 +269,7 @@ Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28
 
 COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed phrase from a shuffled deck of playing cards on an air-gapped Raspberry Pi.
 
-⬆️ 2 • 💬 0 • 1d ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
+⬆️ 2 • 💬 0 • 2d ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
 
 ---
 
@@ -281,17 +287,17 @@ Could old coins that have not moved for years help pay Bitcoin miners without cr
 
 ---
 
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 2](https://news.ycombinator.com/item?id=49514737)**
+**[From Bitcoin Bankruptcy to Data Center Billions in West Texas](https://news.ycombinator.com/item?id=49548221)**
 
-⬆️ 1 • 💬 0 • 2d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c)
+Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.  The site is already
+
+⬆️ 1 • 💬 0 • 1h ago • [American Buildout](https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/)
 
 ---
 
-**[Btcfunkpay – A self-custodial Bitcoin payment library for Python](https://news.ycombinator.com/item?id=49475692)**
+**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 2](https://news.ycombinator.com/item?id=49514737)**
 
-Bitcoin on-chain payments library — self-custodial, no middlemen - lucarocchi/btcfunkpay
-
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/lucarocchi/btcfunkpay)
+⬆️ 1 • 💬 0 • 2d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c)
 
 ---
 
@@ -305,7 +311,7 @@ I am speaking at the Tech Summit in New Zealand on September 16th: https://techs
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 4K • 💬 145 • ⏱️ 14:45 • 9h ago
+👁️ 107K • 👍 4K • 💬 224 • ⏱️ 14:45 • 15h ago
 
 ---
 
@@ -315,7 +321,7 @@ Less leverage is piling in, the fed is trapped, and the bottom "should" happen s
 
 📺 Aaron Bennett
 
-👁️ 23K • 👍 619 • 💬 172 • ⏱️ 10:49 • 1d ago
+👁️ 24K • 👍 627 • 💬 189 • ⏱️ 10:49 • 1d ago
 
 ---
 
@@ -325,7 +331,7 @@ Crypto companies have already spent $200 million to rig the midterms. If they ge
 
 📺 More Perfect Union
 
-👁️ 289K • 👍 8K • 💬 2K • ⏱️ 10:56 • 15h ago
+👁️ 330K • 👍 8K • 💬 2K • ⏱️ 10:56 • 21h ago
 
 ---
 
@@ -335,7 +341,7 @@ To celebrate my birthday and thank you guys for 10+ years of support, we are doi
 
 📺 Crypto Crew University
 
-👁️ 23K • 👍 2K • 💬 184 • ⏱️ 11:26 • 17h ago
+👁️ 26K • 👍 2K • 💬 188 • ⏱️ 11:26 • 22h ago
 
 ---
 
@@ -345,17 +351,7 @@ Brian Vieten of Siebert explains what lead to the recent rally in Bitcoin off a 
 
 📺 Schwab Network
 
-👁️ 11K • 👍 72 • 💬 39 • ⏱️ 4:42 • 1d ago
-
----
-
-**[EU Threatens To STEAL $10 Trillion in Citizens’ Savings! Got Bitcoin?](https://www.youtube.com/watch?v=VORx69-jk5c)**
-
-Scott Bessent is publicly pushing to cap yields while new Fed Chair Kevin Warsh leans toward a hike, and the read here is that ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 1K • 💬 113 • ⏱️ 13:09 • 1d ago
+👁️ 12K • 👍 76 • 💬 66 • ⏱️ 4:42 • 1d ago
 
 ---
 
@@ -365,27 +361,27 @@ A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 114 • ⏱️ 9:17 • 1d ago
+👁️ 53K • 👍 2K • 💬 159 • ⏱️ 9:17 • 1d ago
 
 ---
 
-**[Don&#39;t Be Shaken By the Imminent Bitcoin Correction](https://www.youtube.com/watch?v=dzJPkzfuctw)**
+**[Bitcoin&#39;s New Support to Test September Volatility in Equities &amp; Commodities](https://www.youtube.com/watch?v=ADs47949oIc)**
 
-The crypto market is flashing signals most Bitcoin traders miss while panicking over noise. BTC is now the top-performing asset ...
+CharlesSchwab's Jim Ferraioli does not expect to see typical seasonal weakness in Bitcoin's price action due to its long flush and ...
 
-📺 Crypto Banter
+📺 Schwab Network
 
-👁️ 34K • 👍 1K • 💬 78 • ⏱️ 23:44 • 16h ago
+👁️ 8K • 👍 30 • ⏱️ 7:17 • 19h ago
 
 ---
 
-**[Bitcoin&#39;s Price vs. Time: Why the Power Law Is Wrong](https://www.youtube.com/watch?v=NTuyL8-8_Xw)**
+**[Protecting Yourself From Bitcoin Replay Attacks (Bitcoin Hard Fork)](https://www.youtube.com/watch?v=t8DTumfYd0w)**
 
-Bitcoin's supply is knowable. Bitcoin's price is not. Every price model that forgets the difference eventually breaks, and it takes your ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how to protect yourself from replay ...
 
-📺 Swan Bitcoin
+📺 Bitcoin University
 
-👁️ 32K • 👍 982 • 💬 248 • ⏱️ 11:57 • 2d ago
+👁️ 18K • 👍 888 • 💬 572 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -395,7 +391,17 @@ Bitcoin #Crypto #finance Bitcoin heads into September under pressure as renewed 
 
 📺 The Wolf Of All Streets
 
-👁️ 30K • 👍 857 • 💬 378 • ⏱️ 1:00:04 • 2d ago
+👁️ 30K • 👍 858 • 💬 343 • ⏱️ 1:00:04 • 2d ago
+
+---
+
+**[What Michael Saylor’s Bitcoin Buying Tells Us About Strategy And The Rest of 2026.](https://www.youtube.com/watch?v=rjg6N45NZvk)**
+
+Michael Saylor is buying Bitcoin again. Strategy bought 4603 BTC last week after a two-month pause, and the reason has almost ...
+
+📺 Dana Love, PhD
+
+👁️ 57K • 👍 886 • 💬 244 • ⏱️ 21:18 • 2d ago
 
 ---
 

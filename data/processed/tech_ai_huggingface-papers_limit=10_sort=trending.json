@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 769,
+      "upvotes": 770,
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2608.27549",
       "arxiv_url": "https://arxiv.org/abs/2608.27549",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27549.png",
-      "upvotes": 47,
+      "upvotes": 49,
       "num_comments": 2,
       "published_at": "2026-08-26T20:00:00.000Z",
       "github_repo": "https://github.com/mirros-lab/code-as-world",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-03T06:13:37.624797+00:00"
+  "fetched_at": "2026-09-03T11:32:10.869038+00:00"
 }
