@@ -5,18 +5,8 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the 'right trade'",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamhwUnpXbHhMUW14VzRVVmczb19UckZlNm82SDNJd0ZETWZzLTh0M0lsMEJLdVhVemlUYnhzU3Z3akFtWFh2ZW16bE5DR1V1cU8zSF9VTkJwdFJUWjA0MmxnSTZsdGkxVkFqSFBMR1RyRWhRZ0xWRXVnSUpWUjNyNjJFNlhvQjlyMDNLel8xX1l5UWRXMUhZYjhaelZnXzZDaTVvVjlmUDJEb0NQSmY1MWZ6akRYSVhUeUdYQmJTRzVmSUdINFNHYUFkVnREZmFFQXZlV3VHSHA?oc=5",
-      "pub_date": 1788344776.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323",
-      "image": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-      "description": "Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs."
-    },
-    {
       "headline": "Saylor\u2019s Strategy Restarts Bitcoin Buying, Spending $370 Million",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pRbWl2YXFjVl9VN3JMR1I3WHl1RXBkZ2xjMVJ4QWJiYi1pVTc3Wk5MMG1SOU5jc2E3QjhZcG4yRkg1TVNBTGFSWGVuMWFLSVNOM1RVa29tLWlHVDFOLS0wc1Q3UEJoZzJzejRBaGk5QTBjWHFVZ2pwMDdEeW15d3FGeExUdVVlNkNWU1RUZklpazV5QV9qeExUY0lUN2RWS3NkNmpMQno3d21ST2NLT2FuSQ?oc=5",
       "pub_date": 1788208119.0,
@@ -25,74 +15,84 @@
       "description": null
     },
     {
-      "headline": "Strategy (MSTR) Looks Cheap As Bitcoin Buying Resumes With 4,603 More Coins",
-      "source": "sg.finance.yahoo.com",
-      "source_url": "https://sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQem1pZkxsZ2pxMHJzMU9yd1VaM1otRDBjQTh3Rjhncm9HOUE5Y1JYZGdWd0h5ZUFTNkp6c19KMG9tc0VQTWVsaDJOQVpxbzlIektHaXZiRldaUExSbTBuSXM0UzhMS1JBajM5YVp0M0FjLUxCWll5MXVNSTlOQ2NNVTR1ZzE0aTRKdGc?oc=5",
-      "pub_date": 1788406020.0,
-      "article_url": "https://sg.finance.yahoo.com/news/strategy-mstr-looks-cheap-bitcoin-032741887.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bbeae43820b61826d97507da7830832d2475a38054322187e61c6281182fc876/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0fe4d5d105492213ce106a92b49639d4.jpg",
-      "description": "Strategy (MSTR) has restarted Bitcoin purchases after a 10 week pause, adding 4,603 coins to reach holdings of 845,050. The move was funded by new share issuance and keeps attention on its Bitcoin centric treasury approach. Over the past month, Strategy\u2019s stock has seen a sharp rebound, with a 30 day share price return of about 29.9%, even though the year to date share price return is down 21.6% and the 1 year total shareholder return is down 62.7%. The 3 year total shareholder return is over..."
+      "headline": "Bitcoin price recovery narrows odds on higher 2026 targets, prediction market data shows",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnp1WDhZVEF3SENEa0lzSEdRdFVKNi1idXA1ZDExZUpGS1VYTkg0SlJ2RTJBZHFzNTZxRm9yWVVEdHVqcGFHREhSc0IwYXhXZDF1eWxCUllWcHZodUV6MEhRbkRBc2JMTGVQRTNEOHNCWlRvNWpSRmVsNWk3UmlONTdJekNiS083V2xUcA?oc=5",
+      "pub_date": 1788431520.0,
+      "article_url": "https://uk.finance.yahoo.com/news/bitcoin-price-recovery-narrows-odds-103200018.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e05d9a4939f8687c17fcb83d84763ee6d3bc6cb2751bfc36e49d5af135202ce3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_uk_164%2Fe58f00aa5a9f3fbc2b3a9a88c8c69fde.jpg",
+      "description": "Bitcoin was trading at $77,121 on Thursday, having clawed back much of its summer losses in a sharp August rally. The cryptocurrency gained roughly 24% during August alone, rising from around $62,600 at the start of the month to a peak of $80,797 on August 25. That rebound has reshaped..."
     },
     {
-      "headline": "Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage",
+      "headline": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3hUR09tN2FSM0NLbmlWaXRkZG9zTV9ILW9wbmV3cTY2TkU2OVZrbDh1QmtHeVNqZ0hCWVFobkxsbHV2ZVFmSjNSZmQ2UHdZU2N6SG9NUE5KaXhPZmFRNHpWVEVYWjhXRHRFa2R2dTdJY1lEdkpIWl9zVVlxYXhCNU55VnhTM21zb0NXeW91NkJNamFwVy1UMXBlbHdaenBzUWdDTmlVeU95U1dSNHAwOHlfNzV1R1U?oc=5",
-      "pub_date": 1788379358.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVAtMXRVVUxnMGlNdHJHT3BkMUVKci0zZmpubVZWODZDVDhvdy0xY3pNNUpma2UxWDhjcUNTNWpaTjl1OXBWejdqXzh5OHdHbFB6VDdvZkRVVGo3c0hCYnB1NE9sTkJscWdPWHg2VThSWDJscXFtQmdkVVlJVlQ2aEQwVWJocE5hdkQ1bjhBbENPSDRxc1FFT2dIZHNhTnkxU3M2ZTVEQi1PVnJzOUJ6eE5xYi0?oc=5",
+      "pub_date": 1788409819.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin, XRP Flash Bearish 'Bart Simpson' Pattern: What Does It Mean?",
+      "headline": "Current price of Bitcoin for September 2, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XSFp5OE4wSklhMFpiYnRrdzdKbE5FZmZfaTlSWEcyeU5DdWlrbUdxamlrU3FnRmp2ZEhRUElXU0dBVU1rZG41REM4UXJmUGlnYjg0MXlqZWZMRUxiSEhwNWNOUE9ZN2c?oc=5",
+      "pub_date": 1788350400.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-02-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-2.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaEZBQVJfcUJXWlBjVklMdC05WkNyQTJ6S0J4NkZ4MmZRTGwtTnZZaGlCVU5IS2FPdlZlcFVXU2tEZnNNRkl5OFpyYzBJYVhvNC1TendGSGp3dExoM3pXMG0wMWo4dXBOOUdwOVRGOGNkYVBSZ05FZGhsVzNxTHRUeGMwQ0t4VWEyRzU1dkxURlE1LTBZWWlWRk5nd3lHQm4yNzhDZGw5bFRYcnhyelk0SjIwMUJORU9YSmdBcllUVEVwNExfYlFyUjZzQVBRZTI0QkJodUpNTzBfNHFhckJIU3FacGdGZWhyT2tZOFFiUVZmUQ?oc=5",
+      "pub_date": 1788348775.0,
+      "article_url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
+      "image": "https://www.tbstat.com/wp/uploads/2019/05/Screen-Shot-2019-05-23-at-6.44.52-PM-1200x669.png",
+      "description": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million."
+    },
+    {
+      "headline": "Georgian Bitcoin financier George Bachiashvili sells Miami mansion for record $51.5M; bought incomplete s",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOcDNRQTBXOUdoek5wa0xkSE1Kb0llYWItMXZYNWhhWUFoNXhXM3RYVE1wRU5rLVVDZ1RFMkU0ZHRyUThPZ2J4U3YxU3V1UzRfZ3NrNFNtVDFVRjhQTS1LbGU2dWFycTZzSUExVzJjQjZCSWdiYmJ4LV9xNzd6WWlOT2VEYVVmZi1BcnFqa3RRSF9pd2Z3MVlJUUd5cF9qZmZoOTZKZEJhWk1KOXVuTmdQQkw3cFA2ZldGU3oyOVhCN3BYZ3VZcVZGemc2VnZ4NTZwQmN1VG85bDlaOHFIeDU2LUdpZV9QandJS0hsNVR2VE5FSGRFeVJZa3ZoSkpNTmhVSXNmUHVOMGlTY25UTU1sOWhWYUJJeXA2NWdDRklSZlBHd2xFd3FYUmNIb3djSHlLTnk0aU5vUG11QzAxYzZ0Z0wtMDYtZm5rRjJTLW1mMUNWRmxhRUdHU3lROTVJVzl4akJv0gHoAkFVX3lxTE9mTE1WbW44TDBqaF94ZnV6aVlnX1k5V3NCbjN6SDhCWDdWWTY4WHJuQTk1eTZOVF9icXM0aUxOc2VCa0lSLXlZUXIwTXNZcFZRZ19iclJvNWswRmxydUNid3pCelhFMFpkektXaXFRQVhVbVpPMGlqSjZGdDZvTFI3ZE1QMVliM01MODNNT25ORW9wY1YyY1BERm10WjZMUG1CWEdtVHVmaW84ZHNwdV80Zm1saUI3ZmZWY3R4VTUwaWNuRml4RDNRSnk3OUtQY2FGbFVXVjhYNFFKU0Z5VDRiZnV0cGJVYjlZTWxTYktyQmhnZHdVbkJzbUpxdmVZc3pMZHdMek1yRjRJbFFham00QmxaZFhVbFAwU3RDNjA3aE5xd251c1k5NC1UQTFwM25za1luZEo3ZWRrUmZGQ3BoaUFKb1N6Tmd4Z1JNU1Fsb2xzbDhCanNxQTgzdDhNMEllUTJWTTZNdQ?oc=5",
+      "pub_date": 1788387060.0,
+      "article_url": "https://timesofindia.indiatimes.com/world/us/georgian-bitcoin-financier-george-bachiashvili-sells-miami-mansion-for-record-51-5m-bought-incomplete-shell-for-19m-in-2021-listed-for-55m-and-sold-in-11-days-amid-legal-saga/articleshow/133720190.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133721172,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "Georgian Bitcoin investor and financier Giorgi \u201cGeorge\u201d Bachiashvili has sold his newly built mansion on Miami Beach\u2019s guard-gated Hibiscus Island for $51.5 million, setting a record for properties on Hibiscus and Palm islands."
+    },
+    {
+      "headline": "Bitcoin Is Suddenly Braced For A Bessent Price Shock As \u2018Selling Panic\u2019 Crash Fears Surge",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS05vd3ZjZHJhNHZwWk9DcjlLR2lYNmhMS3U3M0dZSnp3NThOMHFMUE1ZY0tKVjVGQVQxXzgxRlRtd0ljdmRmWktzU2hxM2NrQlctUV9IMmh6R09GS0l0R1ZOajNBZ3hDenI4bnpkQXZMNGtZU1g3SlRzUVJubVRISFZ0bElCaTNVU1M4SDFsNFYwR284bW5pUXZVT0twaHFqOVRUMDZZeHl6WE1tSEtCWDNYd00xZXlHRm5TUkJtSXBRaW8tUnI3c0Rnbnp4REJsNS1vSUpISU1sVFE?oc=5",
+      "pub_date": 1788346045.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/02/bitcoin-is-suddenly-braced-for-a-bessent-price-shock-as-selling-panic-crash-fears-surge/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy CEO Says 7,000 Bitcoin Sale Was 'Minuscule'",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFllN3FMLXhQdG1tLXBJX0xtMnV5SWRtVktJZzIzQ3pPN1NxTnNJQjhyMElJSFlyNHRvTTB5NlJ3UGJEckpBbHR5dGVPUWlHWk5GeDQ3c3dDM3hkRmFLU0k1NXVMWTFwUHpibFdFYjZXQ0lmMnRqWm9fWTZHeVhZY3M4ekRIMXJsUzN5WDNaY1ItVDdYbFk3T0FHdDgycFJBbE1SR2txMjlHQXNZbGpJM0x0MDByVzJzMHZQNGFUUWt4RnJv?oc=5",
-      "pub_date": 1788379279.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61588654/bitcoin-xrp-flash-bearish-bart-simpson-pattern-what-does-it-mean",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/02/Cryptocurrency-Coins-Displaying-XRP--Sol.jpg",
-      "description": "Bitcoin and XRP flash a bearish Bart Simpson pattern as analysts warn the August rally could reverse if key support levels fail."
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0NwZEswb2lqUmwyTUlnc0RiZTUyeF81am1nU0ZfQjl1TkVYVVFSMHV0MlR1U2tCLXVmWk1aZENveHpYYXgwcF9zal9pTkNXYl9hNDFlNnBJVXlHcEVOeWRZUDFKcXJlZ3llNVlrUENucHY0SGdlYnJKUXZ2QkpMWkYxM2ItTzZkbXdIR2N6dVBDT0VxWnhDOVNKSEp0M1dIWmxHMWdyazUxYnZyUDExLQ?oc=5",
+      "pub_date": 1788363344.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61580621/strategy-ceo-says-7000-bitcoin-sale-was-minuscule",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/02/Strategy-Inc.jpg",
+      "description": "Strategy CEO defends selling 7,000 BTC for dividends, saying it was under 1% of holdings. The company remains a flexible, net Bitcoin buyer."
     },
     {
-      "headline": "Bitcoin dips below $77k as U.S.-Iran fighting, rate jitters weigh",
-      "source": "investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnR2bTdwVElDMC10ZVFRYnZWalV0eFJsaXFDLWphQ2thUk04VDFLRG9rMDB6QlNkOXVBb2xFZ1RTOWFjWGNfWDlFemxMXzFrRGc0b2tKN09hV3JkQ3YtdUJ4cExpa3VwRC1fN0FzTzA3eDMzMVhtVzZiVFJGYXlZbWQ5UGtxTl90bWpPY0lwNXc0by1sTlhfVi1Ob0JvUmp1OXZ1a25hdVNERnZfNDVTYWNSVXpoU0Jvcmc?oc=5",
-      "pub_date": 1788330092.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-776k-as-usiran-fighting-rate-jitters-weigh-4885342",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robinhood Stock Rises as Bitcoin, Coinbase, Strategy, Cryptos Fall.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkpJcmtEemNNOU5mT3pDYjZYMVlHRXl2bzNxekxDQVBCN2J2dGlEbW0tVkN4NmZ3eUZwXzVLZWJoTWo1djdTNDRCWlh6ejhubjR5cmZoUEoyOFNJV0tBNDE2NzI2dUdGa2g2X21BZmFYai1CTGtsV0JLOVNaLVM5UzRuTmNvTHYyM2lnMk80QU5EeXlqX21FdkduNlJrOGZP?oc=5",
-      "pub_date": 1788270360.0,
-      "article_url": "https://www.barrons.com/articles/robinhood-stock-upgrade-bitcoin-coinbase-strategy-cryptos-53afaef2",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Power Law 2026\u20132030: When Will BTC Permanently Clear $100,000?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelFGdENfeTFrOWg3Z3JTeXVjWUk2VnVzRklrMDJ2VnZvaFBnZUxLdkhxOXMyYVpDeUQ0SFNiNHRLdl9nRDdMbS0yeHhkRDFISWdDSl9fYWIza0pDSm1ubWFXWUc0bE9uWkw3OGFBSDhLYmQ2V0FvblM2aUhqUEJtWGJnRWRFdXdRdG1NR0JvQUFaNUVOMXlvOEZfX3ZydW9NV1VzR1pwSFo3YV9tdG9uY2w3MFp4SGg3VUQ1VDJPNGQyXzNXcHc?oc=5",
-      "pub_date": 1788306306.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:c7d1d6714094b:0-bitcoin-power-law-2026-2030-when-will-btc-permanently-clear-100-000/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin BITSTAMP:BTCUSD today is down by 2.16% to trade at about $77,000 following extensive bond sell-offs, a hawkish Fed note, and renewed hostilities in the Middle East. While $80K remains a crucial ceiling to clear on the road to $90K, the question of when Bitcoin will permanently cross the six\u2026"
-    },
-    {
-      "headline": "CZ Says AI Money Is Rotating Back to Crypto as $840,000 Case Builds for Bitcoin",
-      "source": "beincrypto.com",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVUJfX2xEbENSM0o0RGJEUVJWUGY1cEFuRlF4dTZFOUlBYW5ablRBbW8ya0lmdnlFSmJaUG9Ka2tRLTFqOFJFQ1UzeTgwZVhfS1NWRkREeFpNWUNvaHBEeE9jZGxObW8?oc=5",
-      "pub_date": 1788382560.0,
-      "article_url": "https://beincrypto.com/cz-ai-money-rotating-back-crypto/",
-      "image": "https://assets.beincrypto.com/img/DTtLTH-fo0HrPmfcfZmyt461uAM=/1200x630/smart/filters:format(jpeg):quality(82)/0faf65bffea74e42a4131cd59a6701ba",
-      "description": "CZ says hot money is rotating from AI back to crypto as River models a $840,000 Bitcoin and Glassnode flags supply."
+      "headline": "Bitcoin Slides as US-Iran Tensions Escalate",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0xMeUQ5eDdmRWlzWGw4Sm0yNF9SQUk0ejNkNGVFRU1OSDg1V0NHeHRXSXNrNG95YUdhTVNsTDAyVkpjZ2hqd1EtRGZTa013UFdKbmRCRXc2a1NDSXUya3ZXQ0xIRGczODlPNnFlR3lSb2J2MFV2M25jYVNBRXV3Mg?oc=5",
+      "pub_date": 1788298022.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics.jpg",
+      "description": "Things are heating up between Iran and the U.S. \u2014 again \u2014 and it's hurting bitcoin's price."
     },
     {
       "headline": "Bennet Research Traces Mystery Behind 107 Burned Bitcoin",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T06:13:52.867221+00:00"
+  "fetched_at": "2026-09-03T11:32:25.089715+00:00"
 }

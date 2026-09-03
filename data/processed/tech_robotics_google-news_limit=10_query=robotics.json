@@ -5,14 +5,34 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Oregon robotics company says the industry needs a reality check: \u2018I really want to pop that bubble\u2019",
-      "source": "The Daily Chronicle",
-      "source_url": "https://www.chronline.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZURwNnBpU2FoVTQxTEZIWmFRalA4R1YtQmRUZno5WFh1R1FWQldWa3RfNFhPME5zYlpYdGo4N0sxTk8zSklCMndKM2pUNVhlcWxjdi1oRUYyTlpIVFI4Rk9RR1RQTzJWUE5IRnhoSjB4ZE9idTRaSDc3Nk1CQWx2b0VZQ1Z4cEdmSXBJWFVpdk4xQndab2xKb0pIU1RyUWxGTF8takkyeWVHeVRVQUpnUktseVhxZl95RVNmV0IyLXZCS0NUZWhTNWhR?oc=5",
-      "pub_date": 1788190951.0,
-      "article_url": "https://www.chronline.com/stories/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that,407333",
-      "image": "https://cdn3.creativecirclemedia.com/lafromboise/original/20260831-084215-ca5-20260831-AMX-US-NEWS-OREGON-ROBOTICS-COMPANY-SAYS-INDUSTRY-1-PO.jpg",
-      "description": "The internet is full of videos of robots running races, doing backflips, dancing and playing soccer.   Doing real work, though? Jonathan Hurst says that\u2019s harder than it looks.   He\u2019s  &hellip;"
+      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
+      "pub_date": 1788387849.0,
+      "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
+    },
+    {
+      "headline": "How Google taught LLMs to control robots and started a robotics boom",
+      "source": "understandingai.org",
+      "source_url": "https://www.understandingai.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BT2llYVN6M0xKSGFvS3p1LUtqQVE0bnpPQ2lFN1NYYVJiSEhTblpobURidU9ScldLLTl3cFc3TDk4cFFhLTQtRWNqMmNwaXUzWVl3VmVodlc2OThvR1BLYVNBU3FLTXRhbTdKdEVFRkdjS3dWVUE?oc=5",
+      "pub_date": 1788366269.0,
+      "article_url": "https://www.understandingai.org/p/how-google-taught-llms-to-control",
+      "image": "https://substackcdn.com/image/fetch/$s_!HI4l!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1acfdfbd-a8e8-4c21-b0cd-47ec3cda58b8_2880x1620.webp",
+      "description": "Vision-language-action models, explained with a minimum of math and jargon."
+    },
+    {
+      "headline": "Atascadero robotics team makes it to FIRST World Championship",
+      "source": "KSBY News",
+      "source_url": "https://www.ksby.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlhuNEFQXzlFX19QMEdGWU50WXFUZjNYam16QkUxYjJHQl84UHFEMUN0Wk52ZEpXMERvMEoyZ1A3ZnJvZUxRTHk5Q0dZaW5idGdjZTZrRDZlbGRRUm1tWFNaUUVQdko0WGw4NUYzc1hNYWsxRE92UEFreS1jVDAxSk9CSGVJS3VRUFNZUFdwNERjd1ZORWtaSg?oc=5",
+      "pub_date": 1788374972.0,
+      "article_url": "https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/39497e4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2Fcf%2Fef19f31642b6a5db3992713076ab%2Fatas-robotics-team.jpg",
+      "description": "At The Greybots\u2019 build space in Atascadero, you\u2019ll find Dustbowl \u2014 the robot that helped the student\u2011run robotics team qualify for the FIRST World Championship in Houston, Texas."
     },
     {
       "headline": "Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World",
@@ -25,14 +45,34 @@
       "description": null
     },
     {
-      "headline": "Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI",
-      "source": "calcalistech.com",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVjRhZi1ZcFhBVFA5aXhnbWFIOGpTUDRrRVdONVBjZGF1SEZlZE5ab1hJOGM5WEJOajlXZUt4QnAtZ1NuZnIzVHNnMk5LcGlYR1luUW1xbnRMU2xzWkZTR0ZNZklsVHM?oc=5",
-      "pub_date": 1788351900.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/4dsejsrni",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2019/12/17/WQMJ0DK1G/WQMJ0DK1G_0_0_490_276_0_large.jpg",
-      "description": "The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world."
+      "headline": "Medtronic invests $700M in Cornerstone Robotics",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNzZDMDdtcTZRcWFXT00yMUw3bFJucTREeTlBRjBCcXFHM2xobTctM09VMUVTUlYzNV9saEpTTlh3T0tWd3ltY2pROGdtUHE2UFktNi1jV1ZfY3hSakZITjNKMG43RnMtSkNkUE5raFp2ME9td2tabG1vTU54ckNZWFNnSUUtYVd3ZF9OS3FHMDE?oc=5",
+      "pub_date": 1788357923.0,
+      "article_url": "https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/",
+      "image": "https://imgproxy.divecdn.com/_p4B9rW_Jv5W5LlQTr9Ok2fL4kEEvvFx5KnT7Qmg_Bw/g:nowe:1:59/c:1425:805/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRV9QUkVFRVMuanBn.webp",
+      "description": "Medtronic will gain rights to distribute the Hong Kong-based company\u2019s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system."
+    },
+    {
+      "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
+      "pub_date": 1788427800.0,
+      "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Video: Students push humanoid robots beyond walking with flips and more",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVI2WEJuWHQ3WkxIODRSazVjWGNCRWNUWmhOdVVWOWR4cUlvS2hCNGd1U0JQYlMyUHdLTXMtbFl0aTFkaV80ZDNDOGJmNWdDX0RUYjl5WTBIR084UGR1RUFnT0lPUU5rUWtFUEU2cnBrejJlN0RMdTRsSFdIczV4TVlnN1JTUQ?oc=5",
+      "pub_date": 1788371700.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-learn-new-tricks",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-34.jpg",
+      "description": "ROBOTIS\u2019 OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing."
     },
     {
       "headline": "EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign",
@@ -46,43 +86,13 @@
     },
     {
       "headline": "Aitan announces new financing round led by Deep33, Dell Technologies Capital",
-      "source": "The Jerusalem Post",
+      "source": "jpost.com",
       "source_url": "https://www.jpost.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hclJFSldzMkk4VnpYV3VLLXZaekdwODRoLWoxbUdaNnVnaVBHRWQ4RjJWREdadXBSUnIzNFNwLVFkZmI3b0pjOWtqMC04TVlOdHRzbk9RaTM2T01fQ1dKSUotZw?oc=5",
       "pub_date": 1788349316.0,
       "article_url": "https://www.jpost.com/defense-and-tech/article-907332",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736197",
       "description": "Aitan develops edge\u2011AI robotic weapon systems engineered for the operational realities of modern conflict and aims to accelerate its international growth with the new funding."
-    },
-    {
-      "headline": "Video: New robot platform unites wheeled, off-road and legged mobility in one system",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHZ5VGRIS09ydk1DYmRZWEdNMWt5ZUVPcTF6N2l4WWowMWRZbE91Q1B0OWZ0eVZkWlFCWUx5WTluaVNzdEsyRmZHNldGejhNbkphZm1ZMFNVRWlLbEZEYjlQWWQwMi03X2VpZnlodnllYjNSaVltcGppT3FnY1lSakZMMkFNOUV6RHlISDluajBRR3RPcENLeXVhMFNuZEplMDloZ19qU0dHWVR0elMzWEpmczFxYXdkZ3Y1LU1ENjktRUFwNkNoeA?oc=5",
-      "pub_date": 1788356280.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/video-new-robot-platform-unites-wheeled-off-road-and-legged-mobility-in-one-system",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-33.jpg",
-      "description": "Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain."
-    },
-    {
-      "headline": "\ud83c\udfa5 Orchard Robotics CEO: Growers \u2018shouldn\u2019t have to be data analysts\u2019",
-      "source": "AgFunderNews",
-      "source_url": "https://agfundernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEJvTzU0clVvQ28zbHhPOG5idVd4aW1nWDdlTDF0aEJrWWEtZ05VVnYyYTZDODdvZW1sdUNDcUJGYzRDeHVWYTN3T1JKNDNveklMX1hGTDJBeGMxNU94dmRJcDZPQ2c3N3NYQkRwdzZJSll5Y3RVYXNMQ0V4T1puYVBPWC1oalczMHIydGVsdkgtZm82cFhRa21KT0NlUF8yMVE?oc=5",
-      "pub_date": 1788332410.0,
-      "article_url": "https://agfundernews.com/%F0%9F%8E%A5-orchard-robotics-ceo-growers-shouldnt-have-to-be-data-analysts",
-      "image": "https://agfundernews.com/wp-content/uploads/2026/08/Charlie-Wu-founder-CEO-Orchard-Robotics-Image-credit-Elaine-Watson.jpg",
-      "description": "Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu."
-    },
-    {
-      "headline": "Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1g3b0hfVjlXWk9GZVJ3ZVUxWE4tQWkxc0N1bmV3RW1fbFpiRXgySWIzMEtMOXZTbGN4TlFFXzZDdDdmdXpXU3paOHRZTFhlaWZKTWVReWpEeU9Sc3NsVWs0MVFqR09nQ2MxNXU1N3h3MkJNSHptYWV5WDBObk9VLThIUWpyMi1fZ1BlQ3otc2Z5TkNjMm1pSlI3dHJwNlZF?oc=5",
-      "pub_date": 1788295116.0,
-      "article_url": "https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics",
-      "image": null,
-      "description": null
     },
     {
       "headline": "New robotic technology helps local surgeons repair 14-year-old\u2019s heart",
@@ -93,18 +103,8 @@
       "article_url": "https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/",
       "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/09/9126-Nicklaus-Childrens-Hospital-Robotic-Surgery.png",
       "description": "SOUTHWEST MIAMI-DADE, FLA. (WSVN) - Doctors from Nicklaus Children\u2019s Hospital and Baptist Health Miami helped make medical history with the help of a robot that<a class=\"excerpt-read-more\" href=\"https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/\">Read More</a>"
-    },
-    {
-      "headline": "Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZkLXhURGZnYUh0bUlyUTJ3NW90SVY1VUxNbHdsMEs0UzhkeWFjZDFiYzluR0w5Q3Jqa2xqajQyQS1uNlozNkNWcng5TUhhOTRhTUprSWtMUjJfUmlOV2FuNDJuT3dWRlJCMkF5eVhFY1FCUm1RVFRxa29EVnBLVjNqZDAxY2piX1FpMDhGR2VJR25rWU4wTElCTnJVRTA2VkE?oc=5",
-      "pub_date": 1788188100.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-vs-symbotic-robotics-145500340.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/3731d687e96b08e1d82f8c16eeba2a81339816c26707b912179dae81fcb99206/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F8e07a6405c19010c3d9ed64837fcb71a.jpg",
-      "description": "SERV and SYM are taking different paths in robotics and automation, but which stock offers the more compelling investment case for investors now?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T06:13:54.780742+00:00"
+  "fetched_at": "2026-09-03T11:32:25.014825+00:00"
 }
