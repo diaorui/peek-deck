@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-02T23:07:43.272599+00:00'
+updated: '2026-09-03T01:18:37.658952+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 02, 2026 at 23:07 UTC  
+**Last Updated:** September 03, 2026 at 01:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,39 +108,29 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
-
-On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
-
-TechCrunch • 43m ago
-
----
-
-**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
-
-The country is using its superpower of scaling and building supply chains to challenge the global industry
-
-Financial Times • 1d ago
-
----
-
 **[Exclusive: Aitan, battle-tested by IDF, raises $41 million](https://www.axios.com/2026/09/02/aitan-israel-stealth-raise-robotics-dell)**
 
-Axios • 12h ago
+Axios • 14h ago
 
 ---
 
 **[Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World](https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World)**
 
-Business Wire • 10h ago
+Business Wire • 12h ago
 
 ---
 
-**[Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI](https://www.calcalistech.com/ctechnews/article/4dsejsrni)**
+**[Atascadero robotics team makes it to FIRST World Championship](https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship)**
 
-The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world.
+At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
 
-calcalistech.com • 10h ago
+KSBY News • 6h ago
+
+---
+
+**[Robots for rural schools? Minnesota State University, Mankato program hopes to boost STEM](https://www.startribune.com/robots-for-rural-schools-minnesota-state-university-mankato-program-hopes-to-boost-stem/601882836)**
+
+Star Tribune • 1d ago
 
 ---
 
@@ -152,19 +142,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Video: New robot platform unites wheeled, off-road and legged mobility in one system](https://interestingengineering.com/ai-robotics/video-new-robot-platform-unites-wheeled-off-road-and-legged-mobility-in-one-system)**
-
-Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain.
-
-Interesting Engineering • 9h ago
-
----
-
 **[Two underwater vehicles are working in two U.S. offshore markets for Nauticus Robotics](https://www.stocktitan.net/news/KITT/nauticus-robotics-inc-announces-substantially-stronger-q3-offshore-zogt6omhmztt.html)**
 
 One system supports offshore wind development in the Northeast while the other inspects a Gulf Coast platform; bids also cover U.S. and international projects.
 
-stocktitan.net • 1d ago
+Stock Titan • 1d ago
 
 ---
 
@@ -172,15 +154,29 @@ stocktitan.net • 1d ago
 
 Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu.
 
-agfundernews.com • 16h ago
+AgFunderNews • 18h ago
 
 ---
 
-**[HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption](https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/)**
+**[Video: Students push humanoid robots beyond walking with flips and more](https://interestingengineering.com/ai-robotics/humanoid-robots-learn-new-tricks)**
 
-The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect with local suppliers.
+ROBOTIS’ OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing.
 
-therobotreport.com • 1d ago
+Interesting Engineering • 7h ago
+
+---
+
+**[Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)](https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics)**
+
+Seeking Alpha • 1d ago
+
+---
+
+**[China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)**
+
+Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games.
+
+The Verge • 3d ago
 
 ---
 
@@ -194,7 +190,7 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 108K • 👍 787 • 💬 82 • ⏱️ 7:51 • 6d ago
+👁️ 109K • 👍 788 • 💬 83 • ⏱️ 7:51 • 6d ago
 
 ---
 
@@ -204,7 +200,7 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 190K • 👍 1K • 💬 51 • ⏱️ 0:17 • 5d ago
+👁️ 192K • 👍 1K • 💬 51 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -214,7 +210,17 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 65K • 👍 333 • 💬 32 • ⏱️ 1:49 • 3d ago
+👁️ 66K • 👍 334 • 💬 33 • ⏱️ 1:49 • 3d ago
+
+---
+
+**[Hilarious Falls and Fails at World Robotics Games 2026](https://www.youtube.com/watch?v=gA96zHCyUvU)**
+
+Hilarious Falls and Fails at World Robotics Games 2026.
+
+📺 Chris Wabs
+
+👁️ 12K • 👍 104 • 💬 18 • ⏱️ 11:03 • 4d ago
 
 ---
 
@@ -224,7 +230,7 @@ A robot accidentally launched a trash bag into the wrong car, but the innocent g
 
 📺 Tum Tum
 
-👁️ 337K • 👍 1K • 💬 2 • ⏱️ 0:16 • 4d ago
+👁️ 338K • 👍 1K • 💬 2 • ⏱️ 0:16 • 4d ago
 
 ---
 
@@ -234,7 +240,27 @@ These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling 
 
 📺 NBC News
 
-👁️ 35K • 👍 220 • 💬 90 • ⏱️ 6:47 • 4d ago
+👁️ 36K • 👍 220 • 💬 90 • ⏱️ 6:47 • 5d ago
+
+---
+
+**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
+
+Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
+
+📺 Carros Show
+
+👁️ 120K • 👍 850 • 💬 68 • ⏱️ 1:04:00 • 6d ago
+
+---
+
+**[the Robot Olympics were a Disaster](https://www.youtube.com/watch?v=DZV4BSo6gMc)**
+
+today i checked in on the robot getting destroy at stuff like the robot olympics, they have just obliterating these guys over there, ...
+
+📺 Kwite
+
+👁️ 311K • 👍 10K • 💬 983 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -248,41 +274,13 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 ---
 
-**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
-
-Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
-
-📺 Carros Show
-
-👁️ 119K • 👍 842 • 💬 67 • ⏱️ 1:04:00 • 6d ago
-
----
-
 **[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
 From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
 📺 fastwit
 
-👁️ 578K • 👍 6K • 💬 14 • ⏱️ 1:01 • 4d ago
-
----
-
-**[The World&#39;s Fastest humanoid Robot Tried To Sprint!](https://www.youtube.com/watch?v=TNUtJCRf714)**
-
-A humanoid robot takes on the 100-meter dash track at the World Humanoid Robot Games! Watch this incredible display of ...
-
-📺 NeuraX
-
-👁️ 41K • 💬 15 • ⏱️ 0:12 • 4d ago
-
----
-
-**[DO MEN PREFER WOMEN 🙋🏻‍♀️ VS DO MEN PREFER ROBOTS 🤖 #fyp #robots #ai #men #dating](https://www.youtube.com/watch?v=MBio5j3Xd68)**
-
-📺 phoebeisginger
-
-👁️ 427K • 👍 27K • 💬 2K • ⏱️ 1:07 • 3d ago
+👁️ 590K • 👍 6K • 💬 14 • ⏱️ 1:01 • 4d ago
 
 ---
 
