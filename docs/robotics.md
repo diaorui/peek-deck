@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-03T06:14:00.402150+00:00'
+updated: '2026-09-03T11:32:27.842718+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 03, 2026 at 06:14 UTC  
+**Last Updated:** September 03, 2026 at 11:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Interested in implementing indoor positioning for your robot - one of the new me
 
 This was surprisingly easy to do. If you have a Unitree G1 Edu version off course. Done with a driving video fed into their motion generation software. Then trained for 5 hours , then 1 click deployment onto the robot
 
-2d ago
+3d ago
 
 ---
 
@@ -108,25 +108,55 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Oregon robotics company says the industry needs a reality check: ‘I really want to pop that bubble’](https://www.chronline.com/stories/oregon-robotics-company-says-the-industry-needs-a-reality-check-i-really-want-to-pop-that,407333)**
+**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
 
-The internet is full of videos of robots running races, doing backflips, dancing and playing soccer.   Doing real work, though? Jonathan Hurst says that’s harder than it looks.   He’s  &hellip;
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 
-The Daily Chronicle • 2d ago
+TechCrunch • 13h ago
+
+---
+
+**[How Google taught LLMs to control robots and started a robotics boom](https://www.understandingai.org/p/how-google-taught-llms-to-control)**
+
+Vision-language-action models, explained with a minimum of math and jargon.
+
+understandingai.org • 19h ago
+
+---
+
+**[Atascadero robotics team makes it to FIRST World Championship](https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship)**
+
+At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
+
+KSBY News • 16h ago
 
 ---
 
 **[Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World](https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World)**
 
-Business Wire • 17h ago
+Business Wire • 22h ago
 
 ---
 
-**[Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI](https://www.calcalistech.com/ctechnews/article/4dsejsrni)**
+**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
 
-The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world.
+Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
 
-calcalistech.com • 17h ago
+MedTech Dive • 21h ago
+
+---
+
+**[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
+
+WSJ • 2h ago
+
+---
+
+**[Video: Students push humanoid robots beyond walking with flips and more](https://interestingengineering.com/ai-robotics/humanoid-robots-learn-new-tricks)**
+
+ROBOTIS’ OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing.
+
+Interesting Engineering • 17h ago
 
 ---
 
@@ -134,7 +164,7 @@ calcalistech.com • 17h ago
 
 Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
 
-Yahoo • 1h ago
+Yahoo • 6h ago
 
 ---
 
@@ -142,29 +172,7 @@ Yahoo • 1h ago
 
 Aitan develops edge‑AI robotic weapon systems engineered for the operational realities of modern conflict and aims to accelerate its international growth with the new funding.
 
-The Jerusalem Post • 18h ago
-
----
-
-**[Video: New robot platform unites wheeled, off-road and legged mobility in one system](https://interestingengineering.com/ai-robotics/video-new-robot-platform-unites-wheeled-off-road-and-legged-mobility-in-one-system)**
-
-Galileo X combines wheeled, off-road, and legged robot capabilities in one platform, enabling mobility across diverse terrain.
-
-Interesting Engineering • 16h ago
-
----
-
-**[🎥 Orchard Robotics CEO: Growers ‘shouldn’t have to be data analysts’](https://agfundernews.com/%F0%9F%8E%A5-orchard-robotics-ceo-growers-shouldnt-have-to-be-data-analysts)**
-
-Data is only useful if it can generate both insights and action, says Orchard Robotics founder and CEO Charlie Wu.
-
-AgFunderNews • 23h ago
-
----
-
-**[Enovis drops 17% on binding offer to acquire eCential Robotics (ENOV:NYSE)](https://seekingalpha.com/news/4639209-enovis-drops-17-on-binding-offer-to-acquire-ecential-robotics)**
-
-Seeking Alpha • 1d ago
+jpost.com • 23h ago
 
 ---
 
@@ -173,14 +181,6 @@ Seeking Alpha • 1d ago
 SOUTHWEST MIAMI-DADE, FLA. (WSVN) - Doctors from Nicklaus Children’s Hospital and Baptist Health Miami helped make medical history with the help of a robot that<a class="excerpt-read-more" href="https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/">Read More</a>
 
 WSVN • 1d ago
-
----
-
-**[Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-vs-symbotic-robotics-145500340.html)**
-
-SERV and SYM are taking different paths in robotics and automation, but which stock offers the more compelling investment case for investors now?
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -194,17 +194,17 @@ Hugging Face unveiled MicroDuck, the company's new open-source robot that can wa
 
 📺 Bloomberg Tech
 
-👁️ 109K • 👍 790 • 💬 84 • ⏱️ 7:51 • 6d ago
+👁️ 110K • 👍 796 • 💬 87 • ⏱️ 7:51 • 6d ago
 
 ---
 
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
 
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
 
-📺 China.org.cn
+📺 Associated Press
 
-👁️ 195K • 👍 1K • 💬 56 • ⏱️ 0:17 • 6d ago
+👁️ 108K • 👍 2K • 💬 758 • ⏱️ 1:39 • 1d ago
 
 ---
 
@@ -214,27 +214,47 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 67K • 👍 338 • 💬 33 • ⏱️ 1:49 • 3d ago
+👁️ 69K • 👍 344 • 💬 34 • ⏱️ 1:49 • 3d ago
 
 ---
 
-**[The World&#39;s Fastest humanoid Robot Tried To Sprint!](https://www.youtube.com/watch?v=TNUtJCRf714)**
+**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=0fBO1pVjxeg)**
 
-A humanoid robot takes on the 100-meter dash track at the World Humanoid Robot Games! Watch this incredible display of ...
+(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
 
-📺 NeuraX
+📺 AP Archive
 
-👁️ 42K • 💬 15 • ⏱️ 0:12 • 4d ago
+👁️ 103K • 👍 326 • 💬 131 • ⏱️ 0:56 • 3d ago
 
 ---
 
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
 
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
 
-📺 Carros Show
+📺 China.org.cn
 
-👁️ 34K • 👍 245 • 💬 35 • ⏱️ 19:36 • 2d ago
+👁️ 198K • 👍 1K • 💬 57 • ⏱️ 0:17 • 6d ago
+
+---
+
+**[Expect to See a Lot More Humanoid Robots Soon: Barclays](https://www.youtube.com/watch?v=IWv7_jbQK6M)**
+
+Humanoid robots are moving out of the lab and into the real world, with deployments expected to surge in the years ahead.
+
+📺 Bloomberg Tech
+
+👁️ 28K • 👍 223 • 💬 61 • ⏱️ 5:41 • 17h ago
+
+---
+
+**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
+
+A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
+
+📺 Tum Tum
+
+👁️ 346K • 👍 1K • 💬 2 • ⏱️ 0:16 • 4d ago
 
 ---
 
@@ -244,7 +264,17 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 
 📺 AP Archive
 
-👁️ 116K • 👍 311 • 💬 199 • ⏱️ 0:53 • 3d ago
+👁️ 118K • 👍 314 • 💬 199 • ⏱️ 0:53 • 3d ago
+
+---
+
+**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
+
+Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
+
+📺 Carros Show
+
+👁️ 125K • 👍 866 • 💬 71 • ⏱️ 1:04:00 • 6d ago
 
 ---
 
@@ -255,36 +285,6 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 📺 BeMyWay
 
 👁️ 66K • 💬 45 • ⏱️ 0:57 • 4d ago
-
----
-
-**[First Apple Robot Coming in 2026: Cooking, Cleaning &amp; Laundry](https://www.youtube.com/watch?v=5Z50g3KtS0k)**
-
-Apple's first home robot concept explores a new generation of smart household technology designed to assist with everyday ...
-
-📺 Carros Show
-
-👁️ 123K • 👍 856 • 💬 68 • ⏱️ 1:04:00 • 6d ago
-
----
-
-**[the Robot Olympics were a Disaster](https://www.youtube.com/watch?v=DZV4BSo6gMc)**
-
-today i checked in on the robot getting destroy at stuff like the robot olympics, they have just obliterating these guys over there, ...
-
-📺 Kwite
-
-👁️ 313K • 👍 10K • 💬 989 • ⏱️ 14:26 • 6d ago
-
----
-
-**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
-
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
-
-📺 NBC News
-
-👁️ 36K • 👍 227 • 💬 90 • ⏱️ 6:47 • 5d ago
 
 ---
 

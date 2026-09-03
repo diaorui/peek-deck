@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-03T06:14:00.399946+00:00'
+updated: '2026-09-03T11:32:27.839458+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 03, 2026 at 06:14 UTC  
+**Last Updated:** September 03, 2026 at 11:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
+**24h:** +1.1%  
 **7d:** -1.6%  
-**30d:** +25.8%  
-**90d:** +53.0%  
+**30d:** +25.9%  
+**90d:** +53.1%  
 **1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.89B
+**Market Cap:** $293.32B
 Rank #2
 
 **Circulating Supply:** 122,015,122 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.4%
 
 **All-Time Low:** $0.43
-+554370.3%
++555146.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 18h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 23h ago
 
 ---
 
@@ -150,19 +150,17 @@ I run a pipeline that enriches crypto wallet addresses with the kind of labels y
 
 ## Google News: "ethereum"
 
-**[Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury](https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only)**
+**[Ethereum Will Hit $6,000 as CLARITY Act ‘Supercharges’ Wall Street Demand, Says Tom Lee](https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-6-000-clarity-201202953.html)**
 
-The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.
+Tom Lee said Ethereum could reach $6,000 if Bitcoin climbs to $150,000 and the ETH/BTC ratio rises to 0.04. The BitMine chairman believes the CLARITY ...
 
-decrypt.co • 8h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html)**
+**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
 
-Bitcoin opened at $77,395.89 on Wednesday, September 2, 2026, 1.5% lower than Tuesday's opening price. As of 7:13 a.m. ET, bitcoin moved down to $76,597.13. Ethereum opened at $2,417.66 today, down 2.0% from Tuesday's opening price. Ethereum fell further this morning to $2,373.76 as of 7:13 a.m. ET.
-
-Yahoo Finance • 18h ago
+Forbes • 31m ago
 
 ---
 
@@ -170,23 +168,7 @@ Yahoo Finance • 18h ago
 
 Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
 
-TradingView • 19h ago
-
----
-
-**[Post-Quantum Ethereum Signatures Now 6.6× Cheaper at 1.23M Gas](https://blockchain.news/news/post-quantum-signatures-ethereum-cheaper)**
-
-Ethereum post-quantum signatures using ML-DSA-44 now cost 1.23M gas, 6.6× less than prior benchmarks, marking progress in quantum-safe blockchain tech.
-
-blockchain.news • 5h ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-btc-ethereum-and-xrp-prices-crashing-today/)**
-
-Bitcoin has slipped to $76,926.53, down 2.2% over the past day, pulling Ethereum and XRP lower with it after US forces struck Iranian targets near the
-
-Coinpedia • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -194,7 +176,15 @@ Coinpedia • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 23h ago
+
+---
+
+**[Post-Quantum Ethereum Signatures Now 6.6× Cheaper at 1.23M Gas](https://blockchain.news/news/post-quantum-signatures-ethereum-cheaper)**
+
+Ethereum post-quantum signatures using ML-DSA-44 now cost 1.23M gas, 6.6× less than prior benchmarks, marking progress in quantum-safe blockchain tech.
+
+blockchain.news • 11h ago
 
 ---
 
@@ -202,23 +192,29 @@ Fortune • 18h ago
 
 The Ethereum layer 2 stopped deposits and warned that exit routes differ before its network and explorer shut down.
 
-CryptoSlate • 5h ago
+CryptoSlate • 10h ago
 
 ---
 
-**[Bitcoin, XRP, Dogecoin Gain; Ethereum Dips as Jobs Data Trims Rate Hike Odds: Correction Not Lessening A](https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite)**
+**[Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans](https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt)**
 
-The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike.
+Russia's largest bank Sberbank expects crypto trading to take off once the country's new digital asset rules take effect.
 
-Benzinga • 4h ago
+Decrypt • 2d ago
 
 ---
 
-**[Coinbase offers crypto derivatives to eligible Canadian investors](https://cryptobriefing.com/coinbase-offers-crypto-derivatives-to-eligible-canadian-investors/)**
+**[Roundtable 100 analysts rank Bitcoin lower than Ether, Solana, and HYPE](https://www.thestreet.com/crypto/markets/roundtable-100-analysts-rank-bitcoin-lower-than-ether-solana-and-hype)**
 
-Coinbase offers crypto derivatives to Canadian investors. Ethereum reaching $10,000 by December 31, 2026 at 1.6% YES.
+thestreet.com • 17h ago
 
-Crypto Briefing • 16h ago
+---
+
+**[Bitcoin, Ethereum Fall As Trump Warns Iran Of A Bigger Attack](https://www.benzinga.com/crypto/cryptocurrency/26/09/61559022/bitcoin-ethereum-fall-as-trump-warns-iran-of-a-bigger-attack)**
+
+Bitcoin and Ethereum fall as Trump orders strikes near the Strait of Hormuz, sending oil and yields higher and reviving risk-off pressure.
+
+Benzinga • 1d ago
 
 ---
 
@@ -240,17 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 337 • 💬 26 • ⏱️ 11:39 • 12h ago
-
----
-
-**[BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9IT8Wzf03LA)**
-
-BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 141 • 💬 155 • ⏱️ 16:13 • 3h ago
+👁️ 25K • 👍 385 • 💬 30 • ⏱️ 11:39 • 17h ago
 
 ---
 
@@ -260,17 +246,17 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 9K • 👍 217 • 💬 109 • ⏱️ 8:53 • 15h ago
+👁️ 11K • 👍 248 • 💬 175 • ⏱️ 8:53 • 21h ago
 
 ---
 
-**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
+**[It&#39;s Crypto Bull Season XRP &amp; Ethereum Are Set For Greatness Bitcoin Is Pushing To $150,000 A Coin](https://www.youtube.com/watch?v=4ygF8DYbbto)**
 
-Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
+Well, we've officially made it. It's now the time of year where everything is meant to take off into the stratosphere. The CLARITY act ...
 
-📺 ETHGlobal
+📺 The Modern Investor
 
-👁️ 320 • 👍 6 • 💬 1 • ⏱️ 33:36 • 2h ago
+👁️ 750 • 👍 334 • 💬 320 • ⏱️ 30:15 • 2h ago
 
 ---
 
@@ -280,7 +266,27 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 892 • 💬 793 • ⏱️ 31:53 • 20h ago
+👁️ 14K • 👍 899 • 💬 673 • ⏱️ 31:53 • 1d ago
+
+---
+
+**[BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9IT8Wzf03LA)**
+
+BITCOIN WARNING: THE PULLBACK IS NOT OVER (yet).... | Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 225 • 💬 438 • ⏱️ 16:13 • 8h ago
+
+---
+
+**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
+
+Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
+
+📺 ETHGlobal
+
+👁️ 388 • 👍 6 • 💬 1 • ⏱️ 33:36 • 7h ago
 
 ---
 
@@ -290,17 +296,7 @@ Bitmine Chair Tom Lee discusses why he landed on owning 5% of Ethereum — and w
 
 📺 Coinage
 
-👁️ 674 • 👍 10 • ⏱️ 1:03 • 15h ago
-
----
-
-**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
-
-Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
-
-📺 Koenz Trading
-
-👁️ 2K • 👍 61 • 💬 8 • ⏱️ 1:55 • 1d ago
+👁️ 901 • 👍 12 • ⏱️ 1:03 • 20h ago
 
 ---
 
@@ -310,27 +306,27 @@ Latest Bitcoin, Ethereum, Solana, TAO News TRADE on WEEX - WIN THE AMALFI COAST 
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 2K • 💬 88 • ⏱️ 9:05 • 2d ago
+👁️ 60K • 👍 2K • 💬 87 • ⏱️ 9:05 • 2d ago
 
 ---
 
-**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading @Ashutosh_kumar_live](https://www.youtube.com/watch?v=DD5GBYLwnZ0)**
+**[ETH: Elliott Wave Analysis Price Prediction | 1hr | Ethereum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=KqBCi8WuVLM)**
 
-LIVE GOLD TRADING | XAUUSD LIVE | BTCUSD LIVE | Crypto & Forex Trading* Welcome to *Trade With Ashutosh Kumar*.
+Check out WaveCharts — it's completely FREE: https://www.wavecharts.app/ ➡️ Think TradingView, but built specifically for ...
 
-📺 Ashutosh Kumar
+📺 Koenz Trading
 
-👁️ 7K • 👍 589 • 3h ago
+👁️ 2K • 👍 62 • 💬 9 • ⏱️ 1:55 • 1d ago
 
 ---
 
-**[Why Ethereum Will Outperform Bitcoin, Solana &amp; Other Cryptos](https://www.youtube.com/watch?v=gbR7VnQZI9Y)**
+**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=j5hs78mWEOo)**
 
-I strongly believe we're heading into an Ethereum-dominated bull run. My view is that pretty much everything loses to Ethereum ...
+BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Archie
+📺 Crypto World
 
-👁️ 2K • 👍 51 • ⏱️ 1:12 • 1d ago
+👁️ 15K • 👍 310 • 💬 737 • ⏱️ 18:58 • 1d ago
 
 ---
 
