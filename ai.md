@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-03T21:49:45.450972+00:00'
+updated: '2026-09-03T23:49:05.212437+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 03, 2026 at 21:49 UTC  
+**Last Updated:** September 03, 2026 at 23:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Clément Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the "Switzerland of AI," Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC
 
-🔗 [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) • 8h ago
-
----
-
-**[NVIDIA's PAIR beta routes local AI work across PCs](https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/)**
-
-NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/
-
-2h ago
+🔗 [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) • 10h ago
 
 ---
 
@@ -57,15 +49,15 @@ NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on 
 
 On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/ai-platform-outages-cloud-infrastructure-vulnerabilities-1808572) • 1h ago
+🔗 [Tech Times UK](https://www.techtimes.co.uk/ai-platform-outages-cloud-infrastructure-vulnerabilities-1808572) • 3h ago
 
 ---
 
-**[Top 3 frontier labs seem to be down right now. Ever seen this before?](https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/)**
+**[NVIDIA's PAIR beta routes local AI work across PCs](https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/)**
 
-Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?
+NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/
 
-6h ago
+4h ago
 
 ---
 
@@ -73,7 +65,15 @@ Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?
 
 Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then what will the AI world be like when people have to pay for to bare minimum AI service with ads or even pay with no ads? Like pretty much paying $8 for regular basic ChatGPT.
 
-4h ago
+6h ago
+
+---
+
+**[Top 3 frontier labs seem to be down right now. Ever seen this before?](https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/)**
+
+Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?
+
+8h ago
 
 ---
 
@@ -81,7 +81,15 @@ Just a regular smeggular person here asking a question. AI is everywhere now, bu
 
 I’ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn’t really thought about: National data centre projects are consolidating America’s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there’s a weird contradiction: Local data centre ≠ local AI stack. You can have: local data centre → NVIDIA GPUs → proprietary software → foreign models/tools → foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There’s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I’m wondering whether “on-prem” has become too easy a synonym for “sovereign AI.” At the enterprise level, there are already very different approaches emerging — HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?
 
-7h ago
+9h ago
+
+---
+
+**[Are AI assistants becoming too good at agreeing with us?](https://www.reddit.com/r/artificial/comments/1w6nngy/are_ai_assistants_becoming_too_good_at_agreeing/)**
+
+One thing I’ve noticed with modern AI assistants is that they can sometimes be a little too agreeable. Since they’re built to be helpful, they often go along with what the user is saying instead of pushing back or questioning the idea. Sometimes they’ll validate an assumption or give an answer that feels good to hear, even when a different perspective might be more useful. It makes conversations easier, but it also really makes you wonder if AI should challenge us more instead of always trying to be helpful. Should AI assistants prioritize being agreeable, or should they act more like critical thinking partners? (I prefer them being the latter imo)
+
+25m ago
 
 ---
 
@@ -91,11 +99,11 @@ I’ve been looking more into the hardware side of Sovereign AI, and this FT pie
 
 ---
 
-**[AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.](https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/)**
+**[How an unsupported tool-call response could become “perfectly stable” in an LLM benchmark](https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/)**
 
-I have recently been getting into LLM’s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the now renamed lake. It will say the lakes name is indeed incorrect. But if you ask it if Trump’s recent change to Lake Ontario makes sense it will generate 10 paragraphs droning on giving vague statements barely related to the topic and dodging the question entirely. It just makes me so mad how I end up spending the whole night trying to get the AI to answer a basic freaking question. I could ask it “was Martin Luther King jr a good person?” And it will deliberately monologue randomly choosing 10 vaguely related topics on the subject and then generating ten cliche uninformative paragraphs that do not in any way answer the question. It will get somewhat close to answering the question but will never give me a clear meaningful focused answer. It always responds with the same amount of information no matter how short or long the prompt was. If I ask it “Is the sky blue?” It will send me five paragraphs talking about literally anything but my question. Then after that it turns into a debste where I literally have to verbally strongarm the AI into giving a straight answer that isn’t just 95% fluff.
+While reviewing an LLM output-stability benchmark, I found a latent gap between its documented scope and its scoring pipeline. Tool-call responses weren’t supported, but the response parsers could erase them: The OpenAI adapter used message.get("content") or "". A tool-call response with null content would become "". The Anthropic adapter kept only text blocks, dropping tool_use blocks. The scorer excluded explicit errors, but accepted empty strings. Given those samples, the scorer would see identical empty strings: one distinct output, byte-identical results, and mode share 1.0. That would measure the stability of the fallback not the tool calls. To be clear: this was traced in source, not reproduced in a live run. Current request builders never forwarded tools, so existing cases couldn’t reach this path. The maintainer checked all 563 recorded non-error samples: none were empty, and no published benchmark was affected. The fix enforced the documented boundary: reject cases carrying tools, mark empty non-error completions unsupported, and exclude them from successful samples. The broader lesson: preprocessing can erase the behavior you intended to measure. If “unsupported” becomes a valid-looking default, a reassuring score can hide the missing measurement. How do you distinguish unsupported responses, parsing failures, and genuinely empty outputs in your eval pipelines?
 
-3h ago
+5h ago
 
 ---
 
@@ -103,15 +111,7 @@ I have recently been getting into LLM’s more and talking to AI about literally
 
 I've been building an app that I intend to launch soon, using Codex. I'm terrible with frontend, so I've been using Codex heavily there, but I just haven't been impressed. I've heard a lot of good things about Claude, design-wise. I currently use my OpenAI sub for programming and learning. I've heard bad things about Opus 5 and how it talks, but I couldn't care less as long as it outputs good code. I'm not just using it for frontend; programming-wise, overall architecture and backend as well. I've heard really shitty things about Anthropic and their consumer-facing plans. I've also heard that Anthropic gives much more usage; I'm not really sure which is the right answer. So, which is better: Anthropic or OpenAI?
 
-24m ago
-
----
-
-**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/)**
-
-Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
-
-4h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi everyone! I'm conducting this survey as part of my Master's thesis and would 
 
 Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 1h ago
 
 OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 3h ago
 
 Greg Brockman made the claim as the company prepares to release a powerful new model to power ChatGPT.
 
-The Washington Post • 29m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -147,51 +147,47 @@ The Washington Post • 29m ago
 
 Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will "expand access to AI for developers and institutions worldwide."
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[Nvidia Buys Hugging Face in $12.9 Billion Deal](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html)**
+**[Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html)**
 
-The New York Times • 3h ago
-
----
-
-**[Nvidia aims to broaden its AI dominance with Hugging Face deal](https://www.axios.com/2026/09/03/nvidia-hugging-face-ai)**
-
-axios.com • 43m ago
+The New York Times • 11h ago
 
 ---
 
-**[Another big school district bans generative AI, this time for all students](https://www.washingtonpost.com/education/2026/09/03/another-big-school-district-bans-generative-ai-this-time-all-students/)**
+**[Nvidia is driving the AI boom. Good](https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good)**
 
-The action in the Los Angeles Unified School District comes after officials adopted strict screen time limits.
-
-The Washington Post • 8m ago
+The Economist • 13h ago
 
 ---
 
-**[AI ban for students? Not all teachers agree](https://www.usatoday.com/story/news/education/2026/09/03/schools-limit-ai-teachers-mixed-reactions/91592547007/)**
+**[Hikers who relied on AI rescued from California mountain](https://ktla.com/news/california/hikers-rescued-mount-shasta-gemini-ai/)**
 
-NYC's new student AI ban is drawing mixed reactions from educators, with some praising limits and others warning students could fall behind.
-
-USA Today • 48m ago
+KTLA • 3h ago
 
 ---
 
-**[NYC’s AI ban through grade 8 sets stage for rest of US, experts say](https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say)**
+**[3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta - ABC News](https://abcnews.com/US/3-hikers-ai-plan-trip-rescued-after-becoming/story?id=136176177)**
 
-The ban will last for one year and affect 600,000 students.
+Three hikers were rescued on Monday after they became stranded on Mount Shasta near Clear Creek Route.
 
-Al Jazeera • 12m ago
+ABC News - Breaking News, Latest News and Videos • 6h ago
 
 ---
 
-**[Meta opens new AI data center in Kuna, hopes to become "water positive" by 2030](https://idahonews.com/news/local/meta-opens-new-ai-data-center-in-kuna-hopes-to-become-water-positive)**
+**[3 Men Relied on AI to Plan Their Climbing Trip. They Later Became Stranded and Needed Rescuing](https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474)**
 
-Meta’s newest data center is now open and fully operational in Kuna, serving traffic on Meta’s platforms worldwide.
+Three climbers were rescued after summiting Mount Shasta because they used AI to plan their climbing route.
 
-KBOI • 26m ago
+People.com • 44m ago
+
+---
+
+**[Watch Alger EVP: Still Massive Opportunity for AI](https://www.bloomberg.com/news/videos/2026-09-03/alger-evp-still-massive-opportunity-for-ai-video)**
+
+Bloomberg.com • 58m ago
 
 ---
 
@@ -201,7 +197,7 @@ KBOI • 26m ago
 
 **[How accurate have Ed Zitron's AI skeptic predictions been?](https://news.ycombinator.com/item?id=49526069)**
 
-⬆️ 864 • 💬 1033 • 2d ago • [danluu.com](https://danluu.com/zitron/)
+⬆️ 864 • 💬 1035 • 2d ago • [danluu.com](https://danluu.com/zitron/)
 
 ---
 
@@ -209,7 +205,7 @@ KBOI • 26m ago
 
 Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.
 
-⬆️ 503 • 💬 244 • 1d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+⬆️ 503 • 💬 245 • 1d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 
 ---
 
@@ -223,7 +219,7 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 **[Mamdani bans AI in NYC schools](https://news.ycombinator.com/item?id=49542443)**
 
-⬆️ 206 • 💬 163 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+⬆️ 208 • 💬 163 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -239,7 +235,7 @@ If AI is so great, why are the only new tech giants GenAI companies?
 
 Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...
 
-⬆️ 188 • 💬 127 • 1d ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
+⬆️ 190 • 💬 128 • 1d ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 
 ---
 
@@ -247,7 +243,7 @@ Quasar sets a new benchmark for European AI, outperforming comparable European m
 
 A Safari extension that pulls videos YouTube labels “Made with AI” out of your feed.
 
-⬆️ 180 • 💬 81 • 1d ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
+⬆️ 180 • 💬 81 • 2d ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
 
 ---
 
@@ -255,7 +251,15 @@ A Safari extension that pulls videos YouTube labels “Made with AI” out of yo
 
 How a mistake of less than half a millimeter in a single part nearly brought down the world’s largest passenger aircraft.
 
-⬆️ 172 • 💬 107 • 1d ago • [Medium](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+⬆️ 173 • 💬 108 • 1d ago • [Medium](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+
+---
+
+**[Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://news.ycombinator.com/item?id=49544762)**
+
+Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic comeback against the world’s premier artificial intelligence Go engine, K
+
+⬆️ 166 • 💬 46 • 22h ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
 
 ---
 
@@ -264,14 +268,6 @@ How a mistake of less than half a millimeter in a single part nearly brought dow
 New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.
 
 ⬆️ 163 • 💬 193 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
-
----
-
-**[Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://news.ycombinator.com/item?id=49544762)**
-
-Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic comeback against the world’s premier artificial intelligence Go engine, K
-
-⬆️ 117 • 💬 27 • 20h ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
 
 ---
 
@@ -315,7 +311,7 @@ This week, Donald Trump posted to Truth Social claiming that opponents to AI dat
 
 📺 Stateside Podcast
 
-👁️ 911 • 👍 101 • 💬 7 • ⏱️ 2:10 • 2h ago
+👁️ 911 • 👍 101 • 💬 7 • ⏱️ 2:10 • 4h ago
 
 ---
 
@@ -325,7 +321,7 @@ A bunch of new models... Join the free newsletter here: https://futuretools.io/n
 
 📺 Matt Wolfe
 
-👁️ 72K • 👍 1K • 💬 186 • ⏱️ 26:29 • 19h ago
+👁️ 72K • 👍 1K • 💬 186 • ⏱️ 26:29 • 21h ago
 
 ---
 
@@ -345,7 +341,7 @@ Alarms are being sounded again about the risks of artificial intelligence after 
 
 📺 PBS NewsHour
 
-👁️ 69K • 👍 534 • ⏱️ 6:31 • 2d ago
+👁️ 69K • 👍 534 • ⏱️ 6:31 • 3d ago
 
 ---
 
@@ -355,7 +351,7 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 Secular Talk
 
-👁️ 224K • 👍 10K • 💬 3K • ⏱️ 9:18 • 1d ago
+👁️ 224K • 👍 10K • 💬 3K • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -652,7 +648,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 20.3k • 🔱 2.4k • 54m ago
+⭐ 20.3k • 🔱 2.4k • 2h ago
 
 ---
 
@@ -662,7 +658,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.1k • 🔱 496 • 2h ago
+⭐ 4.1k • 🔱 496 • 4h ago
 
 ---
 
@@ -672,7 +668,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 430 • 10h ago
+⭐ 3.5k • 🔱 430 • 12h ago
 
 ---
 
@@ -692,7 +688,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `HTML`
 
-⭐ 3.3k • 🔱 213 • 8h ago
+⭐ 3.3k • 🔱 213 • 10h ago
 
 ---
 
@@ -712,7 +708,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 3.0k • 🔱 191 • 12h ago
+⭐ 3.0k • 🔱 191 • 14h ago
 
 ---
 
@@ -732,7 +728,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.3k • 🔱 218 • 21h ago
+⭐ 2.3k • 🔱 218 • 23h ago
 
 ---
 
@@ -742,7 +738,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 12h ago
+⭐ 1.9k • 🔱 1.3k • 14h ago
 
 ---
 
