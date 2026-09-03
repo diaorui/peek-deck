@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-03T15:55:32.552343+00:00'
+updated: '2026-09-03T19:10:22.408122+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 03, 2026 at 15:55 UTC  
+**Last Updated:** September 03, 2026 at 19:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,7 +54,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 **[TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3](https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -62,7 +62,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:
 
-🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 1d ago
+🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 2d ago
 
 ---
 
@@ -86,7 +86,7 @@ Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs 
 
 I have been working on different robotics task mainly in Pybullet. Complexity of Isaac Sim has kept me from experimenting with it but I finally finished my first successful reinforcement learning script using it. Getting the settings right so I could observe the trainings in windowed mode with my laptop 3070 gpu took I while but I managed to get it working well enough to troubleshoot some early issues I noticed through visual inspection. I gave the PPO full control of my robot's controller, not the joint angle outputs, meaning it had to figure out a way to climb the ramps using the directional controller inputs and body adjustments like pitch and height. The training took about 45 minutes with my RTX 3070 mobile GPU vs 1 hour and 45 minutes using cpu with Pybullet. I am now working on full locomotion simulation, again with my custom robots, its a bit more involved than I expected but I am hoping in the end I can come up with my own full locomotion training script and load the model to my actual robot to control it. I also share my tutorial scripts with my videos on youtube, if you are interested in watching the video for this one you can find it with the link below: https://youtu.be/0x5BBosrq-E You can also download the simulation script from my github repository with the link below. https://github.com/serdarselimys/HexaDogZBD-IsaacSim-RL If you are interested in the real 3D printed robot, you can fine info about it from the video link below. https://youtu.be/qflyEQOJObM
 
-2d ago
+3d ago
 
 ---
 
@@ -110,7 +110,7 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 **[New probabilistic method improves how robots localize and map familiar objects](https://techxplore.com/news/2026-09-probabilistic-method-robots-localize-familiar.html)**
 
-Tech Xplore • 15m ago
+Tech Xplore • 3h ago
 
 ---
 
@@ -118,7 +118,7 @@ Tech Xplore • 15m ago
 
 Vision-language-action models, explained with a minimum of math and jargon.
 
-understandingai.org • 23h ago
+understandingai.org • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ understandingai.org • 23h ago
 
 On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 
-TechCrunch • 17h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -134,13 +134,13 @@ TechCrunch • 17h ago
 
 UBS says "we are now at the precipice" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions.
 
-Business Insider • 1h ago
+Business Insider • 4h ago
 
 ---
 
 **[QCOM's Japan Robotics Outlay Targets Edge AI: Reason to Buy the Stock?](https://news.google.com/rss/articles/CBMinAFBVV95cUxOYncxTVBVTm91TmVpb0dSUE5sTk5ubnRHWkgxLURPd25DRElxRDNTY1lmbFJwX3FUZkc1UHp1YnJheHFQTUlLMzZMTlFzQ0g3ZjBjYkVaZGdoNjBPYWVvbEZpU3hCRGVabTlTRDlvemFiWWx4cjI5WnVjVVhmemdmeG5WTmhxQ0VkZDZBRHgxdHV2Q1VQQUNKWXVNXzM?oc=5)**
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo Finance • 58m ago
 
 At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
 
-KSBY News • 21h ago
+KSBY News • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ KSBY News • 21h ago
 
 ROBOTIS’ OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ Interesting Engineering • 22h ago
 
 Video. AI-powered robots demonstrate delivery, factory and household tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence.
 
-Euronews.com • 7h ago
+Euronews.com • 10h ago
 
 ---
 
@@ -180,7 +180,7 @@ WSVN • 1d ago
 
 AI-powered robots briefly took over the European Parliament this week to showcase the continent's creators as the bloc races to compete in a field dominated by China and the United States."Robotics is...
 
-yahoo.com • 1h ago
+yahoo.com • 5h ago
 
 ---
 
@@ -188,23 +188,23 @@ yahoo.com • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[Hugging Face Pushes Deeper Into Robotics With MicroDuck](https://www.youtube.com/watch?v=LF7GmLKgvcc)**
-
-Hugging Face unveiled MicroDuck, the company's new open-source robot that can walk, talk, and roller-skate. Hugging Face ...
-
-📺 Bloomberg Tech
-
-👁️ 111K • 👍 796 • 💬 87 • ⏱️ 7:51 • 6d ago
-
----
-
 **[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
 
 Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
 
 📺 CNET
 
-👁️ 70K • 👍 347 • 💬 34 • ⏱️ 1:49 • 4d ago
+👁️ 72K • 👍 353 • 💬 35 • ⏱️ 1:49 • 4d ago
+
+---
+
+**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
+
+Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
+
+📺 TESLA CAR WORLD
+
+👁️ 133K • 👍 1K • 💬 201 • ⏱️ 12:56 • 3d ago
 
 ---
 
@@ -214,17 +214,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 AP Archive
 
-👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 3d ago
-
----
-
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
-
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
-
-📺 Associated Press
-
-👁️ 124K • 👍 2K • 💬 880 • ⏱️ 1:39 • 2d ago
+👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 4d ago
 
 ---
 
@@ -234,27 +224,7 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 📺 China.org.cn
 
-👁️ 202K • 👍 1K • 💬 58 • ⏱️ 0:17 • 6d ago
-
----
-
-**[This $400 Robot Duck Might Be a Bigger Deal Than It Looks (Explaining the MicroDuck Hype)](https://www.youtube.com/watch?v=7nNbr_Fg-Y8)**
-
-Hugging Face's $400 MicroDuck robot became a surprise hit almost overnight, reportedly pulling in more than 10000 preorders in ...
-
-📺 Kalil 4.0
-
-👁️ 11K • 👍 145 • 💬 15 • ⏱️ 8:56 • 21h ago
-
----
-
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
-
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
-
-📺 AP Archive
-
-👁️ 120K • 👍 316 • 💬 200 • ⏱️ 0:53 • 3d ago
+👁️ 205K • 👍 1K • 💬 58 • ⏱️ 0:17 • 6d ago
 
 ---
 
@@ -264,7 +234,7 @@ today i checked in on the robot getting destroy at stuff like the robot olympics
 
 📺 Kwite
 
-👁️ 316K • 👍 10K • 💬 994 • ⏱️ 14:26 • 6d ago
+👁️ 317K • 👍 10K • 💬 994 • ⏱️ 14:26 • 6d ago
 
 ---
 
@@ -274,7 +244,27 @@ Apple's first home robot concept explores a new generation of smart household te
 
 📺 Carros Show
 
-👁️ 126K • 👍 876 • 💬 71 • ⏱️ 1:04:00 • 6d ago
+👁️ 127K • 👍 883 • 💬 72 • ⏱️ 1:04:00 • 6d ago
+
+---
+
+**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
+
+(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
+
+📺 AP Archive
+
+👁️ 121K • 👍 318 • 💬 200 • ⏱️ 0:53 • 4d ago
+
+---
+
+**[Humanoid Robots Are Racing Like Humans?! 🤖🏃](https://www.youtube.com/watch?v=EnAwsIQzvAc)**
+
+Humanoid robots are taking on a real-world racing challenge at the 2026 World Humanoid Robot Games in Beijing! They ...
+
+📺 BeMyWay
+
+👁️ 66K • 💬 45 • ⏱️ 0:57 • 5d ago
 
 ---
 
@@ -284,7 +274,17 @@ A robot accidentally launched a trash bag into the wrong car, but the innocent g
 
 📺 Tum Tum
 
-👁️ 350K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
+👁️ 352K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
+
+---
+
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
+
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
+
+📺 NBC News
+
+👁️ 37K • 👍 241 • 💬 94 • ⏱️ 6:47 • 5d ago
 
 ---
 
